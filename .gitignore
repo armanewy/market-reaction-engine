@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+artifacts/*.joblib
+artifacts/*.csv
+artifacts/*.json
+artifacts/*.md
+!artifacts/.gitkeep
+data/prices/
+data/events/
+.DS_Store

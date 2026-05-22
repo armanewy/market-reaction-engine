@@ -1,0 +1,2 @@
+event_id,ticker,event_time,event_type,summary,event_subtype,source_type,source_url,release_session,expectedness,surprise_direction,surprise_magnitude,materiality,sector_benchmark,notes
+example_001,AAPL,2024-01-01T16:10:00,earnings,"Replace this row with a real point-in-time event summary.",quarterly_results,press_release,https://example.com,after_close,unknown,unknown,unknown,0.5,XLK,"Do not label using later price reaction."
