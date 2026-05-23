@@ -4,6 +4,7 @@ import pandas as pd
 
 from mre.corpus import normalize_domain
 from mre.government_contracts import (
+    build_government_contract_human_audit,
     build_government_contract_parser_gold_template,
     build_government_contract_source_documents,
     enrich_government_contract_context,
@@ -276,6 +277,46 @@ def test_validate_government_contract_parser_rejects_unreviewed_gold_template(tm
     assert set(errors["status"]) == {"gold_not_reviewed"}
 
 
+def test_human_audit_marks_usaspending_only_rows_not_model_eligible(tmp_path):
+    mapping = write_government_contract_recipient_ticker_map(tmp_path / "map.csv")
+    manifest = tmp_path / "sources.csv"
+    pd.DataFrame(
+        [
+            _source_row(
+                source_type="usaspending_api",
+                release_session="unknown",
+                source_url="https://www.usaspending.gov/award/CONT_AWD_TEST",
+            )
+        ]
+    ).to_csv(manifest, index=False)
+    _, features, events = parse_government_contract_manifest(
+        manifest,
+        tmp_path / "facts.csv",
+        tmp_path / "features.csv",
+        tmp_path / "events.csv",
+    )
+
+    audit, gold, mapping_errors, funded_errors, audited_events, summary = build_government_contract_human_audit(
+        pd.read_csv(manifest),
+        features,
+        mapping,
+        events=events,
+        target_events=1,
+    )
+
+    assert len(audit) == 1
+    assert audit.loc[0, "recipient_mapping_correct_flag"] == True
+    assert audit.loc[0, "timestamp_suitable_flag"] == False
+    assert audit.loc[0, "public_awareness_evidence_status"] == "usaspending_record_only_not_market_timestamp"
+    assert audit.loc[0, "model_eligible_after_audit"] == False
+    assert audit.loc[0, "review_status"] == "rejected"
+    assert set(gold["gold_review_status"]) == {"reviewed"}
+    assert mapping_errors.empty
+    assert funded_errors.empty
+    assert audited_events.loc[0, "review_status"] == "rejected"
+    assert summary["verdict"] == "timestamp/public-awareness insufficient"
+
+
 def test_enrich_government_contract_context_computes_ratios_and_runup(tmp_path):
     events = pd.DataFrame(
         [
@@ -356,6 +397,33 @@ def test_readiness_summary_can_be_model_ready_only_after_non_modeling_gates():
     assert summary["decision"] == "model-ready"
     assert summary["gates"]["actual_funded_award_events_60"] is True
     assert summary["likely_oos_predictions_min_train"] == 60
+
+
+def test_readiness_summary_blocks_when_public_timestamp_gate_fails():
+    rows = []
+    for i in range(100):
+        rows.append(
+            {
+                "event_id": f"E{i}",
+                "ticker": f"T{i % 10}",
+                "review_status": "approved",
+                "release_session": "unknown",
+                "actual_funded_award_flag": True,
+                "ceiling_only_flag": False,
+                "modification_flag": False,
+                "option_exercise_flag": False,
+                "recipient_mapping_confidence": 0.95,
+                "award_amount_pct_market_cap": 0.05,
+                "obligated_amount_pct_market_cap": 0.04,
+                "pre_event_market_adjusted_return_20d": 0.01,
+                "company_size_bucket": "small_cap" if i < 35 else "large_cap",
+            }
+        )
+    parser_errors = pd.DataFrame({"status": ["ok"] * 120})
+    summary = government_contract_readiness_summary(pd.DataFrame(rows), min_train=40, parser_errors=parser_errors)
+    assert summary["gates"]["parser_audit_pass"] is True
+    assert summary["gates"]["clear_event_timestamps"] is False
+    assert summary["decision"] == "timestamp/public-awareness insufficient"
 
 
 def test_source_builder_merges_paginated_usaspending_rows(monkeypatch, tmp_path):

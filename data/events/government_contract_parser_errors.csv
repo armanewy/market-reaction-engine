@@ -1,541 +1,541 @@
-event_id,fact_name,expected_value,unit,tolerance,expected_present,gold_review_status,gold_bucket,reviewer_notes,actual_value,abs_error,status,confidence,evidence_text
-government_contract_UNMAPPED_W900KK21F0034,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0034,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0034,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0034,award_amount,1890154.84,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0034,obligated_amount,1890154.84,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0034,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0034,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0034,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0034,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,award_amount,13943566.27,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,obligated_amount,13943566.27,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0007,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,award_amount,3094998.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,obligated_amount,3094998.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0171,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,award_amount,7868792.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,obligated_amount,7868792.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9990,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,award_amount,17070905.23,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,obligated_amount,17070905.23,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0198,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,award_amount,1925823.8,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,obligated_amount,1925823.8,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0051,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,award_amount,4707753.95,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,obligated_amount,4707753.95,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F5074,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,award_amount,2814123.15,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,obligated_amount,2814123.15,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0149,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,award_amount,3516412.8,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,obligated_amount,3516412.8,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0368,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,award_amount,6783656.56,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,obligated_amount,6783656.56,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0001,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,award_amount,3677536.08,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,obligated_amount,3677536.08,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833520F1602,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,award_amount,1675158.06,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,obligated_amount,1675158.06,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W900KK21F0080,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,award_amount,40154124.05,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,obligated_amount,40154124.05,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_H9240821F0012,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,government_contract_event_type,new_contract_award,category,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,mapped_ticker,,text,,False,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,award_amount,4219768.0,usd,1000000.0,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,obligated_amount,4219768.0,usd,1000000.0,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,actual_funded_award_flag,True,boolean,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,ceiling_only_flag,False,boolean,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,option_exercise_flag,False,boolean,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_W91CRB21C5012,modification_flag,False,boolean,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,government_contract_event_type,new_contract_award,category,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,mapped_ticker,,text,,False,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,award_amount,118674776.54,usd,1000000.0,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,obligated_amount,118674776.54,usd,1000000.0,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,actual_funded_award_flag,True,boolean,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,ceiling_only_flag,False,boolean,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,option_exercise_flag,False,boolean,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0002421C4478,modification_flag,False,boolean,,True,needs_human_review,ambiguous_mapping,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,mapped_ticker,BA,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,recipient_mapping_confidence,0.94,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,award_amount,218947211.31,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,obligated_amount,218947211.31,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BA_N6893623F0237,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,mapped_ticker,BAH,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,award_amount,45543496.05,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,obligated_amount,45543496.05,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_FA807523F0041,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,mapped_ticker,CACI,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,recipient_mapping_confidence,0.94,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,award_amount,55258266.27,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,obligated_amount,55258266.27,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_N6523621F0072,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,government_contract_event_type,option_exercise,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,mapped_ticker,CACI,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,recipient_mapping_confidence,0.94,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,award_amount,25342748.75,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,obligated_amount,25342748.75,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,option_exercise_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_70RCSA21FC0000013,modification_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,mapped_ticker,GD,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,award_amount,837851537.24,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,obligated_amount,837851537.24,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_47QFCA21F0051,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,mapped_ticker,GD,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,award_amount,1091238896.25,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,obligated_amount,1091238896.25,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W56HZV22C0012,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,mapped_ticker,GD,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,award_amount,114848674.12,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,obligated_amount,114848674.12,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_N0002425C6401,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,mapped_ticker,GD,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,award_amount,321020000.0,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,obligated_amount,321020000.0,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_W912CH25C0055,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,mapped_ticker,HII,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,award_amount,124649127.62,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,obligated_amount,124649127.62,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002421C2443,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,government_contract_event_type,contract_modification,category,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,mapped_ticker,HII,text,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,award_amount,82149777.0,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,obligated_amount,82149777.0,usd,1000000.0,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,actual_funded_award_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,ceiling_only_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,option_exercise_flag,False,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_HII_N0002425C4229,modification_flag,True,boolean,,True,needs_human_review,modifications_options,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,mapped_ticker,,text,,False,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,award_amount,37270654.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,contract_ceiling,37270654.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_80JSC022DA023,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,mapped_ticker,BAH,text,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,award_amount,237889498.62,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,contract_ceiling,237889498.62,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80TECH22DA002,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,mapped_ticker,BAH,text,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,award_amount,16071880.73,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,contract_ceiling,16071880.73,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BAH_80ARC024DA001,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,mapped_ticker,CACI,text,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,recipient_mapping_confidence,0.94,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,award_amount,127385569.04,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,contract_ceiling,127385569.04,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_CACI_80JSC023DA010,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,mapped_ticker,GD,text,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,award_amount,1900000.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,contract_ceiling,1900000.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_68HERH21D0014,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,mapped_ticker,GD,text,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,award_amount,1000000.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,contract_ceiling,1000000.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_GD_140D0424D0001,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,mapped_ticker,LDOS,text,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,recipient_mapping_confidence,0.94,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,award_amount,906564739.47,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,contract_ceiling,906564739.47,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LDOS_80TECH21DA002,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,mapped_ticker,LUNR,text,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,recipient_mapping_confidence,0.94,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,award_amount,30000000.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,contract_ceiling,30000000.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_LUNR_80JSC024DA020,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,government_contract_event_type,idiq_vehicle_award,category,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,mapped_ticker,SAIC,text,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,recipient_mapping_confidence,0.94,ratio,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,award_amount,123086251.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,contract_ceiling,123086251.0,usd,1000000.0,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,actual_funded_award_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,ceiling_only_flag,True,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,option_exercise_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_SAIC_80JSC024DA019,modification_flag,False,boolean,,True,needs_human_review,idiq_ceiling,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,government_contract_event_type,sbir_award,category,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,mapped_ticker,AVAV,text,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,award_amount,5566087.49,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,obligated_amount,5566087.49,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,actual_funded_award_flag,True,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,ceiling_only_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,option_exercise_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833523F0252,modification_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,government_contract_event_type,sbir_award,category,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,mapped_ticker,AVAV,text,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,award_amount,16098922.0,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,obligated_amount,16098922.0,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,actual_funded_award_flag,True,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,ceiling_only_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,option_exercise_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0020,modification_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,government_contract_event_type,sbir_award,category,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,mapped_ticker,AVAV,text,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,award_amount,5548479.0,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,obligated_amount,5548479.0,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,actual_funded_award_flag,True,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,ceiling_only_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,option_exercise_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833524F0079,modification_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,government_contract_event_type,sbir_award,category,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,mapped_ticker,AVAV,text,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,recipient_mapping_confidence,0.95,ratio,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,award_amount,2812074.0,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,obligated_amount,2812074.0,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,actual_funded_award_flag,True,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,ceiling_only_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,option_exercise_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_AVAV_N6833526F0005,modification_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,government_contract_event_type,sbir_award,category,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,mapped_ticker,BKSY,text,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,recipient_mapping_confidence,0.94,ratio,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,award_amount,1499000.0,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,obligated_amount,1499000.0,usd,1000000.0,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,actual_funded_award_flag,True,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,ceiling_only_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,option_exercise_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_BKSY_FA945322CA020,modification_flag,False,boolean,,True,needs_human_review,sbir_sttr_ota,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,award_amount,4661330.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,obligated_amount,4661330.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0379,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,award_amount,4937331.1,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,obligated_amount,4937331.1,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F0886,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,award_amount,4066842.8,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,obligated_amount,4066842.8,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0391,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,award_amount,2644311.7,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,obligated_amount,2644311.7,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0392,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,award_amount,3121819.36,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,obligated_amount,3121819.36,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0393,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,award_amount,11794811.2,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,obligated_amount,11794811.2,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0130,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,award_amount,1666814.49,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,obligated_amount,1666814.49,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0518,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,award_amount,212535948.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,obligated_amount,212535948.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA862621F0023,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,award_amount,7826390.99,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,obligated_amount,7826390.99,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9991,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,award_amount,1637460.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,obligated_amount,1637460.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0527,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,award_amount,2059281.41,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,obligated_amount,2059281.41,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6893621F0596,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,award_amount,7834205.19,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,obligated_amount,7834205.19,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3000,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,award_amount,5902697.76,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,obligated_amount,5902697.76,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5005421F3002,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,award_amount,284074276.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,obligated_amount,284074276.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001921F0736,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,award_amount,330007223.13,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,obligated_amount,330007223.13,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N0001922F2598,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,award_amount,15495831.34,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,obligated_amount,15495831.34,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6600121F1324,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,award_amount,6087301.24,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,obligated_amount,6087301.24,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6523621F0881,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,award_amount,8082398.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,obligated_amount,8082398.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_FA865021F2006,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,award_amount,4959444.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,obligated_amount,4959444.0,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N5523621F9994,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,award_amount,4520995.68,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,obligated_amount,4520995.68,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6833521F0483,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,government_contract_event_type,task_order_award,category,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,mapped_ticker,,text,,False,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,recipient_mapping_confidence,0.0,ratio,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,award_amount,4749948.76,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,obligated_amount,4749948.76,usd,1000000.0,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,actual_funded_award_flag,True,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,ceiling_only_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,option_exercise_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
-government_contract_UNMAPPED_N6279321F0003,modification_flag,False,boolean,,True,needs_human_review,task_orders,Machine-proposed gold row; human review required before parser audit can pass.,,,gold_not_reviewed,,
+event_id,fact_name,expected_value,actual_value,unit,tolerance,abs_error,status,confidence,evidence_text
+government_contract_LMT_N0001923C0003,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_N0001923C0003,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_N0001923C0003,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001923C0003,award_amount,24499786640.0,24499786640.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001923C0003,obligated_amount,24499786640.0,24499786640.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001923C0003,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001923C0003,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001923C0003,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001923C0003,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q24C0022,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_W31P4Q24C0022,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_W31P4Q24C0022,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q24C0022,award_amount,7825572872.03,7825572872.03,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q24C0022,obligated_amount,7825572872.03,7825572872.03,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q24C0022,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q24C0022,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q24C0022,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q24C0022,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002423C2307,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_HII_N0002423C2307,mapped_ticker,HII,HII,text,0.0,,ok,0.9,HII
+government_contract_HII_N0002423C2307,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_HII_N0002423C2307,award_amount,6948190150.83,6948190150.83,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_HII_N0002423C2307,obligated_amount,6948190150.83,6948190150.83,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_HII_N0002423C2307,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002423C2307,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002423C2307,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002423C2307,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001924C0039,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_N0001924C0039,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_N0001924C0039,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001924C0039,award_amount,6179610861.0,6179610861.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001924C0039,obligated_amount,6179610861.0,6179610861.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001924C0039,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001924C0039,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001924C0039,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001924C0039,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_FA868224CB001,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_FA868224CB001,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_FA868224CB001,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_FA868224CB001,award_amount,5694463081.22,5694463081.22,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_FA868224CB001,obligated_amount,5694463081.22,5694463081.22,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_FA868224CB001,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_FA868224CB001,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_FA868224CB001,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_FA868224CB001,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_N0002423C2305,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_GD_N0002423C2305,mapped_ticker,GD,GD,text,0.0,,ok,0.9,GD
+government_contract_GD_N0002423C2305,recipient_mapping_confidence,0.9,0.9,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_GD_N0002423C2305,award_amount,5027510800.0,5027510800.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_N0002423C2305,obligated_amount,5027510800.0,5027510800.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_N0002423C2305,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_N0002423C2305,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_N0002423C2305,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_N0002423C2305,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_HQ085621C0001,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_HQ085621C0001,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_HQ085621C0001,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_HQ085621C0001,award_amount,4603488929.18,4603488929.18,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_HQ085621C0001,obligated_amount,4603488929.18,4603488929.18,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_HQ085621C0001,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_HQ085621C0001,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_HQ085621C0001,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_HQ085621C0001,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_W58RGZ21C0015,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_BA_W58RGZ21C0015,mapped_ticker,BA,BA,text,0.0,,ok,0.9,BA
+government_contract_BA_W58RGZ21C0015,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BA_W58RGZ21C0015,award_amount,3472726821.55,3472726821.55,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_W58RGZ21C0015,obligated_amount,3472726821.55,3472726821.55,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_W58RGZ21C0015,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_W58RGZ21C0015,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_W58RGZ21C0015,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_W58RGZ21C0015,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002421C2106,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_HII_N0002421C2106,mapped_ticker,HII,HII,text,0.0,,ok,0.9,HII
+government_contract_HII_N0002421C2106,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_HII_N0002421C2106,award_amount,3368736971.67,3368736971.67,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_HII_N0002421C2106,obligated_amount,3368736971.67,3368736971.67,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_HII_N0002421C2106,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002421C2106,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002421C2106,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002421C2106,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0002422C5500,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_RTX_N0002422C5500,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_N0002422C5500,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_N0002422C5500,award_amount,3265755418.12,3265755418.12,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_N0002422C5500,obligated_amount,3265755418.12,3265755418.12,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_N0002422C5500,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0002422C5500,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0002422C5500,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0002422C5500,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001925C0070,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_N0001925C0070,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_N0001925C0070,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001925C0070,award_amount,3130421242.0,3130421242.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001925C0070,obligated_amount,3130421242.0,3130421242.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001925C0070,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001925C0070,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001925C0070,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001925C0070,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_N0001924C0025,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_BA_N0001924C0025,mapped_ticker,BA,BA,text,0.0,,ok,0.9,BA
+government_contract_BA_N0001924C0025,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BA_N0001924C0025,award_amount,2739718834.0,2739718834.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_N0001924C0025,obligated_amount,2739718834.0,2739718834.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_N0001924C0025,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_N0001924C0025,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_N0001924C0025,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_N0001924C0025,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA867523C0037,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_RTX_FA867523C0037,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_FA867523C0037,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_FA867523C0037,award_amount,2512789038.4,2512789038.4,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_FA867523C0037,obligated_amount,2512789038.4,2512789038.4,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_FA867523C0037,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA867523C0037,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA867523C0037,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA867523C0037,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_N0002424C2301,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_GD_N0002424C2301,mapped_ticker,GD,GD,text,0.0,,ok,0.9,GD
+government_contract_GD_N0002424C2301,recipient_mapping_confidence,0.88,0.88,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_GD_N0002424C2301,award_amount,2501740929.0,2501740929.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_N0002424C2301,obligated_amount,2501740929.0,2501740929.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_N0002424C2301,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_N0002424C2301,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_N0002424C2301,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_N0002424C2301,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_NOC_HQ085621C0003,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_NOC_HQ085621C0003,mapped_ticker,NOC,NOC,text,0.0,,ok,0.9,NOC
+government_contract_NOC_HQ085621C0003,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_NOC_HQ085621C0003,award_amount,2395436919.18,2395436919.18,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_NOC_HQ085621C0003,obligated_amount,2395436919.18,2395436919.18,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_NOC_HQ085621C0003,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_NOC_HQ085621C0003,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_NOC_HQ085621C0003,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_NOC_HQ085621C0003,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA863423F0048,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_BA_FA863423F0048,mapped_ticker,BA,BA,text,0.0,,ok,0.9,BA
+government_contract_BA_FA863423F0048,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BA_FA863423F0048,award_amount,3933015048.3,3933015048.3,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_FA863423F0048,obligated_amount,3933015048.3,3933015048.3,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_FA863423F0048,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA863423F0048,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA863423F0048,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA863423F0048,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q24F0165,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_LMT_W31P4Q24F0165,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_W31P4Q24F0165,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q24F0165,award_amount,2790109221.89,2790109221.89,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q24F0165,obligated_amount,2790109221.89,2790109221.89,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q24F0165,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q24F0165,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q24F0165,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q24F0165,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_FA820523F0501,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_LMT_FA820523F0501,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_FA820523F0501,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_FA820523F0501,award_amount,2682618797.8,2682618797.8,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_FA820523F0501,obligated_amount,2682618797.8,2682618797.8,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_FA820523F0501,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_FA820523F0501,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_FA820523F0501,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_FA820523F0501,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23F0024,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_LMT_W31P4Q23F0024,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_W31P4Q23F0024,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23F0024,award_amount,2488824240.67,2488824240.67,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23F0024,obligated_amount,2488824240.67,2488824240.67,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23F0024,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23F0024,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23F0024,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23F0024,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA863422F0035,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_BA_FA863422F0035,mapped_ticker,BA,BA,text,0.0,,ok,0.9,BA
+government_contract_BA_FA863422F0035,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BA_FA863422F0035,award_amount,2039776433.36,2039776433.36,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_FA863422F0035,obligated_amount,2039776433.36,2039776433.36,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_FA863422F0035,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA863422F0035,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA863422F0035,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA863422F0035,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23F0006,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_LMT_W31P4Q23F0006,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_W31P4Q23F0006,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23F0006,award_amount,1610114676.7,1610114676.7,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23F0006,obligated_amount,1610114676.7,1610114676.7,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23F0006,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23F0006,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23F0006,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23F0006,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_N0001922F0030,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_BA_N0001922F0030,mapped_ticker,BA,BA,text,0.0,,ok,0.9,BA
+government_contract_BA_N0001922F0030,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BA_N0001922F0030,award_amount,1553797869.15,1553797869.15,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_N0001922F0030,obligated_amount,1553797869.15,1553797869.15,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_N0001922F0030,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_N0001922F0030,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_N0001922F0030,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_N0001922F0030,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_47QFCA21F0018,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_BAH_47QFCA21F0018,mapped_ticker,BAH,BAH,text,0.0,,ok,0.9,BAH
+government_contract_BAH_47QFCA21F0018,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BAH_47QFCA21F0018,award_amount,1379603153.12,1379603153.12,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BAH_47QFCA21F0018,obligated_amount,1379603153.12,1379603153.12,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BAH_47QFCA21F0018,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_47QFCA21F0018,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_47QFCA21F0018,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_47QFCA21F0018,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_36C10B21N10070021,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_BAH_36C10B21N10070021,mapped_ticker,BAH,BAH,text,0.0,,ok,0.9,BAH
+government_contract_BAH_36C10B21N10070021,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BAH_36C10B21N10070021,award_amount,1365285599.63,1365285599.63,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BAH_36C10B21N10070021,obligated_amount,1365285599.63,1365285599.63,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BAH_36C10B21N10070021,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_36C10B21N10070021,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_36C10B21N10070021,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_36C10B21N10070021,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA865622FA071,government_contract_event_type,task_order_award,task_order_award,category,0.0,,ok,0.88,task/delivery order language
+government_contract_RTX_FA865622FA071,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_FA865622FA071,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_FA865622FA071,award_amount,1278745212.76,1278745212.76,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_FA865622FA071,obligated_amount,1278745212.76,1278745212.76,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_FA865622FA071,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA865622FA071,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA865622FA071,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA865622FA071,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001923F0002,government_contract_event_type,contract_modification,contract_modification,category,0.0,,ok,0.88,modification language
+government_contract_LMT_N0001923F0002,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_N0001923F0002,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001923F0002,award_amount,2198479923.74,2198479923.74,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001923F0002,obligated_amount,2198479923.74,2198479923.74,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0001923F0002,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001923F0002,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001923F0002,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0001923F0002,modification_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_W56HZV22C0012,government_contract_event_type,contract_modification,contract_modification,category,0.0,,ok,0.88,modification language
+government_contract_GD_W56HZV22C0012,mapped_ticker,GD,GD,text,0.0,,ok,0.9,GD
+government_contract_GD_W56HZV22C0012,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_GD_W56HZV22C0012,award_amount,1091238896.25,1091238896.25,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_W56HZV22C0012,obligated_amount,1091238896.25,1091238896.25,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_W56HZV22C0012,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_W56HZV22C0012,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_W56HZV22C0012,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_W56HZV22C0012,modification_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LDOS_693KA721C00014,government_contract_event_type,contract_modification,contract_modification,category,0.0,,ok,0.88,modification language
+government_contract_LDOS_693KA721C00014,mapped_ticker,LDOS,LDOS,text,0.0,,ok,0.9,LDOS
+government_contract_LDOS_693KA721C00014,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LDOS_693KA721C00014,award_amount,848580356.59,848580356.59,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LDOS_693KA721C00014,obligated_amount,848580356.59,848580356.59,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LDOS_693KA721C00014,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LDOS_693KA721C00014,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LDOS_693KA721C00014,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LDOS_693KA721C00014,modification_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_47QFCA21F0051,government_contract_event_type,contract_modification,contract_modification,category,0.0,,ok,0.88,modification language
+government_contract_GD_47QFCA21F0051,mapped_ticker,GD,GD,text,0.0,,ok,0.9,GD
+government_contract_GD_47QFCA21F0051,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_GD_47QFCA21F0051,award_amount,837851537.24,837851537.24,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_47QFCA21F0051,obligated_amount,837851537.24,837851537.24,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_47QFCA21F0051,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_47QFCA21F0051,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_47QFCA21F0051,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_47QFCA21F0051,modification_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_H9224122F0002,government_contract_event_type,contract_extension,contract_extension,category,0.0,,ok,0.84,extension language
+government_contract_BA_H9224122F0002,mapped_ticker,BA,BA,text,0.0,,ok,0.9,BA
+government_contract_BA_H9224122F0002,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BA_H9224122F0002,award_amount,780361826.0,780361826.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_H9224122F0002,obligated_amount,780361826.0,780361826.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_H9224122F0002,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_H9224122F0002,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_H9224122F0002,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_H9224122F0002,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0002422C5400,government_contract_event_type,contract_modification,contract_modification,category,0.0,,ok,0.88,modification language
+government_contract_RTX_N0002422C5400,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_N0002422C5400,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_N0002422C5400,award_amount,638114558.95,638114558.95,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_N0002422C5400,obligated_amount,638114558.95,638114558.95,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_N0002422C5400,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0002422C5400,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0002422C5400,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0002422C5400,modification_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_70B04C20F00001359,government_contract_event_type,contract_modification,contract_modification,category,0.0,,ok,0.88,modification language
+government_contract_SAIC_70B04C20F00001359,mapped_ticker,SAIC,SAIC,text,0.0,,ok,0.9,SAIC
+government_contract_SAIC_70B04C20F00001359,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_SAIC_70B04C20F00001359,award_amount,596474053.88,596474053.88,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_SAIC_70B04C20F00001359,obligated_amount,596474053.88,596474053.88,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_SAIC_70B04C20F00001359,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_70B04C20F00001359,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_70B04C20F00001359,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_70B04C20F00001359,modification_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_N0002422C6419,government_contract_event_type,contract_modification,contract_modification,category,0.0,,ok,0.88,modification language
+government_contract_SAIC_N0002422C6419,mapped_ticker,SAIC,SAIC,text,0.0,,ok,0.9,SAIC
+government_contract_SAIC_N0002422C6419,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_SAIC_N0002422C6419,award_amount,509638059.8,509638059.8,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_SAIC_N0002422C6419,obligated_amount,509638059.8,509638059.8,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_SAIC_N0002422C6419,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_N0002422C6419,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_N0002422C6419,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_N0002422C6419,modification_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0002423C5325,government_contract_event_type,contract_modification,contract_modification,category,0.0,,ok,0.88,modification language
+government_contract_LMT_N0002423C5325,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_N0002423C5325,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_N0002423C5325,award_amount,441756474.53,441756474.53,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0002423C5325,obligated_amount,441756474.53,441756474.53,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0002423C5325,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0002423C5325,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0002423C5325,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0002423C5325,modification_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_HQ086221F0008,government_contract_event_type,contract_extension,contract_extension,category,0.0,,ok,0.84,extension language
+government_contract_RTX_HQ086221F0008,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_HQ086221F0008,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_HQ086221F0008,award_amount,431346320.97,431346320.97,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_HQ086221F0008,obligated_amount,431346320.97,431346320.97,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_HQ086221F0008,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_HQ086221F0008,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_HQ086221F0008,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_HQ086221F0008,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LDOS_80TECH21DA002,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_LDOS_80TECH21DA002,mapped_ticker,LDOS,LDOS,text,0.0,,ok,0.9,LDOS
+government_contract_LDOS_80TECH21DA002,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LDOS_80TECH21DA002,award_amount,906564739.47,906564739.47,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LDOS_80TECH21DA002,contract_ceiling,906564739.47,906564739.47,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LDOS_80TECH21DA002,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LDOS_80TECH21DA002,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LDOS_80TECH21DA002,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LDOS_80TECH21DA002,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_80TECH22DA002,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_BAH_80TECH22DA002,mapped_ticker,BAH,BAH,text,0.0,,ok,0.9,BAH
+government_contract_BAH_80TECH22DA002,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BAH_80TECH22DA002,award_amount,237889498.62,237889498.62,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BAH_80TECH22DA002,contract_ceiling,237889498.62,237889498.62,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BAH_80TECH22DA002,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_80TECH22DA002,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_80TECH22DA002,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_80TECH22DA002,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_CACI_80JSC023DA010,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_CACI_80JSC023DA010,mapped_ticker,CACI,CACI,text,0.0,,ok,0.9,CACI
+government_contract_CACI_80JSC023DA010,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_CACI_80JSC023DA010,award_amount,127385569.04,127385569.04,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_CACI_80JSC023DA010,contract_ceiling,127385569.04,127385569.04,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_CACI_80JSC023DA010,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_CACI_80JSC023DA010,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_CACI_80JSC023DA010,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_CACI_80JSC023DA010,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_80JSC024DA019,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_SAIC_80JSC024DA019,mapped_ticker,SAIC,SAIC,text,0.0,,ok,0.9,SAIC
+government_contract_SAIC_80JSC024DA019,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_SAIC_80JSC024DA019,award_amount,123086251.0,123086251.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_SAIC_80JSC024DA019,contract_ceiling,123086251.0,123086251.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_SAIC_80JSC024DA019,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_80JSC024DA019,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_80JSC024DA019,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_SAIC_80JSC024DA019,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_80JSC022DA023,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_RTX_80JSC022DA023,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_80JSC022DA023,recipient_mapping_confidence,0.86,0.86,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_80JSC022DA023,award_amount,37270654.0,37270654.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_80JSC022DA023,contract_ceiling,37270654.0,37270654.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_80JSC022DA023,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_80JSC022DA023,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_80JSC022DA023,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_80JSC022DA023,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LUNR_80JSC024DA020,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_LUNR_80JSC024DA020,mapped_ticker,LUNR,LUNR,text,0.0,,ok,0.9,LUNR
+government_contract_LUNR_80JSC024DA020,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LUNR_80JSC024DA020,award_amount,30000000.0,30000000.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LUNR_80JSC024DA020,contract_ceiling,30000000.0,30000000.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LUNR_80JSC024DA020,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LUNR_80JSC024DA020,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LUNR_80JSC024DA020,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LUNR_80JSC024DA020,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_80ARC024DA001,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_BAH_80ARC024DA001,mapped_ticker,BAH,BAH,text,0.0,,ok,0.9,BAH
+government_contract_BAH_80ARC024DA001,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BAH_80ARC024DA001,award_amount,16071880.73,16071880.73,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BAH_80ARC024DA001,contract_ceiling,16071880.73,16071880.73,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BAH_80ARC024DA001,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_80ARC024DA001,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_80ARC024DA001,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BAH_80ARC024DA001,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_68HERH21D0014,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_GD_68HERH21D0014,mapped_ticker,GD,GD,text,0.0,,ok,0.9,GD
+government_contract_GD_68HERH21D0014,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_GD_68HERH21D0014,award_amount,1900000.0,1900000.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_68HERH21D0014,contract_ceiling,1900000.0,1900000.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_68HERH21D0014,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_68HERH21D0014,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_68HERH21D0014,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_68HERH21D0014,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_140D0424D0001,government_contract_event_type,idiq_vehicle_award,idiq_vehicle_award,category,0.0,,ok,0.88,IDIQ/contract vehicle language
+government_contract_GD_140D0424D0001,mapped_ticker,GD,GD,text,0.0,,ok,0.9,GD
+government_contract_GD_140D0424D0001,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_GD_140D0424D0001,award_amount,1000000.0,1000000.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_140D0424D0001,contract_ceiling,1000000.0,1000000.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_GD_140D0424D0001,actual_funded_award_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_140D0424D0001,ceiling_only_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_140D0424D0001,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_GD_140D0424D0001,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833524F0020,government_contract_event_type,sbir_award,sbir_award,category,0.0,,ok,0.9,SBIR language
+government_contract_AVAV_N6833524F0020,mapped_ticker,AVAV,AVAV,text,0.0,,ok,0.9,AVAV
+government_contract_AVAV_N6833524F0020,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833524F0020,award_amount,16098922.0,16098922.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833524F0020,obligated_amount,16098922.0,16098922.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833524F0020,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833524F0020,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833524F0020,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833524F0020,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833523F0252,government_contract_event_type,sbir_award,sbir_award,category,0.0,,ok,0.9,SBIR language
+government_contract_AVAV_N6833523F0252,mapped_ticker,AVAV,AVAV,text,0.0,,ok,0.9,AVAV
+government_contract_AVAV_N6833523F0252,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833523F0252,award_amount,5566087.49,5566087.49,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833523F0252,obligated_amount,5566087.49,5566087.49,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833523F0252,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833523F0252,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833523F0252,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833523F0252,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833524F0079,government_contract_event_type,sbir_award,sbir_award,category,0.0,,ok,0.9,SBIR language
+government_contract_AVAV_N6833524F0079,mapped_ticker,AVAV,AVAV,text,0.0,,ok,0.9,AVAV
+government_contract_AVAV_N6833524F0079,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833524F0079,award_amount,5548479.0,5548479.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833524F0079,obligated_amount,5548479.0,5548479.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833524F0079,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833524F0079,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833524F0079,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833524F0079,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833526F0005,government_contract_event_type,sbir_award,sbir_award,category,0.0,,ok,0.9,SBIR language
+government_contract_AVAV_N6833526F0005,mapped_ticker,AVAV,AVAV,text,0.0,,ok,0.9,AVAV
+government_contract_AVAV_N6833526F0005,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833526F0005,award_amount,2812074.0,2812074.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833526F0005,obligated_amount,2812074.0,2812074.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_AVAV_N6833526F0005,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833526F0005,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833526F0005,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_AVAV_N6833526F0005,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BKSY_FA254125CB025,government_contract_event_type,sbir_award,sbir_award,category,0.0,,ok,0.9,SBIR language
+government_contract_BKSY_FA254125CB025,mapped_ticker,BKSY,BKSY,text,0.0,,ok,0.9,BKSY
+government_contract_BKSY_FA254125CB025,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BKSY_FA254125CB025,award_amount,1799995.68,1799995.68,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BKSY_FA254125CB025,obligated_amount,1799995.68,1799995.68,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BKSY_FA254125CB025,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BKSY_FA254125CB025,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BKSY_FA254125CB025,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BKSY_FA254125CB025,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_HQ085124C0001,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_RTX_HQ085124C0001,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_HQ085124C0001,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_HQ085124C0001,award_amount,2361971005.15,2361971005.15,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_HQ085124C0001,obligated_amount,2361971005.15,2361971005.15,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_HQ085124C0001,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_HQ085124C0001,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_HQ085124C0001,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_HQ085124C0001,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_W58RGZ26C0002,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_BA_W58RGZ26C0002,mapped_ticker,BA,BA,text,0.0,,ok,0.9,BA
+government_contract_BA_W58RGZ26C0002,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BA_W58RGZ26C0002,award_amount,2295831204.0,2295831204.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_W58RGZ26C0002,obligated_amount,2295831204.0,2295831204.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_W58RGZ26C0002,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_W58RGZ26C0002,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_W58RGZ26C0002,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_W58RGZ26C0002,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23C0005,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_W31P4Q23C0005,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_W31P4Q23C0005,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23C0005,award_amount,2213842633.09,2213842633.09,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23C0005,obligated_amount,2213842633.09,2213842633.09,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_W31P4Q23C0005,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23C0005,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23C0005,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_W31P4Q23C0005,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA865925CB003,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_RTX_FA865925CB003,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_FA865925CB003,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_FA865925CB003,award_amount,2196620340.3,2196620340.3,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_FA865925CB003,obligated_amount,2196620340.3,2196620340.3,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_FA865925CB003,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA865925CB003,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA865925CB003,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA865925CB003,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA867521C0034,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_RTX_FA867521C0034,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_FA867521C0034,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_FA867521C0034,award_amount,2177484015.51,2177484015.51,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_FA867521C0034,obligated_amount,2177484015.51,2177484015.51,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_FA867521C0034,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA867521C0034,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA867521C0034,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_FA867521C0034,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA873023C0025,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_BA_FA873023C0025,mapped_ticker,BA,BA,text,0.0,,ok,0.9,BA
+government_contract_BA_FA873023C0025,recipient_mapping_confidence,0.94,0.94,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_BA_FA873023C0025,award_amount,2093176924.88,2093176924.88,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_FA873023C0025,obligated_amount,2093176924.88,2093176924.88,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_BA_FA873023C0025,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA873023C0025,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA873023C0025,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_BA_FA873023C0025,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0001924C0032,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_RTX_N0001924C0032,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_N0001924C0032,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_N0001924C0032,award_amount,2037514988.0,2037514988.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_N0001924C0032,obligated_amount,2037514988.0,2037514988.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_N0001924C0032,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0001924C0032,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0001924C0032,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_N0001924C0032,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0003022C1025,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_N0003022C1025,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_N0003022C1025,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_N0003022C1025,award_amount,1977898246.63,1977898246.63,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0003022C1025,obligated_amount,1977898246.63,1977898246.63,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0003022C1025,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0003022C1025,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0003022C1025,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0003022C1025,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0003024C0100,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_LMT_N0003024C0100,mapped_ticker,LMT,LMT,text,0.0,,ok,0.9,LMT
+government_contract_LMT_N0003024C0100,recipient_mapping_confidence,0.96,0.96,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_LMT_N0003024C0100,award_amount,1913367053.0,1913367053.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0003024C0100,obligated_amount,1913367053.0,1913367053.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_LMT_N0003024C0100,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0003024C0100,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0003024C0100,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_LMT_N0003024C0100,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_W31P4Q24C0024,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_RTX_W31P4Q24C0024,mapped_ticker,RTX,RTX,text,0.0,,ok,0.9,RTX
+government_contract_RTX_W31P4Q24C0024,recipient_mapping_confidence,0.92,0.92,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_RTX_W31P4Q24C0024,award_amount,1907526208.0,1907526208.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_W31P4Q24C0024,obligated_amount,1907526208.0,1907526208.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_RTX_W31P4Q24C0024,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_W31P4Q24C0024,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_W31P4Q24C0024,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_RTX_W31P4Q24C0024,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002424C2473,government_contract_event_type,new_contract_award,new_contract_award,category,0.0,,ok,0.76,contract award language
+government_contract_HII_N0002424C2473,mapped_ticker,HII,HII,text,0.0,,ok,0.9,HII
+government_contract_HII_N0002424C2473,recipient_mapping_confidence,0.95,0.95,ratio,0.001,0.0,ok,0.9,source metadata
+government_contract_HII_N0002424C2473,award_amount,1747000000.0,1747000000.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_HII_N0002424C2473,obligated_amount,1747000000.0,1747000000.0,usd,1000000.0,0.0,ok,0.9,source metadata
+government_contract_HII_N0002424C2473,actual_funded_award_flag,True,True,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002424C2473,ceiling_only_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002424C2473,option_exercise_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag
+government_contract_HII_N0002424C2473,modification_flag,False,False,boolean,0.0,,ok,0.78,derived parser flag

@@ -33,11 +33,14 @@ from .capital_raises import (
     write_capital_raise_parser_audit_report,
 )
 from .government_contracts import (
+    build_government_contract_human_audit,
     build_government_contract_parser_gold_template,
     build_government_contract_source_documents,
     enrich_government_contract_context,
+    load_recipient_ticker_map,
     parse_government_contract_manifest,
     validate_government_contract_parser,
+    write_government_contract_human_audit_report,
     write_government_contract_mapping_audit_report,
     write_government_contract_parser_audit_report,
     write_government_contract_readiness_report,
@@ -702,6 +705,44 @@ def cmd_government_contract_gold_template(args: argparse.Namespace) -> None:
                 "events": int(gold["event_id"].nunique()) if "event_id" in gold.columns and not gold.empty else 0,
                 "out": str(args.out),
                 "warning": "Gold rows are machine-proposed and must be human-reviewed before parser audit can pass.",
+            },
+            indent=2,
+            default=str,
+        )
+    )
+
+
+def cmd_government_contract_human_audit(args: argparse.Namespace) -> None:
+    pd = __import__("pandas")
+    source_documents = pd.read_csv(args.source_documents)
+    features = pd.read_csv(args.features)
+    mapping = load_recipient_ticker_map(args.mapping)
+    events = pd.read_csv(args.events) if args.events else None
+    audit, gold, mapping_errors, funded_errors, audited_events, summary = build_government_contract_human_audit(
+        source_documents,
+        features,
+        mapping,
+        events=events,
+        target_events=args.target_events,
+    )
+    audit.to_csv(args.audit_out, index=False)
+    gold.to_csv(args.gold_out, index=False)
+    mapping_errors.to_csv(args.mapping_errors_out, index=False)
+    funded_errors.to_csv(args.funded_vs_ceiling_errors_out, index=False)
+    if args.events_out and audited_events is not None:
+        audited_events.to_csv(args.events_out, index=False)
+        summary["events_out"] = str(args.events_out)
+    report_path = write_government_contract_human_audit_report(summary, audit, mapping_errors, funded_errors, args.report_out)
+    print(
+        json.dumps(
+            {
+                "audit_out": str(args.audit_out),
+                "gold_out": str(args.gold_out),
+                "mapping_errors_out": str(args.mapping_errors_out),
+                "funded_vs_ceiling_errors_out": str(args.funded_vs_ceiling_errors_out),
+                "report_out": str(report_path),
+                **summary,
+                "warning": "Government-contract human audit is a corpus-quality review; no model, event study, or backtest was run.",
             },
             indent=2,
             default=str,
@@ -1629,6 +1670,20 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--out", required=True)
     p.add_argument("--target-events", type=int, default=60)
     p.set_defaults(func=cmd_government_contract_gold_template)
+
+    p = sub.add_parser("government-contract-human-audit", help="Build a reviewed government-contract parser/mapping/funded-vs-ceiling audit sample.")
+    p.add_argument("--source-documents", required=True)
+    p.add_argument("--features", required=True)
+    p.add_argument("--mapping", default="data/events/government_contract_recipient_ticker_map.csv")
+    p.add_argument("--events", default=None, help="Optional review/enriched events CSV to annotate with audited review statuses.")
+    p.add_argument("--events-out", default=None, help="Optional path for events annotated with audited review statuses.")
+    p.add_argument("--audit-out", required=True)
+    p.add_argument("--gold-out", required=True)
+    p.add_argument("--mapping-errors-out", required=True)
+    p.add_argument("--funded-vs-ceiling-errors-out", required=True)
+    p.add_argument("--report-out", required=True)
+    p.add_argument("--target-events", type=int, default=60)
+    p.set_defaults(func=cmd_government_contract_human_audit)
 
     p = sub.add_parser("validate-government-contract-parser", help="Validate government-contract parser facts against a reviewed gold-set CSV.")
     p.add_argument("--facts", required=True)

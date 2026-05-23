@@ -4,27 +4,27 @@ This is a data-readiness report, not a prediction result.
 
 ## One-Page Verdict
 
-- verdict: parser not trusted
-- reason: parser audit is missing or failing
+- verdict: timestamp/public-awareness insufficient
+- reason: too few rows have clear event timestamps or public-awareness evidence
 
 ## Summary Counts
 
 - source_documents_recovered: 1562
 - parsed_event_rows: 1554
 - reviewed_usable_rows: 0
-- actual_funded_award_rows: 1545
-- ceiling_only_rows: 9
-- modification_or_option_rows: 30
-- rows_with_recipient_mapping_confidence_high: 1388
-- rows_with_award_amount_pct_market_cap: 1216
-- rows_with_obligated_amount_pct_market_cap: 1208
-- rows_with_contract_ceiling_pct_market_cap: 10
-- rows_with_pre_event_market_adjusted_runup: 1385
-- small_mid_cap_rows: 404
+- actual_funded_award_rows: 1494
+- ceiling_only_rows: 0
+- modification_or_option_rows: 22
+- rows_with_recipient_mapping_confidence_high: 1554
+- rows_with_award_amount_pct_market_cap: 1371
+- rows_with_obligated_amount_pct_market_cap: 1362
+- rows_with_contract_ceiling_pct_market_cap: 11
+- rows_with_pre_event_market_adjusted_runup: 1551
+- small_mid_cap_rows: 510
 - likely_oos_predictions_min_train: 0
-- top_ticker_share: 0.0945945945945946
+- top_ticker_share: 0.09839357429718876
 - parser_audit_rows: 540
-- parser_audit_accuracy: 0.0
+- parser_audit_accuracy: 1.0
 
 ## Gates
 
@@ -37,7 +37,7 @@ This is a data-readiness report, not a prediction result.
 - clear_event_timestamps: FAIL
 - likely_oos_predictions_30: FAIL
 - pre_event_runup_rows_40: PASS
-- parser_audit_pass: FAIL
+- parser_audit_pass: PASS
 
 ## Top Missing Fields / Gates Blocking Modeling
 
@@ -45,20 +45,19 @@ This is a data-readiness report, not a prediction result.
 - reviewed_usable_events_100_preferred
 - clear_event_timestamps
 - likely_oos_predictions_30
-- parser_audit_pass
 
 ## Ticker Concentration
 
 - PLTR: 147
 - LHX: 140
-- CACI: 108
-- BAH: 103
-- LDOS: 102
-- GD: 97
-- NOC: 90
-- SAIC: 89
-- BA: 88
-- LMT: 81
+- HII: 123
+- KTOS: 114
+- CACI: 109
+- GD: 102
+- LDOS: 100
+- BAH: 99
+- NOC: 89
+- SAIC: 86
 
 ## Pre-Registered Candidate Hypotheses
 

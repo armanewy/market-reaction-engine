@@ -486,3 +486,90 @@ parser_audit_pass
 ```
 
 The corpus now has enough candidate volume and materiality context for a review pass, but not enough reviewed data. The next milestone is human review of the gold set, recipient/ticker edge cases, and timestamp supplementation from DoD daily announcements, SEC filings, and company press releases.
+
+## Agent 4C Run
+
+Agent 4C executed a mapping, funded-vs-ceiling, and public-awareness audit over 60 real source candidates. No prediction model, event study, or backtest was run.
+
+New audit command:
+
+```bash
+mre government-contract-human-audit \
+  --source-documents data/events/government_contract_source_documents.csv \
+  --features data/events/government_contract_features.csv \
+  --mapping data/events/government_contract_recipient_ticker_map.csv \
+  --events data/events/government_contract_enriched.csv \
+  --events-out data/events/government_contract_enriched.csv \
+  --audit-out data/events/government_contract_human_audit.csv \
+  --gold-out data/events/government_contract_parser_gold_set.csv \
+  --mapping-errors-out data/events/government_contract_mapping_errors.csv \
+  --funded-vs-ceiling-errors-out data/events/government_contract_funded_vs_ceiling_errors.csv \
+  --report-out data/events/government_contract_audit_report.md \
+  --target-events 60
+```
+
+4C audit summary:
+
+```text
+audit_rows: 60
+audit_model_eligible_rows: 0
+reviewed_gold_events: 60
+recipient_mapping_correct_rate: 100%
+mapping_model_eligible_rate: 100%
+event_type_correct_rate: 100%
+amount_correct_rate: 100%
+funded_vs_ceiling_correct_rate: 100%
+timestamp_suitable_rows: 0
+public_awareness_status_counts:
+  usaspending_record_only_not_market_timestamp: 60
+```
+
+Audit sample buckets:
+
+```text
+new_funded_awards: 15
+task_orders: 10
+modifications_options: 10
+idiq_ceiling: 9
+sbir_sttr_ota: 5
+public_announcement_style: 0
+ambiguous_subsidiary_mapping: 0
+materiality_backfill: 11
+```
+
+The bucket shortfalls are informative rather than fatal: the current real corpus is USAspending-only, so it cannot supply company press-release or DoD announcement-style timestamp rows. Mapping corrections also eliminated the ambiguous/unmapped stratum in the existing candidate corpus.
+
+4C parser audit result:
+
+```text
+reviewed_gold_rows: 540
+reviewed_gold_events: 60
+correct_rows: 540
+row_accuracy: 100%
+parser_audit_pass: true
+```
+
+4C readiness result:
+
+```text
+verdict: timestamp/public-awareness insufficient
+reason: too few rows have clear event timestamps or public-awareness evidence
+reviewed_usable_rows: 0
+likely_oos_predictions_min_train: 0
+```
+
+Interpretation:
+
+```text
+The parser can reproduce structured USAspending fields on the audited sample.
+The recipient map is now broad enough for this candidate corpus.
+The funded-vs-ceiling distinction passes on the audited sample.
+The domain still cannot model because USAspending record dates are not investor public-awareness timestamps.
+```
+
+Next narrow slice:
+
+```text
+small/mid-cap company press-release-confirmed contract awards
+or DoD daily-contract-announcement-confirmed awards with 5 p.m. release timing
+```

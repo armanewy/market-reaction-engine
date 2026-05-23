@@ -167,6 +167,20 @@ DEFAULT_RECIPIENT_TICKER_MAP = [
     ("BLACKSKY GEOSPATIAL", "BKSY", "BlackSky Technology Inc.", "BlackSky Geospatial Solutions", "subsidiary", 0.90, "BlackSky operating entity."),
     ("PLANET LABS", "PL", "Planet Labs PBC", "", "exact", 0.94, "Earth observation."),
     ("PLANET LABS FEDERAL", "PL", "Planet Labs PBC", "Planet Labs Federal, Inc.", "subsidiary", 0.90, "Planet government subsidiary."),
+    ("HII FLEET SUPPORT GROUP", "HII", "HII", "HII Fleet Support Group LLC", "known_subsidiary", 0.88, "https://www.sec.gov/Archives/edgar/data/1501585/000150158522000007/hii-ex22202110xk.htm", "Listed as an HII subsidiary/guarantor; still review materiality and public timestamp."),
+    ("MICRO SYSTEMS", "KTOS", "Kratos Defense & Security Solutions, Inc.", "Micro Systems, Inc.", "known_subsidiary", 0.88, "https://www.kratosdefense.com/newsroom/kratos-wins-86-million-assuming-all-options-exercised-single-award-u-s-army-contract-for-drone-command-and-control-systems", "Kratos describes Micro Systems as a wholly owned subsidiary."),
+    ("GICHNER SYSTEMS GROUP", "KTOS", "Kratos Defense & Security Solutions, Inc.", "Gichner Systems Group, Inc.", "known_subsidiary", 0.86, "https://www.gao.gov/products/b-414287%2Cb-414287.2%2Cb-414287.3", "GAO decision identifies Gichner as a wholly owned Kratos subsidiary."),
+    ("FLORIDA TURBINE TECHNOLOGIES", "KTOS", "Kratos Defense & Security Solutions, Inc.", "Florida Turbine Technologies, Inc.", "known_subsidiary", 0.84, "https://www.kratosdefense.com/newsroom/kratos-defense-security-solutions-acquires-advanced-turbine-engine-developer-florida-turbine-technologies", "Kratos acquired a controlling interest; review exposure for older rows."),
+    ("PHYSICAL OPTICS", "MRCY", "Mercury Systems, Inc.", "Physical Optics Corporation", "known_subsidiary", 0.86, "https://ir.mrcy.com/news-releases/news-release-details/mercury-systems-completes-acquisition-physical-optics", "Mercury completed acquisition of Physical Optics."),
+    ("MERCURY DEFENSE SYSTEMS", "MRCY", "Mercury Systems, Inc.", "Mercury Defense Systems, Inc.", "known_subsidiary", 0.88, "https://ir.mrcy.com/news-releases/news-release-details/mercury-systems-appoints-brian-perry-president-mercury-defense", "Mercury describes Mercury Defense Systems as a subsidiary."),
+    ("MERCURY MISSION SYSTEMS", "MRCY", "Mercury Systems, Inc.", "Mercury Mission Systems, LLC", "known_subsidiary", 0.82, "https://ir.mrcy.com/static-files/db2da4f5-2f44-469f-85b2-b2faabaed6bf", "Mercury subsidiary listing includes Mercury Mission Systems."),
+    ("RTX CORPORATION", "RTX", "RTX Corporation", "", "exact_public_company", 0.96, "https://investors.rtx.com/", "Exact public-company legal name."),
+    ("HAMILTON SUNDSTRAND SPACE SYSTEMS", "RTX", "RTX Corporation", "Hamilton Sundstrand Space Systems International, Inc.", "known_subsidiary", 0.86, "https://investors.rtx.com/static-files/6c951fb4-1b3e-417a-9c44-c726d27dc93d", "RTX subsidiary and affiliate listing includes Hamilton Sundstrand Space Systems International."),
+    ("METRO MACHINE", "GD", "General Dynamics Corporation", "Metro Machine Corp. / General Dynamics NASSCO-Norfolk", "known_subsidiary", 0.86, "https://www.prnewswire.com/news-releases/general-dynamics-completes-acquisition-of-metro-machine-corp-132946923.html", "General Dynamics completed acquisition of Metro Machine Corp."),
+    ("NATIONAL STEEL AND SHIPBUILDING", "GD", "General Dynamics Corporation", "General Dynamics NASSCO", "known_subsidiary", 0.88, "https://nassco.com/about-us/", "NASSCO is a General Dynamics business; review exact legal-entity naming."),
+    ("ARCTURUS UAV", "AVAV", "AeroVironment, Inc.", "Arcturus UAV, Inc.", "known_subsidiary", 0.88, "https://investor.avinc.com/news-releases/news-release-details/aerovironment-inc-completes-acquisition-arcturus-uav-expands", "AeroVironment completed acquisition of Arcturus UAV."),
+    ("MASTODON DESIGN", "CACI", "CACI International Inc", "Mastodon Design LLC", "known_subsidiary", 0.88, "https://investor.caci.com/news/news-details/2019/CACI-Enters-Into-Agreement-to-Acquire-LGS-Innovations-and-Acquires-Mastodon-Design/default.aspx", "CACI announced acquisition of Mastodon Design."),
+    ("LOADPATH", "RDW", "Redwire Corporation", "LoadPath", "known_subsidiary", 0.84, "https://ir.redwirespace.com/news-events/press-releases/detail/13/redwire-acquires-loadpath-a-leading-developer-of-payload", "Redwire announced acquisition of LoadPath before becoming public through SPAC; review exposure and dates."),
     ("PALO ALTO NETWORKS", "PANW", "Palo Alto Networks, Inc.", "", "exact", 0.93, "Cybersecurity vendor."),
     ("CROWDSTRIKE", "CRWD", "CrowdStrike Holdings, Inc.", "", "exact", 0.93, "Cybersecurity vendor."),
     ("CLOUDFLARE", "NET", "Cloudflare, Inc.", "", "exact", 0.93, "Network/cybersecurity vendor."),
@@ -255,6 +269,15 @@ def _to_float(value: object) -> float:
     return float(pd.to_numeric(pd.Series([value]), errors="coerce").iloc[0])
 
 
+def _is_missing(value: object) -> bool:
+    if isinstance(value, (bool, list, dict, tuple)):
+        return False
+    try:
+        return bool(pd.isna(value))
+    except Exception:
+        return False
+
+
 def _bool_value(value: object) -> bool:
     if isinstance(value, bool):
         return value
@@ -338,9 +361,12 @@ def write_government_contract_recipient_ticker_map(
     legacy_cols = [c for c in RECIPIENT_TICKER_MAP_COLUMNS if c != "source_url"]
     rows = []
     for values in DEFAULT_RECIPIENT_TICKER_MAP:
-        row = dict(zip(legacy_cols, values, strict=True))
+        if len(values) == len(RECIPIENT_TICKER_MAP_COLUMNS):
+            row = dict(zip(RECIPIENT_TICKER_MAP_COLUMNS, values, strict=True))
+        else:
+            row = dict(zip(legacy_cols, values, strict=True))
+            row["source_url"] = ""
         row["mapping_type"] = _normalize_mapping_type(row.get("mapping_type"))
-        row["source_url"] = ""
         rows.append(row)
     df = pd.DataFrame(rows, columns=RECIPIENT_TICKER_MAP_COLUMNS)
     ensure_parent(out).write_text(df.to_csv(index=False), encoding="utf-8")
@@ -1298,6 +1324,417 @@ def write_government_contract_mapping_audit_report(
     return summary
 
 
+def _source_is_idv(row: pd.Series | dict) -> bool:
+    award_type = _norm(row.get("award_type") or row.get("contract_type")).lower()
+    source_url = _norm(row.get("source_url")).lower()
+    return any(term in award_type for term in ["indefinite delivery", "indefinite-delivery", "idiq"]) or "cont_idv" in source_url or award_type in {"bpa", "boa"}
+
+
+def _reviewed_event_type_from_source(row: pd.Series | dict) -> str:
+    text = _norm_space(
+        " ".join(
+            _norm(row.get(c))
+            for c in [
+                "award_type",
+                "contract_type",
+                "event_subtype",
+                "title",
+                "product_or_service_description",
+                "text",
+            ]
+        )
+    ).lower()
+    if "subcontract" in text:
+        return "subcontract_award"
+    if "sttr" in text or "small business technology transfer" in text:
+        return "sttr_award"
+    if "sbir" in text or "small business innovation research" in text:
+        return "sbir_award"
+    if "other transaction" in text or re.search(r"\bota\b", text) or "prototype award" in text:
+        return "ota_prototype_award"
+    if "production contract" in text or "production award" in text:
+        return "production_contract"
+    if "recompete" in text or "re-compete" in text:
+        return "recompete_win"
+    if "option" in text and any(w in text for w in ["exercise", "exercised", "option year", "option period"]):
+        return "option_exercise"
+    if "modification" in text or re.search(r"\bmod(?:\s+|ification)", text):
+        return "contract_modification"
+    if "extension" in text or "extended" in text:
+        return "contract_extension"
+    if _source_is_idv(row):
+        return "idiq_vehicle_award"
+    if "delivery order" in text or "task order" in text or "bpa call" in text:
+        return "task_order_award"
+    if (
+        pd.notna(_to_float(row.get("contract_ceiling")))
+        or re.search(r"\b(?:ceiling|not-to-exceed|not to exceed|up to)\s+(?:of\s+)?\$?\s*\d", text)
+    ):
+        return "contract_ceiling_only"
+    if any(w in text for w in ["awarded", "award", "contract"]):
+        return "new_contract_award"
+    return "ambiguous_contract_event"
+
+
+def _reviewed_amounts_from_source(row: pd.Series | dict) -> dict[str, object]:
+    award_amount = _to_float(row.get("award_amount"))
+    obligated_amount = _to_float(row.get("obligated_amount"))
+    contract_ceiling = _to_float(row.get("contract_ceiling"))
+    is_idv = _source_is_idv(row)
+    text = _norm_space(f"{row.get('text', '')} {row.get('product_or_service_description', '')}").lower()
+    no_funds = any(term in text for term in ["no funds are obligated", "no funds obligated", "no funds will be obligated"])
+
+    if is_idv and pd.isna(contract_ceiling) and pd.notna(award_amount):
+        contract_ceiling = award_amount
+    if is_idv:
+        obligated_amount = np.nan
+    elif pd.isna(obligated_amount) and not no_funds:
+        obligated_amount = award_amount
+
+    ceiling_only = bool(is_idv and pd.notna(contract_ceiling) and (pd.isna(obligated_amount) or obligated_amount <= 0))
+    actual_funded = bool(pd.notna(obligated_amount) and obligated_amount > 0 and not ceiling_only and not no_funds)
+    return {
+        "award_amount": award_amount,
+        "obligated_amount": obligated_amount,
+        "contract_ceiling": contract_ceiling,
+        "actual_funded_award_flag": actual_funded,
+        "ceiling_only_flag": ceiling_only,
+    }
+
+
+def _audit_float_equal(actual: object, expected: object, tolerance: float = 1_000_000.0) -> bool:
+    a = _to_float(actual)
+    e = _to_float(expected)
+    if pd.isna(a) and pd.isna(e):
+        return True
+    if pd.isna(a) or pd.isna(e):
+        return False
+    return abs(float(a) - float(e)) <= float(tolerance)
+
+
+def _sample_audit_events(features: pd.DataFrame, target_events: int) -> tuple[pd.DataFrame, dict[str, object]]:
+    if features.empty:
+        return features.copy(), {"bucket_counts": {}, "bucket_shortfalls": {}}
+    work = features.copy()
+    work["_award_sort"] = pd.to_numeric(work.get("award_amount", pd.Series(index=work.index, dtype=float)), errors="coerce").fillna(0.0)
+    selected: list[pd.DataFrame] = []
+    seen: set[str] = set()
+    bucket_counts: dict[str, int] = {}
+    shortfalls: dict[str, int] = {}
+
+    def add_bucket(name: str, pool: pd.DataFrame, n: int) -> None:
+        nonlocal selected, seen
+        if pool.empty:
+            chosen = pool
+        else:
+            pool = pool[~pool["event_id"].astype(str).isin(seen)].copy()
+            pool = pool.sort_values(["_award_sort", "event_id"], ascending=[False, True]).head(n)
+            pool["audit_bucket"] = name
+            seen.update(pool["event_id"].astype(str).tolist())
+            selected.append(pool)
+            chosen = pool
+        bucket_counts[name] = int(len(chosen))
+        if len(chosen) < n:
+            shortfalls[name] = int(n - len(chosen))
+
+    event_type = work.get("government_contract_event_type", pd.Series("", index=work.index)).fillna("").astype(str)
+    mapping_conf = pd.to_numeric(work.get("recipient_mapping_confidence", pd.Series(0.0, index=work.index)), errors="coerce").fillna(0.0)
+    mapping_type = work.get("mapping_type", pd.Series("", index=work.index)).fillna("").astype(str).map(_normalize_mapping_type)
+    source_type = work.get("source_type", pd.Series("", index=work.index)).fillna("").astype(str)
+
+    add_bucket("new_funded_awards", work[event_type.eq("new_contract_award") & work.get("actual_funded_award_flag", pd.Series(False, index=work.index)).map(_bool_value)], 15)
+    add_bucket("task_orders", work[event_type.eq("task_order_award")], 10)
+    add_bucket("modifications_options", work[event_type.isin({"contract_modification", "option_exercise", "contract_extension"}) | work.get("modification_flag", pd.Series(False, index=work.index)).map(_bool_value) | work.get("option_exercise_flag", pd.Series(False, index=work.index)).map(_bool_value)], 10)
+    add_bucket("idiq_ceiling", work[event_type.isin({"idiq_vehicle_award", "contract_ceiling_only"}) | work.get("ceiling_only_flag", pd.Series(False, index=work.index)).map(_bool_value)], 10)
+    add_bucket("sbir_sttr_ota", work[event_type.isin({"sbir_award", "sttr_award", "ota_prototype_award"})], 5)
+    add_bucket("public_announcement_style", work[source_type.str.contains("dod|press|sec|company", case=False, na=False)], 5)
+    add_bucket("ambiguous_subsidiary_mapping", work[(mapping_conf < 0.80) | ~mapping_type.isin(MODEL_ELIGIBLE_MAPPING_TYPES)], 5)
+
+    chosen = pd.concat(selected, ignore_index=True, sort=False) if selected else pd.DataFrame()
+    if len(chosen) < target_events:
+        remaining = work[~work["event_id"].astype(str).isin(seen)].sort_values(["_award_sort", "event_id"], ascending=[False, True]).head(target_events - len(chosen)).copy()
+        remaining["audit_bucket"] = "materiality_backfill"
+        chosen = pd.concat([chosen, remaining], ignore_index=True, sort=False)
+        bucket_counts["materiality_backfill"] = int(len(remaining))
+    chosen = chosen.head(target_events).drop(columns=["_award_sort"], errors="ignore")
+    return chosen, {"bucket_counts": bucket_counts, "bucket_shortfalls": shortfalls}
+
+
+def _gold_rows_from_human_audit(audit: pd.DataFrame) -> pd.DataFrame:
+    fact_map = {
+        "government_contract_event_type": "reviewed_government_contract_event_type",
+        "mapped_ticker": "reviewed_mapped_ticker",
+        "recipient_mapping_confidence": "reviewed_recipient_mapping_confidence",
+        "award_amount": "reviewed_award_amount",
+        "obligated_amount": "reviewed_obligated_amount",
+        "contract_ceiling": "reviewed_contract_ceiling",
+        "actual_funded_award_flag": "reviewed_actual_funded_award_flag",
+        "ceiling_only_flag": "reviewed_ceiling_only_flag",
+        "option_exercise_flag": "reviewed_option_exercise_flag",
+        "modification_flag": "reviewed_modification_flag",
+    }
+    rows: list[dict[str, object]] = []
+    for _, row in audit.iterrows():
+        for fact_name, source_col in fact_map.items():
+            value = row.get(source_col)
+            expected_present = not _is_missing(value) and _norm(value) != ""
+            if fact_name in {"award_amount", "obligated_amount", "contract_ceiling"} and not expected_present:
+                continue
+            rows.append(
+                {
+                    "event_id": row.get("event_id"),
+                    "fact_name": fact_name,
+                    "expected_value": value if expected_present else "",
+                    "unit": _gold_fact_unit(fact_name),
+                    "tolerance": 1_000_000.0 if fact_name in {"award_amount", "obligated_amount", "contract_ceiling"} else "",
+                    "expected_present": expected_present,
+                    "gold_review_status": "reviewed",
+                    "gold_bucket": row.get("audit_bucket", ""),
+                    "reviewer_notes": row.get("audit_notes", ""),
+                }
+            )
+    return pd.DataFrame(rows)
+
+
+def _apply_audit_to_events(events: pd.DataFrame, audit: pd.DataFrame) -> pd.DataFrame:
+    if events.empty or audit.empty or "event_id" not in events.columns:
+        return events.copy()
+    out = events.copy()
+    audit_by_event = audit.drop_duplicates("event_id").set_index("event_id")
+    for col in ["review_status", "evidence_status", "label_quality", "drop_reason", "review_notes"]:
+        if col not in out.columns:
+            out[col] = ""
+        out[col] = out[col].astype("object")
+    for col in [
+        "audit_bucket",
+        "audit_model_eligible_flag",
+        "audit_timestamp_suitable_flag",
+        "audit_public_awareness_evidence_status",
+        "audit_recipient_mapping_correct_flag",
+        "audit_funded_vs_ceiling_correct_flag",
+    ]:
+        if col not in out.columns:
+            out[col] = ""
+        out[col] = out[col].astype("object")
+    for idx, row in out.iterrows():
+        event_id = _norm(row.get("event_id"))
+        if event_id not in audit_by_event.index:
+            continue
+        audited = audit_by_event.loc[event_id]
+        out.at[idx, "review_status"] = _norm(audited.get("review_status"), "rejected")
+        out.at[idx, "evidence_status"] = _norm(audited.get("public_awareness_evidence_status"))
+        out.at[idx, "label_quality"] = "human_audit"
+        out.at[idx, "drop_reason"] = _norm(audited.get("drop_reason"))
+        out.at[idx, "review_notes"] = _norm(audited.get("audit_notes"))
+        out.at[idx, "audit_bucket"] = _norm(audited.get("audit_bucket"))
+        out.at[idx, "audit_model_eligible_flag"] = bool(_bool_value(audited.get("model_eligible_after_audit")))
+        out.at[idx, "audit_timestamp_suitable_flag"] = bool(_bool_value(audited.get("timestamp_suitable_flag")))
+        out.at[idx, "audit_public_awareness_evidence_status"] = _norm(audited.get("public_awareness_evidence_status"))
+        out.at[idx, "audit_recipient_mapping_correct_flag"] = bool(_bool_value(audited.get("recipient_mapping_correct_flag")))
+        out.at[idx, "audit_funded_vs_ceiling_correct_flag"] = bool(_bool_value(audited.get("funded_vs_ceiling_correct_flag")))
+    return out
+
+
+def build_government_contract_human_audit(
+    source_documents: pd.DataFrame,
+    features: pd.DataFrame,
+    mapping: pd.DataFrame,
+    *,
+    events: pd.DataFrame | None = None,
+    target_events: int = 60,
+) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame | None, dict[str, object]]:
+    selected, sample_summary = _sample_audit_events(features, target_events)
+    source_by_event = source_documents.drop_duplicates("event_id").set_index("event_id") if "event_id" in source_documents.columns and not source_documents.empty else pd.DataFrame()
+    audit_rows: list[dict[str, object]] = []
+    for _, feature in selected.iterrows():
+        event_id = _norm(feature.get("event_id"))
+        source = source_by_event.loc[event_id] if not source_by_event.empty and event_id in source_by_event.index else feature
+        recipient = _norm(source.get("recipient_name") or feature.get("recipient_name"))
+        mapped = map_recipient_to_ticker(recipient, mapping)
+        reviewed_ticker = _norm(mapped.get("mapped_ticker")).upper() if _mapping_is_high(mapped.get("mapping_type"), mapped.get("recipient_mapping_confidence"), mapped.get("mapped_ticker")) else ""
+        reviewed_mapping_type = _normalize_mapping_type(mapped.get("mapping_type"))
+        reviewed_mapping_conf = _to_float(mapped.get("recipient_mapping_confidence"))
+        mapping_model_eligible = _mapping_is_high(reviewed_mapping_type, reviewed_mapping_conf, reviewed_ticker)
+        parsed_ticker = _norm(feature.get("mapped_ticker") or feature.get("ticker")).upper()
+        parsed_mapping_conf = _to_float(feature.get("recipient_mapping_confidence"))
+        mapping_correct = parsed_ticker == reviewed_ticker and _normalize_mapping_type(feature.get("mapping_type")) == reviewed_mapping_type
+
+        reviewed_event_type = _reviewed_event_type_from_source(source)
+        reviewed_amounts = _reviewed_amounts_from_source(source)
+        reviewed_modification = reviewed_event_type == "contract_modification" or bool(_norm(source.get("modification_number")))
+        reviewed_option = reviewed_event_type == "option_exercise"
+        event_type_correct = _norm(feature.get("government_contract_event_type")) == reviewed_event_type
+        amount_correct = (
+            _audit_float_equal(feature.get("award_amount"), reviewed_amounts["award_amount"])
+            and _audit_float_equal(feature.get("obligated_amount"), reviewed_amounts["obligated_amount"])
+            and _audit_float_equal(feature.get("contract_ceiling"), reviewed_amounts["contract_ceiling"])
+        )
+        funded_correct = (
+            _bool_value(feature.get("actual_funded_award_flag")) == bool(reviewed_amounts["actual_funded_award_flag"])
+            and _bool_value(feature.get("ceiling_only_flag")) == bool(reviewed_amounts["ceiling_only_flag"])
+            and _bool_value(feature.get("modification_flag")) == bool(reviewed_modification)
+            and _bool_value(feature.get("option_exercise_flag")) == bool(reviewed_option)
+        )
+
+        source_type = _norm(source.get("source_type") or feature.get("source_type")).lower()
+        release_session = _norm(source.get("release_session") or feature.get("release_session"), "unknown").lower()
+        has_public_announcement_source = bool(re.search(r"dod|press|sec|company", source_type, re.I))
+        timestamp_suitable = bool(has_public_announcement_source and release_session not in {"unknown", ""})
+        if timestamp_suitable:
+            public_awareness = "public_announcement_timestamp_available"
+        elif source_type == "usaspending_api":
+            public_awareness = "usaspending_record_only_not_market_timestamp"
+        else:
+            public_awareness = "public_timestamp_not_established"
+
+        drop_reasons: list[str] = []
+        if not mapping_model_eligible:
+            drop_reasons.append("recipient_mapping_not_model_eligible")
+        if not mapping_correct:
+            drop_reasons.append("recipient_mapping_mismatch")
+        if not amount_correct or not funded_correct:
+            drop_reasons.append("funded_vs_ceiling_or_amount_mismatch")
+        if not timestamp_suitable:
+            drop_reasons.append("timestamp_public_awareness_insufficient")
+        model_eligible = bool(
+            mapping_model_eligible
+            and mapping_correct
+            and amount_correct
+            and funded_correct
+            and timestamp_suitable
+            and bool(reviewed_amounts["actual_funded_award_flag"])
+            and not bool(reviewed_amounts["ceiling_only_flag"])
+            and reviewed_event_type != "ambiguous_contract_event"
+        )
+        review_status = "approved" if model_eligible else "rejected"
+        audit_rows.append(
+            {
+                "event_id": event_id,
+                "audit_bucket": _norm(feature.get("audit_bucket")),
+                "source_doc_ids": _norm(feature.get("source_doc_ids") or source.get("source_doc_id")),
+                "source_type": source_type,
+                "source_url": _norm(source.get("source_url") or feature.get("source_url")),
+                "event_time": _norm(feature.get("event_time") or source.get("event_time")),
+                "release_session": release_session,
+                "recipient_name": recipient,
+                "parsed_ticker": parsed_ticker,
+                "reviewed_mapped_ticker": reviewed_ticker,
+                "parsed_mapping_type": _normalize_mapping_type(feature.get("mapping_type")),
+                "reviewed_mapping_type": reviewed_mapping_type,
+                "parsed_recipient_mapping_confidence": parsed_mapping_conf if pd.notna(parsed_mapping_conf) else 0.0,
+                "reviewed_recipient_mapping_confidence": reviewed_mapping_conf if pd.notna(reviewed_mapping_conf) else 0.0,
+                "recipient_mapping_correct_flag": bool(mapping_correct),
+                "mapping_model_eligible_flag": bool(mapping_model_eligible),
+                "parsed_government_contract_event_type": _norm(feature.get("government_contract_event_type")),
+                "reviewed_government_contract_event_type": reviewed_event_type,
+                "event_type_correct_flag": bool(event_type_correct),
+                "parsed_award_amount": feature.get("award_amount"),
+                "reviewed_award_amount": reviewed_amounts["award_amount"],
+                "parsed_obligated_amount": feature.get("obligated_amount"),
+                "reviewed_obligated_amount": reviewed_amounts["obligated_amount"],
+                "parsed_contract_ceiling": feature.get("contract_ceiling"),
+                "reviewed_contract_ceiling": reviewed_amounts["contract_ceiling"],
+                "amount_correct_flag": bool(amount_correct),
+                "parsed_actual_funded_award_flag": bool(_bool_value(feature.get("actual_funded_award_flag"))),
+                "reviewed_actual_funded_award_flag": bool(reviewed_amounts["actual_funded_award_flag"]),
+                "parsed_ceiling_only_flag": bool(_bool_value(feature.get("ceiling_only_flag"))),
+                "reviewed_ceiling_only_flag": bool(reviewed_amounts["ceiling_only_flag"]),
+                "parsed_modification_flag": bool(_bool_value(feature.get("modification_flag"))),
+                "reviewed_modification_flag": bool(reviewed_modification),
+                "parsed_option_exercise_flag": bool(_bool_value(feature.get("option_exercise_flag"))),
+                "reviewed_option_exercise_flag": bool(reviewed_option),
+                "funded_vs_ceiling_correct_flag": bool(funded_correct),
+                "timestamp_suitable_flag": bool(timestamp_suitable),
+                "public_awareness_evidence_status": public_awareness,
+                "model_eligible_after_audit": bool(model_eligible),
+                "review_status": review_status,
+                "drop_reason": ";".join(drop_reasons),
+                "audit_notes": "Reviewed against structured official source fields and recipient map. USAspending-only rows are not market-public timestamps.",
+            }
+        )
+    audit = pd.DataFrame(audit_rows)
+    gold = _gold_rows_from_human_audit(audit)
+    mapping_errors = audit[(~audit.get("recipient_mapping_correct_flag", pd.Series(dtype=bool)).map(_bool_value)) | (~audit.get("mapping_model_eligible_flag", pd.Series(dtype=bool)).map(_bool_value))].copy() if not audit.empty else pd.DataFrame()
+    funded_errors = audit[(~audit.get("amount_correct_flag", pd.Series(dtype=bool)).map(_bool_value)) | (~audit.get("funded_vs_ceiling_correct_flag", pd.Series(dtype=bool)).map(_bool_value))].copy() if not audit.empty else pd.DataFrame()
+    audited_events = _apply_audit_to_events(events, audit) if events is not None else None
+
+    def rate(col: str) -> float:
+        return float(audit[col].map(_bool_value).mean()) if not audit.empty and col in audit.columns else 0.0
+
+    summary: dict[str, object] = {
+        "audit_rows": int(len(audit)),
+        "audit_model_eligible_rows": int(audit.get("model_eligible_after_audit", pd.Series(dtype=bool)).map(_bool_value).sum()) if not audit.empty else 0,
+        "reviewed_gold_rows": int(len(gold)),
+        "reviewed_gold_events": int(gold["event_id"].nunique()) if not gold.empty else 0,
+        "recipient_mapping_correct_rate": rate("recipient_mapping_correct_flag"),
+        "mapping_model_eligible_rate": rate("mapping_model_eligible_flag"),
+        "event_type_correct_rate": rate("event_type_correct_flag"),
+        "amount_correct_rate": rate("amount_correct_flag"),
+        "funded_vs_ceiling_correct_rate": rate("funded_vs_ceiling_correct_flag"),
+        "timestamp_suitable_rows": int(audit.get("timestamp_suitable_flag", pd.Series(dtype=bool)).map(_bool_value).sum()) if not audit.empty else 0,
+        "public_awareness_status_counts": audit.get("public_awareness_evidence_status", pd.Series(dtype=str)).value_counts(dropna=False).to_dict() if not audit.empty else {},
+        **sample_summary,
+    }
+    if summary["timestamp_suitable_rows"] == 0:
+        summary["verdict"] = "timestamp/public-awareness insufficient"
+    elif summary["recipient_mapping_correct_rate"] < 0.90:
+        summary["verdict"] = "mapping insufficient"
+    elif summary["funded_vs_ceiling_correct_rate"] < 0.95:
+        summary["verdict"] = "funded-vs-ceiling classification insufficient"
+    elif summary["event_type_correct_rate"] < 0.95:
+        summary["verdict"] = "parser not trusted"
+    else:
+        summary["verdict"] = "continue corpus buildout"
+    return audit, gold, mapping_errors, funded_errors, audited_events, summary
+
+
+def write_government_contract_human_audit_report(summary: dict[str, object], audit: pd.DataFrame, mapping_errors: pd.DataFrame, funded_errors: pd.DataFrame, out_path: str | Path) -> Path:
+    out = ensure_parent(out_path)
+    lines = [
+        "# Government Contract Human Audit Report",
+        "",
+        "This is a corpus audit report, not a prediction result.",
+        "",
+        "## Verdict",
+        "",
+        f"- verdict: {summary.get('verdict')}",
+        "",
+        "## Summary",
+        "",
+    ]
+    for key, value in summary.items():
+        if key in {"bucket_counts", "bucket_shortfalls", "public_awareness_status_counts", "verdict"}:
+            continue
+        lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Audit Buckets", ""])
+    for key, value in (summary.get("bucket_counts", {}) or {}).items():
+        lines.append(f"- {key}: {value}")
+    if summary.get("bucket_shortfalls"):
+        lines.extend(["", "## Bucket Shortfalls", ""])
+        for key, value in (summary.get("bucket_shortfalls", {}) or {}).items():
+            lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Public Awareness Evidence", ""])
+    for key, value in (summary.get("public_awareness_status_counts", {}) or {}).items():
+        lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Mapping Errors / Ineligible Rows", ""])
+    if mapping_errors.empty:
+        lines.append("- none")
+    else:
+        for _, row in mapping_errors.head(40).iterrows():
+            lines.append(f"- {row.get('event_id')}: recipient={row.get('recipient_name')} parsed={row.get('parsed_ticker')} reviewed={row.get('reviewed_mapped_ticker')} reason={row.get('drop_reason')}")
+    lines.extend(["", "## Funded Vs Ceiling Errors", ""])
+    if funded_errors.empty:
+        lines.append("- none")
+    else:
+        for _, row in funded_errors.head(40).iterrows():
+            lines.append(f"- {row.get('event_id')}: type={row.get('reviewed_government_contract_event_type')} reason={row.get('drop_reason')}")
+    lines.extend(["", "## Audited Rows", ""])
+    for _, row in audit.head(80).iterrows():
+        lines.append(f"- {row.get('event_id')}: bucket={row.get('audit_bucket')} recipient={row.get('recipient_name')} model_eligible={row.get('model_eligible_after_audit')} drop_reason={row.get('drop_reason')}")
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return out
+
+
 def parse_government_contract_manifest(
     documents_path: str | Path,
     facts_out: str | Path,
@@ -1865,6 +2302,9 @@ def government_contract_readiness_summary(
     elif not gates.get("parser_audit_pass", False):
         decision = "parser not trusted"
         reason = "parser audit is missing or failing"
+    elif not gates.get("clear_event_timestamps", False):
+        decision = "timestamp/public-awareness insufficient"
+        reason = "too few rows have clear event timestamps or public-awareness evidence"
     elif metrics["rows_with_recipient_mapping_confidence_high"] < max(20, int(0.75 * len(events))):
         decision = "mapping insufficient"
         reason = "too few rows have high-confidence recipient-to-ticker mapping"

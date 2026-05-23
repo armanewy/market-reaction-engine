@@ -196,7 +196,7 @@ tests, and gated research reports.
 
 ## Government Contract Awards Domain
 
-Status: real corpus and mapping/context stress test implemented; not model-ready.
+Status: real corpus, mapping/context stress test, and 60-row audit implemented; not model-ready.
 
 - Corpus domain: `government_contract_awards`
 - USAspending/manifest source discovery
@@ -205,8 +205,10 @@ Status: real corpus and mapping/context stress test implemented; not model-ready
 - Parser audit command and audit report scaffold
 - Machine-proposed gold-set template that requires human review
 - Recipient mapping audit command and report
+- 60-row human-audit command and report
 - Market context enrichment command
 - Readiness report with no-model gating
-- 4B verdict: parser not trusted; next blockers are human-reviewed parser audit, clear timestamps, and reviewed usable rows
+- 4B verdict: parser not trusted
+- 4C verdict: timestamp/public-awareness insufficient; USAspending-only rows are not valid market-public timestamps
 
 See `docs/GOVERNMENT_CONTRACT_AWARDS_MILESTONE.md`.

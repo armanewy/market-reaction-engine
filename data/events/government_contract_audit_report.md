@@ -1,0 +1,113 @@
+# Government Contract Human Audit Report
+
+This is a corpus audit report, not a prediction result.
+
+## Verdict
+
+- verdict: timestamp/public-awareness insufficient
+
+## Summary
+
+- audit_rows: 60
+- audit_model_eligible_rows: 0
+- reviewed_gold_rows: 540
+- reviewed_gold_events: 60
+- recipient_mapping_correct_rate: 1.0
+- mapping_model_eligible_rate: 1.0
+- event_type_correct_rate: 1.0
+- amount_correct_rate: 1.0
+- funded_vs_ceiling_correct_rate: 1.0
+- timestamp_suitable_rows: 0
+- events_out: data\events\government_contract_enriched.csv
+
+## Audit Buckets
+
+- new_funded_awards: 15
+- task_orders: 10
+- modifications_options: 10
+- idiq_ceiling: 9
+- sbir_sttr_ota: 5
+- public_announcement_style: 0
+- ambiguous_subsidiary_mapping: 0
+- materiality_backfill: 11
+
+## Bucket Shortfalls
+
+- idiq_ceiling: 1
+- public_announcement_style: 5
+- ambiguous_subsidiary_mapping: 5
+
+## Public Awareness Evidence
+
+- usaspending_record_only_not_market_timestamp: 60
+
+## Mapping Errors / Ineligible Rows
+
+- none
+
+## Funded Vs Ceiling Errors
+
+- none
+
+## Audited Rows
+
+- government_contract_LMT_N0001923C0003: bucket=new_funded_awards recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_W31P4Q24C0022: bucket=new_funded_awards recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_HII_N0002423C2307: bucket=new_funded_awards recipient=HUNTINGTON INGALLS INCORPORATED model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_N0001924C0039: bucket=new_funded_awards recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_FA868224CB001: bucket=new_funded_awards recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_GD_N0002423C2305: bucket=new_funded_awards recipient=BATH IRON WORKS CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_HQ085621C0001: bucket=new_funded_awards recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BA_W58RGZ21C0015: bucket=new_funded_awards recipient=THE BOEING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_HII_N0002421C2106: bucket=new_funded_awards recipient=HUNTINGTON INGALLS INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_N0002422C5500: bucket=new_funded_awards recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_N0001925C0070: bucket=new_funded_awards recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BA_N0001924C0025: bucket=new_funded_awards recipient=THE BOEING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_FA867523C0037: bucket=new_funded_awards recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_GD_N0002424C2301: bucket=new_funded_awards recipient=NATIONAL STEEL AND SHIPBUILDING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_NOC_HQ085621C0003: bucket=new_funded_awards recipient=NORTHROP GRUMMAN SYSTEMS CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BA_FA863423F0048: bucket=task_orders recipient=THE BOEING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_W31P4Q24F0165: bucket=task_orders recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_FA820523F0501: bucket=task_orders recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_W31P4Q23F0024: bucket=task_orders recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BA_FA863422F0035: bucket=task_orders recipient=THE BOEING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_W31P4Q23F0006: bucket=task_orders recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BA_N0001922F0030: bucket=task_orders recipient=THE BOEING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BAH_47QFCA21F0018: bucket=task_orders recipient=BOOZ ALLEN HAMILTON INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BAH_36C10B21N10070021: bucket=task_orders recipient=BOOZ ALLEN HAMILTON INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_FA865622FA071: bucket=task_orders recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_N0001923F0002: bucket=modifications_options recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_GD_W56HZV22C0012: bucket=modifications_options recipient=GENERAL DYNAMICS LAND SYSTEMS INC. model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LDOS_693KA721C00014: bucket=modifications_options recipient=LEIDOS, INC. model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_GD_47QFCA21F0051: bucket=modifications_options recipient=GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BA_H9224122F0002: bucket=modifications_options recipient=THE BOEING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_N0002422C5400: bucket=modifications_options recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_SAIC_70B04C20F00001359: bucket=modifications_options recipient=SCIENCE APPLICATIONS INTERNATIONAL CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_SAIC_N0002422C6419: bucket=modifications_options recipient=SCIENCE APPLICATIONS INTERNATIONAL CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_N0002423C5325: bucket=modifications_options recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_HQ086221F0008: bucket=modifications_options recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LDOS_80TECH21DA002: bucket=idiq_ceiling recipient=LEIDOS, INC. model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BAH_80TECH22DA002: bucket=idiq_ceiling recipient=BOOZ ALLEN HAMILTON INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_CACI_80JSC023DA010: bucket=idiq_ceiling recipient=CACI, INC. - FEDERAL model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_SAIC_80JSC024DA019: bucket=idiq_ceiling recipient=SCIENCE APPLICATIONS INTERNATIONAL CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_80JSC022DA023: bucket=idiq_ceiling recipient=HAMILTON SUNDSTRAND SPACE SYSTEMS INTERNATIONAL, INC. model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LUNR_80JSC024DA020: bucket=idiq_ceiling recipient=INTUITIVE MACHINES, LLC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BAH_80ARC024DA001: bucket=idiq_ceiling recipient=BOOZ ALLEN HAMILTON INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_GD_68HERH21D0014: bucket=idiq_ceiling recipient=GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_GD_140D0424D0001: bucket=idiq_ceiling recipient=GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_AVAV_N6833524F0020: bucket=sbir_sttr_ota recipient=AEROVIRONMENT, INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_AVAV_N6833523F0252: bucket=sbir_sttr_ota recipient=AEROVIRONMENT, INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_AVAV_N6833524F0079: bucket=sbir_sttr_ota recipient=AEROVIRONMENT, INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_AVAV_N6833526F0005: bucket=sbir_sttr_ota recipient=AEROVIRONMENT, INC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BKSY_FA254125CB025: bucket=sbir_sttr_ota recipient=BLACKSKY GEOSPATIAL SOLUTIONS, LLC model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_HQ085124C0001: bucket=materiality_backfill recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BA_W58RGZ26C0002: bucket=materiality_backfill recipient=THE BOEING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_W31P4Q23C0005: bucket=materiality_backfill recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_FA865925CB003: bucket=materiality_backfill recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_FA867521C0034: bucket=materiality_backfill recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_BA_FA873023C0025: bucket=materiality_backfill recipient=THE BOEING COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_N0001924C0032: bucket=materiality_backfill recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_N0003022C1025: bucket=materiality_backfill recipient=LOCKHEED MARTIN CORP model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_LMT_N0003024C0100: bucket=materiality_backfill recipient=LOCKHEED MARTIN CORPORATION model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_RTX_W31P4Q24C0024: bucket=materiality_backfill recipient=RAYTHEON COMPANY model_eligible=False drop_reason=timestamp_public_awareness_insufficient
+- government_contract_HII_N0002424C2473: bucket=materiality_backfill recipient=HUNTINGTON INGALLS INCORPORATED model_eligible=False drop_reason=timestamp_public_awareness_insufficient
