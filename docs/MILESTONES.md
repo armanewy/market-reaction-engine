@@ -157,3 +157,31 @@ Required before taking any trading signal seriously:
 - strict point-in-time data handling
 - pre-registered feature sets
 
+
+## M6/M7 closeout: narrow-domain corpora + falsification harness
+
+Status: implemented in v0.7.0.
+
+This milestone closes the remaining research-value scaffolding from the original roadmap.
+
+Narrow-domain corpus layer:
+
+- Domain schemas for earnings/guidance, FDA/biotech, regulatory/legal, cyber incidents, and recall/safety events
+- Domain-specific event templates
+- Curated corpus builder and validator
+- Review/evidence/label-quality flags
+- Corpus quality summaries
+- Offline synthetic multi-domain corpus demo
+
+Backtest/falsification harness:
+
+- Purged walk-forward direction model
+- Calibration table and expected calibration error
+- Event-level strategy simulation with configurable costs/slippage and long/short thresholds
+- Return-shuffle null distribution
+- Random or shifted placebo event generation
+- Peer-control event generation
+- Base-rate tables by domain/event metadata
+- Full offline corpus + backtest demo
+
+See `docs/NARROW_CORPUS_AND_BACKTEST_MILESTONE.md`.

@@ -1,6 +1,6 @@
 # Market Reaction Engine
 
-Version 0.6 adds real source ingestion: SEC filing/exhibit downloads, URL/local/inline source normalization, extraction-ready source manifests, and an offline ingestion demo.
+Version 0.7 adds narrow-domain corpus schemas plus a backtest/falsification harness: curated corpus validation, placebo/peer controls, purged walk-forward evaluation, calibration, and strategy simulation with costs/slippage.
 
 This project is intentionally conservative. It is not a magic stock predictor. It is a point-in-time event-study workbench that helps answer:
 
@@ -445,3 +445,25 @@ Useful optional columns:
 - Alpha Vantage EPS history is not enough by itself: add exact release timestamps, revenue/margin/guidance surprises, options implied move, and point-in-time analyst estimates.
 - Most events should be noise. The correct system must abstain often.
 - Before trusting a signal, add placebo dates, peer placebos, costs/slippage, and strict walk-forward validation.
+
+
+### M6 — real source ingestion
+
+- URL/local/inline source-ingestion template
+- Normalize company press releases, transcript pages, agency docs, or local HTML/text into auditable text files
+- SEC filing source-document ingestion
+- SEC archive index support for primary filing docs and likely earnings-release exhibits
+- Source manifest output compatible with `mre extract-facts`
+- Offline source-ingestion demo
+
+### M7 — narrow-domain corpora and falsification harness
+
+- Domain schemas/templates for `earnings_guidance`, `fda_biotech`, `regulatory_legal`, `cyber_incident`, and `recall_safety`
+- Curated corpus builder and validator with review/evidence/label-quality flags
+- Base-rate tables by domain/event metadata
+- Purged walk-forward validation
+- Probability calibration tables
+- Strategy simulation with costs/slippage and long/short thresholds
+- Return-shuffle null distribution
+- Random/shifted placebo events and peer-control events
+- Offline `corpus-demo` pipeline

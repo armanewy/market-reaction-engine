@@ -5,6 +5,18 @@ import json
 from pathlib import Path
 
 from .analyst_revisions import make_analyst_revisions_template, merge_analyst_revisions
+from .backtest import (
+    calibration_table,
+    make_peer_control_events,
+    make_placebo_events,
+    null_shuffle_strategy_test,
+    purged_walk_forward_direction_model,
+    run_research_backtest,
+    simulate_event_strategy,
+)
+from .base_rates import base_rate_table
+from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
+from .corpus_demo import generate_corpus_demo_data
 from .demo import generate_demo_data
 from .extraction import build_extraction_packets, run_document_extraction, validate_llm_facts_jsonl
 from .extraction_demo import generate_extraction_demo_data
@@ -545,12 +557,254 @@ def cmd_source_ingestion_demo(args: argparse.Namespace) -> None:
     print("Source ingestion demo complete.")
     print(json.dumps({k: str(v) for k, v in paths.items()}, indent=2))
 
+
+def cmd_corpus_domains(args: argparse.Namespace) -> None:
+    df = list_corpus_domains()
+    print(df.to_string(index=False))
+
+
+def cmd_domain_template(args: argparse.Namespace) -> None:
+    df = make_domain_event_template(
+        args.domain,
+        args.out,
+        tickers=args.tickers,
+        corpus_name=args.corpus_name,
+        rows_per_ticker=args.rows_per_ticker,
+    )
+    print(json.dumps({"rows": int(len(df)), "domain": args.domain, "out": str(args.out)}, indent=2))
+
+
+def cmd_build_corpus(args: argparse.Namespace) -> None:
+    df, diag = build_curated_corpus(
+        args.inputs,
+        args.out,
+        domain=args.domain,
+        corpus_name=args.corpus_name,
+        require_reviewed=args.require_reviewed,
+        min_materiality=args.min_materiality,
+    )
+    print(json.dumps({"rows": int(len(df)), "diagnostics": diag.to_dict(), "quality": corpus_quality_summary(df), "out": str(args.out)}, indent=2, default=str))
+
+
+def cmd_validate_corpus(args: argparse.Namespace) -> None:
+    df, diag = validate_corpus_csv(args.events, args.out, domain=args.domain, min_materiality=args.min_materiality)
+    print(json.dumps({"rows": int(len(df)), "diagnostics": diag.to_dict(), "quality": corpus_quality_summary(df), "out": str(args.out)}, indent=2, default=str))
+
+
+def cmd_base_rates(args: argparse.Namespace) -> None:
+    df = base_rate_table(
+        args.event_study,
+        horizon=args.horizon,
+        group_by=args.group_by,
+        min_count=args.min_count,
+        out_path=args.out,
+    )
+    if args.out:
+        print(f"Wrote base-rate table: {args.out}")
+    print(df.head(args.head).to_string(index=False))
+
+
+def cmd_calibrate(args: argparse.Namespace) -> None:
+    table, report = calibration_table(
+        args.predictions,
+        probability_column=args.probability_column,
+        target_column=args.target_column,
+        bins=args.bins,
+        out_path=args.out,
+    )
+    print(json.dumps({"report": report, "out": str(args.out)}, indent=2, default=str))
+    print(table.to_string(index=False))
+
+
+def cmd_simulate_strategy(args: argparse.Namespace) -> None:
+    _, report = simulate_event_strategy(
+        args.predictions,
+        horizon=args.horizon,
+        probability_column=args.probability_column,
+        return_column=args.return_column,
+        long_threshold=args.long_threshold,
+        short_threshold=args.short_threshold,
+        allow_short=args.allow_short,
+        cost_bps=args.cost_bps,
+        slippage_bps=args.slippage_bps,
+        out_trades=args.out_trades,
+    )
+    if args.out_report:
+        ensure_parent(args.out_report).write_text(json.dumps(report, indent=2, default=str))
+        report["report_path"] = str(args.out_report)
+    print(json.dumps(report, indent=2, default=str))
+
+
+def cmd_null_shuffle(args: argparse.Namespace) -> None:
+    _, report = null_shuffle_strategy_test(
+        args.predictions,
+        horizon=args.horizon,
+        n_iter=args.n_iter,
+        seed=args.seed,
+        probability_column=args.probability_column,
+        return_column=args.return_column,
+        long_threshold=args.long_threshold,
+        short_threshold=args.short_threshold,
+        allow_short=args.allow_short,
+        cost_bps=args.cost_bps,
+        slippage_bps=args.slippage_bps,
+        out_path=args.out,
+    )
+    if args.out_report:
+        ensure_parent(args.out_report).write_text(json.dumps(report, indent=2, default=str))
+        report["report_path"] = str(args.out_report)
+    print(json.dumps(report, indent=2, default=str))
+
+
+def cmd_purged_walk_forward(args: argparse.Namespace) -> None:
+    _, report = purged_walk_forward_direction_model(
+        args.event_study,
+        horizon=args.horizon,
+        min_train=args.min_train,
+        purge_days=args.purge_days,
+        out_predictions=args.out_predictions,
+        out_report=args.out_report,
+    )
+    print(json.dumps(report, indent=2, default=str))
+
+
+def cmd_research_backtest(args: argparse.Namespace) -> None:
+    report = run_research_backtest(
+        args.event_study,
+        args.out_dir,
+        horizon=args.horizon,
+        min_train=args.min_train,
+        purge_days=args.purge_days,
+        probability_threshold=args.probability_threshold,
+        allow_short=args.allow_short,
+        cost_bps=args.cost_bps,
+        slippage_bps=args.slippage_bps,
+        calibration_bins=args.calibration_bins,
+        null_iterations=args.null_iterations,
+        seed=args.seed,
+    )
+    print(json.dumps(report, indent=2, default=str))
+
+
+def cmd_make_placebo_events(args: argparse.Namespace) -> None:
+    df, diag = make_placebo_events(
+        args.events,
+        args.prices_dir,
+        args.out,
+        n_per_event=args.n_per_event,
+        mode=args.mode,
+        shift_days=comma_ints(args.shift_days),
+        avoid_window_days=args.avoid_window_days,
+        seed=args.seed,
+    )
+    print(json.dumps({"rows": int(len(df)), "diagnostics": diag.to_dict(), "out": str(args.out)}, indent=2, default=str))
+
+
+def cmd_make_peer_controls(args: argparse.Namespace) -> None:
+    df, diag = make_peer_control_events(args.events, args.out, peer_map=args.peer_map, universe=args.universe)
+    print(json.dumps({"rows": int(len(df)), "diagnostics": diag.to_dict(), "out": str(args.out)}, indent=2, default=str))
+
+
+def cmd_corpus_demo(args: argparse.Namespace) -> None:
+    root = Path(args.root)
+    data_paths = generate_corpus_demo_data(root / "data" / "corpus_demo", seed=args.seed)
+    event_study_out = root / "artifacts" / "corpus_demo_event_study.csv"
+    placebo_events = root / "artifacts" / "corpus_demo_placebo_events.csv"
+    placebo_study_out = root / "artifacts" / "corpus_demo_placebo_event_study.csv"
+    peer_events = root / "artifacts" / "corpus_demo_peer_events.csv"
+    backtest_dir = root / "artifacts" / "corpus_demo_backtest"
+    df, diag = run_event_study(
+        data_paths["events_enriched"],
+        data_paths["prices_dir"],
+        benchmark_ticker="SPY",
+        horizons=(1, 3, 10),
+        estimation_window=120,
+        estimation_gap=5,
+        min_estimation_observations=60,
+    )
+    ensure_parent(event_study_out)
+    df.to_csv(event_study_out, index=False)
+    make_placebo_events(data_paths["events_enriched"], data_paths["prices_dir"], placebo_events, n_per_event=1, seed=args.seed)
+    placebo_df, placebo_diag = run_event_study(
+        placebo_events,
+        data_paths["prices_dir"],
+        benchmark_ticker="SPY",
+        horizons=(1, 3, 10),
+        estimation_window=120,
+        estimation_gap=5,
+        min_estimation_observations=60,
+    )
+    placebo_df.to_csv(placebo_study_out, index=False)
+    make_peer_control_events(data_paths["events_enriched"], peer_events)
+    backtest_report = run_research_backtest(
+        event_study_out,
+        backtest_dir,
+        horizon=1,
+        min_train=30,
+        purge_days=3,
+        probability_threshold=0.58,
+        allow_short=True,
+        cost_bps=5.0,
+        slippage_bps=5.0,
+        null_iterations=100,
+        seed=args.seed,
+    )
+    print("Corpus/backtest demo complete.")
+    print(json.dumps({
+        "events_enriched": str(data_paths["events_enriched"]),
+        "corpus_validation": str(data_paths["validation"]),
+        "prices_dir": str(data_paths["prices_dir"]),
+        "event_study": str(event_study_out),
+        "placebo_events": str(placebo_events),
+        "placebo_event_study": str(placebo_study_out),
+        "peer_events": str(peer_events),
+        "backtest_report": backtest_report,
+        "diagnostics": {"event_study": diag.__dict__, "placebo_event_study": placebo_diag.__dict__},
+    }, indent=2, default=str))
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="mre",
         description="Market Reaction Engine: event-study workbench for abnormal market reactions.",
     )
     sub = parser.add_subparsers(dest="command", required=True)
+
+    p = sub.add_parser("corpus-domains", help="List supported narrow-domain corpus schemas.")
+    p.set_defaults(func=cmd_corpus_domains)
+
+    p = sub.add_parser("domain-template", help="Create a domain-specific curated event template.")
+    p.add_argument("--domain", required=True, help="earnings_guidance, fda_biotech, regulatory_legal, cyber_incident, or recall_safety")
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--corpus-name", default=None)
+    p.add_argument("--rows-per-ticker", type=int, default=1)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_domain_template)
+
+    p = sub.add_parser("build-corpus", help="Merge and validate curated event CSVs into one narrow-domain corpus.")
+    p.add_argument("--inputs", nargs="+", required=True)
+    p.add_argument("--domain", default=None)
+    p.add_argument("--corpus-name", default=None)
+    p.add_argument("--require-reviewed", action="store_true", help="Keep only rows that pass corpus validation.")
+    p.add_argument("--min-materiality", type=float, default=0.0)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_build_corpus)
+
+    p = sub.add_parser("validate-corpus", help="Validate a narrow-domain event corpus for missing review/evidence fields.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--domain", default=None)
+    p.add_argument("--min-materiality", type=float, default=0.0)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_validate_corpus)
+
+    p = sub.add_parser("base-rates", help="Summarize abnormal-return base rates by event metadata bins.")
+    p.add_argument("--event-study", required=True)
+    p.add_argument("--horizon", type=int, default=1)
+    p.add_argument("--group-by", default="event_family,event_subtype,surprise_direction,surprise_magnitude")
+    p.add_argument("--min-count", type=int, default=3)
+    p.add_argument("--head", type=int, default=20)
+    p.add_argument("--out")
+    p.set_defaults(func=cmd_base_rates)
 
     p = sub.add_parser("sector-presets", help="List built-in sector/ticker presets for earnings corpus bootstrapping.")
     p.set_defaults(func=cmd_sector_presets)
@@ -767,6 +1021,86 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--out-report", default="artifacts/walk_forward_report.json")
     p.set_defaults(func=cmd_walk_forward)
 
+    p = sub.add_parser("purged-walk-forward", help="Walk-forward direction evaluation with recent overlapping rows purged.")
+    p.add_argument("--event-study", required=True)
+    p.add_argument("--horizon", type=int, default=1)
+    p.add_argument("--min-train", type=int, default=40)
+    p.add_argument("--purge-days", type=int, default=None)
+    p.add_argument("--out-predictions", default="artifacts/purged_walk_forward_predictions.csv")
+    p.add_argument("--out-report", default="artifacts/purged_walk_forward_report.json")
+    p.set_defaults(func=cmd_purged_walk_forward)
+
+    p = sub.add_parser("calibrate", help="Compute probability calibration bins from walk-forward predictions.")
+    p.add_argument("--predictions", required=True)
+    p.add_argument("--probability-column", default="predicted_positive_probability")
+    p.add_argument("--target-column", default="y_true")
+    p.add_argument("--bins", type=int, default=10)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_calibrate)
+
+    p = sub.add_parser("simulate-strategy", help="Apply thresholds, costs, and slippage to event-level predictions.")
+    p.add_argument("--predictions", required=True)
+    p.add_argument("--horizon", type=int, default=1)
+    p.add_argument("--probability-column", default="predicted_positive_probability")
+    p.add_argument("--return-column", default=None)
+    p.add_argument("--long-threshold", type=float, default=0.60)
+    p.add_argument("--short-threshold", type=float, default=None)
+    p.add_argument("--allow-short", action="store_true")
+    p.add_argument("--cost-bps", type=float, default=0.0)
+    p.add_argument("--slippage-bps", type=float, default=0.0)
+    p.add_argument("--out-trades", default="artifacts/strategy_trades.csv")
+    p.add_argument("--out-report", default="artifacts/strategy_report.json")
+    p.set_defaults(func=cmd_simulate_strategy)
+
+    p = sub.add_parser("null-shuffle", help="Shuffle realized returns to build a simple null distribution for a strategy.")
+    p.add_argument("--predictions", required=True)
+    p.add_argument("--horizon", type=int, default=1)
+    p.add_argument("--n-iter", type=int, default=500)
+    p.add_argument("--seed", type=int, default=42)
+    p.add_argument("--probability-column", default="predicted_positive_probability")
+    p.add_argument("--return-column", default=None)
+    p.add_argument("--long-threshold", type=float, default=0.60)
+    p.add_argument("--short-threshold", type=float, default=None)
+    p.add_argument("--allow-short", action="store_true")
+    p.add_argument("--cost-bps", type=float, default=0.0)
+    p.add_argument("--slippage-bps", type=float, default=0.0)
+    p.add_argument("--out", default="artifacts/null_shuffle_distribution.csv")
+    p.add_argument("--out-report", default="artifacts/null_shuffle_report.json")
+    p.set_defaults(func=cmd_null_shuffle)
+
+    p = sub.add_parser("research-backtest", help="Run purged walk-forward, calibration, strategy simulation, and null shuffle in one harness.")
+    p.add_argument("--event-study", required=True)
+    p.add_argument("--out-dir", default="artifacts/research_backtest")
+    p.add_argument("--horizon", type=int, default=1)
+    p.add_argument("--min-train", type=int, default=40)
+    p.add_argument("--purge-days", type=int, default=None)
+    p.add_argument("--probability-threshold", type=float, default=0.60)
+    p.add_argument("--allow-short", action="store_true")
+    p.add_argument("--cost-bps", type=float, default=0.0)
+    p.add_argument("--slippage-bps", type=float, default=0.0)
+    p.add_argument("--calibration-bins", type=int, default=10)
+    p.add_argument("--null-iterations", type=int, default=500)
+    p.add_argument("--seed", type=int, default=42)
+    p.set_defaults(func=cmd_research_backtest)
+
+    p = sub.add_parser("make-placebo-events", help="Create random/shifted non-event placebo controls from an event CSV.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--prices-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--n-per-event", type=int, default=1)
+    p.add_argument("--mode", default="random", choices=["random", "shift"])
+    p.add_argument("--shift-days", default="30,60,90,-30,-60,-90")
+    p.add_argument("--avoid-window-days", type=int, default=10)
+    p.add_argument("--seed", type=int, default=42)
+    p.set_defaults(func=cmd_make_placebo_events)
+
+    p = sub.add_parser("make-peer-controls", help="Create peer-control events by replacing the affected ticker with a peer.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--peer-map", default=None, help="Optional CSV with ticker,peer_ticker columns.")
+    p.add_argument("--universe", default=None, help="Optional CSV with a ticker column; peers rotate through this list.")
+    p.set_defaults(func=cmd_make_peer_controls)
+
     p = sub.add_parser("predict", help="Run a trained direction model on event-study rows.")
     p.add_argument("--model", required=True)
     p.add_argument("--event-study", required=True)
@@ -812,6 +1146,11 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("source-ingestion-demo", help="Run the offline source-ingestion + extraction demo.")
     p.add_argument("--root", default=".")
     p.set_defaults(func=cmd_source_ingestion_demo)
+
+    p = sub.add_parser("corpus-demo", help="Run the offline synthetic multi-domain corpus + backtest demo.")
+    p.add_argument("--root", default=".")
+    p.add_argument("--seed", type=int, default=11)
+    p.set_defaults(func=cmd_corpus_demo)
 
     p = sub.add_parser("earnings-demo", help="Run the offline synthetic earnings/expectations demo pipeline.")
     p.add_argument("--root", default=".")

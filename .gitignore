@@ -7,6 +7,7 @@ artifacts/*.csv
 artifacts/*.json
 artifacts/*.md
 !artifacts/.gitkeep
+artifacts/corpus_demo_backtest/
 data/prices/*
 !data/prices/.gitkeep
 data/events/*
@@ -14,6 +15,7 @@ data/events/*
 data/earnings_demo/
 data/extraction_demo/
 data/source_ingestion_demo/
+data/corpus_demo/
 .DS_Store
 .pytest_cache/
 *.egg-info/

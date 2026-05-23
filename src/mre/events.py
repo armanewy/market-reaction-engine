@@ -15,6 +15,7 @@ REQUIRED_EVENT_COLUMNS = [
 
 OPTIONAL_EVENT_COLUMNS_WITH_DEFAULTS = {
     "event_subtype": "unknown",
+    "event_family": "unknown",
     "source_type": "unknown",
     "source_url": "",
     "release_session": "unknown",  # before_open, intraday, after_close, unknown
@@ -71,6 +72,7 @@ def load_events(path: str | Path) -> pd.DataFrame:
     for col in [
         "event_type",
         "event_subtype",
+        "event_family",
         "source_type",
         "expectedness",
         "surprise_direction",
