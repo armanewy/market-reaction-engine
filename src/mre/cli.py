@@ -17,6 +17,7 @@ from .backtest import (
 from .base_rates import base_rate_table
 from .capital_raises import (
     build_capital_raise_sec_source_documents,
+    build_sec_shares_outstanding_context,
     enrich_capital_raise_context,
     parse_capital_raise_manifest,
     validate_capital_raise_parser,
@@ -461,6 +462,12 @@ def cmd_capital_raise_sec_source_docs(args: argparse.Namespace) -> None:
     )
 
 
+def cmd_capital_raise_shares_context(args: argparse.Namespace) -> None:
+    client = SecClient(user_agent=args.user_agent, requests_per_second=args.requests_per_second)
+    df, diagnostics = build_sec_shares_outstanding_context(client, args.events, args.out)
+    print(json.dumps({"rows": int(len(df)), "out": str(args.out), "diagnostics": diagnostics}, indent=2, default=str))
+
+
 def cmd_validate_capital_raise_parser(args: argparse.Namespace) -> None:
     facts_df = __import__("pandas").read_csv(args.facts)
     gold_df = __import__("pandas").read_csv(args.gold)
@@ -491,7 +498,7 @@ def cmd_enrich_capital_raise_context(args: argparse.Namespace) -> None:
 
 
 def cmd_capital_raise_readiness_report(args: argparse.Namespace) -> None:
-    summary = write_capital_raise_readiness_report(args.events, args.out, min_train=args.min_train)
+    summary = write_capital_raise_readiness_report(args.events, args.out, min_train=args.min_train, parser_errors_path=args.parser_errors)
     print(json.dumps({"report": str(args.out), **summary}, indent=2, default=str))
 
 
@@ -1271,6 +1278,13 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--report-out", required=True)
     p.set_defaults(func=cmd_validate_capital_raise_parser)
 
+    p = sub.add_parser("capital-raise-shares-context", help="Build point-in-time SEC share-count context for capital-raise events.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--user-agent", default=None)
+    p.add_argument("--requests-per-second", type=float, default=5.0)
+    p.set_defaults(func=cmd_capital_raise_shares_context)
+
     p = sub.add_parser("enrich-capital-raise-context", help="Add discount, dilution, market-cap, and pre-event run-up context to reviewed capital-raise events.")
     p.add_argument("--events", required=True)
     p.add_argument("--prices-dir", required=True)
@@ -1284,6 +1298,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--events", required=True)
     p.add_argument("--out", required=True)
     p.add_argument("--min-train", type=int, default=40)
+    p.add_argument("--parser-errors", default=None, help="Optional parser validation errors CSV; if supplied, parser audit must pass.")
     p.set_defaults(func=cmd_capital_raise_readiness_report)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")

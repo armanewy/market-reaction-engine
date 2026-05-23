@@ -4,6 +4,7 @@ import pandas as pd
 
 from mre.capital_raises import (
     build_capital_raise_sec_source_documents,
+    build_sec_shares_outstanding_context,
     capital_raise_readiness_summary,
     enrich_capital_raise_context,
     parse_capital_raise_document,
@@ -184,6 +185,18 @@ def test_validate_capital_raise_parser_against_gold():
     assert set(errors["status"]) == {"ok"}
 
 
+def test_validate_capital_raise_parser_detects_false_positive():
+    facts = pd.DataFrame(
+        [
+            {"event_id": "E1", "fact_name": "gross_proceeds", "value": 1.0, "unit": "usd", "confidence": 0.9, "evidence_text": "FATCA gross proceeds"}
+        ]
+    )
+    gold = pd.DataFrame([{"event_id": "E1", "fact_name": "gross_proceeds", "expected_present": False, "expected_value": "", "unit": "usd"}])
+    errors, report = validate_capital_raise_parser(facts, gold)
+    assert report["correct_rows"] == 0
+    assert errors.loc[0, "status"] == "false_positive"
+
+
 def test_enrich_capital_raise_context_computes_discount_and_dilution(tmp_path):
     events = pd.DataFrame(
         [
@@ -226,6 +239,51 @@ def test_enrich_capital_raise_context_computes_discount_and_dilution(tmp_path):
     assert round(enriched.loc[0, "financing_amount_pct_market_cap"], 4) == 0.08
 
 
+def test_enrich_uses_latest_pre_event_filed_share_count(tmp_path):
+    events = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "ticker": "XYZ",
+                "event_time": "2024-02-15T16:05:00",
+                "release_session": "after_close",
+                "price_per_share": 8.0,
+                "financing_amount_best": 8_000_000,
+                "shares_offered": 1_000_000,
+            }
+        ]
+    )
+    events_path = tmp_path / "events.csv"
+    events.to_csv(events_path, index=False)
+    shares = pd.DataFrame(
+        [
+            {"ticker": "XYZ", "asof_date": "2023-09-30", "filed_at": "2023-11-01", "shares_outstanding_before_event": 10_000_000, "source_type": "old"},
+            {"ticker": "XYZ", "asof_date": "2023-12-31", "filed_at": "2024-03-01", "shares_outstanding_before_event": 20_000_000, "source_type": "future"},
+        ]
+    )
+    shares_path = tmp_path / "shares.csv"
+    shares.to_csv(shares_path, index=False)
+    prices_dir = tmp_path / "prices"
+    prices_dir.mkdir()
+    price_rows = pd.DataFrame(
+        {
+            "date": pd.date_range("2024-01-02", periods=40, freq="B"),
+            "open": [10.0] * 40,
+            "high": [10.0] * 40,
+            "low": [10.0] * 40,
+            "close": [10.0] * 40,
+            "adj_close": [10.0] * 40,
+            "volume": [1000] * 40,
+        }
+    )
+    price_rows.to_csv(prices_dir / "XYZ.csv", index=False)
+    price_rows.to_csv(prices_dir / "SPY.csv", index=False)
+    enriched = enrich_capital_raise_context(events_path, prices_dir, tmp_path / "enriched.csv", shares_outstanding_path=shares_path)
+    assert enriched.loc[0, "shares_outstanding_before_event"] == 10_000_000
+    assert enriched.loc[0, "shares_outstanding_filed_at"] == "2023-11-01"
+    assert enriched.loc[0, "market_cap_before_event"] == 100_000_000
+
+
 def test_capital_raise_readiness_summary_enforces_gates():
     rows = []
     for i in range(85):
@@ -247,6 +305,27 @@ def test_capital_raise_readiness_summary_enforces_gates():
     assert summary["likely_oos_predictions_min_train"] == 45
     assert summary["gates"]["reviewed_usable_events_80_min"] is True
     assert summary["gates"]["reviewed_usable_events_100_preferred"] is False
+    assert summary["decision"] == "continue corpus buildout"
+
+
+def test_capital_raise_readiness_summary_can_block_on_parser_audit():
+    rows = []
+    for i in range(100):
+        rows.append(
+            {
+                "event_id": f"E{i}",
+                "ticker": "XYZ",
+                "review_status": "reviewed",
+                "completed_financing_flag": i < 70,
+                "capacity_only_flag": i >= 70,
+                "financing_amount_best": 10_000_000,
+                "discount_to_last_close_pct": -0.1,
+                "financing_amount_pct_market_cap": 0.1,
+            }
+        )
+    parser_errors = pd.DataFrame({"status": ["ok"] * 50 + ["false_positive"] * 10})
+    summary = capital_raise_readiness_summary(pd.DataFrame(rows), min_train=40, parser_errors=parser_errors)
+    assert summary["gates"]["parser_audit_pass"] is False
     assert summary["decision"] == "continue corpus buildout"
 
 
@@ -296,3 +375,30 @@ def test_capital_raise_sec_source_builder_skips_bad_ticker(monkeypatch, tmp_path
     assert diag.rows_written == 1
     assert diag.rows_skipped == 1
     assert calls == [("GOOD", ("8-K",)), ("BAD", ("8-K",))]
+
+
+def test_build_sec_shares_outstanding_context(tmp_path):
+    class FakeClient:
+        def companyfacts(self, ticker):
+            return {
+                "cik": 123,
+                "facts": {
+                    "dei": {
+                        "EntityCommonStockSharesOutstanding": {
+                            "units": {
+                                "shares": [
+                                    {"val": 10_000_000, "end": "2023-12-31", "filed": "2024-02-01", "form": "10-K", "accn": "0000000000-24-000001"}
+                                ]
+                            }
+                        }
+                    }
+                },
+            }
+
+    events = pd.DataFrame([{"ticker": "XYZ", "event_time": "2024-03-01T16:00:00"}])
+    events_path = tmp_path / "events.csv"
+    events.to_csv(events_path, index=False)
+    out, diag = build_sec_shares_outstanding_context(FakeClient(), events_path, tmp_path / "shares.csv")
+    assert diag["rows"] == 1
+    assert out.loc[0, "ticker"] == "XYZ"
+    assert out.loc[0, "shares_outstanding_before_event"] == 10_000_000

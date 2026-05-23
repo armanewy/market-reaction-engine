@@ -13,6 +13,7 @@ from .events import make_event_template
 
 SEC_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEC_SUBMISSIONS_URL = "https://data.sec.gov/submissions/CIK{cik10}.json"
+SEC_COMPANYFACTS_URL = "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik10}.json"
 SEC_ARCHIVES_BASE = "https://www.sec.gov/Archives/edgar/data"
 
 
@@ -74,6 +75,10 @@ class SecClient:
     def submissions(self, ticker: str) -> dict:
         cik, _ = self.ticker_to_cik(ticker)
         return self._get_json(SEC_SUBMISSIONS_URL.format(cik10=f"{cik:010d}"))
+
+    def companyfacts(self, ticker: str) -> dict:
+        cik, _ = self.ticker_to_cik(ticker)
+        return self._get_json(SEC_COMPANYFACTS_URL.format(cik10=f"{cik:010d}"))
 
 
     @staticmethod

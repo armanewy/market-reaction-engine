@@ -544,7 +544,29 @@ def validate_capital_raise_parser(
         unit = str(row.get("unit_gold") or row.get("unit_pred") or "").strip()
         expected_raw = row.get("expected_value")
         actual_raw = row.get("value")
-        tolerance = float(row.get("tolerance") or tolerance_by_unit.get(unit, 0.0))
+        tolerance_raw = pd.to_numeric(pd.Series([row.get("tolerance")]), errors="coerce").iloc[0]
+        tolerance = float(tolerance_raw) if pd.notna(tolerance_raw) else float(tolerance_by_unit.get(unit, 0.0))
+        expected_present = _bool_value(row.get("expected_present", True))
+
+        if not expected_present:
+            if pd.isna(actual_raw):
+                status = "ok"
+            else:
+                status = "false_positive"
+            rows.append(
+                {
+                    **{c: row.get(c) for c in key_cols},
+                    "expected_value": expected_raw,
+                    "actual_value": actual_raw,
+                    "unit": unit,
+                    "tolerance": tolerance,
+                    "abs_error": np.nan,
+                    "status": status,
+                    "confidence": row.get("confidence"),
+                    "evidence_text": row.get("evidence_text_pred", row.get("evidence_text", "")),
+                }
+            )
+            continue
 
         if unit in {"category", "text"}:
             expected = _norm_space(expected_raw).lower()
@@ -575,7 +597,7 @@ def validate_capital_raise_parser(
                 "abs_error": abs_error,
                 "status": status,
                 "confidence": row.get("confidence"),
-                "evidence_text": row.get("evidence_text", ""),
+                "evidence_text": row.get("evidence_text_pred", row.get("evidence_text", "")),
             }
         )
 
@@ -595,6 +617,74 @@ def validate_capital_raise_parser(
         ensure_parent(out_errors)
         errors.to_csv(out_errors, index=False)
     return errors, report
+
+
+def build_sec_shares_outstanding_context(
+    client: SecClient,
+    events_path: str | Path,
+    out_path: str | Path,
+) -> tuple[pd.DataFrame, dict[str, object]]:
+    events = pd.read_csv(events_path)
+    tickers = sorted({str(t).upper() for t in events.get("ticker", pd.Series(dtype=str)).dropna().unique()})
+    rows: list[dict] = []
+    diagnostics = {"tickers_total": len(tickers), "tickers_ok": 0, "tickers_skipped": 0, "skipped_reasons": {}}
+
+    def skip(reason: str) -> None:
+        diagnostics["tickers_skipped"] = int(diagnostics["tickers_skipped"]) + 1
+        skipped = diagnostics["skipped_reasons"]
+        skipped[reason] = skipped.get(reason, 0) + 1
+
+    for ticker in tickers:
+        try:
+            facts = client.companyfacts(ticker)
+        except Exception as exc:  # pragma: no cover - network/SEC ticker failures vary
+            skip(f"companyfacts error: {type(exc).__name__}")
+            continue
+        share_facts = (
+            facts.get("facts", {})
+            .get("dei", {})
+            .get("EntityCommonStockSharesOutstanding", {})
+            .get("units", {})
+            .get("shares", [])
+        )
+        if not share_facts:
+            skip("missing EntityCommonStockSharesOutstanding")
+            continue
+        cik = int(facts.get("cik", 0) or 0)
+        for fact in share_facts:
+            val = pd.to_numeric(pd.Series([fact.get("val")]), errors="coerce").iloc[0]
+            filed = pd.to_datetime(fact.get("filed"), errors="coerce")
+            end = pd.to_datetime(fact.get("end"), errors="coerce")
+            if pd.isna(val) or val <= 0 or pd.isna(filed):
+                continue
+            accn = str(fact.get("accn", "") or "")
+            source_url = ""
+            if cik and accn:
+                source_url = SecClient.filing_base_url(cik, accn)
+            rows.append(
+                {
+                    "ticker": ticker,
+                    "asof_date": end.date().isoformat() if pd.notna(end) else "",
+                    "filed_at": filed.date().isoformat(),
+                    "shares_outstanding_before_event": float(val),
+                    "source_type": "sec_companyfacts_dei",
+                    "source_url": source_url,
+                    "accession_number": accn,
+                    "form": fact.get("form", ""),
+                    "confidence": 0.82,
+                    "notes": "SEC companyfacts DEI EntityCommonStockSharesOutstanding; join uses latest filed_at <= event_time.",
+                }
+            )
+        diagnostics["tickers_ok"] = int(diagnostics["tickers_ok"]) + 1
+
+    out = pd.DataFrame(rows)
+    if not out.empty:
+        out = out.drop_duplicates(["ticker", "filed_at", "shares_outstanding_before_event", "accession_number"])
+        out = out.sort_values(["ticker", "filed_at", "asof_date"]).reset_index(drop=True)
+    ensure_parent(out_path)
+    out.to_csv(out_path, index=False)
+    diagnostics["rows"] = int(len(out))
+    return out, diagnostics
 
 
 def write_capital_raise_parser_audit_report(report: dict[str, object], errors: pd.DataFrame, out_path: str | Path) -> Path:
@@ -634,30 +724,42 @@ def _load_optional_context(path: str | Path | None) -> pd.DataFrame:
 
 
 def _lookup_external_context(row: pd.Series, context: pd.DataFrame, value_col: str) -> float:
-    if context.empty or value_col not in context.columns:
+    matched = _lookup_external_context_row(row, context)
+    if matched.empty or value_col not in matched.index:
         return np.nan
+    return _to_float(matched.get(value_col))
+
+
+def _lookup_external_context_row(row: pd.Series, context: pd.DataFrame) -> pd.Series:
+    if context.empty:
+        return pd.Series(dtype=object)
     event_id = str(row.get("event_id", ""))
     if "event_id" in context.columns:
         matched = context[context["event_id"].astype(str) == event_id]
         if not matched.empty:
-            return _to_float(matched.iloc[0].get(value_col))
+            return matched.iloc[0]
 
     ticker = str(row.get("ticker", "")).upper()
     if "ticker" not in context.columns:
-        return np.nan
+        return pd.Series(dtype=object)
     subset = context[context["ticker"].astype(str).str.upper() == ticker].copy()
     if subset.empty:
-        return np.nan
-    if "asof_date" in subset.columns:
-        subset["asof_date"] = pd.to_datetime(subset["asof_date"], errors="coerce").dt.tz_localize(None)
+        return pd.Series(dtype=object)
+    sort_col = ""
+    if "filed_at" in subset.columns:
+        sort_col = "filed_at"
+    elif "asof_date" in subset.columns:
+        sort_col = "asof_date"
+    if sort_col:
+        subset[sort_col] = pd.to_datetime(subset[sort_col], errors="coerce").dt.tz_localize(None)
         event_time = pd.to_datetime(row.get("event_time"), errors="coerce")
         if pd.notna(event_time):
             event_time = event_time.tz_localize(None) if getattr(event_time, "tzinfo", None) else event_time
-            subset = subset[subset["asof_date"] <= event_time]
-        subset = subset.sort_values("asof_date", ascending=False)
+            subset = subset[subset[sort_col] <= event_time]
+        subset = subset.sort_values(sort_col, ascending=False)
     if subset.empty:
-        return np.nan
-    return _to_float(subset.iloc[0].get(value_col))
+        return pd.Series(dtype=object)
+    return subset.iloc[0]
 
 
 def _anchor_price(prices: pd.DataFrame, event_time: object, release_session: object) -> tuple[pd.Timestamp | None, float]:
@@ -733,10 +835,20 @@ def enrich_capital_raise_context(
         out["offering_price"] = offering_price
         out["discount_to_last_close_pct"] = (offering_price - last_close) / last_close if pd.notna(offering_price) and pd.notna(last_close) and last_close else np.nan
 
+        shares_lookup = pd.Series(dtype=object)
         shares_outstanding = _to_float(row.get("shares_outstanding_before_event", np.nan))
         if pd.isna(shares_outstanding):
-            shares_outstanding = _lookup_external_context(row, shares_context, "shares_outstanding_before_event")
+            shares_lookup = _lookup_external_context_row(row, shares_context)
+            shares_outstanding = _to_float(shares_lookup.get("shares_outstanding_before_event", np.nan)) if not shares_lookup.empty else np.nan
         out["shares_outstanding_before_event"] = shares_outstanding
+        if not shares_lookup.empty:
+            out["shares_outstanding_source"] = shares_lookup.get("source_type", "")
+            out["shares_outstanding_source_url"] = shares_lookup.get("source_url", "")
+            asof = pd.to_datetime(shares_lookup.get("asof_date", ""), errors="coerce")
+            filed = pd.to_datetime(shares_lookup.get("filed_at", ""), errors="coerce")
+            out["shares_outstanding_asof_date"] = asof.date().isoformat() if pd.notna(asof) else str(shares_lookup.get("asof_date", "") or "")
+            out["shares_outstanding_filed_at"] = filed.date().isoformat() if pd.notna(filed) else str(shares_lookup.get("filed_at", "") or "")
+            out["shares_outstanding_confidence"] = shares_lookup.get("confidence", np.nan)
 
         market_cap = _to_float(row.get("market_cap_before_event", np.nan))
         if pd.isna(market_cap):
@@ -772,7 +884,7 @@ def enrich_capital_raise_context(
     return enriched
 
 
-def capital_raise_readiness_summary(events: pd.DataFrame, *, min_train: int = 40) -> dict[str, object]:
+def capital_raise_readiness_summary(events: pd.DataFrame, *, min_train: int = 40, parser_errors: pd.DataFrame | None = None) -> dict[str, object]:
     if events.empty:
         return {"rows": 0, "decision": "continue corpus buildout", "reason": "no rows"}
 
@@ -812,6 +924,13 @@ def capital_raise_readiness_summary(events: pd.DataFrame, *, min_train: int = 40
         "discount_rows_40": metrics["rows_with_discount_to_last_close_pct"] >= 40,
         "likely_oos_predictions_30": metrics["likely_oos_predictions_min_train"] >= 30,
     }
+    if parser_errors is not None:
+        ok_count = int((parser_errors.get("status", pd.Series(dtype=str)) == "ok").sum()) if not parser_errors.empty else 0
+        audit_rows = int(len(parser_errors))
+        audit_accuracy = ok_count / audit_rows if audit_rows else 0.0
+        metrics["parser_audit_rows"] = audit_rows
+        metrics["parser_audit_accuracy"] = float(audit_accuracy)
+        gates["parser_audit_pass"] = bool(audit_rows >= 60 and audit_accuracy >= 0.90)
     for gate, passed in gates.items():
         if not passed:
             blockers.append(gate)
@@ -826,9 +945,16 @@ def capital_raise_readiness_summary(events: pd.DataFrame, *, min_train: int = 40
     return metrics
 
 
-def write_capital_raise_readiness_report(events_path: str | Path, out_path: str | Path, *, min_train: int = 40) -> dict[str, object]:
+def write_capital_raise_readiness_report(
+    events_path: str | Path,
+    out_path: str | Path,
+    *,
+    min_train: int = 40,
+    parser_errors_path: str | Path | None = None,
+) -> dict[str, object]:
     events = pd.read_csv(events_path)
-    summary = capital_raise_readiness_summary(events, min_train=min_train)
+    parser_errors = pd.read_csv(parser_errors_path) if parser_errors_path else None
+    summary = capital_raise_readiness_summary(events, min_train=min_train, parser_errors=parser_errors)
     out = ensure_parent(out_path)
     lines = [
         "# Capital Raise Corpus Readiness Report",

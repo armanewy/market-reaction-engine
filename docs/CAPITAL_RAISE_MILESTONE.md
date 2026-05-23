@@ -148,6 +148,10 @@ no ATM capacity mistaken for completed sale
 After review, add economic severity context:
 
 ```bash
+mre capital-raise-shares-context \
+  --events data/events/capital_raise_reviewed_corpus.csv \
+  --out data/events/capital_raise_shares_outstanding.csv
+
 mre enrich-capital-raise-context \
   --events data/events/capital_raise_reviewed_corpus.csv \
   --prices-dir data/prices/capital_raises \
@@ -165,12 +169,19 @@ discount_to_last_close_pct
 market_cap_before_event
 financing_amount_pct_market_cap
 shares_outstanding_before_event
+shares_outstanding_source
+shares_outstanding_asof_date
+shares_outstanding_filed_at
 estimated_dilution_pct
 atm_capacity_pct_market_cap
 convertible_principal_pct_market_cap
 pre_event_market_adjusted_return_20d
 pre_event_market_adjusted_return_60d
 ```
+
+The share-count join uses the latest SEC `EntityCommonStockSharesOutstanding`
+fact with `filed_at <= event_time`. Current market-cap snapshots are not valid
+for historical events.
 
 ## Readiness Report
 
