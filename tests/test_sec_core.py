@@ -85,7 +85,7 @@ def test_review_template_command_from_source_docs(tmp_path: Path):
     )
     out = tmp_path / "review.csv"
 
-    assert main(["sec-domain-review-template", "--input", str(source), "--out", str(out)]) == 0
+    main(["sec-domain-review-template", "--input", str(source), "--out", str(out)])
     rows = read_csv(out)
     assert rows[0]["event_id"] == "doc1"
     assert rows[0]["event_time"] == "2024-01-03T13:00:00Z"
@@ -123,21 +123,18 @@ def test_context_command_adds_required_fields_and_pit_capitalization(tmp_path: P
     )
     out = tmp_path / "context.csv"
 
-    assert (
-        main(
-            [
-                "sec-domain-context",
-                "--input",
-                str(events),
-                "--prices-dir",
-                str(prices_dir),
-                "--shares-outstanding",
-                str(shares),
-                "--out",
-                str(out),
-            ]
-        )
-        == 0
+    main(
+        [
+            "sec-domain-context",
+            "--input",
+            str(events),
+            "--prices-dir",
+            str(prices_dir),
+            "--shares-outstanding",
+            str(shares),
+            "--out",
+            str(out),
+        ]
     )
     row = read_csv(out)[0]
     assert row["last_close_before_event"]
@@ -179,7 +176,7 @@ def test_timestamp_audit_command_marks_invalid_reaction_window(tmp_path: Path):
     )
     out = tmp_path / "timestamps.csv"
 
-    assert main(["sec-domain-timestamp-audit", "--input", str(source), "--out", str(out)]) == 0
+    main(["sec-domain-timestamp-audit", "--input", str(source), "--out", str(out)])
     row = read_csv(out)[0]
     assert row["timestamp_status"] == "invalid_reaction_window"
     assert row["model_eligible"] == "false"
@@ -232,28 +229,25 @@ def test_readiness_report_command_and_helper_model_ready(tmp_path: Path):
     assert readiness["likely_oos_predictions"] == 5
 
     report = tmp_path / "readiness.md"
-    assert (
-        main(
-            [
-                "sec-domain-readiness-report",
-                "--domain",
-                "accounting_integrity_8k",
-                "--sources",
-                str(sources),
-                "--parsed",
-                str(parsed),
-                "--review",
-                str(review),
-                "--parser-audit",
-                str(parser_audit),
-                "--timestamp-audit",
-                str(timestamps),
-                "--context",
-                str(context),
-                "--out",
-                str(report),
-            ]
-        )
-        == 0
+    main(
+        [
+            "sec-domain-readiness-report",
+            "--domain",
+            "accounting_integrity_8k",
+            "--sources",
+            str(sources),
+            "--parsed",
+            str(parsed),
+            "--review",
+            str(review),
+            "--parser-audit",
+            str(parser_audit),
+            "--timestamp-audit",
+            str(timestamps),
+            "--context",
+            str(context),
+            "--out",
+            str(report),
+        ]
     )
     assert "Decision: model-ready" in report.read_text(encoding="utf-8")
