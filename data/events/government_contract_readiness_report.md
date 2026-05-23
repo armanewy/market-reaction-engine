@@ -10,19 +10,19 @@ This is a data-readiness report, not a prediction result.
 ## Summary Counts
 
 - source_documents_recovered: 1562
-- parsed_event_rows: 1554
-- reviewed_usable_rows: 0
-- actual_funded_award_rows: 1494
+- parsed_event_rows: 10
+- reviewed_usable_rows: 10
+- actual_funded_award_rows: 10
 - ceiling_only_rows: 0
-- modification_or_option_rows: 22
-- rows_with_recipient_mapping_confidence_high: 1554
-- rows_with_award_amount_pct_market_cap: 1371
-- rows_with_obligated_amount_pct_market_cap: 1362
-- rows_with_contract_ceiling_pct_market_cap: 11
-- rows_with_pre_event_market_adjusted_runup: 1551
-- small_mid_cap_rows: 510
+- modification_or_option_rows: 0
+- rows_with_recipient_mapping_confidence_high: 10
+- rows_with_award_amount_pct_market_cap: 10
+- rows_with_obligated_amount_pct_market_cap: 10
+- rows_with_contract_ceiling_pct_market_cap: 0
+- rows_with_pre_event_market_adjusted_runup: 10
+- small_mid_cap_rows: 10
 - likely_oos_predictions_min_train: 0
-- top_ticker_share: 0.09839357429718876
+- top_ticker_share: 0.3
 - parser_audit_rows: 540
 - parser_audit_accuracy: 1.0
 
@@ -30,34 +30,36 @@ This is a data-readiness report, not a prediction result.
 
 - reviewed_usable_events_80_min: FAIL
 - reviewed_usable_events_100_preferred: FAIL
-- actual_funded_award_events_60: PASS
-- amount_or_obligation_pct_market_cap_rows_40: PASS
-- small_mid_cap_rows_30: PASS
-- mapping_high_confidence_rows_80: PASS
+- actual_funded_award_events_60: FAIL
+- amount_or_obligation_pct_market_cap_rows_40: FAIL
+- small_mid_cap_rows_30: FAIL
+- mapping_high_confidence_rows_80: FAIL
 - clear_event_timestamps: FAIL
 - likely_oos_predictions_30: FAIL
-- pre_event_runup_rows_40: PASS
+- pre_event_runup_rows_40: FAIL
 - parser_audit_pass: PASS
 
 ## Top Missing Fields / Gates Blocking Modeling
 
 - reviewed_usable_events_80_min
 - reviewed_usable_events_100_preferred
+- actual_funded_award_events_60
+- amount_or_obligation_pct_market_cap_rows_40
+- small_mid_cap_rows_30
+- mapping_high_confidence_rows_80
 - clear_event_timestamps
 - likely_oos_predictions_30
+- pre_event_runup_rows_40
 
 ## Ticker Concentration
 
-- PLTR: 147
-- LHX: 140
-- HII: 123
-- KTOS: 114
-- CACI: 109
-- GD: 102
-- LDOS: 100
-- BAH: 99
-- NOC: 89
-- SAIC: 86
+- AVAV: 3
+- LUNR: 2
+- BKSY: 1
+- HII: 1
+- KTOS: 1
+- RDW: 1
+- RKLB: 1
 
 ## Pre-Registered Candidate Hypotheses
 

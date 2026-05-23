@@ -8,16 +8,16 @@ This validates public-announcement links for government-contract events. It is n
 
 ## Summary
 
-- announcement_manifest_rows: 0
-- validated_link_rows: 0
-- valid_public_announcement_links: 0
-- model_eligible_public_rows: 0
+- announcement_manifest_rows: 14
+- validated_link_rows: 14
+- valid_public_announcement_links: 10
+- model_eligible_public_rows: 10
 - audit_rows: 60
 - warning: Public-announcement linking is a data-quality gate only; no model, event study, or backtest was run.
 
 ## Gates
 
-- public_announcement_timestamp_precision_95: FAIL
+- public_announcement_timestamp_precision_95: PASS
 - award_to_announcement_link_precision_90: FAIL
 - no_usaspending_only_model_eligible: PASS
 - no_duplicate_award_counted_twice: PASS
@@ -28,6 +28,10 @@ This validates public-announcement links for government-contract events. It is n
 
 ## Audit Status Counts
 
-- usaspending_only_negative_control: 60
+- usaspending_only_negative_control: 46
+- ok: 10
+- invalid: 4
 
 ## Duplicate Status Counts
+
+- primary: 14
