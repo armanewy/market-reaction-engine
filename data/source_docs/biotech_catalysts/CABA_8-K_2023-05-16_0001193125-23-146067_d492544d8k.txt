@@ -1,0 +1,269 @@
+8-K
+
+false 0001759138 0001759138 2023-05-16 2023-05-16
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+May 16, 2023
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+(Exact name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39103
+
+ 
+
+82-1685768
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+2929 Arch Street, Suite 600,
+
+Philadelphia, PA
+
+ 
+
+19104
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(267) 759-3100
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of Each Class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+CABA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On May 16, 2023, Cabaletta Bio, Inc. (the “Company” or “Cabaletta”) posted to the “Investors & Media” section of the Company’s website at www.cabalettabio.com an updated corporate presentation providing a corporate overview and updated development plan (the “Corporate Presentation”). A copy of the Corporate Presentation is attached hereto as Exhibit 99.1 and is incorporated by reference into this Item 7.01 of this Current Report on Form 8-K.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+Myositis Press Release
+
+On May 16, 2023, the Company issued a press release announcing that the Company’s second Investigational New Drug (“IND”) application for CABA-201, a 4-1BB-containing fully human CD19-CAR T cell investigational therapy, has been cleared by the U.S. Food and Drug Administration (the “FDA”) for a Phase 1/2 study in patients with active idiopathic inflammatory myopathy (“IIM” or “myositis”). The Company plans to initiate a Phase 1/2 clinical trial of CABA-201 for the treatment of six patients with dermatomyositis (“DM”), six patients with anti-synthetase syndrome (“ASyS”), and six patients with immune-mediated necrotizing myopathy (“IMNM”), all in separate parallel cohorts. The initial dose for the trial, 1 x 106 cells/kg, was informed by preclinical data evaluating the binder in CABA-201 and the binder used in the CD19-CAR T construct administered to a patient with myositis in the recent Lancet Rheumatology publication.
+
+Myositis refers to a group of autoimmune diseases characterized by inflammation and muscle weakness. In some cases, myositis may also affect other organs and systems in the body, such as the lungs, heart, or skin. Myositis is classified into several subtypes based on the underlying immune mechanisms and clinical characteristics. Although the pathogenesis of myositis is not well understood, there are several subtypes thought to be driven by B cells, including DM, ASyS and IMNM. These three subtypes impact approximately 66,000 patients in the US alone, and typically affect middle-aged individuals, particularly women. All three subtypes can lead to severe functional impairment and may be life-threatening. Current treatment typically involves medications to suppress the immune system and/or chronic intensive therapies such as intravenous immunoglobulin, or IVIg. Despite these therapies, a significant portion of myositis patients have disease that remains refractory to existing medications.
+
+The Phase 1/2 clinical trial will be an open-label study of CABA-201 in subjects with active myositis, including the subtypes of DM, ASyS and IMNM. Subjects will receive a one-time infusion of CABA-201 at a dose of 1.0 x 106 cells/kg, preceded by a standard preconditioning regimen of fludarabine and cyclophosphamide. Key inclusion criteria include patients between ages 18 to 65 (inclusive), evidence of active disease and disease activity despite prior or current treatment with standard of care treatments. Key exclusion criteria include cancer-associated myositis, significant lung or cardiac impairment, treatment with a B cell depleting agent within approximately six months or treatment with a biologic agent within approximately three months.
+
+Corporate Presentation
+
+On May 16, 2023, the Company posted the Corporate Presentation to the “Investors & Media” section of the Company’s website at www.cabalettabio.com, which included the following updates: (i) a modest increase in persistence was observed in the first two patients in the combination sub-study, incorporating a pre-treatment combination regimen with intravenous immunoglobulin (“IVIg”) and cyclophosphamide (“Cy”) in the DesCAARTes™ trial; (ii) the Company is planning to initiate a cohort of incorporating a pre-treatment combination regimen with fludarabine, IVIg and Cy in the DesCAARTes™ trial following completion of the dose-limiting toxicity window for the IVIg and Cy combination cohort; and (iii) the previously announced MusCAARTes™ study timelines are being evaluated based on emerging data from the DesCAARTes™ study.
+
+Forward Looking Statements
+
+The information under this Item 8.01 contains “forward-looking statements” of the Company within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including without limitation, express or implied statements regarding expectations regarding: Cabaletta’s ability to grow its autoimmune-focused pipeline; the Company’s business plans and objectives; Cabaletta’s expectations around the potential success and therapeutic benefits of CABA-201, including its belief that CABA-201 may enable an “immune system reset” and provide deep and durable responses for patients with autoimmune diseases; the Company’s plans to initiate a Phase 1/2 clinical trial of CABA-201 in patients with myositis, including its anticipated progress, clinical trial design and ability to leverage its experience in autoimmune cell therapy; Cabaletta’s ability to enroll the requisite number of patients, dose each dosing cohort in the intended manner in its Phase 1/2 clinical trials of CABA-201; the progress and results of the Company’s DesCAARTes™ Phase 1 trial, including the significance and impact around reported safety and clinical and translational data of cohorts from the DesCAARTes™ trial, and the Company’s ability to advance dose escalation and initiate combination cohorts and to optimize targeted cell therapy; Cabaletta’s ability to implement a pre-treatment regimen, the outcomes of such pre-treatment regimen and the potential ability to enhance in vivo DSG3-CAART exposure; and Cabaletta’s ability to successfully complete its preclinical and clinical studies for its product candidates, including CABA-201, ongoing Phase 1 DesCAARTes™ trial, and its ongoing Phase 1 MusCAARTes™ trial of MuSK-CAART, including the ability to enroll the requisite number of patients, dose each dosing cohort in the intended manner, and progress the trial on a timely manner.
+
+Any forward-looking statements in this Item 8.01 are based on management’s current expectations and beliefs of future events, and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: the risk that signs of biologic activity or persistence may not inform long-term results; Cabaletta’s ability to demonstrate sufficient evidence of safety, efficacy and tolerability in its preclinical studies and clinical trials of CABA-201, DSG3-CAART and MuSK-CAART; the risk that the results observed with the similarly-designed construct, including, but not limited to, dosing regimen, employed in the recent publications, including the Lancet Rheumatology publication, are not indicative of the results we seek to achieve with CABA-201; Cabaletta’s plans to evaluate additional cohorts in the DesCAARTes™ trial, including a cohort implementing a pre-treatment regimen; risks related to clinical trial site activation or enrollment rates that are lower than expected; risks related to unexpected safety or efficacy data observed during clinical studies; risks related to volatile market and economic conditions; risks related to the impact of public health epidemics affecting countries or regions in which Cabaletta has operations or does business, such as COVID-19; Cabaletta’s ability to retain and recognize the intended incentives conferred by Orphan Drug Designation and Fast Track Designation for its product candidates, as applicable; risks related to Cabaletta’s ability to protect and maintain its intellectual property position; risks related to fostering and maintaining successful relationships with Cabaletta’s collaboration and manufacturing partners; uncertainties related to the initiation and conduct of studies and other development requirements for its product candidates; the risk that any one or more of Cabaletta’s product candidates will not be successfully developed and/or commercialized; and the risk that the initial or interim results of preclinical studies or clinical studies will not be predictive of future results in connection with future studies. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in the Company’s most recent annual report on Form 10-K as well as discussions of potential risks, uncertainties, and other important factors in the Company’s other and subsequent filings with the Securities and Exchange Commission. All information in this Item 8.01 is as of the date of this Current Report on Form 8-K, and the Company undertakes no duty to update this information unless required by law.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+99.1
+
+  
+
+Cabaletta Bio, Inc. Corporate Presentation, dated May 16, 2023, furnished herewith.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL Document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+Date: May 16, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Steven Nichtberger
+
+ 
+
+ 
+
+ 
+
+Steven Nichtberger, M.D.
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

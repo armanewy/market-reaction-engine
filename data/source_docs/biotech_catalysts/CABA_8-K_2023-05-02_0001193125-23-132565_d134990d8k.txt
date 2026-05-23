@@ -1,0 +1,287 @@
+8-K
+
+false 0001759138 0001759138 2023-05-02 2023-05-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+May 2, 2023
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+(Exact name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39103
+
+ 
+
+82-1685768
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+2929 Arch Street, Suite 600,
+
+Philadelphia, PA
+
+ 
+
+ 
+
+19104
+
+(Address of principal executive offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+(267) 759-3100
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of Each Class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+CABA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On May 2, 2023, Cabaletta Bio, Inc. (the “Company”) issued a Press Release announcing that Samik Basu, M.D., Chief Scientific Officer at the Company, will deliver an invited, oral presentation titled “CD 19 CAR T-cells for SLE” as part of the session titled “Immune Effector Cells: 2023 and Beyond!” on Tuesday, May 16, 2023, at 11:05 a.m. PT at the upcoming American Society of Gene and Cell Therapy (“ASGCT”) 26th Annual Meeting, which is being held at the Los Angeles Convention Center in Los Angeles, CA from May 16-20, 2023 (“ASGCT Annual Meeting”). A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated by reference into this Item 7.01 of this Current Report on Form 8-K.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On May 2, 2023, two abstracts providing (i) new preclinical data for CABA-201, a 4-1BB-containing fully human CD19-CAR T cell investigational therapy, and (ii) updated clinical and translational data from the ongoing DesCAARTes™ trial for DSG3-CAART in adults with mucosal-dominant pemphigus vulgaris (mPV) were published at the ASGCT’s website. The abstracts have been selected for poster presentations at the upcoming ASGCT Annual Meeting as further detailed in Item 7.01 of this Current Report on Form 8-K.
+
+The accepted abstracts are as follows:
+
+ 
+
+ 
+
+•
+
+ 
+
+Preclinical Specificity and Activity of CABA-201, a Fully Human 4-1BB Containing CD19 CAR T Therapy for Treatment-Resistant Autoimmune Disease: Over 4% of the world population is estimated to live with autoimmune disease. Treatment typically requires systemic immunosuppressive therapy that have associated toxicities and are not curative. There is increasing evidence that B cells play a central role in disease pathogenesis, based upon responsiveness to B cell depletion by antibody-based therapeutics; however, responses are typically transient due to the incomplete depletion of B cells in secondary lymphoid tissue. Chimeric antigen receptor (CAR) T cells are a novel gene-engineered cellular immunotherapy where a synthetic T cell receptor is expressed to redirect the T cell to a desired target. Several B cell targeted CD19 CAR T cell products have led to durable remissions of B cell leukemias and lymphomas; three have been approved by regulators globally, each of which utilizes the murine derived CD19 scFv binding domain FMC63. Data from numerous studies have established the ability of these products to deeply deplete B cells. An early proof of concept pilot study evaluating the safety and efficacy of an FMC63-41BB-CD3z CAR T cell product, analogous to one of the approved therapies, in 5 patients with treatment refractory systemic lupus erythematosus suggests the potential to achieve rapid, deep and durable drug-free remissions. We designed a new CD19 CAR T product (CABA-201) containing a clinically de-risked (NCT05091541) fully human CD19 binder (IC78), to minimize immune mediated interference with activity. In addition, the construct utilizes the same 41BB costimulatory domain used in the pilot study above, which is reported to have a reduced incidence and severity of cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) in oncology patients. Preclinical studies were conducted to explore the specificity and activity of CABA-201 compared to the specificity and activity of the FMC63-41BB-CD3z construct using the same cell production method. CABA-201 demonstrated comparable cytotoxic activity to FMC63 CAR T cells against CD19+ Nalm6 cells in vitro, and comparable in vivo potency was observed in a dose ranging study in the NSG-Nalm6 tumor model. No evidence of off-target cytotoxic activity of CABA-201 was identified against a panel of selected primary human cells, and no off-target binding against IC78 was detected in a membrane proteome array, or in clinical studies evaluating IC78 in a tandem CAR formation. CABA-201 generated from primary T cells from multiple autoimmune disease patients showed robust CAR surface expression and effective elimination of target autologous CD19+ B cells in vitro. Together, these data support the safety and activity of CABA-201, and provide a clinically relevant benchmark for dose related potency in clinical studies planned for initiation later this year.
+
+ 
+
+ 
+
+•
+
+ 
+
+Correlative Findings Following DSG3-CAART Infusion with and without Combination Preconditioning Therapy in Patients with Pemphigus Vulgaris (DesCAARTes™ Study): Mucosal-dominant pemphigus vulgaris (mPV) is a painful autoimmune blistering disease mediated by anti-desmoglein 3 autoantibodies (anti-DSG3 Ab). The current standard of care for mPV includes broadly immunosuppressive therapies that have risks of serious or
+
+ 
+
+life threatening infection. We are evaluating the safety and activity of a novel cellular therapy consisting of gene-modified autologous T cells (DSG3-CAART) engineered to eliminate DSG3 reactive B cells in mPV. We previously reported on the translational and clinical data from mPV subjects receiving escalating doses of DSG3-CAART ranging from 1 x 105 to 7.5x109 transduced cells without preconditioning (NCT04422912). Manufactured DSG3-CAART eliminated target cell lines in vitro and were comprised of a mixture of effector and memory cells. DSG3-CAART cells were detected in the blood of all subjects within the first 29 days post-infusion with a dose dependent increase in peak persistence and persistence AUC for the first 29 days (AUC29d), which reached a plateau at a dose of 2.5x109 DSG3-CAART cells. Here, we expand on those findings by including subjects who received combination therapy consisting of intravenous immune globulin (IVIG) to reduce potentially neutralizing autoantibodies and cyclophosphamide to reduce leukocytes followed by an infusion of 2.5x109 DSG3-CAART cells. Both peak persistence and persistence AUC29d were further elevated in subjects receiving the combination therapy than those subjects receiving DSG3-CAART alone. Although persisting cells were predominantly of the central memory or stem cell memory phenotype in both groups, initial data from combination therapy subjects suggest that persisting DSG3-CAART cells exhibited signs of increased activation, including increased HLA-DR expression on DSG3-CAART cells, that were not observed in the DSG3-CAART cells in non-combination therapy subjects. Furthermore, in subjects receiving combination therapy, transient (< 2 weeks) leukopenia and neutropenia were observed but without lymphopenia. These data suggest that combination therapy with IVIG and cyclophosphamide enhances DSG3-CAART persistence and activation and support continued exploration of DSG3-CAART for mPV patients.
+
+Forward-Looking Statements
+
+This 8-K contains “forward-looking statements” of the Company within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including without limitation, express or implied statements regarding expectations regarding: its ability to grow its autoimmune-focused pipeline; the potential role of B cells in disease pathogenesis; its expectations around the potential success and therapeutic benefits of CABA-201 and the DSG3-CAART product candidate, including the significance of its preclinical data, DSG3-CAART’s initial data from the combination therapy study, and its safety, activity and tolerability profile to date, and its ability to identify a clinically relevant benchmark for dose related potency for CABA-201; the significance of preclinical data on CABA-201 and clinical and translational data on DSG3-CAART; the Company’s business plans and objectives, including clinical development plans, clinical trial initiation for CABA-201 and anticipated regulatory interactions; and the ability to accelerate its pipeline and develop meaningful therapies for patients.
+
+Any forward-looking statements in this 8-K are based on management’s current expectations and beliefs of future events, and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: the risk that signs of biologic activity or persistence may not inform long-term results; the Company’s ability to demonstrate sufficient evidence of safety, efficacy and tolerability in its preclinical studies and clinical trials of DSG3-CAART and CABA-201; the risk that the results observed with the similarly-designed construct employed in the recent Nature Medicine publication are not indicative of the results we seek to achieve with CABA-201; risks related to clinical trial site activation or enrollment rates that are lower than expected; risks related to unexpected safety or efficacy data observed during clinical studies; risks related to volatile market and economic conditions; risks related to the impact of public health epidemics affecting countries or regions in which the Company has operations or does business, such as COVID-19; the Company’s ability to retain and recognize the intended incentives conferred by Orphan Drug Designation and Fast Track Designation for its product candidates, as applicable; risks related to the Company’s ability to protect and maintain its intellectual property position; risks related to fostering and maintaining successful relationships with the Company’s collaboration and manufacturing partners; uncertainties related to the initiation and conduct of studies and other development requirements for its product candidates; the risk that any one or more of the Company’s product candidates will not be successfully developed and/or commercialized; and the risk that the initial or interim results of preclinical studies or clinical studies will not be predictive of future results in connection with future studies. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in the Company’s most recent annual report on Form 10-K as well as discussions of potential risks, uncertainties, and other important factors in the Company’s other filings with the Securities and Exchange Commission. All information in this 8-K is as of the date hereof, and the Company undertakes no duty to update this information unless required by law.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+99.1
+
+  
+
+Press Release issued by the registrant on May 2, 2023, furnished herewith.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL Document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+    Date: May 2, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Steven Nichtberger
+
+ 
+
+ 
+
+ 
+
+Steven Nichtberger, M.D.
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

@@ -1,0 +1,128 @@
+EX-99.1
+2
+exhibit991-fappr.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Positive Phase 1b/2 Results from Ongoing REC-4881 TUPELO Trial Demonstrate Rapid and Durable Reductions in Polyp Burden in Familial Adenomatous Polyposis (FAP) at 25 Weeks
+
+●REC-4881 (4 mg QD) achieved rapid clinical activity, with 75% of evaluable patients showing reductions in total polyp burden and a 43% median reduction after 12 weeks of treatment (n=12)
+
+●After 12 weeks off therapy (week 25 of the study), 82% of evaluable patients (9 of 11) maintained a durable reduction in total polyp burden, with a 53% median reduction observed from baseline
+
+●Natural history analysis showed that 87% of untreated FAP patients - who resembled the inclusion criteria of TUPELO - had annualized polyp-burden increase, 10% remained stable, and 3% showed modest decrease—underscoring the disease’s progressive trajectory (n=55)
+
+●40% of patients (4 out of 10) achieved a ≥1-point improvement in Spigelman stage—a clinically meaningful measure of upper GI disease severity to assess surveillance and clinical management
+
+●REC-4881 (4 mg QD) has a safety profile consistent with MEK1/2 inhibition, with the majority of treatment-related adverse events being Grade 1 or 2, Grade 3 events occurring in 15.8% of the safety-evaluable patients, and no Grade ≥4 TRAEs reported to date
+
+●First clinical validation of the Recursion OS, demonstrating how unbiased phenotypic and mechanistic insights—such as MEK1/2 rescue of APC loss-of-function—can translate to novel, differentiated therapeutics for diseases like FAP with no approved therapy and high prevalence of 50,000 patients in US and EU5
+
+●Next steps: Engage the FDA in the 1H26 to define a potential registration pathway, and in parallel, expand the population from ≥55 to ≥18 years old, and further optimize dosing schedule
+
+SALT LAKE CITY, December 8, 2025 (GLOBE NEWSWIRE) — Recursion (Nasdaq: RXRX), a clinical-stage TechBio company decoding biology to radically improve lives, today announced positive Phase 1b/2 data from the ongoing TUPELO trial of REC-4881, an investigational allosteric MEK1/2 inhibitor for familial adenomatous polyposis (FAP).
+
+Through an unbiased phenotypic screen of thousands of compounds, the earliest version of the Recursion OS identified selective MEK1/2 inhibition as a highly specific mechanism capable of reversing APC loss-of-function signatures. Using high-content cellular phenomics driven by AI, REC-4881 emerged as one of the strongest phenotypic rescue hits, reverting APC-deficient cells toward a healthy state and suppressing ERK/MAPK hyperactivation downstream of APC loss. Guided by this AI-driven insight, Recursion in-licensed REC-4881 from Takeda and redirected REC-4881—originally evaluated clinically in solid tumors—as a mechanistically aligned therapeutic candidate for FAP. REC-4881 is now the first MEK1/2 inhibitor ever studied clinically for this disease.
+
+“The durable polyp-burden reduction demonstrated by REC-4881—especially the sustained effect seen at Week 25, 12 weeks after completing therapy—is highly encouraging for the FAP community,” said Jessica Stout, D.O., Assistant Clinical Professor, University of Utah School of Medicine, and Principal Investigator of the TUPELO study. “Given the near-100% lifetime risk of colorectal cancer and the absence of any approved medical therapies, patients today often face a lifetime of intensive surveillance and life-altering surgeries. These Phase 2 results provide a meaningful basis for hope and support the potential for REC-4881 to offer a much-needed non-surgical option for this debilitating, life-long disease.”
+
+“These Phase 2 results mark a meaningful validation of the Recursion OS,” said Chris Gibson, Ph.D., Co-Founder and CEO of Recursion. “An unbiased phenotypic insight from our platform and driven by AI—linking MEK1/2 inhibition to APC loss-of-function biology—has now translated into rapid, substantial, and
+
+durable reductions in polyp burden in patients. This is a powerful example of how even the earliest versions of the Recursion OS can uncover therapeutic opportunities in diseases with no approved pharmacotherapy options. And since this discovery, we’ve only added to the breadth, depth, and power of the Recursion OS; we believe this is the first of many potential medicines that will advance as our flywheel of discovery accelerates”.
+
+In the Phase 2 portion of the study, REC-4881 demonstrated rapid and durable reductions in polyp burden, with 43% median reduction in evaluable patients after 12 weeks of treatment. 75% of evaluable patients had a reduction in polyp burden in this same period. Importantly, the effect persisted well beyond the dosing period: 82% of evaluable patients (9 of 11) maintained reductions at Week 25—12 weeks after stopping therapy—with a 53% median decrease from baseline. These results are especially meaningful when considered alongside real-world natural history analyses showing that untreated FAP patients are expected to experience increases when left untreated .
+
+“This program reflects a full validation cycle of the Recursion OS: an unbiased phenotypic signal identifying MEK1/2 inhibition as a rescue mechanism for APC loss-of-function, followed by mechanistic confirmation, clinical translation, and now encouraging human data in a disease with no approved medical therapies,” said Najat Khan, Ph.D., Chief R&D and Commercial Officer and incoming President and CEO. “REC-4881, an allosteric MEK1/2 inhibitor, represents a first precision-medicine approach for the causal biology of FAP. In TUPELO, we are seeing rapid, substantial, and durable reductions in polyp burden — including sustained benefit after patients stop therapy. Equally important, our ClinTech and real-world data capabilities have been instrumental in guiding this program — from refining eligibility to contextualizing a single-arm dataset with a first-of-its-kind natural history study”.
+
+About FAP
+
+FAP is one of the most clinically significant hereditary colorectal cancer syndromes and is caused by inactivating mutations in the APC gene, leading to the growth of hundreds to thousands of gastrointestinal polyps and a near 100% risk of developing colorectal cancer before the age of 40 if left untreated. With no approved pharmacotherapies, excisions followed sequentially by debilitating, life altering surgeries remain the only option to remove polyps and polyp burdened organs, typically involving colectomy in the early 20s. While this procedure removes immediate colon cancer risk, it does not address the underlying disease biology and does not prevent future polyp formation. Patients will continue to develop polyps in the rectum or upper GI tract, with approximately 50% of patients requiring subsequent life-altering surgical procedures to manage the persistent disease. Current treatment approaches lead to substantial long-term loss of quality of life, affecting continence, fertility, and long-term gastrointestinal function in relatively young patients. Approximately 90% of FAP patients go on to develop duodenal adenomas, with 6% eventually undergoing a high-morbidity risk duodenectomy to control polyp growth. FAP affects an estimated 50,000 individuals across the US and EU5 (France, Germany, Italy, Spain, and the UK).
+
+Background on REC-4881 and Recursion’s Platform Insights
+
+REC-4881 was discovered using one of the earliest versions of the Recursion OS (v0.1), through an unbiased, high-content AI-driven phenotypic screening approach in APC-deficient human cell models. Because FAP is driven by loss-of-function mutations in the APC gene, the platform was designed to identify molecules capable of rescuing APC-dependent biology—guided entirely by cellular phenotype, without presupposing any specific mechanism. Using AI/ML to extract and compare over a thousand morphological features that distinguish “diseased” from “healthy” states, the Recursion OS screened numerous investigative compounds and identified REC-4881 as one of the most robust phenotype-rescuing hits. In follow-up assays, REC-4881 consistently reverted APC-deficient cells toward a healthy-state phenotype and demonstrated potent, selective, and concentration-dependent MEK1/2 inhibition that was not seen across hundreds of other oncogenes and tumor suppressor models tested.
+
+Importantly, the Recursion OS highlighted MEK1/2 inhibition as a mechanistic strategy to exploit a therapeutic vulnerability arising from APC loss in FAP—a disease area where MEK1/2 inhibition had not previously been investigated as a therapeutic strategy in a clinical setting. Based on this novel insight, Recursion in-licensed REC-4881 from Takeda, where it had been evaluated in solid tumors, and redirected it as the first MEK1/2 inhibitor advanced clinically for FAP. This program represents the power of a phenotype-first AI-driven discovery model: the platform surfaced a mechanistically aligned therapeutic opportunity solely through scaled high-dimensional exploration.
+
+Today, the Company is using the Recursion OS 2.0 platform—including proprietary ClinTech capabilities of large-scale real-world evidence (RWE) analytics—to further advance the REC-4881 program. This includes a comprehensive natural history collaboration with Amsterdam University Medical Center, home to one of the largest and longest-running FAP registries, as well as analysis of more than 1,000 US FAP patients and 250,000 physician notes processed through Recursion’s custom LLM-based pipeline. Together, these data reinforce the relentlessly progressive nature of FAP, highlight the absence of spontaneous polyp regression, and demonstrate the substantial burden of repeated polyp-removal procedures and major surgeries experienced by real-world patients.
+
+ClinTech insights also helped refine the design of the ongoing TUPELO trial, including expanding age eligibility from ≥55 to ≥18. This expansion was based on a thorough risk-benefit analysis, enabling evaluation of REC-4881 in younger patients who represent a substantial portion of FAP patients. REC-4881 has received Fast Track and Orphan Drug designations from the US FDA, as well as Orphan Drug designation from the European Commission.
+
+Results of the Phase 2 Data for Ongoing REC-4881 Trial
+
+Efficacy and Durability Findings
+
+As of the November 25, 2025 data cutoff in the open-label Phase 2 portion of TUPELO, treatment with REC-4881 (4 mg QD) demonstrated meaningful and durable reductions in polyp burden in patients with FAP.
+
+Week 13 Assessment
+
+●REC-4881 produced a median 43% reduction in total polyp burden among 12 efficacy-evaluable patients.
+
+●The majority of evaluable patients responded, with 75% showing reductions in polyp burden after 12 weeks of therapy.
+
+●40% of patients (4 out of 10) achieved a ≥1-point improvement in Spigelman stage—a clinically meaningful measure of upper GI disease severity to assess surveillance and clinical management.
+
+●Other investigational agents currently under evaluation in separate studies generated approximately 17–29% median reduction in polyp burden after 12 months of treatment; no off-treatment durability was reported (Biodexa press release, June 24 2024)
+
+Figure 1: Waterfall plot showing percent change from baseline in total polyp burden at Week 13 for efficacy-evaluable patients receiving REC-4881 (4 mg QD)
+
+Week 25 Assessment
+
+●After 12 weeks of treatment, patients went off treatment for an additional 12-weeks. Durability of effect was maintained during the off-treatment observation period with 82% of patients responding (>0% reduction; 9 out of 11) at Week 25.
+
+●73% achieved durable ≥30% reductions in polyp burden with a 53% median reduction in total polyp burden observed.
+
+●40% of patients (4 out of 10) maintained a ≥1-point improvement in Spigelman stage from baseline.
+
+Figure 2: Waterfall plot showing percent change from baseline in total polyp burden at Week 25 for efficacy-evaluable patients receiving REC-4881 (4 mg QD)
+
+Safety Summary
+
+As of the data cutoff, treatment with 4 mg REC-4881 demonstrated a safety profile generally consistent with prior MEK1/2 inhibitors.
+
+●Across the combined Phase 1b and Phase 2 safety cohorts (n=19), 94.7% of patients reported at least one treatment-related adverse event (TRAE), the majority of which were Grade 1/2 in severity. The most frequent TRAEs (≥10%) included: dermatitis acneiform / rash and blood CPK increase.
+
+●Grade 3 TRAEs occurred in 15.8% of patients; no Grade ≥4 TRAEs have been reported to date.
+
+●Treatment modifications were infrequent, with 2 of 19 patients experiencing dose interruption.
+
+Figure 3: Summary of adverse events across Phase 1b and Phase 2 of the TUPELO trial
+
+About the TUPELO Trial Design and Expanded Population
+
+The Phase 1b/2 TUPELO trial is evaluating the safety, tolerability, pharmacokinetics (PK), and efficacy of REC-4881 monotherapy in patients with familial adenomatous polyposis (FAP).
+
+Study Design and Analysis
+
+Efficacy is assessed via upper and lower endoscopy at baseline, Week 13 (on-treatment), and Week 25 (off-treatment).
+
+●The primary endpoint is percent change from baseline in polyp burden, which is the sum of all polyp diameters in the GI.
+
+●The Efficacy Evaluable Population includes patients with measurable disease at baseline who received ≥75% of study drug and had at least one post-baseline endoscopic assessment.
+Disease staging uses the Spigelman system for upper GI polyposis and the InSiGHT classification for the lower GI tract.
+
+Natural History Analyses
+
+To better understand the natural history of FAP and to contextualize the single-arm efficacy of REC-4881, we collaborated with Amsterdam University Medical Center to analyze a registry of ~200 patients with FAP. 55 of these patients met the key inclusion criteria of TUPELO. We also leveraged our clinical development technology (ClinTech) platform to analyze US electronic health records (EHR), including physician notes, of ~1,000 FAP patients to assess disease progression and treatment patterns in the US. Both studies revealed high patient burden and progressive natural history of the disease. Results of the studies suggest that the natural history of FAP is to progress with relentless precancerous polyp progression: 87% of untreated patients in the registry experienced annualized increase in polyp burden. 10% were stable and 3% experienced a modest decrease in polyp burden. Mean increase of 60% and median increase of 28% in annualized polyp burden was observed. At least 75% of patients in the US EHR database had a major invasive surgery along with frequent polypectomies during follow-up.
+
+Next Steps
+
+Recursion plans to expand the population from ≥55 to ≥18 years old and further optimize dosing schedule. In parallel, the Company intends to engage the FDA in 1H26 to define a potential registration pathway.
+
+Forward Looking Statements
+
+This document contains information that includes or is based upon “forward-looking statements” within the meaning of the Securities Litigation Reform Act of 1995, including, without limitation, those regarding Recursion’s anticipated engagement with the FDA; the clinical relevance of the TUPELO trial data and obtaining additional confirmatory data; advancing potential transformational therapies for FAP and beyond; subsequent REC-4881 studies, including expanded enrollment and alternate dosing schedule, and their results and advancing Recursion’s REC-4881 program further; the size of the potential FAP patient population; Recursion OS and other technologies potential and advancement of the future of medicine; business and financial plans and performance; and all other statements that are not historical facts. Forward-looking statements may or may not include identifying words such as “plan,” “will,” “expect,” “anticipate,” “intend,” “believe,” “potential,” “continue,” and similar terms. These statements are subject to known or unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements, including but not limited to: challenges inherent in pharmaceutical research and development, including the timing and results of preclinical and clinical programs, where the risk of failure is high and failure can occur at any stage prior to or after regulatory approval due to lack of sufficient efficacy, safety considerations, or other factors; our ability to leverage and enhance our drug discovery platform; our ability to obtain financing for development activities and other corporate purposes; the success of our collaboration activities; our ability to obtain regulatory approval of, and ultimately commercialize, drug candidates; our ability to obtain, maintain, and enforce intellectual property protections; cyberattacks or other disruptions to our technology systems; our ability to attract, motivate, and retain key employees and manage our growth; inflation and other macroeconomic issues; and other risks and uncertainties such as those described under the heading “Risk Factors” in our filings with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. All forward-looking statements are based on management’s current estimates, projections, and assumptions, and Recursion undertakes no obligation to correct or update any such statements, whether as a result of new information, future developments, or otherwise, except to the extent required by applicable law.
+
+About Recursion
+Recursion (NASDAQ: RXRX) is a clinical stage TechBio company leading the space by decoding biology to radically improve lives. Enabling its mission is the Recursion OS, a platform built across diverse technologies that continuously generate one of the world’s largest proprietary biological and chemical datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale — up to millions of wet lab experiments weekly — and massive computational scale — owning and operating one of the most powerful supercomputers in the world, Recursion is uniting technology, biology and chemistry to advance the future of medicine.
+
+Recursion is headquartered in Salt Lake City, where it is a founding member of BioHive, the Utah life sciences industry collective. Recursion also has offices in Montréal, New York, London, and the Oxford area. Learn more at www.recursion.com, or connect on X and LinkedIn.
+
+Media Contact
+media@recursion.com
+
+Investor Contact
+investor@recursion.com

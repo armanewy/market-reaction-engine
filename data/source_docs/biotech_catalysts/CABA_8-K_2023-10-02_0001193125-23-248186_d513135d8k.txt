@@ -1,0 +1,265 @@
+8-K
+
+false 0001759138 0001759138 2023-10-02 2023-10-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+October 2, 2023
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+(Exact name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39103
+
+ 
+
+82-1685768
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+2929 Arch Street, Suite 600,
+
+Philadelphia, PA
+
+ 
+
+ 
+
+19104
+
+(Address of principal executive offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+(267) 759-3100
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of Each Class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+CABA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On October 2, 2023, Cabaletta Bio, Inc. (the “Company” or “Cabaletta”) posted to the “Investors & Media” section of the Company’s website at www.cabalettabio.com an updated corporate presentation (the “Corporate Presentation”). A copy of the Corporate Presentation is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K.
+
+On October 2, 2023, the Company issued a Press Release announcing that the Company’s third Investigational New Drug (“IND”) application for CABA-201, a 4-1BB-containing fully human CD19-CAR T cell investigational therapy, has been cleared by the U.S. Food and Drug Administration (the “FDA”) for a Phase 1/2 study in patients with systemic sclerosis (“SSc”) (the “Press Release”). A copy of the Press Release is attached hereto as Exhibit 99.2 to this Current Report on Form 8-K.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2 attached hereto, is being furnished and shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On October 2, 2023, the Company issued the Press Release announcing that the Company’s third IND application for CABA-201, a 4-1BB-containing fully human CD19-CAR T cell investigational therapy, has been allowed to proceed by the FDA for a Phase 1/2 study in patients with SSc. The Company plans to initiate a Phase 1/2 clinical trial of CABA-201 across two parallel SSc cohorts – one cohort of six patients with severe skin manifestations and a separate cohort of six patients with severe organ involvement associated with systemic sclerosis. Consistent with the previously announced CABA-201 IND clearances for lupus and myositis, the starting dose for the trial, 1 x 106 cells/kg, was informed by the high degree of similarity between CABA-201 and the CD19-CAR T construct administered to a patient with severe, diffuse SSc in the recent Annals of Rheumatic Diseases publication.
+
+SSc is a rare and potentially fatal chronic autoimmune disease characterized by progressive skin and internal organ fibrosis that can be life-threatening, including interstitial lung disease, pulmonary hypertension, and scleroderma renal crisis. Although the etiology of SSc is not well understood, the pathogenic role of autoantibodies and B cells in SSc provides a rationale for studying CAR T therapy in this population. SSc affects approximately 88,000 patients in the U.S., and typically affects middle-aged individuals, particularly women. Standard treatment options, which have modest effects, include generalized immunosuppressive agents or drugs targeted to specific symptomatic manifestations. Autologous hematopoietic stem cell transplant may provide some benefits in organ involvement, but carries significant risks, including mortality, infertility, and secondary autoimmune disease, limiting its potential to be applied broadly. Due to the lack of adequate treatments, the risk of mortality in systemic sclerosis remains high, with an average survival of approximately 12 years following diagnosis.
+
+The Phase 1/2 clinical trial will be an open-label study of CABA-201 in subjects with SSc across two parallel cohorts. The severe skin cohort will include six patients with severe skin involvement, and the organ cohort will include six patients who meet the pulmonary, cardiac, or renal involvement criteria regardless of skin involvement. Subjects will receive a one-time infusion of CABA-201, using the same dose being used in the lupus and myositis clinical trials of CABA-201, 1 x 106 cells/kg, preceded by a standard preconditioning regimen of fludarabine and cyclophosphamide. Key inclusion criteria include patients between ages 18 and 70 (inclusive), evidence of significant skin, pulmonary, renal, or cardiac involvement, and significant organ involvement despite use of immunosuppressants. Key exclusion criteria include a primary diagnosis of another rheumatic autoimmune disease, treatment with a B cell depleting agent within six months or treatment with a biologic agent within three months. As the third trial within Cabaletta’s CARTA (Chimeric Antigen Receptor T cells for Autoimmunity) strategy, this study is intended to evaluate the potential ability of CABA-201 to transiently, but completely, eliminate B cells throughout the body, potentially enabling an immune system reset associated with a slowing or halting of active inflammatory disease progression in patients with SSc.
+
+Forward Looking Statements
+
+The information under this Item 8.01 contains “forward-looking statements” of the Company within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including without limitation, express or implied statements regarding its expectations regarding: Cabaletta’s ability to grow its autoimmune-focused pipeline; the ability to capitalize on and potential benefits resulting from published, third-party academic clinical data and a recently released abstract by the same academic group at the upcoming American College of Rheumatology Convergence 2023 meeting; the anticipated market opportunities for CABA-201 in SSc patients; the Company’s business plans and objectives; Cabaletta Bio’s expectations around the potential success and therapeutic benefits of CABA-201; the Company’s plans to initiate separate Phase 1/2 clinical trials of CABA-201 in subjects with SSc, SLE and myositis, including its anticipated progress, clinical trial design, ability to leverage its experience in autoimmune cell therapy and autoimmune disease product development for each clinical trial; the Company’s planned initial clinical data read-out from the CABA-201 program in the first half of 2024; Cabaletta’s ability to enroll the requisite number of patients and dose each dosing cohort in the intended manner in its Phase 1/2 clinical trials of CABA-201; and the ability to accelerate Cabaletta’s pipeline and develop meaningful therapies for patients, including in collaboration with academic and industry partners and the ability to optimize such collaborations on its development programs.. Any forward-looking statements in this Item 8.01 are based on management’s current expectations and beliefs of future events, and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: risks related to regulatory filings and potential clearance; the risk that signs of biologic activity or persistence may not inform long-term results; Cabaletta’s ability to demonstrate sufficient evidence of safety, efficacy and tolerability in its preclinical studies and clinical trials of DSG3-CAART, MuSK-CAART and CABA-201; the risk that the results observed with the similarly-designed construct employed in the recent Nature Medicine and Annals of Rheumatic Diseases publications, including due to the dosing regimen, are not indicative of the results we seek to achieve with CABA-201; risks related to clinical trial site activation or enrollment rates that are lower than expected; risks related to unexpected safety or efficacy data observed during clinical studies; risks related to volatile market and economic conditions and public health crises; Cabaletta’s ability to retain and recognize the intended incentives conferred by Orphan Drug Designation and Fast Track Designation for its product candidates, as applicable; risks related to Cabaletta’s ability to protect and maintain its intellectual property position; risks related to fostering and maintaining successful relationships with Cabaletta’s collaboration and manufacturing partners; uncertainties related to the initiation and conduct of studies and other development requirements for its product candidates; the risk that any one or more of Cabaletta’s product candidates will not be successfully developed and/or commercialized; and the risk that the initial or interim results of preclinical studies or clinical studies will not be predictive of future results in connection with future studies. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause Cabaletta’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in Cabaletta’s most recent annual report on Form 10-K as well as discussions of potential risks, uncertainties, and other important factors in Cabaletta’s other and subsequent filings with the Securities and Exchange Commission. All information in this Item 8.01 is as of the date of this Current Report on Form 8-K, and the Company undertakes no duty to update this information unless required by law.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exbibits
+
+ 
+
+99.1
+
+  
+
+Cabaletta Bio, Inc. Corporate Presentation, dated October 2023, furnished herewith.
+
+99.2
+
+  
+
+Press Release issued by the registrant on October 2, 2023, furnished herewith.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL Document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+Date: October 2, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Steven Nichtberger
+
+ 
+
+ 
+
+ 
+
+Steven Nichtberger, M.D.
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

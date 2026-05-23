@@ -1,0 +1,350 @@
+8-K
+1
+fate-8k_20200402.htm
+8-K
+
+fate-8k_20200402.htm
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 2, 2020
+
+ 
+
+ 
+
+Fate Therapeutics, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-36076
+
+ 
+
+65-1311552
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+3535 General Atomics Court, Suite 200
+
+San Diego, CA 92121
+
+(Address of principal executive offices, including zip code)
+
+(858) 875-1800
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+FATE
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement
+
+ 
+
+On April 2, 2020 (the “Effective Date”), Fate Therapeutics, Inc., a Delaware corporation (the “Company”), entered into a Collaboration and Option Agreement (the “Collaboration Agreement”) with Janssen Biotech, Inc., a Pennsylvania corporation (“Janssen”), part of the Janssen Pharmaceutical Companies of Johnson & Johnson. Additionally, on the Effective Date, the Company entered into a Stock Purchase Agreement (the “Stock Purchase Agreement”) with Johnson & Johnson Innovation-JJDC, Inc. (“JJDC”), a New Jersey corporation.
+
+ 
+
+Under the Collaboration Agreement, Janssen and the Company will collaborate to develop induced pluripotent stem cell (iPSC)-derived chimeric antigen receptor (CAR) NK and T-cell product candidates for the treatment of cancer. Janssen will contribute proprietary antigen binding domains directed to up to four (4) tumor-associated antigen targets (the “Janssen Cancer Targets”). The Company will research and construct iPSC-derived CAR NK and T-cell product candidates directed to each of the Janssen Cancer Targets (the “Collaboration Candidates”) and perform preclinical development of Collaboration Candidates. Upon the Company’s completion of activities sufficient to allow the filing of a U.S. Investigational New Drug application (IND) for a Collaboration Candidate, Janssen will have the right to exercise an exclusive option and obtain an exclusive license to the Company’s intellectual property rights for the development and commercialization of such Collaboration Candidate. Upon the exercise of such exclusive option, Janssen will be solely responsible for the worldwide clinical development and commercialization of such Collaboration Candidate, and the Company will be primarily responsible for the manufacture, at Janssen’s cost, of such Collaboration Candidate. For each Collaboration Candidate, upon attaining clinical proof-of-concept, the Company shall have the right to elect to co-commercialize and share equally in the profits and losses in the United States, subject to the Company sharing in certain development costs. The Collaboration Candidates do not include any product candidates that are currently under clinical or preclinical development by the Company or are otherwise part of the Company’s current product pipeline.
+
+ 
+
+Under the Stock Purchase Agreement, the Company has agreed to sell 1,612,904 shares of common stock (the “Shares”) to JJDC at $31.00 per share, for an aggregate purchase price of approximately $50 million, on April 7, 2020 (the “SPA Closing”), subject to customary closing conditions. In addition, under the Stock Purchase Agreement, in the event the Company intends to consummate a registered underwritten public offering of its common stock within twelve (12) months after the SPA Closing, the Company has the right, but not the obligation, to require that JJDC purchase, in a concurrent private placement, an aggregate of $50 million in shares of the Company’s common stock on the same terms and at a price equal to the price at which the shares are sold to the public in the underwritten public offering, subject to certain conditions. The Company has agreed to register the shares issued to JJDC under the Stock Purchase Agreement pursuant to a registration statement on Form S-3 within eighteen (18) months of the Effective Date and to grant JJDC certain piggyback registration rights in the event there is not an effective registration statement covering the resale of such shares thereafter.
+
+ 
+
+Under the terms of the Collaboration Agreement and the Stock Purchase Agreement taken together, the Company is entitled to receive: (i) $100 million, of which $50 million is an upfront cash payment and $50 million is in the form of the equity investment by JJDC at the SPA Closing; (ii) full funding for all research, preclinical development and IND-enabling activities performed by the Company for Collaboration Candidates; (iii) with respect to the first Janssen Cancer Target, payments of up to $898 million upon the achievement of specified development, regulatory and sales milestones (the “Milestone Payments”) for the first Collaboration Candidate, and up to $460 million in Milestone Payments for each additional Collaboration Candidate, directed to the first Janssen Cancer Target; and (iv) with respect to each of the second, third and fourth Janssen Cancer Targets, up to $706 million in Milestone Payments for each of the first Collaboration Candidates, and up to $340 million in Milestone Payments for each additional Collaboration Candidate, directed to the applicable Janssen Cancer Target, where certain Milestone Payments under (iii) and (iv) are subject to reduction in the event the Company elects to co-commercialize and share equally in the profits and losses in the United States of a respective Collaboration Candidate. The Company is further eligible to receive double-digit royalties ranging up to the mid-teens on net sales of Collaboration Candidates that are commercialized by Janssen under the Collaboration Agreement, subject to reduction under certain circumstances.
+
+ 
+
+ 
+
+ 
+
+Janssen may terminate the Collaboration Agreement with respect to one or more Janssen Cancer Targets, or in its entirety, at any time on or after the second anniversary of the Effective Date, and the Company may terminate the Collaboration Agreement with respect to a particular Janssen Cancer Target if a Collaboration Candidate has not been selected for IND-enabling studies for such Janssen Cancer Target within specified time periods under certain conditions. The Collaboration Agreement contains customary provisions for termination by either party in the event of a material breach of the Collaboration Agreement, subject to cure, by the other party and in the event of any bankruptcy, insolvency or similar events with respect to the other party.
+
+ 
+
+Item 3.02 Unregistered Sales of Equity Securities
+
+ 
+
+The information in Item 1.01 above regarding the Stock Purchase Agreement and sale of the Shares thereunder is incorporated by reference in response to this Item 3.02 of Form 8-K.
+
+ 
+
+The Shares are being sold in a private placement that is exempt from registration under Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”). The Shares have not been registered under the Securities Act or any state securities laws and may not be resold in the United States absent registration or an applicable exemption from registration requirements.
+
+ 
+
+The foregoing description of the terms of the Collaboration Agreement and Stock Purchase Agreements does not purport to be complete and is qualified in its entirety by reference to the Collaboration Agreement and Stock Purchase Agreement, which the Company intends to file in redacted form with the Securities and Exchange Commission as exhibits to its Quarterly Report on Form 10-Q for the quarter ending June 30, 2020.
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+ 
+
+On April 2, 2020, the Company issued a press release announcing entry into the Collaboration Agreement. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+ 
+
+The information in Item 7.01 of this Current Report on Form 8-K and Exhibit 99.1 attached hereto is being furnished and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (“Exchange Act”) or otherwise subject to the liability of that section, nor shall such information be deemed incorporated by reference in any filing under the Exchange Act or the Securities Act of 1933, as amended, regardless of the general incorporation language of such filing, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+On April 2, 2020, the Company issued a press release titled, “Fate Therapeutics Announces First Patient Treated in First-in-human Clinical Trial of FT596 and Provides Corporate Update.” A copy of the press release is attached as Exhibit 99.2 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+In addition, the Company is supplementing the risk factors previously disclosed in its Annual Report on Form 10-K for the year ended December 31, 2019 with the addition of the following risk factor under the subsection “Risks Related to Our Business and Industry”:
+
+ 
+
+ 
+
+ 
+
+The outbreak of the novel strain of coronavirus, SARS-CoV-2, which causes COVID-19, could adversely impact our business, including our clinical trials and preclinical studies.
+
+ 
+
+The outbreak of the novel coronavirus, SARS-CoV-2, which causes coronavirus disease 2019 (COVID-19), has evolved into a global pandemic. The coronavirus has spread to many regions of the world, including the United States and Europe. As a result of the coronavirus pandemic, we may experience disruptions that could materially impact our business. The extent to which the coronavirus impacts our business and operating results will depend on future developments that are highly uncertain and cannot be accurately predicted, including new information that may emerge concerning the coronavirus and the actions taken to contain the coronavirus or treat its impact, among others.
+
+ 
+
+As a result of the COVID-19 pandemic, various aspects of our business operations have been, and could continue to be, disrupted. In response to the pandemic, we have implemented a work from home policy, with our administrative employees continuing their work outside of our offices, and restricted on-site staff to only those required to execute certain laboratory, manufacturing and related support activities. The increase in working remotely could increase our cyber security risk, create data accessibility concerns, and make us more susceptible to communication disruptions, any of which could adversely impact our business operations or delay necessary interactions with local and federal regulators, ethics committees, manufacturing sites, and clinical trial sites. In addition, as a result of shelter-in-place orders or other mandated travel restrictions, our on-site staff conducting research and development, preclinical studies, and manufacturing activities may not be able to access our laboratories or manufacturing space, and these core activities may be significantly limited or curtailed, possibly for an extended period of time.
+
+ 
+
+In addition, our ongoing and planned clinical trials have been and will likely continue to be affected by the pandemic. Study procedures (particularly any procedures that may be deemed non-essential), site initiation, participant recruitment and enrollment, participant dosing, shipment of our product candidates, distribution of clinical trial materials, study monitoring, site inspections and data analysis may be paused or delayed due to changes in hospital or research institution policies, federal, state or local regulations, prioritization of hospital and other medical resources toward pandemic efforts, or other reasons related to the pandemic. If the coronavirus continues to spread, some participants and clinical investigators may not be able to comply with clinical trial protocols. For example, quarantines or other travel limitations (whether voluntary or required) may impede participant movement, affect access to study sites, or interrupt healthcare services, and we may be unable to conduct our clinical trials. Furthermore, the pandemic could result in interruption or delays in the operations of the U.S. Food and Drug Administration and other regulatory agencies. The extent and impact of such disruptions are currently unpredictable. Any prolongation or de-prioritization of our clinical trials or delay in regulatory review resulting from such disruptions could materially affect the development and study of our product candidates.
+
+ 
+
+Our research, preclinical development, and manufacturing operations also may be adversely impacted by the COVID-19 pandemic. We currently utilize third parties to, among other things, supply and manufacture raw materials, components, consumables, and our product candidates, to ship our product candidates and manufacturing materials, and to perform certain testing relating to our product candidates. We also manufacture our product candidates and perform various related testing at our manufacturing facility, and conduct research and development activities. If we, or any third parties in our supply chain for materials which are used in either the manufacture of our product candidates or the conduct of our research and development, are adversely impacted by restrictions resulting from the coronavirus outbreak, our supply chain may be disrupted and our ability to manufacture and ship our product candidates for our clinical trials and to conduct research and development activities may be limited.
+
+ 
+
+ 
+
+ 
+
+In addition, the trading prices for our common stock and other biopharmaceutical companies have been highly volatile as a result of the COVID-19 pandemic. As a result, we may face difficulties raising capital through equity or debt financings, or such financing transactions may be on unfavorable terms. While the potential economic impact brought by and the duration of the pandemic may be difficult to assess or predict, it has already caused, and is likely to result in further, significant disruption of global financial markets, which may reduce our ability to access capital either at all or on favorable terms. In addition, a recession, depression or other sustained adverse market event resulting from the spread of COVID-19 could materially and adversely affect our business and the value of our common stock.
+
+ 
+
+The ultimate impact of the current pandemic, or any other health epidemic, is highly uncertain and subject to change. We do not yet know the full extent of potential delays or impacts on our business, our clinical and preclinical programs, our clinical, preclinical, research, manufacturing, and regulatory activities, healthcare systems or the global economy as a whole. However, these effects could have a material adverse impact on our operations, and we will continue to monitor the situation closely.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995 including statements regarding the expected benefits of the Collaboration Agreement, the Company's expectations regarding future potential milestone and royalty payments under the Collaboration Agreement, the objectives, plans and goals of the collaboration, the parties’ rights and obligations under the Collaboration Agreement, the anticipated closing of the purchase and sale of shares of the Company’s Common Stock under the Stock Purchase Agreement, potential impacts of the coronavirus pandemic on the Company’s business and operations such as delays in regulatory review, manufacturing and supply chain interruptions, adverse effects on healthcare systems and disruption of the global economy, the timing of enrollment in its clinical trials; delays or disruptions in clinical trials, preclinical studies, manufacturing, and other research and development activities; and the overall impact of the coronavirus pandemic on the Company’s business, financial condition and results of operations. For a discussion of other risks and uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the risks and uncertainties detailed in the Company’s periodic filings with the Securities and Exchange Commission, including but not limited to the Company’s most recently filed periodic report, and from time to time in the Company’s press releases and other investor communications. The Company is providing the information in this release as of this date and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events or otherwise.
+
+ 
+
+ 
+
+ 
+
+Item 9.01 Financial Statements and Exhibits
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+Description
+
+99.1
+
+ 
+
+Press Release, dated April 2, 2020.
+
+99.2
+
+ 
+
+Press Release, dated April 2, 2020.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date:  April 2, 2020
+
+ 
+
+ 
+
+ 
+
+FATE THERAPEUTICS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ J. Scott Wolchko
+
+ 
+
+ 
+
+ 
+
+J. Scott Wolchko
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

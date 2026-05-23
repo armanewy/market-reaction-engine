@@ -1,0 +1,177 @@
+8-K
+
+false000181771300018177132024-02-272024-02-27
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 27, 2024
+
+Janux Therapeutics, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-40475
+
+82-2289112
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+10955 Vista Sorrento Parkway, Suite 200
+
+San Diego, California
+
+92130
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 751-4493
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value per share
+
+ 
+
+JANX
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+As of the date hereof, based on currently available information, Janux Therapeutics, Inc. (“we,” “us,” “our,” and the “Company”) expects its cash, cash equivalents, restricted cash and short-term investments as of January 31, 2024 to be approximately $338.2 million. Inclusive in this amount is $0.8 million of restricted cash that is not available for current use. This estimate of our capital resources was prepared by management based upon internal reporting, is preliminary and unaudited, and may be revised as a result of management’s further review of our results as of January 31, 2024. This unaudited information has been prepared by, and is the responsibility of, our management. Ernst & Young LLP has not audited this information. Accordingly, Ernst & Young LLP does not express an opinion or any other form of assurance with respect thereto.
+
+Interim Clinical Data Update
+
+Updated interim clinical data for PSMA-TRACTr JANX007 in mCRPC as of February 12, 2024
+
+The Company is reporting interim clinical data as of February 12, 2024 for PSMA-TRACTr (“JANX007”) in subjects with advanced or metastatic prostate cancer. The subjects enrolled in the trial were heavily pre-treated with a median of 4+ lines of therapy. As of February 12, 2024, 23 subjects were treated with JANX007 in the dose escalation portion of the Phase 1a clinical trial. An increasing depth of PSA declines and RECIST responses at higher doses were observed, while adverse events have remained generally low-grade and transient. At a starting dose ≥ 0.1 mg, 14 of 18 (78%) subjects have achieved maximum PSA declines of PSA30 and 10 of 18 (56%) subjects have achieved maximum PSA declines of PSA50. At a starting step dose of ≥ 0.2 mg, 6 of 6 (100%) subjects have achieved maximum PSA declines of PSA30 and 5 of 6 (83%) subjects have achieved maximum PSA declines of PSA50. Initial step doses of JANX007 ≥ 0.2 mg have been observed to drive deeper and more durable PSA responses, including one subject that achieved a maximum PSA decline of PSA90.
+
+Cytokine Release Syndrome (“CRS”) was observed to be temporary and mild, presenting only as low-Grade 1 or 2 events, and was quickly managed with treatment. These incidents of CRS were mainly reported during the first treatment cycle, with no subsequent occurrences in later cycles. Similarly, the majority of treatment-related adverse events (“TRAEs”) not associated with CRS were of low severity (Grade 1 or 2) and also primarily occurred in the initial cycle. There was a low incidence of Grade 3 TRAEs, and no Grade 4 or 5 events were observed. JANX007 has been administered at doses up to 3mg, significantly exceeding the anticipated maximum tolerable dose for the parental T cell engager, while the maximum tolerable dose for the TRACTr has not yet been established.
+
+Based on this safety data, the Company is continuing dose optimization for JANX007 with the goal of further deepening PSA responses, while maintaining a favorable safety profile. The Company anticipates providing an update on doses for expansion in the second half of 2024.
+
+Interim clinical data for EGFR-TRACTr JANX008 in solid tumors as of February 12, 2024
+
+The Company is reporting interim clinical data as of February 12, 2024 for EFGR-TRACTr (“JANX008”) in subjects with advanced or metastatic solid tumors known to express high levels of the EGFR target, including colorectal cancer, squamous cell carcinoma of the head and neck, non-small cell lung cancer (“NSCLC”), and renal cell carcinoma (“RCC”).
+
+As of February 12, 2024, 11 heavily pre-treated, late-stage subjects across all four tumor types have been enrolled. Encouraging signs of clinical activity were observed, while a favorable safety profile was maintained. In one subject with NSCLC treated with JANX008 at 0.15mg once-weekly, a confirmed partial response (“PR”) by RECIST criteria with 100% reduction of the target lung lesion and elimination of liver metastasis with no CRS or TRAEs has been observed. This subject remains on treatment and their PR has been maintained through their week-18 scan. One subject with RCC experienced a maximum reduction of 12% in the size of a large RCC mass and significant clinical benefit with Grade 1 CRS. Overall, five of these eleven patients remain on treatment.
+
+The early safety data for JANX008 has been consistent with the TRACTr design principles of tumor-specific activation while avoiding healthy tissue toxicity with a broadly expressed target. In the 11 subjects enrolled at doses up to 1.25mg, which is significantly above the projected maximum tolerable dose of the parental T cell engager, Grade 1 CRS was observed in only two subjects and no Grade 2 or higher CRS was seen. The majority of non-CRS TRAEs were also low-Grade 1 or 2 and occurred predominantly in cycle one. No treatment related serious adverse events or dose-limiting toxicities have been observed.
+
+Based on this safety data, the Company is continuing in the dose escalation and optimization portion of the trial for JANX008.
+
+1
+
+ 
+
+Forward-Looking Statements
+
+This report contains certain forward-looking statements that involve risks and uncertainties that could cause actual results to be materially different from historical results or from any future results expressed or implied by such forward-looking statements. Such forward-looking statements include statements regarding, among other things, our preliminary estimates of cash, cash equivalents, restricted cash and short-term investments as of January 31, 2024, our ability to bring new treatments to cancer patients in need, expectations regarding the timing, scope and results of our development activities, including our ongoing and planned clinical trials and that the interim data results supporting continued clinical development of JANX007 and JANX008, and the potential benefits of our product candidates and platform technologies. Factors that may cause actual results to differ materially include the risk that interim results of a clinical trial are not necessarily indicative of final results and one or more of the clinical outcomes may materially change as patient enrollment continues, following more comprehensive reviews of the data and as more patient data becomes available, the risk that compounds that appear promising in early research do not demonstrate safety and/or efficacy in later preclinical studies or clinical trials, the risk that we may not obtain approval to market our product candidates, uncertainties associated with performing clinical trials, regulatory filings and applications, risks associated with reliance on third parties to successfully conduct clinical trials, the risks associated with reliance on outside financing to meet capital requirements, and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs. You are urged to consider statements that include the words “may,” “will,” “would,” “could,” “should,” “believes,” “estimates,” “projects,” “promise,” “potential,” “expects,” “plans,” “anticipates,” “intends,” “continues,” “designed,” “goal,” or the negative of those words or other comparable words to be uncertain and forward-looking. For a further list and description of the risks and uncertainties we face, please refer to our periodic and other filings with the SEC, which are available at www.sec.gov. Such forward-looking statements are current only as of the date they are made, and we assume no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+2
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+JANUX THERAPEUTICS, INC.
+
+Date: February 27, 2024
+
+By:
+
+/s/ David Campbell, Ph.D.
+
+David Campbell, Ph.D.
+
+President and Chief Executive Officer
+
+ 
+
+3

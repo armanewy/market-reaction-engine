@@ -1,0 +1,528 @@
+EX-99.3
+8
+d856792dex993.htm
+EX-99.3
+
+EX-99.3
+
+Exhibit 99.3 Decoding Biology To Radically Improve Lives August
+2024
+
+Important Information This presentation of Recursion Pharmaceuticals,
+Inc. (“Recursion,” “we,” “us,” or “our”) and any accompanying discussion contain statements that are not historical facts may be considered forward-looking statements under federal securities laws and
+may be identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “potential,” “predicts,”
+“projects,” “seeks,” “should,” “will,” or words of similar meaning and include, but are not limited to, statements regarding bringing better medicines to patients more rapidly and more cost
+efficiently; the occurrence or realization of near-or medium-term potential milestones; current and future preclinical and clinical studies, including timelines for enrollment in studies, data readouts, and progression toward IND-enabling studies;
+outcomes and benefits from licenses, partnerships and collaborations, including option exercises by partners and the amount and timing of potential milestone payments; the initiation, timing, progress, results, and cost of our research and
+development programs; advancements of our Recursion OS, including augmentation of our dataset and movement toward autonomous discovery; outcomes and benefits expected from the Tempus and Helix relationships, including our building of large-scale
+causal AI models; outcomes and benefits expected from the Large Language Model-Orchestrated Workflow Engine (LOWE); the potential for additional partnerships and making data and tools available to third parties; expected supercomputer capabilities;
+our ability to identify viable new drug candidates for clinical development and the accelerating rate at which we expect to identify such candidates including our ability to leverage the datasets acquired through the license agreement into increased
+machine learning capabilities and accelerate clinical trial enrollment; the potential size of the market opportunity for our drug candidates; outcomes and benefits expected from the Enamine partnership, including the generating and co-branding of
+new chemical libraries; and many others. Such statements also include statements regarding the proposed business combination of Recursion and Exscientia plc (“Exscientia”) and the outlook for Recursion’s or Exscientia’s
+future business and financial performance, including the combined company’s first-in-class and best-in-class opportunities; potential for annual peak sales from successful programs of over $1 billion each; potential milestone payments of the
+combined company of approximately $200 million over the next 2 years from current partnerships; potential for more than $20 billion in total milestone payments for the combined company from partners before royalties; percentage of the pro forma
+company to be received by Exscientia shareholders; ability to reduce pro forma spend of the combined company; revenue, business synergies, and reduced pro forma spend from the combination resulting in cash runway extending into 2027; completion of
+the business combination in 2025; and many others. Such forward-looking statements are based on the current beliefs of Recursion’s and Exscientia’s respective management as well as assumptions made by and information currently available
+to them, which are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict. Actual outcomes and results may vary materially from these forward-looking statements based on a variety of risks and
+uncertainties including: the occurrence of any event, change or other circumstances that could give rise to the termination of the transaction agreement; the inability to obtain Recursion’s stockholder approval or Exscientia’s
+shareholder approval or the failure to satisfy other conditions to completion of the proposed combination, including receipt of the required regulatory approvals and obtaining the sanction of the High Court of Justice of England and Wales to the
+Scheme of Arrangement, on a timely basis or at all; risks that the proposed combination disrupts each company’s current plans and operations; the diversion of the attention of the respective management teams of Recursion and Exscientia from
+their respective ongoing business operations; the ability of either Recursion, Exscientia or the combined company to retain key personnel; the ability to realize the benefits of the proposed combination, including cost synergies; the ability to
+successfully integrate Exscientia's business with Recursion’s business or to integrate the businesses within the anticipated timeframe; the outcome of any legal proceedings that may be instituted againstRecursion, Exscientia or others
+following announcement of the proposed combination; the amount of the costs, fees, expenses and charges related to the proposed combination; the effect of economic, market or business conditions, including competition, regulatory approvals and
+commercializing drug candidates, or changes in such conditions, have on Recursion’s, Exscientia’s and the combined company’s operations, revenue, cash flow, operating expenses, employee hiring and retention, relationships with
+business partners, the development or launch of technology enabled drug discovery, and commercializing drug candidates; the risks of conducting Recursion’s and Exscientia’s businesses internationally; the impact of potential inflation,
+volatility in foreign currency exchange rates and supply chain disruptions; the ability to maintain technology-enabled drug discovery in the biopharma industry; and risks relating to the market value of Recursion’s common stock to be issued in
+the proposed transaction. Other important factors and information are contained in Recursion’s most recent Annual Report on Form 10-K and Exscientia’s most recent Annual Report on Form 20-F, including the risks summarized in the section
+entitled “Risk Factors,” Recursion’s Quarterly Reports on Form 10-Q for the quarterly periods ended March 31 and June 30, 2024 and Exscientia’s filing on Form 6-K filed May 21, 2024, and each company’s other filings
+with the U.S. Securities and Exchange Commission (the “SEC”), which can be accessed at https://ir.recursion.com in the case of Recursion, http://investors.exscientia.ai in the case of Exscientia, or www.sec.gov. All forward-looking
+statements are qualified by these cautionary statements and apply only as of the date they are made. Neither Recursion nor Exscientia undertakes any obligation to update any forward-looking statement, whether as a result of new information, future
+events or otherwise. 2
+
+Important Information (continued) Certain information contained in this
+presentation relates to or is based on studies, publications, surveys and other data obtained from third-party sources and the company’s own internal estimates and research. While the company believes these third-party sources to be reliable
+as of the date of this presentation, it has not independently verified, and makes no representation as to the adequacy, fairness, accuracy or completeness of, any information obtained from third-party sources. In addition, all of the market data
+included in this presentation involves a number of assumptions and limitations, and there can be no guarantee as to the accuracy or reliability of such assumptions. Finally, while the company believes its own internal research is reliable, such
+research has not been verified by any independent source. Information contained in, or that can be accessed through our website is not a part of and is not incorporated into this presentation. Cross-trial or cross-candidate comparisons against other
+clinical trials and other drug candidates are not based on head-to-head studies and are presented for informational purposes; comparisons are based on publicly available information for other clinical trials and other drug candidates. Any
+non-Recursion logos or trademarks included herein are the property of the owners thereof and are used for reference purposes only. Additional Information and Where to Find It This communication relates to the proposed business combination of
+Recursion and Exscientia that will become the subject of a joint proxy statement to be filed by Recursion and Exscientia with the SEC. The joint proxy statement will provide full details of the proposed combination and the attendant benefits and
+risks. This communication is not a substitute for the joint proxy statement or any other document that Recursion or Exscientia may file with the SEC or send to their respective security holders in connection with the proposed transaction. Security
+holders are urged to read the definitive joint proxy statement and all other relevant documents filed with the SEC or sent toRecursion’s stockholders or Exscientia’s shareholders as they become available because they will contain
+important information about the proposed transaction. All documents, when filed, will be available free of charge at the SEC’s website (www.sec.gov). You may also obtain these documents by contacting Recursion’s Investor Relations
+department at investor@recursion.com; or by contacting Exscientia’s Investor Relations department at investors@exscientia.ai. This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities or a
+solicitation of any vote or approval. Participants in the Solicitation Recursion, Exscientia and their respective directors and executive officers may be deemed to be participants in any solicitation of proxies in connection with the proposed
+business combination. Information about Recursion’s directors and executive officers is available in Recursion’s proxy statement dated April 23, 2024 for its 2024 Annual Meeting of Stockholders. Information about Exscientia’s
+directors and executive officers is available in Exscientia’s Annual Report on Form 20-F dated March 21, 2024. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by
+security holdings or otherwise, will be contained in the joint proxy statement and all other relevant materials to be filed with the SEC regarding the proposed combination when they become available. Investors should read the joint proxy statement
+carefully when it becomes available before making any voting or investment decisions. 3
+
+Recursion and Exscientia Combination 4
+
+Recursion enters agreement with Exscientia to bring better medicines to
+patients more rapidly and more cost efficiently Combination of Many Complementary Factors • Pipeline: Diverse portfolio of clinical and near-clinical programs with ~10 clinical readouts over the next ~18 months • Partnerships: Diverse
+portfolio of transformational partnerships with potential for over $200 million in milestone payments over the next 2 years • Platform: Full-stack technology-enabled small molecule discovery platform • Business: ~$850 million in combined
+cash (end of Q2 2024), estimated annual synergies of ~$100 million or more and runway into 2027 • People: Shared vision to leverage technology & talent to discover and develop high quality medicines efficiently and at scale 5
+
+Recursion + Exscientia: Pipeline • Diverse Portfolio of clinical
+or near-clinical programs ~10 clinical readouts in the next 18 months • ~10 clinical readouts over the next ~18 months • Complementary therapeutic pipelines with no competitive overlap Combining first-in-class and best- • Most of
+these programs, if successful, could have in-class opportunities annual peak sales opportunities >$1 billion each • Strategic Focus • Recursion: first-in-disease drug candidates in oncology, rare disease, infectious disease •
+Exscientia: best-in-class drug candidates in oncology, inflammation, immunology • Many additional research and discovery programs for both companies 6
+
+Recursion + Exscientia: Pipeline of more than 10 technology-enabled
+programs demonstrate maturity and de-risking Anticipated Near- Program Indication Target Preclinical Phase 1 Phase 2 Phase 3 Term Milestones Topline readout Sep. 2024 REC-994 Cerebral Cavernous Malformation Superoxide SYCAMORE Preliminary readout Q4
+2024 REC-2282 Neurofibromatosis Type 2 HDAC POPLAR Preliminary readout H1 2025 REC-4881 Familial Adenomatous Polyposis MEK TUPELO Ph2 initiation in Q4 2024 REC-3964 Clostridioides difficile Infection TcdB ALDER Positive early Ph1 data EXS4318
+Inflammatory Diseases PKC-theta Epsilon Fibrotic Diseases Undisclosed IND submission early 2025 Preliminary readout H1 2025 REC-4881 Advanced AXIN1/APC-mutant Cancers MEK EXS617 Advanced Solid Tumours CDK7 ELUCIDATE Mono tx dose escalation H2 2024
+REC-1245 Advanced HR-Proficient Cancers RBM39 IND submission Q3 2024 EXS74539 AML, SCLC LSD1 IND submission H2 2024 EXS73565 Haematological Malignancies MALT1 IND submission H2 2024 Note: Over a dozen discovery programs in combined pipeline,
+including ENPP1 inhibitor in collaboration with Rallybio, which is expected to achieve development candidate nomination of a small molecule inhibitor of ENPP1 for the treatment of patients with HPP in the fourth quarter of 2024 In addition, 4 large
+strategic collaborations (e.g., Roche, Bayer, Sanofi, Merck KGaA) with 10 programs already optioned across oncology and immunology 7 Oncology Rare & Other
+
+Recursion + Exscientia: Partnerships • Diverse Portfolio of
+transformational partnerships with leading large pharma companies • 10 programs already optioned across oncology and immunology • Combined company expects potential additional milestone payments of ~$200 million over the next 2 years
+from current partnerships • Potential for >$20 billion in total combined revenue before royalties from partners • Transformational Large Pharma Partnerships • Recursion: Roche-Genentech (neuroscience, single GI-oncology
+indication), Bayer (oncology) • Exscientia: Sanofi (oncology, immunology), Merck KGaA (oncology, immunology) Recursion Partners Exscientia Partners 8 Trademarks are the property of their respective owners and used for informational purposes
+only.
+
+Recursion + Exscientia: Platform • Core Strengths •
+Recursion: scaled biology exploration and translational capabilities primarily focused on first-in- disease opportunities • Exscientia: precision chemistry design and small molecule automated synthesis primarily focused on best-in-class
+opportunities • Assembles a full-stack platform spanning • Patient-centric target discovery • Hit discovery and lead optimization • Automated chemical synthesis • Predictive ADMET and translation • Biomarker
+selection • Clinical development 9
+
+Overview of areas where Exscientia’s capabilities can immediately
+integrate and complement the Recursion OS upon close Complementary capabilities through combination with Exscientia labelled in orange. 10
+
+Recursion + Exscientia: Summary of complementary factors Scaled
+exploration and mapping of Precision chemistry design and Platform Strength biological relationships molecular synthesis First-in-class products in oncology, Best-in-class products in oncology, Internal Pipeline rare disease, infectious disease
+inflammation, immunology Roche-Genentech (neuro, single Sanofi (oncology, immunology), Large Pharma Partnerships GI-onc indication), Bayer (oncology) Merck KGaA (onc, immunology) Cash (End of Q2 2024) ~$475 million ~$370 million* Salt Lake City,
+London, Toronto, Oxford, Boston, Vienna, Locations Montreal, San Francisco Bay Area Dundee, Miami Employees >500 >350 This preliminary financial data for Exscientia has been prepared by and is the responsibility of Exscientia, and it has not
+been reviewed 11 or audited by the company’s independent auditor. Exscientia’s actual results may differ from these preliminary financial results.
+
+Transaction details of Recursion-Exscientia combination • Stock
+for stock transaction Stock • Exscientia shareholders will receive 0.7729 shares of Recursion Class A common Consideration stock for each Exscientia ordinary share, subject to rounding for fractional shares Pro-Forma • Recursion
+shareholders will own ~74% of the combined company • Exscientia shareholders will own ~26% of the combined company Ownership • ~$850 million in combined cash at the end of Q2, 2024 • Expect pro-forma combined financial plans to
+extend runway into 2027 Cash Position • Estimated annual synergies of ~$100 million or more • Recursion will be the Go-Forward Entity Management • Recursion Co-Founder & CEO Chris Gibson will be CEO of combined company •
+Exscientia Interim CEO David Hallett will join as Chief Scientific Officer and Board • Two Exscientia Board Members will join the Recursion Board Timing and • Expect this transaction to close by early 2025 • Subject to approval of
+both companies’ shareholders and closing conditions Approvals Pro-forma ownership is based on the number of shares outstanding today 12
+
+Exscientia: ‘617 precision designed to have best-in-class
+properties Maximize upside potential of precision- Precision designed to maximize therapeutic index allowing for designed GTAEXS617 with purchase of full optimized combinations and potentially better efficacy rights from GT Apeiron: •
+Selectivity, reversibility & efflux design properties limit • Upfront $10m in cash + $10m in potential toxicities to widen therapeutic index Exscientia equity + single digit royalties • CDK7 regulates both cell cycle and
+transcription • Potential best-in-class molecule in • Cell cycle inhibitors are a validated mechanism of action: CDK4/6 Phase 1/2 studies inhibitors generated $11 billion in sales in 2023 • Ahead of monotherapy dose escalation
+• Opportunity in multiple tumor types clinical trial data • Ongoing ELUCIDATE Phase I/II trial in patients with advanced solid tumors and potential best in class* • Ahead of monotherapy dose escalation clinical trial data •
+Full rights acquired for ‘617 – CDK7 inhibitor • Across these six tumor types, there are 75k newly diagnosed patients in the US per year CDK7 • CDK4/6 relapsed breast cancer is the first indication being considered for
+combination dose expansion – expected to start in 2H24/1H25 Sales data from Evaluate Pharma *Tumor types: head and neck cancer, colorectal cancer, pancreatic cancer, non-small cell lung cancer (NSCLC), HR+/HER2- breast cancer and ovarian
+cancer
+
+Recent Business Developments and Potential Milestones 14
+
+Roche-Genentech Optioned Industry-First Neuroscience Phenomap from
+Recursion for $30 Million $30 million is part of a fee structure that could exceed a total of $500 million Fee across multiple maps, not inclusive of program milestones Structure Validates Recursion’s scientific approach to mapping biology as
+well as Validated Recursion’s ability to deliver on success-based data options Approach Augmenting this map with chemical perturbations, completion and acceptance Milestone could trigger a larger second milestone payment Payment Built cell
+manufacturing technologies and produced >1 trillion hiPSC derived Building neuronal cells to create this initial map Technologies Building additional maps in other neural cell contexts that will further Additional investigate genome scale genetic
+and diverse chemical perturbations for this Maps decade-long collaboration 15
+
+Recursion is delivering value across its partnership with Bayer in
+undruggable oncology On track to complete 25 unique multi-modal data packages in Q3 Work initiated Nov 2023 Focus on Oncology Q1 Q2 Q3 Bayer is the 1st beta-user Initiated 1st Joint Project which is of LOWE (Recursion’s LLM advancing rapidly
+towards Lead Orchestrated Workflow Engine) Series nomination 16
+
+Clinical: CCM REC-994 for CCM : Topline Readout in September 2024
+SYCAMORE is the first industry-sponsored Phase 2 trial for CCM Disease & Unmet Need REC-994 Phase 2 • Cerebral Cavernous Malformation (CCM) affects ~360,000 symptomatic patients in the US and EU5 SYCAMORE Randomized, double-blind, •
+Loss of function mutations in CCM1, CCM2, CCM3 genes placebo-controlled trial lead to vascular abnormalities in the CNS • Symptoms include seizures, headaches, hemorrhage, • Primary : Safety and tolerability focal neurological deficits
+• Secondary : About a dozen efficacy measures including • No approved therapies with treatment options limited to clinician-measured outcomes, MRI imaging, and patient surgery or stereotactic radiosurgery reported outcomes Topline
+Readout September 2024 Small-molecule therapeutics designed to exploit specific targets in the CCM1– CCM2–CCM3–MEKK3 pathways may reduce CCM growth, progression, and • Efficacy analysis will focus on identifying trends across
+bleeding, offering the possibility of effective nonsurgical treatments for CCM. multiple endpoints and population subgroups – Edward R Smith, MD, Harvard • We and KOLs believe that movement in one or more of Almost every patient has
+wanted to be part of the extension portion of the these efficacy measures supports continued SYCAMORE trial. REC-994 was the first drug that came into trials for our development of this program patients, and it is still the only drug in Phase 2 that
+is industry sponsored. Machine learning won the race – Connie Lee, CEO, Alliance to Cure CCM • We look forward to discussing data and engaging the FDA on a potential path to registration 17
+
+Milestones: Pipeline – 7 Clinical Trial Readouts Expected in ~18
+Months Pipeline • CCM: Ph2 readout expected in September 2024 • NF2: Ph2 safety & preliminary efficacy expected in Q4 2024 • FAP: Ph2 safety & preliminary efficacy expected in H1 2025 • AXIN1 or APC Mutant Cancers:
+Ph2 safety & preliminary efficacy expected in H1 2025 • C. difficile Infection: Ph2 initiation expected in Q4 2024 with preliminary readout expected by end of 2025 • Advanced HR-Proficient Cancers, Target RBM39: IND submission
+expected in Q3 2024. Ph1/2 initiation expected in Q4 2024 with Ph1 dose-escalation readout by end of 2025 • Target Epsilon (novel target in fibrotic diseases): IND submission expected in early 2025 with Ph1 healthy volunteer readout by end of
+2025 • Dozens of internal & partner programs in early stages with first LLM & causal model driven programs entering pipeline 18
+
+Milestones: Partnerships and Platform Partnerships Platform •
+Roche & Genentech: validation program option exercised for • Built our 1st genome-scale transcriptomics KO map, 1st validated hit series in oncology, 1st neuroscience moving towards multiomics foundation models phenomap optioned for $30M
+(part of a structure that could exceed a total of $500M across multiple maps), potential for near-term program and additional map options • Active learning and exploration of proteomics, organoids, spheroids, & automated synthesis •
+Bayer: delivered multiple oncology data packages, on track to complete 25 unique data packages in Q3 2024, advancing • Potential to make some data and tools available to 1st joint project towards lead series nomination, agreed to be biopharma
+and commercial users 1st beta-user of LOWE for drug discovery and development, potential near-term program options • OS moving towards autonomous discovery • Tempus & Helix: building large-scale causal AI models to generate target
+hypotheses across cancer and other disease Strong Financial Position areas, exploring novel NSCLC targets ~$474M in cash Q2 2024 Cash refers to cash and cash equivalents at the end of Q2 2024 • Potential for additional partnership(s) in large,
+intractable areas of biology 19
+
+Value Proposition and OS 20
+
+There is a formula for mapping and navigating complex systems using
+technology 2 Data Aggregate and organize data to create digital maps of reality 2 Digital (bits) 3 1 Real (atoms) Algorithms 3 Navigate digital maps to Profile Systems 1 predict novel relationships, Capture high-dimensional then try them in reality
+data to create a digital record of reality (things, places, preferences, etc.) 21
+
+Data roadblocks make mapping and navigating biology difficult Analog
+Standard The fax machine is alive and well in medicine, while in biopharma, study results from CROs are still often reported as PDFs or scanned printouts Siloed Data in Pharma ! Biopharma has 100s of petabytes of ! scientific data stored on a
+project-by- ! ! ! ! ! project basis without the meta-data or ! annotation needed to relate it to other ! ! projects or questions in biology Reproducibility Crisis Multiple studies have shown that the vast majority of published academic literature
+cannot be recapitulated Trademarks are the property of their respective owners and used for informational purposes only. 22 Baker, M. Irreproducible biology research costs put at $28 billion per year. Nature (2015).
+https://doi.org/10.1038/nature.2015.17711
+
+We are building and aggregating purpose-built datasets to map and
+navigate biology Data Each week we digitize millions of our own experiments across multiple layers of biology Algorithms from cell to animal Profile Systems We own and operate one of the We have built and continue to fastest supercomputers on earth,
+scale among the world’s most allowing us to train LLMs & FMs fit prolific automated wet labs for the purpose of drug discovery Recursion OS Improved and scaled clinical pipeline 23
+
+The Recursion OS integrates modules across many diverse steps to
+industrialize drug discovery and development 24
+
+We connect data layers to build multiomic digital maps of biology
+25
+
+2 weeks 6 months Phenomics: Foundation models improve at detecting
+biology DATA GENERATION MODELS Recall of biological relationships vs model size >250 million experiments 2 weeks of rapid >50 human cell types iteration on Phenom-2 0.50 candidate Biohive-2 >1 trillion neurons generated Phenom-1 enabled
+0.48 Brightfield to capture dynamics 25.7% 0.46 increase in 0.44 Phenom- expressed gene Beta DL- knock-outs 2 0.42 detected 10⁸ 10⁹ Parameters 26 Biological recall
+
+Transcriptomics: Multimodal data scales validation and mapping DATA
+GENERATION MODELS >1M samples sequenced Replaced time-consuming, disease- 1st genome-scale transcriptomic map specific validation assays with portfolio- wide multimodal model workflow Transcriptomics IL-6 pathway 90% 60% Ability to predict
+Ability to predict compounds that failed compounds that passed later disease-relevant later disease-relevant assays in internal tests assays in internal tests Phenomics 27
+
+ADME: Data and scale lead to State of the Art models DATA GENERATION
+MODELS Our single generalizable model improves with Estimated 90x throughput over manual approach multimodal data and model size >750 compounds per week Generalized performance over all 22 TDC ADMET 1.25 datasets 1.00 External best model 2024
+0.75 0.50 0.25 Average of 0.00 all TDC models -0.25 10⁶ 10⁷ 10⁸ 10⁹ Number of parameters 28 Normalized performance
+
+InVivomics accelerates decision-making in late discovery DATA
+GENERATION MODELS >1,000 digital mouse cages • Machine learning enables scale by extracting signals 150 digital rat cages in 2024 from video and Social housing increases relevance temperature sensors • Applied across breadth of
+Recursion portfolio • Designed to select the right molecule at the right dose before entering efficacy studies 29
+
+Patient Data: Path to uncover novel disease drivers with Maps DATA
+GENERATION MODELS >20 PB of real-world multi-modal oncology Combining data Recursion maps of biology with patient clinical Hundreds of data unlocks thousands of unique causal modeling to de-identified patient find novel targets records across
+diverse therapeutic areas 30
+
+The Recursion OS maps and navigates biology to shift drug discovery
+from bespoke science to scaled engineering Failing faster and earlier to › › spend less › › and go faster Recursion Industry Screen — 100 100 30 35 80% 55% 30 Hit ID — 25 80 55 25 75% 32% 20 Validated Lead —
+18 20 15 60 37% 15 Advanced Candidate — 7 10 10 85% 62% 5 Development Candidate — 5 51 4 0 0 Industry Recursion Industry Recursion Industry Recursion We believe that, compared to industry averages, our approach enables us to: (i)
+identify low-viability programs earlier in the research cycle, (i) spend less per program and (iii) rapidly advance program to a validated lead candidate. All industry data has been adapted from Paul, et al. Nature Reviews Drug Discovery. (2010) 9,
+203–214. The cost to IND has been inflation- 31 adjusted using the US Consumer Price Index (CPI) through 2023. The Recursion data shown for the transition stages and time to validated lead is the average of all Recursion programs since late
+2017 through 2023. The Recursion data shown for cost to IND pertains to the actual and projected costs for a novel chemi cal entity to reach IND. Stage Cost to IND ($M) Time to Validated Lead (mo)
+
+Our unique approach creates novel opportunities Recursion’s
+Approach High potential, Low potential, unexplored unexplored Low potential, High potential, thoroughly explored thoroughly explored 32
+
+We harness value from the Recursion OS with a multi-pronged capital
+efficient business strategy Pipeline Strategy Precision Oncology Build internal pipeline in indications with potential for Rare Disease accelerated path to approval Pipeline Partnership Strategy Neuroscience* Partner in complex therapeutic areas
+Undruggable Oncology requiring large financial commitment or competitive arbitrage Partnerships Other large, intractable areas Leverage partner knowledge and clinical development capabilities of biology (e.g., CV/Met) Data Strategy Licensing License
+subsets of data and key tools Augment Recursion OS Direct generation of new data Data internally to maximize pipeline and partnership value-drivers *Includes a single oncology indication from our Roche and Genentech collaboration. 33
+
+Value Creation – Pipeline 34
+
+We harness value from the Recursion OS with a multi-pronged capital
+efficient business strategy Pipeline Strategy Precision Oncology Build internal pipeline in indications with potential for Rare Disease accelerated path to approval Pipeline Partnerships Data *Includes a single oncology indication from our Roche and
+Genentech collaboration. 35
+
+Our pipeline reflects the scale and breadth of our approach Anticipated
+Patient Program Indication Target Preclinical Phase 1 Phase 2 Phase 3 Near-Term Population Milestones Topline readout in 1 REC-994 Cerebral Cavernous Malformation Superoxide ~ 360K SYCAMORE September 2024 Preliminary data 2 POPLAR REC-2282
+Neurofibromatosis Type 2 HDAC ~ 33K readout in Q4 2024 Preliminary data 3 TUPELO REC-4881 Familial Adenomatous Polyposis MEK ~ 50K readout in H1 2025 Ph2 initiation in Q4 REC-3964 Clostridioides difficile Infection TcdB ~730K 2024 IND submission in
+4,5,6 Epsilon Fibrotic Diseases Undisclosed ~ 50K early 2025 Preliminary data 7 LILAC REC-4881 Advanced AXIN1/APC-mutant Cancers MEK ~ 104K readout in H1 2025 IND submission in Q3 8 2024, Ph 1/2 initiation REC-1245 Advanced HR-Proficient Cancers
+RBM39 ~ 220K in Q4 2024 More than a dozen discovery and research programs in oncology or with our partners – first program optioned by Roche-Genentech in GI-oncology All populations defined above are US and EU5 incidence unless otherwise
+noted. EU5 is defined as France, Germany, Italy, Spain, and UK. (1) Prevalence for hereditary and sporadic symptomatic population. (2) Annual US and EU5 incidence for all NF2-driven meningiomas. (3) Prevalence for adult and pediatric population. (4)
+Our program has the potential to address several indications. (5) We have not finalized a target product profile for a specific indication. (6) Incidence for US only. (7) 2L+ drug-treatable population. (8) 2L+ drug-treatable population comprising
+ovarian, prostate, breast, and pancreatic cancers. 36 Rare & Other Oncology
+
+Clinical: CCM SYCAMORE Clinical Trial : REC-994 for CCM Phase 2 Fully
+Enrolled CAUSE PREVALENCE & STANDARD OF CARE LOF mutations in genes CCM1, CCM2 & CCM3, key for Symptomatic US + EU5, maintaining the structural integrity of the vasculature due to >1 million patients worldwide unknown mechanisms ~360,000
+live with these lesions today PATHOPHYSIOLOGY & REASON TO BELIEVE >5x larger US patient population than other rare diseases like Cystic Fibrosis (>31k patients) Vascular malformations of the CNS leading to focal neurological deficits,
+hemorrhage and other symptoms Vascular malformations (cavernomas) No approved therapy • Most patients receive no treatment or only Efficacy signal in Recursion OS as well as functional symptomatic therapy validation via scavenging of massive
+superoxide accumulation in cellular models; reduction in lesion • Surgical resection or stereotactic radiosurgery not always feasible because of location and is not curative number with chronic administration in mice • Targeting sporadic
+and familial symptomatic CCM • Phase 2 readout expected September 2024 patients with CCM1, CCM2, and CCM3 mutations KEY ELEMENTS • US & EU Orphan Drug Designation • Superoxide scavenger, small molecule Julia – living with
+CCM 37
+
+Clinical: CCM SYCAMORE Clinical Trial: REC-994 for CCM Phase 2 Fully
+Enrolled Topline Data Expected September 2024 Screening & Randomization 1:1:1 Treatment Follow-up Enrollment Criteria • MRI-confirmed CCM lesion(s) • Familial or sporadic • Symptoms directly related to CCM 400mg Outcome
+Measures Extension Enroll 200mg 12 Months Treatment Period ~60 Study • Primary: Safety and tolerability Visits: Days 1 & 2 • Secondary: Efficacy Months 1, 3, 6, 9 & 12 Trial Update • Exploratory: Biomarkers Placebo Source :
+The Symptomatic Cerebral Cavernous Malformation Trial of REC-994 (SYCAMORE) 38
+
+Clinical: CCM REC-994 for CCM: Expectations Outcome Measures Trial
+Update • Primary: Safety and Tolerability • Enrollment is complete • Adverse events & symptoms • Vast majority of participants who completed 12 months of treatment continue to enter long- • Secondary &
+Exploratory: term extension • Efficacy • Analysis ▪ Clinician-measured outcomes (CGI, PGI) o Identification of trends across ▪ MRI Imaging multiple endpoints ▪ Impact of acute stroke o Changes in vascular permeability
+(mRS, NIHSS) o E.g., hemosiderin deposition ▪ Patient and Investigator reported outcomes o Change in lesion burden (SMSS, PROMIS-29, CCM-HI, o Subgroup symptom questionnaires) 39
+
+Clinical: NF2 POPLAR Trial: REC-2282 for NF2 Part A Fully Enrolled
+CAUSE PREVALENCE & STANDARD OF CARE LOF mutations in NF2 tumor suppressor gene, leading to deficiencies in the tumor suppressor protein merlin Treatable US + EU ~33,000 No approved therapy PATHOPHYSIOLOGY & REASON TO BELIEVE •
+Surgery/RT is standard of care (when feasible) Inherited rare CNS tumor syndrome leading • Location may make complete resection untenable, to loss of hearing and mobility, other focal Intracranial meningiomas leading to hearing loss, facial
+paralysis, poor balance neurologic deficits and visual difficulty • Stasis or shrinkage of tumor could improve Efficacy signal in Recursion OS, cellular, and animal prognosis models; suppression of aberrant ERK, AKT, and S6 pathway activation
+in a Phase 1 PD Study in NF2 patient tumors • Targeting familial & sporadic NF2 meningioma • Part A (adult cohort) fully enrolled patients • Preliminary readout expected Q4 2024 KEY ELEMENTS • CNS penetrant HDAC inhibitor
+• Fast-track and US & EU Orphan Drug • Oral dosing Designation Ricki – living with NF2 40
+
+Clinical: NF2 POPLAR Trial: REC-2282 for NF2 Part A Fully Enrolled
+Phase 2/3 trial initiated in Q2 2022 Key Enrollment Criteria • MRI-confirmed progressive Phase 2 portion meningioma 40 mg TIW • Sporadic meningioma with ~6 Sporadic ~6 Familial confirmed NF2 mutation 6-month PFS FDA Mtg • Familial
+NF2 meningioma (Futility Analysis) 60 mg TIW • Have documented progression ~6 Sporadic ▪ Go/No-go to Ph3 ~6 Familial▪ Safety/Tolerability with past 24 months ▪ PK ▪ PFS Outcome Measures • Primary: PFS6 defined as
+Trial Update proportion of patients who are alive or progression free after • Enrollment of adult patients in Phase 2 portion of the study is complete (N=24) • Secondary: ORR, Safety, PK/PD • Phase 2 readout in adults (safety &
+preliminary efficacy) expected in Q4 2024 41 Source : Efficacy and Safety of REC-2282 in Patients With Progressive Neurofibromatosis Type 2 (NF2) Mutated Meningiomas (POPLAR-NF2)
+
+Clinical: FAP TUPELO Clinical Trial : REC-4881 for FAP Phase 2 Underway
+CAUSE PREVALENCE & STANDARD OF CARE Inactivating mutations in the tumor suppressor gene APC Diagnosed US + EU ~50,000 PATHOPHYSIOLOGY & REASON TO BELIEVE No approved therapy Polyps throughout the GI tract with • Colectomy during
+adolescence (with or without extremely high risk of malignant removal of rectum) is standard of care transformation • Post-colectomy, patients still at significant risk of polyps progressing to GI cancer Efficacy signal in the Recursion OS
+showed • Significant decrease in quality-of-life post-colectomy specific MEK 1/2 inhibitors had an effect in min (continued endoscopies, surgical intervention) context of APC LOF. Subsequent APC mouse model showed potent reduction in polyps
+and dysplastic adenomas • Targeting classical FAP patients (with APC mutation) • Preliminary readout expected H1 2025 KEY ELEMENTS • MEK inhibitor, small molecule • Fast-Track and US & EU Orphan Drug Designation •
+Oral dosing Polyps Found in Colon and Upper GI Tract 42
+
+Clinical: FAP TUPELO Clinical Trial : REC-4881 for FAP Phase 2 Underway
+Part 2 Enrollment Commenced Screening & Treatment Key Enrollment Criteria • Confirmed APC mutation Part 2 • ≥ 55 years old • Post-colectomy/proctocolectomy Single agent REC-4881 • No cancer present Dose Expansion
+Recommended Dose Escalation Phase 2 Dose at RP2D • Polyps in either duodenum (including ampulla of vater) or • Safety • Futility Assessment • Tolerability rectum/pouch • Go/No-Go • PK/PD 12 mg QD (n ≤ 6)
+Outcome Measures • Primary: 8 mg QD • Safety & Tolerability (n ≤ 6) • Change from baseline in polyp burden at 12 weeks • RP2D 4 mg QD Trial Update • Secondary: (n ≤ 6) Phase 2 initiated preliminary
+readout expected by H1 2025 • PK/PD 43 Source : Evaluate REC-4881 in Patients With FAP (TUPELO )
+
+Clinical: AXIN1 or APC LILAC Clinical Trial: REC-4881 for AXIN1 or APC
+mutant cancers CAUSE PREVALENCE & STANDARD OF CARE LOF mutations in AXIN1 or APC tumor suppressor genes Treatable US + EU ~104,000 PATHOPHYSIOLOGY & REASON TO BELIEVE Substantial need for developing therapeutics for Alterations in the WNT
+pathway are found in patients harboring mutations in AXIN1 or APC, as these a wide variety of tumors and confer poor mutations are considered undruggable prognosis and resistance to standard of care To our knowledge, REC-4881 is the only industry
+Efficacy signal in the Recursion OS and sponsored small molecule therapeutic designed to favorable results in PDX models harboring enroll solid tumor patients harboring mutations in AXIN1 AXIN1 or APC mutations vs wild-type leading or APC to a
+significant PFS benefit only in mutant models • Targeting AXIN1 or APC mutant cancers • Enrollment ongoing AXIN1/APC regulate WNT signaling KEY ELEMENTS • MEK inhibitor, small molecule • Phase 2 initial readout expected H1
+2025 • Oral dosing 44
+
+Clinical: AXIN1 or APC LILAC Clinical Trial: REC-4881 for AXIN1 or APC
+mutant cancers FPI achieved Q1 2024 Screening & Treatment Enrollment Criteria • Unresectable, locally advanced, or Part 1 Part 2 metastatic cancers • ≥ 55 years old • AXIN1 or APC mutation confirmed by NGS AXIN1 AXIN1
+Futility Assessment (n=10) (n=10) (tissue or blood) R • CRC patients must be RAS / RAF wildtype Safety Assessment P Once 10 pts enrolled in each cohort • No MEK inhibitor treatment within 2 with ≥ 1 scan post-baseline 12 mg
+REC-4881 QD 2 months of initial dose D APC APC • ≥ 1 prior line of therapy Futility Assessment (n=10) (n=10) • ECOG PS 0-1 Outcome Measures • Primary Trial Update • Safety/tolerability • Utilizing genomics &
+RWD data for patient/site • ORR (RECIST 1.1) matching • Secondary • PK • Phase 2 initial readout expected H1 2025 • Additional efficacy parameters 45 Source : A Study of REC-4881 in Participants With Cancers Which Have
+an AXIN1 or APC Mutation
+
+Clinical: C. difficile ALDER Clinical Trial: REC-3964 for C. Difficile
+PREVALENCE & STANDARD OF CARE TREATMENT PARADIGM • Standard of care for Diagnosed US 1st occurrence: Antibiotics alone + EU5 patients ~730,000 • Recurrence (20-30% of patients) treated • Severity of infection varies and can
+range with antibiotics ± adjunct therapy from mild to severe, requiring colectomy (bezlotoxumab IV or fecal transplant) • >29,000 patients die in the US each • REC3964 inhibits the C. difficile toxins and year from CDI is a
+non-antibiotic therapy • Cost burden of up to $4.8bn annually PATHOPHYSIOLOGY & REASON TO BELIEVE • Selective Inhibitor of C. difficile Toxins PATHOPHYSIOLOGY & REASON TO BELIEVE • Recursion's 1st Small Molecule NCE to
+Reach the Clinic • Binds and blocks catalytic activity of the toxin's innate glucosyltransferase, but not the host’s 46
+
+Clinical: C. difficile ALDER Clinical Trial: POC Phase 2 REC-3964 in
+Patients at High Risk of C. Difficile Recurrence Screening Randomization & Treatment Enrollment Criteria • Patients at high risk of recurrence REC-3964 500 mg orally BID • ≥3 bowel movements in 24 hours • Confirm CDI
+using EIA (toxin) High Risk of Recurrence R 2:1:1 Vancomycin REC-3964 • No fulminant CDI Follow Up Orally for 14 days 250 mg orally BID Patients with N=80 • No history of chronic diarrheal confirmed CDI illness due to other causes
+Patients with symptom resolution Observational Outcome Measures • Primary Trial Update • Rate of recurrence • Secondary • Phase 1 and DDI studies completed • Additional efficacy measures • Phase 2 initiation
+expected in Q4 2024, preliminary readout expected by • Safety / tolerability end of 2025 • PK 47
+
+Preclinical: REC-1245 REC-1245: RBM39 Inhibition for Advanced
+HR-Proficient Cancers Identify tumor-targeted precision therapeutic NCE with novel MOA capable GOAL of potentially treating HR-proficient cancers CDK12 Inhibition of target RBM39 (previously referred to as Target γ) may mimic the Similar
+INSIGHT FROM OS RBM39 inhibition of CDK12 while mitigating toxicity related to CDK13 inhibition 2.5 µM 1.0 µM A Recursion-generated NCE showed single agent efficacy that is enhanced in FURTHER CONFIDENCE REC-1170204 0.25 µM
+combination with Niraparib in a BRCA-proficient PDX model 0.1 µM Opposite IND submission in Q3 2024 with Phase 1/2 dose finding / confirmation study NEXT STEPS CDK13 expected to initiate in Q4 2024 OV0273 (PDX) in-vivo efficacy Survival data
+Vehicle Niraparib BRCA-proficient ovarian cancer PDX REC-204 100 mpk REC-204 100 mpk + Niraparib 48 Note: in the OV0273 PDX model, mice were treated with a representative lead molecule REC-1170204 (100 mg/kg, BID, PO) ± Niraparib (40 mg/kg, QD,
+PO) for 28 days. Single agent REC-1170204 or in combination with Niraparib resulted in a statistically significant response vs either Niraparib or vehicle arms. In addition, there was a statistically significant improvement in survival > 30 days
+post final dose. *p<0.05, ** p<0.01, **** p<0.0001
+
+Preclinical: REC-1245 REC-1245: RBM39 Inhibition for Advanced
+HR-Proficient Cancers Planned Phase 1/2 study of REC-1245 in Biomarker Selected R/R HR-Proficient Solid Tumors Phase 1A Phase 1B Phase 2 Dose Finding Dose Confirmation N=10-30 (Accelerated Titration BOIN) N=20 N=30 N = 3-6 Using BOIN Dose #1 Dose
+Level 4+ design N=10 Indication #1 Dose Level 3 Dose #2 Single Patient, N=10 Indication #1 Accelerated Titrations Dose Level 2 until Pharmacologically Active Dose (PAD) or minor toxicity / 3 patient cohorts if DLT Trial Update Dose Level 1 •
+IND submission expected in Q3 2024 • Phase 1/2 initiation expected in Q4 2024 • Phase 1 dose-escalation readout by YE 2025 49
+
+Preclinical: Undisclosed Indication in Fibrosis Target Epsilon: Novel
+Approach for Fibrotic Diseases Reversal of Fibrocyte Differentiation Assay Identify a therapeutic NCE with a novel MOA capable of reversing disease- GOAL related fibrotic processes Recursion-generated hits show concentration-dependent rescue in a
+disease + Pentraxin-2 INSIGHT FROM OS relevant human PBMC assay and phenomimic genetic KO of Target Epsilon Healthy State Compelling activity demonstrated in a gold standard animal model of a Diseased State FURTHER CONFIDENCE fibrotic disease with
+significant unmet need • Differentiation of human PBMCs into fibrocytes can be reversed by Pentraxin-2, a tissue repair protein, to mimic a healthy state IND submission expected in early 2025 with Phase 1 healthy volunteer NEXT STEPS •
+Phenotypic features of healthy state can be replicated by small readout by YE 2025 molecule rescue REC-1169575 demonstrated concentration dependent rescue REC-1169575 significantly reduced collagen in a gold standard REC-1169575 mimicked CRISPR-KO
+of Epsilon at low doses and 3 1 1 3 2 2 in the human fibrocyte phenotypic assay animal model of fibrotic disease validated in a target Epsilon engagement assay Similar 0.25 µM 0.1 µM Epsilon Opposite 50 1. Disease Score of 1.0 reflects
+“disease state” while disease score of 0.0 reflects “healthy state.” 2. Target Epsilon NanoBRET assay. 3. REC-1169575 administered 50 mg/kg BID PO. Differences between groups analyzed using Kruskal-Wallis test (*p<
+0.05).
+
+Value Creation – Partnerships 51
+
+We harness value from the Recursion OS with a multi-pronged capital
+efficient business strategy Pipeline Partnership Strategy Neuroscience* Partner in complex therapeutic areas Undruggable Oncology requiring large financial commitment or competitive arbitrage Partnerships Other large, intractable areas Leverage
+partner knowledge and clinical development capabilities of biology (e.g., CV/Met) Data *Includes a single oncology indication from our Roche and Genentech collaboration. 52
+
+Exciting scientific collaborations span biopharma, tech & data
+Therapeutic discovery Platform, Technology and Data Neuroscience and a single oncology indication Computation and ML/AI • $50M equity investment • Partnership on advanced computation (e.g., foundation model development) • $150M
+upfront and up to or exceeding $500M in research milestones and data usage options • Priority access to compute hardware or DGXCloud Resources Announced • Phenom-Beta, a phenomics-based foundation model from Recursion, now • In
+addition, up to or exceeding $300M in July 2023 available on NVIDIA’s BioNeMo platform possible program milestones for up to 40 Announced programs Dec 2021 • One program and one map already optioned Real-world data access • Mid to
+high single-digit tiered royalties on net • Preferential access to >20 PBs of real-world, multi-modal oncology data, including sales DNA & RNA sequencing and clinical outcome data for >100,000 patients Announced • Ability to
+train causal AI models with utility in target discovery, biomarker Nov 2023 development & patient selection Undruggable oncology targets • Opportunity to accelerate clinical trial enrollment through broad clinical network • Access to
+hundreds of thousands of de-identified records, including Helix’s • $30M upfront and $50M equity investment Exome+(R) genomics & longitudinal health data, to train causal AI models and Announced • Increased per program
+milestones which may design biomarker & patient stratification strategies across broad disease areas May 2024 be up to $1.5B in aggregate for up to 7 Announced oncology programs Sep 2020 Cheminformatics and chemical synthesis • Mid
+single-digit royalties on net sales Significant • Recursion owns all algorithmic • Utilizes Recursion’s predicted protein-ligand interactions for ~36B compounds Update improvements from Enamine’s REAL Library Announced
+Announced • First beta-user of LOWE • Aim to generate enriched screening libraries & co-brand customer offerings Nov 2023 Dec 2023 53 Trademarks are the property of their respective owners and used for informational purposes
+only.
+
+Value Creation – Data Strategy 54
+
+We harness value from the Recursion OS with a multi-pronged capital
+efficient business strategy Pipeline Partnerships Data Strategy Licensing License subsets of data and key tools Augment Recursion OS Direct generation of new data Data internally to maximize pipeline and partnership value-drivers *Includes a single
+oncology indication from our Roche and Genentech collaboration. 55
+
+The Recursion OS is a palette of evolving sophisticated modules
+56
+
+LOWE puts the Recursion OS at your fingertips via natural language
+without any coding expertise required [ DEMO ] 57
+
+LOWE puts the Recursion OS at your fingertips via natural language
+without any coding expertise required [ DEMO ] 58
+
+The Recursion OS is now more than a collection of point solutions
+accessible to expert users …it is increasingly integrated and accessible via a Discovery User Interface that can be used by any of our scientists from the comfort of their laptop… 59
+
+Culture and Team 60
+
+Our People Functional Breakdown Locations >500 employees
+Montréal, Québec Technology – data science, software engineering, Toronto, Ontario >50% automation, etc. have advanced Salt Lake City, Life Sciences – biology, Utah degrees San Francisco, chemistry, development, etc.
+California Strategic Operations Headquarters in Salt Lake City, Utah with additional locations in: ~43% ~55% ~1% • San Francisco, California Female Male Non-Binary • Toronto, Ontario London, Data shown reflective of Q1 2024, gender
+statistics include participating individuals • Montréal, Québec England • London, England Parity Pledge Signer gender parity and people of color parity 61
+
+Our leadership brings together experience & innovation to advance
+TechBio Board of Directors Dean Li, MD PHD Zavain Dar Chris Gibson, PHD Rob Hershberg, MD PHD Co-Founder of RXRX, Co-Founder & Partner Co-Founder & CEO Co-Founder, CEO, & Chair President of Merck Research of Dimension of HilleVax, Former
+EVP, Labs CSO, & CBO of Celgene Terry-Ann Burrell, MBA Blake Borgeson, PHD Zachary Bogue, JD Najat Khan, PHD CFO & Treasurer of Co-Founder of RXRX Co-Founder & Partner of Chief R&D Officer & Beam Therapeutics Data Collective
+Chief Commercial Officer Executive Team Chris Gibson, PHD Najat Khan, PHD Tina Larson Michael Secora, PHD David Mauro, MD PHD Chief R&D Officer & Co-Founder & CEO President & COO Chief Financial Officer Chief Medical Officer Chief
+Commercial Officer Ben Mabey Kristen Rushton, MBA Nathan Hatfield, JD MBA Matt Kinn, MBA Laura Schaevitz, PHD Chief Technology Officer Chief Business Ops Officer Chief Legal Officer SVP Business Development SVP & Head of Research 62 Trademarks
+are the property of their respective owners and used for informational purposes only.
+
+Additional Information about Scientific Approach 63
+
+Genome-scale mapping This is a whole-genome arrayed CRISPR knock-out
+Map generated in primary human endothelial cells Every gene is represented in a pairwise way (each is present in columns and rows) Dark Red indicates phenotypic similarity according to our neural networks while Dark Blue indicates phenotypic anti-
+similarity (which in our experience often suggests negative regulation) We can add the phenotypes of hundreds of thousands of small molecules at multiple doses and query and interact with these maps using a web application Thousands of examples of
+known biology and chemistry 64 ß All Human Genes with Significant Effects in this Cellular Context → ß All Human Genes with Significant Effects in this Cellular Context →
+
+DOCK9 SLC39A1 ASB7 MEGF8 PRKCH SOCS3 PHF13 PPP1R9B TNKS1BP1 ZMYM3
+FAM49B STK24 YWHAB IL6ST IL6R STAT3 IL6 JAK1 One such example – the JAK / STAT pathway clustered by strength of interaction, including both similar genes (red) and opposite genes (blue) Can wade into areas of novel biology and chemistry…
+65 JAK1 IL6 STAT3 IL6R IL6ST YWHAB STK24 FAM49B ZMYM3 TNKS1BP1 PPP1R9B PHF13 SOCS3 PRKCH MEGF8 ASB7 SLC39A1 DOCK9
+
+66
+
+Virtuous Cycles Drive Super-Linear Knowledge Creation 67
+
+Additional Information about Pipeline Programs 68
+
+Clinical: CCM REC-994 for CCM First-in-disease potential in CCM with an
+orally bioavailable small molecule superoxide scavenger • First therapeutic candidate advanced to an industry-sponsored Phase 2 trial (SYCAMORE) for CCM Program • Partnered with leading KOLs at University of Rochester to develop a CCM
+PRO instrument for clinical trials Overview • Putative MOA decreases ROS and oxidative stress to rescue pathogenetic endothelial dysfunction • Favorable safety and tolerability profile in Phase 1 dose-escalation with no DLTs and no SAEs
+Clinical • Phase 2 trial fully accrued ahead of schedule in June 2023, enrolling 62 symptomatic CCM patients Updates • Vast majority of patients treated with REC-994 for ≥ 12 months continue to opt into LTE portion • Phase 2
+readout (safety, preliminary efficacy, pharmacokinetics) expected September 2024 Near-term Catalysts • Results from Phase 2 expected to inform defined registration path with guidance from FDA Commercial • ~360,000 symptomatic CCM
+patients living in US and EU5 with no pharmacological agents approved Opportunity • Favorable competitive landscape with REC-994 estimated to be 2+ years ahead in development • ODD in US and EU provides 7 and 10 years, respectively, of
+market exclusivity following approval IP & Exclusivity • Method of use patents provide protection until 2035 (excluding extensions) 69
+
+Clinical: CCM 70 Disease Overview : CCM is an Under-Appreciated Orphan
+Disease Non-oncology Orphan Indication Product U.S. + EU5 Prevalence >1,800,000 Cerebral cavernous malformation (CCM) REC-994 (Recursion) (Symptomatic: ~360,000) Idiopathic pulmonary fibrosis (IPF) Esbriet (pirfenidone) >160,000 VX-669/ VX-445
++ Tezacaftor + Ivacaftor - Cystic fibrosis (CF) >55,000 Vertex Spinal muscular atrophy (SMA) SPINRAZA (nusinersen) >65,000 Sources: Angioma Alliance ; Flemming KD, et al . Population-Based Prevalence of Cerebral Cavernous Malformations in O
+lder Adults: Mayo Clinic Study of Aging. JAMA Neurol. 2017 Jul 1;74(7):801-805. doi: 10.1001/jamaneurol.2017.0439. PMID: 28492932; 70 PMCID: PMC5647645 ; Spiegler S, et al Cerebral Cavernous Malformations: An Update on Prevalence, Molecular Genetic
+Analyses, and Genetic Counselling. Mol Syndromol. 2018 Feb;9(2):60-69. doi: 10.1159/000486292. Epub 2018 Jan 25. PMID: 29593473; PMCID: PMC5836221; Maher T, et al Global incidence and prevalence of idiopathic pulmonary fibrosis. Respir Res. 2021 Jul
+7;22(197). Doi: 10.1186/s12931-021-01791-z. PMID: 34233665. DRG 2022 Solutions, Report: Epidemiology, Cystic Fibrosis. CDC: SMA
+
+Clinical: CCM CCM – Applied prototyping of the Recursion OS
+siCTRL siCCM2 siCCM2 + REC-994 siCCM2 + Simvastatin siCCM2 + Cholecalciferol Using an early version of our Recursion OS in an academic setting, we identified about 39 molecules out of 2,100 screened that according to a machine learning classifier
+rescued a complex unbiased phenotype associated with CCM2 loss of function. Through a set of follow-on confirmatory assays of increasing complexity, REC-994 stood out as one of two compounds we tested in a 5-month chronic CCM animal model where both
+compounds demonstrated significant benefit. 71 Gibson, et al. Strategy for identifying repurposed drugs for the treatment of cerebral cavernous malformation. Circulation, 2 015
+
+Clinical: CCM Preclinical Studies: REC-994 reduces lesion burden and
+ameliorates vascular defects in genetic mouse models of CCM Reduces lesion number & size in Ccm1 and Ccm2 LOF mouse models 1 Ccm1 LOF Model Ccm2 LOF Model * * * 2 2 Lesion size (mm ) Lesion size (mm ) Rescues acetylcholine-induced vasodilation
+defect Rescues dermal permeability defect in CCM2 mice 2 3 ecKO WT DMSO control REC-994 • REC-994 stabilizes the integrity of ecKO + REC-994 vasculature against challenges to permeability * • Altered vascular permeability is a clinically
+relevant feature of CCM Ccm2 Ccm2 lesions Acetylcholine [Log M] WT ecKO 72 Source: Data above from Gibson, et al. Strategy for identifying repurposed drugs for the treatment of cerebral cavernous malformation. Circulation, 2 015 or Recursion
+internal data (Ccm1 mouse model) % Vasodilation Dermal Permeability (Absorption, AU)
+
+Clinical: CCM REC-994 : Mechanism of Action Healthy REC-994 Impact CCM
+CCM1 or CCM2 loss of function leads By regulating SOD2, CCM1 (KRIT1) & Dosing of REC-994 restores to activated endothelium: CCM2 suppress: normal function: • Endothelial cell activation • Decreased cell-cell junctional •
+Normalized ROS balance integrity and increased • Smooth muscle proliferation • Restores quiescent endothelial monolayer permeability cell state • Leukocyte adhesion • Impaired vasodilation • Stabilizes endothelial
+barrier • Platelet aggregation 73 • Cavernous angioma formation function Adapted from REC-994 Investigator Brochure
+
+Clinical: CCM Further Confidence : Clinical Studies Indicate Favorable
+Safety Profile REC-994 Phase 1 Studies - well-tolerated with no dose-dependent adverse events in SAD and MAD MAD Study Placebo 50 mg 200 mg 400 mg 800 mg Total Number of TEAEs 5 0 10 4 15 Total Subjects with ≥ one TEAE 4 0 3 3 4 Severity Mild
+3 0 3 3 3 Moderate 1 0 0 0 1 Severe 0 0 0 0 0 Relationship to Study Drug None 3 0 0 2 1 Unlikely 1 0 1 1 2 Possibly 0 0 0 0 0 Likely 0 0 2 0 1 Definitely 0 0 0 0 0 Total Number of SAEs 0 0 0 0 0 Total Subject with ≥ one TEAE 0 0 0 0 0
+Discontinued Study Drug Due to AE 0 0 0 0 0 Source: REC-994 for the Treatment of Symptomatic Cerebral Cavernous Malformation (CCM) Phase 1 SAD and MAD Study Results. Oral P resentation at Alliance to Cure Scientific Meeting. 2022 Nov 17
+74
+
+Clinical: NF2 REC-2282 for Neurofibromatosis Type 2 (NF2)
+First-in-disease opportunity in NF2 with HDAC inhibitor • Orally bioavailable small molecule inhibitor of class I and class IIB HDACs in Phase 2/3 (POPLAR) trial Program • Unique MOA that disrupts PP1-HDAC interface, attenuating
+pathophysiologic p-AKT without affecting total AKT Overview • Fast Track Designation in NF2 mutant meningioma granted by FDA in 2021 • Part A (Phase 2) fully enrolled with 24 adult participants Clinical • Early Phase 1 study
+demonstrated mPFS of 9.1 months in patients with CNS tumors, including 5 NF2 patients Updates • Therapeutic concentrations of REC-2282 achieved in plasma and CNS tumors in early Phase 1 studies • Phase 2 readout in adults (safety and
+preliminary efficacy) expected Q4 2024 Near-term Catalysts Commercial • ~ 33,000 NF2-associated meningioma patients in US and EU5 eligible for treatment with no approved therapies Opportunity • Potential to expand into additional NF2
+mutant populations including mesothelioma, MPNST and EHE • ODD in US and EU provides 7 and 10 years, respectively, of market exclusivity following approval IP & Exclusivity • Composition of matter patent provides protection until
+2030 (excluding extensions) 75
+
+Clinical: NF2 76 Disease Overview : Neurofibromatosis Type 2 (NF2)
+Meningiomas • Most tumors are benign and slow growing but location in CNS leads to serious morbidity or mortality • Prognosis is adversely affected by early age at onset, a higher number of meningiomas and having a truncating mutation
+>66,000 Patients have Intracranial Meningioma Meningiomas ~6,000 NF2 Patients have Meningiomas (Familial) ~33,000 Treatable US + EU5 patients ~27,000 Patients who have Meningiomas that Harbor NF2 Mutations (Sporadic) • Threatens mortality;
+if amenable, surgical excision is primary intervention • Many patients have multiple meningiomas that exhibit heterogenous behavior and asynchronous growth • Stasis or shrinkage of tumor could improve prognosis 76 Source: Pemov, et al.
+Comparative clinical and genomic analysis of neurofibromatosis type 2-associated cranial and spinal meningiomas. Nature. 2020 Jul 28;10(12563). Doi: https://doi.org/10.1038/s41598-020-69074-z; NORD
+
+Clinical: NF2 77 Insight from OS : REC-2282 Rescued Loss of NF2
+Prevents growth & regrowth of NF2- deficient meningioma model in mice REC-2282 Healthy NF2 knockdown Cells cells + REC-2282 (months) + Normal diet (months) HUVEC, human umbilical vein endothelial cells; NF2, neurofibromatosis type 2; siRNA,
+small interfering RNA. 77
+
+Clinical: NF2 78 REC-2282 : Mechanism of Action Orally Bioavailable,
+CNS-penetrating, Small Molecule HDAC Inhibitor 1 2 3 1 2 3 NF2 encodes for the protein 1 Merlin and negatively regulates mTOR signaling Constitutive activation is independent of extracellular factors and does not respond to biochemical signals that
+would normally regulate activity Loss of Merlin leads to increased 2 signaling in the PI3K/AKT/mTOR pathway Oncogenic mTOR signaling 3 arrested with HDAC inhibitors Normal cell proliferation Cell proliferation and Cell proliferation and and survival
+survival survival 78 AKT, protein kinase B; eIF4F, eukaryotic initiation factor 4F; HDAC, histone deacetylase; mTor, mammalian target of rapamycin; mTORC1; mammalian target of rapamycin complex 1; NF2, neurofibromatosis type 2; PI3K,
+phosphoinositide 3-kinase; PP1, protein phosphate 1; Ras, reticular activating system.
+
+Clinical: NF2 79 REC-2282 Appears Well Suited for NF2 vs Other HDAC
+Inhibitors REC-2282 Would be First-In-Disease HDAC Inhibitor for Treatment of NF2 Meningiomas 1 Sborov DW, et al. A phase 1 trial of the HDAC inhibitor AR-42 in patients with multiple myeloma and T- and B-cell lymphomas. Leuk Lymphoma. 2017
+Oct;58(10):2310-2318. 2 79 Collier KA, et al. A phase 1 trial of the histone deacetylase inhibitor AR-42 in patients with neurofibromatosis type 2-associated tumors and advanced solid malignancies. Cancer Chemother Pharmacol. 2021 May;87(5):599-611.
+3 Prescribing Information of Vorinostat/Belinostat/Romidepsin respectively
+
+Clinical: FAP REC-4881 for Familial Adenomatous Polyposis (FAP)
+First-in-disease opportunity in FAP with a MEK 1/2 inhibitor • Orally bioavailable, small molecule non-ATP competitive allosteric inhibitor of MEK 1/2 in Phase 1b/2 (TUPELO) Program • REC-4881 appears more active versus approved MEK
+inhibitors in disease relevant preclinical models Overview • Fast Track Designation in FAP granted by FDA in 2022 • Part 1 completed with 4 mg QD generally well-tolerated and safety profile consistent with other MEK inhibitors Clinical
+• Early PD data indicates 4 mg is pharmacologically active – Part 2 protocol updated to dose escalation / expansion Updates • Efficacy will evaluate change in polyp burden relative to baseline at 12 weeks • FPI for Part 2
+achieved in Q2 2024 Near-term Catalysts • Phase 2 initial readout (safety, preliminary efficacy, pharmacokinetics) anticipated H1 2025 Commercial • ~ 50,000 FAP patients in US and EU5 eligible for treatment with no approved therapies
+Opportunity • Opportunity to treat moderate-to-severe population to potentially delay or prevent surgical intervention • ODD in US and EU provides 7 and 10 years, respectively, of market exclusivity following approval IP &
+Exclusivity • No known barriers to market access 80
+
+Clinical: FAP 81 Disease Overview : Familial Adenomatous Polyposis
+Patient Population • Autosomal dominant tumor predisposition syndrome caused by a mutation in the APC gene • Classic FAP (germline mutation) : • Hundreds to thousands of polyps in colon and upper GI tract • Extraintestinal
+manifestations (e.g., desmoid tumors) • 100% likelihood of developing colorectal cancer (CRC) before age 40, if untreated • Standard of care: colectomy during adolescence • Post-colectomy, patients at significant risk of polyps
+progressing to GI cancer ~50,000 Diagnosed US + EU5 patients Polyps Found in Colon and Upper GI Tract 81 https://www.hopkinsmedicine.org/health/conditions-and-diseases/familial-adenomatous-polyposis
+
+Clinical: FAP Preclinical Validation of Novel OS Insight in Relevant
+FAP Models 82
+
+Clinical: FAP 83 MoA : REC-4881 Blocks Wnt Mutation Induced MAPK
+Signaling Orally Bioavailable, Small Molecule MEK Inhibitor Disease State REC-4881 Impact 1 3 2 REC-4881 inhibits MEK 1/2 and recovers the destabilization of RAS by the 3 β-Catenin destruction complex, restoring the cell back to a Wnt-off like
+state 83 Jeon, WJ, et al. (2018). Interaction between Wnt/β-catenin and RAS-ERK pathways and an anti-cancer strategy via degradations of β-catenin and RAS by targeting the Wnt/β-catenin pathway. npj Precision Oncology, 2(5).
+
+Clinical: AXIN1 or APC REC-4881 for AXIN1 or APC Mutant Cancers
+First-in-disease opportunity in AXIN1 or APC mutant cancers with a MEK 1/2 inhibitor • Orally bioavailable, small molecule non-ATP competitive allosteric inhibitor of MEK 1/2 in Phase 2 (LILAC) Program • First therapeutic candidate
+advanced to a Phase 2 signal finding study in AXIN1 or APC mutant cancers Overview • Recursion’s first clinical trial in oncology and the first that used inferential search for hypothesis generation • Safety run-in of REC-4881 to
+identify RP2D prior to allocation Clinical • Protocol designed to assess activity in two independent cohorts of AXIN1 or APC mutant tumors Updates • Efficacy will evaluate ORR as measured by RECIST 1.1 • FPI achieved in Q1 2024
+Near-term Catalysts • Phase 2 readout (safety, preliminary efficacy, and PK) anticipated H1 2025 Commercial • Diagnosed incidence of ~ 104,000 2L+ drug-treatable patients harboring AXIN1 or APC mutations in US and EU5 Opportunity •
+AXIN1 and APC genes covered by commercially available NGS panels and liquid biopsy detection assays • Method of use patent pending with protection until 2043 (excluding extensions) IP & Exclusivity • No known barriers to market
+access 84
+
+Clinical: AXIN1 or APC 85 Disease Overview : AXIN1 or APC Mutant
+Cancers Breast Gynecological 4% 7% Flexible Patient Selection Strategy and Study Design • AXIN1 and APC genes covered by commercially available NGS Urological 3 Colorectal 13% panels and liquid biopsy detection assays 42% • FDA guidance
+supports utility of ctDNA as patient selection ~ 104,000 for the detection of alterations for eligibility criteria and as a 2L+ drug-treatable stratification factor for trials enrolling marker-positive and 4 AXIN1/APC-mutant cases marker-negative
+populations 1,2 each year (US & EU5) • Multiple tumor types will inform study design and patient SCCHN selection 15% When present, AXIN1 or APC mutations may be actionable drivers across multiple solid tumors Upper GI 18% 1 2 3 AXIN1 and
+APC alteration frequencies obtained from AACR Genie Portal. Advanced population estimates using number of deaths per year in US and EU5 across tumors, extracted from ACS and ECIS. CRC population 85 4 restricted to RAS/RAF wildtype.
+https://www.fda.gov/media/158072/download.
+
+Clinical: AXIN1 or APC 86 Recursion OS Identified Novel Insight of
+AXIN1 & APC biology REC 4881 Significantly greater antitumor activity in mutant models led to significant PFS benefit APC AXIN1 2.5 µm 1.0 µm 0.25 µm 0.1 µm REC-4881 is phenotypically opposite to the genetic KO of APC and
+AXIN1 providing a novel mechanism that may restore the disease state modeled by the loss of these genes 86
+
+Clinical: C. difficile REC-3964 for Prevention of recurrent C.
+difficile infection (rCDI) Potential first-in-class small molecule for prevention of rCDI • Orally bioavailable, small molecule C. difficile toxin inhibitor and the first NCE developed by Recursion Program • Differentiated MOA
+selectively targets bacterial toxin while sparing the host to minimize adverse events Overview • Robust preclinical activity demonstrating superiority vs bezlotoxumab in the gold standard hamster model • Favorable safety and tolerability
+profile in Phase 1 dose-escalation with no DLTs and no SAEs Clinical • Minimal adverse events seen in Phase 1, and all deemed Grade 1 Updates • BID dosing provides therapeutic exposures expected to reach targeted trough concentrations
+Near-term • Phase 2 proof-of-concept study planned for initiation in Q4 2024 Catalysts • Preliminary readout expected YE 2025 Commercial • > 100,000 high-risk rCDI patients in US and EU5 with limited treatment options to prevent
+recurrent disease Opportunity • Ability to address populations not eligible for FMT or microbiome-based therapies due to comorbidities • Composition of matter patent allowed with protection until 2042 (excluding extensions) IP &
+Exclusivity • No known barriers to market access 87
+
+Clinical: C. difficile Insight from OS: REC-3964 Rescued Cells Treated
+with C. difficile Toxins REC-3964 significantly extended survival over SOC REC-3964 0.1 µM Disease State Healthy • REC-3964 potently inhibits toxin B with residual activity against Cells toxin A, while bezlotoxumab is specific to toxin B.
+• Significant difference in probability of survival vs bezlotoxumab alone at the end of treatment (p<0.001, log-rank test) 88
+
+Clinical: C. difficile REC-3964 : Selective Inhibitor of C. difficile
+Toxins REC-3964 is Recursion’s 1st Small Molecule NCE to Reach the Clinic 1 CDI toxins bind to cell surface receptors and 1 trigger endocytic event Autocatalytic cleavage event releases CDI 2 toxin's glucosyltransferase enzymatic domain 2 into
+the cytosol of the infected cell The glucosyltransferase locks Rho family 3 GTPases in the inactive state 3 Inactivation of Rho GTPases alters cytoskeletal 4 dynamics, induces apoptosis, and impairs barrier function which drives the pathological
+effects of CDI 4 89 Adapted from Awad, MM. et al. (2014). Clostridium difficile virulence factors: Insights into an anaerobic spore-forming pathogen. Gut Microbes. 5(5), 579-593.
+
+Clinical: C. difficile REC-3964 : Selective Inhibitor of C. difficile
+Toxins REC-3964 is Recursion’s 1st Small Molecule NCE to Reach the Clinic 1 2 5 3 REC-3964 binds and blocks 5 catalytic activity of the toxin’s innate glucosyltransferase, but not 4 the host's 90 Adapted from Awad, MM. et al. (2014).
+Clostridium difficile virulence factors: Insights into an anaerobic spore-forming pathogen. Gut Microbes. 5(5), 579-593.
+
+Clinical: C. difficile 91 REC-3964 for C. difficile Phase 1 Study
+Complete Phase 1 Topline Trial Design • Randomized, Double-blind Trial • REC-3964 oral administration was well tolerated by all subjects tested Population ✓ 3% (n=1) of participants in SAD with drug-related AEs • Healthy
+Participants • SAD (n = 48)✓ 12% (n=4) of participants in MAD with drug-related AEs • 36 participants treated with REC-3964 ✓ All AEs were deemed Grade 1 • 12 participants treated with placebo • MAD (n = 42)
+✓ No SAEs were observed • 34 participants treated with REC-3964 ✓ No discontinuations related to treatment • 8 participants treated with placebo • REC-3964 exhibited a favorable PK profile Primary Objectives ✓
+Exposures (AUC) increased approximately dose-proportionally ✓ Assess the safety & tolerability of SAD and across the dose ranges tested (50 mg – 1200 mg) MAD of REC-3964 ✓ Half-life ranged from ~7-10 hours; BID dosing
+expected to reach ✓ Evaluate the PK profile of REC-3964 after targeted trough concentrations single and multiple doses 91
+
+Clinical: C. difficile Further Confidence : Clinical Studies Confirming
+Safety REC-3964 was well-tolerated with no treatment-related SAEs REC-3964 MAD Placebo 100 mg 300 mg 500 mg 900 mg Overall Overall MAD Study (N=8) (N=10) (N=8) (N=8) (N=8) (N=34) (N=42) n ( %) n ( %) n ( %) n ( %) n ( %) n ( %) n ( %) Total Number
+of TEAEs 17 24 5 9 7 45 62 Total Participants with ≥ 1 TEAE 6 ( 75.0) 8 ( 80.0) 4 ( 50.0) 5 ( 62.5) 4 ( 50.0) 21 ( 61.8) 27 ( 64.3) Relationship to Study Drug Not Related 4 ( 50.0) 6 ( 60.0) 3 ( 37.5) 4 ( 50.0) 4 ( 50.0) 17 ( 50.0) 21 ( 50.0)
+Related 2 ( 25.0) 2 ( 20.0) 1 ( 12.5) 1 ( 12.5) 0 4 ( 11.8) 6 ( 14.3) Abdominal Distension 2 ( 25.0) 1 ( 10.0) 1 ( 12.5) 1 ( 12.5) 0 3 ( 8.8) 5 ( 11.9) 0 1 ( 10.0) 0 0 0 1 ( 2.9) 1 ( 2.4) Flatulence Severity Grade 1 6 ( 75.0) 8 ( 80.0) 4 ( 50.0) 5 (
+62.5) 4 ( 50.0) 21 ( 61.8) 27 ( 64.3) Grade 2 0 0 0 0 0 0 0 Grade ≥ 3 0 0 0 0 0 0 0 Total Number of SAEs 0 0 0 0 0 0 0 Discontinued Study Drug Due to AE 0 0 0 0 0 0 0 TEAEs = treatment emergent adverse events; Grade 1 = Mild, Grade 2 =
+Moderate, Grade 3 = Severe, Grade 4 = Life Threatening, Grade 5 = Fatal 92
+
+Preclinical: REC-1245 REC-1245: RBM39 Inhibition for Advanced
+HR-Proficient Cancers Potential first-in-class molecular glue degrader for biomarker selected population • Recursion OS identified RBM39 as a novel target capable of mimicking CDK12 biology independent of CDK13 Program • Lead molecule
+has demonstrated durable regressions across HRP and HRD cell line and patient derived xenografts Overview • Program advanced from target identification to IND-enabling stages in under 18 months • No significant in vitro safety concerns
+with favorable tolerability in disease relevant animal models Clinical • Target engagement assays demonstrate strong correlation between RBM39 degradation and tumor reduction in vivo Updates • Excellent physiochemical properties and
+reasonable human projected doses support cost-effective CMC campaign • IND submission expected in Q3 2024 with Phase 1/2 initiation expected in Q4 2024 Near-term Catalysts • Phase 1 data from the dose-escalation portion expected by YE
+2025 Commercial • ~220,000 patients in US and EU5 harbor cancers that lack HRR mutations and have progressed on frontline therapies Opportunity • Potential as a single agent or in combination with other agents (PARP, IO, chemo, etc.)
+• Composition of matter patent pending with protection until 2043 (excluding extensions) IP & Exclusivity • No known barriers to market access 93

@@ -1,0 +1,87 @@
+EX-99.2
+3
+srpt-ex992_33.htm
+EX-99.2
+
+Micro-dystrophin SRP-9001-102 Top-line Clinical Data (Part One)
+Doug Ingram President and Chief Executive Officer
+
+Louise Rodino-Klapac, Ph.D. Executive Vice President, Chief Scientific Officer
+
+January 7, 2021
+
+Exhibit 99.2 SAREPTA THERAPEUTICS SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 1
+
+Forward-looking Statements This presentation contains "forward-looking statements." Any statements that are not statements of historical fact may be deemed to be forward-looking statements. Words such as “believe,” “anticipate,” “plan,” “expect,” “will,” “may,” “intend,” “prepare,” “look,” “potential,” “possible” and similar expressions are intended to identify forward-looking statements. These forward-looking statements include statements relating to the potential benefits of SRP-9001 and plans and expected milestones, including continuing to advance Part 2 crossover phase of Study 102 and conducting biopsy at week 12 to assess expression and biological markers and longer-term assessments of functional outcomes, reporting biomarker and safety results from Study 103 in Q2 2021, and leveraging learnings from Study 102 and Study 103 to inform future clinical development, including Study 301.
+These forward-looking statements involve risks and uncertainties that may cause actual results to differ materially from those expressed or implied in the forward-looking statements. Many of these risks and uncertainties are beyond our control. Known risk factors include, among others: success in preclinical and clinical trials, especially if based on a small patient sample, does not ensure that later clinical trials will be successful; the data presented in this presentation may not be consistent with the final data set and analysis or result in an assessment that SRP-9001 provides a safe or effective treatment benefit; different methodologies or assumptions than we utilize to assess particular safety or efficacy parameters may yield different statistical results, and, even if we believe the data collected from clinical trials are positive, the data may not be sufficient to support approval by the FDA or foreign regulatory authorities; we may not be able to execute on our business plans and goals, including meeting our expected or planned regulatory milestones and timelines, clinical development plans, and bringing our product candidates to market, due to a variety of reasons, many of which are outside of our control, including possible limitations on company financial and other resources, manufacturing limitations that may not be anticipated or resolved for in a timely manner, regulatory, court or agency decisions, such as decisions by the United States Patent and Trademark Office with respect to patents that cover our product candidates; the impact of the COVID-19 pandemic; and those risks identified under the heading “Risk Factors” in our most recent Annual Report on Form 10-K for the year ended December 31, 2019, and most recent Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (SEC) as well as other SEC filings we make, which you are encouraged to review.
+Any of the foregoing risks could materially and adversely affect the Company’s business, results of operations and the trading price of Sarepta’s common stock. For a detailed description of risks and uncertainties we face, we encourage you to review our SEC filings. We caution investors not to place considerable reliance on the forward-looking statements contained in this presentation. We undertake no obligation to update forward-looking statements based on events or circumstances after the date of this presentation. SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 2
+
+Welcome and Introduction Doug Ingram President and CEO SAREPTA THERAPEUTICS SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 3
+
+SRP-9001-102 Study Design: Parts 1 and 2 A randomized, double-blind, placebo-controlled clinical trial to evaluate the safety, efficacy and tolerability of a single dose of SRP-9001 compared to placebo, in boys with DMD aged 4–7 years old; Study is ongoing and remains blinded, functional results for all patients will be analyzed at 48 week timepoint Primary endpoints
+Micro-dystrophin protein expression, from Baseline to Week 12, as measured by western blot
+Change in NSAA total score from Baseline to Week 48
+Secondary endpoints
+Micro-dystrophin protein expression measured by immunofluorescence (IF) and percent positive fibers
+Other timed function tests Double-blind, placebo-controlled Single IV infusion SRP-9001
+(n=20) Randomization
+(n=41)
+(Stratified by age) OLE Part 1: 48 weeks Single IV infusion placebo
+(n=21) Single IV infusion SRP-9001 Single IV infusion placebo Part 2: 48 weeks Part 3 SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 4
+
+Micro-dystrophin Protein Expression and Vector Genome Copies per Nucleus Achieved Endpoints (n=20, Week 12) Micro-dystrophin Expression (IF) Vector Genome Copy Number Micro-dystrophin Expression (Western Blot) Percentage of Normal Mean (n=20) 28.1% Intensity (% Normal) Percentage of Dystrophin-positive Fibers Mean (n=20) 63.7% 33.0% Copies per Nucleus Mean (n=20) 1.56 SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 5
+
+Representative Micro-dystrophin Images Baseline SRP-9001 Merosin (membrane label) Micro-dystrophin Merge Patient had 95% PDPF on treatment NOT APPLICABLE SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 6
+
+Functional Results SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 7
+
+NSAA Primary Functional Endpoint: Treated Patients Outperformed Placebo Patients at All Time Points NSAA change from baseline of +1.7 in SRP-9001 treated group vs. +0.9 in placebo group, which is not statistically different (p= 0.37) Separation shown at every timepoint between SRP-9001 and placebo groups
+Baseline analysis at 48 weeks:
+Treatment group showed 1.7-point increase compared to baseline (P=0.0090)
+Placebo group showed 0.9-point increase compared to baseline (P=0.1411) 3.0 2.5 2.0 1.5 1.0 0.5 0.0 bl 4 8 12 24 36 48 Study Week Treatment: 0 Placebo+SRP-9001 Number of Patients Placebo 21 21 19 20 16 19 21 SRP-9001 20 20 18 19 15 14 19 SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 8
+
+NSAA Subgroup Analysis (Ages 4-5): Reached Statistical Significance  In a pre-specified analysis, the 4- to 5-year old group had a statistically significant improvement in NSAA vs. placebo group at week 48 NSAA change from baseline of +4.3 in SRP-9001 treated 4–5-year-olds vs. 1.9 in placebo (p= 0.0172); age was a stratification factor at randomization 8
+8 8
+7 8
+8 7
+6 8
+5 8
+8 Placebo
+SRP-9001 PLACEBO SRP-9001 4 2 0 Baseline Week 4 Week 8 Week 12 Week 24 Week 36 Week 4E PLACEBO SRP-9001 Measure NSAA Treatment SRP-9001 PBO SRP-9001 vs PBO Baseline 20.1 20.4 LSM Change (SE) 4.3 (0.6) 1.9 (0.6) 2.5 (0.9) Age 4-5 yrs P-value <0.0001 0.0126 0.0172 SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 9
+
+Functional Measures Well Matched at Baseline (4-5 Year Old Group) Characteristic Statistics SRP-9001 Age 4-5 (n=8) Placebo Age 4-5 (n=8) NSAA Mean P-value(vs Placebo) 20.1 0.8318 20.4 100 meter (seconds) Mean P-value(vs Placebo) 58.76 0.7925 59.79 Ascend 4 Steps (seconds) Mean P-value(vs Placebo) 3.460.9822 3.48 Time to Rise (seconds) Mean P-value(vs Placebo) 3.89 0.7421 3.76 10 meter (seconds) Mean P-value(vs Placebo) 5.01 0.5832 5.24 SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 10
+
+Functional Measures Not Well Matched at Baseline (6-7 Year Old Group) Patients in the treated group had significantly lower NSAA scores at baseline Note that an imbalance in NSAA and timed tests exist in the older (6–7-year-olds) between the two groups with the treated group worse than placebo. Characteristic Statistics SRP-9001 Age 6-7 (n=12) Placebo Age 6-7 (n=13) Difference (from Placebo) NSAA Mean P-value(vs Placebo) 19.6 0.0046 24.0 - 4.4 100 meter (seconds) Mean P-value(vs Placebo) 62.56 0.0219 50.21 + 12.35 Ascend 4 Steps (seconds) Mean P-value(vs Placebo) 3.83 0.0958 2.86 + 0.97 Time to Rise (seconds) Mean P-value(vs Placebo) 5.91 0.0053 3.44 + 2.47 10 meter (seconds) Mean P-value(vs Placebo) 5.58 0.0313 4.58 + 1.00 SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 11
+
+Safety Summary No new safety signals
+Safe and well tolerated; consistent with previous studies
+85% of the treated group had treatment related adverse events vs. 43% in the placebo group
+The most common treatment related adverse event was vomiting
+60% (12/20) in treatment group vs. 19% (4/21) in placebo group
+Among patients with treatment-related AEs 82% were mild or moderate in severity
+Total of 4 patients with 5 treatment related SAEs
+4 SAEs in the treated group and 1 in the placebo group
+Musculoskeletal: 3 rhabdomyolysis (2 in 9001 group and 1 in placebo)
+Hepatobiliary/Investigations: 2 transaminases increased in 9001 group
+No adverse event related discontinuations and no deaths
+No clinical complement activation observed
+SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 12
+
+Next Steps Continue to advance Part 2 crossover phase; conduct biopsy at week 12 to assess expression and biological markers and longer-term assessments of functional outcomes
+Enrolled and dosed 11 patients in Study 103 using commercial process material
+Report biomarker and safety results in Q2 2021
+Leverage learnings from Study 102 and Study 103 to inform future clinical development, including Study 301 SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 13
+
+Conclusions No new safety signals observed
+Primary biological endpoint (micro-dystrophin expression at 12 weeks post-treatment) achieved
+Total NSAA score of treated patients vs. placebo demonstrated a positive increase at all post-treatment time points
+The study did not achieve a statistical significance on the primary functional endpoint of improvement in total NSAA score compared to placebo at 48 weeks post-treatment
+Pre-specified analysis in the 4- to 5-year old group showed a significant improvement in NSAA vs. placebo group at 48 weeks
+Imbalance in baseline functional characteristics in the 6-to 7-year old group contributed to the lack of statistical significance on the functional endpoint
+Data support future clinical development plans
+
+SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 14
+
+Q&A SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 15
+
+SAREPTA THERAPEUTICS SAREPTA THERAPEUTICS, INC.2021 ALL RIGHTS RESERVED. 16

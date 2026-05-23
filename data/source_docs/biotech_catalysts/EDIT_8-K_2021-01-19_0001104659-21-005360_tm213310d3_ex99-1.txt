@@ -1,0 +1,75 @@
+EX-99.1
+2
+tm213310d3_ex99-1.htm
+EXHIBIT 99.1
+
+ 
+
+Exhibit 99.1
+
+ 
+
+On December 14, 2020, the Patent Trial and
+Appeal Board of the USPTO (“PTAB”), declared a third interference between a pending U.S. patent application (U.S. Serial
+No. 14/685,510) that is owned by ToolGen and 14 U.S. patents (the 13 U.S. patents involved in one of two another existing
+interference involving our licensor The Broad Institute (“Broad”) and U.S. Patent No. 8,889,418) and two U.S. patent
+applications (the U.S. patent application involved in the other existing interference and U.S. Serial No. 15/330,876) that are
+co-owned by Broad and the Massachusetts Institute of Technology, and in some cases Harvard University, and in-licensed
+by us. On the same day, the PTAB also declared a fourth interference between the same pending U.S. patent application (U.S. Serial
+No. 14/685,510) that is owned by ToolGen and certain U.S. patent applications that are co-owned by the University of California,
+the University of Vienna, and Emmanuelle Charpentier. These two declarations of interference involving ToolGen’s patent application
+describe the interfering subject matter as related to a mammalian cell with a CRISPR/Cas system that comprises a codon optimized
+nucleic acid encoding a Cas9 polypeptide with a nuclear localization signal and a single-molecule guide RNA that are together capable
+of forming a Cas9/RNA complex that mediates double stranded cleavage of a target nucleic acid sequence.
+
+ 
+
+As a result of these two declarations of
+interference, parallel adversarial proceedings in the U.S. Patent and Trademark Office before the PTAB have been initiated. An
+interference is declared to ultimately determine priority, specifically which party was first to invent the commonly claimed invention.
+An interference is typically divided into two phases. The first phase is referred to as the motions or preliminary motions phase
+while the second is referred to as the priority phase. In the first phase, each party may raise issues including but not limited
+to those relating to the patentability of a party’s claims based on prior art, written description, and enablement. A party
+also may seek an earlier priority benefit or may challenge whether the declaration of interference was proper in the first place.
+Priority, or a determination of who first invented the commonly claimed invention, is determined in the second phase of an interference.
+Although we cannot predict with any certainty how long each phase will actually take, each phase may take approximately a year
+or longer before a decision is made by the PTAB. It is possible for motions filed in the preliminary motions phase to be dispositive
+of the interference proceeding, such that the second priority phase is not reached. It is also possible that other third parties
+may seek to become a party to these interferences.
+
+ 
+
+The 14 in-licensed U.S. patents and
+two in-licensed U.S. patent applications that are the subject of the third interference (which includes the 13 in-licensed
+U.S. patents and one in-licensed U.S. patent application that are the subject of the existing interference and the one in-licensed
+U.S. patent that is the subject of the re-examination) relate generally to the CRISPR/Cas9 system and its use in eukaryotic
+cells. The claims of the 14 in-licensed U.S. patents and two in-licensed U.S. patent applications vary in scope and coverage
+and include claims that are directed to CRISPR/Cas9 systems that employ viral vectors for delivery, single guide RNAs, modified
+guide RNAs, S. aureus Cas9, or a Cas9 nickase and are relevant to our genome editing platform technology. The loss or narrowing
+in scope of one or more of these in-licensed patents could have a material adverse effect on the conduct of our business, financial
+condition, results of operations, and prospects.
+
+ 
+
+We or our licensors are subject to and
+may in the future become a party to similar proceedings or priority disputes in Europe or other foreign jurisdictions. For example,
+four European patents that we have in-licensed from Broad, acting on behalf of itself and MIT, or itself, MIT and Harvard have
+been revoked in their entirety by the European Patent Office Opposition Division (the “Opposition Division”). Broad,
+acting on behalf of itself and MIT, or itself, MIT and Harvard filed notices of appeal to the Boards of Appeal of the EPO for
+review of the Opposition Division’s decisions with respect to certain of these patents. It is uncertain when or in what
+manner the Boards of Appeal will act on these appeals. The Opposition Division has also initiated opposition proceedings against
+14 other European patents that we have in-licensed from Broad, acting on behalf of itself and MIT, or itself, MIT and Harvard,
+or itself, MIT, Harvard and The Rockefeller University (“Rockefeller”) (European Patent Nos. EP 2,825,654 B1,
+EP 2,840,140 B1, EP 2,921,557 B1, EP 2,931,892 B1, EP 2,931,897 B1, EP 2,940,140 B1, EP 3,011,032 B1, EP 3,011,034 B1, EP 3,494,997
+B1, EP 3,064,585 B1, EP 3,144,390 B1, EP 3,310,917 B1, EP 3,470,519 B1, and EP 3,237,615 B1), one European patent that we co-own
+and in-license from Broad, acting on behalf of itself, MIT and The University of Iowa Research Foundation (European Patent No.
+EP 3,066,201 B1), and one European patent that we have in-licensed from Broad acting on behalf of Wageningen University (European
+Patent No. EP 3,283,625 B1). The EPO opposition proceedings may involve issues including, but not limited to, procedural formalities
+related to filing the European patent application, priority, and the patentability of the involved claims. The loss of priority
+for, or the loss of, these European patents could have a material adverse effect on the conduct of our business. One or more of
+the third parties that have filed oppositions against these European patents or other third parties may file future oppositions
+against other European patents that we in-license or own. For example, we are aware that oppositions have been filed against three
+European patents that we have in-licensed from Broad, acting on behalf of itself, MIT and Harvard (European Patent Nos. EP 3,502,253
+B1, EP 3,011,031 B1, and EP 3,252,160 B1). The deadlines for filing oppositions against these European patents are February 27,
+2021, June 30, 2021, and July 28, 2021, respectively. There may be other oppositions against these European patents that have
+not yet been filed or that have not yet been made available to the public.

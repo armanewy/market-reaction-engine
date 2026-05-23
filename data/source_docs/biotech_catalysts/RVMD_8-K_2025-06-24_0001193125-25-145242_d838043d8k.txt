@@ -1,0 +1,521 @@
+8-K
+
+false 0001628171 0001628171 2025-06-23 2025-06-23 0001628171 rvmdw:CommonStock0.0001ParValuePerShareMember 2025-06-23 2025-06-23 0001628171 rvmdw:WarrantsToPurchase0.1112SharesOfCommonStockExpiring2026Member 2025-06-23 2025-06-23
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 23, 2025
+
+ 
+
+ 
+
+Revolution Medicines, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39219
+
+ 
+
+47-2029180
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+700 Saginaw Drive
+
+ 
+
+Redwood City, California
+
+ 
+
+94063
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: 650 481-6801
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock $0.0001 par value per share
+
+ 
+
+RVMD
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Warrants to purchase 0.1112 shares of common stock expiring 2026
+
+ 
+
+RVMDW
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+Royalty Purchase Agreement
+
+On June 23, 2025 (the “Effective Date”), Revolution Medicines, Inc. (the “Company”) entered into a revenue participation right purchase and sale agreement (the “Royalty Purchase Agreement”) with Royalty Pharma Investments 2019 ICAV (“Royalty Pharma”).
+
+Pursuant to the Royalty Purchase Agreement, in exchange for an upfront payment of $250.0 million, Royalty Pharma purchased from the Company the right to receive tiered revenue payments (the “Royalty Payments”) with respect to worldwide net product sales (“Net Sales”) in a calendar year (“Annual Net Sales”) of (a) the Company’s RAS(ON) multi-selective inhibitor, daraxonrasib (together with certain potential future products having the same mechanism of action as daraxonrasib, collectively, “RMC-6236”) and (b) the Company’s RAS(ON) G12D-selective inhibitor, zoldonrasib (together with certain potential future products having the same mechanism of action as zoldonrasib, “RMC-9805”), if RMC-9805 is approved for the same indication or subset of the same indication for which RMC-6236 is approved (collectively, the “Royalty-Bearing Products”). In addition, under the Royalty Purchase Agreement, (i) Royalty Pharma will purchase additional Royalty Payments from the Company in exchange for a payment of $250.0 million (the “Tranche 2 Funding”), if, prior to January 1, 2028, there is a positive data readout from RASolute 302, the ongoing Phase 3 registrational trial in the second-line treatment of patients with metastatic pancreatic ductal adenocarcinoma (“PDAC”) showing that RMC-6236 meets an agreed-upon endpoint in a statistically significant manner and the earlier of (A) the Company’s determination to proceed with the preparation and submission of a New Drug Application to the Food and Drug Administration (the “FDA”) on the basis of such readout or (B) the submission of a New Drug Application on the basis of such readout (collectively, the “Tranche 2 Trigger”) and (ii) in each case, at the Company’s election, the Company will sell and Royalty Pharma will purchase, additional Royalty Payments in exchange for (W) a payment of up to $250.0 million (the “Tranche 3 Funding”), if, prior to July 1, 2028, RMC-6236 receives FDA approval for the second-line treatment of RAS G12-mutated metastatic PDAC or metastatic PDAC, (X) a payment of up to $250.0 million (the “Tranche 4 Funding”), if the Company meets a specified Net Sales milestone for Royalty-Bearing Products prior to January 1, 2029, (Y) a payment of up to $100.0 million (the “Tranche 5 Sub Funding”), if prior to January 1, 2030, there is a positive data readout from a potential Phase 3 clinical trial for the first-line treatment of metastatic PDAC involving either (1) RMC-6236 or (2) RMC-9805, in each case, showing that the applicable Company compound meets an agreed-upon endpoint in a statistically significant manner and the FDA accepts a New Drug Application (or a supplemental application or an amendment to an existing application) on the basis of such readout, and (Z) a payment of up to the difference of (I) $250.0 million and (II) the purchase price of any Royalty Payments purchased at Tranche 5 Sub Funding (the “Tranche 5 Funding”), if prior to January 1, 2030, there is a positive data readout from a potential Phase 3 clinical trial for the first-line treatment of metastatic PDAC involving either (1) RMC-6236 or (2) RMC-9805, in each case, showing that the applicable Company compound meets an agreed-upon endpoint in a statistically significant manner.
+
+The table below summarizes the Royalty Payments (assuming each of the Tranche 2 Funding, the Tranche 3 Funding, the Tranche 4 Funding, the Tranche 5 Sub Funding and the Tranche 5 Fundings occurs up to the maximum amount available), based on the percentage of Annual Net Sales of the Royalty-Bearing Products.
+
+ 
+
+Annual
+
+Net Sales
+
+  
+
+Upfront
+
+Royalty
+
+ 
+
+ 
+
+Tranche 2
+
+Royalty
+
+ 
+
+ 
+
+Tranche 3
+
+Royalty
+
+ 
+
+ 
+
+Tranche 4
+
+Royalty
+
+ 
+
+ 
+
+Tranche 5
+
+Sub Royalty
+
+ 
+
+ 
+
+Tranche 5
+
+Royalty
+
+  
+
+Total
+
+Royalty
+
+ 
+
+$0–$2 billion 
+
+  
+
+ 
+
+2.55
+
+% 
+
+ 
+
+ 
+
+2.00
+
+% 
+
+ 
+
+ 
+
+1.50
+
+% 
+
+ 
+
+ 
+
+1.00
+
+% 
+
+ 
+
+ 
+
+0.30
+
+% 
+
+ 
+
+0.45% (or 0.75% if no Tranche 5 Sub Funding)
+
+  
+
+ 
+
+7.80
+
+% 
+
+> $2 billion and ≤ $4 billion
+
+  
+
+ 
+
+1.50
+
+% 
+
+ 
+
+ 
+
+1.00
+
+% 
+
+ 
+
+ 
+
+0.80
+
+% 
+
+ 
+
+ 
+
+0.75
+
+% 
+
+ 
+
+ 
+
+0.20
+
+% 
+
+ 
+
+0.30% (or 0.50% if no Tranche 5 Sub Funding)
+
+  
+
+ 
+
+4.55
+
+% 
+
+> $4 billion and ≤ $8 billion
+
+  
+
+ 
+
+0.60
+
+% 
+
+ 
+
+ 
+
+0.40
+
+% 
+
+ 
+
+ 
+
+0.40
+
+% 
+
+ 
+
+ 
+
+0.50
+
+% 
+
+ 
+
+ 
+
+0.20
+
+% 
+
+ 
+
+0.30% (or 0.50% if no Tranche 5 Sub Funding)
+
+  
+
+ 
+
+2.40
+
+% 
+
+If the Company opts to sell Royalty Pharma a right to receive a portion of Annual Net Sales of the Royalty-Bearing Products that is less than the maximum permitted under the Royalty Purchase Agreement with respect to the Tranche 3 Funding, the Tranche 4 Funding, the Tranche 5 Sub Funding or the Tranche 5 Funding, then the applicable rates set forth above in respect of such Royalty Payments would be scaled down on a pro rata basis.
+
+Additionally, the Royalty Purchase Agreement provides for an upward adjustment to the Royalty Payment rates in the years from 2030 to 2041 in the event that Annual Net Sales in the immediate prior year are below an agreed-upon threshold. This threshold was derived from return-on-investment calculations and is in the lower end of the ranges described above. Any upward adjustment will revert to the original Royalty Payment rates in the event that Annual Net Sales are above a different agreed-upon threshold. The upward adjustment to the Royalty Payment rates applies only to the $0–$2 billion Annual Net Sales tier, and the adjusted total Royalty Payment rate for this tier remains in the single digits.
+
+The Royalty Payments in respect of Annual Net Sales of RMC-6236 in the United States will end 15 years after the first commercial sale of RMC-6236 in the United States. The Royalty Payments (if any) in respect of Annual Net Sales of RMC-9805 in the United States will end 15 years after the earlier to occur of (i) the date that RMC-9805 is approved in an overlapping indication with RMC-6236 in the United States and (ii) the first commercial sale of RMC-6236 in the United States. The Royalty Payments in respect of Annual Net Sales of RMC-6236 outside the United States will end 15 years after the first commercial sale of RMC-6236 in the European Union. The Royalty Payments (if any) in respect of Annual Net Sales of RMC-9805 outside the United States will end 15 years after the earlier to occur of (i) the date that RMC-9805 is approved in an overlapping indication with RMC-6236 in any country in the European Union and (ii) the first commercial sale of RMC-6236 in the European Union.
+
+If, prior to the achievement of the Tranche 2 Trigger, the Company enters into a definitive agreement for a change of control, the Company will have the option to cancel the Tranche 2 Funding and the associated Royalty Payments. Royalty Pharma agrees to cooperate with the transfer of the Royalty Purchase Agreement to any acquiror in connection with a change of control of the Company.
+
+The Royalty Purchase Agreement contains customary representations, warranties and indemnities of the Company and Royalty Pharma, and customary covenants on the part of the Company.
+
+Loan Agreement
+
+On the Effective Date, the Company also entered into a loan agreement (the “Loan Agreement” and, together with the Royalty Purchase Agreement, the “Strategic Financing Agreements”) with Wilmington Trust, National Association, as administrative agent (the “Agent”), and Royalty Pharma Development Funding, LLC, as a lender (the “Lender”).
+
+The Loan Agreement provides for a term loan facility of up to $750.0 million (the “Term Loan Facility”), consisting of three tranches, one of which must be drawn and the other two of which may be drawn at the Company’s option during certain commitment periods, subject to the satisfaction or waiver of certain terms and conditions: (i) a tranche in an aggregate principal amount of $250.0 million (the “Tranche A Loans” and the date on which the Tranche A Loans are funded, the “Tranche A Funding Date”), which is required to be drawn in whole in a single draw by the Company within 45 days of its receipt of marketing approval from the FDA for daraxonrasib for any indication or treatment related to metastatic PDAC, if such approval is received on or prior to January 1, 2028 unless the Company has previously elected to terminate the Term Loan Facility (as further described below); (ii) a tranche in an aggregate principal amount up to $250.0 million (the “Tranche B Loans” and the date on which the Tranche B Loans are funded, the “Tranche B Funding Date”), which the Company may elect to borrow in a single draw (in whole or in part), within 45 days of the date the Agent receives certification of the Company’s achievement of a specified Net Sales milestone, if this milestone is achieved prior to January 1, 2028; and (iii) a tranche in an aggregate principal amount up to $250.0 million (the “Tranche C Loans” and, together with the Tranche A Loans and the Tranche B Loans, the “Term Loans” and the date on which the Tranche C Loans are funded, and, together with the Tranche A Funding Date and the Tranche B Funding Date, each, a “Funding Date”), which the Company may elect to borrow in a single draw (in whole or in part), within 45 days of the date the Agent receives certification of the Company’s achievement of a specified Net Sales milestone, if this milestone is achieved prior to January 1, 2028.
+
+The Term Loan Facility matures on the earlier of (i) the six year anniversary of the Tranche A Funding Date and (ii) December 31, 2032 (such earlier date, the “Maturity Date”), and the Term Loans thereunder bear interest at a floating per annum rate equal to (a) the three-month term SOFR (subject to a 3.50% floor) plus (b) 5.75%, payable on a quarterly basis. The Term Loan Facility has no scheduled amortization payments prior to the Maturity Date.
+
+On each Funding Date, the Company is required to pay the Lender an upfront fee equal to 2.00% of the Term Loans drawn on such Funding Date. In addition, the Loan Agreement requires the Company to make prepayments in the event of a change of control and permits the Company to make voluntary prepayments in whole. Principal prepayments in respect of the Term Loans will be subject to, with respect to each tranche of the Term Loans, (i) prior to the second anniversary of the Funding Date of such tranche of Term Loans, a make-whole premium in an amount equal to the sum of all interest that would have accrued and been payable from such prepayment date to (but excluding) such second anniversary plus (ii) a prepayment premium equal to either (a) 3.00% of such tranche of Term Loans, for prepayments prior to the third anniversary of the Funding Date of such tranche of Term Loans or (b) 1.00% of such tranche of Term Loans, for prepayments on or after the third anniversary of the Funding Date of such tranche of Term Loans. For the avoidance of doubt, no make-whole premium or prepayment premium shall be due and payable if the Term Loans are repaid on the Maturity Date.
+
+Should a change of control of the Company occur prior to the Tranche A Funding Date, or the Company elects to terminate the Term Loan Facility prior to the Tranche A Funding Date, the Company is required to pay the Lender a sum equal to: (i) 1.00% of the Tranche A Loans, plus (ii) the make-whole premium and prepayment premium with respect to the Tranche A Loans, calculated as if the full amount of the Tranche A Loans were drawn on the date on which the change in control was consummated or the date the Company elected to terminate the Term Loan Facility, as applicable. If the Company does not draw the Tranche A Loans within 45 days of its receipt of marketing approval from the FDA for daraxonrasib for any indication or treatment related to metastatic PDAC, then the Company will be required to pay the Lender a sum equal to: (i) 1.00% of the Tranche A Loans, plus (ii) the make-whole premium and prepayment premium with respect to the Tranche A Loans, calculated as if the full amount of the Tranche A Loans were drawn on the 45th day following its receipt of such FDA approval.
+
+The Term Loan Facility will be guaranteed by certain of the Company’s existing and future subsidiaries (collectively, the “Guarantors”), and the obligations of the Company and the Guarantors under the Term Loan Facility will be secured by security interests in, and pledges over, substantially all of the assets of the Company and the Guarantors (including, without limitation, capital stock, material bank accounts and intercompany receivables), in each case, subject to certain agreed security principles, permitted liens and other customary exceptions and qualifications.
+
+The Loan Agreement contains customary covenants that limit the Company’s and its subsidiaries’ ability to, among other activities (but subject to certain customary exceptions): (i) pay dividends, redeem stock or make other distributions or investments; (ii) incur additional debt; (iii) transfer or sell assets; (iv) create liens; (v) engage in certain transactions with affiliates; (vi) create restrictions on dividends or other payments by the Company’s subsidiaries; and (vii) merge, consolidate or effect other fundamental changes. The Loan Agreement does not include any financial covenants. The Loan Agreement also includes certain customary affirmative covenants, including financial reporting, notice obligations, and requirements to grant and provide guarantees and securities interest in respect of property and assets acquired from time to time after the Effective Date.
+
+The Loan Agreement provides an enumerated list of customary events of default, including, without limitation, payment defaults, breach of representations and warranties, covenant defaults, cross-defaults to certain material agreements and certain indebtedness, certain events of bankruptcy, material judgments, and the occurrence of a material adverse change. If an event of default occurs under the Loan Agreement, the Agent, for and on behalf of the Lender, will be entitled to exercise remedial rights and powers and take various actions (including, without limitation, (i) the acceleration of all amounts due under the Term Loan Facility; (ii) the application of default rate interest; (iii) the exercise of powers of attorney, voting proxies and other similar rights; (iv) the foreclosure and sale of property and assets and (v) other actions permitted to be taken by a secured creditor).
+
+The foregoing descriptions of the Strategic Financing Agreements do not purport to be complete and are qualified in their entirety by reference to such agreements, copies of which the Company expects to file, with certain confidential terms redacted, as exhibits to its Quarterly Report on Form 10-Q for the quarter ending June 30, 2025.
+
+ 
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth under Item 1.01 above is incorporated by reference into this Item 2.03.
+
+Item 7.01 Financial Statements and Exhibits.
+
+Press Release
+
+On June 24, 2025, the Company issued a press release announcing the Strategic Financing Agreements, a copy of which is furnished as Exhibit 99.1 to this report.
+
+Supplemental Financial Information
+
+As a result of entering into the transactions described in Item 1.01 of this report, the Company is removing its cash runway end date guidance.
+
+With respect to 2025 GAAP net loss guidance, the Company is in the process of evaluating the appropriate accounting treatment of the facility described in this report and also evaluating the impact of the decision to pursue independent global development and commercialization. Accordingly, the Company is withdrawing its previous guidance on expected 2025 GAAP net loss and expects to provide updated financial guidance in the Company’s second quarter 2025 earnings release.
+
+The information furnished under this Item 7.01 and in the accompanying Exhibit 99.1 to this report shall be deemed to be “furnished” and shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933 (the “Securities Act”), and shall not be incorporated by reference into any filing made by the Company with the Securities and Exchange Commission (the “SEC”) under the Securities Act or the Exchange Act, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This report includes “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Statements made in this report that are not historical facts may be considered forward-looking statements, including, without limitation, statements regarding the Strategic Financing Agreements (including with respect to potential trigger events, tranche loans and royalty payments), and the Company’s decision to pursue independent global development and commercialization. Forward-looking statements are typically, but not always, identified by the use of words such as “may,” “will,” “would,” “believe,” “intend,” “plan,” “anticipate,” “expect,” and other similar terminology indicating future results. Such forward-looking statements are subject to substantial risks and uncertainties that could cause the Company’s development programs, future results, performance or achievements to differ materially from those anticipated in the forward-looking statements. Such risks and uncertainties include without limitation risks and uncertainties inherent in the drug development process, including the Company’s programs’ current stage of development, the process of designing and conducting preclinical and clinical trials, risks that the results of prior clinical trials may not be predictive of future clinical trials, clinical efficacy, or other future results, the regulatory approval processes, the timing of regulatory filings, the challenges associated with manufacturing drug products, the Company’s ability to successfully establish, protect and defend its intellectual property, other matters that could affect the sufficiency of the Company’s capital resources to fund operations, reliance on third parties for manufacturing and development efforts, changes in the competitive landscape, and the effects on the Company’s business of the global events, such as international conflicts or global pandemics. For a further description of the risks and uncertainties that could cause actual results to differ from those anticipated in these forward-looking statements, as well as risks relating to the business of the Company in general, see the Company’s Quarterly Report on Form 10-Q filed with the SEC on May 7, 2025, and its future periodic reports to be filed with the SEC. Except as required by law, the Company undertakes no obligation to update any forward-looking statements to reflect new information, events or circumstances, or to reflect the occurrence of unanticipated events.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated June 24, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+Date: June 24, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Mark A. Goldsmith
+
+ 
+
+ 
+
+ 
+
+Mark A. Goldsmith, M.D., Ph.D.
+
+President and Chief Executive Officer

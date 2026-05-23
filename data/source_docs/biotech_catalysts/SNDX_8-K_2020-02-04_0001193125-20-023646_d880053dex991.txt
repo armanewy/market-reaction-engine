@@ -1,0 +1,498 @@
+EX-99.1
+5
+d880053dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+As used in this Exhibit 99.1, unless the context indicates otherwise, references to “Syndax,” “the Company,”
+“we,” “us,” “our” and similar references refer to Syndax Pharmaceuticals, Inc. and its wholly owned subsidiaries.
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Exhibit 99.1 contains forward-looking statements. In some cases, you can identify these statements by forward-looking words such as
+“anticipate,” “believe,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,”
+“will,” “would” or similar expressions, or the negative or plural of these words or expressions. These forward-looking statements include statements concerning the following:
+
+ 
+
+ 
+
+•
+
+ 
+
+our estimates regarding our expenses, future revenues, anticipated capital requirements and our needs for
+additional financing;
+
+ 
+
+ 
+
+•
+
+ 
+
+the timing of the progress and receipt of data from the Phase 3 clinical trial of entinostat in advanced HR+,
+HER2- breast cancer;
+
+ 
+
+ 
+
+•
+
+ 
+
+the timing of the progress and receipt of data from the Phase 1 clinical trial of SNDX-6352 and the potential use
+of SNDX-6352 to treat various cancer indications;
+
+ 
+
+ 
+
+•
+
+ 
+
+the timing of the progress and receipt of data from the Phase 1b/2 clinical trial of SNDX-6352 in in chronic
+Graft Versus Host Disease (cGVHD);
+
+ 
+
+ 
+
+•
+
+ 
+
+the timing of the progress and receipt of data from the Phase 1/2 clinical trial of SNDX-5613 in patients with
+relapsed/refractory (R/R) acute leukemia and the potential use of SNDX-5613 to treat acute leukemias;
+
+ 
+
+ 
+
+•
+
+ 
+
+the timing of the progress and receipt of data from the Phase 1b/2 clinical trial of entinostat with Tecentriq® (atezolizumab) from Genentech, Inc., a member of the Roche Group, in advanced hormone receptor positive, human epidermal growth factor receptor 2 negative (HR+, HER2-) breast cancer;
+
+ 
+
+ 
+
+•
+
+ 
+
+our ability to negotiate and execute a definitive agreement related to the potential term loan from Hercules
+Capital, Inc.;
+
+ 
+
+ 
+
+•
+
+ 
+
+the scope, timing of the commencement, progress and receipt of data from any other clinical trials that we and
+our collaborators may conduct;
+
+ 
+
+ 
+
+•
+
+ 
+
+our ability to replicate results in future clinical trials;
+
+ 
+
+ 
+
+•
+
+ 
+
+our expectations regarding the potential safety, efficacy or clinical utility of our product candidates;
+
+ 
+
+ 
+
+•
+
+ 
+
+our ability to obtain and maintain regulatory approval for our product candidates and the timing or likelihood of
+regulatory filings and approvals for such candidates;
+
+ 
+
+ 
+
+•
+
+ 
+
+our ability to maintain our licenses with Bayer Pharma AG, Kyowa Hakko Kirin Co., Ltd., UCB Biopharma Sprl and
+Vitae Pharmaceuticals, Inc., a subsidiary of Allergan plc;
+
+ 
+
+ 
+
+•
+
+ 
+
+the potential milestone and royalty payments under certain of our license agreements;
+
+ 
+
+ 
+
+•
+
+ 
+
+the implementation of our strategic plans for our business and development of our product candidates;
+
+ 
+
+1
+
+ 
+
+•
+
+ 
+
+the scope of protection we establish and maintain for intellectual property rights covering our product
+candidates and our technology;
+
+ 
+
+ 
+
+•
+
+ 
+
+the market adoption of our product candidates by physicians and patients;
+
+ 
+
+ 
+
+•
+
+ 
+
+developments relating to our competitors and our industry; and
+
+ 
+
+ 
+
+•
+
+ 
+
+the expected use of proceeds from this Offering.
+
+These statements are only current predictions and are subject to known and unknown risks, uncertainties and other factors that may cause our
+or our industry’s actual results, levels of activity, performance or achievements to be materially different from those anticipated by the forward-looking statements. Discussions containing these forward-looking statements may be found, among
+other places, in the sections titled “Business,” “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” incorporated by reference from our most recent Annual
+Report on Form 10-K and most recent Quarterly Report on Form 10-Q, as well as any amendments thereto, filed with the SEC. You should not rely upon
+forward-looking statements as predictions of future events.
+
+Although we believe that the expectations reflected in the forward-looking
+statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by law, we are under no duty to update or revise any of the forward-looking statements in this Exhibit 99.1, whether
+as a result of new information, future events or otherwise.
+
+Company Overview
+
+We are a clinical-stage biopharmaceutical company developing an innovative pipeline of cancer therapies. Our lead product candidate, entinostat
+is a once-weekly, oral, small molecule, Class I HDAC inhibitor currently being evaluated in the Phase 3 E2112 registration trial in combination with exemestane for advanced hormone receptor positive, or HR+, human epidermal growth factor
+receptor 2 negative, or HER2-, breast cancer, an indication for which it has been granted breakthrough therapy designation by the FDA. We continue to anticipate that the E2112 trial will reach 410 death events in the second quarter of 2020,
+triggering the final overall survival, OS, analysis. The E2112 trial design was informed by the Phase 2b ENCORE 301 trial, the results of which led to entinostat’s Breakthrough Therapy designation in HR+ breast cancer, in which patients
+receiving the entinostat/exemestane combination demonstrated a clinically meaningful OS benefit over treatment with exemestane alone.
+
+SNDX-5613 is our orally available, small molecule inhibitor of the interaction of menin with the mixed lineage leukemia protein, or MLL. We
+are developing SNDX-5613 as a targeted therapy to potentially treat two genetically defined acute leukemias: (i) mixed lineage leukemia-rearranged, or MLLr, a genetically-defined subset of acute leukemias with chromosomal rearrangements in the
+MLL gene; and (ii) acute myeloid leukemia, or AML, with a mutated nucleophosmin 1, or NPM1, characterized by a somatic mutation in the NPM1 gene, or NPM1c. We anticipate presenting initial clinical data from the Phase 1/2 open-label AUGMENT-101 trial of orally administered SNDX-5613 in the fourth quarter of 2020. The Phase 1 dose escalation portion of AUGMENT-101 is enrolling adults with
+relapsed/refractory acute leukemias, including patients with MLL-rearrangements and NPM1c mutations, to establish a recommended Phase 2 dose. The Phase 2 portion will evaluate efficacy, as defined by Complete
+Response rate (per International Working Group response criteria), across three expansion cohorts: MLL-rearranged (MLL-r) acute lymphoblastic leukemia, MLL-r acute myeloid leukemia (AML), and NPM1 mutant AML.
+
+ 
+
+2
+
+We are also developing SNDX-6352, a monoclonal antibody targeting the colony stimulating factor-1 receptor, or CSF-1R, a cell surface protein thought to control the survival and function of monocytes and macrophages. In many cancers, inhibition of CSF-1R will reduce the number of immunosuppressive tumor-associated macrophages, or TAMs, and enable an immune response against tumors. In December 2019 we presented clinical proof-of-concept data demonstrating efficacy of SNDX-6352 for the treatment of chronic Graft Versus Host Disease, or cGVHD. We are initiating a Phase 2 expansion cohort based on this evidence of clinical
+efficacy at all dosage levels to date and expect to present Phase 1 and 2 results in the second half of 2020.
+
+We plan to continue to
+leverage the technical and business expertise of our management team and scientific collaborators to opportunistically license, acquire and develop additional cancer therapies to expand our pipeline.
+
+Our pipeline
+
+ 
+
+Entinostat
+
+Entinostat is our oral, small molecule product candidate that has direct effects on both cancer cells and immune regulatory cells, potentially
+enhancing the body’s immune response to tumors. The favorable safety profile of entinostat has been demonstrated in clinical trials in more than 1,200 cancer patients. The long half-life of entinostat allows for once weekly dosing while also
+providing continuous exposure to therapy potentially resulting in positive efficacy benefits. Based on entinostat’s ability to reverse hormone resistance, alter cancer stem cells, and modulate immunosensitivity, we believe entinostat may have
+broad applications in tumor types which have become resistant to hormone and/or immunotherapy.
+
+Entinostat has also been shown to enhance
+the immune system’s ability to identify and target tumor cells. It is now widely accepted that many tumors have the ability to evade the immune system either through direct cellular interactions and recruitment of immuno-suppressive cells to
+the area surrounding the tumor, or through parallel evasion-mechanisms focused on the interaction between the T cell with other immune cells found within the surrounding tumor microenvironment. Entinostat has been observed to decrease the population
+of immuno-suppressive cells known as myeloid-derived suppressor cells, or MDSCs, and regulatory T cells, or Tregs, which localize in the area surrounding the tumor and
+
+ 
+
+3
+
+block T cells from killing cancer cells, while sparing the cytotoxic T cells. Through blocking the immuno-suppressive effects of MDSCs and Tregs, we believe entinostat has the potential to be
+used synergistically with therapies such as immune checkpoint inhibitors, resulting in the increased ability of the T cells to attack the tumor.
+
+SNDX-5613
+
+SNDX-5613 is a potent, orally
+active inhibitor of the high affinity interaction site on menin with the protein MLL1. This specific interaction is a key driver for two genetically defined acute leukemias: (i) MLLr and (ii) NPM1c AML. Both diseases have a poor prognosis
+with an unmet need. In preclinical testing, SNDX-5613 has demonstrated complete tumor regression and profound, dose-dependent and long-lasting survival benefit in leukemic models of disease.
+
+Our near-term focus is to rapidly establish proof of concept that SNDX-5613 is a targeted therapy that can provide meaningful clinical benefit
+to adult and pediatric leukemia patients having relapsed or refractory MLLr or NPM1c AML. Our IND application for SNDX-5613 was approved by the FDA in second quarter of 2019 and we commenced AUGMENT-101, a
+clinical trial consisting initially of a Phase 1 dose escalation portion to determine the maximum tolerated dose (MTD) and recommended Phase 2 dose (RP2D) of SNDX-5613 in patients with acute leukemia. Upon completion of Phase 1 and identification of
+the RP2D, we will initiate the Phase 2 portion of AUGMENT-101 with patients to be enrolled in three indication-specific expansion cohorts to determine the efficacy, short- and long-term safety, and
+tolerability of SNDX-5613 in MLLr ALL, MLLr AML and NPM1c AML. We are conducting the trial at multiple centers in the United States and anticipate completing enrollment of the Phase 1 portion in the second half of 2020 with a total enrollment of up
+to 132 patients for both Phase 1 and 2.
+
+SNDX-6352
+
+SNDX-6352 is a humanized monoclonal antibody that binds with high affinity to CSF-1R and blocks the
+binding of the two known CSF-1R ligands CSF-1 and IL-34. CSF-1R is expressed on the
+surface of specific immune cells known as macrophages and their precursor cells known as monocytes. CSF-1R signaling on these cells has been demonstrated in preclinical studies, conducted in animal models of
+skin and lung cGVHD, to be the key regulatory pathway involved in the expansion and infiltration of the macrophages that mediate the cGVHD disease process. Blocking CSF-1R activity with an experimental CSF-1R antibody in these studies was shown to prevent and treat the symptoms of cGVHD. We are developing SNDX-6352 to bind to CSF-1R and block the ability of CSF-1 and IL-34 to activate CSF-1R signaling. We believe that by inhibiting CSF-1R activation
+on monocytes and macrophages, that SNDX-6352 has the potential to be used to treat cGVHD.
+
+CSF-1R
+is also expressed on immuno-suppressive cells (e.g., TAMs) known to play a role in the growth, survival, and metastasis of cancer. Inhibition of CSF-1R is thought to disrupt the activity of TAMs, resulting in
+a decrease in the immunosuppressive environment immediately surrounding the tumor, or tumor micro-environment. This mode of action is thought to make CSF-1R inhibitors such as SNDX-6352 well suited for use in
+combination with checkpoint inhibitors, particularly in cancers where there may be limited activity of immune checkpoint inhibitors as monotherapy. We believe that SNDX-6352 has the potential to be used to treat a variety of cancers in combination
+with entinostat and with other oncology agents, including immune checkpoint inhibitors, radiation, and chemotherapy.
+
+Our near-term focus
+is to rapidly establish proof of concept that SNDX-6352 can provide meaningful clinical benefit to patients in one or more tumor types when combined with standard of care therapies for a given indication as well as to patients with cGVHD when used
+as a single agent. We intend to conduct clinical trials in patients with tumor types having clear unmet needs (e.g., NSCLC, TNBC, prostate, melanoma, pancreatic, ovarian, bladder) and in patients with advanced cGVHD where prior therapies are no
+longer effective.
+
+ 
+
+4
+
+Debt Financing
+
+We have a non-binding term sheet with Hercules Capital, Inc. for a term loan of up to
+$30.0 million consisting of an initial tranche of $20.0 million to be funded at closing with the potential for an additional tranche of $10.0 million subject to satisfaction of certain terms and conditions. If we enter into the term
+loan, we expect that obligations under the term loan would be secured by a first priority lien on all assets other than intellectual property with a negative pledge on our intellectual property. The term loan and the anticipated terms thereof are
+subject to the lenders’ due diligence, internal approval processes and negotiation and execution of definitive agreements, and could ultimately never materialize.
+
+One-Time Adjustment to Outstanding Series Warrants
+
+Our outstanding Series 1 warrants and Series 2 warrants, collectively, the Series Warrants, each contain a
+one-time exercise price adjustment provision. If, prior to the expiration date of the Series Warrants, we sell additional capital stock or derivative securities convertible into or exercisable for capital
+stock (other than Exempted Securities as defined in the warrant) in one or more related transactions primarily for the purpose of raising capital at a Weighted-Average Price below $12.00 per share, or the Floor Price, then the initial exercise price
+of the Series Warrants will be automatically reset upon exercise to an exercise price, or the Adjusted Exercise Price, that is the midpoint between the Initial Exercise Price and the lowest Weighted-Average Price per share at which we sell capital
+stock or derivative securities convertible into or exercisable for capital stock in a subsequent offering prior to the exercise date; provided, however, that the Adjusted Exercise Price will not be reduced below $6.00 per
+share. Weighted-Average Price shall be calculated as the weighted-average common stock equivalent price of the equity securities sold in such transaction(s) (excluding any derivative securities with an exercise or conversion price that is above the
+closing sale price as of the time of pricing such offering(s)).
+
+The Series 1 warrants each have an initial exercise price of $12.00 per
+share. The Series 2 warrants each have an initial exercise price of $18.00 per share. As a result of this offering, the initial exercise price of the Series 1 warrants will be reduced to $10.00 per share and the initial exercise price of the Series
+2 warrants will be reduced to $13.00 per share.
+
+Risks Related to Our Financial Position and Capital Needs
+
+We will require additional capital to finance our planned operations, which may not be available to us on acceptable terms, or at all. As a result, we
+may not complete the development and commercialization of, or obtain regulatory approval for our existing product candidates or develop new product candidates.
+
+Our operations have consumed substantial amounts of cash since our inception, primarily due to our research and development efforts. We expect
+our research and development expenses to increase substantially in connection with our ongoing and planned activities. We believe that our existing cash, cash equivalents and short-term investments will fund our projected operating expenses and
+capital expenditure requirements for at least the next 12 months. Unexpected circumstances may cause us to consume capital more rapidly than we currently anticipate. For example, we may discover that we need to conduct additional activities that
+exceed our current budget to achieve appropriate rates of patient enrollment, which would increase our development costs.
+
+ 
+
+5
+
+In any event, we will require additional capital to continue the development of, obtain
+regulatory approval for, and to commercialize our existing product candidates and any future product candidates. Any efforts to secure additional financing may divert our management from our day-to-day activities, which may adversely affect our ability to develop and commercialize our product candidates. In addition, we cannot guarantee that future financing will be available in sufficient
+amounts or on terms acceptable to us, if at all. For example, we have a non-binding term sheet with Hercules Capital, Inc. for a potential term loan of up to $30.0 million consisting of a first tranche of
+$20.0 million to be funded at closing with the potential for an additional tranche of $10.0 million subject to satisfaction of certain terms and conditions. The term loan and the anticipated terms thereof are subject to the lenders’
+due diligence, internal approval processes and negotiation and execution of definitive agreements, and could ultimately never materialize. If we do not enter into this debt facility or raise additional capital when required or on acceptable terms,
+we may need to:
+
+ 
+
+ 
+
+•
+
+ 
+
+delay, scale back or discontinue the development or commercialization of our product candidates or cease
+operations altogether;
+
+ 
+
+ 
+
+•
+
+ 
+
+seek strategic alliances for our existing product candidates on terms less favorable than might otherwise be
+available; or
+
+ 
+
+ 
+
+•
+
+ 
+
+relinquish, or license on unfavorable terms, our rights to technologies or any future product candidates that we
+otherwise would seek to develop or commercialize ourselves.
+
+If we need to conduct additional fundraising activities and
+we do not raise additional capital in sufficient amounts or on terms acceptable to us, we may be unable to pursue development and commercialization efforts, which will harm our business, operating results and prospects.
+
+Our future funding requirements, both short- and long-term, will depend on many factors, including:
+
+ 
+
+ 
+
+•
+
+ 
+
+the initiation, progress, timing, costs and results of clinical trials of our product candidates;
+
+ 
+
+ 
+
+•
+
+ 
+
+the outcome, timing and cost of seeking and obtaining regulatory approvals from the FDA and comparable foreign
+regulatory authorities, including the potential for such authorities to require that we perform more trials than we currently expect;
+
+ 
+
+ 
+
+•
+
+ 
+
+the cost to establish, maintain, expand and defend the scope of our intellectual property portfolio, including
+the amount and timing of any payments we may be required to make, or that we may receive, in connection with licensing, preparing, filing, prosecuting, defending and enforcing any patents or other intellectual property rights;
+
+ 
+
+ 
+
+•
+
+ 
+
+market acceptance of our product candidates;
+
+ 
+
+ 
+
+•
+
+ 
+
+the cost and timing of selecting, auditing and developing manufacturing capabilities, and potentially validating
+manufacturing sites for commercial-scale manufacturing;
+
+ 
+
+ 
+
+•
+
+ 
+
+the cost and timing for obtaining pricing, and coverage and reimbursement by third-party payors, which may
+require additional trials to address pharmacoeconomic benefit;
+
+ 
+
+6
+
+ 
+
+•
+
+ 
+
+the cost of establishing sales, marketing and distribution capabilities for our product candidates if any
+candidate receives regulatory approval and we determine to commercialize it ourselves;
+
+ 
+
+ 
+
+•
+
+ 
+
+the costs of acquiring, licensing or investing in additional businesses, products, product candidates and
+technologies;
+
+ 
+
+ 
+
+•
+
+ 
+
+the effect of competing technological and market developments; and
+
+ 
+
+ 
+
+•
+
+ 
+
+our need to implement additional internal systems and infrastructure, including financial and reporting systems,
+as we grow our company.
+
+If we cannot expand our operations or otherwise capitalize on our business opportunities
+because we cannot secure sufficient capital, our business, financial condition and results of operations could be materially adversely affected.
+
+ 
+
+7

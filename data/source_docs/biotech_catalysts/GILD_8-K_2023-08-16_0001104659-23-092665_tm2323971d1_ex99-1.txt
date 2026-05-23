@@ -1,0 +1,401 @@
+EX-99.1
+2
+tm2323971d1_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+1
+DRAFT
+Sacituzumab Govitecan + Pembrolizumab in
+1L Metastatic Non-Small Cell Lung Cancer:
+Preliminary Results of the EVOKE-02 Study
+Byoung Chul Cho,1 Manuel Cobo Dols,2 Roxana Reyes Cabanillas,3 David Vicente,4 Jose Fuentes Pradera,5
+Salvatore Grisanti,6 Afshin Eli Gabayan,7 Ki Hyeong Lee,8 Eun Kyung Cho,9 Sabeen Mekan,10 Farnoush Safavi,10
+Nelumka Fernando,10 Michael J. Chisamore,11 Martin Reck12
+1Division of Medical Oncology, Yonsei Cancer Center, Yonsei University College of Medicine, Seoul, Republic of Korea; 2Regional and Virgen de la
+Victoria University Hospitals, IBIMA, Malaga, Spain; 3Hospital Clinic de Barcelona, Barcelona, Spain; 4Hospital Universitario Virgen Macarena,
+Seville, Spain; 5Hospital Universitario Virgen de Valme, Seville, Spain; 6Azienda Ospedaliera Spedali Civili di Brescia, Brescia, Italy; 7Beverly Hills
+Cancer Center, Beverly Hills, CA, USA; 8Chungbuk National University Hospital, Chungbuk, Republic of Korea; 9Gachon University Gil Medical
+Center, Incheon, Republic of Korea; 10Gilead Sciences, Inc., Foster City, CA, USA; 11Merck & Co., Inc., Rahway, NJ, USA; 12Airway Research
+Center North, German Center for Lung Research (DZL), LungenClinic, Grosshansdorf, Germany
+Draft as of August 16, 2023
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+2
+DRAFT
+Introduction
+• PD-(L)1 inhibitor-based regimens have been established as the standard-of-care 1L treatment for
+mNSCLC,1,2 and novel combination therapies are needed to further improve outcomes
+• Sacituzumab govitecan is a Trop-2–directed ADC approved in the United States for the treatment of
+2L+ mTNBC and pretreated HR+/HER2– mBC, and received accelerated approval for 2L mUC3
+• Sacituzumab govitecan has previously demonstrated clinical activity and manageable safety in heavily
+pretreated patients with mNSCLC4
+• EVOKE-02 (NCT05186974) is an ongoing, multicohort phase 2 study of sacituzumab govitecan +
+pembrolizumab ± platinum agent in patients with untreated 1L mNSCLC
+• Here, we report preliminary results of patients treated with sacituzumab govitecan + pembrolizumab in
+Cohorts A and B from the EVOKE-02 study
+1L, first-line; 2L, second-line; 2L+, second-line and beyond; ADC, antibody-drug conjugate; HER2–, human epidermal growth factor receptor 2-negative; HR+, hormonal receptor-positive; mBC, metastatic
+breast cancer; mNSCLC, metastatic non-small cell lung cancer; mTNBC, metastatic triple-negative breast cancer; mUC, metastatic urothelial cancer; PD-(L)1, programmed death (ligand) 1.
+1. Hendriks LE, et al. Ann Oncol. 2023;34:358-376. 2. NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) for Non-Small Cell Lung Cancer V.3.2023. © National Comprehensive Cancer
+Network, Inc. 2023. All rights reserved. Accessed June 15, 2023. 3. TRODELVY® (sacituzumab govitecan-hziy) [prescribing information]. Foster City, CA: Gilead Sciences, Inc.; February 2023.
+4. Heist RS, et al. J Clin Oncol. 2017;35:2790-2797.
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+3
+DRAFT aDose de-escalation safety run-in period to determine the RP2D of SG for Cohorts C and D. bCarboplatin dosed as area under the concentration versus time curve 5. cPer RECIST v1.1.
+ECOG PS, Eastern Cooperative Oncology Group performance status; D, day; DLT, dose-limiting toxicity; DCR, disease control rate; DOR, duration of response; IV, intravenous; NSCLC, non-small
+cell lung cancer; Nsq, nonsquamous; ORR, objective response rate; OS, overall survival; PD-L1, programmed death ligand 1; PD, progressive disease; Pembro, pembrolizumab; PFS, progression-free survival; RECIST v1.1, Response Evaluation Criteria in Solid Tumors version 1.1; RP2D, recommended phase 2 dose; SG, sacituzumab govitecan; Sq, squamous; TPS, tumor proportion score.
+EVOKE-02: An Open-Label, Multicohort Phase 2 Study
+• At data cutoff (16 June 2023), median (range) follow-up for Cohorts A and B was 5.0 (1.7-12.0) and 5.8 (1.0-12.2) months, respectively
+• The preliminary efficacy data reported in this presentation are results by investigator assessment
+Key eligibility criteria
+• Stage IV NSCLC
+• Measurable disease per
+RECIST v1.1
+• No known actionable genomic
+alterations
+• ECOG PS 0-1
+• No prior systemic treatment for
+metastatic NSCLC
+N ≈ 176-224
+Cohort A
+PD-L1 TPS ≥ 50%
+Nsq or Sq
+n ≈ 30
+Cohort B
+PD-L1 TPS < 50%
+Nsq or Sq
+n ≈ 60
+Cohort C
+Any PD-L1 TPS
+Nsq only
+n ≈ 40
+Cohort D
+Any PD-L1 TPS
+Sq only
+n ≈ 40
+Carboplatin
+Safety Run-ina
+Any PD-L1 TPS
+Nsq or Sq
+n ≈ 6-18
+21-day cycles:
+SG 10 mg/kg IV on D1 and D8
+(until PD or unacceptable toxicity) +
+Pembro 200 mg IV on D1
+(up to 35 cycles)
+21-day cycles:
+SG RP2D IV on D1 and D8
+(until PD or unacceptable toxicity) +
+Pembro 200 mg IV on D1
+(up to 35 cycles) +
+Carboplatinb IV on D1
+(up to 4 cycles)
+End points
+Primary
+• ORRc
+• DLTs in safety
+run-in
+Secondary
+• DCR, DOR, and
+PFSc
+• OS
+• Safety
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+4
+DRAFT aDisease stage at diagnosis: Stage I-III (Cohort A, n = 5; Cohort B, n = 5). bThe PD-L1 IHC 22C3 pharmDx assay was required for PD-L1 testing. Local and central tumor tissue testing were allowed.
+ECOG PS, Eastern Cooperative Oncology Group performance status; PD-L1, programmed death ligand 1; Pembro, pembrolizumab; SG, sacituzumab govitecan; TPS, tumor proportion score.
+Patient Baseline Characteristics, Exposure, and Disposition
+Characteristic
+Cohort A
+(PD-L1 TPS ≥ 50%)
+SG + Pembro
+n = 30
+Cohort B
+(PD-L1 TPS < 50%)
+SG + Pembro
+n = 33
+Median age (range), years 67 (47-77) 68 (47-80)
+Male, % 80 79
+Race, %
+Asian 20 15
+Black 7 3
+White 73 82
+ECOG PS 1, % 80 76
+Histology, %
+Nonsquamous 60 61
+Squamous 40 39
+Stage IV disease at diagnosis,a % 80 85
+PD-L1 TPS,b %
+≥ 50% 100 0
+1-49% 0 48
+< 1% 0 52
+Patient exposure and disposition
+Cohort A
+(PD-L1 TPS ≥ 50%)
+SG + Pembro
+n = 30
+Cohort B
+(PD-L1 TPS < 50%)
+SG + Pembro
+n = 33
+Median duration of treatment (range), months
+SG 4.1 (0-11.2+) 4.1 (0-11.9+)
+Pembro 3.6 (0-11.2+) 3.8 (0-11.7+)
+Median number of cycles received (range), cycles
+SG 6 (1-17+) 6 (1-17+)
+Pembro 6 (1-17+) 6 (1-17+)
+Continuing treatment with SG, % 63 39
+Continuing treatment with Pembro, % 63 42
+Discontinued all study treatment, % 37 58
+• Across both cohorts, the most common reason for discontinuation
+of sacituzumab govitecan was progressive disease
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+5
+DRAFT
+Only patients enrolled ≥ 13 weeks prior to the data cutoff date (16 June 2023) were included in the efficacy analysis. aPatients without tumor assessment (Cohort A, n = 1; Cohort B, n = 5). bORR was
+defined as BOR of CR + PR. c
+DCR was defined as BOR of CR + PR + SD ≥ 6 weeks. dEvaluated in patients with a confirmed complete or partial response. eBased on Kaplan-Meier estimates.
+BOR, best overall response; CI, confidence interval; CR, complete response; DCR, disease control rate; DOR, duration of response; INV, investigator assessment; NR, not reached; ORR, objective
+response rate; PD, progressive disease; PD-L1, programmed death ligand 1; Pembro, pembrolizumab; PR, partial response; SD, stable disease; SG, sacituzumab govitecan; TPS, tumor proportion score.
+Efficacy by Investigator Assessment
+Efficacy by INVa
+Cohort A (PD-L1 TPS ≥ 50%)
+SG + Pembro
+n = 29
+Cohort B (PD-L1 TPS < 50%)
+SG + Pembro
+n = 32
+Total
+SG + Pembro
+n = 61
+ORR,b n (%) 20 (69) 14 (44) 34 (56)
+PR, n (%) – confirmed and unconfirmed 20 (69) 14 (44) 34 (56)
+Confirmed PR, n (%) 18 (62) 12 (38) 30 (49)
+SD, n (%) 5 (17) 11 (34) 16 (26)
+PD, n (%) 3 (10) 2 (6) 5 (8)
+DCRc (95% CI), % 86 (68-96) 78 (60-91) 82 (70-91)
+Median DORd,e (95% CI), months NR (5.6-NR) NR (3.5-NR) NR (7.9-NR)
+DOR rate at 6 monthsd,e (95% CI), % 88 (39-98) 88 (39-98) 87 (58-97)
+ORRb (95% CI), % 69 (49-85) 44 (26-62) 56 (42-69)
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+6
+DRAFT
+Only patients enrolled ≥ 13 weeks prior to the data cutoff date (16 June 2023) were included in the efficacy analysis. PD-L1, programmed death ligand 1; TPS, tumor proportion score.
+Waterfall Plot for Change in Target Lesions
+Total
+Best overall response
+Partial response (n = 30)
+Stable disease (n = 20)
+Progressive disease (n = 4)
+Cohort A (PD-L1 TPS ≥ 50%)
+Cohort B (PD-L1 TPS < 50%)
+100
+80
+60
+40
+20
+0
+-20
+-40
+-60
+-80
+-100 Best percent change from baseline
+Participant
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+7
+DRAFT
+Only patients enrolled ≥ 13 weeks prior to the data cutoff date (16 June 2023) were included in the efficacy analysis. PD-L1, programmed death ligand 1; Pembro, pembrolizumab; SG, sacituzumab
+govitecan; TPS, tumor proportion score.
+Depth and Duration of Response
+Cohort A (PD-L1 TPS ≥ 50%)
+SG + Pembro
+Cohort B (PD-L1 TPS < 50%)
+SG + Pembro 100
+Percent change from baseline
+– target lesions
+Weeks
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+-70
+-80
+-90
+-100
+0 6 12 18 24 30 36 42 48 54
+Best overall response
+Partial response (n = 18)
+Stable disease (n = 7)
+Progressive disease (n = 3)
+Last assessment before data cutoff
+100
+Percent change from baseline
+– target lesions
+Weeks
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+-70
+-80
+-90
+-100
+0 6 12 18 24 30 36 42 48 54
+Best overall response
+Partial response (n = 12)
+Stable disease (n = 13)
+Progressive disease (n = 1)
+Last assessment before data cutoff
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+8
+DRAFT
+All patients who received ≥ 1 dose of study treatment were included in the safety analysis. Pembro, pembrolizumab; SG, sacituzumab govitecan; TEAE, treatment-emergent adverse event.
+Safety Summary
+Safety-evaluable patients, n (%)
+Total
+SG + Pembro
+n = 63
+Any-grade TEAEs 63 (100)
+Related to study treatment 57 (90)
+Grade ≥ 3 TEAEs 44 (70)
+Related to study treatment 24 (38)
+Serious TEAEs 34 (54)
+Related to study treatment 9 (14)
+TEAEs leading to treatment discontinuation 11 (18)
+TEAEs leading to discontinuation of SG 9 (14)
+TEAEs leading to discontinuation of Pembro 8 (13)
+TEAEs leading to SG dose reductions 11 (18)
+TEAEs leading to deatha 4 (6)
+Related to study treatment 1 (2)
+aTEAEs leading to death included: malignant lung neoplasm (n = 1), respiratory tract infection (n = 1), sepsis (n = 1), and sudden death (n = 1). The 1 case of sepsis
+leading to death was deemed related to study treatment.
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+9
+DRAFT
+All patients who received ≥ 1 dose of study treatment were included in the safety analysis. aGrade 3 pneumonitis was the highest grade observed to date (n = 2). Pembro, pembrolizumab;
+TEAE, treatment-emergent adverse event.
+• Immune-mediated TEAEs were consistent with the known
+safety profile of Pembro
+5 5 2 2
+3
+2
+2 2 0
+10
+20
+30
+40
+50
+60
+Pneumonitis
+Hyperthyroidism
+Colitis
+Nephritis
+Maculopapular rash
+Hypothyroidism
+Percent of patients (%)
+Immune-mediated TEAEs
+Grade 1-2 Grade ≥ 3
+a
+51
+42
+38 37
+30
+9
+20
+24 22
+17 19 18
+3
+6
+2
+18
+5
+5 2
+0
+10
+20
+30
+40
+50
+60
+Diarrhea
+Anemia
+Asthenia
+Alopecia
+Nausea
+Neutropenia
+Respiratory tract infection
+Constipation
+Decreased appetite
+Dyspnea
+Fatigue
+Mucosal inflammation
+Percent of patients (%)
+Any-grade TEAEs reported in
+≥ 15% of patients
+Grade 1-2 Grade ≥ 3
+• The most common any-grade TEAEs were diarrhea (54%),
+anemia (48%), and asthenia (38%)
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+10
+DRAFT
+1L, first-line; DCR, disease control rate; DOR, duration of response; mNSCLC, metastatic non-small cell lung cancer; ORR, objective response rate; PD-L1, programmed death ligand 1;
+Pembro, pembrolizumab; SG, sacituzumab govitecan; TEAE, treatment-emergent adverse event; TPS, tumor proportion score.
+Conclusions
+• SG + Pembro demonstrated encouraging antitumor activity in patients with 1L mNSCLC across PD-L1 subgroups
+‒ ORR was 69% and DCR was 86% in Cohort A
+‒ ORR was 44% and DCR was 78% in Cohort B
+‒ Median DOR was not reached, and DOR rate at 6 months was 88% in both cohorts
+• The safety profile of SG + Pembro was manageable and consistent with the known safety of each agent
+‒ The most common any-grade TEAEs were diarrhea, anemia, and asthenia
+‒ TEAEs leading to treatment discontinuation were low (18%)
+• These preliminary results warrant further investigation of SG + Pembro for the 1L treatment of mNSCLC
+‒ The ongoing, open-label, global, randomized, phase 3 EVOKE-03 study (NCT05609968) is evaluating SG + Pembro
+versus Pembro monotherapy in patients with untreated 1L mNSCLC with PD-L1 TPS ≥ 50%
+
+Byoung Chul Cho, Yonsei Cancer Center, Republic of Korea
+11
+DRAFT
+Acknowledgments
+• We would like to thank the patients, their caregivers, and families for their participation and commitment
+to clinical research
+• Thank you to the clinical trial investigators and their team members, without whom this work would not
+have been possible
+• This study was sponsored by Gilead Sciences, Inc.
+• This study is in collaboration with Merck Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc.,
+Rahway, NJ, USA
+• Medical writing and editorial support was provided by Andrew Scott, PharmD, of Parexel and funded by
+Gilead Sciences, Inc.

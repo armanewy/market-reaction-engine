@@ -1,0 +1,327 @@
+false
+0000879169
+
+0000879169
+
+2024-05-12
+2024-05-12
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported): 
+May 12, 2024
+
+ 
+
+INCYTE
+CORPORATION 
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+Delaware
+
+(State or Other Jurisdiction of
+
+Incorporation)
+
+ 
+
+001-12400
+
+(Commission File Number)
+
+ 
+
+94-3136539
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+1801 Augustine Cut-Off
+
+ 
+
+ 
+
+Wilmington, DE
+
+ 
+
+19803
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+(302) 498-6700
+
+(Registrant’s telephone number,
+
+including area code)
+
+ 
+
+N/A
+
+(Former name or former address, if changed
+since last report.)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing
+is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+x
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240-13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading symbol(s)
+
+ 
+
+Name of each
+exchange on which registered
+
+Common Stock, $.001 par value per share
+
+ 
+
+INCY
+
+ 
+
+The Nasdaq Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§
+230.405 of this chapter) or Rule 12b–2 of the Securities Exchange Act of 1934 (§ 240.12b–2 of this chapter).
+
+ 
+
+Emerging
+growth company   ¨
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry Into a Material Definitive Agreement.
+
+ 
+
+On
+May 12, 2024, Incyte Corporation (the “Company”) entered into a stock purchase agreement (the “Purchase Agreement”)
+with Julian C. Baker, a member of the Company’s board of directors, Felix J. Baker, and entities affiliated with Julian C. and Felix
+J. Baker, including funds advised by Baker Bros. Advisors LP (collectively, the “Baker Entities”). The Baker Entities, in
+the aggregate, own 36,833,933 shares of the Company’s common stock, representing in the aggregate beneficial ownership of approximately
+16.4% of the Company’s issued and outstanding shares as of May 9, 2024. Under the Purchase Agreement, the Baker Entities have severally
+agreed not to tender or sell any shares in a $1.672 billion modified “Dutch auction” tender offer the Company will commence
+today, May 13, 2024 (the “Offer”) and instead have agreed to sell to the Company, following completion of the Offer, a pro
+rata number of shares based on the number of shares that the Company purchase in the Offer such that the Baker Entities’ aggregate
+percentage ownership in the Company will be substantially equal to the Baker Entities’ current levels (the “Baker Entities
+Purchase”). Specifically, the Baker Entities will sell to the Company a number of shares equal to the total number of shares held
+by the Baker Entities as of May 9, 2024, multiplied by the quotient of the total number of shares acquired by the Company in the Offer
+and the total number of the Company’s outstanding shares as of May 9, 2024, exclusive of shares held by the Baker Entities, at a
+purchase price per share equal to the purchase price paid by the Company in the Offer. The Purchase Agreement also provides that the Company
+shall not reduce the price range or aggregate consideration to be paid in the Offer without the Baker Entities’ prior written consent.
+The Purchase Agreement was approved by the Audit and Finance Committee of the Company’s Board of Directors. The Baker Entities Purchase
+is expected to occur on the 11th business day following the expiration time of the Offer. The closing of the Baker Entities Purchase is
+subject to the completion of the Offer and other customary conditions set forth in the Purchase Agreement. Assuming that the Offer is
+fully subscribed, the aggregate purchase price for the shares purchased pursuant to the Purchase Agreement is anticipated to be approximately
+$328.0 million.
+
+ 
+
+The foregoing description of the Purchase Agreement
+is a summary, does not purport to be complete, and is qualified in its entirety by reference to the full text of the Purchase Agreement,
+a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+ 
+
+On May 13, 2024, the Company issued a press release
+announcing the commencement of the Offer and the Baker Entities Purchase. A copy of the press release is furnished as Exhibit 99.1 to
+this Current Report on Form 8-K.
+
+ 
+
+Item  9.01
+
+Financial Statements and Exhibits.
+
+ 
+
+(d)
+
+Exhibits
+
+ 
+
+10.1
+
+Stock Purchase Agreement, dated as of May 12, 2024, between the Company and the persons listed in Schedule I thereto.
+
+ 
+
+99.1
+
+Press release issued by the Company on May 13, 2024.
+
+ 
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline
+XBRL document).
+
+ 
+
+2
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Dated: May 13, 2024
+
+ 
+
+ 
+
+INCYTE CORPORATION
+
+ 
+
+ 
+
+ 
+
+By:  
+
+/s/ Sheila A. Denton
+
+ 
+
+ 
+
+Sheila A. Denton
+
+ 
+
+ 
+
+Executive Vice President and General Counsel
+
+ 
+
+3

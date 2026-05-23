@@ -1,0 +1,367 @@
+8-K
+
+false 0001818794 0001818794 2024-08-31 2024-08-31
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): August 31, 2024
+
+ 
+
+ 
+
+Dyne Therapeutics, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39509
+
+ 
+
+36-4883909
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+1560 Trapelo Road
+
+ 
+
+ 
+
+Waltham, Massachusetts
+
+ 
+
+ 
+
+02451
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (781) 786-8230
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.0001 par value per share
+
+ 
+
+DYN
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On September 3, 2024, Dyne Therapeutics, Inc. (the “Company”) announced that on August 31, 2024, Jonathan McNeill, M.D., the Company’s Chief Business Officer, and Susanna High, the Company’s Chief Operating Officer, each notified the Company of their intention to resign their employment. Dr. McNeill’s resignation is effective September 3, 2024, and Ms. High’s resignation is effective October 1, 2024.
+
+In connection with their resignations, Dr. McNeill and Ms. High also entered into consulting agreements with the Company under which they each agreed to provide consulting and advisory services to the Company following the effective date of their resignations of employment until December 31, 2024.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On September 3, 2024, the Company issued a press release announcing new clinical data from its ongoing Phase 1/2 DELIVER clinical trial of DYNE-251 in patients with Duchenne muscular dystrophy (“DMD”) who are amenable to exon 51 skipping. A copy of the press release is furnished as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+The information furnished under this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+Leadership Changes
+
+On September 3, 2024, the Company issued a press release announcing the hiring of Doug Kerr as chief medical officer, Johanna Friedl-Naderer as chief commercial officer and Lucia Celona as chief human resources officer and the resignations of Dr. McNeill, Ms. High and Wildon Farwell, the chief medical officer.
+
+New Clinical Data from Phase 1/2 DELIVER Trial of DYNE-251 in DMD
+
+On September 3, 2024, the Company issued a press release announcing new clinical data from its ongoing Phase 1/2 DELIVER clinical trial of DYNE-251 in patients with DMD who are amenable to exon 51 skipping. The Company also provided a safety update for its ongoing Phase 1/2 ACHIEVE clinical trial of DYNE-101 in patients with myotonic dystrophy type 1 (“DM1”).
+
+The assessment of the DELIVER trial evaluating DYNE-251 includes 6-month biomarker and functional data from 8 male participants enrolled in the 20 mg/kg (approximate PMO dose) cohort who were randomized to receive DYNE-251 or placebo once every four weeks and 12-month functional data from 6 participants who were randomized in the 10 mg/kg (approximate PMO dose) cohort. (During the open label extension period, all participants in the 10 mg/kg cohort were dose escalated to 20 mg/kg Q4W regimen.) DYNE-251 demonstrated dose dependent exon skipping and dystrophin expression and improvement in multiple functional endpoints in both cohorts.
+
+Key findings include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Dystrophin expression: DYNE-251 demonstrated the highest level of dystrophin expression for an exon 51 skipping therapy as measured by Western blot. Patients treated with 20 mg/kg of DYNE-251 Q4W had a mean absolute dystrophin expression of 3.71% of normal (unadjusted for muscle content), more than 10-fold higher than the 0.3% reported in a clinical trial of the weekly standard of care, eteplirsen. When adjusting for muscle content, the DYNE-251 treated group reached 8.72% mean absolute dystrophin, which is greater than levels reported by peptide conjugate PMOs in clinical development. However, the DELIVER trial does not compare DYNE-251 to eteplirsen or SRP-5051, and no head-to-head trials have
+
+ 
+
+been conducted comparing DYNE-251 to eteplirsen or SRP-5051. Eteplirsen data and SRP-5051 data may not be directly comparable to the DELIVER data due to differences between the trials in trial protocols, dosing regimens, methodologies for calculating muscle content adjusted dystrophin and patient populations. Accordingly, these cross-trial comparisons may not be reliable.
+
+ 
+
+ 
+
+•
+
+ 
+
+Function: Meaningful improvements in multiple functional endpoints were observed in both the 20 mg/kg and 10 mg/kg DYNE-251 Q4W groups, including North Star Ambulatory Assessment (“NSAA”), Stride Velocity 95th Centile (“SV95C”), 10-Meter Walk/Run Time (“10-MWR”), Time to Rise from Floor. The 10 mg/kg cohort showed continued improvement in all reported measures from 6 months to 12 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+SV95C is a digital objective outcome measure of ambulatory performance in patients’ normal daily environment and is approved as a primary endpoint for DMD clinical trials in Europe. The change from baseline observed in both the 10 mg/kg and 20 mg/kg cohorts of DELIVER met the published minimal clinically important difference (“MCID”) as defined by the European Medicines Agency.
+
+ 
+
+ 
+
+•
+
+ 
+
+Safety and Tolerability: Safety and tolerability data are based on 54 participants enrolled in the DELIVER trial. DYNE-251 demonstrated a favorable safety profile and the majority of treatment emergent adverse events were mild or moderate, as of the safety data cut-off date of August 21, 2024. No related serious treatment emergent adverse events were identified other than in two participants at the 40 mg/kg dose level which events were potentially related to study drug. Both participants have recovered. Approximately 675 doses have been administered to date in the DELIVER trial, representing over 50 patient-years of follow-up.
+
+Key Milestones for DELIVER and ACHIEVE Trials
+
+ 
+
+ 
+
+•
+
+ 
+
+Based on these data and regulatory interactions, the Company is initiating registrational cohorts in the DELIVER trial and plans to provide an update on the path to registration by the end of 2024.
+
+ 
+
+ 
+
+•
+
+ 
+
+The Company is also executing its ongoing Phase 1/2 ACHIEVE clinical trial of DYNE-101 in DM1. The safety profile of DYNE-101 continues to be favorable and includes safety data up to the 6.8 mg/kg Q8W cohort, as of the safety data cut-off date of August 20, 2024. The Company continues to engage with global regulators, including the U.S. Food and Drug Administration, and plans to provide an update on the path to registration for DYNE-101, including additional clinical data, by the end of 2024.
+
+Data Presentation
+
+On September 3, 2024, the Company made available a presentation to discuss the clinical data from the DELIVER clinical trial. A copy of the presentation is filed as Exhibit 99.2 hereto and is incorporated herein by reference.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE platform, the anticipated timelines for reporting additional data from the ACHIEVE and DELIVER clinical trials and initiating registrational cohorts, expectations regarding the timing and outcome of interactions with global regulatory authorities and the availability of accelerated approval pathways for DYNE-101 and DYNE-251, and plans to provide future updates on pipeline programs, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “predict,” “project,” “potential,” “should,” or “would,” or the negative of these terms, or other comparable
+
+terminology are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in these forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in these forward-looking statements as a result of various important factors, including: uncertainties inherent in the identification and development of product candidates, including the initiation and completion of preclinical studies and clinical trials; uncertainties as to the availability and timing of results from preclinical studies and clinical trials; the timing of and the Company’s ability to enroll patients in clinical trials; whether results from preclinical studies and initial data from early clinical trials will be predictive of the final results of the clinical trials or future trials; uncertainties as to the FDA’s and other regulatory authorities’ interpretation of the data from the Company’s clinical trials and acceptance of the Company’s clinical programs and the regulatory approval process; whether the Company’s cash resources will be sufficient to fund the Company’s foreseeable and unforeseeable operating expenses and capital expenditure requirements; as well as the risks and uncertainties identified in the Company’s filings with the Securities and Exchange Commission (“SEC”), including the Company’s most recent Form 10-Q and in subsequent filings the Company may make with the SEC. In addition, the forward-looking statements included in this Current Report on Form 8-K represent the Company’s views as of the date hereof. The Company anticipates that subsequent events and developments will cause its views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date hereof.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits:
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated September 3, 2024.
+
+99.2
+
+  
+
+Presentation, dated September 3, 2024.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+DYNE THERAPEUTICS, INC.
+
+Date: September 3, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ John Cox
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+John Cox
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer

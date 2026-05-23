@@ -1,0 +1,194 @@
+halo-20251105
+FALSE000115903600011590362025-11-052025-11-05
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________________
+
+FORM 8-K
+
+_____________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported):
+
+ 
+
+November 5, 2025
+
+HALOZYME THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+________________________
+
+Commission File Number 001-32335
+
+Delaware
+
+ 
+
+88-0488686
+
+(State or other jurisdiction of incorporation)
+
+ 
+
+(I.R.S. Employer Identification No.)
+
+12390 El Camino Real
+
+ 
+
+92130
+
+San Diego
+
+(Zip Code)
+
+California
+
+(Address of principal executive offices)
+
+ 
+
+(858) 794-8889
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+HALO
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).         
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On November 5, 2025, Halozyme Therapeutics, Inc. (the “Company”), Halozyme, Inc. (“Halozyme”) and certain other subsidiaries of the Company entered into an Amendment No. 3 (the “Amendment”) to the Company’s Credit Agreement, dated as of May 24, 2022 (as previously amended, restated, amended and restated, supplemented or otherwise modified from time to time, the “Credit Agreement”; capitalized terms used but not defined herein shall have the meanings assigned therefor in the Credit Agreement), by and among, inter alios, the Company, Halozyme, the other guarantors party thereto, the lenders party thereto, Bank of America, N.A., as the administrative agent and swing line lender. Pursuant to the Amendment, the Company (a) extended the maturity date of the existing revolving credit facility under the Credit Agreement immediately prior to the effectiveness of the Amendment (the “Existing Revolving Credit Facility” and, as amended and upsized as set forth in clause (b) below, the “Amended Revolving Credit Facility”), and (b) incurred additional revolving credit commitments such that the aggregate amount of commitments under the Amended Revolving Credit Facility equal $750,000,000 in total.
+
+After giving effect to the Amendment, the Amended Revolving Credit Facility will mature on the earlier of (a) November 5, 2030 and (b) the Springing Revolver Maturity Date, unless the Amended Revolving Credit Facility is extended prior to such date in accordance with the Credit Agreement. Borrowings under the Amended Revolving Credit Facility bear interest at a rate equal to an applicable margin plus: (a) the applicable Term SOFR (as defined in the Credit Agreement) rate, or (b) a base rate determined by reference to the highest of (1) the federal funds effective rate plus 0.50%, (2) the Bank of America prime rate, (3) the Term SOFR rate for an interest period of one month plus 1.00%, and (4) 1.00%. The applicable margin for the Amended Revolving Credit Facility ranges, based on the Company’s consolidated total net leverage ratio, from 0.25% to 1.25% in the case of base rate loans and from 1.25% to 2.25% in the case of Term SOFR rate loans.
+
+The Credit Agreement contains an expansion feature, which allows the Company, subject to certain conditions, to establish a term loan facility and/or to increase the aggregate principal amount of the Amended Revolving Credit Facility, provided that certain customary conditions are satisfied, including that the Company’s consolidated secured net leverage ratio shall not exceed 3.50 to 1.00 on a pro forma basis.
+
+The terms of the Amended Revolving Credit Facility include certain affirmative and negative covenants as set forth in the Credit Agreement, that, among other things, may restrict the Company’s ability to: create liens on assets; incur additional indebtedness; make investments; make acquisitions and other fundamental changes; and sell and dispose of property or assets. The Credit Agreement also includes financial covenants requiring the Company to maintain, measured as of the end of each fiscal quarter, a maximum consolidated net leverage ratio of 4.50 to 1.00, and a minimum consolidated interest coverage ratio of 3.00 to 1.00. If the Company consummates a material acquisition the consolidated net leverage ratio covenant will be increased by 0.50 to 1.00 (to a level not to exceed 5.00 to 1.00) for a period of three fiscal quarters following such material acquisition. The Credit Agreement also contains customary affirmative covenants, representations and warranties and events of default.
+
+Except as amended by the Amendment, the terms of the Credit Agreement remain in full force and effect. As of November 5, 2025, after giving effect to the Amendment and the transactions contemplated therein, the Company had $0 of outstanding borrowings under the Credit Agreement.
+
+The foregoing description of the Amendment is not complete and is qualified in its entirety by reference to the Amendment which the Company intends to file as an exhibit to its Annual Report on Form 10-K for the year ended 2025.
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information included in Item 1.01 of this Current Report on Form 8-K is incorporated into this Item 2.03 by reference.
+
+Item 8.01 Other Events.
+
+On November 5, 2025, the Company issued a press release announcing that it proposes to offer, subject to market conditions and other factors, $650.0 million aggregate principal amount of convertible senior notes due 2031 (the “2031 Notes”) and $650.0 million aggregate principal amount of convertible senior notes due 2032 (the “2032 Notes”). The Company also expects to grant a 13-day option to the initial purchasers to purchase up to an additional $100.0 million aggregate principal amount of the 2031 Notes and up to an additional $100.0 million aggregate principal amount of the 2032 Notes.
+
+A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated into this Item 8.01 by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Document Description
+
+99.1
+
+Press release, dated November 5, 2025.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+*Certain schedules omitted pursuant to Item 601(a)(5) of Regulation S-K. Halozyme agrees to furnish supplementally a copy of any omitted schedule to the SEC upon request.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HALOZYME THERAPEUTICS, INC.
+
+  
+
+ 
+
+ 
+
+ 
+
+Date:
+
+November 5, 2025
+
+ 
+
+By:
+
+/s/ Nicole LaBrosse
+
+ 
+
+ 
+
+Name:
+
+Nicole LaBrosse
+
+ 
+
+ 
+
+Title:
+
+Chief Financial Officer

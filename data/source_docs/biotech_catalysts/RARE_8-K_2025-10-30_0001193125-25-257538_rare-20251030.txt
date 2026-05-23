@@ -1,0 +1,237 @@
+8-K
+
+0001515673false00015156732025-10-302025-10-30
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 30, 2025
+
+ 
+
+ 
+
+Ultragenyx Pharmaceutical Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+001-36276
+
+27-2546083
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60 Leveroni Court
+
+ 
+
+Novato, California
+
+ 
+
+94949
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 415 483-8800
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+RARE
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On October 30, 2025, Ultragenyx Pharmaceutical Inc. (the “Company”) issued a press release announcing that the first patient has been dosed in the Aurora study (NCT07157254) evaluating the efficacy and safety of GTX-102 (apazunersen), an investigational antisense oligonucleotide (“ASO”) for Angelman syndrome (“AS”). Data from the Aurora study will expand the population of Angelman patients treated to include both younger and older patients and those with other non-deletion AS genotypes not included in the Company’s Phase 3 Aspire study. The fully enrolled Phase 3 Aspire study (NCT06617429) of GTX-102 is focused on patients aged four to 17 years with a genetically confirmed diagnosis of full maternal UBE3A gene deletion.
+
+The global Aurora study will enroll approximately 60 participants ages one to less than 65 with Angelman syndrome across all genotypes and will include some additional countries or regions that could not be included in the Aspire Phase 3 study. Participants will be assigned to one of four cohorts with corresponding subprotocols:
+
+Cohort
+
+Age (years)
+
+Genotype
+
+Primary Endpoint
+
+A
+
+≥ 1 to < 4
+
+Deletion-type AS
+
+Bayley-4 cognitive raw score
+
+B
+
+≥ 4 to <18
+
+Uniparental paternal disomy (UPD) and imprinting center defect (ICD)
+
+Multi-domain Responder Index (MDRI) response
+
+C
+
+≥ 18 to < 65
+
+All genotypes
+
+MDRI response
+
+D
+
+≥ 4 to < 18
+
+UBE3A gene mutation
+
+MDRI response
+
+Cohorts A, B and C are single-arm only and in Cohort D participants will be randomized 2:1 to a GTX-102 group or a No Treatment group. All cohorts have a 48-week primary efficacy period; the No Treatment group will cross over to treatment receive their first loading dose of GTX-102 at Week 24. Participants from all cohorts have the option to continue treatment in a long-term extension study following their Aurora end of study visit.
+
+In July 2025, enrollment for the global Phase 3 Aspire study was completed ahead of plan due to patient and investigator interest, with 129 participants ages four to 17 with a genetically confirmed diagnosis of full maternal UBE3A gene deletion randomized across 28 global sites. Data from the Aspire study are expected in the second half of 2026.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may be identified by the use of words such as, but not limited to, “anticipates,” “continue,” “will,” or other similar terms or expressions that concern the Company’s expectations, plans and intentions. Forward-looking statements include, without limitation, statements regarding the clinical benefit, tolerability and safety of GTX-102, anticipated timing of data from ongoing GTX-102 studies, anticipated timing for completion of GTX-102 studies, and future clinical and regulatory developments for GTX-102. Such forward-looking statements involve substantial risks and uncertainties that could cause the Company’s clinical development programs, collaboration with third parties, future results, performance or achievements to differ significantly from those expressed or implied by the forward-looking statements. Such risks and uncertainties include, among others, the uncertainty of clinical drug development and unpredictability and lengthy process for obtaining regulatory approvals, the ability of the Company to successfully develop GTX-102, the Company’s ability to achieve its projected development goals in its expected timeframes, the risk that results from earlier studies may not be predictive of future study results, risks related to adverse side effects, risks related to reliance on third party partners to conduct certain activities on the Company’s behalf, smaller than anticipated market opportunities for the Company’s products and product candidates, manufacturing risks, competition from other therapies or products, and other matters that could affect the sufficiency of existing cash, cash equivalents and short-term investments to fund operations, the Company’s future operating results and financial performance, the timing of clinical trial activities and reporting results from same, and the availability or commercial potential of the Company’s products and drug candidates. The Company undertakes no obligation to update or revise any forward-looking statements. For a further description of the risks and uncertainties that could cause actual results to differ from those expressed in these forward-looking statements, as well as risks relating to the business of the Company in general, see the Company's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (SEC) on August 6, 2025, and its subsequent periodic reports filed with the SEC.
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Ultragenyx Pharmaceutical Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+October 30, 2025
+
+By:
+
+/s/ Howard Horn
+
+ 
+
+ 
+
+ 
+
+Howard Horn
+
+Executive Vice President, Chief Financial Officer, Corporate Strategy

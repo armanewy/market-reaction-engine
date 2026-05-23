@@ -1,0 +1,315 @@
+8-K
+
+0001674416false00-000000000016744162025-05-192025-05-19
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 19, 2025
+
+ 
+
+ 
+
+CRISPR THERAPEUTICS AG
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Switzerland
+
+001-37923
+
+Not Applicable
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Baarerstrasse 14
+
+ 
+
+6300 Zug, Switzerland
+
+ 
+
+Not Applicable
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 41 (0)41 561 32 77
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Shares, nominal value CHF 0.03
+
+ 
+
+CRSP
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+Collaboration, Option and License Agreement
+
+On May 19, 2025, CRISPR Therapeutics AG (the “Company”) entered into a Collaboration, Option and License Agreement (the “Agreement”) with Sirius Therapeutics (“Sirius-CY”) and Sirius Therapeutics, Inc. (“Sirius-US” and together with Sirius-CY, “Sirius”), pursuant to which, among other things, (1) Sirius-US and the Company will collaborate on the research, development, manufacture and commercialization and use of certain collaboration products utilizing Sirius’ siRNA technology for targeting Factor XI (collectively, “Collaboration Products”); and (2) Sirius granted to the Company options to exclusively license Sirius siRNA technology to target up to two licensed targets for the research, develop, manufacture and commercialization of licensed products (collectively “Licensed Products”), in exchange for the potential to receive certain option fees, milestone payments and royalties.
+
+Upfront Consideration. In connection with entering into the Agreement, the Company agreed to issue to Sirius-CY an aggregate of (i) approximately $70.0 million of its common shares, and (ii) a cash payment of $25.0 million. In connection with the issuance of the Company's common shares, the Company and Sirius-CY entered into a share issuance agreement (the “Share Issuance Agreement”) relating to the issuance of 1,842,105 common shares, nominal value CHF 0.03 per share (the “Shares”). The Shares will be issued pursuant to the Company’s shelf registration statement on Form S-3 ASR (File No. 333-281262) filed by the Company with the U.S. Securities and Exchange Commission on August 5, 2024 at an issue price of $38.00 per share within the time period set forth in the Share Issuance Agreement. The Shares will be subject to a customary lock-up.
+
+Governance. The Company and Sirius will establish a joint steering committee (“JSC”) to provide high-level oversight, decision-making and periodic updates regarding activities under the Agreement, including formation of additional committees, as applicable. The JSC will be comprised of an equal number of representatives from each of the Company and Sirius and meet at least quarterly to review the progress of collaboration program activities and oversee the research program for licensed products. The JSC will endeavor to make all decisions by consensus. In the event the JSC is unable to reach consensus, the Company has final decision-making authority on certain matters, including all matters related to Licensed Products after option exercise.
+
+Termination Generally. Either party can terminate the Agreement upon the other party’s material breach, subject to specified notice and cure provisions, or upon the insolvency of the other party. To the extent permissible by applicable law, Sirius may also terminate the Agreement in the event the Company commences or participates in any action or proceeding challenging the validity or enforceability of any patent that is licensed to Company pursuant to the Agreement. The Company also has the right to terminate the Agreement with respect to a Licensed Product, on a product-by-product basis, for convenience at any time upon 90 days’ written notice prior to first commercial sale of any Licensed Product and upon 180 days’ notice after first commercial sales of a Licensed Product.
+
+Absent early termination or opt-out (and subject to the additional rights in lieu of termination described below), the Agreement will continue, (a) with respect to Collaboration Products, until the date on which such product is no longer commercialized, on a country-by-country and product-by-product basis; (b) with respect to Licensed Products, until expiration of all payment obligations under the Agreement, on a country-by-country and product-by-product basis.
+
+Collaboration Products
+
+With respect to Collaboration Products, the Agreement includes, among other things, provisions relating to the following:
+
+Financial Terms. With respect to Collaboration Products, the Company and Sirius will equally share all development and commercialization costs. For the first collaboration product candidate successfully developed, the Company would be the lead party responsible for commercialization efforts in the United States and Sirius-US would be the lead party responsible for commercialization efforts in Greater China. The parties will determine the lead party responsible for commercialization in the rest of the world at a future date. The net profits and net losses, as applicable, incurred under the Agreement with respect to all Collaboration Products shall be shared equally between the Company and Sirius.
+
+In addition, the Company will pay Sirius future development and regulatory milestones of up to an aggregate of $87.5 million one time regardless of the number of Collaboration Products that achieve the milestones, and, at the Company’s sole election, can be paid in cash, common shares of the Company or a combination thereof.
+
+Exclusivity. Under the Agreement, from the effective date of the Agreement and for so long as Collaboration Products are commercialized, neither party nor any of its affiliates may, alone or in conjunction with a third party, engage in activities to advance any siRNA-based pharmaceutical product, medical therapy, treatment, preparation, substance or formulation targeting factor XI or activities in a specified field.
+
+Termination. If circumstances arise pursuant to which a party would have the right to terminate the Agreement with
+
+ 
+
+ 
+
+respect to a Collaboration Product for any reason, such party may elect to keep the Agreement in effect and cause such other party to be treated as if it had exercised its opt-out rights with respect to the products associated with such uncured material breach or other action leading to the termination right and, if there was an uncured material breach, the milestones and royalties payable to the breaching party would be reduced by a specified percentage and the breaching party may no longer participate in the JSC or any other committee, subcommittee or working group with respect to the collaboration products program.
+
+Opt-Out Rights. Either party may opt out of the development of a Collaboration Product under the Agreement after the later of a period of time or a predetermined point in the development of such Collaboration Product, on a product-by-product basis. In the event of such opt-out, the party opting-out will no longer share in the net profits and net losses associated with such Collaboration Product and, instead, the opting-out party will be entitled to mid-single to low-double digit percentage tiered royalties on the net sales of such product, if commercialized. In addition, if the opting-out party is Sirius, Sirius will be entitled to certain milestone payments up to an aggregate of $340.0 million. If the opting-out Party is the Company, depending on the timing of the opt-out, the Company will be entitled to certain milestone payments up to an aggregate of $340.0 million, and if the opt-out is prior to the first commercial sale of the opt-out product, the opt-out milestone payments will be capped at a certain percentage of the Company’s cumulative development costs for such opt-out product.
+
+Licensed Products
+
+Under the Agreement, the Company has options to exclusively license Sirius siRNA technology to target up to two licensed targets from a list of seven reserved targets for the research, develop, manufacture and commercialization of Licensed Products. Each option is exercisable during a specified exercise period defined by future events for each such licensed target. If the Company elects to exercise its option to a licensed target to research, develop, manufacture and commercialize Licensed Products, the Company will make a one-time $10.0 million payment per option (each, an “Option Payment”) to Sirius, in cash, common shares of the Company or a combination thereof. The Option Payment is payable up to two (2) times.
+
+Financial Terms. The Company will pay Sirius certain specified future development, regulatory and sales milestones of up to an aggregate of $300.0 million for the first Licensed Product relating to each licensed target, as well as tiered royalty payments in the mid-single digits to low double digits range on future sales of a commercialized Licensed Product. The royalty payments are subject to reduction under certain specified conditions set forth in the Agreement. In addition, at the Company’s sole election, certain development and regulatory milestones may be paid in cash, common shares of the Company or a combination thereof. The Company is solely responsible for all research, development, manufacturing and global commercialization activities and associated costs for Licensed Products, as well as all associated costs related to Sirius activities set forth in any applicable research plan relating thereto.
+
+Exclusivity. Under the Agreement, Sirius has agreed to certain exclusivity obligations with respect to siRNA-based products targeting reserved targets or licensed targets. Upon expiration of the nomination period, the reserved targets that are not licensed targets by the Company will no longer be subject to the exclusivity obligations.
+
+Rights In-lieu of Termination. If circumstances arise pursuant to which the Company would have the right to terminate the Agreement with respect to Licensed Products for any reason (except termination by the Company for convenience), the Company may elect to keep the Agreement in effect and all amounts due under the Agreement with respect to Licensed Products on or after the date of the applicable material breach would be reduced by a specified percentage.
+
+The foregoing description of the Agreement is only a brief description of the terms of such agreement, does not purport to be a complete description of the rights and obligations of the parties thereunder, and is qualified in its entirety by such agreement, which will be filed with the Securities and Exchange Commission as an exhibit to the Company’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2025, if not earlier.
+
+The foregoing description of the Share Issuance Agreement is only a brief description of the terms of such agreement, does not purport to be a complete description of the rights and obligations of the parties thereunder, and is qualified in its entirety by such agreement, the form of which is filed as Exhibit 10.1 to this Current Report on Form 8-K. A copy of the opinion of Walder Wyss AG relating to the legality of the issuance of the Shares is filed as Exhibit 5.1 to this Current Report on Form 8-K.
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On May 19, 2025, the Company issued a press release announcing, among other things, the Agreement with Sirius, the Company’s and Sirius’ plans to co-develop and co-commercialize SRSD107 pursuant to the Agreement and highlighting the results of Phase 1 clinical trials of SRSD107. SRSD107 is a next generation, long-acting siRNA designed to selectively inhibit human coagulation factor XI (“FXI”), a key driver of pathological thrombosis with minimal impact on normal hemostasis. By targeting FXI, SRSD107 aims to reduce thrombotic events while minimizing the risk of bleeding – representing a differentiated approach compared to Factor Xa inhibitors. In addition, SRSD107 may offer the potential for reversibility not observed with other anti-Factor XI modalities. The addressable population for SRSD107 includes patients with atrial fibrillation, venous thromboembolism, cancer-associated thrombosis, chronic Coronary Artery Disease, chronic Peripheral Vascular Disease, end-stage renal disease requiring hemodialysis, and patients undergoing major orthopedic surgery, where bleeding risk limits existing therapies.
+
+Two Phase 1 clinical trials have been completed for SRSD107, and single doses of SRSD107 have been well tolerated. SRSD107 demonstrated robust pharmacodynamic effects, including reductions of over 93% in FXI levels and FXI activity, along with more than a twofold increase in activated partial thromboplastin time relative to baseline. These effects were sustained, with responses maintained for up to six months post-dosing. SRSD107 has the potential to be a best-in-class FXI inhibitor, showing deep reductions in FXI via semi-annual subcutaneous injection. Results from the Phase 1 clinical trials were presented at both the 2025 Annual Scientific Sessions of the American College of Cardiology and the 2024 Annual Meeting of the American Society of Hematology.
+
+Figure 1. SRSD107 Phase 1 Clinical Results: Sustained, dose-dependent pharmacodynamic response to therapy
+
+A Phase 2 clinical trial of SRSD107 is being initiated to evaluate the safety and efficacy of SRSD107 for the prevention of venous thromboembolism in patients undergoing total knee arthroplasty. The clinical trial aims to confirm the anticoagulant benefits of SRSD107 and to inform dose selection for future pivotal trials.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits:
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+5.1*
+
+ 
+
+Opinion of Walder Wyss AG
+
+ 
+
+ 
+
+ 
+
+10.1*†
+
+ 
+
+Form of Share Issuance Agreement
+
+ 
+
+ 
+
+ 
+
+23.1
+
+ 
+
+Consent of Walder Wyss (included in Exhibit 5.1)
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+* Filed herewith.
+
+† Certain portions of this exhibit have been omitted because they are not material and the registrant customarily and actually treats that information as private or confidential.
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CRISPR Therapeutics AG
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+ May 19, 2025
+
+By:
+
+/s/ Samarth Kulkarni
+
+ 
+
+ 
+
+ 
+
+Samarth Kulkarni, Ph.D.
+
+Chief Executive Officer

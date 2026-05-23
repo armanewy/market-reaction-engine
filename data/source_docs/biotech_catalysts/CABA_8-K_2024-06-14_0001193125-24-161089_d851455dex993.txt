@@ -1,0 +1,269 @@
+EX-99.3
+4
+d851455dex993.htm
+EX-99.3
+
+EX-99.3
+
+IMMUNE Reset: The potential of car t
+cell therapy to transform the treatment of patients with autoimmune disease Exhibit 99.3
+
+Symposium Speakers Drs Georg Schett
+and Carl June are members of Cabaletta Bio’s Scientific Advisory Board. David J. Chang, MD, MPH, FACR Chief Medical Oﬃcer Cabaletta Bio Philadelphia, PA Carl H. June, MD Director of the Center for Cellular Immunotherapies Penn Medicine
+Philadelphia, PA Georg Schett, MD Vice President Research Friedrich-Alexander Universität [FAU] Erlangen-Nürnberg Erlangen, Germany
+
+8:15 am-8:20 am 8:20 am-8:35 am 8:35
+am-8:50 am 8:50 am-9:15 am 9:15 am-9:30 am Welcome and introductions David J. Chang, MD, MPH, FACR Evolving the potential of chimeric antigen receptor (CAR) T cell therapies to autoimmunity Carl H. June, MD Resetting the immune system of patients
+with autoimmune disease Georg Schett, MD Unlocking the potential of CD19-CAR T cell therapy in myositis and lupus David J. Chang, MD, MPH, FACR Agenda Questions and answers
+
+Learning Objectives Learn about the
+history of CAR T cell therapies in oncology and their potential in autoimmunity Review the role of B cells in autoimmune disease and the potential for CD19-CAR T cell therapy to transform treatment Understand the potential of CD19-CAR T cell therapy
+to reset the immune system in myositis and lupus
+
+Evolving the Potential of Chimeric
+Antigen Receptor (CAR) T Cell Therapies to Autoimmunity
+
+Engineered T cells that combine the
+targeting ability of antibodies with the cell-killing machinery of T cells What Are Chimeric Antigen Receptor (CAR) T Cells? CD, cluster of differentiation; HLA, human leukocyte antigen. June CH, Sadelain M. N Engl J Med. 2018;379;64-73. T CELL
+RECEPTOR CHIMERIC ANTIGEN RECEPTOR Target cell T cell T cell receptor Target antigen CD3 CD3 Target antigen Chimeric antigen receptor Targeting domain (antibody fragment) 4-1BB or CD28 (costimulatory domain) Transmembrane domain CD3ζ Target
+cell T cell HLA Image adapted from June CH and Sadelain M. 2018. Transmembrane domain
+
+Personalized Manufacturing of CAR T
+Cells C&EN Oncology. Accessed June 10, 2024. https://cen.acs.org/pharmaceuticals/oncology/Controlling-CAR-T-scientists-plan/96/i19. Image adapted from C&EN Oncology 2018. T cell source: A patient’s own T cells 1 Leukapheresis: T cells
+collected from blood 2 Viral vector T cell Reprogramming: Viral vectors deliver gene encoding CAR 3 CAR T treatment: CAR T cells are infused intravenously 6 Preparation: Standard lymphodepleting preconditioning regimen 5 Preconditioning CAR T cell
+Proliferation: CAR T cells expanded in a bioreactor 4
+
+Personalized cell therapy product that
+behaves as a ‘living drug’ by fully eliminating target cells in the body1 Considerations and Efficacy Outcomes of CAR T in Cancer FDA, US Food and Drug Administration. 1. Holzinger A, Abken H. Pharmacology. 2022;107(9-10):446-463. 2.
+Pietrobon V, et al. Int J Mol Sci. 2021;22(19):10828. 3. Maude SL, et al. N Engl J Med. 2018;378(5):439-448. 4. Schuster SJ, et al. N Engl J Med. 2019;380(1):45-56. 5. Locke FL, et al. Lancet Oncol. 2019;20(1):31-42. 6. Abramson JS, et al. Lancet.
+2020;396(10254):839-852. 7. Wang M, et al. N Engl J Med. 2020;382(14):1331-1342. 8. Schuster SJ, et al. Lancet Oncol. 2021;22(10):1403-1415. 9. Neelapu SS, et al. Blood. 2023;141(19):2307-2315. COMPLETE remission rate: 40%-67%3-7 2017 Kymriah
+(tisagenlecleucel) 4-1BB CD19-CAR T cells have been FDA approved for lasting remission of B cell cancers1 CAR T is a ‘living drug’1 Engrafts & expands in the body Penetrates across tissues Activated by target cells1 Preconditioning
+key in oncology2 Eliminates cytokine sinks Increases CAR T expansion, persistence & activity 2017 Yescarta (axicabtagene ciloleucel) CD28 2020 Tecartus (brexucabtagene autoleucel) CD28 2021 Breyanzi (lisocabtagene maraleucel) 4-1BB LONG-TERM
+remission rate: 30%-59%6-9
+
+Familiarity with CAR T-associated AEs
+has increased in oncology, enabling potential outpatient administration Common Adverse Events Associated With CAR T Cell Therapy AE, adverse event; BiPAP, bilevel positive airway pressure; CPAP, continuous positive airway pressure; CRS, cytokine
+release syndrome; ICANS, immune effector cell-associated neurotoxicity syndrome; ICE, immune effector cell encephalopathy; ICP, intracranial pressure. Zhang Y, et al. J Clin Med. 2023;12(19):6124. Grade 1 Grade 2 Grade 3 Grade 4 ICE SCORE 7-9 3-6
+0-2 Unarousable/unable to perform ICE DEPRESSED LEVEL OF CONSCIOUSNESS Awakens spontaneously Awakens to voice Awakens only to tactile stimulus Unarousable or requires vigorous tactile stimuli to arouse or coma SEIZURE None None Any clinical seizure
+that resolves rapidly or nonconvulsive seizure that resolves with intervention Life-threatening prolonged seizure (>5 min) or repetitive clinical or electrical seizures with no return to baseline in between ELEVATED ICP/CEREBRAL EDEMA None None
+Focal/local edema on neuroimaging Diffuse cerebral edema on neuroimaging; decerebrate or decorticate posturing; or cranial nerve VI palsy; papilledema; or Cushing’s triad MOTOR FINDINGS None None None Deep focal motor weakness such as
+hemiparesis or paraparesis Diagram adapted from Zhang Y, et al. 2023. CRS (cytokine release syndrome) ICANS (immune effector cell-associated neurotoxicity syndrome) Examples of standard therapies for CRS and ICANS Corticosteroids Tocilizumab
+Supportive care Temperature ≥38°C FEVER with No vasopressors Vasopressor +/- vasopressin HYPOTENSION Multiple vasopressors and/or Low-flow nasal cannula or blow-by High-flow nasal cannula face mask, nonrebreather mask, or Venturi mask
+HYPOXIA Positive pressure (CPAP, BiPAP)
+
+Potential Adverse Events After CAR
+T Cell Therapy in Cancer 1. Bonifant CL, et al. Mol Ther Oncolytics. 2016;3:16011. 2. Verdun N, Marks P. N Eng J Med. 2024;390(7):584-586. 3. Adkins S. J Adv Pract Oncol. 2019;10(suppl 3):21-28. 4. FDA. Accessed June 10, 2024.
+https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-requires-boxed-warning-t-cell-malignancies-following-treatment-bcma-directed-or-cd19-directed. 5. Wu L. Accessed June 10, 2024.
+https://endpts.com/jpm24-fdas-peter-marks-says-some-secondary-cancer-cases-after-car-t-therapy-may-be-causal-but-benefits-still-outweigh-risks/. 6. Expediting the Development of Cell and Gene Therapy. Accessed June 10, 2024.
+https://www.youtube.com/watch?v=jt3CNgsCXAk. CBER, Center for Biologics Evaluation and Research. Immune response to recombinant (eg, murine) protein Secondary malignancies In November 2023, the FDA reported identifying 22 cases of T cell cancers
+that occurred among the 34,000 patients who previously received treatment with CAR T products2 In April 2024, the FDA required approved CAR T products (CD19 and BCMA targeted) to add a boxed warning for T cell malignancy when used in patients
+treated for hematologic malignancies4 In January 2024, the Director of FDA’s CBER suggested the risk:benefit profile of CAR T is not in question in oncology or in moving forward development programs in autoimmune diseases5,6 Image adapted from
+Bonifant CL, et al. 2016,1 Verdun N and Marks P. 2024,2 Adkins S, et al. 2019.3 Secondary malignancies Insertional oncogenesis Hypogamm. & cytopenias (incl. neutropenia), increasing risk of infection
+
+Product in lymphoma studya Costim
+domain CRS ICANS Requiring tocilizumab Requiring steroids All Gr Gr ≥3 All Gr Gr ≥3 Axicabtagene ciloleucel4 CD28 93% 13% 64% 28% 43% 27% Brexucabtagene autoleucel5 CD28 91% 15% 63% 31% 59% 22% Tisagenlecleucel6 4-1BB 58% 22% 21% 12% 14%
+10% Lisocabtagene maraleucel7 4-1BB 42% 2% 30% 10% 18% 10% A human CD19 binder and 4-1BB costimulatory domain may be ideal for a CD19-CAR T construct Differences in CD19-CAR T Constructs aSimilar safety outcomes comparing 4-1BB and CD28
+costimulatory domains were also demonstrated in patients with B-ALL.8,9 B-ALL, B cell acute lymphoblastic leukemia; Costim, costimulatory. Gr, grade. 1. June CH, Sadelain M. N Engl J Med. 2018;379;64-73. 2. Brekke OH, Sandlie I. Nat Rev Drug Discov.
+2003;2(1):52-62. 3. Cappell KM, Kochenderfer JN. Nat Rev Clin Oncol. 2021;18(11):715-727. 4. Neelapu SS, et al. N Engl J Med. 2017;377(26):2531-2544. 5. Wang M, et al. N Engl J Med. 2020;382(14):1331-1342. 6. Schuster SJ, et al. N Engl J Med.
+2019;380(1):45-56. 7. Abramson JS, et al. Lancet. 2020;396(10254):839-852. 8. Zhao X, et al. Mol Ther Oncolytics. 2020;18:272-281. 9. Wu L, et al. Cancers (Basel). 2023;15(10):2767. In oncology, a 4-1BB costimulatory domain is associated with a
+reduced incidence and severity of CRS and ICANS events6,7 Chimeric Humanized Fully human Approved products (FMC63) Candidates under development with potentially lower risk of immune responses Sources of CAR constructs IMMUNOGENICITY2 Image adapted
+from June CH and Sadelain M. 2018.1 Image adapted from Brekke OH and Inger Sandlie. 2003.2
+
+Significant experience with CAR T
+in B cell cancers provided the foundation for autoimmune application Success of CAR T in Oncology Established Over Decades 1. Kuwana Y, et al. Biochem Biophys Res Commun. 1987;149(3):960-968. 2. Moritz D, et al. Proc Natl Acad Sci USA.
+1994;91:4318-4322. 3. Roberts MR, et al. Blood. 1994;84(9):2878-2889. 4. Krause A, et al. J Exp Med. 1998;188:619-626. 5. Brentjens RJ, et al. Nat Med. 2003;101(4):1637-1644. 6. Imai C, et al. Leukemia. 2004;18:676-684. 7. O’Leary MC, et al.
+Clin Cancer Res. 2019;25(4):1142-146. 8. Mougiakakos D, et al. N Engl J Med. 2021;385(6):567-569. 9. Krishnamurthy A, et al. Wells Fargo, November 2017. 10. Clinicaltrials.gov. Accessed June 10, 2024.
+https://clinicaltrials.gov/search?intr=chimeric%20antigen%20receptor. Multiple types of cell therapies are in phase 1/2 studies, with the majority being autologous CAR T cell therapy9 Over 800 ongoing CAR T trials, with the majority in the US and
+China10 2017 First CAR T cell therapy approved by FDA (tisagenlecleucel)7 1998 First CD28-costimulated CAR reported4 1994 First report of CAR T cells killing tumor cells in mice2 1994 First clinical trial of CAR T for HIV initiated3 2003 First
+anti-CD19 CAR reported5 2004 In an endeavor to improve safety, first 4-1BB-costimulated CAR reported6 2021 First report of CAR T cell therapy for autoimmune disease8 1987 First CAR design1 Experience in oncology has established foundation for
+application in autoimmune disease
+
+Factors that predict adverse events
+and relapse are minimized in autoimmune diseases1 Considerations for CAR T Therapy in Cancer and Autoimmunity TME, tumor microenvironment. 1. Baker DJ, et al. Nature. 2023;619(7971):707-715. 2. Sterner RC, Sterner RM. Blood Cancer J. 2021;11(4):69.
+3. Breyanzi. Prescribing information; 2024. 4. Yescarta. Prescribing information; 2024. 5. Kymriah. Prescribing information; 2022. 6. Müller F, et al. N Engl J Med. 2024;390(8):687-700. 7. Sender, R et al. PNAS 2023 e2308511120. Diseased cell
+Healthy cells CAR T cell Necrotic cell TME Fibroblast Treg Cancer cells Risk of side effects related to target B cell burden1,2 Risk of treatment failure due to mutational load (antigen escape)1,2 Risk of permanent B cell aplasia due to prior bone
+marrow damage2 Risk of environmental barriers for CAR T cell infiltration Safety, including CRS, ICANS, and prolonged B cell aplasia3-5 High risk1-5 Anticipated risk of suboptimal outcomes Images adapted from Baker DJ, et al. 2023.1 Lower Risk1,6
+Cancer Autoimmune disease Healthy B cells 300 billion cells7 Cancer (DLBCL) ~10 trillion cells
+
+Key Takeaways CAR T cells are
+engineered T cells that are designed to combine the targeting ability of antibodies with the cell-killing machinery of T cells1 Key learnings from oncology have the potential to accelerate the adoption of CAR T cell therapy for autoimmune disease2,3
+Differences in CD19-CAR T costimulatory domains seem to impact safety in cancer3-5 Many factors that drive adverse events & disease relapse post-CAR T are not at play in autoimmune disease driven by B cells3,6 Potentially lower risk of CRS &
+ICANS due to lower B cell burden Evolving the Potential of CAR T Cell Therapies to Autoimmunity 1. Holzinger A, Abken H. Pharmacology. 2022;107(9-10):446-463. 2. Baker DJ, et al. Nature. 2023;619(7971):707-715. 3. Cappell KM, Kochenderfer JN. Nat
+Rev Clin Oncol. 2021;18(11):715-727. 4. Davey AS, et al. Cancers. 2021;13(38). 5. Zhao X, et al. Molecular Therapy Oncolytics. 2020;18. 6. Müller F, et al. N Engl J Med. 2024;390(8):687-700.
+
+Resetting the Immune System of
+Patients With Autoimmune Disease
+
+B Cells Play a Central Role in the
+Pathogenesis of Autoimmune Diseases B cells contribute to autoimmunity through a variety of mechanisms1,2 Autoantibody production Antigen presentation T cell co-stimulation Production of proinflammatory cytokines While circulating B cells are
+sensitive to depletion, tissue-resident B cells easily escape depletion2 BCR, B cell receptor; MHC, major histocompatibility complex. 1. Barnas JL, et al. Curr Opin Immunol. 2019;61:92-99. 2. Rubin SJS, et al. Nat Rev Rheumatol. 2019;15(5):303-315.
+Images adapted from Rubin SJS, et al. 20192 Autoantibodies BCR Autoantigen Autoreactive B cell Cytokines MHC class II TCR Autoreactive T cell Autoantibody production Cytokine production Antigen presentation CD80 or CD86 CD28
+Co-stimulation
+
+Current Therapies for B Cell Driven
+Autoimmune Disease Rarely Achieve Drug-Free Remission 1. Schett G, et a. Ann Rheum Dis. 2024. PMID: 38777374. 2. Bucci, L. et al. Nat Med. 2024; PMID 38671240. Current challenges Despite good peripheral B cell depletion, bispecific and
+antibody-based B cell targeting therapies rarely induce stable drug-free remission in autoimmune disease Shallow B cell depletion that does not tackle resident autoimmune B cell clones may be the reason for this limitation Goals of newer therapies
+Deeper B cell depletion with a ‘living drug’ to allow targeting resident autoimmune B cell clones, enabling potential immune tolerance such that long-term drug therapy is not needed Reversibility of B cell depletion enabling a good
+safety profile B cells Autoreactive B cells CD19+ plasmablasts CD19- plasma cells CAR T cell mediated B cell depletion Monoclonal antibody Mediated B cell depletion
+
+Emerging Academic Evidence of
+CD19-CAR T in Autoimmunity CK: creatinine kinase; Flu/Cy, fludarabine/cyclophosphamide; LN, lupus nephritis; SLE, systemic lupus erythematosus; SLEDAI-2K, systemic lupus erythematosus disease activity index 2K. Müller F, et al. N Engl J Med.
+2024;390(8):687-700. 15 patients with refractory systemic autoimmune disease Age range of 18 to 60 years; 60% female All patients with disease duration >12 months All patients had inadequate response to ≥2 lines of therapy ~50% of patients
+received B cell depletion therapy Muscle and lung involvement median CK of 4298 U/L Myositis (n=3) Median SLEDAI-2K score of 13; all had LN class III or IV All had active skin and lung involvement SSc (n=4) All patients received a single dose of
+1x106/kg CD19-CAR T cells following Flu/Cy preconditioning SLE (n=8)
+
+Preconditioning results in
+transient WBC decrease, though B cell depletion is sustained CD19-CAR T Cells Can Result in Targeted B Cell Depletion WBC, white blood cell. Müller F, et al. N Engl J Med. 2024;390(8):687-700. Circulating CAR T cell numbers after CD19-CAR T
+treatment (N=15) CD19-CAR T cells Circulating CD19+ B cells within first 10 days after treatment (N=15) Circulating total WBCs within first 30 days after treatment (N=15) CD19+ B cells WBC WBC/µL
+
+Reconstitution With Naïve B
+Cells Within 7 Months1 BL, baseline; FU, follow-up; Ig, immunoglobulin; IIM, idiopathic inflammatory myopathy; RC, reconstitution. 1. Müller F, et al. N Engl J Med. 2024;390(8):687-700. 2. Mackensen, Andreas A, et al. Nature Medicine.
+2022;28(10):1-9. B cell reconstitution Circulating B cell numbers after CD19-CAR T treatment (N=15)1 Changes in B cell subtype numbers from baseline to B cell reconstitution (n=5)2 Distribution of heavy chain in the BCRs at baseline and after B cell
+reconstitution by mRNA sequencing (n=5)2
+
+Patients maintained off
+immunosuppressive therapies, suggesting an ‘immune reset’ is possible Long-term Efficacy Outcomes With CD19-CAR T Cells Figures adapted from Müller F, et al. 2024. C3, complement component 3; EUSTAR-AI, European Scleroderma Trials
+and Research Group activity index; dsDNA, double stranded DNA; mRSS, modified Rodnan skin score; TIS, total improvement score. Müller F, et al. N Engl J Med. 2024;390(8):687-700. Myositis (n=3) SLE (n=8) Achieved initial responses by 3 months
+Decreased disease activity by 6 months Achieved response by 6 months Myositis (n=3, ASyS) SLE (n=8) SSc (n=4)
+
+Preliminary academic data suggests
+potential slower IMNM improvement due to muscle-predominant disease1,2 Initial HMGCR IMNM Patient Treated With CD19-CAR T1 MMT8 Units 120 100 80 60 0 50 100 150 81-year-old woman with HMGCR IMNM Myositis subtype involving primarily muscle
+Manifestations may affect response kinetics Treated with CD19-CAR T in CASTLE study Potential for disease-specific timing & magnitude of response to CD19-CAR T 1. Patient treated in CASTLE Phase I/II basket study. CK and MMT8 data as presented
+at the Global Conference on Myositis in March 2024 and TIS data at Week 12 and 24 provided via personal communication with Dr. Georg Schett. 2. Müller F, et al. N Engl J Med. 2024;390(8):687-700. Disease activity & improvement measures U/L
+2,000 1,500 1,000 500 0 0 50 100 150 200 CK 200 Week 24 Baseline Week 12 Major 100 80 Minor Moderate 60 40 20 None TIS IMNM patient in CASTLE basket study1 ASyS patients treated at Univ. Hospital Erlangen via German expanded access program2 Score
+(points)
+
+AE profile consisted primarily of
+fever in 4-1BB costimulatory domain-containing CD19-CAR T Safety & Tolerability of CD19-CAR T in Autoimmunity1 a2 patients (1 SLE, 1 myositis) had preexisting hypogammaglobulinemia due to previous rituximab exposure b1 patient had preexisting
+hypogammaglobulinemia. cPneumonia occurred in an SLE patient 7 weeks after CAR T cell therapy. ILD, interstitial lung disease; IVIG, intravenous immunoglobulin; URTI, upper respiratory tract infection. 1. Müller F, et al. N Engl J Med.
+2024;390(8):687-700. Hypogammaglobulinemia 5 patients developed hypogamm.a 2 patients required IVIg supplementationb Vaccine titers remained stable Cytokine release syndrome 67% (10 of 15 patients) with only grade 1 (fever) 1 patient with myositis
+with grade 2 Preexisting ILD with increased oxygen requirement for 1 day while febrile 6 patients received tocilizumab Infection 1 hospitalization due to pneumoniac All other infections were mild and mostly manifested as URTIs (including COVID) 2
+events of herpes zoster reactivation ICANS Possible grade 1 ICANS in 1 ASyS patient Mild dizziness at 2w post-infusion Resolved following oral steroids
+
+Key Takeaways Academic Data
+Demonstrates Drug-free and Durable Responses in Patients With Myositis, SLE and SSc 1. Müller F, et al. N Engl J Med. 2024;390(8):687-700. 2. Mackensen, Andreas A, et al. Nat Med. 2022;28(10):1-9. Case series provides preliminary support for
+the feasibility, efficacy and safety of a 4-1BB CD19-CAR T in patients with autoimmune disease1,2 Durable disease- and drug-free remission Acute adverse events post-CAR T consisted primarily of fever Repopulation with naïve B cells within 7
+months Most infections were mild in severity, with only one case of pneumonia requiring hospitalization
+
+Unlocking the Potential of CD19-CAR
+T Cell Therapy in Myositis and Lupus
+
+Designed to replicate and expand on
+the academic clinical data that generated interest in the field REstoring SElf-Tolerance (RESET™) Development Program PK, pharmacokinetics; PD, pharmacodynamics, SAEs: serious adverse events 1.Peng, BinghaoJ, et al. Presented at: American
+Society Gene and Cell Therapy 26th Annual Meeting; 2023 May 19; Los Angeles, CA. 2. Dai, Zhenyu, et al. Journal of Cellular Physiology. 2021;236(8): 5832-5847. 3. Evaluated as part of CT120, a dual-CD19xCD22 CAR T product candidate under development
+by Nanjing IASO Biotherapeutics, Co., Ltd. (IASO Bio). Fully human anti-CD19 binder Similar binding affinity and biologic activity to FMC63, with binding to the same epitopes1,2 Safety data in ~20 oncology patients evaluated and reported by IASO as
+part of a dual-CAR3 4-1BB costimulatory domain Same domain as used in academic studies CD3-zeta signaling domain CABA-201 CABA-201 designed to optimize the potential safety and efficacy of CD19-CAR T for patients with autoimmune disease Key
+Questions for RESET Phase 1/2 Studies Safety of CABA-201 CABA-201 AE profile CRS, ICANS, SAEs   Dose selection 1 x 106 cells/kg PK – CAR T persistence PD – B cell depletion Autoantibody reduction Clinical outcomes
+
+Phase 1/2 Myositis Study for
+CABA-2011 CY, cyclophosphamide; EULAR/ACR, European Alliance of Associations for Rheumatology/America College of Rheumatology; FLU, fludarabine; HSCT, hematopoietic stem cell transplantation. TIS, Total Improvement Score. 1. ClinicalTrials.gov.
+Accessed June 10, 2024. https://classic.clinicaltrials.gov/ct2/show/NCT06154252. Key inclusion criteria Age ≥18 and ≤75 with a definite or probable clinical diagnosis of IIM (2017 EULAR/ACR classification criteria) Diagnosis of
+antisynthetase syndrome (ASyS), dermatomyositis (DM), or immune-mediated necrotizing myopathy (IMNM) based on presence of serum myositis-specific antibodies Evidence of active disease despite prior or current treatment with standard of care Key
+exclusion criteria Cancer-associated myositis Significant lung or cardiac impairment B cell-depleting agent within prior ~6 months Previous CAR T cell therapy and/or HSCT Screening ASyS n ≥6 IMNM cohort n ≥6 DM cohort n ≥6 Day 1
+Day 29 Follow-up through year 3 Leukapheresis and CABA-201 production Preconditioning with FLU and CY Single infusion of CABA-201 (1 × 106 cells/kg) Primary endpoint: Incidence and severity of adverse events Secondary endpoints: TIS CK / muscle
+enzymes Myositis-specific autoantibody levels Adverse events PK/PD analysis Juvenile IIM cohort recently incorporated into trial
+
+Phase 1/2 Lupus Study for CABA-2011
+ANA, antinuclear antibody; SELENA-2K, Systemic Lupus Erythematosus Disease Activity Index-2K. 1. ClinicalTrials.gov. Accessed June 10, 2024. https://classic.clinicaltrials.gov/ct2/show/NCT06121297. Key inclusion criteria Age ≥18 to ≤65
+with an SLE diagnosis (2019 EULAR/ACR classification criteria) ANA+ or anti-dsDNA+ at screening For SLE (non-renal) cohort: active, moderate to severe SLE, SLEDAI-2K ≥8 despite standard therapy For Lupus Nephritis cohort: active, biopsy-proven
+LN class III or IV, ± class V Key exclusion criteria B cell-depleting agent within prior ~6 months Previous CAR T cell therapy and/or HSCT Presence of kidney disease other than LN Screening LN cohort n ≥6 Day 1 Day 29 Follow-up through
+year 3 Leukapheresis and CABA-201 production Preconditioning with FLU and CY Single infusion of CABA-201 (1 × 106 cells/kg) Primary endpoint: Incidence and severity of adverse events SLE non-renal cohort n ≥6 Secondary endpoints: SLE
+disease activity (e.g., SLEDAI-2K) Complete renal response Adverse events PK/PD analysis Biomarker analyses
+
+Indicates data being presented for
+either or both of the first two patients in the RESET™ clinical program. aFlow phenotyping data; confirmatory analyses ongoing. 1. Illustrative graphic, adapted from Taubmann J, et al. OPO141. Abstract presented at: EULAR; May 31, 2023; Milan,
+Italy. 2. Müller F, et al. N Engl J Med. 2024;390(8):687-700. Translational & clinical parameters inform framework to evaluate advanced modalities in autoimmunity Metrics To Assess Outcomes of B Cell Depletion In Autoimmunity Time to B cell
+repopulation B cell phenotypea Autoantibody changes Durability of clinical activity Rate & severity of infection Chronic maintenance / concomitant medications, if any Up to 12+ months Following treatment with autologous CD19-CAR T, 6 pts with
+12+ mo. of drug-free remission, as reported by Erlangen group2 Infusion 1 mo. 3 mo. 12+ mo. CD19-CAR T Cells Naïve B cells Healthy B cells Autoreactive B cells CAR T & B cell levels1 Translational measures Clinical data Patient experience B
+cell depletion: Timing & depth CAR T expansion: Magnitude & timing Rate of CRS more severe than fever Rate & grade of ICANS Rate & severity of infection Hospitalization requirements Apheresis & preconditioning Single vs. multiple
+infusions Autoantibody changes Vaccine titer changes Inflammatory marker changes Early efficacy signals Rate & severity of infection Chronic maintenance therapy / concomitant medications, if any Within 1 month ~3 months Metrics of
+evaluation
+
+IMNM: High Unmet Need & Limited
+Therapeutic Options1 DM, dermatomyositis; EMA, European Medicines Agency; ESRD, end-stage renal disease; IMNM, immune-mediated necrotizing myopathy; HMGCR: HMG-CoA reductase 1. Suh J, et al. Muscle Nerve. Published online May 27, 2024.
+doi:10.1002/mus.28114. 2. Khoo T, et al. Nat Rev Rheumatol. 2023;19(11):695-712. 3. Patient treated in third-party CASTLE Phase I/II basket study. Idiopathic inflammatory myopathy (IIM, myositis) > IMNM-associated antibodies include anti-SRP
+& anti-HMGCR Muscle disease (weakness, elevated CK) predominant No therapies approved by the FDA or EMA for IMNM Often refractory despite combination therapy (e.g., IVIg, rituximab) Immune-mediated necrotizing myopathy Dermatomyositis
+Antisynthetase syndrome Cohort for first patient treated with CABA-201 Myositis Prevalence: ~1 million globally2 HMGCR IMNM patient treated in CASTLE CD19-CAR T study with minor response by 3 months improved to major response at 6 months with no
+additional therapy3
+
+SLE: Variable Disease Course &
+Limited Treatments1-6 LN, lupus nephritis. 1. Tian J, et al. Ann Rheum Dis. 2023;82(3):351-356. 2. Hoover PJ, Costenbader KH. Kidney Int. 2016;90(3):487-92. 3. Benlysta. Package insert. GSK; 2018. 4. Saphnelo. Package Insert. AstraZeneca.
+2021. 5. Hahn BH, et al. Arthritis Care Res (Hoboken). 2012; 64(6): 797–808. 6. Aziz F, Chaudhary, K. Curr Clin Pharmacol. 2018;13(1):4-13. 7. Mackensen, Andreas A, et al. Nature Medicine. 2022;28(10):1-9. Cohort for first patient treated with
+CABA-201 Highly heterogenous with potentially life-threatening complications Two biologic therapies approved with 52-week efficacy endpoint Incomplete responses & need for long-term therapy very common ~40% with LN, with Class V LN often
+resistant to therapy Academic CD19-CAR T data in SLE patients with predominantly renal disease suggest potential for clinical response by 3 months7 > Systemic lupus erythematosus (SLE) SLE Prevalence: >3 million globally1 Non-renal systemic
+lupus erythematosus Lupus nephritis
+
+Both patients had refractory
+disease, including to B cell-targeting antibodies & other agents Baseline Characteristics of First Two Patients in RESET Trials aBaseline=pre-preconditioning visit. bDisease manifestations were according to Myositis Disease Activity Assessment
+Tool (MDAAT) and SLEDAI-2K for myositis and SLE, respectively. dsDNA, double-stranded DNA; IMNM, immune-mediated necrotizing myopathy; MMF, mycophenolate mofetil; MMT-8, manual muscle testing of 8 muscles; MTX, methotrexate; Ro-52, ribonucleoprotein
+52; SRP, signal recognition particle. RESET-Myositis Patient #1 RESET-SLE Patient #1 Age (years), sex 33, male 26, male Cohort IMNM Non-renal SLE Disease duration ~2 years ~6 years Prior disease-specific therapy IVIG, rituximab, MTX, glucocorticoids
+Cyclophosphamide, voclosporin, belimumab, tacrolimus Disease-specific therapy at screening MTX, glucocorticoids MMF, hydroxychloroquine, glucocorticoids Autoantibodies SRP, Ro-52 ANA, dsDNA Disease activitya MMT-8: 130, CK: 617 SLEDAI-2K: 26 Disease
+manifestationsa,b Muscle weakness, dysphagia Vasculitis, arthritis, alopecia, hematuria, proteinuria (isolated class V LN), low complement Expanding CD19-CAR T experience in IMNM & non-renal SLE IMNM #1 SLE #1
+
+No CRS, ICANS or infections
+reported through follow-up perioda CABA-201 was Well-tolerated in Initial Patients aData cut-off as of 28 May 2024. bProtocol requires a minimum of 4-day hospitalization for monitoring. cPI-directed taper from 10mg daily prednisone. dGrade 4
+leukopenia, neutropenia and lymphopenia reported for SLE Patient #1, the Grade 4 cytopenias resolved and were attributed to the preconditioning regimen (fludarabine and cyclophosphamide). Both patients discharged after 4 days of monitoring
+post-infusion & neither received tocilizumab RESET-Myositis Patient #1 RESET-SLE Patient #1 Dose of CABA-201 83 million (1 x 106/kg) CAR+ cells 63 million (1 x 106/kg) CAR+ cells Duration of inpatient monitoringb 4 days 4 days CRS None None
+ICANS None None Infections None None Hypogammaglobulinemia None None Serious adverse events None None Concomitant disease-specific therapy Discontinued MTX prior to infusion; Prednisone discontinued day 3 post-infusion Discontinued MMF and HCQ prior
+to infusion; Ongoing taper from prednisone 10mg daily by 8 weeksc Duration of follow-upa 84 days 28 days Adverse eventsd IMNM #1 SLE #1
+
+CABA-201 exhibited anticipated
+profile of expansion and contraction1-5 CABA-201 Expansion in Anticipated Range aResponse appears to be consistent with published data of cryopreserved CAR T products as well as the expansion profile of BCMA-CAR T products in patients with multiple
+myeloma, in which the number of target cells is more similar to autoimmune disease than to B cell leukemias and lymphomas BCMA, B cell maturation antigen. 1. Shah BD, et al. Lancet. 2021;398(10299):491-502. 2. Awasthi R, et al. Blood Adv.
+2020;4(3):560-572. 3. Munshi NC, et al. N Engl J Med. 2021;384(8):705-716. 4. Cohen AD, et al. Blood Cancer J. 2022;12(2):32. 5. Müller F, et al. N Engl J Med. 2024;390(8):687-700. Expansion of CAR T cells to anticipated range suggests target
+engagement Peripheral peak CAR T expansion occurred at approximately 2 weeksa Rapid contraction suggests systemic B cell aplasia has been achieved IMNM #1 SLE #1 4.98% of T cells 3.32% of T cells SLE #1 IMNM #1 Preconditioning CABA-201 infusion
+CABA-201 cells/µL Blood 102 101 100 0 −5 0 5 10 15 20 25 30 Days post infusion
+
+Complete B cell depletion achieved
+by day 15 on flow cytometry & maintained in context of WBC recovery Systemic B Cell Depletion With CABA-201 aNadir of lymphocyte count following fludarabine and cyclophosphamide administration estimated based on respective product labels.1,2
+WBC, white blood cell. 1. Fludarabine phosphate injection. Prescribing information. 2010. https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022137s003lbl.pdf. 2.Cyclophosphamide. Prescribing information. 2013.
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/012141s090,012142s112lbl.pdf. IMNM #1 SLE #1 CD19+ CD20+ B cell count Leukocyte counts B cell depletion was achieved & maintained in follow up or until naïve B cell recovery Early,
+transient leukopenia observed in both patients, as expected with preconditioninga SLE #1 IMNM #1 Preconditioning CABA-201 infusion 0.0 −5 0 5 10 15 20 25 30 Days post infusion 2.5 5.0 7.5 10.0 103 cells/µL WBC Counts 0 −5 0 5 10 15
+20 25 30 Days post infusion 2 4 6 8 103 cells/µL Neutrophil Counts 0.0 −5 0 5 10 15 20 25 30 Days post infusion 0.5 1.0 1.5 103 cells/µL Lymphocyte Counts 0.0 −5 0 5 10 15 20 25 30 Days post infusion 0.5 1.0 1.5 103
+cells/µL Monocyte Counts CD19+ CD20+ B cells/µL 60 80 60 20 0 −5 0 5 10 15 20 25 30 Days post infusion
+
+Immunologic Effects of CABA-201
+IMNM #1 CABA-201 pharmacokinetics CABA-201 pharmacodynamics IFNγ peak prior to peripheral CABA-201 peak suggests tissue-resident B cell cytotoxicity Systemic B cell depletion triggers BAFF to encourage bone marrow B cell repopulation
+IFN�� T cells Preconditioning CABA-201 infusion BAFF B cells Preconditioning CABA-201 infusion 15000 10000 5000 0 0 Weeks post infusion CD19+ CD20+ B cells/µL BAFF (pg/mL) 80 60 40 20 0 CABA-201 cells/µL Blood 102 101 100 0
+−5 0 5 10 15 20 25 30 Days post infusion IFN�� (pg/mL) 150 100 50 0 Week 8 Week 4
+
+Antibody reduction & clinical
+improvement in disease activity as anticipated with follow-up of 12 weeks CK Reduction & Clinical Improvement Observed in SRP IMNM aData cut-off as of 28 May 2024. bLuminex assay developed and performed by Cabaletta Labs. cQualitative commercial
+assay (Myositis Antigen Panel, performed at National Jewish Health Advanced Diagnostic Laboratories) suggests SRP54 antibody remains strongly positive at Week 12; Ro-52 normalizes by week 8. dBased on patient’s moderate level of muscle disease
+at baseline, mild-moderate disability and limited extramuscular manifestations, the maximum achievable score is 70 points on the 100-point TIS scale. 1. Patient treated in third-party CASTLE Phase I/II basket study, TIS data at Week 12 and 24
+provided via personal communication with and as presented by Dr. Georg Schett. 2. Müller F, et al. N Engl J Med. 2024;390(8):687-700. SRP9, signal recognition particle 9; SSA, Sjögren’s syndrome–related antigen A autoantibody;
+TRIM21, tripartite motif 21; ULN, upper limit of normal; CK, creatine kinase. IMNM #1 Quantitative translational assay shows ongoing reduction in SRP & Ro-52 antibodiesb,c SRP9 SRP54 SS-A/Ro-52 Week 8 Week 4 Baseline 10000 5000 0 Discontinued
+all disease-specific therapies Disease markers continuing to trend positively Patient reported symptoms as much improved 12-week TIS consistent with IMNM case report1 Disease activity & improvement measures Baseline Week 4 ULN U/L 600 400 200 0
+Week 8 Week 12 Creatine Kinase Normal strength MMT-8 150 140 130 120 Baseline Week 4 Week 8 Week 12 Score Week 8 Week 4 Baseline 1500 500 2000 Week 12 1000 0 Net MFI Net MFI SRP Score (points) Major 100 80 Minor Moderate 60 40 20 Week 24 Baseline
+Week 12 None TIS RESET-Myositis IMNM #1 patient treated with CABA-201 IMNM patient in CASTLE basket study1 ASyS patients treated at Univ. Hospital Erlangen via German expanded access program2 Academic published data overlaid for illustrative
+purposes RESET-Myositis IMNM #1 patient-specific TIS ceilingd
+
+Trend toward improvement in disease
+manifestations with follow up of 4 weeksb Early Efficacy Signals in Non-Renal SLEa Vasculitis, arthritis and hematuria resolved within 4 weeks despite discontinuation of all therapies at infusion other than ongoing taper from prednisone 10mg per day
+aPatient in non-renal SLE cohort due to isolated Class V LN. bData cut-off as of 28 May 2024. cBaseline and Day 29 SLEDAI-2K score are reflective of disease activity at study visit day. dUrine Protein Creatinine Ratio decreased from 1.08 to 0.80
+from Baseline to Week 4. eAnti-dsDNA antibody titer decreased from 1:40 to 1:10 from Baseline to Week 4. 1. SLE patients treated at Univ. Hospital Erlangen via German expanded access program; Müller F, et al. N Engl J Med. 2024;390(8):687-700.
+SLE #1 Alopecia Low complement Increased DNA bindingd Proteinuriae Hematuria Arthritis Vasculitis 26 10 20 SLEDAI-2Kc Score 10 0 Baseline Week 4 30 SLE patient #1 0 0 Month 3 Month 6 SLEDAI-2K Score Academic SLE data1 25 20 30 10 5 15 Academic
+published data for illustrative purposes
+
+CABA-201 Effects on Vaccine &
+Infection Antibody Titers Titers preserved post-infusion, with no reported infections in the duration of follow-up perioda aData cut-off as of 28 May 2024. IMNM #1 SLE #1 Streptococcus pneumoniae HSV1 Influenza A G4 EA (H1N1) Sars-CoV-2 Epstein-Barr
+virus (EBV) Bordetella pertussis Cytomegalovirus (CMV) Hepatitis B Mumps virus Diphtheria Hepatitis A Rubeola virus (measles) Rubella virus Tetanus SLE patient #1 Baseline Baseline Week 8 Week 4 Week 4 IMNM patient #1 SLE patient #1 Net MFI 105 104
+103 102 Net MFI 105 104 103 102
+
+Initial patient phenotyping data
+consistent with potential immune system reset; confirmatory analyses ongoing B Cell Repopulation with Naïve B Cells Note: Flow plot gating reflects CD19+ CD20+ live lymphocytes. aPatient received multiple courses of rituximab, with most recent
+dose approximately 9 months prior to CABA-201 infusion. BCR, B cell receptor. 1. Cambier JC, et al. Nat Rev Immunol. 2007;7(8):633-643. Pre-B cell Early Naïve (Transitional) B cell (CD38Hi CD24Hi) Naïve B cell (CD38Med CD24Med) Mature BCR
+Igα Igβ Bone marrow Periphery B cell precursors IMNM #1 Image adapted from Cambier JC, et al. 2007.1 Pre-plasma/ plasma cell B Cell, % CD20 Baseline CD19 107 106 105 104 0 0 104 106 105 B cells (CD19+, CD20+) 5.08 Week 12 107 106 105 104 0
+0 104 106 105 B cells (CD19+, CD20+) 6.56 107 Day 15 107 106 105 104 0 0 104 106 105 B cells (CD19+, CD20+) 0 Week 8 107 106 105 104 0 0 104 106 105 B cells (CD19+, CD20+) 7.02 CD38 CD24 106 105 104 0 0 104 106 105 106 105 104 0 0 104 106 105 106
+105 104 0 0 104 106 105 B cell phenotyping data a Early Naïve (Transitional) B cell Naïve B cell Remaining CD19+ CD20+ B cells B cell maturation process1 Memory B cell
+
+Key Takeaways 1. Müller F, et
+al. N Engl J Med. 2024;390(8):687-700. 2. Castle Phase 1/2 basket study. CABA-201: Designed for autoimmune patients to optimize the potential product profile of CD19-CAR T Safety: In the first 2 patients (IMNM & SLE), CABA-201 was well-tolerated
+No CRS, ICANS or infections reported through follow-up period Dose: Clinical & translational data support the selected dose of CABA-201 PK: IFNγ peak prior to peak of CABA-201 suggests tissue-level B cell cytotoxicity PD: Systemic B cell
+depletion followed by repopulation with naïve B cells Autoantibody levels: Decline generally consistent with Univ. Hospital Erlangen data1 Clinical & translational data: Improvement consistent with reported CD19-CAR T data1,2 18 clinical
+sites now enrolling patients in the CABA-201 RESET™ program with four trials open – myositis, SLE/LN, systemic sclerosis and myasthenia gravis
+
+Questions & Answers
+
+You are invited to stop by at Booth
+S18-19 for additional engagement with Cabaletta Bio! Please use the EULAR app to complete an evaluation form To learn more, please visit CabalettaBio.com & contact us at clinicaltrials@cabalettabio.com

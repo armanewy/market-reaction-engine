@@ -1,0 +1,1690 @@
+EX-99.1
+2
+gern-ex99_1.htm
+STIPULATION OF SETTLEMENT
+
+EX-99.1
+
+EXHIBIT 99.1
+
+IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+ 
+
+IN RE GERON CORPORATION
+
+STOCKHOLDER DERIVATIVE LITIGATION
+
+)
+
+)
+
+Consolidated
+
+C.A. No. 2020-0684-SG
+
+ 
+
+STIPULATION OF SETTLEMENT
+
+ 
+
+This Stipulation of Settlement (“Stipulation”) is made and entered into as of December 21, 2022, between and among, (a)(i) plaintiffs in the above-captioned consolidated derivative action (the “Action”), (ii) plaintiffs in the consolidated derivative action pending in the United States District Court for the Northern District of California, captioned In re Geron Corporation Stockholder Derivative Litigation, C.A. No. 3:20-cv-02823-WHA (N.D. Cal.) (the “Northern District Derivative Action”), and (iii) plaintiffs in the consolidated derivative action pending in the United States District Court for the District of Delaware, captioned In re Geron Corporation Stockholder Derivative Litigation, C.A. No. 1:20-cv-01207-GBW (D. Del) (the “District of Delaware Derivative Action”) (collectively, “Plaintiffs”), derivatively on behalf of Geron Corporation (“Geron” or the “Company”), (b) defendants John A. Scarlett, Karin Eastham, V. Bryan Lawlis, Susan M. Molineaux, Robert J. Spiegel, Olivia Bloom, Daniel M. Bradbury, Hoyoung Huh, and Stephen N. Rosenfield (the “Individual Defendants”), and (c) nominal defendant Geron (together with the Individual Defendants, the “Defendants,” and collectively with Plaintiffs, the “Parties” and each a “Party”). This Stipulation sets forth the terms and conditions of the settlement of the Derivative Litigation (as defined in paragraph 1.5 below) (the “Settlement”), subject to the approval of the Court of Chancery of the State of Delaware (the “Court”), and is intended to fully, finally, and forever compromise, discharge, resolve, release, and settle the Released Claims (as defined in paragraph 1.10 below).
+
+1
+
+SUMMARY OF THE PROCEEDINGS
+
+A.
+Plaintiffs in the Derivative Litigation allege that the Individual Defendants breached their fiduciary duties to Geron, and engaged in other wrongdoing, by failing to oversee the Company’s making of and/or causing the Company to make false and misleading statements about certain interim results from a Phase 2 clinical study of imetelstat – Geron’s sole drug candidate – called IMbark.
+
+B.
+On April 23, 2020, plaintiff Katharine Jameson filed a verified stockholder derivative complaint in the United States District Court for the Northern District of California (the “Jameson Action”) against certain current and/or former directors and officers of Geron alleging breaches of fiduciary duty, unjust enrichment, and violations of Section 14(a) of the Securities Exchange Act of 1934 (the “Exchange Act”).
+
+C.
+On August 21, 2020, plaintiff Richard Di Laura filed a Verified Stockholder Derivative Complaint in this Court (the “DiLaura Action”) against certain current and/or former directors and officers of Geron alleging breach of fiduciary duty.
+
+D.
+On September 10, 2020, Jeffrey Byroade filed a verified stockholder derivative complaint in the United States District Court for the District of Delaware (the “Byroade Action”) against certain current and/or former directors and officers of Geron alleging breach of fiduciary duty, unjust enrichment, and violations of Section 14(a) of the Exchange Act.
+
+E.
+On November 12, 2020, plaintiff Michael Henry Mongiello filed a verified stockholder derivative complaint in the United States District Court for the District of Delaware (the “Mongiello Action”) against certain current and/or former directors and officers of Geron alleging breach of fiduciary duty, unjust enrichment, waste, and violations of
+
+2
+
+Sections 14(a) and 20(a) of the Exchange Act.
+
+F.
+On January 5, 2021, the Byroade Action and Mongiello Action were consolidated as the District of Delaware Derivative Action and stayed pending resolution of the defendants’ motion to dismiss in a related federal securities class action, captioned Michael Tollen v. Geron Corporation and John A. Scarlett, Civil Action No. 20-cv-547-WHA, currently pending in the United States District Court for the Northern District of California (the “Securities Action”).
+
+G.
+On March 16, 2021, plaintiffs Ernesto Elizalde, Jr. (“Elizalde”) and Joseph Oriente (“Oriente”) filed a Verified Stockholder Derivative Complaint for Breach of Fiduciary Duty in this Court captioned Elizalde, et al. v. Scarlett, et al., C.A. No. 2020-0228-SG (the “Elizalde Action”), against certain current and/or former directors and officers of Geron alleging breach of fiduciary duty.
+
+H.
+On April 2, 2021, plaintiff Zachary Gamlieli filed a verified stockholder derivative complaint in the United States District Court for the Northern District of California (the “Gamlieli Action”) against certain current and/or former directors and officers of Geron alleging breaches of fiduciary duty, unjust enrichment, and violations of Section 10(B) and 21D of the Exchange Act.
+
+I.
+On April 9, 2021, the Jameson Action and Gamlieli Action were consolidated as the Northern District Derivative Action.
+
+J.
+On April 12, 2021, the court in the Northern District of California granted in part and denied in part the defendants’ motion to dismiss the Securities Action.
+
+3
+
+K.
+On April 22, 2021, plaintiffs DiLaura, Elizalde, and Oriente and counsel for Defendants submitted a Stipulation and [Proposed] Order For Consolidation And Appointment Of Plaintiffs’ Co-Lead Counsel And Delaware Counsel (the “Consolidation Order”).
+
+L.
+On April 26, 2021, the Court entered the Consolidation Order.
+
+M.
+On May 28, 2021, plaintiffs DiLaura, Elizalde, and Oriente filed their Verified Consolidated Stockholder Derivative Complaint (“Consolidated Complaint”).
+
+N.
+On June 8, 2021, the parties in the District of Delaware Derivative Action agreed to a further stay through resolution of Defendants’ then-forthcoming motion to dismiss in this Action.
+
+O.
+On June 8, 2021, Dennis Penney, a purported stockholder of Geron, filed a shareholder derivative complaint in the Superior Court of the State of California, County of San Mateo, alleging claims for breach of fiduciary duty, waste and unjust enrichment against the Individual Defendants based on the same alleged underlying wrongdoing asserted by Plaintiffs in the Derivative Litigation (the “San Mateo Derivative Action”).
+
+P.
+On June 28, 2021, the Northern District Derivative Action was stayed pending resolution of the plaintiffs’ class certification motion in the Securities Action.
+
+Q.
+On July 2, 2021, Defendants filed their motion to dismiss plaintiffs DiLaura, Elizalde, and Oriente’s Consolidated Complaint pursuant to Rules 23.1 and 12(b)(6).
+
+4
+
+R.
+On August 5, 2021, Defendants filed a motion to dismiss the San Mateo Derivative Action. In their motion, Defendants argued that the San Mateo Derivative Action was filed in California state court in violation of Geron’s bylaws, which provide that the Court is the “sole and exclusive forum” for derivative actions, actions alleging claims for breach of fiduciary duty, and actions alleging claims governed by the internal affairs doctrine.
+
+S.
+On August 30, 2021, counsel for plaintiffs DiLaura, Elizalde, and Oriente informed counsel for Defendants that, rather than oppose Defendants’ motion to dismiss, plaintiffs DiLaura, Elizalde, and Oriente would be filing an amended complaint pursuant to Rule 15(aaa).
+
+T.
+On September 1, 2021, plaintiffs DiLaura, Elizalde, and Oriente filed their Amended Verified Consolidated Stockholder Derivative Complaint (“Amended Consolidated Complaint”).
+
+U.
+On October 12, 2021, Defendants filed their motion to dismiss plaintiffs DiLaura, Elizalde, and Oriente’s Amended Consolidated Complaint pursuant to Rules 23.1 and 12(b)(6) (“Motion to Dismiss”).
+
+V.
+On November 16, 2021, the California state court granted Defendants’ motion to dismiss the San Mateo Derivative Action finding that “Defendants have met their burden of proving the action should be tried in Delaware Chancery Court pursuant to the forum selection bylaw.” However, rather than dismiss the case, the California state court exercised its discretion and stayed the San Mateo Derivative Action.
+
+5
+
+W.
+On December 3, 2021, plaintiffs DiLaura, Elizalde, and Oriente filed their opposition to the Motion to Dismiss.
+
+X.
+On December 23, 2021, Defendants filed their reply in support of the Motion to Dismiss.
+
+Y.
+On February 15, 2022, the Court heard oral argument on Defendants’ Motion to Dismiss.
+
+Z.
+On April 2, 2022, the court in the Northern District of California certified the Securities Action as a class action under Rule 23 of the Federal Rules of Civil Procedure.
+
+AA.
+On June 3, 2022, the Court issued a Memorandum Opinion staying consideration of Defendants’ Motion to Dismiss pending the final resolution of the Securities Action or, alternatively, pending a delay or other change in circumstances in the Securities Action or “as otherwise appropriate.”
+
+BB.
+On June 7, 2022, plaintiffs in the Northern District Derivative Action filed an amended stockholder derivative complaint.
+
+CC.
+On June 22, 2022, the Court issued an Order staying this Action “until the resolution of the Securities Action, or until further Order of the Court on the application of any party.”
+
+DD.
+On July 6, 2022, the court in the Northern District of California further stayed the Northern District Derivative Action “until the earlier of the following two
+
+events: (a) public announcement of a settlement of the Securities [ ] Action; or (b) a final judgment in the Securities [ ] Action, including the lapse of any time to appeal and/or the final
+
+6
+
+non-appealable resolution of any filed appeal.”
+
+EE.
+On August 31, 2022, Scott D. Cicero, a purported stockholder of Geron, served a demand on Geron’s board of directors (“Board”) requesting that the Board investigate and pursue claims for breach of fiduciary duty against the Individual Defendants and certain other officers of the Company based on the same alleged underlying wrongdoing asserted by Plaintiffs in the Derivative Litigation.
+
+FF.
+On September 2, 2022, the parties in the Securities Action filed a Stipulation and Agreement of Settlement (“Securities Action Settlement”).
+
+GG.
+After the filing of the Securities Action Settlement, the Parties began to discuss the prospect of holding formal settlement negotiations and the selection of a mediator.
+
+HH.
+On November 1, 2022, the Parties participated in a full-day mediation with former Vice Chancellor Joseph R. Slights III of the law firm Wilson, Sonsini, Goodrich & Rosati, LLP. During the mediation, the Parties reached an agreement on corporate governance reforms that would be instituted by Geron in connection with the Settlement, subject to approval of the Court, and entered into a term sheet where the Parties agreed to use best efforts to draft and execute a final and binding Stipulation of Settlement within thirty (30) calendar days (i.e., by November 30, 2022).
+
+II. On November 3, 2022, the Parties reached agreement on the language of the releases that are included in this Stipulation and agreed to present this Stipulation for approval in this Court.
+
+7
+
+JJ.
+On November 7, 2022, the Parties participated in a second full-day mediation with former Vice Chancellor Slights regarding the amount of the Fee Award (as defined in paragraph 26 below) that Plaintiffs’ Counsel would apply for in connection with the Court’s consideration of the Settlement. The Parties were unable to reach a resolution on that issue at the November 7 mediation but continued arm’s-length negotiations and discussions thereafter, all of which were overseen by former Vice Chancellor Slights.
+
+KK.
+On December 1, 2022, former Vice Chancellor Slights issued a confidential, double-blind mediator’s proposal for Plaintiffs’ Counsel’s attorneys’ fees and expenses in the amount of $1,350,000 (the “Mediator’s Proposal”), subject to Court approval.
+
+LL.
+On December 4, 2022, former Vice Chancellor Slights informed the Parties that all Parties had accepted the Mediator’s Proposal.
+
+MM.
+On December 12, 2022, the plaintiff in the San Mateo Derivative Action filed a stipulation requesting that the San Mateo Derivative Action be dismissed without prejudice in light of the proposed Settlement in the Derivative Litigation.
+
+NN.
+On December 13, 2022, the California state court dismissed the San Mateo Derivative Action.
+
+OO.
+The Parties agree that Plaintiffs commenced and pursued the Derivative Litigation in good faith. Plaintiffs maintain that entry by Plaintiffs into this Stipulation is not an admission as to the lack of any merit of any claims asserted by Plaintiffs in the Derivative Litigation.
+
+8
+
+PP.
+Defendants have denied, and continue to deny, that they committed any breach of duty, violated any law, or engaged in any wrongdoing, expressly maintain that they diligently and scrupulously complied with their fiduciary and other legal duties, to the extent such duties exist, and further believe that the Derivative Litigation is without merit. Defendants are entering into this Stipulation to eliminate the uncertainty, burden and expense of further protracted litigation. This Stipulation shall in no event be construed or deemed to be evidence of or an admission or concession on the part of any of the Defendants, with respect to any claim or allegation of any fault or liability or wrongdoing or damage whatsoever, or any infirmity in the defenses that Defendants have, or could have, asserted in the Derivative Litigation. Defendants expressly deny that Plaintiffs have asserted any valid claims as to any of them, and expressly deny any and all allegations of fault, liability, wrongdoing or damages whatsoever.
+
+NOW, THEREFORE, IT IS HEREBY STIPULATED AND AGREED, BY AND AMONG THE PARTIES TO THIS STIPULATION, subject to the approval of the Court pursuant to Rule 23.1 of the Rules of the Court of Chancery of the State of Delaware, that the Derivative Litigation shall be fully and finally compromised and settled, that the Released Claims shall be released by the Releasing Parties (as defined in paragraph 1.14 below) as against the Released Parties (as defined in paragraph 1.12 below), and that the Derivative Litigation shall be dismissed with prejudice, upon and subject to the following terms and conditions, and further subject to the approval of the Court:
+
+9
+
+DEFINITIONS
+
+1.
+In addition to the terms defined elsewhere in this Stipulation, the following terms have the meanings specified below:
+
+1.1
+“Applicable Geron Stockholders” means any and all individuals or entities who held of record, or beneficially owned, directly or indirectly, common stock of Geron during the Relevant Period (as defined below in paragraph 1.15) or who hold of record, or beneficially own, directly or indirectly, common stock of Geron as of the close of business on the date the Court enters the Scheduling Order (as defined in paragraph 13 below), excluding the Individual Defendants, the officers and directors of Geron, members of their immediate families, and their legal representatives, heirs, successors, or assigns, and any entity in which the Individual Defendants have or had a controlling interest.
+
+1.2
+“Corporate Governance Reforms” means the corporate governance reforms set forth in Exhibit A attached to this Stipulation.
+
+1.3
+“Defendants’ Released Claims” means any and all claims, demands, rights, liabilities, losses, obligations, duties, damages, costs, debts, expenses, interest, penalties, sanctions, fees, attorneys’ fees, actions, potential actions, causes of action, suits, judgments, defenses, counterclaims, offsets, decrees, matters, issues and controversies of any kind, nature or description whatsoever, whether known or unknown, including Unknown Claims, that Plaintiffs asserted or could have asserted on behalf of nominal defendant Geron in the Derivative Litigation or in any other court, tribunal, forum or proceeding, whether based on state, federal, local, foreign, statutory, regulatory, common or other law or rule, and which are based upon, arise out of, or relate in any way to, or involve, directly or indirectly, (a) the
+
+10
+
+actions, inactions, deliberations, disclosures, discussions, decisions, votes, or any other conduct of any kind by any of the Released Defendant Parties (as defined below in paragraph 1.11), relating in any way to any facts, matters, events, circumstances, claims, or allegations alleged or that could have been alleged in the Derivative
+
+Litigation, or (b) the institution, commencement, prosecution, defense, mediation, or settlement of the Derivative Litigation.
+
+1.4
+“Defendants’ Releasing Parties” means Defendants and their respective agents, spouses, heirs, predecessors, successors, transferors, transferees, personal representatives, representatives and assigns.
+
+1.5
+“Derivative Litigation” means, collectively, this Action, the Northern District Derivative Action, and the District of Delaware Derivative Action.
+
+1.6
+“Final Approval” means the later of (a) the expiration of the time for the filing or noticing of an appeal or motion for reargument or rehearing from the Court’s Order and Final Judgment (as defined below in paragraph 17) approving the Settlement; (b) the date of final affirmance of the Court’s Order and Final Judgment on any appeal or reargument or rehearing; or (c) the final dismissal of any appeal.
+
+1.7
+“Plaintiffs’ Counsel” means deLeeuw Law LLC, Glancy Prongay & Murray LLP, Johnson Fistel LLP, Levi & Korsinsky LLP, Cooch and Taylor, P.A. Robbins LLP and Shuman, Glenn & Stecker.
+
+1.8
+“Plaintiffs’ Released Claims” means all claims and causes of action of every nature and description, whether known or unknown, whether arising under federal, state, common or
+
+11
+
+foreign law, including Unknown Claims, that arise out of or relate in any way to Released Plaintiff Parties’ (as defined below in paragraph 1.13) institution, prosecution, or settlement of the Derivative Litigation.
+
+1.9
+“Plaintiffs’ Releasing Parties” means Plaintiffs, Geron, and all Applicable Geron Stockholders, whether acting directly, representatively, or derivatively on behalf of Geron, and their respective agents, spouses, heirs, predecessors, successors, transferors, transferees, personal representatives, representatives and assigns.
+
+1.10
+“Released Claim(s)” means Plaintiffs’ Released Claims and Defendants’ Released Claims; provided, however, for the avoidance of doubt, that Released Claims shall not include any claims relating to the enforcement of this Stipulation or Settlement or any claims by Geron or the Individual Defendants for insurance coverage or any claims by the Individual Defendants for indemnification or advancement.
+
+1.11
+“Released Defendant Parties” means all Defendants in the Derivative Litigation, and any and all of their and Geron’s respective current or former agents, parents, controlling persons, general or limited partners, members, managers, managing members, direct or indirect equity holders, subsidiaries, affiliates, employees, officers, directors, predecessors, successors, attorneys, heirs, assigns, insurers, reinsurers, consultants, and other representatives, servants and related persons, in their capacities as such.
+
+1.12
+“Released Party” or “Released Parties” means each and all of the Released Plaintiff Parties and the Released Defendant Parties.
+
+12
+
+1.13
+“Released Plaintiff Parties” means Plaintiffs and Plaintiffs’ Counsel and each of their respective agents, assigns, and related persons.
+
+1.14
+“Releasing Parties” means Plaintiffs’ Releasing Parties and Defendants’ Releasing Parties.
+
+1.15
+“Relevant Period” means November 1, 2016, through the date of Final Approval.
+
+1.16
+“Unknown Claims” means any Released Claim which the Releasing Party does not know or suspect to exist in his, her or its favor at the time of Final Approval of the Released Claims as against the Released Parties, including without limitation those which, if known, might have affected the decision to enter into or object to the Settlement.
+
+RELEASES
+
+2.
+Upon Final Approval of the Settlement, Plaintiffs’ Releasing Parties, by operation of the Settlement and to the fullest extent permitted by law, shall completely, fully, finally and forever release, relinquish, settle and discharge each and all of the Released Defendant Parties from any and all of the Defendants’ Released Claims.
+
+3.
+Upon Final Approval of the Settlement, Defendants’ Releasing Parties, by operation of the Settlement and to the fullest extent permitted by law, shall completely, fully, finally and forever release, relinquish, settle and discharge each and all of the Released Plaintiff Parties from any and all of the Plaintiffs’ Released Claims.
+
+4.
+The Settlement is intended to extinguish all of the Released Claims by the Releasing Parties as against the Released Parties and, consistent with such intention, upon Final Approval of the Settlement, the Releasing Parties shall waive and relinquish, to the fullest extent permitted by law, the provisions, rights, and benefits of any state, federal,
+
+13
+
+or foreign law or principle of common law, which may have the effect of limiting the Released Claims. This shall include a waiver of any rights pursuant to California Civil Code § 1542 (and equivalent, comparable, or analogous provisions of the laws of the United States or any state or territory thereof, or of the common law), which provides:
+
+A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, AND THAT IF KNOWN BY HIM OR HER WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR THE RELEASED PARTY.
+
+5.
+Plaintiffs acknowledge, and the Plaintiffs’ Releasing Parties shall be deemed by operation of the entry of the Order and Final Judgment upon Final Approval of the Settlement to have acknowledged, that the foregoing waiver in paragraph 4 was expressly bargained for, is an integral term of the Settlement, and was relied upon by each and all of the Released Defendant Parties in entering into the Settlement.
+
+6.
+Nothing herein shall in any way release, waive, impair, or restrict the rights of any Party to enforce the terms of this Stipulation.
+
+SETTLEMENT CONSIDERATION
+
+7.
+The Parties agree that as a direct result of Plaintiffs’ investigation, initiation and litigation of the Derivative Litigation, in consideration for the full Settlement and release of the Released Claims, and upon Court approval of the Settlement, Geron will implement the Corporate Governance Reforms, of which Plaintiffs were the primary cause.
+
+14
+
+8.
+In further consideration for the full Settlement and release of the Released Claims, Geron and the Individual Defendants also acknowledge that Plaintiffs and the Derivative Litigation were a factor in Geron’s July 2022 revisions to the Company’s Insider Trading Compliance policy.
+
+9.
+The Corporate Governance Reforms shall remain in effect for a period of at least five (5) years from the date of adoption; provided, however, that the Corporate Governance Reforms shall not be binding upon any successor or acquirer of the Company in the event of a change in control transaction.
+
+10.
+Defendants acknowledge that the Corporate Governance Reforms confer substantial benefits on the Company and its stockholders.
+
+STAY OF PROCEEDINGS
+
+11.
+Pending Final Approval of the Settlement by the Court, Plaintiffs agree to stay the Derivative Litigation, and Plaintiffs and Plaintiffs’ Counsel agree not to initiate any other proceedings related to the Derivative Litigation other than those incident to the Settlement itself.
+
+12.
+The Parties will request that the Court order that, pending Final Approval of the Settlement, Plaintiffs and all Applicable Geron Stockholders are barred and enjoined from commencing, prosecuting, instigating or in any way participating in the commencement, prosecution, or instigation of any action asserting any of the Released Claims, either directly, representatively, derivatively, or in any other capacity, against Geron, the Individual Defendants, or any of the Released Defendant Parties. To ensure compliance with this term, within five (5) business days of submission of this
+
+15
+
+Stipulation to the Court, the Plaintiffs in the Northern District Derivative Action and the District of Delaware Derivative Action will (a) give those respective courts notice of this Stipulation and Settlement, and (b) take all steps necessary to ensure that those respective actions are stayed pending Final Approval of the Settlement by the Court.
+
+SUBMISSION AND APPLICATION TO THE COURT
+
+13.
+As soon as reasonably practicable after this Stipulation has been executed, the Parties shall jointly apply for a scheduling order (the “Scheduling Order”), substantially in the form attached hereto as Exhibit B, establishing the procedure for the approval of notice to Applicable Geron Stockholders substantially in the form attached hereto as Exhibit C (the “Notice”) and Exhibit D (the “Summary Notice”).
+
+NOTICE
+
+14.
+Geron shall undertake the primary responsibility for giving notice to Applicable Geron Stockholders, in accordance with the terms of the Scheduling Order, and shall be solely responsible for paying the costs and expenses associated with providing the notice described in this paragraph. By no later than sixty (60) calendar days prior to the date the Court sets for the Settlement Hearing (as defined below in paragraph 17), Geron shall mail the Notice, substantially in the form attached hereto as Exhibit C, to all record stockholders of Geron at their respective addresses currently set forth in Geron’s stock records. In addition, the Company shall use reasonable efforts to give notice to all beneficial owners of Geron stock by: (a) filing copies of this Stipulation and the Notice as exhibits to a Form 8-K with the United States Securities and Exchange Commission; (b) posting links to this Stipulation and the Notice on the Company’s Investor Relations
+
+16
+
+page of its website through the date of the Settlement Hearing; and (c) including in the Notice a statement that a copy of this Stipulation can be found on the Company’s Investor Relations page of its website along with the website’s address.
+
+15.
+Counsel for Defendants shall, at least ten (10) business days before the Settlement Hearing, file with the Court an appropriate affidavit with respect to compliance with the requirements set forth in the foregoing paragraph.
+
+16.
+In addition to the notice provided by Geron, Plaintiffs’ Counsel shall post copies of this Stipulation and the Notice on their respective websites.
+
+ORDER AND FINAL JUDGMENT
+
+17.
+If the Settlement (including any modifications thereto made with the consent of the Parties as provided for herein) shall be approved by the Court following a hearing (the “Settlement Hearing”) as fair, reasonable, and adequate and in the best interests of Geron, the Parties shall jointly request that the Court enter an order substantially in the form attached hereto as Exhibit E (the “Order and Final Judgment”).
+
+18.
+The Order and Final Judgment shall, among other things, provide for full and complete dismissal of the Action with prejudice, and the Settlement and release of the Released Claims by the Releasing Parties as against the Released Parties.
+
+19.
+Within ten (10) business days of the Register in Chancery entering and docketing the Order and Final Judgment, Plaintiffs in the Northern District Derivative Action and the District of Delaware Derivative Action shall file a copy of the Order and Final Judgement and seek as expeditiously as possible the dismissal with prejudice of those respective actions.
+
+17
+
+COOPERATION
+
+20.
+The Parties and their respective counsel agree to cooperate fully with one another in seeking the Court’s approval the Settlement, and to use their best efforts to take, or cause to be taken, all actions, and to do, or cause to be done, all things reasonably necessary, proper, or advisable under applicable laws, regulations, and agreements to obtain the Court’s approval of the Settlement, consummate and make effective, as promptly as practicable, this Stipulation and the Settlement provided for hereunder (including, but not limited to, using their best efforts to resolve any objections raised to the Settlement) and the dismissal of the Derivative Litigation with prejudice without costs, fees or expenses to any Party (except as provided for herein).
+
+21.
+Without further order of the Court, the Parties may agree to reasonable extensions of time not expressly set forth by the Court in order to carry out any provisions of this Stipulation.
+
+18
+
+CONDITIONS OF SETTLEMENT
+
+22.
+The Settlement is conditioned upon the fulfillment of each of the following:
+
+22.1
+The entry by the Court of an Order and Final Judgement in the form attached hereto as Exhibit E approving the proposed Settlement and dismissing the Action with prejudice without the award of any damages, costs, fees or the grant of any further relief except for an award of fees and expenses to Plaintiffs’ Counsel that the Court may make as contemplated herein;
+
+22.2
+Final Approval of the Settlement;
+
+22.3
+The dismissal with prejudice of the Northern District Derivative Action and the District of Delaware Derivative Action, without the award of any damages, costs, fees or the grant of any further relief except for an award of fees and expenses to Plaintiffs’ Counsel that the Court may make as contemplated herein;
+
+22.4
+With respect to the Northern District Derivative Action and the District of Delaware Derivative Action, each court’s entry of an order dismissing the action with prejudice being finally affirmed on appeal or such order of dismissal with prejudice not being subject to appeal (or further appeal) by lapse of time or otherwise.
+
+23.
+Each of Geron and the Individual Defendants shall have the right to withdraw from the Settlement in the event that any claims related to the subject matter of the Derivative Litigation are commenced or prosecuted against any of the Released Defendant Parties in any court prior to Final Approval of the Settlement and such claims are not dismissed with prejudice or stayed in contemplation of dismissal following Final Approval of the Settlement. In the event such claims are commenced, the Parties agree to cooperate and
+
+19
+
+use their reasonable best efforts to secure the dismissal thereof or a stay in contemplation of dismissal following Final Approval of the Settlement. This Stipulation shall be null and void and of no force and effect if the Settlement does not obtain Final Approval for any reason or if any of the conditions in paragraphs 22.1 to 22.4 do not occur for any reason. In such event, this Stipulation shall not be deemed to prejudice in any way the respective positions of the Parties with respect to the Derivative Litigation or to entitle any Party to the recovery of costs and expenses incurred in connection with the intended implementation of the Settlement, including any costs related to providing notice to Applicable Geron Stockholders (as set forth in paragraph 14), to the extent such costs have already been incurred by Geron.
+
+24.
+In the event that the proposed Settlement is rendered null and void for any reason, the existence of or the provisions contained in this Stipulation or any term sheet or other document relating to the terms of the proposed Settlement shall not be deemed to prejudice in any way the respective positions of the Parties with respect to the Derivative Litigation; nor shall they be deemed a presumption, a concession, or an admission by the Parties of any fault, liability, wrongdoing or damages whatsoever as to any facts, claims or defenses that have been or could have been alleged or asserted in the Derivative Litigation, or any other action or proceeding or each thereof; nor shall they be interpreted, construed, deemed, invoked, offered, or received in evidence or otherwise used by any person in the Derivative Litigation, or in any other action or proceeding.
+
+20
+
+WARRANTY AND NON-ASSIGNMENT OF CLAIMS
+
+25.
+Plaintiffs and Plaintiffs’ Counsel represent and warrant that Plaintiffs are current Geron stockholders and that none of Defendants’ Released Claims have been assigned, encumbered, or in any manner transferred in whole or in part, and that neither Plaintiffs nor Plaintiffs’ Counsel will attempt to assign, encumber, or in any way transfer, in whole or in part, any of Defendants’ Released Claims.
+
+ATTORNEYS’ FEES
+
+26.
+After negotiation of the principal terms of the Settlement, including the Corporate Governance Reforms and the definition of Released Claims, the Parties participated in a second full-day mediation session with the assistance of former Vice Chancellor Slights. At the conclusion of this mediation session, the Parties were unable to reach an agreement on the amount of attorneys’ fees and expenses that Plaintiffs’ Counsel would request they be paid in connection with the Settlement of the Derivative Litigation. The Parties continued negotiating the amount of attorneys’ fees and expenses that Plaintiffs’ Counsel would request they be paid with the assistance of former Vice Chancellor Slights. Ultimately, these efforts culminated with the Parties accepting a double-blind Mediator’s Proposal made by former Vice Chancellor Slights. Pursuant to the Mediator’s Proposal, the Parties agreed that Plaintiffs’ Counsel will apply to the Court for an award of attorneys’ fees and expenses not to exceed $1,350,000.00 in the aggregate (the “Fee Award”), and that Defendants will not oppose or object to the requested Fee Award.
+
+21
+
+27.
+The Court may consider and rule upon the fairness, reasonableness, and adequacy of the Settlement independently of Plaintiffs’ Counsel’s requested Fee Award. The failure of the Court to approve the requested Fee Award, in whole or in part, shall have no effect on the validity of the Settlement or delay the enforceability of the Settlement, and final resolution by the Court of the requested Fee Award shall not be a precondition to the dismissal with prejudice of the Derivative Litigation. Any failure of the Court to approve the requested Fee Award, in whole or in part, shall not provide any of the Parties with the right to terminate the Settlement.
+
+28.
+Geron shall pay and/or cause to be paid any fee award entered by the Court as provided by the terms of such order within twenty (20) business days of entry of such order and Plaintiffs’ Counsel providing Geron’s counsel with the necessary information required for payment by check or a wire-transfer, including a signed W- 9 and a tax ID number, with the Fee Award to be held in the escrow account of Robbins LLP. No payments shall be made from the escrow account of Robbins LLP until allocation of the Fee Award has been resolved pursuant to paragraph 30 of this Stipulation. Any payment of any fee award provided herein shall be subject to Plaintiffs’ Counsel’s obligation to make refunds or repayments to Geron of any amounts paid, if the Settlement is terminated pursuant to the terms of this Stipulation or fails to become effective for any reason, or if, as a result of any appeal of further proceedings on remand or successful collateral attack, the award of attorney’s fees and/or expenses is reduced or reversed by final non-appealable court order.
+
+22
+
+29.
+Plaintiffs may seek the Court’s approval of reasonable services for each Plaintiff, to be paid from the Fee Award, and Defendants shall not oppose any such request.
+
+30.
+Plaintiffs’ Counsel shall allocate the Fee Award among themselves. Plaintiffs’ Counsel agree that any disputes regarding the allocation of the Fee Award shall be presented to and be mediated, and, if necessary, finally decided and resolved by the Mediator, former Vice Chancellor Slights on the terms and subject to the processes and procedures set forth by the Mediator. The Mediator’s fees and costs for any such mediation and/or arbitration shall be borne solely by Plaintiffs’ Counsel and allocated among Plaintiffs’ Counsel equally. Defendants and their counsel take no position with respect to, and shall have no liability for, the allocation of any Fee Award among Plaintiffs’ Counsel, including, for the avoidance of doubt, any fees or costs associated with a mediation and/or arbitration before former Vice Chancellor Slights.
+
+23
+
+STIPULATION NOT AN ADMISSION
+
+31.
+Neither this Stipulation nor the Settlement, nor any act or omission taken in connection with this Stipulation or the Settlement, is intended or shall be deemed to be a presumption, concession or admission by: (a) any of the Individual Defendants or any of the Released Defendant Parties as to the validity of any claims, causes of action or other issues that were or could have been raised in the Derivative Litigation or in any other litigation, or to be evidence of or constitute an admission of wrongdoing or liability by any of them, and each of them expressly denies any such wrongdoing or liability; or (b) Plaintiffs as to the lack of merit of any claim or the validity of any defense.
+
+32.
+Any communications related to the Settlement, their contents or any of the negotiations, statements, or proceedings in connection therewith shall not be offered or admitted in evidence or referred to, interpreted, construed, invoked, or otherwise used by any person for any purpose in the Derivative Litigation or otherwise, except as may be necessary to effectuate the Settlement.
+
+33.
+Paragraphs 23, 24, 31 and 32 shall remain in full force and effect in the event that the proposed Settlement is terminated or fails to become effective for any reason.
+
+24
+
+NO WAIVER
+
+34.
+Any failure by any Party to insist upon the strict performance by any other Party of any of the provisions of the Settlement shall not be deemed a waiver of any of the provisions of the Settlement, and such Party shall have the right thereafter to insist upon the strict performance of any and all of the provisions of the Settlement. All waivers must be in writing and signed by the Party against whom the waiver is asserted.
+
+35.
+No waiver, express or implied, by any Party of any breach or default in the performance by any other Party of its obligations pursuant to the Settlement shall be deemed or construed to be a waiver of any other breach, whether prior, subsequent or contemporaneous, under the terms of the Settlement.
+
+BREACH
+
+36.
+The Parties agree that in the event of any breach of the Settlement, all of the Parties’ rights and remedies at law, equity, or otherwise, are expressly reserved.
+
+25
+
+GOVERNING LAW
+
+37.
+This Stipulation and the Settlement contemplated by it shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to conflict of laws principles.
+
+ENTIRE AGREEMENT; AMENDMENTS
+
+38.
+This Stipulation constitutes the entire agreement among the Parties with respect to the subject matter hereof, and may be modified or amended only by a writing signed by the signatories hereto.
+
+COUNTERPARTS
+
+39.
+This Stipulation may be executed in multiple counterparts by any of the signatories hereto, including by facsimile, and as so executed shall constitute one agreement.
+
+SUCCESSORS AND ASSIGNS
+
+40.
+Except as expressly provided for herein, this Stipulation, and all rights and powers granted hereby, shall be binding upon and inure to the benefit of the Parties and their respective agents, executors, heirs, successors, affiliates and assigns.
+
+COMPLIANCE WITH ETHICAL RULES
+
+41.
+The Parties agree that throughout the course of the litigation, all Parties and their counsel complied with the provisions of Rule 11 of the Rules of the Court of Chancery of the State of Delaware and that the Order and Final Judgment submitted to the Court will contain a statement to reflect this compliance.
+
+26
+
+JURISDICTION
+
+42.
+Any action related to: (i) implementing and enforcing the Settlement; or (ii) the allocation of any Fee Award among Plaintiffs’ Counsel should alternative dispute resolution before a mediator prove unsuccessful, shall be filed and litigated exclusively in the Court. Each Party (i) consents to personal jurisdiction in any such action brought in the Court, (ii) consents to service of process by registered mail (with a copy to be delivered at the time of such mailing to counsel for each Party by facsimile or electronic mail) upon such Party and/or such Party’s agent for purposes of such action, (iii) waives any objection to venue in the Court and any claim that Delaware or the Court is an inconvenient forum for such action, and (iv) waives any right to demand a jury trial as to any such action.
+
+AUTHORITY
+
+ 
+
+43.
+The undersigned attorneys represent and warrant that they have the authority from their client(s) to enter into this Stipulation and bind their client(s) thereto.
+
+DATED: December 21, 2022
+
+27
+
+ 
+
+DELEEUW LAW LLC
+
+ 
+
+/s/ P. Bradford deLeeuw
+
+P. Bradford deLeeuw (#3569)
+
+1301 Walnut Green Road
+
+Wilmington, DE 19807
+
+ 
+
+OF COUNSEL:
+
+ 
+
+SHUMAN, GLENN & STECKER
+
+Kip B. Shuman
+
+100 Pine Street, Ste. 1250
+
+San Francisco, CA 94111
+
+ 
+
+SHUMAN, GLENN & STECKER
+
+Rusty E. Glenn
+
+600 17th Street, Suite 2800 South
+
+Denver, CO 80202
+
+ 
+
+SHUMAN, GLENN & STECKER
+
+Brett D. Stecker
+
+326 W. Lancaster Avenue
+
+Ardmore, PA 19003
+
+ 
+
+Counsel for Plaintiff Richard DiLaura and Co-Lead Counsel for Plaintiffs in the Action
+
+ 
+
+ROBBINS LLP
+
+Brian J. Robbins
+
+Craig W. Smith
+
+Shane P. Sanders
+
+Emily R. Bishop
+
+5040 Shoreham Place
+
+San Diego, CA 92101
+
+ 
+
+Counsel for Plaintiffs Ernesto Elizalde, Jr. and Joseph Oriente and Co-Lead Counsel for Plaintiffs in the Action
+
+ 
+
+MORRIS, NICHOLS, ARSHT & TUNNELL LLP
+
+ 
+
+/s/ D. McKinley Measley
+
+D. McKinley Measley (#5108)
+
+1201 N. Market Street
+
+P.O. Box 1347
+
+Wilmington, DE 19899-1347
+
+ 
+
+OF COUNSEL:
+
+ 
+
+John C. Dwyer
+
+Ryan E. Blair
+
+COOLEY LLP
+
+3175 Hanover Street
+
+Palo Alto, CA 94304-1130
+
+ 
+
+Counsel for Individual Defendants and Nominal Defendant Geron Corporation
+
+ 
+
+ 
+
+LEVI & KORSINSKY LLP
+
+ 
+
+/s/ Gregory M. Nespole
+
+Gregory M. Nespole
+
+55 Broadway, 10th Floor
+
+New York, NY 10006
+
+ 
+
+COOCH AND TAYLOR, P.A
+
+ 
+
+/s/ Blake A. Bennett
+
+ 
+
+Blake A. Bennett (#5133)
+
+The Nemours Building1007 N. Orange Street, Suite 1120
+
+Wilmington, Delaware 19801
+
+ 
+
+Counsel for Plaintiff Michael Henry Mongiello
+
+ 
+
+28
+
+ 
+
+GLANCY PRONGAY & MURRAY LLP
+
+ 
+
+/s/ Benjamin I. Sachs-Michaels
+
+Matthew M. Houston
+
+Benjamin I. Sachs-Michaels
+
+745 Fifth Avenue
+
+New York, NY 10151
+
+ 
+
+Counsel for Plaintiff Katharine Jameson
+
+ 
+
+JOHNSON FISTEL LLP
+
+ 
+
+/s/ Brett M. Middleton
+
+Brett M. Middleton
+
+501 West Broadway, Suite 800
+
+San Diego, CA 92101
+
+ 
+
+Counsel for Plaintiff Zachary Gamlieli
+
+ 
+
+29
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CORPORATE GOVERNANCE REFORMS
+
+The corporate governance reforms set forth below (“Corporate Governance Reforms”) shall be implemented and maintained for a period of no less than five (5) years from the date of adoption. Defendants1 acknowledge that Plaintiffs’2 efforts, including investigating, preparing, commencing, and prosecuting the Derivative Actions,3 were the primary cause for the adoption, implementation, and maintenance of the Corporate Governance Reforms set forth below. Defendants acknowledge that Plaintiffs’ efforts were a factor in the Audit Committee’s determination to revise the Company’s Insider Trading Compliance policy (Revised July 2022). Defendants also acknowledge that the foregoing confer substantial benefits on the Company and its stockholders.
+
+ 
+
+a.
+Creation of a Management-Level Disclosure Committee
+
+ 
+
+The Company shall create a new, separate management-level Disclosure and Controls Committee (“Disclosure Committee”) with the purpose of ensuring: (i) the accuracy of any material corporate information disseminated via corporate disclosure channels delivering information to investors; (ii) accurate filings with the SEC; (iii) appropriate corporate public disclosures and standards concerning research and development; and (iv) the effectiveness of the Company’s disclosure controls and procedures.
+
+ 
+
+The Disclosure Committee members shall consist of the following senior executive officers:
+
+ 
+
+•
+Chief Executive Officer (“CEO”)
+
+•
+Chief Financial Officer (“CFO”)
+
+•
+Chief Legal Officer (“CLO”)
+
+•
+Chief Operating Officer (“COO”)
+
+The Disclosure Committee shall consult with the Chief Medical Officer (“CMO”), as necessary, with respect to disclosures related to his or her areas of responsibility, including, but not limited to: (i) the Company’s research and development activities; (ii) compliance with industry laws, including the FDC Act and related Acts, and other rules and regulations; and (iii) clinical trials, clinical trial results, and/or studies.
+
+ 
+
+1 “Defendants” are, collectively: John A. Scarlett, Karin Eastham, V. Bryan Lawlis, Susan
+
+M. Molineaux, Robert J. Spiegel, Olivia Bloom, Daniel M. Bradbury, Hoyoung Huh, and Stephen
+
+N. Rosenfield. Geron Corp. (“Geron” or the “Company”) is named as a nominal defendant.
+
+2 “Plaintiffs” are, collectively, Katherine Jameson, Zachary Gamlieli, Ernesto Elizalde, Jr., Joseph Oriente, Richard DiLaura, and Henry Mongiello.
+
+3 The “Derivative Actions” refer to, collectively: In re Geron Corporation Stockholder Derivative Litigation, 2020-0684-SG (Del. Ch.); In re Geron Corporation Stockholder Derivative Litigation, C.A. No. 3:20-cv-02823-WHA (N.D. Cal.); and In re Geron Corporation Stockholder Derivative Litigation, C.A. No. 1:20-cv-01207-GBW (D. Del).
+
+ 
+
+ 
+
+The mission of the Disclosure Committee will include ensuring effective procedures and protocols are in place at the Company such that all the Company’s corporate public statements, including, but not limited to, SEC filings, press releases, and other corporate public statements, are vetted for accuracy, integrity, and completeness, and for reviewing with management its ongoing compliance with these protocols and procedures.
+
+ 
+
+The Disclosure Committee shall ensure that the Company’s and its officers’ corporate public statements concerning management’s target drug research, development, manufacturing, marketing, and operations goals are consistent with the Company’s capabilities. As part of its review, the Disclosure Committee will consider the Company’s drug research, development, manufacturing, marketing, and operations capabilities goals or targets, and related disclosures.
+
+ 
+
+The approval of the Disclosure Committee shall be required prior to any corporate public statement made or authorized by the Company, its officers, and/or its directors, referencing the Company’s research, development, manufacturing, marketing, and operation capabilities, goals, or targets. The Disclosure Committee shall not grant any such approval without first fully considering the Company’s abilities to meet any such manufacturing and operations goals or targets and determining that any authorized corporate public statement is true and accurate.
+
+ 
+
+The Disclosure Committee shall hold regular meetings prior to the preparation and filing of the Company’s annual and quarterly reports with the SEC, and ad hoc meetings from time to time.
+
+ 
+
+Other personnel of the Company, or representatives of its outside advisors, may be invited to attend Disclosure Committee meetings as deemed necessary or appropriate by the Disclosure Committee in performing its duties and responsibilities.
+
+ 
+
+The Disclosure Committee shall timely provide the Audit Committee with a written report regarding any concerns of the Disclosure Committee whenever warranted by the facts, issues, and circumstances.
+
+ 
+
+The responsibilities of the Disclosure Committee shall include:
+
+ 
+
+(a)
+To ensure that the Company’s controls and procedures provide the information required to be disclosed by the Company in the reports it files or submits under the Securities Exchange Act of 1934 (the “Exchange Act”) and that other corporate information that the Company may disclose to the public is reported accurately and within the time periods specified in the SEC’s rules and regulations.
+
+(b)
+Evaluate the effectiveness of the Company’s disclosure controls and procedures on at least an annual basis.
+
+(c)
+Review the Company’s SEC Form 10-Qs and Form 10-Ks.
+
+(d)
+Review (or delegate to an appropriate subcommittee of the Disclosure Committee the review of) the Company’s other Exchange Act filings (including SEC Form 8-Ks and Proxy Statements), registration statements, press releases containing financial information, information about material acquisitions or dispositions or other information material to the Company’s security holders, correspondence to stockholders, and presentations to analysts and investors, which includes analyst and investor conferences and scripts utilized during question and answer sessions of earnings conference calls.
+
+2
+
+(e)
+Review each Exchange Act report prior to its filing with the SEC to assess the quality and completeness of the disclosures therein and whether the report is accurate and complete in all material respects.
+
+(f)
+Review in advance the Company’s quarterly earnings press releases and related materials (such as analyst conference call scripts) to determine the adequacy and accuracy of the disclosures included therein.
+
+(g)
+Review transcripts of analyst conference calls and other investor presentations for the accuracy of any disclosures made, advise the Audit Committee of any corrections that legally need to be made, and draft any required corrective disclosures.
+
+(h)
+Evaluate the materiality of corporate information and events relating to or affecting the Company and determine the timing and appropriate method of disclosure of corporate information deemed material.
+
+(i)
+Undertake any other duties or responsibilities as the CEO or CFO may from time to time prescribe.
+
+(j)
+Institute pre-clearing mechanisms for any material corporate information disseminated on social media and other non-SEC platforms delivering corporate information to investors.
+
+ 
+
+B.
+Creation of a Chief Compliance Officer Upon Commercialization
+
+ 
+
+As an initial action item following the Company’s commercialization of one or more of its product candidates, because the Company does not yet have a Chief Compliance Officer, the Company will appoint a Chief Compliance Officer as soon as is practicable.
+
+ 
+
+C.
+Enhanced Board Reporting
+
+ 
+
+The Company’s CLO and/or CMO shall formally and timely update the full Board at a Board meeting if there are: (i) any material compliance violations by the Company that are raised by the FDA or other regulatory agencies that fall under their respective purviews; and (ii) any material adverse developments in clinical trials in each case that would likely impact the Company’s financing and/or the probability of regulatory approval of drugs or biologics under development in a significant manner.
+
+ 
+
+The COO shall formally and timely update the full Board, as necessary, at a Board meeting regarding:
+
+•
+Enterprise risk management in areas affecting the Company’s research and development activities;
+
+ 
+
+•
+Policies, practices, and procedures for compliance with industry laws, including, without limitation, the FDC Act and related Acts, and other related rules and regulations; and
+
+ 
+
+•
+Regulatory or other risk and compliance issues, particularly those concerning any clinical trials and/or studies.
+
+ 
+
+Upon the request of the CLO and/or CMO, or the independent members of the Board, the independent members of the Board will meet in executive session: (i) with the CLO to review any concerns, including any whistleblower issues, reports of management wrongdoing, pending or threatened litigation, and such other
+
+3
+
+matters that the CLO or independent board members identify, and/or (ii) with the CMO to review any concerns, including any material compliance issues raised by the FDA or other regulatory agencies that fall under the CMO’s purview, potential or actual issues concerning the status of ongoing or planned sponsored clinical trials or drug or biologic approvals, and the effectiveness of the Company’s policies, procedures, systems and controls designed to ensure regulatory compliance.
+
+ 
+
+D.
+Employee Training
+
+ 
+
+The Company shall provide all new hires and appropriate employee populations with training on expectations with respect to integrity and compliance and the Code of Conduct. The Company shall require the appropriate employee populations to attest on an annual basis that they have read, understand, and will comply with the Code of Conduct. The Company’s Whistleblower policy will adequately notify employees of the following: (i) complaints may be directed to an employee’s manager, any member of Human Resources, that employee’s Designated Officer, or via the Reporting Hotline; (ii) reports made through the Reporting Hotline made be made anonymously (unless prohibited by local law); (iii) information gathered during investigations into reports will be kept confidential to the extent possible; and (iv) Geron strictly prohibits retaliation against any individual who raises complaints in good faith.
+
+ 
+
+The Company shall post information regarding the Reporting Hotline phone number on the Company website and make clear that it is available to assist on matters pertaining to a potential violation of the Code of Conduct. The Reporting Hotline shall be confidential, and reports made to the Reporting Hotline relating to accounting, auditing, or embezzlement matters shall be directed to the Chairperson of the Audit Committee.
+
+ 
+
+E.
+Additional Board Reforms
+
+ 
+
+1.
+Director Orientation and Continuing Education
+
+ 
+
+Each member of the Board shall participate in continuing education related to corporate governance practices and other topics pertinent to the Company’s business, as follows:
+
+ 
+
+•
+All new Board members shall attend a third-party director education program within six (6) months of election or appointment to the Board.
+
+•
+Every member of the Board shall attend a similar education program every three years, and the training may be conducted either at an outside entity or internally by the Company’s GC or outside counsel. Any such programs or training may concern, for example, compliance with laws and regulations, disclosures to stockholders, and fiduciary duties in the context of a regulated public company, including compliance with GAAP, the Sarbanes-Oxley Act, corporate governance, assessment of risk, compliance auditing, and reporting requirements for publicly-traded corporations.
+
+ 
+
+The Company shall cover reasonable expenses for attendance at the programs detailed above.
+
+ 
+
+4
+
+2.
+Dissemination of Board Materials Prior To Meetings
+
+ 
+
+In order to give the Board the ability to meaningfully discuss and address critical matters at each Board meeting, the materials the Board will be discussing at each meeting should be sent to Board members at least four (4) calendar days prior to the meeting, or as far in advance as possible if four (4) calendar days prior is impractical (for example, if a special meeting is called on short notice).
+
+ 
+
+3.
+Meetings in Executive Session
+
+ 
+
+The independent directors of the Board shall meet in executive session at each regularly scheduled meeting of the Board, with a minimum requirement to meet at least four (4) times annually outside the presence of any director who serves as an officer of Geron.
+
+ 
+
+F.
+New Board Member
+
+ 
+
+The Company shall add an additional independent director to the Board and undertake best efforts to do so no later than twelve (12) months after final settlement approval. In undertaking such effort, the Nominating and Corporate Governance Committee shall consider the following criteria, among others:
+
+ 
+
+•
+diversity of personal background, perspective, experience and other characteristics, such as gender, gender identity, race, ethnicity, sexual orientation and age;
+
+ 
+
+•
+diversity of business or career experience relevant to the success of the Company;
+
+•
+personal and professional integrity, ethics and values;
+
+•
+experience in corporate management, such as serving as an officer or former officer of a publicly held company, and a general understanding of marketing, finance and other elements relevant to the success of a publicly-traded company in today’s business environment;
+
+ 
+
+•
+experience relevant to the Company’s industry and with relevant social policy concerns;
+
+•
+experience as a board member or executive officer of another publicly held company;
+
+ 
+
+•
+relevant academic expertise;
+
+•
+proficiency in an area of the Company’s operations;
+
+•
+practical and mature business judgment, including ability to make independent analytical inquiries; and
+
+ 
+
+•
+any other relevant qualifications, attributes or skills.
+
+G.
+Board Independence
+
+ 
+
+The Company shall amend its Bylaws to require that at least three-fourths (3/4) of the Board be comprised of independent directors as set forth in the standards required by the NASDAQ Stock Exchange.
+
+ 
+
+5
+
+H.
+Audit Committee and Internal Controls Changes
+
+ 
+
+The Audit Committee Charter shall be amended to include the provisions below, and the amended Audit Committee Charter shall be posted on the investor relations portion of the Company’s website.
+
+ 
+
+1.
+Composition of Audit Committee and Number of Meetings
+
+ 
+
+The Audit Committee Charter shall be revised to require that the Audit Committee meet at least six (6) times annually, including meetings prior to commencement and completion of the annual audit, inclusive of the four (4) Audit Committee meetings prior to the filing of each quarterly report with the SEC on Form 10-Q and the annual report with the SEC on Form 10-K.
+
+ 
+
+2.
+Changes to Audit Committee Charter
+
+ 
+
+The Audit Committee shall meet separately with the CEO, CFO, and/or CLO at least once each quarter and more frequently if necessary to effectively supervise the Company’s disclosure function and specific disclosure issues of particular importance.
+
+ 
+
+The Audit Committee shall review with the CEO, CFO, and/or CLO the accuracy of the financial statements contained in SEC Forms 10-Q, Forms 10-K and associated press releases issued by the Company. Prior to the issuance of earnings or announcement of guidance, the Audit Committee shall review and approve any such disclosure with the Disclosure Committee (or an appropriate subcommittee of the Disclosure Committee) to ensure that the proposed disclosure has a reasonable basis and that all material risks and contingencies are properly disclosed.
+
+ 
+
+The Chairperson of the Audit Committee shall meet with the Company’s outside auditors at least four (4) times annually, including before the filing of the Company’s quarterly and annual reports with the SEC.
+
+Additionally, the Audit Committee Charter shall be revised to add a provision requiring that the Audit Committee review and discuss with the CEO, CFO, and/or CLO any material, proposed compliance-related disclosures in the Company’s annual and quarterly financial statements.
+
+6
+
+Exhibit B
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+ IN RE GERON CORPORATION
+
+)
+
+Consolidated
+
+STOCKHOLDER DERIVATIVE LITIGATION
+
+)
+
+C.A. No. 2020-0684-SG
+
+ 
+
+SCHEDULING ORDER WITH RESPECT TO NOTICE AND SETTLEMENT HEARING
+
+WHEREAS, (a)(i) plaintiffs in the above-captioned consolidated derivative action, (ii) plaintiffs in the consolidated derivative action pending in the United States District Court for the Northern District of California, captioned In re Geron Corporation Stockholder Derivative Litigation, C.A. No. 3:20-cv-02823-WHA (N.D. Cal.), and (iii) plaintiffs in the consolidated derivative action pending in the United States District Court for the District of Delaware, captioned In re Geron Corporation Stockholder Derivative Litigation, C.A. No. 1:20-cv-01207-GBW (D. Del) (collectively, “Plaintiffs”), individually and derivatively on behalf of Geron Corporation (“Geron” or the “Company”), (b) defendants John A. Scarlett, Karin Eastham, V. Bryan Lawlis, Susan M. Molineaux, Robert J. Spiegel, Olivia Bloom, Daniel M. Bradbury, Hoyoung Huh, and Stephen N. Rosenfield (the “Individual Defendants”), and (c) nominal defendant Geron (together with the Individual Defendants, “Defendants,” and collectively with Plaintiffs, the “Parties” and each a “Party”), have entered into a Stipulation of Settlement dated December 21, 2022 (“Stipulation”), which sets forth the terms and conditions of the proposed Settlement and dismissal with prejudice of the Derivative Litigation,1 and provides for the full and final compromise, discharge, release, and settlement of the Released Claims by the Releasing Parties as against the Released Parties, subject to the approval of the Court;
+
+ 
+
+1 All capitalized terms not otherwise defined herein shall have the same meaning ascribed to such terms in the Stipulation.
+
+ 
+
+WHEREAS, the Court has read and considered the Stipulation and the exhibits attached thereto; and
+
+WHEREAS, all Parties have consented to entry of this order.
+
+NOW, upon application of the Parties, after review and consideration of the Stipulation and exhibits attached thereto, IT IS HEREBY ORDERED this day of __________, 2022 / 2023, as follows:
+
+1.
+A hearing (the “Settlement Hearing”) shall be held on ___________ , 2023 at _____a.m. / p.m. to: (a) determine whether the proposed Settlement, on the terms and conditions provided for in the Stipulation, is fair, reasonable, and adequate and in the best interests of Geron and all Applicable Geron Stockholders; (b) determine whether the Court should finally approve the Stipulation and enter the Order and Final Judgment (the “Final Judgment”) as provided in the Stipulation, dismissing the Action with prejudice and extinguishing and releasing the Released Claims; (c) hear and rule on any objections to the proposed Settlement; (d) determine whether the Court should approve Plaintiffs’ application for a Fee Award; and (e) rule on such other matters as the Court may deem appropriate.
+
+2
+
+2.
+The Settlement Hearing may be adjourned by the Court from time to time without further notice to anyone other than the Parties and any Objectors (as defined herein).
+
+3.
+The Court reserves the right to approve the Stipulation at or after the Settlement Hearing with such modifications as may be consented to by the Parties and without further notice.
+
+4.
+The Court approves, in form and content, the Notice of Pendency of Settlement of Derivative Litigation (the “Notice”) filed by the Parties as Exhibit C to the Stipulation and finds that the distribution of Notice in the manner set forth herein meets the requirements of Rule 23.1 of the Rules of the Court of Chancery of the State of Delaware and due process, is the best notice practicable under the circumstances, and shall constitute due and sufficient notice to all Applicable Geron Stockholders.
+
+5.
+By no later than sixty (60) calendar days prior to the Settlement Hearing, Geron shall mail the Notice, substantially in the form attached as Exhibit C to the Stipulation, to all record stockholders of Geron at their respective addresses currently set forth in Geron’s stock records. In addition, the Company shall use reasonable efforts to give notice to all beneficial owners of Geron stock by: (a) filing copies of the Stipulation and Notice as exhibits to a Form 8-K with the United States Securities and Exchange Commission; (b) posting links to the Stipulation and Notice on the Company’s Investor Relations page of its website through the date of the Settlement Hearing; and (c) including in the Notice a statement that a copy of the Stipulation can be found on the Company’s Investor Relations page of its website along with the website’s address. At least ten (10) calendar days prior to the Settlement Hearing, counsel
+
+3
+
+for Defendants shall file with the Court an appropriate affidavit with respect to the preparation, mailing and public dissemination of the notice required by this paragraph. Geron shall be responsible for all costs associated with the notice required by this paragraph.
+
+6.
+In addition to the Notice provided by Geron, Plaintiffs’ Counsel shall post copies of the Stipulation and Notice on their respective websites.
+
+7.
+As set forth in the Notice, any record or beneficial stockholder of Geron who objects to the Stipulation, the proposed Final Judgment, and/or the Fee Award who wishes to be heard (“Objector”) may appear in person or by his, her, or its attorney at the Settlement Hearing and present any evidence or argument that may be proper and relevant; provided, however, that no Objector shall be heard or entitled to contest the approval of the terms and conditions of the Settlement, or, if approved, the Final Judgment, unless he, she, or it has, no later than twenty (20) calendar days prior to the Settlement Hearing (unless the Court in its discretion shall thereafter otherwise direct, upon application of such person and for good cause shown), filed with the Register in Chancery, Court of Chancery, New Castle County Courthouse, 500 North King Street, Wilmington, Delaware 19801, and served upon counsel listed below, the following: (i) proof of current ownership of Geron stock; (ii) a written notice of the Objector’s intention to appear that states the Objector’s name, address, and telephone number and, if represented, the Objector’s counsel; (iii) a detailed statement of all of the grounds thereon and the reasons for the Objector’s desire to appear and to be heard, and (iv) all documents or writings which the Objector desires the Court to consider. Such filings must be served upon the following counsel by hand delivery, overnight mail, or the Court’s
+
+4
+
+electronic filing and service system:
+
+ 
+
+ DELEEUW LAW LLC
+
+P. Bradford deLeeuw
+
+ 
+
+MORRIS, NICHOLS, ARSHT & TUNNELL LLP
+
+1301 Walnut Green Road
+
+ 
+
+D. McKinley Measley
+
+Wilmington, DE 19807
+
+ 
+
+1201 North Market Street
+
+(302) 274-2180
+
+ 
+
+Wilmington, Delaware 19801
+
+ 
+
+ 
+
+(302) 658-9200
+
+Counsel for Plaintiffs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Counsel for Defendants
+
+ 
+
+8.
+Any Person who fails to object in the manner prescribed in paragraph 7 above shall be deemed to have waived such objection (including the right to appeal), unless the Court in its discretion allows such objection to be heard at the Settlement Hearing, and shall forever be barred from raising such objection in the Derivative Litigation or any other action or proceeding or otherwise contesting the Stipulation or Fee Award, and will otherwise be bound by the Final Judgment to be entered and the releases to be given.
+
+9.
+Plaintiffs shall file and serve their opening brief in support of the Settlement and their application for the requested Fee Award no later than forty-five (45) calendar days prior to the Settlement Hearing. Plaintiff may file a brief in further support of the Settlement and their application for the requested Fee Award no later than ten (10) calendar days prior to the Settlement Hearing. At the time of either Plaintiffs’ opening brief or reply brief, counsel for Plaintiffs shall file with the Court an appropriate affidavit with respect to the public dissemination of the notice required by paragraph 6.
+
+5
+
+10.
+At least five (5) calendar days prior to the Settlement Hearing, the Parties may serve and file with the Court a joint response brief (or, at the Parties discretion, separate response briefs) to any objections made by an Objector pursuant to paragraph 7 above.
+
+11.
+In the event that the Stipulation is not approved by the Court, the Settlement and any actions taken in connection therewith shall become null and void for all purposes, and all negotiations, transactions, and proceedings connected with it: (i) shall be without prejudice to the rights of any Party thereto; (ii) shall not be deemed to be construed as evidence, or an admission by any Party, of any fact, matter, or thing; and (iii) shall not be admissible in evidence or be used for any purpose in any subsequent proceedings in the Derivative Litigation or any other action or proceeding. In addition, in the event that the Stipulation is not approved by the Court, the Parties shall be deemed to have reverted to their respective status in the Derivative Litigation as of the date and time immediately prior to the execution of the Stipulation, and, except as otherwise expressly provided, the Parties shall proceed in all respects as if the Stipulation and any related orders had not been entered.
+
+6
+
+12.
+All proceedings in the Action (except proceedings as may be necessary to carry out the terms and conditions of the proposed Settlement) are hereby stayed and suspended until further order of the Court. Within five (5) business days of this order, Plaintiffs in the Northern District Derivative Action and the District of Delaware Derivative Action shall (a) give those respective courts notice of this order, and (b), to the extent those respective actions are not currently stayed pending Final Approval of the Settlement, file motions to stay and take all steps necessary to ensure that those respective action are stayed pending Final Approval of the Settlement by the Court. Except as provided in the Stipulation, pending final determination of whether the Settlement should be approved, Plaintiffs in the Derivative Litigation and Applicable Geron Stockholders are barred and enjoined from commencing, prosecuting, instigating, or in any way participating in the commencement or prosecution of any action asserting any Released Claim against any of the Individual Defendants or any of the Released Parties.
+
+13.
+The Court may, for good cause shown, extend any of the deadlines set forth in this order without further notice to anyone other than the Parties to the Derivative Litigation and any Objectors.
+
+ 
+
+ 
+
+Vice Chancellor Sam Glasscock III
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+EXHIBIT C
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+ 
+
+IN RE GERON CORPORATION
+
+STOCKHOLDER DERIVATIVE LITIGATION
+
+)
+
+)
+
+Consolidated
+
+C.A. No. 2020-0684-SG
+
+ 
+
+ 
+
+NOTICE OF PENDENCY OF SETTLEMENT OF DERIVATIVE LITIGATION
+
+ 
+
+TO: ALL CURRENT OR OTHERWISE APPLICABLE STOCKHOLDERS OF GERON CORPORATION (NASDAQ SYMBOL: GERN)
+
+ 
+
+PLEASE READ THIS NOTICE CAREFULLY AND IN ITS ENTIRETY. YOUR RIGHTS WILL BE AFFECTED BY THE LEGAL PROCEEDINGS IN THIS DERIVATIVE LITIGATION. IF THE COURT APPROVES THE PROPOSED SETTLEMENT, YOU WILL BE FOREVER BARRED FROM CONTESTING THE FAIRNESS, REASONABLENESS AND ADEQUACY OF THE PROPOSED SETTLEMENT, OR PURSUING THE RELEASED CLAIMS DEFINED HEREIN.
+
+ 
+
+IF YOU DO NOT INTEND TO OBJECT TO THE PROPOSED SETTLEMENT, OR THE ATTORNEY’S FEE AWARD AMOUNT DESCRIBED HEREIN, NO ACTION IS REQUIRED BY YOU IN RESPONSE TO THIS NOTICE.
+
+ 
+
+1.
+WHY ARE YOU RECEIVING THIS NOTICE?
+
+The purpose of this Notice1 is to inform you of (i) the derivative litigation in the Action, the Northern District Derivative Action, and the District of Delaware Derivative Action (collectively, the “Derivative Litigation”) brought by Plaintiffs derivatively on behalf Geron Corporation (“Geron” or the “Company”); (ii) a proposal to settle the Derivative Litigation as provided in a Stipulation of Settlement (“Stipulation”) dated December 21, 2022, which sets forth the terms and conditions of the proposed Settlement of the Derivative Litigation; (iii) your right, among other things, to object to the proposed Settlement and Plaintiffs’ Counsel’s requested Fee Award, and to attend and participate in a hearing scheduled for [ ], 2023, at [ ] a.m. / p.m. (the “Settlement Hearing”). This Notice describes the rights you may have under the Stipulation and what steps you may, but are not required to, take concerning the proposed Settlement. If the Court approves the Stipulation, the Parties will ask the Court to approve an Order and Final Judgment (the “Final Judgment”) that would end the Derivative Litigation.
+
+ 
+
+1 All capitalized terms not otherwise defined herein shall have the same meaning ascribed to such terms in the Stipulation and Scheduling Order.
+
+2
+
+2.
+BACKGROUND OF THE DERIVATIVE LITIGATION AND SETTLEMENT
+
+THE FOLLOWING DESCRIPTION DOES NOT CONSTITUTE FINDINGS OF ANY COURT. IT IS BASED ON STATEMENTS OF THE PARTIES AND SHOULD NOT BE UNDERSTOOD AS AN EXPRESSION OF ANY OPINION OF ANY COURT AS TO THE MERITS OF ANY OF THE CLAIMS OR DEFENSES RAISED BY ANY OF THE PARTIES.
+
+Plaintiffs are current stockholders of nominal defendant Geron. Geron is a Delaware Corporation with its headquarters in Foster City, California. Geron is a late-stage clinical biopharmaceutical company focused on the development and potential commercialization of a telomerase inhibitor, imetelstat, for myeloid hematologic malignancies. Defendants John A. Scarlett, Karin Eastham, V. Bryan Lawlis, Susan M. Molineaux, Robert J. Spiegel, Olivia Bloom, Daniel M. Bradbury, Hoyoung Huh, and Stephen N. Rosenfield (the “Individual Defendants”) are current or former officers and/or directors of Geron.
+
+Plaintiffs allege that the Individual Defendants breached their fiduciary duties to Geron, and engaged in other wrongdoing, by failing to oversee the Company’s making of and/or causing the Company to make false and misleading statements about certain interim results from a Phase 2 clinical study of imetelstat – Geron’s sole drug candidate – called IMbark.
+
+On April 23, 2020, plaintiff Katharine Jameson filed a verified stockholder derivative complaint in the United States District Court for the Northern District of California (the “Jameson Action”) against certain current and/or former directors and officers of Geron alleging breaches of fiduciary duty, unjust enrichment, and violations of Section 14(a) of the Securities Exchange Act of 1934 (the “Exchange Act”).
+
+On August 21, 2020, plaintiff Richard Di Laura filed a Verified Stockholder Derivative
+
+3
+
+Complaint in the Court of Chancery of the State of Delaware (the “DiLaura Action”) against certain current and/or former directors and officers of Geron alleging breach of fiduciary duty.
+
+On September 10, 2020, Jeffrey Byroade filed a verified stockholder derivative complaint in the United States District Court for the District of Delaware (the “Byroade Action”) against certain current and/or former directors and officers of Geron alleging breach of fiduciary duty, unjust enrichment, and violations of Section 14(a) of the Exchange Act.
+
+On November 12, 2020, plaintiff Michael Henry Mongiello filed a verified stockholder derivative complaint in the United States District Court for the District of Delaware (the “Mongiello Action”) against certain current and/or former directors and officers of Geron alleging breach of fiduciary duty, unjust enrichment, waste, and violations of Sections 14(a) and 20(a) of the Exchange Act.
+
+On January 5, 2021, the Byroade Action and Mongiello Action were consolidated as the District of Delaware Derivative Action and stayed pending resolution of the defendants’ motion to dismiss in a related federal securities class action, captioned Michael Tollen v. Geron Corporation and John A. Scarlett, Civil Action No. 20-cv-547-WHA, currently pending in the United States District Court for the Northern District of California (the “Securities Action”).
+
+On March 16, 2021, plaintiffs Ernesto Elizalde, Jr. (“Elizalde”) and Joseph Oriente (“Oriente”) filed a Verified Stockholder Derivative Complaint for Breach of Fiduciary Duty in the Court of Chancery of the State of Delaware captioned Elizalde, et al. v. Scarlett, et al., C.A. No. 2020-0228-SG (the “Elizalde Action”), against certain current and/or former directors and officers of Geron alleging breach of fiduciary duty.
+
+4
+
+On April 2, 2021, plaintiff Zachary Gamlieli filed a verified stockholder derivative complaint in the United States District Court for the Northern District of California (the “Gamlieli Action”) against certain current and/or former directors and officers of Geron alleging breaches of fiduciary duty, unjust enrichment, and violations of Section 10(B) and 21D of the Exchange Act.
+
+On April 9, 2021, the Jameson Action and Gamlieli Action were consolidated as the Northern District Derivative Action.
+
+On April 12, 2021, the court in the Northern District of California granted in part and denied in part the defendants’ motion to dismiss the Securities Action.
+
+On April 22, 2021, plaintiffs DiLaura, Elizalde, and Oriente and counsel for Defendants submitted a Stipulation and [Proposed] Order For Consolidation And Appointment Of Plaintiffs’ Co-Lead Counsel And Delaware Counsel (the “Consolidation Order”).
+
+On April 26, 2021, the Court of Chancery of the State of Delaware entered the Consolidation Order.
+
+On May 28, 2021, plaintiffs DiLaura, Elizalde, and Oriente filed their Verified Consolidated Stockholder Derivative Complaint (“Consolidated Complaint”).
+
+On June 8, 2021, the parties in the District of Delaware Derivative Action agreed to a further stay through resolution of Defendants’ then-forthcoming motion to dismiss the Consolidated Complaint in the Action.
+
+On June 8, 2021, Dennis Penney, a purported stockholder of Geron, filed a shareholder derivative complaint in the Superior Court of the State of California, County of San Mateo,
+
+5
+
+alleging claims for breach of fiduciary duty, waste and unjust enrichment against the Individual Defendants based on the same alleged underlying wrongdoing asserted by Plaintiffs in the Derivative Litigation (the “San Mateo Derivative Action”).
+
+On June 28, 2021, the Northern District Derivative Action was stayed pending resolution of the plaintiffs’ class certification motion in the Securities Action.
+
+On July 2, 2021, Defendants filed their motion to dismiss plaintiffs DiLaura, Elizalde, and Oriente’s Consolidated Complaint pursuant to Rules 23.1 and 12(b)(6).
+
+On August 5, 2021, Defendants filed a motion to dismiss the San Mateo Derivative Action. In their motion, Defendants argued that the San Mateo Derivative Action was filed in California state court in violation of Geron’s bylaws, which provide that the Court is the “sole and exclusive forum” for derivative actions, actions alleging claims for breach of fiduciary duty, and actions alleging claims governed by the internal affairs doctrine.
+
+On August 30, 2021, counsel for plaintiffs DiLaura, Elizalde, and Oriente informed counsel for Defendants that, rather than oppose Defendants’ motion to dismiss, plaintiffs DiLaura, Elizalde, and Oriente would be filing an amended complaint pursuant to Rule 15(aaa).
+
+On September 1, 2021, plaintiffs DiLaura, Elizalde, and Oriente filed their Amended Verified Consolidated Stockholder Derivative Complaint (“Amended Consolidated Complaint”).
+
+On October 12, 2021, Defendants filed their motion to dismiss plaintiffs DiLaura, Elizalde, and Oriente’s Amended Consolidated Complaint pursuant to Rules 23.1 and 12(b)(6)
+
+6
+
+(“Motion to Dismiss”).
+
+On November 16, 2021, the California state court granted Defendants’ motion to dismiss the San Mateo Derivative Action finding that “Defendants have met their burden of proving the action should be tried in Delaware Chancery Court pursuant to the forum selection bylaw.” However, rather than dismiss the case, the California state court exercised its discretion and stayed the San Mateo Derivative Action.
+
+On December 3, 2021, plaintiffs DiLaura, Elizalde, and Oriente filed their opposition to the Motion to Dismiss.
+
+On December 23, 2021, Defendants filed their reply in support of the Motion to Dismiss.
+
+On February 15, 2022, the Court of Chancery of the State of Delaware heard oral argument on Defendants’ Motion to Dismiss.
+
+On April 2, 2022, the court in the Northern District of California certified the Securities Action as a class action under Rule 23 of the Federal Rules of Civil Procedure.
+
+On June 3, 2022, the Court of Chancery of the State of Delaware issued a Memorandum Opinion staying consideration of Defendants’ Motion to Dismiss pending the final resolution of the Securities Action or, alternatively, pending a delay or other change in circumstances in the Securities Action or “as otherwise appropriate.”
+
+On June 7, 2022, plaintiffs in the Northern District Derivative Action filed an amended stockholder derivative complaint.
+
+7
+
+On June 22, 2022, the Court of Chancery of the State of Delaware issued an Order staying this Action “until the resolution of the Securities Action, or until further Order of the Court on the application of any party.”
+
+On July 6, 2022, the court in the Northern District of California further stayed the Northern District Derivative Action “until the earlier of the following two events: (a) public announcement of a settlement of the Securities [ ] Action; or (b) a final judgment in the Securities [ ] Action, including the lapse of any time to appeal and/or the final non-appealable resolution of any filed appeal.”
+
+On August 31, 2022, Scott D. Cicero, a purported stockholder of Geron, served a demand on Geron’s board of directors (“Board”) requesting that the Board investigate and pursue claims for breach of fiduciary duty against the Individual Defendants and certain other officers of the Company based on the same alleged underlying wrongdoing asserted by Plaintiffs in the Derivative Litigation.
+
+On September 2, 2022, the parties in the Securities Action filed a Stipulation and Agreement of Settlement (“Securities Action Settlement”).
+
+After the filing of the Securities Action Settlement, the Parties began to discuss the prospect of holding formal settlement negotiations and the selection of a mediator.
+
+On November 1, 2022, the Parties participated in a full-day mediation with former Vice Chancellor Joseph R. Slights III of the law firm Wilson, Sonsini, Goodrich & Rosati, LLP. During the mediation, the Parties reached an agreement on corporate governance reforms that would be instituted by Geron in connection with the Settlement, subject to approval of the
+
+8
+
+Court of Chancery of the State of Delaware.
+
+On November 3, 2022, the Parties reached agreement on the language of the releases that are included in the Stipulation and agreed to present the Stipulation for approval in the Court of Chancery of the State of Delaware.
+
+On November 7, 2022, the Parties participated in a second full-day mediation with former Vice Chancellor Slights regarding the amount of the Fee Award that Plaintiffs’ Counsel would apply for in connection with the Court’s consideration of the Settlement. The Parties were unable to reach a resolution on that issue at the November 7 mediation but continued arm’s-length negotiations and discussions thereafter, all of which were overseen by former Vice Chancellor Slights.
+
+On December 1, 2022, former Vice Chancellor Slights issued a confidential, double-blind mediator’s proposal for Plaintiffs’ Counsel’s attorneys’ fees and expenses in the amount of $1,350,000 (the “Mediator’s Proposal”), subject to Court approval.
+
+On December 4, 2022, former Vice Chancellor Slights informed the Parties that all Parties had accepted the Mediator’s Proposal.
+
+On December 12, 2022, the plaintiff in the San Mateo Derivative Action filed a stipulation requesting that the San Mateo Derivative Action be dismissed without prejudice in light of the proposed Settlement in the Derivative Litigation.
+
+On December 13, 2022, the California state court dismissed the San Mateo Derivative Action.
+
+9
+
+THE COURT HAS NOT FINALLY DETERMINED THE MERITS OF PLAINTIFFS' CLAIMS OR THE DEFENSES THERETO. THIS NOTICE DOES NOT IMPLY THAT THERE HAS BEEN OR WOULD BE ANY FINDING OF VIOLATION OF THE LAW BY THE INDIVIDUAL DEFENDANTS OR THAT RECOVERY COULD BE HAD IN ANY AMOUNT IF THE DERIVATIVE LITIGATION WAS NOT SETTLED.
+
+3.
+WHAT ARE THE TERMS OF THE SETTLEMENT?
+
+In consideration for the full Settlement and release of the Released Claims, and upon Court approval of the Settlement, Geron has implemented or will implement the Corporate Governance Reforms set forth in Exhibit A to the Stipulation, of which Plaintiffs were the primary cause.
+
+In further consideration for the full Settlement and release of the Released Claims, Defendants have acknowledged that Plaintiffs and the Derivative Litigation were a factor in Geron’s July 2022 revisions to the Company’s Insider Trading Compliance policy, and that the Corporate Governance Reforms confer substantial benefits on the Company and its stockholders.
+
+The Corporate Governance Reforms shall remain in effect for a period of at least five (5) years from the date of adoption; provided, however, that the Corporate Governance Reforms shall not be binding upon any successor or acquirer of the Company in the event of a change in control transaction.
+
+4.
+WHAT CLAIMS WILL THE SETTLEMENT RELEASE?
+
+Upon Final Approval of the Settlement, Plaintiffs’ Releasing Parties shall fully, finally, and forever compromise, settle, resolve, release, relinquish, waive and discharge, and shall forever be enjoined from prosecuting any and all of the Defendants’ Released Claims as against the Released Defendant Parties.
+
+10
+
+Upon Final Approval of the Settlement, Defendants’ Releasing Parties shall fully, finally, and forever compromise, settle, resolve, release, relinquish, waive and discharge, and shall forever be enjoined from prosecuting any and all of the Plaintiffs’ Released Claims as against the Released Plaintiff Parties.
+
+4.1
+“Defendants’ Released Claims” means any and all claims, demands, rights, liabilities, losses, obligations, duties, damages, costs, debts, expenses, interest, penalties, sanctions, fees, attorneys’ fees, actions, potential actions, causes of action, suits, judgments, defenses, counterclaims, offsets, decrees, matters, issues and controversies of any kind, nature or description whatsoever, whether known or unknown, including Unknown Claims, that Plaintiffs asserted or could have asserted on behalf of nominal defendant Geron in the Derivative Litigation or in any other court, tribunal, forum or proceeding, whether based on state, federal, local, foreign, statutory, regulatory, common or other law or rule, and which are based upon, arise out of, or relate in any way to, or involve, directly or indirectly, (a) the actions, inactions, deliberations, disclosures, discussions, decisions, votes, or any other conduct of any kind by any of the Released Defendant Parties, relating in any way to any facts, matters, events, circumstances, claims, or allegations alleged or that could have been alleged in the Derivative Litigation, or (b) the institution, commencement, prosecution, defense, mediation, or settlement of the Derivative Litigation.
+
+4.2
+“Defendants’ Releasing Parties” means Defendants and their respective agents, spouses, heirs, predecessors, successors, transferors, transferees, personal representatives, representatives and assigns.
+
+11
+
+4.3
+“Plaintiffs’ Released Claims” means all claims and causes of action of every nature and description, whether known or unknown, whether arising under federal, state, common or foreign law, including Unknown Claims, that arise out of or relate in any way to Released Plaintiff Parties’ institution, prosecution, or settlement of the Derivative Litigation.
+
+4.4
+“Plaintiffs’ Releasing Parties” means Plaintiffs, Geron, and all Applicable Geron Stockholders, whether acting directly, representatively, or derivatively on behalf of Geron, and their respective agents, spouses, heirs, predecessors, successors, transferors, transferees, personal representatives, representatives and assigns.
+
+4.5
+“Released Claim(s)” means Plaintiffs’ Released Claims and Defendants’ Released Claims; provided, however, for the avoidance of doubt, that Released Claims shall not include any claims relating to the enforcement of the Stipulation or Settlement or any claims by Geron or the Individual Defendants for insurance coverage or any claims by the Individual Defendants for indemnification or advancement.
+
+4.6
+“Released Defendant Parties” means all Defendants in the Derivative Litigation, and any and all of their and Geron’s respective current or former agents, parents, controlling persons, general or limited partners, members, managers, managing members, direct or indirect equity holders, subsidiaries, affiliates, employees, officers, directors, predecessors, successors, attorneys, heirs, assigns, insurers, reinsurers, consultants, and other representatives, servants and related persons, in their capacities as such.
+
+4.7
+“Released Party” or “Released Parties” means each and all of the Released Plaintiff Parties and the Released Defendant Parties.
+
+12
+
+4.8
+“Released Plaintiff Parties” means Plaintiffs and Plaintiffs’ Counsel and each of their respective agents, assigns, and related persons.
+
+4.9
+“Releasing Parties” means Plaintiffs’ Releasing Parties and Defendants’ Releasing Parties.
+
+4.10
+“Unknown Claims” means any Released Claim which the Releasing Party does not know or suspect to exist in his, her or its favor at the time of Final Approval of the Released Claims as against the Released Parties, including without limitation those which, if known, might have affected the decision to enter into or object to the Settlement. This shall include a waiver of any rights pursuant to California Civil Code § 1542 (and equivalent, comparable, or analogous provisions of the laws of the United States or any state or territory thereof, or of the common law), which provides:
+
+A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, AND THAT IF KNOWN BY HIM OR HER WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR THE RELEASED PARTY.
+
+5.
+WHAT ARE THE REASONS FOR SETTLING THE DERIVATIVE LITIGATION?
+
+Plaintiffs’ entry into the Stipulation is not intended to be and shall not be construed as an admission or concession concerning the relative strength or merit of the claims alleged in the Derivative Litigation. Plaintiffs’ Counsel has taken into account the uncertain outcome and the risk of any litigation, especially in complex cases such as the Derivative Litigation, as well as the difficulties and delays inherent in such litigation, and Plaintiffs’ Counsel is also mindful of the inherent problems of proof and possible defenses to the claims alleged in the Derivative
+
+13
+
+Litigation. Based upon Plaintiffs’ Counsel’s evaluation, Plaintiffs have determined that the Settlement is fair, reasonable, adequate, and in the best interests of Geron and all Applicable Geron Stockholders and has agreed to settle the Derivative Litigation upon the terms and subject to the conditions set forth in the Stipulation.
+
+Defendants have denied, and continue to deny, that they committed any breach of duty, violated any law, or engaged in any wrongdoing, expressly maintain that they diligently and scrupulously complied with their fiduciary and other legal duties, to the extent such duties exist, and further believe that the Derivative Litigation is without merit. Defendants have entered into the Stipulation to eliminate the uncertainty, burden and expense of further protracted litigation. Neither their entry into the Stipulation nor the Stipulation itself shall be construed or deemed to be evidence of or an admission or concession on the part of any of the Defendants, with respect to any claim or allegation of any fault or liability or wrongdoing or damage whatsoever, or any infirmity in the defenses that Defendants have, or could have, asserted in the Derivative Litigation. Defendants expressly deny that Plaintiffs have asserted any valid claims as to any of them, and expressly deny any and all allegations of fault, liability, wrongdoing or damages whatsoever.
+
+6.
+HOW WILL THE ATTORNEYS GET PAID?
+
+After negotiation of the principal terms of the Settlement, including the Corporate Governance Reforms and the definition of Released Claims, the Parties participated in a second full-day mediation session with the assistance of former Vice Chancellor Slights. At the conclusion of this mediation session, the Parties were unable to reach an agreement on the amount of attorneys’ fees and expenses that Plaintiffs’ Counsel would request they be paid in
+
+14
+
+connection with the Settlement of the Derivative Litigation. The Parties continued negotiating the amount of attorneys’ fees and expenses that Plaintiffs’ Counsel would request they be paid with the assistance of former Vice Chancellor Slights. Ultimately, these efforts culminated with the Parties accepting a double-blind Mediator’s Proposal made by former Vice Chancellor Slights. Pursuant to the Mediator’s Proposal, the Parties agreed that Plaintiffs’ Counsel will apply to the Court for an award of attorneys’ fees and expenses not to exceed $1,350,000.00 in the aggregate (the “Fee Award”).
+
+Defendants acknowledge and agree that Plaintiffs’ Counsel is entitled to a fee award. Defendants have agreed not to oppose the application by Plaintiffs’ Counsel for the requested Fee Award.
+
+Plaintiffs may also seek the Court’s approval of reasonable services awards for each of the Plaintiffs, to be paid from the Fee Award, and Defendants have agreed not to oppose any such request.
+
+The requested Fee Award will be paid by Geron and/or its insurers.
+
+Neither Plaintiffs nor Plaintiffs’ Counsel will make any application for an award of attorneys’ fees or expenses in any other jurisdiction. Except as otherwise provided in the Stipulation, each of the Parties shall bear his, her, or its own fees and costs.
+
+15
+
+7.
+WHEN WILL THE SETTLEMENT HEARING TAKE PLACE?
+
+The Court has scheduled a Settlement Hearing to be held on [ ], 2023 at [ ] a.m. / p.m. At the Settlement Hearing, the Court will consider whether the terms of the Settlement are fair, reasonable, and adequate and thus should be finally approved, whether the Fee Award should be approved, and whether the Action should be dismissed with prejudice by entry of the Final Judgment pursuant to the Stipulation. The Court will also hear and rule on any objections to the proposed Settlement and Fee Award, and rule on such other matters as the Court may deem appropriate. The Court may adjourn the Settlement Hearing from time to time without further notice to anyone other than the Parties and any Objectors (as defined below). The Court reserves the right to approve the Stipulation at or after the Settlement Hearing with such modifications as may be consented to by the Parties to the Stipulation and without further notice.
+
+16
+
+8.
+DO I HAVE A RIGHT TO APPEAR AND OBJECT?
+
+Yes. Any record or beneficial stockholder of Geron who wishes to object to the Stipulation, the proposed Final Judgment, and/or the Fee Award (“Objector”), may appear in person or by his, her, or its attorney at the Settlement Hearing and present any evidence or argument that may be proper and relevant; provided, however, that no Objector shall be heard or entitled to contest the approval of the terms and conditions of the Settlement, or, if approved, the Final Judgment, unless he, she, or it has, no later than twenty (20) calendar days prior to the Settlement Hearing (unless the Court in its discretion shall thereafter otherwise direct, upon application of such person and for good cause shown), filed with the Register in Chancery, Court of Chancery, New Castle County Courthouse, 500 North King Street, Wilmington, Delaware 19801, and served upon counsel listed below, the following: (i) proof of current ownership of Geron stock; (ii) a written notice of the Objector’s intention to appear that states the Objector’s name, address, and telephone number and, if represented, the Objector’s counsel; (iii) a detailed statement of all of the grounds thereon and the reasons for the Objector’s desire to appear and to be heard, and (iv) all documents or writings which the Objector desires the Court to consider. Such filings must be served upon the following counsel by hand delivery, overnight mail, or the Court’s electronic filing and service system:
+
+DELEEUW LAW LLC
+
+P. Bradford deLeeuw 1301 Walnut Green Road Wilmington, DE 19807
+
+(302) 274-2180
+
+ 
+
+Counsel for Plaintiffs
+
+MORRIS, NICHOLS, ARSHT & TUNNELL LLP
+
+D. McKinley Measley 1201 North Market Street
+
+Wilmington, Delaware 19801
+
+(302) 658-9200
+
+ 
+
+Counsel for Defendants
+
+ 
+
+17
+
+ 
+
+ 
+
+Any person who fails to object in the manner prescribed above shall be deemed to have waived such objection (including the right to appeal), unless the Court in its discretion allows such objection to be heard at the Settlement Hearing, and shall forever be barred from raising such objection in the Derivative Litigation or any other action or proceeding or otherwise contesting the Stipulation or Fee Award, and will otherwise be bound by the Final Judgment and the releases to be given.
+
+9.
+HOW DO I GET ADDITIONAL INFORMATION?
+
+This Notice summarizes the Stipulation. It is not a complete statement of the events in the Derivative Litigation nor a complete recitation of the terms and conditions of the Stipulation. For additional information about the Derivative Litigation and Settlement, please refer to the documents filed with the Court, in the Northern District Derivative Action, in the District of Delaware Derivative Action, and the Stipulation. The Stipulation can be found on the Company’s website at the following address: https://ir.geron.com/home/default.aspx. You may also examine the files in the Action during regular business hours of each business day at the office of the Register in Chancery, Court of Chancery, New Castle County Courthouse, 500 North King Street, Wilmington, Delaware 1980. The Clerk’s office will not mail copies of documents to you. You may also access the files in the Northern District Derivative Action and the District of Delaware Derivative Action, respectively, by accessing the dockets in those cases, for a fee, through the Public Access to Court Electronic Records (PACER) system at https://ecf.cand.uscourts.gov, or by visiting (i) the office of the Clerk of the Court for the United States District Court for the Northern District of California, 450 Golden Gate Avenue,
+
+18
+
+San Francisco, CA 94102, between 9:00 a.m. and 4:00 p.m. Pacific, Monday through Friday, excluding Court holidays, or (ii) the Office of the Clerk for the United States District Court for the District of Delaware, 844 North King St., Unit 18, Wilmington, DE 19801, between 8:30 a.m. and 4:00 p.m. Eastern, Monday through Friday, excluding Court holidays. For more information concerning the Settlement, you may also call or write to Plaintiffs’ Counsel referenced above in Section 8.
+
+PLEASE DO NOT CALL OR WRITE TO THE COURT.
+
+ 
+
+DATED: [ ]
+
+BY ORDER OF THE COURT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vice Chancellor Sam Glasscock III
+
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit D
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+ 
+
+ IN RE GERON CORPORATION
+
+ 
+
+)
+
+ 
+
+Consolidated
+
+ STOCKHOLDER DERIVATIVE LITIGATION
+
+ 
+
+)
+
+ 
+
+C.A. No. 2020-0684-SG
+
+ 
+
+ 
+
+ORDER AND JUDGMENT
+
+ 
+
+A hearing having been held before this Court on _________, 2023, pursuant to the Court’s order of______, 2022 / 2023 (the “Scheduling Order”), upon the Stipulation of Settlement dated December 21, 2022 (“Stipulation”), entered into between and among the Parties in the Derivative Litigation,1 which is incorporated by reference, it appearing that due notice of the hearing has been given to all Applicable Geron Stockholders in accordance with the Scheduling Order, the Parties having appeared through their respective attorneys of record, the Court having heard and considered evidence in support of the proposed Settlement, the attorneys for the Parties having been heard, an opportunity to be heard having been given to all other persons requesting to be heard in accordance with the Scheduling Order, the Court having determined that notice to all Applicable Geron Stockholders was adequate and sufficient, and the entire matter of the proposed Settlement having been heard and considered by the Court, IT IS
+
+ 
+
+ 
+
+1 All capitalized terms not otherwise defined herein shall have the same meaning ascribed to such terms in the Stipulation and Scheduling Order.
+
+ 
+
+HEREBY ORDERED, ADJUDGED, AND DECREED, this _____ day of ________, 2023, that:
+
+ 
+
+1.
+The Court has jurisdiction over the subject matter of the Action, and all matters relating to the Settlement of the Action, as well as personal jurisdiction over the Parties and all Applicable Geron Stockholders, and it is further determined that Plaintiffs, Individual Defendants, the Company, and all Applicable Geron Stockholders, as well as their heirs, executors, successors, and assigns, are bound by this Order and Judgment.
+
+2.
+Notice has been given to all Applicable Geron Stockholders, pursuant to and in the manner directed by the Scheduling Order, proof of dissemination of the Notice has been filed with the Court, and full opportunity to be heard has been offered to all Parties and to all other persons and entities with an interest in matters relating to the Settlement. The form and manner of the Notice is hereby determined to have provided due and sufficient notice of the Settlement and to have been given in full compliance with the requirements of Court of Chancery Rule 23.1 and due process.
+
+3.
+Based on the record before the Court, each of the provisions of Court of Chancery Rule 23.1 has been satisfied and the Action has been properly maintained according to the provisions of Court of Chancery Rule 23.1.
+
+2
+
+4.
+The Settlement is found to be fair, reasonable, adequate, and in the best interests of Geron and all Applicable Geron Stockholders and is hereby approved pursuant to Court of Chancery Rule 23.1. The Parties are hereby authorized and directed to comply with and to consummate the Settlement in accordance with its terms and provisions.
+
+5.
+This Action is hereby dismissed with prejudice, and the Register in Chancery is directed to enter and docket this Order and Judgment.
+
+6.
+Within ten (10) business days of the Register in Chancery entering and docketing this Order and Judgment, Plaintiffs in the Northern District Derivative Action and the District of Delaware Derivative Action shall file a copy of this Order and Judgement and seek as expeditiously as possible the dismissal with prejudice of those respective actions.
+
+7.
+The Parties in the Derivative Litigation shall bear their own fees, costs, and expenses, except as provided in paragraph 13 below or as otherwise provided in the Stipulation and Scheduling Order.
+
+8.
+Upon Final Approval of the Settlement, Plaintiffs’ Releasing Parties shall fully, finally, and forever compromise, settle, resolve, release, relinquish, waive and discharge, and shall forever be enjoined from prosecuting any and all of the Defendants’ Released Claims as against the Released Defendant Parties.
+
+9.
+Upon Final Approval of the Settlement, Defendants’ Releasing Parties shall fully, finally, and forever compromise, settle, resolve, release, relinquish, waive and discharge, and shall forever be enjoined from prosecuting any and all of the Plaintiffs’ Released Claims as against the Released Plaintiff Parties.
+
+3
+
+10.
+The Parties are hereby authorized, without further approval from the Court, to agree to adopt such amendments and modifications of the Stipulation that are consistent with this Order and Judgment and that do not limit the rights of the Parties or Applicable Geron Stockholders under the Stipulation. Without further order of the Court, the Parties may agree to reasonable extensions of time to carry out any of the provisions of the Stipulation.
+
+11.
+Neither this Order and Judgment, nor the Stipulation or their negotiation, nor any proceedings taken pursuant thereto shall be deemed or argued to be evidence of or to constitute an admission or concession by: (a) Defendants, the Company, or any of the other Released Defendant Parties of (i) the truth of any fact alleged by Plaintiffs; (ii) the validity of any claims or other issues raised, or which might be or might have been raised, in the Derivative Litigation or in any other litigation; (iii) the deficiency of any defense that has been or could have been asserted in the Derivative Litigation or in any other litigation; or (iv) any wrongdoing, fault, or liability of any kind by any of them, which each of them expressly denies; or (b) Plaintiffs or any of the other Plaintiffs’ Releasing Parties that any of their claims are without merit or that any of the Defendants had meritorious defenses.
+
+4
+
+12.
+In the event that the Settlement is terminated pursuant to the terms of the Stipulation or if any of the conditions in paragraphs 22.1 to 22.4 of the Stipulation do not occur for any reason, then (i) the Settlement and the Stipulation (other than paragraphs 23, 24, 31 and 32 thereof) shall be canceled and terminated; (ii) this Order and Judgment and any related orders entered by the Court shall in all events be treated as vacated, nunc pro tunc; (iii) the Released Claims by the Releasing Parties as against the Released Parties provided for in this Order and Judgment shall be null and void; (iv) the fact of the Settlement shall not be admissible in any proceeding before any court or tribunal; (v) all proceedings in, and parties to, the Derivative Litigation shall revert to their status immediately prior to the Parties entry into the Stipulation, and no materials created by or received from another Party that were used in, obtained during, or related to Settlement discussions shall be admissible for any purpose in any court or tribunal, or used, absent consent from the disclosing party, for any other purpose or in any other capacity, except to the extent that such materials are required to be produced during discovery in the Derivative Litigation or in any other litigation; and (vi) the Parties shall proceed in all respects as if the Stipulation had not been entered into by the Parties.
+
+13.
+Plaintiffs’ Counsel are awarded attorneys’ fees and expenses in the amount of $______(the “Fee Award”), which award the Court finds to be fair and reasonable, and which shall be paid to Plaintiffs’ Counsel in accordance with the terms of the Stipulation. In addition, Plaintiffs are each awarded $_______for their services in connection with the Derivative Litigation, which shall be paid from the Fee Award.
+
+5
+
+14.
+No proceedings or Court order with respect to the Fee Award, if any, or the award to Plaintiffs (as set forth in paragraph 13 above) shall in any way disturb or affect this Order and Judgment (including precluding Final Approval of the Settlement or the Settlement otherwise being entitled to preclusive effect upon the satisfaction of the conditions in paragraphs 22.1 to 22.4 of the Stipulation), and any such proceedings or Court order shall be considered separate from this Order and Judgment.
+
+ 
+
+ 
+
+ 
+
+Vice Chancellor Sam Glasscock III
+
+ 
+
+6

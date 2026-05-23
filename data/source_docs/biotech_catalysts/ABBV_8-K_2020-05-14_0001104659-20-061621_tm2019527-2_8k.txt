@@ -1,0 +1,1352 @@
+0001551152
+false
+Common Stock, $0.01 Par Value
+ABBV
+
+0001551152
+
+2020-05-12
+2020-05-13
+
+0001551152
+
+us-gaap:CommonStockMember
+exch:XNYS
+
+2020-05-12
+2020-05-13
+
+0001551152
+
+exch:XCHI
+us-gaap:CommonStockMember
+
+2020-05-12
+2020-05-13
+
+0001551152
+
+abbv:Sec1.375SeniorNotesDue2024Member
+exch:XNYS
+
+2020-05-12
+2020-05-13
+
+0001551152
+
+abbv:Sec0.750SeniorNotesDue2027Member
+exch:XNYS
+
+2020-05-12
+2020-05-13
+
+0001551152
+
+abbv:Sec2.125SeniorNotesDue2028Member
+exch:XNYS
+
+2020-05-12
+2020-05-13
+
+0001551152
+
+abbv:Sec1.250SeniorNotesDue2031Member
+exch:XNYS
+
+2020-05-12
+2020-05-13
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): May 14, 2020 (May 13, 2020)
+
+ 
+
+ABBVIE INC.
+
+(Exact Name of Registrant as Specified
+in its Charter)
+
+_______________________________________________
+
+ 
+
+Delaware
+
+ 
+
+001-35565
+
+ 
+
+32-0375147
+
+(State or other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+_______________________________________________
+
+ 
+
+1 North Waukegan Road
+
+North Chicago, Illinois 60064-6400
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (847) 932-7900
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common Stock, $0.01 Par Value
+
+ 
+
+ABBV
+
+ 
+
+New York Stock Exchange
+
+Chicago
+Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ 
+
+ABBV24
+
+ 
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ 
+
+ABBV27
+
+ 
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ 
+
+ABBV28
+
+ 
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ 
+
+ABBV31
+
+ 
+
+New York Stock Exchange
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+ 
+
+Exchange Offers
+and Consent Solicitations
+
+ 
+
+On May 14, 2020 (the “Settlement
+Date”), AbbVie Inc. (“AbbVie”) completed its previously announced (i) offers to exchange (each, an “Exchange
+Offer” and, collectively, the “Exchange Offers”) any and all outstanding notes of certain series issued by Allergan
+Finance, LLC (“Allergan Finance”), Allergan, Inc. (“Allergan Inc”), Allergan Sales, LLC (“Allergan
+Sales”) and Allergan Funding SCS (“Allergan Funding” and, together with Allergan Finance, Allergan Inc and Allergan
+Sales, “Allergan”) (the “Allergan Notes”) for new notes issued by AbbVie and (ii) related consent solicitations
+(each, a “Consent Solicitation” and, collectively, the “Consent Solicitations”) made by AbbVie on behalf
+of Allergan to adopt certain amendments (the “Amendments”) to each of the indentures
+governing the Allergan Notes (the “Allergan Indentures”). Pursuant to the Exchange Offers and Consent Solicitations,
+the aggregate principal amounts of the Allergan Notes set forth in the table below were validly tendered and subsequently accepted.
+Such accepted Allergan Notes will be retired and canceled and will not be reissued. Following such cancellation, the aggregate
+principal amounts of the Allergan Notes set forth below will remain outstanding.
+
+ 
+
+Title of Series of Allergan Notes
+
+ 
+
+Issuer
+
+ 
+
+Aggregate
+
+Principal Amount
+
+Tendered and
+
+Accepted
+
+ 
+
+ 
+
+Aggregate
+
+Principal Amount
+
+Outstanding
+
+Following Settlement
+
+ 
+
+3.375% Senior Notes due 2020
+
+ 
+
+Allergan Inc
+
+ 
+
+$
+
+311,602,000
+
+ 
+
+ 
+
+$
+
+338,398,000
+
+ 
+
+4.875% Senior Notes due 2021
+
+ 
+
+Allergan Sales
+
+ 
+
+$
+
+431,559,000
+
+ 
+
+ 
+
+$
+
+18,441,000
+
+ 
+
+5.000% Senior Notes due 2021
+
+ 
+
+Allergan Sales
+
+ 
+
+$
+
+1,175,701,000
+
+ 
+
+ 
+
+$
+
+24,299,000
+
+ 
+
+3.450% Senior Notes due 2022
+
+ 
+
+Allergan Funding
+
+ 
+
+$
+
+2,627,036,000
+
+ 
+
+ 
+
+$
+
+251,188,000
+
+ 
+
+3.250% Senior Notes due 2022
+
+ 
+
+Allergan Finance
+
+ 
+
+$
+
+1,462,358,000
+
+ 
+
+ 
+
+$
+
+237,642,000
+
+ 
+
+2.800% Senior Notes due 2023
+
+ 
+
+Allergan Inc
+
+ 
+
+$
+
+244,575,000
+
+ 
+
+ 
+
+$
+
+105,425,000
+
+ 
+
+3.850% Senior Notes due 2024
+
+ 
+
+Allergan Funding
+
+ 
+
+$
+
+945,394,000
+
+ 
+
+ 
+
+$
+
+91,346,000
+
+ 
+
+3.800% Senior Notes due 2025
+
+ 
+
+Allergan Funding
+
+ 
+
+$
+
+2,890,467,000
+
+ 
+
+ 
+
+$
+
+130,225,000
+
+ 
+
+4.550% Senior Notes due 2035
+
+ 
+
+Allergan Funding
+
+ 
+
+$
+
+1,681,354,000
+
+ 
+
+ 
+
+$
+
+107,646,000
+
+ 
+
+4.625% Senior Notes due 2042
+
+ 
+
+Allergan Finance
+
+ 
+
+$
+
+389,217,000
+
+ 
+
+ 
+
+$
+
+67,493,000
+
+ 
+
+4.850% Senior Notes due 2044
+
+ 
+
+Allergan Funding
+
+ 
+
+$
+
+1,008,583,000
+
+ 
+
+ 
+
+$
+
+70,777,000
+
+ 
+
+4.750% Senior Notes due 2045
+
+ 
+
+Allergan Funding
+
+ 
+
+$
+
+827,096,000
+
+ 
+
+ 
+
+$
+
+53,860,000
+
+ 
+
+Floating Rate Notes due 2020
+
+ 
+
+Allergan Funding
+
+ 
+
+€
+
+547,703,000
+
+ 
+
+ 
+
+€
+
+152,297,000
+
+ 
+
+0.500% Senior Notes due 2021
+
+ 
+
+Allergan Funding
+
+ 
+
+€
+
+539,018,000
+
+ 
+
+ 
+
+€
+
+210,982,000
+
+ 
+
+1.500% Senior Notes due 2023
+
+ 
+
+Allergan Funding
+
+ 
+
+€
+
+433,228,000
+
+ 
+
+ 
+
+€
+
+66,772,000
+
+ 
+
+1.250% Senior Notes due 2024
+
+ 
+
+Allergan Funding
+
+ 
+
+€
+
+603,389,000
+
+ 
+
+ 
+
+€
+
+96,611,000
+
+ 
+
+2.625% Senior Notes due 2028
+
+ 
+
+Allergan Funding
+
+ 
+
+€
+
+427,893,000
+
+ 
+
+ 
+
+€
+
+72,107,000
+
+ 
+
+2.125% Senior Notes due 2029
+
+ 
+
+Allergan Funding
+
+ 
+
+€
+
+513,538,000
+
+ 
+
+ 
+
+€
+
+36,462,000
+
+ 
+
+ 
+
+Prior to the settlement of the Exchange
+Offers and Consent Solicitations and upon receipt of the requisite consents to adopt the Amendments with respect to each series
+of Allergan Notes, supplemental indentures were executed eliminating substantially all of the covenants, restrictive provisions,
+events of default and any guarantees of the related Allergan Notes in each Allergan Indenture. Such supplemental indentures became
+operative upon the Settlement Date.
+
+ 
+
+In connection with the settlement of the
+Exchange Offers and Consent Solicitations, on May 14, 2020, AbbVie issued:
+
+ 
+
+(i)
+
+$311,602,000 aggregate principal amount of 3.375% Senior Notes due 2020 (the “3.375% 2020
+Notes”);
+
+ 
+
+(ii)
+
+$431,559,000 aggregate principal amount of 4.875% Senior Notes due 2021 (the “4.875% 2021
+Notes”);
+
+ 
+
+(iii)
+
+$1,175,701,000 aggregate principal amount of 5.000% Senior Notes due 2021 (the “5.000% 2021
+Notes”);
+
+ 
+
+(iv)
+
+$2,627,036,000 aggregate principal amount of 3.450% Senior Notes due 2022 (the “3.450% 2022
+Notes”);
+
+ 
+
+(v)
+
+$1,462,358,000 aggregate principal amount of 3.250% Senior Notes due 2022 (the “3.250% 2022
+Notes”);
+
+ 
+
+2
+
+ 
+
+ 
+
+(vi)
+
+$244,575,000 aggregate principal amount of 2.800% Senior Notes due 2023 (the “2.800% 2023
+Notes”);
+
+ 
+
+(vii)
+
+$945,394,000 aggregate principal amount of 3.850% Senior Notes due 2024 (the “3.850% 2024
+Notes”);
+
+ 
+
+(viii)
+
+$2,890,467,000 aggregate principal amount of 3.800% Senior Notes due 2025 (the “3.800% 2025
+Notes”);
+
+ 
+
+(ix)
+
+$1,681,354,000 aggregate principal amount of 4.550% Senior Notes due 2035 (the “4.550% 2035
+Notes”);
+
+ 
+
+(x)
+
+$389,217,000 aggregate principal amount of 4.625% Senior Notes due 2042 (the “4.625% 2042
+Notes”);
+
+ 
+
+(xi)
+
+$1,008,583,000 aggregate principal amount of 4.850% Senior Notes due 2044 (the “4.850% 2044
+Notes”);
+
+ 
+
+(xii)
+
+$827,096,000 aggregate principal amount of 4.750% Senior Notes due 2045 (the “4.750% 2045
+Notes” and, together with the 3.375% 2020 Notes, the 4.875% 2021 Notes, the 5.000% 2021 Notes, the 3.450% 2022 Notes, the
+3.250% 2022 Notes, the 2.800% 2023 Notes, the 3.850% 2024 Notes, the 3.800% 2025 Notes, the 4.550% 2035 Notes, the 4.625% 2042
+Notes, the 4.850% 2042 Notes and the 4.850% 2044 Notes, the “USD Notes”);
+
+ 
+
+(xiii)
+
+€547,703,000 aggregate principal amount of Floating Rate Notes due 2020 (the “2020 Floating
+Rate Notes”);
+
+ 
+
+(xiv)
+
+€539,018,000 aggregate principal amount of 0.500% Senior Notes due 2021 (the “0.500%
+2021 Notes”);
+
+ 
+
+(xv)
+
+€433,228,000 aggregate principal amount of 1.500% Senior Notes due 2023 (the “1.500%
+2023 Notes”);
+
+ 
+
+(xvi)
+
+€603,389,000 aggregate principal amount of 1.250% Senior Notes due 2024 (the “1.250%
+2024 Notes”);
+
+ 
+
+(xvii)
+
+€427,893,000 aggregate principal amount of 2.625% Senior Notes due 2028 (the “2.625%
+2028 Notes”); and
+
+ 
+
+(xviii) 
+
+€513,538,000 aggregate principal amount of 2.125% Senior Notes due 2029 (the “2.125%
+2029 Notes” and, together with the 2020 Floating Rate Notes, the 0.500% 2021 Notes, the 1.500% 2023 Notes, the 1.250% 2024
+Notes and the 2.625% 2028 Notes, the “Euro Notes” and the Euro Notes, together with the USD Notes, the “Notes”).
+
+ 
+
+The USD Notes
+are governed by an indenture, dated November 8, 2012 (the “Base Indenture”),
+by and between AbbVie and U.S. Bank National Association, as trustee (the “Trustee”), as supplemented by Supplemental
+Indenture No. 8, dated May 14, 2020 (the “USD Supplemental Indenture”), by and between AbbVie and the Trustee. The
+Euro Notes are governed by the Base Indenture, as supplemented by Supplemental Indenture No. 9, dated
+May 14, 2020 (the “Euro Supplemental Indenture”), among AbbVie, the Trustee, Elavon Financial Services DAC,
+U.K. Branch, as paying agent (the
+“Paying Agent”), and U.S. Bank National Association, as transfer agent and registrar (in
+such capacity, the “Transfer Agent” and the “Registrar”). In
+connection with the issuance of the Euro Notes, AbbVie, the Trustee, the Paying Agent, the Transfer Agent, Elavon Financial Services
+DAC, U.K. Branch, as calculation agent and the Registrar
+also entered into an agency agreement, dated May 14, 2020 (the “Agency Agreement”).
+
+ 
+
+The
+Notes are unsecured, unsubordinated obligations of AbbVie and will rank equally in right of payment with all of AbbVie’s
+existing and future unsecured, unsubordinated indebtedness, liabilities and other obligations.
+
+ 
+
+The
+interest rate and maturity date for each series of Notes is as follows:
+
+ 
+
+(i)
+
+The 3.375% 2020 Notes will bear interest at a rate of 3.375% per annum and will mature on September
+15, 2020.
+
+ 
+
+(ii)
+
+The 4.875% 2021 Notes will bear interest at a rate of 4.875% per annum and will mature on February
+15, 2021.
+
+ 
+
+(iii)
+
+The 5.000% 2021 Notes will bear interest at a rate of 5.000% per annum and will mature on December
+15, 2021.
+
+ 
+
+(iv)
+
+The 3.450% 2022 Notes will bear interest at a rate of 3.450% per annum and will mature on March
+15, 2022.
+
+ 
+
+3
+
+ 
+
+ 
+
+(v)
+
+The 3.250% 2022 Notes will bear interest at a rate of 3.250% per annum and will mature on October
+1, 2022.
+
+ 
+
+(vi)
+
+The 2.800% 2023 Notes will bear interest at a rate of 2.800% per annum and will mature on March
+15, 2023.
+
+ 
+
+(vii)
+
+The 3.850% 2024 Notes will bear interest at a rate of 3.850% per annum and will mature on June
+15, 2024.
+
+ 
+
+(viii)
+
+The 3.800% 2025 Notes will bear interest at a rate of 3.800% per annum and will mature on March
+15, 2025.
+
+ 
+
+(ix)
+
+The 4.550% 2035 Notes will bear interest at a rate of 4.550% per annum and will mature on March
+15, 2035.
+
+ 
+
+(x)
+
+The 4.625% 2042 Notes will bear interest at a rate of 4.625% per annum and will mature on October
+1, 2042.
+
+ 
+
+(xi)
+
+The 4.850% 2044 Notes will bear interest at a rate of 4.850% per annum and will mature on June
+15, 2044.
+
+ 
+
+(xii)
+
+The 4.750% 2045 Notes will bear interest at a rate of 4.750% per annum and will mature on March
+15, 2045.
+
+ 
+
+(xiii)
+
+The 2020 Floating Rate Notes will bear interest at a variable rate, which for any particular interest
+period will be a per annum rate equal to EURIBOR as determined on the applicable interest determination date by the calculation
+agent appointed by AbbVie, which initially will be the Paying Agent, plus 0.350%, and will mature on November 15, 2020.
+
+ 
+
+(xiv)
+
+The 0.500% 2021 Notes will bear interest at a rate of 0.500% per annum and will mature on June
+1, 2021.
+
+ 
+
+(xv)
+
+The 1.500% 2023 Notes will bear interest at a rate of 1.500% per annum and will mature on November
+15, 2023.
+
+ 
+
+(xvi)
+
+The 1.250% 2024 Notes will bear interest at a rate of 1.250% per annum and will mature on June
+1, 2024.
+
+ 
+
+(xvii)
+
+The 2.625% 2028 Notes will bear interest at a rate of 2.625% per annum and will mature on November
+15, 2028.
+
+ 
+
+(xviii) 
+
+The 2.125% 2029 Notes will bear interest at a rate of 2.125% per annum and will mature on June
+1, 2029.
+
+ 
+
+The foregoing
+summary of the Notes does not purport to be complete and is qualified in its entirety by reference to the full text of (i) the
+Base Indenture attached as Exhibit 4.1 hereto; (ii) the USD Supplemental Indenture attached as Exhibit 4.2 hereto; (iii) the Euro
+Supplemental Indenture attached as Exhibit 4.15 hereto; (iv) the forms of the Notes attached as Exhibits 4.3, 4.4, 4.5, 4.6, 4.7,
+4.8, 4.9, 4.10, 4.11, 4.12, 4.13, 4.14, 4.17, 4.18, 4.19, 4.20, 4.21 and 4.22 hereto; and (v) the Agency Agreement attached as
+Exhibit 4.16 hereto, the terms of which are in each case incorporated herein by reference.
+
+ 
+
+Registration
+Rights Agreement
+
+ 
+
+On May 14, 2020,
+in connection with the completion of the Exchange Offers, AbbVie and Morgan Stanley & Co. LLC, BofA Securities, Inc., Citigroup
+Global Markets Inc., BNP Paribas Securities Corp., HSBC Securities (USA) Inc., Mizuho Securities USA LLC and Wells Fargo Securities,
+LLC, as dealer managers, entered into a registration rights agreement with respect to the Notes (the “Registration Rights
+Agreement”). AbbVie agreed under the Registration Rights Agreement to, among other things, use its commercially reasonable
+efforts to (i) file a registration statement on an appropriate registration form with respect to a registered offer to exchange
+the Notes for new notes, with terms substantially identical in all material respects to the Notes, and (ii) cause such registration
+statement to become effective under the Securities Act of 1933, as amended. AbbVie shall be obligated to pay additional interest
+on the Notes if it does not complete the exchange offer on or prior to the 365th day after the issuance of the Notes, or if the
+shelf registration statement with respect to the Notes (if required to be filed) is not declared effective by the later of (i)
+180 days after the 365th day after the issuance of the Notes or (ii) 180 days after the receipt of the relevant request for filing
+of a shelf registration statement from any of the dealer managers pursuant to the terms of the Registration Rights Agreement.
+
+ 
+
+4
+
+ 
+
+ 
+
+The foregoing
+summary of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the
+full text of the Registration Rights Agreement attached as Exhibit 4.23 hereto, the terms of which are incorporated herein by reference.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The information
+included in Item 1.01 of this Current Report on Form 8-K is incorporated into this Item 2.03 by reference.
+
+ 
+
+Item 8.01 Other
+Events
+
+ 
+
+On May 13, 2020, AbbVie issued a press
+release announcing the final results of the Exchange Offers and Consent Solicitations. A copy of the press release issued by AbbVie is
+attached as Exhibit 99.1 hereto and is incorporated by reference herein.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+ 
+
+Exhibit
+
+ 
+
+ 
+
+ 
+
+4.1
+
+ 
+
+Indenture, dated November 8, 2012, by and between AbbVie Inc. and
+U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.1 of Amendment No. 5 to AbbVie’s
+Registration Statement on Form 10 filed on November 16, 2012)
+
+4.2
+
+ 
+
+Supplemental
+Indenture No. 8, dated May 14, 2020, by and between AbbVie Inc. and U.S. Bank National Association, as trustee
+
+4.3
+
+ 
+
+Form of 3.375% Senior Notes due 2020 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.4
+
+ 
+
+Form of 4.875% Senior Notes due 2021 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.5
+
+ 
+
+Form of 5.000% Senior Notes due 2021 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.6
+
+ 
+
+Form of 3.450% Senior Notes due 2022 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.7
+
+ 
+
+Form of 3.250% Senior Notes due 2022 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.8
+
+ 
+
+Form of 2.800% Senior Notes due 2023 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.9
+
+ 
+
+Form of 3.850% Senior Notes due 2024 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.10
+
+ 
+
+Form of 3.800% Senior Notes due 2025 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.11
+
+ 
+
+Form of 4.550% Senior Notes due 2035 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.12
+
+ 
+
+Form of 4.625% Senior Notes due 2042 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.13
+
+ 
+
+Form of 4.850% Senior Notes due 2044 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.14
+
+ 
+
+Form of 4.750% Senior Notes due 2045 (included
+in Exhibit 4.2 of this Current Report on Form 8-K)
+
+4.15
+
+ 
+
+Supplemental
+Indenture No. 9, dated May 14, 2020, among AbbVie Inc., U.S. Bank National Association, as trustee, transfer agent and registrar,
+and Elavon Financial Services DAC, U.K. Branch, as paying agent
+
+4.16
+
+ 
+
+Agency
+Agreement, dated May 14, 2020, among AbbVie Inc., U.S. Bank National Association, as trustee, transfer agent and registrar,
+and Elavon Financial Services DAC, U.K. Branch, as paying agent and calculation agent  
+
+4.17
+
+ 
+
+Form of Floating Rate Notes due 2020 (included
+in Exhibit 4.15 of this Current Report on Form 8-K)
+
+4.18
+
+ 
+
+Form of 0.500% Senior Notes due 2021 (included
+in Exhibit 4.15 of this Current Report on Form 8-K)
+
+4.19
+
+ 
+
+Form of 1.500% Senior Notes due 2023 (included
+in Exhibit 4.15 of this Current Report on Form 8-K)
+
+4.20
+
+ 
+
+Form of 1.250% Senior Notes due 2024 (included
+in Exhibit 4.15 of this Current Report on Form 8-K)
+
+4.21
+
+ 
+
+Form of 2.625% Senior Notes due 2028 (included
+in Exhibit 4.15 of this Current Report on Form 8-K)
+
+4.22
+
+ 
+
+Form of 2.125% Senior Notes due 2029 (included
+in Exhibit 4.15 of this Current Report on Form 8-K)
+
+4.23
+
+ 
+
+Registration Rights Agreement, dated May
+14, 2020, among AbbVie Inc. and Morgan Stanley & Co. LLC, BofA Securities, Inc., Citigroup Global Markets Inc.,
+BNP Paribas Securities Corp., HSBC Securities (USA) Inc., Mizuho Securities USA LLC and Wells Fargo Securities, LLC
+
+99.1
+
+ 
+
+Press Release dated May
+13, 2020
+
+104
+
+ 
+
+The cover page from this Current Report on Form 8-K formatted in Inline XBRL
+(included as Exhibit 101)
+
+ 
+
+5
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+ABBVIE INC.
+
+ 
+
+ 
+
+Date:
+May 14, 2020
+
+By:   
+
+/s/ Robert A. Michael
+
+ 
+
+ 
+
+Robert A. Michael
+
+ 
+
+ 
+
+Executive Vice President, Chief Financial Officer
+
+ 
+
+6
+
+ 
+
+Common Stock, $0.01 Par Value
+
+ABBV

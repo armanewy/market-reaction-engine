@@ -1,0 +1,146 @@
+EX-99.1
+2
+d94697dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+A W O R L D W I T H O U T I N F E C T I O U S D I S E A S E Vir Biotechnology, Inc. H.C. Wainwright 22nd Annual Global Investment
+Conference September 16, 2020
+
+Legal disclaimers Forward-Looking Statements Statements in this presentation that are not statements of historical fact are
+forward-looking statements. Such forward-looking statements include, without limitation, statements regarding our research and clinical development plans, expected timing of commencement of clinical trials, our goals with respect to the prophylaxis
+or treatment of SARS-CoV-2/COVID-19, HBV, influenza A, tuberculosis and HIV, our manufacturing and commercialization plans, our
+objectives, strategy, technology platform and clinical trial designs, the potential benefits of our collaborations, regulatory matters, market size and opportunity and our ability to complete certain milestones. Words such as “believe,”
+“anticipate,” “plan,” “expect,” “intend,” “will,” “may,” “goal,” “potential” and similar expressions are intended to identify forward-looking statements, though not all
+forward-looking statements necessarily contain these identifying words. These forward-looking statements are based on the beliefs of the management of Vir Biotechnology, Inc. (the “Company”) as well as assumptions made by and information
+currently available to the Company. Such statements reflect the current views of the Company with respect to future events and are subject to known and unknown risks, including business, regulatory, economic and competitive risks, uncertainties,
+contingencies and assumptions about the Company, including, without limitation, risks inherent in developing the Company’s products and technologies, future results from the Company’s ongoing and planned clinical trials such as unexpected
+data or clinical site activation rates or clinical trial enrollment rates that are lower than expected, difficulties arising from our collaborations, challenges in accessing adequate manufacturing capacity, the Company’s ability to obtain
+adequate financing to fund its planned clinical trials and other expenses, trends in the industry, changes in the competitive landscape, delays or disruptions due to the COVID-19 pandemic, the legal and
+regulatory framework for the industry, unexpected litigation or disputes and future expenditures. In light of these risks and uncertainties, the events or circumstances referred to in the forward-looking statements may not occur. The actual results
+may vary from the anticipated results and the variations may be material. Other factors that may cause the Company’s actual results to differ from current expectations are discussed in the Company’s filings with the U.S. Securities and
+Exchange Commission, including the section titled “Risk Factors” contained therein. These forward-looking statements should not be taken as forecasts or promises nor should they be taken as implying any indication, assurance or guarantee
+that the assumptions on which such forward-looking statements have been made are correct or exhaustive or, in the case of the assumptions, fully stated in this presentation. You are cautioned not to place undue reliance on these forward-looking
+statements, which speak only as of the date this presentation is given. Except as required by law, the Company undertakes no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or
+otherwise. The Company claims the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995 for all forward-looking statements. This presentation discusses product candidates that
+are under clinical study and which have not yet been approved for marketing by the U.S. Food and Drug Administration. No representation is made as to the safety or effectiveness of these product candidates for the use for which such product
+candidates are being studied. The trademarks included herein are the property of the owners thereof and are used for reference purposes only. Such use should not be construed as an endorsement of such products.
+
+Vir is stimulating and enhancing the immune system to treat and prevent infectious diseases Invading organism VIR-2218 (HBV) VIR-2703 (COVID-19) Targeting host proteins Innate Immunity Research stage Antibodies Antibodies VIR-3434 (HBV) VIR-2482 (Flu A) VIR-7831 (COVID-19)
+VIR-7832 (COVID-19) Pathogen-specific CD4 and CD8+ T cells T cells VIR-1111 (HIV)
+VIR-2020 (TB) *In collaboration with Alnylam; siRNA: small interfering RNA; HBV: Hepatitis B Virus; SARS-CoV-2: severe acute
+respiratory syndrome coronavirus 2; Flu A: Influenza A; HIV: Human Immunodeficiency Virus; TB: Tuberculosis. © 2020 Vir Biotechnology, Inc.
+
+Our development pipeline Disease Area Product Candidate Treatment/ Prophylaxis Platform
+Pre-clinical Phase 1 Phase 2 Phase 3 Collaborator Anticipated Milestones VIR-2218 Treatment siRNA VIR-2218 + HBV PEG-IFN-âº Treatment siRNA VIR-3434 Treatment mAb Influenza A VIR-2482 Prophylaxis mAb Early treatment VIR-7831 mAb (Ambulatory) Late treatment VIR-7831 mAb (Hospitalized) COVID-19 VIR-7831
+Prophylaxis mAb Treatment and VIR-7832 mAb Prophylaxis Treatment and VIR-2703 Prophylaxis siRNA HIV VIR-1111* Prophylaxis T cell
+1 year response durability 1H:21 Initial data 2021 + VIR-2218 Ph 2 start in 2021 Ph 2 start 4Q:21 October Ph 3 start 2020 October Ph 3 start 2020 2020 Ph 3 /start Jan 2021 Dec Ph 2 start 2H:20 Completion
+preclinical of studies YE:20 Ph 1 start 2H:20 *Vaccine designed to establish proof of concept in Phase (Ph) 1 clinical trial to determine whether unique immune response observed in non-human primates can be
+replicated in humans; ultimately, any candidates we advance as a potential HIV vaccine will require modifications to VIR-1111 before further clinical development. mAb: monoclonal antibody; IND: Investigational
+New Drug Application. © 2020 Vir Biotechnology, Inc.
+
+Vir COVID-19 antibody program Role of antibodies in the context of vaccines and convalescent
+plasma • We believe the medical need for VIR-7831 will continue to be significant Clinical trial design and execution is critical • We believe both the endpoint and the population selected matter
+• We believe we may achieve our primary endpoint by January 2021 Not all neutralizing antibodies are created equal • We believe VIR-7831 is differentiated by its high barrier to resistance, potent
+effector function, and potential for increased increase lung tissue concentration and extended half-life © 2020 Vir Biotechnology, Inc.
+
+Medical need example: antibodies for treatment 35,000 COVID-19 cases a day in USA: up to
+~13 million cases a year In the absence of herd immunity, a hypothetical vaccine that is 70% efficacious, with 50% of the population vaccinated: up to ~65% of cases might remain Even with such a hypothetical vaccine, there could be up to
+~8.5 million Americans in need of treatment each year We believe there will be a continued need for antibodies as treatment https://covid.cdc.gov/covid-data-tracker/#cases: Sept 9, 2020 1:16PM, 262,971 cases in last 7 days
+https://www.cdc.gov/mmwr/volumes/69/wr/mm6924e2.htm © 2020 Vir Biotechnology, Inc. 6
+
+Medical need example: antibodies for prophylaxis Numerous examples of vaccines performing worse in the elderly compared to the broader
+population (e.g. Flu, HBV) Even if vaccinated, anyone over the age of 75 is potentially high-risk and therefore a potential candidate for mAb prophylaxis • The reported risk of hospitalization in age
+³ 75 is >8x higher than young adults • The reported overall risk of death in age ³ 75 is >220x higher than young adults The potential need for
+antibodies as prophylaxis is enormous: • Approximately 20M adults in US are age ³ 75 • Potentially many other high-risk groups, in addition to age ³
+75 pubmed.ncbi.nlm.nih.gov/30501873/ www.census.gov/prod/cen2010/briefs/c2010br-09.pdf © 2020 Vir Biotechnology, Inc. 7
+www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-age.html
+
+Limitations of convalescent plasma No clear benefit based on a randomized clinical trial Inconsistent potency: titer can range from 1:10
+to 1:10,000 Limited to hospitalized use Cannot be mass produced Based on in vitro neutralization estimates, we believe VIR-7831 has the potential to be at least 300x more potent than convalescent plasma ©
+2020 Vir Biotechnology, Inc.
+
+Vir COVID-19 antibody program Role of antibodies in the context of vaccines and convalescent
+plasma • We believe the medical need for VIR-7831 will continue to be significant Clinical trial design and execution is critical • We believe both the endpoint and the population selected matter
+• We believe we may achieve our primary endpoint by January 2021 Not all antibodies are created equal • We believe VIR-7831 is differentiated by its high barrier to resistance, potent effector
+function, and potential for increased increase lung tissue concentration and extended half-life © 2020 Vir Biotechnology, Inc.
+
+Our perspective on the competitive landscape It matters when one finishes, not when one starts . . . . . . it only matters when one
+finishes, if one meets one’s primary endpoint . . . meeting the primary endpoint only matters if it leads to approval Competitor A example: • Multiple and ongoing changes to study size, and delays to study completion dates • New Phase
+I study for adverse event of special interest • Endpoint: “Proportion of patients with at least one Covid-19 related medically attended visit” Competitor B example: • Initial study is a
+Phase 2, not a Phase 3 • Endpoint: “Change from baseline to day 11 in SARS-CoV-2 viral load” www.clinicaltrials.gov © 2020 Vir Biotechnology, Inc.
+
+Speed of enrollment is critical Right Molecule Neutralization, resistance, effector high barrier function, to LS mutation Right Place
+Large non-overlapping number of sites unique, on multiple continents Proactive Outreach Outreach under-represented is focusing on communities Right Equipment Cephied machines GeneXpert © 2020 Vir
+Biotechnology, Inc.
+
+Vir COVID-19 antibody program Role of antibodies in the context of vaccines and convalescent
+plasma • We believe the medical need for VIR-7831 will continue to be significant Clinical trial design and execution is critical • We believe both the endpoint and the population selected matter
+• We believe we may achieve our primary endpoint by January 2021 Not all antibodies are created equal • We believe VIR-7831 is differentiated by its high barrier to resistance, potent effector
+function, and potential for increased increase lung tissue concentration and extended half-life © 2020 Vir Biotechnology, Inc.
+
+Infection with SARS-CoV-2 VIRUS INFECTED PNEUMOCYTES UNINFECTED PNEUMOCYTES © 2020 Vir
+Biotechnology, Inc.
+
+Antibodies for treatment: importance of neutralization Monoclonal antibodies that neutralize the virus VIRUS INFECTED PNEUMOCYTES
+UNINFECTED PNEUMOCYTES block uninfected cells from becoming infected © 2020 Vir Biotechnology, Inc.
+
+Antibodies for treatment: neutralization is not enough Unfortunately, already infected cells remain INFECTED PNEUMOCYTES UNINFECTED
+PNEUMOCYTES © 2020 Vir Biotechnology, Inc.
+
+Antibodies for treatment: neutralization is not enough Unfortunately, already infected cells remain INFECTED PNEUMOCYTES UNINFECTED
+PNEUMOCYTES and continue to mass produce SARS-CoV-2 virus © 2020 Vir Biotechnology, Inc.
+
+Antibodies for treatment: killing already infected cells is potentially critical VIR-7831
+MACROPHAGE DYING PNEUMOCYTES UNINFECTED PNEUMOCYTES VIR-7831 can recruit macrophages and NK cells to kill already infected cells (in vitro effector function assays), NK, natural killer. © 2020 Vir
+Biotechnology, Inc.
+
+Antibodies for treatment: killing already infected cells is potentially critical VIR-7831
+MACROPHAGE DYING PNEUMOCYTES UNINFECTED PNEUMOCYTES VIR-7831 can recruit macrophages and NK cells to kill already infected cells (in vitro effector function assays), while also protecting uninfected cells NK,
+natural killer. © 2020 Vir Biotechnology, Inc.
+
+Antibodies for treatment: other antibodies VIRUS INFECTED PNEUMOCYTES UNINFECTED PNEUMOCYTES Antibodies with limited or no effector
+function may leave these virus factories intact . . . © 2020 Vir Biotechnology, Inc.
+
+Antibodies for treatment: other antibodies VIRUS MUTANT VIRUS INFECTED PNEUMOCYTES UNINFECTED PNEUMOCYTES . . . allowing mutants to
+potentially arise © 2020 Vir Biotechnology, Inc.
+
+Antibodies for treatment: other antibodies VIRUS MUTANT VIRUS INFECTED PNEUMOCYTES INFECTED PNEUMOCYTES Antibodies with limited strain
+coverage and/or a low barrier to resistance may be unable to protect uninfected cells from the mutant virus © 2020 Vir Biotechnology, Inc.
+
+Antibodies for treatment: VIR-7831 has the potential to break the cycle VIR-7831 MACROPHAGE
+DYING PNEUMOCYTES UNINFECTED PNEUMOCYTES 1. Neutralizes virus 2. Kills infected cells 3. Has a high barrier to resistance NK, natural killer; the neutralization potency, ability to kill infected cells, and high barrier to resistance of VIR-7831 are based on non-clinical assessments © 2020 Vir Biotechnology, Inc.
+
+Antibodies for treatment: viral drift and escape mutants INFECTED PNEUMOCYTES UNINFECTED PNEUMOCYTES Conversely, cocktails of antibodies
+are needed when using antibodies with a low barrier to resistance © 2020 Vir Biotechnology, Inc.
+
+How VIR-7831 is potentially differentiated Potent neutralization Effector function High barrier
+to resistance “LS” modification • Half-life extension could mean one dose potentially lasts up to 6 months for prophylaxis • Potential for increased lung bioavailability The neutralization potency, ability to kill infected cells,
+high barrier to resistance of VIR-7831 are based on non-clinical assessments © 2020 Vir Biotechnology, Inc.
+
+VIR-7831 In vivo evaluation Syrian Hamster model: • evaluates the neutralization capacity
+of VIR-7831 • no evaluation of effector function (no human Fc receptors) • no evaluation of impact of LS mutation on lung bioavailability Potent neutralization with no evidence of ADE © 2020 Vir
+Biotechnology, Inc.
+
+Anticipated VIR-7831 COMET program milestones Initiation of Phase III (expansion phase) of early
+treatment (COMET-ICE) study: • October 2020 Initiation of Phase III hospitalized study: • October 2020 Initiation of prophylaxis study: • December/ January 2021
+COMET-ICE complete results from primary endpoint anticipated in Q1 2021 • Current estimate: January 2021 © 2020 Vir Biotechnology, Inc.
+
+Our development pipeline Disease Product Treatment/ Area Candidate Prophylaxis Platform VIR-2218
+Treatment siRNA VIR-2218 + HBV PEG-IFN-âº Treatment siRNA VIR-3434 Treatment mAb Influenza A VIR-2482 Prophylaxis mAb Early treatment VIR-7831 mAb (Ambulatory) Late treatment VIR-7831 mAb (Hospitalized) COVID-19 VIR-7831 Prophylaxis mAb Treatment and VIR-7832 mAb Prophylaxis Treatment and VIR-2703
+Prophylaxis siRNA HIV VIR-1111* Prophylaxis T cell Anticipated Pre-clinical Phase 1 Phase 2 Phase 3 Collaborator Milestones 1 year response durability 1H:21 Initial data
+2021 + VIR-2218 Ph 2 start in 2021 Ph 2 start 4Q:21 October Ph 3 start 2020 October Ph 3 start 2020 2020 Ph 3 /start Jan 2021 Dec Ph 2 start 2H:20 Completion preclinical of studies YE:20 Ph 1 start 2H:20
+*Vaccine designed to establish proof of concept in Phase (Ph) 1 clinical trial to determine whether unique immune response observed in non-human primates can be replicated in humans; ultimately, any candidates
+we advance as a potential HIV vaccine will require modifications to VIR-1111 before further clinical development. mAb: monoclonal antibody; IND: Investigational New Drug Application. © 2020 Vir
+Biotechnology, Inc.
+
+2020–2021 anticipated catalysts Catalyst Disease area Anticipated timing VIR-7831 (mAb)
+Phase 3 (Early Treatment, COMET-ICE) start COVID-19 October 2020 VIR-7831 (mAb) Phase 3 (Hospitalized) start COVID-19 October 2020 VIR-7831 (mAb) Phase 3 (Prophylaxis) start COVID-19 January 2021 VIR-7832
+(mAb) Phase 2 start COVID-19 2H:2020 VIR-2703 (siRNA) preclinical study completion COVID-19 YE:2020 VIR-1111 (T cell) Phase 1 start HIV 2H:2020 VIR-2482 (mAb) Phase 2 start Influenza A 4Q:2021 (northern hemisphere) VIR-2482 (mAb) Phase
+2 POC data Influenza A 1H:2022 VIR-2218 Phase 2 one year response durability HBV 1H:2021 VIR-3434 (mAb) + VIR-2218 Phase 2 start
+HBV 2021 VIR-2218 (siRNA) + PEG-IFN-âº Phase 2 initial data HBV 2021 POC: Proof of Concept. © 2020 Vir Biotechnology, Inc.

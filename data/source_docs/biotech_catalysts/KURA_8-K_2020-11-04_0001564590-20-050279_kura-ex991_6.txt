@@ -1,0 +1,84 @@
+EX-99.1
+2
+kura-ex991_6.htm
+EX-99.1
+
+kura-ex991_6.htm
+
+ 
+
+Exhibit 99.1
+
+ 
+
+ 
+
+Abstract accepted for oral presentation at the 62nd American Society of Hematology Annual Meeting
+
+Preliminary data on a Phase 1/2A first in human study of the menin-KMT2A (MLL) inhibitor KO-539 in patients with relapsed or refractory acute myeloid leukemia
+
+Eunice S. Wang1, Jessica Altman2, Kristen Petit3, Stephane DeBotton4, Roland Walter5, Pierre Fenaux6, Francis Burrows7, Blake Tomkinson7, Bridget Martell7 and Amir T Fathi8
+
+ 
+
+1.
+
+Roswell Park Comprehensive Cancer Center, Buffalo, NY
+
+ 
+
+2.
+
+Northwestern Medical Faculty Foundation, Chicago IL
+
+ 
+
+3.
+
+University of Michigan, Ann Arbor, MI
+
+ 
+
+4.
+
+Institut Gustave Roussy Service d'Hématologie Clinique, France
+
+ 
+
+5.
+
+Fred Hutchinson Cancer Research Center, Seattle, WA
+
+ 
+
+6.
+
+Hospital Saint Louis, France
+
+ 
+
+7.
+
+Kura Oncology, San Diego, CA
+
+ 
+
+8.
+
+Massachusetts General Hospital, Harvard Medical School, Boston, MA
+
+The histone-lysine-N-methyltransferase 2A (KMT2A) gene (formerly known as mixed-lineage leukemia (MLL)) plays an essential role in regulating gene expression including homeobox (HOX) and MEIS1 genes. In 5-10% of AML cases, specific KMT2A gene perturbations can occur which result in an aggressive and poor prognostic group of blood cancers. The KMT2A complex also appears to play a central role in the epigenetic dysregulation in AMLs with co-mutations such as NPM1, IDH1/2, EZH2, and DNMT3A. Therefore, there is strong rationale for targeting these AML subsets which may be exquisitely sensitive to inhibition of the menin-KMT2A chromatin complex.
+
+KO-539 is a novel, once daily, oral investigational drug candidate targeting the menin-KMT2A protein-protein interaction.  
+
+KOMET-001 (NCT04067336) is an ongoing Phase 1/2A open-label study evaluating KO-539 in adult patients (pts) with relapsed and/or refractory AML agnostic to oncogenic mutational type.  The Phase 1 dose-escalation objectives are to assess safety and tolerability, characterize the pharmacokinetics (PK), and determine a recommended Phase 2 dose. The Phase 2A dose expansion portion will assess anti-leukemic activity, PK, safety and tolerability in select genetic subtypes of AML. Preclinically, the drug is shown to be highly protein bound (>99%) across animal species. Using physiologically-based PK (PBPK) modeling, the estimated human efficacious dose was estimated to be 600 mg po qd.
+
+As of data cutoff on August 10, 2020, 6 pts with relapsed and/or refractory AML have been enrolled in the trial. Dose escalation began with single pt cohorts at 50 mg po qd in 28 day cycles and has proceeded through to 200 mg dosing cohorts. An expansion of 3 pts at 200 mg was initiated to better characterize the PK and exposure of KO-539.
+
+To date, 3 enrolled pts have been studied for safety and have not experienced any dose-limiting toxicities (DLTs) within the 28 day DLT-assessment window. Grade 3 (G3) or higher drug related adverse events have included G3 tumor lysis syndrome (TLS) at 50 mg and a G3 embolic event at 100 mg. KO-539 has been well tolerated with no dose interruptions or discontinuations due to drug related adverse events. There were no treatment-related deaths, and two pts discontinued treatment due to disease progression. Peak drug concentrations were attained between 2-3 hours after daily oral dosing with an elimination half-life of greater than 24 hours.
+
+KO-539 has demonstrated evidence of biologic activity in pts in the first 3 dose levels treated to date. The 50 mg pt with a KMT2A-r and the 200 mg pt with a p53 mutation and PICALM-AF10 fusion exhibited evidence of tumor lysis syndrome and markedly decreased hydroxyurea requirements with blood count stabilization, respectively. A third pt (100 mg dose level) with SETD2 and RUNX1 co-mutations achieved a complete remission with confirmed negative MRD by flow cytometry after two cycles of therapy and continues on treatment. The biologic activity of KO-539 at lower doses may be explained by inhibition of the CYP3A4 enzyme by concomitantly administered azole antifungals. KO-539 is metabolized into at least two metabolites with comparable activity to KO-539; total drug concentrations (i.e., KO-539 plus active metabolites) exhibited a dose-dependent increase.
+
+Although KO‑539 is a CYP3A4 substrate, preclinical data suggest both KO-539 and its metabolites act as inhibitors, potentially providing an advantage in overcoming drug resistance attributable to CYP3A4 metabolism by bone marrow stroma. The physiology of the bone marrow sinusoids also allows both unbound and protein-bound drug to reach the sites of leukemic involvement. The high level of protein binding may therefore provide an opportunity for organ-specific targeted action while possibly limiting off target effects.  The potential advantage associated with the CYP3A4 inhibitory characteristics of KO-539 to overcome drug-resistance in the bone marrow stroma also continues to be investigated.
+
+In conclusion, the early biologic activity of KO-539 in relapsed AML is encouraging, and its unique PK characteristics may be advantageous for clinical benefit. In addition to the above, any updated safety, PK, and efficacy data will be presented at the time of the conference.

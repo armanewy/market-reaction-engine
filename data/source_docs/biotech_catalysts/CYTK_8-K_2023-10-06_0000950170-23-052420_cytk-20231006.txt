@@ -1,0 +1,411 @@
+8-K
+
+false000106198300010619832023-10-062023-10-06
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 06, 2023
+
+ 
+
+ 
+
+Cytokinetics, Incorporated
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+000-50633
+
+94-3291317
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+350 Oyster Point Boulevard
+
+ 
+
+South San Francisco, California
+
+ 
+
+94080
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (650) 624-3000
+
+ 
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+CYTK
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+Cytokinetics, Incorporated ("Cytokinetics" or the "Registrant") today announced that the baseline characteristics of patients randomized in SEQUOIA-HCM (Safety, Efficacy, and Quantitative Understanding of Obstruction Impact of Aficamten in HCM), the pivotal Phase 3 clinical trial of aficamten in patients with symptomatic obstructive hypertrophic cardiomyopathy (HCM), were presented at the HCM Society Scientific Sessions in Cleveland, Ohio by Martin S. Maron, M.D., Director of the Hypertrophic Cardiomyopathy Center at Lahey Hospital and Medical Center.
+
+SEQUOIA-HCM: Baseline Characteristics
+
+SEQUOIA-HCM was designed to evaluate aficamtenin patients with symptomatic obstructive HCM on background medical therapy over a 24-week period. Patients enrolled in SEQUOIA-HCM were required to have severe left ventricular outflow tract (LVOT) obstruction as evidenced by a resting LVOT-G ≥30 mmHg, a post-Valsalva peak LVOT-G ≥50 mmHg, NYHA functional class II or III, and a peak VO2 ≤90% predicted.
+
+SEQUOIA-HCM enrolled a total of 282 patients, with one third from the United States, one half from Europe and Israel, and the remainder from China. Patients were on average 59.1 years of age, 40.4% female, and 21% were non-white. Background medical therapy consisted of beta-blockers (61%), calcium channel blockers (26.6%), and disopyramide (12.8%); combination background therapy was permitted. At baseline, 75.9% of patients were NYHA functional class II, 23.8% were functional class III, and 0.4% were functional class IV. One quarter of patients were guideline-eligible for septal reduction therapy at the time of enrollment. The pooled mean (SD) for baseline peak VO2 was 18.5 (4.5) mL/kg/min or 56.9% (12.9) of age- and sex-predicted peak VO2, and for the Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS) was 74.7 (18.0). The geometric mean (Q1, Q3) high-sensitivity cardiac troponin I was 12.1 (7.7, 27.3) ng/L. (Table 1). Key baseline characteristics that remain blinded include left ventricular ejection fraction (LVEF), resting and Valsalva LVOT-G, and NT-proBNP.
+
+Table 1. Baseline Characteristics of Patients in SEQUOIA-HCM
+
+Baseline Characteristics (N=282)
+
+n (%) or Mean (SD)a
+
+Age, years
+
+59.1 (12.9)
+
+Female
+
+114 (40.4)
+
+Race/ethnicityb:
+
+ 
+
+White
+
+222 (78.7)
+
+Black
+
+3 (1.1)
+
+Asian
+
+53 (18.8)
+
+Hispanic
+
+9 (3.2)
+
+Other
+
+4 (1.4)
+
+Region:
+
+ 
+
+United States
+
+94 (33.3)
+
+China
+
+46 (16.3)
+
+Europe and Israel
+
+142 (50.4)
+
+Vital signs:
+
+ 
+
+Weight, kg
+
+81.6 (15.7)
+
+Body mass index, kg/m2
+
+28.1 (3.7)
+
+Systolic blood pressure, mmHg
+
+125.3 (16.1)
+
+Diastolic blood pressure, mmHg
+
+74.4 (10.6)
+
+Heart rate, bpm
+
+65.6 (11.2)
+
+HCM history:
+
+ 
+
+History of known HCM-causing gene mutation
+
+48 (17.0)
+
+Positive family history of HCM
+
+71 (25.2)
+
+Time since initial HCM diagnosis, median (IQR), years
+
+4.3 (1.7 – 8.5)
+
+HCM medical therapies:
+
+ 
+
+Beta-blocker
+
+172 (61.0)
+
+Non-dihydropyridine calcium channel blocker
+
+75 (26.6)
+
+Disopyramide
+
+36 (12.8)
+
+HCM symptoms:
+
+ 
+
+KCCQ-CSS
+
+74.7 (18.0)
+
+NYHA functional class II / III / IV
+
+214 (75.9) / 67 (23.8) / 1 (0.4)
+
+SRT guideline eligiblec
+
+68 (24.1)
+
+Comorbidities:
+
+ 
+
+Hypertensiond
+
+136 (48.2)
+
+Diabetese
+
+24 (8.5)
+
+Permanent atrial fibrillation
+
+1 (0.4)
+
+Paroxysmal atrial fibrillation
+
+40 (14.2)
+
+CPET metrics:
+
+ 
+
+Treadmill
+
+155 (55.0)
+
+Peak VO2, mL/kg/min
+
+18.5 (4.5)
+
+Peak VO2, % of predicted maximum1
+
+56.9 (11.8)
+
+Total workload, watts
+
+122.4 (41.3)
+
+Biomarker:
+
+ 
+
+hs-cTnI, median (IQR), ng/L
+
+12.1 (7.7 – 27.3)
+
+a Unless otherwise indicated.
+
+b >100% total due to overlap in ethnicity and race.
+
+c NYHA FC III and any LVOTO ≥50 mmHg.
+
+d Combines hypertension and essential hypertension.
+
+e Combines T2DM, T1DM, and DM.
+
+CCB, calcium channel blocker; DM, diabetes mellitus, including types 1 and 2; IQR, interquartile range
+
+About Aficamten and the Broad Phase 3 Clinical Trials Program
+
+Aficamten is an investigational selective, small molecule cardiac myosin inhibitor discovered following an extensive chemical optimization program that was conducted with careful attention to therapeutic index and pharmacokinetic properties and as may translate into next-in-class potential in clinical development. Aficamten was designed to reduce the number of active actin-myosin cross bridges during each cardiac cycle and consequently suppress the myocardial hypercontractility that is associated with hypertrophic cardiomyopathy (HCM). In preclinical models, aficamten reduced myocardial contractility by binding directly to cardiac myosin at a distinct and selective allosteric binding site, thereby preventing myosin from entering a force producing state.
+
+The development program for aficamten is assessing its potential as a treatment that improves exercise capacity and relieves symptoms in patients with HCM as well as its potential long-term effects on cardiac structure and function. Aficamten is currently the subject of SEQUOIA-HCM (Safety, Efficacy, and Quantitative Understanding of Obstruction Impact of Aficamten in HCM), a pivotal Phase 3 clinical trial in patients with symptomatic obstructive hypertrophic cardiomyopathy (HCM), MAPLE-HCM (Metoprololvs Aficamten in Patients with LVOT Obstruction on Exercise Capacity in HCM), a Phase 3 clinical trial evaluating aficamten as monotherapy compared to metoprolol as monotherapy in patients with obstructive HCM, and ACACIA-HCM (Assessment Comparing Aficamten to Placebo on Cardiac Endpoints In Adults with Non-Obstructive HCM), a pivotal Phase 3 clinical trial in patients with symptomatic non-obstructive HCM. Results from SEQUOIA-HCM are expected by the end of 2023. Aficamten received Breakthrough Therapy Designation for the treatment of symptomatic obstructive HCM from the U.S. Food & Drug Administration (FDA) as well as the National Medical Products Administration (NMPA) in China.
+
+About Hypertrophic Cardiomyopathy
+
+Hypertrophic cardiomyopathy (HCM) is a disease in which the heart muscle (myocardium) becomes abnormally thick (hypertrophied). The thickening of cardiac muscle leads to the inside of the left ventricle becoming smaller and stiffer, and thus the ventricle becomes less able to relax and fill with blood. This ultimately limits the heart’s pumping function, resulting in reduced exercise capacity and symptoms including chest pain, dizziness, shortness of breath, or fainting during physical activity. HCM is the most common monogenic inherited cardiovascular disorder, with approximately 280,000 patients diagnosed in the U.S., however, there are an estimated 400,000-800,000 additional patients who remain undiagnosed.1,2,3 Two-thirds of patients with HCM have obstructive HCM (oHCM), where the thickening of the cardiac muscle leads to left ventricular outflow tract (LVOT) obstruction, while one-third have non-obstructive HCM (nHCM), where blood flow isn’t impacted, but the heart muscle is still thickened. People with HCM are at high risk of also developing cardiovascular complications including atrial fibrillation, stroke and mitral valve disease.4 People with HCM are at risk for potentially fatal ventricular arrhythmias and it is one of the leading causes of sudden cardiac death in younger people or athletes.5 A subset of patients with HCM are at high risk of progressive disease leading to dilated cardiomyopathy and heart failure necessitating cardiac transplantation.
+
+About Cytokinetics
+
+Cytokinetics is a late-stage, specialty cardiovascular biopharmaceutical company focused on discovering, developing and commercializing first-in-class muscle activators and next-in-class muscle inhibitors as potential treatments for debilitating diseases in which cardiac muscle performance is compromised. As a leader in muscle biology and the mechanics of muscle performance, the company is developing small molecule drug candidates specifically engineered to impact myocardial muscle function and contractility. Aficamten is a next-in-class cardiac myosin inhibitor, currently the subject of three Phase 3 clinical trials: SEQUOIA-HCM, evaluating aficamten in patients with obstructive hypertrophic cardiomyopathy (HCM), MAPLE-HCM, evaluating aficamten as monotherapy compared to metoprolol as monotherapy in patients with obstructive HCM and ACACIA-HCM, evaluating aficamten in patients with non-obstructive HCM. Cytokinetics is also developing omecamtiv mecarbil, a cardiac muscle activator, in patients with heart failure. Additionally, Cytokinetics is developing CK-136, a cardiac troponin activator for the potential treatment HFrEF and other types of heart failure, such as right ventricular failure, resulting from impaired cardiac contractility, and CK-586, a cardiac myosin inhibitor with a mechanism of action distinct from aficamten for the potential treatment of HFpEF. In 2023, Cytokinetics is celebrating its 25-year history of pioneering innovation in muscle biology and related pharmacology focused to diseases of muscle dysfunction and conditions of muscle weakness.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995 (the “Act”). Cytokinetics disclaims any intent or obligation to update these forward-looking statements and claims the protection of the Act’s Safe Harbor for forward-looking statements. Examples of such statements include, but are not limited to, statements express or implied relating to the properties or potential benefits of aficamten or any of our other drug candidates and our ability to announce the results of SEQUOIA-HCM by the end of 2023. Such statements are based on management’s current expectations, but actual results may differ materially due to various risks and uncertainties, including, but not limited to the risks related to Cytokinetics’ business outlines in Cytokinetics’ filings with the Securities and Exchange Commission. Forward-looking statements are not guarantees of future performance, and Cytokinetics’ actual results of operations, financial condition and liquidity, and the development of the industry in which it operates, may differ materially
+
+from the forward-looking statements contained in this press release. Any forward-looking statements that Cytokinetics makes in this press release speak only as of the date of this press release. Cytokinetics assumes no obligation to update its forward-looking statements whether as a result of new information, future events or otherwise, after the date of this press release.
+
+CYTOKINETICS® and the CYTOKINETICS and C-shaped logo are registered trademarks of Cytokinetics in the U.S. and certain other countries.
+
+References:
+
+1.
+Fletcher GF, et al. Circulation 1995;91:580-615.
+
+2.
+CVrg: Heart Failure 2020-2029, p 44; Maron et al. 2013 DOI: 10.1016/S0140-6736(12)60397-3; Maron et al 2018 10.1056/NEJMra1710575
+
+3.
+Symphony Health 2016-2021 Patient Claims Data DoF;
+
+4.
+Maron MS, Hellawell JL, Lucove JC, Farzaneh-Far R, Olivotto I. Occurrence of Clinically Diagnosed Hypertrophic Cardiomyopathy in the United States. Am J Cardiol. 2016; 15;117(10):1651-1654.
+
+5.
+Gersh, B.J., Maron, B.J., Bonow, R.O., Dearani, J.A., Fifer, M.A., Link, M.S., et al. 2011 ACCF/AHA guidelines for the diagnosis and treatment of hypertrophic cardiomyopathy. A report of the American College of Cardiology Foundation/American Heart Association Task Force on practice guidelines. Journal of the American College of Cardiology and Circulation, 58, e212-260.
+
+6.
+Hong Y, Su WW, Li X. Risk factors of sudden cardiac death in hypertrophic cardiomyopathy. Current Opinion in Cardiology. 2022 Jan 1;37(1):15-21
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CYTOKINETICS, INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+October 6, 2023
+
+By:
+
+/s/ John O. Faurescu
+
+ 
+
+ 
+
+ 
+
+John O. Faurescu, Esq.
+
+Associate General Counsel & Secretary

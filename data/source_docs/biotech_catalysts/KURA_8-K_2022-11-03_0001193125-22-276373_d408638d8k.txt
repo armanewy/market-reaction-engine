@@ -1,0 +1,333 @@
+8-K
+
+false 0001422143 0001422143 2022-11-02 2022-11-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 2, 2022
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37620
+
+ 
+
+61-1547851
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+12730 High Bluff Drive, Suite 400, San Diego, CA
+
+ 
+
+92130
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 500-8800
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+KURA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Securities Purchase Agreement
+
+On November 2, 2022, Kura Oncology, Inc. (“Kura” or the “Company”) entered into a Securities Purchase Agreement (the “Purchase Agreement”) with Bristol-Myers Squibb Company (“BMS”). Pursuant to the Purchase Agreement, the Company agreed to issue and sell to BMS in a registered direct offering an aggregate of 1,370,171 shares of the Company’s common stock, par value $0.0001 per share (the “Common Stock”), at a purchase price of $18.2459 per share (the “Offering”) for gross proceeds of approximately $25.0 million. The Company intends to use the net proceeds of the Offering primarily to further advance the Company’s pipeline of product candidates, including continued development of its product candidates ziftomenib, tipifarnib and KO-2806, and pipeline research and development activities. In connection with the Offering, BMS will appoint a member to the Company’s Global Steering Committee. The Offering is anticipated to close on or about November 3, 2022.
+
+The Purchase Agreement contains customary representations, warranties, and agreements by the Company. The foregoing summary of the Purchase Agreement contained herein does not purport to be complete and is qualified in its entirety by reference to the full text of the Purchase Agreement, which is filed herewith as Exhibit 10.1 and incorporated herein by reference.
+
+The shares of Common Stock will be offered and sold by the Company pursuant to an automatic shelf registration statement on Form S-3 (File No. 333-251172), which was filed with the Securities and Exchange Commission (the “SEC”) and became effective on December 7, 2020 (the “Registration Statement”).
+
+A copy of the legal opinion of Cooley LLP relating to the validity of the shares issued in the Offering is filed as Exhibit 5.1 to this Current Report on Form 8-K and is filed with reference to, and is hereby incorporated by reference into, the Registration Statement.
+
+Loan and Security Agreement
+
+Also on November 2, 2022 (the “Effective Date”), the Company entered into a Loan and Security Agreement (the “Loan Agreement”) with the several banks and other financial institutions or entities party thereto (each, a “Lender” and collectively referred to as the “Lenders”) and Hercules Capital, Inc., a Maryland corporation (“Hercules”), in its capacity as administrative agent and collateral agent for itself and the Lenders, pursuant to which the Lenders have agreed to make available to the Company up to $125.0 million in senior secured term loans (the “Term Loan Facility”), consisting of (i) an initial term loan of up to $25.0 million, $10.0 million of which was funded immediately after the Effective Date, (ii) two additional tranches of term loans in the amounts of up to $35.0 million (the “Tranche 2 Loan”) and $40.0 million (the “Tranche 3 Loan”), respectively, which will become available to the Company upon the Company’s satisfaction of certain terms and conditions set forth in the Loan Agreement, and (iii) a final tranche of term loans in the amount of up to $25.0 million (the “Tranche 4 Loan”), subject to the Lenders’ investment committee approval in its sole discretion. The loans under the Loan Agreement mature on the fifth anniversary of the Effective Date (the “Maturity Date”).
+
+The loans under the Loan Agreement bear interest at an annual rate equal to the greater of (i) the prime rate as reported in The Wall Street Journal minus 6.25% plus 8.65% and (ii) 8.65%. Borrowings under the Loan Agreement are repayable in monthly interest-only payments through (a) initially, November 1, 2024, (b) if the Company satisfies the Interest Only Milestone 1 Conditions (as defined in the Loan Agreement), May 1, 2025, (c) if the Company satisfies the Interest Only Milestone 2 Conditions (as defined in the Loan Agreement), November 1, 2025, and (d) if the Company satisfies the Approval Milestone (as defined in the Loan Agreement), November 1, 2026. After the interest-only payment period, borrowings under the Loan Agreement are repayable in equal monthly payments of principal and accrued interest until the Maturity Date.
+
+At the Company’s option, the Company may prepay all or any portion of the outstanding borrowings under the Loan Agreement. Prepayments made on or prior to the third anniversary of the closing date will be subject to a prepayment fee equal to 1.50% of the principal amount being prepaid. In addition, the Company paid a $125,000 facility charge upon closing and will pay additional facility charges in connection with any borrowing of the
+
+Tranche 2 Loan, Tranche 3 Loan or Tranche 4 Loan, in each case in the amount of 0.50% of the amount of such tranche of loans. The Loan Agreement also provides for an end of term fee in an amount equal to the greater of (i) $1,512,500 (which is 6.05% of the maximum amount of the first tranche of loans) or (ii) 6.05% of the aggregate principal amount of loan advances actually made under the Loan Agreement, which fee is due and payable on the earliest to occur of (i) the Maturity Date, (ii) the date that Company prepays the outstanding loans in full, and (iii) the date that the secured obligations become due and payable.
+
+The Company’s obligations under the Loan Agreement and the related guarantees thereunder are secured, subject to customary permitted liens and other agreed upon exceptions, by a first-priority perfected security interest in all of the tangible and intangible assets of the Company (except for the Company’s intellectual property).
+
+The Loan Agreement also contains a minimum cash covenant, commencing on June 1, 2024, requiring the Company to hold cash in the United States and subject to a first-priority perfected security interest in favor of the Lenders in an amount greater than or equal to (x) 55.0% of the outstanding loan obligations if the Company has not received U.S. Food and Drug Administration (“FDA”) approval for ziftomenib, or (y) 35.0% of the outstanding loan obligations if the Company has received FDA approval for ziftomenib, provided that neither (x) nor (y) will apply at any time the Company’s market capitalization is equal to or greater than $1,250,000,000. Additionally, the Loan Agreement contains minimum cash requirements in the event of (i) any Corporate Collaborations (as defined in the Loan Agreement) or (ii) any cash payment in respect of permitted convertible debt subject to the satisfaction of the Redemption Conditions (as defined in the Loan Agreement).
+
+In addition, the Loan Agreement contains customary representations and warranties and customary affirmative and negative covenants, including, among other things, restrictions on indebtedness, liens, investments, mergers, dispositions, prepayment of other indebtedness, and dividends and other distributions, subject to certain exceptions. The Loan Agreement also contains events of default that are customary for financings of this type relating to, among other things, payment defaults, breach of covenants, breach of representations and warranties, cross-default to material indebtedness, bankruptcy-related defaults, judgment defaults, breach of the financial covenants described above, and the occurrence of certain change of control events. Following an event of default and any applicable cure period, a default interest rate equal to the then-applicable interest rate plus 5.0% may be applied to the outstanding principal balance, and the Lenders will have the right upon notice to terminate any undrawn commitments and may accelerate all amounts outstanding under the Loan Agreement, in addition to other remedies available to them as secured creditors of the Company.
+
+In addition, in connection with the entry into the Loan Agreement, the Company issued warrants to certain of the Lenders (collectively, the “Warrants”) to acquire a number of shares of Common Stock at an exercise price of $14.38 per share (the “Warrant Shares”). The Warrants may be exercised through the earlier of (i) the seventh anniversary of November 2, 2022 and (ii) the consummation of certain acquisition transactions involving the Company, as set forth in the Warrants. The number of Warrant Shares for which the Warrants are exercisable and the associated exercise price are subject to certain customary proportional adjustments for fundamental events, including stock splits and reverse stock splits, as set forth in the Warrants.
+
+The foregoing descriptions of the Loan Agreement and the Warrants contained herein do not purport to be complete and are qualified in their entirety by reference to the full text of the Loan Agreement and the form of Warrant Agreement, which are filed herewith as Exhibits 10.2 and 4.1, respectively, and incorporated herein by reference.
+
+Cash Runway
+
+If the Term Loans are fully drawn, proceeds from the Offering and the Term Loans, together with the Company’s existing cash, cash equivalents and short-term investments, are expected to fund the Company’s current operating plan into 2026.
+
+Forward-Looking Statements
+
+Statements contained under this Item 1.01 regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Because such statements are
+
+subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements, including, but not limited to, statements regarding the completion and timing of the Offering, the expected uses of the net proceeds from the Offering, the Company’s cash runway, including its extension into 2026, and the Company’s business plans and objectives.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. Risks that contribute to the uncertain nature of the forward-looking statements include: risks related to the Company’s ability to close the Offering and to execute on its strategy, the Company’s ability to draw the remainder of the tranches under the Loan Agreement, the strength of the Company’s balance sheet and the adequacy of cash on hand and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs, as well as those risks and uncertainties set forth more fully under the caption “Risk Factors” in Kura’s most recent Annual Report on Form 10-K, as filed with the SEC and quarterly reports on Form 10-Q filed with the SEC, as well as discussions of potential risks, uncertainties and other important factors in Kura’s other filings and reports with the SEC. All forward-looking statements contained in this Current Report on Form 8-K speak only as of the date on which they were made. Kura undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth in Item 1.01 above under the heading “Loan and Security Agreement” is hereby incorporated by reference into Item 2.03.
+
+ 
+
+Item 3.02
+
+Unregistered Sales of Equity Securities.
+
+The information set forth in Item 1.01 above that relates to the issuance of the Warrants is hereby incorporated by reference into Item 3.02.
+
+The Warrants described in Item 1.01 above were offered and sold in reliance upon the exemption from registration provided by Section 4(a)(2) under the Securities Act of 1933, as amended (the “Securities Act”), in that the issuance of the Warrants did not involve a public offering.
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On November 3, 2022, the Company issued a press release titled “Kura Oncology Announces Financing Transactions with Bristol Myers Squibb and Hercules Capital, Providing Access to up to $150 Million.” A copy of the press release is being furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K.
+
+The information under this Item 7.01, including Exhibit 99.1 hereto, is being furnished herewith and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+  4.1
+
+  
+
+Form of Warrant Agreement issued by Kura Oncology, Inc. on November 2, 2022 to Hercules Capital, Inc. and certain other Lenders.
+
+  5.1
+
+  
+
+Opinion of Cooley LLP.
+
+10.1
+
+  
+
+Securities Purchase Agreement dated as of November 2, 2022 by and between Kura Oncology, Inc. and Bristol-Myers Squibb Company.
+
+10.2
+
+  
+
+Loan and Security Agreement dated as of November 2, 2022 by and between Kura Oncology, Inc. and Hercules Capital, Inc.
+
+23.1
+
+  
+
+Consent of Cooley LLP (included in Exhibit 5.1).
+
+99.1
+
+  
+
+Press Release dated November 3, 2022.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+Date: November 3, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer

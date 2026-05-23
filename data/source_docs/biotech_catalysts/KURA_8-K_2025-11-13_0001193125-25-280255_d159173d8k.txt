@@ -1,0 +1,225 @@
+8-K
+
+false 0001422143 0001422143 2025-11-13 2025-11-13
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 13, 2025
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37620
+
+ 
+
+61-1547851
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+4930 Directors Place, Suite 500, San Diego, CA
+
+ 
+
+92121
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 500-8800
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+KURA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On November 13, 2025, Kura Oncology, Inc. (the “Company”) and Kyowa Kirin Co., Ltd. (“Kyowa Kirin”) announced that the U.S. Food and Drug Administration (“FDA”) has granted full approval of KOMZIFTITM (ziftomenib) for adult patients with relapsed or refractory (“R/R”) acute myeloid leukemia (“AML”) with a susceptible NPM1 mutation who have no satisfactory alternative treatment options. KOMZIFTI is the first and only once-daily, oral menin inhibitor approved for R/R NPM1-mutated (“NPM1-m”) AML, a devastating blood cancer with limited treatment options.
+
+NPM1 mutations are among the most common founder mutations in AML, occurring in approximately 30% of cases. Historically, approximately 20% of patients with NPM1-m AML do not respond to front-line therapy. Of those who do respond, 70% will relapse within three years, most within 12 months. Early relapse and declining survival with each recurrence underscore the urgent need for treatment approaches that deliver lasting remission.
+
+Approval is supported by the pivotal KOMET-001 trial (NCT04067336), which evaluated KOMZIFTI’s safety and efficacy in 112 R/R NPM1-m AML patients. The rate of complete remission (“CR”) plus CR with partial hematologic recovery (“CRh”) was 21.4% (95% CI: 14.2, 30.2). The median duration of CR+CRh was 5.0 months (95% CI: 1.9, 8.1) and the median time to first response in patients who achieved a CR or CRh was 2.7 months (range: 0.9 to 15 months). 88% of patients who achieved CR or CRh did so within six months of initiating KOMZIFTI. These data from the Prescribing Information are generally consistent with findings recently published in the Journal of Clinical Oncology on September 25, 2025.
+
+The most common adverse reactions (≥20%), including laboratory abnormalities, were aspartate aminotransferase increased, infection without an identified pathogen, potassium decreased, albumin decreased, alanine aminotransferase increased, sodium decreased, creatinine increased, alkaline phosphatase increased, hemorrhage, diarrhea, nausea, fatigue, edema, bacterial infection, musculoskeletal pain, bilirubin increased, potassium increased, differentiation syndrome, pruritus, febrile neutropenia, and transaminases increased. KOMZIFTI includes a Boxed Warning for differentiation syndrome, a well-studied mechanism-based risk in drugs that restore differentiation. Absence of clinically meaningful drug-drug interactions can ease the use of KOMZIFTI with concomitant therapies, including those that cause QTc interval prolongation. QTc interval prolongation was ≤ Grade 3 in 12% of patients and no Grade 4 or Grade 5 QTc interval prolongation was reported. QTc interval prolongation of any cause occurred in 10% of the 70 patients 65 years of age or older.
+
+The Company has set a wholesale acquisition cost for a one-month supply of KOMZIFTI at $48,500.
+
+In November 2024, the Company and Kyowa Kirin entered into a global strategic collaboration to develop and commercialize KOMZIFTI. The collaboration builds on Kyowa Kirin’s leadership and expertise in hematologic malignancies. Under the terms of the collaboration, the Company leads development, regulatory and commercial strategy in the United States and is responsible for manufacturing KOMZIFTI. The Company and Kyowa Kirin will jointly perform certain commercialization activities in accordance with a co-created U.S. territory commercialization plan. Outside the United States, Kyowa Kirin leads development, regulatory and commercial strategy and is responsible for commercializing KOMZIFTI.
+
+Forward-Looking Statements
+
+Statements contained in this Current Report on Form 8-K regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements, including, but not limited to, statements regarding, among other things, the Company’s and Kyowa Kirin’s plans to commercialize KOMZIFTI in the United States.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. Risks that
+
+contribute to the uncertain nature of the forward-looking statements include: the risk that KOMZIFTI may have unintended side effects; risks associated with market competition, market acceptance and commercialization of KOMZIFTI; the risk that the collaboration with Kyowa Kirin is unsuccessful; and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs, as well as those risks and uncertainties set forth more fully under the caption “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2025 filed with the Securities and Exchange Commission (“SEC”) on November 4, 2025, as well as discussions of potential risks, uncertainties and other important factors in the Company’s other filings and reports with the SEC. All forward-looking statements contained in this Current Report on Form 8-K speak only as of the date on which they were made. The Company undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+Date: November 13, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer

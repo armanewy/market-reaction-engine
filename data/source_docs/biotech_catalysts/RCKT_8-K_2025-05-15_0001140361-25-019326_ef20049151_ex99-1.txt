@@ -1,0 +1,168 @@
+EX-99.1
+2
+ef20049151_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+ NVESTOR DE  I CK INVESTOR DECK INVESTOR DECK  Preliminary Data from  Phase 1 Trial
+of RP-A601  May 2025  ©2025 Rocket Pharmaceuticals, Ltd. All rights reserved 
+
+ 
+
+ FORWARD LOOKING STATEMENT AND DISCLOSURES  Various statements in this presentation
+concerning Rocket’s future expectations, plans and prospects that involve risks and uncertainties, as well as assumptions that, if they do not materialize or prove incorrect, could cause our results to differ materially from those expressed or
+implied by such forward-looking statements. We make such forward- looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and other federal securities laws. All statements other than
+statements of historical facts contained in this release are forward-looking statements. You should not place reliance on these forward-looking statements, which often include words such as "believe," "expect," "anticipate," "intend," "plan,"
+"will give," "estimate," "seek," "will," "may," "suggest" or similar terms, variations of such terms or the negative of those terms. These forward-looking statements include, but are not limited to, statements concerning Rocket’s expectations
+regarding the safety and effectiveness of product candidates that Rocket is developing to treat Fanconi Anemia (FA), Leukocyte Adhesion Deficiency-I (LAD-I), Pyruvate Kinase Deficiency (PKD), Danon Disease (DD) and other diseases, the expected
+timing and data readouts of Rocket’s ongoing and planned clinical trials, the expected timing and outcome of Rocket’s regulatory interactions and planned submissions, Rocket’s plans for the advancement of its DD program, including its planned
+pivotal trial, and the safety, effectiveness and timing of related pre-  clinical studies and clinical trials, Rocket’s ability to establish key collaborations and vendor relationships for its product candidates, Rocket’s ability to develop
+sales and marketing capabilities or enter into agreements with third parties to sell and market its product candidates and Rocket’s ability to expand its pipeline to target additional  indications that are compatible with its gene therapy
+technologies. Although Rocket believes that the expectations reflected in the forward-looking statements are reasonable,  Rocket cannot guarantee such outcomes. Actual results may differ materially from those indicated by these forward-looking
+statements as a result of various important  factors, including, without limitation, Rocket’s dependence on third parties for development, manufacture, marketing, sales and distribution of product candidates, the  outcome of litigation,
+unexpected expenditures, Rocket’s competitors’ activities, including decisions as to the timing of competing product launches, pricing and discounting, Rocket’s ability to develop, acquire and advance product candidates into, enroll a
+sufficient number of patients into, and successfully complete, clinical studies, Rocket’s ability to acquire additional businesses, form strategic alliances or create joint ventures and its ability to realize the benefit of such acquisitions,
+alliances or joint ventures, Rocket’s ability to obtain and enforce patents to protect its product candidates, and its ability to successfully defend against unforeseen third-party infringement claims, as well as  those risks more fully
+discussed in the section entitled "Risk Factors" in Rocket’s Annual Report on Form 10-K for the year ended December 31, 2024, filed February 27, 2025 with the SEC and subsequent filings with the SEC including our Quarterly Reports on Form 10-Q.
+Accordingly, you should not place undue reliance on these forward-looking statements. All such statements speak only as of the date made, and Rocket undertakes no obligation to update or revise publicly any forward-looking statements, whether
+as a result of new information, future events or otherwise.  2 
+
+ 
+
+ 3  PKP2-ACM (Plakophilin 2-Arrhythmogenic Cardiomyopathy)  Mean age at
+presentation: 35 ± 18 years1  Estimated prevalence: 50,000 (US+EU)3-5†  †Utilizing the conservative ACM prevalence of 1 in 5000 and the aggregated mean of 32.9% PKP2 mutation frequency in ACM calculated based on 2,572 ACM patients assessed from
+13 publications. ACM, arrhythmogenic cardiomyopathy; ICD, implantable cardioverter defibrillator; SCD, sudden cardiac death.  1. Bhonsale A, et al. Eur Heart J. 2015;36(14):847-855. 2. Tadros HJ, et al. Appl Clin Genet. 2023;16:181-203. 3.
+Peters S, Trümmel M, Meyners W. Int J Cardiol. 2004;97(3):499-501. 4. McKenna WJ, Judge DP. Nat Rev Cardiol. 2021;18(1):22-36. 5. Data on file. Rocket Pharmaceuticals.  PKP2  Loss-of-function  Normal PKP2-ACM  ACM  PKP2-ACM is an inherited,
+autosomal dominant progressive arrhythmogenic cardiomyopathy (ACM)1,2  Cadherin-2  PKP2  Concealed Phase  Overt Phase  End-stage Disease  Normal imaging  Electrical manifestations  Ventricular dilation, arrhythmia, SCD  Figure used with
+permission from Austin KM, et al. Nat Rev Cardiol. 2019;16(9):519-537.  Figures used with permission from Asimaki A, et al. N Engl J Med. 2009;360(11):1075-1084 and Tadros HJ, et al. Appl Clin Genet. 2023;16:181-203. 
+
+ 
+
+ 4  ACM: High-Risk of Arrhythmias and Sudden Cardiac Death  No Currently Available
+Curative Treatment Options  ACM, arrhythmogenic cardiomyopathy; ARVC, arrhythmogenic right ventricular cardiomyopathy; ARVD, arrhythmogenic right ventricular dysplasia; ICD, implantable cardioverter defibrillator; SCD, sudden cardiac death.  1.
+Groeneweg JA, et al. Circ Cardiovasc Genet. 2015;8(3):437-446. 2. James CA, et al. J Am Coll Cardiol. 2013;62(14):1290-1297. 3. Bhonsale A, et al. Eur Heart J. 2015;36(14):847-855. 4. Towbin JA, et al. Heart Rhythm. 2019;16(11).
+doi:10.1016/j.hrthm.2019.05.007. 5. Hermida A, et al. Eur J Heart Fail. 2019;21(6):792-800.  Associated Risks1  In a study population of 439 index-patients, who fulfilled 2010 Task Force Criteria for ARVD/ARVC:  Index patients
+experienced  sustained ventricular arrhythmias  Index patients experience sudden cardiac  death (SCD) or resuscitated SCD  >70%  ~11%  Index patients receive ICD placement  >80%  Therapeutic Challenges1,3-5  Current standard of care
+includes beta-blockers, anti-arrhythmic agents, ICD, and ablation  Current therapeutic options do not alter pathophysiology or disease progression  ICD firings are lifesaving but highly traumatic events  Disease progression may lead to heart
+failure,  premature death, or transplant  Susceptibility2  Frequent and/or endurance exercise are associated with increased likelihood of ACM diagnosis and severity; patients are often advised to avoid strenuous activity 
+
+ 
+
+ 5  AAV Gene Therapy for PKP2-ACM: RP-A601  hGH, human growth hormone; ISO,
+isoproterenol; KO, conditional knock-out; PVC, premature ventricular contractions; WPRE, woodchuck hepatitis virus post-transcriptional regulatory element.  1. Herzog CD, et al. Preclinical Efficacy and Safety of AAVrh.74-PKP2a (RP-A601): Gene
+Therapy for PKP2-associated Arrhythmogenic Cardiomyopathy. ESGCT Congress 2023. 2. Rodino-Klapac LR, et. al. Safety, β-Sarcoglycan Expression, and Functional Outcomes From Systemic Gene Transfer of rAAVrh74.MHCK7.hSGCB in LGMD2E/R4. MDA
+Conference 2022. 3. Mendell J, et. al. A Phase 2 clinical trial evaluating the safety and efficacy of delandistrogene moxeparvovec (SRP-9001) in patients with Duchenne muscular dystrophy. MDA Conference 2022. 4. Cerrone M, et al. Nat Commun.
+2017;8(1):106. doi:10.1038/s41467-017-00127-0. 5. van Opbergen CJM, et al. Circ Genom Precis Med. 2024;17(1):e004305. doi:10.1161/CIRCGEN.123.004305.  RP-A601 (AAVrh.74-PKP2a): recombinant adeno-associated viral (AAV) vector containing the
+coding sequence of human PKP2a1  Effectively drives expression of therapeutic transgene in cardiomyocytes; minimizes  off-target effects  Full wild type coding sequence  of PKP2a  AAVrh.74 serotype demonstrated favorable safety and efficacy in
+relevant disease models and in muscular dystrophy2,3  A single RP-A601 infusion demonstrated cardiotropism, extended survival, and mitigated  ISO-induced PVCs and arrhythmia in a conditional PKP2a-KO mouse
+model4,5  hPKP2a  Kozak  WPRE  hGH  Cardiac-Specific Promoter 
+
+ 
+
+ 6  Phase 1 Study Overview  First-in-Human, Phase I, Open-label, Dose Escalation
+Trial of RP-A601 in Adult Patients with PKP2-ACM  Clinicaltrials.gov Identifier: NCT05885412.  ACM, arrhythmogenic cardiomyopathy; GC, genome copies; ICD, implantable cardioverter-defibrillator; IV, intravenous; SAE, serious adverse event;
+TEAE, treatment emergent event.  Inclusion Criteria  Male or female ≥18 years  Clinical ACM diagnosis: defined by 2010 revised Task Force Criteria  Pathogenic or likely pathogenic truncating PKP2 variant  ICD implantation ≥6 months prior to
+enrollment  Anti-AAVrh.74 capsid neutralizing antibody ≤1:40  Exclusion Criteria  Cardiomyopathy related to a genetic etiology other than PKP2 truncating variant  Previous participation in a study of gene transfer or gene editing  Severe right
+ventricular dysfunction  Left ventricular ejection fraction by echocardiogram ≤50%  New York Heart Association Class IV heart failure  Starting Dose (RP-A601): 8x1013 GC/kg (IV)  Month 3  Month 12  Long-Term Follow-Up  Yearly Safety
+Monitoring  Month 6  Month 9  Rituximab  Sirolimus  Safety and Efficacy Assessments  Primary Endpoints: Safety  Incidence of TEAEs  Incidence of SAEs  Identification of dose limiting toxicities  Month 0   Corticosteroids   Month 18 Month
+24  ≥60 Months  Secondary Endpoints: Efficacy  Change in PKP2 protein expression  Change in frequency of clinical markers of life threatening arrythmias  Cardiac biomarkers  Natural history studies are intended to provide context for the Phase
+1 trial and additional information on disease progression 
+
+ 
+
+ 7  Baseline Characteristics of Cohort 1 Patients  *Indicates patient still
+receiving specified agent as of baseline screening visit.  †As assessed on Day -14 pre-infusion.  Patient ID  Sex  Age at Enrollment (y)  Weight at Dosing (kg)  History of  Anti-Arrhythmic Agents  KCCQ-12  Score  NYHA  Class†  RV Systolic
+Function (ECHO)  1003  M  55  108.9  Sotalol, Amiodarone,* beta-blocker*  39.6  II  Normal  1011  F  58  58.3  Sotalol, Flecainide, Propafenone, Dronedarone, Amiodarone, beta-blocker  54.2  II  Mild - Moderate
+Reduced  1010  F  36  77.9  Sotalol, Flecainide,* beta-blocker*  59.4  II  Normal  Cohort 1 patients received a single intravenous RP-A601 dose: 8x1013 GC/kg  ECHO, echocardiogram; F, female; GC, genome copies; KCCQ, Kansas City Cardiomyopathy
+Questionnaire; M, male; NYHA, New York Heart Association RV, right ventricle; y, years.  Data cutoff May 6, 2025. 
+
+ 
+
+ 8  Most Frequently Reported Treatment Emergent Adverse Events Were Mild or
+Moderate in Severity*  No dose-limiting toxicities observed – patients received a single intravenous RP-A601 dose: 8x1013 GC/kg  † Pancreatitis, bacteremia, and sepsis were part of a single SAE  Serious adverse events were coded using Medical
+Dictionary for Regulatory Activities (MedDRA) Version 26.0.; Adverse events were graded using National Cancer Institute Common  Terminology Criteria for AEs (NCI-CTCAE) version 5.0.; SAE, Serious Adverse Event; TEAE, treatment-emergent adverse
+event.; TMA, thrombotic microangiopathy.  Data cutoff May 6, 2025.  All SAEs were experienced by one patient and fully resolved without clinical manifestation, within 2m of treatment  No arrhythmia SAEs were identified during the initial 6-12
+months of post-treatment follow-up  No patients developed clinical TMA  Serious Adverse Event (SAE)  Grade  No. of Patients (%)  Any SAE  1 (33.33)  Investigations  Transaminase elevations  3  1 (33.33)  Gastrointestinal disorders  Acute
+Pancreatitis†  4  1 (33.33)  Infections and infestations  Bacteremia†  3  1 (33.33)  Sepsis†  4  1 (33.33)  Preferred Term of TEAEs (Events Observed in ≥2 Patients)  No. of Patients  Grade 1  Grade 2  Grade 3  Alanine aminotransferase
+increased  2  0  1  Aspartate aminotransferase  increased  2  1  0  Complement factor increased  1  2  0  Nausea  2  0  0  Fatigue  2  0  0  Decreased appetite  2  0  0 
+
+ 
+
+ 9  *Month 12 data for Patient 1003, and Month 6 data for Patients 1011 and
+1010.  RP-A601 VCN and PKP2 RNA Expression in  Endomyocardial Biopsy Tissue   RP-A601 Vector Copy Number  (DNA Copies Per Diploid Nucleus)  Patient ID  Baseline  Most Recent Visit*  1003  0  2.89  1011  0  3.81  1010  0  8.23  PKP2 Exogenous
+mRNA  (Copies Per μg Nucleic Acid)  Patient ID  Baseline  Month 3  Most Recent Visit*  1003  0  5.56E+04  5.84E+04  1011  0  9.19E+04  2.75E+05  1010  0  4.78E+05  1.07E+05  VCN, Vector Copy Number Data cut of April 2025. 
+
+ 
+
+ 10  RP-A601 Increased PKP2 Protein Expression at 3 and 6 Months  Cardiac biopsies
+(n=2 of 3) show increased PKP2 protein expression following RP-A601 treatment  ~2.1X (110%) change from baseline to 6 months in Patient 1011  ~5X (398%) change from baseline to 6 months in Patient 1010  Patient 1003 shows increased PKP2,
+Cadherin-2 (CDH2), and Desmocollin-2 (DSC2) at the desmosome/intercalated disc shown on following slides  Data cutoff April 2025.  Patient 1010  Patient 1003  PKP2 Protein Expression  Western Blot Quantification  Patient 1011  PKP2 Protein
+Expression  Western Blot Image  Patient 1010  baseline  3 months  6 months  0.8  0.7  0.6  0.5  0.4  0.3  0.2  0.1  0.0  ng PKP2 protein / g total protein 
+
+ 
+
+ 11  Data cutoff April 2025.  RP-A601 Increases Expression of Desmosomal Proteins
+& Cadherin-2 at 6 and 12 Months in Patient 1003  baseline  3 months  6 months  12 months  12  11  10  9  8  7  6  5  4  3  2  1  0  CDH2 positive cardiac tissue (%)  baseline  3 months  6 months  12
+months  0.8  0.7  0.6  0.5  0.4  0.3  0.2  0.1  0.0  ng PKP2 protein / g total protein  baseline  3 months  6 months  12 months  12  11  10  9  8  7  6  5  4  3  2  1  0  PKP2 positive cardiac tissue (%)  baseline  3 months  6 months  12
+months  12  11  10  9  8  7  6  5  4  3  2  1  0  DSC2 positive cardiac tissue (%)  RP-A601 promotes PKP2, Cadherin-2 (CDH2), and Desmocollin-2 (DSC2)
+expression  Cadherin-2+  (Immunofluorescence)  Desmocollin-2+  (Immunofluorescence)  PKP2+  (Immunofluorescence)  PKP2  (Western Blot) 
+
+ 
+
+ 12  Data cutoff April 2025.  Immunofluorescence Shows RP-A601 Increased PKP2 &
+Cadherin-2 Expression at 6 and 12 Months in Patient 1003  RP-A601 promotes PKP2 and Cadherin-2 expression at 6 and 12 months  RP-A601 promotes increased co-distribution of PKP2 and Cadherin-2 at cell-cell junctions at 6 and 12 months  These
+findings suggest improved desmosome structure and cardiomyocyte intercellular adhesion  Baseline  3 Months  6 Months  12 Months 
+
+ 
+
+ 13  Data cutoff April 2025.  RP-A601 Increases Expression of Desmosomal Proteins
+& Cadherin-2 at 6 Months in Patient 1011  baseline  3 months  6 months  10  9  8  7  6  5  4  3  2  1  0  DSC2 positive cardiac tissue (%)  baseline  3 months  6 months  10  9  8  7  6  5  4  3  2  1  0  CDH2 positive cardiac tissue
+(%)  baseline  3 months  6 months  10  9  8  7  6  5  4  3  2  1  0  PKP2 positive cardiac tissue (%)  baseline  3 months  6 months  0.8  0.7  0.6  0.5  0.4  0.3  0.2  0.1  0.0  ng PKP2 protein / g cardiac
+protein  Cadherin-2+  (Immunofluorescence)  Desmocollin-2+  (Immunofluorescence)  PKP2+  (Immunofluorescence)  PKP2  (Western Blot)  RP-A601 promotes PKP2, Cadherin-2 (CDH2), and Desmocollin-2 (DSC2) expression 
+
+ 
+
+ 14  Data cutoff April 2025.  RP-A601 Increases Expression of Desmosomal Proteins
+& Cadherin-2 at 3 and 6 Months in Patient 1010  baseline  3 months  6 months  10  9  8  7  6  5  4  3  2  1  0  PKP2 positive cardiac tissue (%)  baseline  3 months  6 months  10  9  8  7  6  5  4  3  2  1  0  CDH2 positive cardiac tissue
+(%)  baseline  3 months  6 months  10  9  8  7  6  5  4  3  2  1  0  DSC2 positive cardiac tissue (%)  baseline  3 months  6 months  0.8  0.7  0.6  0.5  0.4  0.3  0.2  0.1  0.0  ng PKP2 protein / g total
+protein  Cadherin-2+  (Immunofluorescence)  Desmocollin-2+  (Immunofluorescence)  PKP2+  (Immunofluorescence)  PKP2  (Western Blot)  RP-A601 promotes PKP2, Cadherin-2 (CDH2), and Desmocollin-2 (DSC2) expression 
+
+ 
+
+ 15  Stabilization or Improvement in RV Function, QoL, and NYHA Class at Most
+Recent Visit  Patient ID  Age at Enrollment (y)  Most Recent Visit  (MRV, mo)  RV Systolic Function (ECHO) BL MRV  KCCQ-12  Score BL MRV  (% change)  NYHA Class BL* MRV  1003  55  12  Normal   Normal†  39.6  74.0  (+87%)  II 
+I  1011  58  9  Mild - moderate reduced  Normal  54.2  95.3  (+76%)  II  I  1010  36  6  Normal   Normal  59.4  59.4  (0%)  II  II  RV function was stable or  improved in all patients  Patients beyond 6 months follow-up at most recent
+visit showed:  Clinical improvement in KCCQ-12 score (34-41  points; ≥5 point increases considered clinically meaningful in adults)  Improved NYHA class  BL, baseline; KCCQ, Kansas City Cardiomyopathy Questionnaire; mo, months; MRV, most recent
+visit; NYHA, New York Heart Association; QoL, quality of life; RVEF, right ventricular ejection fraction.  Data cutoff April 2025.  *As assessed on Day-14 pre-infusion.  †Stability of RVEF was corroborated by month 12 cardiac magnetic resonance
+(CMR) s imaging. 
+
+ 
+
+ 16  Preliminary Indications of Improvement or Stabilization  Observed in Clinical
+Markers of Arrhythmia Burden   Patient ID  Age at Enrollment (y)  Most Recent Visit  (MRV, mo)  PVCs per 24h BL  MRV  (% change)  NSVT Episodes per 24h  BL MRV  T-wave inversions (precordial and inferior ECG)  1003  55  12  117* 
+43  (-63%)  0  0  0  0  1011  58  9  2974  2713  (-9%)  0  0  4  4  1010  36  6  2650*  1057  (-60%)  5*  0  6  2  Ventricular ectopy, as evident by PVC and NSVT episodes on ambulatory rhythm monitoring decreased or  stabilized in all
+patients  T-wave inversions in precordial and inferior leads decreased in 1 patient and remained stable in 2 patients  *Ambulatory rhythm monitoring was conducted at baseline for 48 hours. For the specified patients, data from two separate
+48-hour rhythm monitoring studies were combined to produce the baseline value. Rhythm monitoring at the most recent visit was conducted for 7 days.  BL, baseline; h, hours; mo, months; MRV, most recent visit; NSVT, non-sustained ventricular
+tachycardia; PVC, premature ventricular contractions; ECG, electrocardiogram; y, years. Data cutoff April 2025. 
+
+ 
+
+ Summary of Initial Results From Ongoing Phase I Trial  Cohort 1 Patients with
+PKP2-ACM Treated with RP-A601 Demonstrated  RP-A601 was generally well-tolerated with no dose-limiting toxicities observed  No TMA or ventricular arrhythmias were observed  Increased expression and desmosomal localization of PKP2,
+Desmocollin-2, and Cadherin-2 in all patients  Most evident at ≥ 6 months post-treatment of RP-A601  Preliminary indications of improvement or stabilization observed in arrhythmia burden, heart function, and quality of
+life  Decreased/stabilized ventricular ectopy (PVC, NSVT) on rhythm monitoring in all patients  Decreased/stabilized T-wave inversions on ECG in all patients  Improved/stabilized RV function  Improved quality-of-life and NYHA Class in patients
+followed beyond 6 months  ECG, electrocardiogram; NSVT, non-sustained ventricular tachycardia; NYHA, New York Heart Association Functional classification; PVC, premature ventricular contractions; RV, right ventricular;  17 TMA, thrombotic
+microangiopathy 
+
+ 
+
+ Key Findings and Path Forward  Key Findings  RP-A601 was generally well tolerated
+in all 3 patients SAEs were reversible without clinical manifestations, no dose-limiting toxicities observed  All 3 patients in Cohort 1 demonstrated cardiac transduction with localized myocardial protein expression that was maintained or
+increased up to 12-months post-infusion  Initial efficacy in all patients showed early signs of disease modification across multiple clinical parameters with up to 12-months of follow-up  Based on the Phase 1 trial, 8.0e13 GC/kg considered
+final dose  Path Forward  Phase 1 (NCT05885412) is a dose-finding trial to evaluate the safety of RP-A601  With no further dose escalation, Rocket plans to design and execute a potential pivotal trial to further evaluate the efficacy and safety
+of RP-A601  18 
+
+ 
+
+ 19  ©2024 Rocket Pharmaceuticals, Ltd.  All rights reserved  Thank You

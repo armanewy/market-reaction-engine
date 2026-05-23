@@ -1,0 +1,408 @@
+EX-99.1
+2
+d471413dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+Zymeworks Presents New Data from Multiple Preclinical and Clinical Development Programs at the 2023
+American Association for Cancer Research Annual Meeting
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW191 demonstrates strong responses in FRα-low
+expressing patient-derived xenograft (PDX) models with favorable pharmacokinetic and safety profiles
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW171 induced potent preferential killing of cancer cells and potential to mitigate risk of on-target off-tumor toxicity, peripheral T cell activation, and cytokine-release syndrome
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW251 exhibits desired target-mediated activity in vitro and robust anti-tumor activity in PDX models
+
+ 
+
+ 
+
+•
+
+ 
+
+Management will host conference call today at 6:30 pm Eastern Daylight Time (EDT)
+
+Vancouver, British Columbia (April 18, 2023) – Zymeworks Inc. (Nasdaq: ZYME), a clinical-stage biotechnology company developing novel,
+multifunctional biotherapeutics, today announced 11 presentations including new data from its clinical and preclinical development-stage programs at the 2023 American Association for Cancer Research (AACR) Annual Meeting being held in Orlando,
+Florida.
+
+“We are very excited to showcase new data from our portfolio of antibody-drug conjugates and multispecific antibody therapeutics including
+our anticipated 2024 IND candidates, ZW191 and ZW171,” said Paul Moore, Ph.D., Chief Scientific Officer at Zymeworks. “These findings provide many new and exciting insights about the potential of our therapies to represent significant
+advances in the treatment of cancer and other diseases, while also highlighting our cohesive strategy and path forward in developing a broad portfolio of novel antibody-drug conjugates and multispecific antibody therapeutics. The significant number
+of presented abstracts is a reflection of the power and breadth of our protein engineering platforms, and our capabilities and experience to engineer potentially differentiated and novel medicines. We look forward to advancing at least five novel
+medicines into clinical studies by 2027 under our previously-announced ZYME 5 x 5 R&D objectives.”
+
+Presentation Highlights
+
+ZW191, a novel FRα-targeting antibody-drug conjugate bearing a topoisomerase 1 inhibitor payload
+
+Abstract: 2641
+
+Session Category: Experimental and Molecular
+Therapeutics
+
+Session Title: Antibody Technologies
+
+Human
+folate receptor alpha (FRα) is a glycosyl-phosphatidylinositol-linked membrane protein. Expression of FRα is rare in normal tissue, but frequently elevated in several solid tumour types including epithelial ovarian cancer, endometrial
+cancer and lung adenocarcinoma. ZW191 is an antibody-drug conjugate (ADC) targeting FRα comprised of a novel fully humanized IgG1 antibody covalently conjugated to a novel topoisomerase 1 inhibitor ZD06519, a camptothecin derivative, via
+endogenous interchain cysteines with a drug to antibody ratio (DAR) of eight. The linker in ZW191 consists of a maleimidocaproyl anchor and a glycyl glycyl phenylalanyl glycine-aminomethyl protease-cleavable sequence. Upon target binding and
+receptor-mediated internalization of ZW191, intracellular release of bystander-active ZD06519 induces cell death of FRα positive cells and FRα negative cells through bystander-mediated killing.
+
+Key Results:
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW191 exhibited a compelling preclinical activity profile that supports potential activity in targeting
+FRα-high/mid/low ovarian cancers.
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW191 demonstrated strong responses in FRα-low expressing PDX
+models, indicating potential activity in other oncology indications with lower levels of FRα.
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW191 displayed favorable pharmacokinetics (PK) and is well tolerated in
+non-human primates (NHP) at exposure levels above those projected to be efficacious.
+
+ZW171, a T cell-engaging, bispecific antibody for the treatment of mesothelin-expressing solid tumors
+
+Abstract: 2942
+
+Session Category: Immunology
+
+Session Title: Therapeutic Antibodies 2
+
+Mesothelin (MSLN)
+is a glycosylphosphatidylinositol-linked membrane glycoprotein that is overexpressed in many cancer indications, including pancreatic, mesothelioma, and ovarian1, for which there is a high unmet
+medical need. While MSLN-targeting agents have shown early signs of clinical activity, there remains a need for therapies with improved safety and efficacy2. T cell engager (TCE) therapies have
+exhibited clinical utility against hematological malignancies but have shown limited success against solid tumors due to dose-limiting toxicities associated with risk of cytokine release syndrome (CRS) and
+on-target off-tumor effects3.
+
+To improve the therapeutic intervention of MSLN-expressing tumors, Zymeworks utilized proprietary technologies based on the company’s Azymetric™ and EFECT™ platforms as well as focused engineering strategies to generate a panel of MSLN-targeting TCEs with a variety of formats,
+geometries, and paratope affinities. ZW171 was selected for development from this panel based on its enhanced anti-tumor activity and safety.
+
+Key
+Results:
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW171 induced potent preferential killing of MSLN-overexpressing target cells and stimulated MSLN-dependent T
+cell activation, mitigating the risk of on-target off-tumor toxicity and peripheral T cell activation and CRS.
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW171 exhibited potent tumor growth inhibition in MSLN-expressing tumor models and was well tolerated in
+cynomolgus monkeys up to a single dose of 30 mg/kg.
+
+ 
+
+ 
+
+•
+
+ 
+
+Data suggest that ZW171 could overcome the issues impeding the success of other TCEs developed to treat solid
+tumors and provide the therapeutic rationale to support the development of ZW171 for the treatment of MLSN-expressing tumors.
+
+ 
+
+ 
+
+1 
+
+Morello, A., Sadelain, M., & Adusumilli, P.S. (2016). Mesothelin-Targeted CARs: Driving T Cells to Solid
+Tumors. Cancer discovery, 6(2), 133-46.
+
+2 
+
+Faust, J. R., Hamill, D., Kolb, E. A., Gopalakrishnapillai, A., & Barwe, S. P. (2022). Mesothelin: An
+Immunotherapeutic Target beyond Solid Tumors. Cancers, 14(6), 1550.
+
+3 
+
+Arvedson, T, Mailis, J.M., Britten, C.D., Klinger, M., Nagorsen, D., Coxon, A., Egen, J.G., Martin, F. (2022).
+Targeting Solid Tumors with Bispecific T Cell Engager Immune Therapy. Annual Review of Cancer Biology, 6, 7-14.
+
+ZW251, a novel
+glypican-3-targeting antibody-drug conjugate bearing a topoisomerase 1 inhibitor payload
+
+Abstract: 2658
+
+Session Category: Experimental and Molecular
+Therapeutics
+
+Session Title: Antibody Technologies
+
+Glypican-3 (GPC3) is a membrane-associated proteoglycan that is specifically up-regulated in a substantial proportion of patients with hepatocellular carcinoma (HCC)4, the most common type of liver cancer. Liver cancer is a major cause of death in many countries, and the number of people diagnosed with liver cancer is expected to rise5. ZW251 is an ADC consisting of a topoisomerase 1 inhibitor payload conjugated to an antibody targeting GPC3. Topoisomerase 1 inhibiting ADCs have demonstrated wide clinical benefit in solid tumors
+and ZW251 aims to apply this against a target expressed in hepatocellular carcinoma (HCC), a disease with high unmet need and limited treatment options.
+
+Key Results:
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW251 exhibited robust anti-tumor activity in a large panel of HCC cell line-derived xenograft (CDX) and PDX
+models at both DAR 4 and DAR 8.
+
+ 
+
+ 
+
+•
+
+ 
+
+Anti-tumor activity (tumor growth inhibition > 50%) for ZW251 was evident in 82% of models with GPC3 H-score > 200 and 50-75% of models with GPC3 H-score < 200, providing evidence of ZW251’s potential activity in a range of
+GPC3-expression levels.
+
+ 
+
+ 
+
+•
+
+ 
+
+No mortality was observed in a repeat dose NHP toxicology study with doses up to 60 mg/kg (DAR 8) or 120 mg/kg
+(DAR 4).
+
+ 
+
+ 
+
+•
+
+ 
+
+ZW251 is a potentially first-in class
+glypican-3 targeting ADC.
+
+Additional ADC Program Presentations
+
+Revisiting the dogma of antibody-drug conjugates (ADCs): Emerging data challenge the benefit of linker stability and the primacy of payload
+delivery
+
+Abstract: 1538
+
+Session Category:
+Experimental and Molecular Therapeutics
+
+Session Title: Antibody Drug Conjugates
+
+ZW220, a novel NaPi2b-targeting antibody-drug conjugate bearing a topoisomerase 1 inhibitor payload
+
+Abstract: 1533
+
+Session Category: Experimental and Molecular
+Therapeutics
+
+Session Title: Antibody Drug Conjugates
+
+Additional Multispecific Antibody Therapeutics Program Presentations
+
+TriTCE Co-stim, next generation costimulatory trispecific T cell engagers for the treatment of solid tumors
+
+Abstract: 5121
+
+Session Category: Immunology
+
+Session Title: Combination Immunotherapies 2
+
+ 
+
+ 
+
+4 
+
+Wang HL et al., Arch pathol Lab Med, 2008 132(11)
+
+5 
+
+Rumgay H et al., Global burden of primary liver cancer in 2020 and prediction to 2040; Journal of Hepatology.
+vol 77 (6) 2022.
+
+TriTCE CPI, next generation trispecific T cell engagers with integrated checkpoint inhibition (CPI)
+for the treatment of solid tumors
+
+Abstract: 2982
+
+Session Category: Immunology
+
+Session Title: Therapeutic
+Antibodies 3
+
+PROTECT™, a novel trispecific antibody masking platform with integrated
+immune modulation displays unique activity and differentiated modes of action
+
+Abstract: 2926
+
+Session Category: Immunology
+
+Session Title: Therapeutic
+Antibodies 2
+
+ZW270, a conditionally masked IL-12 cytokine fusion protein displaying potent anti-tumor
+activity absent systemic toxicity
+
+Abstract: 2935
+
+Session Category: Immunology
+
+Session Title: Therapeutic
+Antibodies 2
+
+Clinical Product Candidate Presentations
+
+ERBB2 amplification detected in ctDNA as a surrogate for tumor tissue FISH analysis of HER2 status in a phase 1 study with zanidatamab for the treatment of
+locally advanced or metastatic HER2 expressing cancers
+
+Abstract: CT278
+
+Session Category: Clinical Trials Posters
+
+Session Title: Phase I
+Clinical Trials 2
+
+Zanidatamab zovodotin (ZW49) induces hallmarks of immunogenic cell death and is active in patient-derived xenograft models of
+gastric cancer
+
+Abstract: 2633
+
+Session Category:
+Experimental and Molecular Therapeutics
+
+Session Title: Antibody Technologies
+
+Conference Call and Webcast Information:
+
+Zymeworks management will host a conference call and webcast for investors and analysts on April 18, 2023, at 6:30 pm EDT. The event will be
+webcast live with dial-in details and webcast replays available on Zymeworks’ website
+at http://ir.zymeworks.com/events-and-presentations.
+
+About
+Zymeworks Inc.
+
+Zymeworks Inc. (Nasdaq: ZYME) is a global biotechnology company committed to the discovery, development, and commercialization of
+novel, multifunctional biotherapeutics. Zymeworks’ mission is to make a meaningful difference for people impacted by difficult-to-treat cancers and other serious
+diseases. Zymeworks’ complementary therapeutic platforms and fully integrated drug development engine provide the flexibility and compatibility to precisely engineer and develop highly differentiated antibody-based therapeutic candidates.
+Zymeworks engineered and developed zanidatamab, a HER2-targeted bispecific antibody using Zymeworks’ proprietary Azymetric™ technology. Zymeworks has entered into separate agreements
+with BeiGene, Ltd. (BeiGene) and Jazz Pharmaceuticals Ireland Limited (Jazz), granting each of BeiGene and Jazz with exclusive rights to develop and commercialize zanidatamab in different territories. Zanidatamab is currently being
+evaluated in global Phase 1, Phase 2, and Phase 3 clinical trials, including certain ongoing pivotal clinical trials as a treatment for patients with HER2-expressing cancers. Zymeworks’ next clinical candidate, zanidatamab zovodotin (ZW49), is
+a HER2-targeted bispecific antibody-drug conjugate (ADC) developed using Zymeworks’ proprietary Azymetric™ and ZymeLink™
+Auristatin technologies. Zanidatamab zovodotin is currently being evaluated in a Phase 1 clinical trial for patients with a variety of HER2-expressing, HER2-amplified or HER2-mutant cancers.
+
+Zymeworks is also advancing a deep pipeline of product candidates based on its experience and capabilities in both ADC and multispecific antibodies (MSAT). In addition to Zymeworks’ wholly
+owned pipeline, its therapeutic platforms have been further leveraged through strategic partnerships with global biopharmaceutical companies. For information about Zymeworks, visit www.zymeworks.com and
+follow @ZymeworksInc on Twitter.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release includes “forward-looking statements” or information within the meaning of the applicable securities legislation, including
+Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements in this press release include, but are not limited to, statements that relate to
+Zymeworks’ preclinical pipeline; the potential therapeutic effects of zanidatamab and Zymeworks’ other product candidates; anticipated regulatory submissions and the timing thereof; Zymeworks’ clinical development of its product
+candidates and enrollment in its clinical trials; anticipated preclinical and clinical data presentations; the ability to advance product candidates into later stages of development; and other information that is not historical information. When
+used herein, words such as “plan”, “believe”, “expect”, “may”, “anticipate”, “potential”, “will”, “continues”, and similar expressions are intended to identify
+forward-looking statements. In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance or other characterizations of future events or circumstances, including any underlying
+assumptions, are forward-looking. All forward-looking statements are based upon Zymeworks’ current expectations and various assumptions. Zymeworks believes there is a reasonable basis for its expectations and beliefs, but they are inherently
+uncertain. Zymeworks may not realize its expectations, and its beliefs may not prove correct. Actual results could differ materially from those described or implied by such forward-looking statements as a result of various factors, including,
+without limitation: future clinical trials may not demonstrate safety and efficacy of any of Zymeworks’ or its collaborators’ product candidates; clinical trials may not demonstrate safety and efficacy of any of Zymeworks’ or its
+collaborators’ product candidates; any of Zymeworks’ or its partners’ product candidates may fail in development, may not receive required regulatory approvals, or may be delayed to a point where they are not commercially viable;
+regulatory agencies may impose additional requirements or delay the initiation of clinical trials; the impact of the COVID-19 pandemic on Zymeworks’ business, research and clinical development plans and
+timelines and results of operations, including impact on its clinical trial sites, collaborators, and contractors who act for or on Zymeworks’ behalf, may be more severe and more prolonged than currently anticipated; the impact of new or
+changing laws and regulations; market conditions; inability to maintain or enter into new partnerships or strategic collaborations; and the factors described under “Risk Factors” in Zymeworks’ quarterly and annual reports filed with
+the Securities and Exchange Commission, including its Annual Report on Form 10-K for its year ended December 31, 2022 (a copy of which may be obtained at www.sec.gov and www.sedar.com).
+
+Although Zymeworks believes that such forward-looking statements are reasonable, there can be no assurance they will prove to be correct. Investors should not
+place undue reliance on forward-looking statements. The above assumptions, risks and uncertainties are not exhaustive. Forward-looking statements are made as of the date hereof and, except as may be required by law, Zymeworks undertakes no
+obligation to update, republish, or revise any forward-looking statements to reflect new information, future events or circumstances, or to reflect the occurrences of unanticipated events.
+
+Contacts:
+
+Investor Inquiries:
+
+Jack Spinks
+
+Director, Investor Relations
+
+(604) 678-1388
+
+ir@zymeworks.com
+
+Media Inquiries:
+
+Diana Papove
+
+Director, Corporate Communications
+
+(604) 678-1388
+
+media@zymeworks.com

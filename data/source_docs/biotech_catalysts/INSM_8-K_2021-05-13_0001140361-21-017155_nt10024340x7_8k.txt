@@ -1,0 +1,256 @@
+false000110450600011045062021-05-132021-05-13
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): May 13, 2021
+
+INSMED INCORPORATED
+
+ (Exact Name of Registrant as Specified in Charter)
+
+Virginia
+
+000-30739
+
+54-1972729
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+700 US Highway 202/206
+
+Bridgewater, New Jersey 08807
+
+(Address of Principal Executive Offices, and Zip Code)
+
+(908) 977-9900
+
+Registrant’s Telephone Number, Including Area Code
+
+Not Applicable
+
+ (Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+INSM
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR Sec.230.405) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR Sec.240.12b-2).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01 — Entry into a Material Definitive Agreement.
+
+On May 13, 2021, Insmed Incorporated (the “Company”) closed its previously announced underwritten public offering of $575 million aggregate principal amount
+of the Company’s 0.75% Convertible Senior Notes due 2028 (the “Notes”), which includes $75 million aggregate principal amount of Notes sold pursuant to the underwriters’ option to purchase additional Notes, solely to cover over-allotments, which was
+exercised in full on May 11, 2021. The offering was made pursuant to a base prospectus dated May 21, 2020, which was filed with the Securities and Exchange Commission (the “SEC”) as part of a shelf registration statement that became automatically
+effective upon filing with the SEC on May 21, 2020 (the “Registration Statement”), as supplemented by a preliminary prospectus supplement filed with the SEC on May 10, 2021, and a final prospectus supplement, dated May 10, 2021.
+
+The Notes are governed by the terms of a base indenture for senior debt securities (the “Base Indenture”), dated as of January 26, 2018, by and between the
+Company and Wells Fargo Bank, National Association, as trustee (the “Trustee”), as supplemented by the second supplemental indenture thereto, dated as of May 13, 2021, by and between the Company and the Trustee (the “Supplemental Indenture” and
+together with the Base Indenture, the “Indenture”). The Notes are the senior unsecured obligations of the Company and bear interest at a rate of 0.75% per annum, payable semi-annually in arrears on June 1 and December 1 of each year, beginning on
+December 1, 2021. The Notes will mature on June 1, 2028, unless earlier repurchased, redeemed or converted.
+
+Subject to the terms of the Indenture, the Notes are convertible into cash, shares of the Company’s common stock, par value $0.01 per share (the “Common
+Stock”), or a combination thereof, at the Company’s election, at an initial conversion rate of 30.7692 shares of Common Stock per $1,000 principal amount of the Notes, which corresponds to an initial conversion price of approximately $32.50 per share
+of Common Stock and represents a premium of approximately 30% over the public offering price per share of Common Stock offered in the Company’s concurrent public offering of 11,500,000 shares of Common Stock (the “Equity Offering”).
+
+The conversion rate is subject to adjustment from time to time upon the occurrence of certain events, including, but not limited to, the issuance of stock
+dividends and payment of cash dividends. If a make-whole fundamental change (as defined in the Indenture) occurs or the Company delivers a notice of redemption and a holder elects to convert its Notes in connection with such make-whole fundamental
+change or notice of redemption, as applicable, such holder may be entitled to an increase in the conversion rate as described in the Indenture.
+
+At any time prior to the close of business on the business day immediately preceding March 1, 2028, holders may convert their Notes at their option only under
+the following circumstances: (1) during any calendar quarter commencing after the calendar quarter ending on June 30, 2021 (and only during such calendar quarter), if the last reported sale price of the Common Stock for at least 20 trading days
+(whether or not consecutive) during a period of 30 consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than or equal to 130% of the conversion price on each applicable trading day; (2)
+during the five business day period after any five consecutive trading day period (the “measurement period”) in which the trading price per $1,000 principal amount of Notes for each trading day of the measurement period was less than 98% of the
+product of the last reported sale price of the Common Stock and the conversion rate on each such trading day; (3) upon the occurrence of specified corporate events; or (4) if the Company calls the Notes for redemption until the close of business on
+the second business day immediately preceding the redemption date. On or after March 1, 2028, until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert all or any portion of their
+Notes, in multiples of $1,000 principal amount, at the option of the holder regardless of the foregoing circumstances.
+
+The Company may not redeem the Notes prior to June 6, 2025. On or after June 6, 2025, the Company may redeem for cash all or any portion of the Notes if the
+last reported sale price of the Common Stock equals or exceeds 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period ending on the trading day prior to the
+date on which the Company provides notice of the redemption. The redemption price will be the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, if any. No sinking fund is provided for the Notes.
+
+If a fundamental change (as defined in the Indenture) occurs at any time, subject to certain conditions, holders may require the Company to purchase all or
+any portion of their Notes at a purchase price equal to 100% of the principal amount of the Notes to be purchased, plus accrued and unpaid interest, if any, to, but excluding, the fundamental change repurchase date.
+
+The Notes are the Company’s senior unsecured obligations and will: rank senior in right of payment to the Company’s future indebtedness that is expressly
+subordinated in right of payment to the Notes; rank equally in right of payment with all of the Company’s existing and future liabilities that are not so subordinated (including the Company’s existing 1.75% Convertible Senior Notes due January 15,
+2025); be effectively junior to any of the Company’s secured indebtedness to the extent of the value of the assets securing such indebtedness; and be structurally subordinated to all indebtedness and other liabilities (including trade payables) of
+the Company’s subsidiaries.
+
+The Indenture includes customary covenants and sets forth certain events of default after which the Notes may be declared immediately due and payable and sets
+forth certain types of bankruptcy or insolvency events of default involving the Company after which the Notes become automatically due and payable.
+
+The foregoing summary of the Notes and the Indenture does not purport to be complete and is qualified in its entirety by reference to the text of the Base
+Indenture, the Supplemental Indenture, and the form of 0.75% Convertible Senior Note due 2028 included in the Supplemental Indenture, which are filed as Exhibits 4.1, 4.2 and 4.3, respectively, with this Current Report on Form 8-K and are
+incorporated herein and into the Registration Statement by reference.
+
+Item 2.03 — Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth under Item 1.01 is incorporated into this Item 2.03 by reference.
+
+Item 7.01 — Regulation FD Disclosure
+
+On May 13, 2021, the Company issued a press release announcing the closing of its concurrent public offerings of the Notes and the shares of Common Stock sold
+in the Equity Offering. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+Item 9.01 — Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+ 
+
+Description
+
+4.1
+
+ 
+
+Indenture, dated as of January 26, 2018, by and between the Company and Wells Fargo Bank, National Association (incorporated by reference from Exhibit
+4.1 to Insmed Incorporated’s Current Report on Form 8-K filed on January 26, 2018).
+
+ 
+
+ 
+
+ 
+
+4.2
+
+ 
+
+Second Supplemental Indenture, dated as of May 13, 2021, by and between the Company and Wells Fargo Bank, National Association.
+
+ 
+
+ 
+
+ 
+
+4.3
+
+ 
+
+Form of 0.75% Convertible Senior Note due 2028 (included in Exhibit 4.2).
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press Release issued by Insmed Incorporated on May 13, 2021.
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+Cover Page Interactive Date File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+Dated: May 13, 2021
+
+INSMED INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Christine Pellizzari
+
+ 
+
+Name:
+
+Christine Pellizzari
+
+ 
+
+Title:
+
+Chief Legal Officer

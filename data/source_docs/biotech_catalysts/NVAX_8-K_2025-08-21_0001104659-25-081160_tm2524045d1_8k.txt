@@ -1,0 +1,448 @@
+false
+0001000694
+
+0001000694
+
+2025-08-20
+2025-08-20
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT 
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+August 20, 2025
+
+ 
+
+ 
+
+NOVAVAX, INC.
+
+(Exact name of registrant as specified
+in charter)  
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+0-26770
+
+ 
+
+22-2816046
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+700 Quince Orchard Road
+
+Gaithersburg, Maryland 20878
+
+(Address of Principal Executive Offices,
+including Zip Code)
+
+ 
+
+(240) 268-2000
+
+(Registrant’s telephone number,
+including area code)
+
+ 
+
+(Former name or former address, if changed
+since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General
+Instruction A.2. below):
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common Stock, Par Value $0.01 per share
+
+ 
+
+NVAX
+
+ 
+
+The Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company ¨
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On August 20, 2025, Novavax, Inc. (the “Company”) entered
+into privately negotiated exchange and subscription agreements (the “Exchange and Subscription Agreements”) with certain holders
+of the Company’s 5.00% Convertible Senior Notes due 2027 (the “2027 Notes”) and new investors, pursuant to which the
+Company will issue $225.0 million aggregate principal amount of its 4.625% Convertible Senior Notes due 2031 (the “2031 Notes”)
+consisting of (a) approximately $175.3 million principal amount of 2031 Notes issued in exchange for approximately $148.7 million principal
+amount of 2027 Notes (the “Exchange Transactions”), and (b) approximately $49.7 million principal amount of 2031 Notes for
+cash (the “Subscription Transactions” and, together with the Exchange Transactions, the “Transactions”), in each
+case, pursuant to exemptions from registration under the Securities Act of 1933, as amended (the “Securities Act”), and the
+rules and regulations thereunder.
+
+ 
+
+The 2031 Notes will be issued under an indenture (the “New Notes
+Indenture”), expected to be dated on or around August 27, 2025, between the Company and The Bank of New York Mellon Trust Company,
+N.A.
+
+ 
+
+The 2031 Notes will be senior, unsecured obligations of the Company
+and will accrue interest at a rate of 4.625% per annum, payable semi-annually in arrears on March 1 and September 1 of each year, beginning
+on March 1, 2026. The 2031 Notes will mature on September 1, 2031, unless earlier repurchased, redeemed or converted. Before June 1, 2031,
+noteholders will have the right to convert their 2031 Notes only upon the occurrence of certain events. From and including June 1, 2031,
+noteholders may convert their notes at any time at their election until the close of business on the second scheduled trading day immediately
+before the maturity date. The Company will settle conversions by paying cash, shares of its common stock or a combination of cash and
+shares of its common stock, at its election, based on the applicable conversion rate(s). The initial conversion rate is 89.7384 shares
+of common stock per $1,000 principal amount of 2031 Notes, which represents an initial conversion price of approximately $11.14 per share
+of common stock. Based on the initial conversion rate 20,191,140 shares of common stock would be issued upon conversion of the 2031 Notes.
+The initial conversion price represents a premium of approximately 27.5% over the last reported sale price of $8.74 per share of the Company’s
+common stock on August 20, 2025. The conversion rate and conversion price will be subject to adjustment upon the occurrence of certain
+events.
+
+ 
+
+The 2031 Notes will be redeemable, in whole or in part (subject to
+certain limitations), for cash at the Company’s option at any time, and from time to time, on or after September 5, 2028 and before
+the 41st scheduled trading day immediately before the maturity date, but only if the last reported sale price per share of the Company’s
+common stock exceeds 130% of the conversion price for a specified period of time. The redemption price will be equal to the principal
+amount of the 2031 Notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the relevant redemption date.
+
+ 
+
+Holders of the 2031 Notes will have the right to require the Company
+to repurchase all or part of their 2031 Notes for cash in the event of certain fundamental changes (as defined in the New Notes Indenture),
+at a repurchase price equal to 100% of the principal amount of the 2031 Notes to be repurchased, plus accrued and unpaid interest, if
+any, to, but excluding, the relevant repurchase date.
+
+ 
+
+In connection with the Transactions, the Company has been advised that
+J. Wood Capital Advisors LLC (“JWCA”), the Company’s financial advisor with respect to the Transactions, intends to
+purchase approximately 1.2 million shares of the Company’s common stock concurrently with the Transactions in privately negotiated
+transactions from certain exchanging holders and/or purchasers of the 2031 Notes through a financial intermediary at a discount to the
+last reported sale price of the Company’s common stock on August 20, 2025. JWCA has also agreed not to sell such shares of common
+stock for 30 days. Such concurrent purchases by JWCA of the Company’s common stock could increase (or reduce the size of any decrease
+in) the market price of the Company’s common stock, the 2027 Notes or the 2031 Notes.
+
+ 
+
+Following the closing of the Exchange Transactions, approximately $26.5
+million in aggregate principal amount of 2027 Notes will remain outstanding with terms unchanged. The Company expects that the gross proceeds
+from the Subscription Transactions will be approximately $49.7 million, excluding offering fees and transaction expenses, and intends
+to use the net proceeds for general corporate purposes. The Company will not receive any cash proceeds from the Exchange Transactions.
+The Transactions are expected to close concurrently on or about August 27, 2025, subject to customary closing conditions.
+
+ 
+
+ 
+
+JWCA and Leerink Partners acted as financial advisors and Latham &
+Watkins LLP served as legal advisor to the Company on the transaction.
+
+ 
+
+A copy of the Form of Exchange and Subscription Agreement is filed
+as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated by reference herein. The foregoing description of the Form of Exchange
+and Subscription Agreement does not purport to be complete and is qualified in its entirety by reference to such exhibit.
+
+ 
+
+This Current Report on Form 8-K does not constitute an offer to sell,
+nor is it a solicitation of an offer to buy, the 2031 Notes or the Company’s common stock, nor shall there be any sale of the 2031
+Notes or the Company’s common stock in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful
+prior to registration or qualification under the securities laws of any state or any jurisdiction.
+
+ 
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+ 
+
+The information set forth under Item 1.01 of this Current Report on
+Form 8-K is incorporated herein by reference. The offer and sale of the 2031 Notes and the common stock of the Company issuable upon
+conversion, if any, have not been registered under the Securities Act or the securities laws of any other jurisdiction, and may not be
+offered or sold in the United States absent registration or an applicable exemption from such registration requirements. The 2031 Notes
+were offered in a private placement in reliance on Section 4(a)(2) of the Securities Act. The issuance of common stock upon conversion,
+if any, is expected to be exempt from registration pursuant to Section 3(a)(9) of the Securities Act as involving an exchange by the
+Company exclusively with its security holders.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+On August 21, 2025, the Company issued a press release announcing entry
+into the Exchange and Subscription Agreements. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated by reference
+into this Item 8.01.
+
+ 
+
+ 
+
+Forward Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains certain forward-looking statements
+within the meaning of Section 27A the Private Securities Litigation Reform Act of 1995, as amended. All statements contained in this Current
+Report on Form 8-K that do not relate to matters of historical fact should be considered forward-looking, including statements regarding
+net proceeds from the Subscription Transactions, use of proceeds from the Subscription Transactions, and anticipated closing of the Transactions.
+These forward-looking statements generally are identified by the words “anticipate”, “believe”, “contemplate”,
+“continue”, “could”, “estimate”, “expect”, “forecast”, “future”,
+“guidance”, “intend”, “may”, “might”, “opportunity”, “outlook”,
+“plan”, “possible”, “potential”, “predict”, “project”, “should”,
+“strategy”, “strive”, “target”, “vision”, “will”, or “would”,
+any negative of these words or other similar terms or expressions. The absence of these words does not mean that a statement is not forward-looking.
+Forward-looking statements are predictions, projections and other statements about future events that are based on current expectations
+and assumptions and, as a result, are subject to risks and uncertainties that can cause actual results to differ materially from those
+in such forward-looking statements. The factors that could cause or contribute to actual future events to differ materially from the forward-looking
+statements in this Current Report on Form 8-K include but are not limited to: the Company’s ability to consummate the Transactions;
+risks related to the Company’s indebtedness; challenges or delays in obtaining regulatory authorization or approval for its COVID-19
+vaccine, including for future COVID-19 variant strain changes, the Company’s CIC vaccine candidate, its stand-alone influenza vaccine
+candidate or other product candidates; the Company’s ability to successfully and timely manufacture, market, distribute, or deliver
+its COVID-19 vaccine; challenges related to the Company’s partnership with Sanofi, including collaboration on the Nuvaxovid PMC,
+and in pursuing additional partnership opportunities; challenges satisfying, alone or together with partners, various safety, efficacy,
+and product characterization requirements, including those related to process qualification, assay validation and stability testing, necessary
+to satisfy applicable regulatory authorities; challenges or delays in conducting clinical trials or studies for its product candidates,
+including the Nuvaxovid PMC; manufacturing, distribution or export delays or challenges; the Company’s substantial dependence on
+SII and Serum Life Sciences Limited for co-formulation and filling the Company’s COVID-19 vaccine and the impact of any delays or
+disruptions in their operations; difficulty obtaining scarce raw materials and supplies including for its proprietary adjuvant; resource
+constraints, including human capital and manufacturing capacity; constraints on the Company’s ability to pursue planned regulatory
+pathways, alone or with partners; challenges in implementing its global restructuring and cost reduction plan; the Company’s ability
+to timely deliver doses; challenges in obtaining commercial adoption and market acceptance of its COVID-19 vaccine or any COVID-19 variant
+strain containing formulation, or for its CIC vaccine candidate and stand-alone influenza vaccine candidate or other product candidates;
+challenges meeting contractual requirements under agreements with multiple commercial, governmental, and other entities, including requirements
+to deliver doses that may require the Company to refund portions of upfront and other payments previously received or result in reduced
+future payments pursuant to such agreements and challenges in negotiating, amending or terminating such agreements; challenges related
+to the seasonality of vaccinations against COVID-19 or influenza; challenges and uncertainty related to regulatory development; challenges
+related to the demand for vaccinations against COVID-19 or influenza; challenges in identifying and successfully pursuing innovation expansion
+opportunities, including with respect to the Company’s Matrix-M adjuvant; the Company’s expectations as to expenses and cash
+needs may prove not to be correct for reasons such as changes in plans or actual events being different than its assumptions. The foregoing
+list of factors is not exhaustive. You should carefully consider the foregoing factors and the other risks and uncertainties described
+under the caption “Risk Factors” in the Company’s most recent Annual Report on Form 10-K filed with the Securities and
+Exchange Commission (the “SEC”) on February 27, 2025, as updated by its periodic reports and other filings with the SEC. These
+filings identify and address other important risks and uncertainties that could cause actual events and results to differ materially from
+those contained in the forward-looking statements. Forward-looking statements speak only as of the date they are made. Readers are cautioned
+not to put undue reliance on forward-looking statements, and, except as required by law, the Company assumes no obligation and does not
+intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise. The
+Company does not give any assurance that it will achieve its expectations.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+10.1
+
+ 
+
+Form of Exchange and Subscription Agreement.
+
+99.1
+
+ 
+
+Press Release issued August 21, 2025.
+
+104
+
+ 
+
+Cover Page Interactive Data File (Cover page XBRL tags are embedded within the Inline XBRL document).
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+ 
+
+ 
+
+NOVAVAX, INC.
+
+ 
+
+ 
+
+ 
+
+ Date: August 21, 2025
+
+/s/ Mark J. Casey
+
+ 
+
+Name:
+
+Mark J. Casey
+
+ 
+
+Title:
+
+Executive Vice President, Chief Legal Officer and Corporate Secretary

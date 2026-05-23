@@ -1,0 +1,297 @@
+8-K
+
+false 0001815442 0001815442 2025-12-08 2025-12-08
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 8, 2025
+
+ 
+
+ 
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39460
+
+ 
+
+81-2992166
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Kymera Therapeutics, Inc.
+
+500 North Beacon Street, 4th Floor
+
+Watertown, Massachusetts 02472
+
+(Address of principal executive offices, including zip code)
+
+(857) 285-5300
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+KYMR
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On December 8, 2025, Kymera Therapeutics, Inc. (the “Company”) issued a press release, a copy of which is furnished herewith as Exhibit 99.1.
+
+On December 8, 2025, the Company will host a video conference call at 8:00 am eastern time to discuss the results from the Company’s BroADen Phase 1b atopic dermatitis (“AD”) patient trial of KT-621, its first-in-class, oral STAT6 degrader medicine. A replay of the webcast will be available following the event in the “News and Events” section of the “Investors” section of the Company’s website at www.kymeratx.com.
+
+The information in this Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events
+
+On December 8, 2025, the Company announced the results from the Company’s BroADen Phase 1b AD patient clinical trial of KT-621, its first-in-class, oral STAT6 degrader medicine.
+
+Study Design
+
+The KT-621 BroADen Phase 1b trial was an open-label, single-arm study that enrolled 22 patients with moderate to severe AD across two dose levels (enrolled in two sequential cohorts) selected based on results from the KT-621 Phase 1a healthy volunteer study. Ten participants received 100 mg and twelve participants received 200 mg of KT-621 once daily for 28 days, followed by a 14-day follow-up period. Key objectives of the study were to evaluate KT-621 safety and tolerability and to demonstrate that KT-621 could achieve robust STAT6 degradation in both blood and skin, resulting in dupilumab-like reductions in multiple Type 2 inflammatory biomarkers in circulation and in the transcriptome of active AD lesions after 4-weeks of dosing. The study also explored effects on clinical activity and disease burden endpoints.
+
+Baseline Characteristics
+
+The two dose groups were generally well-balanced for gender, age, race, and measures of disease severity including vIGA-AD, EASI and peak pruritus NRS. The mean baseline EASI score across the two groups was approximately 25. Approximately 46% of patients had comorbid asthma or allergic rhinitis and approximately 23% had prior biologics treatment with either dupilumab and/or tralokinumab.
+
+Pharmacokinetics (“PK”) and STAT6 Degradation
+
+KT-621 exhibited a plasma PK profile across the 100 mg and 200 mg dose groups consistent with the Phase 1a healthy volunteer trial results. KT-621 demonstrated deep and consistent STAT6 degradation in both blood and skin across the 100 mg and 200 mg dose groups, translating strongly from the Phase 1a healthy volunteer study. At Day 29, median STAT6 degradation in blood as measured by flow cytometry was 98% at both the 100 mg and 200 mg doses. In skin lesions, where STAT6 levels were 2-fold higher compared to healthy volunteers, KT-621 achieved median STAT6 degradation of 94% by mass spectrometry at both the 100 mg and 200 mg doses with multiple subjects’ STAT6 level dropping below the lower limit of quantification (“LLOQ”).
+
+Type 2 Biomarkers:
+
+Thymus and Activation-Regulated Chemokine (“TARC”): A validated biomarker of Type 2 inflammation, TARC reductions with KT-621 were robust and highly associated with baseline levels of TARC in treated patients, consistent with reported dupilumab studies across multiple diseases. In patients with baseline TARC in line with
+
+dupilumab AD studies, defined as ≥1,600 pg/mL (which is the lower bound of the 95% confidence interval for median baseline TARC levels from the dupilumab SOLO1-2 AD studies), the median TARC reduction at Day 29 was 74%, in line with published dupilumab results at week 4. Across all patients, TARC was reduced by a median 48% and 55% for the 100 mg and 200 mg dose groups, respectively.
+
+Eotaxin-3: At Day 29, KT-621 achieved a median reduction in Eotaxin-3 of 62% and 73% for the 100 mg and 200 mg dose groups, respectively. Eotaxin-3 is a highly specific downstream cytokine of the IL-4/IL-13 pathway. These results numerically exceeded what has been reported with dupilumab in asthma and chronic rhinosinusitis with nasal polyps (“CRSwNP”) patients even at 52 weeks.
+
+Immunoglobulin E (“IgE”): At Day 29, KT-621 achieved a median IgE reduction of 5% and 14% for the 100 mg and 200 mg dose groups, respectively, which were comparable to the reported dupilumab data at week 4. As expected for a Type 2 biomarker with a long half-life, reductions emerged gradually and aligned with kinetics observed in studies for representative biologics.
+
+IL-31: KT-621 achieved robust reductions in serum IL-31, a validated Type 2 biomarker linked to pruritus in AD. At Day 29, median IL-31 levels were reduced by 56% and 54% in the 100 mg and 200 mg dose groups, respectively, demonstrating potent suppression of this pruritogenic cytokine through STAT6 degradation. This is the first known demonstration in AD patients of reduction in blood levels of IL-31 with IL-4/13 pathway blockade.
+
+Fractional Exhaled Nitric Oxide (“FeNO”): A validated biomarker of Type 2 lung inflammation shown to be modulated by biologics like dupilumab targeting the IL-4/13 pathway in asthma, KT-621 achieved median FeNO reductions at Day 29 of 25% and 33% among all patients within the 100 mg and 200 mg dose groups, respectively. This is the first known demonstration of FeNO reduction in AD patients, providing initial proof of concept for KT-621 inhibition of Type 2 inflammation in lungs.
+
+Skin Transcriptomics: Across all patients and doses, KT-621 led to decreases in core Type 2 inflammation and AD disease-relevant gene sets in skin lesions after 4-weeks of dosing, including genes such as TARC, PARC, Eotaxin-3, periostin, keratin 16 and TSLP, with results comparable to dupilumab at week 4.
+
+Clinical Endpoints
+
+Eczema Area and Severity Index (“EASI”): Mean EASI score reductions at Day 29 were 62% and 63% in the 100 mg and 200 mg dose groups, respectively, and 63% across all patients. KT-621 demonstrated rapid onset of action with measurable EASI impact by Day 8, the earliest timepoint reported. Comparable reductions were observed in patients with low or high baseline TARC levels and patients with low or high baseline EASI. EASI-50 (≥50% improvement from baseline) was 67% and 83% in the 100 mg and 200 mg dose groups, respectively, and 76% across all patients. EASI-75 (≥75% improvement from baseline) was 33% and 25% in the 100 mg and 200 mg dose groups, respectively, and 29% across all patients.
+
+For EASI and all other clinical endpoints measured, KT-621 achieved improvements that were in line with or in some cases numerically exceeded published data for dupilumab at week 4. In addition, results were generally comparable across patients with or without prior biologics use.
+
+Validated Investigator Global Assessment for Atopic Dermatitis (“vIGA-AD”): At Day 29, the proportion of vIGA-AD responders (patients achieving a score of 0 or 1 with at least a 2-point improvement) was 22% and 17% in the 100 mg and 200 mg dose groups, respectively, and 19% across all patients.
+
+Peak Pruritus (Itch): Mean Peak Pruritus Numerical Rating Scale (“NRS”) reductions at Day 29 were 47% and 35% in the 100 mg and 200 mg dose groups, respectively, and 40% across all patients. KT-621 demonstrated rapid onset of action with measurable impact on pruritus as soon as Day 8, the earliest timepoint reported.
+
+SCORing Atopic Dermatitis Index (“SCORAD”): KT-621 demonstrated improvements across all SCORAD domains, including itch and sleeplessness, reflecting both lesion improvement and symptom relief. At Day 29, total SCORAD scores decreased substantially with 52% and 46% mean reductions in the 100 mg and 200 mg dose groups, respectively, and 48% across all patients. For sleeplessness, at Day 29 mean reductions were 72% and 78% in the 100 mg and 200 mg dose groups, respectively, and 76% across all patients. For itch, at Day 29 the mean reductions were 40% and 47% in the 100 mg and 200 mg dose groups, respectively, and 44% across all patients.
+
+DLQI and POEM: KT-621 produced meaningful improvements in patient-reported quality of life, as measured by the Dermatology Life Quality Index (“DLQI”) and Patient-Oriented Eczema Measure (“POEM”). Both scores declined steadily over the 4-week treatment period across both dose levels. These outcomes underscore KT-621’s rapid, patient-perceived impact on daily functioning and well-being, complementing the objective clinical improvements observed across other endpoints.
+
+Impact on Comorbid Type 2 Diseases
+
+Asthma: In those AD patients with comorbid asthma (n=4), at Day 29, KT-621 achieved a median FeNO reduction of 56%, which numerically exceeded published data for dupilumab at week 4 in asthma patients, and clinically meaningful ACQ-5 mean change of -1.2 points which corresponded to a 100% responder rate (≥0.5-point improvement). These results support systemic STAT6 degradation and modulation of Type 2 inflammation in the lungs and validate KT-621’s mechanistic breadth and potential to benefit patients across Type 2–driven diseases, including asthma, where FeNO serves as a key biomarker of disease activity and therapeutic response.
+
+Allergic Rhinitis: In evaluable patients with comorbid allergic rhinitis, KT-621 demonstrated activity with meaningful improvements in both Total Nasal Symptom Score (TNSS, n=7) and Rhinoconjunctivitis Quality of Life Questionnaire (RQLQ, n=6) measures, with notable responder rates (≥0.5-point improvement) in both endpoints. These findings demonstrate KT-621’s broader potential across immuno-inflammatory diseases, reflecting systemic Type 2 pathway engagement.
+
+Safety and Tolerability
+
+KT-621 was well-tolerated with a favorable safety profile consistent with the Phase 1a healthy volunteer trial results. There were no serious adverse events (“SAEs”), no severe AEs, no related treatment-emergent-adverse events (“TEAEs”) or TEAEs leading to discontinuation, no AEs of conjunctivitis, herpes infections or arthralgias, and no clinically relevant changes in vital signs, laboratory tests or electrocardiograms.
+
+Next Steps
+
+The Company’s KT-621 BROADEN2 Phase 2b trial in moderate to severe AD patients is ongoing, and patient dosing has commenced. Data is expected to be reported by mid-2027. The BREADTH Phase 2b trial in asthma is planned to start in the first quarter of 2026. These studies are intended to accelerate KT-621 development and enable dose selection for subsequent parallel Phase 3 registration studies across multiple Type 2 dermatology, gastroenterology and respiratory indications.
+
+The disclosure under this Item 8.01 contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, implied and express statements about the Company’s expectations regarding strategy, business plans and objectives on the development of KT-621, including the therapeutic potential, clinical benefits and safety thereof, the Phase 1b results providing further validation of KT-621 in AD and the potential clinical benefits of KT-621 in dermatology, gastroenterology and respiratory indications, the initiation of Phase 2b study of KT-621 in patients with asthma in the first quarter of 2026, the effect of initial parallel development of Phase 2b studies in AD and asthma patients on acceleration of late parallel development and dose selection across multiple indications, Phase 2b data readout of KT-621 in patients with moderate to severe AD expected by mid-2027; and the preliminary cross-study assessments comparing non-head-to-head clinical data of KT-621 to published data for dupilumab. The words “may,” “might,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “expect,” “estimate,” “seek,” “predict,”
+
+“future,” “project,” “potential,” “continue,” “target,” “upcoming” and similar words or expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this Item 8.01 are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from any forward-looking statements contained in this Item 8.01, including, without limitation, risks associated with: the risk that cross-trial comparisons may not be reliable as no head-to-head trials have been conducted comparing KT-621 to dupilumab, and Phase 1/1b clinical data for KT-621 may not be directly comparable to dupilumab’s clinical data due to differences in molecule composition, trial protocols, dosing regimens, and patient populations and characteristics, that the results from the Phase 2b KT-621 trial may differ from the Phase 1/1b KT-621 data, that preclinical and clinical data, including the results from the Phase 1/1b trial of KT-621, is not predictive of, may be inconsistent with, or more favorable than, data generated from future or ongoing clinical trials of the same product candidate, uncertainties inherent in the initiation, timing and design of future clinical trials, the availability and timing of data from ongoing and future clinical trials and the results of such trials, the ability to successfully demonstrate the safety and efficacy of drug candidates, the timing and outcome of planned interactions with and submissions to regulatory authorities, the availability of funding sufficient for the Company’s operating expenses and capital expenditure requirements and other factors. These risks and uncertainties are described in greater detail in the section entitled “Risk Factors” in the Company’s most recent Quarterly Report on Form 10-Q and in subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent the Company’s views only as of the date on which it was made and should not be relied upon as representing the Company’s views as of any subsequent date. The Company explicitly disclaims any obligation to update any forward-looking statements. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements.
+
+ 
+
+Item 9.01.
+
+Exhibits
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release issued by Kymera Therapeutics, Inc. on December 8, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Kymera Therapeutics, Inc.
+
+Date: December 8, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Nello Mainolfi
+
+ 
+
+ 
+
+ 
+
+Nello Mainolfi, Ph.D.

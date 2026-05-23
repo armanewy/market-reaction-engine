@@ -1,0 +1,337 @@
+tgtx20240805_8k.htm
+
+false
+0001001316
+
+0001001316
+
+2024-08-02
+2024-08-02
+
+ ​​
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+Date of report (Date of earliest event reported): August 2, 2024
+
+ 
+
+TG Therapeutics, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+Delaware
+
+001-32639
+
+36-3898269
+
+(State or Other Jurisdiction
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+of Incorporation)
+
+​
+
+​
+
+ ​
+
+3020 Carrington Mill Blvd, Suite 475
+
+Morrisville, North Carolina 27560
+
+(Address of Principal Executive Offices)
+
+ 
+
+(212) 554-4484
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2b under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities filed pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of Class
+
+Trading Symbol(s)
+
+Exchange Name
+
+Common Stock
+
+TGTX
+
+Nasdaq Capital Market
+
+ ​
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2). Emerging growth company ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into Material Definitive Agreement
+
+ 
+
+On August 2, 2024 (the “Closing Date”), TG Therapeutics, Inc. (the "Company" or the “Borrower”) entered into a term loan facility of $250 million (the “Initial Term Loan”) with Blue Owl Capital Corporation, as administrative agent (the “Administrative Agent”), HealthCare Royalty and Blue Owl Capital under the Financing Agreement (as defined below). The Initial Term Loan is governed by a financing agreement, dated as of the Closing Date (the “Financing Agreement”), which provides for (i) a single draw of the Initial Term Loan on the Closing Date and (ii) an uncommitted additional facility in an aggregate principal amount of up to $100 million.
+
+ 
+
+The Initial Term Loan will mature on August 2, 2029 (the “Term Loan Maturity Date”). The Initial Term Loan accrues interest at a per annum rate of interest equal to an applicable margin plus, at the Borrower’s option, either (a) at a base rate determined by reference to the highest of (1) the prime rate published by the Wall Street Journal, (2) the federal funds effective rate plus 0.50% and (3) Term SOFR, plus 1.00% or (b) Term SOFR, which, shall be no less than 1.00%. The applicable margin for borrowings of the Initial Term Loan is determined on a quarterly basis by reference to a pricing grid based on the achievement of US Net Sales (as defined in the Financing Agreement) for the most recently completed four consecutive fiscal quarters of the Borrower and its Subsidiaries (as defined in the Financing Agreement). The pricing grid commences at 5.50% for SOFR borrowings and 4.50% for base rate borrowings and is subject to a 25 basis point step-down upon achievement of a specified US Net Sales threshold. The Initial Term Loan requires scheduled quarterly amortization payments, commencing with the fiscal quarter ending June 30, 2028, in an amount equal to $12.5 million, with the balance due and payable on the Term Loan Maturity Date; provided that such amortization payments may be deferred to the Term Loan Maturity Date upon the achievement of a Total Net Leverage Ratio (as defined in the Financing Agreement) that is less than or equal to an agreed threshold.
+
+ 
+
+The Initial Term Loan is secured by a lien on substantially all of the assets of the Borrower and certain subsidiaries of the Borrower as guarantors (collectively, the “Loan Parties”) and contains customary covenants and representations.
+
+ 
+
+The events of default under the Financing Agreement are customary for financings of this type. If an event of default occurs, the Administrative Agent is entitled to take enforcement action, including acceleration of amounts due under the Financing Agreement.
+
+ 
+
+The description of the Financing Agreement contained herein does not purport to be complete and is qualified in its entirety by reference to the complete text of Financing Agreement, which will be filed as an exhibit to a subsequent periodic report of the Company
+
+ 
+
+Item 1.02. Termination of a Material Definitive Agreement
+
+ 
+
+On the Closing Date, the Company repaid all outstanding principal and accrued interest and fees under the Amended Loan and Security Agreement, dated as of March 31, 2023 (as amended to date, the “Existing Loan Agreement”), by and among the Company and TG Biologics Inc., as borrowers, and Hercules Capital, Inc. (“Hercules”) (such repayment, the “Refinancing”), which Refinancing was funded with the proceeds from the Initial Term Loan. The Existing Loan Agreement was effectively terminated and all guarantees and liens granted thereunder were released on the Closing Date upon the consummation of the Refinancing.
+
+ 
+
+Item 2.2. Results of Operations and Financial Condition.
+
+ ​
+
+On August 6, 2024, the Company issued a press release announcing results of operations for the three and six months ended June 30, 2024. A copy of such press release is being furnished as Exhibit 99.1.
+
+ 
+
+In accordance with General Instruction B.2 of Form 8-K, the information included in Item 2.02 of this Current Report on Form 8-K (including Exhibit 99.1 hereto), shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing made by the Company under the Exchange Act or Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such a filing.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 8.01. Other Events
+
+ 
+
+Share Repurchase Plan
+
+ 
+
+On August 6, 2024, the Company announced that the Board of Directors (the “Board”) of the Company had authorized and approved a share repurchase program for up to $100 million of the currently outstanding shares of the Company’s common stock. Under the share repurchase program, the Company intends to repurchase shares through open market purchases, privately-negotiated transactions, block purchases or otherwise in accordance with applicable federal securities laws, including Rule 10b-18 of the Exchange Act.
+
+ 
+
+The Board also authorized the Company to enter into written trading plans under Rule 10b5-1 of the Exchange Act. Adopting a trading plan that satisfies the conditions of Rule 10b5-1 allows a company to repurchase its shares at times when it might otherwise be prevented from doing so due to self-imposed trading blackout periods or pursuant to insider trading laws. Under any Rule 10b5-1 trading plan, the Company’s third-party broker, subject to U.S. Securities and Exchange Commission (“SEC”) regulations regarding certain price, market, volume and timing constraints, would have authority to purchase the Company’s common stock in accordance with the terms of the plan. The Company may from time to time enter into Rule 10b5-1 trading plans to facilitate the repurchase of its common stock pursuant to its share repurchase program.
+
+ 
+
+The Company cannot predict when or if it will repurchase any shares of common stock as such stock repurchase program will depend on a number of factors, including constraints specified in any Rule 10b5-1 trading plans, price, general business and market conditions and alternative investment opportunities. Information regarding share repurchases will be available in the Company’s periodic reports on Form 10-Q and 10-K filed with the SEC as required by the applicable rules of the Exchange Act.
+
+ 
+
+10-K/A Filing
+
+ 
+
+In July of 2024, the Company identified an error related to the expense recognition of a single restricted stock grant in 2021 leading to an understatement of non-cash compensation expense for the years ended December 31, 2021 and 2022. The error was determined to be immaterial to all impacted periods.
+
+ 
+
+Although the error was deemed to be immaterial to the consolidated financial statements for the impacted periods, on August 2, 2024, the Audit Committee of the Board of Directors (the “Audit Committee”) of the Company, after discussion with Company management and KPMG LLP (“KPMG”), the Company’s independent registered public accounting firm, concluded that the error was the result of a material weakness in the Company’s internal control over financial reporting (the “Material Weakness”) as of December 31, 2023 as it related to controls over non-routine share based payment awards.
+
+ 
+
+Therefore, the Company’s report regarding the effectiveness of its internal control over financial reporting contained in its Annual Report on Form 10-K for the year ended December 31, 2023 (the “2023 Annual Report”) filed with the SEC on February 29, 2024 and the statements within the Evaluation of Disclosure Controls and Procedures regarding their effectiveness included in Item 9A, will be updated to reflect this determination and should not be relied upon until updated.
+
+ 
+
+Similarly, KPMG’s opinion relating to the effectiveness of the Company’s internal control over financial reporting as of December 31, 2023 included in the 2023 Annual Report will be updated and should not be relied upon until updated.
+
+ 
+
+Importantly, KPMG has not withdrawn its audit report on the consolidated financial statements included in the 2023 Annual Report, which can still be relied upon.
+
+ 
+
+In summary, there will be no financial changes to the 2023 Annual Report. The Company will submit a 10-K/A to its 2023 Annual Report to reflect the foregoing updated reports and will describe the Company’s plans to remediate the deficiencies in its internal control over financial reporting that led to the error.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+ 
+
+This filing contains forward looking statements that involve a number of risks and uncertainties. For those statements, we claim protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. Forward-looking statements in this filing include information regarding purchases by the Company of its common stock pursuant to any share repurchase program or Rule 10b5-1 trading plan and the Company’s expectations as to the anticipated timing of the filing of the Company’s amended Form 10-K for the year ended December 31, 2023 as well as the filing of the Company’s Form 10-Q for the quarter ended June 30, 2024. Factors that may cause future results to differ materially from management’s current expectations include, among other things, changes in price and volume and the volatility of the Company’s common stock; adverse developments affecting prices and trading of exchange-traded securities, including securities listed on Nasdaq; unexpected or otherwise unplanned or alternative requirements with respect to the capital investments of the Company; that the filing of the amended Form 10-K and the Form 10-Q for the quarter ended June 30, 2024 may take longer than expected; and remediation of the material weakness may not be effected in a timely manner. Any forward-looking statements set forth in this filing speak only as of the date of this filing. We do not undertake to update any of these forward-looking statements to reflect events or circumstances that occur after the date hereof.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press release issued by TG Therapeutics, Inc., dated August 6, 2024.
+
+ 
+
+ 
+
+ 
+
+​
+
+​
+
+​
+
+Exhibit 104
+
+ 
+
+The cover page from this Current Report on Form 8-K formatted in Inline XBRL.
+
+ ​
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+​
+
+TG Therapeutics, Inc.
+
+​
+
+(Registrant)
+
+Date: August 6, 2024
+
+By:
+
+/s/ Sean A. Power
+
+​
+
+​
+
+ Sean A. Power
+
+​
+
+​
+
+ Chief Financial Officer
+
+ ​

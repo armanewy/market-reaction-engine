@@ -1,0 +1,273 @@
+8-K
+
+false 0001817713 0001817713 2023-07-17 2023-07-17
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 17, 2023
+
+ 
+
+ 
+
+Janux Therapeutics, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-40475
+
+ 
+
+82-2289112
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+10955 Vista Sorrento Parkway, Suite 200
+
+ 
+
+San Diego, California
+
+ 
+
+92130
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 751-4493
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value per share
+
+ 
+
+JANX
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☒
+
+ 
+
+ 
+
+ 
+
+Item 2.02
+
+Results of Operations and Financial Condition.
+
+As of the date hereof, based on currently available information, Janux Therapeutics, Inc (“we,” “us,” “our,” and the “Company”) expects its cash, cash equivalents, restricted cash and short-term investments as of June 30, 2023 to be approximately $304.1 million. Inclusive in this amount is $0.8 million of restricted cash that is not available for current use.
+
+The preliminary results set forth above are based on management’s initial review of our operations for the quarter ended June 30, 2023 and are subject to completion of financial closing procedures. Actual results may differ materially from these preliminary results as a result of the completion of financial closing procedures, final adjustments, and other developments arising between now and the time that our financial results are finalized. In addition, these preliminary results are not a comprehensive statement of our financial results for the quarter ended June 30, 2023, should not be viewed as a substitute for full financial statements prepared in accordance with generally accepted accounting principles, and are not necessarily indicative of our results for any future period. The preliminary financial results included in this Item 2.02 have been prepared by, and are the responsibility of, our management. Ernst & Young LLP has not audited, reviewed, compiled, or applied agreed-upon procedures with respect to the preliminary financial results. Accordingly, Ernst & Young LLP does not express an opinion or any other form of assurance with respect thereto.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On July 17, 2023, the Company issued a press release announcing interim clinical data. A copy of the press release is attached as Exhibit 99.1 to this report.
+
+The information in this Item 7.01 of this report (including Exhibit 99.1) is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information shall not be deemed incorporated by reference into any other filing with the Securities and Exchange Commission (the “SEC”) made by the Company, whether made before or after today’s date, regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific references in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+The Company is making available a corporate presentation reporting interim clinical data. A copy of the corporate presentation is attached as Exhibit 99.2 to this report, and is incorporated herein by reference. The corporate presentation will also be available under the “Investors” section of the Company’s website.
+
+The corporate presentation reports the Company’s interim clinical data as of June 28, 2023 for PSMA-TRACTr (JANX007) in adult subjects with metastatic castration-resistant prostate cancer. The data from eight patients from the first three cohorts of the dose escalation portion of the Phase 1a clinical trial, as of June 28, 2023 show that JANX007 has been generally well tolerated, with no dose-limiting toxicities. JANX007 has been dosed at 300µg flat dose, which is above the projected maximum tolerable dose of the parental T cell engagers. JANX007 showed clinical activity at both 100ug and 300ug flat doses and yielded best overall PSA reductions between 31% and 67% in four of the five patients who received a flat dose. Grade 1 or 2 cytokine release syndrome (“CRS”) was observed only in patients who demonstrated PSA reductions, suggesting cytokine release resulting from anti-tumor activity was associated with CRS. No Grade 3 CRS has been observed. The most common, non-CRS related adverse event observations have been generally consistent with tumor-specific activity and reduced PSMA(+) healthy tissue activity. No transaminitis was observed. JANX007 clinical development has moved into step-dosing and dose optimization with the goal to enhance efficacy while maintaining suitable safety results.
+
+The information in Item 2.02 above is incorporated by reference into this Item 8.01.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated July 17, 2023.
+
+99.2
+
+  
+
+Corporate Presentation.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+Forward-Looking Statements
+
+This report contains certain forward-looking statements that involve risks and uncertainties that could cause actual results to be materially different from historical results or from any future results expressed or implied by such forward-looking statements. Such forward-looking statements include statements regarding, among other things, our ability to bring new treatments to cancer patients in need, expectations regarding the timing, scope and results of our development activities, including our ongoing and planned clinical trials and that the interim data results supporting continued clinical development of JANX007, and the potential benefits of our product candidates and platform technologies. Factors that may cause actual results to differ materially include the risk that interim results of a clinical trial are not necessarily indicative of final results and one or more of the clinical outcomes may materially change as patient enrollment continues, following more comprehensive reviews of the data and as more patient data becomes available, the risk that compounds that appear promising in early research do not demonstrate safety and/or efficacy in later preclinical studies or clinical trials, the risk that we may not obtain approval to market our product candidates, uncertainties associated with performing clinical trials, regulatory filings and applications, risks associated with reliance on third parties to successfully conduct clinical trials, the risks associated with reliance on outside financing to meet capital requirements, and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs. You are urged to consider statements that include the words “may,” “will,” “would,” “could,” “should,” “believes,” “estimates,” “projects,” “promise,” “potential,” “expects,” “plans,” “anticipates,” “intends,” “continues,” “designed,” “goal,” or the negative of those words or other comparable words to be uncertain and forward-looking. For a further list and description of the risks and uncertainties we face, please refer to our periodic and other filings with the SEC, which are available at www.sec.gov. Such forward-looking statements are current only as of the date they are made, and we assume no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+JANUX THERAPEUTICS, INC.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ David Campbell, Ph.D.
+
+ 
+
+ 
+
+ 
+
+David Campbell, Ph.D.
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer
+
+Date: July 17, 2023

@@ -1,0 +1,363 @@
+omer20250407_8k.htm
+
+false
+0001285819
+
+0001285819
+
+2025-05-12
+2025-05-12
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 12, 2025
+
+ 
+
+OMEROS CORPORATION
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Washington
+
+001-34475
+
+91-1663741
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+201 Elliott Avenue West
+
+Seattle, WA
+
+ 
+
+98119
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (206) 676-5000
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities Registered Pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.01 par value per share
+
+OMER
+
+The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).         
+
+Emerging growth company  ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Definitive Material Agreement.
+
+ 
+
+Convertible Note Exchange
+
+ 
+
+On May 14, 2025, Omeros Corporation (the “Company”) completed the private exchange (the “Exchange”) of approximately $70.8 million aggregate principal amount of its outstanding Convertible Senior Notes due 2026 (the “2026 Notes”) on a one-for-one basis for newly issued Convertible Senior Notes due 2029 (the “New Notes”). The Exchange was conducted with a limited number of holders of the 2026 Notes pursuant to Exchange Agreements dated as of May 12, 2025 (each, an “Exchange Agreement”).
+
+ 
+
+The New Notes were issued pursuant to an Indenture, dated as of August 14, 2020 (the “Base Indenture”), between the Company and Computershare Trust Company, National Association, as successor to Wells Fargo Bank, National Association, as trustee (the “Trustee”), as supplemented by a Second Supplemental Indenture, dated as of May 14, 2025 (the “Second Supplemental Indenture”), between the Company and the Trustee (the Base Indenture, as amended and supplemented by the Second Supplemental Indenture, the “Indenture”). The New Notes are senior, unsecured obligations of the Company.
+
+ 
+
+The New Notes will mature on June 15, 2029 unless earlier converted, redeemed or repurchased in accordance with their terms prior to such date. Interest on the New Notes will be payable semi-annually in arrears at a rate of 9.50% per annum on each June 15 and December 15, beginning on December 15, 2025. The New Notes will be convertible at the option of the holder into shares of common stock, cash or a combination thereof, as elected by the Company, at any time prior to the close of business on the second scheduled trading day immediately preceding the maturity date. The initial conversion rate for the New Notes is equivalent to an initial conversion price of approximately $6.18 per share of the Company’s common stock. The conversion rate is subject to adjustment in certain circumstances as described in the Indenture.
+
+ 
+
+Holders who convert their New Notes from, and including, November 14, 2025 to, but excluding, June 1, 2029 (except for any conversion in connection with a make-whole fundamental change) will also be entitled to an interest make-whole payment equal to the sum of the remaining scheduled payments of interest that would have been made on the New Notes to be converted had such New Notes remained outstanding from the conversion date through the earlier of (i) the date that is 18 months following the conversion date and (ii) the maturity date.
+
+ 
+
+The New Notes will be redeemable, in whole or in part, at the Company’s option at any time, and from time to time, on or after June 20, 2027 and on or before the 50th scheduled trading day immediately before the maturity date, at a cash redemption price equal to the principal amount of the New Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date, but only if the last reported sale price per share of the Company’s common stock exceeds 130% of the conversion price on (i) each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the trading day immediately before the date the Company sends the related redemption notice and (ii) the trading day immediately before the date the Company sends such notice. In addition, calling any New Note for redemption will constitute a “make-whole fundamental change” (as defined in the Indenture) with respect to that New Note, in which case the conversion rate applicable to the conversion of that New Note will be increased in certain circumstances if it is converted after it is called for redemption.
+
+ 
+
+The Indenture contains customary terms and covenants and events of default. If an event of default (other than certain events of bankruptcy, insolvency or reorganization involving the Company) occurs and is continuing, the Trustee or the holders of at least 25% in aggregate principal amount of the New Notes then outstanding may declare the principal amount of, and all accrued and unpaid interest on, all of the New Notes then outstanding to become due and payable immediately. Upon the occurrence of certain events of bankruptcy, insolvency or reorganization involving the Company, the principal amount of, and all accrued and unpaid interest, if any, on all of the New Notes then outstanding will immediately become due and payable without any further action or notice by the Trustee or any holder. Notwithstanding the foregoing, the Indenture provides that, to the extent the Company elects and for up to 180 days, the sole remedy for an event of default relating to certain failures by the Company to comply with certain reporting covenants in the Indenture may consist exclusively of the right to receive special interest on the New Notes.
+
+ 
+
+The New Notes are the Company’s senior, unsecured obligations and are equal in right of payment with its existing and future senior, unsecured indebtedness, senior in right of payment to its existing and future indebtedness, if any, that is expressly subordinated to the New Notes and effectively subordinated to its existing and future secured indebtedness, to the extent of the value of the collateral securing that indebtedness. The New Notes are structurally subordinated to all existing and future indebtedness and other liabilities, including trade payables, and (to the extent the Company is not a holder thereof) preferred equity, if any, of its subsidiaries.
+
+ 
+
+The 2026 Notes received by the Company in the Exchange will be cancelled. As a result of the reduced principal balance of the 2026 Notes in connection with the Exchange, the Company will no longer be required to make a $20.0 million prepayment of the term loan outstanding under its 2024 Credit and Guaranty Agreement. This prepayment, along with a $1.0 million prepayment premium, would have been required to be paid on or prior to November 1, 2025 to avoid an accelerated maturity of the term loan.
+
+ 
+
+The summary of the foregoing transactions is qualified in its entirety by reference to the text of the Base Indenture, the Second Supplemental Indenture, the form of New Notes included in the Supplemental Indenture and the form of Exchange Agreement, which are filed as Exhibits 4.1, 4.2, 4.3 and 10.1, respectively, to this Current Report on Form 8-K and are incorporated herein by reference
+
+ 
+
+Equitization Transaction
+
+ 
+
+On May 12, 2025, the Company entered into note conversion agreements (each, a “Note Conversion Agreement”) with two affiliated holders of the 2026 Notes to convert $10 million aggregate principal amount of 2026 Notes into shares of the Company’s common stock (the “Equitization Transaction”). Under the terms of the Note Conversion Agreements, the holders will convert the equitized principal amount 2026 Notes in three equal tranches for a number of shares of common stock to be determined based in part on the closing price of the Company’s common stock on May 9, 2025 and in part based on the 20-day VWAP applicable to each tranche conversion date, subject to a floor conversion price. The Note Conversion Agreements provide that the final settlement will occur no later than September 15, 2025.
+
+ 
+
+The summary of the Equitization Transaction is qualified in its entirety by reference to the text of the form of Note Conversion Agreement, which is filed as Exhibit 10.2 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+ 
+
+On May 15, 2025, Omeros Corporation issued a press release announcing financial results for the three months ended March 31, 2025. A copy of such press release is furnished herewith as Exhibit 99.1 and is incorporated herein by reference.
+
+ 
+
+The information in this Current Report on Form 8-K, including the exhibit hereto, shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to liability under that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information contained herein and in the accompanying exhibit, including any information contained on or accessible through any website reference in the exhibit shall not be incorporated by reference into any filing with the United States Securities and Exchange Commission made by Omeros Corporation, whether made before or after the date hereof, regardless of any general incorporation language in such filing. The inclusion of any website address in this Current Report on Form 8-K by incorporation by reference of the press release is as an inactive textual reference only.
+
+ 
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K regarding the Company’s obligations under the Indenture and the New Notes is incorporated herein by reference.
+
+ 
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+ 
+
+As described in Item 1.01 of this Current Report on Form 8-K, on May 14, 2025 the Company issued $70.8 million aggregate principal amount of New Notes in exchange for an equal principal amount of 2026 Notes. The Exchange was conducted with a limited number of holders of the 2026 Notes in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”). In addition, as described in Item 1.01 of this Current Report on Form 8-K, on May 12, 2025 the Company entered into the Note Conversion Agreements relating to the Equitization Transaction with two affiliated holders of the 2026 Notes. Under the Equitization Transaction the Company expects to issue shares of common stock in exchange for $10 million aggregate principal amount of 2026 Notes in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act.
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+On May 12, 2025, the Company issued a press release announcing that it had entered into the Exchange Agreements and the Note Conversion Agreements, as described in Item 1.01. A copy of the press release is attached to this Current Report as Exhibit 99.2 and is incorporated herein by reference
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+4.1
+
+ 
+
+Indenture, dated as of August 14, 2020, between Omeros Corporation and Computershare Trust Company, National Association, as successor to Wells Fargo Bank, National Association, as trustee (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed with the SEC on August 14, 2020)
+
+4.2
+
+ 
+
+Second Supplemental Indenture, dated as of May 14, 2025, between the Company and Computershare Trust Company, National Association, as trustee.
+
+4.3
+
+ 
+
+Form of 9.50% Convertible Senior Notes due 2029 (included in Exhibit 4.2).
+
+10.1
+
+ 
+
+Form of Exchange Agreement, dated as of May 12, 2025, among the Company and the investors named therein.
+
+10.2
+
+ 
+
+Form of Note Conversion Agreement, dated as of May 12, 2025, among the Company and the holders named therein.*
+
+99.1
+
+ 
+
+Press release, dated May 15, 2025
+
+99.2
+
+ 
+
+Press release, dated May 12, 2025
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+*              Certain identified information has been excluded from the exhibit because it both (A) is not material and (B) would be competitively harmful if publicly disclosed.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OMEROS CORPORATION
+
+ 
+
+ 
+
+ 
+
+Date: May 15, 2025
+
+By:
+
+/s/ Gregory A. Demopulos
+
+ 
+
+ 
+
+Gregory A. Demopulos, M.D.
+
+ 
+
+ 
+
+President, Chief Executive Officer and
+
+ 
+
+ 
+
+Chairman of the Board of Directors

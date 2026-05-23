@@ -1,0 +1,250 @@
+false000110450600011045062025-12-172025-12-17
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 17, 2025
+
+INSMED INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+
+Virginia
+
+ 
+
+000-30739
+
+ 
+
+54-1972729
+
+(State or other jurisdiction of incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer Identification No.)
+
+700 US Highway 202/206
+
+Bridgewater, New Jersey
+
+ 
+
+08807
+
+(Zip Code)
+
+(Address of principal executive offices)
+
+ 
+
+ 
+
+Registrant’s telephone number, including area code: (908) 977-9900
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+INSM
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 7.01 — Regulation FD Disclosure.
+
+On December 17, 2025, Insmed Incorporated (the “Company”) issued a press release announcing topline efficacy and safety results from the Phase 2b BiRCh study of brensocatib in patients with chronic rhinosinusitis without nasal polyps
+(“CRSsNP”) and the acquisition of INS1148, an investigational monoclonal antibody that the Company plans to develop for respiratory and immunological and inflammatory diseases with high unmet need. A copy of the press release is attached hereto
+as Exhibit 99.1 and incorporated herein by reference.
+
+The information contained in this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+ITEM 8.01 — Other Events.
+
+On December 17, 2025, the Company issued a press release announcing topline efficacy and safety results from the Phase 2b BiRCh study of brensocatib for patients with CRSsNP. The BiRCh study was a randomized, double-blind,
+parallel-group, placebo-controlled, multicenter study to evaluate the efficacy and safety of brensocatib compared to placebo. The study was conducted at 104 sites globally, and a total of 288 patients were randomized 1:1:1 to receive either
+brensocatib 10 mg (n=99), brensocatib 40 mg (n=94), or placebo (n=95) daily for 24 weeks in addition to daily treatment with mometasone furoate nasal spray background therapy. The primary endpoint was change from baseline in the 28-day average
+of daily Sinus Total Symptom Score (“sTSS”) at Week 24.
+
+Results from each treatment arm for the primary endpoint of change from baseline to the 28-day average of daily sTSS at Week 24 were as follows: placebo least squares
+(“LS”) mean was -2.44; the 10 mg brensocatib treatment arm LS mean was -2.21; and the 40 mg brensocatib treatment arm LS mean was -2.33. Brensocatib was observed to be well tolerated, with no new safety signals identified. The percentage of
+treatment-emergent adverse events (“TEAEs”) were:
+
+ 
+
+Brensocatib
+
+10 mg Once Daily
+
+(N=99)
+
+Brensocatib
+
+40 mg Once Daily
+
+(N=93)
+
+Placebo
+
+ 
+
+(N=95)
+
+Any TEAE, n(%)
+
+ 63 (63.6)
+
+ 65 (69.9)
+
+ 62 (65.3)
+
+Serious TEAE, n(%)
+
+2 (2.0)
+
+3 (3.2)
+
+2 (2.1)
+
+Severe TEAE, n(%)
+
+0
+
+0
+
+3 (3.2)
+
+The Company has discontinued its development program of brensocatib in CRSsNP and intends to present these data at a future congress.
+
+Forward-Looking Statements
+
+The forward-looking statements in this Current Report on Form 8-K are based upon the Company’s current expectations and beliefs, and involve known and unknown risks,
+uncertainties and other factors, which may cause the Company’s actual results, performance and achievements and the timing of certain events to differ materially from the results, performance, achievements or timing discussed, projected,
+anticipated or indicated in any forward-looking statements. Such risks, uncertainties and other factors include, among others, the following: the risk that the full data set from the BiRCh study will not be consistent with the topline results of
+the BiRCh study; failure to successfully conduct future clinical trials, such as the Company’s planned Phase 2 studies of INS1148 in interstitial lung disease and moderate-to-severe asthma, including due to the Company's potential inability to
+enroll or retain sufficient patients to conduct and complete the trials or generate data necessary for regulatory approval, among other things; development of unexpected safety or efficacy concerns related to its product candidates; failure of
+third parties on which the Company is dependent to manufacture sufficient quantities of drug product for clinical needs, to conduct the Company's clinical trials, or to comply with the Company's agreements or laws and regulations that impact the
+Company's business or agreements with the Company; failure to obtain regulatory approval for the Company’s product candidates; inaccuracies in the Company's estimates of the size of the potential markets for its product candidates or in data the
+Company has used to identify physicians; expected rates of patient uptake, duration of expected treatment, or expected patient adherence or discontinuation rates, if the Company’s product candidates are approved; inability of the Company or the
+Company's third-party manufacturers to comply with regulatory requirements related to the Company’s product candidates; the Company's inability to obtain adequate reimbursement from government or third-party payors and acceptance prices for its
+product candidates, if approved; restrictions or other obligations imposed on the Company by agreements related to its product candidates and failure to comply with our obligations under such agreements; risks that the Company's clinical studies
+will be delayed or that serious side effects will be identified during drug development; the strength and enforceability of the Company’s intellectual property rights or the rights of third parties; risks that the Company is unable to successfully
+integrate and develop products obtained through acquisition from third parties, such as INS1148; and the cost and potential reputational damage resulting from litigation to which the Company may become a party, including product liability claims.
+
+The Company may not actually achieve the results, plans, intentions or expectations indicated by the Company's forward-looking statements because, by their nature,
+forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. For additional information about the risks and uncertainties that may affect the Company's
+business, please see the factors discussed in Item 1A, "Risk Factors," in the Company's Annual Report on Form 10-K for the year ended December 31, 2024 and any subsequent Company filings with the Securities and Exchange Commission (the “SEC”).
+
+The Company cautions readers not to place undue reliance on any such forward-looking statements, which speak only as of the date hereof. The Company disclaims any
+obligation, except as specifically required by law and the rules of the SEC, to publicly update or revise any such statements to reflect any change in expectations or in events, conditions or circumstances on which any such statements may be based,
+or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements.
+
+ITEM 9.01 – Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+99.1
+
+ 
+
+Press release issued by Insmed Incorporated on December 17, 2025.
+
+104
+
+ 
+
+Cover Page Interactive Date File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Dated: December 17, 2025
+
+INSMED INCORPORATED
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Michael A. Smith
+
+ 
+
+Name:
+
+Michael A. Smith
+
+ 
+
+Title:
+
+Chief Legal Officer and Corporate Secretary

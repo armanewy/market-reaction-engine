@@ -1,0 +1,259 @@
+8-K
+
+false 0001178670 0001178670 2020-04-03 2020-04-03
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 6, 2020 (April 3, 2020)
+
+ 
+
+Alnylam Pharmaceuticals, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+Delaware
+
+ 
+
+001-36407
+
+ 
+
+77-0602661
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+675 West Kendall Street,
+
+Henri A. Termeer Square
+
+Cambridge, Massachusetts
+
+ 
+
+02142
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617) 551-8200
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, $0.01 par value per share
+
+ 
+
+ALNY
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934(§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On April 3, 2020, Alnylam Pharmaceuticals, Inc. (the “Company”) and Dicerna Pharmaceuticals, Inc. (“Dicerna”) entered into a Patent Cross-License Agreement (the “Cross-License Agreement”). Pursuant to the terms of the Cross-License Agreement, the Company and Dicerna will cross-license their respective intellectual property related to the Company’s lumasiran and Dicerna’s nedosiran investigational programs for the treatment of primary hyperoxaluria (“PH”).
+
+Under the Cross-License Agreement, the Company and Dicerna granted non-exclusive cross-licenses to their respective intellectual property related to their respective PH treatment investigational programs, with the goal of providing each party with the freedom to develop and commercialize its respective investigational ribonucleic acid interference (“RNAi”) product candidate: The Company’s lumasiran targets glycolate oxidase for the treatment of PH type 1 and Dicerna’s nedosiran targets lactate dehydrogenase A for the treatment of PH types 1, 2 and 3. The Cross-License Agreement provides for the Company to pay mid- to high-single-digit royalties to Dicerna based on global net sales of lumasiran and for Dicerna to pay low-single-digit royalties to the Company on global net sales of nedosiran.
+
+The Cross-License Agreement includes various representations, warranties, covenants, indemnities and other customary provisions. The term of the Cross-License Agreement generally ends upon the expiration of the last-to-expire patent rights licensed thereunder and cannot be terminated by either party for the other party’s breach. However, either party may terminate the Cross-License Agreement or may reduce the royalty payable to the other party upon a patent-related challenge by the other party unless the challenge is withdrawn and no longer pending within the time periods specified in the Cross-License Agreement.
+
+The foregoing description of the Cross-License Agreement is not complete and is qualified in its entirety by reference to the full text of the Cross-License Agreement, a copy of which the Company expects to file as an exhibit to its Quarterly Report on Form 10-Q for the quarter ending June 30, 2020.
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On April 6, 2020, the Company issued a press release concerning the Cross-License Agreement and the Collaboration Agreement (defined below), a copy of which is being furnished as Exhibit 99.1 to this Report on Form 8-K. The information in this Item 7.01 and Exhibit 99.1 attached hereto is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 8.01.
+
+Other Events.
+
+On April 6, 2020, the Company and Dicerna also announced the formation of a development and commercialization collaboration on investigational RNAi therapeutics for the treatment of alpha-1 antitrypsin (“A1AT”) deficiency-associated liver disease (“alpha-1 liver disease”). The collaboration will be governed by a Development and Commercialization Agreement, dated April 3, 2020, between the Company and Dicerna (the “Collaboration Agreement”).
+
+Pursuant to the Collaboration Agreement, the Company’s ALN-AAT02 and Dicerna’s DCR-A1AT investigational RNAi therapeutics, each in Phase 1/2 development, will be explored for the treatment of alpha-1 liver disease. Under the Collaboration Agreement, Dicerna assumes responsibility for both ALN-AAT02 and DCR-A1AT at its cost and may progress one or both of these investigational medicines through clinical development. Dicerna will select which product candidate(s) to advance in development for the treatment of patients with alpha-1 liver disease. At the completion of Phase 3 development, the Company will have the no-cost opportunity to opt-in to commercialize the selected candidate in countries outside the U.S., where it already has a commercialization infrastructure in place. If the Company exercises its opt-in right, each party shall pay tiered royalties to the other party based on net product sales generated in its territory at rates dependent on which candidate is commercialized.
+
+In the event the Company waives its commercialization option, Dicerna will retain worldwide rights to commercialize the selected candidate(s) in exchange for milestones and royalties payable to the Company, also at a rate dependent on which candidate is ultimately commercialized.
+
+The Collaboration Agreement and transactions thereunder are subject to the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 and other customary conditions.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d)     Exhibits:
+
+ 
+
+99.1
+
+ 
+
+ 
+
+Press Release dated April 6, 2020.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ALNYLAM PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: April 6, 2020
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Laurie B. Keating
+
+ 
+
+ 
+
+ 
+
+Laurie B. Keating
+
+Executive Vice President, Chief Legal Officer

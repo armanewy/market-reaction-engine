@@ -1,0 +1,285 @@
+8-K
+
+false 0001937653 0001937653 2023-09-18 2023-09-18
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 18, 2023
+
+ 
+
+ 
+
+Zymeworks Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-41535
+
+ 
+
+88-3099146
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+108 Patriot Drive, Suite A
+
+Middletown, Delaware
+
+ 
+
+19709
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(302) 274-8744
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+ZYME
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.02
+
+Termination of a Material Definitive Agreement.
+
+On September 18, 2023, Zymeworks BC Inc. (“Zymeworks BC”), a subsidiary of Zymeworks Inc. (the “Company”), and BeiGene, Ltd. (“BeiGene”) entered into a Termination Agreement (the “Termination Agreement”) relating to the License and Collaboration Agreement between Zymeworks BC and BeiGene, relating to the research, development and commercialization of zanidatamab zovodotin (formerly known as ZW49), dated November 26, 2018, as amended on May 25, 2020 and June 2, 2021 (collectively, the “Zanidatamab Zovodotin License and Collaboration Agreement”). For clarity, the Termination Agreement does not terminate the Zanidatamab License and Collaboration Agreement (as defined below).
+
+Previously, Zymeworks BC and BeiGene entered into the Zanidatamab Zovodotin License and Collaboration Agreement, pursuant to which Zymeworks BC granted BeiGene a royalty-bearing exclusive license for the research, development and commercialization of zanidatamab zovodotin in Asia (excluding Japan but including the People’s Republic of China, South Korea and other countries), Australia and New Zealand (collectively, the “Territory”). Pursuant to the Zanidatamab Zovodotin License and Collaboration Agreement, Zymeworks BC was eligible to receive up to $195 million in development and commercial milestone payments and royalties ranging from the high single digit percentages up to 20% on product sales.
+
+Pursuant to the Termination Agreement, the Zanidatamab Zovodotin License and Collaboration Agreement is terminated, effective as of September 18, 2023, and is no longer in effect, except that the termination does not relieve the parties from obligations under the Zanidatamab Zovodotin License and Collaboration Agreement that accrued prior to the termination and certain other provisions expressly indicated to survive the termination, including certain licenses to BeiGene intellectual property with respect to zanidatamab zovodotin.
+
+The foregoing summary and description of the Zanidatamab Zovodotin License and Collaboration Agreement does not purport to be complete and is qualified in its entirety by reference to, and should be read in conjunction with, the full text of the Zanidatamab Zovodotin License and Collaboration Agreement and related amendments, copies of which are filed as Exhibits 10.32, 10.33 and 10.34 to the Company’s Annual Report on Form 10-K for the year ended December 31, 2022 filed with the Securities and Exchange Commission on March 7, 2023, and are incorporated herein by reference. The foregoing summary and description of the Termination Agreement does not purport to be complete and is qualified in its entirety by reference to, and should be read in conjunction with, the full text of the Termination Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+In connection with the entry into the Termination Agreement, on September 18, 2023, Zymeworks BC and BeiGene also entered into the Third Amendment to License and Collaboration Agreement (the “Amendment”) relating to the License and Collaboration Agreement between Zymeworks BC and BeiGene relating to the research, development and commercialization of zanidatamab, dated November 26, 2018, as amended on March 29, 2021 and August 10, 2021 (collectively, the “Zanidatamab License and Collaboration Agreement”). Pursuant to the Zanidatamab License and Collaboration Agreement, Zymeworks BC granted BeiGene a royalty-bearing exclusive license for the research, development and commercialization of zanidatamab in the Territory. Pursuant to the Amendment, Zymeworks BC is eligible to receive tiered royalties ranging from the high single digit percentages up to 19.5% on net sales of zanidatamab, which amends the previous provision to uniformly reduce all such royalty rates by one-half of one percent (0.5%) (“Royalty Reduction”). The Royalty Reduction will apply until the cumulative reduction in royalties owed to Zymeworks BC as a result of the Royalty Reduction, relative to the royalties that would have been owed to Zymeworks BC absent the Royalty Reduction, reaches a dollar cap in the low double-digit millions of dollars. Thereafter, the Royalty Reduction will no longer apply to reduce any royalties owed to Zymeworks under the Zanidatamab License and Collaboration Agreement. Pursuant to the Amendment, the remaining provisions of the Zanidatamab License and Collaboration Agreement remain unchanged.
+
+The foregoing summary and description of the Amendment does not purport to be complete and is qualified in its entirety by reference to, and should be read in conjunction with, the full text of the Amendment, a copy of which is filed as Exhibit 10.2 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+10.1
+
+  
+
+Termination Agreement by and between Zymeworks BC Inc. and BeiGene, Ltd., dated September 18, 2023.
+
+10.2*
+
+  
+
+Third Amendment License and Collaboration Agreement by and between Zymeworks BC Inc. and BeiGene, Ltd., dated September 18, 2023.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded as Inline XBRL document).
+
+ 
+
+*
+
+Certain portions of this exhibit (indicated by “[…***…]”) have been omitted in accordance with Item 601(b)(10) of Regulation S-K because the omitted information is not material and the Company customarily and actually treats such omitted information as private or confidential.
+
+ 
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ZYMEWORKS INC.
+
+ 
+
+ 
+
+(Registrant)
+
+Date: September 21, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Kenneth Galbraith
+
+ 
+
+ 
+
+Name:
+
+Title:
+
+ 
+
+Kenneth Galbraith
+
+Chair, President and Chief Executive Officer
+
+ 
+
+3

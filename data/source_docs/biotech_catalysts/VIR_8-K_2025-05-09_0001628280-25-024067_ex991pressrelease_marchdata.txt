@@ -1,0 +1,78 @@
+EX-99.1
+2
+ex991pressrelease_marchdata.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Vir Biotechnology Announces Preliminary 24-Week Post-End of Treatment Data for Tobevibart and Elebsiran Combinations in Chronic Hepatitis B from the MARCH Study
+
+–HBsAg loss 24 weeks post-end of treatment achieved in 17% and 21% of participants with low baseline HBsAg receiving tobevibart + elebsiran without or with PEG-IFNα, respectively
+
+–As previously announced, Phase 3 development in chronic hepatitis B to occur only with a global development and commercialization partner, which has not been secured
+
+–Vir Biotechnology to streamline the final stages of MARCH Phase 2 study to ensure continued participant benefit and safety, while applying continued financial stewardship
+
+–The Company reiterates cash runway guidance into mid-2027, based on the current operating plan
+
+–The Company remains committed to its chronic hepatitis delta program, based on the transformational potential of tobevibart + elebsiran to achieve complete hepatitis delta viral suppression in a majority of patients
+
+SAN FRANCISCO, May 9, 2025 – Vir Biotechnology, Inc. (Nasdaq: VIR) today announced 24-week post-end of treatment data from Part B of the ongoing MARCH Phase 2 clinical study evaluating tobevibart and elebsiran without or with pegylated interferon alpha (PEG-IFNα) in participants with chronic hepatitis B (CHB). The study-defined primary endpoint, proportion of participants with undetectable hepatitis B surface antigen (HBsAg) at 24 weeks post-end of treatment, was achieved by 17% (3/18) and 21% (3/14) of participants with baseline HBsAg<1,000 IU/mL receiving tobevibart and elebsiran without or with PEG-IFNα, respectively. The detailed data were presented today at the European Association for the Study of the Liver (EASL) congress in Amsterdam (The Netherlands).
+
+CHB is a long-lasting, inflammatory liver disease caused by the hepatitis B virus (HBV).1 The World Health Organization estimates that 254 million people live with CHB, and an estimated 1.1 million yearly deaths are associated with the disease.2 Complications from CHB may include liver cirrhosis, liver failure and liver cancer.3 Although CHB can be treated, there is currently no cure.1
+
+Participants in the trial received tobevibart and elebsiran without or with PEG-IFNα. Tobevibart was administered at 300 mg every 4 weeks; elebsiran, at 200 mg every 4 weeks; and PEG-IFNα, for patients receiving it, at 180 µg weekly. Participants with HBsAg loss (seroclearance) after 48 weeks of treatment who met eligibility criteria discontinued both NRTI (nucleos(t)ide reverse transcriptase inhibitor) as well as tobevibart and elebsiran without or with PEG-IFNα treatment. The current analysis includes data from participants in the trial who have reached Week 24 post-end of treatment: 51 participants receiving tobevibart and elebsiran without PEG-IFNα and 32 receiving tobevibart and elebsiran with PEG-IFNα. An additional 18 participants receiving tobevibart and elebsiran with PEG-IFNα are currently advancing through the trial.
+
+Study-defined primary efficacy endpoint – The study-defined primary efficacy endpoint is proportion of participants with HBsAg seroclearance (defined as undetectable HBsAg) at 24 weeks post-end of treatment. Tobevibart and elebsiran without or with PEG-IFNα resulted in HBsAg loss 24 weeks post-end of treatment in 17% (3/18) and 21% (3/14) of participants with baseline HBsAg<1,000 IU/mL, respectively. These proportions were 8% (4/51) and 16% (5/32) for tobevibart and elebsiran without or with PEG-IFNα, respectively, in all participants.
+
+Functional cure – Functional cure is defined as sustained undetectable HBsAg and HBV DNA below the lower limit of quantification (0.05 IU/mL) at 24 weeks post-end of treatment after discontinuing NRTIs. Tobevibart and elebsiran without or with PEG-IFNα resulted in functional cure in 11% (2/18) and 15% (2/13) of participants with HBsAg<1000 IU/mL, respectively. These proportions were 4% (2/51) and 10% (3/30) for the combinations without or with PEG-IFNα, respectively, in all participants.
+
+Modified functional cure (allowing viral blips) – An exploratory modified functional cure, allowing transient viremia (viral blips) defined as HBV RNA or HBsAg equal or above the lower limit of quantification for ≤35 days, was also evaluated. Tobevibart and elebsiran without or with PEG-IFNα resulted in 24 weeks post-end of treatment modified functional cure rates of 11% (2/18) and 23% (3/13) in participants with HBsAg<1000 IU/mL, respectively. These proportions were 6% (3/51) and 13% (4/30) for the combinations without or with PEG-IFNα, respectively, in all participants.
+
+The safety and tolerability profile of tobevibart and elebsiran are consistent with prior studies. The data show that the combination is well tolerated, with no new safety concerns and generally only mild or moderate treatment emergent adverse events being reported throughout the study.
+
+"The MARCH data demonstrate that combinations of tobevibart and elebsiran can achieve and maintain HBsAg loss in a subset of participants with low baseline HBsAg levels,” said Mark Eisner, MD., MPH, Chief Medical Officer, Vir Biotechnology. “These findings provide important insights into the challenges of achieving functional cure in chronic hepatitis B and will inform future development efforts in the field.”
+
+As previously communicated, Phase 3 development of combinations of tobevibart and elebsiran in CHB will not move forward without a global development and commercialization partner, which has not been secured. The Company plans to streamline the final stages of the MARCH Phase 2 program to ensure continued participant benefit and safety, while applying continued financial stewardship. Cash runway guidance into mid-2027 remains unchanged, based on the current operating plan.
+
+Vir Biotechnology is fully committed to the continued development of tobevibart and elebsiran in chronic hepatitis delta, based on the transformational potential of the first-of-its-kind investigational combination to achieve complete suppression of the hepatitis delta virus, as shown by compelling positive efficacy and safety data from the Phase 2 SOLSTICE clinical trial.
+
+About Tobevibart and Elebsiran
+
+Tobevibart is an investigational broadly neutralizing monoclonal antibody targeting the hepatitis B surface antigen (HBsAg). It is designed to inhibit the entry of hepatitis B and hepatitis delta viruses into hepatocytes and to reduce the level of circulating viral and subviral particles in the blood. Tobevibart was identified using Vir Biotechnology’s proprietary monoclonal antibody discovery platform. The Fc domain has been engineered to increase immune engagement and clearance of HBsAg immune complexes and incorporates Xencor’s Xtend™ technology to extend half-life. Tobevibart is administered subcutaneously, and it is currently in clinical development for the treatment of patients with chronic hepatitis delta.
+
+Elebsiran is an investigational hepatitis B virus-targeting small interfering ribonucleic acid (siRNA) discovered by Alnylam Pharmaceuticals, Inc. It is designed to degrade hepatitis B virus RNA transcripts and limit the production of hepatitis B surface antigen. Current data indicates that it has the potential to have direct antiviral activity against hepatitis B virus and hepatitis delta virus. Elebsiran is administered subcutaneously, and it is currently in clinical development for the treatment of patients with chronic hepatitis delta.
+
+About Vir Biotechnology, Inc.
+
+Vir Biotechnology, Inc., is a clinical-stage biopharmaceutical company focused on powering the immune system to transform lives by discovering and developing medicines for serious infectious diseases and cancer. Its clinical-stage portfolio includes programs for chronic hepatitis delta and multiple dual-masked T-cell engagers across validated targets in solid tumor indications. Vir Biotechnology also has a preclinical portfolio of programs across a range of infectious diseases and oncologic malignancies. Vir Biotechnology routinely posts information that may be important to investors on its website.
+
+References:
+
+1 CDC Hepatitis B Basics | Hepatitis B | CDC, accessed April 2025.
+
+2 World Health Organization. Global Hepatitis Report 2024: Action for Access in Low- and Middle-income Countries. World Health Organization; 2024.
+
+3 NIH National Institute of Diabetes and Digestive and Kidney Diseases Hepatitis B - NIDDK (nih.gov), accessed April 2025.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as “should,” “could,” “may,” “might,” “will,” “plan,” “potential,” “aim,” “expect,” “anticipate,” “promising” and similar expressions (as well as other words or expressions referencing future events, conditions or circumstances) are intended to identify forward-looking statements. Forward-looking statements contained in this press release include, but are not limited to, statements regarding: the therapeutic potential of the combination of tobevibart and elebsiran to treat chronic hepatitis B and chronic hepatitis delta; Vir Biotechnology’s commitment to the continued development of the combination of tobevibart and elebsiran in chronic hepatitis delta and the transformational potential of the combination to achieve complete hepatitis delta viral suppression in a majority of patients; Vir Biotechnology’s anticipated cash runway; Vir Biotechnology’s strategy and plans; and any assumptions underlying any of the foregoing. Many factors may cause differences between current expectations and actual results, including, without limitation: unexpected safety or efficacy data or results observed during clinical studies or in data readouts, including the occurrence of adverse safety events; risks of unexpected costs, delays or other unexpected hurdles; challenges in accessing manufacturing capacity; clinical site activation rates or clinical enrollment rates that are lower than expected; the timing and outcome of Vir Biotechnology’s planned interactions with regulatory authorities, as well as general difficulties in obtaining any necessary regulatory approvals; successful development and/or commercialization of alternative product candidates by Vir Biotechnology’s competitors, as well as changes in expected or existing competition; geopolitical changes or other external factors; and unexpected litigation or other disputes. In light of these risks and uncertainties, the events or circumstances referred to in the forward-looking statements may not occur. Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in commercialization of a product. Results in early-stage clinical studies may not be indicative of full results or results from later stage or larger scale clinical studies and do not ensure regulatory approval. The actual results may vary from the anticipated results, and the variations may be material. You are cautioned not to place undue reliance on any scientific data presented or these forward-looking statements, which are based on Vir Biotechnology’s available information, expectations and assumptions as of the date of this press release. Other factors that may cause Vir Biotechnology’s actual results to differ from those expressed or implied in the forward-looking statements in this press release are discussed in Vir Biotechnology’s filings with the U.S. Securities and Exchange Commission, including the section titled “Risk Factors” contained therein. Except as required by law, Vir Biotechnology assumes no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Contacts:
+
+Media
+
+Corporate Communications, Vir Biotechnology
+
+corporatecomms@vir.bio
+
+Investors
+
+Richard Lepke
+
+Senior Director, Investor Relations
+
+rlepke@vir.bio

@@ -1,0 +1,464 @@
+false000128189500012818952022-09-192022-09-19
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):  September 19, 2022
+
+Rocket Pharmaceuticals, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-36829
+
+04-3475813
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+9 Cedarbrook Drive,
+Cranbury, NJ
+
+ 
+
+08512
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:  (646)
+440-9100
+
+Not applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2):
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common stock, $0.01 par value
+
+ 
+
+RCKT
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+ 
+
+Merger Agreement
+
+ 
+
+On September 19, 2022, Rocket Pharmaceuticals, Inc., a Delaware corporation (“Rocket” or “Parent”), entered into an Agreement and Plan of Merger (the “Merger Agreement”)
+with Renovacor, Inc., a Delaware corporation (“Renovacor” or the “Company”), Zebrafish Merger Sub, Inc., a Delaware corporation and a direct wholly owned subsidiary of Parent (“Merger Sub I”), Zebrafish Merger Sub, LLC, a Delaware limited liability
+company and a direct wholly owned subsidiary of Parent (“Merger Sub II” and together with Merger Sub I, the “Merger Subs”) pursuant to which, among other matters, and subject to the satisfaction or waiver of the conditions set forth Merger Agreement,
+(i) Merger Sub I will merge with and into the Company (the “First Merger”) and (ii) the Company, as the surviving company of the First Merger, will merge with and into Merger Sub II (the “Second Merger” and together with
+the First Merger, the “Mergers”), with Merger Sub II as the surviving company (the “Surviving Company”). The Mergers are intended to qualify for federal income tax purposes as a tax-free reorganization under the provisions of Section 368(a) of the
+Internal Revenue Code of 1986, as amended.
+
+ 
+
+Merger Consideration
+
+Subject to the terms and conditions of the Merger Agreement, each
+share of the Company’s common stock, par value $0.0001 per share (“Company Shares”) outstanding immediately prior to the effective time of the First Merger (the “First Effective Time”) (including Company Earnout Shares (as defined in the Merger
+Agreement)) will be canceled and converted into the right to receive a number of fully paid and non-assessable shares of Parent common stock, $0.01 par value per share (“Parent Shares”) determined on the basis of an exchange formula set forth in the
+Merger Agreement (the “Exchange Ratio”). The Exchange Ratio will initially be equal to 0.1676 for each Company Share (subject to adjustment as described in this paragraph, the “Per Share Merger Consideration”). Under certain circumstances further
+described in the Merger Agreement, the Exchange Ratio may be adjusted upward or downward based on the level of the Company’s net cash at the Closing of the First Merger and certain other adjustments, as determined in accordance with the Merger
+Agreement. There can be no assurances as to the Company’s level of net cash between now and the closing of the transactions contemplated by the Merger Agreement (the “Closing”).
+
+ 
+
+In addition, subject to the terms and conditions of the Merger Agreement:
+
+•
+
+At the First Effective time, all Company Shares held by Parent or any Merger Sub immediately prior to the First Effective Time will be canceled and retired and will cease to exist,
+and no consideration will be delivered in exchange therefor;
+
+ 
+
+•
+
+Immediately prior to the First Effective Time, all Sponsor Earnout Shares (as defined in the Merger Agreement) will vest in full and be released to Chardan Investments 2, LLC
+(formerly known as Chardan Investments III, LLC), a Delaware limited liability company (the “Sponsor”), in accordance with the terms of the that certain Sponsor Support Agreement, dated as of March 22, 2021, by and among the Company (formerly
+known as Chardan Healthcare Acquisition 2 Corp.), the Sponsor and Renovacor Holdings, Inc. (formerly known as Renovacor, Inc.) (“Renovacor Holdings”) and, at the First Effective Time, will be canceled and converted into the right to receive
+the Per Share Merger Consideration;
+
+•
+
+Immediately prior to the First Effective Time, the Company will issue a number of Company Shares comprising the maximum number of SPAC Merger Earnout Shares (as defined in the
+Merger Agreement) issuable in connection with and in accordance with that certain Agreement and Plan of Merger, dated as of March 22, 2021, by and among the Company (formerly known as Chardan Healthcare Acquisition 2 Corp.), CHAQ2 Merger
+Sub, Inc., a Delaware corporation, and Renovacor Holdings to certain persons entitled thereto (other than Company Shares issuable in settlement of outstanding Company Earnout RSUs (as defined in the Merger Agreement)) and, at the First
+Effective Time, all Company Shares issued pursuant to this paragraph will be canceled and converted into the right to receive the Per Share Merger Consideration;
+
+ 
+
+•
+
+Immediately prior to the First Effective Time, the Company will issue a number of Company Shares comprising the maximum number of SPAC Merger Earnout Shares issuable in settlement of
+Company Earnout RSUs and, at the First Effective Time, the Company Shares issuable pursuant to this paragraph will be canceled and converted into the right to receive the Per Share Merger Consideration;
+
+•
+
+At the First Effective Time, each restricted stock unit award that is subject to time vesting (a “Company Time-Vesting RSU”) outstanding immediately prior to the First Effective Time
+will automatically, without any further action on the part of Parent, Merger Sub I, the Company or any holder thereof, vest in full and be canceled and converted into the right to receive a number of Parent Shares, rounded to the nearest
+whole number, equal to the number of Company Shares subject to such Company Time-Vesting RSU multiplied by the Exchange Ratio;
+
+•
+
+At the First Effective Time, each option to purchase Company Shares (a “Company Option”) outstanding immediately prior to the First Effective Time will automatically, without any
+action on the part of Parent, Merger Sub I, the Company or any holder thereof, be converted into and thereafter evidence an option to acquire a number of Parent Shares that is equal to the product of (A) the number of Company Shares subject
+to such Company Option as of immediately prior to the First Effective Time, multiplied by (B) the Exchange Ratio, rounded down to the nearest whole number of Parent Shares (after such conversion, an “Exchanged Option”), at an exercise price
+per Parent Share underlying such Exchanged Option equal to the quotient obtained by dividing (x) the per share exercise price of Company Options immediately prior to the First Effective Time by (y) the Exchange Ratio, rounded up to the
+nearest whole cent.
+
+•
+
+At the First Effective Time, each public warrant to purchase Company Shares (a “Company Public Warrant”) outstanding and unexercised immediately prior to the First Effective Time
+will automatically, without any action on the part of Parent, Merger Sub I, the Company or any holder thereof, be converted into and thereafter evidence a warrant to purchase a number of Parent Shares, rounded down to the nearest whole share,
+that is equal to the product of (A) the number of Company Shares subject to such Company Public Warrant as of immediately prior to the First Effective Time, multiplied by (B) the Exchange Ratio (after such conversion, an “Exchanged Warrant”),
+at an exercise price per Parent Share underlying such Exchanged Warrant equal to the quotient obtained by dividing (x) the per share exercise price applicable to such Company Public Warrant immediately prior to the First Effective Time by (y)
+the Exchange Ratio, rounded up to the nearest whole cent.
+
+•
+
+At the First Effective Time, each private warrant to purchase Company Shares (a “Company Private Warrant”) outstanding and unexercised immediately prior to the First Effective Time
+will automatically, without any action on the part of Parent, Merger Sub I, the Company or any holder thereof, be converted into and thereafter evidence an Exchanged Warrant entitling the holder thereof to purchase a number of Parent Shares,
+rounded down to the nearest whole share, that is equal to the product of (A) the number of Company Shares subject to such Company Private Warrant as of immediately prior to the First Effective Time, multiplied by (B) the Exchange Ratio, at an
+exercise price per Parent Share underlying such Exchanged Warrant equal to the quotient obtained by dividing (x) the per share exercise price applicable to such Company Private Warrant immediately prior to the First Effective Time by (y) the
+Exchange Ratio, rounded up to the nearest whole cent; and
+
+•
+
+At the First Effective Time, each pre-funded warrant to purchase Company Shares (a “Company Pre-Funded Warrant”) outstanding and unexercised immediately prior to the First Effective
+Time will automatically, without any action on the part of Parent, Merger Sub I, the Company or any holder thereof, be converted into and thereafter evidence an Exchanged Warrant entitling the holder thereof to purchase a number of Parent
+Shares, rounded down to the nearest whole share, that is equal to the product of (A) the number of Company Shares subject to such Company Pre-Funded Warrant as of immediately prior to the First Effective Time, multiplied by (B) the Exchange
+Ratio, at an exercise price per Parent Share underlying such Exchanged Warrant equal to the quotient obtained by dividing (x) the per share exercise price applicable to such Company Pre-Funded Warrant immediately prior to the First Effective
+Time by (y) the Exchange Ratio, rounded up to the nearest whole cent.
+
+ 
+
+Conditions to the Mergers
+
+ 
+
+The closing of the Mergers is subject to the satisfaction or waiver of certain conditions including, among other things, (i) the required approvals by Parent’s and the
+Company’s stockholders, (ii) the accuracy of the respective representations and warranties of each party, subject to certain materiality qualifications, (iii) compliance by the parties with their respective covenants, (iv) the absence of any law or
+order preventing the Mergers and the contemplated transactions, (v) the Parent Shares to be issued in the First Merger being approved for listing (subject to official notice of issuance) on Nasdaq as of the closing and (vi) the Registration Statement
+(as defined below) having become effective in accordance with the provisions of the Securities Act of 1933, as amended, and not being subject to any stop order or proceeding (or threatened proceeding by the Securities and Exchange Commission (the
+“SEC”)) seeking a stop order with respect to the Registration Statement that has not been withdrawn.
+
+Certain Other Terms of the Merger Agreement
+
+The Merger Agreement contains customary representations, warranties and covenants made by Parent and the Company, including covenants relating to
+obtaining the requisite approvals of the stockholders of Parent and the Company, indemnification of directors and officers, and the Parent’s and the Company’s conduct of their respective businesses between the date of signing the Merger Agreement and
+the closing of the Mergers.
+
+In connection with the Mergers, Parent and the Company will jointly prepare and file a registration statement on Form S-4 (the “Registration
+Statement”), in which a joint proxy statement will be included (the “Proxy Statement”) to seek the approval of (i) Parent’s stockholders with respect to certain actions, including the issuance of Parent Shares, pursuant to the Nasdaq rules (the
+“Parent Stockholder Approval”) and (ii) the Company’s stockholders with respect to certain actions, including the adoption of the Merger Agreement and the approval of the First Merger (the “Company Stockholder Approval”).
+
+The Company is subject to a customary “no-shop”
+provision whereby, subject to certain exceptions, it is prohibited from, directly or indirectly (i) initiating, seeking or soliciting, or knowingly encouraging or facilitating (including by way of furnishing non-public information) or inquiring or
+the making or submission of any proposal that constitutes, or would reasonably be expected to lead to, a Company Acquisition Proposal (as defined in the Merger Agreement); (ii) participating or engaging in discussions or negotiating with, or
+disclosing any non-public information or data relating to, the Company or its Subsidiary or affording access to the properties, books or records of the Company or
+
+its subsidiary to any person that has made or could reasonably be expected to make, a Company Acquisition Proposal; or (iii) entering into any agreement, including any letter of intent, memorandum of understanding, agreement in principle, merger
+agreement, acquisition agreement or other similar agreement, whether or not binding, with respect to a Company Acquisition Proposal. The “no-shop” provision is subject to certain exceptions that permit the board of directors of the Company (the “Company
+Board”) to comply with its fiduciary duties, which, under certain circumstances, would enable the Company to provide information to, and enter into discussions or negotiations with, third parties in response to a Superior Proposal (as defined
+in the Merger Agreement).
+
+The Merger Agreement contains certain customary termination rights, including, among others:
+
+•
+
+upon the mutual consent of Parent and the Company;
+
+•
+
+by the Company,
+if any of Parent’s or the Merger Sub’s covenants, representations or warranties contained in the Merger Agreement will be or have become untrue and such breach is not capable of being cured or has not been cured within 45 days following
+notice of such breach;
+
+•
+
+by the Company,
+if at any time prior to the Company Stockholder Approval, upon written notice to Parent, in order to enter into a definitive agreement for a transaction constituting a Superior Proposal;
+
+•
+
+by the Company,
+if Parent makes a Parent Adverse Recommendation Change (as defined in the Merger Agreement);
+
+•
+
+by Parent, if the Company makes a Company Adverse Recommendation Change (as defined in the Merger Agreement); and
+
+•
+
+by either Parent or the Company, if (A) a court of competent jurisdiction or other governmental body issues a final and non-appealable order, decree or ruling, or has taken any other action, having the effect of prohibiting the Mergers and the
+contemplated transactions, (B) the Mergers have not occurred by March 19, 2023, subject to certain conditions, (C) the Company Stockholder Approval will not have been obtained at the Company’s stockholder meeting or any adjournment thereof; or (D) the Parent Stockholder Approval will not have been obtained at Parent’s stockholder meeting or any adjournment thereof.
+
+Under certain circumstances and in compliance with certain obligations
+set forth in the Merger Agreement, (x) Parent and the Company are permitted to terminate the Merger Agreement prior to the First Effective Time, subject to the
+payment by either Parent or the Company, as applicable, of a termination fee of $1.74 million or (y) in some circumstances, Parent may be required to reimburse
+the Company’s expenses up to a maximum of $750,000.
+
+The foregoing summary does not purport to be a complete description and is qualified in its entirety by reference to the full text of the Merger
+Agreement, which is attached hereto as Exhibit 2.1 and is incorporated herein by reference.
+
+The Merger Agreement is attached to provide investors with information regarding its terms and is not intended to provide any other factual information
+about Parent, the Company or the Merger Subs. The Merger Agreement also contains representations and warranties of each of Parent, the Company and the Merger Subs. The assertions embodied in those representations and warranties were made for purposes
+of the Merger Agreement and are subject to qualifications and limitations agreed to by the respective parties in connection with negotiating the terms of the Merger Agreement, including information contained in certain disclosures between the
+parties. Accordingly, investors and security holders should not rely on such representations and warranties as characterizations of the actual statements of facts or circumstances, since they were only made as of a specific date and are modified in
+important part by the disclosures between the parties. In addition, certain representations and warranties may be subject to a contractual standard of materiality different from what might be viewed as material to security holders, or may have been
+used for purposes of allocating risk between the respective parties rather than establishing matters of fact. Moreover, information concerning the subject matter of such representations and warranties may change after the date of the Merger
+Agreement, which subsequent information may or may not be fully reflected in Parent’s and the Company’s public disclosures.
+
+Voting Agreements
+
+In connection with the execution of the Merger Agreement, certain stockholders of Parent and the Company holding approximately 35% and 9.4%
+respectively, of the companies’ outstanding voting shares entered into voting agreements with Parent (the “Company Voting Agreements”) and the Company, as applicable (the “Parent Voting Agreements” and together with the Company Voting Agreements, the
+“Voting Agreements”).
+
+Pursuant to the Voting Agreements, the securityholders of Parent and the Company, as applicable, have agreed, among other things, to: (i) vote their
+beneficially owned securities of Parent or the Company, as applicable, (1) in favor of the transactions contemplated by the Merger Agreement, including any matter necessary for the consummation of the Mergers, (2) in favor of any proposal to adjourn
+or postpone any meeting of shareholders at which any of the foregoing matters are submitted for consideration and vote of the shareholders if there are not sufficient votes for approval of any such matters on the date on which the meeting is held,
+(3) against any third-party acquisition transactions, (4) against any other proposal that could reasonably be expected to result in a breach of any covenant, representation or warranty under the Merger Agreement or any obligation of the
+securityholder under the Voting Agreement and (5) against any other proposal that could reasonably be expected to impeded, delay or adversely affect the timely consummation of the transactions contemplated by the Merger Agreement; and (ii) comply
+with certain restrictions on the disposition of such shares, in each case subject to the terms and conditions contained therein.
+
+The foregoing description of the Voting Agreements do not purport to be complete and are subject to, and qualified in their entirety by, references to
+the form of the Company Voting Agreement, which is filed as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference and to the form of Parent Voting Agreement, which is filed as Exhibit 99.2 to this Current Report on Form
+8-K and incorporated herein by reference.
+
+ 
+
+Item 8.01
+
+Other Events
+
+ 
+
+On September 20, 2022, Parent and the Company issued a joint press release announcing the entry into the Merger Agreement. A copy of the press release is attached hereto as
+Exhibit 99.3 and is incorporated herein by reference.
+
+Forward-Looking Statements
+
+This communication relates to a proposed business combination transaction between Rocket Pharmaceuticals, Inc. (“Parent”) and Renovacor, Inc. (the “Company”). This
+communication includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements relate to future events and anticipated results of
+operations, business strategies, the anticipated benefits of the proposed transaction, the anticipated impact of the proposed transaction on the combined company’s business and future financial and operating results, the expected amount and timing of
+synergies from the proposed transaction, the anticipated closing date for the proposed transaction and other aspects of our operations or operating results. These forward-looking statements generally can be identified by phrases such as “will,”
+“should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “predicts,” “potential,” “continue,” “foresees,” “forecasts,” “estimates” or other words or phrases of similar import. It is uncertain
+whether any of the events anticipated by the forward-looking statements will transpire or occur, or if any of them do, what impact they will have on the results of operations and financial condition of the combined companies or the price of Parent’s
+or the Company’s stock. These forward-looking statements involve certain risks and uncertainties, many of which are beyond the parties’ control, that could cause actual results to differ materially from those indicated in such forward-looking
+statements, including but not limited to: the impact of public health crises, such as pandemics (including coronavirus (COVID-19)) and epidemics and any related company or government policies and actions to protect the health and safety of
+individuals or government policies or actions to maintain the functioning of national or global economies and markets; the effect of the announcement of the merger on the ability of Parent or the Company to retain and hire key personnel and maintain
+relationships with customers, suppliers and others with whom Parent or the Company do business, or on Parent’s or the Company’s operating results and business generally; risks that the merger disrupts current plans and operations and the potential
+difficulties in employee retention as a result of the merger; uncertainties related to the initiation, timing and conduct of studies and other development requirements for the Company’s product candidates; the risk that any one or more of the
+Company’s product candidates will not be successfully developed and commercialized; the interest from patients and families for participation in each of Parent’s ongoing trials, expectations regarding the delays and impact of COVID-19 on clinical
+sites, patient enrollment, trial timelines and data readouts, our expectations regarding our drug supply for our ongoing and anticipated trials, actions of regulatory agencies, which may affect the initiation, timing and progress of pre-clinical
+studies and clinical trials of its product candidates; the risk that the results of preclinical studies and clinical trials may not be predictive of future results in connection with future studies or trials; the outcome of any legal proceedings
+related to the merger; the ability of the parties to consummate the proposed transaction on a timely basis or at all; the satisfaction of the conditions precedent
+to consummation of the proposed transaction, including the ability to secure regulatory approvals on the terms expected, at all or in a timely manner; the ability of Parent to successfully integrate the Company’s operations; the ability of Parent to
+implement its plans, forecasts and other expectations with respect to Parent’s business after the completion of the transaction and realize expected synergies; the risk of litigation and/or regulatory actions related to the proposed transaction; and
+business disruption following the merger. These risks, as well as other risks related to the proposed transaction, will be included in the registration statement on Form S-4 and proxy statement/prospectus that will be filed with the Securities and
+Exchange Commission (“SEC”) in connection with the proposed transaction. While the list of factors presented here is, and the list of factors to be presented in the registration statement on Form S-4 are, considered representative, no such list
+should be considered to be a complete statement of all potential risks and uncertainties. For additional information about other factors that could cause actual results to differ materially from those described in the forward-looking statements,
+please refer to Parent’s and the Company’s respective periodic reports and other filings with the SEC, including the risk factors identified in Parent’s most recent Quarterly Reports on Form 10-Q and Annual Report on Form 10-K and the Company’s most
+recent Quarterly Reports on Form 10-Q and Annual Report on Form 10-K. The forward-looking statements included in this communication are made only as of the date hereof. Neither Parent nor the Company undertakes any obligation to update any
+forward-looking statements to reflect subsequent events or circumstances, except as required by law.
+
+No Offer or Solicitation
+
+ 
+
+This communication is not intended to and shall not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any securities, or a solicitation of
+any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering
+of securities shall be made, except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended.
+
+ 
+
+Additional Information about the Merger and Where to Find It
+
+ 
+
+In connection with the proposed transaction, Parent intends to file with the SEC a registration statement on Form S-4 that will include a proxy statement of the Company
+and that also constitutes a prospectus of Parent. Each of Parent and the Company may also file other relevant documents with the SEC regarding the proposed transaction. This document is not a substitute for the proxy statement/prospectus or
+registration statement or any other document that Parent or the Company may file with the SEC. The definitive proxy statement/prospectus (if and when available) will be mailed to stockholders of Parent and the Company. INVESTORS AND SECURITY
+HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT, PROXY STATEMENT/PROSPECTUS AND ANY OTHER RELEVANT DOCUMENTS THAT MAY BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY IF AND
+WHEN THEY BECOME AVAILABLE BECAUSE THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION. Investors and security holders will be able to obtain free copies of the registration statement and proxy statement/prospectus (if
+and when available) and other documents containing important information about Parent, the Company and the proposed transaction, once such documents are filed with the SEC through the website maintained by the SEC at http://www.sec.gov. Copies of the documents filed with the SEC by Parent will be available free of charge on the Parent’s website at https://ir.rocketpharma.com/ or by contacting Parent’s Investor Relations department at info@rocketpharma.com.
+Copies of the documents filed with the SEC by the Company will be available free of charge on the Company’s website at https://ir.renovacor.com or by
+contacting the Company’s Investor Relations department at investors@ renovacor.com.
+
+ 
+
+Participants in the Solicitation
+
+ 
+
+Parent, the Company and certain of their respective directors and executive officers may be deemed to be participants in the solicitation of proxies in respect of the
+proposed transaction. Information about the directors and executive officers of Parent and the Company, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in Parent’s and the Company’s
+Annual Reports filed with the SEC on April 29, 2022 and April 14, 2022, respectively. Other information regarding the participants in the proxy solicitations and a description of their direct and indirect interests, by security holdings or
+otherwise, will be contained in the proxy statement/prospectus and other relevant materials to be filed with the SEC regarding the proposed transaction when such materials become available. Investors should read the proxy statement/prospectus
+carefully when it becomes available before making any voting or investment decisions. You may obtain free copies of these documents from Parent or the Company using the sources indicated above.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit
+
+No.
+
+Description
+
+ 
+
+ 
+
+2.1*
+
+Agreement and Plan of Merger, dated September 19, 2022, by and among Parent, the Company, Merger Sub I and Merger Sub II.
+
+ 
+
+ 
+
+99.1
+
+Form of Parent Voting Agreement.
+
+ 
+
+ 
+
+99.2
+
+Form of Company Voting Agreement.
+
+ 
+
+ 
+
+99.3
+
+Joint Press Release of Parent and the Company, dated September 20, 2022.
+
+ 
+
+ 
+
+Exhibit 104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+*
+
+Schedules and exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished to the SEC upon
+request.
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+Date: September 20, 2022
+
+Rocket Pharmaceuticals, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Gaurav Shah, MD
+
+ 
+
+Name:
+
+Gaurav Shah, MD
+
+ 
+
+Title:
+
+Chief Executive Officer and Director

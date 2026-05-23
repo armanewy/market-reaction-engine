@@ -1,0 +1,718 @@
+EX-99.2
+3
+d267979dex992.htm
+EX-99.2
+
+EX-99.2
+
+Exhibit 99.2
+
+ 
+
+Fate Therapeutics Showcases Positive Interim Phase 1 Data from FT596 Off-the-shelf, iPSC-derived CAR NK Cell Program for Relapsed / Refractory B-cell Lymphoma at 2021 ASH Annual Meeting
+
+5 of 6 Patients Achieve Objective Response, including 4 Patients with Complete Response, with Single Dose of FT596 at 900 Million Cells in Combination
+with Rituximab
+
+13 of 19 Patients Achieve Objective Response with Single Dose of FT596 at 90 Million and 300 Million Cell Dose; 10 of 11
+Patients Treated with a Second FT596 Cycle Continue in Ongoing Response, with 3 Patients in Ongoing Complete Response at
+³6 Months Follow-up; Additional 2 Patients Reach 6 Months in
+Complete Response
+
+FT596 Treatment Regimens were Well-tolerated; No Dose-limiting Toxicities, and No Adverse Events of Any Grade of ICANS or
+GVHD, were Observed; Three Low-grade Adverse Events of CRS Resolved without Intensive Care Treatment
+
+Company to Host Virtual Investor Event Tomorrow at 8:00 AM Eastern Time
+
+San Diego, CA – December 13, 2021 – Fate Therapeutics, Inc. (NASDAQ: FATE), a clinical-stage biopharmaceutical company
+dedicated to the development of programmed cellular immunotherapies for cancer, today showcased positive interim Phase 1 data from the Company’s FT596 program for patients with relapsed / refractory
+B-cell lymphoma (BCL) at the 63rd American Society of Hematology (ASH) Annual Meeting and Exposition. FT596 is the Company’s off-the-shelf, multi-antigen targeted, iPSC-derived natural killer (NK) cell product candidate derived from a clonal master induced pluripotent stem cell (iPSC) line
+engineered with three anti-tumor functional modalities: a proprietary chimeric antigen receptor (CAR) optimized for NK cell biology that targets B-cell antigen CD19; a novel high-affinity, non-cleavable CD16 (hnCD16) Fc receptor that has been modified to prevent its down-regulation and to enhance its binding to tumor-targeting antibodies; and an IL-15 receptor
+fusion (IL-15RF) that augments NK cell activity.
+
+“The interim dose-escalation clinical data from our FT596 program in
+relapsed / refractory B-cell lymphoma demonstrate that off-the-shelf, iPSC-derived CAR NK cells can bring substantial therapeutic
+benefit to heavily pre-treated patients in urgent need of therapy, with high response rates and meaningful duration of responses,” said Scott Wolchko, President and Chief Executive Officer of Fate
+Therapeutics. “We are particularly pleased with the therapeutic profile that has emerged with FT596 in combination with rituximab, where over half of the patients treated with a single dose of FT596 at higher dose levels achieved a complete
+response with a favorable safety profile that is clearly differentiated from CAR T-cell therapy. We look forward to assessing a two-dose treatment schedule for FT596 to
+further define its potential best-in-class therapeutic profile and ability to reach more patients, including those earlier in care.”
+
+The ongoing Phase 1 study in relapsed / refractory BCL is assessing a single dose of FT596 as monotherapy (Monotherapy
+Arm) and in combination with a single dose of rituximab (375 mg/m2) (Combination Arm) following three days of conditioning chemotherapy (500
+mg/m2 of cyclophosphamide and 30 mg/m2 of fludarabine). Certain patients are eligible for re-treatment
+with a second, single-dose cycle.
+
+The ASH presentation (Session 704—Cellular Immunotherapies: Expanding Targets and Cellular Sources for Immunotherapies,
+Abstract 823) includes clinical data from 25 evaluable patients for safety (n=12 in Monotherapy Arm; n=13 in Combination Arm) in the first, second, and third single-dose cohorts of 30 million, 90 million, and 300 million cells,
+respectively, of which 24 patients were also evaluable for efficacy (n=12 in Monotherapy Arm; n=12 in Combination Arm), as of the data cutoff date of October 11, 2021. These 25 patients had received a median of four prior lines of therapy and a
+median of two prior lines containing CD20-targeted therapy. Of the 25 patients, 15 patients (60%) had aggressive B-cell lymphoma, 15 patients (60%) were refractory to most recent prior therapy, and 8 patients
+(32%) were previously treated with autologous CD19-targeted CAR T-cell therapy. Subsequent to the data cutoff date for the ASH presentation, an additional patient in the third single-dose cohort of the
+Combination Arm was evaluable for initial anti-tumor response, and seven patients in the fourth single-dose cohort of 900 million cells (n=1 in Monotherapy Arm; n=6 in Combination Arm) were evaluable for safety and initial anti-tumor response.
+
+Single-dose, Single-cycle Response Data
+
+In the second, third,
+and fourth dose cohorts of the Monotherapy and Combination Arms comprising a total of 26 patients, 18 patients (69%) achieved an objective response, including 12 patients (46%) that achieved a complete response, on Day 29 following a single dose of
+FT596 (see Table 1). Nine of these 26 patients were previously treated with autologous CD19-targeted CAR T-cell therapy and, of these nine patients, six achieved an objective response (67%) on Day 29 following
+a single dose of FT596. Notably, in the third and fourth dose cohorts of the Combination Arm comprising a total of 12 patients, nine patients (75%) achieved an objective response, including seven patients (58%) that achieved a complete response, on
+Day 29 following a single dose of FT596.
+
+Durability of Response Data
+
+The ASH presentation includes durability of response data from 13 responding patients in the second and third single-dose cohorts of 90 million cells and
+300 million cells (n=9 in Monotherapy Arm; n=10 in Combination Arm). As of the data cutoff date of October 11, 2021, 10 patients continued in ongoing response, including three patients in ongoing complete response at least six months from
+initiation of treatment; two patients reached six months in complete response and subsequently had disease progression; and one patient had disease progression prior to six months. Of these 13 responding patients:
+
+ 
+
+ 
+
+•
+
+ 
+
+Monotherapy Arm (n=7 responding patients). Five patients, all of whom were treated with a second FT596 single-dose
+cycle with the consent of the U.S. Food and Drug Administration (FDA), continued in ongoing response at a median follow-up of 4.1 months, including one patient in ongoing complete response at 8.1 months; one
+patient, who was treated with only one FT596 single-dose cycle, reached six months in complete response and subsequently had disease progression at 6.5 months; and one patient, who was treated with only one FT596
+single-dose cycle, had disease progression at 1.7 months.
+
+ 
+
+•
+
+ 
+
+Combination Arm (n=6 responding patients). Five patients, all of whom were treated with a second FT596 single-dose
+cycle with the consent of the FDA, continued in ongoing response at a median follow-up of 4.6 months, including two patients in ongoing complete response at 6.0 and 10.8 months; and one patient, who was
+treated with a second FT596 single-dose cycle with the consent of the FDA, reached six months in complete response and subsequently had disease progression at 6.7 months.
+
+ 
+
+ 
+
+Table 1. FT596 Interim Phase 1 Data – Day 29 Response Assessment 1
+
+ 
+
+ 
+
+ 
+
+1 Dose x 1 Cycle
+
+  
+
+Monotherapy
+
+(n=13)
+
+  
+
+Combination
+
+(n=19)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Single-dose Level Cohorts (Cells)
+
+  
+
+          OR         
+ 
+
+  
+
+          CR         
+ 
+
+  
+
+          OR         
+ 
+
+  
+
+          CR      
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30M
+
+  
+
+1/3 (33%)
+
+  
+
+0
+
+  
+
+0/3 (0%)
+
+  
+
+0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+90M
+
+  
+
+3/4 (75%)
+
+  
+
+2
+
+  
+
+2/4 (50%)
+
+  
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+300M 2
+
+  
+
+4/5 (80%)
+
+  
+
+1
+
+  
+
+4/6 (67%)
+
+  
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+900M 2
+
+  
+
+0/1 (0%)
+
+  
+
+0
+
+  
+
+5/6 (83%)
+
+  
+
+4
+
+ 
+
+ 
+
+ 
+
+aCD19 History (³90M Cells)
+
+  
+
+n=10
+
+  
+
+n=16
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Naïve
+
+  
+
+7/9 (78%)
+
+  
+
+3
+
+  
+
+5/8 (63%)
+
+  
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prior
+
+  
+
+0/1 (0%)
+
+  
+
+0
+
+  
+
+6/8 (75%)
+
+  
+
+5
+
+ 
+
+ 
+
+ 
+
+Disease Histology (³90M Cells)
+
+  
+
+n=10
+
+  
+
+n=16
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aggressive
+
+  
+
+1/3 (33%)
+
+  
+
+0
+
+  
+
+6/11 (55%)
+
+  
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mantle cell
+
+  
+
+0/1 (0%)
+
+  
+
+0
+
+  
+
+2/2 (100%)
+
+  
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Indolent
+
+  
+
+6/6 (100%)
+
+  
+
+3
+
+  
+
+3/3 (100%)
+
+  
+
+3
+
+ 
+
+aCD19 = autologous CD19-targeted CAR T-cell therapy; Aggressive = diffuse large B-cell lymphoma, Grade 3b follicular lymphoma, Richter’s transformation, and high-grade B-cell lymphoma; CR = complete response; Indolent = splenic diffuse
+red pulp small B-cell lymphoma, non-Grade 3b follicular lymphoma, Waldenstrom’s macroglobulinemia, and small lymphocytic lymphoma; M = million; OR =
+objective response
+
+ 
+
+ 
+
+1   As of data cutoff date of October 11, 2021,
+unless otherwise noted. Objective response and complete response are based on Cycle 1 Day 29 protocol-defined response assessment per Lugano 2014 criteria. Data subject to source document verification.
+
+ 
+
+2   Cycle 1 Day 29 protocol-defined response assessment
+completed subsequent to data cutoff date for one patient in the third single-dose cohort of 300 million cells in the Combination Arm and seven patients in the fourth single-dose cohort of 900 million cells (n=1 in Monotherapy Arm; n=6 in
+Combination Arm).
+
+Safety Data
+
+The FT596 treatment
+regimens were well tolerated, including in those patients treated with a second, single-dose cycle. No dose-limiting toxicities, and no treatment-emergent adverse events (TEAEs) of any grade of immune effector cell-associated neurotoxicity syndrome
+(ICANS) or graft-versus-host disease (GvHD) were observed. Three low-grade adverse events (two Grade 1, one Grade 2) of cytokine release syndrome (CRS) were reported, which were of limited duration and
+resolved without intensive care treatment (see Table 2).
+
+The Company has initiated enrollment of a two-dose treatment
+schedule in the Combination Arm, with FT596 administered on Day 1 and Day 15 at 900 million cells per dose. Patients with clinical benefit following administration of the first two-dose cycle are eligible
+for re-treatment with a second two-dose cycle. Additionally, patients with clinical response are eligible for re-treatment
+following disease progression.
+
+ 
+
+Table 2. FT596 Interim Phase 1 Data – TEAEs of Interest
+
+ 
+
+ 
+
+ 
+
+n (%)
+
+  
+
+Monotherapy
+
+(n=13)
+
+  
+
+Combination
+
+(n=19)
+
+  
+
+      All Grade      
+
+  
+
+      Grade 3+      
+
+  
+
+      All Grade      
+
+  
+
+      Grade 3+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CRS
+
+  
+
+1 (8%)
+
+  
+
+---
+
+  
+
+2 (11%)
+
+  
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ICANS
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GvHD
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Infections
+
+  
+
+6 (46%)
+
+  
+
+3 (23%)
+
+  
+
+6 (32%)
+
+  
+
+3 (16%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FT596-related SAEs
+
+  
+
+---
+
+  
+
+---
+
+  
+
+1 (5%) a
+
+  
+
+---
+
+ 
+
+CRS = Cytokine Release Syndrome; GvHD = Graft vs. Host Disease; ICANS = Immune Cell-Associated Neurotoxicity Syndrome; TEAE
+= Treatment-Emergent Adverse Event; SAE = Severe Adverse Events
+
+ 
+
+a   Grade 2 CRS
+
+Investor Event Webcast
+
+The Company
+will host a live audio webcast on Tuesday, December 14, 2021 at 8:00 a.m. ET to highlight interim Phase 1 clinical data from the Company’s FT516 and FT596 programs for the treatment of relapsed / refractory
+B-cell lymphoma. The live webcast can be accessed under “Events & Presentations” in the Investors section of the Company’s website at www.fatetherapeutics.com. The archived webcast will
+be available on the Company’s website beginning approximately two hours after the event.
+
+About Fate Therapeutics’ iPSC Product Platform
+
+The Company’s proprietary induced pluripotent stem cell (iPSC) product platform enables mass production of off-the-shelf, engineered, homogeneous cell products that are designed to be administered with multiple doses to deliver more effective pharmacologic activity, including in combination with other cancer
+treatments. Human iPSCs possess the unique dual properties of unlimited self-renewal and differentiation potential into all cell types of the body. The Company’s
+first-of-kind approach involves engineering human iPSCs in a one-time genetic modification event and selecting a single
+engineered iPSC for maintenance as a clonal master iPSC line. Analogous to master cell lines used to manufacture biopharmaceutical drug products such as monoclonal antibodies, clonal master iPSC lines are a renewable source for manufacturing cell
+therapy products which are well-defined and uniform in composition, can be mass produced at significant scale in a cost-effective manner, and can be delivered
+off-the-shelf for patient treatment. As a result, the Company’s platform is uniquely designed to overcome numerous limitations associated with the production of
+cell therapies using patient- or donor-sourced cells, which is logistically complex and expensive and is subject to batch-to-batch and
+cell-to-cell variability that can affect clinical safety and efficacy. Fate Therapeutics’ iPSC product platform is supported by an intellectual property portfolio of over 350 issued patents and 150
+pending patent applications.
+
+About FT596
+
+FT596 is an investigational,
+universal, off-the-shelf natural killer (NK) cell cancer immunotherapy derived from a clonal master induced pluripotent stem cell (iPSC) line engineered with three
+anti-tumor functional modalities: a proprietary chimeric antigen receptor (CAR) optimized for NK cell biology that targets B-cell antigen CD19; a novel high-affinity 158V,
+non-cleavable CD16 (hnCD16) Fc receptor, which has been modified to prevent its down-regulation and to enhance its binding to tumor-targeting antibodies; and an IL-15
+receptor
+
+fusion (IL-15RF) that augments NK cell activity. In preclinical studies of FT596, the Company has demonstrated that dual activation of the CAR19 and hnCD16
+targeting receptors enhances cytotoxic activity, indicating that multi-antigen engagement may elicit a deeper and more durable response. Additionally, in a humanized mouse model of lymphoma, FT596 in combination with the anti-CD20 monoclonal
+antibody rituximab showed enhanced killing of tumor cells in vivo as compared to rituximab alone. FT596 is being investigated in a multi-center Phase 1 clinical trial for the treatment of relapsed / refractory
+B-cell lymphoma as a monotherapy and in combination with rituximab, and for the treatment of relapsed / refractory chronic lymphocytic leukemia (CLL) as a monotherapy and in combination with obinutuzumab
+(NCT04245722).
+
+About Fate Therapeutics, Inc.
+
+Fate Therapeutics is a
+clinical-stage biopharmaceutical company dedicated to the development of first-in-class cellular immunotherapies for patients with cancer. The Company has established a
+leadership position in the clinical development and manufacture of universal, off-the-shelf cell products using its proprietary induced pluripotent stem cell (iPSC)
+product platform. The Company’s immuno-oncology pipeline includes off-the-shelf, iPSC-derived natural killer (NK) cell and
+T-cell product candidates, which are designed to synergize with well-established cancer therapies, including immune checkpoint inhibitors and monoclonal antibodies, and to target tumor-associated antigens
+using chimeric antigen receptors (CARs). Fate Therapeutics is headquartered in San Diego, CA. For more information, please visit www.fatetherapeutics.com.
+
+Forward-Looking Statements
+
+This release contains “forward-looking
+statements” within the meaning of the Private Securities Litigation Reform Act of 1995 including statements regarding the safety and therapeutic potential of the Company’s iPSC-derived NK cell product candidates, including FT596,
+its ongoing and planned clinical studies, and the expected clinical development plans for FT596. These and any other forward-looking statements in this release are based on management’s current expectations of future events and are subject to a
+number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to, the risk that
+results observed in studies of its product candidates, including preclinical studies and clinical trials of any of its product candidates, will not be observed in ongoing or future studies involving these product candidates, the risk that the
+Company may cease or delay clinical development of any of its product candidates for a variety of reasons (including requirements that may be imposed by regulatory authorities on the initiation or conduct of clinical trials, the amount and type of
+data to be generated, or otherwise to support regulatory approval, difficulties or delays in subject enrollment and continuation in current and planned clinical trials, difficulties in manufacturing or supplying the Company’s product candidates
+for clinical testing, and any adverse events or other negative results that may be observed during preclinical or clinical development), and the risk that its product candidates may not produce therapeutic benefits or may cause other unanticipated
+adverse effects. For a discussion of other risks and uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the risks and
+uncertainties detailed in the Company’s periodic filings with the Securities and Exchange Commission, including but not limited to the Company’s most recently filed periodic report, and from time to time in the Company’s press
+releases and other investor communications. Fate Therapeutics is providing the information in this release as of this date and does not undertake any obligation to update any forward-looking statements contained in this release as a result of
+new information, future events or otherwise.
+
+Contact:
+
+Christina
+Tartaglia
+
+Stern Investor Relations, Inc.
+
+212.362.1200
+
+christina@sternir.com

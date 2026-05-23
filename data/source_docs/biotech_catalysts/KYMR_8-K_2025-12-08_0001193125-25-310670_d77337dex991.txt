@@ -1,0 +1,293 @@
+EX-99.1
+2
+d77337dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1 KT-621, Oral STAT6 Degrader, Phase 1b Results 1
+
+Agenda Introduction Justine Koenigsberg Vice President, Investor
+Relations Revolutionizing Immunology with Oral Medicines Nello Mainolfi, PhD Founder, President and Chief Executive Officer KT-621 BroADen Phase 1b Data Jared Gollob, MD Chief Medical Officer Closing Remarks Nello Mainolfi, PhD Founder, President
+and Chief Executive Officer Question and Answer Session 2
+
+Forward Looking Statements This presentation contains forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995 and other federal securities laws. These statements include, but are not limited to, implied and express statements about our strategy, business plans and
+objectives for our programs; plans and timelines for the preclinical and clinical development of our product candidates, including the therapeutic potential, clinical benefits and safety profiles of such product candidates; expectations regarding
+timing, success and data announcements of ongoing preclinical studies and clinical trials; our ability to initiate new clinical programs, including plans to submit investigational new drug (IND) applications; our ability to deliver additional
+investigational drugs into the clinic; the initiation, timing, progress and results of our current and future preclinical studies and clinical trials of our current and prospective product candidates; our plans to develop and commercialize our
+current and any future product candidates and the implementation of our business model and strategic plans for our business, current; any future product candidates; our expectations regarding strategy, business plans and objectives on the
+development of KT-621, including the therapeutic potential, clinical benefits and safety thereof, the initiation of the Phase 2b study of KT-621 in patients with asthma in the first quarter of 2026, the effect of initial parallel development of
+Phase 2b studies in AD and asthma patients on acceleration of late parallel development and dose selection across multiple indications, Phase 2b data readout of KT-621 in patients with moderate to severe AD expected by mid-2027; and the preliminary
+cross-study assessments comparing non-head-to-head clinical data of KT-621 to published data for dupilumab, and our financial condition and expected cash runway into the second half of 2028. All statements other than statements of historical facts
+contained in this presentation, including express or implied statements regarding our strategy, future financial condition, future operations, projected costs, prospects, plans, objectives of management and expected market growth, are
+forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as ‘‘anticipate,’’ “upcoming,” ‘‘assume,’’ ‘‘believe,’’
+‘‘could,’’ ‘‘estimate,’’ ‘‘expect,’’ ‘‘goal,’’ ‘‘intend,’’ ‘‘may,’’ “milestones,”
+‘‘objective,’’ ‘‘plan,’’ ‘‘predict,’’ ‘‘potential,’’ ‘‘seek,’’ ‘‘should,’’
+‘‘target,’’ ‘‘will,’’ ‘‘would’’ and other similar expressions that are predictions of or indicate future events and future trends, or the negative of these terms or other
+comparable terminology. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. You should not rely upon
+forward-looking statements as predictions of future events and actual results or events could differ materially from the plans, intentions and expectations disclosed herein. Any forward-looking statements are based on management's current
+expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements including, without
+limitation, risks associated with: the timing and anticipated results of our current and future preclinical studies and clinical trials, supply chain, strategy and future operations; the delay of any current and future preclinical studies or
+clinical trials or the development of our drug candidates; the risk that the results of prior preclinical studies and clinical trials may not be predictive of future results in connection with current or future preclinical studies and clinical
+trials, including those for KT-621; the risk that cross-trial comparisons my not be reliable as no head-to-head trials have been completed KT-621 to dupilumab, and Phase 1 clinical data for KT-621 may not be directly comparable to dupilumab's
+clinical data due to differences in molecule composition, trial protocols, dosing regiments, and patient populations and characteristics. our ability to successfully demonstrate the safety and efficacy of our drug candidates; the timing and outcome
+of any interactions with regulatory authorities; obtaining, maintaining and protecting our intellectual property; our relationships with existing and future collaboration partners; the impacts of current macroeconomic and geopolitical events. In
+addition, any forward-looking statements represent Kymera’s views only as of today and should not be relied upon as representing its views as of any subsequent date. Kymera explicitly disclaims any obligation to update any forward-looking
+statements, except as required by law. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements. As a result of these risks and others, including those set forth in our filings with
+the SEC, actual results could vary significantly from those anticipated in this presentation, and our financial condition and results of operations could be materially adversely affected. Certain information contained in this presentation and
+statements made orally during this presentation relate to or is based on studies, publications, surveys and other data obtained from third-party sources and the Company’s own internal estimates and research. While the Company believes these
+third-party studies, publications, surveys and other data to be reliable as of the date of the presentation, it has not independently verified, and makes no representation as to the adequacy, fairness, accuracy or completeness of, any information
+obtained from third-party sources. In addition, no independent sources have evaluated the reasonableness or accuracy of the Company’s internal estimates or research, and no reliance should be made on any information or statements made in this
+presentation relating to or based on such internal estimates and research. This presentation contains trademarks, trade names and service marks of other companies, which are the property of their respective owners. 3
+
+Revolutionizing Immunology with Oral Medicines Nello Mainolfi, PhD
+Founder, President and CEO 4
+
+Kymera: Revolutionizing Immunology with Oral Medicines • Leader in
+Targeted Protein Degradation (TPD) • Unique target selection strategy pursuing traditionally undrugged targets in highly validated pathways • Best-in-industry capabilities in hit finding and optimization of oral degraders Strategically
+focused on immunology and delivering disruptive oral therapies with biologics-like profiles to transform treatment paradigms 5
+
+Immunology Remains a Large Underserved Market Millions of Patients Do
+Not Have Access to Advanced Systemic Therapies Untreated ~62M (39%) Advanced Therapies >$100B ~160M IN ANNUAL SALES ~5M (3%) PATIENTS FOR ADVANCED DIAGNOSED WITH 2 THERAPIES IMMUNOLOGICAL 1 DISEASES Non-Advanced Therapies ~90M (58%) 6
+
+Advanced Systemic Therapies Are Mostly Injectable Biologics Biologics
+Have Numerous Limitations, Making Orals Preferred by Most Patients >90% • Inconvenient, burdensome, and often painful for patients WOULD SWITCH TO AN ORAL • Immunogenicity risks 1 OPTION • In-office injection training costs HCPs
+valuable time and resources • Expensive to manufacture; cold chain delivery/storage 7
+
+Small Molecule Oral Degraders Can Transform Treatment of Diseases Oral
+Drugs with Biologics-like Activity Unlike Traditional Small Molecule Inhibitors (SMI), Degraders Allow for Continuous, Complete Pathway Blockade PD OF DEGRADERS VS SMI TYPICAL PK OF ORAL DRUGS SMI Suppression (follows exposure) Drug Target/Pathway
+Exposure Suppression Degrader Suppression 100% SMI pharmacology (PD) is correlated to drug exposure (PK); Degraders PD is not correlated to PK and can lead to complete 1 continuous degradation with its catalytic mechanism • Unlocks target
+classes unreachable by other modalities • Achieves full pathway blockade, matching biologics-like depth of immune modulation • High selectivity, strong potency, and catalytic mechanism enable full and constant target suppression with low
+• Potential to deliver the power of biologics in an oral form doses/concentrations 8
+
+STAT6 Transcription Factor, Highly Validated but Undrugged Target STAT6
+• STAT6 is the specific transcription factor in TR A N S C R I P TI O N FA C TO R the IL-4/IL-13 pathway Dupilumab Dupilumab IL-4 IL-4 IL-13 • IL-4/IL-13 pathway is clinically validated by dupilumab across multiple Type 2 allergic
+IL-4Rα γC IL-4Rα IL-13Rα1 and atopic diseases: • AD, asthma, COPD, EoE, CRSwNP, BP, PN, CSU • STAT6 is genetically validated by human GoF and heterozygous LoF alleles STAT6 KT-621 • While several therapies
+target the upstream IL-4/IL-13 receptors, there are no known drugs that selectively target this pathway Allergic Type 2 Inflammation within the cell with oral delivery potential 9
+
+STAT6 Opportunity to Serve Millions of Patients with Type 2
+Inflammation 1 PA T I E N T S DERMATOLOGY AD 43M CSU 4.4M PN 305K BP 166K <2M >140M GASTROENTEROLOGY TREATED WITH TOTAL EoE 1.6M SYSTEMIC ADVANCED POTENTIAL RESPIRATORY 2 1 THERAPIES PATIENT IMPACT Asthma 55M COPD 34M CRSwNP 2.8M An oral STAT6
+degrader has the potential to transform the treatment paradigm for Type 2 diseases and tap into large underserved markets 10
+
+KT-621: Compelling Preclinical Profile Preclinical Package Suggests
+Potential for Dupilumab-like Activity in a Pill Full Inhibition of IL-4/IL-13 Excellent Preclinical Robust Degradation Exquisite Pathways, More Potent Activity Comparable or in Relevant Cell Types Selectivity than Dupilumab Superior to Dupilumab
+Lung Remodeling STAT6 Degradation in IL-4 Induced TARC Release in Goblet Cell Metaplasia Immune Cells Human PBMC 1 in HDM Model 4 2 0 -2 0 2 Log2(Fold-Change) Favorable safety profile: well-tolerated in multiple preclinical species and safety
+studies at concentrations 40-fold above efficacious dose with up to 4 months of dosing 11 -Log10(p-Value)
+
+KT-621: Compelling Clinical Profile KT-621 Phase 1 Healthy Volunteer
+Data Suggests Potential for Dupilumab-like Activity in a Pill Reductions in Multiple Disease-Relevant Robust STAT6 Degradation in Blood and Type 2 Biomarkers Skin Following Low Daily Oral Doses 1 2 Serum TARC with Serum Eotaxin-3 with 100 Blood
+14-Day KT-621 Dosing 14-Day KT-621 Dosing Skin Placebo n=18 50 mg QD n=8 Placebo n=18 50 mg QD n=8 1.5 mg QD n=9 100 mg QD n=9 1.5 mg QD n=9 100 mg QD n=8 50 12.5 mg QD n=7 200 mg QD n=9 12.5 mg QD n=7 200 mg QD n=9 25 mg QD n=8 25 mg QD n=8 20 20 0
+0 0 -20 -50 -20 -40 -60 -40 -100 Placebo 1.5mg QD 12.5mg QD 25mg QD 50mg QD 100mg QD 200mg QD -80 1 4 7 14 28 1 4 7 14 28 18 9 7 9 9 9 9 Blood N ON TREATMENT ON TREATMENT 17 7 7 8 9 9 9 Skin N 3 3 Time (Day) Time (Day) Favorable safety profile:
+well-tolerated across all dose levels with safety profile undifferentiated from placebo 12 STAT6 % Change from Baseline Mean (SE(±) TARC % Change from Baseline Median Eotaxin-3 % Change from Baseline Median
+
+KT-621 Development Plan Enables Efficient Path to Registration Across
+All Type 2 Diseases Ph3 Ph3: AD (Initial), Ph2b AD Dose Dose Ranging EoE, CSU, PN, BP Ongoing Data expected by Mid-2027 Ph1 HV Ph1b AD SAD-MAD Single Arm, Open Label ✓ Today’s Release ✓ Complete Ph3 Dose Ph3: Asthma (Initial),
+Ph2b Asthma Dose Ranging COPD, CRSwNP Anticipated Start 1Q26 Initial parallel Phase 2b trials in moderate to severe AD and asthma have the potential to support subsequent Phase 3 trials across multiple dermatology, GI, and respiratory indications
+13
+
+BroADen KT-621 Phase 1b AD Study Surpassed Objectives Effects on All
+Type 2 Biomarkers and Clinical Endpoints Were in Line with or in Some Cases Numerically Exceeded Published Data for Dupilumab at Week 4 BroADen Endpoints Phase 1b Results Highlights ü Strong fidelity of translation from Phase 1a healthy
+volunteer study to AD patients STAT6 Degradation with deep STAT6 degradation in blood and skin Type 2 Biomarkers ü Robust reductions in Type 2 biomarkers in blood, skin lesions and lung (FeNO) ü Meaningful improvements of clinical
+endpoints and patient-reported outcomes in AD, Clinical Endpoints comorbid asthma and allergic rhinitis ü Well-tolerated and favorable safety profile similar to Phase 1a healthy volunteer Safety study Clinical data continue to support a
+potential dupilumab-like profile in AD and other Type 2 diseases with a once daily, oral drug 14
+
+KT-621: Phase 1b Atopic Dermatitis Trial Results Jared Gollob, MD Chief
+Medical Officer 15
+
+Agenda • Atopic Dermatitis Overview • Trial Design •
+Demographics/Baseline Characteristics • STAT6 Degradation • Type 2 Inflammation Biomarkers • Clinical Endpoints • Safety 16
+
+Atopic Dermatitis: Intensely Pruritic, Chronic and Underserved Disease
+Opportunity Exists to Transform the Treatment Paradigm • Chronic inflammatory disease that causes inflamed and irritated skin, making it itchy and painful • Majority of patients have disease onset as children and carry the disease burden
+into adulthood • Can significantly impact a patient’s quality of life through sleep loss, depression, missed work/school, interference with social activities • Common comorbidities include asthma and allergic rhinitis • Many
+options only address symptoms, not underlying Type 2 inflammation 1 • Estimated 43 million adults in US/EU5/JP • Significant unmet need with less than 1 million patients currently on 2 dupilumab – Eric Simpson, MD, MCR,
+“There remains a clear need for new oral therapies that can address the underlying Frances J. Storrs Medical Dermatology Professor and Director of CLEAR Eczema biology of the disease while potentially offering patients greater
+convenience.” Center, Oregon Health & Science University 17
+
+Design • Single arm, open label • 22 patients • Oral,
+once daily dose for 28 days Phase 1b in Moderate to Severe Atopic Dermatitis Patients • 14-day follow-up after dosing completed Baseline entry criteria: Dosing • Adult, moderate to severe AD patients • Two sequential dose cohorts
+EASI ≥16 • 100 mg (10 patients) vIGA-AD ≥3 • 200 mg (12 patients) PPNRS ≥4 BSA ≥10% • Documented TCS (Topical Corticosteroid) Endpoints failure for AD • Safety • Prior biologics allowed, after
+washout, if • Pharmacokinetics patient has responded to treatment • STAT6 degradation • Type 2 biomarkers in blood, skin lesions and lung • Concurrent medications for AD not permitted • Clinical activity (EASI, PPNRS,
+vIGA-AD, patient- reported outcomes) 18
+
+BroADen Phase 1b Demographics Generally Well-Balanced Across Treatment
+Cohorts 100 mg 200 mg Overall (n=10) (n=12) (n=22) Gender, n (%) Female 6 (60) 7 (58.3) 13 (59.1) Male 4 (40) 5 (41.7) 9 (40.9) 30.1 (8.5) 33.0 (11.4) 31.7 (10.1) Age, years, mean (SD) 2 32.8 (11.5) 30.8 (9.2) 31.7 (10.1) BMI, kg/m , mean (SD)
+Ethnicity, n (%) Hispanic or Latino 3 (30) 2 (16.7) 5 (22.7) Non Hispanic or Latino 7 (70) 10 (83.3) 17 (77.3) Race, n (%) 4 (40) 3 (25) 7 (31.8) White Black or African American 5 (50) 7 (58.3) 12 (54.5) Asian 0 1 (8.3) 1 (4.5) Mixed/Other 1 (10) 1
+(8.3) 2 (9.1) 19
+
+BroADen Phase 1b Baseline Disease Characteristics Generally
+Well-Balanced Across Treatment Cohorts 100 mg 200 mg Overall (n=10) (n=12) (n=22) vIGA-AD, n (%) Moderate (3) 6 (60) 6 (50) 12 (54.5) Severe (4) 4 (40) 6 (50) 10 (45.5) EASI Score, mean (SD) 23.5 (7.5) 26.1 (9) 24.9 (8.3) Other Disease
+Characteristics, Mean (SD) Peak Pruritus NRS 7.4 (1.2) 7.6 (0.9) 7.5 (1) SCORAD 55.7 (15.6) 63.8 (13.4) 60.1 (14.7) BSA (%) 29.1 (9.8) 30.0 (15.1) 29.6 (12.7) Comorbid Type 2 Diseases, n (%) 3 Asthma 1 (10) 3 (25) 4 (18.2) Allergic Rhinitis 2 (20) 7
+(58.3) 9 (40.9) 1 2 Prior Systemic Therapy for AD, n (%) 1 (10) 4 (33.3) 5 (22.7) 20
+
+STAT6 Degradation 21
+
+KT-621 Achieved Deep STAT6 Degradation in Blood Degradation Maintained
+for 28 Days Across Both Dose Cohorts Median % Change from Baseline in STAT6 Method: Flow Cytometry • Median STAT6 degradation of 98% in KT-621 100 mg QD (n = 8) blood in both dose groups after 4 KT-621 200 mg QD (n = 10) weeks of treatment
+• Deep degradation maintained throughout dosing period • Plasma PK profile at 100 and 200 mg similar to healthy volunteer study ON TREATMENT • Strong translation from healthy Time (Day) volunteer study Median % Change from Baseline
+Dose at D29 100 mg -98% 200 mg -98% 22 % STAT6 Change from Baseline Median (Q1, Q3)
+
+KT-621 Achieved Deep STAT6 Degradation in Skin Median % Change from
+Baseline in STAT6 Method: Targeted Mass Spec • Median STAT6 degradation of 94% in skin in both dose groups after 4 weeks of treatment using targeted Mass Spec • Deep skin degradation with multiple patients’ STAT6 levels below the
+LLOQ (lower limit of quantification) • Strong translation from healthy volunteer study KT-621 100 mg QD KT-621 200 mg QD (n = 11) (n = 9) Median % Change from Baseline Dose at D29 100 mg -94% 200 mg -94% 23 % STAT6 Change from Baseline Median
+(Q1, Q3)
+
+Type 2 Biomarkers 24
+
+Disease-Relevant Biomarkers of Type 2 Inflammation Eotaxin-3 TARC
+(CCL17) IgE IL-31 FeNO (CCL26) • TARC drives • Eotaxin-3 drives • IgE activates mast cells and • IL-31 is a key pruritogenic • FeNO (fractional exhaled chemotaxis of CCR4- chemotaxis of CCR3- basophils to release Type 2
+cytokine produced by nitric oxide) reflects expressed T cells to expressed inflammatory cytokines (e.g., IL-4, IL-13) activated Type 2 cells² airway epithelial iNOS inflammatory sites cells (e.g., eosinophils) to activity driven by IL-4/13
+• IL-4 promotes B-cell class • Signals through the IL- inflamed sites signaling and is an • Validated biomarker of switching, amplifying IgE 31RA/OSMR complex on indicator of Type 2 Type 2 inflammation • Highly specific
+production neurons, keratinocytes, airway inflammation in suppression in downstream cytokine of and immune cells, linking 3 asthma • IgE half-life ~3 days, but patients¹ the IL-4/IL-13 pathway¹ immune activation to itch IgE-producing
+cells persist • Baseline FeNO is 1 • Baseline TARC levels • Baseline levels typically longer • Baseline levels typically modulated by IL-4Rα– typically elevated in elevated in AD elevated in AD dependent pathways
+• Baseline IgE levels typically AD elevated in AD • Historically not measured in AD patients 25
+
+Higher Baseline TARC Levels Associated with Greater TARC Reductions
+Across Dupilumab Studies Dupilumab data Median Dupilumab Median Baseline Time of TARC 1 Studies TARC Measurement Median Baseline TARC (pg/mL) % Change 1000 2000 3000 4000 5000 293 -25% 12 weeks EOE POC 0 295 -34% 52 weeks QUEST -20 303 -39% 52 weeks
+SINUS-52 EOE POC QUEST 2 SOLO 1/2 1,937 -74% 4 weeks -40 SINUS-52 CHRONOS 4,030 -89% 52 weeks (Dupilumab + TCS) -60 -80 SOLO 1/2 CHRONOS -100 26 Median % Change from Baseline in Serum TARC
+
+Higher Baseline TARC Levels Associated with Greater TARC Reductions
+Across Dupilumab and KT-621 Studies KT-621 Ph1b AD 100 mg Dupilumab data KT-621 Ph1b AD 200 mg Median Dupilumab & Median Baseline Time of TARC 1,2 KT-621 Studies TARC Measurement Median Baseline TARC (pg/mL) % Change 1000 2000 3000 4000 5000 293
+-25% 12 weeks EOE POC 0 295 -34% 52 weeks QUEST -20 303 -39% 52 weeks SINUS-52 EOE POC QUEST KT-621 868 -48% 4 weeks SINUS-52 -40 100 mg KT-621 100 mg KT-621 KT-621 200 mg 800 -55% 4 weeks -60 200 mg 3 SOLO 1/2 1,937 -74% 4 weeks -80 SOLO 1/2
+CHRONOS 4,030 -89% 52 weeks (Dupilumab + TCS) CHRONOS -100 27 Median % Change from Baseline in Serum TARC
+
+Similar TARC Reductions with KT-621 and Dupilumab When Selecting for
+Similar Baseline TARC Levels KT-621 TARC BL < 1600 pg/mL KT-621 Overall Dupilumab data KT-621 TARC BL ≥ 1600 pg/mL Median Dupilumab & Median Baseline Time of TARC 1,2 KT-621 Studies TARC Measurement Median Baseline TARC (pg/mL) % Change
+1000 2000 3000 4000 5000 293 -25% 12 weeks EOE POC 0 295 -34% 52 weeks QUEST -20 303 -39% 52 weeks SINUS-52 EOE POC QUEST KT-621 701 -38% 4 weeks KT-621 -40 TARC <1600 SINUS-52 KT-621 KT-621 800 -55% 4 weeks -60 Overall 3 KT-621 SOLO 1/2 1,937
+-74% 4 weeks -80 SOLO 1/2 KT-621 2,356 -74% 4 weeks TARC ≥ 1600 CHRONOS -100 CHRONOS 4,030 -89% 52 weeks (Dupilumab + TCS) 1637: Lower bound of the 95% confidence interval for median baseline TARC levels from the dupilumab SOLO1-2 AD studies
+28 Median % Change from Baseline in Serum TARC
+
+KT-621 Achieved Median TARC Reduction of 74% in Patients with TARC
+Levels Comparable to Dupilumab AD Studies Stratified by Baseline TARC Stratified by Median Baseline TARC Stratified by Dose (1600 pg/mL) (800 pg/mL) KT-621 100mg QD (n=10) High BL TARC (n=6) Median 2356 pg/mL High BL TARC (n=11) Median 1877 pg/mL
+KT-621 200mg QD (n=12) Low BL TARC (n=16) Median 701 pg/mL Low BL TARC (n=11) Median 567 pg/mL ON TREATMENT ON TREATMENT ON TREATMENT Time (Day) Time (Day) Time (Day) Median % Change from Baseline Baseline Median % Change from Baseline Median %
+Change from Baseline Baseline TARC Dose at D29 TARC at D29 at D29 ≥ 1600 pg/mL -74% ≥ 800 pg/mL -71% 100 mg -48% < 800 pg/mL -34% < 1600 pg/mL -38% 200 mg -55% • Rapid and robust reduction of TARC across both dose cohorts
+• 74% median TARC reduction similar to dupilumab at week 4 when stratifying for patients with similar baseline TARC levels (lower bound of the 95% confidence interval for median baseline TARC levels from the dupilumab SOLO1-2 AD studies)
+• Even when stratified by BroADen internal median, KT-621 reached dupilumab-like TARC inhibition 29 Median % Change from Baseline in Serum TARC (Q1, Q3) Median % Change from Baseline in Serum TARC (Q1, Q3) Median % Change from Baseline in
+Serum TARC (Q1, Q3)
+
+KT-621 Achieved Median Serum Eotaxin-3 Reduction of up to 73% Median %
+Change from Baseline in Eotaxin-3 KT-621 100 mg QD (n=7) KT-621 200 mg QD (n=11) • Rapid and robust median Eotaxin-3 reduction in both dose groups • Reduction exceeds the dupilumab 52-week results of 51% median reduction in CRSwNP trial
+and 38% 1 in asthma trial ON TREATMENT Time (Day) Dose Median % Change from Baseline at D29 100 mg -62% 200 mg -73% 30 Median % Change from Baseline in Serum Eotaxin-3 (Q1, Q3)
+
+KT-621 Achieved Median Serum IgE Reduction of up to 14% Median % Change
+from Baseline in IgE KT-621 100 mg QD (n=10) KT-621 200 mg QD (n=12) • IgE reduction comparable to dupilumab data in AD studies at 1 week 4 • More robust IgE reduction often necessitates several months of pathway suppression ON TREATMENT
+Time (Day) Dose Median % Change from Baseline at D29 100 mg -5% 200 mg -14% 31 Median % Change from Baseline in Serum Total IgE (Q1, Q3)
+
+KT-621 Achieved Robust Serum IL-31 Reduction of up to 56% Median %
+Change from Baseline in IL-31 KT-621 100 mg QD (n=8) KT-621 200 mg QD (n=8) • Robust reduction of pruritogenic cytokine IL-31 in both dose groups • First known demonstration of IL-31 reduction in blood of AD patients in response to
+IL-4/13 pathway inhibition ON TREATMENT Time (Day) Dose Median % Change from Baseline at D29 100 mg -56% 200 mg -54% 32 Median % Change from Baseline in Serum IL-31 (Q1, Q3)
+
+KT-621 Achieved up to 33% Reduction in FeNO in AD Patients Median %
+Change from Baseline in FeNO 1 KT-621 100 mg QD (n=10) 40 2 KT-621 200 mg QD (n=12) 20 0 -20 • Rapid and robust median FeNO reduction in both dose groups -40 • First known demonstration of FeNO -60 reduction in AD patients -80 ! !# $%
+&' ON TREATMENT Time (Day) Median % Change from Baseline at Dose D29 100 mg -25% 200 mg -33% 33 Median % Change from Baseline in FeNO (Q1, Q3)
+
+Skin Biomarker Changes 34
+
+KT-621 Significantly Downregulated Core Type 2 Inflammation Gene Set in
+Skin Lesions of AD Patients p < 0.01 KT-621 (n=18) 2 Dupilumab (n=23) 1 • Genes in signature : • CCL26/Eotaxin-3 • CCL17/TARC • CCL18/PARC • CCL13/MCP-4 • Changes in transcriptome comparable to 2 published data
+for dupilumab at week 4 1 29 Time (Day) 35 Signature Score
+
+KT-621 Significantly Downregulated AD Disease-relevant Gene Set in Skin
+Lesions of AD Patients p < 0.01 KT-621 (n=18) 2 1 Dupilumab (n=23) • Genes in signature : • CCL26/Eotaxin-3 (Type 2) • CCL17/TARC (Type 2) • CCL18/PARC (Type 2) • CCL13/MCP-4 (Type 2) • CXCL1/GRO-⍺ (Th17)
+• PI3/Peptidase inhibitor 3 (Th17) • KRT16/Keratin 16 (skin hyperplasia) • MMP12 (general inflammation) • POSTN/Periostin (fibrosis) • OSMR/Oncostatin-M receptor (itch) • S100A12 (Th17/Th22) • TSLP •
+Changes in transcriptome comparable to published 2 1 data for dupilumab at week 4 29 Time (Day) 36 Signature Score
+
+Clinical Endpoints 37
+
+KT-621 Achieved 63% Overall Mean Reduction in EASI Mean % Change from
+Baseline in EASI 0 1 KT-621 100 mg QD (n=10) KT-621 200 mg QD (n=12) 1 -20 KT-621 Overall (n=22) • KT-621 achieved rapid and robust mean EASI reduction in both dose -40 cohorts • Reductions seen as early as Day 8 and -60 were similar
+across both dose groups -80 ! !# $$ $% &' ON TREATMENT Time (Day) Dose Mean % Change from Baseline at D29 100 mg -62% 200 mg -63% Overall -63% 38 Mean (±SE) Percent Change from Baseline in EASI Score
+
+KT-621 Achieved Consistent EASI Reduction Across All Patient Subgroups,
+Regardless of Baseline TARC/EASI Mean % Change in EASI: Stratified by Baseline TARC Mean % Change in EASI: Stratified by Baseline EASI 0 0 1 4 BL TARC ≥ 1600 pg/mL (n=6) BL EASI ≥ 22 (n=12) 2 5 BL TARC < 1600 pg/mL (n=16) BL EASI <
+22 (n=10) -20 -20 3 6 Overall (n=22) Overall (n=22) -40 -40 -60 -60 -80 -80 ! !# $$ $% &' ! !# $$ $% &' ON TREATMENT ON TREATMENT Time (Day) Time (Day) Mean % Change from Baseline in EASI Mean % Change from Baseline in EASI Baseline EASI
+Baseline TARC at D29 at D29 ≥ 1600 -65% ≥ 22 -62% < 1600 -62% < 22 -63% Overall -63% Overall -63% 39 Mean (±SE) Percent Change from Baseline in EASI Score Mean (±SE) Percent Change from Baseline in EASI Score
+
+KT-621 Achieved Robust Clinical Improvement Across EASI-50, EASI-75,
+and vIGA-AD 0/1 Measures EASI-50 and EASI-75 vIGA-AD 0/1 Responders 50 100 KT-621 100 mg QD (n=9) KT-621 200 mg QD (n=12) 83% KT-621 Overall (n=21) 80 76% 40 67% 60 30 22% 19% 20 40 17% 33% 29% 25% 10 20 0 0 EASI-50 EASI-75 vIGA-AD 0/1 Day 29 Day 29
+40 Responders (%) Responders (%)
+
+KT-621 Achieved 48% Overall Mean Reduction in SCORAD Mean % Change in
+Total SCORAD To Tot ta al l S SC COR ORA AD D 10 0 1 KT-621 100 mg QD (n=10) • SCORAD is a validated composite -10 KT-621 200 mg QD (n=12) measure of AD severity, integrating 1 KT-621 Overall (n=22) -20 extent, intensity, and patient-reported
+-30 impact -40 -50 • KT-621 achieved rapid and robust mean SCORAD reductions in both dose -60 cohorts -70 ! !# $$ $% &' ON TREATMENT Time (Day) Dose Mean % Change from Baseline at D29 100 mg -52% 200 mg -46% Overall -48% 41 Mean (±SE)
+Percent Change from Baseline in Total SCORAD
+
+KT-621 Achieved Robust and Consistent Reductions in Itch Across
+Independent Clinical Measures Mean % Change in SCORAD Itch Mean % Change in Peak Pruritus NRS 20 20 1 10 KT-621 100 mg QD (n=10) 10 KT-621 100 mg QD (n=10) KT-621 200 mg QD (n=12) KT-621 200 mg QD (n=12) 0 0 1 KT-621 Overall (n=22) KT-621 Overall
+(n=22) -10 -10 -20 -20 -30 -30 -40 -40 -50 -50 -60 -60 -70 -70 ! !# $$ $% &' ! !# $$ $% &' ON TREATMENT ON TREATMENT Time (Day) Time (Day) Mean % Change from Baseline Mean % Change from Baseline Dose Dose at D29 at D29 100 mg -47% 100 mg
+-40% 200 mg -35% 200 mg -47% Overall -40% Overall -44% • KT-621 achieved rapid and robust mean Peak Pruritus NRS and SCORAD-Itch reduction in both dose cohorts 42 Mean (±SE) Percent Change from Baseline in Peak Pruritus NRS Mean
+(±SE) Percent Change from Baseline in SCORAD - Itch
+
+KT-621 Achieved Consistent Reduction of Peak Pruritus NRS Across All
+Patient Subgroups, Regardless of Baseline TARC/EASI Mean % Change in PPNRS: Stratified by Baseline TARC Mean % Change in PPNRS: Stratified by Baseline EASI BL TARC ≥ 1600 pg/mL (n=6) BL EASI ≥ 22 (n=12) BL TARC < 1600 pg/mL (n=16) BL
+EASI < 22 (n=10) 0 0 Overall (n=22) Overall (n=22) -20 -20 -40 -40 -60 -60 ! !# $$ $% &' ! !# $$ $% &' ON TREATMENT ON TREATMENT Time (Day) Time (Day) Mean % Change from Baseline in PPNRS Mean % Change from Baseline in PPNRS Baseline TARC
+Baseline EASI at D29 at D29 ≥ 1600 -42% ≥ 22 -38% < 1600 -40% < 22 -43% Overall -40% Overall -40% 43 Mean (±SE) Percent Change from Baseline in Peak Pruritus NRS Mean (±SE) Percent Change from Baseline in Peak Pruritus
+NRS
+
+KT-621 Achieved 76% Overall Mean Reduction in SCORAD- Sleeplessness
+Mean % Change in SCORAD - Sleeplessness 1 KT-621 100 mg QD (n=9) 20 KT-621 200 mg QD (n=11) 10 1 KT-621 Overall (n=20) 0 -10 • SCORAD-Sleeplessness is a validated -20 measure of AD severity, capturing -30 associated quality-of-life impact -40
+-50 -60 • KT-621 achieved rapid and robust mean -70 SCORAD-Sleeplessness reduction in both -80 dose cohorts -90 -100 ! !# $$ $% &' ON TREATMENT Time (Day) Dose Mean % Change from Baseline at D29 100 mg -72% 200 mg -78% Overall -76% 44 Mean
+(±SE) Percent Change from Baseline in SCORAD - Sleeplessness
+
+KT-621 Achieved Robust Improvement in Patient Quality of Life (POEM)
+Mean Point Change in POEM POEM Responders (Improvement ≥4 Points) 2 KT-621 100 mg QD (n=10) 0 KT-621 200 mg QD (n=12) 100 -2 KT-621 Overall (n=22) -4 MCID 80 75% -6 73% 70% -8 -10 60 -12 -14 40 -16 ! # $% 20 ON TREATMENT Time (Day) 0 Dose Mean
+Point Change from Baseline at D29 POEM Improvement ≥4 at Day 29 100 mg -7 200 mg -11 Overall -9 • POEM is a measure evaluating patient experience and impact on quality of life • Demonstrated improvements are greater than the
+minimum clinically important difference (MCID) 45 Mean (±SE) Change from Baseline in POEM Score (Points) Responders (%)
+
+KT-621 Achieved Robust Improvement in Patient Quality of Life (DLQI)
+Mean Point Change in DLQI DLQI Responders (Improvement ≥ 4 points) 2 KT-621 100 mg QD (n=7) 0 100 KT-621 200 mg QD (n=11) -2 KT-621 Overall (n=18) -4 80 MCID -6 64% 61% -8 57% 60 -10 -12 40 -14 -16 20 ! # $% ON TREATMENT Time (Day) 0 Dose Mean
+Point Change from Baseline at D29 DLQI Improvement ≥4 at Day 29 100 mg -6 200 mg -9 Overall -8 • DLQI is a measure of quality of life validated in AD • Demonstrated improvements are greater than the minimum clinically important
+difference (MCID) 46 Mean (±SE) Change from Baseline in DLQI Score (Points) Responders (%)
+
+Example of Clinical and Biomarker Response to KT-621 in BroADen Patient
+with Severe AD and Prior Dupilumab Treatment Pre and Day 29 Photos for EASI-75 Responder STAT6 Staining IHC Baseline Day 29 Baseline Day 29 1 % Change in EASI and Itch EASI SCORAD ITCH and PPNRS ../+( ()*+,- 0 0 -20 -20 -40 -40 -60 -60 Biomarker
+Changes at D29 -80 -80 Blood Skin Serum Serum Serum Skin Skin -100 -100 STAT6 STAT6 TARC Eotaxin-3 IgE Eotaxin-3 KRT16 ! !# $$ $% &' ! !# AA A% CD Change from ON TREATMENT ON TREATMENT -95% -94% -78% -96% -19% -92% -93% Baseline Time (Day) Time
+(Day) 47 Percent Change from Baseline in EASI Percent Change from Baseline in PPNRS and SCORAD - Itch
+
+KT-621 Achieved Robust Impact on FeNO and ACQ-5 in AD Patients with
+Comorbid Asthma ACQ-5 Responders Median % Change from Baseline in FeNO (n=4) Mean Point Change in ACQ-5 (n=4) (Improvement ≥ 0.5, n=4) 100 0.0 60 40 -0.3 20 -0.6 MCID 0 50 -20 -0.9 -40 -60 -1.2 -80 0 -1.5 -100 29 ! !# $% &' ! # $% ON
+TREATMENT ON TREATMENT Time (Day) Time (Day) Time (Day) 1 • KT-621 achieved 56% median FeNO reduction at Day 29, exceeding dupilumab (31%) in asthma studies at week 4 • All 4 patients had clinically meaningful reduction in ACQ-5 (mean
+change of -1.2 points) and a 100% responder rate 48 Median (Q1, Q3) Percent Change from Baseline in FeNO Mean (±SE) Change from Baseline in ACQ-5 Score (Points) ACQ Responders (%)
+
+KT-621 Achieved Robust Impact on TNSS and RQLQ in AD Patients with
+Comorbid Allergic Rhinitis TNSS Responders Mean Point Change RQLQ Responders Mean Point Change 1 2 2 1 (Improvement ≥ 0.55, n=7) (Improvement ≥ 0.5, n=6) in RQLQ (n=6) in TNSS (n=7) 100 100 0.0 0.0 -0.2 -0.2 -0.4 -0.4 -0.6 -0.6 MCID MCID
+57% -0.8 -0.8 50 50 -1.0 -1.0 -1.2 -1.2 33% -1.4 -1.4 -1.6 -1.6 -1.8 -1.8 -2.0 -2.0 0 0 ! # $% 29 ! # $% 29 ON TREATMENT ON TREATMENT Time (Day) Time (Day) Time (Day) Time (Day) • At Day 29, KT-621 achieved mean changes of –0.9 and -0.8
+points in TNSS and RQLQ, respectively • TNSS and RQLQ responder rates were 57% and 33%, respectively 49 Mean (±SE) Change from Baseline in TNSS Score (Points) TNSS Responders (%) Mean (±SE) Change from Baseline in RQLQ Score (Points)
+RQLQ Responders (%)
+
+KT-621 Demonstrated Robust Improvements Across All Key Clinical
+Efficacy Endpoints Results in Line With or in Some Cases Numerically Exceeded Published Data for Dupilumab at Week 4 KT-621 100 mg QD KT-621 200 mg QD KT-621 Overall Dupilumab 300 mg Q2W 1 Day 29 (n=10) Day 29 (n=12) Day 29 (n=22) D28 Ph3 (n=457)
+Mean % Change in EASI -62% -63% -63% -52% EASI-50 67% 83% 76% 57% EASI-75 33% 25% 29% 28% Mean % Change in PPNRS -47% -35% -40% -33% 2 Mean % Change in SCORAD -46% -48% -52% -41% vIGA-AD 0 and 1 17% 19% 22% 12% Mean % Change in % Body 2 -44% -49%
+-55% -36% Surface Area Mean % Change in SCORAD - -72% -78% -76% NR Sleeplessness Mean % Change in SCORAD - -40% -47% -44% NR Itch POEM Responders 70% 75% 73% 69% at Week 16 DLQI Responders 57% 64% 61% 69% at Week 16 50
+
+Safety 51
+
+KT-621 BroADen Phase 1b Safety Summary • Well-tolerated with
+favorable safety at both 100 mg and 200 mg with a profile similar to what was observed in the Phase 1a healthy volunteer trial • No SAEs or Severe AEs • No dose-dependent pattern in the TEAEs • No related TEAEs or TEAEs leading to
+discontinuation • No AEs of conjunctivitis (or of any ocular disorder), herpes infections, or arthralgias • No clinically relevant changes in vital signs, laboratory tests or ECGs 52
+
+Positive BroADen Phase 1b Data Underscore Significant Potential of KT-
+621 in AD and Other Type 2 Allergic Diseases ü Once-a-day, Oral Dosing of KT-621 Achieved Deep STAT6 Degradation in Blood and Skin with Strong Translation from Healthy Volunteers ü Strong Effect on Disease-relevant Type 2 Inflammation
+Biomarkers Demonstrating IL-4/IL-13 Pathway Inhibition • Dupilumab-like reductions in TARC, Eotaxin-3 and IgE • Reduction of IL-31, key cytokine elevated in AD driving pruritus • Dupilumab-like reductions in core Type 2
+inflammation and AD disease-relevant gene sets in skin lesions • First known demonstration of FeNO reduction in AD patients, providing POC for KT-621 inhibition of Type 2 inflammation in lungs in addition to blood and skin ü Robust
+Clinical Endpoint Impact • Dupilumab-like impact on EASI, SCORAD and multiple measures of pruritus as well as on sleeplessness and quality of life; no rescue therapy required during treatment period • Similar effect of KT-621 in patients
+with low or high baseline EASI/TARC and in patients with or without prior biologics • Early evidence of activity in asthma and allergic rhinitis based on improvement in biomarkers and/or patient-reported outcomes in AD patients with these
+comorbid conditions ü Excellent Tolerability • KT-621 was well tolerated, with safety profile similar to results in the Phase 1a healthy volunteer trial 53
+
+BroADen Phase 1b Summary Nello Mainolfi, PhD Founder, President and CEO
+54
+
+Kymera Completes the Clinical Translation of STAT6 Degradation
+Potential for Study Data “Dupilumab-in-a-pill” Profile Human Genetics STAT6 is a key driver of Type 2 inflammation ✓ KT-621 degraded STAT6 and blocked IL-4/13 Type 2-driven Preclinical ✓ inflammation in vitro/in vivo as
+effectively as dupilumab Phase 1a Healthy KT-621 safely and deeply degraded STAT6, blocking IL-4/13 ✓ Volunteers biomarkers equally or numerically better than dupilumab KT-621 safely and deeply degraded STAT6 and demonstrated meaningful
+improvements on: - Type 2 biomarkers in blood and skin - FeNO in AD and comorbid asthma patients BroADen Phase 1b AD ✓ Patients - Clinical endpoints in patients with AD, comorbid asthma and allergic rhinitis Results in line with or in some
+cases numerically exceeded published data for dupilumab at week 4 KT-621 clinical data continues to support STAT6 degradation as a potentially transformative approach for Type 2-driven inflammatory diseases, with a once-a-day, oral drug
+55
+
+BroADen Phase 1b Data Achieved Objectives and Underscore Significant
+Potential of KT-621 Summary & Upcoming Milestones • KT-621 BroADen AD patient data represent strong translation from Phase 1a healthy volunteer trial results • Results further validate KT-621’s oral, biologics-like profile with
+potential to broaden clinical access for patients and disrupt a biologics-dominated Type 2 market in AD, asthma, and beyond • Study supports continued development, including: • BROADEN2 Phase 2b study in AD (ongoing) • BREADTH
+Phase 2b study in asthma (start 1Q26) 56
+
+Thank You Q&A To ask a question, raise your virtual hand

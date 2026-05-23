@@ -1,0 +1,416 @@
+0000882095
+false
+
+0000882095
+
+2020-10-23
+2020-10-23
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+  
+
+FORM
+8-K
+
+ 
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of Earliest Event
+Reported): October 23, 2020
+
+ 
+
+ 
+
+  
+
+Gilead Sciences, Inc.
+
+(Exact Name of Registrant as Specified
+in its Charter)
+
+ 
+
+Delaware
+
+(State or Other
+
+Jurisdiction
+
+of Incorporation)
+
+0-19731
+
+(Commission File Number)
+
+94-3047598
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+333 Lakeside Drive
+
+Foster City, California
+
+ 
+
+94404
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s telephone number,
+including area code: (650) 574-3000
+
+  
+
+Not Applicable
+
+(Former Name or Former Address, if Changed
+Since Last Report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share
+
+ 
+
+GILD
+
+ 
+
+The Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company  ¨
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 2.01.
+
+Completion of Acquisition or Disposition of Assets.
+
+ 
+
+As previously disclosed, on September 13,
+2020, Gilead Sciences, Inc., a Delaware corporation (“Parent” or “Gilead”), entered
+into an Agreement and Plan of Merger (the “Merger Agreement”), among Parent, Immunomedics, Inc., a
+Delaware corporation (“Immunomedics”), and Maui Merger Sub, Inc., a Delaware corporation and a wholly-owned
+subsidiary of Parent (“Purchaser”). In accordance with the terms of the Merger Agreement, on October 23,
+2020, Gilead completed the acquisition of Immunomedics.
+
+ 
+
+Pursuant to the Merger Agreement, and upon
+the terms and subject to the conditions thereof, on September 24, 2020, Purchaser commenced a tender offer (the “Offer”),
+to purchase all of the issued and outstanding shares (the “Shares”) of common stock, par value $0.01 per share,
+of Immunomedics, other than any Shares held immediately prior to the effective time of the Merger by Immunomedics (or held in Immunomedics’
+treasury) and any Shares held immediately prior to the effective time of the Merger by Parent, Purchaser or any other direct or
+indirect wholly owned subsidiary of Parent, at a price of $88.00 per Share (the “Offer Price”), net to the seller
+in cash, without interest and subject to any required withholding of taxes.
+
+ 
+
+The
+Offer expired at one minute after 11:59 p.m., Eastern Time, on October 22, 2020. According to Computershare Trust
+Company, N.A., the depositary for the Offer, 188,227,162 Shares were validly tendered and not withdrawn in the Offer,
+representing approximately 81.38% of the outstanding Shares (not including 12,451,797 Shares delivered through Notices of
+Guaranteed Delivery, representing approximately 5.38% of the Shares outstanding). The number of Shares tendered satisfied the
+condition to the Offer that there be validly tendered and not validly withdrawn prior to the expiration of the Offer a
+number of Shares that, considered together with all other Shares (if any) beneficially owned by Parent and its affiliates,
+represent one more Share than 50% of the total number of Shares outstanding at the expiration of the Offer (excluding Shares
+tendered by notice of guaranteed delivery that
+have not yet been “received” (as such term is defined in Section 251(h)(6)(f) of the General
+Corporation Law of the State of Delaware (the “DGCL”))).
+All conditions to the Offer having been satisfied or waived, Gilead and Purchaser accepted for payment all Shares validly
+tendered and not validly withdrawn.
+
+ 
+
+Following the consummation of the Offer,
+the remaining conditions to the Merger set forth in the Merger Agreement were satisfied or waived, and on October 23, 2020,
+Purchaser merged with and into Immunomedics pursuant to Section 251(h) of the DGCL, with Immunomedics being the surviving
+corporation (the “Merger”). At the effective time of the Merger, each Share (other than (i) Shares held
+by Immunomedics (or held in Immunomedics’ treasury), (ii) Shares held by Parent, Purchaser, or any other direct or indirect
+wholly owned subsidiary of Parent and (iii) Shares held by stockholders who have properly exercised and perfected their demands
+for appraisal of such Shares in accordance with the DGCL and have neither withdrawn nor lost such rights prior to the effective
+time of the Merger) converted into the right to receive an amount in cash equal to the Offer Price, without interest and subject
+to any required withholding of taxes.
+
+ 
+
+The
+aggregate consideration paid by Gilead to acquire the Shares in the Offer and Merger was approximately $21 billion. Gilead obtained
+the funds necessary to fund the acquisition through (i) proceeds from the borrowings under the Term Loan Facility Credit Agreement
+dated October 23, 2020 among Gilead, as borrower, each lender from time to time party thereto and Barclays Bank PLC, as
+administrative agent, consisting of a $1 billion senior unsecured term loan facility, (ii) proceeds from the offering of senior
+unsecured notes, consisting of $500 million aggregate principal amount of floating rate notes due 2021, $500 million aggregate
+principal amount of floating rate notes due 2023, $2 billion aggregate principal amount of 0.75% senior notes due 2023, $1 billion
+aggregate principal amount of 1.65% senior notes due 2030 and $1 billion aggregate principal amount of 2.60% senior notes due 2040,
+on the terms and conditions previously disclosed in the final prospectus supplement filed by Gilead with the Securities and Exchange
+Commission pursuant to Rule 424(b)(5) on September 25, 2020 and (iii) cash on hand.
+
+ 
+
+The foregoing description of the Merger
+Agreement and the transactions contemplated thereby does not purport to be complete and is qualified in its entirety by reference
+to the Merger Agreement, a copy of which was filed as Exhibit 2.1 to the Current Report on Form 8-K filed by Gilead with the Securities and Exchange Commission on September 14, 2020 and which is incorporated by reference herein.
+
+ 
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+  
+
+On October 23, 2020, Gilead issued
+a press release announcing the completion of the acquisition of Immunomedics, a copy of which is attached as Exhibit 99.1
+to this Current Report on Form 8-K and incorporated by reference herein.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+(a)
+
+Financial Statements of Business Acquired
+
+ 
+
+The financial
+statements of Immunomedics required by this item will be filed by amendment to this Current Report on Form 8-K no later than
+71 calendar days after the date this Current Report on Form 8-K is required to be filed.
+
+ 
+
+(b)
+
+Pro Forma Financial Information
+
+ 
+
+The pro forma
+financial information required by this item will be filed by amendment to this Current Report on Form 8-K no later than 71
+calendar days after the date this Current Report on Form 8-K is required to be filed.
+
+ 
+
+(d)
+
+Exhibits
+
+ 
+
+Exhibit 
+
+Number
+
+ 
+
+Description
+
+2.1*
+
+ 
+
+Agreement and Plan of Merger, dated September 13, 2020, among Immunomedics, Inc., Gilead Sciences, Inc. and Maui Merger Sub, Inc. (incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by Gilead with the Securities and Exchange Commission on September 14, 2020).
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press Release, dated October 23, 2020.
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+ 
+
+*
+
+Schedules omitted pursuant to Item 601(a)(5) of Regulation S-K. Gilead Sciences, Inc. agrees to furnish supplementally
+a copy of any omitted schedule to the SEC upon request.
+
+ 
+
+ 
+
+SIGNATURE
+
+  
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+GILEAD SCIENCES, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Brett A. Pletcher
+
+ 
+
+ 
+
+Name:    Brett A. Pletcher
+
+ 
+
+ 
+
+Title:      Executive Vice President, Corporate
+
+Affairs and General Counsel
+
+ 
+
+Dated: October 23, 2020

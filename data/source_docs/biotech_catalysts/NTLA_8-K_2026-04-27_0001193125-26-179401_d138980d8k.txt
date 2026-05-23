@@ -1,0 +1,361 @@
+8-K
+
+false 0001652130 0001652130 2026-04-27 2026-04-27
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 27, 2026
+
+ 
+
+ 
+
+INTELLIA THERAPEUTICS, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37766
+
+ 
+
+36-4785571
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+40 Erie Street, Suite 130
+
+Cambridge, Massachusetts
+
+ 
+
+02139
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (857) 285-6200
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock (Par Value $0.0001)
+
+ 
+
+NTLA
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On April 27, 2026, Intellia Therapeutics, Inc. (the “Company”) issued a press release titled “Intellia Therapeutics Reports Positive Phase 3 Results in Hereditary Angioedema, Marking a Global First for In Vivo Gene Editing” and presented topline data from the HAELO Phase 3 trial of lonvoguran ziclumeran (“lonvo-z”) for the treatment of hereditary angioedema (“HAE”) in a presentation titled “Phase 3 HAELO Clinical Trial: Topline Data for Lonvo-z.” A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+The information under this Item 7.01, including Exhibits 99.1 and 99.2 hereto, are being furnished herewith and shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+Updates about Lonvo-z for the Treatment of HAE
+
+On April 27, 2026, Intellia announced positive topline results from the global Phase 3 HAELO clinical trial of lonvo-z in HAE. Lonvo-z is an in vivo CRISPR gene editing candidate that is designed as a one-time treatment, administered in an outpatient setting, to inactivate the kallikrein B1 (“KLKB1”) gene to permanently lower kallikrein and bradykinin levels.
+
+HAELO is a randomized, double-blind, placebo-controlled Phase 3 trial designed to evaluate the efficacy and safety of a one-time 50 milligram dose of lonvo-z in adults and adolescents aged 16 years and older with Type I or Type II HAE. Key endpoints of the trial focused on the number of HAE attacks experienced by patients, quality of life, safety and tolerability.
+
+A total of 80 patients were enrolled, with 52 receiving lonvo-z and 28 receiving placebo. Of the total population, 49% of patients were enrolled in the United States and 71% were on long-term prophylaxis (“LTP”) therapy at study entry. Patients on LTP therapy were required to discontinue those therapies in the weeks prior to dosing. After week 28, patients had the option to participate in a blinded crossover to receive lonvo-z, if they previously received placebo, or placebo, if they previously received lonvo-z. As of the data cutoff (February 10, 2026), the median follow-up for enrolled patients is 7.5 months. As of the data cutoff, all patients who received lonvo-z at baseline or in crossover after week 28 remained LTP free.
+
+Key findings from HAELO include:
+
+Efficacy of Lonvo-z
+
+ 
+
+ 
+
+•
+
+ 
+
+The trial met its primary endpoint. For the six-month efficacy evaluation period (weeks 5 to 28), a one-time infusion of lonvo-z reduced attacks by 87% versus placebo, with a mean monthly attack rate of 0.26 in the lonvo-z arm compared with 2.10 in the placebo arm (p<0.0001).
+
+ 
+
+ 
+
+•
+
+ 
+
+The trial met all of its key secondary endpoints with statistical significance (p<0.0001). These included a 62% rate of patients who were entirely attack free and therapy free in the lonvo-z arm for the six-month efficacy evaluation period, compared with 11% of patients in the placebo arm.
+
+ 
+
+ 
+
+•
+
+ 
+
+All patients in the lonvo-z arm experienced a reduction in attack rate from baseline. For the 38% of patients in the lonvo-z arm who were not attack free during the primary observation period, a mean attack rate reduction of 72% was observed.
+
+Safety of Lonvo-z
+
+ 
+
+ 
+
+•
+
+ 
+
+Favorable safety and tolerability data were observed for lonvo-z. The most common treatment emergent adverse events (“TEAEs”) during the primary observation period (infusion through week 28) were infusion-related reactions (“IRRs”), headache and fatigue.
+
+ 
+
+ 
+
+•
+
+ 
+
+All TEAEs reported as of the data cutoff were mild or moderate (Grade 1 or Grade 2) and there were no serious adverse events observed in the lonvo-z arm.
+
+ 
+
+ 
+
+•
+
+ 
+
+All reported IRRs were mild or moderate and were transient.
+
+ 
+
+ 
+
+•
+
+ 
+
+There was no meaningful difference between the lonvo-z and placebo arms in clinical chemistries. A single Grade 2 ALT elevation was observed in the lonvo-z arm that self-resolved in one week.
+
+ 
+
+ 
+
+•
+
+ 
+
+As of the data cutoff, the safety and tolerability data observed in patients participating in the crossover following week 28 was consistent with the safety and tolerability observed during the primary observation period.
+
+Also on April 27, 2026, Intellia announced that it initiated a rolling biologics license application (“BLA”) submission to the U.S. Food and Drug Administration to seek regulatory approval of lonvo-z for the treatment of HAE. Intellia is preparing to complete the BLA filing in the second half of 2026 and for a potential U.S. launch of lonvo-z in the first half of 2027, if approved.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K and certain of the materials furnished or filed herewith contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+These forward-looking statements include, but are not limited to, express or implied statements regarding Intellia’s beliefs and expectations regarding: the success and advancement of its program for lonvoguran ziclumeran or “lonvo-z” (formerly known as NTLA-2002) for the treatment of hereditary angioedema (“HAE”), including its plan to complete the submission of a biologics license application (“BLA”) for lonvo-z in the second half of 2026, its expectations regarding review and approval of that BLA, and its expectations regarding a potential U.S. launch of lonvo-z in the first half of 2027; and the potential of one dose of lonvo-z to offer prolonged freedom from both attacks and the need for ongoing therapy.
+
+Any forward-looking statements in this current report on Form 8-K are based on management’s current expectations and beliefs of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: uncertainties related to the conduct of clinical studies and other development and commercialization requirements for its product candidates, including lonvo-z, including risks related to the ability to develop and successfully commercialize lonvo-z or any of Intellia’s product candidates; risks related to Intellia’s ability to protect and maintain its intellectual property position; risks related to Intellia’s relationship with third parties, including its contract manufacturers, collaborators, licensors and licensees; risks related to the ability of its licensors to protect and maintain their intellectual property position; risks related to the results of preclinical studies or clinical studies not being predictive of future results in connection with future studies; the risk that clinical study results will not be positive; and risks related to the potential delay of planned clinical trials or regulatory filings due to regulatory feedback or other developments. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause Intellia’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in Intellia’s most recent annual report on Form 10-K and quarterly report on Form 10-Q, as well as discussions of potential risks, uncertainties, and other important factors in Intellia’s other filings with the Securities and Exchange Commission. All information in this current report on Form 8-K is as of the date of the report, and Intellia undertakes no duty to update this information unless required by law.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release dated April 27, 2026 titled “Intellia Therapeutics Reports Positive Phase 3 Results in Hereditary Angioedema, Marking a Global First for In Vivo Gene Editing”
+
+99.2
+
+  
+
+Presentation dated April 2026 titled “Phase 3 HAELO Clinical Trial: Topline Data for Lonvo-z”
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Intellia Therapeutics, Inc.
+
+Date: April 27, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ John M. Leonard
+
+ 
+
+ 
+
+Name:
+
+ 
+
+John M. Leonard
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Executive Officer and President

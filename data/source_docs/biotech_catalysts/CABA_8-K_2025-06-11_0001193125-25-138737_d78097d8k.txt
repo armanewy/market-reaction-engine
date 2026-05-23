@@ -1,0 +1,317 @@
+8-K
+
+false 0001759138 0001759138 2025-06-11 2025-06-11
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+June 11, 2025
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+(Exact name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39103
+
+ 
+
+82-1685768
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+2929 Arch Street, Suite 600,
+
+Philadelphia, PA
+
+ 
+
+19104
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(267) 759-3100
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of Each Class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+CABA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.02
+
+Termination of a Material Definitive Agreement.
+
+As previously disclosed, on March 21, 2024, Cabaletta Bio, Inc. (the “Company”) entered into a Sales Agreement (the “Sales Agreement”) with TD Securities (USA) LLC (“TD Cowen”), pursuant to which the Company may sell from time to time, at its option, up to an aggregate of $200,000,000 of shares of the its Common Stock (the “ATM Shares”), through TD Cowen as the Company’s sales agent (the “ATM Program”).
+
+On June 11, 2025, the Company and TD Cowen mutually agreed to terminate the Sales Agreement effective immediately as of June 11, 2025. The Company is not subject to any termination penalties related to the termination of the Sales Agreement. Prior to termination, 2,609,865 of the ATM Shares had been sold for gross proceeds of $7,881,380, and $192,118,620 of the ATM Shares remained available for sale pursuant to the Sales Agreement. As a result of the termination of the Sales Agreement, the Company will not offer or sell any additional shares under the ATM Program.
+
+A copy of the Sales Agreement was filed as Exhibit 1.2 to the Registration Statement on Form S-3 (File No. 333-278126) filed on March 21, 2024. The description of the Sales Agreement contained in this Current Report on Form 8-K does not purport to be complete and is qualified in its entirety by reference to the copy of the Sales Agreement filed as Exhibit 1.2 to the Registration Statement.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure
+
+On June 11, 2025, Cabaletta Bio, Inc. (“Cabaletta” or the “Company”) issued a press release reporting new clinical and translational data from the ongoing RESET-Myositis™, RESET-SLE™ and RESET-SSc™ trials evaluating rese-cel (resecabtagene autoleucel, formerly known as CABA-201) (the “Press Release”). A copy of the Press Release is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed to be “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section and shall not be incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On June 11, 2025, the Company posted to the “Investors & Media” section of the Company’s website at www.cabalettabio.com an updated corporate presentation (the “Corporate Presentation”). A copy of the Corporate Presentation is attached hereto as Exhibit 99.2 to this Current Report on Form 8-K and incorporated herein by reference.
+
+On June 11, 2025, the Company issued the Press Release.
+
+Cabaletta is presenting new clinical and translational data from 18 evaluable patients who were dosed with rese-cel across the RESET-Myositis™, RESET-SLE™ and RESET-SSc™ trials at the EULAR 2025 Congress in three oral presentations. As of the data cut-off dates of May 6, 2025, for the RESET-Myositis and RESET-SSc trials and June 2, 2025, for the RESET-SLE trial, key clinical and translational insights from these patients include:
+
+ 
+
+ 
+
+•
+
+ 
+
+RESET-Myositis: 7 out of 8 patients achieved a clinical response off all immunomodulators, while off or actively tapering steroids. Responses were sustained throughout the follow up period in all responding patients. All 4 antisynthetase syndrome (ASyS) and dermatomyositis (DM) patients achieved a clinically meaningful total improvement score (TIS) response, with 3 of these patients having achieved a major TIS response as of the data cut-off date. Clinically meaningful drug-free responses were observed in 3 of 4 refractory patients with immune-mediated necrotizing myopathy (IMNM), which are consistent with published data. These findings continue to reflect the more modest TIS responses in IMNM compared to other myositis subtypes. Regarding safety, 4 of 8 patients experienced grade 1 CRS (fever), and no Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) was observed.
+
+ 
+
+ 
+
+•
+
+ 
+
+RESET-SLE: 7 out of 7 patients achieved a clinical response off all immunomodulators and glucocorticoids. All non-renal systemic lupus erythematosus (SLE) patients without nephropathy achieved definition of remission in SLE (DORIS) as of the latest follow-up. The first lupus nephritis (LN) patient achieved DORIS and a complete renal response, while follow-up is continuing on the other two LN patients who were treated more recently. In the 8 patients with safety follow-up, 2 of 8 experienced grade 1 CRS (fever) and 1 ICANS event was observed (grade 4, previously reported).
+
+ 
+
+ 
+
+•
+
+ 
+
+RESET-SSc: Both of the patients reported in the severe skin cohort had meaningful modified Rodnan Skin Score (mRSS) improvements after discontinuing immunomodulatory drugs and steroids, which was sustained out to 6 months in the first patient. The first patient also met the revised Composite Response Index in Systemic Sclerosis (CRISS) criteria starting at 3 months, highlighting the potential of rese-cel to provide a drug-free, clinical response in patients with systemic sclerosis (SSc). One patient experienced transient grade 2 CRS and one ICANS event was observed (grade 3, previously reported), in addition to a related serious adverse event (SAE) of neutropenic fever.
+
+ 
+
+ 
+
+•
+
+ 
+
+Rese-cel Translational Profile: Peak rese-cel expansion was observed within approximately two weeks. B cells were rapidly and transiently reduced in peripheral blood within the first month and their repopulation was observed beginning approximately two months after infusion, generally expressing a transitional, naïve phenotype. Tissue-resident B cell depletion was confirmed via a lymph node biopsy in the first systemic sclerosis patient.
+
+ 
+
+•
+
+ 
+
+In 18 patients with follow-up of 4 weeks or more, 94% had either no cytokine release syndrome (CRS) or Grade 1 CRS (transient fever) and 89% had no ICANS (2 patients with ICANS events previously reported).
+
+RESET™ clinical trial program enrollment continuing to accelerate, with 51 patients now actively enrolled and 24 patients dosed across industry leading US clinical site network as of May 30, 2025.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+99.1
+
+  
+
+Press Release issued by the registrant on June 11, 2025, furnished herewith.
+
+99.2
+
+  
+
+Corporate Presentation, dated June 11, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL Document).
+
+ 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+Date: June 11, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Steven Nichtberger
+
+ 
+
+ 
+
+ 
+
+Steven Nichtberger, M.D.
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

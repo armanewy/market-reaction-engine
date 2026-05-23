@@ -1,0 +1,124 @@
+EX-99.1
+2
+d176173dex991.htm
+EX-99.1
+
+EX-99.1
+
+Vir Biotechnology, Inc. EASL ILC 2021
+Hepatitis B Data Call A WORLD WITHOUT INFECTIOUS DISEASE June 25, 2021 Exhibit 99.1
+
+Legal Disclaimers © 2021 Vir
+Biotechnology, Inc. Forward-Looking Statements Statements in this presentation that are not statements of historical fact are forward-looking statements. Such forward-looking statements include, without limitation, statements regarding the expected
+success, cost, and timing of our research and clinical development plans and clinical trials, our goals with respect to the prophylaxis or treatment of COVID-19, HBV, influenza A and HIV, our objectives, strategy, technology platform and clinical
+trial designs, the potential benefits of our collaborations, and our ability to complete certain milestones. Words such as “believe,” “anticipate,” “plan,” “expect,” “intend,”
+“will,” “may,” “goal,” “potential” and similar expressions are intended to identify forward-looking statements, though not all forward-looking statements necessarily contain these identifying words.
+These forward-looking statements are based on the beliefs of the management of Vir Biotechnology, Inc. (the “Company”) as well as assumptions made by and information currently available to the Company. Such statements reflect the current
+views of the Company with respect to future events and are subject to known and unknown risks, including business, regulatory, economic and competitive risks, uncertainties, contingencies and assumptions about the Company, including, without
+limitation, risks inherent in developing the Company’s products and technologies, future results from the Company’s ongoing and planned clinical trials such as unexpected data or clinical site activation rates or clinical trial
+enrollment rates that are lower than expected, difficulties arising from our collaborations, challenges in accessing adequate manufacturing capacity, the Company’s ability to obtain adequate financing to fund its planned clinical trials and
+other expenses, statements related to regulatory authorizations and approvals, trends in the industry, changes in the competitive landscape, delays or disruptions due to the COVID-19 pandemic, the legal and regulatory framework for the industry,
+unexpected litigation or disputes and future expenditures. In light of these risks and uncertainties, the events or circumstances referred to in the forward-looking statements may not occur. The actual results may vary from the anticipated results
+and the variations may be material. Other factors that may cause the Company’s actual results to differ from current expectations are discussed in the Company’s filings with the U.S. Securities and Exchange Commission, including the
+section titled “Risk Factors” contained therein. These forward-looking statements should not be taken as forecasts or promises nor should they be taken as implying any indication, assurance or guarantee that the assumptions on which such
+forward-looking statements have been made are correct or exhaustive or, in the case of the assumptions, fully stated in this presentation. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the
+date this presentation is given. Except as required by law, the Company undertakes no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise. The Company claims the protection
+of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995 for all forward-looking statements.   This presentation discusses product candidates that are under clinical study and which
+have not yet been approved for marketing by the U.S. Food and Drug Administration. No representation is made as to the safety or effectiveness of these product candidates for the use for which such product candidates are being studied. The
+trademarks included herein are the property of the owners thereof and are used for reference purposes only. Such use should not be construed as an endorsement of such products.
+
+Disease Area Product Candidate
+Treatment/ Prophylaxis Pre-clinical Phase 1 Phase 2 Phase 3 Authorized Collaborator COVID-19 Sotrovimab* Treatment Sotrovimab + bamlanivimab Treatment Sotrovimab* Prophylaxis VIR-7832 Treatment HBV VIR-2218 Treatment VIR-2218 + PEG-IFN-⍺
+Treatment VIR-3434 Treatment VIR-2218 + VIR-3434 Treatment VIR-2218 + TLR81 + PD-12 Treatment VIR-2218 + BRII-179 Treatment Influenza A VIR-2482 Prophylaxis HIV VIR-1111** Prophylaxis siRNA T cell Antibody Vir Clinical Development Pipeline Planned
+2H:2021 start Planned 2H:2021 start *Sotrovimab (VIR-7831) IV formulation used in Phase 3 COMET-ICE trial; IM formulation currently in Phase 2 COMET-PEAK and COMET-TAIL trials, and pending in prophylaxis trial **Vaccine designed to establish proof
+of concept in Phase (Ph) 1 clinical trial to determine whether unique immune response observed in non-human primates can be replicated in humans; ultimately, any candidates we advance as a potential HIV vaccine will require modifications to VIR-1111
+before further clinical development. 1: GS-9688 2: nivolumab †In the U.S., EUA received on 5/26/2021. In the EU, EMA positive opinion under Article 5(3) received on 5/21/2021. © 2021 Vir Biotechnology, Inc. U.S., EU†
+
+Chronic HBV: Our Approach to Functional
+Cure We believe that chronic HBV (CHB) is a viral disease resulting in immune dysfunction We believe that chronic HBV infection results in immune dysfunction via the expression of a large amount of HBV antigens, which act to suppress the immune
+system We believe a functional cure for CHB results from regaining immunologic control We hypothesize that knocking down HBV antigens will remove the block on the immune system, and in the setting of an immune modulator, result in immune control
+© 2021 Vir Biotechnology, Inc.
+
+Chronic HBV: HBV T cells become
+dysfunctional in infected mice Isogawa M, et al. PLoS Pathog 2013; 9(7):e1003490 © 2021 Vir Biotechnology, Inc. Transgenic HBV mouse Core-only expressing mouse HBV T cell HBV T cell
+
+Chronic HBV: Reversal of Functional
+Cure Via Immunosuppression Seto W, et al. J Clin Oncol 2014; 32(33): 3736-43 © 2021 Vir Biotechnology, Inc. functionally cured patient (HbsAg < LLOQ) rituximab-containing chemotherapy + =
+
+Vir’s Broad HBV Functional Cure
+Portfolio © 2021 Vir Biotechnology, Inc. VIR-2218 Phase 2 Data Potential Best-In-Class siRNA as “backbone” of therapy Substantial, Durable, and Dose Dependent Reduction of HBsAg through 48 weeks1 Ongoing / Planned Combination Trials
+Currently in Phase 2 PEG-IFN-⍺ Start Phase 2 trial in 2H:2021 VIR-3434 mAb Start Phase 2 trial in 2H:2021 GS-9688 TLR-8 agonist nivolumab PD-1 antagonist Currently in Phase 2 BRII-179 T cell vaccine Note: current and planned trials are/will be
+conducted in patients with chronic HBV on nucleotide/nucleoside reverse transcriptase inhibitors (NRTIs), which are standard of care treatment PEG-IFN: pegylated interferon alfa 1. Gane E, et al. Oral presentation at: The International Liver
+Congress – EASL; June 25, 2021; Virtual. Mean Change in Log10 HBsAg (IU/mL) Placebo 20 mg 50 mg 100 mg 200 mg Week
+
+A Phase 1 study evaluating the
+neutralizing, vaccinal monoclonal antibody VIR-3434 in participants with chronic hepatitis B virus infection Safety and antiviral activity of VIR-2218, an X-targeting RNAi therapeutic, in participants with chronic hepatitis B infection: week 48
+follow-up results Preliminary on-treatment data from a Phase 2 study evaluating VIR-2218 in combination with pegylated interferon alfa-2a in participants with chronic hepatitis B infection Preliminary pharmacokinetics and safety in healthy
+volunteers of VIR-3434, a monoclonal antibody for the treatment of chronic hepatitis B infection EASL ILC 2021: Vir Abstracts © 2021 Vir Biotechnology, Inc. PRESENTER Dr. Kosh Agarwal PRESENTER Prof. Edward Gane PRESENTER Prof. Dr. Man-Fung
+Yuen PRESENTER Dr. Sneha V. Gupta Oral Oral Poster Poster © 2021 Vir Biotechnology, Inc.
+
+VIR-2218 20 mg Week HBsAg (IU/mL)
+VIR-2218 100 mg VIR-2218 50 mg VIR-2218 200 mg 10000 1000 10 100 10000 1000 10 100 0 4 8 12 16 20 24 28 32 36 40 44 48 0 4 8 12 16 20 24 28 32 36 40 44 48 Higher VIR-2218 Dose Levels Associated With a More Sustained Response through Week 48 With
+only 2 doses, at Week 0 and Week 4, four subjects achieved a sustained response through Week 48 In combination studies, VIR is exploring 3-6 doses of VIR-2218 Diversity of response being explored through immune biomarkers and biopsy/FNA study All
+participants on nucleos(t)ide reverse transcriptase inhibitors (NRTI) therapy HBsAg reduction < 1-log > 1-log Non-sustained > 1-log Sustained © 2021 Vir Biotechnology, Inc.
+
+ESC+ Decreases Off-target Activity
+Enhanced stabilization chemistry plus (ESC+)* decreases off-target seed-mediated binding while maintaining on-target activity and is hypothesized to improve the hepatic safety profile. MRNA, microRNA; siRNA, small interfering RNA; UTR, untranslated
+region 1. Janas MM, et al. Nature Commun 2018;9:723; 2. Schlegel MK, et al. J Am Chem Soc 2017;139:8537-46. *Alnylam Pharmaceuticals, Inc. technology © 2021 Vir Biotechnology, Inc. 1,2 1,2
+
+200 150 100 50 0 VIR-2218 20 mg Week
+Alanine Aminotransferase (U/L) HBeAg- HBeAg+ 200 150 100 50 0 0 4 8 12 16 20 24 28 32 36 40 44 48 VIR-2218 100 mg VIR-2218 50 mg 0 4 8 12 16 20 24 28 32 36 40 44 48 VIR-2218 200 mg No Dose-Dependent Changes in Post-Treatment ALT Levels through Week
+48 No grade >1 ALT elevations*; no bilirubin >ULN No clinically relevant changes or trends in other lab parameters, vital signs, or ECGs All participants on nucleos(t)ide reverse transcriptase inhibitors (NRTI) therapy ALT, alanine
+transaminase; CTCAE, common terminology criteria for adverse events; ECG, electrocardiogram; ULN, upper limit of normal *Grade based on CTCAE v5.0 © 2021 Vir Biotechnology, Inc.
+
+VIR-2218 With and Without
+PEG-IFNα Open-label study to evaluate the safety and antiviral activity of VIR-2218 alone or in combination with PEG-IFNα in non-cirrhotic, HBeAg-negative and positive adults with chronic HBV infection on NRTI therapy Participants will be
+followed for safety and antiviral endpoints for a minimum of 24 to 48 weeks after treatment; NRTI therapy may be discontinued if the pre-specified criteria are met to assess if functional cure is achieved The study is ongoing; preliminary safety and
+HBsAg through Week 12 are presented All participants on nucleos(t)ide reverse transcriptase inhibitors (NRTI) therapy HBsAg, hepatitis B surface antigen; NRTI, nucleos(t)ide reverse transcriptase inhibitors; PEG-IFNα, pegylated interferon alfa;
+SC, subcutaneous © 2021 Vir Biotechnology, Inc.
+
+VIR-2218 with Pegylated Interferon
+Alfa-2a Mediated HBsAg Decreases from Baseline All participants on nucleos(t)ide reverse transcriptase inhibitors (NRTI) therapy. Study is ongoing, N values at each timepoint per cohort are indicated below the graph HBsAg, hepatitis B surface
+antigen; PEG-IFNα, pegylated interferon alfa 1. Marcellin P, et al. Gastroenterology. 2016;150(1):134-144; 2. Bourlière M, et al. Lancet Gastroenterol Hepatol. 2017;2(3):177-188; 3. Chi H, et al. J Infect Dis. 2017;215(7):1085-1093; 4.
+Farag MS, et al. Oral presentation at: The Liver Meeting of The American Association for the Study of Liver Diseases; November 11, 2019; Boston, MA, USA. © 2021 Vir Biotechnology, Inc. Co-administration of VIR-2218 with PEG-IFNα (Cohort 3)
+resulted in a more rapid and substantial HBsAg decline compared to VIR-2218 alone The mean HBsAg reduction in Cohort 3 was 0.6 log10 IU/mL greater than in Cohorts 1 and 2 at Week 12 In published studies, PEG-IFNα alone in virally suppressed
+patients was associated with ≤ 0.25 log10 IU/mL HBsAg decline, on average, over the first 12 weeks 1,2,3,4 Additional follow-up in Cohort 2 will provide insight into the antiviral effects of the combination when PEG-IFNα is administered
+following a 12-week lead-in period of VIR-2218 0.6 log
+
+Early On-Treatment Data “We
+hypothesize that knocking down HBV antigens will remove the block on the immune system, and in the setting of an immune modulator, result in immune control” We believe that this VIR-2218+ PEG-IFNα data suggests that treatment with an
+siRNA could help unlock the potential of immunomodulators © 2021 Vir Biotechnology, Inc.
+
+© 2021 Vir Biotechnology, Inc.
+VIR-3434: An Engineered Human Antibody Against HBsAg with Multiple Potential Mechanisms of Action cccDNA, covalently closed circular DNA; intDNA, integrated DNA; SVPs, subviral particles; HBsAg, hepatitis B surface antigen; PEG-IFNα, pegylated
+interferon alfa VIR-3434 incorporates Xencor’s XtendTM and other Fc technologies cccDNA intDNA Viral RNA Proteins DNA HBV Hepatocyte Virion SVPs Cross-presentation to and stimulation of T cells (vaccinal effect) 2 Clearance of HBsAg and
+delivery to dendritic cells 3 Inhibition of viral entry 1
+
+VIR-3434-1002 Phase 1 Design In Part
+B, 8 participants per cohort were randomized 6:2 to receive a single dose of VIR-3434 or placebo by SC injection Blinded preliminary safety, tolerability, and HBsAg data up to 4 weeks post-dose are presented for Part B cohorts evaluating low doses
+of 6 mg and 18 mg All participants on nucleos(t)ide reverse transcriptase inhibitors (NRTI) therapy for ≥ 2 months 1. Cohort 1b (6 mg SC) enrolled participants with HBsAg < 1,000 IU/mL HBsAg, hepatitis B surface antigen; IV, intravenous;
+SC, subcutaneous, cccDNA, covalently closed ≤ 300 mg SC n=8 18 mg SC n=8 75 mg SC n=8 ≤ 900 mg SC n=8 (x 3 optional cohorts) 900 mg SC n=8 90 mg SC n=8 300 mg SC n=8 Part B SAD Virally Suppressed HBsAg <3,000 IU/mL1  6 mg SC1 n=8
+Part A SAD Healthy Volunteers 3,000 mg IV n=8 900 mg IV n=8 ≤ 900 mg SC n=8 ≤ 900 mg SC n=8 Part C SAD Virally Suppressed Any HBsAg 18 mg SC n=8 Ongoing Complete Planned © 2021 Vir Biotechnology, Inc.
+
+Preliminary PK of VIR-3434 After
+Single SC or IV Dose in Healthy Volunteers VIR-3434 was generally well tolerated in healthy volunteers following single doses of up to 3000 mg; AEs were generally mild, and no AEs led to study discontinuation The bioavailability and half-life
+following SC administration of VIR-3434 is estimated to be 76% and 25 days respectively Favorable PK properties of SC VIR-3434 and safety profile are supportive of continued development for the treatment of chronic HBV infection All participants on
+nucleos(t)ide reverse transcriptase inhibitors (NRTI) therapy *Includes a replacement subject HBsAg, hepatitis B surface antigen; IV, intravenous; SC, subcutaneous; AE, adverse event; SAE, serious adverse event © 2021 Vir Biotechnology, Inc.
+The most common reported AE across all groups was headache, which was observed in 10/41 (24.4%) participants Injection site reactions were reported in 6/41 (14.6%) participants, and all were grade 1 in severity except for a grade 2 AE of injection
+site erythema which resolved without intervention No grade 3/4 AEs, SAEs, or AEs leading to study discontinuation were observed No clinically significant laboratory abnormalities were observed Subjects with > 1 AE, n (%) VIR-3434 or Placebo 90mg
+SC n=9* 300 mg SC n=8 900 mg SC n=8 900 mg IV n=8 3000 mg IV n=8 Grade 1 5 (55.6) 5 (62.5) 7 (87.5) 5 (62.5) 3 (37.5) Grade 2 0 1 (12.5) 0 0 1 (12.5) Grade >3 0 0 0 0 0 Serious AE 0 0 0 0 0 AE leading to study discontinuation 0 0 0 0 0
+Preliminary VIR-3434 Serum Concentration Profiles Following Single Subcutaneous or Intravenous Dose in Healthy Volunteers
+
+VIR-3434 Mediated HBsAg Decreases
+from Baseline Most participants rapidly achieved ≥ 1 log10 IU/mL decline in HBsAg The largest reductions in HBsAg were in the 18 mg cohort, who also had higher baseline HBsAg levels Full analysis of VIR-3434 PK and HBsAg:VIR-3434 complex
+disposition is ongoing All participants on nucleos(t)ide reverse transcriptase inhibitors (NRTI) therapy HBsAg measured with Abbott ARCHITECT® © 2021 Vir Biotechnology, Inc. 1 2 Days HBsAg Change from Baseline, log10 IU/mL VIR-3434 6 mg or
+Placebo VIR-3434 18 mg or Placebo 1 Free VIR-3434 was undetectable in all available samples 2 Free VIR-3434 concentrations were lower than anticipated in all available samples
+
+VIR-3434 Next Steps Higher single
+doses of VIR-3434 are being evaluated Patients with higher baseline HbsAg are being evaluated NRTI-naïve patients will be evaluated Multiple and higher doses of VIR-3434 will be evaluated in combination with VIR-2218 in the MARCH trial MARCH,
+Monoclonal Antibody siRNA Combination against Hepatitis B © 2021 Vir Biotechnology, Inc.
+
+2H:2021 Anticipated Catalysts ©
+2021 Vir Biotechnology, Inc. COVID-19 HBV HIV Sotrovimab (mAb) BLA (Early Treatment, COMET-ICE, IV) File Sotrovimab (mAb) EMA rolling review (Early Treatment, COMET-ICE, IV) Complete Sotrovimab (mAb) Phase 2 (Early Treatment, COMET-PEAK, IM) Data
+VIR-7832 (mAb) Phase 1b (Early Treatment, AGILE, IV) Data VIR-2218 (siRNA) + VIR-3434 (mAb) Phase 2 Start VIR-2218 (siRNA) + GS-9688 + nivolumab Phase 2 Start VIR-3434 (mAb) Phase 1 additional clinical data Data VIR-2218 (siRNA) + PEG-IFN-⍺
+Phase 2 additional clinical data Data VIR-1111 (T cell) Phase 1 Data

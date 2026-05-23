@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+xmlns="http://www.xbrl.org/2003/instance"
+xmlns:dei="http://xbrl.sec.gov/dei/2024"
+xmlns:link="http://www.xbrl.org/2003/linkbase"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<link:schemaRef xlink:href="rgnx-20250303.xsd" xlink:type="simple"/>
+<context id="duration_2025-03-03_to_2025-03-03">
+<entity>
+<identifier scheme="http://www.sec.gov/CIK">0001590877</identifier>
+</entity>
+<period>
+<startDate>2025-03-03</startDate>
+<endDate>2025-03-03</endDate>
+</period>
+</context>
+<dei:AmendmentFlag contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-261">false</dei:AmendmentFlag>
+<dei:EntityCentralIndexKey
+contextRef="duration_2025-03-03_to_2025-03-03"
+id="Hidden_dei_EntityCentralIndexKey">0001590877</dei:EntityCentralIndexKey>
+<dei:DocumentType contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-272">8-K</dei:DocumentType>
+<dei:DocumentPeriodEndDate contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-273">2025-03-03</dei:DocumentPeriodEndDate>
+<dei:EntityRegistrantName contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-274">REGENXBIO Inc.</dei:EntityRegistrantName>
+<dei:EntityIncorporationStateCountryCode contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-275">DE</dei:EntityIncorporationStateCountryCode>
+<dei:EntityFileNumber contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-276">001-37553</dei:EntityFileNumber>
+<dei:EntityTaxIdentificationNumber contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-277">47-1851754</dei:EntityTaxIdentificationNumber>
+<dei:EntityAddressAddressLine1 contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-278">9804 Medical Center Drive</dei:EntityAddressAddressLine1>
+<dei:EntityAddressCityOrTown contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-279">Rockville</dei:EntityAddressCityOrTown>
+<dei:EntityAddressStateOrProvince contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-280">MD</dei:EntityAddressStateOrProvince>
+<dei:EntityAddressPostalZipCode contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-281">20850</dei:EntityAddressPostalZipCode>
+<dei:CityAreaCode contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-282">(240)</dei:CityAreaCode>
+<dei:LocalPhoneNumber contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-283">552-8181</dei:LocalPhoneNumber>
+<dei:WrittenCommunications contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-284">false</dei:WrittenCommunications>
+<dei:SolicitingMaterial contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-285">false</dei:SolicitingMaterial>
+<dei:PreCommencementTenderOffer contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-286">false</dei:PreCommencementTenderOffer>
+<dei:PreCommencementIssuerTenderOffer contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-287">false</dei:PreCommencementIssuerTenderOffer>
+<dei:Security12bTitle contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-288">Common Stock, par value $0.0001 per share</dei:Security12bTitle>
+<dei:TradingSymbol contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-289">RGNX</dei:TradingSymbol>
+<dei:SecurityExchangeName contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-290">NASDAQ</dei:SecurityExchangeName>
+<dei:EntityEmergingGrowthCompany contextRef="duration_2025-03-03_to_2025-03-03" id="ixv-291">false</dei:EntityEmergingGrowthCompany>
+</xbrl>

@@ -1,0 +1,341 @@
+8-K
+
+false000088674400008867442024-11-012024-11-01
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+___________
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported): November 1, 2024
+
+ 
+
+GERON CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+Delaware
+
+000-20859
+
+75-2287752
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+ 
+
+919 E. HILLSDALE BLVD., SUITE 250
+
+FOSTER CITY, CALIFORNIA 94404
+
+ 
+
+(Address of principal executive offices, including zip code)
+
+ 
+
+(650) 473-7700
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+GERN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+1
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+ 
+
+Pharmakon Loan Agreement
+
+On November 1, 2024, Geron Corporation (“we” or the “Company”) entered into a loan agreement (the “Loan Agreement”) with BioPharma Credit Investments V (Master) LP and BPCR Limited Partnership (each, a “Lender”), which are investment funds managed by Pharmakon Advisors, LP, and BioPharma Credit PLC, as collateral agent, which provides for a 5-year senior secured term loan facility of up to $250.0 million, divided into three committed tranches: (i) a Tranche A Loan in an aggregate principal amount of $125.0 million (the “Tranche A Loan”) which was funded on November 1, 2024 (the “Tranche A Closing Date”); (ii) a Tranche B Loan in an aggregate principal amount of $75.0 million (the “Tranche B Loan”) which is available, subject to certain limited conditions, at the Company’s option; and (iii) a Tranche C Loan in an aggregate principal amount of $50.0 million (the “Tranche C Loan”, and together with the Tranche A Loan and the Tranche B Loan, collectively, the “Term Loans”) which is available to the Company upon reaching a specified trailing twelve-month RYTELO™ revenue milestone. The Tranche B Loan and the Tranche C Loan, once available, may be requested on or prior to December 31, 2025. A portion of the proceeds from the Tranche A Loan were used to repay, in full, all amounts owed ($86.5 million) under the Company’s existing loan and security agreement, dated as of September 30, 2020, as amended, with Hercules Capital, Inc. and Silicon Valley Bank, a Division of First-Citizens Bank & Trust Company, which was terminated effective November 1, 2024. The remaining proceeds will be used to fund the Company’s general corporate and working capital requirements.
+
+ 
+
+The Term Loans mature on November 1, 2029 (the "Maturity Date"). The Term Loans bear interest at a variable rate per annum equal to 5.75% plus three-month Secured Overnight Financing Rate (“SOFR”) with a SOFR floor of 3.00%. As of inception of the Tranche A Loan, the interest rate applicable to the Tranche A Loan was 10.32%. Interest is due and payable quarterly on the last day of each quarter with the first payment due on December 31, 2024. The Loan Agreement requires we pay an amount equal to 2.50% of the Lenders’ total committed amount to fund the Term Loans, payable with respect to each Term Loan on the funding date of such Term Loan.
+
+ 
+
+We may elect to prepay the Term Loans in part or in whole prior to the Maturity Date with such prepayments being subject to a prepayment premium equal to the principal amount so prepaid multiplied by 3% if made prior to the 3rd anniversary of the funding date of the applicable Term Loan, 2% if made on or after the 3rd anniversary of the funding date of the applicable Term Loan but prior to the 4th anniversary of the funding date of the applicable Term Loan, and 1% if made on or after the 4th anniversary of the funding date of the applicable Term Loan but prior to the Maturity Date. In addition to the prepayment premium, prepayments of any Term Loan prior to the 2nd anniversary of the funding date of such Term Loan are subject to a makewhole amount equal to the sum of all interest that would have accrued through such 2nd anniversary.
+
+ 
+
+Our obligations under the Loan Agreement are secured by substantially all of our assets, including our intellectual property. Certain of our subsidiaries may, from time to time after the Tranche A Closing Date, be required to guarantee our obligations under the Loan Agreement and, in connection with such guarantee, pledge substantially all of their assets, including intellectual property, to secure such guarantee.
+
+ 
+
+The Loan Agreement contains customary affirmative and restrictive covenants and representations and warranties. We and our subsidiaries are bound by certain affirmative covenants setting forth actions that are required during the term of the Loan Agreement, including, without limitation, certain information delivery requirements, obligations to maintain certain insurance, and certain notice requirements. There are no financial covenants. Additionally, we and our subsidiaries are bound by certain restrictive covenants setting forth actions that are not permitted to be taken during the term of the Loan Agreement, including, without limitation, (i) selling or disposing of assets, (ii) amending, modifying or waiving our rights under material agreements, (iii) consummating change in control transactions unless all amounts becoming due under the Loan Agreement are paid in full immediately upon (and concurrent with) the consummation of any such change in control transaction, (iv) incurring additional indebtedness, (v) incurring non-permitted liens or encumbrance on our or our subsidiaries’ assets, (vi) paying dividends or making any distribution or payment on or redeeming, retiring or purchasing any equity interests, and (vii) making payments on subordinated indebtedness, in each case, subject to specified
+
+2
+
+exceptions. The Loan Agreement also contains the following events of default: (i) failure to pay principal, interest and other amounts when due, (ii) the breach of the covenants under the Loan Agreement, (iii) the occurrence of a material adverse change or a withdrawal event in respect of RYTELO, (iv) certain attachments of the credit parties assets and restraints on their business, (v) certain insolvency, liquidation, bankruptcy or similar events, (vi) certain cross-default of third-party indebtedness and royalty revenue contracts, (vii) the failure to pay certain judgements, (viii) material misrepresentations, (ix) the loan documents ceasing to create a valid security interest in a material portion of the collateral, (x) the occurrence of certain ERISA events and (xi) the occurrence of a default under any subordination or intercreditor agreement, in each case subject to the grace periods, cure period and thresholds as specified in the Loan Agreement. Upon the occurrence of an event of default, the Lenders may, among other things, accelerate the Company’s obligations under the Loan Agreement (including all obligations for principal, interest and any applicable makewhole and prepayment premiums); provided that upon an event of default relating to certain insolvency, liquidation, bankruptcy or similar events, all outstanding obligations will be immediately accelerated.
+
+ 
+
+Royalty Pharma Revenue Participation Right Purchase Agreement
+
+On November 1, 2024, we entered into a revenue participation right purchase and sale agreement (the “Royalty Pharma Agreement”) with Royalty Pharma Development Funding, LLC (“Royalty Pharma”).
+
+ 
+
+Pursuant to the Royalty Pharma Agreement, we received an upfront payment of $125.0 million (the “Purchase Price”) in exchange for which Royalty Pharma obtained the right to receive tiered revenue interest payments with respect to U.S. net sales of RYTELO beginning on July 1, 2024, ranging from (i) 7.75% of annual U.S. net sales up to $500.0 million; (ii) 3.0% of annual U.S. net sales in excess of $500.0 million but less than or equal to $1.0 billion; and (iii) 1.0% in respect of annual U.S. net sales in excess of $1.0 billion (the “Revenue Interest Payments”). The Revenue Interest Payments to Royalty Pharma are capped, such that they will cease upon reaching a multiple of 1.65 times the Purchase Price if Royalty Pharma receives Revenue Interest Payments in that amount in respect of net sales occurring on or before June 30, 2031, or upon reaching a multiple of 2.0 times the Purchase Price thereafter. The Company’s revenue payment obligations under the Royalty Pharma Agreement may be discharged in connection with a change of control of the Company in an amount equal to 1.65 times the Purchase Price minus the aggregate Revenue Interest Payments received by Royalty Pharma as of the date of the closing of the change of control, if the closing of the change of control occurs on or prior to December 31, 2027, or in an amount equal to 2.0 times the Purchase Price minus the aggregate Revenue Interest Payments received by Royalty Pharma as of the date of the closing of the change of control, if the closing of the change of control occurs after December 31, 2027. There are no other royalties payable on RYTELO, which was developed internally and is exclusively owned by Geron.
+
+ 
+
+The Royalty Pharma Agreement contains customary representations, warranties and indemnities of Geron and Royalty Pharma and customary covenants relating to the Revenue Interest Payments.
+
+ 
+
+The foregoing descriptions of the Loan Agreement and the Royalty Pharma Agreement do not purport to be complete and are qualified in their entirety by reference to the complete text of the Loan Agreement and the Royalty Pharma Agreement, copies of which we expect to file, with confidential terms redacted, with the U.S. Securities and Exchange Commission as exhibits to our annual report on Form 10-K for the fiscal year ending on December 31, 2024.
+
+Item 1.02
+
+Termination of a Material Definitive Agreement.
+
+ 
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+ 
+
+The information in Item 1.01 relating to the Royalty Pharma Agreement is incorporated by reference into this Item 2.01.
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+Item 2.02
+
+ Results of Operations and Financial Condition
+
+On November 7, 2024, Geron Corporation (the "Company") issued a press release announcing its financial results for the three and nine months ended September 30, 2024 and recent business highlights. A copy of the press release is attached as Exhibit 99.1.
+
+ 
+
+The information contained in Item 2.02 and in the accompanying Exhibit 99.1 to this Current Report shall be deemed to be “furnished” and shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended (the "Securities Act"), and shall not be incorporated by reference into any filing made by the Company with the U.S. Securities and Exchange Commission under the Securities Act or the Exchange Act, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The information set forth under Item 1.01 above is hereby incorporated by reference into Item 2.03.
+
+Item 7.01
+
+Financial Statements and Exhibits.
+
+ 
+
+On November 7, 2024, the Company issued a press release announcing the Loan Agreement and the Royalty Pharma Agreement, a copy of which is furnished as Exhibit 99.2 to this Current Report on Form 8-K.
+
+ 
+
+The information furnished under Item 7.01 and in the accompanying Exhibit 99.2 to this Current Report shall be deemed to be “furnished” and shall not be deemed to be “filed” for purposes of Section 18 of the Exchange Act,, or otherwise subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act, and shall not be incorporated by reference into any filing made by the Company with the U.S. Securities and Exchange Commission under the Securities Act or the Exchange Act, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+
+ 
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit No.
+
+Description
+
+ 
+
+99.1
+
+Press release titled "Geron Corporation Reports Third Quarter 2024 Financial Results and Recent Business Highlights," dated November 7, 2024
+
+ 
+
+99.2
+
+Press release titled “Geron Corporation Announces Up to $375 Million in Funding with Royalty Pharma and Pharmakon Advisors,” dated November 7, 2024
+
+ 
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL
+
+document)
+
+ 
+
+ 
+
+ 
+
+4
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+GERON CORPORATION
+
+ 
+
+Date:
+
+ November 7, 2024
+
+ 
+
+By:
+
+/s/ Scott A. Samuels
+
+ 
+
+ 
+
+ 
+
+Name:
+
+Scott A. Samuels
+
+ 
+
+ 
+
+ 
+
+Title:
+
+Executive Vice President,
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer and
+
+ 
+
+ 
+
+ 
+
+ 
+
+Secretary
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5

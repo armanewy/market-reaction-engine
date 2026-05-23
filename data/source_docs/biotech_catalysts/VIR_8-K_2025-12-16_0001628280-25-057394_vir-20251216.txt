@@ -1,0 +1,152 @@
+vir-20251216
+FALSE000170643100017064312025-12-162025-12-160001706431exch:XNAS2025-12-162025-12-16
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+________________________________________
+
+FORM 8-K
+
+________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 16, 2025
+
+________________________________________
+
+Vir Biotechnology, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+________________________________________
+
+Delaware
+
+001-39083
+
+81-2730369
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+1800 Owens Street, Suite 900
+
+San Francisco, California 94158
+
+(Address of Principal Executive Offices, including Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (415) 906-4324
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.0001 par value
+
+VIR
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On December 16, 2025, Vir Biotechnology, Inc. (Vir Bio) and Norgine Pharma UK Limited (together with its affiliates in the Norgine group of companies, Norgine) entered into a License Agreement (the Agreement) with respect to certain commercial rights to the combination of tobevibart, an investigational monoclonal antibody, and elebsiran, an investigational small interfering ribonucleic acid, for the treatment of people living with chronic hepatitis delta (CHD). Under the terms of the Agreement, Vir Bio has granted Norgine an exclusive license for the commercial rights to the combination for the treatment of CHD in Europe, Australia and New Zealand (collectively, the Norgine Licensed Territory), while Vir Bio will retain commercial rights for the combination in the United States and all other international markets outside of the People’s Republic of China, Taiwan, Hong Kong and Macau (collectively, the Greater China Territory). In exchange, Vir Bio will receive an initial reimbursement of development costs from Norgine in the amount of EUR 55 million and is eligible to receive up to EUR 495 million in clinical, regulatory and sales milestones, along with tiered, mid-teen to high-twenties percent royalties on net sales in the Norgine Licensed Territory. In addition, clinical development costs for the ongoing trials in Vir Bio’s ECLIPSE registrational program (ECLIPSE 1, 2 and 3) will be shared, with Norgine contributing approximately 25% of go-forward external costs.
+
+The closing of this transaction with respect to certain jurisdictions outside the United States is subject to Norgine receiving regulatory approval from applicable authorities as may be required.
+
+The foregoing description of the terms of the Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Agreement, a copy of which the Company plans to file as an exhibit to its Annual Report on Form 10-K for the quarter and year ending December 31, 2025.
+
+Item 8.01 Other Events.
+
+Press Release
+
+On December 16, 2025, Vir Bio issued a press release announcing the entry into the Agreement. A copy of the press release is filed herewith as Exhibit 99.1 and is incorporated herein by reference.
+
+SOLSTICE Clinical Trial Update
+
+Certain data from the ongoing SOLSTICE Phase 2 clinical trial were presented in an oral session at the American Association for the Study of Liver Diseases (AASLD) The Liver Meeting®, in Washington, D.C., in November 2025 and simultaneously published in the New England Journal of Medicine. These data focused on Week 48 endpoint analysis and included rates of virologic suppression and alanine aminotransferase (ALT) normalization, reductions in hepatitis B surface antigen (HBsAg). The data demonstrated that 66% (21/32) of participants with CHD receiving a monthly dose of the combination of tobevibart and elebsiran achieved and sustained HDV RNA target not detected (TND) at 48 weeks. Additionally, approximately 90% (29/32) of participants achieved reduction in HBsAg to values <10 IU/mL by Week 48. HBsAg reduction indicates suppression of the fundamental biologic mechanisms that HDV requires for viral replication. ALT was normalized (defined as ALT below upper limit of normal) in 56% (18/32) of participants by Week 48. The combination was well-tolerated, with no grade 3 or higher treatment-related adverse events and no treatment-related discontinuations. Most treatment-related adverse events were generally mild to moderate and transient.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K (this Form 8-K) contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as “should,” “could,” “may,” “might,” “will,” “plan,” “potential,” “aim,” “expect,” “anticipate,” “promising” and similar expressions (as well as other words or expressions referencing future events, conditions or circumstances) are intended to identify forward-looking statements. Forward-looking statements contained in this Form 8-K include, but are not limited to, statements regarding: the therapeutic potential of the combination of tobevibart and elebsiran to treat CHD; Vir Bio’s immediate and potential future financial and other obligations under the agreement with Norgine; the timing of the anticipated closing of the transaction with Norgine, including receipt of any necessary regulatory approvals; Vir Bio’s strategy and plans; and any assumptions underlying any of the foregoing. Many factors may cause differences between current expectations and actual results, including, without limitation: unexpected safety or efficacy data or results observed during clinical studies or in data readouts, including the occurrence of adverse safety events; risks of unexpected costs, delays or other unexpected hurdles; difficulties in collaborating with other companies, some of whom may be competitors of Vir Biotechnology or otherwise have divergent interests, and uncertainty as to whether the benefits of Vir Biotechnology’s various collaborations can ultimately be achieved; challenges in accessing manufacturing capacity; clinical site activation rates or clinical enrollment rates that are lower than expected; the timing and outcome of Vir Biotechnology’s planned interactions with regulatory authorities, as well as general difficulties in obtaining any necessary regulatory approvals; successful development and/or commercialization of alternative product candidates by Vir Biotechnology’s competitors, as well as changes in expected or existing competition; geopolitical changes or other external factors; and unexpected litigation or other disputes. In light of these risks and uncertainties, the events or circumstances referred to in the forward-looking statements may not occur. Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in commercialization of a product. Results in early-stage clinical studies may not be indicative of full results or results from later-stage or larger-scale clinical studies and do not ensure regulatory approval. The actual results may vary from the anticipated results, and the variations may be material. You are cautioned not to place undue reliance on any scientific data presented or these forward-looking statements, which are based on Vir Bio’s available information, expectations and assumptions as of the date of this Form 8-K. Other factors that may cause Vir Bio’s actual results to differ from those expressed or implied in the forward-looking statements in this Form 8-K are discussed in Vir Bio’s filings with the U.S. Securities and Exchange Commission, including the section titled “Risk Factors” contained therein. Except as required by law, Vir Bio assumes no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press Release of the Company, dated December 16, 2025
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VIR BIOTECHNOLOGY, INC.
+
+Date:
+
+December 16, 2025
+
+By:
+
+/s/ Marianne De Backer
+
+Marianne De Backer, M.Sc., Ph.D., MBA
+
+Chief Executive Officer

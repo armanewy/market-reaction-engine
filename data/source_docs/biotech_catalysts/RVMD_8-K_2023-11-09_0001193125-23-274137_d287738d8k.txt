@@ -1,0 +1,414 @@
+8-K
+
+false 0001628171 0001628171 2023-11-08 2023-11-08
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): November 8, 2023
+
+ 
+
+ 
+
+Revolution Medicines, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39219
+
+ 
+
+47-2029180
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+700 Saginaw Drive
+
+Redwood City, California
+
+ 
+
+94063
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: 650 481-6801
+
+Not applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+RVMD
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+EXPLANATORY NOTE
+
+On November 9, 2023, Revolution Medicines, Inc., a Delaware corporation (“Revolution Medicines”), completed the previously announced acquisition of EQRx, Inc., a Delaware corporation (“EQRx”), pursuant to the Agreement and Plan of Merger, dated as of July 31, 2023 (the “Merger Agreement”), by and among Revolution Medicines, Equinox Merger Sub I, Inc., a Delaware corporation and a direct, wholly owned subsidiary of Revolution Medicines (“Merger Sub I”), Equinox Merger Sub II LLC, a Delaware limited liability company and a direct, wholly owned subsidiary of Revolution Medicines (“Merger Sub II”), and EQRx. Pursuant to the Merger Agreement, Merger Sub I merged with and into EQRx, with EQRx surviving as a wholly owned subsidiary of Revolution Medicines (the “First Merger”), and following the First Merger, EQRx merged with and into Merger Sub II, with Merger Sub II surviving as a wholly owned subsidiary of Revolution Medicines with the name “EQRx, LLC” (together with the First Merger, the “Mergers”).
+
+The Merger Agreement and the transactions contemplated thereby, including the Mergers, were previously described in the Registration Statement on Form S-4 (Registration No. 333-274499) filed by Revolution Medicines with the Securities and Exchange Commission (the “SEC”) on September 13, 2023 (as amended, the “Registration Statement”) and the definitive joint proxy statement/prospectus of Revolution Medicines, dated as of and filed with the SEC on September 29, 2023 (as supplemented, the “Joint Proxy Statement/Prospectus”).
+
+Item 2.01. Completion of Acquisition or Disposition of Assets.
+
+The information set forth in the “Explanatory Note” of this Current Report on Form 8-K is incorporated by reference into this Item 2.01.
+
+Pursuant to the Merger Agreement, at the effective time of the First Merger (the “Effective Time”), each share of common stock, par value $0.0001 per share, of EQRx (“EQRx Common Stock”) issued and outstanding immediately prior to the Effective Time (other than any shares held by EQRx in treasury or owned by Revolution Medicines, Merger Sub I, Merger Sub II or any wholly owned subsidiary of EQRx or Revolution Medicines) was converted into the right to receive 0.1112 of a validly issued, fully paid and non-assessable share (the “Exchange Ratio”) of common stock, par value $0.0001 per share, of Revolution Medicines (“Revolution Medicines Common Stock,” and such shares, the “EQRx Common Stock Merger Consideration”). No fractional shares of Revolution Medicines Common Stock are issuable in connection with the Mergers. Any EQRx stockholders who would otherwise have been entitled to receive a fraction of a share of Revolution Medicines Common Stock (after aggregating all fractional shares of Revolution Medicines Common Stock issuable to such holder) will, in lieu of such fraction of a share and upon surrender of such holder’s EQRx Common Stock, be paid in cash the dollar amount (rounded to the nearest whole cent), without interest, determined by multiplying such fraction by $21.18, which is the closing price of a share of Revolution Medicines Common Stock on the Nasdaq Global Select Market on November 8, 2023, the last business day prior to the date on which the First Merger became effective.
+
+Also at the Effective Time:
+
+ 
+
+ 
+
+•
+
+ 
+
+the vesting of options to acquire shares of EQRx Common Stock (“EQRx Options”) outstanding immediately prior to the Effective Time was accelerated in full, and each EQRx Option with an exercise price that was less than $2.16 per share of EQRx Common Stock (an “In-the-Money EQRx Option”) was cancelled and converted into shares of Revolution Medicines Common Stock based on the Exchange Ratio after taking into account the exercise price; all EQRx Options that did not constitute In-the-Money EQRx Options were terminated at the Effective Time for no consideration;
+
+ 
+
+ 
+
+•
+
+ 
+
+awards of EQRx restricted stock units covering EQRx Common Stock outstanding immediately prior to the Effective Time, whether or not vested, were cancelled and converted into shares of Revolution Medicines Common Stock based on the Exchange Ratio; and
+
+ 
+
+ 
+
+•
+
+ 
+
+the vesting of each share of restricted EQRx Common Stock was accelerated in full immediately prior to the Effective Time, and each share of restricted EQRx Common Stock was treated the same as all other shares of EQRx Common Stock under the Merger Agreement.
+
+ 
+
+Also at the Effective Time, all outstanding and unexercised warrants to purchase shares of EQRx Common Stock (“EQRx Warrants”) were, in accordance with their terms, assumed by Revolution Medicines and ceased to represent a warrant exercisable for EQRx Common Stock and became a warrant exercisable for the EQRx Common Stock Merger Consideration that the holder would have received if such EQRx Warrant were exercised immediately prior to the Effective Time.
+
+The foregoing summary does not purport to be a complete description and is qualified in its entirety by reference to the full text of the Merger Agreement, which is attached as Exhibit 2.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The Merger Agreement has been attached as an exhibit to this report to provide investors and security holders with information regarding its terms. It is not intended to provide any other factual information about EQRx or Revolution Medicines or to modify or supplement any factual disclosures about EQRx or Revolution Medicines in their public reports filed with the SEC. The Merger Agreement includes representations, warranties and covenants of EQRx and Revolution Medicines made solely for the purposes of the Merger Agreement and which may be subject to important qualifications and limitations agreed to by EQRx and Revolution Medicines in connection with the negotiated terms of the Merger Agreement. Moreover, some of those representations and warranties may not be accurate or complete as of any specified date, and may be subject to certain disclosures between the parties and a contractual standard of materiality different from those generally applicable to EQRx’s or Revolution Medicines’ SEC filings. In addition, the representations and warranties were made for purposes of allocating risk among the parties to the Merger Agreement and should not be relied upon as establishing factual matters.
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+The information set forth in the Explanatory Note and Item 2.01 of this Current Report is incorporated by reference into this Item 5.02.
+
+Appointment of a Director
+
+In connection with the closing of the Mergers, on the Effective Date, as contemplated by the Merger Agreement, the Revolution Medicines board of directors (the “Board”) appointed Sandra J. Horning, M.D., as a member of the Board. Dr. Horning will serve as a Class II director, with an initial term expiring at Revolution Medicines’ 2025 annual meeting of stockholders. Dr. Horning was appointed to the Board as the EQRx designee, as provided for by the Merger Agreement. Revolution Medicines determined that Dr. Horning qualifies as an “independent director” for purposes of the Nasdaq Stock Market LLC listing standards.
+
+Pursuant to Revolution Medicines’ Non-Employee Director Compensation Program, Dr. Horning was automatically granted an option to purchase 36,800 shares of Revolution Medicines Common Stock (the “Initial Option”) and 10,500 restricted stock units (the “Initial RSUs”) upon her appointment to the Board. The Initial Option will vest in substantially equal monthly installments for three years from the date of appointment and the Initial RSUs will vest in substantially equal quarterly installments over a three-year period beginning on a specified quarterly vesting date, in each case, subject to continued service through the applicable vesting date.
+
+Dr. Horning is entitled to the cash retainer described under the caption “Director Compensation” in Revolution Medicines’ Proxy Statement filed with the SEC on April 26, 2023, as provided for by Revolution Medicines’ Non-Employee Director Compensation Program. Revolution Medicines also entered into its standard form of indemnification agreement for directors and officers with Dr. Horning, which was filed as an exhibit to Revolution Medicines’ Registration Statement on Form S-1 (File No. 333-235968) initially filed with the SEC on January 17, 2020.
+
+Other than the receipt of consideration by Dr. Horning (including any affiliated entities) in respect of her equity interests in EQRx in connection with the Mergers, there are no transactions in which Dr. Horning has an interest requiring disclosure under Item 404(a) of Regulation S-K.
+
+ 
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+At the special meeting of stockholders (the “Special Meeting”) held on November 8, 2023 via live webcast, the stockholders of Revolution Medicines voted on two proposals, which are described in Revolution Medicines’ definitive proxy statement filed with the SEC on September 29, 2023 (the “Proxy Statement”). As of the close of business on September 26, 2023, the record date of the Special Meeting, there were 109,448,831 shares of Revolution Medicines Common Stock outstanding, each of which was entitled to one vote on each proposal. At the Special Meeting, a total of 95,304,094 shares of Revolution Medicines Common Stock were present or represented by proxy, constituting a quorum to conduct business. The tabulation of the stockholder votes on each proposal brought before the Special Meeting is described below.
+
+Proposal No. 1: Approval of the issuance of shares of Revolution Medicines Common Stock (including securities convertible into or exercisable for shares of Revolution Medicines Common Stock) to certain equityholders of EQRx pursuant to Merger Agreement (the “Share Issuance Proposal”).
+
+The Share Issuance Proposal was approved by the requisite vote of Revolution Medicines’ stockholders.
+
+ 
+
+Votes For
+
+  
+
+Votes Against
+
+  
+
+Abstentions
+
+  
+
+Broker Non-Votes
+
+85,738,003
+
+  
+
+9,442,157
+
+  
+
+123,934
+
+  
+
+—
+
+Proposal No. 2: Approval of the adjournment of the Special Meeting to a later date or dates, if necessary or appropriate, to solicit additional proxies if there are not sufficient votes at the time of the Special Meeting to approve the Share Issuance Proposal (the “Adjournment Proposal”).
+
+The Adjournment Proposal was approved by the requisite vote of Revolution Medicines’ stockholders, but no adjournment of this Special Meeting to solicit additional proxies was required or occurred.
+
+ 
+
+Votes For
+
+  
+
+Votes Against
+
+  
+
+Abstentions
+
+  
+
+Broker Non-Votes
+
+84,603,257
+
+  
+
+10,566,409
+
+  
+
+134,428
+
+  
+
+—
+
+No other items were presented for stockholder approval at the Special Meeting.
+
+Item 7.01. Regulation FD Disclosure.
+
+As a result of the Mergers, EQRx has ceased to exist as a separate legal entity and therefore no longer fulfills the listing requirements of the Nasdaq Global Market (“Nasdaq”). On November 9, 2023, Nasdaq was notified that the Mergers had closed and it has been requested that Nasdaq (1) suspend trading of EQRx Common Stock and the publicly traded EQRx Warrants, (2) withdraw EQRx Common Stock and the publicly traded EQRx Warrants from listing on Nasdaq prior to the open of trading on November 9, 2023 and (3) file with the SEC a notification of delisting of EQRx Common Stock and the publicly traded EQRx Warrants under Section 12(b) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). As a result, neither EQRx Common Stock nor EQRx Warrants will continue to be listed on Nasdaq.
+
+EQRx, LLC, as successor to EQRx, intends to file with the SEC certifications on Form 15 under the Exchange Act requesting the deregistration of EQRx Common Stock and the publicly traded EQRx Warrants under Section 12(g) of the Exchange Act and the corresponding immediate suspension of EQRx reporting obligations under Sections 13 and 15(d) of the Exchange Act as promptly as practicable, and to cease filing any further periodic reports with respect to EQRx since it no longer exists as a public company.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(a) Financial Statements of Business Acquired.
+
+The audited consolidated financial statements of EQRx as of and for the years ended December 31, 2022 and 2021 are incorporated by reference to Exhibit 99.1 of this Current Report on Form 8-K. The unaudited condensed consolidated financial statements of EQRx as of and for the nine months ended September 30, 2023 are incorporated by reference to Exhibit 99.2 of this Current Report on Form 8-K.
+
+ 
+
+(b) Pro Forma Financial Information.
+
+Revolution Medicines will provide the pro forma financial statements required to be filed by Item 9.01(b) of Form 8-K by amendment to this Current Report no later than the 71st day after the required filing date for this Current Report.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+No.
+
+  
+
+Description
+
+2.1*
+
+  
+
+Agreement and Plan of Merger, dated July 31, 2023, by and among Revolution Medicines, Inc., EQRx, Inc., Equinox Merger Sub I, Inc. and Equinox Merger Sub II LLC (incorporated herein by reference to Exhibit 2.1 to Revolution Medicines’ Current Report on Form 8-K filed with the SEC on August 1, 2023).
+
+23.1
+
+  
+
+Consent of Ernst & Young LLP.
+
+99.1
+
+  
+
+Audited consolidated financial statements of EQRx, Inc. as of and for the years ended December 31, 2022 and 2021 (incorporated by reference to Part II, Item 8 of EQRx’s Annual Report on Form 10-K, filed with the SEC on February 23, 2023).
+
+99.2
+
+  
+
+Unaudited condensed consolidated financial statements of EQRx, Inc. as of and for the nine months ended September 30, 2023 (incorporated by reference to Part I, Item 1 of EQRx’s Quarterly Report on Form 10-Q, filed with the SEC on November 6, 2023).
+
+104
+
+  
+
+Cover Page Interactive Data File (formatted as inline XBRL document).
+
+ 
+
+*
+
+Portions of this exhibit have been omitted pursuant to Item 601(a)(5) of Regulation S-K. Revolution Medicines will furnish copies of any omitted exhibits and schedules to the SEC upon its request; provided, that Revolution Medicines may request confidential treatment pursuant to Rule 24b-2 of the Exchange Act for any exhibits or schedules so furnished.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+Date: November 9, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Jack Anders
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Jack Anders
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Financial Officer

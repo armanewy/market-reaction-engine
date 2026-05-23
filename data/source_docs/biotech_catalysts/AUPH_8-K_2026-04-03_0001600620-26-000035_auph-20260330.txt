@@ -1,0 +1,224 @@
+auph-20260330
+0001600620FALSE00016006202026-03-202026-03-20
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 30, 2026
+
+Aurinia Pharmaceuticals Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Canada
+
+ 
+
+001-36421
+
+ 
+
+98-1231763
+
+(State or Other Jurisdiction of Incorporation)
+
+ 
+
+(Commission File No.)
+
+ 
+
+(IRS Employer Identification No.)
+
+#140, 14315 - 118 Avenue
+
+Edmonton, Alberta
+
+T5L 4S6
+
+(250) 744-2487
+
+(Address and telephone number of registrant's principal executive offices)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of Each Exchange on which Registered
+
+Common Shares, without par value
+
+ 
+
+AUPH
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Agreement and Plan of Merger
+
+On March 30, 2026, Aurinia Pharma U.S., Inc., a Delaware corporation (“Parent”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) by and among Kezar Life Sciences, Inc., a Delaware corporation (the “Company” or “Kezar”), Parent, Aurinia Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Parent (“Merger Sub” and together with Parent, the “Buyer Entities”), and, solely for the purposes of Section 10.13 of the Merger Agreement, Aurinia Pharmaceuticals Inc., a company incorporated under the laws of the Province of Alberta (“Ultimate Parent” or “Aurinia”).
+
+The Merger Agreement provides for, among other things: (i) the acquisition of all of the Company’s outstanding shares of common stock, par value $0.001 per share (the “Common Stock”), by Parent through a tender offer (the “Offer”) for a price per share of the Common Stock of: (A) $6.955 in cash (the “Cash Amount”), payable without interest, plus (B) one contingent value right (a “CVR”) (together with the Cash Amount, the “Offer Price”); and (ii) the merger of Merger Sub with and into the Company (the “Merger”), with the Company surviving the Merger. Under the Merger Agreement, Parent is required to commence the Offer by no later than April 13, 2026. The Offer will remain open for 20 business days, subject to extension under certain circumstances, and the closing of the Merger is expected to occur in the second quarter of 2026, subject to the satisfaction or waiver of the closing conditions.
+
+Pursuant to the terms of the Merger Agreement, as of immediately prior to the effective time of the Merger (the “Effective Time”), by virtue of the Merger and without any action on the part of the holders of Common Stock: (i) each outstanding share of Common Stock, other than (A) shares of Common Stock owned by the Company (or held in the treasury of the Company), Parent, Merger Sub or any of their respective subsidiaries, or Shares that are held by stockholders who are entitled to and who properly exercise appraisal rights under Delaware law, will be converted into the right to receive the Offer Price without interest, less any applicable withholding taxes; (ii) each option to purchase shares of Company Common Stock (each, a “Company Option”) granted under a Company Equity Plan, whether or not then vested or exercisable, shall become fully vested. At the Effective Time, each such Company Option with a per-share exercise price less than the Cash Amount (each, an “In-the-Money Option”) shall automatically be cancelled and converted into the right to receive (A) an amount in cash, without interest equal to the product obtained by multiplying (x) the excess of the Cash Amount over the exercise price per share of common stock of the Company underlying such Company Option at the Effective Time by (y) the number of shares of common stock of the Company underlying such In-the-Money Option, subject to the terms and conditions specified in the Merger Agreement and (B) one CVR in respect of each share of Common Stock underlying such In-the-Money Option; and (iii) each option to purchase shares of common stock of the Company that is outstanding and unexercised as of immediately prior to the Effective Time and that is not an In-the-Money Option (an “Out-of-the-Money Option”) shall be cancelled and cease to exist, and no consideration shall be delivered in exchange for such Out-of-the-Money Option. No later than five (5) business days prior to the Effective Time, each Company restricted stock unit award (a “Company RSU”) that is then outstanding and unvested shall become vested in full and shall be settled by the Company by issuing to the holder a number of shares of Common Stock equal to the number of shares of Common Stock underlying such Company RSU immediately prior to such settlement (subject to applicable withholdings for taxes, which may be satisfied by net share settlement). The shares of Common Stock issued in respect of the Company RSUs shall be treated in the same manner as other shares of Common Stock at the Effective Time. The Company has agreed to take such actions with respect to the Company’s 2018 Employee Stock Purchase Plan (the “Company ESPP”) that are necessary to provide that: (i) the Company ESPP will terminate immediately prior to the Effective Time; and (ii) no new offering period will commence under the Company ESPP following the date of the Merger Agreement.
+
+Parent’s obligation to accept shares of Common Stock tendered in the Offer is subject to the satisfaction or waiver of certain closing conditions, including: (i) that there have been validly tendered and not validly withdrawn prior to the expiration of the Offer a number of shares of Common Stock that, considered together with the number of shares of Common Stock, if any, then owned beneficially by Parent and its subsidiaries, would represent at least one more share of Common Stock than 50% of the total number of shares of Common Stock outstanding at the time of expiration of the Offer; (ii) the accuracy of the representations and warranties of the Company contained in the Merger Agreement (subject to certain materiality exceptions); (iii) material compliance by the Company with its covenants under the Merger Agreement; (iv) the Closing Net Cash (as defined in the Merger Agreement) being no less than $50.0 million; and (v) other customary closing conditions. Consummation of the Offer is not subject to any financing condition.
+
+Following the completion of the Offer, upon terms and subject to the conditions of the Merger Agreement, Merger Sub will merge with and into the Company, with the Company surviving as a wholly owned subsidiary of Parent, pursuant to the procedure provided for under Section 251(h) of the General Corporation Law of the State of Delaware, without any additional Company stockholder approvals. The Merger will be effected as soon as practicable following the time of purchase by Parent of shares of Common Stock validly tendered and not withdrawn in the Offer.
+
+The Merger Agreement includes representations, warranties and covenants of the parties customary for a transaction of this nature. The Merger Agreement also contains customary covenants and agreements, including with respect to the operations of the business of the Company between the date of the Merger Agreement and the closing of the Merger.
+
+The Merger Agreement contains customary termination rights for the parties including, among others, for failure to consummate the Offer on or before June 28, 2026, and if the Closing Net Cash is less than $50.0 million as of the closing of the Offer. If the Merger Agreement is terminated under certain circumstances specified in the Merger Agreement, including in connection with the Company’s entry into an agreement with respect to a Superior Company Proposal (as defined in the Merger Agreement), the Company will be required to pay Parent a termination fee of $1.2 million.
+
+The foregoing description of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, a copy of which is filed as Exhibit 2.1 hereto and which is incorporated herein by reference. The Merger Agreement and the foregoing description thereof have been included to provide investors and security holders with information regarding its terms. It is not intended to provide any other factual information about the Company, Parent, Merger Sub or their respective subsidiaries and affiliates. The Merger Agreement contains representations and warranties by the Company, on the one hand, and Parent and Merger Sub, on the other hand, made solely for the benefit of the other. The assertions embodied in those representations and warranties are subject to qualifications and limitations agreed to by the respective parties in negotiating the terms of the Merger Agreement, including information in confidential disclosure schedules delivered in connection with the signing of the Merger Agreement. Moreover, certain representations and warranties in the Merger Agreement were made as of a specified date and may be subject to a contractual standard of materiality different from what might be viewed as material to investors, or may have been used for the purpose of allocating risk between the Company, on the one hand, and Parent and Merger Sub, on the other hand, rather than establishing matters as facts. Accordingly, the representations and warranties in the Merger Agreement should not be relied on by any persons as characterizations of the actual state of facts about the Company, Parent, Merger Sub or their respective subsidiaries or affiliates at the time they were made or otherwise. In addition, information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in the Company’s public disclosures.
+
+Contingent Value Rights Agreement
+
+At or prior to the Offer Closing Time, Ultimate Parent and the Buyer Entities expect to enter into a Contingent Value Rights Agreement (the “CVR Agreement”) with a rights agent and a representative, who will act as agent and attorney-in-fact for the holders of CVRs. Each CVR will represent a contractual right to receive contingent cash payments equal to:
+
+•100% of the amount by which Closing Net Cash, as determined not later than 90 days following the closing of the Merger, exceeds $50.0 million;
+
+•100% of the Net Proceeds (as defined in the CVR Agreement), if any, Parent receives during the 10-year period following the closing of the Merger in respect of the existing Asset Purchase Agreement, dated March 6, 2026, by and between the Company and Enodia Therapeutics SAS;
+
+•90% of the Net Proceeds, if any, Parent receives during the 10-year period following the closing of the Merger in respect of the existing Collaboration and License Agreement, dated September 20, 2023, by and between the Company and Everest Medicines II (HK) Limited, as amended;
+
+•90% of the Net Proceeds, if any, Parent receives during the 10-year period following the closing of the Merger from the sale, license or other disposition by Parent or any of its affiliates, including the Company (after the closing), of all or any part of certain legacy intellectual property assets and rights relating to zetomipzomib (the “Legacy Assets”), and such transaction is entered into during the 2-year period following the closing of the Merger (a “Legacy Asset Transaction Agreement”); and
+
+•In the event Parent initiates a clinical study of a product candidate derived from the Legacy Assets during the 2-year period following the closing of the Merger: (a) milestone payments of up to $88.0 million in the aggregate tied to the achievement of certain clinical, regulatory and sales-based milestones related to the Legacy Assets; and (b) royalty payments equal to 3% of net sales of Legacy Assets, in each case, to the extent achieved or earned during the 10-year period following the closing of the Merger.
+
+Through the earlier of the first anniversary of closing of the Merger or Parent’s decision to seek a Legacy Asset Transaction Agreement (the “Development Period”), Parent must use commercially reasonable efforts to develop a product candidate derived from the Legacy Assets, including by using commercially reasonable efforts to effect the initiation of a clinical study. If Parent has not effected the initiation of a clinical study relating to the Legacy Assets during the Development Period, then, during the period commencing at the end of the Development Period and ending on the second anniversary of closing of the Merger, Parent must use commercially reasonable efforts to enter into one or more Legacy Asset Transaction Agreements.
+
+The right to the contingent payments contemplated by the CVR Agreement is a contractual right only and will not be transferable, except in the limited circumstances specified in the CVR Agreement. The CVRs will not be evidenced by a certificate or any other instrument and will not be registered with the U.S. Securities and Exchange Commission (the “SEC”). The CVRs will not have any voting or dividend rights and will not represent any equity or ownership interest in Parent, any constituent corporation party to the Merger or any of their respective affiliates.
+
+There can be no assurance that any CVR Payment will be received by the holders of the CVRs.
+
+The foregoing description of the CVR Agreement does not purport to be complete and is qualified in its entirety by reference to the Form of CVR Agreement, a copy of which is included as Exhibit C to the Merger Agreement filed as Exhibit 2.1 to this report and incorporated by reference herein.
+
+The CVR Agreement and the foregoing description thereof have been included to provide investors and security holders with information regarding its terms. It is not intended to provide any other factual information about Parent, Merger Sub or their respective subsidiaries and affiliates.
+
+Tender and Support Agreement
+
+In connection with the execution of the Merger Agreement, the Company, Parent and Merger Sub entered into a tender and support agreement (the “Support Agreement”) with Tang Capital Partners, LP (the “Supporting Stockholder”), solely in the Supporting Stockholder’s capacity as a holder of shares of Common Stock. The Support Agreement provides that, among other things, the Supporting Stockholder irrevocably tenders the shares of Common Stock held by it in the Offer, upon the terms and subject to the conditions of such agreement. The shares of Common Stock subject to the Support Agreement comprise approximately 9.0% of the outstanding shares of Common Stock. The Support Agreement will terminate upon certain circumstances, including upon the Effective Time, termination of the Merger Agreement or if the board of directors of the Company votes to approve a Superior Company Proposal.
+
+The form of the Support Agreement is attached hereto as Exhibit 10.1 and is incorporated herein by reference. The foregoing description of the Support Agreement is qualified in its entirety by reference to the full text thereof.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On March 30, 2026, Parent and the Company issued a joint press release announcing the execution of the Merger Agreement as described above. A copy of the joint press release is attached as Exhibit 99.1 and incorporated herein by reference.
+
+The information contained in Item 7.01 of this report, including Exhibit 99.1 attached hereto, is furnished pursuant to Item 7.01 of Form 8-K and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section. The information shall not be deemed incorporated by reference into any other filing with the SEC made by Aurinia regardless of any general incorporation language in such filing, except as set forth by specific reference in such filing.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description
+
+2.1*
+
+Agreement and Plan of Merger, dated as of March 30, 2026, by and among Kezar Life Sciences, Inc., Aurinia Pharma U.S., Inc., Aurinia Merger Sub, Inc. and, solely for purposes of Section 10.13, Aurinia Pharmaceuticals Inc.
+
+10.1
+
+Form of Tender and Support Agreement, dated as of March 30, 2026, by and among Aurinia Pharma U.S., Inc., Aurinia Merger Sub, Inc., Kezar Life Sciences, Inc. and the stockholders party thereto.
+
+99.1
+
+Joint press release issued by Aurinia Pharmaceuticals Inc. and Kezar Life Sciences, Inc., dated March 30, 2026
+
+104
+
+Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document)
+
+*
+
+Certain annexes, exhibits and schedules have been omitted pursuant to Item 601(a)(5) or Item 601(b)(2) of Regulation S-K. Aurinia agrees to furnish supplementally a copy of any omitted exhibit or schedule to the SEC upon request; provided, however, that Aurinia may request confidential treatment pursuant to Rule 24b-2 of the Exchange Act for any schedule so furnished.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This communication includes forward-looking statements that are subject to risks, uncertainties, and other factors that could cause actual results to differ materially from those expressed or implied by the forward-looking statements. All statements, other than statements of historical fact, are generally forward-looking statements, including all statements regarding the intent, belief, or expectations of Aurinia and its management. These forward-looking statements typically can be identified by words such as “believe,” “expect,” “estimate,” “predict,” “target,” “potential,” “likely,” “continue,” “ongoing,” “could,” “should,” “intend,” “may,” “might,” “plan,” “seek,” “anticipate,” “project” and similar expressions, as well as variations or negatives of these words. Forward-looking statements include, without limitation, statements regarding the proposed transaction, similar transactions, prospective performance, future plans, events, expectations, objectives, opportunities, and the outlook for the Company or Aurinia; the expected timing of the completion of the transaction; the ability to complete the transaction considering the various closing conditions; and the accuracy of any assumptions underlying any of the foregoing. Investors are cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties; accordingly, investors are cautioned not to place undue reliance on forward-looking statements. Actual results may differ materially due to several factors. Factors that could cause future results to differ materially include: uncertainties as to the timing of the Offer and Merger; uncertainties as to how many of the Company’s stockholders will tender their stock in the Offer; the possibility that various closing conditions for the transaction may not be satisfied or waived, including that the Company does not satisfy the minimum closing net cash condition or that a governmental entity may prohibit or delay the consummation of the transaction; the occurrence of any event, change, or other circumstance that could give rise to the termination of the Merger
+
+Agreement, including circumstances requiring the Company to pay a termination fee pursuant to the Merger Agreement; the ability of the parties to consummate the proposed Transaction on a timely basis or at all; significant transaction costs; the risk that activities related to the CVR Agreement may not result in any value to the Company’s stockholders; the possibility that competing offers will be made; the risk that any stockholder litigation in connection with the proposed Transactions may result in significant costs of defense, indemnification and liability; risks of unexpected costs, delays, or other unexpected hurdles; and other factors as set forth in Aurinia’s Annual Report on Form 10-K filed with the SEC on February 26, 2026, and other reports filed with the SEC. The forward-looking statements in this communication speak only as of the date of this communication. Aurinia undertakes no obligation to update any forward-looking statement, whether as a result of new information, future developments, or otherwise, except as may be required by applicable law.
+
+Important Information about the Offer and Where to Find It
+
+The Offer for the Shares of Kezar referenced in this Current Report on Form 8-K has not yet commenced. This Current Report on Form 8-K is for informational purposes only, is not a recommendation and is neither an offer to purchase nor a solicitation of an offer to sell any securities, nor is it a substitute for the Offer materials that the Buyer Entities will file with the SEC upon the commencement of the Offer. The solicitation and offer to buy the Shares of Kezar will only be made pursuant to the Offer materials that Parent and Merger Sub will file with the SEC. At the time the Offer is commenced, the Buyer Entities will file a tender offer statement on Schedule TO, and, thereafter, Kezar will file a Solicitation/Recommendation Statement on Schedule 14D-9 with the SEC with respect to the Offer.
+
+THE OFFER MATERIALS (INCLUDING AN OFFER TO PURCHASE, A RELATED LETTER OF TRANSMITTAL AND CERTAIN OTHER OFFER DOCUMENTS) AND THE SOLICITATION/RECOMMENDATION STATEMENT ON SCHEDULE 14D-9 WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED ACQUISITION AND THE PARTIES THERETO. INVESTORS AND STOCKHOLDERS OF THE COMPANY ARE URGED TO READ THESE DOCUMENTS CAREFULLY WHEN THEY BECOME AVAILABLE (AS EACH MAY BE AMENDED OR SUPPLEMENTED FROM TIME TO TIME) BECAUSE THEY WILL EACH CONTAIN IMPORTANT INFORMATION THAT INVESTORS AND STOCKHOLDERS SHOULD CONSIDER BEFORE MAKING ANY DECISION REGARDING TENDERING THEIR SHARES.
+
+The Offer to Purchase, the related Letter of Transmittal and certain other Offer documents, as well as the Solicitation/Recommendation Statement on Schedule 14D-9, will be made available to all holders of Shares of Kezar at no expense to them at Kezar’s website at ir.kezarlifesciences.com, or Aurinia’s website at https://www.auriniapharma.com/investors and (once they become available) will be mailed to Kezar’s stockholders free of charge. The information contained in, or that can be accessed through, Kezar’s or Aurinia’s website is not a part of, or incorporated by reference in, this filing. The Offer materials and the Solicitation/Recommendation Statement on Schedule 14D-9 will be made available to the public for free at the SEC’s website at www.sec.gov.
+
+In addition to the Offer to Purchase, the related Letter of Transmittal and certain other Offer documents, as well as the Solicitation/Recommendation Statement on Schedule 14D-9, Kezar and Aurinia file annual, quarterly and current reports, proxy statements and other information with the SEC. You may read any reports, statements or other information filed by Kezar or Aurinia with the SEC for free on the SEC’s website at www.sec.gov or on Kezar’s website at ir.kezarlifesciences.com, or Aurinia’s website at https://www.auriniapharma.com/investors.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: April 3, 2026
+
+AURINIA PHARMACEUTICALS INC.
+
+By:
+
+/s/ Michael Hearne
+
+Michael Hearne
+
+Chief Financial Officer

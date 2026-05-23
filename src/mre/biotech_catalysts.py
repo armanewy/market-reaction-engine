@@ -1387,7 +1387,34 @@ def biotech_catalyst_readiness_summary(
         audit_precision = ok_count / audit_rows if audit_rows else 0.0
         metrics["parser_audit_rows"] = audit_rows
         metrics["parser_audit_precision"] = float(audit_precision)
-        gates["parser_audit_pass"] = bool(audit_rows >= 60 and audit_precision >= 0.90)
+        if {"fact_name", "gold_category", "actual_value"}.issubset(parser_errors.columns):
+            event_type_errors = parser_errors[parser_errors["fact_name"].astype(str).eq("event_type")]
+            event_type_ok = int(event_type_errors["status"].astype(str).eq("ok").sum()) if not event_type_errors.empty else 0
+            event_type_precision = event_type_ok / len(event_type_errors) if len(event_type_errors) else 0.0
+            actual_event_types = parser_errors["actual_value"].fillna("").astype(str).str.lower()
+            gold_category = parser_errors["gold_category"].fillna("").astype(str).str.lower()
+            designation_mistaken_for_approval = bool(
+                (
+                    gold_category.eq("designation_priority_accelerated")
+                    & actual_event_types.isin(APPROVAL_OR_LABEL_EVENT_TYPES)
+                    & parser_errors["status"].astype(str).ne("ok")
+                ).any()
+            )
+            enrollment_mistaken_for_readout = bool((gold_category.eq("enrollment_update") & actual_event_types.isin(READOUT_EVENT_TYPES)).any())
+            publication_mistaken_for_readout = bool((gold_category.eq("publication_conference_notice") & actual_event_types.isin(READOUT_EVENT_TYPES)).any())
+            metrics["parser_event_type_precision"] = float(event_type_precision)
+            metrics["parser_enrollment_update_false_readout"] = enrollment_mistaken_for_readout
+            metrics["parser_publication_notice_false_readout"] = publication_mistaken_for_readout
+            gates["parser_audit_pass"] = bool(
+                audit_rows >= 60
+                and event_type_precision >= 0.95
+                and audit_precision >= 0.90
+                and not designation_mistaken_for_approval
+                and not enrollment_mistaken_for_readout
+                and not publication_mistaken_for_readout
+            )
+        else:
+            gates["parser_audit_pass"] = bool(audit_rows >= 60 and audit_precision >= 0.90)
     else:
         metrics["parser_audit_precision"] = "missing"
         gates["parser_audit_pass"] = False
@@ -1456,6 +1483,9 @@ def write_biotech_catalyst_readiness_report(
         "rows_with_pre_event_runup_context",
         "rows_with_source_evidence",
         "parser_audit_precision",
+        "parser_event_type_precision",
+        "parser_enrollment_update_false_readout",
+        "parser_publication_notice_false_readout",
         "likely_oos_predictions_min_train",
     ]:
         if key in summary:

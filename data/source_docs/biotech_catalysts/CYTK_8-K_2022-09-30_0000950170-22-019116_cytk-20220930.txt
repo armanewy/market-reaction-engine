@@ -1,0 +1,229 @@
+8-K
+
+0001061983false00010619832022-09-302022-09-30
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 30, 2022
+
+ 
+
+ 
+
+Cytokinetics, Incorporated
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+000-50633
+
+94-3291317
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+350 Oyster Point Boulevard
+
+ 
+
+South San Francisco, California
+
+ 
+
+94080
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (650) 624-3000
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+CYTK
+
+ 
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+On September 30, 2022, Cytokinetics, Incorporated (the "Company" or the "Registrant") presented new data on the reduction and withdrawal of background standard of care medical therapy in patients treated with aficamten in REDWOOD-HCM OLE (Randomized Evaluation of Dosing With CK-274 in Obstructive Outflow Disease in HCM Open Label Extension) in a Late Breaking Clinical Trials session at the 2022 HCM Society Scientific Sessions, the inaugural scientific sessions of this newly launched professional medical society, held in National Harbor, MD.
+
+ 
+
+Patients in REDWOOD-HCM OLE were classified as receiving standard of care therapy if they were being treated with at least a beta-blocker, non-dihydropyridine calcium channel blocker, or disopyramide. Patients were eligible for background therapy reduction/withdrawal (BTR/W) at the discretion of the site investigator, only after Week 12 and after having received a stable dose of aficamten for at least four weeks. Of 42 patients enrolled at the time of this analysis, 39 (93%) were taking ≥1 standard of care medication, and of those, 27 (69%) were receiving a beta-blocker only, 4 (10%) were receiving a calcium channel blocker only, 7 (18%) were receiving disopyramide and either a calcium channel blocker or beta-blocker, and 1 patient (3%) was receiving all three therapies. Of the 35 patients who had completed treatment with aficamten through Week 12, BTR/W was attempted in 20 patients. 17 patients (85%) achieved successful BTR/W, defined as at least one dose reduction of one medication to ≤50% of the baseline dose. Ten patients completely discontinued at least one medication, and 5 withdrew from all standard of care therapies. BTR/W was unsuccessful in three patients, who reinstituted a beta-blocker as a result of recurrence of symptoms or elevated left ventricular outflow tract gradients (LVOT-G). NYHA functional class and NT-proBNP and high-sensitivity troponin I levels remained stable before and after BTR/W. In 14 patients with an available assessment before and after BTR/W, BTR/W resulted in an increase in resting heart rate of 12 bpm (mean HR=74 ±10 bpm, p=0.0001) and Valsalva LVOT-G of 15 mmHg (mean Valsalva LVOT-G=42 ±26 mmHg, p=0.02). These data suggest that patients who achieved successful BTR/W experienced similar benefits from treatment with aficamten as those who remained on background standard of care therapy, and warrants further study.
+
+ 
+
+Figure 1: Hemodynamics and Functional Class
+
+ 
+
+ 
+
+A: All Patients; B: On BT; C: Patients with BTR/W Attempt; D: Patients on BT without BTR/W attempt
+
+ 
+
+ 
+
+About Aficamten
+
+ 
+
+Aficamten is an investigational selective, small molecule cardiac myosin inhibitor discovered following an extensive chemical optimization program that was conducted with careful attention to therapeutic index and pharmacokinetic properties and as may translate into next-in-class potential in clinical development. Aficamten was designed to reduce the number of active actin-myosin cross bridges during each cardiac cycle and consequently suppress the myocardial hypercontractility that is associated with hypertrophic cardiomyopathy (HCM). In preclinical models, aficamten reduced myocardial contractility by binding directly to cardiac myosin at a distinct and selective allosteric binding site, thereby preventing myosin from entering a force producing state. The development program for aficamten is assessing its potential as a treatment that improves exercise capacity and relieves symptoms in patients with HCM as
+
+well as its long-term effects on cardiac structure and function. Aficamten received Breakthrough Therapy Designation for the treatment of symptomatic obstructive HCM from the U.S. Food & Drug Administration (FDA).
+
+ 
+
+About Hypertrophic Cardiomyopathy
+
+ 
+
+Hypertrophic cardiomyopathy (HCM) is a disease in which the heart muscle (myocardium) becomes abnormally thick (hypertrophied). The thickening of cardiac muscle leads to the inside of the left ventricle becoming smaller and stiffer, and thus the ventricle becomes less able to relax and fill with blood. This ultimately limits the heart’s pumping function, resulting in symptoms including chest pain, dizziness, shortness of breath, or fainting during physical activity. A subset of patients with HCM are at high risk of progressive disease which can lead to atrial fibrillation, stroke and death due to arrhythmias.
+
+ 
+
+About Cytokinetics
+
+ 
+
+Cytokinetics is a late-stage biopharmaceutical company focused on discovering, developing and commercializing first-in-class muscle activators and next-in-class muscle inhibitors as potential treatments for debilitating diseases in which muscle performance is compromised and/or declining. As a leader in muscle biology and the mechanics of muscle performance, the company is developing small molecule drug candidates specifically engineered to impact muscle function and contractility. Cytokinetics is preparing a U.S. NDA submission of omecamtiv mecarbil, its novel cardiac muscle activator, following positive results from GALACTIC-HF, a large, international Phase 3 clinical trial in patients with heart failure. Cytokinetics is conducting METEORIC-HF, a second Phase 3 clinical trial of omecamtiv mecarbil. Cytokinetics is also developing aficamten, a next-generation cardiac myosin inhibitor, for the potential treatment of hypertrophic cardiomyopathies (HCM). The company has announced positive topline results from Cohorts 1 and 2 in REDWOOD-HCM, a Phase 2 clinical trial of aficamten in patients with obstructive HCM. Cytokinetics expects to start a Phase 3 clinical trial of aficamten in patients with obstructive HCM in Q4 2021. Cytokinetics is also developing reldesemtiv, a fast skeletal muscle troponin activator, currently the subject of COURAGE-ALS, a Phase 3 clinical trial in patients with ALS. Cytokinetics continues its over 20-year history of pioneering innovation in muscle biology and related pharmacology focused to diseases of muscle dysfunction and conditions of muscle weakness.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This press release contains forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995 (the "Act"). Cytokinetics disclaims any intent or obligation to update these forward-looking statements and claims the protection of the Act's Safe Harbor for forward-looking statements. Examples of such statements include, but are not limited to, statements relating to any of our other clinical trials, statements relating to the potential benefits of aficamten, or any of our other drug candidates, including whether aficamten will benefit patients with HCM as a monotherapy. Cytokinetics' research and development activities; the design, timing, results, significance and utility of preclinical and clinical results; and the properties and potential benefits of Cytokinetics' other drug candidates. Such statements are based on management's current expectations, but actual results may differ materially due to various risks and uncertainties, including, but not limited to, potential difficulties or delays in the development, testing, regulatory approvals for trial commencement, progression or product sale or manufacturing, or production of Cytokinetics' drug candidates that could slow or prevent clinical development or product approval; Cytokinetics' drug candidates may have adverse side effects or inadequate therapeutic efficacy; the FDA or foreign regulatory agencies may delay or limit Cytokinetics' ability to conduct clinical trials; Cytokinetics may be unable to obtain or maintain patent or trade secret protection for its intellectual property; standards of care may change, rendering Cytokinetics' drug candidates obsolete; and competitive products or alternative therapies may be developed by others for the treatment of indications Cytokinetics' drug candidates and potential drug candidates may target. For further information regarding these and other risks related to Cytokinetics' business, investors should consult Cytokinetics' filings with the Securities and Exchange Commission.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CYTOKINETICS, INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+September 30, 2022
+
+By:
+
+/s/ John Faurescu
+
+ 
+
+ 
+
+ 
+
+John Faurescu, Esq.
+
+Vice President, Assistant Secretary

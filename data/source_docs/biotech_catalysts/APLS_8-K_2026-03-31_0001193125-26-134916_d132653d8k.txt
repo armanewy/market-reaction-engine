@@ -1,0 +1,355 @@
+8-K
+
+false 0001492422 0001492422 2026-03-30 2026-03-30
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 30, 2026
+
+ 
+
+ 
+
+Apellis Pharmaceuticals, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38276
+
+ 
+
+27-1537290
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+100 Fifth Avenue
+
+Waltham, MA
+
+ 
+
+02451
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617) 977-5700
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+APLS
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Agreement and Plan of Merger
+
+On March 31, 2026, Apellis Pharmaceuticals, Inc., a Delaware corporation (the “Company”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Biogen Inc., a Delaware corporation (“Parent”), and Aspen Purchaser Sub, Inc., a Delaware corporation and a direct wholly owned subsidiary of Parent (“Purchaser”).
+
+Pursuant to the Merger Agreement, and upon the terms and subject to the conditions therein, Purchaser will commence a tender offer (the “Offer”) to acquire any and all of the issued and outstanding shares of common stock, par value $0.0001 per share, of the Company (the “Company Common Stock”), in exchange for (i) $41.00 per share of Company Common Stock, net to the seller in cash, without interest and subject to reduction for any applicable tax withholding (such amount, or any higher amount per share paid pursuant to the Offer, the “Upfront Consideration”), plus (ii) one contractual, non-transferable contingent value right per share of Company Common Stock (each, a “CVR”), which shall entitle the holder to receive potential payments of up to an aggregate of $4.00 in cash, without interest and subject to reduction for any applicable tax withholding, upon the achievement of certain specified milestones described below in accordance with the terms and conditions of a contingent value rights agreement (the “CVR Agreement”) to be entered into with a rights agent (the “Rights Agent”) mutually acceptable to Parent and the Company (the Upfront Consideration plus one CVR, together, the “Offer Price”). The Offer will remain open for 20 business days, subject to extension under certain circumstances.
+
+Promptly following the consummation of the Offer, subject to the terms and conditions set forth in the Merger Agreement, and in accordance with the General Corporation Law of the State of Delaware (the “DGCL”), Purchaser will merge with and into the Company, with the Company continuing as the surviving corporation and a wholly owned subsidiary of Parent (the “Merger”). The Merger Agreement contemplates that the Merger will be effected pursuant to Section 251(h) of the DGCL, with no stockholder vote required to consummate the Merger. At the effective time of the Merger (the “Effective Time”), each share of Company Common Stock (other than shares of Company Common Stock that are (i) held in the treasury of the Company, (ii) irrevocably accepted for purchase in the Offer by Purchaser and “received” (as such term is defined by Section 251(h)(6)(f) of the DGCL) by Purchaser, (iii) held by Parent, Purchaser or any other wholly owned subsidiary of the Parent as of both the commencement of the Offer and immediately prior to the Effective Time and (iv) held by stockholders who are entitled to, and properly demand, appraisal for such shares of Company Common Stock in accordance with Section 262 of the DGCL) will be cancelled and converted into the right to receive the Offer Price from Purchaser (the “Merger Consideration”) without interest, subject to reduction for any applicable withholding taxes (the “Merger Consideration”).
+
+The obligation of Purchaser to purchase shares of Company Common Stock tendered in the Offer is subject to the satisfaction or waiver of a number of conditions set forth in the Merger Agreement, including (i) that there have been validly tendered and not validly withdrawn prior to the expiration of the Offer a number of shares of Company Common Stock that, considered together with the number of shares of Company Common Stock, if any, then owned beneficially by Parent and its subsidiaries, would represent at least one more share of Company Common Stock than 50% of the total number of shares of Company Common Stock outstanding at the time of the expiration of the Offer (the “Minimum Condition”); (ii) the accuracy of the representations and warranties of the Company contained in the Merger Agreement, subject to customary thresholds and exceptions; (iii) the Company’s compliance with, and performance of, in all material respects its covenants and obligations contained in the Merger Agreement; (iv) the expiration or termination of all applicable waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “HSR Act”); and (v) other customary conditions set forth in Annex I to the Merger Agreement. The Minimum Condition may not be waived by Parent or Purchaser without the prior written consent of the Company. Consummation of the Offer is not subject to a financing condition.
+
+Parent and the Company have agreed to make an appropriate filing of a Notification and Report Form pursuant to the HSR Act with respect to the transactions contemplated by the Merger Agreement as promptly as practicable and in any event within 15 business days after the date of the Merger Agreement, and to as promptly as reasonably practicable make any filings required under other applicable antitrust or foreign direct investment laws.
+
+The Merger Agreement includes customary representations, warranties and covenants of the Company, Parent and Purchaser for a transaction of this nature, including covenants regarding the operation of the Company’s business until the time at which Purchaser irrevocably accepts for purchase all shares of Company Common Stock validly tendered (and not validly withdrawn) pursuant to the Offer (or the earlier of the termination of the Merger Agreement).
+
+The Company has also agreed to customary restrictions on its ability to solicit alternative acquisition proposals from third parties and engage in discussions or negotiations with third parties regarding acquisition proposals. Notwithstanding these restrictions, the Company may under certain circumstances provide information to and participate in discussions or negotiations with third parties with respect to an unsolicited bona fide written acquisition proposal that the board of directors of the Company (the “Company Board”) has determined in good faith is, or would reasonably be expected to lead to, a Superior Proposal (as defined in the Merger Agreement), if failing to do so would be reasonably likely to be inconsistent with the Company Board’s fiduciary obligations under applicable law.
+
+The Merger Agreement also includes customary termination provisions for both the Company and Parent, including, among others, the right of either party to terminate for failure to consummate the Offer on or before September 30, 2026. If the Merger Agreement is terminated under certain circumstances specified in the Merger Agreement, the Company will be required to pay Parent a termination fee of $205,000,000 (including under specified circumstances in connection with the Company’s entry into an agreement with respect to an alternative transaction, including in connection with a Superior Proposal, or the Company Board withdraws its recommendation in favor of the Offer). The parties to the Merger Agreement are also entitled to specifically enforce the terms and provisions of the Merger Agreement.
+
+The Company Board unanimously: (i) determined and declared that it is in the best interests of the Company and the stockholders of the Company that the Company enter into the Merger Agreement and the CVR Agreement and consummate the Merger and that the stockholders of the Company accept the Offer and tender their shares of Company Common Stock pursuant to the Offer, in each case on the terms and subject to the conditions set forth in the Merger Agreement; (ii) approved and declared the advisability of the Merger Agreement and the CVR Agreement, the Offer, the Merger and the other transactions contemplated by the Merger Agreement; (iii) resolved that the Merger shall be effected under Section 251(h) of the DGCL; (iv) declared that the terms of the Offer and the Merger are fair to the Company and the Company’s stockholders; and (v) resolved to recommend that the Company’s stockholders accept the Offer and tender their shares of Company Common Stock pursuant to the Offer; (vi) approved the execution, delivery and performance by the Company of the Merger Agreement and the Company’s consummation of the Merger and the other transactions contemplated by the Merger Agreement; and (vii) approved the Company’s entry into the CVR Agreement and the performance of its obligations thereunder.
+
+The foregoing summary of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, which is filed as Exhibit 2.1 hereto and is incorporated herein by reference. The foregoing summary and the copy of the Merger Agreement are intended to provide information regarding the terms of the Merger Agreement and are not intended to modify or supplement any factual disclosures about the Company in its public reports filed with the U.S. Securities and Exchange Commission (the “SEC”). The assertions embodied in the representations and warranties included in the Merger Agreement were made solely for purposes of such agreement and are subject to important qualifications and limitations agreed to by the Company, Purchaser and Parent in connection with the negotiated terms, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties thereto. Moreover, certain representations and warranties were made as of a specified date, may be subject to a contractual standard of materiality different from those generally applicable to the Company’s SEC filings or may have been used for purposes of allocating risk among the Company, Purchaser and Parent rather than establishing matters as facts. Investors should not rely on the representations and warranties or any description of them as characterizations of the actual state of facts of the Company, Parent, Purchaser or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, and, unless required by applicable law, the Company undertakes no obligation to update such information.
+
+Tender and Support Agreement
+
+On March 31, 2026, in connection with the execution and delivery of the Merger Agreement, certain of the Company’s current directors and executive officers, Cedric Francois, Gerald Chan, Alec Machiels and Pascal Deschatelets, and Morningside Venture Investments, Ltd., a stockholder of the Company (collectively, the “Support Stockholders”), solely in their respective capacities as stockholders of the Company, entered into a tender and support agreement (the “Tender and Support Agreement”) with Parent and Purchaser, pursuant to which each Support Stockholder agreed, among other things, (i) to tender all of the shares of Company Common Stock held by such Support Stockholder in the Offer, (ii) to, if applicable, vote all of such Support Stockholder’s shares of Company Common Stock in favor of the Merger, and (iii) to certain other restrictions on its ability to take actions with respect to the Company and its shares of Company Common Stock. The Support Stockholders are the record or beneficial owners (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended) of approximately 14% of the outstanding shares of Company Common Stock as of March 27, 2026. The Tender and Support Agreement will terminate upon the earliest of (i) the date and time upon which the Merger Agreement is terminated in accordance with its terms, (ii) the Effective Time, (iii) such time as any modification, waiver or amendment to the Merger Agreement is effected without each Support Stockholder’s consent that (A) changes the form of consideration payable in the Offer, decreases the Offer Price or decreases the maximum number of shares of Company Common Stock sought to be purchased in the Offer, (B) terminates the Offer, (C) amends, modifies or supplements the terms of the Offer in any manner adverse to such Support Stockholder or (D) imposes any new condition to the Offer other than the conditions to the Offer in the Merger Agreement, (iv) the Company Board changes its recommendation in favor of the Offer and (v) the mutual written consent of Parent and each Support Stockholder.
+
+The Tender and Support Agreement has been included to provide information regarding its terms. It is not intended to modify or supplement any factual disclosures about the applicable Support Stockholder or the Company, Parent or Purchaser in any public reports filed with the SEC by the Company.
+
+The foregoing description of the Tender and Support Agreement does not purport to be complete and is qualified in all respects by reference to the full text of the Tender and Support Agreement, which is attached as Exhibit 99.1 hereto and is incorporated by reference herein.
+
+Contingent Value Rights Agreement
+
+At or prior to the time at which Purchaser irrevocably accepts for purchase all shares of Company Common Stock validly tendered (and not validly withdrawn) pursuant to the Offer, Parent, the Company and the Rights Agent will enter into the CVR Agreement. The CVRs are contractual rights only and not transferable except under certain limited circumstances, will not be certificated or evidenced by any instrument and will not be registered with the SEC or listed for trading. The CVRs will not have any voting or dividend rights and will not represent any equity or ownership interest in Parent, Purchaser, Company or any of their affiliates.
+
+Each CVR represents a non-transferable contractual contingent right to receive the following cash payments, without interest and subject to reduction for any applicable tax withholding (the “Milestone Payments”) if the following milestones (the “Milestones”) are achieved:
+
+ 
+
+ 
+
+•
+
+ 
+
+$2.00 per CVR, upon the achievement of Annual Net Sales, as defined in the CVR Agreement, of at least $1,500,000,000 attributable to SYFOVRE® and related products in the aggregate during the 2027, 2028, 2029 or 2030 calendar years (the “Net Sales Milestone 1”); or
+
+ 
+
+ 
+
+•
+
+ 
+
+$2.00 per CVR, upon the achievement of Annual Net Sales, as defined in the CVR Agreement, of at least $2,000,000,000 attributable to SYFOVRE® and related products in the aggregate during the 2027, 2028, 2029, 2030 or 2031 calendar years (the “Net Sales Milestone 2”), provided that if the Net Sales Milestone 1 is not met prior to December 31, 2030 but the Net Sales Milestone 2 is achieved during the 2031 calendar year, then the Net Sales Milestone 2 shall be worth $4.00 per CVR.
+
+Each Milestone may only be achieved one time; if the Annual Net Sales threshold is met in multiple calendar years, only the first achievement triggers payment.
+
+There can be no assurance that any Milestone will be achieved prior to the expiration or termination of the CVR Agreement, or that payment will be required of Parent with respect to any Milestone.
+
+The foregoing description of the CVR Agreement does not purport to be complete and is qualified in all respects by reference to the full text of the form of the CVR Agreement, a copy of which is attached as Exhibit B to the Merger Agreement filed as Exhibit 2.1 hereto and is incorporated by reference herein.
+
+ 
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On March 30, 2026, the compensation committee of the Company Board approved the Apellis Pharmaceuticals, Inc. Excise Tax Gross-Up Plan (the “Plan”), which provides that “disqualified individuals” of the Company within the meaning of Section 280G of the Internal Revenue Code (including the Company’s named executive officers) may become participants under the Plan. Each participant will have a right under the Plan to receive a gross-up payment in the event that any payments or benefits provided to such participant in connection with the Merger become subject to the excise tax pursuant to Section 4999 of the Internal Revenue Code of 1986, as amended. The gross-up payment would generally place the participant in the same after-tax position that the participant would have been in if the excise tax did not apply to the participant, subject to an aggregate $25 million cap in total gross-up payments that may be made to all participants under the Plan. Notwithstanding the foregoing, to the extent a participant’s payments or benefits exceed the participant’s applicable Section 280G safe harbor amount by 10% or less, the participant will instead receive a reduction of payments and benefits to the extent necessary to cause the payments not to become subject to the excise tax. The Plan will automatically become effective upon, and subject to the occurrence of, the Merger and therefore will automatically terminate if the Merger Agreement is terminated without the consummation of the Merger.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+Press Release
+
+On March 31, 2026, the Company and Parent issued a joint press release announcing the entry into the Merger Agreement. A copy of the press release is attached as Exhibit 99.2 hereto and is incorporated herein by reference.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains “forward-looking” statements that are subject to risks, uncertainties and other factors relating to future events and the future performance of Biogen Inc. (“Biogen”) and Apellis Pharmaceuticals, Inc. (“Apellis”), including regarding Biogen’s proposed acquisition of Apellis pursuant to that certain Agreement and Plan of Merger, dated as of March 31, 2026, by and among Biogen, Aspen Purchaser Sub, Inc. (“Purchaser”) and Apellis (the “Merger Agreement”, and the tender offer contemplated thereby, the “tender offer” and the merger contemplated thereby, the “merger”, and together with the other transactions contemplated thereby, the “transactions”), the prospective benefits of the transactions, the potential contingent consideration amounts and the terms and the anticipated occurrence, manner and timing of the proposed tender offer and the closing of the transactions. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” “would” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Actual results or events could differ materially from the plans, intentions and expectations disclosed in these forward-looking statements as a result of various factors, including, among other things: the risk that the transactions may not be completed in a timely manner, or at all; uncertainties as to the timing of the tender offer and merger; the possibility that various closing conditions of the tender offer or the merger may not be satisfied or waived, including that a governmental entity may prohibit, delay or refuse to grant approval for the consummation of the transactions (or only grant approval subject to adverse conditions or limitations); the difficulty of predicting the timing or outcome of regulatory approvals or actions, if any; uncertainty regarding how many of Apellis’ stockholders will tender their shares in the tender offer; the risk that competing offers or acquisition proposals will be made; the occurrence of any event, change or other circumstance that could give rise to the termination of the Merger Agreement and the transactions contemplated thereby; uncertainty as to the ultimate transaction costs; uncertainty regarding each of the milestones that are needed to be achieved to obtain the potential contingent consideration amounts, including the possibility that such milestones will never be achieved and that no contingent consideration payments may be made; the effect of the announcement or pendency of the transactions on
+
+the trading price of Apellis’ or Biogen’s common stock or Apellis’ or Biogen’s business, operating results or relationships with employees, collaborators, vendors, competitors or other business partners or governmental entities; risks that the transactions or transaction-related uncertainty may disrupt Apellis’ and Biogen’s current plans and business operations; potential difficulties retaining employees as a result of the transactions; risks related to diverting the attention of the management teams of Apellis and Biogen from ongoing business operations; the risk that stockholder litigation or legal proceedings in connection with the transactions may result in significant costs of defense, indemnification and liability, or present risks to the timing or certainty of the closing of the transactions; the outcome of any stockholder litigation or legal proceedings that may be instituted against Apellis or Biogen related to the transactions; changes in Apellis’ or Biogen’s respective businesses during the period between announcement and closing of the transactions; risks related to Biogen’s ability to realize the anticipated benefits of the transactions, including the possibility that the expected benefits from the transactions will not be realized or will not be realized within the expected time period and that Apellis and Biogen will not be integrated successfully; uncertainties pertaining to other business effects, including the effects of industry, market, economic, political or regulatory conditions, future exchange and interest rates and changes in tax and other laws, regulations, rates and policies; and other risks and uncertainties.
+
+A more complete description of these and other material risks can be found in Apellis’ and Biogen’s filings with the U.S. Securities and Exchange Commission (the “SEC”), including in the section entitled “Risk Factors” in Apellis’ Annual Report on Form 10-K for the fiscal year ended December 31, 2025 filed with the SEC on February 24, 2026 (and available at:
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/1492422/000119312526065179/apls-20251231.htm), in the section entitled “Risk Factors” in Biogen’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025 filed with the SEC on February 6, 2026 (and available at: https://www.sec.gov/ix?doc=/Archives/edgar/data/875045/000087504526000013/biib-20251231.htm), in other filings Apellis and Biogen may make with the SEC in the future, including in their Quarterly Reports on Form 10-Q, as well as in the Schedule TO and related tender offer documents to be filed by Biogen and Purchaser and the Schedule 14D-9 to be filed by Apellis. Any forward-looking statements are made based on the current beliefs and judgments of Apellis’ and Biogen’s management, and the reader is cautioned not to rely on any forward-looking statements made by Apellis or Biogen. Any forward-looking statements contained herein speak only as of the date hereof, and Apellis and Biogen do not undertake and expressly disclaim any obligation to update any forward-looking statements contained herein, whether because of any new information, future events, changed circumstances or otherwise, except as otherwise required by law.
+
+Important Information for Investors and Stockholders and Where to Find It
+
+The tender offer referenced in this Current Report on Form 8-K has not yet commenced. This filing is for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell any securities, nor is it a substitute for the tender offer materials that Biogen, Purchaser or Apellis will file with the SEC. The solicitation and offer to buy outstanding shares of Apellis common stock will only be made pursuant to an Offer to Purchase and related tender offer materials that Biogen and Purchaser intend to file with the SEC. At the time the tender offer is commenced, Biogen and Purchaser will file a Tender Offer Statement on Schedule TO and thereafter Apellis will file a Solicitation/Recommendation Statement on Schedule 14D-9 with the SEC with respect to the tender offer. APELLIS’ STOCKHOLDERS ARE URGED TO CAREFULLY READ THE TENDER OFFER MATERIALS (INCLUDING AN OFFER TO PURCHASE, A RELATED LETTER OF TRANSMITTAL AND CERTAIN OTHER TENDER OFFER DOCUMENTS) AND THE SOLICITATION/RECOMMENDATION STATEMENT ON SCHEDULE 14D-9 (AS EACH MAY BE AMENDED OR SUPPLEMENTED FROM TIME TO TIME), WHEN THEY BECOME AVAILABLE, BECAUSE THEY WILL EACH CONTAIN IMPORTANT INFORMATION ABOUT THE TENDER OFFER AND MERGER THAT APELLIS’ STOCKHOLDERS SHOULD CONSIDER BEFORE MAKING ANY DECISION WITH RESPECT TO THE TENDER OFFER. The Schedule TO, including the Offer to Purchase, the related Letter of Transmittal and certain other tender offer documents, and the Solicitation/Recommendation Statement on Schedule 14D-9, will be made available to all of Apellis’ stockholders at no expense to them and will also be made available for free at the SEC’s website at www.sec.gov. Additional copies of the tender offer materials filed by Apellis may be obtained for free under the “Investors & Media” section of the Company’s website at https://investors.apellis.com/investor-relations. Additional copies of the tender offer materials filed by Biogen and Purchaser may be obtained for free under the “Investors” section of Biogen’s website at https://investors.biogen.com. In addition to the Offer to Purchase, the related Letter of
+
+Transmittal and certain other tender offer documents and the Solicitation/Recommendation Statement on Schedule 14D-9, Apellis and Biogen each file annual, quarterly and current reports, proxy statements and other information with the SEC, which are available to the public over the internet at the SEC’s website at http://www.sec.gov.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+ 2.1*
+
+  
+
+Agreement and Plan of Merger, dated as of March 31, 2026, by and among Apellis Pharmaceuticals, Inc., Biogen Inc. and Aspen Purchaser Sub, Inc.
+
+99.1
+
+  
+
+Tender and Support Agreement, dated as of March 31, 2026, by and among Biogen Inc., Aspen Purchaser Sub, Inc. and certain stockholders of Apellis Pharmaceuticals, Inc.
+
+99.2
+
+  
+
+Joint Press Release, dated March 31, 2026, issued by Apellis Pharmaceuticals, Inc. and Biogen Inc.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+*
+
+Schedules, exhibits and similar attachments have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company hereby agrees to supplementally furnish to the SEC upon request any omitted schedule, exhibit or similar attachment to Exhibit 2.1.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Apellis Pharmaceuticals, Inc.
+
+Date: March 31, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Timothy Sullivan
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Timothy Sullivan
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Financial Officer

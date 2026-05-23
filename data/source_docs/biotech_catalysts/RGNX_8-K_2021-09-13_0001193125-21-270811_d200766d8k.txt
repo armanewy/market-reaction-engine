@@ -1,0 +1,269 @@
+8-K
+
+false 0001590877 0001590877 2021-09-10 2021-09-10
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 10, 2021
+
+ 
+
+ 
+
+REGENXBIO Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37553
+
+ 
+
+47-1851754
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+9804 Medical Center Drive
+
+Rockville, Maryland
+
+ 
+
+20850
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(240) 552-8181
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+RGNX
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 under the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 under the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On September 10, 2021, REGENXBIO Inc. (the “Company”) entered into a Collaboration and License Agreement with AbbVie Global Enterprises Ltd. (the “Partner”), a subsidiary of AbbVie Inc., to develop and commercialize RGX-314, a potential one-time gene therapy for the treatment of wet age-related macular degeneration (“wet AMD”), diabetic retinopathy (“DR”) and other chronic retinal diseases (the “Collaboration and License Agreement”). The Collaboration and License Agreement will become effective upon the satisfaction of customary closing conditions, including the expiration or termination of the applicable waiting or suspension period under the Hart-Scott Rodino Antitrust Improvements Act of 1976, as amended, and any other applicable competition laws.
+
+Pursuant to the Collaboration and License Agreement, the parties will conduct certain activities for the development of products containing RGX-314 (“Licensed Products”) under a development plan determined in accordance with the Collaboration and License Agreement. In the United States, the parties are required to use commercially reasonable efforts to develop one Licensed Product for the treatment of each of (a) wet AMD utilizing suprachoroidal delivery, (b) wet AMD utilizing subretinal delivery and (c) DR and, (d) following the achievement of specified milestone events, one Licensed Product for the treatment of an additional indication. In specified markets outside the United States, the Partner is required to use commercially reasonable efforts to develop one Licensed Product for each such indication. Through December 31, 2022, the Company will be responsible for development expenses for certain ongoing trials of RGX-314 and the parties will share additional development expenses related to RGX-314. Beginning on January 1, 2023, the Partner will be responsible for the majority of all development expenses.
+
+The Company will lead the manufacturing of RGX-314 for clinical development and U.S. commercial supply, and the Partner will lead manufacturing of RGX-314 for commercial supply outside the United States. Manufacturing expenses will be allocated between the parties in accordance with the terms of the Collaboration and License Agreement and mutually agreed supply agreements. In the United States, the Company shall participate in commercialization of Licensed Products to the extent set forth in a commercialization plan to be determined in accordance with the Collaboration and License Agreement, and the parties will equally share net profits and net losses associated with commercialization of the Licensed Products in the United States. Outside the United States, the Partner will be responsible, at its sole cost, for the commercialization of Licensed Products.
+
+The Company will receive an upfront payment of $370.0 million from the Partner. Additionally, the Company will be eligible to receive up to $1.38 billion in development, regulatory and commercial milestone payments, in the aggregate, for the achievement of specified milestones for Licensed Products, of which $782.5 million are based on development and regulatory milestones, with the remainder based on commercial milestones. The Company will also be eligible to receive tiered royalties on net sales by the Partner of Licensed Products outside the United States at percentages in the mid-teens to low twenties, subject to specified offsets and reductions. Royalties will be payable on a product-by-product and country-by-country basis outside the United States commencing on the date of first commercial sale of each Licensed Product, and ending on the later of (a) expiration of all valid claims of specified licensed patents in such country, (b) expiration of regulatory exclusivity in such country and (c)(x) if such country is in the European Union, 12 years following first commercial sale of such product in such country, or (y) if such country is outside the European Union, 10 years following the first commercial sale of such product in such country (the “Royalty Term”).
+
+The Collaboration and License Agreement will remain in effect, unless earlier terminated, on a country-by-country basis until (a) in the case of the United States, the later of (i) the 120th day after any quarter in which no Licensed Product is being developed or commercialized under such agreement, and (ii) the date that specified licensed patents for a Licensed Product expire in the United States, and (b) in the case of any country outside the United States, the date the Royalty Term for a Licensed Product expires in such country.
+
+The Collaboration and License Agreement contains provisions for termination by (a) the Company upon a challenge of certain licensed patents specified in the Collaboration and License Agreement by the Partner, (b) either party for an uncured material breach of such agreement, (c) the Partner for convenience, (d) the Partner for safety reasons, and (e) either party upon the insolvency of the other party. Additionally, the Collaboration and License Agreement contains, among other provisions, customary representation and warranties, indemnification obligations and confidentiality and intellectual property provisions.
+
+The foregoing description of the terms of the Collaboration and License Agreement does not purport to be complete and is qualified in its entirety by the full text of such agreement. The Company intends to file a copy of the Collaboration and License Agreement with its Quarterly Report on Form 10-Q for the quarter ending September 30, 2021.
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+The Company and AbbVie Inc. issued a joint press release on September 13, 2021, announcing the entry into the Collaboration and License Agreement, which is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+The information in Item 7.01 of this Current Report on Form 8-K and Exhibit 99.1 attached hereto shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to liability under that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Forward-Looking Statements.
+
+This Current Report on Form 8-K includes “forward-looking statements,” within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. These statements express a belief, expectation or intention and are generally accompanied by words that convey projected future events or outcomes such as “believe,” “may,” “will,” “estimate,” “continue,” “anticipate,” “assume,” “design,” “intend,” “expect,” “could,” “plan,” “potential,” “predict,” “seek,” “should,” “would” or by variations of such words or by similar expressions. The forward-looking statements include statements relating to, among other things, the Company’s proposed collaboration with the Partner and the Company’s future operations and clinical trials. The Company has based these forward-looking statements on its current expectations and assumptions and analyses made by the Company in light of its experience and its perception of historical trends, current conditions and expected future developments, as well as other factors the Company believes are appropriate under the circumstances. However, whether actual results and developments will conform with the Company’s expectations and predictions is subject to a number of risks and uncertainties, including the anticipated completion of the Company’s proposed transaction with the Partner, the outcome of the Company’s proposed collaboration with the Partner and other factors, many of which are beyond the control of the Company. Refer to the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s Annual Report on Form 10-K for the year ended December 31, 2020 and comparable “risk factors” sections of the Company’s Quarterly Reports on Form 10-Q and other filings, which have been filed with the U.S. Securities and Exchange Commission (the “SEC”) and are available on the SEC’s website at www.sec.gov. All of the forward-looking statements made in this Current Report on Form 8-K are expressly qualified by the cautionary statements contained or referred to herein. The actual results or developments anticipated may not be realized or, even if substantially realized, they may not have the expected consequences to or effects on the Company or its businesses or operations. Such statements are not guarantees of future performance and actual results or developments may differ materially from those projected in the forward-looking statements. Readers are cautioned not to rely too heavily on the forward-looking statements contained in this Current Report on Form 8-K. These forward-looking statements speak only as of the date of this Current Report on Form 8-K. Except as required by law, the Company does not undertake any obligation, and specifically declines any obligation, to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+(d)
+
+Exhibits
+
+ 
+
+Exhibit No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release dated September 13, 2021.
+
+104
+
+  
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REGENXBIO INC.
+
+Date: September 13, 2021
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Patrick J. Christmas II
+
+ 
+
+ 
+
+ 
+
+Patrick J. Christmas II
+
+ 
+
+ 
+
+ 
+
+Senior Vice President and Chief Legal Officer

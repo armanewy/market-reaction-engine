@@ -1,0 +1,145 @@
+EX-99.1
+2
+sana-ex991_7.htm
+EX-99.1
+
+Corporate Presentation June 2022 Exhibit 99.1
+
+This presentation contains forward-looking statements about Sana Biotechnology, Inc. (the “Company,” “we,” “us,” or “our”) within the meaning of the federal securities laws. All statements other than statements of historical facts contained in this presentation, including, among others, statements regarding the Company’s strategy, expectations, cash runway and future financial condition, future operations, and prospects, are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “aim,” “anticipate,” “assume,” “believe,” “contemplate,” “continue,” “could,” “design,” “due,” “estimate,” “expect,” “goal,” “intend,” “may,” “objective,” “plan,” “positioned,” “potential,” “predict,” “seek,” “should,” “target,” “will,” “would” and other similar expressions that are predictions of or indicate future events and future trends, or the negative of these terms or other comparable terminology. The Company has based these forward-looking statements largely on its current expectations, estimates, forecasts and projections about future events and financial trends that it believes may affect its financial condition, results of operations, business strategy and financial needs. In light of the significant uncertainties in these forward-looking statements, you should not rely upon forward-looking statements as predictions of future events. These statements are subject to risks and uncertainties that could cause the actual results to vary materially, including, among others, the risks inherent in drug development such as those associated with the initiation, cost, timing, progress and results of the Company’s current and future research and development programs, preclinical and clinical trials.
+For a detailed discussion of the risk factors that could affect the Company’s actual results, please refer to the risk factors identified in the Company’s SEC reports, including its Quarterly Report on Form 10-Q dated May 10, 2022. Except as required by law, the Company undertakes no obligation to update publicly any forward-looking statements for any reason. Cautionary Note Regarding Forward-Looking Statements 
+
+Ability to modify the genome and use engineered cells as medicines has the potential to be one of the most important advances in healthcare over the next several decades:
+Nearly every disease is caused by damage to or dysfunction of a cell
+Sana’s ambition is to repair or replace any cell in the body
+
+Platform progress, broad capabilities, and strong balance sheet enable us to execute on a broad vision:
+Goal: allo T and in vivo CAR T INDs this year with ~2 INDs per year going forward
+Building expertise in key areas: delivery of genetic material, gene modification, immunology, biology, and manufacturing
+$657M cash and investments as of March 31, 2022; expect cash runway into 2025 enabling multiple data readouts across our platforms based on current timelines for lead programs
+Slowed pace of investment for some programs with INDs expected in 2024+
+Sana Biotechnology Engineered Cells as Medicines
+
+Sana goal: Repair cells in the body when possible or replace them when needed Deliver any payload… (DNA, RNA, protein, organelle, integrating vs non-integrating)
+To any cell… (unlimited volume of distribution)
+In a specific… (e.g., just T cell)
+And repeatable way (limit immunogenicity)   Manufacture any cell at scale…
+That engrafts… (the right cell in the right environment)
+Functions… (understand exact phenotype desired)
+And persists (overcome immune rejection and cellular signaling, such as apoptotic signaling) 
+
+Sana’s platforms, technology, and programs 1Ornithine transcarbamylase deficiency
+
+Hypoimmune technology: Protecting cells from immune rejection
+
+Hypoimmune cells evade rejection from the adaptive and innate immune system in mice Evade the adaptive immune system Deuse T, …, Schrepfer S. Nat Biotechnology. 2019; 37:252-258 T cell Activation (ELISPOT) No systemic T cell activation with HIP cell transplantation IgM Binding (FACS)
+No binding of donor-specific
+antibodies against HIP cells Evade the innate immune system NK Cell Killing
+No NK cell killing of HIP cells Wildtype Unmodified Cells
+No killing of unmodified cells by NK cells MHC Class I/II Disruption
+Killing of partially edited iPSC; HLA I/II knockout by NK cells MHC Class I/II Disruption & CD47 Overexpression
+No killing of HIP cells by NK cells Representative of results across 5 mice for the unmodified arm and across 6 mice for the hypoimmune arm. Hypoimmune iPSC Unmodified iPSC
+
+Hypoimmune cells survive in vivo in NHP while unmodified iPSCs get rejected A A CO, cross over; Txp, transplant NHP unmodified iPSCs (wt) & NHP hypoimmune iPSCs (HIP) were transplanted into 8 allogeneic recipients Representative of results across 4 NHPs per arm. B Representative of results across 4 NHPs per arm.
+
+T cell Activation (ELISPOT) No systemic T cell activation by hypoimmune cells IgM Production (ELISA)
+Implantation of hypoimmune cells does not cause activation of antibody production Hypoimmune cells do not activate the “missing self” response from the NK cells Anti-CD47 safety switch Killing by NK Cells Transplantation of NHP iPSCs into allogeneic NHPs: immune evasion is achieved even after prior sensitization WT HIP MHC-I/II KO iPSC Hypoimmune iPSC Killing due to missing self No killing Anti-CD47 safety switch results in killing Hypoimmune cells evade rejection from the adaptive and innate immune system in NHPs Representative of results across 4 NHPs per arm. Hypoimmune iPSC Unmodified iPSC
+
+Sana is pursuing a broad ex vivo cell engineering strategy T cells Pancreatic islets Glial progenitor cells Cardiomyocytes Differentiate pluripotent stem cells with hypoimmune edits Programs that benefit from,
+but do not require hypoimmune edits
+
+Significant unmet need in B cell malignancies and multiple myeloma in the US and EU alone:
+~250,000 new cases annually1
+Est. 100,000 deaths annually1
+<10,000 patients have been treated with CAR T therapy to date2
+Of those treated, many do not respond and many relapse
+Manufacturing and access challenges remain for many patients High unmet need remains for blood cancers 1World Health Organization, GLOBOCAN 2020
+2Financial Reports, through Q3 2021; Evaluate Pharma, through Q3 2021
+
+Sana’s hypoimmune allo T is potentially best-in-class Cell engineering CD19 targeted HIP allogeneic T cell GvHD, graft versus host disease; HvGD, host versus graft disease. 2 3
+
+Day 0 Day 3 start of CAR dosing Day 7 Day 15 Untreated Day 23 Day 27 HIP CAR T cells CD19 HIP CAR T cells clear tumor in vivo
+
+Clinical study shows CD22 CAR T efficacy in treating relapsed lymphoma after prior CD19 CAR T therapy Miklos et al, ASH 2021 Blood 2021 Apr 29;137(17):2321-2325. doi: 10.1182/blood.2020009432. Minimal ICANS / CRS observed across dose levels Miklos et al, ASH 2021
+Total is a combination of DL1 and DL2
+
+Expect to file our first allo T IND targeting CD19 as early as this year
+
+CD19/CD22 dual targeting offers potential of higher and more durable complete response rates
+
+Fully-human, clinically validated CD22 CAR with potential to address CD19 CAR T failures
+
+Fully-human, clinically validated BCMA CAR to potentially treat multiple myeloma
+
+Targets beyond CD19, CD22, and BCMA Best-in-class, broadly accessible allogeneic CAR T cells
+
+Large unmet need remains
+Disease where destruction of insulin-producing beta cells in the pancreas results in inability to control blood glucose
+
+1.6M patients with type 1 diabetes in the US and 2.4M in Europe2; 51k new patients/year combined3
+
+Long-term complications: end-organ damage, including heart attack, stroke, retinopathy, and nephropathy Type 1 diabetes represents a large unmet need with a loss of ~15 years of life1 1Rawshani et al, Lancet 2018
+2Centers for Disease Control and Prevention, Diabetes Report, 2017-2018
+3National Institutes of Health, Health Promot Perspect 2020 Our goal is to produce hypoimmune beta cells that evade the immune system and normalize glucose
+
+Progress toward turning beta cells into medicines Make functional beta cells from iPSCs cells 
+Hide beta cells from allogeneic rejection 
+Hide beta cells from autoimmune reaction 
+Create GMP supply chain
+
+Stem cell-derived pancreatic islet cells lead to robust function Superior insulin secretion and faster kinetics in vitro Robust rescue of type 1 diabetes mouse model
+
+Hypoimmune pancreatic islet cells evade immune detection and regulate glucose levels Glucose levels stay elevated Allogeneic human hypoimmune islet cells Glucose levels normalized Allogeneic human unmodified islet cells
+
+T cells from PBMCs of type 1 diabetes patients kill unmodified islets, but not HIP islet cells Hypoimmune pancreatic islet cells evade autoimmune killing in testing of blood from type 1 diabetes patients Serum from healthy volunteers or type 1 diabetes patients Antibodies from sera of type 1 diabetes patients bind to unmodified islets, but not HIP islet cells Unmodified Islet Cells HIP Islet Cells
+
+Robust GMP supply chain required to use iPSC-based therapies as medicines 1 2 3
+
+Fusosome technology: Development of cell-specific in vivo delivery platform Source: CDC website 3 2 1 Sana approach: Leverage insights from nature to deliver various payloads to specific cells Fusosome
+
+In vivo cell engineering: Creating targeted medicines across a diverse set of cell types T cells Hepatocytes Hematopoietic stem cells
+
+High unmet need remains for blood cancers Current ex vivo approaches have limitations Fusogen platform offers potential to overcome these limitations
+
+T cell fusosome carrying CAR construct infused into patient CAR activity
+Expression/recognition
+Amplification
+Target cell killing Target cell killing Specificity
+CD4/CD8 T cell transduction Expression
+Transgene integration and CAR expression Function
+Targeted cell killing T cell Fusosome Cancer cell CAR T cell 2 Fusosome performance
+Transduction specificity
+Transduction efficiency 1
+
+IV administration of CD19 CAR delivered by fusosome can clear B cell tumors in humanized mice comparably to ex vivo CD19 CAR T CD19 CAR delivered by fusosome: in vivo CD19 CAR T: ex vivo Saline CD19 CAR T
+
+Sana aspiration: Engineered cells as medicines Address obstacles to using engineered cells as medicines Validate platforms and create important medicines
+Hypoimmune allo CD19 CAR T
+Fusosome for CD19 CAR T in vivo
+
+Unlock the potential of engineered cells as medicines in multiple diseases
+Hypoimmune cells for:
+Cancer
+Diabetes
+Heart disease
+CNS disorders
+Fusosomes delivering payloads for other diseases
+
+Appendix
+
+Safety profile (All patients n=79):
+Grade 3+ CRS: 2.5% i.e., 2 patients
+Grade 3+ ICANS: 0%
+Efficacy profile (All patients n=79):
+ORR: 94.9%
+CR/sCR: 58.2%
+MRD negativity at least once after infusion: 93.7%
+In prior BCMA CAR T treated patients (n=13): ORR (76.9%); CR/sCR (46.2%)
+Persistence of CT103A transgene:
+At 12 months after infusion (n=18): 55.6%
+Maximum persistence: 34 months after infusion in first patient [patient remained in sCR]
+Immunogenicity (anti-drug antibody positivity):
+Within 3 months of infusion: 1.3% i.e., 1 patient
+Within 7 month median follow-up: 12.7% i.e., 10 patients
+
+Note: Treated with recommended Phase 2 dose of 1e6 CAR T cells/kg BCMA CAR T (CT103A) initial clinical data promising in relapsed/refractory multiple myeloma Li et al, ASH 2021 (Abstract #547)
+IASO Bio Press Release. December 13, 2021. Response rates in Phase 1/2 study 76.9 94.9

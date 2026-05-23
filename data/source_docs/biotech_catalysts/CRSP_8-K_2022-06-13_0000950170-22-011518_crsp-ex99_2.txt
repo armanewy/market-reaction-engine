@@ -1,0 +1,475 @@
+EX-99.2
+3
+crsp-ex99_2.htm
+EX-99.2
+
+EX-99.2
+
+ 
+
+Exhibit 99.2
+
+ 
+
+CRISPR Therapeutics Presents Positive Results from its Phase 1 COBALT™-LYM Trial of CTX130™ in Relapsed or Refractory T Cell Malignancies at the 2022 European Hematology Association (EHA) Congress
+
+ 
+
+-70% overall response rate (ORR) and 30% complete response (CR) rate in peripheral T-cell lymphoma (PTCL) and cutaneous T cell lymphoma (CTCL) at Dose Level 3 (DL3) and above; clinical benefit for 90% of patients-
+
+ 
+
+-Well tolerated safety profile across all dose levels with no DLTs observed-
+
+ 
+
+ZUG, Switzerland and CAMBRIDGE, Mass., June 11, 2022 -- CRISPR Therapeutics (Nasdaq: CRSP), a biopharmaceutical company focused on creating transformative gene-based medicines for serious diseases, today presented positive results from the Company’s ongoing Phase 1 COBALT™-LYM trial evaluating the safety and efficacy of CTX130™, its wholly-owned allogeneic CAR-T cell therapy targeting CD70 for the treatment of both solid tumors and certain hematologic malignancies.
+
+ 
+
+“We are very pleased with the preliminary results from our COBALT-LYM trial, which showed efficacy and safety that suggest that CTX130, the first allogeneic CAR-T directed against the novel target CD70, can produce deep responses in patients with relapsed or refractory T cell lymphomas,” said Samarth Kulkarni, Ph.D., Chief Executive Officer of CRISPR Therapeutics. “Additionally, we may be able to further optimize the profile by continuing our consolidation dosing strategy. These data reinforce our belief that engineered cell therapies are the future in our fight against cancer and we are well-positioned to be leaders in this field.”
+
+ 
+
+“While overall survival in a subset of patients with T cell lymphoma has improved with front-line combination chemotherapy, relapsed or refractory patients continue to have very limited treatment options,” said Swaminathan P. Iyer, M.D., Professor, Lead of the T Cell Lymphoma Program, Department of Lymphoma/Myeloma, Division of Cancer Medicine, The University of Texas MD Anderson Cancer Center. “The data from the CTX130 trial demonstrate the potential of cell therapies as a new treatment modality for these patients. I am particularly encouraged by the response rates and safety data, which suggest that treatment with CTX130 could elicit clinically meaningful responses, including complete responses, in patients with difficult-to-treat T cell lymphomas.”
+
+ 
+
+COBALT-LYM Trial Overview
+
+The Phase 1 COBALT-LYM trial is an open-label, multicenter clinical trial evaluating the safety and efficacy of CTX130 in adult patients with relapsed or refractory T or B cell malignancies. Dose escalation of CTX130 was performed in adult patients with relapsed or refractory T cell lymphoma, with at least 10% expression of CD70. Patients who received prior treatment with any CD70 targeting agents were not eligible.
+
+ 
+
+Patients received three days of lymphodepleting chemotherapy, consisting of fludarabine at 30 mg/m2/day and cyclophosphamide at 500 mg/m2/day, followed by a single CTX130 infusion. Patients completed screening in as few as five days, and the median time from enrollment to the start of lymphodepleting chemotherapy was only three days. This timeline was possible because there is no need for leukapheresis or bridging chemotherapy, and CTX130 is available at the site before a patient is enrolled. Additionally, patients who showed clinical benefit from the first CTX130 infusion could be re-dosed following disease progression.
+
+ 
+
+ 
+
+As of the April 26, 2022, data cutoff, 19 patients with T cell malignancies had been enrolled, of which 18 patients had received CTX130 with at least 28 days of follow-up and are included in the analysis. Prior to enrollment, all patients were heavily pre-treated, with a median of four systemic therapies. Additionally, all patients were refractory to their last line of therapy. Eight patients had peripheral T-cell lymphoma (PTCL) and 10 patients had cutaneous T-cell lymphoma (CTCL).
+
+ 
+
+The primary endpoints include safety as measured by the incidence of dose limiting toxicities (DLTs) and overall response rate (ORR). Key secondary endpoints include progression free survival (PFS) and overall survival (OS).
+
+ 
+
+Safety
+
+CTX130 was well tolerated across all dose levels. The adverse events of interest for all evaluable patients are shown in the table below.
+
+ 
+
+•
+There were no cases of Graft versus Host Disease (GvHD); no dose limiting toxicities (DLTs); and no instances of tumor lysis syndrome (TLS).
+
+ 
+
+•
+All cases of cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) were Grade 1 or 2 per the American Society for Transplantation and Cellular Therapy (ASTCT) criteria and either required no specific intervention or resolved following standard CRS management. Neither the frequency nor severity of CRS has increased in patients who were re-dosed with CTX130.
+
+ 
+
+•
+There was a sudden death in one patient with William’s syndrome in the context of a lung infection, deemed unrelated to CTX130. There were no treatment related deaths in the trial. Overall, CTX130 has an emerging safety profile that is well tolerated.
+
+ 
+
+Adverse Events of Interest
+
+ 
+
+DL1
+3x107
+N=4
+
+DL2
+1x108
+N=4
+
+DL3
+3x108
+N=5
+
+DL4
+9x108
+N=5
+
+DL≥3
+N=10
+
+ 
+
+Gr 1-2
+
+Gr ≥3
+
+Gr 1-2
+
+Gr ≥3
+
+Gr 1-2
+
+Gr ≥3
+
+Gr 1-2
+
+Gr ≥3
+
+Gr 1-2
+
+Gr ≥3
+
+  CRS
+
+1 (25)
+
+-
+
+1 (25)
+
+-
+
+4 (80)
+
+-
+
+4 (80)
+
+-
+
+8 (80)
+
+-
+
+  ICANS
+
+-
+
+-
+
+-
+
+-
+
+3 (60)
+
+-
+
+-
+
+-
+
+3 (30)
+
+-
+
+  GvHD
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+  Infections
+
+2 (50)
+
+1 (25)
+
+-
+
+1 (25)
+
+2 (40)
+
+1 (20)
+
+1 (20)
+
+1 (20)
+
+3 (30)
+
+2 (20)
+
+*All events listed in table are treatment-emergent adverse events
+
+Clinical Activity
+
+ 
+
+Deep responses were seen with CTX130 in a significant fraction of patients at DL3 and above. Data are shown below for the 18 patients who received CTX130 and had at least 28 days of follow-up. Disease assessment was performed by investigator review according to the 2014 Lugano Response Criteria for PTCL or the International Society for Cutaneous Lymphoma Response Criteria (Olsen criteria) for CTCL, as appropriate.
+
+Best overall response, N (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PTCL
+
+CTCL
+
+Cell dose
+(CAR+ T cells)
+
+DL1
+3x107
+N=4
+
+DL2
+1x108
+N=4
+
+DL3
+3x108
+N=5
+
+DL4
+9x108
+N=5
+
+DL≥3
+N=10
+
+ 
+
+ 
+
+DL≥3
+N=5
+
+Total
+N=8
+
+DL≥3
+N=5
+
+Total
+N=10
+
+Overall Response Rate (ORR)
+
+2 (50)
+
+0
+
+3 (60)
+
+4 (80)
+
+7 (70)
+
+ 
+
+ORR
+
+4 (80)
+
+5 (63)
+
+3 (60)
+
+4 (40)
+
+    CR
+
+1 (25)
+
+0
+
+2 (40)*
+
+1 (20)
+
+3 (30)
+
+ 
+
+    CR
+
+2 (40)
+
+3 (38)
+
+1 (20)
+
+1 (10)
+
+    PR
+
+1 (25)
+
+0
+
+1 (20)
+
+3 (60)
+
+4 (40)
+
+ 
+
+    PR
+
+2 (40)
+
+2 (25)
+
+2 (40)
+
+3 (30)
+
+Disease Control Rate
+(DCR = CR + PR + SD)
+
+3 (75)
+
+1 (25)
+
+5 (100)
+
+4 (80)
+
+9 (90)
+
+ 
+
+DCR
+
+4 (80)
+
+5 (63)
+
+5 (100)
+
+8 (80)
+
+*One patient in DL3 who initially achieved a PR was re-infused at DL4 following a change to SD and achieved a CR at DL4.
+
+ 
+
+•
+Patients were heavily pre-treated with a median of four systemic therapies prior to enrollment in the study. None of the 18 patients had achieved a complete response (CR) in their previous line of therapy.
+
+ 
+
+•
+Median CD70 expression among the patients was 90%. Responses were observed across all levels of CD70 expression.
+
+ 
+
+•
+Clinically meaningful responses were observed with CTX130 with a higher percentage of patients responding at higher dose levels. At DL3 and above, ORR was 70% with 30% of patients achieving a CR. In addition, 90% of patients at DL3+ had clinical benefit defined as a stable disease or better response. These responses were largely consistent in both PTCL and CTCL with ORRs of 80% and 60%, respectively, at DL3+.
+
+ 
+
+•
+Broad activity and deep responses were seen in all disease compartments including lymph nodes, skin and blood in patients with CTCL following treatment with CTX130.
+
+ 
+
+These preliminary data demonstrate that CTX130 has the potential to provide meaningful clinical benefit with a well-tolerated safety profile. Given the inherent difficulties and potential risks of manufacturing a CAR-T therapy from a patient’s own diseased T cells, allogeneic cellular therapy approaches for T cell lymphoma have greater potential to address the unmet need in this patient population.
+
+ 
+
+CTX130 is currently being investigated in two ongoing Phase 1 clinical trials for the treatment of various subtypes of lymphoma (COBALT-LYM) or relapsed or refractory renal cell carcinoma (COBALT-RCC),
+
+ 
+
+respectively. Additional details on COBALT-LYM may be found at clinicaltrials.gov, using identifier: NCT04502446. In parallel, the Company continues to advance the rest of its immuno-oncology portfolio.
+
+ 
+
+The Company plans to recap this data during the CRISPR Therapeutics Innovation Day, an event focused on early research and development, on June 21, 2022, at 2:00 pm ET.
+
+ 
+
+Innovation Day Webcast
+
+A live webcast of the event will be available on the "Events & Presentations" page in the Investors section of the Company's website at https://crisprtx.gcs-web.com/events. A replay of the webcast will be archived on the Company's website for 30 days following the presentation. Please contact crisprtx@argotpartners.com for any questions regarding the event.
+
+ 
+
+About CTX130
+
+CTX130, a wholly-owned program of CRISPR Therapeutics, is a healthy donor-derived gene-edited allogeneic CAR-T investigational therapy targeting cluster of differentiation 70, or CD70, an antigen expressed on various solid tumors and hematologic malignancies. CTX130 is being developed for the treatment of both solid tumors, such as renal cell carcinoma, and T-cell and B-cell hematologic malignancies. CTX130 is being investigated in two ongoing independent Phase 1, single-arm, multi-center, open-label clinical trials that are designed to assess the safety and efficacy of several dose levels of CTX130 for the treatment of relapsed or refractory renal cell carcinoma and various subtypes of lymphoma, respectively. CTX130 for the treatment of T-cell lymphoma has received Orphan Drug Designation from the FDA.
+
+ 
+
+About COBALT-LYM
+
+The ongoing Phase 1 single-arm, multi-center, open label clinical trial, COBALT-LYM, is designed to assess the safety and efficacy of several dose levels of CTX130 for the treatment of relapsed or refractory T- or B-cell malignancies.
+
+ 
+
+About COBALT-RCC
+
+The ongoing Phase 1 single-arm, multi-center, open label clinical trial, COBALT-RCC, is designed to assess the safety and efficacy of several dose levels of CTX130 for the treatment of relapsed or refractory Renal Cell Carcinoma.
+
+ 
+
+About CRISPR Therapeutics
+
+CRISPR Therapeutics is a leading gene editing company focused on developing transformative gene-based medicines for serious diseases using its proprietary CRISPR/Cas9 platform. CRISPR/Cas9 is a revolutionary gene editing technology that allows for precise, directed changes to genomic DNA. CRISPR Therapeutics has established a portfolio of therapeutic programs across a broad range of disease areas including hemoglobinopathies, oncology, regenerative medicine and rare diseases. To accelerate and expand its efforts, CRISPR Therapeutics has established strategic partnerships with leading companies including Bayer, Vertex Pharmaceuticals and ViaCyte, Inc. CRISPR Therapeutics AG is headquartered in Zug, Switzerland, with its wholly-owned U.S. subsidiary, CRISPR Therapeutics, Inc., and R&D operations based in Cambridge, Massachusetts, and business offices in San Francisco, California and London, United Kingdom. For more information, please visit www.crisprtx.com.
+
+ 
+
+ 
+
+CRISPR Forward-Looking Statement
+
+This press release may contain a number of “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including statements made by Dr. Samarth Kulkarni and Dr. Swaminathan P. Iyer in this press release, as well as statements regarding CRISPR Therapeutics’ expectations about any or all of the following: (i) the safety, efficacy and clinical progress of our various clinical programs, including our CTX130 program; (ii) the status of clinical trials (including, without limitation, activities at clinical trial sites) and expectations regarding the data that is being presented from our ongoing COBALT-LYM clinical trial; (iii) the data that will be generated by ongoing and planned clinical trials, and the ability to use that data for the design and initiation of further clinical trials; and (iv) the therapeutic value, development, and commercial potential of CRISPR/Cas9 gene editing technologies and therapies, including as compared to other therapies. Without limiting the foregoing, the words “believes,” “anticipates,” “plans,” “expects” and similar expressions are intended to identify forward-looking statements. You are cautioned that forward-looking statements are inherently uncertain. Although CRISPR Therapeutics believes that such statements are based on reasonable assumptions within the bounds of its knowledge of its business and operations, forward-looking statements are inherently uncertain, are neither promises nor guarantees and not to place undue reliance on such statements, which speak only as of the date they are made. Actual performance and results may differ materially from those projected or suggested in the forward-looking statements due to various risks and uncertainties. These risks and uncertainties include, among others: the potential for initial and preliminary data from any clinical trial and initial data from a limited number of patients (as is the case with CTX130 at this time) not to be indicative of final or future trial results; the potential that clinical trial results may not be favorable or may not support registration or further development; potential impacts due to the coronavirus pandemic, such as the timing and progress of clinical trials; that future competitive or other market factors may adversely affect the commercial potential for CRISPR Therapeutics’ product candidates; uncertainties regarding the intellectual property protection for CRISPR Therapeutics’ technology and intellectual property belonging to third parties, and the outcome of proceedings (such as an interference, an opposition or a similar proceeding) involving all or any portion of such intellectual property; and those risks and uncertainties described under the heading "Risk Factors" in CRISPR Therapeutics’ most recent annual report on Form 10-K, quarterly report on Form 10-Q and in any other subsequent filings made by CRISPR Therapeutics with the U.S. Securities and Exchange Commission, which are available on the SEC's website at www.sec.gov. CRISPR Therapeutics disclaims any obligation or undertaking to update or revise any forward-looking statements contained in this press release, other than to the extent required by law.
+
+CRISPR THERAPEUTICS® standard character mark and design logo, CTX130™ and COBALT™ are trademarks and registered trademarks of CRISPR Therapeutics AG. All other trademarks and registered trademarks are the property of their respective owners.
+
+ 
+
+Investor Contact:
+
+Susan Kim
+
++1-617-307-7503
+
+susan.kim@crisprtx.com
+
+ 
+
+Media Contact:
+
+ 
+
+Rachel Eides
+
++1-617-315-4167
+
+rachel.eides@crisprtx.com

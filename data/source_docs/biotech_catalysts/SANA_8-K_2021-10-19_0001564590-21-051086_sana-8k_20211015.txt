@@ -1,0 +1,297 @@
+sana-8k_20211015.htm
+
+false
+0001770121
+
+0001770121
+
+2021-10-15
+2021-10-15
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 15, 2021
+
+ 
+
+SANA BIOTECHNOLOGY, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39941
+
+ 
+
+83-1381173
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+188 East Blaine Street, Suite 400
+
+Seattle, Washington 98102
+
+(Address of principal executive offices, including Zip Code)
+
+ 
+
+Registrant’s telephone number, including area code: (206) 701-7914
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+SANA
+
+ 
+
+The Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+ 
+
+On October 15, 2021 (the “Effective Date”), Sana Biotechnology, Inc. (the “Company”) entered into an Option and License Agreement (the “Agreement”) with Beam Therapeutics Inc. (“Beam”), pursuant to which Beam granted to the Company a non-exclusive license to use Beam’s proprietary CRISPR Cas12b nuclease editing technology, for a specified number of gene editing targets, to research, develop and commercialize engineered cell therapy products (each, a “Licensed Product”) that (i) are directed to certain antigen targets, with respect to the Company’s allogeneic T cell programs, or (ii) comprise certain human cell types, with respect to the Company’s stem cell-derived programs. The Company is permitted to use the CRISPR Cas12b system to modify or introduce, ex vivo, selected genetic sequences with respect to the Licensed Products.   The Agreement excludes any rights to base editing using the CRISPR Cas12b system.
+
+Pursuant to the Agreement, the Company has the option (the “Option”), for a period of one year from the Effective Date, to select additional antigen targets, with respect to the Company’s allogeneic T cell programs, or human cell types, with respect to the Company’s stem cell-derived programs, in each case, upon the Company’s payment of an option payment of $10 million per antigen target or cell type. In addition, the Company may, for a period of three years from the Effective Date, (i) elect to replace an antigen target, with respect to the Company’s allogeneic T cell programs, or human cell type, with respect to the Company’s stem cell-derived programs (the “Replacement Right”) previously selected by the Company and (ii) select new gene editing targets, or replace gene editing targets previously selected by the Company, with respect to any Licensed Product (the “Gene Nomination Right”). In each case, the Company’s rights with respect to its exercise of the Option, Replacement Right or Gene Nomination Right are subject to certain limitations.  
+
+Pursuant to the Agreement, the Company will make an upfront payment of $50 million to Beam. Additionally, with respect to each Licensed Product, the Company will be obligated to pay to Beam up to $65 million in specified developmental and commercial milestone payments.
+
+The Company will also be obligated to pay to Beam an aggregate royalty, including any royalty owed by Beam to its licensor, on a Licensed Product-by-Licensed Product and country-by-country basis, in the low- to mid-single digits, subject to reduction in certain circumstances, on net sales of each Licensed Product until the latest of (i) the expiration of certain patents covering such Licensed Product in the applicable country, (ii) the date on which any applicable regulatory exclusivity, including orphan drug, new chemical entity, data or pediatric exclusivity, with respect to such Licensed Product expires in such country, or (iii) the 10th anniversary of the first commercial sale of such Licensed Product in such country. The Company cannot determine the date on which the Company’s potential royalty payment obligations to Beam would expire because the Company has not yet developed any Licensed Products under the Agreement, and the Company therefore cannot at this time identify the date of the first commercial sale or expiration of any applicable patents covering or regulatory exclusivity periods with respect to such Licensed Products.
+
+Unless earlier terminated by either party, the Agreement will expire on a Licensed Product-by-Licensed Product and country-by-country basis upon the expiration of the Company’s payment obligations with respect to each Licensed Product under the Agreement. The Company may terminate the Agreement in its entirety or on an antigen target-by-antigen target basis (with respect to Licensed Products applicable to the Company’s allogeneic T cell programs), on a cell type-by-cell type basis (with respect to Licensed Products applicable to the Company’s stem cell-derived programs), or on a Licensed Product-by-Licensed Product basis, in each case, upon (i) 90 days’ advance written notice, if such notice is provided prior to the first commercial sale of a Licensed Product, or (ii) 180 days’ advance written notice, if such notice is provided after the first commercial sale of a Licensed Product. Either party may terminate the Agreement with written notice for the other party’s material breach if such breaching party fails to timely cure the breach with respect to the country in which such material breach relates. Beam may terminate the Agreement in its entirety if the Company or its affiliates or sublicensees commence a legal action challenging the validity, patentability, enforceability or scope of any of the patent rights licensed to the Company under the Agreement. Either party also may terminate the Agreement in its entirety upon certain insolvency events involving the other party.
+
+ 
+
+The foregoing description of the Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Agreement, a copy of which the Company plans to file as an exhibit to its Quarterly Report on Form 10-Q for its fiscal quarter ended September 30, 2021. 
+
+ 
+
+Item 8.01  Other Events.
+
+ 
+
+On October 19, 2021 the Company issued a press release announcing the Agreement with Beam, described above under Item 1.01 of this Current Report on Form 8-K. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+(d) Exhibits
+
+ 
+
+See the Exhibit Index below, which is incorporated by reference herein.
+
+ 
+
+ 
+
+EXHIBIT INDEX
+
+ 
+
+Exhibit
+
+Number
+
+ 
+
+Description
+
+99.1
+
+ 
+
+Press Release, dated October 19, 2021
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Company Name
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: October 19, 2021
+
+ 
+
+By:
+
+/s/ James J. MacDonald
+
+ 
+
+ 
+
+ 
+
+James J. MacDonald
+
+ 
+
+ 
+
+ 
+
+Executive Vice President and General Counsel
+
+ 
+
+3

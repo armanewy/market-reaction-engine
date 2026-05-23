@@ -1,0 +1,147 @@
+EX-99.4
+9
+d856792dex994.htm
+EX-99.4
+
+EX-99.4
+
+Exhibit 99.4
+
+Important Information This presentation of Recursion Pharmaceuticals,
+Inc. (“Recursion,” “we,” “us,” or “our”) and any accompanying discussion contain statements that are not historical facts may be considered forward-looking statements under federal securities laws and
+may be identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “potential,” “predicts,”
+“projects,” “seeks,” “should,” “will,” or words of similar meaning and include, but are not limited to, statements regarding bringing better medicines to patients more rapidly and more cost
+efficiently; the occurrence or realization of near-or medium-term potential milestones; current and future preclinical and clinical studies, including timelines for enrollment in studies, data readouts, and progression toward IND-enabling studies;
+outcomes and benefits from licenses, partnerships and collaborations, including option exercises by partners and the amount and timing of potential milestone payments; the initiation, timing, progress, results, and cost of our research and
+development programs; advancements of our Recursion OS, including augmentation of our dataset and movement toward autonomous discovery; outcomes and benefits expected from the Tempus and Helix relationships, including our building of large-scale
+causal AI models; outcomes and benefits expected from the Large Language Model-Orchestrated Workflow Engine (LOWE); the potential for additional partnerships and making data and tools available to third parties; expected supercomputer capabilities;
+our ability to identify viable new drug candidates for clinical development and the accelerating rate at which we expect to identify such candidates including our ability to leverage the datasets acquired through the license agreement into increased
+machine learning capabilities and accelerate clinical trial enrollment; the potential size of the market opportunity for our drug candidates; outcomes and benefits expected from the Enamine partnership, including the generating and co-branding of
+new chemical libraries; and many others. Such statements also include statements regarding the proposed business combination of Recursionand Exscientia plc (“Exscientia”) and the outlook for Recursion’s or Exscientia’s future
+business and financial performance, including the combined company’s first-in-class and best-in-class opportunities; potential for annual peak sales from successful programs of over $1 billion each; potential milestone payments of the combined
+company of approximately $200 million over the next 2 years from current partnerships; potential for more than $20 billion in total milestone payments for the combined company from partners before royalties; percentage of the pro forma company to be
+received by Exscientia shareholders; ability to reduce pro forma spend of the combined company; revenue, business synergies, and reduced pro forma spend from the combination resulting in cash runway extending into 2027; completion of the business
+combination in 2025; and many others. Such forward-looking statements are based on the current beliefs ofRecursion’s and Exscientia’s respective management as well as assumptions made by and information currently available to them, which
+are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict. Actual outcomes and results may vary materially from these forward-looking statements based on a variety of risks and uncertainties including:
+the occurrence of any event, change or other circumstances that could give rise to the termination of the transaction agreement; the inability to obtain Recursion’s stockholder approval or Exscientia’s shareholder approval or the failure
+to satisfy other conditions to completion of the proposed combination, including receipt of the required regulatory approvals and obtaining the sanction of the High Court of Justice of England and Wales to the Scheme of Arrangement, on a timely
+basis or at all; risks that the proposed combination disrupts each company’s current plans and operations; the diversion of the attention of the respective management teams ofRecursionand Exscientia from their respective ongoing business
+operations; the ability of either Recursion, Exscientia or the combined company to retain key personnel; the ability to realize the benefits of the proposed combination, including cost synergies; the ability to successfully integrate Exscientia's
+business with Recursion’s business or to integrate the businesses within the anticipated timeframe; the outcome of any legal proceedings that may be instituted against Recursion, Exscientia or others following announcement of the proposed
+combination; the amount of the costs, fees, expenses and charges related toth e proposed combination; the effect of economic, market or business conditions, including competition, regulatory approvals and commercializing drug candidates, or changes
+in such conditions, have onRecursion’s,Exscientia’s and the combined company’s operations, revenue, cash flow, operating expenses, employee hiring and retention, relationships with business partners, the development or launch of
+technology enabled drug discovery, and commercializing drug candidates; the risks of conducting Recursion’s and Exscientia’s businesses internationally; the impact of potential inflation, volatility in foreign currency exchange rates and
+supply chain disruptions; the ability to maintain technology-enabled drug discovery in the biopharma industry; and risks relating to the market value of Recursion’s common stock to be issued in the proposed transaction. Other important factors
+and information are contained in Recursion’s most recent Annual Report on Form 10-K and Exscientia’s most recent Annual Report on Form 20-F, including the risks summarized in the section entitled “Risk Factors,”
+Recursion’s Quarterly Reports on Form 10-Q for the quarterly periods ended March 31 and June 30, 2024 and Exscientia’s filing on Form 6-K filed May 21, 2024, and each company’s other filings with the U.S. Securities and Exchange
+Commission (the “SEC”), which can be accessed at https://ir.recursion.com in the case of Recursion, http://investors.exscientia.ai in the case of Exscientia, or www.sec.gov. All forward-looking statements are qualified by these
+cautionary statements and apply only as of the date they are made. Neither Recursion nor Exscientia undertakes any obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise. 2
+
+Important Information (continued) Certain information contained in this
+presentation relates to or is based on studies, publications, surveys and other data obtained from third-party sources and the company’s own internal estimates and research. While the company believes these third-party sources to be reliable
+as of the date of this presentation, it has not independently verified, and makes no representation as to the adequacy, fairness, accuracy or completeness of, any information obtained from third-party sources. In addition, all of the market data
+included in this presentation involves a number of assumptions and limitations, and there can be no guarantee as to the accuracy or reliability of such assumptions. Finally, while the company believes its own internal research is reliable, such
+research has not been verified by any independent source. Information contained in, or that can be accessed through our website is not a part of and is not incorporated into this presentation. Cross-trial or cross-candidate comparisons against other
+clinical trials and other drug candidates are not based on head-to-head studies and are presented for informational purposes; comparisons are based on publicly available information for other clinical trials and other drug candidates. Any
+non-Recursion logos or trademarks included herein are the property of the owners thereof and are used for reference purposes only. Additional Information and Where to Find It This communication relates to the proposed business combination of
+Recursion and Exscientia that will become the subject of a joint proxy statement to be filed by Recursion and Exscientia with the SEC. The joint proxy statement will provide full details of the proposed combination and the attendant benefits and
+risks. This communication is not a substitute for the joint proxy statement or any other document that Recursion or Exscientia may file with the SEC or send to their respective security holders in connection with the proposed transaction. Security
+holders are urged to read the definitive joint proxy statement and all other relevant documents filed with the SEC or sent toRecursion’s stockholders or Exscientia’s shareholders as they become available because they will contain
+important information about the proposed transaction. All documents, when filed, will be available free of charge at the SEC’s website (www.sec.gov). You may also obtain these documents by contacting Recursion’s Investor Relations
+department at investor@recursion.com; or by contacting Exscientia’s Investor Relations department at investors@exscientia.ai. This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities or a
+solicitation of any vote or approval. Participants in the Solicitation Recursion,Exscientia and their respective directors and executive officers may be deemed to be participants in any solicitation of proxies in connection with the proposed
+business combination. Information about Recursion’sdirectors and executive officers is available in Recursion’s proxy statement dated April 23, 2024 for its 2024 Annual Meeting of Stockholders. Information about Exscientia’s
+directors and executive officers is available in Exscientia’s Annual Report on Form 20-F dated March 21, 2024. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by
+security holdings or otherwise, will be contained in the joint proxy statement and all other relevant materials to be filed with the SEC regarding the proposed combination when they become available. Investors should read the joint proxy statement
+carefully when it becomes available before making any voting or investment decisions. 3
+
+Recursion and Exscientia Combination 4
+
+Recursion enters agreement with Exscientia to bring better medicines to
+patients more rapidly and more cost efficiently Combination of Many Complementary Factors • Pipeline: Diverse portfolio of clinical and near-clinical programs with ~10 clinical readouts over the next ~18 months • Partnerships: Diverse
+portfolio of transformational partnerships with potential for over $200 million in milestone payments over the next 2 years • Platform: Full-stack technology-enabled small molecule discovery platform • Business: ~$850 million in combined
+cash (end of Q2 2024), estimated annual synergies of ~$100 million or more and runway into 2027 • People: Shared vision to leverage technology & talent to discover and develop high quality medicines efficiently and at scale 5
+
+Recursion + Exscientia: Pipeline • Diverse Portfolio of clinical
+or near-clinical programs ~10 clinical readouts in the next 18 months • ~10 clinical readouts over the next ~18 months • Complementary therapeutic pipelines with no competitive overlap Combining first-in-class and best- • Most of
+these programs, if successful, could have in-class opportunities annual peak sales opportunities >$1 billion each • Strategic Focus • Recursion: first-in-disease drug candidates in oncology, rare disease, infectious disease •
+Exscientia: best-in-class drug candidates in oncology, inflammation, immunology • Many additional research and discovery programs for both companies 6
+
+Recursion + Exscientia: Pipeline of more than 10 technology-enabled
+programs demonstrate maturity and de-risking Anticipated Near- Program Indication Target Preclinical Phase 1 Phase 2 Phase 3 Term Milestones Topline readout Sep. 2024 REC-994 Cerebral Cavernous Malformation Superoxide SYCAMORE Preliminary readout Q4
+2024 REC-2282 Neurofibromatosis Type 2 HDAC POPLAR Preliminary readout H1 2025 REC-4881 Familial Adenomatous Polyposis MEK TUPELO Ph2 initiation in Q4 2024 REC-3964 Clostridioides difficile Infection TcdB ALDER Positive early Ph1 data EXS4318
+Inflammatory Diseases PKC-theta Epsilon Fibrotic Diseases Undisclosed IND submission early 2025 Preliminary readout H1 2025 REC-4881 Advanced AXIN1/APC-mutant Cancers MEK EXS617 Advanced Solid Tumours CDK7 ELUCIDATE Mono tx dose escalation H2 2024
+REC-1245 Advanced HR-Proficient Cancers RBM39 IND submission Q3 2024 EXS74539 AML, SCLC LSD1 IND submission H2 2024 EXS73565 Haematological Malignancies MALT1 IND submission H2 2024 Note: Over a dozen discovery programs in combined pipeline,
+including ENPP1 inhibitor in collaboration with Rallybio, which is expected to achieve development candidate nomination of a small molecule inhibitor of ENPP1 for the treatment of patients with HPP in the fourth quarter of 2024 In addition, 4 large
+strategic collaborations (e.g., Roche, Bayer, Sanofi, Merck KGaA) with 10 programs already optioned across oncology and immunology 7 Oncology Rare & Other
+
+Recursion + Exscientia: Partnerships • Diverse Portfolio of
+transformational partnerships with leading large pharma companies • 10 programs already optioned across oncology and immunology • Combined company expects potential additional milestone payments of ~$200 million over the next 2 years
+from current partnerships • Potential for >$20 billion in total combined revenue before royalties from partners • Transformational Large Pharma Partnerships • Recursion: Roche-Genentech (neuroscience, single GI-oncology
+indication), Bayer (oncology) • Exscientia: Sanofi (oncology, immunology), Merck KGaA (oncology, immunology) Recursion Partners Exscientia Partners 8 Trademarks are the property of their respective owners and used for informational purposes
+only.
+
+Recursion + Exscientia: Platform • Core Strengths •
+Recursion: scaled biology exploration and translational capabilities primarily focused on first-in- disease opportunities • Exscientia: precision chemistry design and small molecule automated synthesis primarily focused on best-in-class
+opportunities • Assembles a full-stack platform spanning • Patient-centric target discovery • Hit discovery and lead optimization • Automated chemical synthesis • Predictive ADMET and translation • Biomarker
+selection • Clinical development 9
+
+Overview of areas where Exscientia’s capabilities can immediately
+integrate and complement the Recursion OS upon close Complementary capabilities through combination with Exscientia labelled in orange. 10
+
+Recursion + Exscientia: Summary of complementary factors Scaled
+exploration and mapping of Precision chemistry design and Platform Strength biological relationships molecular synthesis First-in-class products in oncology, Best-in-class products in oncology, Internal Pipeline rare disease, infectious disease
+inflammation, immunology Roche-Genentech (neuro, single Sanofi (oncology, immunology), Large Pharma Partnerships GI-onc indication), Bayer (oncology) Merck KGaA (onc, immunology) Cash (End of Q2 2024) ~$475 million ~$370 million* Salt Lake City,
+London, Toronto, Oxford, Boston, Vienna, Locations Montreal, San Francisco Bay Area Dundee, Miami Employees >500 >350 This preliminary financial data for Exscientia has been prepared by and is the responsibility of Exscientia, and it has not
+been reviewed 11 or audited by the company’s independent auditor. Exscientia’s actual results may differ from these preliminary financial results.
+
+Transaction details of Recursion-Exscientia combination • Stock
+for stock transaction Stock • Exscientia shareholders will receive 0.7729 shares of Recursion Class A common Consideration stock for each Exscientia ordinary share, subject to rounding for fractional shares Pro-Forma • Recursion
+shareholders will own ~74% of the combined company • Exscientia shareholders will own ~26% of the combined company Ownership • ~$850 million in combined cash at the end of Q2, 2024 • Expect pro-forma combined financial plans to
+extend runway into 2027 Cash Position • Estimated annual synergies of ~$100 million or more • Recursion will be the Go-Forward Entity Management • Recursion Co-Founder & CEO Chris Gibson will be CEO of combined company •
+Exscientia Interim CEO David Hallett will join as Chief Scientific Officer and Board • Two Exscientia Board Members will join the Recursion Board Timing and • Expect this transaction to close by early 2025 • Subject to approval of
+both companies’ shareholders and closing conditions Approvals Pro-forma ownership is based on the number of shares outstanding today 12
+
+Exscientia: ‘617 precision designed to have best-in-class
+properties Maximize upside potential of precision- Precision designed to maximize therapeutic index allowing for designed GTAEXS617 with purchase of full optimized combinations and potentially better efficacy rights from GT Apeiron: •
+Selectivity, reversibility & efflux design properties limit • Upfront $10m in cash + $10m in potential toxicities to widen therapeutic index Exscientia equity + single digit royalties • CDK7 regulates both cell cycle and
+transcription • Potential best-in-class molecule in • Cell cycle inhibitors are a validated mechanism of action: CDK4/6 Phase 1/2 studies inhibitors generated $11 billion in sales in 2023 • Ahead of monotherapy dose escalation
+• Opportunity in multiple tumor types clinical trial data • Ongoing ELUCIDATE Phase I/II trial in patients with advanced solid tumors and potential best in class* • Ahead of monotherapy dose escalation clinical trial data •
+Full rights acquired for ‘617 – CDK7 inhibitor • Across these six tumor types, there are 75k newly diagnosed patients in the US per year CDK7 • CDK4/6 relapsed breast cancer is the first indication being considered for
+combination dose expansion – expected to start in 2H24/1H25 Sales data from Evaluate Pharma *Tumor types: head and neck cancer, colorectal cancer, pancreatic cancer, non-small cell lung cancer (NSCLC), HR+/HER2- breast cancer and ovarian
+cancer
+
+Recursion Business Developments and Potential Milestones 14
+
+Roche-Genentech Optioned Industry-First Neuroscience Phenomap from
+Recursion for $30 Million $30 million is part of a fee structure that could exceed a total of $500 million Fee across multiple maps, not inclusive of program milestones Structure Validates Recursion’s scientific approach to mapping biology as
+well as Validated Recursion’s ability to deliver on success-based data options Approach Augmenting this map with chemical perturbations, completion and acceptance Milestone could trigger a larger second milestone payment Payment Built cell
+manufacturing technologies and produced >1 trillion hiPSC derived Building neuronal cells to create this initial map Technologies Building additional maps in other neural cell contexts that will further Additional investigate genome scale genetic
+and diverse chemical perturbations for this Maps decade-long collaboration 15
+
+Recursion is delivering value across its partnership with Bayer in
+undruggable oncology On track to complete 25 unique multi-modal data packages in Q3 Work initiated Nov 2023 Focus on Oncology Q1 Q2 Q3 Bayer is the 1st beta-user Initiated 1st Joint Project which is of LOWE (Recursion’s LLM advancing rapidly
+towards Lead Orchestrated Workflow Engine) Series nomination 16
+
+Clinical: CCM REC-994 for CCM : Topline Readout in September 2024
+SYCAMORE is the first industry-sponsored Phase 2 trial for CCM Disease & Unmet Need REC-994 Phase 2 • Cerebral Cavernous Malformation (CCM) affects ~360,000 symptomatic patients in the US and EU5 SYCAMORE Randomized, double-blind, •
+Loss of function mutations in CCM1, CCM2, CCM3 genes placebo-controlled trial lead to vascular abnormalities in the CNS • Symptoms include seizures, headaches, hemorrhage, • Primary : Safety and tolerability focal neurological deficits
+• Secondary : About a dozen efficacy measures including • No approved therapies with treatment options limited to clinician-measured outcomes, MRI imaging, and patient surgery or stereotactic radiosurgery reported outcomes Topline
+Readout September 2024 Small-molecule therapeutics designed to exploit specific targets in the CCM1– CCM2–CCM3–MEKK3 pathways may reduce CCM growth, progression, and • Efficacy analysis will focus on identifying trends across
+bleeding, offering the possibility of effective nonsurgical treatments for CCM. multiple endpoints and population subgroups – Edward R Smith, MD, Harvard • We and KOLs believe that movement in one or more of Almost every patient has
+wanted to be part of the extension portion of the these efficacy measures supports continued SYCAMORE trial. REC-994 was the first drug that came into trials for our development of this program patients, and it is still the only drug in Phase 2 that
+is industry sponsored. Machine learning won the race – Connie Lee, CEO, Alliance to Cure CCM • We look forward to discussing data and engaging the FDA on a potential path to registration 17
+
+Milestones: Pipeline – 7 Clinical Trial Readouts Expected in ~18
+Months Pipeline • CCM: Ph2 readout expected in September 2024 • NF2: Ph2 safety & preliminary efficacy expected in Q4 2024 • FAP: Ph2 safety & preliminary efficacy expected in H1 2025 • AXIN1 or APC Mutant Cancers:
+Ph2 safety & preliminary efficacy expected in H1 2025 • C. difficile Infection: Ph2 initiation expected in Q4 2024 with preliminary readout expected by end of 2025 • Advanced HR-Proficient Cancers, Target RBM39: IND submission
+expected in Q3 2024. Ph1/2 initiation expected in Q4 2024 with Ph1 dose-escalation readout by end of 2025 • Target Epsilon (novel target in fibrotic diseases): IND submission expected in early 2025 with Ph1 healthy volunteer readout by end of
+2025 • Dozens of internal & partner programs in early stages with first LLM & causal model driven programs entering pipeline 18
+
+Milestones: Partnerships and Platform Partnerships Platform •
+Roche & Genentech: validation program option exercised for • Built our 1st genome-scale transcriptomics KO map, 1st validated hit series in oncology, 1st neuroscience moving towards multiomics foundation models phenomap optioned for $30M
+(part of a structure that could exceed a total of $500M across multiple maps), potential for near-term program and additional map options • Active learning and exploration of proteomics, organoids, spheroids, & automated synthesis •
+Bayer: delivered multiple oncology data packages, on track to complete 25 unique data packages in Q3 2024, advancing • Potential to make some data and tools available to 1st joint project towards lead series nomination, agreed to be biopharma
+and commercial users 1st beta-user of LOWE for drug discovery and development, potential near-term program options • OS moving towards autonomous discovery • Tempus & Helix: building large-scale causal AI models to generate target
+hypotheses across cancer and other disease Strong Financial Position areas, exploring novel NSCLC targets ~$474M in cash Q2 2024 Cash refers to cash and cash equivalents at the end of Q2 2024 • Potential for additional partnership(s) in large,
+intractable areas of biology 19

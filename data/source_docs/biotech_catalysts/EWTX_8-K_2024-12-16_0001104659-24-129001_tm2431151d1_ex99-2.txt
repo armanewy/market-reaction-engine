@@ -1,0 +1,746 @@
+EX-99.2
+3
+tm2431151d1_ex99-2.htm
+EXHIBIT 99.2
+
+Exhibit
+99.2
+
+1
+©2024 Edgewise Therapeutics. All rights reserved.
+Sevasemten: Topline Results from
+the CANYON Phase 2 Trial in Becker
+December 16, 2024
+
+2
+This presentation contains forward-looking statements as that term is defined in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of
+1934. Statements in this presentation that are not purely historical are forward-looking statements. Such forward-looking statements include, among other things,
+statements regarding the potential of, and expectations regarding Edgewise’s cash runway, Edgewise’s expectations relating to its clinical trials and clinical development of
+sevasemten (EDG-5506) and EDG-7500, including statements regarding the number of individuals to be recruited, timing of completion of recruitment and over-enrollment of the GRAND CANYON trial; statements regarding the potential of, and expectations regarding, Edgewise’s product candidates and programs, including
+sevasemten and EDG-7500; statements regarding Edgewise’s milestones; statements regarding whether data from the GRAND CANYON trial could support a marketing
+application; statements regarding the Company’s plans to engage the FDA and European Medicines Agency; statements about sevasemten being the potential first
+treatment for Becker; and statements by Edgewise’s chief executive officer and chief medical officer and Craig M. McDonald, M.D. Words such as “believes,” “anticipates,”
+“plans,” “expects,” “intends,” “will,” “goal,” “potential” and similar expressions are intended to identify forward-looking statements. The forward-looking statements contained
+herein are based upon Edgewise’s current expectations and involve assumptions that may never materialize or may prove to be incorrect. Actual results could differ
+materially from those projected in any forward-looking statements due to numerous risks and uncertainties, including but not limited to: risks associated with the process
+of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics and operating as an early clinical stage company, including
+the potential for Edgewise’s product candidates to cause serious adverse events; Edgewise’s ability to develop, initiate or complete clinical trials for, obtain approvals for and
+commercialize any of its product candidates; Edgewise’s ability to take advantage of potential benefits associated with designations granted by FDA and/or to maintain
+qualifications for applicable designations over time; the timing, progress and results of clinical trials for sevasemten and EDG-7500; Edgewise’s ability to enroll and maintain
+patients in clinical trials; Edgewise’s ability to raise any additional funding it will need to continue to pursue its business and product development plans; the timing, scope
+and likelihood of regulatory filings and approvals; the potential for any clinical trial results to differ from preclinical, interim, preliminary, topline or expected results,
+including that the primary endpoint of the GRAND CANYON trial (change from baseline in NSAA) will be met even though it was not met as a secondary endpoint in the
+CANYON trial; the potential that the outcome of preclinical testing and early clinical trials, including the results from the CANYON trial, may not be predictive of the success
+of later clinical trials, including that the trends from the CANYON trial will also be seen, and will be statistically significant, in the GRAND CANYON trial; Edgewise may gain
+further insights from its analysis of the CANYON trial results over time, including Edgewise’s ongoing evaluation of additional secondary and exploratory endpoints;
+Edgewise’s ability to develop a proprietary drug discovery platform to build a pipeline of product candidates; Edgewise’s manufacturing, commercialization and marketing
+capabilities and strategy; the size of the market opportunity for Edgewise’s product candidates; the loss of key scientific or management personnel; competition in the
+industry in which Edgewise operates; Edgewise’s reliance on third parties; Edgewise’s ability to obtain and maintain intellectual property protection for its product
+candidates; general economic and market conditions; and other risks. Information regarding the foregoing and additional risks may be found in the section entitled “Risk
+Factors” in documents that Edgewise files from time to time with the U.S. Securities and Exchange Commission. These forward-looking statements are made as of the date
+of this presentation, and Edgewise assumes no obligation to update the forward-looking statements, or to update the reasons why actual results could differ from those
+projected in the forward-looking statements, except as required by law.
+The trademarks included herein are the property of the owners thereof and are used for reference purposes only. Such use should not be construed as an endorsement of
+such products.
+Forward Looking Statement
+
+Agenda
+1. Introduction
+2. Becker muscular dystrophy and sevasemten
+3. Topline results: Phase 2 CANYON trial in Becker
+4. Sevasemten future development plans
+5. Clinical perspectives on the results
+6. Closing remarks
+7. Q & A
+Distinguished Professor and Chair at the
+UC Davis Health Department of Physical
+Medicine and Rehabilitation
+Dr. Kevin Koch
+Dr. Craig M. McDonald
+Chief Executive Officer
+Dr. Joanne Donovan
+Chief Medical Officer
+
+Focused on muscle science
+● Global leader in muscle disease therapeutic development
+● Deep knowledge of integrated muscle physiology
+● Novel & holistic therapeutic approach to protect muscle
+Rapidly advancing portfolio
+● Sevasemten pivotal program in muscular dystrophies including potential first
+treatment for Becker
+● Advancing EDG-7500 in oHCM, nHCM, and other potential indications
+● Novel cardiometabolic targets in discovery
+Unwavering patient commitment
+● Mission-driven focus on unmet needs in severe muscle conditions
+● Patients & families are critical voices in all development programs
+Abbreviations: oHCM, obstructive hypertrophic cardiomyopathy, nHCM, non-obstructive hypertrophic cardiomyopathy
+
+5
+The Evolution of Edgewise
+2017 2020 2022 2023 2025
+Founded as a
+muscle platform
+company
+targeting
+genetically driven
+muscle diseases
+EWTX completes IPO,
+expands development programs
+First program
+targeting
+muscular
+dystrophies
+Sevasemten, a fast
+skeletal myosin
+inhibitor, enters P1
+in HVs and Becker
+MUSCULAR DYSTROPHY PROGRAM MILESTONES
+Sevasemten
+enters P2 in
+Duchenne
+Initiated
+GRAND CANYON
+pivotal cohort
+sevasemten in
+Becker
+2021 2024
+EDG-7500
+identified as
+lead molecule
+with unique
+characteristics
+EDG-7500
+characterized
+as a selective
+cardiac
+sarcomere
+modulator
+EDG-7500
+enters the clinic;
+continued
+research on
+novel
+cardiometabolic
+targets
+Initiated
+CIRRUS-HCM,
+EDG-7500
+P2 program
+in oHCM
+and nHCM
+CARDIOVASCULAR PROGRAM MILESTONES
+Identified a
+differentiated set
+of CV molecules as
+part of skeletal
+muscle counter-screen
+CV program
+initiated
+Sevasemten
+ARCH open label
+24-month results
+in Becker
+Sevasemten,
+P2 CANYON
+12-month
+results in
+Becker
+2019
+Initiated Becker
+ARCH open label
+study with
+sevasemten
+Abbreviations: HVs, healthy volunteers, CV, cardiovascular, oHCM, obstructive hypertrophic cardiomyopathy, nHCM, non-obstructive hypertrophic cardiomyopathy
+
+6
+ARCH, CANYON and the Evolution to GRAND CANYON Expedited the
+Development Timeline for Sevasemten in Becker​
+• The Phase 2 CANYON study was originally designed as a dose-finding study to evaluate the effect of sevasemten on safety,
+pharmacokinetics, biomarkers, and function in individuals with Becker
+• 12-month data from the ARCH study supported the hypothesis that a reduction in contraction-induced muscle damage has
+the potential to preserve and improve muscle function while preventing disease progression
+• ARCH identified key factors, including the dose of sevasemten, to allow expansion of CANYON to include the GRAND
+CANYON cohort as a potentially registrational cohort with NSAA as the primary endpoint
+• GRAND CANYON is the first pivotal cohort of an investigational therapy for Becker. Data from GRAND CANYON, if positive,
+could support a marketing application
+10 mg PO daily
+15 mg PO daily
+Placebo
+20 mg PO daily PIVOTAL Cohort 10 mg PO daily (18 mos.)
+Placebo
+10 mg PO daily (12 mos.)
+Placebo
+N=40
+Original CANYON Design Expanded CANYON/GRAND CANYON Design
+N=120
+This strategic pivot significantly reduced development timelines to support a
+potential approval of sevasemten for individuals living with Becker
+
+Becker Muscular Dystrophy
+and Sevasemten
+Dr. Joanne Donovan
+
+8
+I was told, ‘You’re lucky you don’t have Duchenne.’ It’s
+frustrating that you live longer, but you are constantly
+going downhill”
+– Individual living with Becker
+Our goal is to positively impact the course
+of Becker muscular dystrophy
+● Becker is a rare, genetic, life-shortening, debilitating
+and degenerative neuromuscular disorder
+● The disease predominately affects males and imposes
+significant physical, emotional, financial and social
+impacts on the individuals and their caregivers
+● Individuals with Becker lose mobility, function and
+independence in the prime of their lives
+● There is currently no treatment for Becker
+
+9
+Sevasemten is an investigational therapy that has not been approved for use in muscular dystrophies by any regulatory agency, as its safety and effectiveness
+have not been established for the treatment of these diseases.
+Abbreviations: CK, creatine kinase
+Sevasemten: A First-in-Class Fast Myofiber (Type II) Myosin Inhibitor
+Designed to Protect Against Contraction-Induced Muscle Injury
+Collapsed sarcomere
+Protected sarcomere
+Progressive
+disease pathology
+Contraction-induced
+muscle injury
+Sevasemten
+Prevention of
+contraction-induced
+muscle injury
+Excessive
+contraction
+induced muscle
+damage
+Duchenne
+Becker
+Sevasemten Therapeutic Hypothesis
+
+Abbreviations: CK, Creatine Kinase; TNNI2, Fast Skeletal Muscle Troponin I 10
+Elevated Circulating Levels of Muscle Injury Biomarkers, including CK
+and TNNI2, Indicate Ongoing Muscle Damage in Muscular Dystrophies
+Contraction-Induced Muscle Injury in Muscular Dystrophies
+Contraction induced muscle damage
+causes excessive degeneration
+Fast fibers are subsequently injured leading to release of muscle
+injury biomarkers into the circulation
+CK
+CK
+CK TNNI2
+TNNI2
+TNNI2
+Circulating Levels of Muscle Injury Biomarkers Can be Measured to Determine Ongoing Muscle
+Damage in Muscular Dystrophies
+
+11
+PK, biomarkers and longer-term safety OLE Complete
+Function (NSAA), PK, biomarkers and longer-term safety OLE Recruiting
+GRASP Recruiting -01-002 24-Month, observational study
+Abbreviations: LGMD, limb-girdle muscular dystrophy; NSAA, North Star ambulatory assessment; PK, pharmacokinetics
+Our Commitment to Becker: Completed and Ongoing Clinical Trials
+Phase 2 Becker
+Pivotal Cohort Becker
+(NCT05291091)
+Becker Natural History Study
+(NCT05257473)
+Exercise challenge study OLE Complete Phase 2 Becker,
+LGMD2i, & McArdle
+Phase 1 Becker Open-label, safety, PK, function OLE Complete
+Open-label long-term safety, biomarkers and functional measures Enrolling by invitation Becker Open Label Extension
+Study (NCT06066580)
+
+Topline Results
+
+13 A Phase 2 Multi-Center Study to Assess Sevasemten Safety and Effect on Biomarkers in Adults with Becker * Adolescents were not selected based on NSAA Reference: NCT05160415 Abbreviations: CK, creatine kinase 5 mg or 12.5 mg PO daily Study design - 12 months Key Secondary: North Star Ambulatory Assessment (NSAA); change from baseline at month 12 Additional Endpoints: Safety, PK, biomarkers, timed function tests, MRI Month Placebo 10 mg PO daily Placebo 0 1 3 6 9 12 ADULTS ADOLESCENTS (ages 12-17) ADULT PRIMARY EFFICACY ENDPOINT Change from baseline in CK averaged across Months 6, 9 and 12 KEY INCLUSION CRITERIA Ambulatory males aged 12 to 50 years with a dystrophin mutation and a Becker phenotype, not on corticosteroids, with a NSAA between 5-32* PATIENTS ENROLLED Adults: 40 Adolescents: 29
+
+14
+Summary of Key Study Metrics
+* Trial sites in the US, UK and the Netherlands
+16
+sites
+3
+countries
+Enrollment: Largest Becker study to date
+Total of 80 patients screened and 69 patients enrolled:
+• Adults: 40
+• Adolescents: 29
+Low discontinuation rate
+• 4% overall
+• 2.5% in adult cohort (1 out of 40 enrolled)
+99% of eligible participants enrolled in
+MESA open-label extension
+• Approximately, 85 Becker patients currently enrolled
+in MESA
+*
+
+15
+Becker Mutation Overview: Slow Progressor Genotypes
+were Largely Excluded with Functional Cut-Off Criteria
+Mutation type Adults (N=40) Adolescents (N=29)
+Becker mutations associated with progression 39 26
+45-x 20 11
+Other 19 15
+None/very slow progression Becker mutations 1 3
+X-51 1 (sevasemten) 2 (sevasemten)
+Del 48 0 0
+45-55 (associates with late myopathy) 0 1 (sevasemten)
+Reference: Bello L., et. al., Sci Rep., 2016
+
+16
+Overview of Baseline Function in Safety Population
+*At baseline, 1 placebo and 9 sevasemten treated participants were unable to rise from floor
+Functional test Adults Sevasemten
+(n=28)
+Adults Placebo
+(n=12)
+ARCH
+(N=12)
+Mean total NSAA score, points (SD) 18.4 (7.66) 24.2 (8.19) 15.1 (8.4)
+Mean 4SC velocity, 1/seconds (SD) 0.22 (0.128) 0.34 (0.173) 0.19 (0.164)
+Mean RFF velocity, 1/seconds (SD)* 0.14 (0.114) 0.21 (0.128) 0.16 (0.196)
+Mean 10MWR velocity, meters/second (SD) 1.52 (0.731) 2.00 (0.884) 1.15 (0.521)
+Mean 100MTT velocity, meters/second (SD) 1.50 (0.856) 1.78 (0.782) 1.08 (0.496)
+Abbreviations: NSAA, North Star Ambulatory Assessment
+
+17
+Functional Measures Not Well Matched at Baseline;
+Patients in Sevasemten Group had Lower Baseline NSAA
+*At baseline, 1 placebo and 9 sevasemten treated participants were unable to rise from floor
+Functional test Adults Sevasemten
+(n=28)
+Adults Placebo
+(n=12)
+Difference
+(from placebo)
+P-value vs.
+Placebo
+Mean total NSAA score, points (SD) 18.4 (7.66) 24.2 (8.19) -5.8 0.04
+Mean 4SC velocity, 1/seconds (SD) 0.22 (0.128) 0.34 (0.173) -0.12 0.02
+Mean RFF velocity, 1/seconds (SD)* 0.14 (0.114) 0.21 (0.128) -0.07 0.09
+Mean 10MWR velocity, meters/second (SD) 1.52 (0.731) 2.00 (0.884) -0.48 0.08
+Mean 100MTT velocity, meters/second (SD) 1.50 (0.856) 1.78 (0.782) -0.28 0.32
+The baseline imbalance observed is a direct consequence of a small study and
+should resolve in the larger GRAND CANYON cohort (n=120)
+Abbreviations: NSAA, North Star Ambulatory Assessment
+
+18
+Sevasemten was Well Tolerated: Overview of
+Treatment Emergent Adverse Events (TEAE)
+* A treatment emergent adverse event (TEAE) is any adverse event (AE) that starts during or after the first dose of investigational product through the end of the safety follow-up period
+Functional test Sevasemten (n=28)
+n (%)
+Placebo (n=12)
+n (%)
+Total (N=40)
+n (%)
+Any TEAE* 26 (92.9) 10 (83.3) 36 (90)
+Severe TEAE 0 (0) 0 (0) 0 (0)
+Serious Adverse Events 1 (3.6) 0 (0) 1 (2.5)
+Any drug related TEAE 16 (57.1) 5 (41.7) 21 (52.5)
+Discontinuation due to TEAE 1 (3.6) 0 (0) 1 (2.5)
+Deaths 0 (0) 0 (0) 0 (0)
+
+19
+Sevasemten was Well Tolerated: TEAEs Occurring in
+≥5% of Total
+System Organ Class/Preferred Term Sevasemten (n=28) n (%) Placebo (n=12) n (%) Total (N=40) n (%)
+Any TEAE 26 (92.9%) 10 (83.3%) 36 (90%)
+Eye disorders
+Vision blurred 1 (3.6%) 2 (17%) 3 (8%)
+Gastrointestinal disorders
+Abdominal pain 1 (4%) 1 (8%) 2 (5.%)
+Vomiting 2 (7%) 0 (0%) 2 (5.%)
+General disorders and administration site conditions
+Fatigue 5 (18%) 3 (25%) 8 (20%)
+Chest discomfort 2 (7%) 0 (0%) 2 (5%)
+Influenza like illness 2 (7%) 0 (0%) 2 (5%)
+Infections and infestations
+COVID-19 6 (21%) 2 (17%) 8 (20%)
+Nasopharyngitis 6 (21%) 2 (17%) 8 (20.%)
+Upper respiratory tract infection 5 (18%) 2 (17%) 7 (18%)
+Influenza 4 (14%) 1 (8%) 5 (13%)
+Injury, poisoning and procedural complications
+Fall 8 (29%) 2 (17%) 10 (25%)
+Back injury 1 (4%) 1 (8%) 2 (5%)
+Investigations
+Ejection fraction decreased 0 (0%) 2 (17%) 2 (5%)
+Musculoskeletal and connective tissue disorders
+Arthralgia 2 (7%) 1 (8%) 3 (8%)
+Back pain 3 (11%) 0 (0%) 3 (8%)
+Osteopenia 2 (7%) 0 (0%) 2 (5%)
+Tendonitis 2 (7%) 0 (0%) 2 (5%)
+Nervous system disorders
+Headache 9 (32%) 2 (17%) 11 (28%)
+Dizziness 9 (32%) 0 (0%) 9 (23%)
+Somnolence 5 (18%) 1 (8%) 6 (15%)
+Migraine 3 (11%) 1 (8%) 4 (10%)
+Dizziness postural 2 (7%) 1 (8%) 3 (8%)
+Respiratory, thoracic and mediastinal disorders
+Oropharyngeal pain 4 (14%) 0 (0%) 4 (10%)
+Cough 3 (11%) 0 (0%) 3 (8%)
+Nasal congestion 2 (7%) 0 (0%) 2 (5%)
+
+20
+Statistically Significant Decrease in the Primary Endpoint
+of CK: 28% Reduction vs Placebo
+Note: CK values are log-transformed. LS (least squares) means, LS mean differences and CIs were back-transformed to percent scale
+Abbreviations: CFB, change from baseline, CI, confidence interval, CK, creatine kinase
+CK between-group difference LSMean:
+-28%
+(95% CI -44% to -6%); p-value = 0.02
+Placebo Sevasemten
+-40
+-20
+0
+20
+40
+% CFB CK (Avg 6-12 mo)
+0 3 6 9 12
+-50
+0
+50
+100
+Time (months)
+% CFB in CK
+Average 6 -12 months
+Sevasemten
+Placebo
+CK showed rapid and sustained decreases with sevasemten treatment
+
+21
+TNNI2 Decreased 77% from Baseline in the Sevasemten
+Treatment Group vs Placebo
+TNNI2 between-group difference LSMean:
+-77%
+(95% CI -89% to 51%); p-value < 0.001
+Average 6 -12 months
+Sevasemten
+Placebo
+0 3 6 9 12
+-100
+0
+100
+200
+Time (months)
+% CFB in TNNI2
+Placebo Sevasemten
+-100
+-50
+0
+50
+100
+150
+% CFB TNNI2 (Avg 6-12 mo)
+Note: TNNI2 values are log-transformed. LS means, LS mean differences and CIs were back-transformed to percent scale
+Abbreviations: CFB, change from baseline, CI, confidence interval, TNNI2, troponin I2
+TNNI2, an on-target biomarker of fast muscle fiber damage, also
+demonstrated rapid and sustained decreases with sevasemten treatment
+
+22
+Key Secondary Endpoint: NSAA Remained Stable
+Over Time in Sevasemten Group
+0 3 6 9 12
+-3
+-2
+-1
+0
+1
+2
+Time (months)
+CFB Total NSAA Score
+NSAA between-group difference LSMean: 1.12
+(95% CI -0.4 to 2.7); p-value = 0.16
+Sevasemten
+Placebo
+Positive trends in NSAA favoring sevasemten with placebo
+declining in line with natural history
+Abbreviations: NSAA, North Star Ambulatory Assessment
+
+23
+63% of Patients Treated with Sevasemten Showed
+Stable or Improved Function After 12 Months
+Sevasemten NSAA Responder Analysis
+-6
+-4
+-2
+2
+4
+6
+-6
+-4
+-2
+2
+4
+6
+Placebo (n=12)
+Sevasemten (n=27)
+63%
+33% 67%
+37%
+Stability or Improvement
+Odds Ratio: 3.4 (p=0.16)
+Abbreviations: NSAA, North Star Ambulatory Assessment
+
+24
+Trends in Other Functional Measures Favor
+Sevasemten Treatment Arm
+-4 -2 0 2 4
+RFF Velocity
+4SC Velocity
+100MTT Velocity
+10MWR Velocity
+NSAA
+Standardized Statistics (95% CI)
+1.12 0.075 0.055
+0.024
+-0.005
+LSMean Difference
+* At baseline, 9 sevasemten and 1 placebo treated participants were unable to rise from floor. At Month 12, 9 sevasemten and 2 placebo treated participants were unable to rise from floor
+Note: For the figures, LSM differences and CIs were standardized by dividing by the SE. LSM differences presented on the right of the figure are on original scale (without SE adjustment)
+*
+Favors Placebo Favors Sevasemten
+Abbreviations: NSAA, North Star Ambulatory Assessment, CI, confidence interval
+
+25
+Summary of Trial Results
+• Sevasemten treated patients showed stabilization of NSAA with
+trends toward improvement
+• Placebo group (n=12) declined in line with natural history
+• Primary endpoint achieved: 28% average decrease in CK versus
+placebo (p=0.02)
+• Plasma TNNI2 decreased 77% from baseline versus placebo (p<0.001)
+• Well-tolerated, at all doses, in adults and adolescents
+• No safety concerns identified
+• The imbalance between groups confounded interpretation of a
+few endpoints (e.g., MRI); evaluation of the full data set ongoing
+Safety
+Biomarkers
+Function
+Secondary &
+Exploratory
+Abbreviations: CK, creatine kinase, NSAA, North Star Ambulatory Assessment
+
+Sevasemten
+Future Development Plans
+
+27
+9 15
+Global, Multi-Center, Placebo-Controlled Pivotal Cohort
+Assessing Efficacy & Safety of Sevasemten in Becker
+Abbreviations: PO, by mouth; NSAA, North Star Ambulatory Assessment
+PRIMARY ENDPOINT
+NSAA at
+18 months
+KEY INCLUSION
+CRITERIA
+Adult individuals with
+Becker with NSAA 5-32,
+not taking corticosteroids
+ENROLLMENT
+>120
+Study design - 18 months
+10mg
+PO daily Screening
+0 1 3 6
+Additional Endpoints
+Timed function tests (TFTs), biomarkers of muscle damage, MRI, patient reported outcomes (PROs), safety
+Month
+POTENTIAL REGISTRATIONAL COHORT
+12
+POWERED AT
+>90%
+for observing a difference
+corresponding to the natural
+history NSAA decline of 1.2
+points/year
+Placebo
+R
+2:1
+18
+
+28
+GRAND CANYON Powered at 96% to Show a 1.68 Point
+NSAA Difference at 18 Months
+p<0.05
+Treatment Difference
+Power Calculation Assumptions:
+• N=120 patients with 2:1 randomization
+• Month 12 CANYON treatment difference = 1.12
+• Assumed 50% increase in NSAA treatment effect
+at month 18 vs month 12 ( = 1.68)
+• 10% drop-out rate
+• Standard deviation () = 2.16
+• Tipping point = 0.87 (represents point where the p-value is ~0.05 given the study size and assumed
+standard deviation based on t-test)
+Power: 96%
+-2 -1 0 1 2 3 4
+Abbreviations: NSAA, North Star Ambulatory Assessment
+
+29
+Sevasemten for Becker Next Steps
+*European sites include the UK, Netherlands, Belgium, Denmark, Spain, France, Germany and Italy
+Increased
+confidence in
+GRAND CANYON
+future success
+based on sevasemten
+clinical experience to
+date, Becker natural
+history data, and internal
+modeling
+CANYON results
+support
+engagement with
+FDA & EMA
+about marketing
+authorization filing
+strategies for sevasemten
+in Becker
+GRAND CANYON is
+near full
+enrollment
+in 51 sites across the
+United States, Europe*,
+New Zealand, Australia
+and Israel;
+on track to over-enroll by Q1 2025
+1 2
+To date, 99% of
+eligible Becker
+participants
+who have completed
+ARCH, CANYON, GRAND
+CANYON and DUNE
+have enrolled in
+MESA
+3 4
+
+CANYON Clinical Implications and
+Sevasemten’s Potential Role in Becker
+Dr. Craig M. McDonald
+
+31
+Reference: 1. Bello L, et al. 2016. 2. De Wel B, et al. Eur J Neurol. 2024. 3. Van de Velde NM, et al. Neurology. 2021.;4. Bello L et al 2024 WMS; 95% CI shown​
+Natural History Data in Becker Support that Functional Decline,
+Measured by NSAA, is Consistent and Predictable
+0 1 2 3 4 5
+-10
+-8
+-6
+-4
+-2
+0
+Years of Observation
+Change in NSAA
+Natural history of Becker muscular dystrophy
+• NSAA is utilized in muscular
+dystrophy natural history studies to
+longitudinally assess function
+• Multiple natural history studies in
+individuals with Becker
+demonstrate a NSAA average
+score decline of 1.0 to 1.8 points
+annually .
+1,2,3
+• Becker Natural history studies
+support that NSAA decline is
+consistent in Becker patients who
+are already progressing
+
+32
+A Clinician’s Perspective on How to Interpret a 1-point NSAA Change
+in Becker
+From using
+the toilet
+independently…
+…to asking for help
+to get up from the
+toilet.
+…to requiring
+assistance from
+another person or
+mobility device.
+…to requiring
+someone else’s help
+to get back up.
+From using stairs
+or steps…
+From being able
+to get up from a
+fall…
+For individuals living with Becker, this decline could look like:
+Abbreviations: NSAA, North Star Ambulatory Assessment
+
+Closing Remarks
+Kevin Koch, CEO
+
+We Aim to Change the Lives of
+Individuals with Becker
+~12,000 PEOPLE WITH
+BECKER IN US,
+EU-5 & JAPAN
+~16 AGE PEOPLE WITH BECKER
+CAN BECOME MOBILITY
+DEVICE DEPENDENT
+• Source: Parent Project Muscular Dystrophy: Fifteen Year Registry Report; Edgewise Therapeutics independent quantitative and qualitative market research (Bluestar BioAdvisors); Edgewise research; Emery AE, Neuromuscul. Disord., 1991; MD STARnet Data and
+Statistics; Duchenne muscular dystrophy. National Center for Advancing Translational Sciences; Duan D et al., Nat. Rev. Dis. Primers, 2021
+0
+APPROVED
+THERAPIES
+
+35
+Abbreviations: HV, healthy volunteers; oHCM, obstructive hypertrophic cardiomyopathy; nHCM, non-obstructive hypertrophic cardiomyopathy; CV, cardiovascular; IND, Investigational New Drug application;
+POC, proof of concept
+Edgewise Upcoming Value-Generating Milestones
+H2 2024 H1 2025 H2 2025
+Becker
+Duchenne
+Skeletal
+Sevasemten
+Hypertrophic
+Cardiomyopathy
+Cardiac
+EDG-7500
+Phase 2 LYNX & FOX
+Controlled dose-ranging data
+Phase 3 trial
+Initiation
+Phase 2 CANYON
+1-year placebo-controlled data
+Phase 1/Phase 2
+EDG-7500 data in HVs & oHCM
+Phase 2 28-day study
+Initiate in oHCM & nHCM
+Phase 2 28-day study
+Initial Data readout
+✓
+✓
+GRAND CANYON
+Recruitment complete (Q1)
+Cardiometabolic Drug
+In vivo POC
+Phase 2
+12-week oHCM & nHCM
+✓
+EDG-CV candidate
+IND in HF
+
+36 As of September 30, 2024
+Well-Capitalized to Execute Important Milestones Across Both
+EDG-7500 & Sevasemten
+(1) DEBT (1)
+$0
+CASH, CASH EQUIVALENTS &
+MARKETABLE SECURITIES
+~$493M
+COMMON SHARES OUTSTANDING
+(NASDAQ: EWTX)
+~94M
+CASH RUNWAY THROUGH 2027
+
+37
+Q & A

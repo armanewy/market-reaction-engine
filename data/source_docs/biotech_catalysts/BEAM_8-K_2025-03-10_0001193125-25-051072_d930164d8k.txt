@@ -1,0 +1,297 @@
+8-K
+
+false 0001745999 0001745999 2025-03-10 2025-03-10
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 10, 2025
+
+ 
+
+ 
+
+Beam Therapeutics Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39208
+
+ 
+
+81-5238376
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+238 Main Street
+
+ 
+
+Cambridge, Massachusetts
+
+ 
+
+02142
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: 857 327-8775
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.01 per share
+
+ 
+
+BEAM
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On March 10, 2025, Beam Therapeutics Inc. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with J.P. Morgan Securities LLC, Jefferies LLC, Cantor Fitzgerald & Co., Citigroup Global Markets Inc. and Wells Fargo Securities, LLC, acting as representatives of the several underwriters named therein (collectively, the “Underwriters”), relating to an underwritten offering of 16,151,686 shares (the “Shares”) of the Company’s common stock, par value $0.01 per share (the “Common Stock”) and, in lieu of Common Stock to certain investors, pre-funded warrants (the “Pre-funded Warrants”) to purchase 1,404,988 shares of Common Stock. All of the Shares and the Pre-funded Warrants are being sold by the Company. The offering price of the Shares is $28.48 per share and the offering price of the Pre-funded Warrants is $28.47 per share of Common Stock underlying each Pre-funded Warrant, and the Underwriters have agreed to purchase the Shares from the Company pursuant to the Underwriting Agreement at a price of $26.7712 per share and the Pre-funded Warrants from the Company pursuant to the Underwriting Agreement at a price of $26.7612 per share of Common Stock underlying each Pre-funded Warrant. After underwriting discounts and commissions and estimated offering expenses, the Company expects to receive net proceeds from the offering of approximately $469.7 million.
+
+The Shares and the Pre-funded Warrants will be issued pursuant to an automatically effective shelf registration statement on Form S-3 that the Company filed with the Securities and Exchange Commission (the “SEC”) on February 28, 2024 (File No. 333-277427). A prospectus supplement relating to the offering has been filed with the SEC. The closing of the offering is expected to take place on or about March 11, 2025, subject to the satisfaction of customary closing conditions.
+
+The Company intends to use the net proceeds from the offering for continued advancement of its platform technology, for continued research, development and pre-commercialization activities for its current portfolio of base editing programs and for other potential programs, including biologics license application submission and pre-commercial activities for BEAM-101, for clinical trials, including advancement of a potential pivotal trial for BEAM-302 for treatment of alpha-1 antitrypsin deficiency and of a potential Phase 1/2 clinical trial of the ESCAPE conditioning platform in patients with sickle cell disease, and for general corporate purposes.
+
+Each Pre-funded Warrant has an exercise price per share of Common Stock equal to $0.01 per share. Each Pre-funded Warrant will be exercisable at any time after the date of issuance. The Pre-funded Warrants will be exercisable solely by means of a cashless exercise. The exercise price and the number of shares of Common Stock issuable upon exercise of each Pre-funded Warrant is subject to appropriate adjustment in the event of certain stock dividends and distributions, stock splits, stock combinations, reclassifications or similar events affecting the Common Stock, as well as upon any distributions of assets, including cash or stock, to the Company’s stockholders.
+
+Under the terms of the Pre-funded Warrants, the Company may not effect the exercise of any Pre-funded Warrant, and a holder will not be entitled to exercise any portion of any Pre-funded Warrant that, upon giving effect to or immediately prior to such exercise, would cause: (1) the aggregate number of shares of the Common Stock beneficially owned by such holder (together with its affiliates) to exceed 4.99%, 9.99%, or 19.99%, as elected by the
+
+holder, of the number of shares of Common Stock outstanding following such exercise; or (2) the combined voting power of the Company’s securities beneficially owned by such holder (together with its affiliates) to exceed 4.99%, 9.99%, or 19.99%, as elected by the holder, of the combined voting power of all of the Company’s securities outstanding following such exercises. Under the terms of the Pre-funded Warrants, a holder of a Pre-funded Warrant may increase or decrease such percentage to any other percentage not in excess of 19.99% provided that any such increase will not be effective until the 61st day after notice from the holder is delivered to the Company.
+
+In addition, in certain circumstances, upon a fundamental transaction, a holder of Pre-funded Warrants will be entitled to receive, upon exercise of the Pre-funded Warrants, the same amount and kind of securities, cash or property that such holder would have received had they exercised the Pre-funded Warrants immediately prior to the fundamental transaction, without regard to any limitations on exercise contained in the Pre-funded Warrants.
+
+The Underwriting Agreement contains customary representations, warranties, covenants and agreements by the Company, customary conditions to closing, indemnification obligations of the Company and the Underwriters, including for liabilities under the Securities Act of 1933, as amended, other obligations of the parties and termination provisions. The representations, warranties and covenants contained in the Underwriting Agreement were made only for purposes of such agreement and as of specific dates, were solely for the benefit of the parties to such agreement, and may be subject to limitations agreed upon by the contracting parties.
+
+A copy of the Underwriting Agreement and the form of Pre-funded Warrant are attached as Exhibit 1.1 and Exhibit 4.1 hereto, respectively, and are incorporated herein by reference. The foregoing descriptions of the Underwriting Agreement and the Pre-funded Warrants do not purport to be complete and are qualified in their entirety by reference to such exhibits.
+
+A copy of the legal opinion and consent of Wilmer Cutler Pickering Hale and Dorr LLP relating to the Shares, the Pre-funded Warrants and the shares of Common Stock underlying the Pre-funded Warrants is attached as Exhibit 5.1 hereto.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+The full text of the press release announcing the pricing of the offering on March 10, 2025 is attached as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+Statements in this Current Report on Form 8-K about future expectations, plans and prospects, as well as any other statements regarding matters that are not historical facts, may constitute “forward-looking statements” within the meaning of The Private Securities Litigation Reform Act of 1995. The words “anticipate,” “expect,” “suggest,” “plan,” “vision,” “strategy,” “possibility,” “promise,” “believe,” “intend,” “project,” “estimates,” “targets,” “projections,” “potential,” “should,” “could,” “would,” “may,” “might,” “will,” the negative thereof and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Investors are cautioned not to place undue reliance on these forward looking statements, including but not limited to, statements relating to the size, structure and closing of the offering; anticipated use of proceeds of the offering; the therapeutic applications and potential of our technology; and our ability to develop life long curative, precision genetic medicine for patients through base editing. Each forward-looking statement is subject to important risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statement, including, without limitation, risks and uncertainties related to: market conditions and the completion of the offering on the anticipated terms or at all; our ability to develop, obtain regulatory approval for, and commercialize our product candidates, which may take longer or cost more than planned; our ability to raise additional funding, which may not be available; our ability to obtain, maintain and enforce patent and other intellectual property protection for our product candidates; the uncertainty that our product candidates will receive regulatory approval necessary to initiate human clinical trials; that preclinical testing of our product candidates and preliminary or interim data from preclinical studies and clinical trials may not be predictive of the results or success of ongoing or later clinical trials; that initiation and enrollment of, and anticipated timing to advance, our clinical trials may take longer than expected; that our product candidates or the delivery modalities we rely on to administer them may cause serious adverse events; that our product candidates may experience manufacturing or supply
+
+interruptions or failures; risks related to competitive products; and the other risks and uncertainties identified under the headings “Risk Factors Summary” and “Risk Factors” in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2024, filed with the SEC on February 25, 2025, the prospectus supplement related to the offering filed on March 10, 2025, and in any subsequent filings with the SEC. Any forward-looking statements contained in this Current Report on Form 8-K speak only as of the date hereof, and the Company specifically disclaims any obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise, except as may be required by applicable law.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+ 1.1
+
+  
+
+Underwriting Agreement, dated March 10, 2025, by and among Beam Therapeutics Inc., J.P. Morgan Securities LLC, Jefferies LLC, Cantor Fitzgerald & Co., Citigroup Global Markets Inc. and Wells Fargo Securities, LLC
+
+ 4.1
+
+  
+
+Form of Pre-funded Warrant
+
+ 5.1
+
+  
+
+Opinion of Wilmer Cutler Pickering Hale and Dorr LLP
+
+23.1
+
+  
+
+Consent of Wilmer Cutler Pickering Hale and Dorr LLP (included in Exhibit 5.1)
+
+99.1
+
+  
+
+Press Release dated March 10, 2025
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+BEAM THERAPEUTICS INC.
+
+Date: March 10, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ John Evans
+
+ 
+
+ 
+
+ 
+
+John Evans
+
+ 
+
+ 
+
+ 
+
+Chief Executive Officer

@@ -1,0 +1,318 @@
+EX-99.1
+2
+d313389dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1 KT-474 HS and AD Clinical Data and Oncology Pipeline Update
+C o m p a n y W e b c a s t December 14, 2022
+
+Forward-looking Statements This presentation contains forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995 (PSLRA) and other federal securities laws. These statements include information about our current and future prospects and our operations and financial results,
+which are based on currently available information. All statements other than statements of historical facts contained in this presentation, including express or implied statements regarding our strategy, future financial condition, future
+operations, projected costs, prospects, plans, objectives of management and expected market growth, are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as ‘‘aim,’’
+‘‘anticipate,’’ ‘‘assume,’’ ‘‘believe,’’ ‘‘contemplate,’’ ‘‘continue,’’ ‘‘could,’’
+‘‘design,’’ ‘‘due,’’ ‘‘estimate,’’ ‘‘expect,’’ ‘‘goal,’’ ‘‘intend,’’ ‘‘may,’’
+‘‘objective,’’ ‘‘plan,’’ ‘‘predict,’’ ‘‘positioned,’’ ‘‘potential,’’ ‘‘seek,’’
+‘‘should,’’ ‘‘target,’’ ‘‘will,’’ ‘‘would’’ and other similar expressions that are predictions of or indicate future events and future trends, or the
+negative of these terms or other comparable terminology. These forward-looking statements include statements about our strategy, business plans and objectives for our programs; plans and timelines for the clinical development of our product
+candidates, including the therapeutic potential, clinical benefits and safety thereof; expectations regarding timing, success and data announcements of current ongoing clinical trials; the ability to initiate new clinical programs; the initiation,
+timing, progress and results of our current and future clinical trials and current and future preclinical studies and clinical trials of our product candidates and of our research and development programs; our plans to develop and commercialize our
+current product candidates and any future product candidates and the implementation of our business model and strategic plans for our business, current product candidates and any future product candidates. We may not actually achieve the plans,
+intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. You should not rely upon forward-looking statements as predictions of future events. Actual results or
+events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements we make. Any forward-looking statements are based on management's current expectations and beliefs and are subject to a number of
+risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements including, without limitation, risks associated with: the impact of COVID-19 on
+countries or regions in which we have operations or do business, as well as on the timing and anticipated results of our current and future preclinical studies and clinical trials, supply chain, strategy and future operations; the delay of any
+current and future preclinical studies or clinical trials or the development of our drug candidates; the risk that the results of current preclinical studies and clinical trials may not be predictive of future results in connection with current or
+future clinical trials, including those for KT-474, KT-333 and KT-413; Our ability to successfully demonstrate the safety and efficacy of our drug candidates; the timing and outcome of our planned interactions with regulatory authorities; obtaining,
+maintaining and protecting our intellectual property; and our relationships with its existing and future collaboration partners. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information,
+the occurrence of certain events or otherwise, except as required by law. As a result of these risks and others, including those set forth in our most recent and future filings with the Securities and Exchange Commission, actual results could vary
+significantly from those anticipated in this presentation, and our financial condition and results of operations could be materially adversely affected. This presentation contains trademarks, trade names and service marks of other companies, which
+are the property of their respective owners. Certain information contained in this presentation and statements made orally during this presentation relate to or is based on studies, publications, surveys and other data obtained from third-party
+sources and the Company’s own internal estimates and research. While the Company believes these third-party studies, publications, surveys and other data to be reliable as of the date of the presentation, it has not independently verified, and
+makes no representation as to the adequacy, fairness, accuracy or completeness of, any information obtained from third- party sources. In addition, no independent sources has evaluated the reasonableness or accuracy of the Company’s internal
+estimates or research and no reliance should be made on any information or statements made in this presentation relating to or based on such internal estimates and research. ©2022 KYMERA THERAPEUTICS, INC. PAGE 2
+
+1. Welcome 2. Oncology Update 15’ • IRAKIMiD (KT-413)
+• STAT3 (KT-333) 3. IRAK4 Update 35’ • KT-474 HS and AD Patient Cohort 4. Q&A 40’ P R E S E N TAT I O N A G E N D A
+
+Introduction to Kymera Key accomplishments to date: Kymera is a leader
+in Targeted Protein • Since 2016 founding, advanced 4 clinical stage programs and Degradation (TPD) developed a deep pipeline positioned to deliver ≥1 IND/year Building a fully-integrated, • Unique target selection strategy based
+on using TPD to unlock high value, undrugged targets global biotech company • First to advance degraders (KT-474) in healthy volunteers and Initial focus in Immunology/ patients with HS and AD, demonstrating degrader vs. small Inflammation and
+Oncology, molecule inhibitors (SMI) biological differentiation, and potential but already a disease- best in class profile in I/I agnostic platform • Demonstrated fidelity of translation of PK, PD and safety across Accelerating forward three
+clinical programs in I/I and oncology patients integration through key strategic partnerships• Well capitalized with $596 million of cash as of 9/30/22 positioning Kymera to accelerate and expand clinical impact in areas with large clinical
+and commercial opportunities ©2022 KYMERA THERAPEUTICS, INC. PAGE 4
+
+Kymera’s Pipeline of Novel Protein Degraders Pathway Program
+Indication(s) Discovery IND Enabling Phase 1 Rights* Phase 2 Next Milestones Phase 2 Start Immuno-inflammatory KT-474 IRAK4 Diseases: HS, AD, RA, others Multiple molecules staged as potential back ups if needed 2023 IL-1R/TLR IRAKIMiD Clinical
+Activity MT MYD88 Tumors KT-413 (IRAK4, Ikaros, Aiolos) 2023 Clinical Activity STAT3 Liquid & Solid Tumors KT-333 2023 JAK/STAT Autoimmune & STAT3 Fibrotic Diseases Phase 1 Start MDM2 Liquid & Solid Tumors KT-253 p53 2023 Confidential
+Confidential Collaboration Discovery Multiple programs in immune-inflammatory and ≥ 1 DC Several Discovery Programs oncology indications anticipated to deliver ≥ 1 IND/year Annually Pipeline 6 targets in 5 disease areas outside of
+Collaboration 6 Undisclosed Programs immunology-inflammation and oncology *Option to participate equally in the development and commercialization of Sanofi-partnered programs in the US. = Oncology = Immunology-Inflammation RA: Rheumatoid arthritis,
+AD: Atopic Dermatitis, HS: Hidradenitis suppurativa ©2022 KYMERA THERAPEUTICS, INC. PAGE 5
+
+Presentation Summary Oncology • KT-333 and KT-413 Phase 1 trials
+in dose escalation phase • Both molecules demonstrating PK/PD consistent with pre-clinical models • No dose-limiting toxicities observed to date • KT-253 IND cleared; Phase 1 trial expected to commence in early 2023 KT-474 •
+Part C cohort complete: data supportive of promising clinical and market opportunities in HS and AD • PK/PD in patients in line with healthy volunteers with broad impact on disease relevant cytokines in blood and skin of HS and AD patients
+• KT-474 generally well-tolerated; QTc spontaneously returned to normal baseline during the dosing period • Clinical endpoints suggest promising potential in both HS and AD, supporting targeting IRAK4 and clear differentiation of
+degrader versus small molecule inhibitors • Sanofi officially committed to advance KT-474 into Phase 2 clinical trials, initially in HS and AD ©2022 KYMERA THERAPEUTICS, INC. PAGE 6
+
+STAT3 (KT-333)
+
+STAT3 Degraders In Oncology: KT-333 U.S. R.O.W. Prevalence Incidence
+Prevalence Incidence • High degree of validation of JAK-STAT pathway in oncology Peripheral T-cell ~13k ~6.5k ~27k ~15k lymphoma (PTCL) and immuno-oncology supported by >25k publications Cutaneous T-cell ~30k ~2.6k ~67k ~6k lymphoma (CTCL)
+• Traditionally undrugged target Large granular lymphocyte ~4.5k <1k ~24k ~3k leukemia (LGL-L) • First-in-class opportunity to address STAT3 driven pathology Solid Tumors, PD-1 Combo across large and diverse indications ~30k ~5k ~78k
+~20k (e.g. Stage IV MSI-H CRC) Source: Bionest, SEER. GlobalData; ROW includes EU, UK, Japan and China. STAT3 Has Unique Tumor Cell Intrinsic Cytokine Growth Factor Receptor Adrenergic Receptor Receptor and Extrinsic Mechanisms • Intrinsic:
+Hyperactivation of STAT3 • Extrinsic: STAT3 promotes the via either receptor signaling, or differentiation and activity of hotspot mutations promotes gene immunosuppressive and endothelial JAK JAK SRC expression programs involved with cells,
+resulting in an P survival, proliferation, stemness and immunosuppressive tumor STAT3 metastasis of tumor cells microenvironment P P STAT3 STAT3 • Opportunities in STAT3-dep. • Opportunities in multiple heme and malignancies (e.g., T
+cell maligs., solid tumor indications that are not DLBCL, AML) and drug resistant responsive to immune checkpoint P P tumors (e.g., TKI res. oncogene- inhibitors STAT3 STAT3 driven solids) ©2022 KYMERA THERAPEUTICS, INC. PAGE 8
+
+KT-333 Highly Active on Intermittent Dosing Regimens Complete Tumor
+Regressions Associated with Robust STAT3 KD for ∼48h in Preclinical Models SU-DHL-1 Preclinical PK/PD Weekly Dosing • Dose- and degradation-dependent tumor growth inhibition observed with once-weekly dosing in ALK+ • Based on
+preclinical model (STAT3 dependent ALK+ ALCL ALCL), target PD >90% STAT3 KD for ~48 hours to achieve robust anti-tumor activity • 10 mg/kg sufficient to drive full tumor regression in SU-DHL- 1 that was durable for multiple weeks after the
+last dose (on day 14) ©2022 KYMERA THERAPEUTICS, INC. PAGE 9
+
+KT-333: Phase 1, Multicenter, Dose-Escalation and Expansion Trial to
+Evaluate KT-333 in Adult Patients with PTCL, CTCL, LGL-L, and Solid Tumors Phase 1a (n up to 40) Phase 1b (n=40) R/R Lymphoma/Leukemia or Solid Tumors Cohort 1: PTCL Regimen: mg/kg IV Infusion weekly n=20 Cohort 2: CTCL Dec. 2022: Currently n=20
+MTD/RP2D enrolling DLX Expansion* 0.40 Cohort 3: LGL-L 0.20 n=20 0.10 Predicted clinically 0.05 Cohort 4: Solid Tumors efficacious doses n=20 Key Objectives Phase 1a Phase 1b • Safety/Tolerability at RP2D in Patients with Primary•
+Safety/Tolerability and MTD and RP2D Lymphoma/Leukemia and Solid Tumors • PK Parameters of KT-333• Preliminary Clinical Activity (ORR, DoR, PFS, DCR, OS) Secondary • Preliminary Estimates of Activity• PK Parameters of KT-333
+Exploratory• PD Effects of KT-333• PD Effects of KT-333 MTD: Maximum Tolerated Dose. RP2D: Recommended Phase 2 Dose. ORR: Overall Response Rate ©2022 KYMERA THERAPEUTICS, INC. PAGE 10
+
+Interim Safety Data Summary Dose Level 1 • 4 patients at Dose
+Level 1 (DL1, 0.05 mg/kg) Dose Level 3 • All 4 patients heavily pretreated (≥3 prior lines) 0.51 mg/kg • 3 solid tumor Dose leve4 cleared by SRC, open • 1 CTCL for enrollment • No DLTs, no treatment-related SAEs, no AEs
+leading to discontinuation ©2022 KYMERA THERAPEUTICS, INC. PAGE 11
+
+Summary of PK Data From 4 Patients Enrolled in DL1 Week 1 DL1 →
+0.05 mg/kg PK Parameter Week 1 (n = 4) C (ng/mL) 306 (30.9%) max AUC (ng.h/mL) 1550 (66.4%) Vd (L/kg) 0.278 (17.5%) CL (L/h/kg) 0.0450 (62.5%) t (h) 6.25 (78.8%) 1/2 ©2022 KYMERA THERAPEUTICS, INC. PAGE 12
+
+STAT3 Degradation in Blood at Dose Level 1 (DL1: 0.05 mpk) Consistent
+with Prediction from Preclinical Modeling Clinical PD in PBMC by MS Mean Max Degradation* Subject ID Method: Targeted MS Post-doses 1&2 (Range) n = 4 subjects DL1-1 -79.8 % (-75.6 % to -84.1 %) DL1-2 -67.8 % (-73.5 % to –62.0 %) DL1-3
+-50.0 % (-47.4 % to -52.6 %) DL1-4 -66.7 % (-47.7 % to -85.8 %) Cohort -66.0 % Average KT-333 KT-333 *Max degradation as measured across timepoints sampled 0.05 mpk 0.05 mpk • Observed STAT3 degradation of 50-80% in PBMCs at Dose Level 1 is
+consistent with the range predicted for tumor based on preclinical modeling of SUDHL1 xenograft PK-PD data • Maximal degradation in DL1 patients is observed between 24-96 hours post infusion in Cycle 1 weeks 1 & 2, with recovery of STAT3
+levels between doses, as seen in preclinical models ©2022 KYMERA THERAPEUTICS, INC. PAGE 13
+
+Demonstration of Initial Proof-of-Mechanism (POM) for KT-333 •
+Accrual to first dose level completed • STAT3 degradation in blood at first dose level consistent with preclinical predictions, with mean maximum degradation following first 2 doses of Cycle 1 averaging 66%, with maximum knockdown of up to 86%
+• At least 48h of target degradation observed that in preclinical species led to robust antitumor activity in STAT3 sensitive preclinical models • DL1 level generally well-tolerated with no DLTs or treatment-related SAEs • DL2
+currently enrolling patients • DL3-4 expected to be clinically active doses ©2022 KYMERA THERAPEUTICS, INC. PAGE 14
+
+IRAKIMiD (KT-413)
+
+IRAKIMiDs are Potent Degraders of IRAK4 and IMiD Substrates MT
+Targeting Redundant Pro-survival Pathways in MYD88 DLBCL Autoantigens • Single-agent therapies targeting activated NFκB TLRs B Cell IL-1R signaling in DLBCL show limited activity Receptor IFNAR1/2 • Redundant NFκB pathway
+activation and MT downregulation of Type 1 IFN common in MYD88 lymphoma • Simultaneous degradation of IRAK4 and IMiD CD79A/B * substrates Ikaros and Aiolos shows synergistic activity BTK MYD88MYD88 MT * in MYD88 models IRAK4 IRAK4 CARD11 *
+Ikaros P MALT1 P IRAK1 IRAK1 U.S. R.O.W. * BCL10 Aiolos Prevalence Incidence Prevalence Incidence Aiolos 2.8 / 1.2 / IKKg IFN MYD88 MT DLBCL A20* ~8k ~10k JNK 100k 100k IKKbIKKa MYD88 MT 0.3 / 0.7 / * IFN AP1 NFkB
+Waldenström’s ~9k ~26k IRF4 IRF7 100k 100k Pathway Pathway Pathway Macroglobulinemia MYD88 MT PCNS 0.6 / 0.6 / ~2k ~10k PROLIFERATION & Lymphoma 100k 100k IFITs SURVIVAL Source: Bionest and Global Data. ROW includes E.U., U.K. and
+Japan. * Pathway-activating alterations in DLBCL Adapted from Yang et al. (2012) Cancer Cell 21, 6, pp723-737 ©2022 KYMERA THERAPEUTICS, INC. PAGE 16 TRAF6 TRAF6
+
+KT-413 Highly Active on Intermittent Dosing in Preclinical Models
+Complete Tumor Regressions Associated with Robust IRAK4 and Ikaros/Aiolos Degradation for ∼72h T/C% Drug (Day 33) CR PR SD PD (REG%) • Single 10 mg/kg dose showed extended tumor CC-220 9 0 0 0 7 exposure and strong degradation of both
+IRAK4 and KT-413 10 mg/kg (94) 5 2 0 0 IMiD substrates that was maintained for least 72hr in preclinical models MT • In the OCI-LY10 MYD88 xenograft model, intermittent dosing of KT-413 induced strong • Target PD 80-90% Ikaros KD and
+50-70% IRAK4 KD antitumor activity, including complete regressions. in tumor for ≥72 hrs to achieve robust anti-tumor • Superior activity compared to IMiD CC-220 alone activity ©2022 KYMERA THERAPEUTICS, INC. PAGE 17
+
+KT-413: Phase 1, Multicenter, Dose-Escalation and Expansion Trials to
+Evaluate KT-413 in Patients with R/R DLBCL Phase 1a (n up to 40) Phase 1b (n=40) R/R B-cell NHL R/R DLBCL Regimen: mg/kg IV Infusion q 3 weeks Dec. 2022: MT Cohort 1: MYD88 Currently n=20 enrolling MTD/RP2D Expansion* WT DLX Cohort 2: MYD88 0.82
+n=20 0.51 *Additional 3-6 0.32 pts for a total of 9 patients dosed 0.16 at MTD Predicted clinically efficacious doses Key Objectives Phase 1a Phase 1b Primary• Safety/Tolerability and MTD and RP2D• Safety/Tolerability at RP2D in Patients
+with DLBCL • PK Parameters of KT-413• Preliminary Clinical Activity (ORR, DoR, PFS, DCR, OS) Secondary • Preliminary Estimates of Activity• PK Parameters of KT-413 Exploratory• PD Effects of KT-413• PD Effects of
+KT-413 MTD: Maximum Tolerated Dose. RP2D: Recommended Phase 2 Dose. ORR: Overall Response Rate ©2022 KYMERA THERAPEUTICS, INC. PAGE 18
+
+Interim Safety Data Summary Dose Levels 1-2 • All patients with
+heavily pretreated B-cell lymphoma (up to 3 prior lines of therapy) • Follicular lymphoma, DLBCL (all wild-type MYD88) • No DLTs, no treatment-related SAEs or AEs leading to discontinuation, no neutropenia in first two dose levels
+©2022 KYMERA THERAPEUTICS, INC. PAGE 19
+
+Plasma PK Showing Dose-Proportional Increase in Exposure 0.16 0.32
+Cycle 1 Plasma PK mg/kg mg/kg PK (DL1) (DL2) Parameter Cycle 1 Cycle 1 C max 140 493 (ng/mL) AUC inf 1360 3490 (ng.h/mL) Vd (L/kg) 10.1 3.99 CL (L/h/kg) 0.118 0.092 t (h) 59.3 30.2 1/2 ©2022 KYMERA THERAPEUTICS, INC. PAGE 20
+
+Degradation Profile of IRAK4, Ikaros and Aiolos in DL1/DL2 Consistent
+with Preclinical Models in Blood and Tumor At least 72h of Target Degradation Observed with Once Every Three-week Dosing DL2 DL1 Target Degradation in PBMC by FLOW 0.16mg/kg 0.32mg/kg Cycle 1 Cycle 2 Dose IRAK4 Cycle 1 Cycle 2 Level Target Knockdown
+in Tumor by Targeted MS DL1 -16% 0 Percent Change from Baseline at C3D4 DL2 -27% -40% 104-002: 0.16mg/kg Ikaros Dose Cycle 1 Cycle 2 Level DL1 -84% -88% -27% DL2 -92% -95% -41% -66% Dose Aiolos Cycle 1 Cycle 2 Level *Mean is from 2-3 peptides
+measured for each analyte DL1 -93% - 91% DL2 -100% -100% • Up to 40% KD of IRAK4 and 95/100% KD of Ikaros and Aiolos in PBMC at DL1-2 ©2022 KYMERA THERAPEUTICS, INC. PAGE 21
+
+Demonstration of Initial POM for KT-413 • First two dose levels
+completed • PK and PD profiles in DL1 and DL2 consistent with preclinical data supporting once every three-week dosing regimen • Up to 95/100% KD of Ikaros/Aiolos and 40% KD of IRAK4 in blood • Consistent degradation in blood and
+tumor • At least 72h target degradation observed, a profile that in preclinical species led to robust antitumor activity in MYD88 mutant tumors • First 2 dose levels generally well-tolerated with no DLTs, treatment-related SAEs or
+neutropenia observed • DL3 currently enrolling patients • DL3/4 expected to be clinically active doses ©2022 KYMERA THERAPEUTICS, INC. PAGE 22
+
+IRAK4 (KT-474)
+
+Degrading IRAK4 Superior Approach to Block IL-1R/TLR-driven
+Inflammation Degrader Advantage IL-1R/TLR Pathway secreted Inhibitor IL-1a/β, IL-18, signaling TNF-α, IFN-γ, IRAK4 IL-33, IL-36 IL-1β, IL-6, Scaffolding Kinase IL-8, IL-10, Role Role IL-12, IL-17, IL-23 TLRs NFkB JNK/p38
+IRF5/7 (TLR 2,4,5,7,8,9) IL-1R Degrader Clinical Pathway Validation IL-1a/IL-1β : Rheumatoid Arthritis, CAPS, Hidradenitis Suppurativa IL-1a: Atopic Dermatitis MyD88 IL-1β: Gout; CANTOS Outcomes Data in Atherosclerosis and Lung
+Cancer Myddosome IRAK4 IL-18: Macrophage Activation Syndrome IRAK1 IRAK2 IL-36: Generalized Pustular Psoriasis, Atopic Dermatitis JNK/p38 TRAF6 IRAK4 SMI: Rheumatoid Arthritis IRAK3 IKKs Human Genetics Adult humans with IRAK4 Null Mutation have no
+clinical phenotype NFkB IRAK4 degrader has potential to achieve a broad, well-tolerated c-Jun anti-inflammatory effect, providing multiple development opportunities in autoimmune inflammatory diseases ©2022 KYMERA THERAPEUTICS, INC. PAGE
+24
+
+IRAK4 Degradation but Not Inhibition is Required to block IL1R/TLR
+Pathway IRAK4 Scaffolding Function is IRAK4 Degradation, but not IRAK4 Degradation, but not Critical in Myddosome Formation Kinase Inhibition, can Block TLR- Kinase Inhibition, can block induced NF-κB Translocation IL1R+TLR activation and
+Pathway Signaling B Cell CpG-B → IL-6 LPS + IL-1b→ IL-6 IL-1R (or TLRs) PF-06550833 IRAK4 Degrader MyD88 IRAK4 IRAK1 PF-06550833 Recruitment Recruitment/ Recruitment IRAK4 Degrader MyD88 Limitation Log[Compound] (nM) • IRAK4
+scaffolding role Compound IL-6 IC (nM) functions to limit MYD88 50 oligomer size and trigger IRAK4 Degrader 0.8 myddosome formation Negative Control 450 IRAK4 SMI (PF-06550833) N/A Source: Deliz-Aguirre, et al. J. Cell Biol., 2021 ©2022 KYMERA
+THERAPEUTICS, INC. PAGE 25
+
+IRAK4 Degrader Best-in-class Potential in Immune-inflammation Potential
+for Broad Activity Across Th1-Th17 and Th2 Diseases 2021 Prevalence Indication 2021 Global Sales IL-1R/TLR US/EU5/JP KT-474 AD ~82.5 M $5,760 M IRAK4 HS ~785 K $1,106 M RA ~4.6 M $27,634 M SLE ~580 K $1,333 M IBD ~3.2 M $21,710 M Gout ~18.2 M $1,319
+M Psoriasis ~15.8 M $23,268 M Th2/Eosinophils Th1-Th17/Neutrophils Asthma ~87.3 M $15,664 M • Hidradenitis Suppurativa • Atopic Dermatitis COPD ~61.7 M $9,960 M • Rheumatoid Arthritis • Asthma CRSwNP ~20.4 M $2,622 M •
+Lupus • COPD • IBD • CRSwNP Limitations of Current Therapies • Gout • Psoriasis• Anti-Cytokine/Cytokine Receptor Antibodies o Target only 1-2 cytokines o Require injection Combined global • Small Molecule
+Inhibitors $ 150B drug sales o Limited pathway blockade (IRAK4 SMI) Source: EvaluatePharma; GlobalData; Dash. Allied Market Research. 2021; Koto. Modern Rheumatology. 2021; o Safety issues (JAK family) Ahn. JAMA Otolaryngol Head Neck Surg. 2016; UC:
+Ulcerative Colitis; CD: Crohn’s Disease. ©2022 KYMERA THERAPEUTICS, INC. PAGE 26
+
+KT-474 Phase 1 Trial Design Double-blind, Placebo-controlled SAD and
+MAD in Adult HV; Open Label Patient Cohort in HS & AD Patients Summary of Key Findings in MAD 9 SAD cohorts • IRAK4 degradation of 80-90% in PBMC using Flow Cytometry; - 8 subjects per cohort (6:2 randomization) reduction to near lower
+limit of quantification with Mass Spectrometry including 2 food-effect cohorts - 72 adult healthy subjects dosed o Associated with up to 85% inhibition of multiple disease-relevant Parts A & B cytokines and chemokines in ex vivo TLR stimulation
+assay at 100 mg Single dose (25-1600 mg) dose Healthy Volunteers (HV) • Dose-dependent IRAK4 degradation in skin of >50% 5 MAD cohorts SAD and MAD - 12 subjects per cohort (9:3 randomization) • Generally well tolerated at doses up to
+200 mg with no SAEs - 60 adult healthy subjects dosed • Non-adverse, self-limiting QTcF prolongation in 10-20 msec range was 14x daily doses (25-200 mg, MAD 1-4); neither dose- nor exposure-dependent 5x twice-weekly doses (200 mg, MAD5)
+• Safety & tolerability Primary Todays’ Focus 1 cohort 21 HS and AD patients • Pharmacokinetic measures (half-life, bioavailability) 75 mg (fed state) Part C • IRAK4 knockdown in PBMC and skin (~equivalent exposure to
+100mg fasted MAD cohort dose level) Secondary/ • Change in systemic inflammatory biomarkers and proinflammatory gene transcripts in skin HS and AD Patients Exploratory Open-label • Ex vivo response of whole blood to TLR agonists •
+Clinical endpoints: EASI (AD), Total AN Count (HS), 28x daily doses symptom scores and global assessments ©2022 KYMERA THERAPEUTICS, INC. PAGE 27
+
+KT-474 Part C: Demographics/Disposition
+
+Patient Demographics HS (n=13) AD (n=8) Gender, n Female 10 3 Male 3 5
+Median age, years (range) 40 (21-53) 31 (23-55) Race/Ethnicity White / Hispanic, Latino 7 6 White / Non-Hispanic, Latino 1 0 Black / Hispanic, Latin 0 1 Black / Non-Hispanic, Latino 5 0 Other* 0 1 *Native American or Alaskan Native/ Hispanic, Latino
+©2022 KYMERA THERAPEUTICS, INC. PAGE 29
+
+Baseline Disease Characteristics HS (n=13) AD (n=8) Disease Severity
+(HS-PGA) (vIGA-AD) Mild -- 1 Moderate 10 5 Severe 1 2 Very Severe 2 -- Extent of Disease Mean (min, max) Mean (min, max) AN Count 8 (5, 18) -- Fistula Count 4 (0, 15) -- Pain-NRS* 7 (3, 10) -- Pruritus-NRS* 5 (0, 10) 8 (4, 10) EASI Score -- 17.6
+(4.4, 52.3) Patients with any prior Therapy, n (%) 8 (62) 7 (88) Antibiotics/Antibacterials** 6 (46) 1 (13) Corticosteroids 0 7 (88) ₴ Adalimumab 3 (23) 0 ₹ Other Biologics 1 (8) 0 ₴ includes 2 pts with very severe disease; *worst
+score over past week **includes clindamycin and chlorhexidine ₹ 1 patient with very severe disease received infliximab and bimekizumab (and adalimumab) AD=Atopic Dermatitis; AN=Abscess and Inflammatory Nodule Count; EASI=Eczema Area and
+Severity Index; HS=hidradenitis suppurativa; Min=minimum; Max=maximum; Pain-NRS=Skin Pain Numerical Rating Score; Pruritus-NRS=Peak Pruritus Numerical Rating Score; PGA-Physicians Global Assessment; IGA=Investigator Global Assessment ©2022
+KYMERA THERAPEUTICS, INC. PAGE 30
+
+Patient Disposition HS AD Total Enrolled patients 13 8 21 Primary
+reason for Treatment Completion Completed 12 7 19 • 9 Moderate• 1 Mild • 1 Severe• 4 Moderate • 2 Very Severe• 2 Severe Withdrawal by patient 1* 1** 2 * Withdrew treatment after 4 doses for personal reasons **
+Withdrew treatment after 5 doses for personal reasons ©2022 KYMERA THERAPEUTICS, INC. PAGE 31
+
+KT-474 PK and Degradation
+
+KT-474 Plasma PK and IRAK4 Degradation in Patients Dosed for 28 Days is
+Comparable to HV PK/PD Correlation in IRAK4 Levels in PBMC in Part C KT-474 Plasma PK Plasma/Monocytes (FLOW) Patients at Day 28 (MS) 3 ng/mL threshold Mean Day 14 C max (MAD3: 100 mg QD) Mean Day 14 C trough (MAD3: 100 mg QD) 3 ng/mL threshold n =
+19 after Day 4; 2 patients discontinued treatment KT-474 Ctrough/ng/mL KT-474 concentrations in KT-474 PK at the 75 mg QD dose HS and AD Patients plasma lead to same level of (fed state) in patients is comparable to IRAK4 Levels at Day 28 IRAK4
+degradation in HV 100 mg QD (fasted state) in HV (n=4) near LLOQ (n=48) and HS/AD (n=20) • Mean C and C levels at steady state in max trough patients Part C are in line with MAD3 levels at Day 14 • Concentrations above 3 ng/mL •
+Mean half-life of 44 hours is within the range lead to same level of degradation observed in MAD (34-59 hours) (>80%) in HV and Patients ©2022 KYMERA THERAPEUTICS, INC. PAGE 33
+
+Skin PK: KT-474 Has High Skin Concentration In Patients at Day 28
+Higher than MAD3 HV Day 28 Day 42 Part C: 75 mg QD (fed)* 386 (± 103) 135 (± 33.8) * n=11 for Day 28 and n=10 for Day 42 ©2022 KYMERA THERAPEUTICS, INC. PAGE 34
+
+KT-474 Reduced IRAK4 in Skin Lesions of AD and HS Patients on Day 28 to
+at Least Same Level as Healthy Subjects MAD Healthy AD Patients HS Patients AD Patients HS Patients Subjects (Baseline) (Baseline) (Day 28) (Day 28) (Baseline) N 46 7 11 6 9 Mean (± SE) 0.123 (± 0.01) 0.216 (± 0.06) 0.236 (±
+0.05) 0.103 (± 0.05) 0.112 (± 0.03) ©2022 KYMERA THERAPEUTICS, INC. PAGE 35 Mean (±SE) IRAK4 Levels in Skin (fmol/μg protein)
+
+KT-474 Safety
+
+Adverse Events Related to Study Drug (Occurring in > 1 Patient)
+Adverse Event # of Severity Outcome (Preferred Term) Patients (# of Pts) (# of Pts) Mild (5) Headache 6 Recovered (6) Severe (1) Fatigue 4 Mild (4) Recovered (4) Diarrhea 2 Mild (2) Recovered (2) No SAEs, no drug-related infections, and no AEs
+observed leading to dose interruption or discontinuation ©2022 KYMERA THERAPEUTICS, INC. PAGE 37
+
+QTc Prolongation Spontaneously Resolves to Baseline by Day 28 •
+ΔQTcF in Part C is in the range observed in MAD3 (100 mg QD) up to Day 14 • Declines to baseline with continued dosing and sustained plasma exposure through Day 28 • Profile is maintained through day 42 upon cessation of dosing
+after Day 28 • No QTc-related AEs observed Mean Baseline Day 7 Day 14 Day 21 Day 28 MAD3 - 17 13 -- -- ∆QTcF - 15 12 5.9 1.6 Part C 395 411 408 -- -- MAD3 QTcF 403 419 416 410 405 Part C * n=9 for MAD3 and n=20 for Part C, except day 14
+(n=19) ©2022 KYMERA THERAPEUTICS, INC. PAGE 38
+
+KT-474 Pharmacodynamics
+
+Up to 98% Inhibition of 9 Disease-Relevant Cytokines Ex Vivo in both HS
+and AD Patients 0 0 MAD 3 -20 -20 Healthy Subjects 100 mg QD (n = 9) -40 -40 Part C AD Patients (n=7) -60 -60 Part C HS Patients (n=9) -80 -80 LPS R848 -100 -100 IFNγ IL10 IL12 IL17 IL1b IL23 IL6 IL8 TNFα IFNγ IL10 IL12 IL17 IL1b IL6
+IL8 TNFα HV HV -67% -45% -47% -20% -64% -54% -57% -49% -60% -87% -50% -71% -55% -72% -54% -33% -62% (MAD3) (MAD3) AD -95% -98% -76% -83% -63% -95% -70% -85% -74% AD -95% -67% -64% 0% -81% -74% -48% -62% HS -36% -52% -84% -8% -44% -31% -50% -59%
+-41% HS -76% -35% -69% -46% -57% -50% -43% -54% * Plots show median of the maximum change from baseline between Days 7-14 in MAD3, and Days 14-28 in Part C ©2022 KYMERA THERAPEUTICS, INC. PAGE 40 Maximum % Change from Baseline Maximum % Change
+from Baseline
+
+In Vivo Inhibition of Disease-Relevant Plasma Cytokines and Acute Phase
+Reactants by KT-474 in HS/AD Patients IL-6 Mean Max* AD Mean Max* HS Analyte (n) (n) † IL-6 -56% (3) -63% (8) † CRP NA -58% (5) IL-1b -36% (7) -48% (8) † SAA -51% (4) -41% (10) *Max % reduction through Day 42 † Analysis
+performed only on patients with values >ULN at baseline IL-6, IL-1b and CRP are high sensitivity assays ©2022 KYMERA THERAPEUTICS, INC. PAGE 41
+
+Disease-Relevant Genes Downregulated in Skin Lesions in ≥ 50% of
+Evaluable* AD (N=7) and HS (N=10) Patients at Day 28 (RNAseq) • Substantial AD downregulation of many disease relevant genes in both HS and AD patients † • Downregulation exceeded 90% for many genes • Broad anti-inflammatory
+signature with downregulation of genes responsible for: HS ✓ IL1 family cytokines ✓ Th1 ✓ Th17 ✓ Th2 ✓ Innate immunity *Evaluable patients for whom the samples were of sufficient quality for analysis.
+†log2(fold change): -1 = 50% decrease, -2 = 75% decrease, -3 = 87.5% decrease ©2022 KYMERA THERAPEUTICS, INC. PAGE 42
+
+KT-474 Part C: Clinical Endpoints
+
+Clinical Endpoints Included as Exploratory Endpoints • Skin
+lesions and global assessments performed on Days 1, 14, 28, 35 and 42 • Symptom scores performed at additional time points AD • Change from baseline in Eczema Area and Severity Index (EASI) • Peak pruritus NRS • Investigator
+Global Assessment (vIGA-AD) • Additional ad hoc analysis included: Peak Pruritus NRS Response (≥4-point improvement from baseline) HS • Change from baseline in Total Abscess and Inflammatory Nodule (AN) count • Skin pain
+Numerical Rating Scale (NRS) • Peak pruritus NRS • HS-Physician’s Global Assessment (HS-PGA) • Additional ad hoc analyses included: AN0/1/2 Response, HiSCR50, HiSCR75, and Pain NRS30 ©2022 KYMERA THERAPEUTICS, INC. PAGE
+44
+
+AD Clinical Endpoints
+
+EASI Score: Mean 37% and Max 76% Reduction Mean EASI Score Over Time
+(N=7) Mean % Change in EASI Score Over Time (N=7) 0 0 25 23 -10 21 18.9 -17.9 19 -20 17 15.3 -27.6 -37.1 15 -30 13.6 12.5 13 -36.4 -40 12.2 11 9 -50 7 5 -60 0 7 14 21 28 35 42 0 7 14 21 28 35 42 Day Day ©2022 KYMERA THERAPEUTICS, INC. PAGE 46
+Mean EASI Score (+/-S.E. of Mean) Mean % Change in EASI Score (+/-S.E. of Mean)
+
+Peak Pruritus NRS: Mean 52 to 63% Reduction Peak Pruritus NRS
+Responders: 57 to 71% Mean % Change in Peak Pruritus % of Patients with ≥4 Unit Reduction Over Time (N=7) from Baseline in Peak Pruritus (N=7) 100 0 90 -6.6 -5.8 -10 80 71 71 -20 70 57 -30 -34.6 57 60 -32.1 -35.6 -38.9 43 57 50 -40 -44.6 -43
+-51.9 40 43 -44.6 -50 29 -51.2 30 29 -60 -62.9 20 -70 10 -80 0 0 7 14 21 28 35 42 0 7 14 21 28 35 42 Day Day Past 24 Hours Past Week Past 24 Hours Past Week ©2022 KYMERA THERAPEUTICS, INC. PAGE 47 Mean % Change (+/-S.E. of Mean) % of Peak
+Pruritis Responders (80% CI)
+
+Investigator’s Global Assessment (vIGA-AD) vIGA-AD Score Over
+Time (n=7) 7 1 1 1 1 6 2 5 3 4 4 4 4 3 4 2 3 1 2 2 2 1 0 Baseline Day 14 Day 28 Day 35 Day 42 Mild Moderate Severe • IGA scores remained stable or improved in all patients ©2022 KYMERA THERAPEUTICS, INC. PAGE 48 # of Patients by AD-IGA
+Score
+
+AD Case Study: Patient AD-3 Improvement in Disease Severity from Severe
+to Mild • 51-year-old Hispanic/Latino male with severe AD (vIGA-AD) Day 1 - BL Day 42 and EASI score of 28.2 at baseline • Previously treated with topical betamethasone 2018-2020 Efficacy Endpoints BL Day 28 Day 35 Day 42 IGA-AD Score
+Severe Moderate Moderate Mild EASI Score (% Change) 28.2 14 (-50) 16.45 (-42) 9.2 (-67) Peak Pruritis NRS - 4 1 (-75) 1 (-75) 1 (-75) past week (% Change) Skin Inflammation Biomarkers* Plasma Cytokines (RNAseq) *Changes at D28 ©2022 KYMERA
+THERAPEUTICS, INC. PAGE 49 Change from Bas Percent eline Percent Change from Baseline
+
+KT-474 Showed Meaningful Signs of Clinical Activity in AD, Comparing
+Favorably to Placebo Benchmarks and SOC Summary Results • Mean EASI score reduction up to 37%, with maximum reduction of up to 76% • Mean peak pruritus NRS reduction of 52 to 63% • Peak pruritus NRS Responder rate of 57 to 71%
+• Investigator Global Assessment (IGA) scores improved in 2 of 7 patients and remained stable in the others Placebo Dupilumab KT-474 Benchmarks Phase 3 Part C Week 4 Week 4 1 -37% -12 to -25%* -52% ΔEASI 1 1 -52 to -63% -11% -34%
+ΔPeak Pruritus NRS 1,2 57 to 71% 4 to 17%** 23 to 40% Peak Pruritus NRS Responder 1 2 *Range from 7 different Phase 2 and Phase 3 trials; **Range from 10 different Phase 2 and Phase 3 trials; Simpson EL, et al. NEJM 2016;375:2335-2348; Bieber
+T, et al. NEJM 2021;384:1101-1112; The Dupilumab clinical trial was conducted by other parties in a similar patient population with different enrollment criteria from Part 1C of our Phase 1 clinical trial evaluating KT-474. Results do not reflect a
+head-to-head trial and are shown for illustrative purposes only ©2022 KYMERA THERAPEUTICS, INC. PAGE 50
+
+HS Clinical Endpoints
+
+AN Count: Mean 46 to 51% and Max 100% Reduction AN 0/1/2 Responders: 42
+to 50% Response Rate % of Patients with AN Count 0/1/2 Mean % Change in Total AN Count Over Time 80 0 70 -10 60 -19.9 50 50 -20 50 40 -31.6 -30 40 -27.4 42 42 -40.6 30 33 -40 -46.1 20 20 -50 -45.4 17 -49.6 10 -50.7 -60 0 0 7 14 21 28 35 42 0 7 14 21
+28 35 42 Day Day All HS (n=12)* Moderate to Severe (n=10) All HS (n=12) Moderate to Severe (n=10) *One patient is censored for Day 35 and Day 42 since the patient started on ustekinumab, steroids and abx on Day 34. ©2022 KYMERA THERAPEUTICS,
+INC. PAGE 52 Mean % Change in AN Count (+/- S.E. of Mean) % of Patients with AN 0/1/2 (80% CI)
+
+HiSCR50: 42 to 50% Response Rate % of Patients with HiSCR50 80 70 60 50
+50 50 40 42 42 30 30 30 25 25 20 10 0 0 7 14 21 28 35 42 Day All HS (n=12) Moderate to Severe (n=10) ©2022 KYMERA THERAPEUTICS, INC. PAGE 53 % of HiSCR Responders (80% CI)
+
+Pain NRS: Mean 49 to 55% Reduction Pain NRS30: 50 to 60% Response Rate
+Mean % Change in Worst % of Patients with ≥30% and ≥1 Unit Reduction Pain Over Past Week in Worst Skin Pain Over the Past Week 0 100 90 -10 -14.6 80 -20 70 -17.5 70 60 60 60 -31.2 -30 60 -40 50 -43.5 58 -40 50 -36 -46 -48.8 50 50 50 40
+42 -50 -47.5 30 -49.3 -52.2 20 -60 -55.2 20 17 -70 10 0 -80 0 0 7 14 21 28 35 42 0 7 14 21 28 35 42 Day Day All HS patients (N=12) Moderate to Severe (N=10) All HS (N=12)* Moderate to Severe (N=10) *One patient is censored for Day 35 and Day 42
+since the patient started on ustekinumab, steroids and abx on Day 34. ©2022 KYMERA THERAPEUTICS, INC. PAGE 54 Mean % Change in Pain (+/- S.E. of Mean) % of Pain NRS30 Responders (80% CI)
+
+Peak Pruritus NRS: Mean 62 to 68% Reduction Mean % Change in Peak
+Pruritus Over Past Week 0 0 -10 -17 -26.1 -24 -20 -30 -29.1 -40 -48.6 -41.7 -41.9 -53.6 -50 -61.6 -60 -67.8 -70 -62.3 -68.4 -80 -90 -100 0 7 14 21 28 35 42 Day All HS (N=12)* Moderate to Severe (N=10) *One patient is censored for Day 35 and Day 42
+since the patient started on ustekinumab, steroids and abx on Day 34. ©2022 KYMERA THERAPEUTICS, INC. PAGE 55 Mean % Change in Peak Pruritus (+/- S.E. of Mean)
+
+Physician’s Global Assessment (HS-PGA) HS-PGA Score Over Time
+Moderate to HS-PGA Score Over Time (N=12*) Severe Patients (N=10) 12 10 1 1 1 1 1 2 2 2 9 1 1 10 8 1 1 1 1 1 7 4 4 8 5 6 6 4 4 5 6 6 5 9 4 9 3 4 3 4 3 4 3 3 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 0 0 Baseline Day 14 Day 28 Day 35 Day 42 Baseline Day 14 Day
+28 Day 35 Day 42 Clear Minimal Mild Moderate Severe Very Severe Clear Minimal Mild Moderate Severe • HS-PGA scores remained stable or improved in all patients • Disease cleared in 1 patient with moderate disease at baseline *One patient
+is censored for Day 35 and Day 42 since the patient started on ustekinumab, steroids and abx on Day 34. ©2022 KYMERA THERAPEUTICS, INC. PAGE 56 # of Patients by HS-PGA Score # of Patients by HS-PGA Score
+
+HS Case Study: Patient HS-3 Complete Clearing of Lesions and Symptoms
+in Patient with Moderate Disease at Baseline Day 1 - BL Day 42 • 45 year old Black Female with Moderate HS (HS- PGA); Baseline AN count = 7 • Prior treatments: clindamycin (topical) and doxycycline Area of swelling Resolution of Beneath
+skin Swelling Efficacy Endpoints BL Day 28 Day 35 Day 42 HS-PGA Score Moderate Clear Clear Clear Skin Inflammation Biomarkers* (RNAseq) AN Count (% Reduction) 7 0 (-100) 0 (-100) 0 (-100) Skin Pain NRS – Worst, 7 0 (-100) 0 (-100) 0 (-100)
+past week (% Change) Peak Pruritis NRS – past 6 0 (-100) 0 (-100) 0 (-100) week (% Change) *Changes at D28 ©2022 KYMERA THERAPEUTICS, INC. PAGE 57
+
+HS Case Study: Patient HS-10 Improvement in Disease Severity from
+Moderate to Mild Day 1 - BL Day 42 • 39 year old Black Female with Moderate HS (HS-PGA); Baseline AN count = 5 • Prior treatments: benzocaine ointment Multiple Ulcerated Clearing of Ulcerated Nodules Nodules Efficacy Endpoints BL Day 28
+Day 35 Day 42 HS-PGA Score Moderate Mild Mild Mild Plasma Cytokines/Acute Phase Reactants AN Count (% Reduction) 5 2 (-60) 2 (-60) 1 (-80) Skin Pain NRS – Worst, 8 3 (-63) 3 (-63) 1 (-88) past week (% Change) Peak Pruritis NRS – past 10
+2 (-80) 0 (-100) 0 (-100) week (% Change) ©2022 KYMERA THERAPEUTICS, INC. PAGE 58
+
+KT-474 Showed Meaningful Signs of Clinical Activity in HS, Comparing
+Favorably to Placebo Benchmarks and SOC Summary Results • Mean total AN count reduction of 46 to 51%, with maximum reduction up to 100% • AN count of 0/1/2 response rate of 42 to 50% • HiSCR50 response rate of 42 to 50% •
+HiSCR75 response rate of 25 to 30% • Pain NRS30 response in 50 to 60% and mean peak pruritis reduction of 62 to 68% • Physician Global Assessment (PGA) scores improved in 5 of 12 patients, including 1 moderate disease patient with full
+disease clearance, and stable in the others KT-474 Placebo Benchmarks Adalimumab Phase 2 and 3 Part C Week 4 Week 4 1 1 ΔAN Count -46 to -51% -15% -31% 3 2,3 AN Count 0/1/2 42 to 50% 24 to 26% 28 to 47% 3,4 3,4 HiSCR50 42 to 50% 19 to 30% 29 to
+51% 4 4 HiSCR75 25 to 30% 5% 20% 3,5 2,3,5 Pain NRS30 50 to 60% 18 to 23% 39 to 58% ΔPeak Pruritus NRS -62 to -68% N/A N/A 1 2 3 4 5 Kimball AB, et al. Ann Intern Med 2012;157:846-55; Morita A, et al. J Dermatol 2021;48:3-13; Kimball AB, et al.
+NEJM 2016;375:422-434; Glatt S et al. JAMA Dermatol 2021;157:1279-88; Scheinfeld, et al. Derm Online J 2016:22 The Adalimumab clinical trial was conducted by other parties in a similar patient population with different enrollment criteria from Part
+1C of our ©2022 KYMERA THERAPEUTICS, INC. Phase 1 clinical trial evaluating KT-474. Results do not reflect a head-to-head trial and are shown for illustrative purposes only PAGE 59
+
+Conclusions / Summary
+
+Part C Summary • KT-474 administered to HS and AD patients at 75
+mg QD for 28 days shown to have safety, PK and PD comparable to healthy volunteers • Modest, non-adverse QTcF prolongation observed to spontaneously resolve back to baseline during final 2 weeks of dosing in HS and AD patients • Robust
+degradation of IRAK4 in blood and skin was associated with systemic anti- inflammatory effect in HS and AD patients • Promising clinical activity observed in HS and AD exceeding benchmark placebo rates and comparing favorably to SOC biologics
+• Data presented here validate IRAK4 degradation as a potential best in class mechanism in inflammatory diseases and its superior clinical potential over SMI • Results support advancing KT-474 into Phase 2 placebo-controlled trials,
+Sanofi has committed to start Ph2 clinical trials initially in HS and AD ©2022 KYMERA THERAPEUTICS, INC. PAGE 61
+
+Meeting Summary • Kymera platform and discovery engine have been
+validated across several programs in patients with cancer and inflammatory diseases, with fidelity of translation of PK, PD and safety • Kymera’s unique target selection strategy, using TPD to drug undrugged targets, has been validated,
+with initial demonstration of IRAK4 degradation providing a biologically and clinically differentiated/superior profile than SMI • KT-474 data positions this mechanism and drug as a potential best in class oral drug in HS, AD and a broader
+variety of immune-inflammatory diseases with large market opportunity potential • The successful target selection strategy, molecular design, discovery and clinical execution and insights will allow acceleration and expansion of our pipeline
+in areas of high unmet need and large commercial opportunities • In 2023 Kymera expects to share an expanded strategy to accelerate the path towards a disease agnostic global biotech ©2022 KYMERA THERAPEUTICS, INC. PAGE 62
+
+Q&A

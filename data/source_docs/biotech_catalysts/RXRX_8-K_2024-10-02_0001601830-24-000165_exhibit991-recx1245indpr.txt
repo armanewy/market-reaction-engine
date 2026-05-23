@@ -1,0 +1,42 @@
+EX-99.1
+2
+exhibit991-recx1245indpr.htm
+EX-99.1
+
+Document
+
+EXHIBIT 99.1
+
+Recursion Announces FDA Clearance of Investigational New Drug Application for REC-1245, a Potential First-In-Class RBM39 Degrader for Biomarker-Enriched Solid Tumors and Lymphoma
+
+●First program to combine Recursion’s end-to-end suite of AI-enabled active learning modules, resulting in target identification to IND enabling studies in under 18 months
+
+●Plan to initiate dosing of Phase 1/2 in Q4 2024 to evaluate REC-1245 in a biomarker enriched patient population, including patients with solid tumors and lymphoma
+
+SALT LAKE CITY, October 2, 2024 (GLOBE NEWSWIRE) -- Recursion (NASDAQ: RXRX), a leading clinical stage TechBio company decoding biology to industrialize drug discovery, today announced that the U.S. Food and Drug Administration (FDA) has cleared an investigational new drug (IND) application for a Phase 1/2 clinical trial of REC-1245, a new chemical entity for the treatment of biomarker-enriched solid tumors and lymphoma.
+
+Chris Gibson, Ph.D., Co-founder and CEO of Recursion said, "REC-1245 is a prime example of using an expansive AI-enabled platform for drug discovery. After exploring many predicted biological and chemical relationships across our maps of biology, we identified RMB39 as a novel target that looks functionally similar to the well-known but hard to drug target CDK12. We also identified and optimized small molecules that target RBM39 without directly impacting CDK12 or CDK13 using these same AI-enabled maps. In under 18 months, leveraging some of our newer chemistry tools, Recursion rapidly progressed REC-1245 from novel target biology to preclinical drug candidate, more than twice the speed of industry average.”
+
+Recursion identified the novel regulatory role of RBM39 associated with CDK12 using its maps of biology and first reported this relationship in early 2023 at Download Day, Recursion’s R&D and investor event. Recursion believes the modulation of RBM39 may be associated with a therapeutic effect in certain biomarker-enriched solid tumors and lymphoma. Additionally, Recursion estimates that the initially addressable population for this potential therapeutic to be >100,000 patients in the US and EU5. REC-1245 is a potent and selective RBM39 degrader with a potential first-in-class profile. Preclinical data support that RBM39 degradation induces splicing defects which downregulate DNA Damage Response (DDR) networks and cell cycle checkpoints.
+
+“RBM39 degraders may offer a promising therapeutic approach for patients with solid tumors, particularly those with limited treatment options,” said Najat Khan, Ph.D., Chief R&D Officer and Chief Commercial Officer at Recursion. “Recursion’s platform was among the first to rapidly uncover the therapeutic potential of RBM39 degradation, a finding now validated by independent research. This mechanism provides new opportunities for targeting tumors, which are often resistant to conventional treatments. By advancing this research, we aim to deliver a critical option for patients facing significant unmet needs, ultimately improving their prognosis and quality of life.”
+
+The Phase 1/2 clinical trial will evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics, and potential monotherapy efficacy of REC-1245, and is expected to initiate in Q4 2024.
+
+About Recursion
+
+Recursion (NASDAQ: RXRX) is a clinical stage TechBio company decoding biology to industrialize drug discovery. Enabling its mission is the Recursion OS, a platform built across diverse technologies that continuously expands one of the world’s largest proprietary biological and chemical datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale — up to millions of wet lab experiments weekly — and massive computational scale — owning and operating one of the most powerful supercomputers in the world, Recursion is uniting technology, biology and chemistry to advance the future of medicine.
+
+Recursion is headquartered in Salt Lake City, where it is a founding member of BioHive, the Utah life sciences industry collective. Recursion also has offices in Toronto, Montréal, London, and the San Francisco Bay Area. Learn more at www.Recursion.com, or connect on X (formerly Twitter) and LinkedIn.
+
+Media Contact
+
+Media@Recursion.com
+
+Investor Contact
+
+Investor@Recursion.com
+
+Forward-Looking Statements
+
+This document contains information that includes or is based upon "forward-looking statements" within the meaning of the Securities Litigation Reform Act of 1995, including, without limitation, those regarding the potential efficacy of REC-1245; timing of and plans to initiate dosing of Phase 1 clinical trial of REC-1245; early and late stage discovery, preclinical, and clinical programs; licenses and collaborations; prospective products and their potential future indications and market opportunities; Recursion OS and other technologies; business and financial plans and performance; and all other statements that are not historical facts. Forward-looking statements may or may not include identifying words such as “plan,” “will,” “expect,” “anticipate,” “intend,” “believe,” “potential,” “continue,” and similar terms. These statements are subject to known or unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements, including but not limited to: challenges inherent in pharmaceutical research and development, including the timing and results of preclinical and clinical programs, where the risk of failure is high and failure can occur at any stage prior to or after regulatory approval due to lack of sufficient efficacy, safety considerations, or other factors; our ability to leverage and enhance our drug discovery platform; our ability to obtain financing for development activities and other corporate purposes; the success of our collaboration activities; our ability to obtain regulatory approval of, and ultimately commercialize, drug candidates; our ability to obtain, maintain, and enforce intellectual property protections; cyberattacks or other disruptions to our technology systems; our ability to attract, motivate, and retain key employees and manage our growth; inflation and other macroeconomic issues; and other risks and uncertainties such as those described under the heading “Risk Factors” in our filings with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. All forward-looking statements are based on management’s current estimates, projections, and assumptions, and Recursion undertakes no obligation to correct or update any such statements, whether as a result of new information, future developments, or otherwise, except to the extent required by applicable law.

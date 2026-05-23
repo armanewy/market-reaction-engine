@@ -1,0 +1,397 @@
+0000872589
+false
+
+0000872589
+
+2020-08-07
+2020-08-07
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): August 12, 2020 (August 7, 2020)
+
+ 
+
+REGENERON PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified
+in its charter)
+
+ 
+
+Commission File Number 000-19034
+
+ 
+
+New York  
+
+000-19034
+
+13-3444607
+
+(State or other jurisdiction of
+
+incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+777 Old Saw Mill River Road, Tarrytown,
+New York 10591-6707
+
+(Address
+of principal executive offices, including zip code)
+
+ 
+
+(914) 847-7000
+
+(Registrant’s
+telephone number, including area code)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨ Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨ Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨ Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨ Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+Trading
+Symbol(s)
+
+Name
+of Each Exchange
+
+on Which Registered
+
+Common Stock – par value $0.001 per share
+
+REGN
+
+Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+1.750% Senior Notes
+due 2030 and 2.800% Senior Notes due 2050; Base Indenture and First Supplemental Indenture
+
+ 
+
+On
+August 12, 2020, Regeneron Pharmaceuticals, Inc. (“Regeneron”
+or the “Company”) issued and sold $1.250 billion aggregate
+principal amount of the Company’s 1.750% Senior Notes due 2030 (the “2030
+Notes”) and $750 million aggregate principal amount of the Company’s 2.800% Senior Notes due 2050
+(the “2050 Notes” and, together with the 2030 Notes, the
+“Notes”). The Notes were registered pursuant to an automatic
+shelf registration statement on Form S-3 under the Securities Act of 1933, as amended (Registration Statement No. 333-228352)
+(filed with the Securities and Exchange Commission on November 13, 2018) (the “Registration
+Statement”), and were issued pursuant to an Indenture, dated as of August 12, 2020 (the “Base
+Indenture”), between the Company and U.S. Bank National Association, as trustee (the “Trustee”),
+as supplemented by the First Supplemental Indenture thereto, dated as of August 12, 2020 (the “First
+Supplemental Indenture” and, together with the Base Indenture, the “Indenture”),
+between the Company and the Trustee. Net proceeds to the Company from the issuance and sale of the Notes were approximately
+$1,977 million (after deducting underwriting discounts and the Company’s estimated offering expenses) and were used in
+part to repay in full the Sanofi Repurchase Bridge Facility (as defined in Item 8.01 below) and to pay accrued interest and
+related fees and expenses in connection therewith.
+
+ 
+
+The Notes are senior
+unsecured obligations of the Company and rank equal in right of payment with Regeneron’s other existing and future senior
+unsecured obligations that are not, by their terms, expressly subordinated in right of payment to the Notes, and senior in right
+of payment to any of Regeneron’s future subordinated indebtedness. The Notes are effectively subordinated to all of Regeneron’s
+existing and future secured indebtedness and other secured liabilities, if any, to the extent of the value of the assets securing
+such indebtedness and liabilities; and are structurally subordinated to all existing and future obligations of Regeneron’s
+subsidiaries. The 2030 Notes will accrue interest at the rate of 1.750% per year and will mature on September 15, 2030. The 2050
+Notes will accrue interest at the rate of 2.800% per year and will mature on September 15, 2050. Interest on each series of Notes
+will be payable semi-annually in arrears on March 15 and September 15 of each year, commencing on March 15, 2021, until their respective
+maturity dates.
+
+ 
+
+The Notes may be redeemed
+at the Company’s option at any time at 100% of the principal amount plus accrued and unpaid interest to, but not including,
+the redemption date and, until a specified period before maturity, a specified make-whole amount. The Notes contain a change-of-control
+provision that, under certain circumstances, may require the Company to offer to repurchase the Notes at a price equal to 101%
+of the principal amount plus accrued and unpaid interest to, but not including, the date of repurchase.
+
+ 
+
+The Indenture also
+contains certain limitations on the Company’s ability to incur liens and enter into sale and leaseback transactions, as well
+as customary events of default.
+
+ 
+
+The foregoing summary
+of the Indenture is not complete and is qualified in its entirety by reference to the full and complete text of the Base Indenture,
+a copy of which is attached hereto as Exhibit 4.1 and is incorporated by reference herein, and the First Supplemental Indenture,
+a copy of which is attached hereto as Exhibit 4.2 and is incorporated by reference herein.
+
+ 
+
+Item
+2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The information set
+forth in Item 1.01 above with respect to the Notes and the Indenture is hereby incorporated by reference into this Item 2.03 insofar
+as it relates to the creation of a direct financial obligation.
+
+ 
+
+Item
+8.01. Other Events.
+
+ 
+
+In connection with
+the offering of the Notes, the Company entered into an underwriting agreement, dated August 7, 2020 (the “Underwriting
+Agreement”), among the Company and Goldman Sachs & Co. LLC, BofA Securities, Inc., and J.P. Morgan Securities LLC,
+as representatives of the several underwriters named therein (the “Underwriters”), providing for the issuance
+and sale by the Company to the Underwriters of the Notes. The Underwriting Agreement contains customary representations and warranties,
+conditions to closing, indemnification rights, obligations of the parties, and termination provisions.
+
+ 
+
+2
+
+ 
+
+ 
+
+The foregoing summary
+of the Underwriting Agreement is not complete and is qualified in its entirety by reference to the full and complete text of the
+Underwriting Agreement, a copy of which is attached hereto as Exhibit 1.1 and is incorporated by reference herein.
+
+ 
+
+Following
+the closing of the issuance and sale of the Notes, the Company repaid in full the $1.5 billion principal amount of loans outstanding
+under the credit agreement by and among the Company, as the borrower, Goldman Sachs Bank USA, as administrative agent, sole bookrunner,
+sole lead arranger, and a lender, and the other lenders party thereto from time to time (the “Sanofi Repurchase Bridge
+Facility”), as well as accrued interest and related fees and expenses in connection therewith. The proceeds of the loans
+under the Sanofi Repurchase Bridge Facility were previously used to fund, in part, the purchase by Regeneron of shares of
+Regeneron common stock held by Sanofi and to pay related fees, costs, and expenses.
+
+ 
+
+A copy of the opinion
+of Skadden, Arps, Slate, Meagher & Flom LLP relating to the legality of the issuance and sale of the Notes is attached hereto
+as Exhibit 5.1.
+
+ 
+
+Item
+9.01. Financial Statements And Exhibits.
+
+ 
+
+(d)       Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+1.1
+
+ 
+
+Underwriting Agreement, dated August 7, 2020, by and among the Company, Goldman Sachs & Co. LLC, BofA Securities, Inc., and J.P. Morgan Securities LLC, as representatives of the several underwriters named therein.
+
+4.1
+
+ 
+
+Indenture, dated August 12, 2020, between the Company and U.S. Bank National Association.
+
+4.2
+
+ 
+
+First Supplemental Indenture, dated August 12, 2020, between the Company and U.S. Bank National Association.
+
+4.3
+
+ 
+
+Form of 1.750% Senior Note due 2030 (included in Exhibit 4.2).
+
+4.4
+
+ 
+
+Form of 2.800% Senior Note due 2050 (included in Exhibit 4.2).
+
+5.1
+
+ 
+
+Opinion of Skadden, Arps, Slate, Meagher & Flom LLP.
+
+23.1
+
+ 
+
+Consent of Skadden, Arps, Slate, Meagher & Flom LLP (included in Exhibit 5.1).
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+3
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+REGENERON PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: August 12, 2020
+
+By:
+
+/s/ Joseph J. LaRosa
+
+ 
+
+Name:
+
+Joseph J. LaRosa
+
+ 
+
+Title:
+
+Executive Vice President, General Counsel and Secretary
+
+ 
+
+4

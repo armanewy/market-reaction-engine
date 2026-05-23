@@ -1,0 +1,367 @@
+8-K
+
+false 0001745999 0001745999 2025-03-10 2025-03-10
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 10, 2025
+
+ 
+
+ 
+
+Beam Therapeutics Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39208
+
+ 
+
+81-5238376
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+238 Main Street
+
+ 
+
+Cambridge, Massachusetts
+
+ 
+
+ 
+
+02142
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: 857 327-8775
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.01 per share
+
+ 
+
+BEAM
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On March 10, 2025, Beam Therapeutics Inc. (the “Company”) issued a press release entitled “Beam Therapeutics Announces Positive Initial Data for BEAM-302 in the Phase 1/2 Trial in Alpha-1 Antitrypsin Deficiency (AATD), Demonstrating First Ever Clinical Genetic Correction of a Disease-causing Mutation.” A copy of the Company’s press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference.
+
+The information under this Item 7.01, including Exhibit 99.1 hereto, is being furnished herewith and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On March 10, 2025, Beam Therapeutics Inc. (the “Company”) announced positive initial safety and efficacy data from its ongoing Phase 1/2 clinical trial of BEAM-302 in patients with alpha-1 antitrypsin deficiency (“AATD”). BEAM-302 is a liver-targeting lipid-nanoparticle formulation of a guide RNA and an mRNA encoding a base editor designed to correct the disease-causing PiZ mutation. Patients homozygous for this mutation, known as the PiZZ genotype, have very low circulating levels of functional alpha-1 antitrypsin (“AAT”) protein, all of which is the mutant form, known as Z-AAT, which directly contributes to the liver and lung disease in this condition.
+
+The Phase 1/2 clinical trial of BEAM-302 is an open-label, dose exploration and dose expansion clinical trial to investigate its safety, tolerability, pharmacodynamics, pharmacokinetics and efficacy. Part A of the trial is designed to evaluate AATD patients with lung disease, and Part B will evaluate AATD patients with mild to moderate liver disease with or without lung disease. To date, single-ascending fixed doses of 15 mg (n=3), 30 mg (n=3) and 60 mg (n=3) of BEAM-302 have been administered via intravenous infusion in patients in Part A. The initial safety and efficacy data reported on March 10, 2025 are from all nine patients as of a data cut-off date of February 26, 2025.
+
+Initial results showed that treatment with BEAM-302 was well tolerated with an acceptable safety profile at all dose levels explored to date. All adverse events (“AEs”) were mild to moderate, with no serious AEs reported and no dose-limiting toxicities as of the data cutoff. Grade 1 asymptomatic alanine transaminase and aspartate aminotransferase elevations and transient Grade 1 infusion-related reactions were observed in some patients and did not require treatment.
+
+Following a single infusion of BEAM-302, rapid, durable, and dose-dependent increases in total AAT, new production of corrected M-AAT, and decreases in mutant Z-AAT were observed in circulation. Changes in total AAT were observed by turbidimetry assays as early as Day 7, plateaued around Day 21 and were maintained for the duration of follow-up (up to Month 6 in the 15 mg cohort, Month 2 in the 30 mg cohort, and Day 28 in the 60 mg cohort). Increased total AAT was functional as determined by both neutrophil elastase inhibition and neutrophil elastase binding assays.
+
+The initial results are detailed in the table below.
+
+ 
+
+ 
+
+  
+
+Mean (Standard Error)
+
+Dose Cohorts
+
+  
+
+15mg
+
+(n=3)
+
+ 
+
+30mg
+
+(n=3)
+
+ 
+
+60mg
+
+(n=3)
+
+Baseline+ total AAT* (µM)
+
+  
+
+4.4 (0.22)
+
+ 
+
+5.3 (0.25)
+
+ 
+
+4.4 (0.30)
+
+Total AAT* at Day 28 (µM)
+
+  
+
+7.0 (0.66)
+
+ 
+
+10.1 (1.42)
+
+ 
+
+12.4 (1.03)
+
+Fold change in total AAT* from baseline at Day 28
+
+  
+
+1.6x (0.08)
+
+ 
+
+1.9x (0.21)
+
+ 
+
+2.8x (0.06)
+
+% change from baseline in circulating mutant Z-AAT** at Day 28
+
+  
+
+-11% (8.0)
+
+ 
+
+-38% (15.5)
+
+ 
+
+-78% (n=1)
+
+ 
+
++ 
+
+Baseline defined as average of all assessments conducted within screening period prior to BEAM-302 infusion.
+
+*
+
+As measured by turbidimetry
+
+**
+
+As measured by liquid chromatography-mass spectrometry (LC-MS)
+
+The Company plans to continue the dose-escalation portion of Part A of the ongoing Phase 1/2 clinical trial, including enrolling and dosing a fourth dose cohort, and expects to report further data at a medical conference in the second half of 2025. In addition, the Company plans to dose the first patient in Part B, which will include AATD patients with mild to moderate liver disease, in the second half of 2025.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Investors are cautioned not to place undue reliance on these forward-looking statements, including, but not limited to, statements related to: the therapeutic applications and potential of the Company’s technology, including BEAM-302; the Company’s plans, and anticipated timing, to advance its BEAM-302 program; and the clinical trial designs and expectations for BEAM-302. Each forward-looking statement is subject to important risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statement, including, without limitation, risks and uncertainties related to: the Company’s ability to develop, obtain regulatory approval for, and commercialize its product candidates, which may take longer or cost more than planned; its ability to raise additional funding, which may not be available; its ability to obtain, maintain and enforce patent and other intellectual property protection for its product candidates; the uncertainty that its product candidates will receive regulatory approval necessary to initiate human clinical trials; that preclinical testing of its product candidates and preliminary or interim data from preclinical studies and clinical trials may not be predictive of the results or success of ongoing or later clinical trials; that initiation and enrollment of, and anticipated timing to advance, its clinical trials may take longer than expected; that its product candidates or the delivery modalities it relies on to administer them may cause serious adverse events; that its product candidates may experience manufacturing or supply interruptions or failures; risks related to competitive products; and the other risks and uncertainties identified under the headings “Risk Factors Summary” and “Risk Factors” in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, and in any subsequent filings with the Securities and Exchange Commission. These forward-looking statements speak only as of the date of this Current Report. Factors or events that could cause actual results to differ may emerge from time to time, and it is not possible for the Company to predict all of them. The Company undertakes no obligation to update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by applicable law.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release Issued by Beam Therapeutics Inc. on March 10, 2025
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ Date: March 10, 2025
+
+ 
+
+ 
+
+Beam Therapeutics Inc.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ John Evans
+
+ 
+
+ 
+
+Name:
+
+ 
+
+John Evans
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Executive Officer

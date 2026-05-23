@@ -1,0 +1,2627 @@
+false
+0001601830
+
+0001601830
+
+2024-11-05
+2024-11-05
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT 
+
+Pursuant to Section 13
+OR 15(d) of The Securities Exchange Act of 1934
+
+ 
+
+ November 6, 2024 (November 5, 2024) 
+
+Date of Report (date of earliest event reported)
+
+ 
+
+ 
+
+ 
+
+RECURSION
+PHARMACEUTICALS, INC. 
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+001-40323
+
+46-4099738
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+41 S Rio Grande Street 
+
+Salt
+Lake City, UT 84101 
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+ 
+
+(385) 269- 0203 
+
+(Registrant’s telephone number, including
+area code)
+
+ 
+
+Not Applicable 
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Class A Common Stock, par value $0.00001 per share
+
+ 
+
+RXRX
+
+ 
+
+Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+ 
+
+Amendment to Transaction Agreement
+
+ 
+
+As previously disclosed, on
+August 8, 2024, Recursion Pharmaceuticals, Inc., a Delaware corporation (“Recursion”), and Exscientia plc, a public
+limited company incorporated under the laws of England and Wales with registered number 13483814 (“Exscientia”), entered into
+a transaction agreement (the “Transaction Agreement”), pursuant to which, subject to the terms and conditions set forth therein,
+including the requisite approval of each of Recursion’s stockholders and Exscientia’s shareholders, Recursion will acquire
+the entire issued and to be issued share capital of Exscientia pursuant to a scheme of arrangement under Part 26 of the United Kingdom
+Companies Act 2006 (the “Scheme of Arrangement” and such transaction, the “Transaction”).
+
+ 
+
+On November 5, 2024, the parties
+to the Transaction Agreement executed the First Amendment to the Transaction Agreement (the “Amendment”) to provide that,
+(i) prior to the effective time of the Scheme of Arrangement (the “Effective Time”) and effective as of the Effective Time,
+Recursion will appoint to its board of directors one (1) member of Exscientia’s board of directors selected by Exscientia, subject
+to Recursion’s approval in compliance with the fiduciary duties of the Recursion board of directors, and (ii) prior to (or as promptly
+as practicable following) the Effective Time, Recursion will appoint to its board of directors one (1) additional individual if mutually
+agreed upon, prior to the Effective Time by Exscientia and Recursion and subject to the fiduciary duties of the Recursion board of directors,
+and subject in each case to such individual’s willingness and ability to serve on the Recursion board of directors at the time of
+appointment.
+
+ 
+
+The foregoing description
+of the Amendment is subject to, and qualified in its entirety by, the Amendment, which will be filed by Recursion with the U.S. Securities
+and Exchange Commission and a copy of which is attached hereto as Exhibit 2.1 and is incorporated herein by reference.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+ 
+
+Supplemental Disclosures to Joint Proxy
+Statement
+
+ 
+
+The following supplemental
+disclosures (the “Supplemental Disclosures”) should be read in conjunction with the definitive joint proxy statement, dated
+October 10, 2024 (as it may be amended or supplemented from time to time, the “joint proxy statement”), filed by Recursion
+and Exscientia with the U.S. Securities and Exchange Commission. The joint proxy statement relates to the Transaction Agreement and the
+Transaction. If the Transaction is completed, each ordinary share of Exscientia (each an “Exscientia Share”) will automatically
+be acquired by Recursion in exchange for 0.7729 shares of Recursion Class A Common Stock, par value of $0.00001 per share (the “Share
+Deliverable”). Because each American Depositary Share in Exscientia represents a beneficial interest in one Exscientia Share (each,
+an “Exscientia ADS”), each Exscientia ADS will also be exchanged for the Share Deliverable following the Effective Time.
+
+ 
+
+The purpose of the Supplemental
+Disclosures is to provide supplemental information concerning the Transaction, including the Amendment. Except as described in these Supplemental
+Disclosures, the information provided in the joint proxy statement continues to apply. All paragraph headings and page references
+used herein refer to the headings and pages in the joint proxy statement before any additions or deletions resulting from the Supplemental
+Disclosures or any other amendments, and certain capitalized terms used below, unless otherwise defined, have the meanings set forth in
+the joint proxy statement. The supplemental information is identified below by bold, underlined text. Stricken-through
+text shows text being deleted from a referenced disclosure in the joint proxy statement. If information in the Supplemental Disclosures
+differs from or updates information contained in the joint proxy statement, then the information in the Supplemental Disclosures is more
+current and supersedes the different information contained in the joint proxy statement. THE SUPPLEMENTAL DISCLOSURES SHOULD BE READ
+IN CONJUNCTION WITH THE JOINT PROXY STATEMENT AND THE JOINT PROXY STATEMENT SHOULD BE READ IN ITS ENTIRETY.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+following bolded and underlined language is added to page 26 of the joint proxy statement in the section with the heading “Board
+of Directors of Recursion Following Completion of the Transaction (page 113).”
+
+ 
+
+Pursuant to the Transaction Agreement, Exscientia
+may designate onetwo members of the Exscientia Board, subject to approval of the
+Recursion Board in compliance with fiduciary duties under applicable law, to serve as a members
+of the Recursion Board following the consummation of the Transaction. In addition, prior to (or as promptly as practicable following)
+the Effective Time, Recursion will appoint to the Recursion Board one additional individual if mutually agreed upon prior to the Effective
+Time by Exscientia and Recursion and subject to fiduciary duties under applicable law.
+
+ 
+
+The following bolded and
+underlined language is added to page 52 of the joint proxy statement in the section with the heading “5. The Exscientia Directors
+and the Effect of the Scheme of Arrangement on their Interests.”
+
+ 
+
+Pursuant to the Transaction
+Agreement, Exscientia may designate onetwo members of the Exscientia Board, subject
+to approval of the Recursion Board in compliance with fiduciary duties under applicable law, to serve as a members
+of the Recursion Board following the consummation of the Transaction.
+
+ 
+
+The following bolded and
+underlined language is added to page 70 of the joint proxy statement in the section with the heading “Background of the Transaction.”
+
+ 
+
+On October 26, 2022,
+Chris Gibson, Recursion’s chief executive officer, met with Andrew Hopkins, Exscientia’s then-current chief executive officer
+in Oxford, England, at Dr. Gibson’s invitation, to discuss Recursion’s and Exscientia’s respective businesses and
+the industry in which they operate. As part of this discussion, Dr. Gibson and Dr. Hopkins discussed, for the first time
+and on an exploratory basis, a potential combination of Recursion and Exscientia, with Dr. Hopkins expressing preliminary
+interest in a “merger of equals” transaction with Recursion. Ultimately, Dr. Gibson and Dr. Hopkins proposed (1) to
+continue these discussions and (2) for Recursion and Exscientia to enter into a mutual confidentiality agreement to facilitate these
+discussions and a related exchange of information regarding Recursion’s and Exscientia’s respective businesses.
+
+ 
+
+On November 5, 2022,
+Exscientia and Recursion entered into a mutual confidentiality agreement, which contained customary mutual “standstill” provisions
+but did not contain “don’t ask, don’t waive” provisions and did not restrict either party from making
+confidential proposals that would otherwise be restricted by the standstill provisions to the board of directors of the other party.
+
+ 
+
+The following bolded and
+underlined language is added to pages 70-71 of the joint proxy statement in the section with the heading “Background of the
+Transaction.”
+
+ 
+
+On November 21, 2022,
+the Recursion Board met, with representatives of Wilson Sonsini Goodrich & Rosati, P.C., Recursion’s outside legal counsel
+(“Wilson Sonsini”) and Allen & Company in attendance. Dr. Gibson provided the Recursion Board with an update
+on discussions with Exscientia and certain related due diligence matters. Allen & Company discussed with the Recursion Board,
+on a preliminary basis and based on publicly available information and other information provided by Recursion management, certain (1) business
+information relating to Exscientia and the potential combination of Recursion and Exscientia and (2) historical trading and public
+market perspectives on Exscientia and Recursion, including implied financial metrics based on illustrative pro forma ownership levels.
+Following discussion, the Recursion Board approved the submission of a non-binding proposal to acquire Exscientia in an all-stock transaction
+in which Exscientia’s shareholders would own up to 35% of the pro forma common shares of the combined company following the transaction.
+The Recursion Board also met in executive session (without Dr. Gibson in attendance) to discuss these matters. The Recursion
+Board regularly meets in executive session without management in attendance as a matter of ordinary practice. In executive session,
+the Recursion Board discussed the potential leadership of the combined company; it was the consensus of the Recursion Board that Dr. Gibson
+would continue to serve as chief executive officer of the combined company, and that Recursion should propose that Dr. Hopkins join
+the Recursion Board as vice chair.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The following bolded and
+underlined language is added to page 74 of the joint proxy statement in the section with the heading “Background of the Transaction.”
+
+ 
+
+On June 27, 2024, Exscientia
+and Recursion entered into an updated mutual confidentiality agreement to facilitate continued discussions, which contained customary
+mutual “standstill” provisions but did not contain “don’t ask, don’t waive” provisions and did
+not restrict either party from making confidential proposals that would otherwise be restricted by the standstill provisions to the board
+of directors of the other party.
+
+ 
+
+The following bolded and
+underlined language is added to page 74 of the joint proxy statement in the section with the heading “Background of the Transaction.”
+
+ 
+
+On July 17, 2024, the Recursion Board established
+a committee of the Recursion Board (the “Recursion Transaction Committee”), composed of Dr. Hershberg, the current chair
+of the Recursion Board, and Zavain Dar, to oversee Recursion’s exploration, evaluation, consideration, review and negotiation of
+a potential strategic transaction involving Exscientia and, as appropriate, make recommendations to the Recursion Board with respect thereto.
+The members of the Recursion Transaction Committee were not paid additional compensation in connection with their service on the
+Recursion Transaction Committee. The Recursion Transaction Committee was formed in light of the benefits, convenience,
+and efficiency of having a subset of directors oversee Recursion’s consideration and negotiation of a potential transaction with
+Exscientia in the context of (1) the potentially significant workload that could be involved with respect to these matters; and (2) the
+possibility that Recursion management and Recursion’s advisors would require feedback and direction on relatively short notice.
+The Recursion Transaction Committee was not formed to address any actual or perceived conflict of interest of any director or officer
+of Recursion. The Recursion Board did not condition the execution by Recursion of a transaction with Exscientia on the affirmative
+recommendation of the Recursion Transaction Committee. It was the expectation that the Recursion Board would continue to be actively
+involved in overseeing Recursion’s exploration, evaluation, consideration, review and negotiation of a potential transaction with
+Exscientia, and the Recursion Board retained the authority to approve any definitive agreements with respect to a transaction with Exscientia.
+The Recursion Transaction Committee has not been disbanded as of the date of this joint proxy statement.
+
+ 
+
+The following bolded and
+underlined language is added to page 91 of the joint proxy statement in the section with the heading “Opinion of Recursion’s
+Financial Advisor.”
+
+ 
+
+No company, business or transaction
+reviewed is identical or directly comparable to Recursion or Exscientia, their respective businesses or the Transaction nor, except
+as otherwise disclosed, were individual enterprise or transaction values derived from the selected public companies or selected precedent
+transactions, as applicable, independently determinative of the results of such analyses, and an evaluation of these analyses
+is not entirely mathematical; rather, the analyses involve complex considerations and judgments concerning financial and operating characteristics
+and other factors that could affect the public trading, acquisition or other values of the companies, businesses or transactions reviewed.
+
+ 
+
+The following bolded and
+underlined language is added to page 92 of the joint proxy statement in the section with the heading “Opinion of Recursion’s
+Financial Advisor – Financial Analysis – Exscientia Selected Public Companies Analysis.”
+
+ 
+
+Allen & Company selected
+a range of estimated enterprise values derived from the selected companies of $124 million to $719 million for Exscientia (with
+particular focus, based on Allen & Company’s professional judgment, on the 25th percentile and the 75th
+percentile of the estimated enterprise values observed for the selected companies).
+
+ 
+
+ 
+
+ 
+
+ 
+
+The following bolded and
+underlined language is added to page 92 of the joint proxy statement in the section with the heading “Opinion of Recursion’s
+Financial Advisor – Financial Analysis – Selected Precedent Transactions Analysis.”
+
+ 
+
+Allen & Company selected a range of estimated transaction values
+derived from the selected transactions of $458 million to $1.011 billion for Exscientia (with particular focus, based on Allen
+& Company’s professional judgment, on the 25th percentile and the 75th percentile of the estimated transaction
+values observed for the selected transactions).
+
+ 
+
+The following bolded and
+underlined language is added to page 92 of the joint proxy statement in the section with the heading “Opinion of Recursion’s
+Financial Advisor – Financial Analysis – Discounted Cash Flow Analysis.”
+
+ 
+
+Allen & Company performed
+a discounted cash flow analysis of Exscientia, both before and after giving effect to potential cost savings expected by the management
+of Recursion to result from the Transaction, by calculating the estimated present value of the standalone
+unlevered, after-tax free cash flows that Exscientia was forecasted to generate during the last two quarters of the fiscal year ending
+December 31, 2024 through the full fiscal year ending December 31, 2049 based on financial forecasts and estimates relating
+to Exscientia provided to or discussed with Allen & Company by the management of Recursion. For purposes of this analysis, stock-based
+compensation was treated as a cash expense. Allen & Company calculated implied terminal values for Exscientia by applying to
+the unlevered, after-tax free cash flows that Exscientia was forecasted to generate from its future pipeline programs (net of corporate
+expenses) during the fiscal year ending December 31, 2049 a selected range of perpetuity growth rates of
+2.75% to 3.25% selected based on Allen & Company’s professional judgment. The present values (as of June 30,
+2024) of the cash flows and terminal values were then calculated using a selected range of discount rates of 13.25% to 15.75% derived
+from a weighted average cost of capital calculation for Exscientia.
+
+ 
+
+The following bolded and
+underlined language is added to the second bullet on page 93 of the joint proxy statement in the section with the heading “Opinion
+of Recursion’s Financial Advisor – Financial Analysis – Certain Additional Information.”
+
+ 
+
+·
+
+publicly available Wall Street research analysts’ price targets for Exscientia ADSs (consisting
+of three such price targets) and Recursion Class A Common Stock (consisting of seven such price targets), which
+indicated an overall low to high target price range for Exscientia ADSs of $7.00 to $9.00 per ADS (with a median of $8.00 per ADS) and
+an overall low to high target price range for Recursion Class A Common Stock of $8.00 to $17.00 per share (with a median of $11.00
+per share); and
+
+ 
+
+ 
+
+ 
+
+ 
+
+The following bolded and
+underlined language is added to pages 97 of the joint proxy statement in the section with the heading “Opinion of Exscientia’s
+Financial Advisor – Summary of Centerview’s Financial Analysis – Discounted Cash Flow Analysis.”
+
+ 
+
+In performing the discounted
+cash flow analysis of Exscientia, Centerview calculated the estimated present value of the standalone unlevered free cash flows that
+Exscientia was forecasted to generate during the three months ended December 31, 2024, through the year ending December 31,
+2049, in the Exscientia-Prepared Risk Adjusted Forecasts for Exscientia. For the purposes of the discounted cash flow analysis, Centerview
+calculated unlevered free cash flow as follows: earnings before interest and taxes (EBIT), less tax expenses, less capital expenditures,
+plus depreciation and amortization and less change in net working capital. The implied terminal value was estimated based on unlevered
+proprietary and partnered asset cash flows declining in perpetuity after December 31, 2049, at a rate of free cash flow decline
+of 60% year-over-year, and unlevered future pipeline and overhead cash flows continuing in perpetuity after December 31, 2049, at
+a flat rate of free cash flow of 0%, as directed by Exscientia management. The cash flows were then discounted to September 30,
+2024, using mid-year convention at discount rates ranging from 14.5% to 17.0% (based on Centerview’s analysis of Exscientia’s
+weighted average cost of capital). Based on its discounted cash flow analysis, Centerview then calculated a range of implied equity values
+of Exscientia. When calculating this range, Centerview added Exscientia’s estimated cash balance of $319 million and subtracted
+outstanding debt of €300,000 as of September 30, 2024, each as set forth in the Exscientia-Prepared Risk Adjusted Forecasts
+for Exscientia and included the benefit of tax savings of $259 million from the usage of Exscientia’s federal net operating losses
+as of December 31, 2023, estimated future losses and U.K. R&D tax credits, each as set forth in the Exscientia Internal Data.
+Centerview then calculated a range of implied equity values per Exscientia Share (a) by dividing the result of the foregoing calculations
+by the implied number of fully-diluted outstanding Exscientia Shares (determined
+using the treasury stock method and taking into account outstanding Exscientia Options, Exscientia RSUscalculated
+based on approximately 129.3 million Exscientia Ordinary Shares Outstanding and the dilutive impact under the treasury stock method of
+approximately 9.1 million Exscientia Options outstanding (including approximately 8.4 million share options and approximately 0.8 million
+share options subject to achievement of target performance) and approximately 1.5 million Exscientia RSUs outstanding (whether
+subject to time-based vesting conditions, performance-based vesting conditions, or a combination thereof) (excluding Exscientia RSUs
+issued to a terminated employee, as instructed by Exscientia’s senior management)and
+Exscientia RSUs) as of August 6, 2024, and as set forth in the Exscientia
+Internal Data and (b) taking into account the impact of the assumed equity raises, as set forth in the Exscientia Internal Data
+and as instructed by Exscientia management. This resulted in an implied per Exscientia Share equity value range for the Exscientia Shares
+of approximately $3.90 to $6.60, rounded to the nearest $0.05.
+
+ 
+
+The following bolded
+and underlined language is added to page 98 of the joint proxy statement in the section with the heading “Opinion of
+Exscientia’s Financial Advisor – Summary of Centerview’s Financial Analysis – Discounted Cash Flow
+Analysis.”
+
+ 
+
+Centerview reviewed stock
+price targets for Exscientia Shares in Wall Street research analyst reports publicly available as of August 7, 2024 (consisting
+of three such price targets), which indicated the latest available low and high stock price targets for Exscientia Shares ranged
+from $7.00 to $9.00 per share. Centerview also reviewed stock price targets for Recursion Shares in Wall Street research analyst reports
+publicly available as of August 7, 2024 (consisting of seven such price targets), which indicated the latest available
+low and high stock price targets for Recursion Shares ranged from $8.00 to $17.00 per share. Centerview then calculated the ratio of such
+low stock price target for Exscientia Shares to such high stock price target for Recursion Shares and the ratio of such high stock price
+target for Exscientia Shares to such low stock price target for Recursion Shares to derive an implied exchange ratio range of 0.4118x
+to 1.1250x. Centerview then compared these implied exchange ratios to the Exchange Ratio of 0.7729x and observed that the Exchange Ratio
+was within such implied exchange ratio range.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The following bolded and
+underlined language is added to pages 104-105 of the joint proxy statement in the section with the heading “Certain Unaudited
+Financial Forecasts – The Exscientia-Prepared Forecasts.”
+
+ 
+
+The following table presents a summary of the Exscientia-Prepared
+Risk Adjusted Forecasts for Exscientia (USD in millions):
+
+ 
+
+ 
+
+2024E
+
+2025E
+
+2026E
+
+2027E
+
+2028E
+
+2029E
+
+2030E
+
+2031E
+
+2032E
+
+2033E
+
+2034E
+
+2035E
+
+2036E
+
+2037E
+
+2038E
+
+2039E
+
+2040E
+
+2041E
+
+2042E
+
+2043E
+
+2044E
+
+2045E
+
+2046E
+
+2047E
+
+2048E
+
+2049E
+
+Net Revenue(1)
+
+$ 18
+
+$ 50
+
+$ 65
+
+$ 72
+
+$ 67
+
+$ 68
+
+$ 79
+
+$ 57
+
+$ 52
+
+$ 82
+
+$ 224
+
+$ 479
+
+$ 836
+
+$ 1,264
+
+$ 1,683
+
+$ 1,987
+
+$ 2,203
+
+$ 2,383
+
+$ 2,429
+
+$ 2,323
+
+$ 2,007
+
+$ 1,661
+
+$ 1,191
+
+$ 873
+
+$ 710
+
+$ 659
+
+Gross Profit(2)
+
+$ 18
+
+$ 50
+
+$ 65
+
+$ 72
+
+$ 67
+
+$ 68
+
+$ 79
+
+$ 57
+
+$ 50
+
+$ 76
+
+$ 206
+
+$ 429
+
+$ 741
+
+$ 1,121
+
+$ 1,494
+
+$ 1,763
+
+$ 1,957
+
+$ 2,122
+
+$ 2,174
+
+$ 2,078
+
+$ 1,801
+
+$ 1,487
+
+$ 1,078
+
+$ 791
+
+$ 640
+
+$ 593
+
+EBIT(3)
+
+$ (213)
+
+$ (179)
+
+$ (145)
+
+$ (156)
+
+$ (183)
+
+$ (177)
+
+$ (154)
+
+$ (116)
+
+$ (122)
+
+$ (94)
+
+$ 11
+
+$ 211
+
+$ 461
+
+$ 796
+
+$ 1,103
+
+$ 1,328
+
+$ 1,498
+
+$ 1,638
+
+$ 1,685
+
+$ 1,589
+
+$ 1,374
+
+$ 1,131
+
+$ 799
+
+$ 571
+
+$ 443
+
+$ 406
+
+  Tax Expense (if profitable)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+$
+(1)
+
+$
+(26)
+
+$
+(58)
+
+$
+(99)
+
+$
+(138)
+
+$
+(166)
+
+$
+(187)
+
+$
+(205)
+
+$
+(211)
+
+$
+(199)
+
+$
+(172)
+
+$
+(141)
+
+$
+(100)
+
+$
+(71)
+
+$
+(55)
+
+$
+(51)
+
+  Capital Expenditures
+
+$
+(6)
+
+$
+(5)
+
+$
+(5)
+
+$
+(5)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+  Depreciation &
+Amortization
+
+$
+24
+
+$
+21
+
+$
+17
+
+$
+13
+
+$
+9
+
+$
+5
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+3
+
+$
+3
+
+$
+3
+
+$
+3
+
+$
+3
+
+  Change in Net Working
+Capital
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+$
+(0)
+
+$
+(0)
+
+$
+(1)
+
+$
+(4)
+
+$
+(11)
+
+$
+(24)
+
+$
+(35)
+
+$
+(40)
+
+$
+(39)
+
+$
+(29)
+
+$
+(20)
+
+$
+(15)
+
+$
+(9)
+
+$
+10
+
+$
+26
+
+$
+32
+
+$
+45
+
+$
+30
+
+$
+12
+
+$
+5
+
+Unlevered Free Cash Flow(4)
+
+$ (195)(5)
+
+$ (163)
+
+$ (133)
+
+$ (148)
+
+$ (179)
+
+$ (177)
+
+$ (154)
+
+$ (116)
+
+$ (123)
+
+$ (97)
+
+$ (1)
+
+$ 161
+
+$ 368
+
+$ 657
+
+$ 927
+
+$ 1,133
+
+$ 1,291
+
+$ 1,419
+
+$ 1,466
+
+$ 1,400
+
+$ 1,229
+
+$ 1,022
+
+$ 745
+
+$ 530
+
+$ 400
+
+$ 360
+
+ 
+
+ 
+
+(1)
+
+Represents cash inflows from collaborations and commercialized product sales in each year as
+opposed to any amounts derived from the application of a GAAP accounting treatment.
+
+ 
+
+(2)
+
+Represents the cost of manufactured commercialized products and potential future outbound royalty payments
+only, while all other costs related to new and ongoing programs are recorded within separately under R&D expenses.
+
+ 
+
+(3)
+
+EBIT in this context is a non-IFRS and non-GAAP financial measure defined as earnings before interest
+expenses and taxes recognized on a cash rather than accounting basis.
+
+ 
+
+(4)
+
+Unlevered Free Cash Flow refers to EBIT, less tax expenses (assuming 12.5% tax rate per Exscientia
+management, excluding the impact of net operating losses and UK R&D tax credits), capital expenditures and changes in net working
+capital, plus depreciation and amortization.
+
+ 
+
+(5)
+
+Forecasted Unlevered Free
+Cash Flow for the three-month period ending December 31, 2024 was negative $49 million.
+
+ 
+
+The following table presents a summary of the Exscientia-Prepared
+Forecasts for Recursion (USD in millions):
+
+ 
+
+ 
+
+2024E
+
+2025E
+
+2026E
+
+2027E
+
+2028E
+
+2029E
+
+2030E
+
+2031E
+
+2032E
+
+2033E
+
+2034E
+
+2035E
+
+2036E
+
+2037E
+
+2038E
+
+2039E
+
+2040E
+
+2041E
+
+2042E
+
+2043E
+
+2044E
+
+2045E
+
+2046E
+
+2047E
+
+2048E
+
+2049E
+
+Net Revenue(1)
+
+$ 30
+
+$ 48
+
+$ 51
+
+$ 238
+
+$ 511
+
+$ 1,062
+
+$ 1,825
+
+$ 2,342
+
+$ 2,809
+
+$ 2,942
+
+$ 3,022
+
+$ 2,591
+
+$ 1,714
+
+$ 1,415
+
+$ 1,348
+
+$ 1,376
+
+$ 1,042
+
+$ 950
+
+$ 719
+
+$ 667
+
+$ 664
+
+$ 656
+
+$ 642
+
+$ 627
+
+$ 627
+
+$ 627
+
+Gross Profit(2)
+
+$ 30
+
+$ 48
+
+$ 51
+
+$ 226
+
+$ 463
+
+$ 948
+
+$ 1,614
+
+$ 2,071
+
+$ 2,485
+
+$ 2,603
+
+$ 2,676
+
+$ 2,303
+
+$ 1,531
+
+$ 1,269
+
+$ 1,212
+
+$ 1,239
+
+$ 943
+
+$ 861
+
+$ 653
+
+$ 606
+
+$ 602
+
+$ 594
+
+$ 580
+
+$ 565
+
+$ 565
+
+$ 565
+
+EBIT(3)
+
+$ (373)
+
+$ (410)
+
+$ (545)
+
+$ (406)
+
+$ (33)
+
+$ 537
+
+$ 1,148
+
+$ 1,529
+
+$ 1,859
+
+$ 1,949
+
+$ 2,009
+
+$ 1,720
+
+$ 1,139
+
+$ 943
+
+$ 901
+
+$ 924
+
+$ 701
+
+$ 639
+
+$ 479
+
+$ 441
+
+$ 442
+
+$ 437
+
+$ 424
+
+$ 410
+
+$ 410
+
+$ 410
+
+  Tax Expense (if profitable)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+$
+(134)
+
+$
+(287)
+
+$
+(382)
+
+$
+(465)
+
+$
+(487)
+
+$
+(502)
+
+$
+(430)
+
+$
+(285)
+
+$
+(236)
+
+$
+(225)
+
+$
+(231)
+
+$
+(175)
+
+$
+(160)
+
+$
+(120)
+
+$
+(110)
+
+$
+(110)
+
+$
+(109)
+
+$
+(106)
+
+$
+(102)
+
+$
+(103)
+
+$
+(103)
+
+  Capital Expenditures
+
+$
+(15)
+
+$
+(15)
+
+$
+(5)
+
+$
+(5)
+
+$
+(5)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(4)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(3)
+
+$
+(2)
+
+$
+(2)
+
+$
+(2)
+
+$
+(2)
+
+$
+(2)
+
+  Depreciation &
+Amortization
+
+$
+26
+
+$
+24
+
+$
+19
+
+$
+15
+
+$
+11
+
+$
+7
+
+$
+5
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+4
+
+$
+3
+
+$
+3
+
+$
+3
+
+$
+3
+
+$
+3
+
+$
+3
+
+$
+3
+
+$
+3
+
+$
+2
+
+$
+2
+
+$
+2
+
+  Change in Net Working
+Capital
+
+-
+
+-
+
+-
+
+$
+(12)
+
+$
+(29)
+
+$
+(60)
+
+$
+(79)
+
+$
+(52)
+
+$
+(46)
+
+$
+(14)
+
+$
+(7)
+
+$
+45
+
+$
+88
+
+$
+31
+
+$
+7
+
+$
+(2)
+
+$
+34
+
+$
+9
+
+$
+22
+
+$
+4
+
+$
+(1)
+
+$
+(0)
+
+$
+(0)
+
+$
+(0)
+
+$
+(0)
+
+$
+(0)
+
+Unlevered Free Cash Flow(4)
+
+$ (362)
+
+$ (401)
+
+$ (530)
+
+$ (408)
+
+$ (56)
+
+$ 345
+
+$ 782
+
+$ 1,095
+
+$ 1,349
+
+$ 1,449
+
+$ 1,500
+
+$ 1,335
+
+$ 943
+
+$ 738
+
+$ 683
+
+$ 692
+
+$ 560
+
+$ 488
+
+$ 381
+
+$ 335
+
+$ 331
+
+$ 327
+
+$ 318
+
+$ 307
+
+$ 308
+
+$ 308
+
+ 
+
+ 
+
+(1)
+
+Represents cash inflows from collaborations and commercialized product sales in each year as
+opposed to any amounts derived from the application of a GAAP accounting treatment.
+
+ 
+
+(2)
+
+Represents the cost of manufactured commercialized products and potential future outbound royalty payments
+only, while all other costs related to new and ongoing programs are recorded within separately under R&D expenses.
+
+ 
+
+(3)
+
+EBIT in this context is a non-IFRS and non-GAAP financial measure defined as earnings before interest
+expenses and taxes recognized on a cash rather than accounting basis.
+
+ 
+
+(4)
+
+Unlevered Free Cash Flow refers to EBIT, less tax expenses (assuming 25% tax rate per Exscientia
+management, excluding the impact of net operating losses), capital expenditures and changes in net working capital, plus depreciation
+and amortization.
+
+ 
+
+The following table presents
+a summary of the Exscientia-Prepared Non-Risk Adjusted Forecasts for Exscientia shared by Exscientia with Recursion (USD in millions).
+Exscientia management prepared Exscientia-Prepared Non-Risk Adjusted Forecasts for Exscientia assuming that all of Exscientia’s
+existing drug product candidates as well as future pipeline programs are successfully developed and commercialized. As is customary in
+the biotechnology industry, Exscientia management prepared the Exscientia-Prepared Risk Adjusted Forecasts for Exscientia and Recursion
+management prepared the Recursion-Prepared Risk Adjusted Forecasts for Exscientia by applying risk weightings and other adjustments to
+the Exscientia-Prepared Non-Risk Adjusted Forecasts for Exscientia to account for the estimated likelihood of successfully developing
+and commercializing Exscientia’s drug product candidates and to reflect other assumptions described above. None of Exscientia, Recursion
+or any of their respective directors, officers, employees, affiliates, advisors or representatives believed that the Exscientia-Prepared
+Non-Risk Adjusted Forecasts for Exscientia summarized below were achievable by Exscientia. The Exscientia-Prepared Non-Risk Adjusted
+Forecasts for Exscientia provided to Recursion did not include forecasts of Unlevered Free Cash Flow. The Exscientia-Prepared
+Non-Risk Adjusted Forecasts for Exscientia were not relied upon or used by Centerview in connection with rendering its opinion to the
+Exscientia Board and performing the related financial analyses as described in the section entitled “The Transaction — Opinion
+of Exscientia’s Financial Advisor” of this joint proxy statement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The following bolded and
+underlined language is added to page 106 of the joint proxy statement in the section with the heading “Certain Unaudited Financial
+Forecasts – The Recursion-Prepared Forecasts.”
+
+ 
+
+Recursion does not, as a matter
+of course, publicly disclose financial forecasts or projections as to future revenues or other results of its operations given, among
+other reasons, the uncertainty, unpredictability and subjectivity of the underlying assumptions and estimates. Recursion management did
+not prepare, and neither the Recursion Board nor Allen & Company received or reviewed, forecasts for Recursion’s
+future financial or operating performance of Recursion or of combined company following the Transaction (other than the Cost Savings)
+in connection with Recursion’s evaluation of the Transaction.
+
+ 
+
+The following bolded and
+underlined language is added to page 107 of the joint proxy statement in the section with the heading “Certain Unaudited Financial
+Forecasts – The Recursion-Prepared Forecasts.”
+
+ 
+
+(dollars
+in millions)
+
+2024E
+
+2025E
+
+2026E
+
+2027E
+
+2028E
+
+2029E
+
+2030E
+
+2031E
+
+2032E
+
+2033E
+
+2034E
+
+2035E
+
+2036E
+
+2037E
+
+2038E
+
+2039E
+
+2040E
+
+2041E
+
+2042E
+
+2043E
+
+2044E
+
+2045E
+
+2046E
+
+2047E
+
+2048E
+
+2049E
+
+Net Revenue (1)
+
+$ 18
+
+$ 75
+
+$ 79
+
+$ 118
+
+$ 94
+
+$ 73
+
+$ 30
+
+$ 161
+
+$ 128
+
+$ 98
+
+$ 225
+
+$ 412
+
+$ 685
+
+$ 1,097
+
+$ 1,570
+
+$ 1,999
+
+$ 2,318
+
+$ 2,556
+
+$ 2,609
+
+$ 2,597
+
+$ 2,363
+
+$ 2,062
+
+$ 1,772
+
+$ 1,322
+
+$ 1,080
+
+$ 976
+
+Gross Profit
+
+$ 18
+
+$ 75
+
+$ 79
+
+$ 118
+
+$ 94
+
+$ 73
+
+$ 30
+
+$ 161
+
+$ 127
+
+$ 92
+
+$ 206
+
+$ 370
+
+$ 610
+
+$ 979
+
+$ 1,404
+
+$ 1,787
+
+$ 2,072
+
+$ 2,288
+
+$ 2,338
+
+$ 2,331
+
+$ 2,118
+
+$ 1,847
+
+$ 1,591
+
+$ 1,191
+
+$ 972
+
+$ 878
+
+EBITDA (2)
+
+$ (155)
+
+$ (77)
+
+$ (84)
+
+$ (68)
+
+$ (123)
+
+$ (159)
+
+$ (181)
+
+$ (69)
+
+$ (101)
+
+$ (115)
+
+$ (23)
+
+$ 115
+
+$ 319
+
+$ 622
+
+$ 962
+
+$ 1,279
+
+$ 1,529
+
+$ 1,703
+
+$ 1,734
+
+$ 1,738
+
+$ 1,553
+
+$ 1,319
+
+$ 1,096
+
+$ 750
+
+$ 539
+
+$ 439
+
+  Tax
+Expense (if profitable)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+$
+(24)
+
+$
+(75)
+
+$
+(150)
+
+$
+(235)
+
+$
+(314)
+
+$
+(377)
+
+$
+(420)
+
+$
+(427)
+
+$
+(428)
+
+$
+(382)
+
+$
+(323)
+
+$
+(267)
+
+$
+(180)
+
+$
+(127)
+
+$
+(102)
+
+  Capital
+Expenditures
+
+$
+(20)
+
+$
+(20)
+
+$
+(21)
+
+$
+(21)
+
+$
+(22)
+
+$
+(22)
+
+$
+(23)
+
+$
+(23)
+
+$
+(23)
+
+$
+(24)
+
+$
+(24)
+
+$
+(25)
+
+$
+(25)
+
+$
+(26)
+
+$
+(26)
+
+$
+(27)
+
+$
+(27)
+
+$
+(28)
+
+$
+(29)
+
+$
+(29)
+
+$
+(30)
+
+$
+(30)
+
+$
+(31)
+
+$
+(32)
+
+$
+(32)
+
+$
+(33)
+
+  Change
+in Net Working Capital
+
+$
+1
+
+$
+(6)
+
+$
+(0)
+
+$
+(4)
+
+$
+2
+
+$
+2
+
+$
+4
+
+$
+(13)
+
+$
+3
+
+$
+3
+
+$
+(13)
+
+$
+(19)
+
+$
+(27)
+
+$
+(41)
+
+$
+(47)
+
+$
+(43)
+
+$
+(32)
+
+$
+(24)
+
+$
+(5)
+
+$
+1
+
+$
+23
+
+$
+30
+
+$
+29
+
+$
+45
+
+$
+24
+
+$
+10
+
+Unlevered
+Free Cash Flow (3)(4)
+
+$ (174)
+
+$ (104)
+
+$ (105)
+
+$ (93)
+
+$ (142)
+
+$ (179)
+
+$ (199)
+
+$ (105)
+
+$ (122)
+
+$ (135)
+
+$ (60)
+
+$ 47
+
+$ 191
+
+$ 404
+
+$ 653
+
+$ 895
+
+$ 1,093
+
+$ 1,231
+
+$ 1,273
+
+$ 1,282
+
+$ 1,165
+
+$ 996
+
+$ 827
+
+$ 583
+
+$ 404
+
+$ 315
+
+ 
+
+ 
+
+(1)
+
+Represents cash inflows from collaborations and commercialized product sales in each year as opposed to
+any amounts derived from the application of a GAAP accounting treatment.
+
+ 
+
+(2)
+
+EBITDA in this context is a non-IFRS and non-GAAP financial measure defined as earnings before interest
+and taxes recognized on a cash rather than accounting basis (EBIT), plus depreciation and amortization.
+
+ 
+
+(3)
+
+Unlevered Free Cash Flow refers to EBIT, less tax expenses (assuming 25% tax rate per Recursion management),
+capital expenditures, and changes in net working capital plus depreciation and amortization.
+
+ 
+
+(4)
+
+Forecasted Unlevered Free Cash Flow for the last two quarters of the fiscal year ending December
+31, 2024 was negative $87 million.
+
+  
+
+The following bolded and
+underlined language is added to page 108 of the joint proxy statement in the section with the heading “Interests of Recursion’s
+Directors and Executive Officers in the Transaction.”
+
+ 
+
+Following
+the completion of the Transaction, the current members of the Recursion Board are expected to continue as members of the Recursion Board.
+In addition, pursuant to the Transaction Agreement, Recursion will appoint onetwo members
+of the Exscientia Board to the Recursion Board. Dr. Gibson, Recursion’s current chief executive officer, is expected to continue
+as chief executive officer of Recursion following the completion of the Transaction. Certain non-binding proposals submitted by
+Recursion to Exscientia regarding a potential combination, as described in the section entitled “The Transaction — Background
+of the Transaction” of this joint proxy statement, indicated that Dr. Gibson would continue to serve as Recursion’s chief
+executive officer following a transaction.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The following bolded and
+underlined language is added to page 109 of the joint proxy statement in the section with the heading “Arrangements with Recursion.”
+
+ 
+
+Pursuant to the Transaction Agreement, Exscientia
+may designate onetwo members of the Exscientia Board, subject to approval of the
+Recursion Board in compliance with fiduciary duties under applicable law, to serve as a members
+of the Recursion Board following the consummation of the Transaction. In addition, prior to (or as promptly as practicable following)
+the Effective Time, Recursion will appoint to the Recursion Board one additional individual if mutually agreed upon prior to the Effective
+Time by Exscientia and Recursion and subject to fiduciary duties under applicable law.
+
+ 
+
+The following bolded and
+underlined language is added to page 111 of the joint proxy statement as a new section.
+
+ 
+
+Litigation Related to the Transaction
+
+ 
+
+On October 22,
+2024, a purported stockholder of Recursion filed a complaint in New York state court against Recursion and members of the Recursion Board,
+captioned Elliot v. Recursion Pharmaceuticals, Inc. et al., Case No. 655585/2024 (the “Elliot Complaint”).
+On October 23, 2024, a purported stockholder of Recursion filed a complaint in New York state court against Recursion and members
+of the Recursion Board, captioned Kent v. Recursion Pharmaceuticals, Inc. et al., Case No. 655606/2024 (the “Kent
+Complaint,” and together with the Elliot Complaint, the “Complaints”). The Complaints assert claims against the Recursion
+Board under New York law for negligent misrepresentation and concealment and for negligence with respect to allegedly false and misleading
+statements of facts and omissions of material facts. The Complaints seek, among other relief, to enjoin Recursion from proceeding with
+the Transaction unless and until Recursion cures certain alleged disclosure deficiencies in the joint proxy statement, actual and punitive
+damages, and an award of attorneys’ fees and costs.
+
+ 
+
+Recursion believes
+that these lawsuits are without merit, but there can be no assurance that Recursion will ultimately prevail in these or other lawsuits. Additional
+lawsuits may be filed before the Recursion special meeting, the Exscientia shareholder meetings or the consummation of the Transaction.
+
+ 
+
+The following bolded and
+underlined language is added to page 113 of the joint proxy statement in the section with the heading “Board of Directors of
+Recursion Following Completion of the Transaction.”
+
+ 
+
+Pursuant to the Transaction Agreement, Exscientia
+may designate onetwo members of the Exscientia Board, subject to approval of the
+Recursion Board in compliance with fiduciary duties under applicable law, to serve as a members
+of the Recursion Board following the consummation of the Transaction. In addition, prior to (or as promptly as practicable following)
+the Effective Time, Recursion will appoint to the Recursion Board one additional individual if mutually agreed upon prior to the Effective
+Time by Exscientia and Recursion and subject to fiduciary duties under applicable law.
+
+ 
+
+*          *          *
+
+ 
+
+ 
+
+ 
+
+Additional Information
+and Where to Find It
+
+ 
+
+The Transaction between Recursion and Exscientia
+is the subject of the definitive joint proxy statement filed on October 10, 2024 by Recursion and Exscientia with the SEC, as amended
+by the Supplemental Disclosures (the “Joint Proxy Statement”). The Joint Proxy Statement provides full details of the
+Transaction and the attendant benefits and risks, including the terms and conditions of the Scheme of Arrangement and the other information
+required to be provided to Recursion’s stockholders under the applicable provisions of the United Kingdom Companies Act 2006. This
+communication is not a substitute for the Joint Proxy Statement or any other document that Recursion or Exscientia may file with the SEC
+or send to their respective security holders in connection with the Transaction.
+
+ 
+
+INVESTORS AND SECURITY HOLDERS
+ARE URGED TO READ THE JOINT PROXY STATEMENT (WHICH INCLUDES AN EXPLANATORY STATEMENT IN RESPECT OF THE SCHEME OF ARRANGEMENT AND ANY OTHER
+RELEVANT DOCUMENTS FILED OR THAT MAY BE FILED WITH THE SEC OR SENT TO RECURSION’S STOCKHOLDERS OR EXSCIENTIA’S SHAREHOLDERS,
+AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY IF AND WHEN THEY BECOME AVAILABLE BECAUSE
+THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE TRANSACTION.
+
+ 
+
+No Offer or Solicitation
+
+ 
+
+This communication is not
+intended to and shall not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any securities, or a solicitation
+of any vote or approval, nor shall there be any offer, solicitation or sale of securities in any jurisdiction in which such offer, solicitation
+or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offer of securities
+shall be made in the United States absent registration under the U.S. Securities Act of 1933, as amended (Securities Act), or pursuant
+to an exemption from, or in a transaction not subject to, such registration requirements. Recursion securities issued in the Transaction
+are anticipated to be issued in reliance upon an available exemption from such registration requirements pursuant to Section 3(a)(10) of
+the Securities Act.
+
+ 
+
+Forward Looking Statements
+
+ 
+
+Statements contained herein
+which are not historical facts may be considered forward-looking statements under federal securities laws and may be identified by words
+such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,”
+“potential,” “predicts,” “projects,” “seeks,” “should,” “will,”
+or words of similar meaning and include, but are not limited to, statements regarding the Transaction by and between Recursion and Exscientia
+and the outlook for Recursion’s or Exscientia’s future business and financial performance. Such forward-looking statements
+are based on the current beliefs of Recursion’s and Exscientia’s respective management as well as assumptions made by and
+information currently available to them, which are subject to inherent uncertainties, risks and changes in circumstances that are difficult
+to predict. Actual outcomes and results may vary materially from these forward-looking statements based on a variety of risks and uncertainties
+including: the occurrence of any event, change or other circumstances that could give rise to the termination of the Transaction Agreement;
+the inability to obtain Recursion’s stockholder approval or Exscientia’s shareholder approval or the failure to satisfy other
+conditions to completion of the Transaction, including obtaining the sanction of the High Court of Justice of England and Wales to the
+Scheme of Arrangement, on a timely basis or at all, and the receipt of required regulatory approvals; risks that the Transaction disrupts
+each company’s current plans and operations; the diversion of the attention of the respective management teams of Recursion and
+Exscientia from their respective ongoing business operations; the ability of either Recursion, Exscientia or the combined company to retain
+key personnel; the ability to realize the benefits of the proposed combination, including cost synergies; the ability to successfully
+integrate Exscientia's business with Recursion’s business, at all or in a timely manner; the outcome of any legal proceedings that
+may be instituted against Recursion, Exscientia or others following announcement of the proposed combination; the amount of the costs,
+fees, expenses and charges related to the proposed combination; the effect of economic, market or business conditions, including competition,
+regulatory approvals and commercializing drug candidates, or changes in such conditions, have on Recursion’s, Exscientia’s
+and the combined company’s operations, revenue, cash flow, operating expenses, employee hiring and retention, relationships with
+business partners, the development or launch of technology enabled drug discovery, and commercializing drug candidates; the risks of conducting
+Recursion’s and Exscientia’s business internationally; the impact of changes in interest rates by the Federal Reserve and
+other central banks; the impact of potential inflation, volatility in foreign currency exchange rates and supply chain disruptions; the
+ability to maintain technology-enabled drug discovery in the biopharma industry; and risks relating to the market value of Recursion’s
+common stock to be issued in the Transaction.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Other important factors and
+information are contained in the Joint Proxy Statement, including the risks summarized in the section entitled “Risk Factors”
+thereof, and Recursion’s other periodic filings with the SEC, which can be accessed at https://ir.recursion.com or www.sec.gov.
+All forward-looking statements are qualified by these cautionary statements and apply only as of the date they are made. Recursion does
+not undertake any obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+Exhibit 
+
+Number
+
+ 
+
+Description
+
+2.1
+
+ 
+
+First Amendment to Transaction Agreement by and between Recursion
+Pharmaceuticals, Inc. and Exscientia plc dated as of November 5, 2024.
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized on November 6,
+2024.
+
+ 
+
+ 
+
+RECURSION PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Michael Secora                      
+
+ 
+
+ 
+
+Michael Secora
+
+ 
+
+ 
+
+Chief Financial Officer

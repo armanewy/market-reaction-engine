@@ -1,0 +1,255 @@
+8-K
+
+false 0001422143 0001422143 2023-06-11 2023-06-11
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 11, 2023
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37620
+
+ 
+
+61-1547851
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+12730 High Bluff Drive, Suite 400, San Diego, CA
+
+ 
+
+92130
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 500-8800
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+KURA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On June 11, 2023, Kura Oncology, Inc. (the “Company”) announced updated clinical data from KOMET-001, a Phase 1/2 clinical trial of the Company’s potent and selective menin inhibitor, ziftomenib, that were presented during a late-breaking oral session at the 2023 European Hematology Association Annual Congress in Frankfurt, Germany.
+
+As of the data cutoff on April 12, 2023, seven of the 20 patients (35%) with nucleophosmin 1- (“NPM1-”) mutant acute myeloid leukemia (“AML”) treated at the recommended Phase 2 dose (“RP2D”) of 600 mg achieved a complete remission (“CR”) with full count recovery. Notably, 33% (2/6) of patients with FLT3 co-mutations and 50% (4/8) of patients with IDH co-mutations achieved a CR on ziftomenib. Two patients underwent a stem cell transplant (“SCT”) and remain in remission as of the data cutoff, including one on post-SCT ziftomenib maintenance therapy. An eighth patient who had a CR with incomplete recovery (“CRi”) at the time of transplant subsequently evolved to a CR and remains on study.
+
+The median duration of response for all NPM1-mutant patients was 8.2 months (95% CI: 1.0 to NE), with a median follow-up of 8.8 months. The median duration of response for patients censored at SCT was 5.6 months (95% CI: 1.0 to NE). As of the cutoff date, three patients treated at 600 mg remain on study and in CR; an additional NPM1-mutant patient treated at 200 mg remained on ziftomenib for 36 cycles.
+
+As part of an ongoing analysis, the resistance mutation MEN1-M3271 has been detected in three patients treated with ziftomenib: in two patients, the mutation was detected at study entry after the patients had progressed on a prior menin inhibitor, and in the third patient, the mutation was detected after four cycles of ziftomenib therapy and, despite the mutation, the patient was maintained in a condition of stable disease through cycle 7. These data show that MEN1 mutations developed in just 3% (1/29) of patients analyzed following treatment with ziftomenib and suggest that resistance mutations are less likely to evolve after prolonged exposure to ziftomenib monotherapy. A key new biochemical finding, confirmed by crystal structure, demonstrates that ziftomenib retains full activity against the MEN1-T349M mutation, detected in two-thirds of patients who acquired menin resistance mutations on another recent menin inhibitor trial.
+
+Continuous daily dosing of ziftomenib was well tolerated and the safety profile remains consistent with features of underlying disease. The on-target effect of differentiation syndrome was manageable, with 15% of patients experiencing Grade 1 or 2 events and 5% experiencing a Grade 3 event.
+
+Enrollment in a Phase 2 registration-directed study of ziftomenib in patients with relapsed/refractory NPM1-mutant AML continues to outperform projections. The study is expected to enroll a total of 85 patients at 62 U.S. and European sites. The Company is also preparing to initiate a series of studies to evaluate ziftomenib in combination with current standards of care in earlier lines of therapy and across multiple patient populations, including NPM1-mutant and KMT2A-rearranged AML. The Company has begun site activation in the first of these studies, KOMET-007, and is on track to dose the first patients this quarter.
+
+On June 12, 2023, the Company will host a virtual investor event and present certain materials related to the Company (the “Presentation”). A copy of the Presentation is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Forward-Looking Statements
+
+Statements contained in this Current Report on Form 8-K regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements, including, but not limited to, statements regarding, among other things, the efficacy, safety and therapeutic potential of ziftomenib, potential benefits of combining ziftomenib with appropriate standards of care, progress and expected timing of the ziftomenib program, and plans regarding future clinical trials.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. Risks that contribute to the uncertain nature of the forward-looking statements include: the risk that compounds that appeared promising in early research or clinical trials do not demonstrate safety and/or efficacy in later preclinical studies or clinical trials, the risk that the Company may not obtain approval to market its product candidates, uncertainties associated with performing clinical trials, regulatory filings, applications and other interactions with regulatory bodies, risks associated with reliance on third parties to successfully conduct clinical trials, the risks associated with reliance on outside financing to meet capital requirements, and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs, as well as those risks and uncertainties set forth more fully under the caption “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2023 filed with the Securities and Exchange Commission (“SEC”) on May 10, 2023, as well as discussions of potential risks, uncertainties and other important factors in the Company’s other filings and reports with the SEC. All forward-looking statements contained in this Current Report on Form 8-K speak only as of the date on which they were made. The Company undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+99.1
+
+  
+
+Presentation Materials of Kura Oncology, Inc.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+Date: June 12, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer

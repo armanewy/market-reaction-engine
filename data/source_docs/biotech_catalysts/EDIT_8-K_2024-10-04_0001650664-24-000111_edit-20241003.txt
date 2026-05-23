@@ -1,0 +1,160 @@
+edit-20241003
+0001650664FALSE00016506642024-10-032024-10-03
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+_________________________________________________________________________________________
+
+FORM 8-K
+
+_________________________________________________________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 3, 2024
+
+_________________________________________________________________________________________
+
+Editas Medicine, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+_________________________________________________________________________________________
+
+Delaware
+
+001-37687
+
+46-4097528
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+11 Hurley Street
+
+Cambridge,
+
+Massachusetts
+
+02141
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617) 401-9000
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________________________________________________________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.0001 par value per share
+
+EDIT
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 1.01    Entry into a Material Definitive Agreement.
+
+On October 3, 2024, Editas Medicine, Inc. (the “Company”) entered into a purchase and sale agreement (the “Purchase and Sale Agreement”) with a wholly-owned subsidiary of DRI Healthcare Trust (the “Purchaser”) providing for an upfront cash payment by the Purchaser to the Company of $57.0 million in exchange for the acquisition by the Purchaser of certain future license fees and other payments (the “Purchased Receivables”) owed to the Company by Vertex Pharmaceuticals Incorporated (“Vertex”) under the terms of a license agreement (the “License Agreement”) between the Company and Vertex dated as of December 12, 2023. Under the License Agreement, the Company granted Vertex a non-exclusive license for the Company’s Cas9 gene-editing technology for ex vivo gene editing medicines targeting the BCL11A gene in the fields of sickle cell disease and transfusion-dependent beta thalassemia, including Vertex’s CASGEVY® (exagamglogene autotemcel).
+
+Under the Purchase and Sale Agreement, the Purchaser is purchasing up to 100% of certain future fixed and sales-based annual license fees owed to the Company under the License Agreement, which fees range from $5.0 million to $40.0 million per year (inclusive of certain sales-based annual license fees that may become due), and a mid-double-digit percentage of a $50.0 million contingent upfront payment that the Company may receive under the License Agreement, in each case after subtracting amounts owing by the Company to its licensors, The Broad Institute, Inc. and the President and Fellows of Harvard College. The Company has retained certain rights to its portions of certain sales-based annual license fees and the contingent upfront payment that may become due under the License Agreement, and the amounts that correspond to its licensor obligations.
+
+The Purchaser has no recourse to the Company’s assets other than the Purchased Receivables and is entitled to payment for the Purchased Receivables only to the extent payments in respect of Purchased Receivables are actually received by the Company from Vertex, subject to customary indemnification provisions for transactions of this type. License payments, as received from Vertex, will be allocated between the Company and the Purchaser based on the amount to which the Purchaser is entitled. The Company has retained its obligations to pay its licensors, The Broad Institute, Inc. and the President and Fellows of Harvard College, certain amounts received from Vertex under the License Agreement, and the Company has also retained its rights to the portions of the Vertex payments that correspond to such obligations.
+
+The Purchase and Sale Agreement contains other terms, conditions and agreements, including representations and warranties, covenants and indemnity provisions customary for transactions of this type. There are no financial covenants. Under specified circumstances and subject to certain conditions, the Company may be liable for liquidated damages or termination fees in the range of one to two times the amount of the upfront cash payment. The Purchase and Sale Agreement will terminate on the date on which Purchaser has received the last payment of Purchased Receivables that may become payable pursuant to the License Agreement.
+
+The Purchase and Sale Agreement contains representations, warranties and other provisions that were made only for purposes of such agreement and as of specific dates, are solely for the benefit of the parties thereto, and may be subject to limitations agreed upon by such parties. The Purchase and Sale Agreement is not intended to provide any other factual information about the Company.
+
+The foregoing summary of the material terms of the Purchase and Sale Agreement is qualified in its entirety by reference to the full text of the Purchase and Sale Agreement, a copy of which will be filed with the Company’s Annual Report on Form 10-K for the fiscal year ending December 31, 2024.
+
+Item 2.03    Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated by reference into this Item 2.03.
+
+Item 7.01    Regulation FD Disclosure.
+
+On October 3, 2024, the Company issued a press release announcing the entry into the Purchase and Sale Agreement, a copy of which press release is attached hereto as Exhibit 99.1.
+
+The information in this Item 7.01 and Exhibit 99.1 attached hereto, is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 9.01    Financial Statements and Exhibits.
+
+(d)Exhibits
+
+Exhibit
+
+No.
+
+Description
+
+99.1
+
+Press release issued by the Company on October 3, 2024*
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+*This exhibit shall be deemed to be furnished and not filed.
+
+This Report contains forward-looking statements addressing the Purchase and Sale Agreement and the transactions contemplated in the Purchase and Sale Agreement and other statements about future expectations, prospects, estimates and other matters that are dependent upon future events or developments. All statements, other than those of historical fact, contained in this Report are forward-looking statements, including statements regarding the Company’s expectations with respect to the Purchase Receivables and the potential payments to the Company by Vertex. Forward-looking statements may be identified by the words “look forward”, “plan,” “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions. The Company’s actual results could differ materially from those expressed or implied by forward-looking statements it makes as a result of a variety of risks and uncertainties, including those related to payments actually received from Vertex pursuant to the License Agreement; and the factors discussed in the “Risk Factors” section of the Company’s most recent Quarterly Report on Form 10-Q and Annual Report on Form 10-K as well as any updates to these risk factors filed from time to time in the Company’s other filings with the Securities and Exchange Commission.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+EDITAS MEDICINE, INC.
+
+Date: October 3, 2024
+
+By:
+
+/s/ Erick Lucera
+
+Erick Lucera
+
+Chief Financial Officer

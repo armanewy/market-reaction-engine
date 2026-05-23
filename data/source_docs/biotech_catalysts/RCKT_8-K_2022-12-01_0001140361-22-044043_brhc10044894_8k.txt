@@ -1,0 +1,312 @@
+false000128189500012818952022-11-302022-11-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 30, 2022
+
+Rocket Pharmaceuticals, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-36829
+
+04-3475813
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+9 Cedarbrook Drive, Cranbury, NJ
+
+ 
+
+08512
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:  (646) 440-9100
+
+Not applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common stock, $0.01 par value
+
+ 
+
+RCKT
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to
+Section 13(a) of the Exchange Act. ☐
+
+INTRODUCTORY NOTE
+
+ 
+
+As previously announced on September 20, 2022, Rocket Pharmaceuticals, Inc., a Delaware corporation (“Rocket” or “Parent”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), dated September 19, 2022, with Renovacor, Inc., a
+Delaware corporation (“Renovacor” or the “Company”), Zebrafish Merger Sub, Inc., a Delaware corporation and a direct wholly owned subsidiary of Parent (“Merger Sub I”), Zebrafish Merger Sub, LLC, a Delaware limited liability company and a direct
+wholly owned subsidiary of Parent (“Merger Sub II” and together with Merger Sub I, the “Merger Subs”). On December 1, 2022, pursuant to the terms of the Merger Agreement, (i) Merger Sub I merged with and into the Company (the “First Merger”) and
+(ii) the Company, as the surviving company of the First Merger, merged with and into Merger Sub II (the “Second Merger” and together with the First Merger, the “Mergers”), with Merger Sub II surviving the Mergers.
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+Subject to the terms and conditions of the Merger Agreement, at the closing of the Mergers, each share of the Company’s common stock, par value $0.0001 per share (“Company Shares”) outstanding immediately prior to the
+effective time of the First Merger (the “First Effective Time”) were canceled and converted into the right to receive 0.1763 (the “Exchange Ratio”) fully paid and non-assessable shares of Parent common stock, $0.01 par value per share (“Parent
+Shares”), which was determined on the basis of an exchange formula set forth in the Merger Agreement that was subject to adjustment depending on the level of the Company’s net cash at the closing (the “Closing”).
+
+In addition, subject to the terms and conditions of the Merger Agreement:
+
+•
+
+At the First Effective time, all Company Shares held by Parent or any Merger Sub immediately prior to the First Effective Time were canceled and retired and ceased to exist, and no consideration was delivered
+in exchange therefor;
+
+•
+
+Immediately prior to the First Effective Time, all Sponsor Earnout Shares (as defined in the Merger Agreement) vested in full and were released to Chardan Investments 2, LLC (formerly known as Chardan
+Investments III, LLC), a Delaware limited liability company (the “Sponsor”), in accordance with the terms of that certain Sponsor Support Agreement, dated as of March 22, 2021, by and among the Company (formerly known as Chardan Healthcare
+Acquisition 2 Corp.), the Sponsor and Renovacor Holdings, Inc. (formerly known as Renovacor, Inc.) (“Renovacor Holdings”) and, at the First Effective Time, were canceled and converted into the right to receive the Per Share Merger
+Consideration (as defined in the Merger Agreement);
+
+•
+
+Immediately prior to the First Effective Time, the Company issued a number of Company Shares comprising the maximum number of SPAC Merger Earnout Shares (as defined in the Merger Agreement) issuable in
+connection with and in accordance with that certain Agreement and Plan of Merger, dated as of March 22, 2021, by and among the Company (formerly known as Chardan Healthcare Acquisition 2 Corp.), CHAQ2 Merger Sub, Inc., a Delaware
+corporation, and Renovacor Holdings to certain persons entitled thereto (other than Company Shares issuable in settlement of outstanding Company Earnout RSUs (as defined in the Merger Agreement)) and, at the First Effective Time, all
+Company Shares issued pursuant to this paragraph were canceled and converted into the right to receive the Per Share Merger Consideration;
+
+•
+
+Immediately prior to the First Effective Time, the Company issued a number of Company Shares comprising the maximum number of SPAC Merger Earnout Shares issuable in settlement of Company Earnout RSUs and, at
+the First Effective Time, the Company Shares issuable pursuant to this paragraph were canceled and converted into the right to receive the Per Share Merger Consideration;
+
+•
+
+At the First Effective Time, each restricted stock unit award that was subject to time vesting (a “Company Time-Vesting RSU”) outstanding immediately prior to the First Effective Time was automatically,
+without any further action on the part of Parent, Merger Sub I, the Company or any holder thereof, vested in full and was canceled and converted into the right to receive a number of Parent Shares, rounded to the nearest whole number, equal
+to the number of Company Shares subject to such Company Time-Vesting RSU multiplied by the Exchange Ratio;
+
+•
+
+At the First Effective Time, each option to purchase Company Shares (a “Company Option”) outstanding immediately prior to the First Effective Time was automatically, without any action on the part of Parent,
+Merger Sub I, the Company or any holder thereof, converted into and thereafter evidenced an option to acquire a number of Parent Shares equal to the product of (A) the number of Company Shares subject to such Company Option as of
+immediately prior to the First Effective Time, multiplied by (B) the Exchange Ratio, rounded down to the nearest whole number of Parent Shares (after such conversion, an “Exchanged Option”), at an exercise price per Parent Share underlying
+such Exchanged Option equal to the quotient obtained by dividing (x) the per share exercise price of Company Options immediately prior to the First Effective Time by (y) the Exchange Ratio, rounded up to the nearest whole cent;
+
+•
+
+At the First Effective Time, each public warrant to purchase Company Shares (a “Company Public Warrant”) outstanding and unexercised immediately prior to the First Effective Time was automatically, without
+any action on the part of Parent, Merger Sub I, the Company or any holder thereof, converted into and thereafter evidenced a warrant to purchase a number of Parent Shares, rounded down to the nearest whole share, equal to the product of (A)
+the number of Company Shares subject to such Company Public Warrant as of immediately prior to the First Effective Time, multiplied by (B) the Exchange Ratio (after such conversion, an “Exchanged Warrant”), at an exercise price per Parent
+Share underlying such Exchanged Warrant equal to the quotient obtained by dividing (x) the per share exercise price applicable to such Company Public Warrant immediately prior to the First Effective Time by (y) the Exchange Ratio, rounded
+up to the nearest whole cent;
+
+•
+
+At the First Effective Time, each private warrant to purchase Company Shares (a “Company Private Warrant”) outstanding and unexercised immediately prior to the First Effective Time was automatically, without
+any action on the part of Parent, Merger Sub I, the Company or any holder thereof, converted into and thereafter evidenced an Exchanged Warrant entitling the holder thereof to purchase a number of Parent Shares, rounded down to the nearest
+whole share, equal to the product of (A) the number of Company Shares subject to such Company Private Warrant as of immediately prior to the First Effective Time, multiplied by (B) the Exchange Ratio, at an exercise price per Parent Share
+underlying such Exchanged Warrant equal to the quotient obtained by dividing (x) the per share exercise price applicable to such Company Private Warrant immediately prior to the First Effective Time by (y) the Exchange Ratio, rounded up to
+the nearest whole cent; and
+
+•
+
+At the First Effective Time, each pre-funded warrant to purchase Company Shares (a “Company Pre-Funded Warrant”) outstanding and unexercised immediately prior to the First Effective Time was automatically,
+without any action on the part of Parent, Merger Sub I, the Company or any holder thereof, converted into and thereafter evidenced an Exchanged Warrant entitling the holder thereof to purchase a number of Parent Shares, rounded down to the
+nearest whole share, equal to the product of (A) the number of Company Shares subject to such Company Pre-Funded Warrant as of immediately prior to the First Effective Time, multiplied by (B) the Exchange Ratio, at an exercise price per
+Parent Share underlying such Exchanged Warrant equal to the quotient obtained by dividing (x) the per share exercise price applicable to such Company Pre-Funded Warrant immediately prior to the First Effective Time by (y) the Exchange
+Ratio, rounded up to the nearest whole cent.
+
+The foregoing description of the Merger Agreement and the Mergers does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Merger Agreement, a copy of which was filed as
+Exhibit 2.1 to the Current Report on Form 8-K Rocket filed with the Securities and Exchange Commission (“SEC”) on September 20, 2022 and is incorporated by reference herein.
+
+Item 5.07
+
+Submission of Matters to a Vote of Security Holders.
+
+ 
+
+On November 30, 2022, Rocket held a virtual special meeting of its stockholders (the “Special Meeting”). Rocket’s stockholders voted on the Rocket share issuance proposal at the Special Meeting, which is described in more detail in the
+definitive joint proxy statement/prospectus filed by Rocket with the U.S. Securities and Exchange Commission on October 31, 2022.
+
+ 
+
+Only holders of record of Parent Shares as of the close of business on October 24, 2022 (the “Record Date”) were entitled to notice of and to vote at the Special Meeting. At the close of business on the Record Date, there were 75,684,423 Parent
+Shares entitled to vote at the Special Meeting. Present at the Special Meeting or by proxy were holders of 59,016,895 Parent Shares, representing 77.97% of the outstanding Parent Shares eligible to vote at the Special Meeting, and constituting a
+quorum. The final results with respect to such proposal are set forth below.
+
+ 
+
+Rocket Share Issuance Proposal. To vote to approve the issuance of Parent Shares to security holders of Renovacor, as contemplated by the Merger Agreement pursuant to Nasdaq Rule 5635(a)(2) (the “Rocket
+Share Issuance Proposal”).
+
+Votes For
+
+ 
+
+Votes Against
+
+ 
+
+Abstentions
+
+58,919,928
+
+ 
+
+45,017
+
+ 
+
+51,950
+
+ 
+
+Stockholder action on a second proposal to vote to approve the adjournment or postponement of the Special Meeting to another time and place to solicit additional proxies, if necessary or appropriate, if there were insufficient votes to approve
+the Rocket Share Issuance Proposal, was not required in light of the adoption of the Rocket Share Issuance Proposal and no vote was taken on that proposal.
+
+Item 8.01
+
+Other Events.
+
+ 
+
+On December 1, 2022, Rocket issued a press release announcing the consummation of the Mergers. A copy of the press release is attached as Exhibit 99.1 hereto and is hereby incorporated into this report by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit
+
+No.
+
+Description
+
+ 
+
+ 
+
+2.1*
+
+Agreement and Plan of Merger, dated September 19, 2022, by and among Parent, the Company, Merger Sub I and Merger Sub II (incorporated herein by reference to Exhibit 2.1 to Rocket Pharmaceuticals, Inc.’s Current Report on Form 8-K filed
+with the SEC on September 20, 2022).
+
+ 
+
+ 
+
+99.1
+
+Press Release of Parent, dated December 1, 2022.
+
+ 
+
+ 
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+*
+
+Schedules and exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished to the SEC upon request.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Date: December 1, 2022
+
+ 
+
+ 
+
+Rocket Pharmaceuticals, Inc.
+
+ 
+
+By:
+
+/s/ Gaurav Shah
+
+ 
+
+Name:
+
+Gaurav Shah, MD
+
+ 
+
+Title:
+
+Chief Executive Officer and Director

@@ -1,0 +1,6546 @@
+EX-99.3
+5
+exhibit993-exaiyefinancials.htm
+EX-99.3
+
+Document
+
+Exhibit 99.3
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Page
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 876)    
+
+F-2
+
+Consolidated Statement of Loss and Other Comprehensive Loss
+
+F-3
+
+Consolidated Statement of Financial Position
+
+F-4
+
+Consolidated Statement of Changes in Equity
+
+F-6
+
+Consolidated Statement of Cash Flows
+
+F-8
+
+Notes to the Financial Statements
+
+F-10
+
+F-1
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of Exscientia Plc
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated statement of financial position of Exscientia Plc and its subsidiaries (the “Company”) as of December 31, 2023 and 2022, and the related consolidated statements of loss and other comprehensive (loss)/income, of changes in equity and of cash flows for each of the three years in the period ended December 31, 2023, including the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2023 and 2022, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2023 in conformity with IFRS Accounting Standards as issued by the International Accounting Standards Board.
+
+Basis for Opinion
+
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits of these consolidated financial statements in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+/s/ PricewaterhouseCoopers LLP
+Reading, U.K.
+March 21, 2024
+
+We have served as the Company's auditor since 2019
+
+F-2
+
+Consolidated Statement of Loss and Other Comprehensive (Loss)/Income for the years ended 31 December, 2023, 2022 and 2021
+
+December 31,
+
+December 31,
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+Note
+
+£’000
+
+£’000
+
+£’000
+
+Revenue
+
+5
+
+20,079
+
+27,223
+
+27,359
+
+Cost of sales
+
+(27,403)
+
+(33,297)
+
+(17,112)
+
+Gross (loss)/profit
+
+(7,324)
+
+(6,074)
+
+10,247
+
+Research and development expenses
+
+(128,444)
+
+(128,865)
+
+(44,047)
+
+General administrative expenses
+
+(45,331)
+
+(38,416)
+
+(25,783)
+
+Foreign exchange (losses)/gains
+
+(1,541)
+
+33,609
+
+938
+
+Loss on forward contracts
+
+27
+
+—
+
+(11,287)
+
+—
+
+Other income
+
+6
+
+6,636
+
+5,742
+
+3,749
+
+Operating loss
+
+7
+
+(176,004)
+
+(145,291)
+
+(54,896)
+
+Finance income
+
+8
+
+16,628
+
+5,681
+
+26
+
+Finance expenses
+
+9
+
+(1,067)
+
+(334)
+
+(169)
+
+Share of loss of joint venture
+
+16
+
+(1,645)
+
+(691)
+
+(1,152)
+
+Loss before taxation
+
+(162,088)
+
+(140,635)
+
+(56,191)
+
+Income tax benefit
+
+12
+
+16,125
+
+21,907
+
+6,960
+
+Loss for the year
+
+(145,963)
+
+(118,728)
+
+(49,231)
+
+Other comprehensive (loss)/income:
+
+Items that may be reclassified to profit or loss
+
+Foreign currency (loss)/gain on translation of foreign operations
+
+(1,332)
+
+2,476
+
+(549)
+
+Items that will not be reclassified to profit or loss
+
+Change in fair value of financial assets at fair value through OCI
+
+—
+
+—
+
+(109)
+
+Total other comprehensive (loss)/income for the year, net of tax
+
+(1,332)
+
+2,476
+
+(658)
+
+Total comprehensive loss for the year
+
+(147,295)
+
+(116,252)
+
+(49,889)
+
+Basic and diluted loss per share (£)
+
+13
+
+(1.18)
+
+(0.97)
+
+(0.99)
+
+The accompanying accounting policies and notes on pages F10 to F69 form an integral part of these financial statements
+
+F-3
+
+Consolidated Statement of Financial Position as at December 31, 2023 and 2022
+
+December 31, 2023
+
+December 31, 2022
+
+Note
+
+£’000
+
+£’000
+
+ASSETS
+
+Non-current assets
+
+Goodwill
+
+14
+
+    6,186    
+
+    6,321    
+
+Other intangible assets, net
+
+14
+
+    28,459    
+
+    33,602    
+
+Property, plant and equipment, net
+
+15
+
+    48,954    
+
+    37,648    
+
+Investment in joint venture
+
+16
+
+    173    
+
+    —    
+
+Right-of-use assets, net
+
+17
+
+    18,513    
+
+    14,794    
+
+Other receivables
+
+18
+
+    663    
+
+    100    
+
+Investments in equity instruments
+
+27
+
+    2,145    
+
+    2,145    
+
+Deferred tax asset, net
+
+23
+
+    690    
+
+    1,008    
+
+Total non-current assets
+
+    105,783    
+
+    95,618    
+
+Current assets
+
+Trade receivables
+
+    3,372    
+
+    523    
+
+Other receivables and contract assets
+
+18
+
+    15,351    
+
+    14,618    
+
+Current tax assets
+
+    23,166    
+
+    33,023    
+
+Inventories
+
+19
+
+    —    
+
+    50    
+
+Short term bank deposits
+
+27
+
+    103,586    
+
+    101,234    
+
+Cash and cash equivalents
+
+20
+
+    259,463    
+
+    404,577    
+
+Total current assets
+
+    404,938    
+
+    554,025    
+
+Total assets
+
+    510,721    
+
+    649,643    
+
+EQUITY AND LIABILITIES
+
+Capital and reserves
+
+Share capital
+
+21
+
+    63    
+
+    61    
+
+Share premium
+
+22
+
+    364,639    
+
+    364,603    
+
+Capital redemption reserve
+
+22
+
+    3    
+
+    3    
+
+Foreign exchange reserve
+
+22
+
+    492    
+
+    1,824    
+
+Share-based payment reserve
+
+22
+
+    46,984    
+
+    35,267    
+
+Fair value reserve
+
+22
+
+    (199)
+
+    (199)
+
+Merger reserve
+
+22
+
+    54,213    
+
+    54,213    
+
+(Accumulated losses)/retained earnings
+
+22
+
+    (110,469)
+
+    23,106    
+
+Total equity attributable to owners of the parent
+
+    355,726    
+
+    478,878    
+
+The accompanying accounting policies and notes on pages F10 to F69 form an integral part of these financial statements
+
+F-4
+
+Consolidated Statement of Financial Position as at December 31, 2023 and 2022 (continued)
+
+December 31, 2023
+
+December 31, 2022
+
+Note
+
+£’000
+
+£’000
+
+LIABILITIES
+
+Non-current liabilities
+
+Loans
+
+27
+
+    306    
+
+    313    
+
+Lease liabilities
+
+17
+
+    16,221    
+
+    10,942    
+
+Deferred tax liability, net
+
+23
+
+    5,774    
+
+    7,072    
+
+Contract liabilities and other advances
+
+24
+
+    65,466    
+
+    59,170    
+
+Provisions
+
+25
+
+    2,157    
+
+    1,243    
+
+Other payables
+
+26
+
+    —    
+
+    377    
+
+Total non-current liabilities
+
+    89,924    
+
+    79,117    
+
+Current liabilities
+
+Trade payables
+
+    11,336    
+
+    30,740    
+
+Lease liabilities
+
+17
+
+    2,396    
+
+    2,641    
+
+Contract liabilities and other advances
+
+24
+
+    27,006    
+
+    38,812    
+
+Other payables
+
+26
+
+    24,333    
+
+    19,455    
+
+Total current liabilities
+
+    65,071    
+
+    91,648    
+
+Total liabilities
+
+    154,995    
+
+    170,765    
+
+Total equity and liabilities
+
+    510,721    
+
+    649,643    
+
+The accompanying accounting policies and notes on pages F10 to F69 form an integral part of these financial statements
+
+F-5
+
+Consolidated Statement of Changes in Equity for the years ended 31 December, 2023, 2022 and 2021
+
+Share
+
+Capital
+
+Share
+
+Premium
+
+Deferred Shares
+
+Foreign Exchange Reserve
+
+Share-based Payment Reserve
+
+Fair Value Reserve
+
+Merger Reserve
+
+(Accumulated Losses)/Retained Earnings
+
+Total
+
+Equity
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+As at January 1, 2021
+
+—    
+
+89,099    
+
+—    
+
+(111)
+
+3,589    
+
+—    
+
+—    
+
+(34,054)
+
+58,523    
+
+Loss for the year
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+(49,231)
+
+(49,231)
+
+Foreign exchange loss on translation of subsidiaries
+
+—    
+
+—    
+
+—    
+
+(548)
+
+(1)
+
+—    
+
+—    
+
+    —    
+
+(549)
+
+Change in fair value of financial assets through OCI
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+(109)
+
+—    
+
+    —    
+
+(109)
+
+Total comprehensive loss for the year
+
+—    
+
+—    
+
+—    
+
+(548)
+
+(1)
+
+(109)
+
+—    
+
+(49,231)
+
+(49,889)
+
+Share-based payment charge
+
+—    
+
+—    
+
+—    
+
+—    
+
+10,466    
+
+—    
+
+—    
+
+    —    
+
+10,466    
+
+Share issued on acquisition of subsidiary
+
+1    
+
+13,886    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+    —    
+
+13,887    
+
+Issue of share capital
+
+12    
+
+533,804    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+    —    
+
+533,816    
+
+Transfer of gain on disposal of equity instruments at fair value through OCI to retained earnings
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+(90)
+
+—    
+
+    90    
+
+—    
+
+Exercise of share options
+
+—    
+
+14    
+
+—    
+
+—    
+
+(1,124)
+
+—    
+
+—    
+
+1,120    
+
+10    
+
+Share for share exchange
+
+630    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+217,381    
+
+    —    
+
+218,011    
+
+Bonus issue
+
+217,381    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+(217,381)
+
+    —    
+
+—    
+
+Share capital reduction
+
+(217,381)
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+217,381    
+
+—    
+
+Nominal value reduction
+
+(580)
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+    580    
+
+—    
+
+Reorganisation elimination entry
+
+—    
+
+(272,224)
+
+—    
+
+—    
+
+—    
+
+—    
+
+54,213    
+
+    —    
+
+(218,011)
+
+Share split
+
+(3)
+
+—    
+
+3    
+
+—    
+
+—    
+
+—    
+
+—    
+
+    —    
+
+—    
+
+As at December 31, 2021
+
+60    
+
+364,579    
+
+3    
+
+(659)
+
+12,930    
+
+(199)
+
+54,213    
+
+135,886    
+
+566,813    
+
+The accompanying accounting policies and notes on pages F10 to F69 form an integral part of these financial statements
+
+F-6
+
+Table of Contents
+
+Consolidated Statement of Changes in Equity for the years ended 31 December, 2023, 2022 and 2021 (continued)
+
+Share
+
+Capital
+
+Share
+
+Premium
+
+Deferred Shares
+
+Capital Redemption Reserve
+
+Foreign
+
+Exchange
+
+Reserve
+
+Share-based Payment Reserve
+
+Fair Value Reserve
+
+Merger Reserve
+
+(Accumulated Losses)/Retained Earnings
+
+Total
+
+Equity
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+As at January 1, 2022
+
+60    
+
+364,579    
+
+3    
+
+    —    
+
+(659)
+
+12,930    
+
+(199)
+
+54,213    
+
+135,886    
+
+566,813    
+
+Loss for the year
+
+—    
+
+—    
+
+—    
+
+    —    
+
+—    
+
+—    
+
+—    
+
+—    
+
+(118,728)
+
+(118,728)
+
+Foreign exchange gain/(loss) on translation of subsidiaries
+
+—    
+
+—    
+
+—    
+
+    —    
+
+2,483    
+
+(7)
+
+—    
+
+—    
+
+—    
+
+2,476    
+
+Change in fair value of financial assets through OCI
+
+—    
+
+—    
+
+—    
+
+    —    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+Total comprehensive loss for the year
+
+—    
+
+—    
+
+—    
+
+    —    
+
+2,483    
+
+(7)
+
+—    
+
+—    
+
+(118,728)
+
+(116,252)
+
+Share-based payment charge
+
+—    
+
+—    
+
+—    
+
+    —    
+
+—    
+
+30,576    
+
+—    
+
+—    
+
+—    
+
+30,576    
+
+Exercise of share options
+
+1    
+
+24    
+
+—    
+
+    —    
+
+—    
+
+(8,232)
+
+—    
+
+—    
+
+5,948    
+
+(2,259)
+
+Cancellation of deferred shares
+
+—    
+
+—    
+
+(3)
+
+    3    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+—    
+
+As at December 31, 2022
+
+61    
+
+364,603    
+
+—    
+
+    3    
+
+1,824    
+
+35,267    
+
+(199)
+
+54,213    
+
+23,106    
+
+478,878    
+
+Loss for the year
+
+—    
+
+—    
+
+—    
+
+    —    
+
+—    
+
+—    
+
+—    
+
+—    
+
+(145,963)
+
+(145,963)
+
+Foreign exchange loss on translation of subsidiaries
+
+—    
+
+—    
+
+—    
+
+    —    
+
+(1,332)
+
+—    
+
+—    
+
+—    
+
+—    
+
+(1,332)
+
+Total comprehensive loss for the year
+
+—    
+
+—    
+
+—    
+
+    —    
+
+(1,332)
+
+—    
+
+—    
+
+—    
+
+(145,963)
+
+(147,295)
+
+Share-based payment charge
+
+—    
+
+—    
+
+—    
+
+    —    
+
+—    
+
+24,350    
+
+—    
+
+—    
+
+—    
+
+24,350    
+
+Exercise of share options
+
+2    
+
+36    
+
+—    
+
+    —    
+
+—    
+
+(12,633)
+
+—    
+
+—    
+
+12,388    
+
+(207)
+
+As at December 31, 2023
+
+63    
+
+364,639    
+
+—    
+
+    3    
+
+492    
+
+46,984    
+
+(199)
+
+54,213    
+
+(110,469)
+
+355,726    
+
+The accompanying accounting policies and notes on pages F10 to F69 form an integral part of these financial statements
+
+F-7
+
+Consolidated Statement of Cash Flows for the years ended 31 December, 2023, 2022 and 2021
+
+December 31, 2023
+
+December 31, 2022
+
+December 31, 2021
+
+Note
+
+£’000
+
+£’000
+
+£’000
+
+Cash flows from operating activities
+
+Loss before tax
+
+(162,088)
+
+(140,635)
+
+(56,191)
+
+Adjustments to reconcile loss before tax to net cash flows from operating activities:
+
+Depreciation of right-of-use assets
+
+17
+
+    3,567    
+
+    1,747    
+
+    848    
+
+Depreciation of property, plant and equipment
+
+15
+
+    7,330    
+
+    3,092    
+
+    1,432    
+
+Amortisation of intangible assets
+
+14
+
+    4,671    
+
+    4,645    
+
+    1,903    
+
+Impairment of plant and equipment
+
+15
+
+    1,307    
+
+    —    
+
+    —    
+
+Onerous lease expense
+
+25
+
+    807    
+
+    —    
+
+    —    
+
+Revenue settled with non-cash consideration
+
+5
+
+    —    
+
+    —    
+
+    (3,349)
+
+Loss recognised from joint venture
+
+16
+
+    1,645    
+
+    691    
+
+    1,152    
+
+Finance income
+
+8
+
+    (16,628)
+
+    (5,681)
+
+    (26)
+
+Finance expenses
+
+9
+
+    1,067    
+
+    334    
+
+    169    
+
+R&D expenditure tax credits
+
+6
+
+    (5,387)
+
+    (3,923)
+
+    (1,653)
+
+Share-based payment charge
+
+30
+
+    24,350    
+
+    30,576    
+
+    10,466    
+
+Foreign exchange loss/(gain)
+
+    1,550    
+
+    (29,556)
+
+    (63)
+
+Changes in working capital:
+
+(Increase)/decrease in trade receivables
+
+    (5,347)
+
+    666    
+
+    (574)
+
+Increase in other receivables and contract assets
+
+    (1,631)
+
+    (7,558)
+
+    (3,571)
+
+(Decrease)/increase in contract liabilities and other advances
+
+    (5,510)
+
+    51,662    
+
+    35,715    
+
+(Decrease)/increase in trade payables
+
+    (14,341)
+
+    17,287    
+
+    2,705    
+
+Increase in other payables
+
+    5,732    
+
+    8,984    
+
+    4,202    
+
+Decrease/(increase) in inventories
+
+    50    
+
+    309    
+
+    (184)
+
+Interest received
+
+    8,175    
+
+    3,702    
+
+    26    
+
+Interest paid
+
+    (15)
+
+    (29)
+
+    (19)
+
+R&D expenditure tax credits received
+
+    3,912    
+
+    —    
+
+    —    
+
+Income taxes received
+
+    29,317    
+
+    3,172    
+
+    309    
+
+Income taxes paid
+
+    (135)
+
+    —    
+
+    —    
+
+Net cash flows used in operating activities
+
+(117,602)
+
+(60,515)
+
+    (6,703)
+
+Cash flows from investing activities
+
+Payment for acquisition of subsidiary, net of cash acquired
+
+    —    
+
+    —    
+
+    (18,036)
+
+Purchase of property, plant and equipment
+
+(26,458)
+
+(22,386)
+
+    (5,646)
+
+Purchase of intangible assets
+
+14
+
+    (200)
+
+    (53)
+
+    (1,460)
+
+Additional investment in joint venture
+
+16, 29
+
+    (1,827)
+
+    (242)
+
+    (1,424)
+
+Redemption of short term deposits
+
+27
+
+    257,834    
+
+    —    
+
+    —    
+
+Cash invested in short term bank deposits
+
+27
+
+    (250,860)
+
+    (100,000)
+
+    —    
+
+Net cash flows used in investing activities
+
+(21,511)
+
+(122,681)
+
+(26,566)
+
+The accompanying accounting policies and notes on pages F10 to F69 form an integral part of these financial statements
+
+F-8
+
+Consolidated Statement of Cash Flows
+for the years ended December 31, 2023, 2022 and 2021 (continued)
+
+December 31, 2023
+
+December 31, 2022
+
+December 31, 2021
+
+Note
+
+£’000
+
+£’000
+
+£’000
+
+Cash flows from financing activities
+
+Proceeds from issue of share capital, net of transactions costs
+
+    38    
+
+    24    
+
+    183,136    
+
+Proceeds from issue of share capital relating to the Company's IPO and concurrent private placements, net of transaction costs
+
+    —    
+
+    —    
+
+    350,694    
+
+Cash paid on settlement of share based payments
+
+30
+
+    (243)
+
+    (2,282)
+
+    —    
+
+Payments of obligations under lease liabilities
+
+27
+
+    (3,194)
+
+    (1,740)
+
+    (881)
+
+Net cash flows used in financing activities
+
+    (3,399)
+
+    (3,998)
+
+    532,949    
+
+Net (decrease)/increase in cash and cash equivalents
+
+(142,512)
+
+(187,194)
+
+    499,680    
+
+Exchange (loss)/gain on cash and cash equivalents
+
+    (2,602)
+
+    29,598    
+
+    (91)
+
+Cash and cash equivalents at the beginning of the year
+
+    404,577    
+
+    562,173    
+
+    62,584    
+
+Cash and cash equivalents at the end of the year
+
+20
+
+    259,463    
+
+    404,577    
+
+    562,173    
+
+Supplemental disclosure of total cashflow information
+
+Net (decrease)/increase in cash and cash equivalents
+
+(142,512)
+
+(187,194)
+
+    499,680    
+
+Net increase in short term bank deposits
+
+    2,352    
+
+    101,234    
+
+    —    
+
+Exchange (loss)/gain on cash and cash equivalents
+
+    (2,602)
+
+    29,598    
+
+    (91)
+
+Net (decrease)/increase in cash, cash equivalents and short term bank deposits including foreign exchange gains/(losses) on cash and cash equivalents
+
+(142,762)
+
+(56,362)
+
+    499,589    
+
+Supplemental disclosure of operating Inflow Information
+
+Cash flow from collaborations
+
+    22,167    
+
+    91,868    
+
+    61,590    
+
+Amounts invoiced during the period
+
+(27,737)
+
+(87,328)
+
+(62,333)
+
+Foreign exchange losses/(gains) on trade receivables
+
+    223    
+
+    (3,874)
+
+    169    
+
+(Increase)/decrease in trade receivables
+
+    (5,347)
+
+    666    
+
+    (574)
+
+Non-cash movement in trade receivables
+
+    2,498    
+
+    —    
+
+    —    
+
+Supplemental non-cash investing information
+
+Capital expenditures recorded within trade payables
+
+    (5,063)
+
+    7,163    
+
+    (232)
+
+Capital expenditures recorded within other payables
+
+    (1,335)
+
+    2,428    
+
+    (230)
+
+The accompanying accounting policies and notes on pages F10 to F69 form an integral part of these financial statements
+
+F-9
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended December 31, 2023, 2022 and 2021
+
+1.General Information
+
+These financial statements reflect the financial performance for the years ended December 31, 2023, 2022 and 2021 and the financial position as at December 31, 2023 and 2022 of Exscientia plc (the “Company”) and its subsidiaries (collectively the “Group” or “Exscientia”).
+
+Exscientia plc is a public company incorporated in England and Wales and has the following wholly owned subsidiaries: Exscientia (U.K.) Holdings Limited, Exscientia AI Limited, Exscientia Inc., Exscientia Ventures I, Inc., Exscientia Ventures II, Inc., Exscientia KK, Kinetic Discovery Limited and Exscientia GmbH as well as two 50% owned joint ventures, RE Ventures I, LLC (“RE Ventures”) and RE Ventures II, LLC. The Group is in the process of liquidating Exscientia KK as at the date of authorisation of these consolidated financial statements.
+
+The principal activity of the Group is that of the application of artificial intelligence (“AI”) and machine learning (“ML”) to the discovery and design of novel therapeutic compounds. Exscientia’s technology platform combines the best of human and computational capabilities to accelerate the process of designing novel, safe and efficacious compounds for clinical testing in humans.
+
+2.Material Accounting Policies
+
+a)     Statement of Compliance
+
+The consolidated financial statements as of December 31, 2023 and 2022 and for the years ended December 31, 2023, 2022 and 2021 have been prepared in accordance with IFRS Accounting Standards issued by the International Accounting Standards Board (“IASB”).
+
+The preparation of financial statements in compliance with IFRS requires the use of certain critical accounting estimates. It also requires management to exercise judgement in applying the Group's accounting policies (see note 3).
+
+b)    Basis of Preparation
+
+The accounting policies adopted in the preparation of these financial statements are set out below. These policies have been consistently applied to all the financial years presented, unless otherwise stated. The financial statements have been prepared on the historical cost basis, with the exception of certain financial instruments and assets and liabilities acquired in a business combination which are measured at fair value.
+
+The financial statements have been presented in Pounds Sterling (“Sterling”). This is the functional currency of the Company, being the currency of the primary economic environment in which the Company operates, and the presentational currency of the group. All values are rounded to the nearest thousand pound ('£’000’) except where otherwise indicated.
+
+F-10
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+These consolidated financial statements were authorised by the Board of Directors on March 14, 2024.
+
+c)    Basis of Consolidation
+
+The Group financial statements consolidate the financial statements of Exscientia plc and all its subsidiary undertakings made up to December 31, 2023. Subsidiaries are those entities over which the Company exercises control. The group controls an entity where the group is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect those returns through its power to direct the activities of the entity.
+
+The results of subsidiaries acquired or sold are consolidated for the periods from or to the date on which control passed. Acquisitions are accounted for under the acquisition method with goodwill representing any excess of the fair value of the consideration given over the fair value of the identifiable assets and liabilities acquired.
+
+d)    Going Concern
+
+As at December 31, 2023, the Group’s cash, cash equivalents and short-term bank deposits amounted to £363,049,000 with total unrestricted cash and short term bank deposits amounting to £361,154,000. The Group has incurred significant research and development expenses from the start of the Group’s activities, with net cash outflows from operating activities amounted to £117,602,000 for the financial year ended December 31, 2023 (2022 £60,515,000).
+
+Based upon the year-end cash, cash equivalents and short-term bank deposits and forecast future cashflows for the years ending 31 December 2024 and 2025 respectively, the Board of Directors believes that the Group has sufficient financial resources to cover its planned cash outflows for the foreseeable future, being a period of at least twelve months from the date of issuance of these financial statements.
+
+As the Group has concluded that there is no substantial doubt about its ability to continue as a going concern within one year of the issuance of these financial statements, the Group has prepared these financial statements under the going concern assumption.
+
+e)    Application of New and Revised IFRS Accounting Standards
+
+In the year ended December 31, 2023, the Group has applied the below amendments to IFRS and interpretations issued by the Board that are effective for the annual period that begins on or after January 1, 2023.
+
+F-11
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Disclosure of Accounting Policies (Amendments to IAS 1 and IFRS Practice Statement 2)
+
+The amendments require that an entity discloses its material accounting policies, instead of its significant accounting policies. Further amendments explain how an entity can identify a material accounting policy.
+
+Definition of Accounting Estimates (Amendments to IAS 8)
+
+The amendments replace the definition of a change in accounting estimates with a definition of accounting estimates. Under the new definition, accounting estimates are “monetary amounts in financial statements that are subject to measurement uncertainty”.
+
+Deferred Tax related to Assets and Liabilities arising from a Single Transaction (Amendments to IAS 12)
+
+These amendments require companies to recognise deferred tax on transactions that, on initial recognition, give rise to equal amounts of taxable and deductible temporary differences.
+
+The adoption of these new accounting pronouncements has not had a significant impact on the accounting policies, methods of computation or presentation applied by the Group except for the adoption of the amendments to IAS 12 Income Taxes. The amendment to IAS 12 Income Taxes was published in May 2021 and became effective for the Group from January 1, 2023. The amendment narrowed the scope of the deferred tax recognition exemption, so that it no longer applies to transactions that, on initial recognition, give rise to equal taxable and deductible temporary differences.
+
+The Group has considered the impact of this amendment, most notably in relation to the accounting for deferred taxes on leases. There was no material impact to retained earnings as at both January 1, 2022 and December 31, 2022 as a result of transitioning to the revised standard. See note 23 for details of the impact on the Group's recognised deferred tax assets and liabilities as at December 31, 2022.
+
+f)    Standards, Amendments and Interpretations in Issue But Not Yet Effective:
+
+The adoption of the following mentioned standards, amendments and interpretations in future years are not expected to have a material impact on the Group’s financial statements:
+
+Effective Date
+
+Periods Beginning On or After
+
+Amendment to IFRS 16 - Leases on sale and leaseback
+
+January 1, 2024
+
+Classification of Liabilities as Current or Non-Current (Amendments to IAS 1)
+
+January 1, 2024
+
+g)    Revenue from Contracts with Customers
+
+The Group’s primary revenue is generated broadly from two streams that relate to its principal activities:
+
+•Licensing fees: We receive licensing fees from partnered programmes where we develop intellectual property on behalf of a collaboration partner. These agreements either assign all of the designated
+
+F-12
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+intellectual property to the partner from inception or grant an exclusive option to the partner to acquire rights to the future development and commercialisation of the intellectual property. As part of these agreements, we may receive future milestone and royalty payments upon achievement of clinical, regulatory and commercial milestones; and
+
+•Service fees: We generate service fees from drug discovery collaboration agreements where we are utilising our proprietary technology to develop novel intellectual property on behalf of the collaboration partner, but do not have any rights to future milestones and royalties as a direct result of the agreement. Until March 2023, we also generated service revenues through our Exscientia GmbH entity related to collaboration agreements that existed with Exscientia GmbH at the time of our acquisition.
+
+The Group receives four types of payments included within the two streams of revenue:
+
+•“Upfront payments” are generally payable on execution of the collaboration agreement or on initiation of a project;
+
+•“Research funding” (including term extension payments), which is generally payable throughout the collaboration at defined intervals as set out in the agreement (e.g., quarterly or at the beginning of a specific phase of work) and is intended to fund research (internal and external) which is undertaken to develop the collaboration drug compound that is the subject of the collaboration;
+
+•“Milestone payments” are linked to the achievement of an event, as defined in the collaboration agreement e.g. initiation of Phase 1 clinical trial milestones and constitute variable consideration in accordance with IFRS15; and
+
+•“Opt-in payments” are similar in principal to milestone payments, however, are payable when the partner exercises its option to take ownership of the designated intellectual property. These payments only exist where the Group initially retained ownership of the designed intellectual property.
+
+Under these collaboration agreements the Group may also receive commercialisation milestones upon the first commercial sale of a product, if and when approved, the amount of which is based on the territory the sale occurs in, and royalties based on worldwide net sales. These amounts have not been included within the transaction price for any contract as of December 31, 2023, 2022 or 2021. We have only recognised revenue in respect of non-cancellable, non-refundable payments and achieved milestones due under executed collaboration contracts. Any payments which relate to future milestones or options under the control of our collaboration partners have not been recognised.
+
+In accordance with IFRS 15, the Group recognizes revenue when its customer obtains control of promised goods or services, in an amount that reflects the consideration which the Group expects to receive in exchange for those goods or services. To determine revenue recognition for arrangements that the Group determines are within the scope of IFRS 15, the Group performs the following five steps: (i) identify the contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when or as the Group satisfies a performance obligation.
+
+At contract inception, the Group assesses the goods or services promised within each contract that falls
+
+F-13
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+under the scope of IFRS 15 to identify distinct performance obligations. The Group then recognizes as revenue the amount of the transaction price that is allocated to the respective performance obligation when or as the performance obligation is satisfied. Revenue is measured at the contract price excluding value added tax and other sales taxes.
+
+The Group includes the unconstrained amount of estimated variable consideration in the transaction price, such that only amounts for which it is highly probable that a significant reversal of cumulative revenue recognised will not occur are included. At contract inception, unconstrained revenue will typically include the upfront payments and in some instances, research funding.
+
+At the inception of each arrangement that includes research, development, or regulatory milestone payments, the Group evaluates whether the milestones (i) relate to the one or more distinct performance obligations under the agreement; and (ii) are considered highly probable of being reached and estimate the amount to be included in the transaction price using the most likely amount method. If it is highly probable that a significant revenue reversal would not occur, the associated milestone value is included in the transaction price. Milestone payments that are not within our control or that of the licensee, such as regulatory approvals, are not considered highly probable of being achieved until those approvals are received.
+
+At the end of each subsequent reporting period, the Group re-evaluates the estimated variable consideration included in the transaction price and any related constraint and, if necessary, adjusts its estimate of the overall transaction price. Any such adjustments are recorded on a cumulative catch-up basis, which may affect license, fees, and other revenues and earnings in the period of adjustment.
+
+The transaction price is then allocated to each performance obligation on a relative stand-alone selling price basis, for which the Group recognizes revenue as or when the performance obligations under the contract are satisfied.
+
+When determining whether performance obligations have been satisfied, progress is measured using an input method utilising either total or external costs or labour hours incurred depending on the nature of the collaboration arrangement to establish and estimate the progress of completion. Management has determined the input method represents a faithful depiction of the Group’s progress towards completion of performance obligations because the time and costs incurred depict the progress of development of the underlying IP which may be transferred to the customer. At the end of each reporting period, the Group re-evaluates costs/hours incurred compared with total expected costs/hours to recognize revenue for each performance obligation. In certain instances expected total cost estimates include estimated costs relating to the substitution of targets where allowed in accordance with a specific collaboration agreement.
+
+F-14
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+For obligations recognised over time the Group recognizes revenue only equal to a percentage of costs incurred until such time that it can reasonably estimate the total expected costs/hours to be incurred in delivering the performance obligation. For obligations in which revenue is recognised at a point in time, that point in time is the date at which the title of the service or IP is transferred to the customer.
+
+Contract liabilities consists of billings or payments received in advance of revenue recognition. Contract assets consists of revenue recognised in advance of billings or payments.
+
+h)    Grants
+
+Grants compensating the Group for research activities undertaken and are recognised in profit or loss as other income on a systematic basis in the periods in which the expenses are recognised, unless the conditions for receiving the grant are met after the related expenses have been recognised. In this case, the grant is recognised when it becomes receivable.
+
+i)    Foreign Currencies
+
+At each period-end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss.
+
+On consolidation, the results of overseas operations are translated into pounds sterling at rates approximating to those ruling when the transactions took place. All assets and liabilities of overseas operations are translated at the rate ruling at the reporting date, inclusive of goodwill and any intangible assets which are attributable to those operations. Exchange differences arising on translating overseas operations are recognised in other comprehensive income and accumulated in a separate reserve within equity. The cumulative amount is reclassified to profit or loss when the net investment is disposed of.
+
+j)    Intangible Assets
+
+Goodwill. Goodwill is recognised in a business combination when the consideration transferred by the acquirer exceeds the net identifiable assets acquired. Goodwill is not amortised but is reviewed for impairment at least annually.
+
+F-15
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Intangible assets other than goodwill. Intangible assets acquired separately are measured on initial recognition at cost. Following initial recognition, intangible assets are carried at cost less accumulated amortisation and accumulated impairment losses.
+
+Intangible assets with finite lives are amortised over their useful economic lives from the point at which the intangible asset in question is brought into use, and assessed for impairment whenever there is an indication that the intangible asset may be impaired. Assets yet to be brought into use are assessed for impairment at least annually. The amortisation period and the amortisation method for an intangible asset with a finite useful life is reviewed at least at the end of each reporting period.
+
+Changes in the expected useful life or the expected pattern of consumption of future economic benefits embodied in the asset is accounted for by changing the amortisation period or method, as appropriate, and are treated as changes in accounting estimates. The amortisation expense on intangible assets with finite lives is recognised in profit or loss in the expense category consistent with the function of the intangible assets.
+
+Computer Software
+
+4 years on a straight line basis
+
+Patents
+
+Over the term of the patent on a straight line basis
+
+Acquired IP
+
+8 years from the acquisition date/date the asset is brought into use on a straight line basis
+
+Amortisation of intangible assets is included under the ‘Research and development expenses’ and ‘General and administrative expenses’ classifications in the Statement of Loss and Other Comprehensive Loss based on the nature of the underlying expenditure.
+
+k)    Cost of Sales
+
+Costs of sales relates to costs from third-party contract research organisations as well as internal labour and absorbed overheads incurred in relation to collaboration arrangements and drug discovery agreements for third parties which have been designated as contracts with customers in accordance with IFRS 15.
+
+l)    Property, Plant and Equipment
+
+Assets under construction, plant and equipment, fixtures and fittings, computer equipment and leasehold improvements are initially recognised at acquisition cost, including any costs directly attributable to bringing the assets to the location and condition necessary for it to be capable of operating in the manner intended by the Group’s management. These assets are subsequently measured using the cost model, less accumulated depreciation and impairment losses. Depreciation is provided at rates calculated to write off
+
+F-16
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+the cost of assets, less their estimated residual value on a straight line basis, over their expected lives:
+
+Assets Under Construction
+
+Not Depreciated
+
+Plant and Equipment
+
+5 years
+
+Fixture and Fittings
+
+5 years
+
+Leasehold Improvements
+
+Over the term of the lease or to the first-break clause, whichever is earlier
+
+Computer Equipment
+
+4 years
+
+m)    Cash and Cash Equivalents and Short Term Bank Deposits
+
+Cash is cash on hand and demand deposits. Cash equivalents are short-term, highly liquid investments that are readily convertible to known amounts of cash and which are subject to insignificant risk of changes in value.
+
+Short term bank deposits consist of bank deposits of 12 months duration or less, and are measured at amortised cost as described in section s) below.
+
+n)    Impairment of Assets
+
+Individual assets are tested for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable with the exception of acquired IP yet to be brought into use, which is reviewed for impairment at least annually.
+
+An asset is impaired when its carrying amount exceeds its recoverable amount. The recoverable amount is measured as the higher of fair value less cost of disposal and value in use. The value in use is calculated as being net projected cash flows based on financial forecasts discounted back to present value.
+
+Recoverable amount is determined for an individual asset, unless the asset does not generate cash inflows that are largely independent of those from other assets or groups of assets. If this is the case, recoverable amount is determined for the cash-generating unit to which the asset belongs. If it is deemed that an impairment is necessary the impairment loss is allocated to reduce the carrying amount of the asset, first against the carrying amount of any goodwill allocated to the cash-generating unit, and then to the other assets of the unit pro-rata on the basis of the carrying amount of each asset in the unit. With the exception of goodwill, all assets are subsequently reassessed for indications that an impairment loss previously recognised may no longer exist. An impairment loss is reversed if the asset’s or cash-generating unit’s recoverable amount exceeds its carrying amount.
+
+F-17
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+o)    Joint Ventures and Joint Operations
+
+Investments in joint ventures are accounted for using the equity method in the Group’s financial statements. Under the equity method, the investment is recognised initially at cost and the carrying amount of the investment is adjusted to recognize changes in the Group’s share of net assets.
+
+Investments in joint ventures are tested for impairment annually, and an impairment loss is recognised where it is indicated that the carrying amount of the investment may not be recoverable. The recoverable amount is measured as the higher of fair value less cost of disposal and value in use. The value in use is calculated as being net projected cash flows based on financial forecasts discounted back to present value. The Group also undertakes various joint operations with third parties. Where a collaboration is deemed to be a joint operation the Group recognizes:
+
+•its assets, including its share of any assets held jointly;
+
+•its liabilities, including its share of any liabilities incurred jointly; and
+
+•its expenses, including its share of any expenses incurred jointly.
+
+The Group incurs expenses that under the joint operation agreement are to be shared jointly with the collaboration partner. Amounts reimbursed are recorded as a reduction in the underlying expenditure. Where amounts are reimbursed in advance of the Group incurring the expenditure, the amounts received are recognised as a liability in other advances. The other advances are extinguished when the expenditure to which the reimbursement relates is incurred.
+
+p)    Leases
+
+Leases are recognised as a right-of-use asset and a corresponding liability at the date at which the leased asset is available for use by the Group, and each lease payment is allocated between the liability and finance cost. The finance cost is charged to profit or loss over the lease period so as to produce a constant rate of interest on the remaining balance for the liability for each period. The right-of-use asset is depreciated over the shorter of the asset’s useful life and the lease term on a straight-line basis.
+
+Assets and liabilities arising from a lease are initially measured on a present value basis. Lease liabilities include the present value of the following lease payments:
+
+•Fixed payments, less any lease incentive receivable;
+
+•Variable lease payments that are based on an index or a rate;
+
+•The exercise price of a purchase option if the lessee is reasonably certain to exercise
+that option; and
+
+•Payments of penalties for terminating the lease, if the lease term reflects the lessee exercising that option.
+
+The lease payments are discounted using the interest rate implicit in the lease. If this rate cannot be determined, the Group’s incremental borrowing rate (i.e. the rate that the Group would have to pay to borrow the funds necessary to obtain an asset of similar value in a similar economic environment with similar terms and conditions) is used.
+
+F-18
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Variable lease payments that reflect changes in market rental rates are initially measured using the market rental rates as at the commencement date. Variable lease payments that do not depend on an index or a rate are not included in the measurement of lease liabilities and right-of-use assets, and are recognized as expenses in the period in which the event or condition that triggers the payment occurs.
+
+The right-of-use assets are measured at cost which comprise the following:
+
+•The initial measurement of lease liability;
+
+•Lease payments made at or before the commencement date (less lease incentives received);
+
+•Initial direct costs; and
+
+•Restoration costs.
+
+Extension and Termination Options. The Group determines the lease term as the non-cancellable term of the lease, together with any periods covered by an option to extend the lease if it is reasonably certain to be exercised, or any periods covered by an option to terminate the lease, if it is reasonably certain not to be exercised.
+
+Lease Modifications. The Group remeasures the lease liability (and makes a corresponding adjustment to the related right of use asset) whenever:
+
+•The lease term has changed or there is a significant event or change in circumstances resulting in a change in the assessment of exercise of a purchase option, in which case the lease liability is remeasured by discounting the revised lease payments using a revised discount rate.
+
+•The lease payments change due to changes in an index or rate or a change in expected payment under a guaranteed residual value, in which cases the lease liability is remeasured by discounting the revised lease payments using an unchanged discount rate (unless the lease payments change is due to a change in a floating interest rate, in which case a revised discount rate is used).
+
+•A lease contract is modified, and the lease modification is not accounted for as a separate lease, in which case the lease liability is remeasured based on the lease term of the modified lease by discounting the revised lease payments using a revised discount rate at the effective date of the modification.
+
+Short-term and Low Value Leases. The Company does not recognize right-of-use assets for short-term and low value leases. Payments associated with short-term leases (leases of less than twelve months duration) and leases of low-value assets are recognised on a straight-line basis over the lease term
+
+Impairment. The Group applies IAS 36 to determine whether a right-of-use asset is impaired and accounts for any identified impairment loss.
+
+F-19
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+q)    Provisions
+
+Provisions are recognised when the Group has a present obligation (legal or constructive) as a result of a past event, it is probable that the Group will be required to settle that obligation and a reliable estimate can be made of the amount of the obligation.The amount recognised as a provision is the best estimation of the considerations required to settle the present obligation at the reporting date, considering the risks and uncertainties surrounding the obligation.
+
+Provisions for the cost to restore leased property to their original condition, as required by the terms and conditions of the lease, are recognised when the obligation is incurred, either at the commencement date or as a consequence of having used or made alterations to the underlying asset during a particular period of the lease, at the Directors’ best estimate of the expenditure that would be required to restore the assets. Estimates are regularly reviewed and adjusted as appropriate for new circumstances.
+
+Provisions for onerous contracts are recognised when the unavoidable costs of meeting the obligations under a contract exceed the economic benefits expected to be received, and are based on the Group's best estimate of the present value of the outflows incurred in fulfilling/exiting the contract net of any associated inflows.
+
+r)    Pension Costs
+
+The Group operates a defined contribution pension scheme for employees. The assets of the scheme are held separately from those of the Group. The annual contributions payable are charged to the Group profit or loss on an accruals basis.
+
+s)    Financial Instruments
+
+Financial Assets. Financial assets classified as financial instruments measured at amortised cost comprise trade and other receivables and cash and cash equivalents and short term bank deposits. Financial assets measured at amortised cost are recognised when the Group becomes party to the contractual provisions of the instrument and are derecognised when the contractual rights to the cash flows from the financial asset expire or when the financial asset and all substantial risks and reward are transferred. Financial assets are measured at amortised cost when both of the following criteria are met:
+
+•The financial asset is held within a business model whose objective is to hold financial assets in order to collect contractual cash flows; and
+
+•The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amounts outstanding.
+
+Subsequent to initial recognition, financial assets are measured at amortised cost using the effective interest rate method. At each reporting date the Group recognizes a loss allowance for expected credit
+
+F-20
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+losses on financial assets measured at amortised cost. In establishing the appropriate amount of loss allowance to be recognised, the Group applies either the general approach or the simplified approach, depending on the nature of the underlying group of financial assets. Further details are set out in Note 27.
+
+Classification as Debt or Equity. Debt and equity instruments are classified as either financial liabilities or as equity in accordance with the substance of the contractual arrangements and the definitions of a financial liability and an equity instrument.
+
+Equity Instruments. Equity instruments constitute any contract that evidences a residual interest in the assets of an entity after deducting all of its liabilities. Equity instruments such as preference shares issued by the Group are recognised at the proceeds received, net of direct issue costs. All preference shares in issue throughout 2021 were convertible into ordinary shares under certain conditions and bore no fixed or cumulative dividend. As such these shares were deemed to be equity in nature.
+
+Following the achievement of a development milestone relating to the Group’s revenue contract with GT Apeiron Therapeutics Inc. (“GTA”) on March 31, 2021, the Group became entitled to receive a number of ordinary shares and preference shares in this company as non-cash revenue consideration (see note 27 for further details). These shares represent unlisted equity securities and the Group has taken the election provided within IFRS9 to recognize fair value gains and losses within Other Comprehensive Income (FVOCI).
+
+Financial Liabilities.Financial liabilities comprise trade and other payables as well as loan liabilities. Financial liabilities are obligations to pay cash or other financial assets and are recognised in the statement of financial position when, and only when, the Group becomes a party to the contractual provisions of the instrument.
+
+Financial liabilities are initially recognised at fair value adjusted for any directly attributable transaction costs. After initial recognition, financial liabilities are measured at amortised cost using the effective interest method, with interest-related charges recognised as an expense in finance costs.
+
+A financial liability is derecognised only when the contractual obligation is extinguished, that is, when the obligation is discharged, cancelled or expires.
+
+Derivative Financial Instruments- Forward Contracts. Derivative financial instruments relating to currency forward contracts are initially recognised at fair value on the date at which the derivative contract is executed, and are subsequently re-measured at fair value each period-end. Any gains and losses arising from changes in the fair value of derivatives are recognised within the consolidated statement of profit or loss.
+
+F-21
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+t)    Share-based Payments
+
+The Group operates equity-settled share-based compensation plans whereby certain employees of the Group are granted equity awards in the Company in the form of share options, restricted share units (“RSUs”), performance options and performance share units.
+
+The fair value of awards granted is recognised as an expense within profit or loss with a corresponding increase in equity. The fair value of the award is measured at the grant date and is spread over the period during which the respective employee becomes unconditionally entitled to the award. The fair value of share options and those performance option and PSU awards not containing market-based performance conditions are valued using a Black-Scholes model, while performance options and PSUs containing market-based conditions are valued using a Monte-Carlo model. The fair value of RSUs is based on the market value of the underlying shares at the award grant date.
+
+At each statement of financial position date, the Group revises its estimate of the number of awards that are expected to become exercisable based on forfeiture rates, and with the exception of changes in the estimated probability of achieving market-based performance conditions, adjustments are made such that at the end of the vesting period the cumulative charge is based on the number of awards that eventually vest.
+
+Where the terms and conditions of options are modified before they vest, the increase in the fair value of the options, measured immediately before and after the modification, is also recognised in profit or loss over the remaining vesting period. There were no modifications to the terms and conditions of options during the current or previous financial period.
+
+When a share based payment award is exercised an intra-equity movement is recorded to transfer the cumulative charge recorded within the share-based payment reserve for those awards to retained earnings.
+
+u)    Tax
+
+Tax on the loss for the year comprises current and deferred tax. Tax is recognised in the profit or loss account except to the extent that it relates to items recognised directly in equity, in which case it is recognised in equity.
+
+Current Tax. Current tax is provided at the amounts expected to be paid applying tax rates that have been enacted or substantively enacted by the balance sheet date. Current tax includes tax credits, which are accrued for the period based on calculations that conform to the U.K. Research and Development Tax Credit Scheme that is applicable to small and medium sized companies.
+
+Research and development costs which are not eligible for reimbursement under the U.K. Research and Development Tax Credit scheme, such as expenditure incurred on research projects for which the group receives income, may be reimbursed under the U.K. R&D expenditure credit (“RDEC”) scheme.
+
+F-22
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Amounts receivable under the RDEC scheme are presented within other income. Research and development expenditure credits are also claimed in Austria in relation to qualifying expenditure incurred on research projects by the Group’s Austrian subsidiary. These amounts are also presented within other income.
+
+Deferred Tax. Deferred taxes are calculated using the liability method on temporary differences between the carrying amounts of assets and liabilities and their tax bases. A deferred tax asset is recognised for all deductible temporary differences to the extent that it is probable that taxable profit will be available against which the deductible temporary difference can be utilised, unless the deferred tax asset arises from the initial recognition of an asset or liability in a transaction that is not a business combination and at the time of the transaction, affects neither accounting profit nor taxable profit (tax loss). However, for deductible temporary differences associated with investments in subsidiaries a deferred tax asset is recognised when the temporary difference will reverse in the foreseeable future and taxable profit will be available against which the temporary difference can be utilised.
+
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply to the period when the asset is realised or the liability is settled, based on tax rates and tax laws that have been enacted or substantively enacted by the end of the reporting period. Deferred tax assets and liabilities are set off only where the Group has a legally enforceable right to set off the recognised amounts and the Group intends either to settle on a net basis or to realize the asset and settle the liability simultaneously.
+
+v)    Research and Development Costs
+
+Research costs are expensed as incurred. Development expenditures on an individual project are recognised as an intangible asset when the Group can demonstrate:
+
+•the technical feasibility of completing the intangible asset so that it will be available for use or sale;
+
+•its intention to complete and its ability to use or sell the asset;
+
+•how the asset will generate future economic benefits;
+
+•the availability of resources to complete the asset; and
+
+•the ability to measure reliably the expenditure during development.
+
+Following initial recognition of the development expenditure as an asset, the cost model is applied requiring the asset to be carried at cost less any accumulated amortisation and accumulated impairment losses. Amortisation of the asset begins when development is complete, and the asset is available for use. It is amortised over the period of expected future benefit. Amortisation is recorded in research and development costs. During the period of development, the asset is tested for impairment annually. No expenditure met the criteria for capitalisation during the current or prior years.
+
+F-23
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+3.Critical Accounting Estimates and Judgements
+
+In the application of the Group’s accounting policies the directors are required to make judgements, estimates and assumptions about the carrying amounts of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+
+Critical Accounting Estimates
+
+The estimates and underlying assumptions are reviewed on an ongoing basis. The critical estimates that the directors have made in the process of applying the Group's accounting policies that have the most significant effect on the amounts recognised in the financial statements are discussed below.
+
+Recognition of Revenue. Revenue is recognised upon the satisfaction of performance obligations, which occurs when control of the good or service transfers to the customer. Control transfers over time in relation to the majority of research and design activities performed during the years ended December 31, 2023 and 2022. Total or external costs or labour hours incurred are utilised as the relevant input method in order to estimate the extent to which the performance obligations satisfied over time have been satisfied at the end of the reporting period depending on the nature of the arrangement. Estimation of the future costs to be incurred in the satisfaction of performance obligations delivered over time, inclusive of any costs relating to the substitution of targets where allowed in accordance with a specific collaboration agreement, is considered to be a key source of estimation uncertainty in relation to the recognition of revenue in any given period.
+
+No changes to estimated total projected costs were noted during the years ended December 31, 2023 and 2022 that had a significant impact on revenues recognised during the period.
+
+The table below illustrates the sensitivity analysis of the Group’s reported profit to a 10% increase or decrease in the estimated future costs to be incurred in the delivery of partially unsatisfied performance obligations relating to the Group’s revenue contracts as at December 31, 2023.
+
+Change in Estimated Future Costs
+
+Effect on Profit Before Tax
+
+Effect on Equity
+
+£’000
+
+£’000
+
+Impact on change in the estimated future costs to be incurred in delivering partially unsatisfied performance obligations
+
+    +10%
+
+    (1,145)
+
+    (1,145)
+
+    -10%
+
+    1,289    
+
+    1,289    
+
+F-24
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Revenue from potential milestones or royalties are not recognised at the initiation of a contract. Upfront payments that include performance obligations are recognised as those obligations are satisfied. In addition no profit is recognised as costs are incurred until such a time as costs and time to programme completion can be reasonably estimated, with revenues recognised equal to a percentage of costs incurred until that time. As a result of this, until total costs and time to completion can be reliably estimated, a gross loss may be recognised on individual customer contracts despite the expectation that the relevant contract will be profitable overall.
+
+Leases. The Group has entered into lease arrangements pertaining to various premises globally, in relation to which it assesses whether the lease arrangements constitute onerous contracts at the end of each reporting period.
+
+In December 2022, the Group entered into a lease arrangement in relation to premises in Miami, Florida, United States, with the lease term due to commence in the first quarter of 2024. Subsequent to entering into the above arrangement, as a result of the Group's cost containment measures, the decision was taken not to occupy these premises, and instead to lease smaller premises nearby. Total minimum lease commitments of £3,040,000 are payable under this arrangement, and as such the Group must assess whether an onerous contract exists for which a provision is required.
+
+The Group has engaged an agent to assist in arranging the subleasing of the original leased premises to a third party, and has estimated that the present value of the unavoidable costs of meeting the Group's obligations under the contract exceed the expected benefits to be received from subletting the space by £807,000 as at December 31, 2023, with such amount being recorded within provisions at that date.
+
+No other onerous lease provisions or ROU asset impairments have been deemed necessary as at December 31, 2023.
+
+Gates Foundation Private Placement Buy-back Rights. Under the terms of the Company’s private placement with the Gates Foundation, the latter has the right to sell, or require the Group to buy-back any shareholdings in the Group held by the Gates Foundation at the higher of the public offering price and the market value of the shares if the Group is in breach of certain terms within the agreement. This right constitutes a derivative financial liability for the Company which is recognised at fair value through profit or loss. The Group has assessed the likelihood of a default occurring as low as at December 31, 2023, and as such the fair value of this liability has been estimated as nil at the balance sheet date.
+
+Fair Value of the Group’s Investment in GTA. As at December 31, 2023 the Group holds a number of ordinary and preference shares in GTA at fair value through other comprehensive income. GTA is an unlisted early-stage business, with projects in the discovery and clinical stages of drug development which are pre-revenue generation. As such the key source of estimation uncertainty is the value per share of these unlisted equity securities. The shares in question are very illiquid, and the primary valuation input is cost or the price of latest investment where third party share acquisition transactions have taken place adjusted to reflect other factors as appropriate.
+
+F-25
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+The Group has also assessed the impact of the current war in Ukraine and the conflict between Hamas and Israel on this investment, and does not consider that any revaluation is required as a result of these events. Finally the Group has assessed changes in relevant market equity indexes, with specific reference to changes in the NASDAQ Biotechnology Index over the period in question, with no revaluation required as a result.
+
+Goodwill and Pharmacoscopy IP Intangible Impairment. The Group assesses annually, or whenever there is a change in circumstances, whether goodwill or acquired IP may be impaired. Determining whether an impairment exists requires estimation of the recoverable amount of the CGU to which the goodwill and acquired IP relate, being equal to the higher of its value in use and fair value less costs to sell.
+
+The value in use calculation is judgmental in nature, and requires the Group to make a number of estimates relating to the future cash flows expected to arise from the CGU spanning drug discovery, development, regulatory approval and commercialisation, as well as a suitable discount rate in order to calculate present value.
+
+The cash flow projections are further risk adjusted based on observable market comparables to take into account the probability of successfully commercialising a drug at each stage of its development. Sensitivity analysis is performed in order to determine whether reasonable changes in significant assumptions would lead to the carrying value exceeding its recoverable amount. When the carrying value of the CGU exceeds its recoverable amount, the CGU is considered impaired and the assets in the CGU are written down to their recoverable amount. Impairment losses are recognised in the consolidated statement of loss and other comprehensive income.
+
+A detailed impairment assessment was performed as of December 31, 2023, with no impairment noted and no reasonable changes in significant assumptions were identified that would lead to the carrying amount exceeding its recoverable amount.
+
+Accounting Judgements
+
+In the process of applying the Group’s accounting policies, management has made the following judgements which have the most significant effect on the amounts recognised in the financial statements:
+
+Recognition of Revenue. Management judgement is required to determine the performance obligations under each agreement and appropriately allocate revenue to the identified performance obligations in line with IFRS 15. Judgement is also required in determining the point at which the total costs to be incurred in delivering a performance obligation can be reliably estimated such that revenue can be recognised in excess of recoverable costs incurred. Judgement is also required in estimating the likelihood of and costs that may be incurred in relation to the substitution of targets where allowed in accordance with a specific collaboration agreement.
+
+F-26
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Further judgement is required to determine whether sources of variable consideration are constrained as at the end of the reporting period as a result of it not being highly probable that a significant reversal in the amount of cumulative revenue recognised would not occur when the uncertainty associated with the variable consideration is subsequently resolved. Constraint is typically considered to be removed in relation to milestone/opt-in amounts when written confirmation of achievement has been provided by the counterparty or achievement has been ratified at a project Joint Steering Committee.
+
+Loss-making Collaboration Arrangements. Management judgement is required in order to determine whether the unavoidable costs of meeting the obligations under each customer collaboration arrangement, inclusive of both costs that relate directly to the contract and an allocation of other costs, exceed the economic benefits expected to be received under it. Where such costs are in excess of the Group’s best estimate of future revenues to be generated from the arrangement a provision is recorded in accordance with IAS 37.
+
+The company has assessed the value of the remaining transaction price relating to the outstanding performance obligations relative to the value of the estimated remaining unavoidable costs of meeting the obligations under contracts relating to the Group’s customers and determined that no onerous contract provision is required as at December 31, 2023.
+
+4.Operating Segments
+
+The Group manages its operations as a single segment for the purposes of assessing performance and making operating decisions. Operating segments are defined as components of an enterprise for which separate financial information is regularly evaluated by the Group’s chief operating decision maker, or decision-making group, in deciding how to allocate resources and assess performance. The Group has determined that its chief operating decision maker is its Interim Chief Executive Officer.
+
+Information on Major Customers. Revenue recognised during the years ended December 31, 2023, 2022 and 2021 relates to collaboration agreements with Bristol Myers Squibb Company (“BMY”), Celgene Switzerland LLC (“Celgene”) (a company acquired by BMY subsequent to the inception of the collaboration), Sanofi S.A. (“Sanofi”), Merck KGaA, Darmstadt, Germany (“Merck KGaA, Darmstadt, Germany”), Bayer AG (“Bayer”), GTA, and the Group’s joint venture with RallyBio IPB, LLC (“RallyBio”), RE Ventures I, as well as legacy contracts operated by the Group’s Austrian subsidiary.
+
+The proportion of revenue by customer in each period is as follows:
+
+F-27
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+%
+
+%
+
+%
+
+BMY (including Celgene)
+
+    72
+
+    77
+
+    80
+
+Sanofi
+
+    25
+
+    16
+
+    —
+
+Merck
+
+    3
+
+    —
+
+    —
+
+GTA
+
+    —
+
+    —
+
+    13
+
+Others
+
+    —
+
+    7
+
+    7
+
+    100%
+
+    100%
+
+    100%
+
+Information on Non-current Assets by Geography. The Group’s non-current assets are held in the following geographies as at December 31, 2023:
+
+UK
+
+Austria
+
+Rest of the World
+
+Total
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Goodwill
+
+    173    
+
+    6,013    
+
+    —    
+
+    6,186    
+
+Other intangible assets, net
+
+    2,815    
+
+    25,644    
+
+    —    
+
+    28,459    
+
+Property, plant and equipment, net
+
+    42,059    
+
+    6,467    
+
+    428    
+
+    48,954    
+
+Right-of-use assets, net
+
+    9,177    
+
+    6,634    
+
+    2,702    
+
+    18,513    
+
+The Group’s non-current assets are held in the following geographies as at December 31, 2022:
+
+UK
+
+Austria
+
+Rest of the World
+
+Total
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Goodwill
+
+    173    
+
+    6,148    
+
+    —    
+
+    6,321    
+
+Other intangible assets, net
+
+    2,688    
+
+    30,914    
+
+    —    
+
+    33,602    
+
+Property, plant and equipment, net
+
+    30,893    
+
+    6,647    
+
+    108    
+
+    37,648    
+
+Right-of-use assets, net
+
+    10,403    
+
+    4,391    
+
+    —    
+
+    14,794    
+
+5.Revenue
+
+The Group’s revenue by type during 2023, 2022 and 2021 are as follows:
+
+F-28
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Service fees
+
+    104    
+
+    670    
+
+    452    
+
+Licensing fees- opt-in payments and milestones recognised at a point in time
+
+    —    
+
+    —    
+
+    18,583    
+
+Licensing fees - recognised over time
+
+    19,975    
+
+    26,553    
+
+    8,324    
+
+    20,079    
+
+    27,223    
+
+    27,359    
+
+Revenue is recognised upon the satisfaction of performance obligations, which occurs when control of the goods or services transfers to the customer. For obligations discharged over time, the Group recognises revenue equal to recoverable costs incurred for new collaborations from their inception until such time as the collaboration is sufficiently progressed such that the Group can reliably estimate the level of profit that will be achieved from delivery of the related performance obligations. Where collaborations include significant variable consideration which is constrained at the inception of the arrangement this can lead to gross losses being recognised during the early stages of a contract.
+
+Service fees during the year ended December 31, 2023, 2022 and 2021 relate to revenues generated from legacy contracts held by Exscientia GmbH, in relation to which revenue is recognised at a point in time.
+
+During the year ended December 31, 2021, £14,437,000 was recognised in relation to a candidate opt-in milestone achieved in respect of the Group’s collaboration with Celgene, in addition to £3,349,000 recognised as revenue in relation to a candidate selection milestone achieved in respect of the Group’s collaboration with GTA.
+
+On January 4, 2022 the Group entered into a strategic research collaboration with Sanofi to develop an AI-driven pipeline of precision engineered medicines. Research will be focused on up to 15 novel small molecule candidates across oncology and immunology, in relation to which the Group will receive an up-front cash payment of £74,242,000 ($100,000,000) with the potential of $5,200,000,000 in total milestones plus tiered royalties over the duration of the collaboration.
+
+On March 11, 2022, BMY extended its first collaboration arrangement with the Group by six months in order to generate additional data including the use of translational capabilities for key targets under the collaboration using the Group’s precision medicine platform, in relation to which the Group received a cash payment of $5,000,000 (£3,821,000).The term extension payment has been treated as an addition to the transaction price relating to the collaboration’s partially unsatisfied performance obligations relating to the design and development of candidates for collaboration targets, with a cumulative recognition of revenue at that date based upon the progress towards satisfaction of the related performance obligations in accordance with paragraph 21b of IFRS 15. The remaining element of the transaction price was recognised as revenue over the remainder of 2022 as the performance obligations were satisfied.
+
+F-29
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+On May 30, 2022, the Group ended its pre-existing collaboration arrangement with Bayer AG by mutual agreement. Upon ending the agreement all remaining performance obligations pertaining to the contract were deemed to be fully discharged, resulting in the recognition of revenues totalling £1,153,000 at that point.
+
+On July 27, 2023 the Group and Sanofi S.A. entered into an amendment to the collaboration agreement executed between the parties on January 4, 2022, pursuant to which certain terms, including with respect to certain target substitution and milestone payments, relating to targets under the collaboration were amended. There was no change to the overall contract transaction price as a result of the amendment, and no significant adjustment to revenue recognised on partially satisfied performance obligations as at the amendment date.
+
+On September 19, 2023 the Group and the Healthcare Business of Merck KGaA, Darmstadt, Germany (“Merck KGaA, Darmstadt, Germany”), entered into a collaboration agreement focused on the discovery of novel small molecule drug candidates across oncology, neuroinflammation and immunology using Exscientia’s AI-driven precision drug design and discovery capabilities. Three potential first-in-class or best-in-class targets have been identified as the initial focus of the partnership, in relation to which the Group received an up-front cash payment of $20,100,000 (net of withholding taxes of $3,181,000 which are expected to be received in the second half of 2024), with the potential of up to $674,000,000 in discovery, development, regulatory and sales-based milestones in addition to royalty payments on net sales.
+
+On September 27, 2023 the Group received confirmation of the achievement of a research milestone in the Group’s collaboration with Sanofi for its first inflammation and immunology target, in relation to which it received a cash payment of £3,191,000 ($4,000,000). Until achievement, this milestone was treated as constrained variable consideration relating to the drug design work undertaken in relation to the associated project, and as such it has been added to the transaction price for the related partially satisfied performance obligation from the point of achievement, with revenue recognised as the performance obligation is satisfied.
+
+On December 21, 2023, the Group amended its current collaboration with Sanofi to add a new discovery stage programme identified and initially advanced by Exscientia, in relation to which a cash payment of $4,000,000 was received in February 2024, with revenue recognised over time as the related performance obligation is satisfied. Under the terms of the amended agreement the Group is eligible to receive up to $45,000,000 in upfront and preclinical milestone payments, as well as development, regulatory and sales-based milestone payments of over $300,000,000 and tiered royalties on product sales.
+
+Included within revenues during the year ended December 31, 2023 are amounts totalling £6,859,000 relating to non-refundable upfront payments on projects under the Group’s ongoing collaboration with BMY which have been recognised as revenue during the year as it has been mutually determined not to proceed with further development of these projects and prioritise others within the collaboration.
+
+F-30
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+The Group has assessed its significant collaboration arrangements with commercial partners and determined that no provision for future operating losses is required as at December 31, 2023, taking into account expected future cash inflows and remaining contract liability amounts for each collaboration relative to the remaining unavoidable costs of meeting the respective contracts’ obligations in each instance.
+
+By Geographical Market:
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+United Kingdom
+
+    —    
+
+    —    
+
+    —    
+
+France
+
+    5,075    
+
+    4,379    
+
+    —    
+
+Rest of Europe
+
+    619    
+
+    1,846    
+
+    1,599    
+
+United States of America
+
+    14,385    
+
+    20,998    
+
+    22,197    
+
+Rest of the World
+
+    —    
+
+    —    
+
+    3,563    
+
+    20,079    
+
+    27,223    
+
+    27,359    
+
+The above table represents the geographic locations of the headquarters of the customers to which the Group has provided services during the period, rather than the locations where the services themselves were performed.
+
+Timing of Revenue Recognition:
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Revenue related to obligations discharged over time
+
+    19,975    
+
+    26,553    
+
+    12,804    
+
+Revenue related to obligations discharged at a point in time
+
+    104    
+
+    670    
+
+    14,555    
+
+    20,079    
+
+    27,223    
+
+    27,359    
+
+During fiscal year 2023, £nil was recognised in relation to performance obligations satisfied or partially satisfied in previous periods (2022: £3,559,000, 2021: £nil). £19,528,000 was recognised as revenue in the period that was included in the contract liability balance at the beginning of the period (2022: £18,223,000).
+
+The transaction price (after excluding variable consideration that is constrained) allocated to the remaining performance obligations (unsatisfied or partially unsatisfied) as at December 31, are as follows:
+
+F-31
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Within one year
+
+    25,036    
+
+    29,433    
+
+    21,203    
+
+More than one year
+
+    65,466    
+
+    58,451    
+
+    7,743    
+
+    90,502    
+
+    87,884    
+
+    28,946    
+
+Contractual maturities reflect the Group's best estimate of when underlying costs upon which revenue is recognised will be incurred. Details of contract liability balances are set out in notes 18 and 24.
+
+6.Other Income
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Grant income
+
+    1,249    
+
+    1,819    
+
+    2,096    
+
+R&D expenditure credits
+
+    5,387    
+
+    3,923    
+
+    1,653    
+
+    6,636    
+
+    5,742    
+
+    3,749    
+
+As at January 1, 2023 the Group operated four grants consisting of a European governmental grant, a grant from the Gates Foundation, a grant from the Austrian Research Promotion Agency (“FFG”) and a grant from the Austrian Wirtshaftsservice, with the European governmental grant subsequently ending in April 2023. The grant with the Gates Foundation provides reimbursement for certain personnel, consumables and overhead costs incurred in the performance of research and development activities, while the FFG grant relates to the early stage testing of a drug’s action in solid tumour patient samples with high content microscopy and deep-learning. The Austrian Wirtshaftsservice grant provides funding in respect of capital investments made in the period from August 2020 to the end of February 2022.
+
+On November 15, 2023 the Group entered into a grant from Open Philanthropy Project LLC, in relation to which the Group received £1,895,000 ($2,300,000) in order to fund further exploration of the requirements for the activation of key aspects of the interferon response of known antiviral effects against influenza and COVID-19. The grant provides reimbursement for certain personnel, consumables and overhead costs incurred in the performance of the related research and development activities.
+
+As at December 31, 2023 all amounts relating to the above grants had been received (2022: £561,000 outstanding).
+
+F-32
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+7.Operating Loss
+
+The following items have been included in operating loss:
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Depreciation of property, plant and equipment
+
+    7,330    
+
+    3,092    
+
+    1,432    
+
+Depreciation of right-of-use assets
+
+    3,567    
+
+    1,747    
+
+    848    
+
+Amortisation of intangible assets
+
+    4,671    
+
+    4,645    
+
+    1,903    
+
+Impairment of property, plant and equipment
+
+    1,307    
+
+    —    
+
+    —    
+
+Onerous lease expense
+
+    807    
+
+    —    
+
+    —    
+
+Research and development expenses
+
+    128,444    
+
+    128,865    
+
+    44,047    
+
+Foreign exchange loss/(gain)
+
+    1,541    
+
+    (33,609)
+
+    (938)
+
+Loss on forward contracts
+
+    —    
+
+    11,287    
+
+    —    
+
+Share-based payment charge
+
+    24,350    
+
+    30,576    
+
+    10,466    
+
+Fees payable to the Group’s auditors for the audit of the Group and Company’s financial statements
+
+    915    
+
+    904    
+
+    637    
+
+Other audit services provided by the Group's auditors
+
+    281    
+
+    233    
+
+    1,164    
+
+8.Finance Income
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Bank interest income
+
+    16,628    
+
+    5,681    
+
+    26    
+
+    16,628    
+
+    5,681    
+
+    26    
+
+See note 27 for details of the various short-term bank deposit transactions entered into by the Group over the twelve month periods ended December 31, 2023 and 2022 respectively.
+
+F-33
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+9.Finance Expenses
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Bank interest payable
+
+    12    
+
+    27    
+
+    16    
+
+Loan interest payable
+
+    3    
+
+    2    
+
+    2    
+
+Interest expense on lease liabilities
+
+    1,028    
+
+    299    
+
+    149    
+
+Unwinding of discount on provisions
+
+    24    
+
+    6    
+
+    2    
+
+    1,067    
+
+    334    
+
+    169    
+
+10.Employee Benefit Expenses
+
+Employee benefit expenses (including the directors) comprise:
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Wages and salaries
+
+    54,922    
+
+    42,738    
+
+    15,006    
+
+Social security costs
+
+    10,428    
+
+    6,845    
+
+    3,147    
+
+Other pension costs
+
+    2,523    
+
+    1,542    
+
+    526    
+
+Share-based payment charge
+
+    24,350    
+
+    30,576    
+
+    10,466    
+
+Total employee benefit expenses
+
+    92,223    
+
+    81,701    
+
+    29,145    
+
+The average number of persons employed by the Group (including the directors) during the period, was as follows:
+
+2023
+
+2022
+
+2021
+
+Number
+
+Number
+
+Number
+
+Research and development
+
+427
+
+344
+
+151
+
+Management and operations
+
+74
+
+62
+
+24
+
+501
+
+406
+
+175
+
+F-34
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+11.Directors’ Emoluments and Key Management Personnel Remuneration
+
+Directors’ Emoluments:
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Directors’ emoluments
+
+    1,607    
+
+    3,010    
+
+    1,537    
+
+Contributions to defined contribution pension schemes
+
+    3    
+
+    3    
+
+    2    
+
+Total emoluments
+
+    1,610    
+
+    3,013    
+
+    1,539    
+
+Retirement benefits were accrued for 2 directors (2022: 2, 2021: 2). Share options were granted to 6 directors during 2023 (2022: 5, 2021: 4) and 5 directors exercised options during 2023 (2022: 3, 2021: 1).
+
+In Respect of the Highest Paid Director:
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Short term employee benefits
+
+    620    
+
+    542    
+
+    491    
+
+Contributions to defined contribution pension schemes
+
+    1    
+
+    1    
+
+    1    
+
+    621    
+
+    543    
+
+    492    
+
+The highest paid director exercised share options in the period. (2022: none, 2021: none).
+
+Key Management Personnel Remuneration
+
+The remuneration of key management personnel during the year (including remuneration relating to executive directors) was as follows:
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Short term employee benefits
+
+    2,409    
+
+    1,954    
+
+    1,438    
+
+Share based payments
+
+    8,165    
+
+    7,895    
+
+    3,248    
+
+Contributions to defined contribution pension schemes
+
+    38    
+
+    24    
+
+    15    
+
+Compensation for loss of office
+
+    360    
+
+    —    
+
+    —    
+
+    10,972    
+
+    9,873    
+
+    4,701    
+
+F-35
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+12.Taxation
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Current tax
+
+UK current tax on loss for the year
+
+    (14,120)
+
+    (20,459)
+
+(6,706)
+
+Overseas taxation on loss for the year
+
+275
+
+13
+
+37
+
+Adjustments in respect of prior year
+
+(1,411)
+
+(26)
+
+(12)
+
+    (15,256)
+
+    (20,472)
+
+(6,681)
+
+Deferred tax
+
+Origination and reversal of timing differences
+
+(869)
+
+(870)
+
+(279)
+
+Effect of tax rate change on opening balance
+
+—
+
+(565)
+
+—
+
+Total deferred tax benefit
+
+(869)
+
+(1,435)
+
+(279)
+
+Income tax benefit
+
+    (16,125)
+
+    (21,907)
+
+(6,960)
+
+Loss on ordinary activities before tax
+
+(162,088)
+
+(140,635)
+
+    (56,191)
+
+Normal applicable rate of tax
+
+    23.52%
+
+    19.00%
+
+    19.00%
+
+Loss on ordinary activities multiplied by normal rate
+
+    (38,123)
+
+    (26,721)
+
+    (10,676)
+
+Effects of:
+
+Fixed asset differences
+
+(22)
+
+(693)
+
+(181)
+
+Other permanent differences
+
+(3,111)
+
+(3,727)
+
+—
+
+Expenses not deductible for tax purposes
+
+6,698
+
+7,304
+
+3,831
+
+Income not deductible for tax purposes
+
+—
+
+—
+
+(1)
+
+Additional deduction for R&D expenditure
+
+    (15,171)
+
+    (15,503)
+
+(5,185)
+
+Surrender of tax losses for R&D tax credit refund
+
+15,700
+
+6,496
+
+2,173
+
+R&D expenditure credits
+
+789
+
+480
+
+295
+
+Adjustments to tax charge in respect of previous periods
+
+(1,411)
+
+(26)
+
+(12)
+
+Adjustments for foreign tax
+
+(44)
+
+(395)
+
+(435)
+
+Deferred tax not recognised
+
+18,570
+
+10,878
+
+3,231
+
+Income tax benefit
+
+    (16,125)
+
+    (21,907)
+
+(6,960)
+
+Factors That May Affect Future Tax Charges:
+
+In the Spring Budget 2021, the U.K. Government announced that from April 1, 2023 the corporation tax rate would increase to 25% (rather than remaining at 19%, as previously enacted). This new law was substantively enacted on May 24, 2021. For the financial year ended December 31, 2023, the current weighted average tax rate was 23.5%. Deferred taxes at the balance sheet date have been measured using the enacted 25% tax rate, and reflected within these financial statements.
+
+F-36
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+The Group currently surrenders losses relating to eligible U.K. research and development expenses for a cash rebate of up to 33.35% under the U.K. SME scheme. The SME Programme cash rebate rate reduced to 18.6% for qualifying research and development expenditure incurred on or after April 1,2023, with this rate being applied in order to calculate the SME cash rebate recorded within these financial statements.
+
+Amendments to the U.K. R&D tax credit regime that are contained in the recently enacted Finance Bill increase the cash rebate that may be claimed from such date to 26.97% of qualifying expenditure, if we qualify as an “R&D-intensive SME” for an accounting period (broadly, a loss making SME whose qualifying R&D expenditure represents 40% (or, from April 1, 2024, 30%) or more of its total expenditure for that accounting period. If it is determined that we qualified as an R&D-intensive SME for the accounting period ended December 31, 2023 (and as such that the cash tax rebate for the period April 1, 2023 to December 31, 2023 can be claimed at 26.97% of eligible expenditure rather than the 18.6% rate currently utilised), the expected impact would be to increase the income tax benefit for the year to December 31, 2023 by £3,961,000.
+
+Additionally, amendments will come in effect from April 1, 2024 that (i) (unless limited exceptions apply) introduce restrictions on the tax relief that can be claimed for expenditure incurred on sub-contracted R&D activities or externally provided workers, where such sub-contracted activities are not carried out in the U.K. or such workers are not subject to U.K. payroll taxes, and (ii) merge the SME Program and the RDEC Program into a single scheme. If we do not qualify as an R&D-intensive SME, we will either cease to be able to claim cash rebates in respect of our R&D activities, or only be able to receive such cash rebates at a significantly lower rate than at present. These and other potential future changes to the U.K. R&D tax relief programmes may mean we no longer qualify for them or have a material impact on the extent to which we can make claims or benefit from them.
+
+13.Basic and Diluted Loss per Share per Share
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£
+
+£
+
+£
+
+Basic and Diluted loss for the year (£)    
+
+(145,963,000)
+
+(118,728,000)
+
+(49,231,000)
+
+Basic and Diluted weighted average number of shares
+
+124,197,000    
+
+122,119,635    
+
+49,876,081    
+
+Basic and Diluted loss per share (£)    
+
+    (1.18)
+
+    (0.97)
+
+    (0.99)
+
+Basic loss per share is calculated in accordance with IAS 33 (“Earnings per Share”) based on earnings attributable to the Company’s shareholders and the weighted average number of shares outstanding during the period.
+
+F-37
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Concurrent with the Company’s IPO on October 05, 2021 all of the ordinary and preference shareholders of Exscientia plc exchanged each of the existing shares held by them for 300 newly issued Ordinary shares of £0.0005 each in the Company. The ordinary shares outstanding used for computation of loss per share in all periods reflect this share split, consistent with the principles in IAS 33 paragraph 64.
+
+The Company issues performance share options, share options, restricted share units (“RSUs”) and performance share units (“PSUs”) to employees, upon the exercise of which ordinary shares are issued. Inclusion of these awards would have an anti-dilutive effect on the loss per share due to the loss incurred during the period, therefore basic and diluted loss per share are the same.
+
+14.Intangible Assets and Goodwill
+
+Goodwill
+
+Acquired IP
+
+Computer Software
+
+Patents
+
+Total
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Cost
+
+At December 31, 2021
+
+    5,985    
+
+38,054    
+
+    98    
+
+    150    
+
+44,287    
+
+Additions
+
+    —    
+
+    —    
+
+    53    
+
+    —    
+
+    53    
+
+Foreign Currency Translation
+
+    336    
+
+    2,055    
+
+    —    
+
+    —    
+
+    2,391    
+
+At December 31, 2022
+
+    6,321    
+
+40,109    
+
+    151    
+
+    150    
+
+46,731    
+
+Additions
+
+    —    
+
+    —    
+
+    200    
+
+    —    
+
+    200    
+
+Foreign Currency Translation
+
+    (135)
+
+    (827)
+
+    —    
+
+    —    
+
+    (962)
+
+At December 31, 2023
+
+    6,186    
+
+39,282    
+
+    351    
+
+    150    
+
+45,969    
+
+Accumulated Amortisation
+
+At December 31, 2021
+
+    —    
+
+    1,850    
+
+    77    
+
+    45    
+
+    1,972    
+
+Amortisation Charge- R&D Expenses
+
+    —    
+
+    4,611    
+
+    16    
+
+    15    
+
+    4,642    
+
+Amortisation Charge- G&A Expenses
+
+    —    
+
+    —    
+
+    3    
+
+    —    
+
+    3    
+
+Foreign Currency Translation
+
+    —    
+
+    191    
+
+    —    
+
+    —    
+
+    191    
+
+At December 31, 2022
+
+    —    
+
+    6,652    
+
+    96    
+
+    60    
+
+    6,808    
+
+Amortisation Charge- R&D Expenses
+
+    —    
+
+    4,601    
+
+    47    
+
+    15    
+
+    4,663    
+
+Amortisation Charge- G&A Expenses
+
+    —    
+
+    —    
+
+    8    
+
+    —    
+
+    8    
+
+Foreign Currency Translation
+
+    —    
+
+    (155)
+
+    —    
+
+    —    
+
+    (155)
+
+At December 31, 2023
+
+    —    
+
+11,098    
+
+    151    
+
+    75    
+
+11,324    
+
+Carrying Value
+
+At December 31, 2023
+
+    6,186    
+
+28,184    
+
+    200    
+
+    75    
+
+34,645    
+
+At December 31, 2022
+
+    6,321    
+
+33,457    
+
+    55    
+
+    90    
+
+39,923    
+
+F-38
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Goodwill and Acquired IP- Allcyte Acquisition. On August 18, 2021 the Group acquired intellectual property with a fair value of £36,078,000 relating to the pharmacoscopy technology utilised by Allcyte as part of the acquisition of that company. The IP is being amortised over a period of 8 years from the acquisition date. No indicators of impairment were noted in relation to the pharmacoscopy IP as at December 31, 2023.
+
+Goodwill totalling £5,887,000 was also acquired as part of that acquisition, representing the additional value expected to be derived by the Group from the acquisition, as well as the assembled workforce.
+
+The Group consists of one CGU relating to its drug discovery activities. An impairment review was performed in relation to the goodwill and pharmacoscopy IP as at December 31, 2023 by comparing the recoverable amount of the CGU to its carrying value using a value in use model. A discounted cashflow methodology was utilised, with key assumptions relating to the number of internal and partnership programs delivered by the Group, the duration of and total costs relating to each phase of the drug development, the costs of completing clinical trials and obtaining certain regulatory approvals, and product sales volumes and the time period to patent expiry once regulatory approvals have been achieved. A probability of success was then applied to each phase of the drug development in order to reflect the possibility that the drug may not be successfully commercialised.
+
+Other key inputs relate to costs incurred relating to other operational and administrative overheads and capital expenditure. Cashflows were projected over a 20 year period, with the period in question deemed appropriate based on the time taken to design, develop, and commercialise drugs through to patent expiry once regulatory approvals have been achieved. A terminal value growth rate of 2.0% was applied thereafter.
+
+Cashflows determined by the model were then discounted to present value using a discount rate of 14%. The assumptions are based from industry literature and, where possible, the Group's experience of developing drug candidates. No impairment was noted as a result of this review. Sensitivity analysis was performed in order to determine whether reasonable changes in significant assumptions would lead to the carrying value exceeding its recoverable amount, this showed no reasonably possible change that would result in an impairment.
+
+Acquired IP- GT Apeiron Collaboration. On July 1, 2021 the Group entered into a joint operation with GTA in order to build a sustainable pipeline of high-value, best in class therapeutics. As part of this arrangement the pre-existing collaboration arrangement between the two parties was terminated, the Group made a payment of £1,448,000 and waived the rights to 30% of the shares in GTA that became receivable following the achievement of a milestone on the pre-existing collaboration agreement, with the total fair value of these amounts of £2,543,000 capitalised as an acquired IP intangible at that date. The intangible relates to the IP in the pre-existing collaboration target that the group gained joint control of as a result of its participation in the joint operation.
+
+No amortisation charge has been recognised in relation to the IP during the period and as such the asset was reviewed for impairment on December 31, 2023. A value in use assessment was performed in order
+
+F-39
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+to determine that the asset's recoverable amount is in excess of its carrying amount. A discounted cashflow methodology was utilised, with key assumptions relating to the duration of and total costs relating to each phase of the drug development, the costs of completing clinical trials and obtaining certain regulatory approvals, and product sales volumes and the time period to patent expiry once regulatory approvals have been achieved. A probability of success was then applied to each phase of the drug development in order to reflect the possibility that the drug may not be successfully commercialised. Cashflows determined by the model were then discounted to present value using a discount rate of 14%. Cashflows were projected over a 20 year period, with the period in question deemed appropriate based on the time taken to design, develop, and commercialise drugs through to patent expiry once regulatory approvals have been achieved. The assumptions are based from industry literature and, where possible, the Group's experience of developing similar drug candidates. No impairment was noted.
+
+Goodwill- Kinetic Discovery Acquisition. Goodwill amounting to £173,000 arose on the acquisition of Kinetic Discovery Limited on November 23, 2018. No impairment review was performed at December 31, 2023 given the value of this goodwill is deemed to be immaterial.
+
+F-40
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+15.Property, Plant and Equipment
+
+Assets Under Construction
+
+Plant and Equipment
+
+Fixtures and Fittings
+
+Leasehold Improvements
+
+Computer Equipment
+
+Total
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Cost
+
+At January 1, 2022
+
+    637    
+
+6,108    
+
+345    
+
+    3,335    
+
+    779    
+
+11,204    
+
+Additions
+
+    25,755    
+
+    4,391    
+
+398    
+
+    310    
+
+    1,123    
+
+31,977    
+
+Reclassification of assets under construction
+
+    (4,053)
+
+    1,593    
+
+    —    
+
+    2,460    
+
+    —    
+
+—    
+
+Foreign currency translation
+
+    —    
+
+    42    
+
+    3    
+
+    —    
+
+    2    
+
+47    
+
+At December 31, 2022
+
+    22,339    
+
+12,134    
+
+746    
+
+    6,105    
+
+    1,904    
+
+43,228    
+
+Additions
+
+    14,837    
+
+4,205    
+
+151    
+
+    720    
+
+    148    
+
+20,061    
+
+Reclassification of assets under construction
+
+    (31,045)
+
+    11,019    
+
+284    
+
+    19,702    
+
+    40    
+
+—    
+
+Disposals
+
+    —    
+
+    (4)
+
+—    
+
+    —    
+
+    —    
+
+(4)
+
+Foreign currency translation
+
+    15    
+
+    (88)
+
+(7)
+
+    (50)
+
+    (4)
+
+(134)
+
+At December 31, 2023
+
+    6,146    
+
+27,266    
+
+1,174    
+
+    26,477    
+
+2,088    
+
+63,151    
+
+Accumulated Depreciation
+
+At January 1, 2022
+
+    —    
+
+    1,301    
+
+102    
+
+    829    
+
+    232    
+
+2,464    
+
+Depreciation charge- R&D expenses
+
+    —    
+
+    1,895    
+
+    27    
+
+    626    
+
+    332    
+
+    2,880    
+
+Depreciation charge- G&A expenses
+
+    —    
+
+    —    
+
+    25    
+
+    136    
+
+    51    
+
+    212    
+
+Foreign currency translation
+
+    —    
+
+    21    
+
+    —    
+
+    —    
+
+    3    
+
+    24    
+
+At December 31, 2022
+
+    —    
+
+3,217    
+
+154    
+
+    1,591    
+
+    618    
+
+5,580    
+
+Depreciation charge- R&D expenses
+
+    —    
+
+4,049    
+
+162    
+
+    2,187    
+
+    403    
+
+    6,801    
+
+Depreciation charge- G&A expenses
+
+    —    
+
+    —    
+
+61    
+
+    399    
+
+    69    
+
+    529    
+
+Impairment charge- R&D expenses
+
+    1,307    
+
+    —    
+
+—    
+
+    —    
+
+    —    
+
+    1,307    
+
+Disposals
+
+    —    
+
+    (1)
+
+—    
+
+    —    
+
+    —    
+
+    (1)
+
+Foreign currency translation
+
+    —    
+
+    (13)
+
+(1)
+
+    (1)
+
+    (4)
+
+    (19)
+
+At December 31, 2023
+
+    1,307    
+
+7,252    
+
+376    
+
+    4,176    
+
+1,086    
+
+14,197    
+
+Carrying value
+
+At December 31, 2023
+
+    4,839    
+
+20,014    
+
+798    
+
+    22,301    
+
+1,002    
+
+48,954    
+
+At December 31, 2022
+
+    22,339    
+
+8,917    
+
+592    
+
+    4,514    
+
+1,286    
+
+37,648    
+
+F-41
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Transfers from assets under construction relate primarily to leasehold improvements and plant and equipment, the majority of which relates to our site at Milton Park, which was bought into use during 2023.
+
+An impairment charge of £1,307,000 was recognised during the year ended December 31, 2023 relating to certain plant and equipment acquired in relation to our Biologics programme. In connection with our strategic decision to concentrate our efforts on our small molecule programmes, our Biologics programme was de-prioritised in the fourth quarter of 2023.
+
+16.Investments in Joint Ventures and Joint Operations
+
+Investment in Joint Venture
+
+Held by the Group and included in the Statement of Financial Position measured under the equity method:
+
+Name
+
+Class of Shares
+
+Holding
+
+Country of Incorporation
+
+Principal Activity
+
+Registered Address
+
+RE Ventures I, LLC (US)
+
+Ordinary
+
+50%
+
+US
+
+The JV was established to develop novel compounds for rare diseases
+
+251 Little Falls Drive, Wilmington, Delaware 1980
+
+RE Ventures II, LLC (US)
+
+Ordinary
+
+50%
+
+US
+
+The JV was established to develop novel compounds for rare diseases
+
+251 Little Falls Drive, Wilmington, Delaware 1980
+
+During 2019, the Group established a 50% interest in RE Ventures I, LLC with RallyBio which combines the deep therapeutic-area expertise of the RallyBio team with Exscientia’s proprietary AI platform to deliver novel small molecule treatments for certain rare diseases. During 2023, additional capital contributions totalling £1,827,000 (2022: £242,000) were made by the Group.
+
+Under the equity method the joint venture was recognised as follows:
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+As at January 1,
+
+    —    
+
+    424    
+
+Additional equity
+
+    1,827    
+
+    242    
+
+Foreign exchange differences
+
+    (9)
+
+    25    
+
+Share of the losses
+
+    (1,645)
+
+    (691)
+
+As at December 31,
+
+    173    
+
+    —    
+
+Research and development costs totalling £2,174,000 (2022: £302,000) have been recharged to RE Ventures I, LLC, with no contract assets recognised at December 2023 (2022:£nil).
+
+No commitments to provide funding for the joint venture’s capital commitments were present as at either December 31, 2023 or 2022.
+
+F-42
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+The following table illustrates the summarised financial information of the joint venture entity, RE Ventures I, LLC. The Group acquired its interest in the joint venture entity at the point of incorporation and therefore, there were no financials prior to acquisition.
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Operating expenses
+
+    (3,274)
+
+    (1,720)
+
+    (2,304)
+
+Loss for the period
+
+    (3,274)
+
+    (1,720)
+
+    (2,304)
+
+Total Comprehensive Loss
+
+    (3,274)
+
+    (1,720)
+
+    (2,304)
+
+December 31,
+
+2023
+
+2022
+
+2021
+
+£’000
+
+£’000
+
+£’000
+
+Cash and cash equivalents
+
+    853    
+
+    253    
+
+    1,178    
+
+Current assets
+
+    —    
+
+    3    
+
+    91    
+
+Current liabilities
+
+    (479)
+
+    (209)
+
+    (78)
+
+Members' surplus
+
+    374    
+
+    47    
+
+    1,191    
+
+During 2022 the Group established a further 50% joint venture with RallyBio, RE Ventures II, LLC, with the same aims. There have been no transactions with this entity and no capital contributions were made from its inception to December 31, 2023.
+
+Joint Operations
+
+Exscientia has a joint contractual arrangement with Evotec AG, which originally entitled each party to 50% ownership over three novel compounds under the collaboration. The joint operation is not structured through a separate legal entity, and it operates from Exscientia and Evotec AG’s respective principal places of business. Evotec exercised its opt-out rights in relation to the arrangement in April 2021, revising downwards their ownership rights at each stage of development of the collaboration's intellectual property, with their ownership rights at 40% as at December 31, 2023. Evotec's ownership reduces further at future stages of development, subject to a minimum level at commercialisation of 10%. As at January 1, 2023 activities were ongoing in relation to one novel compound, EXS21546 ('546). On October 3, 2023 the Company announced that it was discontinuing internal development on '546.
+
+A joint contractual arrangement was entered into between Exscientia and Blue Oak Pharmaceuticals Inc. (“Blue Oak”) on September 25, 2020. On August 8, 2023, Exscientia and Blue Oak Pharmaceuticals Inc. ended this collaboration agreement. The purpose of this arrangement was to collaborate on a project to design dual targeted (bispecific) small molecules for the treatment of neurodegenerative diseases. No
+
+F-43
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+settlement amounts were paid as a result of the termination and no impairments of assets were recorded. Both parties retain the right to operate within the target area.
+
+On May 26, 2021 the Group entered into a joint operation with EQRx Inc. (“EQRx”), a Delaware corporation to identify, discover and develop innovative drug candidates for high value therapeutics. The collaboration was ended on October 9, 2023 following the announcement of the acquisition of EQRx by Revolution Medicines Inc., at which point it was agreed that the Group would return the agreed unspent funds advanced to it by EQRx at the initiation of the collaboration in complete satisfaction of the Group’s financial obligations under the collaboration agreement. As part of the arrangement, the Group obtained full and exclusive rights to all intellectual property on the three initial targets that was created during the collaboration. Accordingly, $8,750,000 was transferred to EQRx on October 12, 2023.
+
+On July 1, 2021 the Group entered into a joint operation with GTA as described in note 14 above. The aim of the collaboration is to accelerate the discovery of multiple small molecule therapeutic drug candidates designed to selectively treat aberrant cell cycle driven cancers and build a pipeline of CDK novel therapies, with equal ownership of any pipeline products resulting from the collaboration and costs incurred shared equally between the two parties.
+
+On November 14, 2022 Exscientia entered into a joint operation with MD Anderson to leverage AI in developing novel oncology treatments. The research collaboration will utilise Exscientia’s precision medicine platform to identify novel anti-cancer, cell-intrinsic small-molecule compounds based on jointly identified therapeutic targets. Promising candidates will advance for further development with the team at MD Anderson’s Therapeutics Discovery division. MD Anderson and Exscientia anticipate that successful target discovery programs may be advanced into proof-of-concept clinical trials at MD Anderson. Under the agreement terms, Exscientia and MD Anderson will jointly contribute to and support each program designated to move forward. Any collaboration IP will then be jointly owned with percentage ownership dependent upon costs incurred, with a target cost-sharing ratio of 50%.
+
+No collaboration IP has been capitalised in relation to any of the above joint operations as at December 31, 2023 and 2022 with the exception of the acquired IP intangible relating to the Group's collaboration with GTA as described in note 14.
+
+F-44
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+17.Leases
+
+Right-of-use Assets:
+
+£'000
+
+Cost
+
+At January 1, 2022
+
+    6,625    
+
+Additions
+
+    9,502    
+
+Lease modification
+
+    1,759    
+
+Disposals
+
+    (161)
+
+Foreign currency translation
+
+    133    
+
+At December 31, 2022
+
+    17,858    
+
+Additions
+
+    6,775    
+
+Lease modification
+
+    742    
+
+Disposals
+
+    (157)
+
+Foreign currency translation
+
+    (214)
+
+At December 31, 2023
+
+    25,004    
+
+Accumulated Depreciation
+
+At January 1, 2022
+
+    1,471    
+
+Depreciation charge- R&D expenses
+
+    1,468    
+
+At Depreciation charge- G&A expenses
+
+    279    
+
+At Disposals
+
+    (161)
+
+At Foreign currency translation
+
+    7    
+
+At December 31, 2022
+
+    3,064    
+
+Depreciation charge- R&D expenses
+
+    3,077    
+
+Depreciation charge- G&A expenses
+
+    490    
+
+Disposals
+
+    (125)
+
+Foreign currency translation
+
+    (15)
+
+At December 31, 2023
+
+    6,491    
+
+Carrying value
+
+At December 31, 2023
+
+    18,513    
+
+At December 31, 2022
+
+    14,794    
+
+All right-of-use assets relate to leased properties. As at January 1, 2023 the Group had ten pre-existing lease agreements relating to four properties based in the United Kingdom and one in Austria.
+
+The Group entered into two seven-year lease arrangements in relation to laboratory and office space in Vienna, Austria on September 3, 2021. The lease term for the office space commenced on December 1, 2022, expiring in December 2029. The lease term for the laboratory space commenced on January 26, 2023. Annually from January, each year lease payments will be indexed based on the consumer price index rate as published by STATISTIK AUSTRIA at September of the preceding year.
+
+On July 1, 2022, the Group entered into a lease arrangement in relation to premises in Boston, Massachusetts, United States. The lease commenced on January 23, 2023 and expires on June 23, 2033.
+
+F-45
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+In December 2022, the Group entered into a lease arrangement in relation to premises in Miami, Florida, United States. The lease commencement date, being the date at which the landlord makes the premises available to the Group, is currently expected to transpire during the first quarter of 2024, and as such no right of use asset has been recognised in relation to this lease during the year ended December 31, 2023. The lease expires on June 1, 2034. See note 3 for further details regarding this lease.
+
+On October 16, 2023 the Group entered into a second lease arrangement in relation to premises in Miami, Florida which expires on January 31, 2029.
+
+Right-of-use assets totalling £6,692,000 were recognised in relation to the Group's leased premises in Vienna, Miami and Boston leases during the year ended December 31, 2023.
+
+On May 23, 2023, the Group exited a lease pertaining to part of its leased premises in Dundee, United Kingdom, resulting in a disposal of right-of-use asset of £157,000.
+
+On December 28, 2023, the Group made the decision to not exercise a break clause present within one of the leases on a building at one of our Oxford sites. The lease term was subsequently revised to the lease expiration date of July, 28, 2028, and the related right of use lease asset increased by £742,000. An adjustment was also made to increase the restoration provision relating to this site by £84,000 as a result of the change in lease term.
+
+Restoration provisions of £200,000 and £500,000 were made during 2022 in respect of the Group’s obligation to restore alterations made during the period on leased spaces in two of the Group’s leasehold properties. The required work is expected to be completed in 2026 and 2031 respectively.
+
+Lease Liability Maturity
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Current
+
+    2,396    
+
+    2,641    
+
+Non-current
+
+    16,221    
+
+    10,942    
+
+    18,617    
+
+    13,583    
+
+F-46
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+In respect of the Group’s leasing activities the following amounts were recognised:
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Recognised within general administrative expenses
+
+Depreciation charge for the right-of-use assets
+
+    3,567    
+
+    1,747    
+
+Expenses relating to short-term leases
+
+    286    
+
+    409    
+
+Onerous lease expense
+
+    807    
+
+    —    
+
+Recognised within finance expenses
+
+Interest expense on lease liabilities
+
+    1,028    
+
+    299    
+
+See note 3 for further details regarding the onerous lease expense recorded during the year ended December 31, 2023.
+
+The undiscounted lease liability contractual maturities as at December 31, 2023 and 2022 are as follows:
+
+December 31,
+
+2023
+
+2022
+
+£'000
+
+£'000
+
+Within one year
+
+    3,399    
+
+    2,641    
+
+One to five years
+
+    14,707    
+
+    9,682    
+
+More than 5 years
+
+    4,003    
+
+    3,930    
+
+    22,109    
+
+    16,253    
+
+18.Other Receivables and Contract Assets
+
+Current Other Receivables and Contract Assets
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+VAT recoverable
+
+    3,356    
+
+    3,040    
+
+Prepayments
+
+    5,961    
+
+    5,935    
+
+Contract assets and accrued grant income
+
+    —    
+
+    176    
+
+Accrued bank interest
+
+    412    
+
+    746    
+
+Other receivables
+
+    5,622    
+
+    4,721    
+
+    15,351    
+
+    14,618    
+
+F-47
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Non-current Other Receivables and Contract Assets
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Other receivables
+
+    663    
+
+    100    
+
+    663    
+
+    100    
+
+Non-current other receivables relate to deposits on leased premises; due back at the end of the respective lease terms.
+
+A reconciliation of the movement in contract assets and accrued grant income for the Group is as follows:
+
+January 1, 2023
+
+Recognised as Income
+
+Deductions
+
+Foreign Exchange
+
+December 31, 2023
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Grants
+
+    176    
+
+    117    
+
+    (293)
+
+    —    
+
+    —    
+
+Total contract assets and accrued grant income
+
+    176    
+
+    117    
+
+    (293)
+
+    —    
+
+    —    
+
+January 1, 2022
+
+Recognised as Income
+
+Deductions
+
+Foreign Exchange
+
+December 31, 2022
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Grants
+
+    126    
+
+    171    
+
+    (143)
+
+    22    
+
+    176    
+
+Collaborations
+
+    179    
+
+    (69)
+
+    (110)
+
+    —    
+
+    —    
+
+Total contract assets and accrued grant income
+
+    305    
+
+    102    
+
+    (253)
+
+    22    
+
+    176    
+
+F-48
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+19.Inventories
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Raw materials
+
+    —    
+
+    15    
+
+Work in progress
+
+    —    
+
+    35    
+
+    —    
+
+    50    
+
+F-49
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+20.Cash and Cash Equivalents
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Cash and cash equivalents
+
+257,568    
+
+403,717    
+
+Restricted cash
+
+    1,895    
+
+    860    
+
+259,463    
+
+404,577    
+
+Restricted cash relates to amounts on deposit which have been granted to the Group to reimburse certain costs incurred in relation to the Group's grants with the Open Philanthropy Project LLC and the Gates Foundation.
+
+21.Share Capital
+
+December 31, 2023
+
+December 31, 2022
+
+£
+
+£
+
+Issued and fully paid share capital
+
+125,702,396 (2022: 122,963,545) Ordinary shares of £0.0005 each
+
+    62,851    
+
+    61,482    
+
+    62,851    
+
+    61,482    
+
+Shares authorised and issued (number)
+
+December 31, 2022
+
+Exercise of share-based payment awards
+
+Issue of Shares
+
+December 31, 2023
+
+Ordinary shares
+
+122,963,545    
+
+2,738,848    
+
+    3    
+
+125,702,396    
+
+122,963,545    
+
+2,738,848    
+
+    3    
+
+125,702,396    
+
+A total of 2,738,848 shares were issued upon the exercise of share-based payment awards during the year ended December 31, 2023; see note 30 for further details. A total of 3 shares were issued to employees for consideration equal to their nominal value during the year ended December 31, 2023.
+
+Rights of Share Classes
+
+Holders of ordinary shares are entitled to one vote per share at a show of hands meeting of the Company and one vote per share on a resolution on a poll taken at a meeting and on a written resolution. The deferred shares conveyed no voting rights to the shareholders prior to their repurchase.
+
+F-50
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+22.Reserves
+
+Share capital. Share capital represents the nominal value of shares that have been issued.
+
+Share premium. Share premium is the excess amount received by the Company over the par value of shares issued.
+
+Capital redemption reserve. Represents the cancellation and repurchase of deferred shares.
+
+Foreign exchange reserve. Comprises translation differences arising from the translation of financial statements of the Group’s foreign entities into GBP.
+
+Share based payment reserve. Represents share options awarded by the Group and company.
+
+Fair value reserve. The fair value reserve comprises the cumulative net change in the fair value of investments classified as at FVOCI until the investments are derecognised.
+
+Merger reserve. The merger reserve arose as a result of group reorganisation transactions and represents the difference between the equity of Exscientia plc and Exscientia AI Limited at the point at which the share for share exchange was executed.
+
+Retained Earnings/accumulated Losses. Retained earnings/accumulated losses comprise the Group's undistributed earnings after taxes in addition to amounts generated as a result of the Group's corporate reorganisation.
+
+F-51
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+23.Deferred Tax
+
+United Kingdom
+
+The Group has recognised deferred tax assets and liabilities at December 31, 2023 and 2022. In light of the Group’s history of losses, recovery of the whole deferred tax asset is not sufficiently certain, and therefore a deferred tax asset has been recognised only to the extent that there is a deferred tax liability in the form of fixed asset temporary differences.
+
+The unrecognised deferred tax asset of £57,658,000 (2022: £42,358,000) relates to short term timing differences of £40,788,000 (2022: £31,372,676) and losses and other deductions of £202,495,000 (2022: £167,305,000) offset by underlying fixed asset timing differences of £11,985,000 (2022: £29,247,000).
+
+Recognised
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Deferred tax asset
+
+Other temporary differences
+
+    3,115    
+
+    7,312    
+
+Deferred tax liability
+
+Fixed asset temporary differences
+
+    (3,115)
+
+    (7,312)
+
+Deferred tax asset, net
+
+    —    
+
+    —    
+
+Not Recognised
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Deferred tax asset
+
+Losses and other deductions
+
+    50,576    
+
+    41,827    
+
+Other temporary differences
+
+    7,082    
+
+    531    
+
+Deferred tax asset, net
+
+    57,658    
+
+    42,358    
+
+Austria
+
+The Group has recognised the following deferred tax assets and liabilities at December 31, 2023 and 2022:
+
+F-52
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+December 31,
+
+2023
+
+2022(1)
+
+£’000
+
+£’000
+
+Deferred tax asset
+
+Other temporary differences
+
+    1,649    
+
+    1,006    
+
+Deferred tax liability
+
+Fixed asset temporary differences
+
+    (5,897)
+
+    (7,072)
+
+Other temporary differences
+
+    (1,526)
+
+    (1,006)
+
+Deferred tax liability, net
+
+    (5,774)
+
+    (7,072)
+
+(1) Comparative figures are restated for the adoption of the amendment to IAS 12, Income Taxes, see note 2e.
+
+United States of America
+
+The Group has recognised the following deferred tax assets and liabilities at December 31, 2023 and 2022:
+
+December 31,
+
+2023
+
+2022(1)
+
+£’000
+
+£’000
+
+Deferred tax asset
+
+Other temporary differences
+
+    1,257    
+
+    1,008    
+
+Deferred tax liability
+
+Other temporary differences
+
+    (567)
+
+    —    
+
+Deferred tax asset, net
+
+    690    
+
+    1,008    
+
+(1) Comparative figures are restated for the adoption of the amendment to IAS 12, Income Taxes, see note 2e.
+
+The Group has an unrecognised deferred tax asset of £1,006,000 (2022: £660,000) relating to losses of £4,789,000 (2022: £3,144,000).
+
+24.Contract Liabilities and Other Advances
+
+F-53
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Within one year
+
+More than one year
+
+December 31,
+
+December 31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Contract liabilities
+
+Revenue generating collaborations
+
+    25,036    
+
+    29,433    
+
+    65,466    
+
+58,451    
+
+Total contract liabilities
+
+    25,036    
+
+    29,433    
+
+    65,466    
+
+58,451    
+
+Other advances
+
+Grants
+
+    1,970    
+
+    959    
+
+    —    
+
+    —    
+
+Joint Operations
+
+    —    
+
+    8,420    
+
+    —    
+
+719    
+
+Total other advances
+
+    1,970    
+
+    9,379    
+
+    —    
+
+719    
+
+Total contract liabilities and other advances
+
+    27,006    
+
+    38,812    
+
+    65,466    
+
+59,170    
+
+A reconciliation of the movement in contract liabilities and other advances is as follows:
+
+January 1, 2023
+
+Additions
+
+Recognised in the Income Statement
+
+Transferred to Other Creditors
+
+Foreign Exchange
+
+December 31, 2023
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Grants
+
+    959    
+
+    2,141    
+
+(1,127)
+
+    —    
+
+    (2)
+
+1,971    
+
+Revenue generating collaborations
+
+87,884    
+
+    22,655    
+
+(20,038)
+
+    —    
+
+    —    
+
+90,501    
+
+Joint operations
+
+9,139    
+
+    —    
+
+(2,033)
+
+(7,106)
+
+    —    
+
+    —    
+
+Total contract liabilities and other advances
+
+97,982    
+
+24,796    
+
+(23,198)
+
+(7,106)
+
+    (2)
+
+92,472    
+
+Additions to contract liabilities relating to revenue generating collaborations during the year ended December 31, 2023 include £16,238,000 ($20,100,000) invoiced to Merck KGaA, Darmstadt, Germany relating to the collaboration initiated with that counterparty on September 19, 2023, and amounts of £3,274,000 ($4,000,000) and £3,144,000 ($4,000,000) invoiced to Sanofi in relation to the achievement of a research milestone and the initiation of a new drug discovery project as detailed in note 5.
+
+The Group’s collaboration with EQRx International, Inc. (“EQRx”) was ended on October 9, 2023 following the announcement of the acquisition of EQRx by Revolution Medicines Inc., at which point it was agreed that the Group would return the agreed unspent funds advanced to it by EQRx at the initiation of the collaboration in complete satisfaction of the Group’s financial obligations under the collaboration agreement. As part of the arrangement, the Group obtained full and exclusive rights to all intellectual property on the three initial targets that was created during the collaboration.
+
+The Group expects to recognise its contract liabilities relating to revenue generating collaborations over the terms of the related collaborations, the longest of which extends to December 2027. As at
+
+F-54
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+December 31, 2022, the Group expected to recognise its contract liabilities relating to revenue generating collaborations over the period to December 2027. The ageing presented above reflects the Group’s best estimate of when contract liability and other advance amounts will be utilised based upon when the underlying costs to be incurred in the delivery of the related projects are expected to be incurred.
+
+A reconciliation of the movement in contract liabilities and other advances for the year ended December 31, 2022 is as follows:
+
+January 1, 2022
+
+Additions
+
+Recognised in the Income Statement
+
+Foreign Exchange
+
+December 31, 2022
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Grants
+
+1,889    
+
+    715    
+
+(1,648)
+
+    3    
+
+    959    
+
+Revenue generating collaborations
+
+28,946    
+
+85,700    
+
+(26,769)
+
+    7    
+
+87,884    
+
+Joint Operations
+
+15,486    
+
+    —    
+
+(6,347)
+
+    —    
+
+9,139    
+
+Total contract liabilities and other advances
+
+46,321    
+
+86,415    
+
+(34,764)
+
+    10    
+
+97,982    
+
+25.Provisions
+
+Restoration Provisions
+
+Onerous Contracts
+
+Total
+
+£’000
+
+£’000
+
+£’000
+
+At January 1, 2022
+
+    537    
+
+    —    
+
+    537    
+
+Provisions made during the year
+
+    700    
+
+    —    
+
+    700    
+
+Unwind of discount
+
+    6    
+
+    —    
+
+    6    
+
+At December 31, 2022
+
+    1,243    
+
+    —    
+
+    1,243    
+
+Provisions made during the year
+
+    84    
+
+    807    
+
+    891    
+
+Unwind of discount
+
+    23    
+
+    —    
+
+    23    
+
+At December 31, 2023
+
+    1,350    
+
+    807    
+
+    2,157    
+
+A provision of £535,000 was made during 2020 in respect of the Group’s obligation to restore alterations made on lease space within one of the Group’s leasehold properties. The required work is expected to be completed in 2024 and 2028.
+
+Further provisions of £200,000 and £500,000 were made during 2022 in respect of the Group’s obligation to restore alterations made during the period on leased spaces in two of the Group’s leasehold properties. The required work is expected to be completed in 2026 and 2031 respectively.
+
+An adjustment was made to increase the restoration provision relating to part of the Group's Oxford headquarters by £84,000 upon extension of the related lease. The required work is now expected to be completed in 2028.
+
+F-55
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Key uncertainties surrounding the amount and timing of the outflows relate to changes in required restoration costs over the lease term and the timing of exit of the relevant buildings.
+
+A provision for costs relating to an onerous contract relating to one of the Group's leased premises was recorded during the year ended December 31, 2023, see note 3 for further details.
+
+26.Other Payables
+
+Current Other Payables
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Accruals
+
+    16,238    
+
+    15,801    
+
+Other payables
+
+    2,087    
+
+    814    
+
+Other taxation and social security
+
+    5,897    
+
+    2,830    
+
+Corporation tax
+
+    111    
+
+    10    
+
+    24,333    
+
+    19,455    
+
+Non-current Other Payables
+
+December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Other payables
+
+    —    
+
+    377    
+
+    —    
+
+    377    
+
+F-56
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+27.Financial Instruments
+
+The group holds the following financial instruments:
+
+December 31,
+
+Financial Assets
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Held at amortised cost
+
+Trade and other receivables (excluding prepayments and taxes)
+
+    10,069    
+
+    6,266    
+
+Cash and cash equivalents
+
+259,463    
+
+404,577    
+
+Short term bank deposits
+
+103,586    
+
+101,234    
+
+Held at fair value through OCI
+
+Investments held in unquoted equity instruments
+
+    2,145    
+
+    2,145    
+
+375,263    
+
+514,222    
+
+December 31,
+
+Financial Liabilities
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Held at amortised cost
+
+Trade and other payables (excluding taxes and contract liabilities and other advances)
+
+    29,662    
+
+    47,732    
+
+Loans
+
+    306    
+
+    313    
+
+Lease liability
+
+    18,617    
+
+    13,583    
+
+Other advances from joint operation partners
+
+    —    
+
+    9,139    
+
+    48,585    
+
+    70,767    
+
+As disclosed throughout the financial statements, management consider fair value to be materially the same as the carrying amount. Other advances relating to amounts received from joint operation partners have been classified as financial liabilities and included within the tables above and below.
+
+Classification of Financial Assets at Amortised Cost
+
+The Group classifies its financial assets as at amortised cost only if both of the following criteria are met:
+
+•The asset is held within a business model with the objective of collecting the contractual cash flows, and
+
+•the contractual terms give rise on a specified date to cash flows that are solely payments of principal and interest on the principal outstanding.
+
+Nature of Financial Instruments Recognised and Measured at Fair Value
+
+Unlisted Equity Securities- Shares in GTA. Following the achievement of a development milestone on March 31, 2021, the Group became entitled to receive a number of ordinary shares and preference shares in GTA. These shares represent unlisted equity securities and the Group has taken the election provided within IFRS9 to recognize fair value gains and losses within Other Comprehensive Income (FVOCI) as
+
+F-57
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+gains and losses relating to the value of these securities are not considered to be part of the trading activities of the entity.
+
+On July 1, 2021 the rights to a portion of these shares were waived as part of an agreement to enter into a joint arrangement with the Group as further detailed in note 14. The remainder of the shares in question were received on that date.
+
+The Group’s current valuation for this investment has been established with reference to the price of third party investment into GTA in the first quarter of 2022, with no adjustment deemed necessary based on our assessment of internal and other market factors throughout the remainder of 2022 and 2023.
+
+Foreign Exchange Forward Contracts. During the three months ended June 30, 2022 the Group entered into one specific set of foreign exchange transactions, whereby a commitment was made to exchange U.S. dollars for a fixed number of Pounds Sterling at future dates between one and three months from the trade dates based on the estimated future cashflow needs of the Group. All of the transactions were settled within the quarter ended June 30, 2022 for a cumulative loss of £11,287,000. No such transactions were entered subsequent to that date, and the group does not use derivative financial instruments for speculative purposes.
+
+Fair Value Hierarchy. To provide an indication about the reliability of the inputs used in determining fair value, the group classifies its financial instruments into the three levels prescribed under the accounting standards as follows:
+
+Level 1: The fair value of financial instruments traded in active markets (such as publicly traded derivatives and equity securities) is based on quoted market prices at the end of the reporting period. The quoted marked price used for financial assets held by the group is the current bid price. These instruments are included in level 1.
+
+Level 2: The fair value of financial instruments that are not traded in an active market (for example, over–the–counter derivatives) is determined using valuation techniques which maximize the use of observable market data and rely as little as possible on entity-specific estimates. If all significant inputs required to fair value an instrument are observable, the instrument is included in level 2.
+
+Level 3: If one or more of the significant inputs is not based on observable market data, the instrument is included in level 3. This is the case for unlisted equity securities.
+
+The objective of valuation techniques is to arrive at a fair value measurement that reflects the price that would be received to sell the asset or paid to transfer the liability in an orderly transaction between market participants at the measurement date.
+
+Fair Value Measurements Using Significant Unobservable Inputs (level 3)
+
+F-58
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Unlisted Equity Securities
+
+£’000
+
+Opening balance as at January 1, 2023
+
+    2,145    
+
+Acquisitions
+
+    —    
+
+Loss recognised in other comprehensive income
+
+    —    
+
+Disposal
+
+    —    
+
+Closing balance as at December 31, 2023
+
+    2,145    
+
+The group did not measure any financial assets or financial liabilities at fair value on a non-recurring basis as at December 31, 2023. There have been no transfers between levels 2 and 3 and changes in valuation techniques during the period.
+
+Risk Management Objectives. Management identifies and evaluates financial risks on an on-going basis. The principal risks to which the Group is exposed are market risk (including interest rate risk, and cash flow risk), credit risk, and liquidity risk.
+
+Market Risk. Market risk is the risk that the fair value or future cash flows of financial instruments will fluctuate because of changes in market prices. For the Group, market risk comprise of two types of risks; interest rate risk and foreign currency risk.
+
+Foreign Currency Risk. The Group is exposed to foreign currency exchange risks due to the Group holding foreign currency monetary assets and liabilities which are exposed to exchange rate fluctuations, primarily in relation to foreign currency denominated cash and cash equivalents as well as trade receivables. This risk is assessed on an on-going basis.
+
+The Group does not have a policy to use derivative financial instruments to manage currency exchange movements, although they may be used for specific transactions, and as such, no hedge accounting is applied.
+
+The table below illustrates the sensitivity analysis of the Group’s reported profit to a 10% increase or decrease in the respective foreign exchange rates to which they are significantly exposed. The sensitivity analysis is calculated on balances outstanding at the year end, with all other variables held constant.
+
+F-59
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Change in rate
+
+Effect on profit before tax
+
+Effect on equity
+
+£’000
+
+£’000
+
+2023
+
+Change in USD
+
+    +10%
+
+    9,031    
+
+    9,092    
+
+    -10%
+
+    (9,031)
+
+    (9,092)
+
+Change in EUR
+
+    +10%
+
+    (17)
+
+    3,648    
+
+    -10%
+
+    17    
+
+    (3,648)
+
+2022
+
+Change in USD
+
+    +10    
+
+    6,290    
+
+    6,051    
+
+    -10%
+
+    (6,290)
+
+    (6,051)
+
+Change in EUR
+
+    +10%
+
+    165    
+
+    4,631    
+
+    -10%
+
+    (165)
+
+    (4,631)
+
+Interest Rate Risk. The Group’s exposure to the risk of changes in market interest rates relate to the Group’s interest-bearing current accounts. The Group has multiple instant access accounts including within cash and cash equivalents which are exposed to variable interest rates which total to £97,292,000 (2022: £370,868,000). A sensitivity analysis prepared with a 1% increase or decrease in interest rate with all other variables held constant would lead to an increase or decrease in profit and equity of £973,000 (2022: £3,709,000).
+
+The sensitivity analysis has been determined based on the exposure to floating interest rate instruments at the end of the reporting year. The analysis is prepared assuming the amount of the consolidated balance at the end of the reporting year was the balance for the whole year.
+
+Credit Risk. Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in financial loss to the Group. Credit risk arises from cash balances (including bank deposits, cash and cash equivalents) and credit exposures to trade and other receivables.
+
+The Group’s maximum exposure to credit risk is represented by the carrying value of cash and cash equivalents and trade and other receivables.
+
+Credit risk is managed by monitoring clients and performing credit checks before accepting any customers and by placing funds with banks with high credit-ratings assigned by international credit-rating agencies.
+
+Impaired Trade Receivables. Individual receivables which are known to be uncollectible are written off by reducing the carrying amount directly. There have been no impairments during 2023 (2022: £nil).
+
+F-60
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Expected Credit Losses. At each reporting date, the Group recognizes a loss allowance for expected credit losses on material balances by applying the simplified approach.
+
+In applying the simplified approach, the Group uses a “probability of default” (“PD”) approach, to determine the lifetime expected credit losses. Under the PD approach, the expected credit losses are calculated using three main parameters:
+
+•a counterparty PD;
+
+•expected LGD (loss given default); and
+
+•EAD (expected exposure at default).
+
+In calculating the expected credit loss, the following formula is applied:
+
+Expected Credit Loss (ECL) = PD x LGD x EAD
+
+Based on the nature of the Group’s activities and trade receivables being current, management has determined that the expected credit loss on these balances is not material at the reporting date.
+
+Capital Management. The Group manages its capital to ensure that it will be able to continue as a going concern. The capital structure of the Group consists of issued capital, the share premium account and accumulated losses.
+
+The Group manages its capital structure and makes adjustments to it in light of changes in economic conditions. No significant changes were made in the objectives, policies or processes during the years ended December 31, 2023 and December 31, 2022. The Group does not have any externally imposed capital requirements. As part of the Group’s management of capital structure, consideration is given to the cost of capital.
+
+Liquidity Risk. Liquidity risk is the risk that the Group may encounter difficulty in meeting its obligations associated with financial liabilities that are settled by delivering cash or other financial assets. The Group seeks to manage its liquidity risk by ensuring that sufficient liquidity is available to meet its foreseeable needs.
+
+A summary table with maturity of financial liabilities presented below is used by management to manage liquidity risks. The amounts disclosed in the following tables are the contractual undiscounted cash flows with the exception of advances received from joint operation partners, which are based on the Group's best estimate of when the underlying costs to which those advances relate are incurred.
+
+Undiscounted cash flows in respect of balances due within 12 months generally equal their carrying amounts in the statement of financial position, as the impact of discounting is not material.
+
+The maturity analysis of financial liabilities at December 31, 2023 is as follows:
+
+F-61
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Carrying Amount
+
+Demand and Less Than 3 Months
+
+From 3 to 12 Months
+
+From 12 Months to 2 Years
+
+From 2 to 5 Years
+
+More Than 5 Years
+
+Total Contractual Cash Flows
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Liabilities:
+
+Trade and other payables
+
+(29,662)
+
+(29,007)
+
+(655)
+
+—    
+
+    —    
+
+    —    
+
+(29,662)
+
+Loans
+
+(306)
+
+    (1)
+
+    (2)
+
+(2)
+
+(313)
+
+    —    
+
+(318)
+
+Lease liability
+
+(18,617)
+
+(812)
+
+(2,587)
+
+(3,661)
+
+(11,046)
+
+(4,003)
+
+(22,109)
+
+(48,585)
+
+(29,820)
+
+(3,244)
+
+(3,663)
+
+(11,359)
+
+(4,003)
+
+(52,089)
+
+Interest Bearing Loans and Borrowings. As part of the Group’s acquisition of Allcyte the group acquired a loan of €353,000 (£300,000) from the FFG. This loan accrues interest at a rate of 0.75% repaid annually and is repayable on September 30, 2026.
+
+The maturity analysis of financial liabilities at December 31, 2022 is as follows:
+
+Carrying Amount
+
+Demand and Less Than 3 Months
+
+From 3 to 12 Months
+
+From 12 Months to 2 Years
+
+From 2 to 5 Years
+
+More Than 5 Years
+
+Total Contractual Cash Flows
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Liabilities:
+
+Trade and other payables
+
+(47,732)
+
+(47,355)
+
+    —    
+
+(377)
+
+    —    
+
+    —    
+
+(47,732)
+
+Loans
+
+(313)
+
+    (1)
+
+    (2)
+
+    (2)
+
+(320)
+
+    —    
+
+(325)
+
+Lease liability
+
+(13,583)
+
+(619)
+
+(2,022)
+
+(2,576)
+
+(7,107)
+
+(3,930)
+
+(16,254)
+
+Other advances from joint operation partners
+
+(9,139)
+
+(1,572)
+
+(6,870)
+
+(697)
+
+    —    
+
+    —    
+
+(9,139)
+
+(70,767)
+
+(49,547)
+
+(8,894)
+
+(3,652)
+
+(7,427)
+
+(3,930)
+
+(73,450)
+
+Changes in liabilities arising from financing activities
+
+At January 1, 2023
+
+Cash Flows
+
+Additions
+
+Interest Expense
+
+Foreign Exchange
+
+Disposals
+
+At December 31, 2023
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Interest-bearing loans and borrowings
+
+313    
+
+(2)
+
+—
+
+2    
+
+    (7)
+
+—    
+
+    306    
+
+Lease liabilities
+
+13,583    
+
+(3,194)
+
+7,434    
+
+1,028    
+
+(195)
+
+(39)
+
+18,617    
+
+Total liabilities from financing activities
+
+13,896    
+
+(3,196)
+
+7,434    
+
+1,030    
+
+(202)
+
+(39)
+
+18,923    
+
+F-62
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+At January 1, 2022
+
+Cash Flows
+
+Additions
+
+Interest Expense
+
+Foreign Exchange
+
+At December 31, 2022
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+£’000
+
+Interest-bearing loans and borrowings
+
+    296    
+
+    —    
+
+    —    
+
+    2    
+
+    15    
+
+    313    
+
+Lease liabilities
+
+    4,879    
+
+(1,740)
+
+10,033    
+
+    298    
+
+    113    
+
+13,583    
+
+Total liabilities from financing activities
+
+    5,175    
+
+(1,740)
+
+10,033    
+
+    300    
+
+    128    
+
+13,896    
+
+Other Financial Instruments. On June 21, 2022, the Group invested £100,000,000 into a 12-month deposit with an F1+ rated U.K. financial institution. This short term bank deposit accrued interest at a rate of 2.35% and was classified as a financial asset measured at amortised cost. The investment was redeemed on June 21, 2023.
+
+On March 24, 2023, the Group invested £150,000,000 into a 9-month short term deposit with an F1 rated financial institution. This short term bank deposit accrued interest at a rate of 4.8% and was classified as a financial asset measured at amortised cost. The investment was redeemed on December 27, 2023.
+
+On July 27, 2023 the Group invested $40,000,000 into a 6-month short term deposit with an F1+ rated financial institution. On August 11, and August 16, 2023, the Group invested £45,000,000 and £25,000,000 respectively into two 6-month short term deposits with an F1 rated financial institution. These short term bank deposits accrue interest at 5.2%, 5.4% and 5.4% respectively and have been classified as financial assets measured at amortised cost.
+
+The Group also has a number of other financial instruments which are not measured at fair value in the balance sheet consisting of trade receivables, trade and other payables, other loans and lease liabilities. For these instruments, the fair values are not materially different to their carrying amounts, since the interest receivable/payable is either close to current market rates or the instruments are short-term in nature.
+
+28.Pension Commitments
+
+The Group operates a defined contribution retirement benefit schemes for all qualifying employees. The assets of the scheme are held separately from those of the Group in funds under the control of trustees. The total expense recognised for the year ended December 31, 2023 was £2,523,000 (2022: £1,542,000). Contributions outstanding at the period end were £430,000 (2022: £349,000).
+
+F-63
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+29.Related Party Transactions
+
+In accordance with the IAS 24 definition there are no disclosable related party transactions who are not key management personnel of the Group (whose remuneration is disclosed in note 11) or joint ventures during the year ended December 31, 2023 (2022: none).
+
+The Group has undertaken transactions with its joint venture entity, RE Ventures I, LLC during the years ending December 31, 2023 and 2022, details of which are set out in note 16.
+
+30.Share Based Payments
+
+From April 2022 the Company has issued all share options, performance share options, RSUs and PSUs to employees and non-employee members of the Board of Directors under the 2021 Equity Incentive Plan (“EIP”). All awards prior to that date were issued under the following legacy plans:
+
+•Enterprise Management Incentive (“EMI”) Scheme
+
+•Company Share Ownership Plan (“CSOP”)
+
+•Unapproved Share Ownership Plan (“USOP”)
+
+Total share-based remuneration expenses (including charges relating to the clawback shares) amounted to £24,350,000 during the year ended December 31, 2023 (2022: £30,576,000).
+
+The following table represents the share-based payment expense by award type for the year ended December 31, 2023 and 2022:
+
+Year ended December 31,
+
+2023
+
+2022
+
+£’000
+
+£’000
+
+Share options
+
+    14,510    
+
+    19,959    
+
+Performance share options
+
+    3,005    
+
+    2,545    
+
+PSUs
+
+    718    
+
+    424    
+
+RSUs
+
+    4,090    
+
+    3,709    
+
+Clawback shares
+
+    2,027    
+
+    3,939    
+
+    24,350    
+
+    30,576    
+
+Clawback Shares. As part of the Group's acquisition of Allcyte in 2021, additional equity securities with a total fair value of £8,074,000 were issued to shareholders of Allcyte who act in management positions of the company. These shares are subject to a clawback period of three years from the acquisition date whereby should said employees leave their positions within the Group within the clawback period the shares will be repurchased by the Group at their then nominal value. The fair value of these securities has been excluded from the purchase consideration in accordance with paragraph B55 of IFRS3 and will be expensed to profit or loss on a systematic basis over the period to which the clawback relates.
+
+The total expense recognised within the share based payment charge during the year to December 31, 2023 in relation to these shares in the period is £2,027,000 (2022: £3,939,000) . This expense is included within research and development expenses.
+
+F-64
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Share Options. Share options are granted to employees and non-executive directors of the Group. These options typically vest in tranches over four years, with the only vesting condition relating to continued employment by the Group. Information with respect to share options for the year ended December 31, 2023 is as follows:
+
+Number of Share Options
+
+Weighted Average Exercise Price
+
+Options held as at January 1, 2023
+
+9,809,788
+
+£0.04
+
+Granted
+
+2,946,265
+
+£0.14
+
+Exercised
+
+(2,294,497)
+
+£0.02
+
+Forfeited
+
+(1,003,584)
+
+£0.01
+
+Options held as at December 31, 2023
+
+9,457,972
+
+£0.08
+
+Exercisable as at December 31, 2023
+
+4,856,059
+
+£0.08
+
+Share options outstanding as at December 31, 2023 had exercise prices in the range of £0.02 to £7.86 (December 31, 2022: £0.02 to £0.07). The weighted average contractual life for options outstanding as of December 31, 2023 was 7.8 years (December 31, 2022: 7.8 years).
+
+The following information is relevant to the determination of the fair value of the options issued during the period. The Black-Scholes model has been used to calculate the fair value of options of the equity settled share based payments, with the following weighted average values:
+
+Exercise price
+
+£0.0005
+
+Expected life
+
+6.0 years
+
+Expected volatility
+
+    95.7%
+
+Risk-free rate
+
+    3.12%
+
+Expected dividend rate
+
+£0.00
+
+Fair value
+
+£4.22
+
+The fair value of the underlying ordinary shares is equal to the closing share price at the grant date converted at the prevailing exchange rate at that date. The risk-free rate is determined by reference to the rate of interest obtainable from U.S. Government Bonds over a period commensurate with the expect term of the options. Expected volatility has been set with reference to the Group's own share price volatility over the period from the Company’s IPO to the award grant date and peer group analysis. The expected life of the options has been set equal to the mid-point between the vesting date and the expiry date of the award in question.
+
+Performance Share Options. Performance share options are granted to certain executive officers of the group on an annual basis, and contain market based performance conditions relating to total shareholder return as well as a continued employment vesting requirement. These awards vest in tranches over three years. Information with respect to performance share options for the year ended December 31, 2023 is as follows:
+
+F-65
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+Number of Share Options
+
+Weighted Average Exercise Price
+
+Options held as at January 1, 2023
+
+877,704    
+
+£0.00
+
+Granted
+
+1,350,482
+
+£0.00
+
+Exercised
+
+(39,304)
+
+£0.00
+
+Forfeited
+
+(239,192)
+
+£0.00
+
+Options held as at December 31, 2023
+
+1,949,690
+
+£0.00
+
+Exercisable as at December 31, 2023
+
+    —    
+
+£0.00
+
+A Monte Carlo model has been used to calculate the fair value of the performance options as at the grant date, with the following weighted average values for the year ended December 31, 2023:
+
+Exercise price
+
+£0.0005
+
+Expected life
+
+3.0 years
+
+Expected volatility
+
+    88.6%
+
+Risk-free rate
+
+    3.59%
+
+Expected dividend rate
+
+    —    
+
+Fair value
+
+£3.33
+
+The fair value of the underlying ordinary shares is equal to closing share price at the grant date converted at the prevailing exchange rate at that date. The risk-free rate is determined by reference to the rate of interest obtainable from U.S. Government Bonds over a period commensurate with the expect term of the options. Expected volatility has been derived as the weighted average volatility of comparator companies who have been listed for a period commensurate with the expected term prior to the grant date, and the expected life of the options has been set equal to the mid-point between the vesting date and the expiry date of the award in question.
+
+Performance Share Units. Performance share units are granted to certain executive officers of the group on an annual basis, and contain market based performance conditions relating to total shareholder return as well as a continued employment vesting requirement. These awards vest in tranches over three years.
+
+Information with respect to performance share units for the year ended December 31, 2023 is as follows:
+
+Number of PSUs
+
+PSUs held as at January 1, 2023
+
+    146,285    
+
+Granted
+
+    342,548    
+
+PSUs held as at December 31, 2023
+
+    488,833    
+
+F-66
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+The weighted average grant date fair value per unit of the PSUs granted in the year to December 31, 2023 was £4.10. The weighted average remaining contractual life of the awards granted was 9.0 years as at December 31, 2023.
+
+A Monte Carlo model has been used to calculate the fair value of the performance share units as at the grant date, with the same model inputs as detailed for the performance share options above.
+
+Restricted Share Units. The Group operates a RSU scheme, whereby certain employees and directors receive restricted stock units held over Ordinary shares in the Company. These units are non-transferable and subject to forfeiture for periods prescribed by the Company. These awards are valued at the market value of the underlying shares at the date of grant and are subsequently amortised over the periods during which the restrictions lapse, typically four years. The awards expire on the cessation of the participant’s employment with the Group.
+
+Details of the RSUs in existence during the year to December 31, 2023 are as follows:
+
+Number of RSUs
+
+RSUs held as at January 1, 2023
+
+    759,696    
+
+Granted
+
+    745,345    
+
+Released
+
+    (443,768)
+
+Forfeited
+
+    (42,087)
+
+RSUs held as at December 31, 2023
+
+    1,019,186    
+
+The weighted average grant date fair value per unit of the RSUs granted in the year to December 31, 2023 was £4.35. The weighted average remaining contractual life of the awards granted was 9.0 years as at December 31, 2023.
+
+During the year ended December 31, 2023, 108,616 awards were released via a net settlement arrangement, with 55,260 shares issued and £243,000 paid by the Company in order to settle related employee tax obligations. The payments made have been recognised within retained earnings.
+
+Of the RSUs held at January 1, 2022, 600,000 were issued as replacement options for EMI options cancelled during the year ended December 31, 2021. These 600,000 awards were released during the year ended December 31, 2022 via a net settlement arrangement, with 374,887 shares issued and £2,282,000 paid by the Company in order to settle related employee tax obligations. The payment made was recognised within retained earnings.
+
+31.Capital Commitments
+
+The Group has significant capital expenditure contracted for the end of the reporting period but not recognised as liabilities is as follows:
+
+F-67
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+December 31, 2023
+
+December 31, 2022
+
+£’000
+
+£’000
+
+Plant and equipment
+
+    840    
+
+    8,656    
+
+Computer Equipment
+
+    —    
+
+    8    
+
+Computer Software
+
+    40    
+
+    —    
+
+Fixtures and Fittings
+
+    14    
+
+    447    
+
+Leasehold improvements
+
+    12    
+
+    2,639    
+
+    906    
+
+    11,750    
+
+Gates Foundation Private Placement Commitment. Concurrent with the Company’s IPO on October 5, 2021, the Company completed a private placement to the Gates Foundation for the sale of 1,590,909 ADSs at the initial offering price of $22.00 per ADS, for gross proceeds of approximately $35,000,000 (£25,743,000). Under the terms of the Company’s agreement with the Gates Foundation, the Group is committed to spending $70,000,000 over a four-year period to the research, discovery, and development of small molecule anti-infective therapeutics for future pandemic preparedness, with a specific focus on developing therapeutics that can be applied against multiple species of coronaviridae, influenza, and paramyxoviridae (the “Pandemic Preparedness Program”). The Group had incurred £9,697,000 relating to the Pandemic Preparedness Program as at December 31, 2023 (2022: £6,459,000), with a total outstanding commitment of £41,789,000 (2022: £45,027,000).
+
+In the event that the Group is in breach of certain terms within the agreement, the Gates Foundation has the right to sell, or require the Group to buy-back any shareholdings in the Group held by the Foundation at the higher of the public offering price and the market value of the shares at the date of default. Should such a breach occur or should the Company enter bankruptcy the Gates Foundation also has the exclusive right to utilise an exclusive global license granted as part of the agreement in relation to any IP generated by the Group pertaining to the Pandemic Preparedness Program for the benefit of people in certain developing countries. The default conditions are within the control of the Group and the license in question cannot be utilised unless such a default occurs or the Group enters bankruptcy. As such no fair value has been assigned to this license.
+
+F-68
+
+Table of Contents
+
+Notes to the Financial Statements for the years ended 31 December, 2023, 2022 and 2021
+
+32.Ultimate Parent and Controlling party
+
+Exscientia plc is the ultimate parent company of the Group. There is no ultimate controlling party.
+
+33.Events Occurring After the Reporting Period
+
+On January 19, 2024 the Group invested £150,000,000 into a 6-month short term deposit with an F1 rated financial institution. This short term deposit accrues interest at a rate of 5.1% and has been classified as a financial asset at amortised cost.
+
+On February 13, 2024, our board of directors terminated the employment of Andrew Hopkins as our Chief Executive Officer and Principal Executive Officer, and removed Dr. Hopkins from his role as a member of the board of directors. The impact of Dr. Hopkins' termination on his bonus for the year ended December 31, 2023 has been reflected in the total emoluments disclosed within note 11. All outstanding share options and performance-related share options held by Dr. Hopkins, representing 2,636,709 underlying shares, were forfeited in association with his termination on February 13, 2024.
+
+On March 13, 2024, the Group contributed a further $750,000 to its joint venture with RallyBio, RE Ventures I, LLC.
+
+F-69

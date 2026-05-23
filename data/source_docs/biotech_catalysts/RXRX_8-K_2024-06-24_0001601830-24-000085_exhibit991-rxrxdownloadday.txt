@@ -1,0 +1,78 @@
+EX-99.1
+2
+exhibit991-rxrxdownloadday.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Recursion Gives Guidance on Seven Clinical Readouts within ~18 Months and Partnership Updates at Its Download Day
+
+●Recursion delivered multiple data packages to Bayer and initiated the first joint oncology project, which is now expected to advance rapidly towards Lead Series nomination
+
+●Bayer to become first external beta-user of LOWE (LLM-Orchestrated Workflow Engine) for drug discovery and development
+
+SALT LAKE CITY, (June 24, 2024) – Recursion (NASDAQ: RXRX), a leading clinical stage TechBio company decoding biology to industrialize drug discovery, will give updated pipeline guidance to investors, analysts, and other stakeholders during Download Day, Recursion’s investor and R&D day, on Monday, June 24, 2024.
+
+“Since our last Download Day, which was approximately 18 months ago, we have seen various industries increasingly embrace AI/ML solutions. This adoption has also played out in the drug discovery space,” said Chris Gibson, Ph.D., Co-Founder and CEO of Recursion. “Over the past decade, we have created a strong leadership position by building the technological and operational capabilities of our platform in order to expand and advance our internal pipeline as well as deliver for our external partners through the integrated use of data, compute, and automation. We look forward to highlighting the various aspects of the Recursion value proposition at Download Day.”
+
+The event will feature a number of prominent speakers, including Jensen Huang, founder and CEO of NVIDIA, Deepak Nijhawan, M.D., Ph.D., UT Southwestern Distinguished Chair in Biomedical Science, and John Marioni, Ph.D.,Senior VP and Head of Computational Sciences at Genentech.
+
+Updated pipeline guidance:
+
+●Seven Clinical Trial Readouts expected within approximately 18 months:
+
+○REC-994 Cerebral Cavernous Malformation—topline Phase 2 data readout in September 2024;
+
+○REC-2282 Neurofibromatosis Type 2—preliminary Phase 2 data readout in the fourth quarter of 2024;
+
+○REC-4881 Familial Adenomatous Polyposis—preliminary Phase 2 data readout in the first half of 2025;
+
+○REC-4881 Advanced AXIN1/APC-Mutant Cancers—preliminary Phase 2 data readout in the first half of 2025;
+
+○REC-3964 Clostridioides difficile Infection—Phase 2 study initiation in the fourth quarter of 2024 and preliminary data readout by the end of 2025;
+
+○RBM39 Advanced HR-Proficient Cancers—IND submission in the third quarter of 2024, Phase 1/2 initiation in the fourth quarter of 2024 and Phase 1 dose-escalation data readout by the end of 2025;
+
+○Target Epsilon (Fibrotic Diseases)—IND submission in early 2025 and Phase 1 healthy volunteer study data readout by the end of 2025.
+
+●Dozens of internal and partner programs in early stages with the first LLM and causal model driven programs entering the Recursion pipeline.
+
+Partnership updates:
+
+●Bayer will be the first beta-user of our LOWE LLM-orchestrated workflow software, which will be integrated across the collaboration and offer a more exploratory, and intuitive research environment for scientists on both sides.
+
+●Additional updates pertaining to the Bayer partnership include:
+
+○We initiated our first joint oncology project which is now expected to advance rapidly towards Lead Series nomination; and
+
+○We are on track to complete 25 unique multi-modal data packages that we expect to deliver in the third quarter of 2024.
+
+Platform updates:
+
+●ADME industrialization: potential to achieve an estimated 90 times the amount of lab throughput over a manual approach.
+
+●Built our first genome-scale transcriptomics knockout map.
+
+●Multimodal mapping has enabled us in certain experiments to achieve 90% success on our ability to predict compounds that failed later disease-relevant assays in internal tests and 60% ability to predict compounds that passed later disease-relevant assays in internal tests.
+
+●Helix partnership brings hundreds of thousands of unique de-identified patient records across diverse therapeutic areas.
+
+About Recursion
+
+Recursion is a leading clinical stage TechBio company decoding biology to industrialize drug discovery. Central to its mission is the Recursion Operation System (OS), a platform built across diverse technologies that continuously expands one of the world’s largest proprietary biological, chemical and patient-centric datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale — up to millions of wet lab experiments weekly — and massive computational scale — owning and operating what Recursion believes is one of the fastest supercomputers deployed in the sector, Recursion is uniting technology, biology, chemistry and patient-centric data to advance the future of medicine.
+
+Recursion is headquartered in Salt Lake City, where it is a founding member of BioHive, the Utah life sciences industry collective. Recursion also has offices in Toronto, Montreal, London and the San Francisco Bay Area. Learn more at www.Recursion.com, or connect on X (formerly Twitter) and LinkedIn.
+
+Media Contact
+
+Media@Recursion.com
+
+Investor Contact
+
+Investor@Recursion.com
+
+Forward-Looking Statements
+
+This document contains information that includes or is based upon “forward-looking statements” within the meaning of the Securities Litigation Reform Act of 1995, including, without limitation, Recursion’s anticipated Download Day presentations; Recursion’s ability to decode biology and industrialize drug discovery; the technological and operational capabilities of Recursion’s platform; advancement of Recursion’s internal pipeline and the ability to deliver for its external partners; the advancement of a joint oncology project rapidly towards Lead Series nomination; Bayer becoming the first external beta-user of LOWE and integrating software across the collaboration; the timing for completing 25 unique multi-modal data packages; the timing of IND submissions, clinical trial initiations, and clinical trial readouts; realizing dozens of LLM and causal model driven programs entering the Recursion pipeline; the performance expectations for Recursion’s platform, including 90x of lab throughput over a manual approach, building Recursion’s first genome-scale transcriptomics knockout and multimodal mapping expected capabilities and achievements; Recursion’s continuous expansion of datasets and advancement of the future of medicine; and all other statements that are not historical facts. Forward-looking statements may or may not include identifying words such as “plan,” “will,” “expect,” “anticipate,” “intend,” “believe,” “potential,” “continue,” and similar terms. These statements are subject to known or unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements, including but not limited to: challenges inherent in pharmaceutical research and development, including the timing and results of preclinical and clinical programs, where the risk of failure is high and failure can occur at any stage prior to or after regulatory approval due to lack of sufficient efficacy, safety considerations, or other factors; our ability to leverage and enhance our drug discovery platform; our ability to obtain financing for development activities and other corporate purposes; the success of our collaboration activities; our ability to obtain regulatory approval of, and ultimately commercialize, drug candidates; our ability to obtain, maintain, and enforce intellectual property protections; cyberattacks or other disruptions to our technology systems; our ability to attract, motivate, and retain key employees and manage our growth; inflation and other macroeconomic issues; and other risks and uncertainties such as those described under the heading “Risk Factors” in our filings with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K and Quarterly Report on Form 10-Q. All forward-looking statements are based on management’s current estimates, projections, and assumptions, and Recursion undertakes no obligation to correct or update any such statements, whether as a result of new information, future developments, or otherwise, except to the extent required by applicable law.

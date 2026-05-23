@@ -1,0 +1,186 @@
+vir-20240906
+FALSE000170643100017064312024-09-062024-09-060001706431exch:XNAS2024-09-062024-09-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+________________________________________
+
+FORM 8-K
+
+________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 6, 2024
+
+________________________________________
+
+Vir Biotechnology, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+________________________________________
+
+Delaware
+
+001-39083
+
+81-2730369
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+1800 Owens Street, Suite 900
+
+San Francisco, California
+
+94158
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (415) 906-4324
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.0001 par value
+
+VIR
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 2.01. Completion of Acquisition or Disposition of Assets.
+
+On September 9, 2024, Vir Biotechnology, Inc. (the “Company” or “Vir”) and Amunix Pharmaceuticals, Inc., a Sanofi company (“Sanofi”) closed the transaction contemplated by the previously-announced License Agreement entered into between the parties on July 31, 2024 (the “Transaction” and the “Agreement”, respectively). Upon closing of the Transaction (the “Closing”), the Company obtained an exclusive (even as to Sanofi and its affiliates), worldwide, royalty-bearing, sublicensable (through multiple tiers in accordance with the Agreement), transferable (to the extent permitted under the Agreement) license to research, develop, manufacture, commercialize and otherwise exploit (i) three clinical-stage masked T-cell engagers, for all therapeutic, prophylactic, palliative, and diagnostic uses, excluding the ophthalmological field, and (ii) the protease-cleavable masking platform for oncology and infectious disease, acquired by Sanofi from Amunix. At Closing, the Company made an upfront payment to Sanofi in the amount of $100 million plus $75 million in an escrowed milestone payment that is subject to SAR446368 (AMX-525) achieving “first in human dosing” by 2026. Sanofi will also be eligible to receive up to an additional $323 million in future development and regulatory milestone payments, up to an additional $1.488 billion in commercial net sales-based milestone payments, and low single-digit to low double-digit tiered royalties on worldwide net sales. The consummation of the Transaction was subject to the satisfaction of customary closing conditions, including the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.
+
+If financial statements or pro forma financial information related to the Transaction are required to be filed pursuant to Rule 3-05(b)(4)(i)(B) promulgated under Regulation S-X, or pursuant to Article 11 of Regulation S-X, they will be filed by amendment to this Current Report on Form 8-K (this “Form 8-K”) no later than 75 calendar days after the date of the Closing.
+
+The foregoing description of the terms of the Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Agreement, a copy of which the Company plans to file as an exhibit to its Quarterly Report on Form 10-Q for the quarter ending September 30, 2024.
+
+Forward-Looking Statements
+
+This Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as “may,” “will,” “plan,” “potential,” “aim,” “expect,” “anticipate,” “promising” and similar expressions (as well as other words or expressions referencing future events, conditions or circumstances) are intended to identify forward-looking statements. These forward-looking statements are based on the Company’s expectations and assumptions as of the date of this Form 8-K. Forward-looking statements contained in this Form 8-K include, but are not limited to, statements regarding Vir’s strategy and plans; Vir’s ability to realize the anticipated benefits from the Agreement; difficulties or unanticipated expenses in connection with the Agreement, and the potential effects on Vir’s earnings; the risk that Vir’s investment in connection with the Agreement will lose value for any number of reasons; the ability of the parties to initiate, progress or complete clinical trials within currently anticipated timelines or at all, and the possibility of unfavorable results from studies, including those involving SAR446309 (AMX-818), SAR446329 (AMX-500) and SAR446368, and any additional programs that may become subject to the Agreement; the potential clinical effects, potential benefits, safety and efficacy of the investigational products that are the subject of these programs; data from ongoing studies evaluating such investigational products and programs; Vir’s ability to file applications for regulatory approval or receive regulatory approvals in a timely manner or at all for such investigational products and programs, and the risk that any such approvals may be subject to significant limitations on use; the possibility that the Agreement may be terminated for any number of reasons, or that development of the investigational products and programs subject to the Agreement may be discontinued, and therefore may never be successfully commercialized; Vir’s ability to successfully commercialize any approved drug products resulting from the Agreement; and any assumptions underlying any of the foregoing. Many factors may cause differences between current expectations and actual results, including unexpected safety or efficacy data or results observed during clinical studies or in data readouts; the occurrence of adverse safety events; risks of unexpected costs, delays or other unexpected hurdles; difficulties in collaborating with other companies; successful development and/or commercialization of alternative product candidates by Vir’s competitors; changes in expected or existing competition; delays in or disruptions to Vir’s business or clinical studies due to geopolitical changes or other external factors; failure to achieve any necessary regulatory approvals; and unexpected litigation or other disputes. Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in commercialization of a product. Results in early-stage clinical trials may not be indicative of full results or results from later-stage or larger scale clinical trials and do not ensure regulatory approval. You should not place undue reliance on these statements. Other factors that may cause actual results to differ from those expressed or implied in the forward-looking statements in this Form 8-K are discussed in the Company’s filings with the U.S. Securities and Exchange Commission, including the section titled “Risk Factors” contained therein. Except as required by law, the Company assumes no obligation to update any forward-looking statements contained herein to reflect any change in expectations, even as new information becomes available.
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Appointment of Jason O'Byrne as Executive Vice President and Chief Financial Officer
+
+On September 10, 2024, the Company announced that Jason O’Byrne, MBA, has been appointed as Executive Vice President and Chief Financial Officer and “principal financial officer” of the Company, effective as of October 2, 2024 (the “Effective Date”).
+
+Mr. O’Byrne, 56, has served as Chief Financial Officer of Caribou Biosciences, Inc. since February 2021. Prior to joining Caribou, Mr. O’Byrne was Senior Vice President of Finance at Audentes Therapeutics, Inc. (“Audentes”), from April 2020 to February 2021. From April 2019 to April 2020, Mr. O’Byrne served as Vice President of Finance at Audentes. Before joining Audentes, he spent 13 years with Genentech, Inc., a member of the Roche Group, from February 2005 to December 2018, holding finance leadership and executive positions across the research, development, manufacturing, business development, and commercial functions. Earlier in his career, Mr. O’Byrne served as Regional Controller with General Chemical Corporation, from September 2002 to January 2005, and as an engineer with General Motors, from September 1999 to September 2001. He received a B.A.Sc. in Mechanical Engineering from the University of British Columbia and an MBA from New York University’s Stern School of Business.
+
+Mr. O’Byrne’s annualized base salary will be $530,000, and he is eligible to participate in the Company’s annual bonus plan with a target bonus of 45% of his annualized base salary. Mr. O’Byrne will receive a one-time cash sign-on bonus of $450,000, one-third of which will be paid on or around the Effective Date, one-third of which will be paid following the one-year anniversary of the Effective Date, and one-third of which will be paid following the second-year anniversary of the Effective Date, subject in each case to Mr. O’Byrne’s continued employment with the Company on each such date.
+
+In addition, on November 15, 2024 (the “Grant Date”), the Company will grant Mr. O’Byrne two equity awards under the Company’s 2019 Equity Incentive Plan, as may be amended from time to time (the “Plan”). The equity awards will be comprised of: (1) an option to purchase 150,000 shares of the Company’s common stock (the “Option”) and (2) an award of restricted stock units (“RSUs”) with respect to 75,000 shares of the Company’s common stock. The Option will have an exercise price equal to the fair market value of the Company’s common stock on the date prior to the Grant Date, and will vest over four years, with 25% of the total number of shares subject to the Option vesting on the first anniversary of the Grant Date and the remainder vesting in 36 equal monthly installments thereafter, subject to Mr. O’Byrne’s continued employment through each such date. The RSUs will vest over four years, with one-quarter of the total number of RSUs vesting on each of the first four anniversaries of the Grant Date, subject to Mr. O’Byrne’s continued employment through each such date.
+
+As a condition to his employment, Mr. O’Byrne also signed a customary confidential information and invention assignment agreement with the Company.
+
+Vir Biotechnology, Inc. Change in Control and Severance Benefit Plan
+
+Under the existing Vir Biotechnology, Inc. Change in Control and Severance Benefit Plan (the “Severance Plan”), Mr. O’Byrne will be entitled to receive:
+
+•In the event of a covered termination, which is either a termination by the Company without cause (as defined in the Severance Plan) (and other than as a result of death or disability) or Mr. O’Byrne’s resignation for good reason (as defined in the Severance Plan), that occurs during the 12-month period following a change in control (as defined in the Severance Plan) (the “change in control period”), Mr. O’Byrne will be entitled to a lump sum cash payment equal to 12 months of base salary plus his annual target cash bonus, up to 12 months of payment for continued group health plan benefits and full vesting acceleration of all outstanding equity awards.
+
+•In the event of a covered termination that occurs outside of the change in control period, Mr. O’Byrne will be entitled to a lump sum cash payment equal to nine months of base salary plus a pro-rated annual target cash bonus and up to nine months of payment for continued group health plan benefits.
+
+There are no arrangements or understandings between Mr. O’Byrne and any other person pursuant to which he was selected as Executive Vice President and Chief Financial Officer of the Company, and there is no family relationship between Mr. O’Byrne and any of the Company’s directors or executive officers. Mr. O’Byrne has no direct or indirect interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. The foregoing description of the terms of Mr. O’Byrne’s employment does not purport to be complete and is qualified in its entirety by reference to the full text of his offer letter, a copy of which the Company plans to file as an exhibit to its Quarterly Report on Form 10-Q for the quarter ending September 30, 2024.
+
+Appointment of Brent Sabatini, MBA as Principal Accounting Officer
+
+Additionally, on September 6, 2024, the Board of Directors of the Company appointed Brent Sabatini, CPA, MBA, Senior Vice President, Chief Accounting Officer of the Company, as “principal accounting officer” of the Company, effective as of October 1, 2024.
+
+Mr. Sabatini, 50, has served as the Senior Vice President, Chief Accounting Officer of the Company since February 2023. Previously, from March 2021 to February 2023, he was at Capsida Biotherapeutics, Inc., most recently as Head of Finance. Prior to that, Mr. Sabatini was at Amgen Inc. from April 2004 to March 2021 where he progressed through various positions of increasing responsibility, including leadership roles in Accounting, Tax and Financial Planning and Analysis. Mr. Sabatini is a Certified Public Accountant and received a B.S. in Accountancy from California State University, Northridge and an MBA from the University of Michigan’s Stephen M. Ross School of Business. There are no arrangements or understandings between Mr. Sabatini and any other persons pursuant to which he was selected as the Company’s principal accounting officer. There are no family relationships between Mr. Sabatini and any director or executive officer of the Company. Mr. Sabatini has no direct or indirect interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. Mr. Sabatini will not receive any adjustment to his compensation or any additional compensation in connection with performing the function of principal accounting officer of the Company.
+
+Item 7.01 Regulation FD Disclosure.
+
+On September 9, 2024, the Company issued a press release announcing the Closing. A copy of the press release is attached as Exhibit 99.1 to this Form 8-K.
+
+On September 10, 2024, the Company issued a press release announcing the appointment of Mr. O’Byrne as Executive Vice President and Chief Financial Officer and “principal financial officer” of the Company. A copy of the press release is attached as Exhibit 99.2 to this Form 8-K.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press Release of the Company, dated September 9, 2024
+
+99.2
+
+Press Release of the Company, dated September 10, 2024
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VIR BIOTECHNOLOGY, INC.
+
+Date:
+
+September 10, 2024
+
+By:
+
+/s/ Marianne De Backer
+
+Marianne De Backer, M.Sc., Ph.D., MBA
+
+Chief Executive Officer

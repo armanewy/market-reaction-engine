@@ -1,0 +1,379 @@
+8-K
+
+false 0001178670 0001178670 2020-04-10 2020-04-10
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 13, 2020 (April 10, 2020)
+
+ 
+
+Alnylam Pharmaceuticals, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+Delaware
+
+ 
+
+001-36407
+
+ 
+
+77-0602661
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+675 West Kendall Street
+
+Henri A. Termeer Square
+
+Cambridge, MA
+
+ 
+
+02142
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617) 551-8200
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, $0.01 par value per share
+
+ 
+
+ALNY
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+Blackstone Transactions
+
+Royalty Purchase
+
+On April 10, 2020 (the “Closing Date”), Alnylam Pharmaceuticals, Inc. (the “Company”) entered into a purchase and sale agreement (the “Purchase Agreement”) with BX Bodyguard Royalties L.P., a Delaware limited partnership and an affiliate of The Blackstone Group Inc. (“Blackstone Royalties”), pursuant to which the Company sold to Blackstone Royalties fifty percent (50%) (the “Applicable Percentage”) of the royalties payable with respect to net sales by The Medicines Company (“Medco”), its affiliates or sublicensees of inclisiran and any other licensed products under the License Agreement (as defined below) (collectively, “Inclisiran”) (the “Royalty Interest”) and seventy-five percent (75%) of the commercial milestone payments payable (together with the Royalty Interest, the “Purchased Interest”) under the License and Collaboration Agreement, dated February 3, 2013, between the Company and Medco, as amended (the “License Agreement”). If Blackstone Royalties does not receive payments in respect of the Royalty Interest by December 31, 2029 equaling at least $1.0 billion (including, under certain circumstances, the portion of the Royalty Interest payable by Medco in respect of net sales of Inclisiran made in the fourth quarter of 2029), the Applicable Percentage shall increase to fifty-five percent (55%) effective January 1, 2030. In consideration for the sale of the Purchased Interest, Blackstone Royalties paid to the Company $500.0 million on the Closing Date and has agreed to pay the Company an additional $500.0 million on September 30, 2021.
+
+Under the Purchase Agreement, and in connection with its sale of the Purchased Interest, the Company has agreed to certain covenants with respect to the exercise of its rights under the License Agreement, including with respect to the Company’s right to amend, assign and terminate the License Agreement. The Purchase Agreement contains other customary terms and conditions, including representations and warranties, covenants and indemnification obligations in favor of each party.
+
+The foregoing summary of the Purchase Agreement is not complete and is qualified in its entirety by reference to the complete text of the Purchase Agreement, which the Company intends to file as an exhibit to its Quarterly Report on Form 10-Q for the quarter ending June 30, 2020.
+
+Debt Facility
+
+On the Closing Date, the Company entered into a credit agreement (the “Credit Agreement”) for up to $750.0 million among the Company, certain subsidiaries of the Company (together with the Company, the “Loan Parties”), funds or accounts managed or advised by GSO Capital Partners LP and certain other affiliates of The Blackstone Group Inc. and the other lenders from time to time party thereto (the “Lenders” and each a “Lender”) and Wilmington Trust, National Association, as the administrative agent for the lenders (“Administrative Agent”). The Credit Agreement provides for a senior secured delayed draw term loan facility of up to $700.0 million to be funded in three tranches: (i) a Tranche 1 Loan in an aggregate principal amount of $200.0 million (the “Tranche 1 Loan”), (ii) a Tranche 2 Loan in an aggregate principal amount of up to $250.0 million (the “Tranche 2 Loan”); and (iii) a Tranche 3 Loan in an aggregate principal amount of up to $250.0 million (the “Tranche 3 Loan”, and together with the Tranche 1 Loan and the Tranche 2 Loan, the “Term Loans”). The Company may (a) at any time following the date that is 12 months after the Closing Date, request an increase in respect of the unfunded commitments in an amount not to exceed $50.0 million on terms to be agreed and subject to the consent of the Lenders providing such increase and/or (b) at any time prior to the date that is 12 months after the Closing Date, cancel the unfunded commitments or reallocate the unfunded commitments in respect of the Tranche 2 Loan or Tranche 3 Loan to the Tranche 1 Loan and/or the Tranche 2 Loan in an amount not to exceed $100.0 million in the aggregate for all such cancelations or reallocations.
+
+The Tranche 1 Loan will be requested no later than December 31, 2020, the Tranche 2 Loan will be requested no later than June 30, 2021 and the Tranche 3 Loan will be requested no later than December 31, 2021, in each case, subject to customary terms and conditions, including, in the case of the Tranche 2 Loan and Tranche 3 Loan, either (a) the first sale of inclisiran in the United States for end use or consumption after FDA regulatory approval thereof or (b) revenue attributable to ONPATTRO® and GIVLAARI® equal to or greater than $300.0 million as of the last day of the most recently ended twelve month period (the “Subsequent Borrowing Conditions”). In the event the Subsequent Borrowing Conditions are not satisfied as of the dates set forth above, the Tranche 2 Loan and Tranche 3 Loan will be funded if such Subsequent Borrowing Conditions are satisfied on or prior to December 31, 2022.
+
+2
+
+The Term Loans mature on the date that is seven years from the Tranche 1 Funding Date (the “Maturity Date”). Borrowings under the Credit Agreement bear interest at a variable rate equal to either the LIBOR rate plus seven percent (7%) or the base rate plus six percent (6%), subject to a floor of one percent (1%) and two percent (2%) with respect to the LIBOR Rate and base rate, respectively. The Company may, at its option, pay interest in kind for the first three years following the funding date of the Tranche 1 Loan at a rate that is one percent (1%) higher than the interest rate otherwise applicable to such Term Loan. On the date any Tranche 1 Loan, Tranche 2 Loan or Tranche 3 Loan is funded, the Company will pay a funding fee equal to 2.5% of the principal amount of the Term Loans funded on such date. In addition, the Company will pay an exit fee equal to 1.0% of the commitments in respect of the Term Loans, payable upon any repayment of the Term Loans or termination of the unfunded Term Loan commitments.
+
+In the event a Term Loan is prepaid in whole or in part prior to the Maturity Date, or any unfunded commitments are terminated in whole or in part, the amount so prepaid or terminated will be subject to the following prepayment fees from the date the Tranche 1 Loan is funded (such date, the “Tranche 1 Funding Date”).
+
+Prepayment Date
+
+ 
+
+Premium
+
+ 
+
+Prior to the date that is 2 years from the Tranche 1 Funding Date
+
+ 
+
+ 
+
+Make-whole
+
+ 
+
+On and after the date that is 2 years from the Tranche 1 Funding Date, but less than 3 years from the Tranche 1 Funding Date
+
+ 
+
+ 
+
+5%
+
+ 
+
+On and after the date that is 3 years from the Tranche 1 Funding Date, but less than 4 years from the Tranche 1 Funding Date
+
+ 
+
+ 
+
+2%
+
+ 
+
+On and after the date that is 4 years from the Tranche 1 Funding Date , but less than 5 years from the Tranche 1 Funding Date
+
+ 
+
+ 
+
+1%
+
+ 
+
+On and after the date that is 5 years from the Tranche 1 Funding Date
+
+ 
+
+ 
+
+Par
+
+ 
+
+All obligations under the Credit Agreement will be secured, subject to certain exceptions, by security interests in the following assets (collectively, the “Collateral”) as further described in the Security and Pledge Agreement entered into by the Loan Parties and the Administrative Agent (the “Security Agreement”): (1) intellectual property owned by the Company relating to ONPATTRO, GIVLAARI and vutrisiran, (2) the equity interests held by the Loan Parties in their subsidiaries, (3) all of the Company’s ownership of the inclisiran royalty remaining after the Royalty Purchase and (4) material real property, and certain personal property, including, without limitation, cash held in certain deposit accounts of the Loan Parties and equipment.
+
+The Credit Agreement contains negative covenants that, among other things and subject to certain exceptions, could restrict the Company’s ability to, incur additional liens, incur additional indebtedness, make investments, including acquisitions, engage in fundamental changes, sell or dispose of assets that constitute Collateral, including certain intellectual property, pay dividends or make any distribution or payment on or redeem, retire or purchase any equity interests, amend, modify or waive certain material agreements or organizational documents and make payments of certain subordinated indebtedness.
+
+The Credit Agreement also requires the Company to have consolidated liquidity of at least $100.0 million as of the last day of each fiscal quarter. Additionally, the Credit Agreement contains certain customary representations and warranties, affirmative covenants and provisions relating to events of default, including nonpayment of principal, interest and other amounts; failure to comply with covenants; the rendering of judgments or orders or default by the Company in respect of other material indebtedness; and certain insolvency and ERISA events.
+
+3
+
+The foregoing summary of the Credit Agreement and the Security Agreement is not complete and is qualified in its entirety by reference to the complete text of the Credit Agreement and the Security Agreement, copies of which the Company intends to file as exhibits to its Quarterly Report on Form 10-Q for the quarter ending June 30, 2020.
+
+Equity Placement
+
+On the Closing Date, the Company sold to certain affiliates of The Blackstone Group Inc. (the “Investors”) an aggregate of 963,486 shares of its common stock, par value $.01 per share (the “Purchased Shares”), for aggregate cash consideration of $100.0 million, or $103.79 per share, pursuant to the terms of a stock purchase agreement (the “Stock Purchase Agreement”), dated April 10, 2020, by and among the Investors and the Company. The per share price of $103.79 represents the volume weighted average price of our common stock on the Nasdaq Global Select Market during the 30 day period prior to closing. This sale did not involve a public offering and was therefore exempt from registration under Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”). The Stock Purchase Agreement contains customary representations, warranties, and covenants of each of the parties thereto.
+
+Under the Stock Purchase Agreement, the Company agreed to register the resale of the Purchased Shares on a registration statement to be filed with the Securities and Exchange Commission within 60 days of the Closing Date. In addition, subject to certain conditions, the Investors will be entitled to participate in registered underwritten public offerings by the Company if other selling stockholders are included in the registration.
+
+The foregoing summary of the Stock Purchase Agreement is not complete and is qualified in its entirety by reference to the complete text of the Stock Purchase Agreement, which the Company intends to file as an exhibit to its Quarterly Report on Form 10-Q for the quarter ending June 30, 2020.
+
+Item 2.03.
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth under the heading “Debt Facility” in Item 1.01 is incorporated herein by reference.
+
+Item 3.02.
+
+Unregistered Sales of Equity Securities.
+
+The information set forth under the heading “Equity Placement” in Item 1.01 is incorporated herein by reference.
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On April 13, 2020, the Company issued a press release announcing the Blackstone transactions, a copy of which is being furnished as Exhibit 99.1 to this Report on Form 8-K. The information in this Item 7.01 and Exhibit 99.1 attached hereto is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+ 
+
+Press Release of Alnylam Pharmaceuticals, Inc. announcing the Blackstone transactions, dated April 13, 2020.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+4
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ALNYLAM PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: April 13, 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Laurie B. Keating
+
+ 
+
+ 
+
+ 
+
+Laurie B. Keating
+
+Executive Vice President, Chief Legal Officer
+
+ and Secretary
+
+5

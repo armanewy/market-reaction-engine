@@ -1,0 +1,345 @@
+0001425205
+false
+
+0001425205
+
+2023-07-10
+2023-07-10
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+Current Report
+
+ 
+
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (date of earliest event reported): July 10, 2023
+
+ 
+
+IOVANCE BIOTHERAPEUTICS, INC.
+
+(Exact Name of Registrant as Specified in
+Charter)
+
+ 
+
+Delaware
+
+(State of Incorporation)
+
+ 
+
+001-36860
+
+ 
+
+75-3254381
+
+Commission File Number
+
+ 
+
+(I.R.S. Employer Identification No.)
+
+ 
+
+ 
+
+ 
+
+825
+Industrial Road, Suite 400
+
+ 
+
+ 
+
+San Carlos, CA
+
+ 
+
+94070
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+ 
+
+ 
+
+(650) 260-7120
+
+(Registrant’s Telephone Number, Including Area Code)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425).
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12).
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)).
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)).
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act
+of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ¨
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which
+
+registered
+
+Common stock, par value $0.000041666 per value
+
+IOVA
+
+The Nasdaq Stock Market, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+ 
+
+On July 10, 2023, Iovance Biotherapeutics, Inc.
+(the “Company”) entered in an underwriting agreement (the “Underwriting Agreement”) with Goldman Sachs & Co.
+LLC and Jefferies LLC (collectively, the “Underwriters”), pursuant to which the Company agreed to issue and sell up to 23,000,000
+shares of common stock (the “Shares”), which includes 3,000,000 shares (the “Optional Shares”) that may be sold
+pursuant to a 30-day option to purchase additional shares granted to the Underwriters (the “Offering”). The Shares were offered
+and sold in the Offering at the public offering price of $7.50 per share and were purchased by the Underwriters from the Company at a
+price of $7.05 per share.
+
+ 
+
+The Offering was made pursuant to the Company’s
+effective registration statement on Form S-3 (Registration No. 333-272718), which was previously filed with the Securities and Exchange
+Commission under the Securities Act of 1933, as amended (the “Securities Act”).
+
+ 
+
+The Company estimates that the net proceeds from
+the Offering, excluding any exercise by the Underwriters of their 30-day option to purchase additional shares, and after deducting the underwriting discounts and commissions and estimated offering expenses
+payable by the Company, will be approximately $140.2 million. The Company intends to use the net proceeds from the Offering to fund preparations
+for the commercial launch of lifileucel (if approved), including continuing to prepare the Iovance Cell Therapy Center, the Company’s
+manufacturing facility in Philadelphia, to support ongoing clinical programs including its NSCLC registration-directed study and its frontline
+advanced melanoma Phase 3 confirmatory trial, to expand the combination of TIL and immune checkpoint inhibitors (“ICIs”) in
+ICI naïve patient cohorts, to support the continued development of our pipeline candidates, to support Proleukin integration activities
+and for other general corporate purposes.
+
+ 
+
+The Offering is expected to close on July 13,
+2023, subject to customary closing conditions. In the Underwriting Agreement, the Company made customary representations, warranties and
+covenants and also agreed to indemnify the Underwriters against certain liabilities, including liabilities under the Securities Act, or
+to contribute to payments that the Underwriters may be required to make because of such liabilities.
+
+ 
+
+Pursuant to the Underwriting Agreement, the Company’s
+executive officers and directors entered into agreements in substantially the form included as an exhibit to the Underwriting Agreement
+filed hereto, providing for a 90-day “lock-up” period with respect to sales of the Company’s common stock, subject to
+certain exceptions.
+
+ 
+
+The foregoing is a summary description of the
+Underwriting Agreement and is qualified in its entirety by the text of the Underwriting Agreement attached as Exhibit 1.1 to this Current
+Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+A copy of the opinion of DLA Piper LLP (US) relating
+to the validity of the Shares issued in the Offering is filed herewith as Exhibit 5.1.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+ 
+
+On July 10,
+2023, the Company issued a press release announcing the proposed Offering of its Shares. A copy of this press release is attached as
+Exhibit 99.1 hereto. On July 10, 2023, the Company issued a press release announcing that it had priced the Offering. A copy of this
+press release is attached as Exhibit 99.2 hereto.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+1.1
+
+ 
+
+Underwriting Agreement, dated as of July 10, 2023 among Iovance Biotherapeutics, Inc., Goldman Sachs & Co. LLC and Jefferies LLC
+
+5.1
+
+ 
+
+Opinion of DLA Piper LLP (US)
+
+99.1
+
+ 
+
+Press Release, dated July 10, 2023, titled “Iovance Biotherapeutics, Inc. Announces Proposed Public Offering of Common Stock”
+
+99.2
+
+ 
+
+Press Release, dated July 10, 2023, titled “Iovance Biotherapeutics, Inc. Announces Pricing of Its Public Offering of $150 Million of Common Stock
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+ 
+
+ 
+
+IOVANCE BIOTHERAPEUTICS, INC.
+
+ 
+
+ 
+
+ 
+
+Dated: July 11, 2023
+
+By:
+
+/s/ Frederick G. Vogt
+
+ 
+
+ 
+
+Frederick G. Vogt, Ph.D., Interim CEO and General Counsel

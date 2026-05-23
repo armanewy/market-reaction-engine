@@ -1,0 +1,246 @@
+false000110450600011045062022-10-192022-10-19
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 19, 2022
+
+INSMED INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+
+Virginia
+
+000-30739
+
+54-1972729
+
+(State or other jurisdiction
+
+(Commission
+
+(IRS Employer
+
+of incorporation)
+
+File Number)
+
+Identification No.)
+
+700 US Highway 202/206
+
+Bridgewater, New Jersey
+
+08807
+
+(Zip Code)
+
+(Address of principal executive offices)
+
+ 
+
+Registrant’s telephone number, including area code: (908) 977-9900
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule
+425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule
+14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant
+to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+INSM
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule
+12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 1.01 — Entry into a
+Material Definitive Agreement.
+
+On October 19, 2022, Insmed Incorporated (the “Company”) entered into an agreement with BioPharma Credit PLC (the “Collateral Agent”), BPCR Limited
+Partnership and BioPharma Credit Investments V (Master) LP, which are funds managed by Pharmakon Advisors, LP (collectively, “Pharmakon”), and the guarantors party to such agreement (the “Loan Agreement”). The Loan Agreement provides for a $350
+million senior secured term loan (the “Term Loan”) that matures on October 19, 2027. The Term Loan bears interest at a rate based upon the secured overnight financing rate (“SOFR”), subject to a SOFR floor of 2.5%, in addition to a margin of 7.75%
+per annum. Up to 50% of the interest payable during the first 24 months from the closing of the Term Loan may be paid-in-kind at the election of the Company, in which case such paid-in-kind interest will be capitalized and added to the principal
+amount of the Term Loan. The Term Loan will be repaid in eight equal quarterly payments starting in the 13th quarter following the closing of the Term Loan, except that the repayment start date may be extended at the option of the Company for an
+additional four quarters, so that repayments start in the 17th quarter following the closing of the Term Loan, subject to the achievement of specified ARIKAYCE® (amikacin liposome inhalation suspension) data thresholds and certain other conditions.
+
+The Loan Agreement contains customary affirmative covenants for transactions of this type, including, among others, the provision of financial and other
+information to the Collateral Agent, notice to the Collateral Agent upon the occurrence of certain material events, and compliance with applicable laws. The Loan Agreement also contains customary negative covenants, including certain restrictions
+on the ability to merge and consolidate with other companies, incur indebtedness, and grant liens or security interests on assets. The Loan Agreement includes certain customary events of default. If a default occurs and is continuing, the Company
+may be required to repay all amounts outstanding under the Loan Agreement.
+
+Also on October 19, 2022, the Company entered into a revenue interest purchase agreement (the “Financing Agreement”) with OrbiMed Royalty & Credit
+Opportunities IV, LP (the “Purchaser”). Under the Financing Agreement, the Purchaser has agreed to pay $150 million to the Company at closing, less certain transaction expenses, and in exchange for the purchase price of $150 million, the Purchaser
+will be entitled to receive, on a quarterly basis, royalties (the “Royalty Financing”) in an amount equal to 4% of ARIKAYCE global net sales prior to September 1, 2025 and 4.5% of ARIKAYCE global net sales on or after September 1, 2025, as well as
+0.75% of brensocatib global net sales, if approved, in each case during the relevant fiscal quarter (the “Revenue Interest Payments”). In the event that the Purchaser has not received aggregate Revenue Interest Payments equal to or greater than
+$150 million on or prior to the date of the required Revenue Interest Payment for the fiscal quarter ending March 31, 2028, the royalty rate for ARIKAYCE will be increased for all subsequent fiscal quarters to a rate which, if applied
+retroactively, would have resulted aggregate Revenue Interest Payments to the Purchaser for all fiscal quarters ended on or prior to March 31, 2028 equal to $150 million. The total Revenue Interest Payments payable by the Company to the Purchaser
+is capped at 1.8x of the purchase price or up to a maximum of 1.9x of the purchase price under certain conditions (the “Return Cap”).
+
+The Financing Agreement contains customary affirmative covenants for transactions of this type, including, among others, the provision of financial and
+other information to the Purchaser, notice to the Purchaser upon the occurrence of certain material events, and compliance with applicable laws. The Financing Agreement also contains customary negative covenants, including certain restrictions on
+the ability to incur indebtedness and grant liens or security interests on assets. Upon the occurrence of a Put Option Event (as defined in the Financing Agreement), other than a Change of Control, the Purchaser will have the right, but not the
+obligation, to require the Company to repurchase the remaining Revenue Interest Payments at a price equal to the then applicable Return Cap (reduced by the amount of any Revenue Interest Payments already received by the Purchaser). In addition, the
+Company and the Purchaser have the right, upon the occurrence of a Change of Control (as defined in the Financing Agreement), to cause the Company to repurchase the remaining Revenue Interest Payments at a price equal to (i) on or prior to the date
+that is 18 months after the closing date, $187.5 million, (ii) after the date that is 18 months  but on or prior to the date that is 24 months after the closing date, $195 million, (iii) after the date that is 24 months after but on or prior to the
+date that is 36 months after the closing date, $225 million and (iv) after the date that is 36 months after the closing date, $270 million, in each case reduced by the amount of Revenue Interests Payments already received by the Purchaser prior to
+such repurchase.
+
+The Term Loan and the Royalty Financing are secured by a perfected security interest on substantially all of the Company’s assets that is governed by the
+terms of an intercreditor agreement entered into among the Collateral Agent, the Purchaser and the Company.
+
+The foregoing summaries of the Loan Agreement and the Financing Agreement do not purport to be complete and are qualified in their entirety by reference to
+the text of the Loan Agreement and the Financing Agreement, which will be filed as exhibits to the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2022.
+
+ITEM 2.02 - Results of Operations and Financial Condition.
+
+Preliminary Q3 Global Revenue and Cash Position
+
+Based on preliminary unaudited financial information, the Company expects global revenue to be approximately $67.7 million for the quarter ended September 30,
+2022, with the Company’s cash and cash equivalents and marketable securities totaling approximately $513.3 million as of September 30, 2022.
+
+Insmed expects to release final results for the third quarter of 2022 on Thursday, October 27, 2022.
+
+Preliminary Financial Information
+
+The third quarter 2022 approximate global revenue information and cash and cash equivalents and marketable securities metrics presented above are preliminary
+and subject to revision. The preliminary information may be revised based on the completion of the Company’s third quarter financial close and reporting process and the quarter-end review to be performed by Ernst & Young LLP, the Company’s
+independent registered public accounting firm. During the course of this process, the Company may identify items that would require adjustments to this information. These estimates thus constitute forward-looking statements, and the Company cautions
+you that they are subject to risks and uncertainties. Ernst & Young LLP has not audited, reviewed, compiled or performed any procedures with respect to these preliminary estimates. Accordingly, Ernst & Young LLP does not express an opinion or
+any other form of assurance with respect to these preliminary estimates.
+
+Forward-looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. “Forward-looking statements,” as that term is defined in the Private Securities Litigation Reform Act of 1995, are statements
+that are not historical facts and involve a number of risks and uncertainties. Words herein such as “may,” “will,” “should,” “could,” “would,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “projects,” “predicts,” “intends,”
+“potential,” “continues,” and similar expressions (as well as other words or expressions referencing future events, conditions or circumstances) may identify forward-looking statements.
+
+The forward-looking statements in this Current Report on Form 8-K are based upon the Company’s current expectations and beliefs, and involve known and unknown risks, uncertainties and other factors, which may cause the Company’s actual
+results, performance and achievements and the timing of certain events to differ materially from the results, performance, achievements or timings discussed, projected, anticipated or indicated in any forward-looking statements. Such risks,
+uncertainties and other factors include, among others, the following: failure to obtain, or delays in obtaining, regulatory approvals for ARIKAYCE outside the U.S., Europe or Japan, or for the Company’s product candidates in the U.S., Europe, Japan
+or other markets, including separate regulatory approval for the Lamira(R) Nebulizer System and other product candidate devices in each market and for
+each usage; failure to successfully commercialize ARIKAYCE, the Company’s only approved product, in the U.S., Europe or Japan (amikacin liposome inhalation suspension, Liposomal 590 mg Nebuliser Dispersion, and amikacin sulfate inhalation drug
+product, respectively), or to maintain U.S., European or Japanese approval for ARIKAYCE; business or economic disruptions due to catastrophes or other events, including natural disasters or public health crises; impact of the COVID-19 pandemic and
+efforts to reduce its spread on the Company’s business, employees, including key personnel, patients, partners and suppliers; risk that brensocatib does not prove effective or safe for patients in ongoing and future clinical studies, including the ASPEN study; risk that TPIP does not prove to be effective or safe for patients in ongoing and future clinical
+studies; uncertainties in the degree of market acceptance of
+ARIKAYCE by physicians, patients, third-party payors and others in the healthcare community; the Company’s inability to obtain full approval of ARIKAYCE from the U.S. Food and Drug Administration, including the risk that the Company will not
+successfully or in a timely manner complete the study to validate a patient reported outcome tool and the confirmatory post-marketing clinical trial required for full approval of ARIKAYCE; inability of the Company, PARI or the Company’s other
+third-party manufacturers to comply with regulatory requirements related to ARIKAYCE or the Lamira(R) Nebulizer System; the Company’s inability to obtain
+adequate reimbursement from government or third-party payors for ARIKAYCE or acceptable prices for ARIKAYCE; development of unexpected safety or efficacy concerns related to ARIKAYCE or the Company’s product candidates; inaccuracies in the
+Company’s estimates of the size of the potential markets for ARIKAYCE, brensocatib, TPIP or the Company’s other product candidates or in data the Company has used to identify physicians, expected rates of patient uptake, duration of expected
+treatment, or expected patient adherence or discontinuation rates; the Company’s inability to create an effective direct sales and marketing infrastructure or to partner with third parties that offer such an infrastructure for distribution of
+ARIKAYCE or any of the Company’s product candidates that are approved in the future; failure to obtain regulatory approval to expand ARIKAYCE’s indication to a broader patient population; risk that the Company’s competitors may obtain orphan drug exclusivity for a product that is essentially the same as a product the Company is developing for a particular
+indication; failure to successfully predict the time and cost
+of development, regulatory approval and commercialization for novel gene therapy products; failure to successfully conduct future clinical trials for ARIKAYCE, brensocatib, TPIP and the Company’s other product candidates due to the Company’s limited experience in conducting preclinical development
+activities and clinical trials necessary for regulatory approval and its potential inability to enroll or retain sufficient patients to conduct and complete the trials or generate data necessary for regulatory approval, among other things; risks that the Company’s clinical studies will be delayed or that serious
+side effects will be identified during drug development; failure of third parties on which the Company is dependent to manufacture sufficient quantities of ARIKAYCE or the Company’s product candidates for commercial or clinical needs, to conduct
+the Company’s clinical trials, or to comply with the Company’s agreements or laws and regulations that impact the Company’s business or agreements with the Company; the Company’s inability to attract and retain key personnel or to effectively manage the Company’s growth; the Company’s inability to
+successfully integrate its recent acquisitions and appropriately manage the amount of management’s time and attention devoted to integration activities; risks that the Company’s acquired technologies, products and product candidates are not
+commercially successful; the Company’s inability to adapt to its highly competitive and changing environment; risk that the Company is unable to maintain its significant customers; risk that government healthcare reform materially increases the Company’s costs and damages its financial condition; the
+Company’s inability to adequately protect its intellectual property rights or prevent disclosure of its trade secrets and other proprietary information and costs associated with litigation or other proceedings related to such matters; restrictions
+or other obligations imposed on the Company by agreements related to ARIKAYCE or the Company’s product candidates, including its license agreements with PARI and AstraZeneca AB, and failure of the Company to comply with its obligations under such
+agreements; the cost and potential reputational damage resulting from litigation to which the Company is or may become a party, including product liability claims; risk that the Company’s operations are subject to a material disruption in the event
+of a cybersecurity attack or issue; business disruptions or expenses related to the upgrade to the Company’s enterprise resource planning system; the Company’s limited experience operating internationally; changes in laws and regulations applicable
+to the Company’s business, including any pricing reform, and failure to comply with such laws and regulations; the Company’s history of operating losses, and the possibility that the Company may never achieve or maintain profitability; goodwill
+impairment charges affecting the Company’s results of operations and financial condition; inability to repay the Company’s existing indebtedness and uncertainties with respect to the Company’s ability to access future capital; and delays in the
+execution of plans to build out an additional third-party manufacturing facility approved by the appropriate regulatory authorities and unexpected expenses associated with those plans.
+
+The Company may not actually achieve the results, plans, intentions or expectations indicated by the Company’s forward-looking statements because, by their
+nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. For additional information about the risks and uncertainties that may affect the
+Company’s business, please see the factors discussed in Item 1A, “Risk Factors,” in the Company’s Annual Report on Form 10-K for the year ended December 31, 2021 and any subsequent Company filings with the Securities and Exchange Commission
+(“SEC”).
+
+The Company cautions readers not to place undue reliance on any such forward-looking statements, which speak only as of the date of this Current Report on
+Form 8-K. The Company disclaims any obligation, except as specifically required by law and the rules of the SEC, to publicly update or revise any such statements to reflect any change in expectations or in events, conditions or circumstances on
+which any such statements may be based, or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements.
+
+The information contained in this Item 2.02 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+ITEM 2.03 — Creation of a Direct
+Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth under Item 1.01 is incorporated into this Item 2.03 by reference.
+
+ITEM 7.01 – Regulation FD Disclosure.
+
+The information contained in Item 2.02 is incorporated in this Item 7.01 by reference.
+
+The information contained in this Item 7.01 shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or incorporated by reference in any
+filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+Dated: October 19, 2022
+
+INSMED INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Michael Smith
+
+ 
+
+Name:
+
+Michael Smith
+
+ 
+
+Title:
+
+General Counsel and Corporate Secretary

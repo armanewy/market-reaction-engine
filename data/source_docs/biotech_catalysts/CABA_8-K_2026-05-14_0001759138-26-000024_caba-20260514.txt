@@ -1,0 +1,250 @@
+8-K
+
+0001759138false00017591382026-05-142026-05-14
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 14, 2026
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+001-39103
+
+82-1685768
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2929 Arch Street
+
+Suite 600
+
+ 
+
+Philadelphia, Pennsylvania
+
+ 
+
+19104
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (267) 759-3100
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+CABA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+On May 14, 2026, Cabaletta Bio, Inc. (“Cabaletta” or the “Company”) issued a press release presenting its preconditioning-free clinical data and automated manufacturing translational data for rese-cel (the “Press Release”). A copy of the Press Release is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed to be “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section and shall not be incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+Item 8.01 Other Events.
+
+On May 14, 2026, the Company posted to the “Investors & Media” section of the Company’s website at www.cabalettabio.com an updated corporate presentation (the “Corporate Presentation”). A copy of the Corporate Presentation is attached hereto as Exhibit 99.2 to this Current Report on Form 8-K and incorporated herein by reference.
+
+On May 14, 2026, the Company issued the Press Release presenting its preconditioning-free clinical data and automated manufacturing translational data for rese-cel, which are being presented in poster presentations at the American Society of Gene & Cell Therapy (“ASGCT”) 2026 Annual Meeting. Highlights of the rese-cel clinical and translational data being presented at the ASGCT 2026 Annual Meeting include:
+
+Lowest Dose Data from RESET-PV Reinforces PC-free Opportunity to Broaden Patient Reach Across Autoimmune Diseases
+
+Cabaletta is presenting clinical and translational data from the first four patients with pemphigus vulgaris treated at the lowest dose of rese-cel without preconditioning. As of April 2, 2026, all four patients had been dosed and completed at least 24 weeks of follow-up. The PDAI Total Activity ("PDAI") scores ranged from 22 to 83 at baseline. Key findings from the poster include:
+
+•
+Translational Profile: PC-free rese-cel demonstrated similar CAR T cell expansion kinetics relative to reported translational data from RESET patients with preconditioning. In all four patients, the magnitude and timing of rese-cel expansion was consistent with RESET patients with preconditioning. Three of the four patients experienced complete peripheral B cell depletion. B cell activating factor serum levels, which may correlate with depth of B cell depletion, were increased and reached the lower end of the range achieved in RESET patients with preconditioning. In the three patients with complete peripheral B cell depletion, repopulated B cells reflected an expected transitional naïve phenotype.
+
+•
+Safety Profile: Rese-cel was generally well tolerated with no dose-limiting toxicities ("DLT") or immune effector cell-associated neurotoxicity syndrome. One patient experienced transient fever, or grade 1 cytokine release syndrome ("CRS").
+
+•
+Clinical Profile: All four patients exhibited initial improvement with clinically meaningful reductions in PDAI total activity scores as early as four weeks. Two of the four patients maintained drug-free compelling clinical responses through 6 months of follow-up. The three patients who exhibited full B cell depletion exhibited the most robust clinical improvements. Serum levels of anti-DSG3 and anti-DSG1 antibodies were reduced with initial improvement in PDAI total activity scores.
+
+The favorable safety observations in all patients and unanticipated, compelling drug-free clinical responses in two of the four patients treated at the lowest PC-free rese-cel dose are supportive of the plan to continue to explore higher doses of PC-free rese-cel in PV and other autoimmune diseases. PC-free rese-cel data at higher doses from RESET-PV are anticipated in 2H26 and initial data at the lowest rese-cel dose from RESET-SLE™ are expected in 1H26 at the European Alliance of Associations for Rheumatology 2026 Congress, being held from June 3-6, 2026, in London, UK.
+
+Automated Manufacturing Replicates Process Consistency and Early Clinical Experience from the First Two Autoimmune Patients to Support Future Scalable Supply with Minimal Capital Investment
+
+Cabaletta is presenting data highlighting the initial manufacturing and translational data from the first two autoimmune patients dosed with rese-cel manufactured using the automated Cellares Cell Shuttle platform, representing the first use of the Cell Shuttle in any clinical program. As of May 6, 2026, both patients had been dosed and completed at least 4 weeks of follow-up. Key findings from the poster include:
+
+•
+Manufacturing Profile: The Cell Shuttle process supported end-to-end, closed and automated manufacturing intended to improve reproducibility, scalability and process control while reducing manual complexity. The first two GMP doses of rese-cel manufactured on the Cell Shuttle met all release specifications with on-time delivery. Critical product quality metrics, including purity, CAR expression, viability, vector copy number, and cytotoxic activity, were within the established quality range based on historical clinical manufacturing runs.
+
+•
+Initial Translational Profile: Rese-cel with automated manufacturing demonstrated similar peak expansion and B cell depletion kinetics, both at similar magnitudes and timeframes, relative to its broader reported translational profile across RESET trials.
+
+ 
+
+Cabaletta believes these initial findings support the continued advancement of the Cell Shuttle automated manufacturing platform as a commercial supplier for rese-cel, if approved, to improve reproducibility and scale over time while maintaining product attributes within established clinical ranges.
+
+Forward-Looking Statements
+
+This 8-K contains “forward-looking statements” of Cabaletta within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including without limitation, express or implied statements regarding: Cabaletta’s business plans and objectives as a whole; Cabaletta's ability to realize its vision of launching curative targeted cell therapies designed specifically for patients with autoimmune diseases; the clinical significance of the data presented, including clinical and translational data from the RESET-PV preconditioning-free cohort and initial automated manufacturing data from patients treated with the Cellares Cell Shuttle; Cabaletta's expectations regarding the potential of preconditioning-free rese-cel to expand patient access and plans to explore higher doses across autoimmune diseases, including the anticipated timing of data therefrom; Cabaletta's ability to successfully complete research and further development and commercialization of its drug candidates in current or future indications, including the timing and results of its clinical trials; Cabaletta's plans to implement automated manufacturing of rese-cel with Cellares’ Cell Shuttle platform and expectations regarding the potential of such platform to improve reproducibility, scalability and process control, including the potential to supply rese-cel at flexible scale with minimal capital investment and among the lowest cost of goods in the industry for autologous cell therapy production; and Cabaletta's expectations around the potential success and therapeutic benefits of rese-cel, including the potential demand from thousands of patients living with autoimmune diseases.
+
+ 
+
+Any forward-looking statements in this 8-K are based on management’s current expectations and beliefs of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: risks related to regulatory filings and potential clearance; the risk that signs of biologic activity, persistence or clinical response may not inform long-term results or translate across programs; Cabaletta’s ability to demonstrate sufficient evidence of safety, efficacy and tolerability in its preclinical studies and clinical trials of rese-cel; risks that modifications to trial design or approach may not have the intended benefits; risks related to clinical trial site activation, enrollment delays and assessment of clinical trial results; risks related to volatile market and economic conditions and public health crises; Cabaletta’s ability to retain and recognize the intended incentives conferred by Orphan Drug Designation, Fast Track Designation, Regenerative Medicine Advanced Therapy Designation or other designations for its product candidates, as applicable; risks related to Cabaletta’s ability to protect and maintain its intellectual property position; risks related to fostering and maintaining successful relationships with Cabaletta’s collaboration and manufacturing partners; uncertainties related to the initiation and conduct of studies and other development requirements for its product candidates; and the risk that any one or more of Cabaletta’s product candidates will not be successfully developed and/or commercialized. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause Cabaletta’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in Cabaletta’s most recent annual report on Form 10-K as well as discussions of potential risks, uncertainties, and other important factors in Cabaletta’s other subsequent filings with the Securities and Exchange Commission. All information in this 8-K is as of the date of this Current Report on Form 8-K, and the Company undertakes no duty to update this information unless required by law.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press Release issued by the registrant on May 14, 2026, furnished herewith.
+
+ 
+
+ 
+
+ 
+
+99.2
+
+ 
+
+Cabaletta Bio, Inc. Corporate Presentation, dated May 2026, filed herewith.
+
+ 
+
+ 
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL Document).
+
+ 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+CABALETTA BIO, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: May 14, 2026
+
+By:
+
+/s/ Steven Nichtberger
+
+Steven Nichtberger
+
+Chief Executive Officer and President
+
+(Principal Executive Officer)

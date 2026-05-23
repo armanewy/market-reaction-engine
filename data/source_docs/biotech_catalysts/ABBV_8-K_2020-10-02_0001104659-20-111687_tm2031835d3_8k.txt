@@ -1,0 +1,424 @@
+0001551152
+false
+Common Stock, $0.01 Par Value
+ABBV
+
+0001551152
+
+2020-10-02
+2020-10-02
+
+0001551152
+
+us-gaap:CommonStockMember
+exch:XNYS
+
+2020-10-02
+2020-10-02
+
+0001551152
+
+exch:XCHI
+us-gaap:CommonStockMember
+
+2020-10-02
+2020-10-02
+
+0001551152
+
+abbv:Sec1.375SeniorNotesDue2024Member
+exch:XNYS
+
+2020-10-02
+2020-10-02
+
+0001551152
+
+abbv:Sec0.750SeniorNotesDue2027Member
+exch:XNYS
+
+2020-10-02
+2020-10-02
+
+0001551152
+
+abbv:Sec2.125SeniorNotesDue2028Member
+exch:XNYS
+
+2020-10-02
+2020-10-02
+
+0001551152
+
+abbv:Sec1.250SeniorNotesDue2031Member
+exch:XNYS
+
+2020-10-02
+2020-10-02
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): October 2, 2020
+
+ 
+
+ABBVIE INC.
+
+(Exact Name of Registrant as Specified
+in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-35565
+
+ 
+
+32-0375147
+
+(State or other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+1 North Waukegan Road
+
+North Chicago, Illinois 60064-6400
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (847) 932-7900
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common Stock, $0.01 Par Value
+
+ 
+
+ABBV
+
+ 
+
+New York Stock Exchange
+
+Chicago
+Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ 
+
+ABBV24
+
+ 
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ 
+
+ABBV27
+
+ 
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ 
+
+ABBV28
+
+ 
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ 
+
+ABBV31
+
+ 
+
+New York Stock Exchange
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 8.01.
+
+Results of Operations and Financial Condition.
+
+ 
+
+On May 8, 2020, AbbVie
+Inc. (“AbbVie”) completed its acquisition of Allergan plc (“Allergan”).
+Pursuant to the Transaction Agreement, dated as of June 25, 2019 (as amended on May 5, 2020), by and among AbbVie, Allergan and Venice
+Subsidiary LLC, a Delaware limited liability company and a direct wholly-owned subsidiary of AbbVie (“Acquirer Sub”), Acquirer
+Sub acquired Allergan pursuant to a scheme of arrangement (the “Scheme”) under Chapter 1 of Part 9 of the Irish Companies
+Act 2014 (the “Act”) and a capital reduction under Sections 84 to 86 of the Act (the “Acquisition”). As
+a result of the Scheme, Allergan became a wholly-owned subsidiary of AbbVie.
+
+ 
+
+To partially fund the Acquisition, on November 21,
+2019, AbbVie completed the private offering and issuance of senior unsecured notes in a combined aggregate principal amount
+of $30 billion (the “2019 USD Notes”). Also, in connection with the Acquisition, on May 14, 2020, AbbVie
+completed its offers to exchange (the “Exchange Offers”) any and all outstanding notes issued by certain
+subsidiaries of Allergan for new notes issued by AbbVie. Upon settlement of the Exchange Offers, AbbVie issued (i)
+approximately $13.7 billion in aggregate principal amount of senior unsecured notes (the “2020 USD Notes”) and
+(ii) approximately €2.5 billion in aggregate principal amount of senior unsecured notes (the “Euro Notes”
+and, together with the 2019 USD Notes and the 2020 USD Notes, the “Notes”). In accordance with the terms of the
+registration rights agreements entered into in connection with the issuance of the Notes, AbbVie will offer to exchange in
+registered exchange offers (the “Registered Exchange Offers”) certain series of the Notes for new notes (the
+“Registered Notes”). The terms of the Registered Notes to be issued in the Registered Exchange Offers are
+substantially identical to the terms of the corresponding series of Notes, except that the offering of the Registered Notes
+will be registered under the Securities Act of 1933, as amended, and the transfer restrictions, registration rights and
+additional interest provisions applicable to the Notes will not apply to the Registered Notes.
+
+ 
+
+In
+connection with the Registered Exchange Offers, AbbVie is filing this Current Report on Form 8-K in order to make available the
+unaudited pro forma condensed combined financial information of AbbVie giving effect to the Acquisition (the “pro forma financial
+information”), which includes the unaudited pro forma condensed combined statements
+of earnings for the year ended December 31, 2019 and for the six months ended
+June 30, 2020 and the related notes, and which is filed herewith as Exhibit 99.1 and included herein.
+
+ 
+
+The
+pro forma financial information included in this Current Report on Form 8-K has been presented for informational purposes only and
+is not necessarily indicative of the combined financial position or results of operations that would have been realized had the
+Acquisition occurred as of the dates indicated, nor is it meant to be indicative of any anticipated combined financial position
+or future results of operations that AbbVie will experience after the Acquisition.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+(b)
+
+Pro Forma Financial Information.
+
+ 
+
+The unaudited pro forma condensed
+combined financial information of AbbVie, giving effect to the acquisition of Allergan, which includes the unaudited pro forma
+condensed combined statements of earnings for the year ended December 31, 2019 and for the six months ended June 30, 2020 and the
+related notes, is filed herewith as Exhibit 99.1 and included herein.
+
+ 
+
+(d)
+
+Exhibits.
+
+ 
+
+The following exhibits are
+included as part of this Current Report on Form 8-K:
+
+ 
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+99.1
+
+ 
+
+The unaudited pro forma condensed combined financial information of AbbVie, giving effect to the acquisition of Allergan, which includes the unaudited pro forma condensed combined statements of earnings for the year ended December 31, 2019 and for the six months ended June 30, 2020 and the related notes.
+
+104
+
+ 
+
+The cover page from this Current Report on Form 8-K formatted in Inline XBRL (included as Exhibit 101).
+
+ 
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+ABBVIE INC.
+
+ 
+
+ 
+
+Date: October 2, 2020
+
+By:
+
+/s/ Robert A. Michael
+
+ 
+
+Name:    
+
+Robert A. Michael
+
+ 
+
+Title: 
+
+Executive Vice President, Chief Financial Officer
+
+ 
+
+ 
+
+Common Stock, $0.01 Par Value
+
+ABBV

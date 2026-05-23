@@ -1,0 +1,82 @@
+EX-99.1
+2
+adpt-ex991_6.htm
+EX-99.1 PRESS RELEASE DATED MARCH 20, 2020
+
+adpt-ex991_6.htm
+
+EXHIBIT 99.1
+
+ 
+
+March 20, 2020
+
+Adaptive Biotechnologies and Microsoft expand partnership to decode COVID-19 immune response and provide open data access
+
+Differentiated approach may improve detection methods and inform vaccine discovery for COVID-19
+
+Other industry leaders including LabCorp, through its Covance drug development business, Illumina, and Providence join forces to accelerate this critical effort
+
+SEATTLE and REDMOND, Wash. — March 20, 2020 — Adaptive Biotechnologies Corp. (Nasdaq: ADPT) and Microsoft Corp. (Nasdaq: MSFT) on Friday announced they will leverage their existing partnership mapping population-wide adaptive immune responses to diseases at scale to study COVID-19. Finding the relevant immune response signature may advance solutions to diagnose, treat and prevent the disease, augmenting existing research efforts that primarily focus on the biology of the virus. These data will be made freely available to any researcher, public health official or organization around the world via an open data access portal.
+
+“We can improve our collective understanding of COVID-19 by decoding the immune system’s response to the virus and the disease patterns that can be inferred from studying these data at the population level,” said Chad Robins, CEO and co-founder of Adaptive Biotechnologies. “Immune response data may enable detection of the virus in infected people not showing symptoms and improve triaging of newly diagnosed patients, potentially solving two of the challenges we are facing in the current diagnostic paradigm.”
+
+To generate immune response data, Adaptive will open enrollment in April to collect de-identified blood samples, using a LabCorp-enabled mobile phlebotomy service, from individuals diagnosed with or recovered from COVID-19 in a virtual clinical trial managed by Covance. Immune cell receptors from these blood samples will be sequenced using Illumina platform technology and mapped to SARS-CoV-2-specific antigens that will have been confirmed by Adaptive’s proprietary immune medicine platform to induce an immune response. The immune response signature found from the initial discovery work and the initial set of samples will be uploaded to the open data access portal. Leveraging Microsoft’s hyperscale machine learning capabilities and the Azure cloud platform, the accuracy of the immune response signature will be continuously improved and updated online in real time as more trial samples are sequenced from the study.
+
+ 
+
+ 
+
+To expedite the development and relevance of the immune response signature across the global population, the companies are seeking additional participation from institutions and research groups around the world to contribute blood samples to this open data initiative. Providence, a large health system with 51 hospitals, including the one near Seattle that treated the first U.S. COVID-19 patient, is an initial clinical collaborator.
+
+“The solution to COVID-19 is not likely going to come from one person, one company or one country. This is a global issue, and it will be a global effort to solve it,” said Peter Lee, corporate vice president, AI and Research, Microsoft. “Making critical information about the immune response accessible to the broader research community will help advance ongoing and new efforts to solve this global public health crisis, and we can accomplish this goal through our proven TCR-Antigen mapping partnership with Adaptive.”
+
+Timing and enrollment details about the upcoming study and the open data access portal will be coming soon. Institutions or collaborators interested in contributing blood samples can direct inquiries to COVID19ImmuneResponse@adaptivebiotech.com.
+
+For additional resources go to www.adaptivebiotech.com/about-us/media-resources.
+
+About the Adaptive and Microsoft partnership
+
+Adaptive and Microsoft partnered in 2018 to create a TCR-Antigen Map, an approach to translating the genetics of the adaptive immune system to understand at scale how it works. Together we are using immunosequencing and machine learning to map T-cell receptor (TCR) sequences to diseases and disease-associated antigens. Using these data, we aim to develop a blood test for the early and accurate detection of many diseases, translating the natural diagnostic capability of the immune system into the clinic. In 2019, we confirmed clinical signals in two diseases, and established our first proof of concept in Lyme Disease. We expect to submit our first clinical application to the FDA in 2020.
+
+About Adaptive Biotechnologies
+
+Adaptive Biotechnologies is a commercial-stage biotechnology company focused on harnessing the inherent biology of the adaptive immune system to transform the diagnosis and treatment of disease.
+
+ 
+
+ 
+
+We believe the adaptive immune system is nature’s most finely tuned diagnostic and therapeutic for most diseases, but the inability to decode it has prevented the medical community from fully leveraging its capabilities. Our proprietary immune medicine platform reveals and translates the massive genetics of the adaptive immune system with scale, precision and speed to develop products in life sciences research, clinical diagnostics, and drug discovery. We have two commercial products, and a robust clinical pipeline to diagnose, monitor and enable the treatment of diseases such as cancer, autoimmune conditions and infectious diseases. Our goal is to develop and commercialize immune-driven clinical products tailored to each individual patient. For more information, please visit adaptivebiotech.com.  
+
+About Illumina
+
+Illumina is improving human health by unlocking the power of the genome. Our focus on innovation has established us as the global leader in DNA sequencing and array-based technologies, serving customers in the research, clinical, and applied markets. Our products are used for applications in the life sciences, oncology, reproductive health, agriculture, and other emerging segments. To learn more, visit www.illumina.com and follow @illumina.
+
+About LabCorp
+
+LabCorp (NYSE: LH), an S&P 500 company, is a leading global life sciences company that is deeply integrated in guiding patient care, providing comprehensive clinical laboratory and end-to-end drug development services. With a mission to improve health and improve lives, LabCorp delivers world-class diagnostics solutions, brings innovative medicines to patients faster, and uses technology to improve the delivery of care. LabCorp reported revenue of more than $11.5 billion in 2019. To learn more about LabCorp, visit www.LabCorp.com, and to learn more about Covance Drug Development, visit www.Covance.com.
+
+About Providence
+
+Providence is a national, not-for-profit Catholic health system comprising a diverse family of organizations and driven by a belief that health is a human right. With 51 hospitals, 1,085 physician clinics, senior services, supportive housing and many other health and educational services, the health
+
+ 
+
+ 
+
+system and its partners employ more than 119,000 caregivers serving communities across seven states – Alaska, California, Montana, New Mexico, Oregon, Texas, and Washington, with system offices in Renton, Wash., and Irvine, Calif.
+
+About Microsoft
+
+Microsoft (Nasdaq “MSFT” @microsoft) enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.
+
+For more information, press only:
+
+Microsoft Media Relations, WE Communications for Microsoft, (425) 638-7777, rrt@we-worldwide.com
+
+Beth Keshishian, Adaptive Media, (917) 912-7195, media@adaptivebiotech.com
+
+Lynn Lewis or Carrie Mendivil, Adaptive Investor, (415) 937-5405, investors@adaptivebiotech.com
+
+Note to editors: For more information, news and perspectives from Microsoft, please visit the Microsoft News Center at http://news.microsoft.com. Web links, telephone numbers and titles were correct at time of publication, but may have changed. For additional assistance, journalists and analysts may contact Microsoft’s Rapid Response Team or other appropriate contacts listed at https://news.microsoft.com/microsoft-public-relations-contacts.

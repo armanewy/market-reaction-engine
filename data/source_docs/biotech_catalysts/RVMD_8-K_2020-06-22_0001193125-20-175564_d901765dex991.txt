@@ -1,0 +1,163 @@
+EX-99.1
+2
+d901765dex991.htm
+EX-99.1
+
+EX-99.1
+
+June 2020 Translating Frontier Oncology
+Targets to Outsmart Cancer™ Exhibit 99.1
+
+Legal Disclaimer This presentation
+contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act. All statements other than statements of historical facts contained in this presentation, including statements regarding our future results of
+operations and financial position, business strategy, prospective products, availability of funding, ability to maintain existing collaborations, including with Sanofi, and establish new strategic collaborations, licensing or other arrangements, the
+scope, progress, results and costs of developing our product candidates or any other future product candidates, the potential market size and size of the potential patient populations for our product candidates, the timing and likelihood of success
+of obtaining product approvals, plans and objectives of management for future operations, the scope of protection we are able to establish and maintain for intellectual property rights covering our product candidates, future results of anticipated
+products, are forward-looking statements and the impact of the COVID-19 pandemic on our business. These statements involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or
+achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. Because forward-looking statements are inherently subject to risks and uncertainties, some of which
+cannot be predicted or quantified and some of which are beyond our control, you should not rely on these forward-looking statements as predictions of future events. The events and circumstances reflected in our forward-looking statements may not be
+achieved or occur and actual results could differ materially from those projected in the forward-looking statements. Except as required by applicable law, we do not plan to publicly update or revise any forward-looking statements contained herein,
+whether as a result of any new information, future events, changed circumstances or otherwise.   This presentation concerns anticipated products that are under clinical investigation and which have not yet been approved for marketing by the
+U.S. Food and Drug Administration (FDA). It is currently limited by Federal law to investigational use, and no representation is made as to its safety or effectiveness for the purposes for which it is being investigated.   For a further
+description of the risks and uncertainties that could cause actual results to differ from those anticipated in these forward-looking statements, as well as risks relating to the business of Revolution Medicines in general, see Revolution
+Medicines’ Quarterly Report filed with the Securities and Exchange Commission on May 14, 2020, and its future periodic reports to be filed with the Securities and Exchange Commission. Except as required by law, Revolution Medicines undertakes
+no obligation to update any forward-looking statements to reflect new information, events or circumstances, or to reflect the occurrence of unanticipated events.
+
+Summary Clinical-stage precision
+oncology company with deep focus on RAS cancers; growing clinical momentum Cohesive pipeline of complementary investigational products for targeted mono- and combination treatment Prolific innovation engine, sophisticated preclinical and clinical
+capabilities, and seasoned company leadership Strong financial condition and corporate transactions that build value
+
+Continued Operational Excellence in
+COVID-19 Environment COVID-19 pandemic with profound global impact on health and socioeconomic well-being Operational adjustments implemented by RVMD in mid-March have enabled our team to remain healthy, focused and productive. Currently: Limited
+impact on preclinical productivity and timelines; all projects progressing per expectations No material impact on ongoing clinical study timelines, despite logistical challenges with on-site patient visits and follow up Potential delays associated
+with planned study initiations, mitigated by active efforts supporting site initiation Strong balance sheet $347.9 million in cash, cash equivalents and marketable securities as of 3/31/20
+
+Our Innovation Engine Focused on
+Genetic Drivers of RAS-Dependent Cancers Deep chemical biology and cancer pharmacology know-how to define critical vulnerabilities of frontier RAS / mTOR pathway targets and signaling circuits Sophisticated structure-based drug discovery
+capabilities, including proven access to complex chemical space, tailored to elusive cancer targets Astute precision medicine approach for patients with genetically-defined cancers addicted to RAS / mTOR pathways
+
+Integrated Pipeline Targets Elusive
+Drivers of RAS Cancers RAS Signaling Cascade Receptor Tyrosine Kinase (RTK) / Growth Factor Receptors mTOR Signaling Cascade Growth, Survival Oncogenes Multiple RAS(ON) SOS1 SHP2 4EBP1/ mTORC1 Cancer
+
+Pipeline Drug Combinations to Overcome
+Resistance Loops that Feed Oncogene Addiction RAS Signaling Cascade Resistance loops Growth, Survival Multiple RAS(ON) SOS1 SHP2 mTOR Signaling Cascade Oncogenes 4EBP1/ mTORC1
+
+Substantial Progress Spanning Clinical
+and Preclinical Pipeline RAS Signaling Cascade mTOR Signaling Cascade Growth, Survival Oncogenes Multiple RAS(ON) Lead opt. SOS1 Lead opt. RMC-4630 Phase 1/2 RMC-5552 IND-enabling development Cancer
+
+RAS Signaling Cascade Growth, Survival
+SHP2 RMC-4630 Phase 1/2
+
+RMC-4630 Inhibits SHP2, a Shared
+Node that Regulates RAS Signaling Pathway SOS1 NF1 RAS(ON) SHP2 RAF MEK ERK PI3K AKT Growth, Survival GDP RAS(OFF) GTP PTEN ✘ mTORC1 4EBP1 S6K Oncogenes TSC1/2 Multiple Receptor Tyrosine Kinases (RTKs) Oncogenic mutants sensitive to SHP2
+inhibitor
+
+RMC-4630 Drives Stasis and
+Regressions of NSCLC Xenografts with Select Pathway Mutations KRASG12C BRAFClass3 NF1LOF LUN092 NCI-H1838 LUN023 EGFRL858R, T790M NCI-H1975 Control RMC-4630 30 mg/kg po qd
+
+RMC-4630-01: Best Change in Tumor
+Burden from Baseline in KRASmutant NSCLC Source: EDC as of 5/4/2020 G12C G12D G12V G12A DCR KRASG12C NSCLC = 70% (7/10) DCR RASmutant NSCLC = 59% (17/29) Data presented for efficacy evaluable population (N=29) defined as patients with baseline and
+at least one post-baseline scan or who died or had clinical progression prior to first post-baseline scan. Five patients are not represented in this figure: 4 patients had clinical progression prior to first scan, and 1 patient died due to disease
+progression at the time of data extract. DCR = Disease Control Rate (no PD at first response assessment) # * Change from baseline (%) # Unconfirmed PR * Confirmed PR PR* SD# SD SD SD SD SD SD SD SD SD SD SD PD SD SD SD PD PD PD PD PD PD
+PD
+
+Cytostatic threshold (EC50)
+Apoptotic threshold (EC75) 60 mg daily (N=11)1 140 mg D1D4 (N=8)2 200 mg D1D2 (N=4)3 RMC-4630-01: Further Insights on Intermittent Dosing Paradigm in the Clinic PK sampled at: 1C1D22 2Post-C1D1 dosing and C1D8 trough (~168 h) 3Post-C1D1 and C1D2
+dosing and C1D8 trough (~168 h)
+
+RMC-4630-01: Approaching Dose &
+Schedule Optimized for Efficacious and Tolerable Exposures Dose cohort: 60 mg daily N=18^ 140 mg D1D4* N=8 200 mg D1D2* N=4 With related AEs, grade >3: 9/18 (50%)a 4/8 (50%)b 0/4 (0%) With AEs Leading to Discontinuation or Dose Reduction: 4/18
+(22.2%) 1/8 (12.5%) 0/4 (0%) Apoptotic threshold Cytostatic threshold 1200 (EC75) 80 (EC50) Cmax Trough Mean Total Plasma Concentration (nM), by Dose Cohort a 2 grade 4 b 0 grade 4 * Each week ^PK available for N=11
+
+RMC-4630 Causes Tumor Growth
+Inhibition and Regressions in Diverse Preclinical NF1LOF^ Models LUN #150, NSCLC PDX NCI-H1838, NSCLC CDX ^ NF1LOF (loss-of-function) inferred from deletions, insertions, premature stops and truncations in neurofibromin 1 gene Anti-tumor effects in
+numerous NF1LOF PDX models Tumor growth inhibition in 62% (34/55) of models 25% of responses were regressions Regressions with intermittent dosing in NF1LOF CDX models n=3/group n=9/group
+
+RMC-4630-01: Best Change in Tumor
+Burden for NSCLC and Gynecologic Tumors with NF1LOF 1 patient (NSCLC) with death due to clinical PD is not represented in this figure NF1LOF (loss-of-function) inferred from deletions, insertions, premature stops and truncations in neurofibromin 1
+gene NF1LOF only NF1LOF + KRASG12C Dose: 80mg 80mg 60mg 200mg 200mg Schedule: Daily Daily Daily D1D4 D1D4 Type: Ovarian Ovarian NSCLC NSCLC Uterine Change from baseline (%) 100% -100% -30% 20% PD SD SD PD CR
+
+Complete Response in Patient with
+Uterine Cancer 63yr old with stage IVb poorly differentiated uterine carcinosarcoma Diagnosed Oct 2017 – two NF1LOF mutations, POLE (DNA repair) mutation, and ultra-high tumor mutational burden Two treatment regimens prior to starting RMC-4630
+Started RMC-4630 200 mg D1D4 reduced to 140 mg D1D4 due to GI toxicity Continues in CR at 5 months on study therapy Target Lesion Baseline Scan 1st on Treatment Scan Omental thickening (left upper quadrant) 1.7 cm 0.0 cm Percent Change from Baseline
+- 100% ¯ Overall Response per RECIST V1.1 Complete Response (CR) confirmed
+
+Rational, Mechanism-driven
+Combinations as Central Clinical Thesis SHP2 inhibitor RMC-4630 MEK inhibitors KRASG12C inhibitors Checkpoint inhibitors Monotherapy Dose/regimen optimization Combination therapies Additive anti-tumor effects + combat adaptive resistance RTK
+inhibitors Select RAS Pathway Mutations KRASG12C Mutation EGFR Mutations SOC with Mutations ERK inhibitors Select Mutations
+
+Broad Development Program for
+RMC-4630 Progressing Well 2019 2020 Monotherapy Dose escalation (including expansion cohorts with molecularly-defined tumors) Combination therapy Molecularly-defined solid tumors EGFR Inhibitor (osimertinib) CodeBreaK 101 PD-1 Inhibitor
+(pembrolizumab) KRASG12C(OFF) AMG 510 MEK RMC-4630-01 RMC-4630-02 Daily and Intermittent dosing schedules RMC-4630-02 RP2DS ERK inhibitor (IST) SAR442720-TCD16210 RP2DS
+
+SHP2 Inhibitor Promotes Anti-Tumor
+Responses via Effects on Innate and Adaptive Immunity Based on Quintana et al. Cancer Research April 2020
+
+Anti-Tumor Responses from SHP2
+Inhibitor Monotherapy and Combination with Anti-PD1 RMC-4550 (SHP2 inh.) Anti-PD1 Control Combination EMT-6 (syngeneic breast cancer, NF1mut;SOS1mut ) 20% CR CR: Complete response, with immunological memory Quintana et al. Cancer Research April 2020
+
+mTOR Signaling Cascade Oncogenes
+4EBP1/mTORC1 RMC-5552 IND-enabling development
+
+Hyperactivation of mTOR Signaling
+Frequently Drives Cancer and/or Drug Resistance RAS Signaling Cascade Resistance loops Growth, Survival Multiple RAS(ON) SOS1 SHP2 mTOR Signaling Cascade Oncogenes 4EBP1/ mTORC1 PI3K PTEN TSC1/2 STK11 mTOR
+
+Attractive Profile of Bi-Steric
+mTORC1 Inhibitors, including Development Candidate RMC-5552 Layered structural model mTORC1 FKBP12 Allosteric site Active site RMC-5552 Inhibition of mTORC1: pS6K 0.14 nM Inhibition of mTORC1: p4EBP11 0.48 nM Selectivity over mTORC2: AKT2 40X 1
+Rapamycin is not considered an inhibitor. 2 Active site inhibitors are not considered selective.
+
+RMC-5552 Monotherapy Drives
+Regressions in mTORC1-Hyperactivated Tumor Xenografts MCF7 CDX (Breast cancer, PIK3CAmutant; ER+/HER2-) End of study responses
+
+Bi-Steric mTORC1 Inhibitor (RM-006)
+Exhibits Anti-Tumor Activity in KRASG12C NSCLC Xenograft NCI-H358 CDX (NSCLC, KRASG12C) N = 10/group unless noted All regimens well tolerated Control RM-006 10 mg/kg ip qw (N=8) AMG 510 30 mg/kg po qd Combination RM-006 = mTORC1-selective bi-steric
+tool compound
+
+Dual Targeted Therapy for RAS/mTOR
+Pathway Co-Mutations Delays Acquired Drug Resistance NCI-H2030 CDX (NSCLC, KRASG12C;STK11LOF*) n = 10/group unless noted ***p<0.0001, one-way ANOVA *** *** ^ STK11LOF (loss-of-function) inferred from deletions, insertions, premature stops and
+truncations
+
+Dual Targeted Therapy for RAS/mTOR
+Pathway Co-Mutations Overcomes Primary Resistance NCI-H2122 NSCLC CDX (KRASG12C; STK11LOF) *** n = 10/group unless noted ***p<0.0005, one-way ANOVA End of study responses 7 n = number of regressions > 10% from starting volume ^ STK11LOF
+(loss-of-function) inferred from deletions, insertions, premature stops and truncations
+
+Multiple RAS(ON) Lead opt. RAS
+Signaling Cascade Growth, Survival
+
+Numerous RAS Mutants Commonly Drive
+Human Cancers and are Important Disease Targets KRAS NRAS HRAS G12 Glycine-12 Q61 Glutamine-61 G13 Glycine-13 C D V S R K E L A P H Isoforms Hotspots Mutations 30% of all cancers (U.S.)
+
+Mutant RAS Tumors are Addicted to,
+and Tenaciously Maintain, High Levels of RAS(ON) RAS(ON) Inhibitors RAS(OFF) Inhibitors RAS(ON) RAS(OFF) *Adapted from Patricelli et al., Cancer Discovery 2016 Cancer Mutation* Normal* GDP GTP INACTIVE ACTIVE
+
+Highly Differentiated Inhibitors of
+Active Form of Oncogenic RAS Proteins Tri-Complex Inhibitor Unique target binding mode Active RAS form Near all hotspot mutations Forms tri-complex within cell Directly inhibits oncogenic signaling RASmutant(ON) Chaperone protein
+
+KRASG12C(ON) Inhibitors Drive Tumor
+Xenograft Regressions in Vivo NSCLC (KRASG12C) PDAC (KRASG12C) Control Inhibitor 30 mg/kg IP qd 10 Control Inhibitor 10 mg/kg IP qd Inhibitor 30 mg/kg IP qd 10 5 End of study responses End of study responses Days Post-Implant Days Post-Implant
+NCI-H358 MIA PaCa-2
+
+A Potent, Orally Bioavailable
+KRASG12C(ON) Inhibitor from Lead Optimization Series IC50 Time (hr) Unbound Plasma [RM-017] (nM) Suppression of KRASG12C in Vitro (NCI-H358 cells) PK After Oral Administration in Vivo (mouse)
+
+Oral Administration of KRASG12C(ON)
+Lead Series Compound Drives Regressions in Vivo NCI-H358 CDX (NSCLC, KRASG12C/+) All doses were well tolerated # End of study responses 9 n = number of regressions > 10% from starting volume 8 Control (n=9) AMG 510 100 mg/kg po qd RM-017 100
+mg/kg po qd
+
+Summary
+
+1H-20: Clinical and Preclinical
+Pipeline Advances Strengthen Therapeutic Strategies for RAS Tumors RAS Signaling Cascade mTOR Signaling Cascade Growth, Survival Oncogenes Multiple RAS(ON) SOS1 '4630 ‘5552 Clinical activity expanded from KRASG12 mutant NSCLC to second cancer
+genotype, NF1LOF Orally administered KRASG12C(ON) inhibitor drives tumor regressions Continued expansion of drug combination studies, including FPI in AMG 510 and pembrolizumab studies Anti-tumor activity in combination with KRASG12C inhibitor in
+cancers with RAS/mTOR pathway co-mutations Immune-mediated anti-tumor effects and combination with PD-1 inhibitor Clinical validation of intermittent dosing benefits Progressed to lead optimization
+
+Progress Since IPO and Prospects for
+2020 Program Status RMC-4630 (SHP2) Clinical update Intermittent dosing progressing toward RP2DS for mono- and combination therapy Additional evidence of monotherapy activity in KRASmutant NSCLC Initial monotherapy activity in NF1LOF tumors Begin
+treating patients in combination with AMG 510 FPI June 2020 Begin treating patients in combination with anti-PD1 Cancer Research paper on enhancing immune response FPI June 2020 Begin treating patients in combination with osimertinib Mutant RAS(ON)
+Nominate first Development Candidate Preclinical regressions from oral KRASG12C(ON) inhibitor Lead compound for second target RMC-5552 (mTORC1) IND-ready Preclinical tumor regressions from combination with KRASG12C(OFF) inhibitor
+
+Looking Forward to 2H-2020 Program
+Milestones RMC-4630 (SHP2) Additional clinical update Begin treating patients in combination with osimertinib Mutant RAS(ON) Nominate first Development Candidate Lead compound for second target RMC-5552 (mTORC1) IND-ready
+
+Translating Frontier Oncology
+Targets to Outsmart Cancer™

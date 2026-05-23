@@ -1,0 +1,1214 @@
+EX-99.2
+5
+tm2510984d1_ex99-2.htm
+EXHIBIT 99.2
+
+Exhibit 99.2
+
+ 
+
+1
+EDG-7500: Phase 2 CIRRUS-HCM
+Development Program Update
+April 2, 2025
+
+2
+Forward Looking Statement
+This presentation contains forward-looking statements as that term is defined in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Statements in
+this presentation that are not purely historical are forward-looking statements. Such forward-looking statements include, among other things, statements regarding the potential of, and expectations
+regarding Edgewise’s cash runway, Edgewise’s expectations relating to its : clinical trials and clinical development of sevasemten (EDG-5506) and EDG-7500, including statements regarding
+timing of reporting data, timing of reporting Edgewise's future clinical trial plans; statements regarding the advancement of Edgewise's research and development programs; statements regarding
+Edgewise's pipeline of product candidates and programs; statements relating to Edgewise’s cash runway; and statements regarding Edgewise's milestones. Words such as “believes,”
+“anticipates,” “plans,” “expects,” “intends,” “will,” “goal,” “potential” and similar expressions are intended to identify forward-looking statements. The forward-looking statements contained herein are
+based upon Edgewise’s current expectations and involve assumptions that may never materialize or may prove to be incorrect. Actual results could differ materially from those projected in any
+forward-looking statements due to numerous risks and uncertainties, including but not limited to: risks associated with the potential unreliability of extrapolations and comparisons of published
+results without head-to-head comparison included in the topline result from Parts B and C of Phase 2 of CIRRUS-HCM trial of EDG-7500 in individuals with either obstructive or non-obstructive
+Hypertrophic Cardiomyopathy; Edgewise’s limited operating history, its products being early in development and not having products approved for commercial sale; risks associated with Edgewise
+not having generated any revenue to date; Edgewise’s ability to achieve objectives relating to the discovery, development and commercialization of its product candidates, if approved; Edgewise’s
+need for substantial additional capital to finance its operations; Edgewise’s substantial dependence on the success of sevasemten and EDG-7500; Edgewise’s ability to develop and commercialize
+sevasemten and EDG-7500 and discover, develop and commercialize product candidates in future programs; risks related to Edgewise’s clinical trials of its product candidates not demonstrating
+safety and efficacy; risks related to Edgewise’s product candidates causing serious adverse events, toxicities or other undesirable side effects; the outcome of preclinical testing and early clinical
+trials not being predictive of the success of later clinical trials and the risks related to the results of Edgewise’s clinical trials not satisfying the requirements of regulatory authorities; delays or
+difficulties in the enrollment and/or maintenance of patients in clinical trials; risks related to failure to capitalize on other indications or product candidates; risks related to competition; risks relating
+to interim, topline and preliminary data from Edgewise’s clinical trials changing as more patient data becomes available; risks related to the regulatory approval processes of domestic and foreign
+authorities being lengthy, time consuming and inherently unpredictable; risks related to production of drugs by Edgewise’s third-party manufacturers; risks related to changes in methods of product
+candidate manufacturing or formulation; risks related to not achieving adequate market acceptance; risks related to the patient population for our product candidates having a small patient
+population; risks related to regulatory authorities not accepting data from trials conducted in locations outside of their jurisdiction; risks relating to Edgewise’s ability to attract and retain highly
+skilled executive officers and employees; Edgewise’s ability to obtain and maintain intellectual property protection for its product candidates; Edgewise’s reliance on third parties; general economic
+and market conditions; and other risks. Information regarding the foregoing and additional risks may be found in the section entitled “Risk Factors” in documents that Edgewise files from time to
+time with the U.S. Securities and Exchange Commission. These forward-looking statements are made as of the date of this presentation, and Edgewise assumes no obligation to update the
+forward-looking statements, or to update the reasons why actual results could differ from those projected in the forward-looking statements, except as required by law.
+The trademarks included herein are the property of the owners thereof and are used for reference purposes only. Such use should not be construed as an endorsement of such products.
+
+3
+Agenda
+1. Introduction to Edgewise Therapeutics
+2. The continued unmet need in HCM
+3. Topline results: Phase 2 CIRRUS-HCM trial EDG-7500
+28-day data in oHCM and nHCM
+4. EDG-7500 future development plans
+5. Closing remarks
+6. Q & A
+Center for Inherited Cardiac Disease,
+Hospital of the University of Pennsylvania
+and CIRRUS-HCM Investigator
+Dr. Kevin Koch
+Dr. Anjali Owens
+Dr. Robert Blaustein
+Chief Executive Officer
+Chief Development Officer
+Dr. Ahmad Masri
+Director of the Hypertrophic
+Cardiomyopathy Center at Oregon
+Health and Science University and
+CIRRUS-HCM Investigator
+
+4
+Focused on muscle science
+● Global leader in muscle disease therapeutic development
+● Deep knowledge of integrated muscle physiology
+● Combined expertise in muscle biology and small molecule drug discovery
+to build our novel and differentiated muscle-focused platform
+Rapidly advancing portfolio
+● Advancing EDG-7500 in oHCM and nHCM
+● Advancing sevasemten in muscular dystrophies, including Becker for which
+there are no approved treatments
+● Novel cardiometabolic targets in discovery
+Unwavering patient commitment
+● Mission-driven focus on unmet needs in severe muscle conditions
+● Patients & families are critical voices in all development programs
+Abbreviations: nHCM, nonobstructive hypertrophic cardiomyopathy; oHCM, obstructive hypertrophic cardiomyopathy
+
+5
+Abbreviations: Becker, Becker muscular dystrophy; Duchenne, Duchenne muscular dystrophy; Limb-Girdle LGMD2i
+Our Pipeline
+Becker muscular dystrophy
+Duchenne muscular dystrophy
+Becker / LGMD2i / McArdle
+Preclinical Phase 1 Phase 2
+Pivotal /
+Phase 3
+Regulatory
+submission
+Hypertrophic cardiomyopathy (HCM)
+EDG-7500
+Undisclosed cardiac
+sarcomeric target
+Sevasemten
+Myosin ATPase
+Muscular Dystrophy
+EDG-003
+Undisclosed target Cardiometabolic
+Undisclosed
+cardiac sarcomeric
+target
+Diseases of diastolic dysfunction
+Cardiovascular
+
+6
+Treatments for HCM Have Key Limitations Leaving Substantial
+Unmet Need for Patients
+HCM, hypertrophic cardiomyopathy; HF, heart failure; nHCM, nonobstructive hypertrophic cardiomyopathy; oHCM, obstructive hypertrophic cardiomyopathy.
+1. Ommen SR et al. Circulation. 2024;149(23):e1239-e1311; 2. Maron MS et al. N Engl J Med. 2024;390:1846-61; 3. CAMZYOS [package insert]. Princeton, NJ: Bristol-Myers Squibb Company, 2023;
+4. Olivotto I et al. Lancet. 2020;396(10253):759-769.
+LIMITED BENEFIT ACROSS
+THE SPECTRUM OF HCM
+SAFETY RISKS WORSEN
+PATIENT EXPERIENCE RISK OF HEART FAILURE1,2
+Mavacamten
+black box
+warning for
+HF3
+No approved
+therapies for
+nHCM
+Efficacy & safety
+limitations with
+interventions in
+oHCM4
+HF risk limits
+intervention2
+Frequent
+echo
+monitoring1-3
+Echo-based dose
+titration for
+safety1-3
+
+Ahmad Masri, MD MS
+Cardiomyopathy Section Head Director, Hypertrophic Cardiomyopathy Center Associate Professor of Medicine
+Oregon Health & Science University
+Disclosures: research grants from Pfizer, Ionis, Attralus, and Cytokinetics and consulting fees from Edgewise, Cytokinetics, Bristol Myers Squibb (BMS), BridgeBio, Pfizer, Ionis, Lexicon, Attralus, Alnylam, Haya, Alexion, Akros,
+Lexeo, Prothena, BioMarin, AstraZeneca, and Tenaya.
+The Unmet Need in Hypertrophic Cardiomyopathy
+
+The Continuum in Hypertrophic Cardiomyopathy
+Myocyte hypertrophy, interstitial fibrosis, diastolic dysfunction underlie the continuum of HCM
+
+These materials are provided to you solely as an educational resource for your personal use. Any commercial use or distribution of these materials or any portion thereof is strictly prohibited.
+HCM Disease Complexity Requires Thorough Evaluation
+
+Burden of HCM is Substantial
+Data from the SHaRe Registry
+Ho CY et al. Circulation 2018
+
+Goals of Therapies in HCM
+• Rapid and consistent relief of
+symptoms
+• Improvement in quality of life
+• Improvement in exercise capacity
+• Favorable remodeling and in turn,
+less complications and better
+outcomes
+Unmet Need
+• Non-obstructive HCM
+• No approved therapies
+• Obstructive HCM
+• Non responders
+• Mild obstruction
+• Diastolic dysfunction
+• Monitoring burden
+• Systolic dysfunction
+
+These materials are provided to you solely as an educational resource for your personal use. Any commercial use or distribution of these materials or any portion thereof is strictly prohibited.
+Principles of Therapy Improvement in Quality of Life*
+Green et al. JACC 2000
+Validated tool in heart
+failure and in HCM
+Joseph et al. Circ HF 2013 Spertus et al. JACC 2020
+Prognostic tool in heart failure Beyond directionality, KCCQ is a robust
+measure of magnitude of benefit
+*ACC/AHA Guidelines, Ommen et al. 2024
+
+13
+Phase 2 CIRRUS-HCM Trial Part B
+(oHCM) and Part C (nHCM)
+Dr. Anjali Owens
+Medical Director, Center for Inherited Cardiac Disease Associate
+Professor of Medicine (Cardiovascular Medicine) at the Hospital of
+the University of Pennsylvania
+Disclosures:
+Consulting/advisory boards for Alexion, Avidity, Bayer, BMS, Cytokinetics, Corvista, Edgewise,
+Imbria, irhythm, Lexeo, Biomarin, Stealth, Tenaya and grant to institution from BMS
+
+14
+Single Dose Study in oHCM Highlighted the Potential for EDG-7500 as a Novel Therapy for Patients with HCM
+Observations from CIRRUS-HCM Single Dose Study Highlighted EDG-7500’s Potentially Differentiated Profile in HCM
+Abbreviations: oHCM, obstructive hypertrophic cardiomyopathy; HCM, hypertrophic cardiomyopathy; LVEF, left ventricular ejection fraction; LVOT-G, left ventricular outflow tract gradient; NT-proBNP, N-terminal pro-B-type natriuretic peptide
+● EDG-7500 was well tolerated
+across all doses studied in
+oHCM patients
+● Reduction in resting LVOT-G
+of 67% for the 100/200 mg
+cohorts combined
+● Reduction in Valsalva LVOT-G
+of 55% for the 100/200 mg
+cohorts combined
+● LVOT-G relief was achieved
+without reductions in LVEF
+● EDG-7500 led to a mean 31%
+(100 mg) and 64% (200 mg)
+decrease in NT-proBNP
+Resting LVOT-G (N=7) LVEF Reduction (N=11)
+Valsalva LVOT-G (N=7) Mean Change in NT-proBNP (N=11)
+
+15
+EDG-7500 Fixed Daily Dosing 28-Days in oHCM (Part B) and
+nHCM (Part C) Study Design
+PRIMARY OBJECTIVE
+Safety & tolerability
+in adults with HCM
+KEY INCLUSION
+CRITERIA
+Male and female patients
+≥18 yrs of age with HCM
+LVEF ≥60%
+TOTAL CIRRUS TARGET
+ENROLLMENT
+~70
+KEY OUTCOME
+MEASURES
+Cardiovascular PD, LVEF,
+Biomarkers, PK
+Single dose EDG-7500 Once-daily dose EDG-7500
+PART A: Single Dose (oHCM) PART B (28 Days): Fixed Daily Dosing (oHCM)
+Once-daily dose EDG-7500
+PART C (28 Days): Fixed Daily Dosing (nHCM)
+PART D (12 weeks): Extended Dose (oHCM & nHCM)
+ADULTS
+WITH oHCM
+ADULTS
+WITH oHCM
+ADULTS
+WITH nHCM
+Once-daily dose EDG-7500
+ADULTS
+WITH oHCM
+& nHCM
+Focus of Today’s Presentation
+Abbreviations: oHCM, obstructive hypertrophic cardiomyopathy; nHCM, nonobstructive hypertrophic cardiomyopathy
+
+16
+Baseline Characteristics CIRRUS oHCM (Safety; n=17) CIRRUS nHCM (Safety; n=12)
+Age (yrs.) 61 54
+Sex, % females 71% 58%
+BMI (kg/m2) 28 27
+History of AF 6% 8%
+ICD 12% 50%
+Prior SRT 6% 0%
+Hypertension 65% 17%
+Diabetes 6% 17%
+NYHA I 6% 0%
+NYHA II 59% 50%
+NYHA III 35% 50%
+KCCQ-OSS 63 57
+LVEF 65% 61%
+LVOT-G (resting; mmHg) 59 9
+LVOT-G (Valsalva: mmHg) 93 14
+NT-proBNP (geometric mean/median; pg/ml) 724 / 710 782 / 715
+CIRRUS-HCM Part B and C: Baseline Demographic and
+Clinical Characteristics
+Abbreviations: LVOT, left ventricular outflow tract; SRT, septal reduction therapy; NYHA, New York Heart Association; KCCQ, Kansas City Cardiomyopathy Questionnaire; LVEF, left
+ventricular ejection fraction; ICD. implantable cardioverter-defibrillator
+
+17
+Prespecified oHCM Efficacy Evaluable Population for LVOT-G
+Abbreviations: LVOT, left ventricular outflow tract
+Edgewise Therapeutics – Data on file
+1. Received at least 1 dose of EDG-7500
+2. Baseline LVOT peak gradient ≥ 30 mmHg measured at rest and ≥ 50 mmHg
+measured during the Valsalva maneuver as determined by echocardiography
+3. A good acoustic window and ability to obtain a high-quality transthoracic
+echocardiogram
+4. No clinically significant cardiac structural abnormalities
+
+18
+Part B – Obstructive HCM
+
+19
+Cohort B (oHCM): 17 Patients Assessed as Part of the Safety
+Population; 12 Patients Met the Efficacy Evaluable Criteria
+Pooled Safety Population
+N=17
+50 mg
+Efficacy Evaluable
+N=6
+100 mg
+Efficacy Population
+N=6
+Baseline LVOT-G:
+Resting < 30 mmHg
+or
+Valsalva < 50 mmHg
+N=2
+Baseline LVOT-G:
+Resting < 30 mmHg
+or
+Valsalva < 50 mmHg
+N=3
+50 mg
+Safety Population
+N=8
+100 mg
+Safety Population
+N=9
+Safety population assessed for LVEF,
+NT-proBNP, KCCQ, NYHA and e’
+Pooled Efficacy Evaluable
+N=12
+Efficacy evaluable for LVOT-G at
+rest and Valsalva
+
+20
+EDG-7500 Led to Meaningful Reductions in LVOT-G at Rest &
+Post Valsalva Even at 50 mg, with Greater Reduction at 100 mg
+Means ± Std Err presented
+* % reaching LVOT criteria based on N=5 and 6 participants with Week 4 data at 50 mg and 100 mg respectively.
+Edgewise Therapeutics – Data on file
+Absolute Value
+Strong LVOT-G Responses Even in the Absence of Intra-Patient Dose-Optimization (N=12)
+% Change from Baseline
+100 mg: 83%
+50 mg: 40%
+%* Reaching LVOT <30 mmHg
+(Week 4)
+100 mg: 83%
+50 mg: 60%
+% Reaching LVOT
+<50 mmHg
+Efficacy Evaluable
+-100
+-50
+0
+50
+100
+Study Visit
+% Change from Baseline
+Day 1 Wk1 Wk2 Wk4 EOS
+-100
+-50
+0
+50
+100
+Study Visit
+% Change from Baseline
+Day 1 Wk1 Wk2 Wk4 EOS
+100 mg: 83%
+50 mg: 60%
+%* Reaching LVOT <50 mmHg
+(Week 4)
+High
+Baseline
+Gradients REST VALSALVA
+-71%
+-58%
+73 mmHg
+102 mmHg
+0
+20
+40
+60
+80
+100
+Study Visit
+Resting LVOT-G (mmHg)
+30
+Day 1 Wk1 Wk2 Wk4 EOS
+0
+20
+40
+60
+80
+100
+120
+140
+Study Visit
+Valsalva LVOT-G (mmHg)
+Day 1 Wk1 Wk2 Wk4 EOS
+50
+p ≤0.05 at Wk4 vs Day 1 @ 100 mg
+p ≤0.05 at Wk4 vs Day 1
+50 mg (N=6) 100 mg (N=6)
+HEMODYNAMICS
+
+21
+After Only 4 Weeks of Treatment, ~80% of oHCM Patients in
+the Safety Population Showed a Complete LVOT-G Response
+Means ± Std Err presented
+Edgewise Therapeutics – Data on file. Complete LVOT-G response defined as resting and Valsalva gradients <30 mmHg and <50 mmHg, respectively
+* % reaching LVOT criteria based on N=7 and 9 participants with Week 4 data at 50 mg and 100 mg respectively.
+** Five of the patients included in the Safety Population evaluation for LVOT had either resting or Valsalva gradients below clinical meaningful thresholds on Day 1
+Strong LVOT-G Responses Even in the Absence of Intra-Patient Dose-Optimization (N=17**)
+100 mg: 89%
+50 mg: 43%
+100 mg: 83%
+50 mg: 60%
+% Reaching LVOT
+<50 mmHg
+50 mg (N=8) 100 mg (N=9)
+100 mg: 89%
+50 mg: 57%
+REST VALSALVA
+Safety Population
+0
+20
+40
+60
+80
+100
+Study Visit
+Resting LVOT-G (mmHg)
+Day 1 Wk1 Wk2 Wk4 EOS
+30
+-100
+-50
+0
+50
+100
+Study Visit
+% Change from Baseline
+Day 1 Wk1 Wk2 Wk4 EOS
+0
+20
+40
+60
+80
+100
+120
+140
+Study Visit
+Valsalva LVOT-G (mmHg)
+Day 1 Wk1 Wk2 Wk4 EOS
+50
+-100
+-50
+0
+50
+100
+Study Visit
+% Change from Baseline
+Day 1 Wk1 Wk2 Wk4 EOS
+-63%
+-61%
+Absolute Value % Change from Baseline
+p = 0.0001 at Wk4 vs Day 1 @ 100 mg
+p < 0.0001 at Wk4 vs Day 1 @ 100 mg
+%* Reaching LVOT <30 mmHg
+(Week 4)
+%* Reaching LVOT <50 mmHg
+(Week 4)
+HEMODYNAMICS
+
+22
+EDG-7500 Resulted in Rapid and Robust Reductions in
+NT-proBNP, a Key Marker of Heart Failure in oHCM1
+1
+Coats C.J. et al. European Heart Journal. 2013; 34(32), 2529–2537; Cytokinetics Presentation at the European Society of Cardiology Congress, 2024; London, UK; September 1, 2024 (Clinical
+Application of Biomarkers in Obstructive HCM: Insights from SEQUOIA-HCM)
+Edgewise Therapeutics – Data on file
+-62%
+Improvements in NT-proBNP are Known to Show Strong Correlation to
+Improvements in pVO2
+Safety Population
+Geometric means ± Std Err for presented for values. Means ± Std Err for % Change from Baseline
+-100
+-80
+-60
+-40
+-20
+0
+20
+Study Visit
+% Change from Baseline
+Day 1 Wk1 Wk2 Wk4 EOS
+5/9 (56%) Patients at 100 mg Achieved <150 pg/ml NT-proBNP, the
+Threshold for Normal
+50 mg (N=8) 100 mg (N=9)
+p ≤ 0.05 at Wk4 vs Day 1
+BIOMARKERS
+100
+1000
+10000
+Study Visit
+NT-proBNP (pg/ml)
+Day 1 Wk1 Wk2 Wk4 EOS
+
+23
+Rapid and Sustained Increase in Early Diastolic Mitral Annulus
+Velocity (e') Suggesting an Improvement in Diastolic Function
+Means ± Std Err presented
+Edgewise Therapeutics – Data on file
+Safety Population
+Rapid Dose Responsive Improvements in Mean e’ Observed as Early as
+1 Week After Initiation of Treatment with EDG-7500
+5
+6
+7
+8
+Study Visit
+e' mean (cm/s)
+Day 1 Wk1 Wk2 Wk4 EOS
+50 mg (N=8) 100 mg (N=9)
+-20
+0
+20
+40
+Study Visit
+% Change from Baseline
+Day 1 Wk1 Wk2 Wk4 EOS
++21%
+p = NS at Wk4 vs Day 1
+DIASTOLOGY
+
+24
+Edgewise Therapeutics – Data on file
+47%
+41%
+44%
+19%
+19%
+6%
+47%
+18%
+53%
+59%
+56%
+81%
+81%
+94%
+53%
+82%
+0% 20% 40% 60% 80% 100%
+Week 4
+Baseline
+Week 4
+Baseline
+Week 4
+Baseline
+Week 4
+Baseline
+Normal Abnormal
+More Patients Achieving Normal Diastolic Function Across a Number of Parameters
+EDG-7500 Led to Improvements in Left Ventricular Diastolic
+Function in Patients with oHCM
+Abnormal Criteria: e’ Septal < 7, e’ Lateral < 10, E/e’ mean >14, LAVI >34 (Criteria based on Hegde 2024)
+Note: if a Week 4 value was missing, the last non-missing value in the treatment period was used (LOCF).
+e’ Septal
+e’ Lateral
+Average E/e’
+LAVI
+Safety Population
+DIASTOLOGY
+
+25
+89% of Participants on 100 mg had Improvements in Patient
+Reported Outcomes; Mean Increase in KCCQ-OSS of 23 points
+KCCQ Changes with EDG-7500 in oHCM after 4 Weeks vs. Baseline
+Means ± Std Err presented
+Abbreviations: KCCQ, Kansas City Cardiomyopathy Questionnaire; OSS, overall summary score; CSS, clinical summary score; oHCM, obstructive hypertrophic cardiomyopathy
+Edgewise Therapeutics – Data on file
+50mg Dose Group (N=8) 100mg Dose Group (N=9)
+Baseline Week 4
+Safety Population
+1 2
+0
+20
+40
+60
+80
+100
+70 75
+67
+71
+KCCQ Summary Score
+∆=3
+∆=4
+1 2
+0
+20
+40
+60
+80
+100
+83
+88
+60
+68
+KCCQ Summary Score
+∆=23
+∆=20
+KCCQ-OSS KCCQ-CSS KCCQ-OSS KCCQ-CSS
+Median KCCQ Improvement: 7 points 2 points 24 points 18 points
+**p < 0.005 at Wk4 vs Day 1
+**
+**
+*p = NS at Wk4 vs Day 1
+*
+*
+68
+SYMPTOMS
+
+26
+The Positive KCCQ-OSS Changes with EDG-7500 in oHCM are
+Compelling Relative to What CMIs have Reported
+Note: To-date, no head-to-head comparisons of any other products to any of our product candidates in any clinical trial have been completed; results have been obtained from different
+trials with different designs, endpoints and patient populations; results may not be comparable.
+Abbreviations: KCCQ, Kansas City Cardiomyopathy Questionnaire; KCCQ-OSS, Kansas City Cardiomyopathy Questionnaire - Overall Summary Score
+Maron M et al., N Engl J Med 2024;390:1849-1861; Maron M et al., JACC. 2024 Nov, 84 (19) 1821–1831; Sherrod CF et al., JACC. 2024; Spertus JA, Lancet, Volume 397, Issue 10293 p2467-2475 June 26, 2021
+Edgewise Therapeutics – Data on file
+KCCQ-OSS Changes with Mavacamten in EXPLORER-HCM (6 Months)
+KCCQ-OSS Changes with Aficamten in
+SEQUOIA-HCM (6 Months) 100 mg EDG-7500 KCCQ (N=9; 4 Weeks)
+• Larger increases in KCCQ scores for EDG-7500 relative to Mavacamten and Aficamten
+• Across multiple studies, KCCQ-OSS placebo effect accounted for 5-7 point increases
+Safety Population
+Spertus JA et al., Lancet, 2021 Sherrod C. et al., JACC, 2024
+1
+0
+20
+40
+60
+80
+100
+83
+60
+KCCQ Summary Score
+∆=23
+KCCQ-OSS
+SYMPTOMS
+
+27
+78% of oHCM Patients Treated with 100 mg EDG-7500
+Experienced Very Large Improvements in KCCQ-OSS
+Abbreviation: KCCQ-OSS, Kansas City Cardiomyopathy Questionnaire – Overall Summary Score
+Edgewise Therapeutics – Data on file
+KCCQ-OSS Changes with EDG-7500 in oHCM after 4 Weeks (100 mg) vs. Baseline
+Safety Population
+Very Large Improvements of
+≥20 Points
+Worsened Large Improvements of
+≥10-20 Points
+78%
+11% 11%
+SYMPTOMS
+89%
+with Clinical
+Improvements of
+≥10 points
+
+28
+100 mg EDG-7500 Led to 78% of Patients Achieving
+Improvements of ≥ 1 NYHA Class; 67% Achieved NYHA Class I
+NYHA Functional Class Improvements with EDG-7500 in oHCM at 4 Weeks
+50mg Dose Group (N=8*) 100mg Dose Group (N=9) % Patients with ≥ 1 NYHA Class
+Improvement at Week 4
+Abbreviation: NYHA, New York Heart Association Functional Classification
+Maron M et al., N Engl J Med 2024;390:1849-1861; Olivotto I. et al. The Lancet 2020; 396(10253), 759–769.
+Edgewise Therapeutics – Data on file
+* Represents 7 individuals who were evaluated for NYHA at week 4
+• ~40% of patients treated with a CMI in Ph 3 did not observe a ≥1 NYHA Class change end of study (at 6 mos.) when patients were on maximally efficacious doses
+– Percent of pts who did not experience a ≥1 NYHA functional class improvement with mavacamten and aficamten were 35% and 42%, respectively
+Safety Population
+43%
+78%
+0%
+20%
+40%
+60%
+80%
+100%
+50 mg (N=7) 100 mg (N=9)
+NYHA I NYHA II NYHA III
+0
+20
+40
+60
+80
+100
+0
+20%
+40%
+60%
+80%
+100%
+Baseline Week 4 EOS Baseline Week 4 EOS
+14%
+43%
+43%
+29%
+57%
+14%
+29%
+57%
+14%
+67%
+33%
+67%
+22%
+11%
+89%
+11%
+SYMPTOMS
+
+29
+Part C – Nonobstructive HCM
+
+30
+Cohort C (nHCM): 12 Patients Evaluated as Part of the Safety
+Population; 8 Patients Completed All 4 Weeks of Treatment
+Edgewise Therapeutics – Data on file
+Pooled Safety Population
+N=12
+50 mg
+Safety Population
+N=7
+100 mg
+Safety Population
+N=5
+Assessed for LVEF,
+NT-proBNP and e’
+50 mg
+Completed 4 Weeks
+N=6
+100 mg
+Completed 4 Weeks
+N=2
+50 mg
+Completed 2 Weeks
+N=7
+100 mg
+Completed 2 Weeks
+N=5
+Evaluated for LVEF, KCCQ,
+NT-proBNP and e’
+
+31
+Like oHCM Patients, EDG-7500 Resulted in Rapid and Robust
+Reductions in NT-proBNP in Patients with nHCM
+NT-proBNP
+Means ± Std Err presented
+* Two patients at week 4
+Abbreviations: NT-proBNP, N-terminal pro-B-type natriuretic peptide; nHCM, nonobstructive hypertrophic cardiomyopathy
+Edgewise Therapeutics – Data on file
+-100
+-50
+0
+50
+Study Visit
+% Change from Baseline
+Day 1 Wk1 Wk2 Wk4 EOS
+50 mg (N=7) 100 mg (N=5*) Wk2 vs Day 1: 50 mg p = NS; 100 mg p ≤ 0.05
+Wk4 vs Day 1: 50 mg p ≤ 0.05; 100 mg p = NS
+-50%
+-42%
+BIOMARKERS
+
+32
+EDG-7500 Led to Early and Rapid Signs of Diastolic
+Improvements in nHCM Participants after Only 4 Weeks
+Treatment with EDG-7500 Led to Mean e’ Changes in nHCM Patients as Early as
+One Week Following Initiation of Dosing
+-40
+-20
+0
+20
+40
+60
+80
+Study Visit
+% Change from Baseline
+Day 1 Wk1 Wk2 Wk4 EOS
+50 mg (N=7) 100 mg (N=5*)
+Wk2/Wk4 vs Day 1: p = 0.05 at both doses
+Means ± Std Err presented
+* Two patients at week 4
+Abbreviations: nHCM, nonobstructive hypertrophic cardiomyopathy
+Edgewise Therapeutics – Data on file DIASTOLOGY
+
+33
+Preliminary KCCQ Observations with EDG-7500 in nHCM
+Suggest Improvements Beyond Those Observed with CMIs
+KCCQ Changes with EDG-7500 in nHCM after 4 Weeks vs. Baseline
+Means ± Std Err presented
+Note: To-date, no head-to-head comparisons of any other products to any of our product candidates in any clinical trial have been completed; results have been obtained from different trials with different designs, endpoints and patient populations; results
+may not be comparable.
+Ahmad Masri Presentation at World Congress on Acute Heart Failure, 20 May 2023: Evaluation of Aficamten in Patients with Symptomatic N on obstructive Hypertrophic Cardiomyopathy: REDWOOD HCM Cohort 4; Ho C et al., JACC, Volume 75, Issue 21, 2
+June 2020, Pages 2649-2660
+Edgewise Therapeutics – Data on file
+50mg Dose Group (N=6) 100mg Dose Group (N=2)
+• No meaningful improvement in KCCQ with CMIs:
+– MAVERICK (16-week study; placebo controlled) and REDWOOD Cohort 4 (10-week study; no placebo) showed KCCQ-OSS and KCCQ-CSS
+improvements of +6 point and +10.6 points, respectively in nHCM (both Phase 2 studies)
+1 2
+0
+20
+40
+60
+80
+100
+68
+78
+59
+63
+KCCQ Summary Score
+∆=9
+∆=16
+1 2
+0
+20
+40
+60
+80
+100
+69
+73
+52
+51
+KCCQ Summary Score
+∆=17
+∆=22
+KCCQ-OSS KCCQ-CSS KCCQ-OSS KCCQ-CSS
+Baseline Week 4
+Median KCCQ Improvement: 12 points 11 points 17 points 22 points
+Wk4 vs Day 1: p = NS at both doses
+across both KCCQ measures
+SYMPTOMS
+
+34
+EDG-7500 Safety in Parts B and C
+
+35
+EDG-7500 Continues to Demonstrate No Meaningful
+Reductions in LVEF; No Participants had LVEF Drops <50%
+Means ± Std Err presented
+* Only two patients at week 4
+Edgewise Therapeutics – Data on file
+• 4/12 (33%) nHCM patients had a baseline LVEF <60% by core lab; all 4 remained
+stable throughout the treatment period
+• No LVEF drops below 50%; change from baseline was +2.5% for the 4 nHCM subjects
+No Correlation Between EDG-7500 Plasma Concentration and LVEF Change
+LVEF Changes in oHCM LVEF Changes in nHCM
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+Study Visit
+LVEF Change from Baseline (%)
+Day 1 Wk1 Wk2 Wk4 EOS
+Subject Dose (mg) Baseline Week 4 Change
+1 100 56.0% 57.6% 1.60%
+2 50 53.4% 56.0% 2.60%
+3 50 55.8% 55.5% -0.30%
+4 50 52.4% 58.6% 6.20%
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+Study Visit
+LVEF Change from Baseline (%)
+Day 1 Wk1 Wk2 Wk4 EOS
+SAFETY
+
+36
+EDG-7500 was Generally Well Tolerated in oHCM Participants
+in Part B and nHCM Participants in Part C
+* A total of 3 oHCM patients and 1 nHCM patient had new onset atrial fibrillation; two of these events were considered SAEs
+• Two oHCM patients were determined to have not met entry criteria on post-hoc review by two non-Sponsor echo reviewers (one blinded); these patients would be
+excluded in Phase 3 since both patients would not meet criteria for HCM diagnosis based on wall thickness in addition to:
+– Significant mitral annular calcification with mild/moderate mitral stenosis (one patient at 50 mg)
+– Hypertension, thyroid disease, diabetes, and obstructive lung disease (one patient at 100 mg)
+• One oHCM (100 mg) patient had significant baseline mitral regurgitation and an enlarged left atrium
+• One nHCM (100 mg) patient had a markedly large left atrial volume index (50.2 ml/m2) and a left atrial diameter (60 mm) with a significantly reduced left atrial reservoir
+strain, all well-established predictors of new onset atrial fibrillation
+• None of the patients who had atrial fibrillation experienced LVEF <50% at any time
+• One participant discontinued treatment due to moderate dizziness
+Safety Summary for EDG-7500 in CIRRUS Parts B (oHCM) and C (nHCM)
+Treatment Emergent Adverse Events (TEAE) N=29
+Dizziness (mostly mild and transient in duration) 8 (27.6%)
+Upper respiratory tract infection 5 (17.2%)
+Atrial fibrillation* 4 (13.8%)
+Influenza like illness 3 (10.3%)
+Palpitations 3 (10.3%)
+Constipation 2 (6.9%)
+Diarrhea 2 (6.9%)
+Headache 2 (6.9%)
+Treatment emergent adverse events in >1 participant in Part B and Part C.
+
+37
+Atrial Fibrillation Rates Observed in the HCM Patients in
+CIRRUS are Similar to Rates Observed in CMI Trials
+Summary of Atrial Fibrillation Rates in HCM Clinical Trials
+1 Heitner S. et al. Ann. Intern Med. 2019; 170:741-748; 2 CAMZYOS FDA Clinical and Statistical Review(s) document. Treatment-emergent serious adverse events of AF recorded in EXPLORER (Olivotto et al., 2020) were 2 (2%) in the mavacamten arm and 4 (3%) in
+the placebo arm, while 8 (6.5%) in the mavacamten arm and 9 (7.0%) in placebo arm had AF recorded as cardiovascular treatment-emergent adverse events occurring in ≥1% of patients in any group (Olivotto et al., 2020 Appendix Table S1 pg 6); 3 Desai M. et al.
+JACC 2022; 80(2): 95-108. AF recorded as serious on-treatment adverse event in 2 (3.6%) subjects on mavacamten and 0 (0%) on placebo, and an additional 2 (3.6%) recorded AF as nonserious on-treatment adverse event in the mavacamten arm and 0 (0%) in
+the placebo arm; 4 Desai M. et al. Circulation. 2024; 150. New onset AF events were recorded.; 5 Masri et al., Poster #352 HFSA’2022 REDWOOD C1-C3 OLE; 6 Masri et al., ACC’2023 Poster, Heart Failure presentation 2023 (SAE of new onset AF), Masri A. et al. 2024; 7
+Maron et al., NEJM 2024; 390:1849-61; 8Cytokinetics Corporate press release September 1, 2024; 9 Masri et al., 2024 JACC. AF or flutter requiring medical intervention. 10 Masri et al., 2024 E J of HF; 11 Garcia-Pavia et al. , European Heart Journal (2024) 45, 5071–5083;
+Sun D et al., Ann Thorac Surg. 2022 Jun;113(6):1918-1924; 12 Canadian Journal of Cardiology, Volume 39, Issue 12, December 2023; 13 Kharbanda R et al., International Journal of Cardiology 328 (2021) 63–68; 14 Dr. Anjali Owens Presentation at AHA 2024; 15 Ho C. et al.
+JACC 2020; 75(21): 2649-60.; 15Fumagalli C. et al. Cad J Cardiol. 2024; 40(5):876-886; 16Rowin J. et al. Circulation. 2017; 136(25); 17Falasconi G. et al. Am J Cardiovasc Dis. 2020; 10(4):409-418; 18Garg L. et al. Heart Fail Rev. 2019; 24:189-197
+• AF prevalence of approximately 25% in patients with HCM; >40% among HCM pts with severe LV dysfunction or >70 yrs15-18
+• The overall incidence of post-operative atrial fibrillation after septal myectomy for HCM was reported to be 30-35%12-13
+HYPOTHESIS: AF rates tend to go down from Ph 2 to Ph 3 in CMI trials in part driven by more rigorous patient selection, exemplified with CAMZYOS in PIONEER (16%
+screen fail rate) vs EXPLORER (41% screen fail rate) and individualized dose optimization for efficacy
+PIONEER1 EXPLORER2 VALOR3 VALOR BL-128w4 MAVERICK (nHCM)16 MAVA-LTE (oHCM)11 Integrated Safety -
+PIONEER, EXPLORER, Coh A / Coh B Mava / pbo Mava / pbo Mava Gr1 / Gr2 / pbo Median time 166.1 wks. VALOR, and MAVA-LTE14
+Reported AF (%) 3 (27%) / 1 (10%) 10 (8.1%) / 10 (7.8%) 4 (7.1%) / 0 (0%) 11 (10.2%) 0 (0%) / 3 (14.3%) / 1 (5.3%) 33 (14.3%) 58 (15.8%)
+REDWOOD5 REDWOOD6 SEQUOIA7 Integrated Safety Analysis8 FOREST-HCM (SoC withdrawal)9 FOREST-OLE10
+C1 / C2 / C3 C4 (nHCM) Afi / pbo Cumulative Afi Afi / pbo Yes attempt/No attempt nHCM
+Reported AF (%) 2 (5.2%) 1 (2.4%) 4 (2.8%) / 4 (2.9%) 12 (4.2%) 4 (2.4%) / 5 (3.3%) 5 (7.8%) / 3 (4.2%) 2 (5.9%)
+CIRRUS HCM
+Cumulative Part B & C
+Reported AF (%) 4 (13.8%)
+Exclusion of the two oHCM patients who were determined to have
+not met entry criteria on post-hoc review, results in a rate of 7.4%
+Mavacamten
+Aficamten
+EDG-7500
+
+38
+• EDG-7500 is emerging as an exciting potential new therapeutic option for both oHCM and nHCM
+• The prospect of using EDG-7500 to improve LVOT-G, NT-proBNP, e’, KCCQ and NYHA without reductions in
+LVEF could allow treatment of a broader pool of HCM patients without the need for safety echoes
+• EDG-7500 appears to be generally well tolerated across a broad exposure range
+• Dose optimization for efficacy in CIRRUS Part D, may lead to deepening of clinical and feel-and-function
+responses observed in Parts B and C
+• Refinements to Part D’s patient selection criteria and dose optimization should continue to strengthen EDG-7500’s profile heading into Phase 3 trials next year
+Summary Remarks
+
+39
+EDG-7500 Future Development Plans
+Dr. Robert Blaustein
+Chief Development Officer
+
+40
+CIRRUS-HCM Part D: Updated Design in oHCM and nHCM on
+Path to Phase 3 Start in 1H2026
+Optimize dose based on:
+NT-proBNP, KCCQ, NYHA and LVOT-G (oHCM only)
+D1
+25 mg
+50 mg
+100 mg
+Up to 200 mg
+Long-term Extension
+W2 W4 W8 W12 W48 EOS
+Efficacy Measures
+Positive Observations from CIRRUS Part B and C Inform Intra-Patient Dose Optimization in CIRRUS Part D
+Abbreviations: NT-proBNP, N-terminal pro-B-type natriuretic peptide; KCCQ, Kansas City Cardiomyopathy Questionnaire; LVOT-G, left ventricle outflow tract gradient; oHCM, obstructive
+hypertrophic cardiomyopathy; nHCM, nonobstructive hypertrophic cardiomyopathy
+
+41
+©2024 Edgewise Therapeutics. All rights reserved.
+Closing Remarks
+Kevin Koch, CEO
+
+42
+EDG-7500 Continues to Show No Meaningful Reductions in
+LVEF or LVEF Drops <50% Across a Broad Exposure Range
+Pooled Healthy Volunteer and CIRRUS Data
+Abbreviations: LVEF, left ventricular ejection fraction
+-100 0 100 200 300 400 500 600 700 800 900 1000 1100 1200
+-30
+-20
+-10
+0
+10
+20
+30
+EDG-7500 Plasma Concentration (ng/ml)
+LVEF Change from Baseline (%)
+Placebo SAD/MAD HV
+oHCM nHCM
+
+43
+Conversely, Treatment with Aficamten in REDWOOD
+Demonstrated an Exposure Dependent Decrease in LVEF
+REDWOOD Phase 2 Studies of Aficamten: As much as a 25% Absolute LVEF Reduction Observed with
+Aficamten Even at Low Plasma Exposures
+REDWOOD Cohorts 1 and 2 (oHCM) REDWOOD Cohort 1-4
+Abbreviations: LVEF, left ventricular ejection fraction
+Note: To-date, no head-to-head comparisons of any other products to any of our product candidates in any clinical trial have been completed; results have been obtained from different trials
+with different designs, endpoints and patient populations; results may not be comparable.
+Masri A et al., Journal of Cardiac Failure 30 (2024) 1439 1448; Maron M et al., Journal of the American College of Cardiology vol. 81, no.1, 2023
+
+44
+EDG-7500 Led to KCCQ Improvements that Compare
+Favorably to Efficacy-Optimized oHCM Patients on CMIs
+KCCQ Mean Difference Changes in Clinical Trials Including CMIs and EDG-7500*
+-2.40
+-2.40
+0.86
+1.27
+1.50
+1.86
+1.93
+2.30
+2.40
+2.50
+3.70
+8.00
+9.49
+13.65
+14.10
+15.90
+16.00
+26.00
+6.00 (pbo-adj)
+14.40 (CohA)
+9.10 (pbo-adj)
+9.40 (pbo-adj)
+23.00
+(unadj)
+38.00
+(unadj)
+13.30 (unadj)
+16.00 (CohB)
+14.90 (unadj)
+10.40 (unadj)
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+PCDM
+TTT
+FNTC
+PARADIGM-HF
+MADIT-CRT
+TOPCAT
+HF-ACTION
+DAPA-HF
+SHIFT
+TELE-HF
+DEFINE-HF
+FAIR-HF
+PAL-HF
+ATTRACT
+PARTNER-2
+COAPT
+PARTNER-3
+PARTNER-1
+SEQUOIA-HCM
+PIONEER-HCM
+EXPLORER-HCM
+VALOR-HCM
+CIRRUS-HCM
+SPIRIT-HCM
+Despite Being Medically More Complex, oHCM Patients Treated with 100 mg EDG-7500 Demonstrated
+a 23 Point KCCQ-OSS Improvement, Greater than That Observed in Any CMI Trial to Date SEQUOIA-HCM PIONEER-HCM EXPLORER-HCM **VALOR-HCM CIRRUS-HCM
+SPIRIT-HCM
+Note: To-date, no head-to-head comparisons of any other products to any of our product candidates in any clinical trial have been completed; results have been obtained from different trials with different designs, endpoints and
+patient populations; results may not be comparable.
+Spertus J. et al. The Lancet 2021; 397(10293), 2467–2475; Sherrod C. et al. JACC 2024; 84(19); Desai M. et al. JACC 2022; 80(2), 95-108; Heitner S. et al. Ann. Intern Med. 2019; 170:741-748; Desai M. et al. JAMA Netw Open. 2022; 5(4):e227293
+* Data for CMIs and EDG-7500 in obstructive HCM
+** VALOR-HCM figures are KCCQ-CSS vs all other trials are KCCQ-OSS
+Adapted from: Garcia RA, et al., Current Cardiology Reports (2021) 23: 91
+
+45
+CIRRUS Part B and Part C Outcomes are Especially Impressive
+Considering More Medically Complex Patients were Enrolled
+Baseline Characteristics CIRRUS nHCM
+(Safety; n=12)
+CIRRUS oHCM
+(Safety; n=17)
+EXPLORER-HCM
+(n=251)
+SEQUOIA-HCM
+(n=282)
+Age (yrs.) 54 61 59 59
+Sex, % females 58% 71% 46% 39%
+BMI (kg/m2) 27 28 30 28
+History of AF 8% 6% 10% 16%
+ICD 50% 12% 22% 16%
+Prior SRT 0% 6% 9% -
+Hypertension 17% 65% 46% 53%
+Diabetes 17% 6% 5% 10%
+NYHA I 0% 6% 0% 0%
+NYHA II 50% 59% 72% 76%
+NYHA III 50% 35% 28% 24%
+KCCQ-OSS 57 63 67 69
+LVEF 61% 65% 74% 75%
+LVOT-G (resting; mmHg) 9 59 52 55
+LVOT-G (Valsalva: mmHg) 14 93 72 83
+NT-proBNP (geometric mean/median; pg/ml) 782 / 715 724 / 710 777 735
+Observations from CIRRUS Part A Demonstrating EDG-7500’s Lack of Reductions in Systolic
+Performance Allowed Us to Also Treat More Medically Complex oHCM Patients
+Abbreviations: nHCM, nonobstructive hypertrophic cardiomyopathy; oHCM, obstructive hypertrophic cardiomyopathy; HCM, hypertrophic cardiomyopathy; SRT, stereotactic
+radiotherapy; NYHA, New Year Heart Association Classification; LVEF, left ventricular ejection fraction; LVOT-G, left ventricle outflow tract gradient
+
+46
+EDG-7500 has the Potential to Revolutionize HCM Care,
+Where Unmet Needs and Persistent Challenges Remain
+EDG-7500 CMI
+Diastolic function
+Improved filling pressure
+Improved NT-proBNP
+Improved early relaxation
+Improved filling pressure
+Improved NT-proBNP
+Systolic effects
+Systolic function
+Overall feel and
+function
+KCCQ Score
+NYHA Improvement
+KCCQ Score
+NYHA Improvement
+% LVEF
+% LVEF
+Drug Level Drug Level
+Abbreviations: HCM, hypertrophic cardiomyopathy; CMI, cardiac myosin inhibitor
+
+47
+Edgewise is Committed to Delivering a Novel and
+Differentiated Therapy for Patients with HCM
+Based on Observations to Date, No Concerns
+of LVEF Drops; Potential to Eliminate Safety Echoes
+Ability to Deepen Functional, Symptom and QoL Improvements Without
+Concerns of LVEF Drops < 50%
+Intra-Patient Dose Optimization Using SOC assessments (Biomarkers, Feel-and-Function and Echo at Physician’s Discretion)
+No Excessive Monitoring Requirements Outside of
+Standard of Care in HCM; Opens Potential for Use Outside of CoEs
+Ability to Resolve Diastolic Dysfunction in Patients
+with Non-Obstructive HCM
+Aspirational Target Product Profile for EDG-7500 in the Treatment of HCM
+Safety
+Efficacy
+Dosing
+Monitoring
+Diastolic Effect
+Superior Patient
+Experience
+Overcomes the Need for Cumbersome Safety Echoes,
+Easing the Burden on Patients
+Abbreviations: CoE, centers of excellence; HCM, hypertrophic cardiomyopathy; LVEF, left ventricular ejection fraction; SOC, standard of care
+
+48 Abbreviations: HV, healthy volunteers; oHCM, obstructive hypertrophic cardiomyopathy; nHCM, non-obstructive hypertrophic cardiomyopathy; CV, cardiovascular; IND, Investigational New Drug application;
+POC, proof of concept
+Edgewise Upcoming Value-Generating Milestones
+H1 2025 H2 2025 H1 2026
+Becker
+Duchenne
+Muscular
+Dystrophy
+Sevasemten
+Hypertrophic
+Cardiomyopathy
+Cardiac
+P2 LYNX & FOX
+Controlled dose-ranging data
+P3 trial
+Initiation
+GRAND CANYON
+Recruitment complete
+Cardiometabolic
+Candidate
+In vivo POC
+P2 CIRRUS-HCM 12-week
+EDG-7500 initial readout
+in oHCM & nHCM
+EDG-CV candidate
+IND in Heart Failure
+CANYON EOP2 Feedback
+Path to Sevasemten Approval
+EDG-7500 P3 initiation
+oHCM & nHCM
+EDG-CV P2 Data
+NHV/Heart Failure
+Heart Failure &
+Cardiometabolic
+GRAND CANYON
+Results 4Q2026
+P2 CIRRUS-HCM 28-day
+EDG-7500 initial readout
+in oHCM & nHCM
+
+49 As of December 31, 2024
+(1) DEBT (1)
+$0
+CASH, CASH EQUIVALENTS &
+MARKETABLE SECURITIES
+~$660M
+COMMON SHARES OUTSTANDING
+(NASDAQ: EWTX)
+~105M
+CASH RUNWAY THROUGH 2028
+Well-Capitalized to Execute Important Milestones Across Both
+Sevasemten and EDG-7500
+
+50
+Thank You

@@ -1,0 +1,255 @@
+8-K
+
+false 0001422143 0001422143 2025-06-12 2025-06-12
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 12, 2025
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37620
+
+ 
+
+61-1547851
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+12730 High Bluff Drive, Suite 400, San Diego, CA
+
+ 
+
+92130
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 500-8800
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+KURA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On June 12, 2025, Kura Oncology, Inc. (the “Company”) and Kyowa Kirin Co., Ltd. (“Kyowa Kirin”) announced positive updated clinical data from KOMET-007, a Phase 1a/1b trial of ziftomenib, a highly selective oral investigational menin inhibitor, in combination with standards of care, cytarabine/daunorubicin (“7+3”), in patients with newly diagnosed nucleophosmin 1-mutant (“NPM1-m”) and KMT2A-rearranged (“KMT2A-r”) acute myeloid leukemia (“AML”).
+
+In the ongoing study, ziftomenib dosed once daily at 600 mg in combination with 7+3 continued to demonstrate robust and evolving clinical activity in patients with newly diagnosed AML. Among 71 response-evaluable patients, 92% (65/71) achieved a composite complete remission (“CRc”) (93% for NPM1-m, 89% for KMT2A-r patients) and 80% (57/71) achieved a complete remission (“CR”) (84% for NPM1-m, 74% for KMT2A-r patients) at the time of data cutoff. A rate of CR minimal residual disease (“MRD”) negativity of 71% for NPM1-m with a median time to MRD negativity of 4.7 weeks and a rate of CR-MRD negativity of 88% for KMT2A-r patients with a median time to MRD negativity of 4.4 weeks were observed. Ziftomenib did not delay time to neutrophil and platelet count recovery, which was comparable to intensive chemotherapy regimens.
+
+Median follow-up times for the two populations were 24.9 weeks (range 4.3-47.1) in NPM1-m patients and 15.7 weeks (range 1.1-40.3) in KMT2A-r patients. Among response-evaluable NPM1-m patients, neither a median duration of CR nor a median overall survival (“OS”) had been reached. Among response-evaluable KMT2A-r patients, a median duration of CR was determined to be 25.6 weeks (95% confidence interval, range 8.3-not evaluable), and a median OS had not been reached. Notably, 96% (47/49) of NPM1-m patients and 88% (29/33) of KMT2A-r patients remained alive and on study.
+
+The safety population included 82 newly diagnosed adult patients with NPM1-m or KMT2A-r AML from the pooled Phase 1a/1b portions of the trial at the 600 mg QD dose of ziftomenib. The safety profile observed with ziftomenib was consistent with previously reported data. Ziftomenib-related adverse events (“TRAEs”) of ≥ Grade 3 (“Gr3”), which occurred in more than 10% of patients were febrile neutropenia (15%), decreased platelet count (15%), anemia (11%) and decreased neutrophil count (11%). One case of differentiation syndrome (KMT2A-r, Gr3) was successfully managed by protocol-specified mitigation strategies. Two cases of investigator-assessed QTc prolongation (both KMT2A-r, Gr3) were reported; both patients were on other medications (posaconazole and/or piperacillin/tazobactam), which have been identified as potentially causing QT prolongation at the time of QT assessment. No dose-limiting toxicities, drug-drug interactions, clinically meaningful ziftomenib-associated QTc prolongation or additive myelosuppression were observed.
+
+The Company expects to start KOMET-017 intensive chemotherapy and non-intensive chemotherapy randomized Phase 3 studies in the second half of 2025.
+
+On June 18, 2025, the Company hosted a virtual investor event and presented certain materials related to the Company (the “Presentation”). A copy of the Presentation is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Forward-Looking Statements
+
+Statements contained in this Current Report on Form 8-K regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements, including, but not limited to, statements regarding, among other things, the efficacy, safety and therapeutic potential of ziftomenib and the expected timing for starting KOMET-017 intensive chemotherapy and non-intensive chemotherapy randomized Phase 3 studies.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. Risks that
+
+contribute to the uncertain nature of the forward-looking statements include: the risk that compounds that appeared promising in early research or clinical trials do not demonstrate safety and/or efficacy in later preclinical studies or clinical trials, the risk that the Company may not obtain approval to market its product candidates, uncertainties associated with performing clinical trials, regulatory filings, and other interactions with regulatory bodies, risks associated with reliance on third parties to successfully conduct clinical trials, the risks associated with reliance on outside financing to meet capital requirements, the risk that the collaboration with Kyowa Kirin is unsuccessful and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs, as well as those risks and uncertainties set forth more fully under the caption “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2025 filed with the Securities and Exchange Commission (“SEC”) on May 1, 2025, as well as discussions of potential risks, uncertainties and other important factors in the Company’s other filings and reports with the SEC. All forward-looking statements contained in this Current Report on Form 8-K speak only as of the date on which they were made. The Company undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+99.1
+
+  
+
+Presentation Materials of Kura Oncology, Inc.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+Date: June 18, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer

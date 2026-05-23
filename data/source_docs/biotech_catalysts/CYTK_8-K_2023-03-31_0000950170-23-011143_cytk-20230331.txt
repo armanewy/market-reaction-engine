@@ -1,0 +1,227 @@
+8-K
+
+false000106198300010619832023-03-312023-03-31
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 31, 2023
+
+ 
+
+ 
+
+Cytokinetics, Incorporated
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+000-50633
+
+94-3291317
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+350 Oyster Point Boulevard
+
+ 
+
+South San Francisco, California
+
+ 
+
+94080
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (650) 624-3000
+
+ 
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+CYTK
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+Cytokinetics, Incorporated (the "Company") today announced that the Data Monitoring Committee ("DMC") for COURAGE-ALS (Clinical Outcomes Using Reldesemtiv on ALSFRS-R in a Global Evaluation in ALS), recently convened to conduct the second planned interim analysis of this Phase 3 clinical trial.
+
+ 
+
+ 
+
+The DMC reviewed unblinded data from COURAGE-ALS and recommended the discontinuation of the clinical trial due to futility, as it found no evidence of effect in patients treated with reldesemtiv relative to placebo on the primary endpoint of change from baseline to 24 weeks in ALSFRS-R or in key secondary endpoints. Given these results, study conduct in COURAGE-ALS will be concluding. In addition, Cytokinetics plans to discontinue treatment with reldesemtiv in all patients including those in the open-label extension study, COURAGE-ALS OLE.
+
+ 
+
+ 
+
+The second interim analysis was triggered 24 weeks after at least one third of the planned sample size was randomized in COURAGE-ALS. At the interim analysis, approximately 460 patients had been randomized and over 200 had reached the 24-week assessment of the trial endpoints. This interim analysis assessed the primary and key secondary endpoints for potential futility as well as provided for a potential fixed increase in total enrollment, if it had been deemed necessary to augment the statistical power of the trial, or to continue the trial to its conclusion as planned. Cytokinetics intends to notify all regulatory agencies and clinical trial investigators involved in COURAGE-ALS of these interim findings. The full data set from this trial is being analyzed and more details will be presented at an upcoming medical meeting.
+
+ 
+
+COURAGE-ALS & COURAGE-ALS OLE: Trial Design
+
+ 
+
+COURAGE-ALS was a Phase 3, multi-center, double-blind, randomized, placebo-controlled trial of reldesemtiv designed to enroll approximately 555 patients with ALS. Patients were randomized 2:1 to receive 300 mg of reldesemtiv or matching placebo dosed orally twice daily for 24 weeks, followed by a 24-week period in which all patients received 300 mg of reldesemtiv twice daily. Eligible patients were within the first two years of their first symptom of muscle weakness, had a vital capacity of ≥65% predicted, and a screening ALS Functional Rating Scale – Revised (ALSFRS-R) ≤44. Patients taking stable doses of edaravone and/or riluzole were permitted to enroll, and randomization was stratified accordingly. The primary efficacy endpoint was change from baseline to 24 weeks in ALSFRS-R. Secondary endpoints included combined assessment of ALSFRS-R total score, time to onset of respiratory insufficiency and survival time up to week 24 using a joint rank test; change from baseline to 24 weeks for vital capacity; ALSAQ-40; and bilateral handgrip strength. The trial included two planned unblinded interim analyses conducted by the Data Monitoring Committee. The first interim analysis assessed for futility, 12 weeks after approximately one-third or more of the planned sample size were randomized. The second interim analysis assessed for futility with the option for a fixed increase in total enrollment, if it had been deemed necessary, to augment the statistical power of the trial.
+
+ 
+
+ 
+
+An open-label extension trial, COURAGE-ALS OLE, has enrolled people who completed participation in COURAGE-ALS. In COURAGE-ALS OLE, participants received 300 mg of reldesemtiv dosed orally twice daily for 48 weeks after which they were eligible to transition into the Managed Access Program, a program designed to provide access to reldesemtiv for patients diagnosed with ALS who have completed a prior Cytokinetics clinical trial with reldesemtiv or tirasemtiv.
+
+ 
+
+About Reldesemtiv
+
+ 
+
+ 
+
+Skeletal muscle contractility is driven by the sarcomere, the fundamental unit of skeletal muscle contraction and a highly ordered cytoskeletal structure composed of several key proteins. Skeletal muscle myosin is the motor protein that converts chemical energy into mechanical force through its interaction with actin. A set of regulatory proteins, which includes tropomyosin and the troponin complex, make the actin-myosin interaction dependent on changes in intracellular calcium levels. Reldesemtiv is an investigational, selective, small molecule fast skeletal muscle troponin activator (FSTA) arising from Cytokinetics’ skeletal muscle contractility program. Reldesemtiv was designed to slow the rate of calcium release from the regulatory troponin complex of fast skeletal muscle fibers, which sensitizes the sarcomere to calcium, leading to an increase in skeletal muscle
+
+contractility.
+
+ 
+
+ 
+
+The development program for reldesemtiv assessed its potential for the treatment of ALS and includes FORTITUDE-ALS, a completed Phase 2 trial, and COURAGE-ALS, the Phase 3 clinical trial designed to evaluate the effect of treatment with reldesemtiv compared to placebo on measures of disease progression, functional outcomes and survival.
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CYTOKINETICS, INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+March 31, 2023
+
+By:
+
+/s/ John O. Faurescu
+
+ 
+
+ 
+
+ 
+
+John O. Faurescu, Esq.
+
+Associate General Counsel &
+
+Corporate Secretary

@@ -1,0 +1,276 @@
+8-K
+1
+nt10017732x2_8k.htm
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 6, 2020
+
+Rocket Pharmaceuticals, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-36829
+
+04-3475813
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+9 Cedar Brook Drive
+
+Cranbury, NJ 08512
+
+(Address of principal executive offices, including zip code)
+
+(646) 440-9100
+
+ (Registrant’s telephone number, including area code)
+
+The Empire State Building
+
+350 Fifth Ave, Suite 7530
+
+New York, NY 10118
+
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see
+General Instruction A.2):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common stock, $0.01 par value
+
+ 
+
+RCKT
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+
+Item 8.01
+
+Other Events.
+
+ 
+
+62nd American Society of Hematology Annual Meeting Interim Data Updates
+
+On December 6 and 7, 2020, Rocket Pharmaceuticals, Inc. (the “Company” or “we”) presented updated interim data from its Fanconi Anemia, Leukocyte Adhesion
+Deficiency-I and Pyruvate Kinase Deficiency programs at the 62nd American Society of Hematology (“ASH”) Annual Meeting, held virtually from December 5 to 8, 2020.
+
+Fanconi Anemia:
+
+We currently have one ex-vivo lentiviral vector (“LVV”)-based program targeting FA, RP-L102.
+
+The data presented at the ASH Annual Meeting are from seven of the nine patients treated (out of twelve patients enrolled) as of October 2020 in both the
+U.S. Phase 1 and global Phase 2 studies of RP-L102 for FA. Patients in these studies received a single intravenous infusion of “Process B” RP-L102 which incorporates a modified stem cell enrichment process, transduction enhancers, as well as
+commercial-grade vector. Preliminary data from these studies support “Process B” as a consistent and reproducible improvement over “Process A” which was used in earlier academic FA studies.
+
+Seven patients had follow-up data of at least two-months and three of the seven patients had been followed
+for twelve-months or longer. As patients are treated with gene therapy product without the use of a conditioning regimen, the data indicated that RP-L102 was generally well-tolerated with no significant safety issues reported with infusion or post-treatment. One drug related serious adverse event of Grade 2 transient infusion-related reaction was observed. In five out of the seven patients for whom
+there was follow-up data, evidence of preliminary engraftment was observed, with bone marrow (“BM”) vector copy numbers (“VCNs”) from 0.16 to 0.22 (long-term
+follow-up only) and peripheral VCNs ranging from 0.01 (2-month follow-up) to 0.11 (long-term follow-up). Further, two of the three patients with greater than 12-months follow-up showed evidence of increasing engraftment, mitomycin-C (“MMC”)
+resistance and stable blood counts, which suggests a halt in the progression of bone marrow failure. The third patient with greater than 12-month follow-up contracted Influenza B nine months post-treatment resulting in progressive BM failure, for which, such patient received a successful bone marrow transplant
+at 18 months post-treatment.
+
+We expect to report longer-term follow up on these patients in the first half of 2021.
+
+Leukocyte Adhesion Deficiency-I:
+
+We currently have one ex-vivo LVV-based program targeting LAD-I, RP-L201, in clinical development.
+
+The data presented at the ASH Annual Meeting are from three pediatric patients with severe LAD-I, as defined by CD18 expression of less than 2%. These patients were treated with RP-L201. Patient L201-003-1001 was 9 years of age at enrollment and had been
+followed for 12 months as of November 2020. Patient L201-003-1004 was 3 years of age at enrollment and had been followed for over 6 months. Patient L201-003-2006 was 7 months of age at enrollment and was recently treated with RP-L201.
+
+The data from these three patients indicated that RP-L201 was generally well-tolerated with no safety issues reported with infusion or post-treatment. There were no drug-related serious adverse events or severe adverse events as of the
+cut-off date. All patients achieved hematopoietic reconstitution within 5 weeks. Peripheral blood VCN and neutrophil CD18-expression were assessed post-treatment to evaluate engraftment and phenotypic correction, and for the three pediatric patients
+identified above, (i) at 12-months post treatment, Patient L201-003-1001 demonstrated durable CD18 expression of approximately 40%, peripheral blood VCN levels of 1.2, resolution of skin lesions, (ii) at 6-months post-treatment, Patient L201-003-1004
+demonstrated CD18 expression of 23% and peripheral blood VCN kinetics similar to those of the first patient and (iii) at 2-months post-treatment, Patient L201-003-2006 demonstrated preliminary CD18 expression of 76% and peripheral blood VCN kinetics
+similar to those of the first patient.
+
+We expect to announce initial Phase 2 data in the first half of 2021.
+
+Pyruvate Kinase Deficiency:
+
+We currently have one ex-vivo LVV-based program targeting PKD, RP-L301, in clinical development.
+
+The data presented at the
+ASH Annual Meeting are from two adult PKD patients with significant anemia and transfusion requirements. Preliminary data from the first patient supported
+initial tolerability of RP-L301, hemoglobin improvement to a normal range at 3-months post treatment and additional normalization of hemolysis markers.
+
+Patient L301-006-1001 was treated with RP-L301. Patient L301-006-1001 was 31-years of age at the time of
+enrollment and had been followed for 3-months post treatment as of the data cutoff date of October 2020. Patient L301-001-1002 was 47-years of age at the time of enrollment and was recently treated with RP-L301.
+
+Patient L301-006-1001 received a cell dose of 3.9x106 cells/kilogram (“kg”) with a drug product mean
+VCN of 2.73. For this patient, hematopoietic reconstitution was observed in less than two weeks. Furthermore, the
+patient attained peripheral blood VCN of 2.21 at 1-month and 1.55 at 3-months  and normalized hemoglobin (“Hgb”) and hemolysis markers at 3-months post-treatment. In particular, at baseline, the patient had Hb of approximately 7.4 grams
+(“g”)/deciliter (“dL”) to Hb of 14.3 g/dL at 3-months post treatment with RP-L301. In the two years prior to enrollment, the patient underwent approximately 14 transfusion episodes; subsequent to engraftment from RP-L301 treatment, the patient to
+date has not required any red blood cell transfusions. The patient also exhibited normalization of bilirubin, lactate dehydrogenase and erythropoietin levels at 3-months post treatment, each of which had been substantially elevated prior to study
+enrollment. The patient also had an increase in hepcidin and a decrease in reticulocytes at 3-months post treatment.  Patient L301-006-1002, was recently treated with RP-L301,
+receiving a cell dose of 2.4x106
+cells/kg with a mean drug product VCN of 2.08.
+
+The data from Patient
+L301-006-1001 indicated that RP-L301 was generally well-tolerated and there were no
+serious safety issues or infusion-related complications observed 3-months post treatment. The patient experienced Grade 3 treatment-emergent adverse events of
+neutropenia, stomatitis, increased liver transaminase levels (AST and ALT) and a Grade 4 treatment-emergent adverse event of hypertriglyceridemia; the investigator did not consider these adverse events related to
+RP-L301.
+
+Patient L301-006-1001  also experienced Grade 2 serious adverse events of chest pain, dyspnea, and nausea during the apheresis collection. The investigator considered these events related to apheresis, hyperleukocytosis and the mobilizing agents.
+They resolved with supportive care and without sequelae. Other events included Grade 2 bone pain and Grade 3 leukocytosis.
+
+The second cohort of this study will enroll older pediatric patients and is expected to be initiated in the first half of 2021. We expect to announce updated
+data from this study in the second half of 2021.
+
+Preliminary Data from Danon Disease Program
+
+On December 8, 2020, the Company announced positive preliminary data from its open-label, Phase 1 clinical trial of RP-A501, the Company’s adeno-associated
+viral vector (“AVV”)-based gene therapy candidate expressing lysosome-associated membrane protein 2 B (“LAMP2B”) for the treatment of Danon Disease.
+
+Danon Disease:
+
+We currently have one adeno-associated viral vector-based program targeting Danon Disease, RP-A501, in clinical development.
+
+The non-randomized, open-label Phase 1 trial was designed to enroll both pediatric and young adult male patients in escalating dose cohorts. The preliminary
+data announced includes safety and clinical activity results from the three patients treated with the low dose of 6.7×1013 genome copies (gc)/kilogram (kg) and early
+safety information from the two patients treated with the higher dose of 1.1×1014 gc/kg as of the cutoff date of November 2020.
+
+In the three patients treated in the low dose cohort, RP-A501 showed manageable safety results. No unexpected and serious drug product-related adverse events
+or severe adverse events were observed. The most common adverse events were mild and were related to elevated transaminases post treatment. Elevation in transaminases was observed in all three low-dose patients and returned to baseline within the first
+one to two months post-treatment. There was also a transient and reversible decline in platelets observed in these three patients. These changes were largely responsive to corticosteroids and other immunosuppressive therapies. All patients were given
+oral steroids to prevent or minimize potential immune-related events. In the higher dose cohort (detailed immediately below), additional immunosuppressive therapies were stipulated and administered to mitigate the immune response associated with
+RP-A501.
+
+At the higher dose administered (1.1×1014 gc/kg), one of the two treated patients, who received the higher absolute AAV9 dose and had some degree of pre-existing
+anti-AAV9 immunity, experienced a non-persistent, immune-related event that was classified as a drug product-related serious adverse event.  This was believed to be likely due to complement activation, resulting in reversible thrombocytopenia and
+acute kidney injury requiring ecumizumab and transient hemodialysis. This patient returned to baseline within three weeks and regained normal kidney function.
+
+From the perspective of gene expression results, all three low dose patients demonstrated evidence of cardiac LAMP2B expression by Western blot and/or
+immunohistochemistry. In two of the three patients in the low dose cohort who had closely monitored compliance with the immunosuppressive regimen, high levels of cardiac LAMP2B expression were observed along with clinical biomarker improvements. In
+cardiac biopsies of the low dose patients, LAMP2B gene expression was observed in 67.8% of cells compared to normal as determined by immunohistochemistry at 9 months in one patient, and at 92.4% of cells compared to normal at month 12 in the other
+patient.  In this latter patient, Western blot assessment showed 61% of normal LAMP2B protein expression at month 9. The 12-month Western blot data was still pending for all three patients as of the data cutoff.
+
+The first patient in the low dose cohort was not as closely monitored for compliance with the immunosuppressive regimen as the other two patients. Although
+we did observe evidence of cardiac LAMP2B expression of approximately 15% of cells compared to normal as determined by immunohistochemistry at 12 months in this patient, we believe that such expression was likely limited by inconsistent compliance with
+the immunosuppressive regimen, as evidenced by transient increases in transaminase levels approximately one month after treatment and a lack of adverse events frequently associated with the immunosuppressive regimen. Additionally, in this patient,
+Western blot assessment showed 17.9% of normal LAMP2B protein expression at month 6.
+
+At least two of the three low dose patients demonstrated key clinical biomarker improvements consistent with improved cardiac function. Brain natriuretic
+peptide, a key marker of heart failure, improved in all three patients, including by greater than 50% in the two patients with closely monitored immunosuppressive regimen compliance. Additionally, creatine kinase myocardial band either improved or
+stabilized in these two patients. For the patient with the potential inconsistent immunosuppressive regimen compliance, the creatine kinase myocardial band was higher than at baseline at month 12. Notably, all three patients showed visible improvements
+in autophagic vacuoles, a hallmark of Danon disease pathology, as assessed by electron microscopy of cardiac tissue via endomyocardial biopsy. Additionally, two of the three low dose patients with closely monitored immunosuppressive regimen compliance
+demonstrated improvement in cardiac output as measured by invasive hemodynamics, including one patient who showed a 1.62-fold improvement in cardiac output at month 12, and one patient who showed a 1.35-fold improvement at month 9. For the patient with
+the apparent inconsistent immunosuppressive regimen compliance, the cardiac output was lower at month 12 than at baseline.
+
+We expect to announce updated data from our open-label Phase 1 trial of RP-A501 in the second half of 2021.
+
+Other Updates        
+
+We currently have one LVV-based program targeting infantile malignant osteopetrosis, RP-L401. A clinical trial for RP-L401 was initiated in the fourth quarter of 2020, and we
+expect to report initial Phase 1 clinial trial data in the second half of 2021.
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+Rocket Pharmaceuticals, Inc.
+
+ 
+
+ 
+
+ 
+
+Date: December 9, 2020
+
+By:
+
+/s/ Gaurav Shah
+
+ 
+
+ 
+
+Gaurav Shah, MD
+
+ 
+
+ 
+
+President, Chief Executive Officer and Director

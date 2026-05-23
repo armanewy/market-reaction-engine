@@ -1,0 +1,237 @@
+EX-99.2
+3
+d504778dex992.htm
+EX-99.2
+
+EX-99.2
+
+Corporate Presentation JULY 2023
+Exhibit 99.2
+
+Disclaimer The following presentation,
+including any printed or electronic copy of these slides, the talks given by the presenters, the information communicated during any delivery of the presentation and any question and answer session and any document or material distributed at or in
+connection with the presentation (collectively, the “Presentation”) has been prepared by Cabaletta Bio, Inc. (“we,” “us,” “our,” “Cabaletta” or the “Company”) and is made for
+informational purposes only. This Presentation does not purport to be a prospectus, to be complete or to contain all of the information you may desire. Statements contained herein are made as of the date of this Presentation unless stated otherwise,
+and this Presentation shall not under any circumstances create an implication that the information contained herein is correct as of any time after such date or that information will be updated or revised to reflect information that subsequently
+becomes available or changes occurring after the date hereof. This Presentation may contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 relating to our business, operations, and
+financial conditions, and include, but are not limited to, express or implied statements regarding our current beliefs, expectations and assumptions regarding: our business, future plans and strategies for our CAAR T and CARTA technologies and
+CABA™ platform; our ability to grow our autoimmune-focused pipeline; the ability to capitalize on and potential benefits resulting from the translational research partnership with Professor Georg Schett and the exclusive license agreement with
+IASO Bio; our expectations around the potential success and therapeutic benefits of CABA-201, including our belief that CABA-201 may enable an “immune system reset” and provide deep and durable responses for patients with autoimmune
+diseases; our plans for (i) a Phase 1/2 clinical trial of CABA-201 in patients with SLE, including our anticipated progress, clinical trial design, ability to leverage our experience in autoimmune cell therapy and lupus product development and (ii)
+a Phase 1/2 clinical trial of CABA-201 in patients with myositis, including our anticipated progress, clinical trial design and ability to leverage our experience in autoimmune cell therapy; our planned initial clinical data read-out in the first
+half of 2024 for patients treated with CABA-201; our ability to enroll the requisite number of patients, dose each dosing cohort in the intended manner, and advance the trial as planned in our Phase 1/2 clinical trials of CABA-201; the timing any
+planned regulatory filings for our development programs; the progress and results of our DesCAARTes™ Phase 1 trial, including the significance and impact around reported safety and clinical and translational data of cohorts from our
+DesCAARTes™ trial, and our ability to advance dose escalation and initiate combination cohorts and to optimize our targeted cell therapy; our ability to implement a pre-treatment regimen, the outcomes of such pre-treatment regimen and the
+potential ability to enhance in vivo DSG3-CAART exposure; the therapeutic potential and clinical benefits of our product candidates; the expectation that Cabaletta may improve outcomes for patients suffering from systemic lupus erythematosus,
+myositis, mucosal pemphigus vulgaris, myasthenia gravis, or other autoimmune diseases; our ability to escalate dosing as high as 15 billion cells in cohort A6m, initiate dosing in a combination cohort or otherwise; our ability to evaluate, and the
+potential significance of, the relationship between DSG3-CAART persistence and potential clinical responses in patients with mPV; our ability to safely retreat additional patients and whether we will continue to observe a lack of immune-mediated
+clearance of DSG3-CAART cells after retreatment and repeat dosing of patients; our ability to successfully complete our preclinical and clinical studies for our product candidates, including our ability to enroll the requisite number of patients,
+dose each dosing cohort in the intended manner, and progress the trial; the ability of MuSK-CAART to target B cells that differentiate into antibody secreting cells, which produce autoantibodies against muscle-specific kinase; our ability to obtain
+and maintain regulatory approval of our product candidates, including our expectations regarding the intended incentives conferred by and ability to retain Orphan Drug Designation and Fast Track Designation for our product candidates, as applicable;
+the further expansion and development of our modular CABA™ platform across a range of autoimmune diseases; our ability to contract with third-party suppliers and manufacturers, implement an enhanced manufacturing process and further develop
+our internal manufacturing strategy, capabilities and facilities; our potential commercial opportunities, including value and addressable market, for our product candidates; our expectations regarding our use of capital and other financial results;
+and our ability to fund operations into the fourth quarter of 2025. Words such as, but not limited to, “look forward to,” “believe,” “expect,” “anticipate,” “estimate,”
+“intend,” “plan,” “would,” “should” and “could,” and similar expressions or words, identify forward-looking statements. Various risks, uncertainties and assumptions could cause actual
+results to differ materially from those anticipated or implied in our forward-looking statements. Such risks and uncertainties include, but are not limited to, risks related to the success, cost, and timing of our product candidate development
+activities and preclinical studies and clinical trials, risks related to our ability to demonstrate sufficient evidence of safety, efficacy and tolerability in our preclinical studies and clinical trials of CABA-201, DSG3-CAART and MuSK-CAART, the
+risk that the results observed with the similarly-designed construct, including, but not limited to, due to dosing regimen, are not indicative of the results we seek to achieve with CABA-201, our plans to evaluate additional cohorts in the
+DesCAARTes™ trial, including a cohort implementing a pre-treatment regimen, the risk that signs of biologic activity or persistence may not inform long-term results, the risk that persistence observed with effective CART-19 oncology studies in
+combination with lymphodepletion is not indicative of, or applicable to, clinical responses in patients with mPV, risks related to clinical trial site activation or enrollment rates that are lower than expected, our ability to protect and maintain
+our intellectual property position, risks related to our relationship with third parties, uncertainties related to regulatory agencies’ evaluation of regulatory filings and other information related to our product candidates, our ability to
+retain and recognize the intended incentives conferred by any Orphan Drug Designation and Fast Track Designations, the risk that any one or more of our product candidates will not be successfully developed and commercialized, the risk that the
+results of preclinical studies or clinical studies will not be predictive of future results in connection with future studies, the impact of COVID-19 on the timing, progress, interpretability of data, and results of ongoing or planned clinical
+trials and risks relating to as a result of extraordinary events or circumstances such as the COVID-19 pandemic, and any business interruptions to our operations or to those of our clinical sites, manufacturers, suppliers, or other vendors resulting
+from the COVID-19 pandemic or similar public health crisis. New risks and uncertainties may emerge from time to time, and it is not possible to predict all risks and uncertainties. Except as required by applicable law, we do not plan to publicly
+update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise. Although we believe the expectations reflected in such forward-looking statements are
+reasonable, we can give no assurance that such expectations will prove to be correct. Accordingly, you are cautioned not to place undue reliance on these forward-looking statements. No representations or warranties (expressed or implied) are made
+about the accuracy of any such forward-looking statements. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause our actual results to differ materially from those contained in the
+forward-looking statements, see the section entitled "Risk Factors" in our most recent annual report on Form 10-K, as well as discussions of potential risks, uncertainties, and other important factors in our other and subsequent filings with the
+Securities and Exchange Commission. Certain information contained in this Presentation relates to or is based on studies, publications, surveys and other data obtained from third-party sources and the Company’s own internal estimates and
+research. While the Company believes these third-party sources to be reliable as of the date of this Presentation, it has not independently verified, and makes no representation as to the adequacy, fairness, accuracy or completeness of, any
+information obtained from third-party sources. The Company is the owner of various trademarks, trade names and service marks. Certain other trademarks, trade names and service marks appearing in this Presentation are the property of third parties.
+Solely for convenience, the trademarks and trade names in this Presentation are referred to without the ® and TM symbols, but such references should not be construed as any indicator that their respective owners will not assert, to the fullest
+extent under applicable law, their rights thereto.
+
+Develop and launch the first curative
+targeted cellular therapies for patients with autoimmune diseases
+
+Leveraging years of experience with
+cellular therapy in autoimmunity to initiate CABA-201 clinical trials Cabaletta®: Pursuing cures for a broad range of autoimmune diseases CARTA – Chimeric Antigen Receptor T cells for Autoimmunity; CAART – Chimeric AutoAntibody
+Receptor T cells; IND – Investigational New Drug; SLE – Systemic lupus erythematosus; DM – Dermatomyositis; ASyS – Anti-synthetase syndrome; IMNM – Immune-mediated necrotizing myopathy Mackensen, Andreas, et al.
+"Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus." Nature Medicine (2022): 1-9. Müller, Fabian, et al. "CD19-targeted CAR T cells in refractory antisynthetase syndrome." The Lancet (2023). Dai, Zhenyu, et al.
+"Development and functional characterization of novel fully human anti‐CD19 CARs for T‐cell therapy." Journal of Cellular Physiology 236.8 (2021): 5832-5847. Assumes no dose-limiting toxicities are observed in the cohort and
+uninterrupted enrollment occur in the trials. Advancing SLE & myositis trials with efficient designs – including starting dose & parallel cohorts 1.0 x 106 cells/kg initial dose of CABA-201 is identical to dose used in academic SLE1
+and myositis2 studies Parallel cohorts with 6 patients each – SLE study with 1) LN & 2) Non-renal SLE; myositis study with 1) DM, 2) ASyS & 3) IMNM CABA-201 has been specifically engineered for patients with autoimmune diseases Fully
+human CD19 binder with data in ~20 oncology patients – clinical safety profile supporting further evaluation in autoimmunity Same 4-1BB costimulatory domain and similar CD19 binder affinity3 as used in the academic SLE1 & myositis studies2
+Potential to cure a broad range of autoimmune diseases where B cells have a role initiating or maintaining disease DesCAARTes™ trial of DSG3-CAART in mucosal pemphigus vulgaris Enrolling in combination sub-study cohort using pre-treatment with
+IVIg, cyclophosphamide and fludarabine MusCAARTes™ trial in MuSK myasthenia gravis – leveraging insights from experience with DSG3-CAART Initiated in 4Q22; received FDA Fast Track Designation & Orphan Drug Designation CARTA Strategy
+| CABA-201 (4-1BB CD19-CAR T) to be evaluated in SLE & myositis Phase 1/2 studies CAART Strategy | DSG3-CAART & MuSK-CAART clinical studies evaluating combination regimens Initial CABA-201 3-month clinical efficacy and tolerability data
+expected by 1H244
+
+One CABA™ platform, two
+strategies to address autoimmune diseases Complementary strategies to optimize clinical outcomes using cellular therapies in autoimmune diseases Mackensen, Andreas, et al. "Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus."
+Nature Medicine (2022): 1-9. Müller, Fabian, et al. "CD19-targeted CAR T cells in refractory antisynthetase syndrome." The Lancet (2023). Ellebrecht, Christoph T., et al. "Reengineering chimeric antigen receptor T cells for targeted therapy of
+autoimmune disease." Science 353.6295 (2016): 179-184. Fully Human Anti-CD19 Targeting Domain CARTA Chimeric Antigen Receptor T cells for Autoimmunity CAART Chimeric AutoAntibody Receptor T cells CABA-201 4-1BB Costimulatory Domain &
+CD3-Zeta Signaling Domain DSG3-CAART Potential to ‘reset the immune system’ in patients with autoimmune diseases driven by B cells, through generalized transient B cell depletion and repopulation of healthy B cells1,2 In autoimmune
+diseases with a limited number of well-defined pathogenic autoantibodies, permanent antigen-specific B cell depletion may provide an elegant biologic solution to disease3 Autoantigen Targeting Domain 4-1BB Costimulatory Domain & CD3-Zeta
+Signaling Domain
+
+Biologic opportunity for cure or
+treatment may be possible in dozens of autoimmune diseases* CABA™ platform may apply across a range of autoimmune diseases Pemphigus Vulgaris1,2,3 Pemphigus Foliaceus1,2,3 Epidermolysis Bullosa Acquisita3 Bullous Pemphigoid1,2,3 Lupus
+Nephritis3,4 Membranous Nephropathy1,2,3 Goodpasture’s Syndrome1,2,3,4 Myasthenia Gravis1,2,3,5 Multiple Sclerosis6 Neuromyelitis Optica3 CIDP (Chronic Inflammatory Demyelinating Polyneuropathy)1.2 Anti-NMDAR Encephalitis3,6 Lambert-Eaton
+Syndrome5 Systemic Lupus Erythematosus3,4,5,6 Rheumatoid Arthritis2,3,4 Myositis5 Systemic sclerosis6 ANCA-Associated Vasculitis3,4,5 Immune Thrombocytopenic Purpura3 Thrombotic Thrombocytopenic Purpura1,2,3 Antiphospholipid Syndrome4,5 Autoimmune
+Hemolytic Anemia3 Type 1 Diabetes3,6 Graves’ Disease3,5 Hashimoto’s Disease5 Illustrative list of autoimmune diseases where B cells may play a role in initiating or maintaining disease, and where biologic opportunity for cure or
+treatment with CAART or CARTA approach may be possible. Diseases in bold represent where clinical studies are underway or plan to be initiated by Cabaletta or by Professor Schett Koneczny, Inga. "Update on IgG4-mediated autoimmune diseases: new
+insights and new family members." Autoimmunity Reviews (2020): 102646. Huijbers, Maartje G., et al. "IgG4-mediated autoimmune diseases: a niche of antibody-mediated disorders." Annals of the New York Academy of Sciences 1413.1 (2018): 92. Ludwig,
+Ralf J., et al. "Mechanisms of autoantibody-induced pathology." Frontiers in immunology 8 (2017): 603. Suurmond, Jolien, and Betty Diamond. "Autoantibodies in systemic autoimmune diseases: specificity and pathogenicity." The Journal of clinical
+investigation 125.6 (2015): 2194-2202. Xiao, Ze Xiu, Joseph S. Miller, and Song Guo Zheng. "An updated advance of autoantibodies in autoimmune diseases." Autoimmunity Reviews (2020): 102743. Hampe, Christiane S. "B cells in autoimmune diseases."
+Scientifica 2012 (2012). Dermatology Nephrology Neurology Rheumatology Hematology Endocrinology
+
+Pipeline targeting autoimmune diseases
+where cure is possible CABA-201 is being evaluated in separate clinical trials for myositis and SLE. Additional CAART pipeline candidates include PLA2R-CAART in preclinical stage for PLA2R membranous nephropathy, DSG3/1-CAART in discovery stage for
+mucocutaneous pemphigus vulgaris & 2 undisclosed targets in discovery stage. Currently being evaluated in a Phase 1 trial. CABA™ Platform Indication Program Discovery Preclinical Phase 1/2 Phase 2/3 CARTA Chimeric Antigen Receptor T cells
+for Autoimmunity Myositis (IIM, Idiopathic Inflammatory Myopathy)1 Dermatomyositis CABA-201 4-1BB CD19-CAR T Anti-Synthetase Syndrome Immune-Mediated Necrotizing Myopathy CARTA Chimeric Antigen Receptor T cells for Autoimmunity Systemic Lupus
+Erythematous (SLE)1 Lupus Nephritis CABA-201 4-1BB CD19-CAR T Non-Renal SLE Multiple Undisclosed Indications CAART2 Chimeric AutoAntibody Receptor T cells Mucosal Pemphigus Vulgaris DSG3-CAART3 MuSK Myasthenia Gravis MuSK-CAART3 IND cleared IND
+cleared
+
+Chimeric Antigen Receptor T Cells for
+Autoimmunity CABA-201
+
+Emerging clinical data with 4-1BB
+CD19-CAR T7 in… SLE – Systemic lupus erythematosus; SLEDAI-2K – Systemic Lupus Erythematosus Disease Activity Index 2000 Mackensen, Andreas, et al. "Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus." Nature
+Medicine (2022): 1-9. Taubmann, J., et al. "OP0141 Long Term Safety and Efficacy Of CAR-T Cell Treatment in Refractory Systemic Lupus Erythematosus-Data from the First Seven Patients." (2023): 93-94. Müller, Fabian, et al. "CD19-targeted CAR T
+cells in refractory antisynthetase syndrome." The Lancet (2023). Taubmann, Jule, et al. "Rescue therapy of antisynthetase syndrome with CD19-targeted CAR-T-cells after failure of several B cell depleting antibodies." Rheumatology (Oxford, England)
+(2023): kead330. Pecher, Ann-Christin, et al. "CD19-Targeting CAR T Cells for Myositis and Interstitial Lung Disease Associated With Antisynthetase Syndrome." JAMA 329.24 (2023): 2154-2162. Bergmann, Christina, et al. "AB0816 Treatment of a Patient
+with Severe Diffuse Systemic Sclerosis (Ssc) Using CD19-targeting CAR-T-cells." (2023): 1621-1621. The construct utilized in these studies has a similar design to CABA-201, sharing the 4-1BB costimulatory domain, but is a different construct. 9
+Exclusive translational research partnership with key investigator informs Cabaletta’s CD19 clinical strategy Academic data: Immune system reset in autoimmune patients1-6 Robust improvement in clinical disease activity within 3 months of
+CD19-CAR T treatment Rapid and deep CD19+ B cell depletion Return of healthy B cells within 7 months Favorable safety data with CD19-CAR T regimen Clinical SLE responses up to 24 mo with no relapses reported2 7 Systemic lupus erythematosus
+patients1,2 3 Anti-synthetase syndrome patients3-5 1 Systemic sclerosis patient6 SLE (N=5)1 SLEDAI-2K Myositis (N=1)2 Total improvement score
+
+Cabaletta’s CD19 binder with
+similar in vitro & in vivo activity to FMC631,2 (binder used in academic studies3,4) CABA-201: CD19-targeting CAR T therapy for autoimmune diseases SLE – Systemic lupus erythematosus; IIT – Investigator-initiated trial; Flu/Cy
+– Fludarabine/Cyclophosphamide; CRS – Cytokine release syndrome; ICANS – Immune effector cell-associated neurotoxicity syndrome Peng, Binghao J, et al. “Preclinical specificity and activity of CABA-201, a fully human 4-1BB
+containing CD19 CAR T therapy for treatment-resistant autoimmune disease.” Poster presented at: American Society Gene and Cell Therapy 26th Annual Meeting; 2023 May 19; Los Angeles, CA. Dai, Zhenyu, et al. "Development and functional
+characterization of novel fully human anti‐CD19 chimeric antigen receptors for T‐cell therapy." Journal of Cellular Physiology 236.8 (2021): 5832-5847. Mackensen, Andreas, et al. "Anti-CD19 CAR T cell therapy for refractory systemic
+lupus erythematosus." Nature Medicine (2022): 1-9. Müller, Fabian, et al. "CD19-targeted CAR T cells in refractory antisynthetase syndrome." The Lancet (2023). Evaluated as part of CT120, a dual-CD19xCD22 CAR T product candidate under
+development by Nanjing IASO Biotherapeutics, Co., Ltd. (IASO Bio). Fully human anti-CD19 binder 4-1BB costimulatory domain CD3-Zeta signaling domain CABA-201 Similar in vitro & in vivo biologic activity to FMC631 Same co-stimulatory domain as
+used in academic studies CD19-CAR Construct Clinical data reported by IASO using licensed CD19 binder in oncology5 Fully human binder Evaluated as dual-CAR combined with CD22 binder with standard Flu/Cy preconditioning Data reported in ~20 patients
+to date B cell leukemia and lymphoma in IIT in China Safety data supports autoimmune development CABA-201 In vitro In vivo CABA-201 CD19 binder used in academic studies3,4
+
+~66K U.S. patients with IIM
+subtypes with B cell involvement; frequently severe, with limited treatment options Myositis: Strong scientific rationale & significant disease burden Lundberg, Ingrid E., et al. "Idiopathic inflammatory myopathies." Nature Reviews Disease
+Primers 7.1 (2021): 86. Kronzer, Vanessa L., et al. "Incidence, Prevalence, and Mortality of Dermatomyositis: A Population‐Based Cohort Study." Arthritis Care & Research 75.2 (2023): 348-355. Badshah, Aliena, et al. "Antisynthetase
+syndrome presenting as interstitial lung disease: a case report." Journal of Medical Case Reports 13.1 (2019): 1-6. Coffey, Caitryn, et al. “Incidence of Antisynthetase Syndrome and Risk of Malignancy in a Population-based Cohort
+(1998-2019)” [abstract]. Arthritis Rheumatol. 2021; 73 (suppl 9). Shelly, Shahar, et al. "Incidence and prevalence of immune‐mediated necrotizing myopathy in adults in Olmsted County, Minnesota." Muscle & Nerve 65.5 (2022): 541-546.
+~6K U.S. pts5 Immune-mediated necrotizing myopathy (IMNM) ~17K U.S. pts3,4 Anti-synthetase syndrome (ASyS) ~43K U.S. pts2 Dermatomyositis (DM) Key myositis subtypes based on underlying immune mechanisms & clinical characteristics1 Potential
+manifestations & subtype prevalence 1 Autoimmune disease with B cell involvement 2 High burden on function & quality of life1 Idiopathic inflammatory myopathies (IIMs, or myositis) are a group of autoimmune diseases characterized by
+inflammation and muscle weakness Typically, mid-adult onset & more common in females Symptoms may include weakness, fatigue, pain, shortness of breath and difficulty swallowing Mainstay of therapy is glucocorticoids with a steroid-sparing agent
+(i.e. methotrexate, azathioprine, rituximab), and increasing use of IVIg (intravenous immunoglobulin) Many patients have disease that remains refractory Therapies carry potential long-term side effects High mortality rate due to interstitial lung
+disease (ILD), cardiovascular disease and/or malignancy CABA-201
+
+CABA-201 to be evaluated in
+patients with active myositis, including DM, ASyS & IMNM Phase 1/2 study design for CABA-201 in patients with myositis DM – Dermatomyositis; ASyS – Anti-synthetase syndrome; IMNM – Immune-mediated necrotizing myopathy Subjects
+will be treated with a standard preconditioning regimen consisting of fludarabine and cyclophosphamide prior to a single dose CABA-201. Mackensen, Andreas, et al. "Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus." Nature
+Medicine (2022): 1-9. Müller, Fabian, et al. "CD19-targeted CAR T cells in refractory antisynthetase syndrome." The Lancet (2023). Phase 1/2 Study of CABA-201 Open label trial to evaluate CABA-201 in subjects with active idiopathic inflammatory
+myopathy (IIM, or myositis) CABA-201 Key Inclusion Criteria Age ≥ 18 to ≤ 65 years Evidence of active disease Disease activity despite prior or current treatment with standard of care treatments Key Exclusion Criteria Cancer-associated
+myositis Significant lung or cardiac impairment Treatment with B cell depleting agent within ~6 months Treatment with biologic agent within ~3 months Parallel Cohorts SCREENING CABA-201 INFUSION MONITORING Next Patient Study Endpoint &
+Objectives Primary objective: Safety & tolerability of CABA-201 in subjects with active myositis within 28 days of infusion Key secondary objectives include CABA-201 effects on: Myositis clinical disease activity; Myositis serology; and
+Pharmacokinetics / pharmacodynamics Dose of 1x106 cells/kg1 Equivalent to dose of 4-1BB-containing CD19-CAR T used in recent academic studies2,3 ASyS (N = 6) IMNM (N = 6) DM (N = 6) Consistent track record of execution by team across multiple
+clinical studies evaluating novel cell therapy candidates for patients with autoimmune diseases
+
+Up to 320,000 SLE patients in the
+U.S., ~40% with LN, who face increased risk of kidney failure & death SLE & Lupus Nephritis: High unmet clinical need Helmick CG, Felson DT, Lawrence RC, Gabriel S, Hirsch R, Kwoh CK, Liang MH, Kremers HM, Mayes MD, Merkel PA, Pillemer SR,
+Reveille JD, Stone JH; National Arthritis Data Workgroup. Estimates of the prevalence of arthritis and other rheumatic conditions in the United States. Part I. Arthritis Rheum. 2008 Jan;58(1):15-25. Tian, J., Zhang, D., Yao, X., Huang, Y., & Lu,
+Q. (2023). Global epidemiology of systemic lupus erythematosus: a comprehensive systematic analysis and modelling study. Annals of the Rheumatic Diseases, 82(3), 351-356. Hoover PJ, Costenbader KH. Insights into the epidemiology and management of
+lupus nephritis from the US rheumatologist's perspective. Kidney Int. 2016 Sep;90(3):487-92. Lewis, M. J., & Jawad, A. S. (2017). The effect of ethnicity and genetic ancestry on the epidemiology, clinical features and outcome of systemic lupus
+erythematosus. Rheumatology, 56(suppl_1), i67-i77. Hahn, B. H., Mcmahon, M. A., Wilkinson, A., Wallace, W. D., Daikh, D. I., Fitzgerald, J. D., ... & Grossman, J. M. (2012). American College of Rheumatology guidelines for screening, treatment,
+and management of lupus nephritis. Arthritis care & research, 64(6), 797-808. CABA-201 Within 10 years of LN diagnosis: End-stage renal disease: 17%3 Mortality: 12%5 Current therapies include steroids, immunosuppressive agents and biologics3
+Many patients progress and/or relapse Significant risk of adverse effects Require long-term administration SLE is a chronic autoimmune disease that affects ~160-320K1 patients in the U.S. & over 3 million people worldwide2 Potential for
+life-threatening complications Disproportionately affects young women people of color3,4 Significant unmet need remains despite current therapies, which require chronic administration and carry significant treatment-related risks Lupus nephritis
+(LN) is a serious complication of SLE, affecting ~40% of SLE patients3 Skin & mucosa Kidneys Heart Joints, muscles & bones Immune system abnormalities Blood Neurological Lungs Potential  SLE Manifestations
+
+CABA-201 to be evaluated in
+patients with active SLE with or without renal involvement Phase 1/2 study design for CABA-201 in patients with SLE SLE – Systemic lupus erythematosus; EULAR – European League Against Rheumatism; ACR – American College of
+Rheumatology Subjects will be treated with a standard preconditioning regimen consisting of fludarabine and cyclophosphamide prior to a single dose CABA-201. Mackensen, Andreas, et al. "Anti-CD19 CAR T cell therapy for refractory systemic lupus
+erythematosus." Nature Medicine (2022): 1-9. Müller, Fabian, et al. "CD19-targeted CAR T cells in refractory antisynthetase syndrome." The Lancet (2023). Phase 1/2 Study of CABA-201 Open label trial to evaluate CABA-201 in subjects with active
+SLE CABA-201 Key Inclusion Criteria Age ≥ 18 to ≤ 65 years Clinical SLE per the 2019 EULAR/ACR classification criteria Positive ANA titer or anti-dsDNA antibody Disease activity despite prior or current treatment with standard of care
+Key Exclusion Criteria Treatment with B cell depleting agent within 6 months Treatment with biologic agent within 3 months Consistent track record of execution by team across multiple clinical studies evaluating novel cell therapy candidates for
+patients with autoimmune diseases Fast Track Designation SLE with lupus nephritis (N = 6) SLE without renal involvement (N = 6) Parallel Cohorts SCREENING CABA-201 INFUSION MONITORING Next Patient Study Endpoint & Objectives Primary objective:
+Safety & tolerability of CABA-201 in subjects with SLE with active LN or SLE without renal involvement within 28 days of infusion Key secondary objectives include CABA-201 effects on: SLE clinical disease activity, and SLE serology, as well as
+Pharmacokinetics / pharmacodynamics Dose of 1x106 cells/kg1 Equivalent to dose of 4-1BB-containing CD19-CAR T used in recent academic studies2,3
+
+Our product candidate, people &
+partnership enable accelerated progress while integrating unique insights Accelerating development of CABA-201 for autoimmune diseases SLE – Systemic lupus erythematosus Peng, Binghao J, et al. “Preclinical specificity and activity of
+CABA-201, a fully human 4-1BB containing CD19 CAR T therapy for treatment-resistant autoimmune disease.” Poster presented at: American Society Gene and Cell Therapy 26th Annual Meeting; 2023 May 19; Los Angeles, CA. Dai, Zhenyu, et al.
+"Development and functional characterization of novel fully human anti‐CD19 chimeric antigen receptors for T‐cell therapy." Journal of Cellular Physiology 236.8 (2021): 5832-5847. Mackensen, Andreas, et al. "Anti-CD19 CAR T cell therapy
+for refractory systemic lupus erythematosus." Nature Medicine (2022): 1-9. Müller, Fabian, et al. "CD19-targeted CAR T cells in refractory antisynthetase syndrome." The Lancet (2023). Partnership – Exclusive translational research
+partnership has provided early, actionable insights Scientific and clinical data sharing has significantly impacted our timelines as well as clinical strategy and design CABA-201 Efficient clinical trial designs for CABA-201 facilitate rapid &
+broad development program Product – Candidate with 4-1BB co-stim domain; similar binding activity to academic CD19-CAR T1-4 Efficient clinical trial designs across multiple autoimmune diseases CABA-201 fully human binder clinical tolerability
+profile based on use in ~20 oncology patients 4-1BB co-stimulatory domain identical to that used in academic CD19-CAR T study1,2 People – Singular focus on potentially curative cell therapies for autoimmune disease since 2018 Deep
+understanding and experience with logistically complicated cell therapy programs in autoimmune patients Novel insights on clinical designs from prior FDA discussions and 4 timely submitted and cleared IND filings Track record at a dozen US sites
+with implementation of complicated cell therapy logistics in autoimmune patients Leadership with experience developing both SLE products that were FDA approved in the past 65 years 1 2 3
+
+Chimeric AutoAntibody Receptor T
+Cells DSG3-CAART & MuSK-CAART
+
+Current treatments require broad
+immunosuppression associated with safety risks and transient efficacy Overview of pemphigus vulgaris & current treatment landscape Image credit: D@nderm. http://www.vgrd.org/archive/cases/2004/pv/DSCN4996%20copy.JPG Joly, Pascal, et al.
+"First-line rituximab combined with short-term prednisone versus prednisone alone for the treatment of pemphigus (Ritux 3): a prospective, multicentre, parallel-group, open-label randomised trial." The Lancet 389.10083 (2017): 2031-2040.
+Werth, Victoria P., et al. "Rituximab versus Mycophenolate Mofetil in Patients with Pemphigus Vulgaris." New England Journal of Medicine (2021). Rituximab label, 08/2020 revision. Kushner, Carolyn J., et al. "Factors Associated With Complete
+Remission After Rituximab Therapy for Pemphigus." JAMA dermatology (2019). Tony, Hans-Peter, et al. "Safety and clinical outcomes of rituximab therapy in patients with different autoimmune diseases: experience from a national registry
+(GRAID)." Arthritis research & therapy 13.3 (2011): 1-14. CROT = 8+ weeks without lesions while off systemic therapy Mucosal PV1 (25%) Associated Antibody Anti-DSG3 Anti-DSG3 + Anti-DSG1 Clinical Signs Painful blisters of the mucous membranes
+(mouth, nose, larynx, esophagus, eyes, genitalia, rectum) Blisters on orifices and skin U.S. Disease Prevalence 3,250 to 4,750 9,750 to 14,250 Mucocutaneous PV2 (75%) DSG3-CAART Transient remission Broad immunosuppression3,6 Rituximab plus steroids
+(~3,500 mg/yr)4 Modestly effective & poorly tolerated 8+ weeks6 16+ weeks4,5 % of patients failing to achieve any 8+ or 16+ weeks without lesions or medicines Not Achieved Achieved ~30% relapse in 1 year & >50% relapse in 2 years6 Safety
+risks 22% annual serious adverse event (SAE) rate4 4-9%3,4,5 annual risk of severe infection in PV ~1.9% lifetime risk of fatal infection7
+
+Favorable tolerability to date, but
+only modest persistence increase observed with IVIg & Cy Ongoing DesCAARTes™ study in patients with mucosal PV Volkov J, et al. “Correlative findings following DSG3-CAART infusion with & without combination preconditioning
+therapy in patients with Pemphigus Vulgaris (DesCAARTes study).” Poster presented at: American Society Gene and Cell Therapy 26th Annual Meeting; 2023 May 18; Los Angeles, CA. * 20M, 2.5B, 5.0B to 7.5B and 10B to 15B refers to the number of
+DSG3-CAART cells infused for patients in dosing cohorts A1 to A6m (M – millions; B – billions). Fast Track Designation Cohorts Combination (Pre-Treatment) Dose* A1 – A4 -- 20M to 2.5B A5 -- 5 to 7.5B A6m -- Up to 15B P4 IVIg /
+Cyclophosphamide (Cy) 2.5B P4F IVIg / Cy / Fludarabine (Flu) 2.5B Primary objective: Determine the maximum tolerated dose of DSG3-CAART Primary endpoint: Adverse events, including dose-limiting toxicities (DLTs), related to DSG3-CAART within 3
+months of infusion DSG3-CAART DesCAARTes™ study of DSG3-CAART Ongoing open-label Phase 1 study to determine the maximum tolerated dose & to evaluate safety of DSG3-CAART Fast Track Designation Orphan Drug Designation * Range of persistence
+observed in CD19-CAR T studies in B cell malignancies * DSG3-CAART Peak Persistence1 Combination cohort (P4F) with fludarabine / Cy / IVIg currently enrolling and designed to evaluate the ability to improve DSG3-CAART engraftment & persistence
+
+Study timelines being evaluated
+based on emerging data from DesCAARTes™ study High unmet need in MuSK myasthenia gravis MusCAARTes™ study of MuSK-CAART Ongoing open-label study to determine the maximum tolerated dose & to evaluate safety of MuSK-CAART Part Cohort
+Subjects A – Monotherapy Dose Escalation7 Dose increasing from 500M with 2 (+4) design A1-A3 2 (+4) per cohort A – Adaptive Combination Cohorts7 Combination cohorts8, starting at A2 dose A4+ 2 (+4) per cohort B – Expansion Expanded
+subject enrollment at final selected dose B ~12 MuSK-CAART IgG4-dominant disease Autoantibody titers drop after rituximab1,2 Pathogenic B cells incompletely eliminated by rituximab and persist during relapse3 Circulating anti-MuSK antibody titers
+may be ~90% lower than anti-DSG3 antibody in PV4,5,6 1 2 Study Endpoint & Objectives Primary Endpoint: Adverse Events, including DLT Secondary & Tertiary Objectives: CAART expansion/persistence, effect on serum anti-MuSK antibody titer, use
+of concomitant systemic medications, effect on clinical symptoms, manufacturing success rate Compelling biologic rationale, similar to PV Differentiated market opportunity Total U.S. MG prevalence 50,000 to 80,000 patients MuSK+ MG comprises 6-7.5%
+of total MG population Compared to AChR+ MG, MuSK+ disease is typically more severe with limited treatment options MuSK+ disease has early onset, 7:1 females * 500M refers to the number of MuSK-CAART cells infused for patients in dosing cohort A1 (M
+– millions). Hain, Berit, et al. "Successful treatment of MuSK antibody–positive MG with rituximab." Muscle & Nerve. 33.4 (2006): 575-580. Illa, Isabel, et al. "Sustained response to Rituximab in anti-AChR and anti-MuSK positive
+Myasthenia Gravis patients." Journal of neuroimmunology 201 (2008): 90-94. Jiang, Ruoyi, et al. "Single-cell repertoire tracing identifies rituximab-resistant B cells during myasthenia gravis relapses." JCI insight 5.14 (2020). Matthews, Ian, et al.
+"Muscle-specific receptor tyrosine kinase autoantibodies—a new immunoprecipitation assay." Clinica chimica acta 348.1-2 (2004): 95-99. McConville, John, et al. "Detection and characterization of MuSK antibodies in seronegative myasthenia
+gravis." Annals of neurology 55.4 (2004): 580-584. Marino, Mariapaola, et al. "Long-lasting rituximab-induced reduction of specific—but not total—IgG4 in MuSK-positive myasthenia gravis." Frontiers in immunology 11 (2020): 613.
+A total of 6 subjects will need to have received the final selected dose in Part A of the study. Cohorts A3 and A4 will be enrolled concurrently after cohort A2 is well-tolerated with a preference for enrollment into A4. Fast Track Designation
+Orphan Drug Designation
+
+Corporate Summary
+
+Three-stage approach allows for
+efficient allocation of capital while leveraging experienced partners Manufacturing strategy Currently contracted for MuSK-CAART product candidate. Stage 3: Commercialization & Scale-Up Data-gated, staged investment Stage 1: Penn Stage 2: CDMOs
+& CABA Process Cell processing capacity secured through Penn partnership SOPs previously used to develop multiple clinical stage CAR T products Clinical vector validated CDMOs for vector and cell processing with commercial support capabilities
+Leasing followed by engineering and build out of Cabaletta-owned manufacturing facility, and/or Establishment of a strategic partnership to rapidly & reliably scale manufacturing, leveraging the partner’s manufacturing expertise 2021
+– 2019 – 1 1
+
+BOARD OF DIRECTORS Cabaletta Bio
+leadership LEADERSHIP TEAM Anup Marda Chief Financial Officer Arun Das, M.D. Chief Business Officer David J. Chang, M.D., M.P.H., FACR Chief Medical Officer Martha O’Connor Chief HR Officer Michael Gerard General Counsel Steven Nichtberger,
+M.D. President, CEO & Chairman Heather Harte-Hall Chief Compliance Officer Samik Basu, M.D. Chief Scientific Officer Gwendolyn Binder, Ph.D. President, Science & Technology SCIENTIFIC ADVISORY BOARD Track record of operational success
+evaluating novel cell therapy candidates in autoimmunity across preclinical, clinical, manufacturing & regulatory domains Aimee Payne, M.D., Ph.D. Co-Founder and Co-Chair Michael C. Milone, M.D., Ph.D. Co-Founder and Co-Chair Carl June, M.D. Jay
+Siegel, M.D. Brian Daniels, M.D. Steven Nichtberger, M.D. Richard Henriques, M.B.A. Scott Brun, M.D. Mark Simon, M.B.A. Catherine Bollard, M.D. Drew Weissman, M.D., Ph.D. Iain McInnes, Ph.D., FRCP, FRSE, FMedSci Georg Schett, M.D. Shawn Tomasello,
+M.B.A.
+
+Leveraging years of experience with
+cellular therapy in autoimmunity to initiate CABA-201 clinical trials Cabaletta®: Pursuing cures for a broad range of autoimmune diseases CARTA – Chimeric Antigen Receptor T cells for Autoimmunity; CAART – Chimeric AutoAntibody
+Receptor T cells; IND – Investigational New Drug; SLE – Systemic lupus erythematosus; DM – Dermatomyositis; ASyS – Anti-synthetase syndrome; IMNM – Immune-mediated necrotizing myopathy Mackensen, Andreas, et al.
+"Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus." Nature Medicine (2022): 1-9. Müller, Fabian, et al. "CD19-targeted CAR T cells in refractory antisynthetase syndrome." The Lancet (2023). Dai, Zhenyu, et al.
+"Development and functional characterization of novel fully human anti‐CD19 CARs for T‐cell therapy." Journal of Cellular Physiology 236.8 (2021): 5832-5847. Assumes no dose-limiting toxicities are observed in the cohort and
+uninterrupted enrollment occur in the trials. Advancing SLE & myositis trials with efficient designs – including starting dose & parallel cohorts 1.0 x 106 cells/kg initial dose of CABA-201 is identical to dose used in academic SLE1
+and myositis2 studies Parallel cohorts with 6 patients each – SLE study with 1) LN & 2) Non-renal SLE; myositis study with 1) DM, 2) ASyS & 3) IMNM CABA-201 has been specifically engineered for patients with autoimmune diseases Fully
+human CD19 binder with data in ~20 oncology patients – clinical safety profile supporting further evaluation in autoimmunity Same 4-1BB costimulatory domain and similar CD19 binder affinity3 as used in the academic SLE1 & myositis studies2
+Potential to cure a broad range of autoimmune diseases where B cells have a role initiating or maintaining disease DesCAARTes™ trial of DSG3-CAART in mucosal pemphigus vulgaris Enrolling in combination sub-study cohort using pre-treatment with
+IVIg, cyclophosphamide and fludarabine MusCAARTes™ trial in MuSK myasthenia gravis – leveraging insights from experience with DSG3-CAART Initiated in 4Q22; received FDA Fast Track Designation & Orphan Drug Designation CARTA Strategy
+| CABA-201 (4-1BB CD19-CAR T) to be evaluated in SLE & myositis Phase 1/2 studies CAART Strategy | DSG3-CAART & MuSK-CAART clinical studies evaluating combination regimens Initial CABA-201 3-month clinical efficacy and tolerability data
+expected by 1H244
+
+Corporate Presentation JULY
+2023

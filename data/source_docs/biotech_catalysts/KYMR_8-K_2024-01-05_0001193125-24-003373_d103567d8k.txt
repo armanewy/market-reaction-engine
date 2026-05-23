@@ -1,0 +1,317 @@
+8-K
+
+false 0001815442 0001815442 2024-01-04 2024-01-04
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 4, 2024
+
+ 
+
+ 
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39460
+
+ 
+
+81-2992166
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Kymera Therapeutics, Inc.
+
+200 Arsenal Yards Blvd., Suite 230
+
+Watertown, Massachusetts 02472
+
+(Address of principal executive offices, including zip code)
+
+(857) 285-5300
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+KYMR
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement
+
+On January 4, 2024, Kymera Therapeutics, Inc. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with Morgan Stanley & Co. LLC, J.P. Morgan Securities LLC and Cowen and Company, LLC, as representatives (the “Representatives”) of the underwriters listed in Schedule II thereto (the “Underwriters”), pursuant to which the Company agreed to issue and sell an aggregate of (a) 2,250,495 shares (the “Shares”) of its common stock, par value $0.0001 per share (the “Common Stock”), at a price to the public of $25.25 per share, and (b) pre-funded warrants to purchase up to 8,640,594 shares of the Company’s Common Stock (the “Pre-Funded Warrants”), at a price to the public of $25.2499 per warrant, which represents the per share public offering price for the Shares less the $0.0001 per share exercise price for each such Pre-Funded Warrant (the “Offering”). Under the terms of the Underwriting Agreement, the Company granted the Underwriters an option, for a period of 30 days after the date of the Prospectus Supplement (as defined below), to purchase up to an additional 1,633,663 shares of the Company’s Common Stock (the “Option Shares”) at the public offering price, less underwriting discounts and commissions, which the Underwriters exercised in full on January 5, 2024.
+
+The Company estimates that the net proceeds of this offering, after deducting underwriting discounts and commissions and estimated offering expenses, will be approximately $301.1 million. The Company may receive nominal proceeds, if any, from the exercise of the Pre-Funded Warrants. The Company intends to use the net proceeds from the Offering to continue to advance its pipeline of preclinical and clinical degrader programs that are designed to address large patient populations with significant need and clear commercial opportunity, and for working capital and other general corporate purposes. The Company expects the Offering to close on January 9, 2024, subject to the satisfaction of customary closing conditions.
+
+Each Pre-Funded Warrant will be exercisable for one share Common Stock at an exercise price of $0.0001 per share, or alternatively, at the election of each holder, shares of Common Stock may be issued through a cashless exercise, with the net number of shares of Common Stock determined according to the formula set forth in each Pre-Funded Warrant. The Pre-Funded Warrants are exercisable at any time after the date of issuance. The Pre-Funded Warrants will be immediately exercisable and may be exercised at any time until all of the Pre-Funded Warrants are exercised in full. A holder (together with its “attribution parties,” as defined in the Pre-Funded Warrant) may not exercise any portion of the Pre-Funded Warrants if immediately after exercise, the holder (together with its attribution parties), would beneficially own in excess of 19.99% of the number of shares of Common Stock outstanding immediately after giving effect to the exercise (the “Ownership Limit”). Purchasers of the Pre-Funded Warrants will elect to set the initial Ownership Limit at either 4.99% or 9.99% prior to the closing of the Offering. Upon at least 61 days’ prior notice from the holder to the Company, the holder may decrease or increase the Ownership Limit up to 19.99%.
+
+In addition, if the exercise of a Pre-Funded Warrant would result in a holder of Pre-Funded Warrants (together with its attribution parties) acquiring beneficial ownership equal to or in excess of the notification threshold applicable to such holder (the “HSR Threshold”) under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “HSR Act”), as of the date of delivery of the applicable exercise notice, and no exemption to filing a notice and report form under the HSR Act is applicable, then only such portion of the Pre-Funded Warrants held by such holder, which when exercised does not exceed the HSR Threshold, shall be exercisable and the applicable exercise notice shall be deemed to relate only to such portion of the Pre-Funded Warrants, and the remaining portion of the Pre-Funded Warrants in excess of the HSR Threshold shall not be exercisable until the expiration or early termination of the applicable waiting period under the HSR Act or receipt of applicable approval. The Company does not intend to list the Pre-Funded Warrant on The Nasdaq Global Market, any other national securities exchange or any other nationally recognized trading system.
+
+The Company made certain customary representations, warranties and covenants concerning the Company, the registration statement and the Prospectus Supplement in the Underwriting Agreement and also agreed to indemnify the Underwriters against certain liabilities, including liabilities under the Securities Act of 1933, as amended (the “Securities Act”). The Offering is being made pursuant to a prospectus supplement, dated January 4, 2024 (the “Prospectus Supplement”), filed with the Securities and Exchange Commission (“SEC”) on January 5, 2024 and an accompanying base prospectus that forms a part of the registration statement on Form S-3ASR (File No. 333-259955), filed with the SEC on October 1, 2021 and that was effective upon filing with the SEC. This Current Report on Form 8-K does not constitute an offer to sell or a solicitation of an offer to buy any of the Shares, the Option Shares or the Pre-Funded Warrants.
+
+ 
+
+The foregoing descriptions of the Underwriting Agreement and the terms of the Pre-Funded Warrants do not purport to be complete descriptions of the rights and obligations of the parties thereunder, and are qualified in their entirety by reference to the full text of the Underwriting Agreement and the form of Pre-Funded Warrant that are filed as Exhibits 1.1 and 4.1 to this Current Report on Form 8-K, respectively, and are incorporated by reference herein. A copy of the opinion of Goodwin Procter LLP, relating to the validity of the Shares, the Option shares and the Pre-Funded Warrants in connection with the Offering, is filed as Exhibit 5.1 to this Current Report on Form 8-K.
+
+ 
+
+Item 2.02
+
+Results of Operations and Financial Condition.
+
+In connection with the Offering, the Company filed the Prospectus Supplement with the SEC, which contains certain information regarding the Company’s results of operations or financial condition for the year ended December 31, 2023, as set forth below.
+
+As of December 31, 2023, the Company estimates that it had cash, cash equivalents and marketable securities of approximately $436 million. Estimated cash balance does not reflect a $15 million milestone payment due under its collaboration agreement with Sanofi S.A., which the Company expects to receive in January 2024 and was recorded as a collaboration receivable as of December 31, 2023. This financial data as of December 31, 2023 is preliminary and may change, and is based on information available to management as of the date of the prospectus supplement and is subject to completion by management of the Company’s financial statements as of and for the three months and year ended December 31, 2023. There can be no assurance that the Company’s final cash position as of December 31, 2023 will not differ from these estimates, including as a result of review adjustments and any such changes could be material. This preliminary estimate has been prepared by, and is the responsibility of, the Company’s management and is based on a number of assumptions. The Company’s independent registered public accountants have not audited, reviewed, compiled or performed any procedures with respect to such preliminary financial data as of and for the three months and the year ended December 31, 2023 and accordingly do not express an opinion or any other form of assurance with respect to this preliminary amount. These results could change as a result of further review. Complete results will be included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2023.
+
+The information included in this Current Report on Form 8-K pursuant to this Item 2.02 shall be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and shall be incorporated by reference into any registration statement or other document filed pursuant to the Securities Act of 1933, as amended, that incorporates by reference this Current Report on Form 8-K.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+On January 4, 2024, the Company issued a press release announcing the launch of the Offering. On January 5, 2024, the Company issued a press release announcing it had priced the Offering. Copies of the press releases are filed as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+Based on the Company’s current plans, the Company believes its existing cash, cash equivalents and marketable securities, together with the net proceeds from the Offering and the $15.0 million milestone payment due under our collaboration agreement with Sanofi, will be sufficient to fund its operations into the first half of 2027. The Company has based this estimate on assumptions that may prove to be wrong, and could use its available capital resources sooner than its expects.
+
+Cautionary Note Regarding Forward Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve estimates, assumptions, risks and uncertainties. Forward-looking statements include, but are not limited to, statements related to the amount of proceeds expected from the Offering, the timing and certainty of completion of the Offering and expected cash runway into the first half of 2027. The risks and uncertainties relating to the Company and the Offering include general market conditions, the Company’s ability to complete the Offering on favorable terms, or at all, as well as other risks detailed from time to time in the Company’s filings with the SEC, including in its Annual Report on Form 10-K for the year ended December 31, 2022 and in its Quarterly Report on Form 10-Q for the quarter ended September 30, 2023 and the Prospectus Supplement. These documents contain important factors that could cause actual results to differ from current
+
+expectations and from the forward-looking statements contained in this Current Report on Form 8-K. These forward-looking statements speak only as of the date of this Current Report on Form 8-K and the Company undertakes no obligation to publicly update any forward-looking statements to reflect new information, events or circumstances after the date of this Current Report on Form 8-K.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+1.1
+
+  
+
+Underwriting Agreement, dated January 4, 2024, by and among Kymera Therapeutics, Inc. and Morgan Stanley & Co. LLC, J.P. Morgan Securities LLC and Cowen and Company, LLC.
+
+4.1
+
+  
+
+Form of Pre-Funded Warrant.
+
+5.1
+
+  
+
+Opinion of Goodwin Procter LLP.
+
+23.1
+
+  
+
+Consent of Goodwin Procter LLP (contained in Exhibit 5.1).
+
+99.1
+
+  
+
+Launch Press Release dated January 4, 2024.
+
+99.2
+
+  
+
+Pricing Press Release dated January 5, 2024.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Kymera Therapeutics, Inc.
+
+Date: January 5, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Nelo Mainolfi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nello Mainolfi, Ph. D.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

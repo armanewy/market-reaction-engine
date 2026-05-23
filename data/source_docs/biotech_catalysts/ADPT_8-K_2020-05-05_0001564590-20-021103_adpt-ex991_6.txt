@@ -1,0 +1,124 @@
+EX-99.1
+2
+adpt-ex991_6.htm
+EX-99.1 PRESS RELEASE DATED MAY 5, 2020
+
+adpt-ex991_6.htm
+
+Exhibit 99.1
+
+ 
+
+Adaptive Biotechnologies and Microsoft launch virtual ImmuneRACE study to inform novel COVID-19 diagnostics to address unmet needs in testing
+
+ 
+
+LabCorp, through its Covance drug development business, will provide a safe, in-person COVID-19 sample collection service from the convenience of patients’ homes
+
+ 
+
+De-identified data about immune response to COVID-19 will be made freely available to advance public health solutions
+
+ 
+
+SEATTLE and REDMOND, Wash. — May 5, 2020 — Adaptive Biotechnologies Corp. (Nasdaq: ADPT) announced on Tuesday it has begun enrolling a virtual clinical study, ImmuneRACE, as part of a broader effort it has undertaken with Microsoft Corp. (Nasdaq: MSFT) to rapidly map and measure the immune response to the COVID-19 virus to inform improved diagnostics to fulfill the need for more reliable testing. The study calls for 1,000 participants in select U.S. metropolitan areas impacted by COVID-19. De-identified data will be made freely available to public health officials, academia and industry to help accelerate solutions to the pandemic. LabCorp (NYSE: LH), through its Covance drug development business, will manage the collection of blood samples and nose/throat swabs from participants in the comfort and safety of their own homes.
+
+Additional multimedia resources are available at https://www.adaptivebiotech.com/about-us/media-resources/.
+
+There are currently two types of tests for COVID-19. PCR tests indicate the presence of live virus from a nose or throat swab, and serology tests indicate exposure to and potential immunity against the virus by measuring the presence of antibodies in the blood. Adaptive and Microsoft believe a third type of test can potentially help address current challenges with testing, resulting in the following scenarios:  
+
+ 
+
+•
+
+Complementary or alternative diagnostic testing for individuals with known exposures or symptoms
+
+ 
+
+•
+
+Ability to triage patients and inform treatment strategies based on risk
+
+ 
+
+•
+
+Ongoing immunity surveillance testing of the population to inform decisions on restrictions
+
+“We’ve spent the past decade learning how the adaptive immune system naturally detects and treats all disease, and we are well-positioned to apply our immune medicine platform specifically to COVID-19. We’re hopeful that we can contribute important information that will
+
+become part of an immune scan to help reopen society,” said Chad Robins, CEO and co-founder of Adaptive Biotechnologies. “As many are sheltering in place wondering how they can help, we wanted to launch ImmuneRACE with Microsoft and give people an opportunity to participate. These efforts are complementary to many global initiatives underway to study the virus itself.”
+
+As part of the study, the partners will measure the presence of specialized cells of the immune system in the blood, called T cells, that identify the disease early on and proliferate to combat the infection. Together, Adaptive and Microsoft are mapping and measuring the immune response of T cells specific to many diseases and are now applying their combined capabilities to COVID-19.
+
+“We are dedicated to being part of the solution against COVID-19,” said Peter Lee, corporate vice president, AI and Research, Microsoft. “Immune response data may augment what we have been learning to date to help determine who is at greater risk of developing more severe symptoms and may help with future containment efforts. Anyone who has been affected by COVID-19 holds key information that can help contain and manage the virus.”
+
+In March, the companies announced an expansion of their existing partnership to use machine learning to map the immune system response to many different diseases, including infectious diseases, autoimmune disorders and cancer, at scale to study COVID-19. The information obtained from study participants, including how the immune system identifies the virus and how people are responding to the virus, will be integrated with data obtained from samples provided by hospitals and other institutions across the globe. The accuracy of the immune response signature will be continually improved and updated online in real time as more study samples are sequenced and by using Microsoft’s hyperscale machine learning capabilities and the Azure cloud platform.
+
+Other industry leaders, including Illumina and Providence, have also joined forces with Microsoft and Adaptive to accelerate this critical effort against COVID-19.
+
+How to Join ImmuneRACE
+
+ImmuneRACE will enroll 1,000 individuals from more than 20 metropolitan areas in the U.S. You can be part of the solution if you are between the ages of 18 and 89 and:
+
+ 
+
+•
+
+Currently have COVID-19
+
+ 
+
+•
+
+Have recently recovered from COVID-19
+
+ 
+
+•
+
+Were exposed to someone diagnosed with COVID-19
+
+If you decide to participate and qualify for the study, you will be asked to provide relevant information about your medical history, symptoms and previous diagnostic tests.
+
+Patients who qualify for the study can schedule a blood draw and swab collection in the convenience of their own home. The phlebotomist completing sample collection will be using appropriate personal protective equipment to safely conduct the visit when entering participant’s homes.
+
+Every effort will be made to ensure confidentiality of protected health information in accordance with HIPAA. Those wanting to participate or learn about more ways to join in the fight against COVID-19 should visit www.ImmuneRACE.com.
+
+About the Adaptive and Microsoft partnership
+
+Adaptive and Microsoft partnered in 2018 to create a TCR-Antigen Map, an approach to translating the genetics of the adaptive immune system to understand at scale how it works. Together we are using immunosequencing and machine learning to map T-cell receptor (TCR) sequences to diseases and disease-associated antigens. Using these data, we aim to develop a blood test for the early and accurate detection of many diseases, translating the natural diagnostic capability of the immune system into the clinic. In 2019, we confirmed clinical signals in two diseases, and established our first proof of concept in Lyme Disease. Adaptive expects to submit our first clinical application to the FDA in 2020.
+
+About Adaptive Biotechnologies
+
+Adaptive Biotechnologies is a commercial-stage biotechnology company focused on harnessing the inherent biology of the adaptive immune system to transform the diagnosis and treatment of disease. We believe the adaptive immune system is nature’s most finely tuned diagnostic and therapeutic for most diseases, but the inability to decode it has prevented the medical community from fully leveraging its capabilities. Our proprietary immune medicine platform reveals and translates the massive genetics of the adaptive immune system with scale, precision and speed to develop products in life sciences research, clinical diagnostics, and drug discovery. We have two commercial products, and a robust clinical pipeline to diagnose, monitor and enable the treatment of diseases such as cancer, autoimmune conditions and infectious diseases. Our goal is to develop and commercialize immune-driven clinical products tailored to each individual patient. For more information, please visit adaptivebiotech.com and follow us on www.twitter.com/adaptivebiotech.  
+
+About Illumina
+
+Illumina is improving human health by unlocking the power of the genome. Our focus on innovation has established us as the global leader in DNA sequencing and array-based technologies, serving customers in the research, clinical, and applied markets. Our products are used for applications in the life sciences, oncology, reproductive health, agriculture, and other emerging segments. To learn more, visit www.illumina.com and follow @illumina.
+
+About LabCorp
+
+LabCorp (NYSE: LH), an S&P 500 company, is a leading global life sciences company that is deeply integrated in guiding patient care, providing comprehensive clinical laboratory and end-to-end drug development services. With a mission to improve health and improve lives, LabCorp delivers world-class diagnostics solutions, brings innovative medicines to patients faster, and uses technology to improve the delivery of care. LabCorp reported revenue of more than $11.5 billion in 2019. To learn more about LabCorp, visit www.LabCorp.com, and to learn more about LabCorp’s Covance drug development business, visit www.Covance.com.
+
+About Providence
+
+Providence is a national, not-for-profit Catholic health system comprising a diverse family of organizations and driven by a belief that health is a human right. With 51 hospitals,
+
+1,085 physician clinics, senior services, supportive housing and many other health and educational services, the health system and its partners employ more than 119,000 caregivers serving communities across seven states – Alaska, California, Montana, New Mexico, Oregon, Texas, and Washington, with system offices in Renton, Wash., and Irvine, Calif.
+
+About Microsoft
+
+Microsoft (Nasdaq “MSFT” @microsoft) enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.
+
+For more information, press only:
+
+Microsoft Media Relations, WE Communications for Microsoft, (425) 638-7777, rrt@we-worldwide.com
+
+Beth Keshishian, Adaptive Media, (917) 912-7195, media@adaptivebiotech.com
+
+Lynn Lewis or Carrie Mendivil, Adaptive Investor, (415) 937-5405, investors@adaptivebiotech.com
+
+ 
+
+Note to editors: For more information, news and perspectives from Microsoft, please visit the Microsoft News Center at http://news.microsoft.com. Web links, telephone numbers and titles were correct at time of publication, but may have changed. For additional assistance, journalists and analysts may contact Microsoft’s Rapid Response Team or other appropriate contacts listed at https://news.microsoft.com/microsoft-public-relations-contacts.

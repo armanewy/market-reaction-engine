@@ -1,0 +1,48 @@
+EX-99.2
+3
+crsp-ex99_2.htm
+EX-99.2
+
+EX-99.2
+
+Exhibit 99.2
+
+Abstract Submission
+
+25. Gene therapy, cellular immunotherapy and vaccination - Clinical
+
+ 
+
+EHA-1957
+
+THE COBALT-LYM STUDY OF CTX130: A PHASE 1 DOSE ESCALATION STUDY OF CD70-TARGETED ALLOGENEIC CRISPR-CAS9–ENGINEERED CAR T CELLS IN PATIENTS WITH RELAPSED/REFRACTORY (R/R) T-CELL MALIGNANCIES
+
+Swaminathan P. Iyer* 1, R. Alejandro Sica2, P. Joy Ho3, Boyu Hu4, Jasmine Zain5, Anca Prica6, Wen-Kai Weng7, Youn H. Kim8, Michael S. Khodadoust9, M. Lia Palomba10, Francine M. Foss11, Kimberly Tipton12, Erika L. Cullingford12, Qiuling He 12, Anjali Sharma12, Steven M. Horwitz10
+
+1Department of Lymphoma and Myeloma, The University of Texas MD Anderson Cancer Center, Houston, 2Department
+
+of Oncology, Montefiore Medical Center, Albert Einstein Cancer Center, Bronx, United States of America, 3Institute of Haematology, Royal Prince Alfred Hospital, Camperdown, Australia, 4Division of Hematology and Hematologic Malignancies, Huntsman Cancer Institute, Salt Lake City, 5Department of Hematology and Hematopoietic Cell Transplantation, City of Hope, Duarte, United States of America, 6Princess Margaret Cancer Centre, Toronto, Canada, 7 Division of Blood and Marrow Transplantation and Cellular Therapy, 8Department of Dermatology, 9Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, 10Memorial Sloan Kettering Cancer Center,, New York , 11Department of Dermatology, Yale School of Medicine, New Haven, 12CRISPR Therapeutics, Cambridge, United States of America
+
+ 
+
+Background: Overall survival (OS) in a subset of patients (pts) with T-cell lymphoma (TCL) has improved with front-line combination chemotherapy; however, R/R TCL pts continue to have very limited treatment options. For pts with R/R peripheral (PTCL) and transformed cutaneous TCL (CTCL), median OS is 1-2.5 and <5 yrs, respectively. Adapting autologous chimeric antigen receptor (CAR) T cell therapy for TCL continues to be challenging due to poor function of donor T cells, fratricide effect, and risk of infusing transduced malignant CAR T cells into pts. CTX130TM is a first-in- class, CD70-targeting allogeneic (allo) CAR T therapy that may allow for CAR T therapy in pts whose own T cells are not ideal to manufacture auto CAR T cells. CD70 is a co-stimulatory protein with temporally limited expression on activated lymphocytes and is highly expressed in many TCLs. CTX130 is modified with CRISPR/Cas9-editing to eliminate expression of: 1) T-cell receptor (TCR) by TCR alpha constant disruption, 2) major histocompatibility complex class I expression by β2-microglobulin disruption, and 3) CD70 to mitigate fratricide and enhance performance.
+
+Aims: Investigate safety and efficacy of CTX130 in pts with R/R TCL.
+
+Methods: COBALTTM-LYM (NCT04502446) is an open-label, multicenter, global study evaluating the safety and efficacy of CTX130 in pts ≥18 y with CD70+ (≥10% by immunohistochemistry) R/R TCL (PTCL or CTCL). Pts with PTCL and CTCL must have received ≥1 or ≥2 prior lines of systemic therapy, respectively. Pts received lymphodepleting chemotherapy (LDC) with fludarabine 30mg/m2 and cyclophosphamide 500mg/m2 for 3 days, followed by CTX130. Pts were treated with CTX130 at doses from 3x107 (dose level [DL]1) to 9x108 (DL4) CAR+ T cells. Pts could receive a second course of CTX130 if response was not achieved but had experienced clinical benefit or disease progression. The primary endpoint is safety (incidence of dose limiting toxicities [DLTs]). Key secondary endpoints include overall response rate (ORR, by Lugano and ISCL criteria for PTCL and CTCL, respectively), disease control rate (DCR; ≥stable disease [SD]), duration of response and OS.
+
+Results: As of 6 Dec, 2021, 17 pts with TCL were enrolled; 15 received CTX130, were evaluable for a Day 28 assessment and are included in the analysis. Among the pts who received CTX130, median age was 67 y, 7 pts had PTCL, and 8 pts had CTCL. Median CD70 expression was 90% (range, 20-100%). Median follow up was 3.1 months. At DL ≥3, ORR was 71%, CR rate was 29% and DCR was 100% (Table). Responses were observed in PTCL (75% ORR at DL≥3) and CTCL (67% ORR at DL≥3) and across disease compartments. CTX130 had an acceptable safety profile across all DLs. There were no instances of graft versus host disease, tumor lysis syndrome, hemophagocytic lymphohistiocytosis, or infusion reactions with LDC or CTX130. There were no DLTs, no Grade (Gr) ≥3 cytokine release
+
+ 
+
+syndrome (CRS) or immune effector cell-associated neurotoxicity syndrome (ICANS); Gr 1-2 CRS and ICANS were 47% and 20%. There was no increase in frequency or severity of CRS in pts who received second infusions of CTX130. 1 pt (7%) experienced a Gr ≥3 infection. There was a sudden death in 1 pt with William’s syndrome in the context of a lung infection.
+
+Image:
+
+ 
+
+Summary/Conclusion: We have observed clinically meaningful responses, including CRs with CTX130, the first CAR T directed against the novel target, CD70. CTX130 has an acceptable safety profile in pts with heavily pretreated R/R TCL and will be investigated further in an expansion phase of the study.
+
+ 
+
+Keywords: CAR-T, Mycosis fungoides, Peripheral T-cell lymphoma, T cell lymphoma

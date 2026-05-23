@@ -1,0 +1,174 @@
+EX-99.1
+2
+d690370dex991.htm
+EX-99.1
+
+EX-99.1
+
+Corporate Presentation January 2024
+Exhibit 99.1
+
+This presentation contains
+forward-looking statements about Sana Biotechnology, Inc. (the “Company,” “we,” “us,” or “our”) within the meaning of the federal securities laws. All statements other than statements of historical
+facts contained in this presentation, including, among others, statements regarding the Company’s strategy, expectations, cash runway and future financial condition, future operations, and prospects, are forward-looking statements. In some
+cases, you can identify forward-looking statements by terminology such as “aim,” “anticipate,” “assume,” “believe,” “contemplate,” “continue,” “could,”
+“design,” “due,” “estimate,” “expect,” “goal,” “intend,” “may,” “objective,” “plan,” “positioned,” “potential,”
+“predict,” “seek,” “should,” “target,” “will,” “would” and other similar expressions that are predictions of or indicate future events and future trends, or the negative of
+these terms or other comparable terminology. The Company has based these forward-looking statements largely on its current expectations, estimates, forecasts and projections about future events and financial trends that it believes may affect its
+financial condition, results of operations, business strategy and financial needs. In light of the significant uncertainties in these forward-looking statements, you should not rely upon forward-looking statements as predictions of future events.
+These statements are subject to risks and uncertainties that could cause the actual results to vary materially, including, among others, the risks inherent in drug development such as those associated with the initiation, cost, timing, progress and
+results of the Company’s current and future research and development programs, preclinical studies, and clinical trials. For a detailed discussion of the risk factors that could affect the Company’s actual results, please refer to the
+risk factors identified in the Company’s SEC reports, including its Quarterly Report on Form 10-Q dated November 8, 2023. Except as required by law, the Company undertakes no obligation to update publicly any forward-looking statements for any
+reason. Cautionary Note Regarding Forward-Looking Statements 
+
+Sana’s hypoimmune technology
+goal is to overcome allogeneic rejection HIP technology provides foundation for potential multiple drugs across many therapeutic areas Begin 2024 with four clinical programs treating seven diseases SC291 oncology – NHL and CLL SC291 B-cell
+mediated autoimmune – lupus nephritis, extrarenal lupus, and ANCA-associated vasculitis SC262 oncology – r/r NHL, initially in CD19 CAR T failures HIP primary islet cells in patients with type 1 diabetes Pipeline positioned to deliver
+additional clinical data over time Regenerative medicine: SC379 (CNS disorders) and SC451 (type 1 diabetes) Hypoimmune allogeneic CAR T cells: SC255 (BCMA) and beyond Balance sheet allows potential for multiple data readouts Changing the
+Possible for Patients Sana Biotechnology
+
+Sana pipeline positioned to deliver
+meaningful clinical data 1Investigator sponsored trial. Abbreviations: AAV, ANCA-associated vasculitis; CLL, chronic lymphocytic leukemia; ERL, extrarenal systemic lupus erythematosus; HD, Huntington’s disease; LN, lupus nephritis; MM,
+multiple myeloma; NHL, non-Hodgkin lymphoma; PMD, Pelizaeus-Merzbacher Disease; SPMS, secondary progressive multiple sclerosis; T1D, type 1 diabetes; WW, worldwide. PRODUCT CANDIDATE MECHANISM INDICATIONS PRECLINICAL IND-ENABLING PHASE 1 PHASE 2/3
+SANA’S RIGHTS Oncology SC291 CD19-directed allo CAR T CD19-targeted allo CAR T NHL WW SC291 CD19-directed allo CAR T CD19-targeted allo CAR T CLL WW SC262 CD22-directed allo CAR T CD22-targeted allo CAR T NHL (CD19 failures) WW SC255
+BCMA-directed allo CAR T BCMA-targeted allo CAR T MM WW B-cell Mediated Autoimmune Diseases SC291 CD19-directed allo CAR T CD19-targeted allo CAR T LN WW SC291 CD19-directed allo CAR T CD19-targeted allo CAR T ERL WW SC291 CD19-directed allo CAR T
+CD19-targeted allo CAR T AAV WW SC291 CD19-directed allo CAR T CD19-targeted allo CAR T Other indications WW Regenerative Medicine UP421 HIP primary islet cells1 HIP Primary Islet Cells1 T1D WW SC451 Stem-cell derived pancreatic islet cells
+Stem-cell derived pancreatic islet cells T1D WW SC379 Glial progenitor cells Glial progenitor cells HD, PMD, SPMS WW ARDENT GLEAM VIVID ARDENT GLEAM GLEAM
+
+Allogeneic cell rejection ~75 years of
+transplants – immune rejection remains the largest problem Lifelong immunosuppression is current standard Genome modification efforts to date have generally been incomplete Autologous therapies have limited scalability and are only available
+for a small number of cell types Overcoming allogeneic immune rejection has been key limitation in transplant and cellular medicine Sana’s hypoimmune approach + CD47 - MHC I - MHC II Healthy donor cells Hypoimmune cells Disruption of MHC Class
+I & II expression Overexpression of CD47 1 2 3 Blocks adaptive immune system Blocks innate immune system Current clinical platform with multiple ongoing approaches in research phase.
+
+HIP-modified cells successfully
+transplanted in allogeneic models across various species and cells types Mouse iPSCs Mouse iPSC-derived endothelial cells Mouse iPSC-derived smooth muscle cells Mouse iPSC-derived cardiomyocytes NHP iPSCs (16 weeks follow-up) NHP donor-derived
+islets (40 weeks follow-up) NHP iPSC-derived cardiomyocytes NHP iPSC-derived retinal pigment epithelium (RPE) cells Human iPSCs Human iPSC-derived endothelial cells Human iPSC-derived smooth muscle cells Human iPSC-derived cardiomyocytes Human
+iPSC-derived pancreatic islet cells Human donor-derived islet cells Human donor-derived CAR T cells Mice NHPs Humanized mice
+
+HIP-modified allogeneic islet cells to
+control glucose in a type 1 diabetic NHP model Type 1 diabetes is a disease of missing pancreatic beta cells Abbreviations: NHP, non-human primate; STZ, Streptozotocin. Study Design (N=1)  NHP treated with STZ Glucose stabilized with exogenous
+insulin Allogeneic NHP primary islet cells isolated and HIP-modified Cells injected intramuscularly without immunosuppression STZ injection eliminates insulin production Transplant HIP-modified NHP islets Stabilize animal on exogenous insulin
+Insulin independence Key goals of study Demonstrate survival and function of HIP-modified allogeneic islet cells in diabetic NHP without immunosuppression Demonstrate long-term glucose normalization in diabetic NHP without exogenous insulin or
+immunosuppression Demonstrate the principle of graft ablation/safety switch with anti-CD47 antibody
+
+Study Design (N=1)  NHP primary
+islet cells isolated and HIP-modified Cells injected intramuscularly into a diabetic, allogeneic NHP without immunosuppression Fasting glucose Survival and function of allogeneic hypoimmune pancreatic islet cells in diabetic NHP 6 months without
+immunosuppression STZ administration Cell transplantation Normal Hypoglycemia Impaired glucose tolerance Hyperglycemia anti-CD47 antibody administration Insulin Dependent Insulin Independent Insulin Dependent AM PM Serum C-peptide Diabetic NHP
+Normal *
+
+1Avezbakiyev et al. Blood. 2022 2Durie
+et al. The Oncologist. 2020 3NIH Autoimmune Diseases Coordinating Committee: Autoimmune Diseases Research Plan, October 2017, U.S. 4t1dindex.org Near-term opportunities to apply HIP modifications to validated mechanisms with unmet need Blood
+cancers: >100,000 patients/year1,2 Type 1 diabetes: >8 million patients4 B-cell mediated autoimmune diseases: >5 million patients3
+
+Challenges Autologous CAR T cell
+scalability Many patients fail CAR T treatment Allogeneic CAR T cell immune rejection limits persistence and efficacy Opportunity Known targets Known efficacy and safety bar Sana’s HIP CAR T platform can address challenges and exploit
+opportunities Hematologic cancers continue to have a high unmet need 1Avezbakiyev et al. Blood. 2022 2Durie et al. The Oncologist. 2020 3Clarivate DRG NHL and MM Market Forecast Nov 2022; internal analysis of secondary EPI data. 4Scivida 2022 NHL
+Factbook Abbreviations: EU5, France, Germany, Italy, Spain, UK High mortality in lymphoma and myeloma in the US and EU5 ~250,000 annual incidence1,2 Over 100,000 deaths annually1,2 ~11,500 patients treated with CAR T in 20223 Estimated ~30 to 40% of
+patients treated with CAR T will experience durable complete responses4
+
+Understanding levels of evidence as
+data mature Defining success for SC291 in oncology Does SC291 evade allogeneic immune rejection? Do we make great T cells? How do early responses translate into durable CRs? Can we make the drug from multiple donors with a consistent and predictable
+safety and efficacy profile? 4 3 2 1
+
+3. LBCL* 4. LBCL** 5. MZL*** 6. CLL
+1. CLL 2. MCL ARDENT: 3 of 4 evaluable patients had at least a partial response, with 2 ongoing complete responses Clinical data as of: January 5, 2023 “evaluable” defined as patients treated with SC291 and had at least one disease
+assessment *Transformed DLBCL from FL. **Transformed DLBCL from MZL. ***Assessment ongoing as of January 5,2023. Dose Level 1 (60M CAR T cells) Dose Level 2 (120M CAR T cells) Patient Information Safety No dose limiting toxicities No SC291-related
+SAEs No CRS or ICANS No Grade 3 or higher infections Median 3 lines of prior therapy Standard lymphodepletion at Day -5 to -3 Progressive Disease (PD) Stable Disease (SD) Partial Response (PR) Complete Response (CR) Prior to Disease Assessment
+Ongoing Complete Response D28 Month 2 Month 3 6 patients treated to date; dose escalation ongoing Best Response PR CR SD CR
+
+Translating preclinical data to
+people Immune response data provide important early insights T Cell Population Genetic Modifications WT CAR T CD47-CD19 CAR dKO T HLA I/II deficient HIP CAR T CD47-CD19 CAR; HLA I/II deficient SC291 is a mixture of HIP and non-HIP CAR T cells Test
+the patient’s immune system against SC291 Cell Day 28 Ab NK cell Blood T cell Ab NK cell Blood WT CAR T dKO T HIP CAR T WT CAR T HIP CAR T 1 2 dKO T
+
+Patient T cells kill WT CAR T cells
+but do not kill dKO T cells or HIP CAR T cells Patient T cells kill WT CAR T cells Patient T cells do not kill dKO T cells Patient T cells do not kill HIP CAR T cells No Killing Killing No Killing Day 28 Baseline Day 28 Baseline Day 28 Baseline No
+Killing No Killing No Killing From Patient #1 in the ongoing ARDENT trial.
+
+WT CAR T cells induce an antibody
+response HIP CAR T cells do not induce an antibody response dKO T cells do not induce an antibody response Patient generates antibodies against WT CAR T cells but not dKO T cells or HIP CAR T cells From Patient #1 in the ongoing ARDENT
+trial.
+
+NK cells kill dKO T cells with
+HLA-E overexpression NK cells kill dKO T cells NK cells taken from patient’s blood Only HIP CAR T cells avoid NK cell killing Patient’s NK cells from day 13 after SC291 dosing T cell with editing profile in column title NK cells NK cells
+do NOT kill HIP CAR T cells Actual assay time = 4 hours. From Patient #1 in the ongoing ARDENT trial. still image before movie
+
+still image after movie
+
+D28 blood sample No detectable
+immune response in the patient toward HIP CAR T cells From patient #1 in the ongoing ARDENT trial. Target: WT CAR T cells Target: dKO T cells Target: HIP CAR T cells Killing No Killing Killing
+
+Early data suggest ability to dose
+safely, the desired immune evasion profile, and clinical efficacy More data to come Immune evasion Safety profile Response rate Cell persistence Durability of responses SC291: ARDENT trial continues enrollment with more data expected in 2024 An
+effective allogeneic CAR T cell therapy offers potential to transform outcomes for patients Allogeneic HIP CAR T cell MHC I MHC II + CD47 + CD19 CAR TCRα
+
+Autoimmune diseases have emerged as
+promising opportunity 1Adapted from Zhang et al. Frontiers in Immunology. 2023; Oh et al. Immune Network. 2023; Lee et al. Nature Reviews Drug Discovery. 2021. 2Anolik et al. Arthritis and Rheumatism 2007 3 Mendez et al. Clinical Journal of the
+American Society of Nephrology 2018 ​ SLE Vasculitis (granulomatosis with polyangiitis & microscopic polyangiitis) Neuromyelitis optical spectrum Pemphigus Relapsing and progressive MS Rheumatoid arthritis Lupus nephritis Sjogren syndrome
+NMDAR encephalitis Thrombocytopenic purpura Amyloidosis Scleroderma Autoimmune hemolytic anemia Chronic immune demyelinating polyradiculoneuropathy Immune-mediated necrotizing myopathy Membranous nephropathy B-cell targeting therapies have been
+efficacious across many autoimmune diseases1 Germinal center B cells are unaffected by rituximab treatment2 1 3 2 Depth of B cell depletion with treatment predicts efficacy in early trials3 Complete B-cell depletion resulted in greater complete
+responses in Lupus Nephritis patients2
+
+Autologous CD19 CAR T therapy
+results in durable drug-free remission in refractory SLE patients Mackensen et al. Nature Medicine. 2022 Abbreviations: BL, baseline; CRS, cytokine release syndrome; ICANS, immune effector cell-associated neurotoxicity syndrome; M, months; SLE,
+systemic lupus erythematosus. Well tolerated – mild CRS (Grade 1) and no ICANS seen 5/5 patients are in a durable complete remission and off all drugs All known disease biomarkers rapidly normalized and have remained so thus far 24+ months of
+drug-free remission seen in patients constituting a potential functional cure B-cell recovery and immune system reset in ~3 months with sustained SLE remission 20 15 10 5 0 SLEDAI-2K BL 3M BL 3M BL 3M BL 3M BL 3M SLE disease activity Pat_1 Pat_2
+Pat_3 Pat_4 Pat_5 Proteinuria BL 3M Urine protein/g creatinine 10,000 8,000 6,000 4,000 2,000 0 BL 3M 0 Anti-dsDNA antibodies (U ml-1) 100 200 300 400 Improvement in signs and symptoms of SLE after CD19 CAR T treatment
+
+ARDENT trial: SC291 treatment leads
+to deep B cell depletion in oncology patient From Patient #4 in the ongoing ARDENT trial. CD19 CD19+ cells in blood in %
+
+No anti-HLA antibody production
+against WT CAR T cells suggests complete B cell depletion HIP CAR T cells do not induce an antibody response dKO T cells do not induce an antibody response  Complete B cell depletion may be even more important in autoimmune than oncology
+patients From Patient #4 in the ongoing ARDENT trial.
+
+SC291 offers potential for
+transformative treatment for B-cell mediated autoimmune diseases Targeting multiple indications Lupus nephritis >230K1,2 patients3 Extrarenal SLE >200K1 patients3 ANCA-associated vasculitis >60K4 in US 1 2 3 1 2 3 4 No patient apheresis
+Product availability Scaled manufacturing Consistent T cell quality SC291 benefits versus autologous therapies Phase 1 trial – multiple autoimmune disorders 1Lu et al. Annals of Rheumatic Diseases. 2023 2Guzman et al. Arthritis Rheum. 2013
+3US, EU5, and Japan 4Jayne et al. ANCA-Associated Vasculitis: An Update
+
+Key features of Phase 1 trial
+(GLEAM) Patients with refractory lupus nephritis, extrarenal SLE, and AAV Starting dose of 90 million CAR T cells Potential to expand beyond these indications over time Data expected in 2024 from multiple indications Safety and tolerability Early
+response rates SC291: GLEAM Phase 1 trial goals are to understand safety, dose, and early efficacy An effective allogeneic CAR T offers potential to transform outcomes for patients Allogeneic HIP CAR T cell MHC I MHC II + CD47 + CD19 CAR
+TCRα
+
+SC262: Targeting growing population
+of patients with inadequate response to CD19 therapy 1US, EU5, and Japan.2Clarivate DRG NHL Market Forecast Nov 2021; 2027 Forecast is 2L+ LBCL patients; internal analysis of secondary EPI data.3Di Blasi et al. Blood.2022; DESCAR-T registry.
+Estimated ~12,000 B cell malignancy patients treated with CD19 CAR T in 20272 CD19 CAR T relapsed patients represent large and growing unmet need1 = 1,000 people Estimated ~35-40% of CAR T patients with durable complete responses4 Potential of
+~7,500 CAR T failures annually in 20272 Median survival of ~5 months post-CD19 CAR T therapy failure3 Expand our allo T platform to CD22 with Sana’s SC262 candidate Allogeneic HIP CAR T cell MHC I MHC II + CD47 + CD22 CAR TCRα
+
+2023 ASH Yi-Jiun Su N=38 SC262:
+Licensed CD22 CAR produced strong clinical data in CD19 failures when part of autologous CAR T N=16 N=21 >50% 6-month CR rate in CD19 CAR failure DLBCL patients High rate of CRs in CD19 failure ALL patients ~80% patients with prior CD19 therapy
+2022 ASH Miklos/Stanford 2018 Nature Med Fry, et al. CR CR VIVID Phase 1 Trial CD19 CAR T exposed relapsed and/or refractory NHL Adult subjects Dose escalation study Cell dose: 90M, 150M, and 250M Standard lymphodepletion Primary Endpoints: Safety
+and tolerability Secondary Endpoints: Patient response
+
+Disease caused by autoimmune
+destruction of insulin-producing pancreatic beta cells, resulting in no insulin production Type 1 diabetes is a large unmet need with >8M WW2 Short-term complications result from hypo- and hyperglycemia Long-term complications result from micro-
+and macrovascular disease and end-organ damage: including heart attack, stroke, blindness, and kidney failure SC451 goal is euglycemia without any immunosuppression or exogenous insulin Type 1 diabetes represents a large unmet need with a loss of
+~15 years of life1 1Rawshani et al. Lancet. 2018 2t1dindex.org DIGICOMPHOTO/SCIENCE PHOTO LIBRARY
+
+Sana – combining stem cell,
+gene editing, and immunology expertise Emerging data suggest a cure is possible Eliminate need for immunosuppression Primary islet cell transplants offer long-term glucose control with immunosuppression Stem-cell derived islets with
+immunosuppression can create an efficacious and potentially scalable supply. Goal – single treatment with long-term normal blood glucose without immunosuppression or insulin Drive to a cure 1 2 3
+
+Survival and function of allogeneic
+hypoimmune pancreatic islet cells in diabetic NHP 6 months without immunosuppression Study Design (N=1)  NHP primary islet cells isolated and HIP-modified Cells injected intramuscularly into a diabetic, allogeneic NHP without immunosuppression
+Fasting glucose STZ administration Cell transplantation Normal Hypoglycemia Impaired fasting glucose Hyperglycemia anti-CD47 antibody administration Insulin Dependent Insulin Independent Insulin Dependent AM PM
+
+D0 D3 D7 D5 D9 No glucose control
+Patient T cells eliminate islet cells due to autoimmunity Type 1 diabetes model highlights potential to overcome autoimmune rejection of pancreatic beta cells Abbreviations: T1DM, type 1 diabetes mellitus Hu et al. Sci Transl Med. 2023 Patient with
+T1DM PBMCs Autologous iPSC-derived islet cells Humanized T1DM mice Autologous iPSCs HIP autologous iPSC-derived islet cells Unmodified stem cell-derived islet cells from patient with T1DM do not survive PBMCs from patient with T1DM used to generate
+stem cell-derived islet cells and to humanize immune system in mice
+
+D7 D0 D23 D29 D13 HIP iPSC-derived
+pancreatic islet cells from patient with T1DM evade autoimmune killing and control glucose Abbreviations: BLI, bioluminescence imaging Hu et al. Sci Transl Med. 2023. BLI: Islet Survival C-peptide Glucose Control
+
+Trial authorized at Uppsala
+University Hospital Primary human HIP islet cells transplantation in type 1 diabetes patients Intramuscular administration in forearm No immunosuppression Insights for SC451 Potential clinical validation of hypoimmune islet cells in T1DM patients
+Cell survival & immune evasion C-peptide Glycemic control Key Measured Outcomes IST Design Transplant into T1DM patient without immunosuppression HIP gene modification of islet cells Donor cadaveric islet cells 1 2 3
+
+Sana’s approach to treat type
+1 diabetes Make hypoimmune islet cells from stem cells 1 + CD47 MHC I MHC II Manufacture at scale 2 Deliver as a single therapy 3 SC451 program – HIP stem cell-derived islet cell therapy – delivered with no immunosuppression
+
+Meaningful clinical data in
+multiple diseases in 2024 Unlocking the potential of our hypoimmune platform across multiple patient populations Value B-cell mediated Autoimmune Unlocked by HIP validation Oncology Type 1 Diabetes SC291 SC262 SC291 LN SC291 ERL SC291 AAV
+UP421

@@ -1,0 +1,253 @@
+8-K
+
+false 0001759138 0001759138 2023-11-06 2023-11-06
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+November 6, 2023
+
+Date of Report (Date of earliest event reported)
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+(Exact name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39103
+
+ 
+
+82-1685768
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+2929 Arch Street, Suite 600,
+
+Philadelphia, PA
+
+ 
+
+19104
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(267) 759-3100
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of Each Class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of Each Exchange
+
+on Which Registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+CABA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On November 6, 2023, Cabaletta Bio, Inc. (the “Company” or “Cabaletta”) issued a press release announcing that the Company’s fourth Investigational New Drug (“IND”) application for CABA-201, a 4-1BB-containing fully human CD19-CAR T cell investigational therapy, has been cleared by the U.S. Food and Drug Administration (the “FDA”) for a Phase 1/2 study in patients with generalized myasthenia gravis (the “Press Release”). A copy of the Press Release is attached hereto as Exhibit 99.1 to this Current Report on Form 8-K.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On November 6, 2023, the Company issued the Press Release announcing that the Company’s fourth IND application for CABA-201, a 4-1BB-containing fully human CD19-CAR T cell investigational therapy, has been allowed to proceed by the FDA for a Phase 1/2 study in patients with generalized myasthenia gravis (“gMG”). The Company plans to initiate a Phase 1/2 clinical trial of CABA-201 across two parallel gMG cohorts based on autoantibody status – one cohort of six patients with acetylcholine receptor (“AChR”) antibody-positive gMG and a second cohort of six patients with AChR antibody-negative gMG. Consistent with the previously announced CABA-201 IND application clearances for lupus, myositis and systemic sclerosis, the starting dose for the Phase 1/2 trial evaluating CABA-201 in gMG will be 1 x 106 cells/kg.
+
+Myasthenia gravis (“MG”) is a rare autoimmune disease characterized by autoantibodies that interfere with signaling at the neuromuscular junction (“NMJ”), leading to potentially life-threatening muscle weakness. The majority of patients with MG have autoantibodies known to be pathogenic based on their interference with proteins in the NMJ, of which the majority target AChR. gMG affects approximately 85% of the between 50,000 and 80,000 estimated MG patients in the United States. Symptoms of gMG include profound muscle weakness throughout the body, disabling fatigue, shortness of breath due to respiratory muscle weakness and risk for episodes of respiratory failure. Standard of care therapies include cholinesterase inhibitors, steroids, immunomodulators, and biologics, which often provide modest clinical effect and require chronic administration, increasing the risk of serious long-term side effects.
+
+The Phase 1/2 clinical trial will be an open-label study of CABA-201 in subjects with gMG across two parallel cohorts. The first cohort will include six patients with AChR antibody-positive gMG, and the second will include six patients with AChR antibody-negative gMG. Participants will receive a one-time infusion of CABA-201, using the same dose being used in the lupus, myositis and systemic sclerosis clinical trials of CABA-201, 1 x 106 cells/kg, preceded by a standard preconditioning regimen of fludarabine and cyclophosphamide. Key inclusion criteria include patients between ages 18 and 70 (inclusive), a diagnosis of gMG, and disease activity despite standard of care therapies. Key exclusion criteria include MG with only ocular manifestations, an active or untreated thymoma, and treatment with a B cell depleting agent within six months. As the fourth trial within Cabaletta’s CARTA (Chimeric Antigen Receptor T cells for Autoimmunity) strategy, this study is intended to evaluate the potential ability of CABA-201 to transiently, but completely, eliminate B cells throughout the body.
+
+Forward Looking Statements
+
+The information under this Item 8.01 contains “forward-looking statements” of the Company within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including without limitation, express or implied statements regarding its expectations regarding: Cabaletta’s ability to grow its autoimmune-focused pipeline; the anticipated market opportunities for CABA-201 in gMG patients; the Company’s business plans and objectives; Cabaletta’s expectations around the potential success and therapeutic benefits of CABA-201, including its belief in the potential for CABA-201 to provide a deep and durable, perhaps curative, outcome with a single dose in patients with gMG; the Cabaletta clinical operations team’s ability to execute the gMG program based on experience with MG sites in the Company’s legacy CAART platform; the Company’s plans to initiate and progress separate Phase 1/2 clinical trials of CABA-201 in subjects with gMG, SSc, SLE and myositis; and Cabaletta’s ability to enroll the requisite number of patients and dose each dosing cohort in the intended manner in its Phase 1/2 clinical trials of CABA-201. Any forward-looking statements in this Item 8.01 are based on management’s current expectations and beliefs of future events, and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: risks related to regulatory filings and potential clearance; the risk that signs of biologic activity or persistence may not inform long-term results; Cabaletta’s ability to demonstrate sufficient evidence of safety, efficacy and tolerability in its preclinical studies and clinical trials of DSG3-CAART, MuSK-CAART and CABA-201; the risk that the results observed with the similarly-designed construct employed in the recent academic publications, including due to the dosing regimen, are not indicative of the results we seek to achieve with CABA-201; risks related to clinical trial site activation or enrollment rates that are lower than expected; risks related to unexpected safety or efficacy data observed during clinical studies; risks related to volatile market and economic conditions and public health crises; risks related to Cabaletta’s ability to protect and maintain its intellectual property position; risks related to fostering and maintaining successful relationships with Cabaletta’s collaboration and manufacturing partners; and the risk that the initial or interim results of preclinical studies or clinical studies will not be predictive of future results in connection with future studies. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause Cabaletta’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in Cabaletta’s most recent annual report on Form 10-K as well as discussions of potential risks, uncertainties, and other important factors in Cabaletta’s other and subsequent filings with the Securities and Exchange Commission. All information in this Item 8.01 is as of the date of this Current Report on Form 8-K, and the Company undertakes no duty to update this information unless required by law.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exbibits
+
+ 
+
+99.1
+
+  
+
+Press Release issued by the registrant on November 6, 2023, furnished herewith.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL Document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CABALETTA BIO, INC.
+
+Date: November 6, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Steven Nichtberger
+
+ 
+
+ 
+
+ 
+
+Steven Nichtberger, M.D.
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

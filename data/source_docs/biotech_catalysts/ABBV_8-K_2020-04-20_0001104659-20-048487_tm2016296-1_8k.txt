@@ -1,0 +1,425 @@
+0001551152
+false
+Common Stock, $0.01 Par Value
+ABBV
+
+0001551152
+
+2020-04-19
+2020-04-20
+
+0001551152
+
+us-gaap:CommonStockMember
+exch:XNYS
+
+2020-04-19
+2020-04-20
+
+0001551152
+
+exch:XCHI
+us-gaap:CommonStockMember
+
+2020-04-19
+2020-04-20
+
+0001551152
+
+abbv:Sec1.375SeniorNotesDue2024Member
+exch:XNYS
+
+2020-04-19
+2020-04-20
+
+0001551152
+
+abbv:Sec0.750SeniorNotesDue2027Member
+exch:XNYS
+
+2020-04-19
+2020-04-20
+
+0001551152
+
+abbv:Sec2.125SeniorNotesDue2028Member
+exch:XNYS
+
+2020-04-19
+2020-04-20
+
+0001551152
+
+abbv:Sec1.250SeniorNotesDue2031Member
+exch:XNYS
+
+2020-04-19
+2020-04-20
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): April 20, 2020
+
+ 
+
+ABBVIE INC.
+
+ 
+
+(Exact Name of Registrant as Specified
+in its Charter)
+
+_______________________________________________
+
+ 
+
+Delaware
+
+ 
+
+001-35565
+
+ 
+
+32-0375147
+
+(State or other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+_______________________________________________
+
+ 
+
+1 North Waukegan Road
+
+North Chicago, Illinois 60064-6400
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (847) 932-7900
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common Stock, $0.01 Par Value
+
+ 
+
+ABBV
+
+ 
+
+New York Stock Exchange
+
+Chicago Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ 
+
+ABBV24
+
+ 
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ 
+
+ABBV27
+
+ 
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ 
+
+ABBV28
+
+ 
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ 
+
+ABBV31
+
+ 
+
+New York Stock Exchange
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+On April 20, 2020, AbbVie Inc.
+(“AbbVie”) issued a press release announcing that it has extended the expiration date of its previously announced (i)
+offers to exchange (each, an “Exchange Offer” and, collectively, the “Exchange Offers”) any and all outstanding
+notes of certain series issued by Allergan Finance, LLC (“Allergan Finance”), Allergan, Inc. (“Allergan Inc”),
+Allergan Sales, LLC (“Allergan Sales”) and Allergan Funding SCS (“Allergan Funding” and, together with
+Allergan Finance, Allergan Inc and Allergan Sales, “Allergan”) (the “Allergan Notes”) for new notes to
+be issued by AbbVie (the “AbbVie Notes”) and (ii) related consent solicitations (each, a “Consent Solicitation”
+and, collectively, the “Consent Solicitations”) being made by AbbVie on behalf of Allergan to adopt certain amendments
+(the “Amendments”) to eliminate substantially all of the covenants, restrictive
+provisions, events of default and any guarantees of the related Allergan Notes in each of the indentures governing the Allergan
+Notes.
+
+ 
+
+AbbVie extended
+such expiration date from 5:00 p.m., New York City time, on April 24, 2020 to 5:00 p.m., New York City time, on May 1, 2020 (as
+the same may be further extended, the “Expiration Date”).
+
+ 
+
+The Exchange Offers
+and Consent Solicitations were commenced in connection with AbbVie’s proposed acquisition of Allergan plc (the “Acquisition”)
+and are being made pursuant to the terms and subject to the conditions set forth in the confidential offering memorandum and consent
+solicitation statement, dated October 25, 2019, and the related letter of transmittal, each as amended by the press releases dated
+November 18, 2019, December 20, 2019, January 27, 2020, February 24, 2020, March 9, 2020, March 23, 2020 and April 6, 2020 and
+the attached press release. The Exchange Offers and Consent Solicitations are conditioned upon the consummation of the Acquisition,
+which condition may not be waived by AbbVie, and certain other conditions that may be waived by AbbVie.
+
+ 
+
+The settlement
+date of the Exchange Offers and Consent Solicitations is expected to occur promptly after the Expiration Date and the Expiration
+Date of each of the Exchange Offers is expected to be extended to occur on or about the closing date of the Acquisition. As a result,
+the Expiration Date may be further extended one or more times. AbbVie currently anticipates providing notice of any such extension
+in advance of the Expiration Date.
+
+ 
+
+Supplemental indentures
+effecting the Amendments were executed on November 7, 2019. Such supplemental indentures will become operative only upon settlement
+of the Exchange Offers.
+
+ 
+
+The AbbVie Notes
+offered in the Exchange Offers have not been registered under the Securities Act of 1933, as amended, or any state securities laws.
+Therefore, the AbbVie Notes may not be offered or sold in the United States absent registration or an applicable exemption from
+the registration requirements of the Securities Act of 1933, as amended, and any applicable state securities laws.
+
+ 
+
+A copy of the
+press release issued by AbbVie is attached as Exhibit 99.1 hereto and is
+incorporated by reference herein.
+
+ 
+
+Item 9.01. Financial Statements
+and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.  
+
+ 
+
+Exhibit  
+
+99.1
+
+ 
+
+Press Release dated April 20, 2020.
+
+104
+
+ 
+
+The cover page from this Current Report on Form 8-K formatted in Inline XBRL (included as Exhibit 101).
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+ABBVIE INC.
+
+ 
+
+ 
+
+ 
+
+Date: April 20, 2020
+
+By:  
+
+/s/ Robert A. Michael
+
+ 
+
+ 
+
+Robert A. Michael
+
+ 
+
+ 
+
+Executive Vice President, Chief Financial Officer
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+Common Stock, $0.01 Par Value
+
+ABBV

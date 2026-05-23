@@ -1,0 +1,215 @@
+EX-99.1
+2
+cytk-ex99_1.htm
+EX-99.1
+
+EX-99.1
+
+ 
+
+ 
+
+ 
+
+ 
+
+CYTOKINETICS ANNOUNCES PRIMARY RESULTS FROM MAPLE-HCM
+
+PRESENTED AT THE EUROPEAN SOCIETY OF CARDIOLOGY CONGRESS 2025
+
+AND PUBLISHED IN THE NEW ENGLAND JOURNAL OF MEDICINE
+
+ 
+
+Positive Trial Demonstrates Superiority of Aficamten to Standard-of-Care Beta-Blocker Metoprolol
+
+ 
+
+Primary Endpoint Result Consistent Across All Prespecified Subgroups
+
+ 
+
+Company to Host Investor Event and Webcast Tuesday September 2, 2025, at 8:00 AM Eastern Time
+
+ 
+
+SOUTH SAN FRANCISCO, Calif., Aug. 30, 2025 – Cytokinetics, Incorporated (Nasdaq: CYTK) today announced that primary results from MAPLE-HCM (Metoprolol vs Aficamten in Patients with LVOT Obstruction on Exercise Capacity in HCM) were presented in a Hot Line Session at the European Society of Cardiology Congress 2025 in Madrid, Spain, and simultaneously published in The New England Journal of Medicine.1
+
+ 
+
+MAPLE-HCM is a Phase 3 randomized, double-blind, active-comparator clinical trial of aficamten compared to metoprolol in patients with symptomatic obstructive hypertrophic cardiomyopathy (oHCM). MAPLE-HCM enrolled 175 patients, randomized on a 1:1 basis to receive aficamten or metoprolol as monotherapy. Compared to SEQUOIA-HCM, the pivotal Phase 3 clinical trial of aficamten, MAPLE-HCM was designed to include patients with less severe oHCM, enrolling patients without obstruction at rest and with higher predicted peak oxygen uptake (pVO2).
+
+ 
+
+“This important study has the potential to inform our approach to treating obstructive HCM, as MAPLE-HCM provides the field its first look at a cardiac myosin inhibitor compared directly to a beta-blocker,” said Pablo Garcia-Pavia, M.D., Ph.D., Head of the Inherited Cardiac Diseases and Heart Failure Unit, Department of Cardiology, Hospital Universitario Puerta de Hierro and Full Professor, Centro Nacional de Investigaciones Cardiovasculares in Madrid, Spain. “In showing that aficamten is superior to metoprolol on all clinically relevant efficacy endpoints, these results call into question the reliance on beta-blockers as the initial treatment modality for obstructive HCM that has prevailed for over 60 years.”
+
+ 
+
+“These results demonstrate that aficamten meaningfully improves exercise capacity in patients with obstructive HCM while treatment with metoprolol resulted in a meaningful reduction in exercise capacity,” said Fady I. Malik, M.D., Ph.D., Cytokinetics’ Executive Vice President of Research & Development. “The clinical difference in the two treatments is reinforced by the effect of aficamten on the secondary endpoints. Compared to first-line standard-of-care metoprolol, treatment with aficamten had a larger effect on
+
+measures of symptoms, functional class, and LVOT gradients. Importantly, these effects were achieved in a broader patient population with oHCM than previously studied in SEQUOIA-HCM, inclusive of patients in MAPLE-HCM with less severe disease as measured by objective metrics of disease burden.”
+
+ 
+
+Aficamten is an investigational drug candidate currently under regulatory review in the U.S; the Food and Drug Administration (FDA) is reviewing a New Drug Application (NDA) for aficamten with a Prescription Drug User Fee Act (PDUFA) target action date of December 26, 2025.
+
+ 
+
+Results of MAPLE-HCM
+
+ 
+
+The primary endpoint in MAPLE-HCM was the mean change from baseline in pVO2 for aficamten compared to metoprolol after 24 weeks of treatment. For aficamten, the mean change in pVO2 from baseline to Week 24 was +1.1 mL/kg/min (95% CI 0.5 to 1.7) and for metoprolol was -1.2 mL/kg/min (95% CI -1.7 to -0.8). The primary endpoint was statistically significant with a least-squares mean (LSM) difference between groups of 2.3 mL/kg/min (95% CI 1.5 to 3.1; p<0.0001) (Figure 1). The effect of aficamten on pVO2 was consistent across all prespecified subgroups, including in patients who were newly diagnosed or treatment naïve (Figure 2).
+
+ 
+
+ 
+
+Aficamten also showed superiority to metoprolol in five of six secondary endpoints, all of which were evaluated at 24 weeks compared to baseline (Table 1). Aficamten substantially improved functional class and reduced patient symptom burden. For patients treated with aficamten, 51% had an improvement of one or more functional class in New York Heart Association (NYHA) Functional Class compared to 26% receiving metoprolol (p<0.001). There was also a significant improvement observed in Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS) (LSM difference = 6.9 points; p<0.01).
+
+ 
+
+Table 1: Secondary Endpoints
+
+Endpoint
+
+P-Value
+
+Proportion of patients with ≥1 class improvement in NYHA functional class from baseline to week 24
+
+P <0.001
+
+Change in KCCQ-CSS from baseline to week 24
+
+P <0.010
+
+Change in NT-proBNP from baseline to week 12
+
+P <0.001
+
+Change in post-Valsalva LVOT-G from baseline to week 24
+
+P <0.001
+
+Change from baseline to week 24 in LAVI
+
+P <0.001
+
+Change from baseline to week 24 in LVMI
+
+P = 0.16
+
+ 
+
+Relative to metoprolol, aficamten significantly improved resting left ventricular outflow tract gradient (LVOT-G) (LSM difference = -30 mmHg; p<0.0001) and Valsalva LVOT-G (LSM difference = -35 mmHg; p<0.0001), with a modest reduction in left ventricular ejection fraction (LVEF) (LSM difference = -4%; p<0.0001), and only 1 (1.1%) patient experiencing LVEF <50% per core laboratory. Despite demonstrating on-target hemodynamic effects of lowering heart rate and systolic blood pressure, metoprolol did not improve LVOT-G.
+
+ 
+
+Compared to metoprolol, aficamten was associated with an 81% reduction in NT-proBNP, a biomarker of cardiac wall stress (p<0.0001), and a significant improvement in left atrial volume index (LAVI) (LSM difference = 7.0 ml/m2; p<0.0001) consistent with an improvement in diastolic dysfunction and suggesting potentially favorable cardiac remodeling. There was no difference observed between aficamten and metoprolol on the secondary endpoint of left ventricular mass index (LVMI) (p=0.16).
+
+ 
+
+Overall, the rate of adverse events (AEs) was similar between groups. Aficamten was down-titrated in four patients (4.5%), three due to site-read LVEF <50% and one due to an AE of dizziness, while metoprolol was down-titrated in 26 patients (29.9%) due to low systolic blood pressure, low heart rate or other AEs. One patient receiving aficamten, a 69-year-old woman with multiple co-morbidities, developed a viral illness and subsequently died. Three patients receiving metoprolol terminated treatment due to AEs. At least one treatment-emergent AE was reported by 65 (73.9%) and 66 (75.9%) patients treated with aficamten and metoprolol, respectively. The most common AE reported in excess (>5%) of the comparator was hypertension for aficamten (9 [10.2%] patients compared to 2 [2.3%] patients on metoprolol) and dizziness for metoprolol (15 [17.2%] patients compared to 5 [5.7%] patients on aficamten).
+
+ 
+
+Investor Webcast Information
+
+ 
+
+Cytokinetics will host an investor webcast on September 2, 2025, at 8:30 AM Eastern Time to discuss the primary results from MAPLE-HCM and other data presented at the European Society of Cardiology Congress 2025. Interested parties can register online at https://cytokinetics-esc-2025.open-exchange.net/. The live webcast will be available on the Investors & Media section of the Cytokinetics website at www.cytokinetics.com. A replay of the webcast will be archived on the Cytokinetics website for six months.
+
+ 
+
+About Aficamten
+
+ 
+
+Aficamten is an investigational selective, small molecule cardiac myosin inhibitor discovered following an extensive chemical optimization program that was conducted with careful attention to therapeutic index
+
+and pharmacokinetic properties.2 Aficamten was designed to reduce the number of active actin-myosin cross bridges during each cardiac cycle and consequently suppress the myocardial hypercontractility that is associated with HCM. In preclinical models, aficamten reduced myocardial contractility by binding directly to cardiac myosin at a distinct and selective allosteric binding site, thereby preventing myosin from entering a force producing state.
+
+ 
+
+The development program for aficamten is assessing its potential as a treatment that improves exercise capacity as measured by peak oxygen uptake (pVO2) and relieves symptoms in patients with HCM. Aficamten was evaluated in SEQUOIA-HCM, a positive pivotal Phase 3 clinical trial in patients with symptomatic obstructive hypertrophic cardiomyopathy (oHCM). Aficamten received Breakthrough Therapy Designation for the treatment of symptomatic HCM from the U.S. Food & Drug Administration (FDA) and for the treatment of symptomatic obstructive HCM from the National Medical Products Administration (NMPA) in China.
+
+ 
+
+Aficamten is also currently being evaluated in ACACIA-HCM, a Phase 3 clinical trial of aficamten in patients with non-obstructive HCM; CEDAR-HCM, a clinical trial of aficamten in a pediatric population with oHCM; and FOREST-HCM, an open-label extension clinical study of aficamten in patients with HCM.
+
+ 
+
+This communication contains a summary of new data related to the clinical development of aficamten presented at the European Society of Cardiology 2025 Congress. Aficamten is an investigational drug and is not approved by any regulatory agency. Its safety and efficacy have not been established. Aficamten is currently under regulatory review in the U.S, where the FDA is reviewing a New Drug Application (NDA) for aficamten with a Prescription Drug User Fee Act (PDUFA) target action date of December 26, 2025. Additionally, the European Medicines Agency (EMA) is reviewing a Marketing Authorization Application (MAA) for aficamten, and The Center for Drug Evaluation (CDE) of the China National Medical Products Administration (NMPA) is reviewing an NDA for aficamten with Priority Review.
+
+ 
+
+About Hypertrophic Cardiomyopathy
+
+ 
+
+Hypertrophic cardiomyopathy (HCM) is a disease in which the heart muscle (myocardium) becomes abnormally thick (hypertrophied). The thickening of cardiac muscle leads to the inside of the left ventricle becoming smaller and stiffer, and thus the ventricle becomes less able to relax and fill with blood. This ultimately limits the heart’s pumping function, resulting in reduced exercise capacity and symptoms including chest pain, dizziness, shortness of breath, or fainting during physical activity. HCM is the most common monogenic inherited cardiovascular disorder, with approximately 280,000 patients diagnosed, however, there are an estimated 400,000-800,000 additional patients who remain undiagnosed in the U.S.3,4,5 Two-thirds of patients with HCM have obstructive HCM (oHCM), where the thickening of the cardiac muscle leads to left ventricular outflow tract (LVOT) obstruction, while one-third have non-obstructive HCM (nHCM), where blood flow isn’t impacted, but the heart muscle is still thickened. People with HCM are at high risk of also developing cardiovascular complications including atrial fibrillation, stroke and mitral valve disease.6 People with HCM are at risk for potentially fatal ventricular arrhythmias and it is one of the leading causes of sudden cardiac death in younger people or athletes.7 A subset of
+
+patients with HCM are at high risk of progressive disease leading to dilated cardiomyopathy and heart failure necessitating cardiac transplantation.
+
+ 
+
+About Cytokinetics
+
+ 
+
+Cytokinetics is a specialty cardiovascular biopharmaceutical company, building on its over 25 years of pioneering scientific innovations in muscle biology to advance a pipeline of potential new medicines for patients suffering from diseases of cardiac muscle dysfunction. Cytokinetics is readying for potential regulatory approvals and commercialization of aficamten, a cardiac myosin inhibitor following positive results from SEQUOIA-HCM, the pivotal Phase 3 clinical trial in patients with obstructive hypertrophic cardiomyopathy (HCM). Aficamten is also being evaluated in additional clinical trials enrolling patients with obstructive and non-obstructive HCM. Cytokinetics is also developing omecamtiv mecarbil, a cardiac myosin activator, in patients with heart failure with severely reduced ejection fraction (HFrEF), ulacamten, a cardiac myosin inhibitor with a mechanism of action distinct from aficamten, for the potential treatment of heart failure with preserved ejection fraction (HFpEF) and CK-089, a fast skeletal muscle troponin activator with potential therapeutic application to a specific type of muscular dystrophy and other conditions of impaired skeletal muscle function.
+
+ 
+
+For additional information about Cytokinetics, visit www.cytokinetics.com and follow us on X, LinkedIn, Facebook and YouTube.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This press release contains forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995 (the “Act”). Cytokinetics disclaims any intent or obligation to update these forward-looking statements and claims the protection of the Act’s Safe Harbor for forward-looking statements. Examples of such statements include, but are not limited to, statements express or implied relating to the properties, treatment effect or potential benefits of aficamten or any of our other drug candidates or our ability to obtain regulatory approval for aficamten for the treatment of obstructive hypertrophic cardiomyopathy or any other indication from FDA or any other regulatory body in the United States or abroad by any particular date, if ever. Such statements are based on management’s current expectations, but actual results may differ materially due to various risks and uncertainties, including, but not limited to the risks related to Cytokinetics’ business outlines in Cytokinetics’ filings with the Securities and Exchange Commission. Forward-looking statements are not guarantees of future performance, and Cytokinetics’ actual results of operations, financial condition and liquidity, and the development of the industry in which it operates, may differ materially from the forward-looking statements contained in this press release. Any forward-looking statements that Cytokinetics makes in this press release speak only as of the date of this press release. Cytokinetics assumes no obligation to update its forward-looking statements whether as a result of new information, future events or otherwise, after the date of this press release.
+
+ 
+
+CYTOKINETICS® and the CYTOKINETICS and C-shaped logo are registered trademarks of Cytokinetics in the U.S. and certain other countries.
+
+###
+
+ 
+
+Contact:
+
+Cytokinetics
+Diane Weiser
+Senior Vice President, Corporate Affairs
+
+(415) 290-7757
+
+ 
+
+References:
+
+ 
+
+1.
+Garcia-Pavia, P, et al. Aficamten or Metoprolol Monotherapy for Obstructive Hypertrophic Cardiomyopathy. N Engl J Med. 2025
+
+2.
+Chuang C, Collibee S, Ashcraft L, et al. Discovery of Aficamten (CK-274), a Next-Generation Cardiac Myosin Inhibitor for the Treatment of Hypertrophic Cardiomyopathy. J Med Chem. 2021;64(19):14142–14152. https://doi.org/10.1021/acs.jmedchem.1c01290
+
+3.
+CVrg: Heart Failure 2020-2029, p 44; Maron et al. 2013 DOI: 10.1016/S0140-6736(12)60397-3; Maron et al 2018 10.1056/NEJMra1710575
+
+4.
+Symphony Health 2016-2021 Patient Claims Data DoF;
+
+5.
+Maron MS, Hellawell JL, Lucove JC, Farzaneh-Far R, Olivotto I. Occurrence of Clinically Diagnosed Hypertrophic Cardiomyopathy in the United States. Am J Cardiol. 2016; 15;117(10):1651-1654.
+
+6.
+Gersh, B.J., Maron, B.J., Bonow, R.O., Dearani, J.A., Fifer, M.A., Link, M.S., et al. 2011 ACCF/AHA guidelines for the diagnosis and treatment of hypertrophic cardiomyopathy. A report of the American College of Cardiology Foundation/American Heart Association Task Force on practice guidelines. Journal of the American College of Cardiology and Circulation, 58, e212-260.
+
+7.
+Hong Y, Su WW, Li X. Risk factors of sudden cardiac death in hypertrophic cardiomyopathy. Current Opinion in Cardiology. 2022 Jan 1;37(1):15-21

@@ -1,0 +1,221 @@
+8-K
+
+BIOMARIN PHARMACEUTICAL INC false 0001048477 0001048477 2022-09-12 2022-09-12
+
+ 
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 12, 2022
+
+ 
+
+ 
+
+BioMarin Pharmaceutical Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+000-26727
+
+ 
+
+68-0397820
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+770 Lindaro Street, San Rafael,
+
+California
+
+ 
+
+94901
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (415) 506-6700
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+BMRN
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+BioMarin Pharmaceutical Inc. (“BioMarin” or the “Company”) is providing the following information due to the number of individuals required to be notified of the following matter consistent with BioMarin’s regulatory obligations and to ensure consistent notification to security holders.
+
+On August 19, 2022, BioMarin was notified that a participant in its valoctocogene roxaparvovec (“BMN 270”) phase 3 study was diagnosed with B-cell acute lymphoblastic leukemia (B-ALL). Based on BioMarin’s assessment of the case to date, including initial genetic testing of the leukemic cells, BioMarin believes at this time that this cancer is unrelated to BMN 270. The overall rate of all cancers observed in all BMN 270 trial patients (2 in approximately 400 patient years of observation) appears consistent with expected rates of cancer in persons with Hemophilia.
+
+Consistent with the Company’s commitment to investigate any report of cancer in its BMN 270 trial, BioMarin promptly began a comprehensive assessment of the case. The preliminary results of genetic testing performed at the site revealed that 85% of leukemic cells carried a Philadelphia-like (Ph-like) chromosomal translocation, which is a well-known driver-mutation in leukemic cells. Further, testing on leukemic cells enriched to 90% purity from peripheral blood carried negligible levels of BMN 270 vector DNA (less than 1 copy per 500 cells). These negligible, near background levels of BMN 270 indicate that BMN 270 is not clonally expanding in these leukemic cells. Additional genomic analyses are underway, which BioMarin expects to confirm the absence of BMN 270 vector integration events contributing to leukemic growth, as well as to provide further insights into the underlying genetic etiology of this case.
+
+Consistent with the Company’s commitments to regulatory authorities, BioMarin submitted an IND safety report to the U.S. Food and Drug Agency (“FDA”) and communicated these findings to international health authorities on September 2, 2022. No authority has requested a hold on any trial at this time. Currently, all trials of BMN 270 are ongoing, including additional enrollments, with no modifications, and BioMarin does not expect to make any modifications in the future due to this event. The Company’s independent Data Safety Monitoring Board agreed that this case did not require any modification to BioMarin’s ongoing trials at this time. BioMarin remains on track to resubmit the Biologics License Application for BMN 270 to the FDA by the end of this month.
+
+Forward-Looking Statements
+
+This current report on Form 8-K contains forward-looking statements about the business prospects of BioMarin, including, without limitation, BioMarin’s belief that the BMN 270 study patient’s cancer is unrelated to BMN 270, that BioMarin expects additional genomic analyses to confirm the absence of BMN 270 vector integration events contributing to leukemic growth, BioMarin’s expectation that it will not make any modifications to its ongoing BMN 270 trials due to this event, and that BioMarin remains on track to resubmit the Biologics License Application for BMN 270 to the FDA by the end of this month.
+
+These forward-looking statements are predictions and involve risks and uncertainties such that actual results may differ materially from these statements. These risks and uncertainties include, among others: results of the ongoing additional genomic analyses of the leukemic cells, results and timing of current and planned preclinical studies and clinical trials, and the actions of regulatory authorities on (i) BioMarin’s assessment that the BMN 270 study patient’s cancer is unrelated to BMN 270, (ii) BioMarin’s ability to continue such preclinical studies and clinical trials and (iii) the timing of such preclinical studies and clinical trials, and the release of data from those trials; the content and timing of decisions by the FDA, the European Commission and other regulatory authorities concerning BMN 270; and those factors detailed in BioMarin’s filings with the Securities and Exchange Commission (“SEC”), including, without limitation, the factors contained under the caption “Risk Factors” in BioMarin’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2022 as such factors may be updated by any subsequent reports. Stockholders are urged not to place undue reliance on forward-looking statements, which speak only as of the date hereof. BioMarin is under no obligation, and expressly disclaims any obligation to update or alter any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+BioMarin Pharmaceutical Inc.,
+
+a Delaware corporation
+
+Date: September 12, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+Executive Vice President, Chief Legal Officer

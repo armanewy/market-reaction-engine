@@ -1,0 +1,247 @@
+8-K
+
+FATE THERAPEUTICS INC false 0001434316 0001434316 2025-10-26 2025-10-26
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 26, 2025
+
+ 
+
+ 
+
+FATE THERAPEUTICS, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-36076
+
+ 
+
+65-1311552
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+12278 Scripps Summit Drive
+
+San Diego, California
+
+ 
+
+92131
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: 858 875-1800
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+FATE
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+On October 26, 2025, Fate Therapeutics, Inc. (the “Company”) issued a press release (i) announcing that 10 patients with treatment-refractory, moderate-to-severe systemic lupus erythematosus (“SLE”) were treated with a single dose of FT819, the Company’s off-the-shelf, CD19-targeted 1XX chimeric antigen receptor (“CAR”) T-cell product candidate as of a data cut-off date of September 25, 2025, and (ii) highlighting new and updated data (including, without limitation, translational data) as of the data cut-off date from the first 10 patients dosed with FT819 in a Phase 1 clinical trial for the treatment of moderate-to-severe SLE at the American College of Rheumatology (“ACR”) Convergence 2025 in Chicago. The press release also highlighted that the Company (i) has initiated independent dose-expansion cohorts in anti-neutrophilic cytoplasmic antibody-associated vasculitis (“AAV”), idiopathic inflammatory myositis (“IIM”), and systemic sclerosis (“SSc”), and (ii) is actively engaged under its Regenerative Medicine Advanced Therapy (“RMAT”) designation with the U.S. Food and Drug Administration (“FDA”) to align on a registrational study design with the goal of initiating a pivotal study in 2026. The press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+The Company posted links to the ACR Convergence 2025 abstracts in connection with its FT819 programs on its website.
+
+The information in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+Item 8.01 Other Events.
+
+FT819 iPSC-derived CAR T-cell Program
+
+On October 26, 2025, the Company (i) announced that 10 patients with treatment-refractory, moderate-to-severe SLE were treated with a single dose of FT819, the Company’s off-the-shelf, CD19-targeted CAR T-cell product candidate as of a data cut-off date of September 25, 2025, and (ii) highlighted new and updated data (including, without limitation, translational data) as of the data cut-off date at the ACR Convergence 2025 from its Phase 1 clinical trial of FT819 for the treatment of moderate-to-severe SLE, which data underscored the unique ability of FT819 to remodel the B-cell repertoire toward a more naïve and less pathogenic state without the need for intensive conditioning chemotherapy.
+
+The study is designed to evaluate the safety, pharmacokinetics, and activity of a single dose of FT819 administered to patients with active refractory lupus with either (i) a less-intensive conditioning regimen (Regimen A; fludarabine (flu)-free conditioning consisting of either cyclophosphamide alone or bendamustine alone), or (ii) a conditioning-free regimen to patients on standard-of-care maintenance therapy (Regimen B). The Company announced key insights from the study with respect to 10 patients (8 on Regimen A, 2 on Regimen B) who have been treated with FT819 as of a data cut-off date of September 25, 2025.
+
+The data showed that, in patients treated with less-intensive conditioning chemotherapy, rapid and sustained CD19+ B cell depletion was observed, positively correlating with dose escalation. Upon return of the B cell compartment, naïve B cell emergence beyond baseline levels was observed, suggestive of an immune reset and correlative to reduction in disease burden. Further, in patients treated without conditioning chemotherapy, a meaningful reduction in CD19+ B cells was also observed, alongside reduction in expanded B-cell clones and remodeling of the B-cell compartment that correlated with improvement in disease activity scores.
+
+Forward Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that involve substantial risks and uncertainties. These forward-looking statements include, but are not limited to, express or implied statements regarding the Company’s beliefs and expectations regarding: the advancement of and plans related to the Company’s product candidates, clinical studies and preclinical research and development programs, the safety and therapeutic potential of the Company’s product candidates, including FT819, the Company’s progress, plans and timelines for the clinical investigation of its product candidates, including the Company’s plans to complete Investigational New Drug (IND)-enabling studies and to submit IND applications for its product candidates, the initiation and continuation of enrollment in the Company’s clinical trials, the initiation of additional clinical trials, including in new indications, and additional dose cohorts in ongoing clinical trials of the Company’s product candidates, the availability of data from the Company’s clinical trials and the Company’s plans to provide updates on its clinical trials, the therapeutic and market potential of the Company’s research and development programs and product candidates, and the Company’s clinical and product development strategy. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “hope,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “target,” “should,” “would,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. These and any other forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause our actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to, the risk that the Company’s product candidates, including those product candidates in clinical investigation, may not demonstrate the requisite safety, efficacy, or other attributes to warrant further development or to achieve regulatory approval, the risk that results observed in prior studies of the Company’s product candidates, including preclinical studies and clinical trials, will not be observed in ongoing or future studies involving these product candidates, the risk of a delay or difficulties in the manufacturing of the Company’s product candidates or in the initiation and conduct of, or enrollment of patients in, any clinical trials, the risk that the Company may cease or delay preclinical or clinical development of any of its product candidates for a variety of reasons (including requirements that may be imposed by regulatory authorities on the initiation or conduct of clinical trials, changes in the therapeutic, regulatory, or competitive landscape for which the Company’s product candidates are being developed, the amount and type of data to be generated or otherwise to support regulatory approval, difficulties or delays in patient enrollment and continuation in the Company’s ongoing and planned clinical trials, difficulties in manufacturing or supplying the Company’s product candidates for clinical testing, failure to demonstrate that a product candidate has the requisite safety, efficacy, or other attributes to warrant further development, and any adverse events or other negative results that may be observed during preclinical or clinical development), and the risk that its product candidates may not produce therapeutic benefits or may cause other unanticipated adverse effects. For a discussion of other risks and uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the risks and uncertainties detailed in the Company’s periodic filings with the Securities and Exchange Commission, including but not limited to the Company’s most recently filed periodic report, and from time to time in the Company’s press releases and other investor communications. Fate Therapeutics is providing the information in this Current Report on Form 8-K as of this date and does not undertake any obligation to update any forward-looking statements contained in this report as a result of new information, future events or otherwise.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release dated October 26, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+FATE THERAPEUTICS, INC.
+
+Date:  October 27, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Bahram Valamehr
+
+ 
+
+ 
+
+ 
+
+Bahram Valamehr, Ph.D., M.B.A.
+
+President and Chief Executive Officer

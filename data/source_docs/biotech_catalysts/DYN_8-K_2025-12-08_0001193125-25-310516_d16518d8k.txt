@@ -1,0 +1,467 @@
+8-K
+
+false 0001818794 0001818794 2025-12-08 2025-12-08
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): December 8, 2025
+
+ 
+
+ 
+
+Dyne Therapeutics, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39509
+
+ 
+
+36-4883909
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+1560 Trapelo Road
+
+ 
+
+Waltham, Massachusetts
+
+ 
+
+02451
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (781) 786-8230
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.0001 par value per share
+
+ 
+
+DYN
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On December 8, 2025, Dyne Therapeutics, Inc. (the “Company”) issued a press release announcing positive topline results from the Registrational Expansion Cohort (“REC”) of its Phase 1/2 DELIVER trial (the “DELIVER trial”) evaluating zeleciment rostudirsen (z-rostudirsen, also known as DYNE-251) in individuals with Duchenne muscular dystrophy (“DMD”) amenable to exon 51 skipping. Additionally, the Company announced new positive long-term clinical data from the ongoing open-label extension (“OLE”) and long-term extension (“LTE”) portions of the DELIVER trial. A copy of the press release is furnished as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+The information furnished under this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+On December 8, 2025, the Company issued a press release announcing positive topline results from the REC of its DELIVER trial evaluating z-rostudirsen in individuals with DMD amenable to exon 51 skipping. Additionally, the Company announced new positive long-term clinical data from the ongoing OLE and LTE portions of the DELIVER trial.
+
+The REC met its primary endpoint, demonstrating a statistically significant increase in muscle content-adjusted dystrophin expression to 5.46% of normal relative to baseline at six months (p<0.0001).
+
+In addition, improvement relative to placebo was observed across all six prespecified functional endpoints from the topline readout of the REC. Two of these measures, Time to Rise (“TTR”) Velocity and 10-Meter Walk/Run (“10MWR”) Velocity, both improved relative to placebo at six months with a nominal p<0.05, even though the study was not powered to demonstrate statistical significance in any of the functional measures (post-hoc analysis; the prespecified statistical analysis plan did not include formal hypothesis testing for any functional endpoint). Importantly, lung function, the loss of which is a leading cause of mortality in DMD, as measured by Forced Vital Capacity Percent Predicted (“FVC%p”), was preserved at 6 months compared to a decline in placebo.
+
+Positive Topline Efficacy Data from the DELIVER Trial REC
+
+The REC of the DELIVER trial enrolled 32 ambulant and non-ambulant males with DMD who were ages 4 to 16 at baseline and have mutations amenable to exon 51 skipping. Of these, 24 participants were randomized to receive 20 mg/kg z-rostudirsen every four weeks (“Q4W”), and 8 were randomized to placebo. Key findings after six months include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Dystrophin: The REC met its primary endpoint, demonstrating a statistically significant change from baseline in muscle-content adjusted dystrophin expression (p < 0.0001), as measured by Western blot. Patients treated with 20 mg/kg z-rostudirsen Q4W reached a mean absolute dystrophin expression of 5.46% of normal (adjusted for muscle content).
+
+These results replicate the 7-fold increase in muscle-content adjusted dystrophin expression at six months reported previously from participants receiving 20 mg/kg z-rostudirsen Q4W in the multiple-ascending dose (“MAD”) portion of the DELIVER trial.
+
+When unadjusted for muscle content, the mean absolute dystrophin expression among patients treated with 20 mg/kg z-rostudirsen Q4W was 2.87% of normal (p < 0.0001) (prespecified nominal p-value with no adjustment for multiplicity), approximately 10-fold higher than the 0.3% of normal reported in a third party clinical trial of the weekly standard of care for DMD exon 51 in the United States, eteplirsen. The DELIVER trial did not compare z-rostudirsen to eteplirsen, and no head-to-head trials have been conducted comparing z-rostudirsen to eteplirsen. Eteplirsen data may not be directly comparable to the DELIVER
+
+ 
+
+data due to differences between the trials in trial protocols, dosing regimens, methodologies for calculating muscle content adjusted dystrophin and patient populations. Accordingly, these cross-trial comparisons may not be reliable.
+
+ 
+
+ 
+
+•
+
+ 
+
+Function: At six months, functional improvement was observed across multiple clinical endpoints relative to baseline and declines in the pooled placebo group (from the entire DELIVER trial per the statistical analysis plan), as assessed by the following ambulatory measures:
+
+ 
+
+ 
+
+•
+
+ 
+
+TTR Velocity (placebo n=18; z-rostudirsen n=21)
+
+ 
+
+ 
+
+•
+
+ 
+
+10MWR Velocity (placebo n=18; z-rostudirsen n=21)
+
+ 
+
+ 
+
+•
+
+ 
+
+North Star Ambulatory Assessment (“NSAA”) (placebo n=18; z-rostudirsen n=21)
+
+Despite not being powered for formal comparisons, a post-hoc statistical analysis comparing the REC to the pooled placebo group at six months generated nominal p<0.05 for TTR Velocity and 10MWR Velocity.
+
+Functional improvement was also seen in:
+
+ 
+
+ 
+
+•
+
+ 
+
+Stride Velocity 95th Centile (“SV95C”), which improved from baseline and relative to placebo (placebo n=12, z-rostudirsen n=20).
+
+ 
+
+ 
+
+•
+
+ 
+
+Performance of Upper Limb (“PUL2.0”), which improved from baseline and relative to placebo (placebo n=23; z-rostudirsen n=22).
+
+Preservation of lung function:
+
+ 
+
+ 
+
+•
+
+ 
+
+FVC%p remained stable with clear separation from placebo, which declined (placebo n=20; z-rostudirsen n=15). In DMD, loss of pulmonary function is a leading cause of mortality.
+
+Favorable Long-Term Safety & Tolerability Profile
+
+ 
+
+ 
+
+•
+
+ 
+
+Safety and tolerability data were based on 86 total participants enrolled in the DELIVER trial and followed for up to 36 months, including participants initially enrolled in the MAD cohorts (n=54) and REC (n=32) of the trial and who have transitioned to the OLE and LTE portions. Z-rostudirsen continued to demonstrate a favorable safety profile, as of the safety data cut-off date of August 19, 2025, and most related treatment emergent adverse events (“TEAEs”) were mild or moderate. The most commonly reported related TEAEs were pyrexia (fever) and headache. No related serious TEAEs were observed in the REC. Since the last safety update, two participants in the OLE/LTE portion of the trial experienced malaise and/or pyrexia (fever) which were reported as related serious TEAEs. Both of these participants fully recovered and have continued to receive z-rostudirsen without interruption.
+
+ 
+
+ 
+
+•
+
+ 
+
+Approximately 1,441 doses of z-rostudirsen, including 1,062 at the 20 mg/kg Q4W dose, have been administered to date in the DELIVER trial, representing 113 patient-years of follow-up, as of the safety data cut-off date of August 19, 2025.
+
+New Positive Long-term Results from DELIVER Trial Showed Sustained Functional Improvement Across All Assessed Endpoints Out to 24 Months
+
+Sustained functional improvement in TTR Velocity, 10MWR Velocity, NSAA, SV95C, PUL2.0, and FVC%p from baseline were observed in the following groups from the OLE and LTE portions of the DELIVER trial:
+
+ 
+
+ 
+
+•
+
+ 
+
+24-month functional data from the 6 participants treated with z-rostudirsen in the 10 mg/kg Q4W cohort of the MAD who were dose escalated to 20 mg/kg Q4W in the OLE period.
+
+ 
+
+ 
+
+•
+
+ 
+
+18-month functional data from the 6 participants treated with z-rostudirsen in the 20 mg/kg Q4W MAD cohort.
+
+ 
+
+ 
+
+•
+
+ 
+
+Pooled 18-month functional data from both cohorts.
+
+Key Milestones for Z-Rostudirsen
+
+ 
+
+ 
+
+•
+
+ 
+
+The Company plans to submit a Biologics License Application (“BLA”) for U.S. Accelerated Approval in the second quarter of 2026.
+
+ 
+
+ 
+
+•
+
+ 
+
+The Company plans to initiate a global Phase 3 clinical trial of z-rostudirsen in the second quarter of 2026 to support global approvals.
+
+ 
+
+ 
+
+•
+
+ 
+
+The Company continues to expect a potential U.S. launch of z-rostudirsen in the first quarter of 2027, assuming the U.S. Food and Drug Administration (“FDA”) grants Priority Review and approves the BLA on the timeline anticipated.
+
+ 
+
+ 
+
+•
+
+ 
+
+The Company also continues to pursue approval pathways outside of the U.S. for z-rostudirsen in patients with DMD who are amenable to exon 51 skipping.
+
+Data Presentation
+
+On December 8, 2025, the Company made available a presentation to be used with investors to discuss the topline results from the REC of the DELIVER trial and new positive long-term clinical data from the ongoing OLE and LTE portions of the DELIVER trial. A copy of the presentation is filed as Exhibit 99.2 hereto and is incorporated herein by reference.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCETM platform, expectations regarding the timing and outcome of interactions with and submissions to global regulatory authorities and anticipated timelines for submission for regulatory approval and launch of z-rostudirsen, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “predict,” “project,” “potential,” “should,” “will,” or “would,” or the negative of these terms, or other comparable terminology are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in these forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in these forward-looking statements as a result of various important factors, including: uncertainties inherent in the identification and development of product candidates, including the initiation and completion of preclinical studies and clinical trials; uncertainties as to the availability and timing of results from preclinical studies and clinical trials; the timing of and the Company’s ability to enroll patients in clinical trials; whether results from preclinical studies and initial data from early clinical trials will be predictive of the final results of the clinical trials or future trials; uncertainties as to the FDA’s and other regulatory authorities’ interpretation of the data from the Company’s clinical trials and acceptance of the Company’s clinical programs and the regulatory approval process, including the availability of accelerated approval pathways; whether the Company’s cash resources will be sufficient to fund its foreseeable and unforeseeable operating expenses and capital expenditure requirements; as well as the risks and uncertainties identified in the Company’s filings with the Securities and Exchange Commission (“SEC”), including the Company’s most recent Form 10-Q and in subsequent filings the Company may make with the SEC. In addition, the forward-looking statements included in this Current Report on Form 8-K represent the Company’s views as of the date hereof. The Company anticipates that subsequent events and developments will cause its views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date hereof.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated December 8, 2025.
+
+99.2
+
+  
+
+Presentation, dated December 8, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+DYNE THERAPEUTICS, INC.
+
+Date: December 8, 2025
+
+ 
+
+By:
+
+ 
+
+/s/ John G. Cox
+
+ 
+
+ 
+
+Name:
+
+ 
+
+John G. Cox
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer

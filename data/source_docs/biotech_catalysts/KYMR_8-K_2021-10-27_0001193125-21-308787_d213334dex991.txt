@@ -1,0 +1,547 @@
+EX-99.1
+2
+d213334dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+Kymera Therapeutics Presents Positive Data Demonstrating Robust IRAK4 Degradation and First Proof-of-Biology with Inhibition of Cytokine Induction from the Single Ascending Dose Portion of KT-474 Phase 1 Trial in Healthy
+Volunteers
+
+Mean IRAK4 degradation of up to 96% in PBMC and up to 97% inhibition of ex vivo induction of multiple
+proinflammatory cytokines observed, suggesting potential for broad anti-inflammatory effect
+
+KT-474 was well-tolerated at all dose levels
+
+Kymera to present results at 4th
+Annual Targeted Protein Degradation Summit today at 8:30 a.m. ET
+
+Kymera to host conference call today at 10:30 a.m.
+ET
+
+Watertown, Mass. (Oct. 27, 2021) – Kymera Therapeutics, Inc. (NASDAQ: KYMR), a clinical-stage biopharmaceutical company advancing
+targeted protein degradation (TPD) to deliver novel small molecule protein degrader medicines, today presented new safety, pharmacokinetic (PK) and pharmacodynamic (PD) data, including cytokines, from the Single Ascending Dose (SAD) portion of the KT-474 Phase 1 randomized, placebo-controlled healthy volunteer trial, at the 4th Annual Targeted Protein Degradation Summit.
+
+The presentation included data from the seven KT-474 single dose cohorts, comprising 57 healthy volunteer subjects
+randomized 6:2 to either a single oral dose of KT-474 or placebo. The data demonstrated robust, dose-dependent IRAK4 reduction, maintained for up to 6 days, in peripheral blood mononuclear cells (PBMC)
+measured by mass spectrometry, resulting in mean IRAK4 reduction from baseline of 93-96% achieved at 48 hours post-dose at the top three dose levels, achieving strong proof-of-mechanism (see Table 1). Flow cytometry demonstrated that the effect of KT-474 on IRAK4 levels was similar in lymphocytes and monocytes.
+
+Table 1: Percent IRAK4 Change from Baseline in PBMC at 48 Hours Post-Dose using Mass Spectrometry
+
+ 
+
+Cohort
+
+  
+
+Placebo
+(n=13)
+
+  
+
+Cohort
+1 (n=6)
+
+  
+
+Cohort 2
+(n=6)
+
+  
+
+Cohort 3
+(n=6)
+
+  
+
+Cohort 4
+(n=6)
+
+  
+
+Cohort 5
+(n=7)
+
+  
+
+Cohort 6
+(n=5)
+
+  
+
+Cohort 7
+(n=6)
+
+KT-474 dose
+
+  
+
+—  
+
+  
+
+25 mg
+
+  
+
+75 mg
+
+  
+
+150 mg
+
+  
+
+300 mg
+
+  
+
+600 mg
+
+  
+
+1000 mg
+
+  
+
+1600 mg
+
+Mean IRAK4 Change
+
+  
+
+-1%
+
+  
+
+-26%
+
+(p=0.1)
+
+  
+
+-73%
+
+(p<0.0001)
+
+  
+
+-81%
+
+(p<0.0001)
+
+  
+
+-84%
+
+(p<0.0001)
+
+  
+
+-96%
+
+(p<0.0001)
+
+  
+
+-93%
+
+(p<0.0001)
+
+  
+
+-95%
+
+(p<0.0001)
+
+For the first time, proof-of-biology was also
+established, with inhibition of ex vivo R848- or LPS-mediated induction of multiple pro-inflammatory cytokines in whole blood at doses and exposures associated
+with mean IRAK4 reduction in PBMC of ³85% at 24-48 hours post-dose. In Cohort 7, where mean IRAK4 reduction at 24 and 48 hours was 89% and 95%, respectively, mean
+maximum cytokine inhibition as great as 97% was observed (see Table 2). KT-474 demonstrated oral bioavailability, a half-life supportive of daily dosing, and dose-dependent plasma exposures that plateaued
+after 1000 mg. KT-474 was observed to be well-tolerated; mild to moderate, self-limited headache and nausea were the most common possible or probable treatment-related adverse events, and there were no serious
+adverse events.
+
+ 
+
+Table 2: Mean Maximum Percent Change from Baseline at 24-48 Hours
+in Ex Vivo Proinflammatory Cytokine Induction by R848 and LPS in Whole Blood at Cohort 7.
+
+ 
+
+Proinflammatory Cytokine
+
+  
+
+IFNg
+
+ 
+
+IL1b
+
+ 
+
+IL6
+
+ 
+
+IL8
+
+ 
+
+IL10
+
+ 
+
+IL12
+
+ 
+
+IL17
+
+ 
+
+TNFα
+
+R848 (TLR 7/8 agonist)
+
+  
+
+-97%2
+
+ 
+
+-92%1
+
+ 
+
+-88%1
+
+ 
+
+-54%
+
+ 
+
+-89%1
+
+ 
+
+-93%1
+
+ 
+
+-79%1
+
+ 
+
+-88%2
+
+LPS (TLR 4 agonist)
+
+  
+
+-42%
+
+ 
+
+-68%1
+
+ 
+
+-62%1
+
+ 
+
+-81%1
+
+ 
+
+-83%1
+
+ 
+
+-35%2
+
+ 
+
+-43%2
+
+ 
+
+-42%2
+
+1 = p value < 0.01; 2 = p value < 0.05, for comparison to placebo
+
+“We are pleased to have completed dose
+escalation in the SAD portion of our Phase 1 trial and are encouraged by our ability to achieve plasma exposures following single doses of KT-474 that maximize IRAK4 degradation and are well-tolerated, with up
+to 96% mean reduction of IRAK4 in PBMC,” said Jared Gollob, MD, Chief Medical Officer at Kymera Therapeutics. “Importantly, we have now shown that IRAK4 knockdown of ³ 85% in vivo in
+circulating PBMC leads to profound TLR/IL-1R pathway inhibition, as demonstrated by up to 97% suppression of ex vivo response of whole blood to TLR agonists. Daily dosing with KT-474 is currently being evaluated in the multiple ascending dose (MAD) portion of the trial; based on the PK properties of KT-474 and the observed PK-PD relationship, we anticipate achieving similar levels of IRAK4 degradation and cytokine inhibition with substantially lower daily doses.”
+
+“The proof-of-mechanism and proof-of-biology that have been achieved with just single doses of KT-474 attest to the potency of this drug and validates the strategy of targeting IRAK4 with a
+degrader to maximize blockade of TLR/IL-1R signaling,” said Nello Mainolfi, PhD, Co-Founder, President and CEO, Kymera Therapeutics. “The potent, broad effect of IRAK4 knockdown observed on multiple
+different proinflammatory cytokines implicated in a variety of autoimmune inflammatory diseases highlights the potential for KT-474 to be a
+best-in-class oral anti-inflammatory drug, especially in a shifting external landscape for safe, broadly active small molecule anti-inflammatory agents.”
+
+KT-474 is a highly active and selective, orally bioavailable IRAK4 degrader being developed for the treatment of
+toll-like receptor (TLR)/interleukin-1 receptor (IL-1R)-driven immune-inflammatory diseases, such as atopic dermatitis, hidradenitis suppurativa, rheumatoid arthritis
+and potentially other indications. The Phase 1 clinical trial is a randomized, double-blind, placebo-controlled study (a first in targeted protein degradation) to evaluate the safety, tolerability, pharmacokinetics, and pharmacodynamics of KT-474 in up to 116 healthy volunteers, and in a subsequent cohort of up to 20 patients with atopic dermatitis and hidradenitis suppurativa.
+
+In July 2021, Kymera initiated dosing of healthy volunteers in the Multiple Ascending Dose (MAD) portion of the Phase 1 trial of KT-474. The multiple ascending dose portion of the trial is designed to evaluate repeat daily dosing of KT-474 for 14 days, beginning with the 25 mg dose, in healthy
+volunteers randomized 9:3 to KT-474 or placebo. Kymera plans to present data from the MAD portion of the healthy volunteer study before year end.
+
+The dose level in the MAD healthy volunteer portion which demonstrates maximal IRAK4 degradation and has been well tolerated, will then be selected for
+evaluation in an open-label cohort of patients with atopic dermatitis and hidradenitis suppurativa (up to 20 patients). Additional information on this clinical trial can be found on www.clinicaltrials.gov.
+
+ 
+
+Upcoming Kymera Presentation Details at 4th Annual
+Targeted Protein Degradation Summit:
+
+ 
+
+ 
+
+•
+
+ 
+
+Keynote Presentation: Safety, PK and PD from Single Ascending Dose Portion of
+KT-474 Phase 1 Trial in Healthy Volunteers
+
+ 
+
+ 
+
+•
+
+ 
+
+Presenter: Jared Gollob, MD, Chief Medical Officer, Kymera Therapeutics
+
+ 
+
+ 
+
+•
+
+ 
+
+Time: 8:30 a.m. ET on Wednesday, Oct. 27, 2021
+
+ 
+
+ 
+
+•
+
+ 
+
+Industry Leaders Panel Discussion: 2021 in Review
+
+ 
+
+ 
+
+•
+
+ 
+
+Panel participation by Jared Gollob, MD, Chief Medical Officer, Kymera Therapeutics
+
+ 
+
+ 
+
+•
+
+ 
+
+Time: 9:30 a.m. ET on Wednesday, Oct. 27, 2021
+
+ 
+
+ 
+
+•
+
+ 
+
+Presentation: Impact of Understanding PKPD for Development of a STAT3 Targeted Protein Degrader
+
+ 
+
+ 
+
+•
+
+ 
+
+Presenter: Chris De Savi, PhD, Vice President, Head of Drug Discovery, Kymera Therapeutics
+
+ 
+
+ 
+
+•
+
+ 
+
+Time: 4:15 p.m. ET on Wednesday, Oct. 27, 2021
+
+ 
+
+ 
+
+•
+
+ 
+
+Presentation: Considerations for E3 Ligase Pairing and Screening of Immune-Inflammation Targets
+
+ 
+
+ 
+
+•
+
+ 
+
+Presenter: Veronica Campbell, Associate Director, Immunology, Kymera Therapeutics
+
+ 
+
+ 
+
+•
+
+ 
+
+Time: 2:30 p.m. ET on Thursday, Oct. 28, 2021
+
+Previous Kymera Presentations at the 4th Annual Targeted Protein Degradation Summit:
+
+ 
+
+ 
+
+•
+
+ 
+
+Workshop: De-risking Clinical Development of a Novel Protein Degrader
+
+ 
+
+ 
+
+•
+
+ 
+
+Presenter: Alice McDonald, Director, Translational Medicine, Kymera Therapeutics
+
+ 
+
+ 
+
+•
+
+ 
+
+Conducted on: Tuesday, Oct. 26, 2021
+
+For more information and to register for the 4th Annual Targeted Protein Degradation Summit, please
+visit: www.proteindegradation.com. Copies of the presentations will be available for download at: www.kymeratx.com/scientific-resources/.
+
+Kymera Webcast and Conference Call Details:
+
+Kymera will
+host a conference call and webcast at 10:30 a.m. ET, Wednesday, October 27. To access the conference call via phone, please dial 833-740-0921 (U.S.) or +1 409-937-8885 (International) and use the conference ID 3796327. A live webcast of the event will be available under “Events and Presentations” in the Investors
+section of the Company’s website at www.kymeratx.com. A replay of the webcast will be archived and available for one month following the event.
+
+About IRAK4 and KT-474
+
+IRAK4 is a key protein involved in inflammation mediated by the activation of toll-like receptors (TLRs) and IL-1
+receptors (IL-1Rs). Aberrant activation of these pathways is the underlying cause of multiple immune-inflammatory conditions. KT-474, a potential first-in-class, orally bioavailable IRAK4 degrader, is being developed for the treatment of
+TLR/IL-1R-driven immune-inflammatory diseases with high unmet medical need, such as atopic dermatitis, hidradenitis suppurativa, rheumatoid arthritis, and potentially
+others. KT-474 is designed to block TLR/IL-1R-mediated inflammation more broadly compared to monoclonal antibodies targeting
+single cytokines, and to enable pathway inhibition that is superior to IRAK4 kinase inhibitors by abolishing both the kinase and scaffolding functions of IRAK4. In February 2021, Kymera initiated the first-in-human Phase 1 Single and Multiple Ascending Dose trial designed to evaluate the safety, tolerability, pharmacokinetics, and pharmacodynamics of orally administered
+KT-474 in adult healthy volunteers and patients with atopic dermatitis and hidradenitis suppurativa.
+
+Kymera is
+collaborating with Sanofi on the development of degrader candidates targeting IRAK4, including KT-474 (SAR444656), outside of the oncology and 3mmune-oncology fields.
+
+ 
+
+About Pegasus™
+
+Pegasus™ is Kymera Therapeutics’ proprietary protein degradation platform, created by its team
+of experienced drug hunters to improve the effectiveness of targeted protein degradation and generate a pipeline of novel therapeutics for previously undruggable diseases. The platform consists of informatics-driven target identification, novel E3
+ligases, proprietary ternary complex predictive modeling capabilities, and degradation tools.
+
+About Kymera Therapeutics
+
+Kymera Therapeutics (Nasdaq: KYMR) is a clinical-stage biopharmaceutical company founded with the mission to discover, develop, and commercialize
+transformative therapies while leading the evolution of targeted protein degradation, a transformative new approach to address previously intractable disease targets. Kymera’s Pegasus™
+platform enables the discovery of novel small molecule degraders designed to harness the body’s natural protein recycling machinery to degrade disease-causing proteins, with a focus on undrugged nodes in validated pathways currently
+inaccessible with conventional therapeutics. Kymera’s initial programs are IRAK4, IRAKIMiD, and STAT3, each of which addresses high impact targets within the IL-1R/TLR or JAK/STAT pathways, providing the
+opportunity to treat a broad range of immune-inflammatory diseases, hematologic malignancies, and solid tumors. Kymera’s goal is to be a fully integrated biopharmaceutical company at the forefront of this new class of protein degrader
+medicines, with a pipeline of novel degrader medicines targeting disease-causing proteins that were previously intractable.
+
+Founded in 2016, Kymera is
+headquartered in Watertown, Mass. Kymera has been named a “Fierce 15” biotechnology company by FierceBiotech and has been recognized by the Boston Business Journal as one of Boston’s “Best Places to Work.” For more
+information about our people, science, and pipeline, please visit www.kymeratx.com or follow us on Twitter or LinkedIn.
+
+Cautionary Note
+Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation
+Reform Act of 1995, as amended, including, without limitation, implied and express statements regarding Kymera Therapeutics’: plans to present results from the MAD portion of the KT-474 trial; views on KT-474 as validating its platform and approach to drug development;: strategy, business plans and objectives for the KT-474 degrader program; and plans and timelines for the
+clinical development of Kymera Therapeutics’ product candidates, including the therapeutic potential and clinical benefits thereof. The words “may,” “might,” “will,” “could,” “would,”
+“should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “expect,” “estimate,” “seek,” “predict,” “future,” “project,”
+“potential,” “continue,” “target” and similar words or expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking
+statements in this press release are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those
+expressed or implied by any forward-looking statements contained in this press release, including, without limitation, risks associated with: the impact of COVID-19 on countries or regions in which we have
+operations or do business, as well as on the timing and anticipated results of our current preclinical studies and future clinical trials, strategy and future operations; the delay of any current preclinical studies or future clinical trials or the
+development of Kymera Therapeutics’ drug candidates; the risk that the results of current clinical trials and preclinical studies may not be predictive of future results in connection with future clinical trials; Kymera Therapeutics’
+ability to successfully demonstrate the safety and efficacy of its drug candidates; the timing and outcome of the Company’s planned interactions with regulatory authorities; and obtaining, maintaining and protecting its intellectual property.
+These and other risks and uncertainties are described in greater detail in the section entitled “Risk Factors” in the Quarterly Reporton Form 10-Q for the period ended June 30, 2021, filed on
+August 6, 2021, as well as discussions of potential risks, uncertainties, and other important factors in Kymera Therapeutics’ subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements
+represent Kymera Therapeutics’ views only as of today and should not be relied upon as representing its views as of any subsequent date. Kymera Therapeutics explicitly disclaims any obligation to update any forward-looking statements. No
+representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements.
+
+ 
+
+Investor Contact:
+
+Bruce Jacobs
+
+Chief Financial Officer
+
+investors@kymeratx.com
+
+857-285-5300
+
+Chris Brinzey
+
+Managing Director, Westwicke
+
+chris.brinzey@westwicke.com
+
+339-970-2843
+
+Media Contact:
+
+Tyler Gagnon
+
+Director, Corporate Communications
+
+tgagnon@kymeratx.com
+
+508-904-9446
+
+###

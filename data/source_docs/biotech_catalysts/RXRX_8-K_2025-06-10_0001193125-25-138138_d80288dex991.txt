@@ -1,0 +1,159 @@
+EX-99.1
+2
+d80288dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1 Corporate Deck June 2025
+
+Important Information This presentation of Recursion Pharmaceuticals,
+Inc. (“Recursion,” “we,” “us,” or “our”) and any accompanying discussion contain statements that are not historical facts may be considered forward-looking statements under federal securities laws and
+may be identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “potential,” “predicts,”
+“projects,” “seeks,” “should,” “will,” or words of similar meaning and include, but are not limited to, statements regarding Recursion’s ability to demonstrate the potential of technology-driven
+approaches to increase speed, quality and the scalability of drug discovery; the potential outlook for programs being prioritized and deprioritized; Recursion's future as a leader in TechBio and ability to deliver better treatments to patients
+faster; Recursion’s OS industrializing first- and best-in-class drug discovery; the occurrence or realization of potential milestones; current and future preclinical and clinical studies, including timelines for enrollment in studies, data
+readouts, and progression toward IND-enabling and other potential studies; advancements of its pipeline, partnerships, and data strategies; the potential size of the market opportunity for our drug candidates; outcomes and benefits from licenses,
+partnerships and collaborations, including option exercises by partners and the amount and timing of potential milestone payments; the initiation, timing, progress, results, and cost of our research and development programs; advancements of our
+Recursion OS; the potential for additional partnerships; our ability to identify viable new drug candidates for clinical development and the accelerating rate at which we expect to identify such candidates including our ability to leverage the
+datasets acquired through the license agreement into increased machine learning capabilities and accelerate clinical trial enrollment; Recursion’s cash burn, cash position and cash runway; the completion of core integration plans and the
+results of the business combination with Exscientia; and many others. Other important factors and information are contained in Recursion’s most recent Annual Report on Form 10-K, Quarterly Report on Form 10-Q, and the Company’s other
+filings with the U.S. Securities and Exchange Commission (the “SEC”), which can be accessed at https://ir.recursion.com, or www.sec.gov. All forward-looking statements are qualified by these cautionary statements and apply only as of the
+date they are made. Recursion does not undertake any obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise. Certain information contained in this presentation relates to or is based on
+studies, publications, surveys and other data obtained from third-party sources and the company’s own internal estimates and research. While the company believes these third-party sources to be reliable as of the date of this presentation, it
+has not independently verified, and makes no representation as to the adequacy, fairness, accuracy or completeness of, any information obtained from third- party sources. In addition, all of the market data included in this presentation involves a
+number of assumptions and limitations, and there can be no guarantee as to the accuracy or reliability of such assumptions. Finally, while the company believes its own internal research is reliable, such research has not been verified by any
+independent source. Information contained in, or that can be accessed through our website is not a part of and is not incorporated into this presentation. Cross-trial or cross-candidate comparisons against other clinical trials and other drug
+candidates are not based on head-to-head studies and are presented for informational purposes; comparisons are based on publicly available information for other clinical trials and other drug candidates. Any non-Recursion logos or trademarks
+included herein are the property of the owners thereof and are used for reference purposes only. 2
+
+Full-stack Recursion OS is industrializing first-in-class & best-in-
+class drug discovery 3
+
+We harness value from the Recursion OS with a multi-pronged capital
+efficient business strategy Pipeline strategy • Oncology • Rare disease Build internal pipeline in indications with • Other areas of high potential for advance transformational unmet need medicines for patients Partnership strategy
+• Neuroscience Partner in complex therapeutic • Oncology • Immunology areas requiring large financial • Other large, intractable commitment or competitive arbitrage areas of biology Leverage partner knowledge and clinical
+development capabilities Recursion OS Data strategy • Licensing License subsets of data and key tools • Augment Recursion OS Direct generation of new data • LOWE internally to maximize pipeline and partnership value-drivers 4 DATA
+PARTNERSHIP PIPELINE
+
+Pipeline: Advancing 5+ high-potential programs across oncology and rare
+disease Candidate Target BIC/FIC Indication Preclinical IND-Enabling Phase 1 / 2 Phase 3 1 ELUCIDATE REC-617 CDK7 BIC Advanced solid tumors Biomarker-enriched solid FIC DAHLIA REC-1245 RBM39 tumors & lymphoma EXCELERIZE REC-3565 MALT1 BIC B-cell
+malignancies PI3Kα BIC Breast cancer REC-7735 H1047R Familial adenomatous TUPELO REC-4881 MEK1/2 FIC polyposis (FAP) 2 FIC Hypophosphatasia (HPP) REV102 ENPP1 REC-4539 – ENLYGHT LSD1 BIC Solid tumors (e.g., SCLC) 3 strategic pause 1.
+Includes non-small cell lung cancer (NSCLC), colorectal cancer, breast cancer, pancreatic cancer, ovarian cancer, head and neck cancer 2. Joint Venture with Rallybio 5 3. Strategic pause to ensure a competitive Target Product Profile RARE
+ONCOLOGY
+
+1 Pharma partnerships with approximately $455M earned to date and
+potential to receive more than $20B in additional milestones NEUROSCIENCE & ONCOLOGY • $150M upfront | Up to $300M per program for 40 programs • Identifying novel targets and small molecules, with the potential to advance up to 40
+programs in neuroscience & a GI oncology indication ONCOLOGY & IMMUNOLOGY • $100M upfront | >$5B total value • Focusing on up to 15 novel small molecule candidates across oncology & immunology ONCOLOGY • $80M upfront
++ investment | ~$1.5B total value Recursion OS • Focusing on up to seven programs in oncology ONCOLOGY & IMMUNOLOGY • $20M upfront | >$650M deal value • Focused on three projects in oncology & immunology 1. Upfront and
+milestone payments from these therapeutic partnerships 6 Note: Total deal value may include program milestones (for development, commercialization and net sales) and tiered royalties on net sales
+
+Recursion OS moves medicines to clinic faster and at a lower cost
+Quickly validate Highly productive hypotheses compound design Spend less Go faster 60 14 3,000 30 12 50 2,500 25 10 2,000 20 40 8 1,500 15 30 6 1,000 10 20 4 5 500 10 2 0 0 0 0 Industry Recursion Industry Recursion Industry Recursion Industry
+Recursion (Far Left): Time from hypothesis screening to validated hit package for legacy Recursion programs. (Center Left): Legacy Exscientia compounds synthesized from hit to candidate ID. (Center Right): Total spend from hypothesis screening to
+the completion of IND-enabling studies for legacy Recursion novel chemical entity (NCE) 7 programs that advanced to clinical trials. The cost to IND has been inflation-adjusted using the US Consumer Price Index (CPI) (Far Right). Time to validated
+lead is the average of >280 legacy Recursion programs since late 2017 through 2024. Industry data adapted from Paul, et al., Nature Reviews Drug Discovery (2010) 9, 203–214 Time to hit package (months) # synthesized to candidate Cost to IND
+($M) Time to candidate ID (months)
+
+Full-stack Recursion OS is industrializing first-in-class & best-in-
+class drug discovery 8
+
+The race to accurately simulate biology at scale MACRO Real-world
+patient data + AI Patient Models Largest, fit-for-purpose perturbative biology + foundation Pathway Model models make Recursion a leader Increasingly commoditized – Introducing Boltz-2 with MIT Protein Model and NVIDIA Compute Recipe for AI +
+QM/MD + Compute = Atomistic Model leadership MICRO 9
+
+Boltz-2: Towards accurate and efficient binding affinity prediction
+• Boltz-2: Next-generation biomolecular foundation model allowing for integration of protein model to achieve complete biological systems view • Powered by Recursion's NVIDIA supercomputer for training and validation • Extends
+interaction modeling beyond structure prediction and achieves state-of-the-art performance in binding affinity prediction • Approaching FEP accuracy at speeds up to 1,000x faster than currently available FEP atomistic simulations •
+Open-source to accelerate adoption and industry impact • Accelerates the shift of value creation toward modular platforms, proprietary data and iterative dry/wet lab loops Developed by MIT (Regina Barzilay’s lab) and Recursion 10 FEP =
+free energy perturbations
+
+Pipeline
+
+Pipeline: Advancing 5+ high-potential programs across oncology and rare
+disease Candidate Target BIC/FIC Indication Preclinical IND-Enabling Phase 1 / 2 Phase 3 1 ELUCIDATE REC-617 CDK7 BIC Advanced solid tumors Biomarker-enriched solid FIC DAHLIA REC-1245 RBM39 tumors & lymphoma EXCELERIZE REC-3565 MALT1 BIC B-cell
+malignancies PI3Kα BIC Breast cancer REC-7735 H1047R Familial adenomatous TUPELO REC-4881 MEK1/2 FIC polyposis (FAP) 2 FIC Hypophosphatasia (HPP) REV102 ENPP1 REC-4539 – ENLYGHT LSD1 BIC Solid tumors (e.g., SCLC) 3 strategic pause 1.
+Includes non-small cell lung cancer (NSCLC), colorectal cancer, breast cancer, pancreatic cancer, ovarian cancer, head and neck cancer 2. Joint Venture with Rallybio 12 3. Strategic pause to ensure a competitive Target Product Profile RARE
+ONCOLOGY
+
+Targeted, differentiated portfolio strategy Powered by the Recursion OS
+2.0 platform Double down on areas of expertise and efficiency Oncology・I&I・Neuroscience・Rare Explore the uncharted by going after novel targets to develop differentiated medicines First-in-class molecules Differentiated,
+product first mindset, powered by Develop innovative molecules Recursion OS 2.0 in-house, powered by our Integrated, end-to-end tech stack platform Multimodal Biology・Design・ClinTech Provide significantly meaningful advancements with
+differentiated medicines Best-in-class molecules Focus on quick and clear go/no-go, differentiated TPP that enable rapid POC Note: Leverage platform insights to strategically in-license 13
+
+Sharpening our focus: Pipeline programs powered by Recursion OS REC-617
+| CDK7 REC-1245 | RBM39 REC-4881 | MEK1/2 Ph 1/2 Mono; Ph 1 Combo 1H25 Ph 1 Ph 1b/2 1 2 Familial adenomatous polyposis (FAP) Solid tumors Solid tumors , Lymphoma Phenotypic insight to identify novel MOA Phenotypic insight on MEK1/2 inhibition
+Optimized PK/PD with potential for to modulate DDR biology for APC-mutant FAP improved efficacy and safety via a wider therapeutic index ~185,000 addressable patients ~100,000 addressable patients ~50,000 addressable patients 3 REC-7735 | PI3Kα
+H1047R REC-3565 | MALT1 REV102 | ENPP1i IND-enabling 2H25 Ph 1 IND-enabling Breast Cancer B cell malignancies Hypophosphatasia (HPP) Highly selective with potential for Potential for less UGT1A1 inhibition Oral, highly selective & potent,
+improved efficacy and safety via a and off-target AEs suitable for lifetime dosing wider therapeutic index 4 ~7,800 addressable patients ~41,000 addressable patients ~11,000 addressable patients REC-4539 | LSD1: Precision designed for reversibility
+and CNS penetration Strategic pause to ensure a competitive Target Product Profile Note: Addressable patient populations estimate based on annual US+EU5 and currently identified indications 1. Includes ovarian cancer, breast cancer, non-small cell
+lung cancer (NSCLC), colorectal cancer, pancreatic cancer, head and neck cancer 2. Biomarker-enriched 14 3. Joint Venture with Rallybio 4. Diagnosed patients
+
+REC-617 (CDK7 inhibitor): Summary & next steps Monotherapy dose
+escalation ongoing with update 2H25; Combination study to initiate 1H25 Recursion OS Insight Preclinical Validation Clinical Development 1 CDX Model: OVCAR CDKC IC (nM) 50 Target affinity and selectivity CDK family selectivity HCC70 (breast cancer)
+IC50 (nM) Cell potency OVCAR-3 (ovarian cancer) IC (nM) 50 hERG IC (μM) 50 Safety and Human microsome Clint μL/min/mg metabolism 6 Human hep Clint μL/min/10 cells 6 Caco-2 A2B (efflux) 10 cm/s ADME pH 7.4 μg/mL F % (p.o.) 136
+novel compounds to Candidate ID in <12 months Designed to optimize PK/PD and Potent tumor regression with REC-617 Human genetics data and cell line maximize potential therapeutic index treatment screens to validate new indications • Causal
+AI approach to determine • 2D ML to optimize ADME for high • <10 hours of exposure above IC80 to permeability and low efflux optimize benefit-risk impact of CDK7 inhibition on survival • 2 new potential indications identified
+• 3D ML maximized key pocket interactions • No body weight loss & selectivity against related kinases 1. Besnard et al, AACR (2022) 15
+
+REC-1245 (RBM39 degrader): Summary & next steps Monotherapy dose
+escalation ongoing with preliminary update 1H26 Recursion OS Insight Preclinical Validation Clinical Development REC-1245 1 CDX Model: OVK18 Illustrative example Opposite Similar Identified through phenotypic Compelling efficacy and PK/PD with
+Ongoing ClinTech work to accelerate discovery platform REC-1245 treatment enrollment and identify new indications • Using RWD to identify quality sites for • Novel target mimicking CDK12 loss • REC-1245 shows significant
+monotherapy regressions faster enrollment • Hypothesized to modulate DDR • Ongoing causal AI modeling to explore • Dose-dependent antitumor activity potential additional indications correlates with PD 1. N=8 mice per group in TV
+portion. REC-1245 administered BID PO. PD evaluated after 5 days BID oral of REC-1245 at doses noted; N=3 mice per group in PD 16 portion.
+
+REC-3565 (MALT1 inhibitor): Summary & next steps Monotherapy dose
+escalation ongoing with preliminary update 2H26 Recursion OS Insight Preclinical Validation Clinical Development 1 CDX Model: OCI-Ly10 Illustrative example 344 novel compounds to Candidate ID Designed to deliver balanced Single-agent and synergistic
+activity RWD to combat competition for trial compound with improved safety enrollment • Single agent showed tumor growth (UGT1A1) and efficacy • Advanced analytics for strategic site regression • Leveraged molecular dynamics &
+recommendations and patient targeting • 70% of mice in combo arm had no hotspot analysis • >50 new potential sites identified in UK palpable tumors 10-days after last dose and Spain 1. Payne et al. ENA, (2024). 17
+
+REC-4881 (MEK1/2 inhibitor): Summary & next steps Phase 2 dose
+expansion ongoing with update 2H25 Recursion OS Insight Preclinical Validation Clinical Development min/+ 1 In Vivo Model: APC REC-4881 suppresses disease-inducing effects of APC mutations Identified through phenotypic Significant reduction in polyp
+count, RWE to benchmark clinical trial efficacy discovery platform outperforming celecoxib • Evaluating natural history data for FAP patients undergoing routine care • Novel therapeutic mechanism for FAP • Decreases both polyp
+number and pre-cancerous adenoma percentage, • Providing frame of reference for polyp • Targeted strategy selectively blocking 2 unlike celecoxib burden compared with open label ERK activation (MAPK pathway) to REC-4881 trial suppress
+disease progression 1. N=15 across arms, REC-4881 and celecoxib administered orally for 8 weeks. 18 2. Pre-cancerous adenoma percentage data on file.
+
+REC-7735: PI3K⍺ H1047R – Summary & next steps
+Biological Insight High selectivity for H1047R mutant PI3K⍺ over WT to reduce dose-limiting hyperglycemia REC-7735 Target Profile • Potential best-in-class PI3K⍺ H1047R inhibitor Design • >100-fold selective against WT
+PI3K⍺ AI-driven generative design via hotspot molecular dynamics to discover a unique chemical series • No significant in-vitro safety concerns, superior BSEP, off-target & liver spheroid profile versus competitors In Vivo Data
+• Highly CNS penetrant with low-risk of Significant tumor regressions at low doses outperforms dose-limiting AEs clinically approved agents What’s Next • Development candidate nomination 2H25 Clinical Data supports targeting H1047R
+mutant breast cancer as a monotherapy or in combination with standard of care treatments 19
+
+REV102: ENPP1 – Next steps Biological Insight Reduction of PPi
+production via controlled ENPP1 inhibition REV102 Target Profile to restore bone hypomineralization • Potential first-in-class ENPP1 inhibitor • High oral bioavailability supports QD or Design BID dosing AI-driven generative design via
+fragment screening to enhance metalloenzyme selectivity • No kinases inhibited >70% at 10 µM • No significant in vitro safety liabilities identified In Vivo Data Significant survival benefit in HPP mice through transient PPi
+reduction validates mechanistic rationale What’s Next • IND-enabling studies ongoing • Phase 1 initiation 2H26 Clinical Opportunity to address significant unmet needs in juvenile and adult-onset HPP patients 20
+
+Partnered Programs
+
+Sanofi collaboration advancing novel targets in I&I and oncology
+– 4 milestones achieved, multiple additional expected Program milestones Biology Design Optimize achieved 4 to date 1 Leveraging suite of tools tailored for each program to collaboratively identify and drive up to Development Candidate
+What’s next State of the art Applying Recursion OS QM/MD simulations Active learning to • Complete first in vivo facilities & cutting-edge generative to explore protein and maximize optimization development biology labs design
+platform ligand flexibility and exploration candidates and advance programs into • InVivomics• Gambit• ABFE• GP Learning the clinic • Digital toxicology• MMPA• RBFE• Coverage Score • Bespoke
+biological • Retrosynthesis• Co-folding • Continue to advance validation• ML based MPO filter • QM based broad pipeline of first- options confirmational analysis in-class and best-in- class medicines with Recursion OS
+Future biological insights to be identified from Recursion Phenomap Recursion OS Platform 1. Sanofi to take Development Candidate through IND enabling studies, clinical trials, regulatory approval & commercialization 22
+
+Roche and Genentech collaboration within neuroscience and GI oncology
+indication – unbiased novel biological insights to programs Design Biology Optimize ~5 Phenomaps Lab in the Loop Derived from over 1 trillion iPSC cells and What’s next 100 billion GI Onc relevant cells • Additional phenomap builds
+~5,000 transcriptomes ongoing From multiple disease-relevant cell types, subjected to compound treatments and/or • Leveraging Recursion gene KO, resulting in ~171 TB of data OS and collaborating with Roche and Genentech to identify new
+programs in a GI oncology indication & neuroscience Collaboratively working to identify novel biological insights from phenomaps for validation Recursion OS Platform Lab in the Loop image credit: Genentech 2024 23
+
+Financial Update
+
+Streamlining operations to advance platform, pipeline &
+partnerships Cash, cash equivalents and 2 3 Expected cash burn Partnership inflows restricted cash 2 • Expected 2025 cash burn of • $7 million Sanofi milestone 1 • $509.2 million in cash as of <$450 million payment achieved in
+2Q25 March 31, 2025 2 • Expected 2026 cash burn of • Potential for over $100 • Expect to end 2Q25 with <$390 million million in partnership inflows 1 over $500 million in cash 3 by end of 2026 Expected cash runway extended into
+the fourth quarter of 2027 1. Cash, cash equivalents and restricted cash 2. Cash burn, defined as operating cash flow less capital expenditures, excluding partnership and financing inflows, transaction expenses and severance 25 3. Risk-adjusted cash
+inflows from partnerships included in estimated cash runway
+
+Looking Forward
+
+Solidifying Recursion’s leadership in TechBio Our sustainable and
+continued growth plan • Commitment to internal pipeline – Strong investment behind more focused pipeline • Execution on partnerships – Fully resourced to deliver on programs and achieve milestones • Transforming drug
+discovery and development – Expanding leadership in AI-based drug discovery and automation by advancing differentiated molecules • Increasing efficiency – Our scale and technologies continue to allow us to do more with less •
+Investment in Recursion OS – Integrated end-to- end tech stack driving better decision making 27
+
+Internal and external pipeline momentum FY 2025 and 2026 upcoming
+pipeline catalysts H1 H2 H1 H2 REC-4881 (MEK1/2i) in FAP REC-617 (CDK7i) in REC-1245 (RBM39 degrader) REC-3565 (MALT1i) Additional safety and efficacy advanced solid tumors Early safety and PK from Early safety and PK from data from TUPELO
+Initiation of combination studies monotherapy trial monotherapy trial REC-617 (CDK7i) in advanced REV102 (ENPP1i) solid tumors Ph1 initiation – 2H26 Additional Phase 1 data from ELUCIDATE REC-7735 (PI3Kα H1047Ri) DC nomination 2025 2026
+Partnership Catalysts Potential for additional phenomap options Potential for multiple new project initiations Potential for multiple programs optioned by partners 28

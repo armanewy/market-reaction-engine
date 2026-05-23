@@ -1,0 +1,371 @@
+8-K
+
+false 0001818794 0001818794 2024-01-03 2024-01-03
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): January 3, 2024
+
+ 
+
+ 
+
+Dyne Therapeutics, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39509
+
+ 
+
+36-4883909
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+1560 Trapelo Road
+
+Waltham, Massachusetts
+
+ 
+
+ 
+
+02451
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (781) 786-8230
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.0001 par value per share
+
+ 
+
+DYN
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On January 3, 2024, Dyne Therapeutics, Inc. (the “Company”) issued a press release announcing positive initial clinical data from its ACHIEVE clinical trial of DYNE-101 in patients with myotonic dystrophy type 1 (“DM1”) and its DELIVER clinical trial of DYNE-251 in patients with Duchenne muscular dystrophy (“DMD”) who are amenable to exon 51 skipping. A copy of the press release is furnished as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+On January 3, 2024, the Company also made available a presentation to be used to discuss the initial clinical data from the ACHIEVE and DELIVER clinical trials. A copy of the presentation will be available by 8:00 a.m. ET on the Events & Presentations page of the Investors & Media section of the Company’s website (https://www.dyne-tx.com/). The information contained in, or that can be accessed through, the Company’s website is not a part of this filing.
+
+The information furnished under this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+On January 3, 2024, the Company announced positive initial clinical data from its ACHIEVE clinical trial of DYNE-101 in patients with DM1 and its DELIVER clinical trial of DYNE-251 in patients with DMD who are amenable to exon 51 skipping.
+
+Phase 1/2 ACHIEVE Trial of DYNE-101 in DM1
+
+The initial efficacy assessment of the DYNE-101 ACHIEVE trial is based on data from 32 adult DM1 patients enrolled in the randomized, placebo-controlled multiple ascending dose (“MAD”) portion of the trial, including 6-month data from the 1.8 mg/kg (approximate antisense oligonucleotide (“ASO”) dose) cohort (n=16) and 3-month data from the 3.4 mg/kg Q4W cohort (n=16). In each of these cohorts, participants were randomized to receive either DYNE-101 (n=6) or placebo (n=4) once every four weeks or participants in the recovery arm (n=6) received two doses of DYNE-101 followed by placebo for the remainder of the MAD portion of the trial.
+
+In the ACHIEVE trial, DYNE-101 demonstrated a dose dependent splicing correction and increase in muscle delivery and DMPK knockdown while also showing functional improvement in myotonia. Key initial findings from ACHIEVE include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Muscle Delivery: Administration of 3.4 mg/kg of DYNE-101 Q4W demonstrated a mean ASO muscle concentration of 21.5 ng/g at 3 months while administration of 1.8 mg/kg Q4W showed a mean ASO muscle concentration of 10.0 ng/g at 3 months and 12.7 ng/g at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+DMPK Knockdown: Evaluable patients in the 3.4 mg/kg Q4W group had a 40% mean DMPK knockdown from baseline compared to 25% in patients in the 1.8 mg/kg Q4W group at 3 months and 16% in patients in the 1.8 mg/kg Q4W group at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Splicing: Evaluable patients treated with 3.4 mg/kg Q4W of DYNE-101 had a 19% mean splicing correction from baseline across a broad, 22-gene panel at 3 months, with all evaluable participants experiencing an improvement. Patients in the 1.8 mg/kg Q4W group at 3 months had a 13% mean splicing correction and at 6 months had a 7% mean increase in splicing.
+
+ 
+
+ 
+
+•
+
+ 
+
+Function: Patients treated with 1.8 mg/kg of DYNE-101 Q4W had a mean 3.8 second benefit in myotonia at 6 months as measured by video hand opening time (“vHOT”).
+
+ 
+
+ 
+
+•
+
+ 
+
+Patient Reported Outcome: Patients in the DYNE-101 1.8 mg/kg Q4W group experienced an overall improvement at 6 months in the Myotonic Dystrophy Health Index (“MDHI”), including the fatigue subscale, suggesting potential benefit of DYNE-101 in the central nervous system.
+
+Safety and tolerability data in this initial assessment of the ACHIEVE trial are based on 45 patients enrolled through the 5.4 mg/kg Q8W cohort of the MAD portion. As of the data cutoff date of December 6, 2023, DYNE-101 has demonstrated a favorable safety profile. The majority of treatment-emergent adverse events were mild or moderate and no related serious treatment-emergent adverse events have been identified. In addition, no participants demonstrated treatment-emergent anemia, and no clinically meaningful changes were observed in kidney or liver parameters. No participants have demonstrated kidney injury. Liver enzyme elevations have been observed in approximately 18% of participants, with no impact on liver function. Interpretation is complicated by underlying liver disease and elevated baseline values up to approximately 2.5 times greater than the upper limit of normal. All participants who have completed the MAD portion of ACHIEVE have enrolled in the 24-week open label extension (“OLE”).
+
+Enrollment is complete through the 5.4 mg/kg Q8W cohort of the ACHIEVE trial (48 total patients enrolled), and approximately 300 doses have been administered to date supporting dose escalation up to 6.8 mg/kg. These initial clinical data position the Company to optimize dose and dose regimen for DYNE-101 with the goal of initiating registrational cohorts in the trial by the end of 2024. The Company anticipates reporting data from multiple cohorts of the ACHIEVE trial in the second half of 2024.
+
+Phase 1/2 DELIVER Trial of DYNE-251 in DMD
+
+The initial efficacy assessment of the DYNE-251 DELIVER trial is based on 6-month data from six male patients with DMD amenable to exon 51 skipping enrolled in the 5 mg/kg (approximate phosphorodiamidate morpholino oligomer (“PMO”) dose) cohort of the randomized, placebo-controlled MAD portion of the trial. Patients were randomized to receive either DYNE-251 (n=4) or placebo (n=2) once every four weeks. Once every 4-week administration of DYNE-251 in the DELIVER trial reached levels of dystrophin expression, exon skipping and percent dystrophin positive fibers that exceeded levels reported in a third-party clinical trial for the current weekly standard of care for DMD exon 51, eteplirsen, at 6 months with a 24-fold lower total PMO dose. Key initial findings from DELIVER include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Muscle delivery: DYNE-251 showed a mean 657 ng/g PMO muscle drug concentration at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Exon 51 skipping: DYNE-251 demonstrated a mean absolute exon skipping level of 0.90% and a 0.80% change from baseline at 6 months. In the eteplirsen trial, eteplirsen, which is administered weekly, showed a 0.59% mean absolute exon skipping level and a 0.40% change from baseline at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Dystrophin expression measured by Western blot: Patients treated with DYNE-251 had a mean absolute dystrophin level of 0.88% of normal and a 0.28% change from baseline at 6 months. In the eteplirsen trial, eteplirsen reached a mean absolute dystrophin level of 0.30% of normal and a 0.06% change from baseline at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Percent dystrophin positive fibers: DYNE-251 demonstrated 22.2% mean level of dystrophin positive fibers (“PDPF”) and a 19.8% change from baseline at 6 months. In the eteplirsen trial, eteplirsen showed a 19.6% mean level of PDPF and a 10.7% change from baseline at 6 months.
+
+The DELIVER trial does not compare DYNE-251 to eteplirsen, and no head-to-head trials have been conducted comparing DYNE-251 to eteplirsen. Eteplirsen data may not be directly comparable to the DELIVER data due to differences between the trials in trial protocols, dosing regimens and patient populations. Accordingly, these cross-trial comparisons may not be reliable.
+
+Safety and tolerability data in the DELIVER trial are based on 37 patients enrolled through the 20 mg/kg cohort of the MAD portion. As of the data cutoff date of December 6, 2023, DYNE-251 has demonstrated a favorable safety profile. The majority of treatment-emergent adverse events were mild or moderate and no related serious adverse events have been identified. In addition, no participants demonstrated treatment-emergent anemia, and no clinically meaningful changes were observed in kidney parameters or electrolytes, including magnesium. All participants who have completed the MAD portion of DELIVER have enrolled in the 24-week OLE.
+
+Enrollment is complete through the 20 mg/kg cohort of the DELIVER trial (40 total patients enrolled) and approximately 275 doses have been administered to date supporting dose escalation up to 40 mg/kg. These initial clinical data position the Company to optimize dose and dose regimen for DYNE-251 with the goal of initiating registrational cohorts by the end of 2024. The Company anticipates reporting data from multiple cohorts of the DELIVER trial in the second half of 2024.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE platform, the anticipated timelines for reporting data from the DYNE-101 and DYNE-251 clinical trials, and plans to optimize dose and dose regimen for DYNE-101 and DYNE-251, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “predict,” “project,” “potential,” “should,” or “would,” or the negative of these terms, or other comparable terminology are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in these forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in these forward-looking statements as a result of various important factors, including: uncertainties inherent in the identification and development of product candidates, including the initiation and completion of preclinical studies and clinical trials; uncertainties as to the availability and timing of results from preclinical studies and clinical trials; the timing of and the Company’s ability to initiate and enroll patients in clinical trials; whether results from preclinical studies and initial data from early clinical trials will be predictive of the final results of the clinical trials or future trials; whether the Company’s cash resources will be sufficient to fund the Company’s foreseeable and unforeseeable operating expenses and capital expenditure requirements; as well as the risks and uncertainties identified in the Company’s filings with the Securities and Exchange Commission (“SEC”), including the Company’s most recent Form 10-Q and in subsequent filings the Company may make with the SEC. In addition, the forward-looking statements included in this Current Report on Form 8-K represent the Company’s views as of the date hereof. The Company anticipates that subsequent events and developments will cause its views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date hereof.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated January 3, 2024.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+DYNE THERAPEUTICS, INC.
+
+Date: January 3, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Joshua Brumm
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Joshua Brumm
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer

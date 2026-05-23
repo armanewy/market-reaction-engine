@@ -1,0 +1,211 @@
+8-K
+
+0001061983false00010619832022-12-082022-12-08
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 08, 2022
+
+ 
+
+ 
+
+Cytokinetics, Incorporated
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+000-50633
+
+94-3291317
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+350 Oyster Point Boulevard
+
+ 
+
+South San Francisco, California
+
+ 
+
+94080
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (650) 624-3000
+
+ 
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+CYTK
+
+ 
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On December 8, 2022, Cytokinetics, Incorporated announced that data were presented at the 33rd International Symposium on ALS/MND related to survival predictions from FORTITUDE-ALS (Functional Outcomes in a Randomized Trial of Investigational Treatment with CK-2127107 to Understand Decline in Endpoints – in ALS), the Phase 2 clinical trial of reldesemtiv in ALS.
+
+Predicted Survival Risk Score for Participants in FORTITUDE-ALS Strongly Correlated with Decline in ALSFRS-R
+
+In a previously presented post-hoc analysis of disease progression in FORTITUDE-ALS, patients were grouped into tertiles according to their pre-study rate of decline in the ALS Functional Rating Scale Revised (ALSFRS-R) total score. The largest treatment effect from reldesemtiv was observed in the intermediate and fast progressing tertiles. Most patients in these two tertiles had experienced symptoms for ≤24 months and had a baseline ALSFRS-R total score ≤44 (referred to as the 24/44 criteria). In this analysis, the ENCALS survival model was used to calculate a predicted survival risk score for all participants in FORTITUDE-ALS. The ENCALS survival model calculates the risk score based on several factors, including age at onset, onset site, cognition, vital capacity, El Escorial classification, diagnostic delay, C9orf72 expansion repeat, and decline in ALSFRS-R total score. Based on their risk score, participants were assigned to one of five risk groups based on predicted survival: very short (G1), short (G2), intermediate (G3), long (G4), and very long (G5). Among participants in FORTITUDE-ALS, the mean ENCALS risk score at baseline was similar for patients receiving reldesemtiv and for those receiving placebo, and there was no statistically significant difference in the distribution of risk groups for those randomized to reldesemtiv compared to those randomized to placebo. When participants who met the 24/44 criteria (n=272) and those who did not (n=184) were categorized according to their ENCALS risk score, those who met the criteria were primarily in the G1, G2 or G3 groups associated with fast or intermediate progression and shorter predicted survival, whereas those who did not meet the criteria were primarily in the G4 and G5 risk groups associated with slow progression and longer survival. These findings suggest that ENCALS risk scores are strongly correlated with the rate of decline in the ALSFRS-R.
+
+In the ongoing Phase 3 trial of reldesemtiv, COURAGE-ALS (Clinical Outcomes Using Reldesemtiv on ALSFRS-R in a Global Evaluation in ALS), in order to enhance the ability to detect a treatment effect, participants must meet the 24/44 criteria to enroll in the trial. Findings from the current analysis of FORTITUDE-ALS suggest that implementing the 24/44 inclusion criteria will enrich for the enrollment of participants with more rapidly progressing disease, while minimizing, but not excluding, participants with more slowly progressing disease.
+
+COURAGE-ALS & COURAGE-ALS OLE: Trial Design
+
+COURAGE-ALS, a Phase 3, multi-center, double-blind, randomized, placebo-controlled trial of reldesemtiv is expected to enroll approximately 555 patients with ALS. Patients are randomized 2:1 to receive 300 mg of reldesemtiv or matching placebo dosed orally twice daily for 24 weeks, followed by a 24-week period in which all patients will receive 300 mg of reldesemtiv twice daily. Eligible patients are within the first two years of their first symptom of muscle weakness, have a vital capacity of ≥65% predicted, and a screening ALS Functional Rating Scale – Revised (ALSFRS-R) ≤44. Patients currently taking stable doses of Radicava® (edaravone) and/or Rilutek® (riluzole) are permitted to enroll, and randomization is stratified accordingly. In countries where the combination drug of sodium phenylbutyrate and taurursodiol is approved, Albrioza® (Canada) and Relyvrio® (US) are also permitted. The primary efficacy endpoint is change from baseline to 24 weeks in ALSFRS-R. Secondary endpoints include combined assessment of ALSFRS-R total score, time to onset of respiratory insufficiency and survival time up to week 24 using a joint rank test; change from baseline to 24 weeks for vital capacity; ALSAQ-40; and bilateral handgrip strength. Two unblinded interim analyses by the Data Monitoring Committee are planned. The first interim analysis assessing for futility occurred 12 weeks after approximately one-third or more of the planned sample size was randomized, and the Data Monitoring Committee recommended that the trial continue. A second interim analysis will also assess for futility and there will also be an option for a fixed increase in total enrollment, if deemed necessary, to augment the statistical power of the trial.
+
+An open-label extension trial, COURAGE-ALS OLE, is open to people who have completed participation in COURAGE-ALS. Following enrollment in COURAGE-ALS OLE, participants continue to receive 300 mg of reldesemtiv dosed orally twice daily for 48 weeks after which they may transition into the Managed Access Program. The primary endpoint is the incidence of adverse events. Secondary endpoints include the time to the first occurrence of respiratory insufficiency or death, time to the first hospitalization,
+
+combined assessment of change in ALSFRS-R total score, time to onset of respiratory insufficiency, and survival time, changes in ALSFRS-R total score, and the slope of changes in ALSFRS-R total score. Additional information on COURAGE-ALS OLE can be found at www.clinicaltrials.gov.
+
+About Reldesemtiv
+
+Skeletal muscle contractility is driven by the sarcomere, the fundamental unit of skeletal muscle contraction and a highly ordered cytoskeletal structure composed of several key proteins. Skeletal muscle myosin is the motor protein that converts chemical energy into mechanical force through its interaction with actin. A set of regulatory proteins, which includes tropomyosin and the troponin complex, make the actin-myosin interaction dependent on changes in intracellular calcium levels. Reldesemtiv is an investigational, selective, small molecule fast skeletal muscle troponin activator (FSTA) arising from Cytokinetics’ skeletal muscle contractility program. Reldesemtiv was designed to slow the rate of calcium release from the regulatory troponin complex of fast skeletal muscle fibers, which sensitizes the sarcomere to calcium, leading to an increase in skeletal muscle contractility.
+
+The development program for reldesemtiv is assessing its potential for the treatment of ALS and includes FORTITUDE-ALS, a completed Phase 2 trial, and COURAGE-ALS, the ongoing Phase 3 clinical trial designed to evaluate the effect of treatment with reldesemtiv compared to placebo on measures of disease progression, functional outcomes and survival.
+
+About ALS
+
+Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease that afflicts approximately 27,000 people in the United States and a comparable number of patients in Europe. Approximately 6,300 new cases of ALS are diagnosed each year in the United States. The average life expectancy of a person with ALS is approximately three to five years after diagnosis and only approximately 10 percent of people with ALS survive for more than 10 years. Death is usually due to respiratory failure because of diminished strength in the skeletal muscles responsible for breathing. Few treatment options exist for these patients, resulting in a high unmet need for new therapies to address functional deficits and disease progression.
+
+About Cytokinetics
+
+Cytokinetics is a late-stage biopharmaceutical company focused on discovering, developing and commercializing first-in-class muscle activators and next-in-class muscle inhibitors as potential treatments for debilitating diseases in which muscle performance is compromised. As a leader in muscle biology and the mechanics of muscle performance, the company is developing small molecule drug candidates specifically engineered to impact muscle function and contractility. Cytokinetics is readying for the potential commercialization of omecamtiv mecarbil, its cardiac muscle activator, following positive results from GALACTIC-HF, a large, international Phase 3 clinical trial in patients with heart failure. Cytokinetics is also developing aficamten, a next-in-class cardiac myosin inhibitor, currently the subject of SEQUOIA-HCM, the Phase 3 clinical trial of aficamten in patients with symptomatic obstructive hypertrophic cardiomyopathy (HCM). Aficamten is also being evaluated in non-obstructive HCM in Cohort 4 of the Phase 2 clinical trial, REDWOOD-HCM. Cytokinetics is also developing reldesemtiv, an investigational fast skeletal muscle troponin activator, currently the subject of COURAGE-ALS, a Phase 3 clinical trial in patients with amyotrophic lateral sclerosis (ALS). Cytokinetics continues its over 20-year history of pioneering innovation in muscle biology and related pharmacology focused to diseases of muscle dysfunction and conditions of muscle weakness.
+
+Forward-Looking Statements
+
+ 
+
+This press release contains forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995 (the "Act"). Cytokinetics disclaims any intent or obligation to update these forward-looking statements and claims the protection of the Act's Safe Harbor for forward-looking statements. Examples of such statements include, but are not limited to, statements, express or implied, relating to the potential benefits of reldesemtiv for patients with ALS and statements relating to our ability to obtain marketing approval from FDA or any other regulatory body for reldesemtiv. Such statements are based on management's current expectations, but actual results may differ materially due to various risks and uncertainties, including, but not limited to, potential difficulties or delays in the development, testing, regulatory approvals for trial commencement, progression or product sale or manufacturing, or production of Cytokinetics' drug candidates that could slow or prevent clinical development or product approval; Cytokinetics' drug candidates may have adverse side effects or inadequate therapeutic efficacy; the FDA or foreign regulatory agencies may delay or limit Cytokinetics' ability to conduct clinical trials; Cytokinetics may be unable to obtain or maintain patent or trade secret protection for its intellectual property; standards of care may change, rendering Cytokinetics' drug candidates obsolete; and competitive products or alternative therapies may be developed by others for the treatment of indications Cytokinetics' drug candidates and potential drug candidates may target. For further information regarding these and other risks related to Cytokinetics' business, investors should consult Cytokinetics' filings with the Securities and Exchange Commission.
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CYTOKINETICS, INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+December 8, 2022
+
+By:
+
+/s/ John Faurescu
+
+ 
+
+ 
+
+ 
+
+John Faurescu, Esq., Vice President, Corporate Legal & Assistant Secretary

@@ -1,0 +1,281 @@
+8-K
+
+NASDAQ false 0001422143 0001422143 2024-01-30 2024-01-30
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 30, 2024
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37620
+
+ 
+
+61-1547851
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+12730 High Bluff Drive, Suite 400, San Diego, CA
+
+ 
+
+92130
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 500-8800
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+KURA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 2.02
+
+Results of Operations and Financial Condition.
+
+On January 30, 2024, Kura Oncology, Inc. (the “Company”) announced that its preliminary unaudited cash, cash equivalents and short-term investments as of December 31, 2023 were approximately $424 million and that the net proceeds from its recent private placement that closed on January 26, 2024 were approximately $146 million.
+
+The preliminary unaudited cash position discussed above is subject to the completion of financial closing procedures and other developments that may arise between now and the time the financial results for the fourth quarter of 2023 are finalized, as well as the completion of the audit of the 2023 financial statements. Therefore, actual results may differ materially from these estimates. In addition, the above estimates do not present all information necessary for an understanding of the Company’s financial condition as of December 31, 2023.
+
+The information contained in this Current Report on Form 8-K under Item 2.02 is being furnished and shall not be deemed to be “filed” for the purposes of Section 18 of the Securities and Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section and will not be incorporated by reference into any filing by the Company under the Securities Act of 1933, as amended, or the Exchange Act, unless specifically identified as being incorporated therein by reference.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On January 30, 2024, the Company reported preliminary clinical data from the first 20 patients in KOMET-007, a Phase 1 dose-escalation trial of the Company’s potent and selective menin inhibitor, ziftomenib, in combination with standards of care, including cytarabine/daunorubicin (“7+3”) and venetoclax/azacitidine (“ven/aza”), in patients with NPM1-mutant (“NPM1-m”) and KMT2A-rearranged (“KMT2A-r”) acute myeloid leukemia (“AML”).
+
+The first 20 patients were enrolled in KOMET-007 between July 2023 and November 2023, including five newly diagnosed patients with adverse risk1 NPM1-m or KMT2A-r AML and 15 patients with refractory/relapsed (“R/R”) NPM1-m or KMT2A-r AML.
+
+Continuous daily dosing of ziftomenib at 200 mg QD has been well tolerated and the safety profile is consistent with features of underlying disease and backbone therapies. No differentiation syndrome events of any grade were reported, and no dose-limiting toxicities, evidence of QTc prolongation, drug-drug interactions or additive myelosuppression were observed.
+
+As of the data cutoff on January 11, 2024, all newly diagnosed patients treated with ziftomenib and 7+3 achieved a complete remission (“CR”) with full count recovery, for a CR rate of 100% (5/5), including four patients with NPM1-m AML and one patient with KMT2A-r AML.
+
+The overall response rate (“ORR”) among R/R patients treated with ziftomenib and ven/aza was 53% (8/15). Among all patients treated with ziftomenib and ven/aza, 40% (6/15) received prior treatment with a menin inhibitor. The CR/CRh2 rate in patients who were menin inhibitor naïve was 56% (5/9), including 60% (3/5) in patients with NPM1-m AML and 50% (2/4) in patients with KMT2A-r AML. The ORR in patients who received prior venetoclax was 40% (4/10), including 60% (3/5) in patients with NPM1-m AML.
+
+As of the data cutoff, 80% (16/20) of patients remain on trial, including 100% (11/11) of all NPM1-m patients.
+
+The 200 mg dose of ziftomenib has been cleared in the R/R ven/aza cohorts and enrollment at the 400 mg dose is ongoing. Upon determination of a recommended Phase 2 dose, the Company plans to initiate a Phase 1b dose validation/expansion in combination with ven/aza in newly diagnosed patients with NPM1-m (without adverse risk) or KMT2A-r AML.
+
+ 
+
+1 
+
+Age > 60 years and/or treatment-related AML and/or adverse risk cytogenetics per European LeukemiaNet
+
+2 
+
+CR with partial hematologic recovery
+
+The Company expects to complete enrollment of all 85 patients in KOMET-001, the Company’s Phase 2 registration-directed trial of ziftomenib in patients with R/R NPM1-m AML, by the middle of this year.
+
+The Company’s current cash, cash equivalents and investments, including the proceeds from the Company’s recently announced private placement, are expected to fund operations into 2027.
+
+On January 30, 2024, the Company will host a virtual investor event and present certain materials related to the Company (the “Presentation”). A copy of the Presentation is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Forward-Looking Statements
+
+Statements contained in this Current Report on Form 8-K regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements, including, but not limited to, statements regarding, among other things, the efficacy, safety and therapeutic potential of ziftomenib, potential benefits of combining ziftomenib with appropriate standards of care, plans regarding future clinical trials in the ziftomenib program, plans and expected timing for enrollment in the Phase 2 registration-directed trial of ziftomenib, and the Company’s cash runway.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. Risks that contribute to the uncertain nature of the forward-looking statements include: the risk that compounds that appeared promising in early research or clinical trials do not demonstrate safety and/or efficacy in later preclinical studies or clinical trials, the risk that the Company may not obtain approval to market its product candidates, uncertainties associated with performing clinical trials, regulatory filings, applications and other interactions with regulatory bodies, risks associated with reliance on third parties to successfully conduct clinical trials, risks associated with the Company’s cash needs, the risks associated with reliance on outside financing to meet capital requirements, and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs, as well as those risks and uncertainties set forth more fully under the caption “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2023 filed with the Securities and Exchange Commission (“SEC”) on November 2, 2023, as well as discussions of potential risks, uncertainties and other important factors in the Company’s other filings and reports with the SEC. All forward-looking statements contained in this Current Report on Form 8-K speak only as of the date on which they were made. The Company undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+99.1
+
+  
+
+Presentation Materials of Kura Oncology, Inc.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+Date: January 30, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer

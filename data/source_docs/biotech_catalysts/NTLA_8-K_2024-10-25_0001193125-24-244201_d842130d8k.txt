@@ -1,0 +1,275 @@
+8-K
+
+false 0001652130 0001652130 2024-10-24 2024-10-24
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 24, 2024
+
+ 
+
+ 
+
+INTELLIA THERAPEUTICS, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37766
+
+ 
+
+36-4785571
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+40 Erie Street, Suite 130
+
+Cambridge, Massachusetts
+
+ 
+
+ 
+
+02139
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (857) 285-6200
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock (Par Value $0.0001)
+
+ 
+
+NTLA
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On October 24, 2024, the Company issued a press release titled “Intellia Presents Positive Results from the Phase 2 Study of NTLA-2002, an Investigational In Vivo CRISPR Gene Editing Treatment for Hereditary Angioedema (HAE).” A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and are incorporated herein by reference.
+
+The information under this Item 7.01, including Exhibit 99.1 hereto, is being furnished herewith and shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+On October 24, 2024, the Company announced Phase 2 data from the ongoing Phase 1/2 study of NTLA-2002 in patients with hereditary angioedema (HAE), with results continuing to indicate that NTLA-2002 has the potential to eliminate HAE attacks following a one-time infusion. NTLA-2002 is an investigational in vivo CRISPR-based gene editing therapy in development as a one-time treatment for HAE, a rare genetic condition that leads to potentially life-threatening swelling attacks.
+
+The Phase 2 study is a randomized, double-blind, placebo-controlled study to evaluate the efficacy, safety, pharmacodynamics and pharmacokinetics of NTLA-2002. A total of 27 participants were enrolled and randomized to receive one of two single doses of NTLA-2002 (25 mg or 50 mg) or placebo via intravenous infusion. The data cut-off date for the analysis was April 4, 2024, when the 25th patient completed the 16-week primary observation period.
+
+A single dose of NTLA-2002 led to deep attack rate reductions during the primary observation period. The mean monthly attack rates relative to placebo were reduced by 75% and 77% for the 25 mg and 50 mg arms during weeks 1 – 16, and by 80% and 81% during weeks 5 – 16, respectively. In the 50 mg arm, eight of 11 patients experienced a complete response after a single dose of NTLA-2002, with no attacks at all during the 16-week primary observation period; these eight patients continued to be attack-free through the latest follow-up (median of eight months) and no subsequent treatment has been required. In contrast, four of the 10 patients in the 25 mg arm experienced a complete response and zero patients in the placebo arm. Similarly, patients who received the 50 mg dose achieved a greater kallikrein protein reduction, with an 86% mean reduction from baseline compared to 55% in the 25 mg arm at week 16.
+
+At both dose levels, NTLA-2002 was well tolerated. The most frequent adverse events (AEs) were headache, fatigue and nasopharyngitis. There were no serious AEs and all AEs were either Grade 1 or 2, except for one patient in the placebo arm who experienced a serious AE of Grade 4 edema of the tongue with breathing impairment that was attributed to their underlying HAE. No clinically significant laboratory abnormalities were observed.
+
+Based on these results, Intellia selected 50 mg for evaluation in the global, pivotal Phase 3 HAELO study, which is actively screening patients.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K and certain of the materials furnished or filed herewith contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+These forward-looking statements include, but are not limited to, express or implied statements regarding Intellia’s beliefs and expectations regarding: the safety, efficacy, success and advancement of its clinical program for NTLA-2002 for the treatment of hereditary angioedema (HAE) pursuant to its clinical trial applications and investigational new drug application, including the potential for NTLA-2002 to become the first one-time treatment for HAE, the potential for NTLA-2002 to be a functional cure for people living with HAE and the potential of NTLA-2002 to redefine the treatment paradigm for HAE.
+
+Any forward-looking statements in this press release are based on management’s current expectations and beliefs of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: risks related to Intellia’s ability to protect and maintain its intellectual property position; risks related to Intellia’s relationship with third parties, including its licensors and licensees; risks related to the ability of its licensors to protect and maintain their intellectual
+
+property position; uncertainties related to the authorization, initiation, enrollment and conduct of studies and other development requirements for its product candidates, including NTLA-2002; the risk that NTLA-2002 will not be successfully developed and commercialized; and the risk that the results of preclinical studies or clinical studies, such as the clinical study of NTLA-2002, will not be predictive of future results in connection with future studies for the same product candidate or Intellia’s other product candidates. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause Intellia’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in Intellia’s most recent annual report on Form 10-K and quarterly report on Form 10-Q, as well as discussions of potential risks, uncertainties, and other important factors in Intellia’s other filings with the Securities and Exchange Commission. All information in this press release is as of the date of the release, and Intellia undertakes no duty to update this information unless required by law.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+ No. 
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release dated October 24, 2024.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Intellia Therapeutics, Inc.
+
+Date: October 25, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ John M. Leonard
+
+ 
+
+ 
+
+Name:
+
+ 
+
+John M. Leonard
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Executive Officer and President

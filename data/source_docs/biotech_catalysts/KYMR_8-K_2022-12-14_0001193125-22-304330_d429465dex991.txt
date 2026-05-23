@@ -1,0 +1,353 @@
+EX-99.1
+2
+d429465dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+Kymera Announces Positive Results from Phase 1 Clinical Trial Evaluating
+KT-474 in Patients with HS and AD and Sanofi’s Decision to Advance KT-474 into Phase 2 Clinical Trials
+
+KT-474 Phase 1 clinical data in HS and AD patients demonstrate robust IRAK4 knockdown in blood and
+active skin lesions and systemic suppression of proinflammatory cytokines and chemokines with a favorable safety profile
+
+Clinical
+endpoints addressing disease burden and symptoms demonstrate a highly competitive profile
+
+after four weeks of dosing, with
+substantial responses in majority of both HS and AD patients
+
+Modest, non-adverse QTc
+prolongation spontaneously resolves back to baseline during the 4-week dosing period
+
+Sanofi
+has committed to advance KT-474 (SAR444656) into Phase 2 clinical trials
+
+Oncology programs KT-413 and KT-333 demonstrate substantial target knockdown in ongoing
+
+Phase 1a dose escalation clinical trials, with no dose limiting toxicities observed
+
+MDM2 (KT-253) IND cleared by FDA; Phase 1 to start in early 2023
+
+Kymera to host webcast today at 8:00 a.m. EST; webcast link available here.
+
+WATERTOWN, Mass., December 14, 2022 – Kymera Therapeutics, Inc. (NASDAQ: KYMR), a clinical-stage biopharmaceutical company
+advancing targeted protein degradation (TPD) to deliver novel small molecule protein degrader medicines, today announced positive clinical results from the patient cohort portion of its KT-474 (IRAK4) Phase 1
+clinical trial, as well as updates on its three oncology programs: KT-413 (IRAKIMiD), KT-333 (STAT3) and KT-253 (MDM2).
+
+“This is a pivotal moment for Kymera and for the field of protein degradation,” said Nello Mainolfi, PhD, Founder, President and CEO. “Kymera
+was founded to harness the enormous potential of targeted protein degradation and bring more effective therapies to patients. We believe that, for the first time, we have demonstrated clinical impact of a degrader,
+KT-474, outside of oncology and in complex inflammatory diseases such as HS and AD. We have also demonstrated the superior clinical potential of an IRAK4 degrader over a small molecule inhibitor, validating
+our platform and target selection strategy. In addition, we are excited that programs from our oncology pipeline continue to show fidelity of translation of PK, PD and safety from preclinical to human patients, validating our proprietary molecular
+design and translational quantitative system pharmacology modelling. We are on track to achieve our ambitious objectives of building a disease- and technology-agnostic, fully integrated global biopharmaceutical company that will continue to advance
+degrader drugs with potentially best-in-class, differentiated profiles across multiple indications.”
+
+IRAK4 Degrader (KT-474)
+
+Part C of Kymera’s KT-474 Phase 1 clinical trial was designed to confirm that the PK/PD and safety data previously
+demonstrated in healthy volunteers would translate into patients with hidradenitis suppurativa (HS) and atopic dermatitis (AD). Data was also collected on the change in circulating inflammatory biomarkers and proinflammatory gene transcripts in the
+patients’ skin, as well as on multiple clinical endpoints.
+
+“The patient cohort results exceeded our expectations for a trial with only 4 weeks
+of dosing, demonstrating not only robust IRAK4 degradation in blood and skin with a favorable safety profile comparable to what was observed in healthy volunteers, but also a systemic anti-inflammatory response associated with improvement in skin
+lesions and symptoms in both HS and AD patients,” said Jared Gollob, MD, Chief Medical Officer. “We believe these results provide the first clinical validation for targeting the IRAK4 pathway with a degrader in TLR/IL-1R-driven inflammatory diseases, with KT- 474 exhibiting activity that is clearly differentiated from IRAK4 small molecule kinase inhibitors and that has the potential
+to improve the lives of patients with HS and AD.”
+
+Sanofi, which is collaborating with Kymera on the development of
+KT-474 (SAR444656) outside of the oncology and immune-oncology fields, has notified Kymera of its commitment to advance KT-474 into Phase 2 clinical studies. Initial
+Phase 2 clinical trial of KT-474 will investigate its potential in HS and AD with the first study initiating in 2023.
+
+“The HS and AD patient data are encouraging as they highlight the broad potential of KT-474 and continue to
+validate Sanofi’s commitment to the target and to TPD’s unique ability to unlock this critical pathway,” said Naimish Patel, MD, Head of Global Development, Immunology and Inflammation at Sanofi. “We look forward to advancing the
+program into Phase 2 studies, and the potential that KT-474 offers to patients with a variety of immunological conditions.”
+
+Study Design: Part C patients were dosed for 28 days and subsequently followed for an additional 2 weeks out to Day 42. Patients received 75 mg of KT-474 once daily in the fed state. That dose was selected to achieve similar exposures to healthy volunteers in the multiple ascending dose (MAD) portion of the Phase 1 clinical trial who received 100 mg in the
+fasted state (MAD3).
+
+Baseline Characteristics and Disposition: A total of 21 patients were enrolled in the trial, including 13 HS and 8 AD
+patients, with median age 31-40 years (13 female, 8 male). Disease severity for HS was moderate (10), severe (1) and very severe (2) and for AD was mild (1), moderate (5) and severe (2). One HS
+and 1 AD patient withdrew from treatment early due to personal reasons, resulting in 12 HS and 7 AD patients evaluable for PD and clinical efficacy.
+
+Pharmacokinetics/IRAK4 Pharmacodynamics: In patients with HS and AD, KT-474 demonstrated plasma PK in Part C
+that was comparable to healthy volunteers in MAD3. Baseline IRAK4 level in skin lesions of HS and AD patients was approximately two-fold higher compared to healthy volunteers.
+KT-474 demonstrated IRAK4 knockdown in both blood and skin that was comparable to MAD3, with maximum degradation exceeding 90%. Target degradation was similar across HS and AD patients in both blood and skin.
+
+Activity Against Biomarkers of Inflammation: In ex vivo cytokine stimulation assays, KT-474
+demonstrated broad and deep inhibition of multiple disease-relevant cytokines, including inhibition of up to 84% in HS and up to 98% in AD. Cytokine reductions across both patient groups in Part C were comparable or superior to what was observed in
+MAD3. KT-474 also reduced several circulating cytokines and acute phase reactants in vivo such as IL-6, CRP,
+IL-1ß and serum amyloid A (SAA). In serial biopsies of skin lesions, proinflammatory gene transcripts that were strongly downregulated in at least 50% of evaluable patients included but not limited to: IL-5, NLRP3, CXCL1 and IL-2RB in AD and IL-1ß, IL-36A,
+IL-17A, IFN-g, IL-8, granzyme B, IL-2RA and CSF3 in HS.
+
+Clinical Activity: Atopic Dermatitis (AD)
+
+AD
+clinical endpoints collected in the trial included EASI score, Peak Pruritus NRS and vIGA-AD. Peak Pruritus NRS was used to derive Peak Pruritus NRS responder rate. Results are shown in the table below. vIGA-AD was stable or improved in all
+patients.
+
+ 
+
+ 
+
+  
+
+Atopic Dermatitis (n=7)
+
+Responders:
+
+  
+
+Peak Pruritus NRS: Past Week/Past 24 Hours
+
+  
+
+57%/71%
+
+Mean Reductions:
+
+  
+
+EASI
+
+  
+
+-37%
+
+Peak Pruritus NRS: Past Week/Past 24 Hours
+
+  
+
+-52%/-63%
+
+Note: Results represent highest response/deepest reduction across Days 28 through 42.
+
+EASI: Eczema Area and Severity Index; NRS: Numerical Rating Score; vIGA: Validated Investigator Global Assessment
+
+Clinical Activity: Hidradenitis Suppurativa (HS)
+
+HS clinical endpoints collected in the trial included AN count, Pain NRS, Pruritus NRS and HS-PGA. AN count and Pain
+NRS were also used to derive AN 0/1/2, HiSCR and Pain NRS30 responder rates. Analyses were done for all patients, including very severe (n=12), and for patients with only moderate to severe disease (n=10). Results are shown in the table below. HS-PGA was stable or improved in all patients.
+
+ 
+
+ 
+
+  
+
+Hidradenitis Suppurativa
+
+Responders:
+
+  
+
+All Patients (n=12*)
+
+  
+
+Moderate/Severe (n=10)
+
+AN Count 0/1/2
+
+  
+
+42%
+
+  
+
+50%
+
+HiSCR50/ HiSCR75
+
+  
+
+42%/25%
+
+  
+
+50%/30%
+
+Pain NRS30
+
+  
+
+50%
+
+  
+
+60%
+
+Mean Reductions:
+
+  
+
+  
+
+AN Count
+
+  
+
+-46%
+
+  
+
+-51%
+
+Pain NRS
+
+  
+
+-49%
+
+  
+
+-55%
+
+Peak Pruritus NRS
+
+  
+
+-62%
+
+  
+
+-68%
+
+ 
+
+*
+
+One patient started on concurrent HS medications on Day 34 and was censored at Day 35 and Day 42 from Mean
+Reductions values.
+
+Note: Results represent highest response/deepest reduction across Days 28 through 42. Pain and Pruritus scores
+measured over past week. AN count: Abscess and inflammatory nodule count; HiSCR: Hidradenitis Suppurativa Clinical Response; PGA: Physician Global Assessment
+
+Safety: KT-474 was generally safe and well-tolerated, with no serious adverse events, no drug-related
+infections, and no dose interruptions or discontinuations due to adverse events. Adverse events, which included headache, fatigue and diarrhea, were predominantly mild, and all fully resolved. Previously seen modest,
+non-adverse QTcF prolongation was observed at Days 7-14, the mean of which was slightly below the mean levels at similar timepoints in HV MAD3. The QTcF prolongation
+declined spontaneously with continued dosing, with resolution to baseline by Day 28, and remained in the same normal range after cessation of dosing.
+
+“I am pleased to see the positive clinical activity signals in both HS and AD in this patient cohort, with the internal consistency between effects on
+inflammatory biomarkers and impact on clinical endpoints increasing confidence in results from a single-arm trial,” said Afsaneh Alavi, MD, Professor of Dermatology at Mayo Clinic. “I believe these
+promising early efficacy and safety data in patients support the further development and exciting potential of orally-administered KT-474 in HS and AD.”
+
+Oncology Degraders: KT-333, KT-413,
+KT-253
+
+Kymera’s oncology programs include two molecules in Phase 1 clinical trials, KT-333 and KT-413, and KT-253, a program that is scheduled to enter the clinic in early 2023.
+
+“We believe the initial data from the dose escalation phase of our ongoing KT-333 and KT-413 trials are very encouraging, as they are demonstrating fidelity of PK/PD translation from preclinical models to patients, and showing that, even at low doses, we are seeing target degradation in blood and
+tumor without any dose limiting toxicities observed,” said Dr. Gollob. “We view this as important proof of mechanism and a critical first step in our plans to escalate dosing to levels which we expect will demonstrate clinical impact
+in our target patient populations and look forward to sharing additional data in 2023.”
+
+STAT3 degrader program
+(KT-333)
+
+KT-333 is a potent degrader of STAT3, a transcriptional
+regulator that has been linked to numerous cancers and other inflammatory and autoimmune diseases. KT-333 is being developed for the treatment of STAT3-dependent hematological malignancies and solid tumors.
+The Phase 1 clinical trial of KT-333 is designed to evaluate the safety, tolerability, PK/PD and clinical activity of KT-333 dosed weekly on Days 1, 8 and 15 of 28-day cycles in adult patients with relapsed and/or refractory lymphomas, leukemias and solid tumors.
+
+The Phase 1a dose escalation portion of the trial is ongoing; dose level 1 (DL1, 0.05 mg/kg) has been
+completed with a total of four patients enrolled. All patients were heavily pretreated with multiple prior lines of therapy and included three patients with solid tumors and one patient with cutaneous T-cell
+lymphoma. Plasma PK and PD translated as expected in humans with mean maximum STAT3 degradation in PBMC following the first 2 doses averaging 66%, with maximum STAT3 knockdown of up to 86% as measured by mass spectrometry. There were no DLTs or
+treatment-related SAEs observed in DL1. DL2 [0.10 mg/kg] is currently enrolling.
+
+Kymera plans to share additional STAT3 clinical data in 2023.
+
+IRAKIMiD degrader program (KT-413)
+
+KT-413 is a novel heterobifunctional degrader targeting both IRAK4 and the IMiD substrates Ikaros and Aiolos. Designed
+to address both the IL-1R/TLR and Type 1 IFN pathways synergistically with a single molecule, KT-413 is in development for the treatment of MYD88-mutant B cell
+malignancies. The Phase 1 clinical trial of KT-413 is designed to evaluate the safety, tolerability, PK/PD and clinical activity of KT-413 administered as an IV infusion
+once every 3 weeks to adult patients with relapsed and/or refractory B-cell non-Hodgkin’s lymphomas.
+
+The Phase 1a dose escalation portion of the trial is ongoing; dose level 1 (DL1, 0.16 mg/kg) and dose level 2 (DL2, 0.32 mg/kg) have been completed. Patients
+in both dose cohorts were heavily pretreated, having received multiple prior lines of therapy, and included follicular lymphoma and nodular lymphocyte-predominant Hodgkin lymphoma, which were both wild-type for MYD88. Plasma PK and PD also
+translated as expected in humans with DL1 and DL2 showing dose-dependent degradation of IRAK4, Ikaros and Aiolos in PBMC, with up to 95/100% knockdown of Ikaros/Aiolos and 40% knockdown of IRAK4 in DL2. Serial tumor biopsies at Cycle 3/Day 4 in the
+patient treated at DL1 showed comparable knockdown of Ikaros/Aiolos and IRAK4 as in plasma. There were no DLTs or treatment-related SAEs and no neutropenia observed in DL1 and DL2 patient cohorts. Phase 1a dose escalation is ongoing and DL3 (0.51
+mg/kg) is currently enrolling.
+
+Kymera plans to share additional IRAKIMiD clinical data in 2023.
+
+MDM2 degrader program (KT-253)
+
+The FDA has cleared the IND for KT-253, a degrader that targets MDM2, the crucial regulator of the most common tumor
+suppressor, p53, which remains intact (WT) in more than 50% of cancers. Unlike small molecule inhibitors, KT-253 has been shown preclinically to have the ability to suppress the MDM2 feedback loop and rapidly
+induce apoptosis, even with brief exposures. Kymera is currently preparing to initiate a Phase 1 clinical trial evaluating the safety, tolerability, PK/PD and clinical activity of KT-253 in adult patients with
+liquid and solid tumors in 2023. Kymera plans to share more details around the trial design and timelines in early 2023.
+
+Webcast Details:
+
+Kymera will host a webcast from 8:00-9:30 a.m. ET, Wednesday, December 14. A live webcast of the event, as well as a
+replay, will be available here.
+
+About Kymera Therapeutics
+
+Kymera is a biopharmaceutical company pioneering the field of targeted protein degradation, a transformative approach to address disease targets and pathways
+inaccessible with conventional therapeutics. Kymera’s Pegasus platform is a powerful drug discovery engine, advancing novel small molecule programs designed to harness the body’s innate protein recycling machinery to degrade dysregulated,
+disease-causing proteins. With a focus on undrugged nodes in
+
+validated pathways, Kymera is advancing a pipeline of novel therapeutic candidates designed to address the most promising targets and provide patients with more effective treatments.
+Kymera’s initial programs target IRAK4, IRAKIMiD, and STAT3 within the IL-1R/TLR or JAK/STAT pathways, and the MDM2 oncoprotein, providing the opportunity to treat patients with a broad range of
+immune-inflammatory diseases, hematologic malignancies, and solid tumors. For more information, visit www.kymeratx.com.
+
+Founded in 2016, Kymera is
+headquartered in Watertown, Mass. Kymera has been named a “Fierce 15” company by Fierce Biotech and has been recognized by both the Boston Globe and the Boston Business Journal as one of Boston’s top workplaces. For more information
+about our people, science, and pipeline, please visit www.kymeratx.com or follow us on Twitter or LinkedIn.
+
+Cautionary Note Regarding
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act
+of 1995, as amended, including, without limitation, implied and express statements by Kymera Therapeutics regarding its: strategy, business plans and objectives for the IRAK4, IRAKIMiD, STAT3 and MDM2 degrader programs; plans and timelines for the
+clinical development of its product candidates, including the therapeutic potential, clinical benefits and safety thereof; expectations regarding timing, success and data announcements of current ongoing clinical trials; and the ability to initiate
+new clinical programs. The words “may,” “might,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,”
+“expect,” “estimate,” “seek,” “predict,” “future,” “project,” “potential,” “continue,” “target” and similar words or expressions are intended to identify
+forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this press release are based on management’s current expectations and beliefs and are subject to a number
+of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, risks
+associated with: the impact of COVID-19 on countries or regions in which we have operations or do business, as well as on the timing and anticipated results of our current and future preclinical studies and
+clinical trials, supply chain, strategy and future operations; the delay of any current and future preclinical studies or clinical trials or the development of Kymera Therapeutics’ drug candidates; the risk that the results of current
+preclinical studies and clinical trials may not be predictive of future results in connection with current or future clinical trials, including those for KT-474, KT-333
+and KT-413; Kymera Therapeutics’ ability to successfully demonstrate the safety and efficacy of its drug candidates; the timing and outcome of the Kymera Therapeutics’ planned interactions with
+regulatory authorities; obtaining, maintaining and protecting its intellectual property; and Kymera Therapeutics’ relationships with its existing and future collaboration partners. These and other risks and uncertainties are described in
+greater detail in the section entitled “Risk Factors” in the Annual Report on Form 10-K for the year ended December 31, 2021 and our Quarterly Report on Form
+10-Q for the quarter ended September 30, 2022, as well as discussions of potential risks, uncertainties, and other important factors in Kymera Therapeutics’ subsequent filings with the Securities and
+Exchange Commission. In addition, any forward-looking statements represent Kymera Therapeutics’ views only as of today and should not be relied upon as representing its views as of any subsequent date. Kymera Therapeutics explicitly disclaims
+any obligation to update any forward-looking statements. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements.
+
+Investor Contact:
+
+ 
+
+Bruce Jacobs
+
+Chief Financial Officer
+
+investors@kymeratx.com
+
+857-285-5300
+
+ 
+
+Chris Brinzey
+
+Managing Director, Westwicke
+
+chris.brinzey@westwicke.com
+
+339-970-2843
+
+  
+
+Media Contact:
+
+ 
+
+Todd Cooper
+
+Senior Vice President, Corporate Affairs
+
+media@kymeratx.com

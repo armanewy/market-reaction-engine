@@ -1,0 +1,575 @@
+0001285819
+false
+
+0001285819
+
+2020-08-11
+2020-08-11
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): August 11, 2020
+
+ 
+
+ 
+
+OMEROS CORPORATION
+
+(Exact name of Registrant as Specified
+in Its Charter)
+
+ 
+
+ 
+
+Washington
+
+001-34475
+
+91-1663741
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+201 Elliott Avenue West
+
+Seattle, WA 98119
+
+(Address of Principal Executive Offices
+and Zip Code)
+
+ 
+
+Registrant’s Telephone Number,
+Including Area Code: (206) 676-5000
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed
+Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities Registered Pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.01 par value per share
+
+OMER
+
+The Nasdaq Stock Market LLC
+
+ 
+
+Indicate by check mark whether the
+registrant is an emerging growth company as defined in Rule 405 under the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2
+under the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+ 
+
+Emerging growth
+company ¨
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Definitive Material Agreement.
+
+ 
+
+Underwritten Public Offering of Common Stock
+
+ 
+
+On August 11, 2020, Omeros Corporation
+(the “Company”) entered into an underwriting agreement (the “Equity Underwriting Agreement”) with BofA
+Securities, Inc. and J.P. Morgan Securities LLC, as representatives of the underwriters named therein (the “Equity Underwriters”),
+relating to an underwritten public offering (the “Equity Offering”) of 6,900,000 shares of the Company’s common
+stock, $0.01 par value per share (the “Firm Shares”), at a price to the public of $14.50 per share (the “Equity
+Offering Price”). The Company also granted the Equity Underwriters a 30-day option to purchase up to an additional 1,035,000
+shares of the Company’s common stock (the “Option Shares” and with the Firm Shares, the “Shares”).
+The offering, with respect to the Firm Shares, closed on August 14, 2020.
+
+ 
+
+The offer and sale of the Shares has been
+registered under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to the Company’s shelf
+registration statement on Form S-3 (File No. 333-235349), which was filed with the U.S. Securities and Exchange Commission
+(the “Commission”) on December 4, 2019.
+
+ 
+
+The net proceeds to the Company from the
+Equity Offering, after deducting the underwriting discount and estimated offering expenses payable by the Company, are expected
+to be approximately $93.7 million, or approximately $107.8 million if the Equity Underwriters exercise in full their option to
+purchase the Option Shares. The Company intends to use the net proceeds from the Equity Offering for general corporate purposes,
+including funding clinical trials, pre-clinical studies, manufacturing, build-out of commercial infrastructure and other costs
+associated with advancing the Company’s development programs and product candidates toward regulatory submissions and potential
+commercialization.
+
+ 
+
+The Equity Underwriting Agreement contains
+customary representations, warranties and agreements by the Company, customary conditions to closing, indemnification obligations
+of the Company and the Equity Underwriters, including for liabilities under the Securities Act, and termination provisions.
+
+ 
+
+The foregoing is a brief description of
+the material terms of the Equity Underwriting Agreement and does not purport to be a complete description of the rights and obligations
+of the parties thereunder. This description is qualified in its entirety by reference to the Equity Underwriting Agreement which
+is filed as Exhibit 1.1 to this Current Report on Form 8-K. The Equity Underwriting Agreement contains representations,
+warranties and covenants that were made only for purposes of such agreement and as of specific dates, are solely for the benefit
+of the parties to such agreement, and may be subject to limitations agreed upon by the contracting parties. The Equity Underwriting
+Agreement is not intended to provide any other factual information about the Company.
+
+ 
+
+The legal opinion of Keller Rohrback L.L.P.
+relating to the Shares being offered is filed as Exhibit 5.1 to this Current Report on Form 8-K.
+
+ 
+
+Underwritten Public Offering of 5.25% Convertible Senior
+Notes due 2026
+
+ 
+
+On August 11, 2020, the Company
+also entered into an underwriting agreement (the “Notes Underwriting Agreement”) with BofA Securities, Inc.
+and J.P. Morgan Securities LLC, as representatives of the underwriters named therein (the “Notes Underwriters”),
+relating to an underwritten public offering (the “Notes Offering”) of $210 million aggregate principal amount of
+5.25% Convertible Senior Notes due 2026 (the “Firm Notes”). The Company also granted the Notes Underwriters a
+30-day option to purchase up to an additional $31.5 million aggregate principal amount of Notes, solely to cover
+over-allotments (the “Option Notes”, and, together with the Firm Notes, the “Notes”). The offering, with respect to the Firm Notes, closed on August 14, 2020.
+
+ 
+
+The offer and sale of the Notes has been
+registered under the Securities Act, pursuant to the Company’s shelf registration statement on Form S-3 (File No. 333-235349),
+which was filed with the Commission on December 4, 2019.
+
+ 
+
+The net proceeds to the Company from
+the Notes Offering, after deducting the underwriting discount and estimated offering expenses payable by the Company, are
+expected to be $203.7 million, or approximately $234.4 million if the Notes Underwriters exercise in full their option to
+purchase additional Notes. The Company has used approximately $21.7 million of the net proceeds from the Notes Offering to
+pay the cost of entering into capped call transactions (the “Capped Call Transactions”) with certain financial
+institutions (the “Option Counterparties”) as described below. The Company has also used approximately $127.4
+million of the net proceeds to repurchase approximately $115.0 million aggregate principal amount of the Company’s
+existing 6.25% Convertible Senior Notes due 2023 (the “2023 Convertible Notes”) in privately negotiated
+transactions. The Company also has entered into an agreement to terminate a portion of the capped call transaction that it
+entered into in connection with the issuance of the 2023 Convertible Notes in a notional amount corresponding to the amount
+of 2023 Convertible Notes that are repurchased. The Company expects to receive approximately $8.4 million from the partial
+unwinding of this transaction. The Company intends to use the remainder of the net proceeds from the Notes Offering, as well
+as the proceeds from the partial unwind of the prior capped call transaction in the same manner as described above for the
+Equity Offering.
+
+ 
+
+ 
+
+ 
+
+The Notes Underwriting Agreement contains
+customary representations, warranties and agreements by the Company, customary conditions to closing, indemnification obligations
+of the Company and the Notes Underwriters, including for liabilities under the Securities Act, and termination provisions.
+
+ 
+
+The foregoing is a brief description of
+the material terms of the Notes Underwriting Agreement and does not purport to be a complete description of the rights and obligations
+of the parties thereunder. This description is qualified in its entirety by reference to the Notes Underwriting Agreement which
+is filed as Exhibit 1.2 to this Current Report on Form 8-K. The Notes Underwriting Agreement contains representations,
+warranties and covenants that were made only for purposes of such agreement and as of specific dates, are solely for the benefit
+of the parties to such agreement, and may be subject to limitations agreed upon by the contracting parties. The Notes Underwriting
+Agreement is not intended to provide any other factual information about the Company.
+
+ 
+
+The legal opinions of Keller Rohrback L.L.P.
+and Covington and Burling LLP relating to the Notes being offered are filed as Exhibits 5.2 and 5.3, respectively, to this Current
+Report on Form 8-K.
+
+ 
+
+Base Indenture and Supplemental Indenture
+
+ 
+
+The Notes are being issued pursuant to an
+indenture, dated August 14, 2020 (the “Base Indenture”), as supplemented by a first supplemental indenture dated
+August 14, 2020 (the “Supplemental Indenture” and together with the Base Indenture, the “Indenture”),
+between the Company and Wells Fargo Bank, National Association, as trustee (the “Trustee”). The Notes will bear interest
+at a rate of 5.25% per year. Interest will be payable semi-annually in arrears on February 15 and August 15 of each year,
+beginning on February 15, 2021. The Notes will mature on February 15, 2026, unless earlier redeemed, repurchased or converted,
+in accordance with their terms, and will be convertible, subject to the satisfaction of certain conditions, into cash, shares of
+the Company’s common stock or a combination thereof as elected by the Company in its sole discretion.
+
+ 
+
+The conversion rate for the Notes will initially
+be 54.0906 shares of the Company’s common stock per $1,000 principal amount of Notes (which is equivalent to an initial conversion
+price of approximately $18.49 per share, which represents a premium of approximately 27.5% over the public offering price of the
+Company’s common stock in the Equity Offering).
+
+ 
+
+The Notes will be redeemable, in whole or
+in part, at the Company's option at any time, and from time to time, on or after August 15, 2023 and on or before the 50th
+scheduled trading day immediately before the maturity date, at a cash redemption price equal to the principal amount of the Notes
+to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the redemption date, but only if the last reported
+sale price per share of the Company’s common stock exceeds 130% of the conversion price on (i) each of at least 20 trading
+days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the trading day immediately
+before the date the Company sends the related redemption notice and (ii) the trading day immediately before the date the Company
+sends such notice. In addition, calling any Note for redemption will constitute a “make-whole fundamental change” (as
+defined in the Indenture) with respect to that Note, in which case the conversion rate applicable to the conversion of that Note
+will be increased in certain circumstances if it is converted after it is called for redemption.
+
+ 
+
+The Indenture contains customary terms and
+covenants and events of default. If an event of default (other than certain events of bankruptcy, insolvency or reorganization
+involving the Company) occurs and is continuing, the Trustee or the holders of at least 25% in aggregate principal amount of the
+Notes then outstanding may declare the principal amount of, and all accrued and unpaid interest on, all of the Notes then outstanding
+to become due and payable immediately. Upon the occurrence of certain events of bankruptcy, insolvency or reorganization involving
+the Company, the principal amount of, and all accrued and unpaid interest, if any, on all of the Notes then outstanding will immediately
+become due and payable without any further action or notice by the Trustee or any holder. Notwithstanding the foregoing, the Indenture
+provides that, to the extent the Company elects and for up to 180 days, the sole remedy for an event of default relating to certain
+failures by the Company to comply with certain reporting covenants in the Indenture may consist exclusively of the right to receive
+special interest on the Notes.
+
+ 
+
+ 
+
+ 
+
+The Notes are the Company’s senior,
+unsecured obligations and are equal in right of payment with its existing and future senior, unsecured indebtedness, senior in
+right of payment to its existing and future indebtedness, if any, that is expressly subordinated to the Notes and effectively subordinated
+to its existing and future secured indebtedness, to the extent of the value of the collateral securing that indebtedness. The Notes
+are structurally subordinated to all existing and future indebtedness and other liabilities, including trade payables, and (to
+the extent the Company is not a holder thereof) preferred equity, if any, of its subsidiaries.
+
+ 
+
+The summary of the foregoing transactions
+is qualified in its entirety by reference to the text of the Base Indenture, the Supplemental Indenture, and the Form of 5.25%
+Convertible Senior Note due 2026 included in the Supplemental Indenture, which are filed as Exhibits 4.1, 4.2 and 4.3, respectively,
+to this Current Report on Form 8-K and are incorporated herein by reference.
+
+ 
+
+Capped Call Transactions
+
+ 
+
+In connection with the pricing of the
+Notes, the Company entered into the Capped Call Transactions with the Option Counterparties. The Capped Call Transactions
+will cover, subject to anti-dilution adjustments that may not match those applicable to the conversion price of the Notes,
+the number of shares of the Company’s common stock underlying the Notes when the Company’s common stock is
+trading between the initial conversion price of approximately $18.49 and the $26.10 cap price.
+
+ 
+
+The Capped Call Transactions are intended
+to reduce the potential dilution with respect to the Company’s common stock or, at the Company’s election (subject
+to certain conditions), offset potential cash payments in excess of the principal amount of the converted Notes upon conversion
+of the Notes in the event that the market price per share of the Company’s common stock, as measured under the terms of the
+Capped Call Transactions, is greater than the strike price of the Capped Call Transactions, which initially corresponds to the
+initial conversion price of the Notes and is subject to customary anti-dilution adjustments that may not match those applicable
+to the Notes. If, however, the market price per share of the Company’s common stock, as measured under the terms of the Capped
+Call Transactions, exceeds the cap price of the Capped Call Transactions, there would nevertheless be dilution or there would not
+be an offset of such potential cash payments, in each case, to the extent that such market price exceeds the cap price of the Capped
+Call Transactions. The cap price under the Capped Call Transactions will initially be $26.10 per share, which represents a premium
+of 80% over the offering price of the Shares sold in the Equity Offering, which was $14.50 per share, and is subject to certain
+adjustments under the terms of the Capped Call Transactions.
+
+ 
+
+The Company will not be required to make
+any cash payments to the Option Counterparties upon the exercise of the options that are a part of the Capped Call Transactions,
+but the Company will be entitled to receive from them a number of shares of the Company’s common stock, or, at the Company’s
+election (subject to certain conditions), an amount of cash, generally based on the amount by which the market price per share
+of the Company’s common stock, as measured under the terms of the Capped Call Transactions, exceeds the strike price of the
+Capped Call Transactions during the relevant valuation period under the Capped Call Transactions. However, if the market price
+per share of the Company’s common stock, as measured under the terms of the Capped Call Transactions, exceeds the cap price
+of the Capped Call Transactions during such valuation period, the number of shares of common stock or the amount of cash that the
+Company expects to receive upon exercise of the Capped Call Transactions, in each case, will be capped based on the amount by which
+the cap price exceeds the strike price of the Capped Call Transactions.
+
+ 
+
+Additionally, if the conversion price of
+the Notes does not equal the strike price of the Capped Call Transactions due to an adjustment or adjustments to the conversion
+price of the Notes and/or the strike price of the Capped Call Transactions, to the extent that the market price per share of the
+Company’s common stock exceeds the conversion price of the Notes but does not exceed the strike price of the Capped Call
+Transactions at any time of expiration, the Company will not be entitled to receive any shares of the Company’s common stock
+or cash under the Capped Call Transactions upon such expiration.
+
+ 
+
+ 
+
+ 
+
+The Capped Call Transactions are separate
+transactions entered into by the Company with the Option Counterparties, are not part of the terms of the Notes and will not
+affect any holder’s rights under the Notes. Holders of the Notes will not have any rights with respect to the Capped Call
+Transactions.
+
+ 
+
+The foregoing description of the Capped
+Call Transactions does not purport to be complete and is qualified in its entirety by reference to the form of Capped Call Transaction
+confirmation relating to the Capped Call Transactions, which is filed as Exhibit 10.1 to this Current Report on Form 8-K
+and is incorporated herein by reference.
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+On August 12, 2020, the Company issued
+a press release announcing the pricing of the offerings. A copy of the press release is attached as Exhibit 99.1 to this report
+and is incorporated herein by reference.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit 
+
+Number
+
+Description
+
+ 
+
+ 
+
+1.1
+
+Underwriting Agreement, dated as of August 11, 2020, between Omeros Corporation and BofA Securities, Inc. and J.P. Morgan Securities LLC, as representatives of the Equity Underwriters.
+
+1.2
+
+Underwriting Agreement, dated as of August 11, 2020, between Omeros Corporation and BofA Securities, Inc. and J.P. Morgan Securities LLC, as representatives of the Notes Underwriters.
+
+4.1
+
+Indenture, dated as of August 14, 2020, between Omeros Corporation and Wells Fargo Bank, National Association, as trustee.
+
+4.2
+
+First Supplemental Indenture, dated as of August 14, 2020, between Omeros Corporation and Wells Fargo Bank, National Association, as trustee.
+
+4.3
+
+Form of 5.25% Convertible Senior Note due 2026 (included in Exhibit 4.2).
+
+5.1
+
+Opinion of Keller Rohrack L.L.P. with respect to the Shares.
+
+5.2
+
+Opinion of Keller Rohrack L.L.P. with respect to the Notes.
+
+5.3
+
+Opinion of Covington & Burling LLP with respect to the Notes.
+
+10.1
+
+Form of Capped Call Transaction Confirmation.
+
+23.1
+
+Consent of Keller Rohrback L.L.P. (included in Exhibit 5.1).
+
+23.2
+
+Consent of Keller Rohrback L.L.P. (included in Exhibit 5.2).
+
+23.3
+
+Consent of Covington & Burling LLP (included in Exhibit 5.3).
+
+99.1
+
+Press Release dated August 12, 2020.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+OMEROS CORPORATION
+
+ 
+
+ 
+
+Date: August 14, 2020
+
+By:
+
+/s/ Gregory A. Demopulos
+
+ 
+
+ 
+
+Gregory A. Demopulos, M.D.
+
+ 
+
+ 
+
+President, Chief Executive Officer and
+
+ 
+
+ 
+
+Chairman of the Board of Directors

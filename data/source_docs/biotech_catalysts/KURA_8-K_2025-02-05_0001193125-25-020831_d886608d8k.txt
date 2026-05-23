@@ -1,0 +1,311 @@
+8-K
+
+false 0001422143 0001422143 2025-02-05 2025-02-05
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 5, 2025
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37620
+
+ 
+
+61-1547851
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+12730 High Bluff Drive, Suite 400, San Diego, CA
+
+ 
+
+92130
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 500-8800
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+KURA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On February 5, 2025, Kura Oncology, Inc. (“Kura” or the “Company”) and Kyowa Kirin Co., Ltd. (“Kyowa Kirin”) announced positive topline results from KOMET-001, the Phase 2 registration-directed trial of ziftomenib, a highly selective, once-daily, oral investigational menin inhibitor, in patients with relapsed/refractory (“R/R”) NPM1-mutant (“NPM1-m”) acute myeloid leukemia (“AML”). Topline data for KOMET-001 has been submitted for presentation at an upcoming medical conference in the second quarter of 2025, and Kura is on track to submit a New Drug Application (“NDA”) to the U.S. Food and Drug Administration (“FDA”) for ziftomenib in the second quarter of 2025.
+
+Kura and Kyowa Kirin, which announced their joint collaboration to commercialize ziftomenib in 2024, also announced they plan to initiate a single protocol containing two independently powered, randomized, double-blind, placebo-controlled, registrational Phase 3 trials to evaluate ziftomenib in combination with both intensive and non-intensive combination regimens in patients with newly diagnosed NPM1-m and KMT2A-rearranged (“KMT2A-r”) AML, following successful interactions with the FDA. Each frontline trial design includes dual-primary endpoints to support potential U.S. accelerated approval and full approval. The companies plan to initiate the two frontline Phase 3 trials in the second half of 2025 and anticipate multiple clinical data presentations for the ziftomenib AML program as well as Kura’s pipeline programs in 2025.
+
+Kura and Kyowa Kirin also announced positive topline results from KOMET-001, a Phase 2 registration-directed trial of ziftomenib, in patients with R/R NPM1-m AML. The KOMET-001 trial achieved its primary endpoint of complete remission (“CR”) plus CR with partial hematological recovery (“CRh”) and the primary endpoint was statistically significant. The benefit-risk profile for ziftomenib is highly encouraging, and safety and tolerability were consistent with previous reports.
+
+The KOMET-001 registration-directed trial is designed to assess evidence of clinical activity, safety and tolerability of ziftomenib, the only investigational therapy to receive Breakthrough Therapy Designation (“BTD”) from the FDA for treatment of R/R NPM1-mutant AML. Full results from the KOMET-001 trial will be presented at a future medical meeting in the second quarter of 2025. After successful FDA interactions in part facilitated by BTD, Kura announced that it is on track to submit an NDA to the FDA for ziftomenib for the treatment of patients with R/R NPM1-mutant AML in the second quarter of 2025.
+
+Kura and Kyowa Kirin recently announced plans for KOMET-017, a global protocol evaluating ziftomenib in combination with standards of care for adults with newly diagnosed NPM1-m or KMT2A-r AML. Following successful End-of-Phase 1 meetings with the FDA, the companies announced they will proceed with plans to initiate the KOMET-017 trial, comprising of two independent, global, randomized, double-blind, placebo-controlled Phase 3 trials to evaluate ziftomenib in combination with both intensive and non-intensive combination regimens in patients with newly diagnosed NPM1-m and/or KMT2A-r AML. The positive feedback from the FDA, along with data from the KOMET-007 trial presented at the 2024 American Society of Hematology Annual Meeting, reinforces Kura’s and Kyowa Kirin’s commitment to evaluating ziftomenib in patients across the continuum of frontline treatment options.
+
+The registrational KOMET-017-IC (Intensive Combination) trial will evaluate the combination of ziftomenib with induction chemotherapy (“7+3”) in newly diagnosed NPM1-m and KMT2A-r AML patients. Patients will be randomized to receive ziftomenib or placebo, in combination with standard induction, consolidation chemotherapy and post consolidation maintenance. The KOMET-017-IC trial will assess minimum residual disease (“MRD”) negative complete response (“CR”) and event-free survival (“EFS”) as dual-primary endpoints to support potential U.S. accelerated approval and full approval, respectively and is anticipated to be initiated in the second half of 2025.
+
+The registrational KOMET-017-NIC (Non-Intensive Combination) trial will evaluate the combination of ziftomenib with venetoclax plus azacitidine in newly diagnosed NPM1-m patients unfit to receive intensive chemotherapy. The KOMET-017-NIC trial will assess CR and overall survival (“OS”) as dual-primary endpoints to support potential U.S. accelerated approval and full approval, respectively. Patients will be randomized to receive ziftomenib or placebo, in combination with venetoclax and azacitidine. The KOMET-017-NIC trial is anticipated to be initiated in the second half of 2025.
+
+MRD is a term describing small numbers of leukemic cells, which are still detectable during or after treatment, even when a patient has achieved CR by standard criteria. Remaining leukemia cells in the body can become active and start to multiply, resulting in a relapse of the disease, which may be fatal for patients. Achieving MRD negativity, which may be associated with longer remissions and improved survival, means that a treatment has reduced the number of leukemic cells to below the limit of detection by the most sensitive analytical methods.
+
+Kura and Kyowa Kirin expect to present multiple clinical data updates from their ziftomenib AML program, and Kura expects to present updates from its KO-2806 and tipifarnib programs, in 2025 as follows:
+
+ 
+
+ 
+
+•
+
+ 
+
+Topline data from the KOMET-001 trial of ziftomenib monotherapy in R/R NPM1-m AML (2Q 2025)
+
+ 
+
+ 
+
+•
+
+ 
+
+KOMET-007 Phase 1b data of ziftomenib in combination with 7+3 in newly diagnosed NPM1-m AML and KMT2A-r AML (2Q 2025)
+
+ 
+
+ 
+
+•
+
+ 
+
+FIT-001 Phase 1 data of KO-2806 monotherapy in HRAS-mutant and KRAS-mutated solid tumors (2H 2025)
+
+ 
+
+ 
+
+•
+
+ 
+
+FIT-001 Phase 1 data of KO-2806 in combination with cabozantinib in renal cell carcinoma (“RCC”) (2H 2025)
+
+ 
+
+ 
+
+•
+
+ 
+
+KURRENT-HN Phase 1 data of tipifarnib in combination with alpelisib in PIK3CA-dependent head and neck squamous cell carcinoma (“HNSCC”) (2H 2025)
+
+ 
+
+ 
+
+•
+
+ 
+
+KOMET-007 Phase 1b data of ziftomenib in combination with venetoclax / azacitidine in NPM1-m AML (2H 2025)
+
+On February 5, 2025, the Company will host a virtual investor event and present certain materials related to the Company (the “Presentation”). A copy of the Presentation is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Forward-Looking Statements
+
+Statements contained in this Current Report on Form 8-K regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements, including, but not limited to, statements regarding, among other things, the therapeutic potential and potential success of ziftomenib, KO-2806 and tipifarnib; plans, trial designs and expected timing of clinical trials; the expected timing and presentation of data from clinical trials; the anticipated timing of the submission of a New Drug Application for ziftomenib; the potential for U.S. accelerated approval and full approval of product candidates; and the success and impact of interactions with the FDA.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. Risks that contribute to the uncertain nature of the forward-looking statements include: the risk that compounds that appeared promising in early research or clinical trials do not demonstrate safety and/or efficacy in later preclinical studies or clinical trials, the risk that the Company may not obtain approval to market its product candidates, uncertainties associated with performing clinical trials, regulatory filings, applications and other interactions with regulatory bodies, risks associated with reliance on third parties to successfully conduct clinical trials, the risks associated with reliance on outside financing to meet capital requirements, and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs, as well as those risks and uncertainties set forth more fully under the caption “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 filed with the Securities and Exchange Commission (“SEC”) on November 7, 2024, as well as discussions of potential risks, uncertainties and other important factors in the Company’s other filings and reports with the SEC. All forward-looking statements contained in this Current Report on Form 8-K speak only as of the date on which they were made. The Company undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+99.1
+
+  
+
+Presentation Materials of Kura Oncology, Inc.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+Date: February 5, 2025
+
+ 
+
+By:
+
+ 
+
+/s/ Teresa Bair
+
+ 
+
+ 
+
+Teresa Bair
+
+ 
+
+ 
+
+Chief Legal Officer

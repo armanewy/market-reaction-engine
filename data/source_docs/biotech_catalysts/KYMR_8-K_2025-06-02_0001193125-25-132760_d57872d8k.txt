@@ -1,0 +1,271 @@
+8-K
+
+false 0001815442 0001815442 2025-06-02 2025-06-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 2, 2025
+
+ 
+
+ 
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39460
+
+ 
+
+81-2992166
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Kymera Therapeutics, Inc.
+
+500 North Beacon Street, 4th Floor
+
+Watertown, Massachusetts 02472
+
+(Address of principal executive offices, including zip code)
+
+(857) 285-5300
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+KYMR
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On June 2, 2025, Kymera Therapeutics, Inc. (the “Company”) issued a press release, a copy of which is furnished herewith as Exhibit 99.1.
+
+On June 2, 2025, the Company will host a video conference call at 8:00 am eastern time to discuss the results from the Company’s Phase 1 healthy volunteer study of KT-621, an investigational, potentially first-in-class oral STAT6 degrader being developed for the treatment of immuno-inflammatory diseases. A replay of the webcast will be available following the event in the “News and Events” section of the “Investors” section of the Company’s website at www.kymeratx.com.
+
+The information in this Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events
+
+On June 2, 2025, the Company announced the results from the Company’s Phase 1 healthy volunteer study of KT-621, an investigational, potentially first-in-class oral STAT6 degrader being developed for the treatment of immuno-inflammatory diseases.
+
+Study Design
+
+The KT-621 Phase 1 healthy volunteer trial was a double-blind, placebo-controlled study that enrolled a total of 118 subjects. The trial consisted of single ascending dose (SAD) and multiple ascending dose (MAD) cohorts. The trial objective was to evaluate the safety and tolerability of escalating single and multiple ascending daily oral doses of KT-621. The trial also included pharmacokinetic measures as secondary endpoints. Exploratory endpoints included STAT6 protein levels in blood (SAD and MAD) and skin (MAD) and T Helper 2 (Th2) biomarkers (MAD).
+
+There were 48 healthy participants enrolled in SAD, with 8 per cohort randomized 6:2 (KT-621:placebo). The SAD doses, which were administered as a single dose, ranged from 6.25 to 800 mg. There were 70 healthy subjects enrolled in MAD, with 12 per cohort randomized 9:3 (KT-621:placebo) except for the 12.5 mg cohort which randomized 10 participants (7:3). The MAD doses, which were administered once daily for 14 days, ranged from 1.5 to 200 mg.
+
+Pharmacokinetics (PK)
+
+KT-621 demonstrated a favorable plasma PK profile after single and multiple doses. Rapid absorption was demonstrated with a median tmax of 2-4 hours and a half-life of 9-36 hours. There was a dose-proportional increase in exposure after multi-dosing and steady-state was achieved by Day 4.
+
+Pharmacodynamics (PD)
+
+KT-621 demonstrated rapid, deep and prolonged STAT6 degradation in blood after single doses of KT-621 and in blood and skin after multiple doses of KT-621. STAT6 levels in blood and skin were measured using a highly sensitive and quantitative mass spectrometry assay. Complete degradation within a cohort is defined as either a mean reduction of ≥95% or when most subjects’ STAT6 levels are reduced below the Lower Limit of Quantification (LLOQ), or both. In SAD, maximal degradation was achieved in blood as quickly as the first collected timepoint of 4 hours after a single dose, with mean STAT6 degradation reaching >90% across all SAD doses starting at 6.25 mg. All SAD cohorts at doses of 75 mg or greater achieved >95% mean STAT6 degradation with STAT6 levels below LLOQ in multiple subjects.
+
+In MAD, robust STAT6 degradation was observed in blood at the first timepoint measured (8 hours) for doses above 1.5 mg. Steady-state, complete degradation, associated with STAT6 reductions below the LLOQ in the majority of subjects, was achieved at doses ≥50 mg with recovery starting as early as 4 days post-last dose.
+
+In MAD, robust STAT6 degradation was observed in skin at the first timepoint measured (Day 7) for doses above 1.5 mg. Steady-state, complete degradation, associated with ≥95% mean STAT6 degradation with STAT6 levels below LLOQ in multiple subjects, was achieved at doses ≥50 mg.
+
+Th2 Biomarkers
+
+The impact of STAT6 degradation on Th2 biomarkers was assessed in the MAD cohorts, despite the low baseline levels typically seen in healthy volunteers. Thymus and activation-regulated chemokine (TARC) reduction was observed for all KT-621 dose groups, with median reduction of up to 37% at Day 14. Although no head-to-head trials have been conducted comparing KT-621 to dupilumab, the Company believes these results are
+
+comparable or superior to what was seen in the dupilumab healthy volunteer study. In line with the dupilumab study in healthy volunteers, minimal immunoglobin E (IgE) reductions were observed given the low levels of IgE at baseline and the short duration of treatment. Eotaxin-3, a highly specific downstream cytokine of the IL-4/IL-13 pathway, was also measured. Eotaxin-3 reduction was observed for all KT-621 dose groups with a median reduction of 63% at Day 14. These results are superior to what has been reported with dupilumab in asthma or chronic rhinosinusitis with nasal polyps (CRSwNP) patients even at 52 weeks.
+
+Safety and Tolerability
+
+The safety profile of KT-621 was undifferentiated from placebo. There were no serious adverse events (SAEs), no severe AEs, no treatment related adverse events (TRAEs) in more than one subject, no TRAEs leading to discontinuation, and no clinically relevant changes in vital signs, laboratory tests and ECGs.
+
+Next Steps
+
+The Company’s KT-621 BroADen Phase 1b trial in moderate to severe atopic dermatitis (AD) patients is ongoing, with data expected to be reported in the fourth quarter of 2025. Two parallel Phase 2b trials in AD and asthma are planned to start in the fourth quarter of 2025 and first quarter of 2026, respectively. These studies are intended to accelerate KT-621 development and enable dose selection for subsequent parallel Phase 3 registration studies across multiple Th2 dermatology, gastroenterology and respiratory indications.
+
+The disclosure under this Item 8.01 contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, express or implied statements regarding the Company’s views on the development of KT-621, including the therapeutic potential, clinical benefits and safety thereof, the Phase 1b data readout of KT-621 in AD patients in the fourth quarter of 2025, the initiation of Phase 2b studies of KT-621 in patients with AD and asthma in the fourth quarter of 2025 and first quarter of 2026, respectively, the effect of initial parallel development of Phase 2b studies in AD and asthma patients on acceleration of late parallel development and dose selection across multiple indications, and the preliminary cross-study assessments comparing non-head-to-head clinical data of KT-621 to published data for dupilumab. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this Item 8.01 are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, risks associated with: the risk that cross-trial comparisons may not be reliable as no head-to-head trials have been conducted comparing KT-621 to dupilumab, and Phase 1 clinical data for KT-621 may not be directly comparable to dupilumab’s clinical data due to differences in molecule composition, trial protocols, dosing regimens, and patient populations and characteristic; the timing and anticipated results of the Company’s current and future preclinical studies and clinical trials, supply chain, strategy and future operations; the delay of any current and future preclinical studies or clinical trials or the development of the Company’s drug candidates, including those for KT-621; the risk that the results or interim results of current preclinical studies and clinical trials may not be predictive of future results in connection with current or future preclinical and clinical trials; the Company’s ability to successfully demonstrate the safety and efficacy of its drug candidates; the timing and outcome of the Company’s planned interactions with regulatory authorities; obtaining, maintaining and protecting its intellectual property; and Company’s relationships with its existing and future collaboration partners. These and other risks and uncertainties are described in greater detail in the section entitled “Risk Factors” in the Annual Report on Form 10-K for the period ended December 31, 2024, and Quarterly Report on Form 10-Q for the quarter ended March 31, 2025, as well as discussions of potential risks, uncertainties, and other important factors in the Company’s subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent the Company’s views only as of the date on which it was made and should not be relied upon as representing its views as of any subsequent date. The Company explicitly disclaims any obligation to update any forward-looking statements. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements.
+
+ 
+
+Item 9.01.
+
+Exhibits
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release issued by Kymera Therapeutics, Inc. on June 2, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Kymera Therapeutics, Inc.
+
+Date: June 2, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Nello Mainolfi
+
+ 
+
+ 
+
+ 
+
+Nello Mainolfi, Ph.D.

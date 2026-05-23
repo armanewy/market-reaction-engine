@@ -1,0 +1,243 @@
+8-K
+
+false000106198300010619832023-03-042023-03-04
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 04, 2023
+
+ 
+
+ 
+
+Cytokinetics, Incorporated
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+000-50633
+
+94-3291317
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+350 Oyster Point Boulevard
+
+ 
+
+South San Francisco, California
+
+ 
+
+94080
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (650) 624-3000
+
+ 
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+CYTK
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On March 4, 2023, Cytokinetics, Incorporated announced that positive results from Cohort 4 of REDWOOD-HCM (Randomized Evaluation of Dosing With CK-274 in Obstructive Outflow Disease in HCM), a Phase 2 clinical trial of aficamten in patients with non-obstructive hypertrophic cardiomyopathy (nHCM), were presented at the American College of Cardiology 72nd Annual Scientific Session (ACC.23). Additionally, 48-week data from FOREST-HCM (Follow-up, Open-Label, Research Evaluation of Sustained Treatment with Aficamten in HCM) were also presented at the meeting.
+
+ 
+
+REDWOOD-HCM Cohort 4: Aficamten Improved Heart Failure Symptoms and Cardiac Biomarkers in Patients with Non-Obstructive HCM
+
+ 
+
+Ahmad Masri, M.D., Director of the Hypertrophic Cardiomyopathy Center at Oregon Health & Science University, presented results from Cohort 4 of REDWOOD-HCM. Cohort 4 enrolled 41 patients with nHCM, who were New York Heart Association (NYHA) Class II/III with left ventricular ejection fraction (LVEF) ≥60% without a resting or provoked left ventricle outflow tract (LVOT) gradient (<30 mm Hg). Eligible patients had a NT-proBNP ≥300 pg/mL and no history of LVEF <45%. All patients received up to three escalating doses of aficamten, beginning with 5 mg once daily and increasing to 10 and 15 mg once daily guided by echocardiographic assessment of LVEF. Overall treatment duration was 10 weeks with a 2-week washout period.
+
+ 
+
+At 10 weeks, patients in Cohort 4 experienced significant improvements in NT-proBNP, with an average decrease of 66% (p<0.0001). High-sensitivity troponin I levels also improved significantly proportional to baseline at each study visit (p<0.05). An improvement of ≥1 NYHA Functional Class was observed in 22 of 41 (54%) patients. After the 2-week washout period, NT-proBNP and high-sensitivity troponin I levels returned to baseline levels.
+
+ 
+
+Aficamten was generally well-tolerated. By Week 6, 35 (85%) of patients achieved the highest dose of 15 mg of aficamten, and 6 (15%) achieved 10 mg. There were no drug discontinuations due to adverse events. One dose reduction to 10 mg occurred due to fatigue, and one temporary dose interruption occurred due to palpitation. Three patients had serious adverse events, but none were attributed to aficamten. In 27 patients (66%), at least one treatment emergent adverse event was reported. Three patients (7.3%) had LVEF <50% at Week 10; all three patients returned to baseline LVEF after the 2-week washout period. No adverse events of heart failure were reported.
+
+ 
+
+FOREST-HCM: AficamtenWell Tolerated with Sustained Treatment Effect Up to 48 Weeks
+
+ 
+
+Sara Saberi, M.D., Assistant Professor of Internal Medicine at the University of Michigan Health Frankel Cardiovascular Center, presented the 48-week data from FOREST-HCM. Previously presented data from FOREST-HCM showed that treatment with aficamten was associated with significant and sustained reductions in LVOT-G, improvements in New York Heart Association (NYHA) Functional Class, improvements in cardiac biomarkers, and improvement in self-reported health status using the Kansas City Cardiomyopathy Questionnaire (KCCQ) through 24 weeks.
+
+ 
+
+New data through 48 weeks of treatment showed that aficamten was associated with significant reductions in the average resting LVOT-G (mean change from baseline (SD) = -32 (28) mmHg, p<0.0002) and Valsalva LVOT-G (mean change from baseline (SD) = -47 (28) mmHg, p<0.0001). Treatment with aficamten also resulted in significant improvements in NYHA class, with 88% of patients experiencing a ≥1 NYHA Functional Class improvement, and significant improvements in NT-proBNP, with an average decrease of 70% from baseline to Week 48 (p<0.0001). At baseline, 19 patients met eligibility criteria for septal reduction therapy (SRT), defined as NYHA Class III and peak LVOT-G ≥50 mmHg, but treatment with aficamten eliminated SRT eligibility in all 19 patients at 48 weeks.
+
+ 
+
+Aficamtenwas safe and well-tolerated, with no treatment-related serious adverse events (SAEs). There were no instances of LVEF <50% attributed to aficamten. One dose reduction and one temporary dose interruption occurred, neither of which were attributed to treatment with aficamten.
+
+ 
+
+About REDWOOD-HCM
+
+ 
+
+REDWOOD-HCM HCM (Randomized Evaluation of Dosing With CK-274 in Obstructive Outflow Disease in HCM) is a Phase 2, multi-center, randomized, placebo-controlled, double-blind, dose finding clinical trial of aficamtendivided into 4 Cohorts. Cohorts 1, 2 and 3 enrolled patients with obstructive HCM (oHCM) and Cohort 4 enrolled patients with non-obstructive HCM (nHCM). In Cohorts 1 and 2, patients continued taking background medications exclusive of disopyramide. Results from Cohorts 1 and 2 showed that
+
+treatment with aficamten or 10 weeks resulted in statistically significant reductions from baseline compared to placebo in the average resting left ventricular outflow tract pressure gradient (LVOT-G) and the average post-Valsalva LVOT-G. A large majority of patients treated with aficamten achieved the target goal of treatment, defined as resting gradient <30 mmHg and post-Valsalva gradient <50 mmHg at Week 10, compared to placebo. Patients treated with aficamten also saw improvements in heart failure symptoms and reductions in NT-proBNP, a biomarker of cardiac wall stress. Treatment with aficamten in REDWOOD-HCM was generally well tolerated and the incidence of adverse events onaficamten was similar to that of placebo. No serious adverse events were attributed to aficamten, and no treatment interruptions occurred on aficamten. Cohort 3 showed that aficamten was associated with reductions in LVOT-G and Valsalva LVOT-G, and improvements in NYHA Class and NT-proBNP in patients with obstructive HCM whose background therapy included disopyramide, with safety and tolerability consistent with Cohorts 1 and 2.
+
+ 
+
+About Aficamten
+
+ 
+
+Aficamten is an investigational selective, small molecule cardiac myosin inhibitor discovered following an extensive chemical optimization program that was conducted with careful attention to therapeutic index and pharmacokinetic properties and as may translate into next-in-class potential in clinical development. Aficamten was designed to reduce the number of active actin-myosin cross bridges during each cardiac cycle and consequently suppress the myocardial hypercontractility that is associated with hypertrophic cardiomyopathy (HCM). In preclinical models, aficamten reduced myocardial contractility by binding directly to cardiac myosin at a distinct and selective allosteric binding site, thereby preventing myosin from entering a force producing state. The development program for aficamten is assessing its potential as a treatment that improves exercise capacity and relieves symptoms in patients with HCM as well as its long-term effects on cardiac structure and function. Aficamten received Breakthrough Therapy Designation for the treatment of symptomatic obstructive HCM from the U.S. Food & Drug Administration (FDA) as well as the National Medical Products Administration (NMPA) in China.
+
+ 
+
+About Hypertrophic Cardiomyopathy
+
+ 
+
+Hypertrophic cardiomyopathy (HCM) is a disease in which the heart muscle (myocardium) becomes abnormally thick (hypertrophied). The thickening of cardiac muscle leads to the inside of the left ventricle becoming smaller and stiffer, and thus the ventricle becomes less able to relax and fill with blood. This ultimately limits the heart’s pumping function, resulting in symptoms including chest pain, dizziness, shortness of breath, or fainting during physical activity. A subset of patients with HCM are at high risk of progressive disease which can lead to atrial fibrillation, stroke and death due to arrhythmias.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This press release contains forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995 (the "Act"). Cytokinetics disclaims any intent or obligation to update these forward-looking statements and claims the protection of the Act's Safe Harbor for forward-looking statements. Examples of such statements include, but are not limited to, statements, express or implied, relating to REDWOOD-HCM or any of our other clinical trials, statements relating to the potential benefits of aficamten or any of our other drug candidates, and the design, timing, results, significance and utility of preclinical and clinical results. Such statements are based on management's current expectations, but actual results may differ materially due to various risks and uncertainties, including, but not limited to, potential difficulties or delays in the development, testing, regulatory approvals for trial commencement, progression or product sale or manufacturing, or production of Cytokinetics' drug candidates that could slow or prevent clinical development or product approval; Cytokinetics' drug candidates may have adverse side effects or inadequate therapeutic efficacy; the FDA or foreign regulatory agencies may delay or limit Cytokinetics' ability to conduct clinical trials; Cytokinetics may be unable to obtain or maintain patent or trade secret protection for its intellectual property; standards of care may change, rendering Cytokinetics' drug candidates obsolete; and competitive products or alternative therapies may be developed by others for the treatment of indications Cytokinetics' drug candidates and potential drug candidates may target. For further information regarding these and other risks related to Cytokinetics' business, investors should consult Cytokinetics' filings with the Securities and Exchange Commission.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CYTOKINETICS, INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+March 6, 2023
+
+By:
+
+/s/ Ching Jaw
+
+ 
+
+ 
+
+ 
+
+Ching Jaw
+
+Senior Vice President, Chief Financial Officer

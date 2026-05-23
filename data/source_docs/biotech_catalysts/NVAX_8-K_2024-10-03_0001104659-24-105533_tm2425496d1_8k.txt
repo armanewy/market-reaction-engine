@@ -1,0 +1,322 @@
+false
+0001000694
+
+0001000694
+
+2024-10-02
+2024-10-02
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+October 2, 2024
+
+ 
+
+ 
+
+NOVAVAX, INC.
+
+(Exact name of registrant as specified
+in charter)  
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+0-26770
+
+ 
+
+22-2816046
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+700 Quince Orchard Road
+
+Gaithersburg, Maryland 20878
+
+(Address of Principal Executive Offices,
+including Zip Code)
+
+ 
+
+(240) 268-2000
+
+(Registrant’s telephone number,
+including area code)
+
+ 
+
+(Former name or former address, if changed since
+last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General
+Instruction A.2. below):
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+  
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common Stock, Par Value $0.01 per share
+
+ 
+
+NVAX
+
+ 
+
+The Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company ¨
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 7.01. Regulation FD Disclosure.
+
+ 
+
+Novavax,
+Inc. (“Novavax”) is aware of an analyst report published on October 1, 2024, which referred to discussions with Novavax’s
+management regarding, among other things, the anticipated U.S. market for COVID-19 vaccination for the 2024-2025 vaccination season. Novavax
+would like to clarify that while it has anticipated the COVID-19 vaccination market in the U.S. will be similar to last year, it has neither
+updated nor reaffirmed its full year 2024 financial guidance issued on August 8, 2024.
+
+ 
+
+Cautionary
+Note Regarding Forward-Looking Statements
+
+ 
+
+This Current
+Report on Form 8-K includes forward-looking statements, including statements related to the anticipated U.S. market for COVID-19 vaccination
+for the 2024-2025 vaccination season. Generally, forward-looking statements can be identified through the use of words or phrases such
+as “believe,” “may,” “could,” “will,” “would,” “possible,” “can,”
+“estimate,” “continue,” “ongoing,” “consider,” “anticipate,” “intend,”
+“seek,” “plan,” “project,” “expect,” “should,” “would,” “aim,”
+or “assume,” the negative of these terms, or other comparable terminology, although not all forward-looking statements contain
+these words.
+
+ 
+
+Forward-looking
+statements are neither historical facts nor assurances of future performance. Instead, they are based only on Novavax’s current
+beliefs and expectations about the future of its business, future plans and strategies, projections, anticipated events and trends, the
+economy, and other future conditions. Forward-looking statements involve estimates, assumptions, risks, and uncertainties that could cause
+actual results or outcomes to differ materially from those expressed or implied in any forward-looking statements, and, therefore, you
+should not place considerable reliance on any such forward-looking statements. These risks and uncertainties include, without limitation,
+Novavax’s and Sanofi Pasteur, Inc.’s (“Sanofi’s”) ability to successfully implement their partnership, including
+the ability to transition key processes and effect technology transfers, Novavax’s ability to successfully and timely manufacture,
+distribute, or market its updated 2024-2025 formula COVID-19 vaccine including as a single dose vial or pre-filled syringe product presentation
+for the 2024-2025 vaccination season and its ability to receive a Biologics License Application from the U.S. Food and Drug Administration
+for the 2024-2025 vaccination season; challenges related to Novavax’s new partnership with Sanofi; challenges satisfying, alone
+or together with partners, various safety, efficacy, and product characterization requirements, including those related to process qualification,
+assay validation and stability testing, necessary to satisfy applicable regulatory authorities; challenges or delays in obtaining regulatory
+authorization for its product candidates, including its updated COVID-19 vaccine in time for the 2024-2025 vaccination season or for future
+COVID-19 variant strain changes; manufacturing, distribution or export delays or challenges; Novavax's substantial dependence on Serum
+Institute of India Pvt. Ltd. and Serum Life Sciences Limited for co-formulation and filling and PCI Pharma Services for finishing Novavax’s
+COVID-19 vaccine and the impact of any delays or disruptions in their operations on the delivery of customer orders; difficulty obtaining
+scarce raw materials and supplies, including for its proprietary adjuvant; resource constraints, including human capital and manufacturing
+capacity; potential regulatory actions; challenges in implementing Novavax’s global restructuring and cost reduction plan and additional
+cost reduction program; Novavax’s ability to timely deliver doses; challenges in obtaining commercial adoption and market acceptance
+of its updated 2024-2025 formula COVID-19 vaccine or any COVID-19 variant strain containing formulation; challenges meeting contractual
+requirements under agreements with multiple commercial, governmental, and other entities, including requirements to deliver doses that
+may require Novavax to refund portions of upfront and other payments previously received or result in reduced future payments pursuant
+to such agreements and challenges in amending or terminating such agreements; challenges related to the seasonality of vaccinations against
+COVID-19; challenges related to the demand for vaccinations against COVID-19; and those other risk factors identified in the “Risk
+Factors” and “Management's Discussion and Analysis of Financial Condition and Results of Operations” sections of Novavax's
+Annual Report on Form 10-K for the year ended December 31, 2023, and subsequent Quarterly Reports on Form 10-Q, as filed with the Securities
+and Exchange Commission (“SEC”). Novavax cautions investors not to place considerable reliance on forward-looking statements
+contained in this Current Report on Form 8-K. Investors are encouraged to read Novavax’s filings with the SEC, available at www.sec.gov
+and www.novavax.com, for a discussion of these and other risks and uncertainties. The forward-looking statements in this Current Report
+on Form 8-K speak only as of the date of this Current Report on Form 8-K, and Novavax undertakes no obligation to update or revise any
+of the statements. Novavax’s business is subject to substantial risks and uncertainties, including those referenced above. Investors,
+potential investors, and others should give careful consideration to these risks and uncertainties.
+
+ 
+
+The information
+in Item 7.01 is being furnished and shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended, or otherwise subject to the liabilities of that Section and shall not be deemed incorporated by reference into
+any registration statement or other document filed pursuant to the Securities Act of 1933, as amended, or the Securities Exchange Act
+of 1934, as amended, except as shall be expressly set forth by specific reference in such filing. In addition, the contents of Novavax’s
+website are not incorporated by reference into this Current Report on Form 8-K and you should not consider information provided on Novavax’s
+website to be part of this Current Report on Form 8-K.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+ 
+
+ 
+
+NOVAVAX, INC.
+
+ 
+
+ 
+
+ 
+
+Date: October 2, 2024
+
+By:
+
+/s/ Mark J. Casey
+
+ 
+
+Name:
+
+Mark J. Casey
+
+ 
+
+Title:
+
+Executive Vice President, Chief Legal Officer and Corporate Secretary

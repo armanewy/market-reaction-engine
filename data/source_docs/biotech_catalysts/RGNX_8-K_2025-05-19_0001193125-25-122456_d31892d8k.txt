@@ -1,0 +1,285 @@
+8-K
+
+false 0001590877 0001590877 2025-05-16 2025-05-16
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 16, 2025
+
+ 
+
+ 
+
+REGENXBIO Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37553
+
+ 
+
+47-1851754
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+9804 Medical Center Drive
+
+ 
+
+ 
+
+Rockville, Maryland
+
+ 
+
+ 
+
+20850
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: 240 552-8181
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+RGNX
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+On May 16, 2025 (the “Closing Date”), a wholly owned subsidiary of REGENXBIO Inc. (the “Company”), REGENXBIO RS LLC (“REGENXBIO RS”), entered into a Loan Agreement (“Loan Agreement”) with an affiliate of HealthCare Royalty Management, LLC (“HCRx”). Under the terms of the Loan Agreement, HCRx will provide REGENXBIO RS with an aggregate limited recourse loan of up to $250 million (the “Royalty Bond”). The Royalty Bond will be disbursed in three tranches, with $150 million already funded on the Closing Date, $50 million available if sales of a specified product exceed a specified sales threshold in any four quarter period ending between the Closing Date and December 31, 2026, and $50 million if both parties exercise an option in 2027. The amounts are net of $1.5 million in HCRx fees and expenses and an up to $5.63 million original issue discount retained by HRCx assuming the full disbursement of the Royalty Bond, with $3.38 million retained on the Closing Date. The Royalty Bond shall mature upon the earlier of (i) 10 years after the Closing Date or (ii) the date on which the Royalty Bond has been fully repaid within ten years after the Closing Date, unless there is a patent term extension of a specified patent whereby the Royalty Bond maturity date shall be extended by two years to 12 years from the Closing Date (the “Maturity Date”).
+
+The Royalty Bond is collateralized by a security interest and lien on, and the sole source of repayment of the Royalty Bond is, certain anticipated royalties based on net sales due to the Company and certain milestones, as assigned to REGENXBIO RS, under existing license agreements, namely with Novartis Gene Therapies, Inc. (formerly AveXis, Inc.) (“Novartis”) for Zolgensma®, Nippon Shinyaku Co., Ltd. for clemidsogene lanparvovec (RGX-121) and RGX-111, and Company NAV® vectors licensees Rocket Pharmaceuticals and Ultragenyx Pharmaceuticals, Inc., as well as certain potential future licensees directly related thereto (collectively, the “Royalty Interest”). For the license agreement for Zolgensma®, such royalty payments shall only be included after repayment of the cap amount under the existing royalty purchase agreement between the Company and HCRx dated as of December 22, 2020. As of the Closing Date, the license agreements giving rise to the Royalty Interest and certain other related assets and obligations of the Company were contributed to REGENXBIO RS. The proceeds of the Royalty Bond will be used by REGENXBIO RS to purchase the assets related to the Royalty Interest contributed by the Company to REGENXBIO RS.
+
+The Royalty Interest is net of upstream royalty and other obligations by the Company to applicable licensors. The Company retains rights to other consideration under the applicable license agreements, including certain milestones, maintenance fees, and reimbursement of certain costs as applicable.
+
+The Royalty Bond interest and principal shall be paid solely from proceeds of the Royalty Interest. The outstanding principal amount of the Royalty Bond shall bear interest at a rate of 9.75% plus the 3-month secured overnight financing rate as administered by the Federal Reserve Bank of New York (“SOFR”) with a 4.25% SOFR floor. Interest will be payable from the Royalty Interest in arrears 60 days after the end of each applicable quarter. If the Royalty Interest is insufficient to pay the interest when due, unpaid interest shall accrue to the principal balance. All remaining proceeds of the Royalty Interest, after the payment of interest, will be applied to outstanding principal. The Company does not guarantee the Royalty Bond and is not responsible for any unpaid interest or principal under the Loan Agreement.
+
+Upon repayment of the Royalty Bond in full prior to the Maturity Date or at the Maturity Date, REGENXBIO RS shall pay to HCRx an amount equal to 5% the total principal amount of the Royalty Bond as of the applicable determination date, which shall be added to the outstanding principal amount to the extent not paid at such time. The Royalty Bond cannot be voluntarily prepaid.
+
+The Loan Agreement contains certain customary terms and conditions, including representations and warranties, indemnities, affirmative and negative covenants, and events of default. In the event of default, HCRx may declare the loan to be immediately due and payable.
+
+In connection with the Loan Agreement, the Company also issued to HCRx a warrant to purchase 268,096 shares of the Company’s common stock at an exercise price per share of $14.92 (the “Warrant”). The Warrant shall be exercisable for 10 years from the Closing Date.
+
+The Warrant and the shares of common stock issuable thereunder have not been registered under the Securities Act of 1933, as amended (the “Securities Act”), and were offered pursuant to the exemption from registration provided in Section 4(a)(2) under the Securities Act. Pursuant to the Warrant, the Company agreed to file a registration statement to register under the Securities Act the resale of the shares of common stock that are issuable upon exercise of the Warrant.
+
+This Current Report on Form 8-K does not constitute an offer to sell any securities or a solicitation of an offer to buy any securities, nor shall there be any sale of any securities in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+
+The foregoing summary of the Loan Agreement and related documents does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Loan Agreement, a copy of which will be filed as an exhibit to the Company’s Quarterly Report on Form 10-Q for the quarter ending June 30, 2025.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On May 19, 2025, the Company issued a press release announcing the closing of the Loan Agreement. The press release is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+The information in Item 7.01 of this Current Report on Form 8-K and Exhibit 99.1 attached hereto shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to liability under that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+ 
+
+(d)
+
+Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated May 19, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+REGENXBIO INC.
+
+Date: May 19, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Patrick J. Christmas II
+
+ 
+
+ 
+
+ 
+
+Patrick J. Christmas II
+
+ 
+
+ 
+
+ 
+
+Executive Vice President, Chief Legal Officer

@@ -1,0 +1,280 @@
+EX-99.1
+2
+d213171dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+Kymera Discloses New KT-474 Clinical Data, Unveils New
+Development Program, Provides Oncology Pipeline as well as Platform and Discovery Updates, and Outlines 5-year Vision and Goals at 2021 R&D Day
+
+Multiple Ascending Dose (MAD) data from KT-474 Phase 1 trial demonstrates near complete IRAK4
+degradation in PBMC and skin, robust ex vivo inhibition of multiple disease-relevant cytokines, and favorable safety profile
+
+KT-253, a first-in-class potent and selective MDM2 degrader targeting the P53 pathway for the treatment of liquid and solid tumors,
+disclosed as Kymera’s new development program
+
+First tissue restricted E3 ligase achieves in vivo POC, leading to tissue sparing
+biology
+
+Novel approach to molecular glue for undrugged/unliganded targets
+
+Five-year vision to build a fully integrated, global biotech company with a disease- and technology-agnostic pipeline
+
+Additional Insights on KT-474 development opportunities from Kymera partner, Sanofi, with special guest
+speaker
+
+Kymera to webcast R&D Day today at 8:30am EST
+
+WATERTOWN, Mass., December 16, 2021 (GLOBE NEWSWIRE) — Kymera Therapeutics, Inc. (NASDAQ: KYMR), a clinical-stage biopharmaceutical company
+advancing targeted protein degradation (TPD) to deliver novel small molecule protein degrader medicines, today announced significant advances across its clinical stage pipeline, new programs and platform investments at its first R&D Day.
+
+“At Kymera, we have an unwavering commitment to our vision to be a disease- and technology-agnostic, fully integrated global biopharmaceutical company,
+using targeted protein degradation to deliver medicines that will transform patients’ lives. Today we look forward to sharing our plans to accomplish these ambitious goals,” stated Nello Mainolfi, Founder, President and Chief Executive
+Officer. “This past year has been marked by strong execution, most notably the delivery of two new development candidates and three cleared INDs in 2021, enabling 3 clinical stage programs. These programs include: our potential best-in-class, oral anti-inflammatory drug, KT-474, which has shown
+proof-of-mechanism and proof-of-biology in the TPD industry’s first randomized,
+placebo-controlled trial in healthy volunteers; the first degrader program (KT-333) targeting an undrugged transcription factor (STAT3); and the first program (KT-413)
+targeting a genetically- defined subset of diffuse large B cell lymphoma. Today, we also disclosed our new development candidate, KT-253, a
+first-in-class MDM2 degrader, which we believe has the potential to be the best-in-class
+p53 stabilizer for a wide variety of solid and liquid tumors, with an IND filing expected in 2022. Additionally, we demonstrated the first in vivo
+proof-of-concept data on tissue sparing degradation. We are also unveiling today our strategically complementary molecular glue discovery unit. We are excited to share
+these advances at our first R&D Day today, as well as our vision for Kymera over the next five years.”
+
+Key Portfolio Updates and Progress:
+
+KT-474 (IRAK4)
+
+Multiple Ascending Dose (MAD) data included results from the first four KT-474 multiple ascending dose cohorts at doses
+ranging from 25 to 200 mg, comprising 48 healthy volunteer subjects randomized 9:3 to either 14 daily oral doses of KT-474 or placebo. The data demonstrated potent, marked IRAK4 reduction in peripheral blood
+mononuclear cells (PBMC) measured by mass spectrometry at doses substantially lower than those required in the single ascending dose (SAD), with steady-state degradation at Day 14 of 92% at the lowest dose level (25 mg) and 96-98% at the two highest dose levels (100-200 mg), where IRAK4 was reduced to near the lower limit of quantitation (LLOQ) of the assay (Table 1).
+
+ 
+
+Table 1: Percent IRAK4 Change from Baseline in PBMC
+at Day 14 using Mass Spectrometry
+
+ 
+
+Cohort
+
+  
+
+    Placebo    
+(n=12)
+
+ 
+
+    Cohort 1    
+(n=9)
+
+ 
+
+    Cohort 2    
+(n=9)
+
+ 
+
+    Cohort 3    
+(n=9)
+
+ 
+
+    Cohort 4    
+(n=9)
+
+KT-474 dose
+
+  
+
+—  
+
+ 
+
+25 mg
+
+ 
+
+50 mg
+
+ 
+
+100 mg
+
+ 
+
+200 mg
+
+Mean IRAK4 Change, Day 14
+
+  
+
+-23%
+
+ 
+
+-92%
+
+ 
+
+-95%
+
+ 
+
+-98%
+
+ 
+
+-96%
+
+p-value (relative to placebo)
+
+  
+
+ 
+
+<0.0001
+
+ 
+
+<0.0001
+
+ 
+
+<0.0001
+
+ 
+
+<0.0001
+
+Proof of mechanism in the skin was established for the first time through demonstration of dose-dependent IRAK4 degradation,
+as measured by mass spectrometry. At the top dose of 200 mg, mean IRAK4 levels were reduced to near the LLOQ by the final day of dosing on Day 14, where continued decline in IRAK4 suggested that steady-state degradation had not yet been achieved.
+
+Proof-of-biology, established previously in the SAD portion through
+inhibition of ex vivo cytokine induction by toll-like receptor (TLR) agonists LPS and R848, was observed in MAD cohorts at considerably lower doses, with the 100 mg (MAD3) dose reaching 85% inhibition.
+
+Prolonged suppression of IRAK4 in blood and skin for at least 14-21 days with
+KT-474 multi-dosing was safe and well-tolerated.
+
+The study is on track to initiate an open-label cohort in up to
+20 HS and AD patients in 1Q22 with data read-outs planned for mid-year, followed thereafter by the start of Phase 2 studies in multiple indications.
+
+Additional information on this clinical trial can be found on www.clinicaltrials.gov.
+
+Kymera is collaborating with Sanofi on the development of degrader candidates targeting IRAK4, including KT-474 (SAR444656), outside of the oncology and
+immune-oncology fields.
+
+KT-413 (IRAKIMiD)
+
+Kymera recently announced IND clearance of KT-413, the company’s potent degrader of IRAK4 and IMiD substrates. KT-413’s Phase 1 trial will evaluate safety PK/PD, and preliminary efficacy in MYD88 mutant and MYD88 wild-type relapsed/refractory Diffuse Large B-Cell Lymphoma (DLBCL).
+Primary study endpoints will include safety, tolerability and maximum tolerated dose (MTD) and recommended Phase 2 Dose, with secondary endpoints of PK and preliminary efficacy. The trial will also explore target (IRAK4/Ikaros/Aiolos) knockdown and
+downstream effects in PBMC and tumors.
+
+KT-333 (STAT3)
+
+In November, Kymera announced IND clearance of KT-433, the company’s potent degrader of STAT3. KT-333’s Phase 1 trial will evaluate safety, PK/PD, and preliminary efficacy in peripheral T cell lymphoma (PTCL), cutaneous T cell lymphoma (CTCL), large granular lymphocytic leukemia (LGL-L) and solid tumors. Primary study endpoints will include safety, tolerability and maximum tolerated dose (MTD) and recommended Phase 2 dose, with secondary endpoints of PK and preliminary efficacy. The trial
+will also explore STAT3 knockdown and downstream effects in PBMC and tumors.
+
+KT-253 (MDM2)
+
+Kymera announced today its new development program and development candidate KT-253, a potent and selective degrader of
+MDM2 with potential to be a best-in-class P53 stabilizer. Degradation of MDM2, rather than inhibition, has the ability to block the feedback loop which up-regulates MDM2 production and in doing so more effectively drives tumor cells to rapid apoptosis. KT-253 inhibits tumor cell growth with picomolar potency that is more than
+200-fold greater than clinically active MDM2 small molecule inhibitors. This leads to sustained tumor regression in vivo in
+
+ 
+
+leukemia models following just a single dose. As
+wild-type p53 is present in >50% of tumors, KT-253 represents another program with broad franchise potential in liquid and solid tumors. Kymera is focused on indications with specific sensitivity to this
+mechanism of action, such as AML, lymphomas, uveal melanoma and others through a focused biomarker strategy. Kymera expects to file an IND for KT-253 in 2022.
+
+New, Tissue Restrictive E3 Ligase
+
+Kymera
+disclosed for the first-time in vivo proof-of-concept of tissue selective degradation utilizing an E3 ligase with selective expression. With this E3 ligase, Kymera has
+demonstrated in vivo degradation of an oncology target in tumor but not in the blood cell type where the E3 ligase has little or no expression, thereby avoiding well-characterized on-target hematologic
+toxicity and potentially enabling broader clinical development. This program is projected to nominate a development candidate in 2022.
+
+Molecular
+Glues
+
+Kymera is reinforcing its commitment to drugging all target classes. Alongside its continued investments in heterobifunctional molecules to
+unlock inadequately drugged targets such as IRAK4 and MDM2, undrugged but ligandable targets such as STAT3 and targets in a tissue-restricted fashion, Kymera is expanding its reach into undrugged and un-ligandable targets, in which Kymera believes
+the most valuable application of a molecular glue approach resides. Going beyond the Cereblon/IMiD scaffold, Kymera is focused on prospectively identifying the best matched pairs between genetically validated but undrugged and unliganded targets and
+E3 ligases, exploiting natural affinities between the two proteins augmented by small molecule glues. Kymera has multiple programs in discovery stage and has formed partnerships with companies and academic institutions, including A-Alpha Bio, the University of Washington and New York University. These collaborations will accelerate technology development and translate discoveries into new degrader medicines.
+
+Five-Year Vision
+
+Kymera also shared its five-year
+vision through 2026 which includes: 8 or more clinical stage programs across different disease areas; a pipeline positioned to deliver at least 1 new IND per year; clinical
+proof-of-concept of tissue-selective/restricted degradation and undrugged targets; and the development of an industry-leading platform that is disease and technology
+agnostic while wholistically addressing the undrugged proteome.
+
+Kymera R&D Day Details:
+
+Kymera will host a webcast from 8:30-11:00 a.m. ET, Thursday, December 16. A live webcast of the event, as well as a
+replay, will be available at: https://investors.kymeratx.com/RD-Day.
+
+About Kymera Therapeutics
+
+Kymera Therapeutics (Nasdaq: KYMR) is a clinical-stage biopharmaceutical company founded with the mission to discover, develop, and commercialize
+transformative therapies while leading the evolution of targeted protein degradation, a transformative new approach to address previously intractable disease targets. Kymera’s Pegasus™
+platform enables the discovery of novel small molecule degraders designed to harness the body’s natural protein recycling machinery to degrade disease-causing proteins, with a focus on undrugged nodes in validated pathways currently
+inaccessible with conventional therapeutics. Kymera’s lead programs are IRAK4, IRAKIMiD, and STAT3, each of which addresses high impact targets within the IL-1R/TLR or JAK/STAT pathways, providing the
+opportunity to treat a broad range of immune-inflammatory diseases, hematologic malignancies, and solid tumors. Kymera’s goal is to be a fully integrated biopharmaceutical company at the forefront of this new class of protein degrader
+medicines, with a pipeline of novel degrader medicines targeting disease-causing proteins that were previously intractable.
+
+ 
+
+Founded in 2016, Kymera is headquartered in
+Watertown, Mass. Kymera has been named a “Fierce 15” biotechnology company by Fierce Biotech and has been recognized by the Boston Business Journal as one of Boston’s “Best Places to Work.” For more information about our
+people, science, and pipeline, please visit www.kymeratx.com or follow us on Twitter or LinkedIn.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended,
+including, without limitation, implied and express statements regarding Kymera Therapeutics’: plans to present results from the ongoing Phase 1 study of the KT-474 trial; platform and approach to drug
+development; including with respect o previously undruggable targets, business plans and objectives for the KT-474, KT-413,
+KT-333 and KT-253 degrader programs; and plans and timelines for the clinical development of Kymera Therapeutics’ product candidates, including the therapeutic
+potential and clinical benefits thereof. The words “may,” “might,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,”
+“believe,” “expect,” “estimate,” “seek,” “predict,” “future,” “project,” “potential,” “continue,” “target” and similar words or expressions are
+intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this press release are based on management’s current expectations and beliefs and
+are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without
+limitation, risks associated with: the impact of COVID-19 on countries or regions in which we have operations or do business, as well as on the timing and anticipated results of our current preclinical studies
+and future clinical trials, strategy and future operations; the delay of any current preclinical studies or future clinical trials or the development of Kymera Therapeutics’ drug candidates; the risk that the results of current clinical trials
+and preclinical studies may not be predictive of future results in connection with future clinical trials; Kymera Therapeutics’ ability to successfully demonstrate the safety and efficacy of its drug candidates; the timing and outcome of the
+Company’s planned interactions with regulatory authorities; and obtaining, maintaining and protecting its intellectual property. These and other risks and uncertainties are described in greater detail in the section entitled “Risk
+Factors” in the Quarterly Report on Form 10-Q for the period ended September 30, 2021, filed on November 10, 2021, as well as discussions of potential risks, uncertainties, and other important
+factors in Kymera Therapeutics’ subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent Kymera Therapeutics’ views only as of today and should not be relied upon as representing
+its views as of any subsequent date. Kymera Therapeutics explicitly disclaims any obligation to update any forward-looking statements. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking
+statements.
+
+Investor Contact:
+
+Bruce Jacobs
+
+Chief Financial Officer
+
+investors@kymeratx.com
+
+857-285-5300
+
+Chris Brinzey
+
+Managing Director, Westwicke
+
+chris.brinzey@westwicke.com
+
+339-970-2843
+
+Media Contact:
+
+Tyler Gagnon
+
+Director, Corporate Communications
+
+tgagnon@kymeratx.com
+
+508-904-9446

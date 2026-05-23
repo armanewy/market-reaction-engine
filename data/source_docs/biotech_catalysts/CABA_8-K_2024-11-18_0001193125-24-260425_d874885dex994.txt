@@ -1,0 +1,242 @@
+EX-99.4
+5
+d874885dex994.htm
+EX-99.4
+
+EX-99.4
+
+Safety and efficacy of CABA-201, a
+fully human, autologous 4-1BB anti-CD19 CAR T cell therapy in patients with immune-mediated necrotizing myopathy and systemic lupus erythematosus from the RESET-Myositis™ and RESET-SLE™ clinical trials Saira Sheikh1; Tahseen Mozaffar2;
+Vimal Derebail1; Natalie Grover1; Jonathan Hogan3; Courtney Little3; Yvonne White3; Claire Miller3; Rebecca Estremera3; Jenell Volkov3; Daniel Nunez3; Jason Stadanlick3; Mallorie Werner3; Zachary Vorndran3; Alexandra Ellis3; Jazmean Williams3;
+Justin Cicarelli3; Quynh Lam3; Thomas Furmanak3; Chris Schmitt3; Fatemeh Nezhad3; Dan Thompson3; Samik Basu3 NOVEMBER 2024 Presenting author: David J. Chang3   1. University of North Carolina at Chapel Hill, Chapel Hill, NC; 2.
+University of California, Irvine, Irvine, CA; 3. Cabaletta Bio, Philadelphia, PA Exhibit 99.4
+
+Disclosures Author Disclosures David
+J. Chang Employee: Cabaletta Bio Saira Sheikh Consultant: AstraZeneca; Biogen; Cabaletta Bio; GSK Tahseen Mozaffar Advisor or Review Panel Member, Grant/Research Support: Amicus; AnnJi; Argenx; Astellas Gene Therapy; AstraZeneca; Janssen; Sanofi;
+Spark Therapeutics; UCB Advisor or Review Panel Member: Arvinas; AskBio; Horizon Therapeutics; Maze Therapeutics; Sarepta Grant/Research Support: Bristol-Myers Squibb (BMS); Cartesian Therapeutics; Grifols; ML-Bio; Valerion Vimal Derebail
+Consultant: Amgen; Forma Therapeutics (NovoNordisk); iCell Gene; Novartis Natalie Grover Consultant: BMS Jonathan Hogan Courtney Little Yvonne White Claire Miller Rebecca Estremera Jenell Volkov Quynh Lam Thomas Furmanak Fatemeh Nezhad Dan Thompson
+Daniel Nunez Jason Stadanlick Mallorie Werner Zachary Vorndran Alexandra Ellis Jazmean Williams Justin Cicarelli Chris Schmitt Samik Basu Employees: Cabaletta Bio Safety and efficacy of CABA-201• 17 NOV 2024
+
+Autoimmune Disease Patients Face
+Substantial Unmet Medical Needs Safety and efficacy of CABA-201• 17 NOV 2024 Myositis Chronic inflammation often leads to permanent tissue damage1 Progressive weakness, pain, dysphagia, and extramuscular manifestations are also common5
+Systemic lupus erythematosus Systemic sclerosis Progressive, multi-organ damage6 ~40% develop lupus nephritis with 25% risk of death or ESKD within 10 years7,8 Progressive skin and organ fibrosis, which often leads to irreversible lung, cardiac and
+kidney damage2 Average survival from diagnosis is ~12 years9 Safety and efficacy of CABA-201• 17 NOV 2024 Patients are seeking a drug-free, symptom-free life; physicians also prioritize prevention of end-organ damage10 Despite therapies with
+chronic broad immunosuppression, mortality is increased, and quality of life is reduced*1-4 *Compared with the general population; ESKD, end-stage kidney disease 1. Lundberg IE, et al. Nat Rev Dis Primers. 2021;7(1):86. 2. Allanore Y, et al. Nat Rev
+Dis Primers. 2015;1:15002. 3. Zen M, et al. Eur J Intern Med. 2023;112:45–51. 4. Refai RH, et al. Sci Rep. 2024;14(1):5234. 5. Suh J, Amato AA. Muscle Nerve. 2024;70(2):166–172. 6. Murimi-Worstell IB, et al. BMJ Open. 2020;10(5):e031850.
+7. Anders HJ, et al. Nat Rev Dis Primers. 2020;6(1):7. 8. Hoover PJ, Costenbader KH. Kidney Int. 2016;90(3):487–492. 9. Mayes MD. Rheum Dis Clin North Am. 2003;29(2):239-254. 10. Golder V, et al. Lupus. 2018;27(3): 501-506
+
+What are Chimeric Antigen Receptor
+(CAR) T Cells? Safety and efficacy of CABA-201• 17 NOV 2024 Image adapted from C&EN Oncology 2018.1 Preparation: Standard lymphodepleting preconditioning regimen T cell source: A patient’s own T cells 1 Leukapheresis: T cells
+collected from blood 2 Viral vector T cell Reprogramming: Viral vectors deliver gene encoding CAR 3 CAR T treatment: CAR T cells are infused intravenously 6 5 Preconditioning CAR T cell Proliferation: CAR T cells expanded in a bioreactor 4 CAR,
+chimeric antigen receptor. 1. C&EN Oncology. 2024. Available at: https://cen.acs.org/pharmaceuticals/oncology/Controlling-CAR-T-scientists-plan/96/i19 (accessed October 2024). Engineered T cells that combine the targeting ability of antibodies
+with the cell-killing machinery of T cells1
+
+AChR-Ab, acetylcholine receptor
+antibody; CABA, Cabaletta Approach to B cell Ablation; CAR, chimeric antigen receptor; RESET, REstoring SElf-Tolerance. Cabaletta Bio: CABA-201. Available at: www.cabalettabio.com/pipeline/caba-201 (accessed October 2024). Trial Preclinical Phase
+1/2 Pivotal RESET-Myositis™ RESET-SLE™ RESET-SSc™ RESET-MG™ RESET-PV™ Dermatomyositis Anti-synthetase syndrome Immune-mediated necrotizing myopathy Lupus nephritis Non-renal systemic lupus erythematosus Skin + organ
+cohort AChR-Ab neg. generalized myasthenia gravis AChR-Ab pos. generalized myasthenia gravis Skin cohort Mucocutaneous & mucosal pemphigus vulgaris Juvenile myositis Rheumatology Neurology Dermatology Contains cohort(s) without preconditioning
+Pediatric indication RESET™ Clinical Program for CABA-201, a CD19-directed CAR T Safety and efficacy of CABA-201• 17 NOV 2024 Multiple autoimmune diseases evaluated in distinct disease cohorts enrolling at 40 US sites
+
+RESET™ Program: Key Inclusion
+and Exclusion Criteria ANA, antinuclear antibody; anti-dsDNA, anti-double strand DNA antibodies; ASyS, antisynthetase syndrome; CAR, chimeric antigen receptor; DM, dermatomyositis; HSCT, hematopoietic stem cell transplantation; IIM, idiopathic
+inflammatory myopathy; IMNM, immune mediated necrotising myopathy; JIIM, juvenile idiopathic inflammatory myopathy; LN, lupus nephritis; MAA, myositis-associated antibody; MSA, myositis-specific antibodies; SLEDAI-2k, SLE disease activity index
+2000; SLE, systemic lupus erythematosus; SSc, systemic sclerosis. 1. ClinicalTrials.gov. Available at: www.clinicaltrials.gov/study/NCT06121297 (accessed October 2024). 2. ClinicalTrials.gov. Available at: www.clinicaltrials.gov/study/NCT06328777
+(accessed October 2024). 3. ClinicalTrials.gov. Available at: www.clinicaltrials.gov/study/NCT06154252 (accessed October 2024). Designed to evaluate the safety and tolerability of CABA-201 in subjects with active, refractory disease​
+RESET-SLE™ Age ≥18 and ≤65 with an SLE diagnosis Positive ANA or anti-dsDNA at screening SLE (non-renal): active, moderate to severe SLE, SLEDAI-2K ≥8; pure class V LN patients eligible for this cohort LN: active,
+biopsy-proven LN class III or IV (± class V) RESET-Myositis™ Age ≥18 and ≤75 with a diagnosis of IIM (ASyS, DM, or IMNM) Presence of at least one MSA JIIM: Age ≥6 and ≤17 with presence of at least one MSA or MAA
+Age ≥18 and ≤70 with a limited or diffuse SSc diagnosis Evidence of significant skin, pulmonary, renal, or cardiac involvement RESET-SSc™ Evidence of active disease despite prior or current treatment with standard of care Key
+inclusion criteria1–3 Key exclusion criteria1–3 B cell-depleting agent within prior 3-6 months; Previous CAR T therapy and/or HSCT Presence of kidney disease other than LN Current symptoms of severe, progressive, or uncontrolled
+pulmonary or cardiac disease Cancer-associated myositis Significant lung or cardiac impairment Severe lung or cardiac impairment Safety and efficacy of CABA-201• 17 NOV 2024
+
+RESET™ Clinical Trials Have
+Consistent Design Principles1 Leukapheresis and CABA-201 production Preconditioning Single infusion of CABA-201 Weight-based dosing 1×106 cells/kg Day 1 Primary endpoint: Incidence and severity of AEs T cells isolated from patient’s own
+PBMCs (autologous CAR T) Day 29 Study follow-up through Year 3† Screening †Follow up period encompasses 15 years in total, aligned to regulatory guidance for CAR T cell therapies AE, adverse event; CABA, Cabaletta Approach to B cell
+Ablation; FLU, fludarabine; CY, cyclophosphamide; PBMC, peripheral blood mononuclear cell; PD, pharmacodynamics; PK, pharmacokinetics; RESET, REstoring SElf-Tolerance; SLE, systemic lupus erythematosus; SSc, systemic sclerosis. Cabaletta Bio: Data
+on file; 1. Peng BJ, et al. Mol Ther Methods Clin Dev. 2024;32(2):101267. Additional Endpoints Clinical efficacy measuring: Drug-free responses Validated study-specific endpoints PK/PD analysis: CABA-201 expansion B cell depletion B cell
+repopulation Adverse events & safety Biomarker analysis, including autoantibody levels Safety and efficacy of CABA-201• 17 NOV 2024 Individual trials in myositis, SLE, and SSc share common elements of preconditioning, dose, and study
+design Prophylactic tocilizumab is not currently used in the RESETTM protocols FLU 25 mg/m2 x 3 days CY 1000 mg/m2 x 1 day Day -5 to Day -3
+
+Baseline Characteristics: First 8
+Patients in the RESET™ Program Safety and efficacy of CABA-201• 17 NOV 2024 All patients had active, refractory disease and most had failed B cell-targeting therapies RESET-Myositis™ RESET-Myositis Patient / Cohort IMNM-1 IMNM-2
+DM-1 Age, sex 33 M 60 M 57 M Disease duration ~2 years ~4 years ~4 years Autoantibodies SRP HMGCR SAE Baseline Disease activity* MMT-8 130 126 131 CK (U/L) 617 4725 94 Therapies at Screening GC, MTX GC, IVIG GC, MMF, HCQ Other prior therapies RTX,
+IVIG RTX, MMF, MTX IVIG GC dose at Screening (mg/day) 5 5 20 *Baseline disease activity = activity before preconditioning. † SLE-1 had class V LN; inclusion criteria for LN cohort requires class III/IV LN. ADA, adalimumab; ANI, anifrolumab;
+AZA, azathioprine; BEL, belimumab; CK, creatinine kinase; CYC, cyclophosphamide; DM, dermatomyositis; dsDNA, double-stranded DNA; GC, glucocorticoid; HCQ, hydroxychloroquine; HMGCR, 3-hydroxy-3-methylglutaryl-coenzyme A reductase; IMNM,
+immune-mediated necrotizing myopathy; IVIG, intravenous immunoglobulin; LEF, leflunomide; LN, lupus nephritis; MMF, mycophenolate mofetil; MMT-8, manual muscle testing 8; mRSS, modified Rodnan skin score; MSC, mesenchymal stem cell; MTX,
+methotrexate; RESET, REstoring SElf-Tolerance; RNA P III, RNA polymerase III; RTX, rituximab; SAE, small ubiquitin-like modifier activating enzyme; SLE, systemic lupus erythematosus; SLEDAI-2K, SLE disease activity index 2000; SRP, signal
+recognition particle; SSc, systemic sclerosis; TAC, tacrolimus; U/L, units per liter; UPCR, urinary protein-to-creatinine ratio; VOC, voclosporin. Cabaletta Bio: Data on file.
+
+Baseline Characteristics: First 8
+Patients in the RESET™ Program Safety and efficacy of CABA-201• 17 NOV 2024 RESET-Myositis™ RESET-Myositis Patient / Cohort IMNM-1 IMNM-2 DM-1 Age, sex 33 M 60 M 57 M Disease duration ~2 years ~4 years ~4 years Autoantibodies SRP
+HMGCR SAE Baseline Disease activity* MMT-8 130 126 131 CK (U/L) 617 4725 94 Therapies at Screening GC, MTX GC, IVIG GC, MMF, HCQ Other prior therapies RTX, IVIG RTX, MMF, MTX IVIG GC dose at Screening (mg/day) 5 5 20 RESET-SLE™ SLE-1†
+Class V LN SLE-2 SLE-3 26 M 36 F 44 F ~6 years ~17 years ~9 years dsDNA dsDNA dsDNA SLEDAI-2K 26 10 8 UPCR (mg/mg) 1.08† n/a n/a GC, MMF, HCQ GC, AZA, HCQ HCQ, MMF, BEL CYC, BEL, VOC, TAC MSC, RTX, ANI, BEL, ADA, MTX GC, MTX 10 7 n/a All
+patients had active, refractory disease and most had failed B cell-targeting therapies *Baseline disease activity = activity before preconditioning. † SLE-1 had class V LN; inclusion criteria for LN cohort requires class III/IV LN. ADA,
+adalimumab; ANI, anifrolumab; AZA, azathioprine; BEL, belimumab; CK, creatinine kinase; CYC, cyclophosphamide; DM, dermatomyositis; dsDNA, double-stranded DNA; GC, glucocorticoid; HCQ, hydroxychloroquine; HMGCR, 3-hydroxy-3-methylglutaryl-coenzyme A
+reductase; IMNM, immune-mediated necrotizing myopathy; IVIG, intravenous immunoglobulin; LEF, leflunomide; LN, lupus nephritis; MMF, mycophenolate mofetil; MMT-8, manual muscle testing 8; mRSS, modified Rodnan skin score; MSC, mesenchymal stem cell;
+MTX, methotrexate; RESET, REstoring SElf-Tolerance; RNA P III, RNA polymerase III; RTX, rituximab; SAE, small ubiquitin-like modifier activating enzyme; SLE, systemic lupus erythematosus; SLEDAI-2K, SLE disease activity index 2000; SRP, signal
+recognition particle; SSc, systemic sclerosis; TAC, tacrolimus; U/L, units per liter; UPCR, urinary protein-to-creatinine ratio; VOC, voclosporin. Cabaletta Bio: Data on file.
+
+Baseline Characteristics: First 8
+Patients in the RESET™ Program Safety and efficacy of CABA-201• 17 NOV 2024 RESET-Myositis™ RESET-Myositis Patient / Cohort IMNM-1 IMNM-2 DM-1 Age, sex 33 M 60 M 57 M Disease duration ~2 years ~4 years ~4 years Autoantibodies SRP
+HMGCR SAE Baseline Disease activity* MMT-8 130 126 131 CK (U/L) 617 4725 94 Therapies at Screening GC, MTX GC, IVIG GC, MMF, HCQ Other prior therapies RTX, IVIG RTX, MMF, MTX IVIG GC dose at Screening (mg/day) 5 5 20 RESET-SLE™ SLE-1†
+Class V LN SLE-2 SLE-3 LN-1 26 M 36 F 44 F 24 F ~6 years ~17 years ~9 years ~2 years dsDNA dsDNA dsDNA dsDNA SLEDAI-2K 26 10 8 22 UPCR (mg/mg) 1.08† n/a n/a 7.22 GC, MMF, HCQ GC, AZA, HCQ HCQ, MMF, BEL GC, ANI, VOC, MMF, HCQ CYC, BEL, VOC, TAC
+MSC, RTX, ANI, BEL, ADA, MTX GC, MTX BEL, LEF 10 7 n/a 20 All patients had active, refractory disease and most had failed B cell-targeting therapies *Baseline disease activity = activity before preconditioning. † SLE-1 had class V LN;
+inclusion criteria for LN cohort requires class III/IV LN. ADA, adalimumab; ANI, anifrolumab; AZA, azathioprine; BEL, belimumab; CK, creatinine kinase; CYC, cyclophosphamide; DM, dermatomyositis; dsDNA, double-stranded DNA; GC, glucocorticoid; HCQ,
+hydroxychloroquine; HMGCR, 3-hydroxy-3-methylglutaryl-coenzyme A reductase; IMNM, immune-mediated necrotizing myopathy; IVIG, intravenous immunoglobulin; LEF, leflunomide; LN, lupus nephritis; MMF, mycophenolate mofetil; MMT-8, manual muscle testing
+8; mRSS, modified Rodnan skin score; MSC, mesenchymal stem cell; MTX, methotrexate; RESET, REstoring SElf-Tolerance; RNA P III, RNA polymerase III; RTX, rituximab; SAE, small ubiquitin-like modifier activating enzyme; SLE, systemic lupus
+erythematosus; SLEDAI-2K, SLE disease activity index 2000; SRP, signal recognition particle; SSc, systemic sclerosis; TAC, tacrolimus; U/L, units per liter; UPCR, urinary protein-to-creatinine ratio; VOC, voclosporin. Cabaletta Bio: Data on file.
+
+Baseline Characteristics: First 8
+Patients in the RESET™ Program Safety and efficacy of CABA-201• 17 NOV 2024 RESET-Myositis™ RESET-Myositis Patient / Cohort IMNM-1 IMNM-2 DM-1 Age, sex 33 M 60 M 57 M Disease duration ~2 years ~4 years ~4 years Autoantibodies SRP
+HMGCR SAE Baseline Disease activity* MMT-8 130 126 131 CK (U/L) 617 4725 94 Therapies at Screening GC, MTX GC, IVIG GC, MMF, HCQ Other prior therapies RTX, IVIG RTX, MMF, MTX IVIG GC dose at Screening (mg/day) 5 5 20 RESET-SLE™ SLE-1†
+Class V LN SLE-2 SLE-3 LN-1 26 M 36 F 44 F 24 F ~6 years ~17 years ~9 years ~2 years dsDNA dsDNA dsDNA dsDNA SLEDAI-2K 26 10 8 22 UPCR (mg/mg) 1.08† n/a n/a 7.22 GC, MMF, HCQ GC, AZA, HCQ HCQ, MMF, BEL GC, ANI, VOC, MMF, HCQ CYC, BEL, VOC, TAC
+MSC, RTX, ANI, BEL, ADA, MTX GC, MTX BEL, LEF 10 7 n/a 20 RESET-SSc™ SSc-Skin-1 (severe skin cohort) 66 F ~2 years RNA P III mRSS 42 MMF HCQ n/a All patients had active, refractory disease and most had failed B cell-targeting therapies
+*Baseline disease activity = activity before preconditioning. † SLE-1 had class V LN; inclusion criteria for LN cohort requires class III/IV LN. ADA, adalimumab; ANI, anifrolumab; AZA, azathioprine; BEL, belimumab; CK, creatinine kinase; CYC,
+cyclophosphamide; DM, dermatomyositis; dsDNA, double-stranded DNA; GC, glucocorticoid; HCQ, hydroxychloroquine; HMGCR, 3-hydroxy-3-methylglutaryl-coenzyme A reductase; IMNM, immune-mediated necrotizing myopathy; IVIG, intravenous immunoglobulin;
+LEF, leflunomide; LN, lupus nephritis; MMF, mycophenolate mofetil; MMT-8, manual muscle testing 8; mRSS, modified Rodnan skin score; MSC, mesenchymal stem cell; MTX, methotrexate; RESET, REstoring SElf-Tolerance; RNA P III, RNA polymerase III; RTX,
+rituximab; SAE, small ubiquitin-like modifier activating enzyme; SLE, systemic lupus erythematosus; SLEDAI-2K, SLE disease activity index 2000; SRP, signal recognition particle; SSc, systemic sclerosis; TAC, tacrolimus; U/L, units per liter; UPCR,
+urinary protein-to-creatinine ratio; VOC, voclosporin. Cabaletta Bio: Data on file.
+
+Baseline Characteristics: First 8
+Patients in the RESET™ Program *Baseline disease activity = activity before preconditioning. † SLE-1 had class V LN; inclusion criteria for LN cohort requires class III/IV LN. ADA, adalimumab; ANI, anifrolumab; AZA, azathioprine; BEL,
+belimumab; CK, creatinine kinase; CYC, cyclophosphamide; DM, dermatomyositis; dsDNA, double-stranded DNA; GC, glucocorticoid; HCQ, hydroxychloroquine; HMGCR, 3-hydroxy-3-methylglutaryl-coenzyme A reductase; IMNM, immune-mediated necrotizing
+myopathy; IVIG, intravenous immunoglobulin; LEF, leflunomide; LN, lupus nephritis; MMF, mycophenolate mofetil; MMT-8, manual muscle testing 8; mRSS, modified Rodnan skin score; MSC, mesenchymal stem cell; MTX, methotrexate; RESET, REstoring
+SElf-Tolerance; RNA P III, RNA polymerase III; RTX, rituximab; SAE, small ubiquitin-like modifier activating enzyme; SLE, systemic lupus erythematosus; SLEDAI-2K, SLE disease activity index 2000; SRP, signal recognition particle; SSc, systemic
+sclerosis; TAC, tacrolimus; U/L, units per liter; UPCR, urinary protein-to-creatinine ratio; VOC, voclosporin. Cabaletta Bio: Data on file. Safety and efficacy of CABA-201• 17 NOV 2024 RESET-Myositis™ RESET-Myositis Patient / Cohort
+IMNM-1 IMNM-2 DM-1 Age, sex 33 M 60 M 57 M Disease duration ~2 years ~4 years ~4 years Autoantibodies SRP HMGCR SAE Baseline Disease activity* MMT-8 130 126 131 CK (U/L) 617 4725 94 Therapies at Screening GC, MTX GC, IVIG GC, MMF, HCQ Other prior
+therapies RTX, IVIG RTX, MMF, MTX IVIG GC dose at Screening (mg/day) 5 5 20 RESET-SLE™ SLE-1† Class V LN SLE-2 SLE-3 LN-1 26 M 36 F 44 F 24 F ~6 years ~17 years ~9 years ~2 years dsDNA dsDNA dsDNA dsDNA SLEDAI-2K 26 10 8 22 UPCR (mg/mg)
+1.08† n/a n/a 7.22 GC, MMF, HCQ GC, AZA, HCQ HCQ, MMF, BEL GC, ANI, VOC, MMF, HCQ CYC, BEL, VOC, TAC MSC, RTX, ANI, BEL, ADA, MTX GC, MTX BEL, LEF 10 7 n/a 20 RESET-SSc™ SSc-Skin-1 (severe skin cohort) 66 F ~2 years RNA P III mRSS 42 MMF
+HCQ n/a All patients had active, refractory disease and most had failed B cell-targeting therapies
+
+RESET-Myositis™ Cohort IMNM
+DM Patient IMNM-1 IMNM-2 DM-1 CRS† None None None ICANS† None None None Serious infections‡ None None None Hypogammaglobulinemia None None None Related SAEs (Grade)§ (excluding CRS and ICANS) None None None Safety and efficacy
+of CABA-201• 17 NOV 2024 Incidence and Severity of Adverse Events* *As of Nov 1, 2024; Primary endpoint is incidence and severity of Adverse Events through Day 29. †Graded per ASTCT Consensus Grading Criteria. Tocilizumab was not
+administered for any cases of CRS. ‡Coded in System Organ Class of Infections and Infestations and meets seriousness criteria. §As assessed per FDA guidelines. CRS, cytokine release syndrome; CY, cyclophosphamide; DM, dermatomyositis;
+FLU, fludarabine; ICANS, immune effector cell-associated neurotoxicity syndrome; IMNM, immune-mediated necrotizing myopathy; LN, lupus nephritis; PE, pulmonary embolism; SAE, serious adverse event; RESET, REstoring SElf-Tolerance; SLE, systemic
+lupus erythematosus; SSc, systemic sclerosis. Cabaletta Bio: Data on file.
+
+RESET-Myositis™ Cohort IMNM
+DM Patient IMNM-1 IMNM-2 DM-1 CRS† None None None ICANS† None None None Serious infections‡ None None None Hypogammaglobulinemia None None None Related SAEs (Grade)§ (excluding CRS and ICANS) None None None RESET-SLE™
+Non-renal SLE SLE-1 SLE-2 SLE-3 None Grade 1 None None None None None None None None None None None None None Safety and efficacy of CABA-201• 17 NOV 2024 Incidence and Severity of Adverse Events* *As of Nov 1, 2024; Primary endpoint is
+incidence and severity of Adverse Events through Day 29. †Graded per ASTCT Consensus Grading Criteria. Of these patients, only DM-1, SLE-2, SLE-3, and SSc-Skin-1 received medication for seizure prophylaxis. Tocilizumab was not administered for
+any cases of CRS. ‡Coded in System Organ Class of Infections and Infestations and meets seriousness criteria. §As assessed per FDA guidelines. CRS, cytokine release syndrome; CY, cyclophosphamide; DM, dermatomyositis; FLU, fludarabine;
+ICANS, immune effector cell-associated neurotoxicity syndrome; IMNM, immune-mediated necrotizing myopathy; LN, lupus nephritis; PE, pulmonary embolism; SAE, serious adverse event; RESET, REstoring SElf-Tolerance; SLE, systemic lupus erythematosus;
+SSc, systemic sclerosis. Cabaletta Bio: Data on file.
+
+RESET-Myositis™ Cohort IMNM
+DM Patient IMNM-1 IMNM-2 DM-1 CRS† None None None ICANS† None None None Serious infections‡ None None None Hypogammaglobulinemia None None None Related SAEs (Grade)§ (excluding CRS and ICANS) None None None RESET-SLE™
+Non-renal SLE SLE-1 SLE-2 SLE-3 None Grade 1 None None None None None None None None None None None None None RESET-SSc™ SSc – Severe Skin SSc-Skin-1 Grade 2 None None None None Safety and efficacy of CABA-201• 17 NOV 2024
+Incidence and Severity of Adverse Events* *As of Nov 1, 2024; Primary endpoint is incidence and severity of Adverse Events through Day 29. †Graded per ASTCT Consensus Grading Criteria. Of these patients, only DM-1, SLE-2, SLE-3, and SSc-Skin-1
+received medication for seizure prophylaxis. Tocilizumab was not administered for any cases of CRS. ‡Coded in System Organ Class of Infections and Infestations and meets seriousness criteria. §As assessed per FDA guidelines. CRS, cytokine
+release syndrome; CY, cyclophosphamide; DM, dermatomyositis; FLU, fludarabine; ICANS, immune effector cell-associated neurotoxicity syndrome; IMNM, immune-mediated necrotizing myopathy; LN, lupus nephritis; PE, pulmonary embolism; SAE, serious
+adverse event; RESET, REstoring SElf-Tolerance; SLE, systemic lupus erythematosus; SSc, systemic sclerosis. Cabaletta Bio: Data on file.
+
+RESET-Myositis™ Cohort IMNM
+DM Patient IMNM-1 IMNM-2 DM-1 CRS† None None None ICANS† None None None Serious infections‡ None None None Hypogammaglobulinemia None None None Related SAEs (Grade)§ (excluding CRS and ICANS) None None None RESET-SLE™
+Non-renal SLE LN SLE-1 SLE-2 SLE-3 LN-1 None Grade 1 None Grade 1 None None None Grade 4 None None None None None None None Grade 2 None None None Fever (1) Pancytopenia¶ (4) RESET-SSc™ SSc – Severe Skin SSc-Skin-1 Grade 2 None None
+None None Safety and efficacy of CABA-201• 17 NOV 2024 Incidence and Severity of Adverse Events* *As of Nov 1, 2024; Primary endpoint is incidence and severity of Adverse Events through Day 29. †Graded per ASTCT Consensus Grading
+Criteria. Of these patients, only DM-1, SLE-2, SLE-3, and SSc-Skin-1 received medication for seizure prophylaxis. Tocilizumab was not administered for any cases of CRS. ‡Coded in System Organ Class of Infections and Infestations and meets
+seriousness criteria. §As assessed per FDA guidelines. ¶Consistent with “Prolonged Cytopenias,” which is a labeled warning and precaution for approved oncology CAR T products. CRS, cytokine release syndrome; CY,
+cyclophosphamide; DM, dermatomyositis; FLU, fludarabine; ICANS, immune effector cell-associated neurotoxicity syndrome; IMNM, immune-mediated necrotizing myopathy; LN, lupus nephritis; PE, pulmonary embolism; SAE, serious adverse event; RESET,
+REstoring SElf-Tolerance; SLE, systemic lupus erythematosus; SSc, systemic sclerosis. Cabaletta Bio: Data on file.
+
+RESET-Myositis™ Cohort IMNM
+DM Patient IMNM-1 IMNM-2 DM-1 CRS† None None None ICANS† None None None Serious infections‡ None None None Hypogammaglobulinemia None None None Related SAEs (Grade)§ (excluding CRS and ICANS) None None None RESET-SLE™
+Non-renal SLE LN SLE-1 SLE-2 SLE-3 LN-1 None Grade 1 None Grade 1 None None None Grade 4 None None None None None None None Grade 2 None None None Fever (1) Pancytopenia¶ (4) RESET-SSc™ SSc – Severe Skin SSc-Skin-1 Grade 2 None None
+None None Safety and efficacy of CABA-201• 17 NOV 2024 Incidence and Severity of Adverse Events* Unrelated SAEs (Grade)§ None Back Pain (3) PE# (4) None None None None None Neutropenia (4) (FLU/CY related) *As of Nov 1, 2024; Primary
+endpoint is incidence and severity of Adverse Events through Day 29. †Graded per ASTCT Consensus Grading Criteria. Of these patients, only DM-1, SLE-2, SLE-3, and SSc-Skin-1 received medication for seizure prophylaxis. Tocilizumab was not
+administered for any cases of CRS. ‡Coded in System Organ Class of Infections and Infestations and meets seriousness criteria. §As assessed per FDA guidelines. #Patient with Factor V Leiden heterozygosity (increased risk for thrombosis),
+recent intravenous immunoglobulin treatment, history of myocardial infarction, recent hospitalization for back pain & fatigue with decreased mobility. Undetectable CABA-201 levels since Day 22. Event occurred at Day 38 and was reported as PE
+leading to cardiac arrest, followed by successful pulmonary artery thrombectomy. ¶Consistent with “Prolonged Cytopenias,” which is a labeled warning and precaution for approved oncology CAR T products. CRS, cytokine release
+syndrome; CY, cyclophosphamide; DM, dermatomyositis; FLU, fludarabine; ICANS, immune effector cell-associated neurotoxicity syndrome; IMNM, immune-mediated necrotizing myopathy; LN, lupus nephritis; PE, pulmonary embolism; SAE, serious adverse
+event; RESET, REstoring SElf-Tolerance; SLE, systemic lupus erythematosus; SSc, systemic sclerosis. Cabaletta Bio: Data on file.
+
+Consistent and Complete B cell
+Depletion by Day 221 B cell depletion & CABA-201 expansion through Day 30 Safety and efficacy of CABA-201• 17 NOV 2024 PK, pharmacokinetic; PD, pharmacodynamic * Pre-infusion B-cell levels were measured at pre-preconditioning for all
+subjects other than IMNM-2 where apheresis was used 1. Nunez et al. Correlative Studies of CABA-201 from the RESET-MyositisTM and RESET-SLETM Clinical Trials. Presented at ACR Convergence 2024. Abstract 0324 CABA-201 exhibited a PK/PD profile with
+peak expansion between Day 8 and 15 as expected, with a later 2nd peak for LN-1 B cell depletion/repopulation & CABA-201 expansion through Day 150 In patients with >3-month follow-up, B cell repopulation with naïve cells started as early
+as 8 weeks
+
+RESET- Myositis™: Early
+Efficacy Data Following CABA-201 Infusion ‡ As of Nov 1, 2024 CAR; chimeric antigen receptor; CDASI-A, Cutaneous Dermatomyositis Disease Area and Severity Index – Activity; CK, creatinine kinase; DM, dermatomyositis; GC, glucocorticoid;
+HCQ, hydroxychloroquine; IMNM, immune-mediated necrotizing myopathy; IVIG, intravenous immunoglobulin; MMF, mycophenolate mofetil; MMT-8, manual muscle testing 8; RESET, REstoring SElf-Tolerance; TIS, total improvement score; U/L, units per liter.
+Cabaletta Bio: Data on file. Safety and efficacy of CABA-201• 17 NOV 2024 TIS Major Moderate Minor None CK (U/L) MMT-8 Normal strength CK DM-1 Discontinued all immunosuppressants MMF, HCQ Discontinued: 1st known adult DM patient dosed with CAR
+T demonstrated compelling early clinical response off immunosuppressants‡
+
+TIS Major Moderate Minor None
+RESET- Myositis™: Efficacy Data Following CABA-201 Infusion ‡ As of Nov 1, 2024 CDASI-A, Cutaneous Dermatomyositis Disease Area and Severity Index – Activity; CK, creatinine kinase; DM, dermatomyositis; GC, glucocorticoid; HCQ,
+hydroxychloroquine; IMNM, immune-mediated necrotizing myopathy; IVIG, intravenous immunoglobulin; MTX, Methotrexate; MMF, mycophenolate mofetil; MMT-8, manual muscle testing 8; RESET, REstoring SElf-Tolerance; TIS, total improvement score; U/L,
+units per liter. Cabaletta Bio: Data on file. 1. Schett, G. 'CAR-T Cell Therapy: "The Future is Now."' 5th Global Conference on Myositis. iMyoS. Pittsburgh, PA. Safety and efficacy of CABA-201• 17 NOV 2024 1st IMNM patient with longer follow
+up demonstrated continuing clinical response off immunosuppressants without flares‡ MTX IVIG MMF, HCQ CK (U/L) MMT-8 Normal strength CK (N=3) Discontinued all immunosuppressants Initial clinical responses in IMNM are consistent with
+published data1; response kinetics may differ among myositis subtypes Discontinued:
+
+26 8 SLE-1 Class V LN 10 4 SLE-2 8
+2 SLE-3 Discontinued GC, MMF, HCQ Discontinued AZA, HCQ Discontinued HCQ, MMF, BEL Increased DNA binding Low complement Proteinuria Hematuria Vasculitis Leukopenia Pleurisy Pyuria SLEDAI-2K SLEDAI-2K SLEDAI-2K RESET-SLE™: Efficacy Data in SLE
+Following CABA-201 Infusion Safety and efficacy of CABA-201• 17 NOV 2024 No clinical symptoms on SLEDAI-2K through latest follow up, including SLE-1 with isolated Class V LN (non-renal cohort) with persistent proteinuria as expected ‡ As
+of Nov 1, 2024 AZA, azathioprine; BEL, belimumab; GC, glucocorticoid; dsDNA, double-stranded DNA; HCQ, hydroxychloroquine; LN, lupus nephritis; MMF, mycophenolate mofetil; RESET, REstoring SElf-Tolerance; SLE, systemic lupus erythematosus;
+SLEDAI-2K, Systemic Lupus Erythematosus Disease Activity Index 2000. Cabaletta Bio: Data on file. Proteinuria (Class V LN) Low complement dsDNA Low complement dsDNA dsDNA Alopecia Arthritis Rash Laboratory Criteria Clinical Criteria All 3 SLE
+patients demonstrated clinical responses off immunosuppressants; longer follow up patient SLE-1 completed steroid taper‡
+
+22 SLEDAI-2K 8 RESET-SLE™:
+Efficacy Data in LN Following CABA-201 infusion Safety and efficacy of CABA-201• 17 NOV 2024 ‡ As of Nov 1, 2024 ANI, anifrolumab; dsDNA, double-stranded DNA; HCQ, hydroxychloroquine; LN, lupus nephritis; MMF, mycophenolate mofetil;
+RESET, REstoring SElf-Tolerance; SLE, systemic lupus erythematosus; SLEDAI-2K, Systemic Lupus Erythematosus Disease Activity Index 2000; UPCR, urinary protein-to-creatinine ratio; VOC, voclosporin Cabaletta Bio: Data on file. Proteinuria markedly
+improved in LN-1 off all 4 immunosuppressants by Week 8; SLE-1 with isolated Class V lupus nephritis (non-renal cohort) demonstrated resolution of all clinical symptoms with proteinuria persisting off immunosuppressants with prednisone tapered off.
+LN-1 demonstrated marked improvement of proteinuria off all immunosuppressants, continuing steroid taper ‡ UPCR (mg/mg) Discontinued all immunosuppressants LN-1 proteinuria markedly improved by Week 8 with alopecia/rash as the remaining
+clinical manifestations at Week 16 after discontinuation of all immunosuppressants and continuing prednisone taper Discontinued ANI, VOC, MMF, HCQ SLEDAI-2K dsDNA Complement Rash Pyuria Proteinuria Hematuria Arthritis Alopecia Rash
+Proteinuria
+
+Safety and efficacy of
+CABA-201• 17 NOV 2024 Day -4: Fever/worsening anemia (resolved in 3 days) Day -7 to -5: Preconditioning Day -18: Fever/relapsing pericardial effusion (resolved in 1 day) LN-1 Patient : ICANS Event Timeline 24-year-old female with SLE for ~2
+years and with active class III LN Active, severe (SLEDAI-2K = 22; UPCR = 7.22 mg/mg) refractory disease despite 5 systemic treatments* for SLE at screening Pre-infusion period Patient with recent fever in setting of acute and severe inflammation
+*Therapies at Screening: glucocorticoids, anifrolumab, voclosporin, mycophenolate mofetil, hydroxychloroquine CRS, cytokine release syndrome; ICANS, immune effector cell-associated neurotoxicity syndrome; LN, lupus nephritis; RESET, REstoring
+SElf-Tolerance; SLE, systemic lupus erythematosus; SLEDAI-2K, Systemic Lupus Erythematosus Disease Activity Index 2000; UPCR, urinary protein-to-creatinine ratio Cabaletta Bio: Data on file. 1. Nunez et al. Correlative Studies of CABA-201 from the
+RESET-MyositisTM and RESET-SLETM Clinical Trials. Presented at ACR Convergence 2024. Abstract 0324
+
+Safety and efficacy of
+CABA-201• 17 NOV 2024 Day 1: CABA-201 infusion Day 9: Grade 1 CRS Day 10: Grade 4 ICANS Arousable; unable to speak Subclinical seizure activity on EEG No evidence of elevated intracranial pressure or cerebral edema Day 12: ICANS fully resolved
+Managed with standard therapies Day -7 to -5: Preconditioning Day -18: Fever/relapsing pericardial effusion (resolved in 1 day) LN-1 Patient : ICANS Event Timeline 24-year-old female with SLE for ~2 years and with active class III LN Active, severe
+(SLEDAI-2K = 22; UPCR = 7.22 mg/mg) refractory disease despite 5 systemic treatments* for SLE at screening Post-infusion period Patient with recent fever in setting of acute and severe inflammation *Therapies at Screening: glucocorticoids,
+anifrolumab, voclosporin, mycophenolate mofetil, hydroxychloroquine CRS, cytokine release syndrome; EEG, electroencephalogram; ICANS, immune effector cell-associated neurotoxicity syndrome; LN, lupus nephritis; RESET, REstoring SElf-Tolerance; SLE,
+systemic lupus erythematosus; SLEDAI-2K, Systemic Lupus Erythematosus Disease Activity Index 2000; UPCR, urinary protein-to-creatinine ratio Cabaletta Bio: Data on file. 1. Nunez et al. Correlative Studies of CABA-201 from the RESET-MyositisTM and
+RESET-SLETM Clinical Trials. Presented at ACR Convergence 2024. Abstract 0324 Pre-infusion period Day -4: Fever/worsening anemia (resolved in 3 days)
+
+Safety and efficacy of
+CABA-201• 17 NOV 2024 Day 1: CABA-201 infusion Day 9: Grade 1 CRS Day 10: Grade 4 ICANS Arousable; unable to speak Subclinical seizure activity on EEG No evidence of elevated intracranial pressure or cerebral edema Day 12: ICANS fully resolved
+Managed with standard therapies Day -7 to -5: Preconditioning Day -18: Fever/relapsing pericardial effusion (resolved in 1 day) LN-1 Patient : ICANS Event Timeline 24-year-old female with SLE for ~2 years and with active class III LN Active, severe
+(SLEDAI-2K = 22; UPCR = 7.22 mg/mg) refractory disease despite 5 systemic treatments* for SLE at screening Patient with recent fever in setting of acute and severe inflammation *Therapies at Screening: glucocorticoids, anifrolumab, voclosporin,
+mycophenolate mofetil, hydroxychloroquine CRS, cytokine release syndrome; EEG, electroencephalogram; ICANS, immune effector cell-associated neurotoxicity syndrome; LN, lupus nephritis; RESET, REstoring SElf-Tolerance; SLE, systemic lupus
+erythematosus; SLEDAI-2K, Systemic Lupus Erythematosus Disease Activity Index 2000; TCR, T Cell Receptor; UPCR, urinary protein-to-creatinine ratio Cabaletta Bio: Data on file. 1. Nunez et al. Correlative Studies of CABA-201 from the
+RESET-MyositisTM and RESET-SLETM Clinical Trials. Presented at ACR Convergence 2024. Abstract 0324 Patient had acute, febrile inflammatory events and highly elevated pro-inflammatory cytokines (MIP-1β, IL-27) prior to infusion that continued
+after treatment, suggesting a possible occult infection; supportive data from TCR clonal sequencing1 Post-infusion period Pre-infusion period Day -4: Fever/worsening anemia (resolved in 3 days)
+
+Safety and efficacy of
+CABA-201• 17 NOV 2024 LN-1 Patient Outcome: 4 Months Post-Treatment Patient 4 Months Follow-up* Off all immunosuppressants‡ Prednisone 8mg/day; taper ongoing SLEDAI-2K: 22 à 8 UPCR (mg/mg): 7.22 à 0.63 Compelling clinical
+response since discontinuation of all immunosuppressants, continuing steroid taper *As of Nov 1, 2024 ‡Therapies at Screening: glucocorticoids, anifrolumab, voclosporin, mycophenolate mofetil, hydroxychloroquine ANI, anifrolumab; dsDNA,
+double-stranded DNA; HCQ, hydroxychloroquine; LN, lupus nephritis; MMF, mycophenolate mofetil; SLEDAI-2K, Systemic Lupus Erythematosus Disease Activity Index 2000; UPCR, urinary protein-to-creatinine ratio; VOC, voclosporin Cabaletta Bio: Data on
+file.
+
+Safety and efficacy of
+CABA-201• 17 NOV 2024 LN-1 Patient Outcome: 4 Months Post-Treatment “Overall, I feel much better than I felt before CABA-201 therapy. I have much more energy, I have significantly less joint pain and inflammation, my proteinuria has
+improved, I no longer have any mouth sores, and I am getting back to my normal self! At 25 years old, my kidneys were not functioning properly and continued to get worse despite all of the strong medications I was on. I had multiple occurrences of
+fluid around my heart. CABA-201 has put a stop to that and has allowed my body to heal. Although I faced complications afterwards, I believe the improvement that I have seen in both my numbers and how I feel, was far worth it. If I had the choice, I
+would choose to receive CABA-201 again…. ” - LN-1 patient at 4 months post-therapy Patient 4 Months Follow-up* Off all immunosuppressants‡ Prednisone 8mg/day; taper ongoing SLEDAI-2K: 22 à 8 UPCR (mg/mg): 7.22 à 0.63
+Compelling clinical response since discontinuation of all immunosuppressants, continuing steroid taper *As of Nov 1, 2024 ‡Therapies at Screening: glucocorticoids, anifrolumab, voclosporin, mycophenolate mofetil, hydroxychloroquine ANI,
+anifrolumab; dsDNA, double-stranded DNA; HCQ, hydroxychloroquine; LN, lupus nephritis; MMF, mycophenolate mofetil; SLEDAI-2K, Systemic Lupus Erythematosus Disease Activity Index 2000; UPCR, urinary protein-to-creatinine ratio; VOC, voclosporin
+Cabaletta Bio: Data on file.
+
+RESET-SSc™: Emerging Efficacy
+Data - 42 days post infusion ‡ As of Nov 1, 2024 patient is not taking immunosuppressants or steroids mRSS, modified Rodnan Skin Score; RESET, REstoring SElf-Tolerance; SSc, systemic sclerosis Cabaletta Bio: Data on file. 1. Khanna D, et al. J
+Scleroderma Relat Disord. 2017;2(1):11–18. Safety and efficacy of CABA-201• 17 NOV 2024 Early clinical data indicate potential emergence of a drug-free clinical response‡ Baseline Day 22 Day 42 mRSS 42 38 36 Overall mRSS score
+SSc-Skin-1 Baseline mRSS score by body area SSc-Skin-1 0 1 2 3 None Mild Moderate Severe Modified Rodnan Skin Score (mRSS): a measure of skin thickness in SSc across 17 body areas, with a maximum score of 511 Used as an outcome measure in SSc
+clinical trials as a surrogate for disease activity, severity and mortality1 0 1 2 3 None Mild Moderate Severe Day 42 mRSS score by body area SSc-Skin-1 Early disease improvements in face and hands after discontinuation of disease-specific
+medication
+
+Summary from Clinical and
+Translational Data on the First 8 Patients Safety and efficacy of CABA-201• 17 NOV 2024 CABA-201 appears to have a favorable risk-benefit profile In patients with recent fever or infections, delaying CAR T infusion should be considered
+CABA-201 provided compelling efficacy in highly active and refractory autoimmune patients through the follow-up period Initial data support the potential for drug-free clinical responses All patients discontinued all immunosuppressants SLE patients
+with longer follow-up: steroid taper completed or ongoing (prednisone 8mg/day) The PK/PD data support the current dose of CABA-2011 CAR, chimeric antigen receptor; PK, pharmacokinetic; PD, pharmacodynamic; SLE, systemic lupus erythematosus 1. Nunez
+et al. Correlative Studies of CABA-201 from the RESET-MyositisTM and RESET-SLETM Clinical Trials. Presented at ACR Convergence 2024. Abstract 0324
+
+Patients and caregivers involved in
+the RESET™ clinical program Site investigators and staff involved with these patients from the RESET™ clinical program Mayo Clinic, Rochester University of California, Davis University of California, Irvine University of Michigan
+University of North Carolina Cabaletta Bio team Biostatistics Clinical Development Clinical Operations Computational Biology Manufacturing Medical Affairs Translational Medicine Acknowledgements Safety and efficacy of CABA-201• 17 NOV
+2024

@@ -1,0 +1,145 @@
+EX-99.2
+3
+srpt-ex992_25.htm
+EX-99.2
+
+Doug Ingram
+President and CEO
+May 3, 2021
+8:30 a.m. ET
+Clinical Update: Results from 30 mg/kg Cohort of MOMENTUM Study of SRP-5051 for Duchenne Muscular Dystrophy Gilmore o’neill, mb, mmsc
+Executive Vice President, R&D and Chief Medical Officer EXHIBIT 99.2 Sarepta therapeutics inc 2021 all rights reserved 1 logo
+
+Welcome and Introduction Doug Ingram President and CEO Sarepta therapeutics inc 2021 all rights reserved 2 logo
+
+Forward-Looking Statements This presentation contains "forward-looking statements." Any statements contained in this presentation that are not statements of historical fact may be deemed to be forward-looking statements. Words such as "believes," "anticipates," "plans," "expects," "will," "intends," "potential," "possible" and similar expressions are intended to identify forward-looking statements. These forward-looking statements include statements regarding the potential market opportunities for SRP-5051; the potential benefits of PMO, including specificity, stability, versatility and safety; the potential benefits of PPMO, including enhanced PMO tissue penetration leading to greater exon skipping and dystrophin production and more efficient dosing; the predicted dystrophin trajectory of >10% expression over time with monthly dosing of SRP-5051; the expectation that expression driven by SRP-5051 will deliver clinically better changes in patient outcomes; and plans and milestones for SRP-5051 and other PPMO product candidates, including initiating Part B of MOMENTUM, our goal that Part B will be a pivotal trial, supporting an accelerated approval in the United States, plans regarding engagement with regulatory agencies, and plans regarding the development of future PPMOs for other exons in Duchenne and other indications.
+These forward-looking statements involve risks and uncertainties, many of which are beyond our control. Known risk factors include, among others: success in preclinical and clinical trials, especially if based on a small patient sample, does not ensure that later clinical trials will be successful; the data presented in this presentation may not be consistent with the final data set and analysis thereof or result in a safe or effective treatment benefit; different methodologies, assumptions and applications we utilize to assess particular safety or efficacy parameters may yield different statistical results, and even if we believe the data collected from clinical trials of our product candidates are positive, these data may not be sufficient to support approval by the FDA or foreign regulatory authorities; if the actual number of patients suffering from DMD is smaller than estimated, our revenue and ability to achieve profitability may be adversely affected; we may not be able to execute on our business plans and goals, including meeting our expected or planned regulatory milestones and timelines, clinical development plans, and bringing our product candidates to market, due to a variety of reasons, some of which may be outside of our control, including possible limitations of company financial and other resources, manufacturing limitations that may not be anticipated or resolved for in a timely manner, regulatory, court or agency decisions, such as decisions by the United States Patent and Trademark Office with respect to patents that cover our product candidates and the COVID-19 pandemic; and even if Sarepta’s programs result in new commercialized products, Sarepta may not achieve the expected revenues from the sale of such products; and those risks identified under the heading “Risk Factors” in Sarepta’s most recent Annual Report on Form 10-K for the year ended December 31, 2020, and most recent Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (SEC) as well as other SEC filings made by the Company which you are encouraged to review.
+Any of the foregoing risks could materially and adversely affect the Company’s business, results of operations and the trading price of Sarepta’s common stock. For a detailed description of risks and uncertainties Sarepta faces, you are encouraged to review the SEC filings made by Sarepta. We caution investors not to place considerable reliance on the forward-looking statements contained in this presentation. Sarepta does not undertake any obligation to publicly update its forward-looking statements based on events or circumstances after the date hereof.
+Sarepta therapeutics inc 2021 all rights reserved 3 logo
+
+Clinical Update: MOMENTUM Multiple- Ascending Dose Study of SRP-5051 for Duchenne Muscular Dystrophy Gilmore O’Neill, MB, MMSC Executive Vice President, R&D and Chief Medical Officer
+Sarepta therapeutics inc 2021 all rights reserved 4 logo
+
+Duchenne Muscular Dystrophy (DMD) DMD affects approximately 1 in 3,500-5,000 males worldwide1 DMD is a rare, fatal neuromuscular genetic disease inherited in an X-linked recessive pattern2
+Muscle weakness becomes increasingly noticeable by age 3 to 5, and most patients use a wheelchair by the time they are 112
+During adolescence, cardiac and respiratory muscle deterioration lead to serious, life-threatening complications3 1. National Institutes of Health. Genetics Home Reference. Duchenne and Becker muscular dystrophy. https://ghr.nlm.nih.gov/condition/duchenne-and-becker-muscular-dystrophy. Accessed Jan 2020.
+2. Hoffman EP, Brown RH, et al. Dystrophin: the protein product of the Duchenne muscular dystrophy locus. Cell. 1987;51:919-928.
+3. Passamano L, Taglia A, et al. Improvement of survival in Duchenne Muscular Dystrophy: retrospective analysis of 835 patients. Acta Myologica. 2012;31(1): 121-125.
+Sarepta therapeutics inc 2021 all rights reserved 5
+
+Sarepta’s Proprietary PMO Technology Phosphorodiamidate morpholino oligomer (PMO) technology
+Specificity: Enhanced affinity for targeting pre-mRNA for precise binding to the selected RNA target
+Stability: Highly resistant to degradation by enzymes
+Versatility: Ability to rapidly design and construct drug candidates that are specific for human or pathogen RNA; and target specific tissues
+Safety: Built upon a charge-neutral backbone, which may be reflected in tolerability The PMO directs the splicing machinery to skip an exon when processing the pre-mRNA. As a result, the alternate mRNA allows for the production of a shortened, functional dystrophin protein. Kole R, Lepper BJ. Discovery Medicine, Volume 14, Number 74, July 2012 Exons Protein Sarepta therapeutics inc 2021 all rights reserved 6
+
+Sarepta’s Proprietary PMO Technology Phosphorodiamidate morpholino oligomer (PMO) technology
+Specificity: Enhanced affinity for targeting pre-mRNA for precise binding to the selected RNA target
+Stability: Highly resistant to degradation by enzymes
+Versatility: Ability to rapidly design and construct drug candidates that are specific for human or pathogen RNA; and target specific tissues
+Safety: Built upon a charge-neutral backbone, which may be reflected in tolerability The PMO directs the splicing machinery to skip an exon when processing the pre-mRNA. As a result, the alternate mRNA allows for the production of a shortened, functional dystrophin protein. Kole R, Lepper BJ. Discovery Medicine, Volume 14, Number 74, July 2012 Exons Protein Sarepta therapeutics inc 2021 all rights reserved 7
+
+Natural History Genotype/Phenotype Correlations Predict that Even Low Dystrophin Quantities can Significantly Mitigate Duchenne Phenotype Integrated study of 100 patients with Xp21 linked muscular dystrophy using clinical, genetic, immunochemical, and histopathological data. Part 1. Trends across the clinical groups. Nicholson LV et al. J Med Genet 1993;30:728–736.
+Differentiation of Duchenne and Becker muscular dystrophy phenotypes with amino‐ and carboxy‐terminal antisera specific for dystrophin. Bulman DE et al. Am J Hum Genet 1991;48:295.
+Very Low Residual Dystrophin Quantity Is Associated with Milder Dystrophinopathy. de Feraudy et al. Ann Neurol 2021; 89:280-292.
+“Residual dystrophin of 0 to 5% in group B was associated with delayed LoA compared to group A, and ambulation was almost completely conserved in group C (Fig 3A; p < 0.001)”
+“data showed that disease severity correlates with dystrophin quantities even at very low levels, as observed in patient groups with 0 to 0.5% and 0.5 to 5% dystrophin when compared to 0% dystrophin (group A) and ≥5% dystrophin”
+Delay in onset first symptoms, LOA, time of spinal surgery and improvement in survival Patients with residual dystrophin protein expression >0% demonstrated a delay in loss of ambulation and improved respiratory function compared to those with no residual dystrophin1 LOSS OF AMBULATION
+(Groups A,B,C) 100 80 60 40 20 0 Cumulative survival 0 5 10 15 20 25 30 Age (years) <0.001 <0.001 NS A B C HR for B/A = 0.16
+(95% CI 0.0–0.30) Group A: 0% Group B: 0–5% Group C: ≥5% 0 Age (years) 0 5 10 15 20 25 30 p<0.001 39 39 33 2 6 1 0 24 24 23 16 13 10 7 11 11 11 7 5 5 5 Number at risk A B C 100 Cumulative survival 80 60 40 20 NS p<0.001 A B C Median age Group A: 15.0 years Group B and C: Undefined VC <50% Sarepta therapeutics inc 2021 all rights reserved line chart 8
+
+Enhances PMO
+Conjugated peptide greatly increases cell penetration
+Could potentially lead to more efficient dosing and greater benefit for patients
+Non-clinical data demonstrates delivery of PPMOs to unique muscle types (e.g., heart)
+Peptide-conjugated PMO (PPMO): Next-generation Technology for Enhanced PMO Tissue Penetration Leading to Greater Exon Skipping and Dystrophin Production Lead PPMO candidate: SRP-5051
+Designed to skip exon 51
+In clinical development to treat patients with DMD amenable to exon 51 skipping Sarepta therapeutics inc 2021 all rights reserved 9 graphic
+
+Clinical Update: SRP-5051 MOMENTUM Multiple-Ascending Dose Study, Results from 30 mg/kg Cohort Sarepta therapeutics inc 2021 all rights reserved 10
+
+SRP-5051-201 MOMENTUM PART A: Designed to Assess Safety and PK/PD of Multiple Doses of SRP-5051 in Plasma and Muscle of Duchenne Patients Primary Outcome Measure
+Safety
+
+Secondary Outcome Measures Including:
+PK plasma concentration of SRP-5051
+Change from baseline at 12 weeks:
+Muscle concentration of SRP-5051 
+Muscle exon-skipping measured by ddPCR
+Muscle dystrophin protein measured by western blot
+
+Inclusion criteria
+Confirmed DMD mutation amenable to exon 51-skipping
+Stable dose of oral corticosteroids for at least 12 weeks prior to study drug administration, or no corticosteroids for at least 12 weeks prior to study drug administration.
+Part A accepts ambulatory and non-ambulatory patients ages 7 to 21 years ClinicalTrials.gov Identifier: NCT04004065.
+SRP-5051 PPMO is investigational and has not been reviewed or approved by any regulatory authority. Sarepta therapeutics inc 2021 all rights reserved 11
+
+SRP-5051-201 MOMENTUM: 30 mg/kg Patient Demographics at Baseline Sarepta therapeuticncs inc 2021 all rights reserved 12 chart 30 mgkgmonth x4 age years weight kg doses at the time of biopsypatient 1patient 2patient 3patient 4 18 7 15 1 6 57 9 25 51 52 5 5 3 3 3
+
+SRP-5051-201 MOMENTUM: SRP-5051 30 mg/kg Arm at 12 Weeks Drove 18x Increase in Exon Skipping vs. Eteplirsen at 24 Weeks1 Eteplirsen
+30 mg/kg >4x increase in exon skipping in the 30mg/kg arm vs. 20 mg/kg at 12 weeks N=16 NA2 N=16 1.Comparative data produced with the same analytical methods using biopsies obtained from Part A of Study 5051-201 MOMENTUM and Study 4658-202 PROMOVI.
+2. NA = Not Applicable, data not collected at these time points
+*Target dose was 12 weeks. Patient 1 had 5 doses. 19 weeks from baseline to biopsy. Sarepta therapeutics inc 2021 all rights reserved 13 barchart Exon Skipping vs Eteplirsen at 24 Weeks14x increase in exon skipping in the 30mgkg arm vs 20 mgkg at 12 weeksExon Skipping meanEteplirsen week 24 SRP-505120 mgkg week 12SRP-5051 30 mgkg week 120 59 2 57 10 791
+
+SRP-5051-201 MOMENTUM: SRP-5051 30 mg/kg Arm at 12 Weeks Drove 8x Increase of Dystrophin vs. Eteplirsen at 24 Weeks1 ~2x increase in dystrophin in the 30 mg/kg arm vs. 20 mg/kg at 12 weeks N=16 NA2 N=16 Eteplirsen
+30 mg/kg Dystrophin (%), mean + se Western Blot 1.Comparative data produced with the same analytical methods using biopsies obtained from Part A of Study 5051-201 MOMENTUM and Study 4658-202 PROMOVI.
+2. NA = Not Applicable, data not collected at these time points
+*Target dose was 12 weeks. Patient 1 had 5 doses. 19 weeks from baseline to biopsy. Sarepta therapeutics inc 2021 all rights reserved 14 barchart chart Dystrophin vs Eteplirsen at 24 Weeks1 2x increase in dystrophin in the 30 mgkg arm vs 20 mgkg at 12 weeks 0.82 3.06 6.55
+
+Strong Evidence that Exon Skipping and Dystrophin Increase Over Time, as Seen in PROMOVI with Eteplirsen Exon Skipping Dystrophin** N=16 N=32 N=14 N=16 N=16 N=31 N=14 N=16 Mean % Normal Dystrophin Change from Baseline (Mean + SE) Time (Weeks) Time (Weeks) Mean Exon 51 (% Skipping) ddPCR* Change from Baseline (Mean + SE) *A quantitative ddPCR assay was used to measure % exon skipping, providing precise and accurate measurements
+** As measured by western blot, adjusted for muscle content Sarepta therapeutics inc 2021 all rights reserved 15 barchart barchart
+
+Model assumes that trajectory of PPMO will be similar to the increase of dystrophin that we observed in PROMOVI longitudinal study
+
+Predictions are based on dystrophin turnover model using PROMOVI and SRP-5051 data at 30 mg/kg and predicting dystrophin production over time Predicted Dystrophin Trajectory of >10% Expression is Achievable Over Time with Monthly Dosing of SRP-5051 Dystrophin levels from 30mg/kg 5051-201 data
+Red numbers are predicted values  SRP-5051 predicted from actual wk12 mean dystrophin (6.55) 24 48 72 96 6.55 12 0 Reference: Dystrophin estimated half life in the turnover model
+136 days based on PROMOVI data
+60 days in skeletal muscle PPMO in mdx mice. Wu et al Am J Pathol 2012 181:392-400
+103 days in quad 2OMePS in mdx mice. Verhaart et al Molecular Therapy-Nucleic Acids 2014 3:e418 Sarepta therapeutics inc 2021 all rights reserved 16 linechart
+
+Predicted Dystrophin Trajectory of >10% Expression is Achievable Over Time with Monthly Dosing of SRP-5051 Dystrophin levels from 30mg/kg 5051-201 data
+Red numbers are predicted values  Reference: Dystrophin estimated half life in the turnover model
+136 days based on PROMOVI data
+60 days in skeletal muscle PPMO in mdx mice. Wu et al Am J Pathol 2012 181:392-400
+103 days in quad 2OMePS in mdx mice. Verhaart et al Molecular Therapy-Nucleic Acids 2014 3:e418 SRP-5051 predicted from actual wk12 mean dystrophin (6.55) 24 48 72 96 6.55 12 0 Sarepta therapeutics inc 2021 all rights reserved 17 line chart patient 1 5 12.1 11.0 number of doses at time of biopsy western blot exon skipping
+
+Safety and Clinical Summary Sarepta therapeutics inc 2021 all rights reserved 18
+
+SRP-5051-201 MOMENTUM: Safety Experience Adverse Event Summary Severe and serious TEAEs in the 30 mg/kg cohort are summarized in the next slide Sarepta therapeutics inc 2021 all rights reserved 19 chart Subjects with at least one4 mg kg N3 10 mg kg N3 20 mg kg N5 30 mg kg N7 Overall N18 Treatment-emergent AE TEAE 2 66 7 3 100 0 5 100 0 7 100 0 17 94 4 TEAE related to study drug03 100 0 2 40 0 7 100 0 12 66 7 Grade 3 TEAE0002 28 6 2 11 1 Serious TEAE1 33 3 002 28 6 3 16 7 Serious TEAE related to study drug0002 28 6 2 11 1 TEAE leading to death00000
+
+SRP-5051-201 momentum: Serious TEAEs at 30 mg/kg * Severity is based on CTCAE laboratory value. None of the SAEs were life-threatening, and both patients remained asymptomatic
+
+Onset day: interval (days) from last dose Sarepta therapeutics inc 2021 all rights reserved 20 Patient Preferred Term Severity Causality Onset Day Outcome Patient 1HypomagnesemiaGrade 4Related3ResolvedHypokalemiaGrade 4Related5ResolvedPatient 3HypomagnesemiaGrade 4Related7Resolved
+
+SRP-5051-201 MOMENTUM: Safety Summary Hypomagnesemia is a newly identified risk in the SRP-5051 program 
+Most cases were mild and asymptomatic with some serious cases occurring prior to the implementation of serum monitoring and magnesium repletion
+Analysis of clinical and nonclinical studies (serum and urine) indicated that hypomagnesemia is both manageable and monitorable
+Cases rapidly improved with magnesium supplementation
+Serum monitoring of magnesium and oral supplementation with magnesium is a feasible approach to enable early detection and management going forward
+Markers of kidney function (glomerular filtration rate) have generally been normal and have not shown any consistent relationship to the hypomagnesemia
+
+Sarepta therapeutics inc 2021 all rights reserved 21
+
+SRP-5051-201 MOMENTUM: Clinical Summary 30 mg/kg arm at 12 weeks dosing drove 18x increase in exon skipping vs. eteplirsen at 24 weeks dosing
+>4x increase in exon skipping in the 30 mg/kg arm vs. 20 mg/kg at 12 weeks
+30mg/kg arm at 12 weeks dosing drove 8x increase in dystrophin vs. eteplirsen at 24 weeks dosing
+~2x increase in dystrophin in the 30 mg/kg arm vs. 20 mg/kg at 12 weeks
+Strong evidence that exon skipping and dystrophin will increase with longer term dosing
+Predicted dystrophin trajectory of >10% expression is achievable over time with monthly dosing of SRP-5051
+Patient receiving the most doses of SRP-5051 had the highest dystrophin expression
+Benefit/risk supports continued clinical development Sarepta therapeutics inc 2021 all rights reserved 22
+
+Next Steps for SRP-5051 Program Sarepta therapeutics inc 2021 all rights reserved 23
+
+Next Steps Part A of 5051-201(MOMENTUM) is now complete
+Part B of MOMENTUM is intended to be the pivotal trial in the US
+Protocol is being amended to mitigate the hypomagnesemia risk
+Implementation of magnesium supplementation with appropriate monitoring
+Will engage FDA prior to the initiation of Part B
+Have engaged international regulatory agencies on the overall clinical package and future registration strategy
+Learnings from the clinical studies of SRP-5051 will help inform the development of future PPMOs for other exons in Duchenne and other indications
+Sarepta therapeutics inc 2021 all rights reserved 24
+
+Question and Answer Sarepta therapeutics inc 2021 all rights reserved 25
+
+Sarepta therapeutics inc 2021 all rights reserved 26 logo

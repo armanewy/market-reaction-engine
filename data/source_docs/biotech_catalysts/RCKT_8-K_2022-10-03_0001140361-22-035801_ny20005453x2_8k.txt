@@ -1,0 +1,284 @@
+falseROCKET PHARMACEUTICALS, INC.000128189500012818952022-09-302022-09-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):  September 30, 2022
+
+Rocket Pharmaceuticals, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-36829
+
+04-3475813
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+9 Cedarbrook Drive, Cranbury, NJ
+
+ 
+
+08512
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:  (646) 440-9100
+
+Not applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common stock, $0.01 par value
+
+ 
+
+RCKT
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of
+1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ☐
+
+Item 8.01
+
+Other Events
+
+On September 30, 2022, Rocket Pharmaceuticals, Inc. (the “Company”) announced positive clinical updates from its Phase 1 Danon Disease Trial for RP-A501
+through an oral poster session at the Heart Failure Society of America (HFSA) Annual Scientific Meeting 2022. This included updated safety and efficacy data from patients in the pediatric and adult cohorts which demonstrate that RP-A501 was generally
+well tolerated and conferred clinical benefit.
+
+Safety Profile of the First Pediatric Cardiomyopathy Gene Therapy Trial: RP-A501 (AAV9:LAMP2B) for Danon Disease and Extended Results from
+Phase 1
+
+The data described in this oral poster presentation (data cut-off
+September 27, 2022 for pediatric patients, and August 19, 2022 for adult patients, with source data verification through July 11, 2022) and in this report are from the ongoing first-in-human Phase 1 clinical trial evaluating a single intravenous
+infusion of RP-A501, the Company’s investigational gene therapy for the treatment of Danon Disease. The presentation includes early efficacy data with updated safety data from the low-dose (6.7 x 1013GC/kg; n=2) pediatric cohort, as well as updated efficacy
+and safety data from young adult and adolescent patients in the low-dose (6.7 x 1013 GC/kg; n=3) and high-dose (1.1 x 1014 GC/kg; n=2) cohorts.
+
+•
+
+Early pediatric efficacy data were consistent with initial improvements observed in adult patients at a similar timeframe of up to nine months
+follow-up and sustained clinical benefit across biomarker, clinical and functional parameters in currently enrolled adult patients at 24 to 30 months of follow-up.
+
+o
+
+Gene expression: In the pediatric cohort, LAMP2B gene expression by immunohistochemistry was 21.1% in patient 1008 at six months and 34.7% in patient 1009 at three months. Evidence
+of durable and meaningful cardiac LAMP2B protein expression as read at a centralized core lab was achieved in all patients across
+pediatric and adult cohorts at three months and sustained through six to nine months in the pediatric cohort and 24 months in the adult cohorts in patients with a closely monitored immunomodulatory regimen.
+
+•
+
+The following assays were performed and reported for patients with at least six months of follow-up.
+
+o
+
+Vacuolar area:
+In the first pediatric patient, vacuolar area as assessed by an automated method in representative biopsy samples was found to have decreased by 77% at six months. Six-month biopsy results were not yet available for the second
+pediatric patient. All adult patients showed meaningful decreases in vacuolar area ranging from 26% to 74% at most recent available timepoints.
+
+o
+
+Brain natriuretic peptide (BNP): In the
+pediatric cohort, BNP, a key marker of heart failure, decreased from a pretreatment baseline by 78% in patient 1008 at nine months and by 62% in patient 1009 at six months. The majority of patients in the pediatric and adult cohorts showed
+stabilization or meaningful decreases in BNP, with the most dramatic decreases observed in patients with higher baseline BNP (90% for patient 1002 in the adult cohort at 30 months and 78% for patient 1008 in the pediatric cohort at nine
+months). The four currently enrolled adult patients demonstrated reduction in BNP of greater than 75% from mean pretreatment baseline compared to mean values at 18 to 24 month timepoints.
+
+o
+
+Troponin: The pediatric patients, despite a
+more limited six and nine months of follow-up, were observed to have meaningful decreases in high sensitivity troponin I (hsTnI), a protein in the blood showing signs of cardiac injury, of 90% and 85%, respectively. Patients in the adult
+cohorts demonstrated significant decreases in hsTnI. Notably, the two adult patients were observed to have a reduction in troponin of greater than 75% from mean pretreatment baseline to mean values at 18 to 24 months that was sustained in
+the two adult patients who are currently 30 to 36 months post-treatment.
+
+o
+
+New York Heart Association (NYHA) Class: In
+the pediatric cohort, an improvement (from Class II to I) in NYHA class, a measure of the symptoms and functional limitations resulting from heart failure, was observed in both patients. In the adult cohorts, all three patients treated with
+a closely monitored immunomodulatory regimen showed improvement in NYHA class. Stabilization of NYHA class was observed in one adult patient treated at the low dose without a closely monitored regimen.
+
+o
+
+Kansas City Cardiomyopathy Questionnaire (KCCQ):
+Patients in the pediatric cohort showed significant improvement in KCCQ Overall Score, a measure (0-100) of physical and social limitations, symptoms and quality of life in patients with heart failure. Specifically, patient 1008
+demonstrated improvement from a pretreatment baseline of 50 to 93 at nine months and patient 1009 demonstrated improvement from a pretreatment baseline of 52 to 81 at three months. All patients treated in pediatric and adult cohorts with a
+closely monitored immunomodulatory regimen showed improvements ranging between three and 43 points when comparing baseline to the most recent available timepoint.
+
+o
+
+Left ventricular (LV) wall thickness: In the
+pediatric cohort, patient 1008 demonstrated reduction in maximum LV wall thickness by 3% from treatment baseline after six months of follow-up. In the adult cohort, three patients demonstrated a reduction of greater than 15% and greater
+than 15% from mean baseline in both LV posterior wall thickness in diastole and maximum LV wall thickness, respectively, compared to mean values at 18 to 24 months, which represents improvement of the ventricular hypertrophy.
+
+•
+
+RP-A501 was observed to be generally well tolerated at the low dose with a manageable tolerability profile across pediatric and adult cohorts.
+
+o
+
+In the pediatric cohort, RP-A501 was well tolerated in both patients with six to eleven months follow-up. The patients were observed to have
+normal-range platelets, minimal complement activation and no complement-related adverse events. The two patients received a modified immunomodulatory regimen to mitigate adverse events. No significant immediate or delayed toxicities,
+significant skeletal myopathy, or late transaminase elevations have been observed to date.
+
+•
+
+Taken together, RP-A501 has been generally well tolerated in adult and pediatric cohorts in Danon Disease.
+
+o
+
+Phase 1 enrollment and treatment are complete.
+
+o
+
+RP-A501 together with the enhanced immunomodulatory regimen appears generally well tolerated and has mitigated adverse events in the pediatric
+cohort.
+
+o
+
+In the adult cohort, RP-A501 stabilizes and potentially improves Danon Disease cardiomyopathy.
+
+o
+
+Early pediatric data are encouraging and consistent with improvements at similar or earlier timepoints compared to the adult cohorts.
+
+o
+
+Findings are supportive of Phase 2 evaluation of RP-A501 in Danon Disease.
+
+Rocket Cautionary Statement Regarding Forward-Looking Statements
+
+Various statements in this report concerning Rocket’s future expectations, plans and prospects, including without limitation, Rocket’s expectations regarding
+its guidance for 2022, the safety and effectiveness of RP-A501 for the potential treatment of Danon Disease, trends for RP-A501 safety and efficacy based on the adult patients treated to date, the expected timing and outcome of Rocket’s regulatory
+interactions and planned submissions, including in connection with the potential advancement toward a Phase 2 pivotal study for RP-A501, Rocket’s plans for the advancement of its Danon Disease program and the safety, effectiveness and timing of
+related pre-clinical studies and clinical trials, may constitute forward-looking statements for the purposes of the safe harbor provisions under the Private Securities Litigation Reform Act of 1995 and other federal securities laws and are subject to
+substantial risks, uncertainties and assumptions. You should not place reliance on these forward-looking statements, which often include words such as “believe,” “expect,” “anticipate,” “intend,” “plan,” “will give,” “estimate,” “seek,” “will,”
+“may,” “suggest” or similar terms, variations of such terms or the negative of those terms. Although Rocket believes that the expectations reflected in the forward-looking statements are reasonable, Rocket cannot guarantee such outcomes. Actual
+results may differ materially from those indicated by these forward-looking statements as a result of various important factors, including, without limitation, Rocket’s ability to monitor the impact of COVID-19 on its business operations and take
+steps to ensure the safety of patients, families and employees, the interest from patients and families for participation in each of Rocket’s ongoing trials, our expectations regarding the delays and impact of COVID-19 on clinical sites, patient
+enrollment, trial timelines and data readouts, our expectations regarding our drug supply for our ongoing and anticipated trials, actions of regulatory agencies, which may affect the initiation, timing and progress of pre-clinical studies and
+clinical trials of its product candidates, Rocket’s dependence on third parties for development, manufacture, marketing, sales and distribution of product candidates, the outcome of litigation, and unexpected expenditures, as well as those risks more
+fully discussed in the section entitled “Risk Factors” in Rocket’s Annual Report on Form 10-K for the year ended December 31, 2021, filed February 28, 2022 with the SEC and subsequent filings with the SEC including our Quarterly Reports on Form
+10-Q.  Accordingly, you should not place undue reliance on these forward-looking statements. All such statements speak only as of the date made, and Rocket undertakes no obligation to update or revise publicly any forward-looking statements, whether
+as a result of new information, future events or otherwise.
+
+In connection with this announcement, the Company utilized a slide presentation which is substantially in the form attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit No.
+
+ 
+
+Description
+
+99.1
+
+ 
+
+Presentation of Rocket Pharmaceuticals, Inc.
+
+Exhibit 104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: October 3, 2022
+
+Rocket Pharmaceuticals, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+/s/ Gaurav Shah, MD
+
+ 
+
+Name: 
+
+Gaurav Shah, MD
+
+ 
+
+Title: 
+
+Chief Executive Officer and Director

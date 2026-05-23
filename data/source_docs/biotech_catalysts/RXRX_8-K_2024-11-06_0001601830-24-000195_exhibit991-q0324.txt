@@ -1,0 +1,533 @@
+EX-99.1
+2
+exhibit991-q0324.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Recursion Provides Business Updates and Reports Third Quarter 2024 Financial Results
+
+•Multiple clinical trial milestones were achieved, including encouraging topline data for a Phase 2 trial in CCM, the first patient dosed for a Phase 2 trial in recurrent C. difficile infection, and IND clearance for a Phase 1/2 trial in biomarker-enriched solid tumors and lymphoma (Target RBM39), which highlight a growing number of potential clinical program catalysts
+
+•Our first neuroscience phenomap was optioned by Roche-Genentech for $30 million as part of a fee structure that could exceed a total of $500 million across multiple maps before program-specific milestones or royalties
+
+•Entered into an expanded collaboration with Google Cloud to leverage technologies to support our drug discovery platform, which continues to highlight Recursion’s close partnership with leading technology companies like Google, NVIDIA, Tempus, and others
+
+•The potential business combination with Exscientia continues to advance towards close with a special shareholder meeting to be held on November 12, 2024 and an expected date for the scheme of arrangement to be November 20, 2024
+
+SALT LAKE CITY, November 6, 2024 — Recursion (Nasdaq: RXRX), a leading clinical stage TechBio company decoding biology to industrialize drug discovery, today reported business updates and financial results for its third quarter ending September 30, 2024.
+
+"We are excited to continue to drive rapidly towards the closure of our proposed business combination with Exscientia in a matter of weeks, ahead of the original guidance,” said Chris Gibson, Ph.D., Co-founder and CEO of Recursion. "We believe the combination with Exscientia will help to build a robust and diverse portfolio of tech-enabled clinical and near-clinical programs, significant value-creation opportunities through multiple transformational partnerships with both biopharma and technology companies, and the industry’s first full-stack technology-enabled small molecule discovery platform. Ultimately, we have never been more confident in our ability to translate our work into potential medicines for patients. These developments will drive additional value beyond the clinical trial catalysts we’ve seen in the last few months, including encouraging data from our Phase 2 trial in CCM, the first patient dosed in our Phase 2 trial in C. difficile infection, and our IND clearance for a Phase 1/2 trial in biomarker-enriched solid tumors and lymphoma (Target RBM39)."
+
+Summary of Business Highlights
+
+•Pipeline
+
+◦Cerebral Cavernous Malformation (CCM) (REC-994): In September, we announced that our Phase 2 SYCAMORE clinical trial, which is a randomized, double-blind, placebo-controlled, study of two doses of REC-994 in participants with CCM, met its primary endpoint of safety and demonstrated encouraging trends in objective MRI-based exploratory efficacy measures at the highest dose, seeing reductions in lesion volume and hemosiderin ring size. We plan to meet with the FDA and advance the development of REC-994 for the potential treatment of symptomatic CCM in subsequent studies. We also plan to present the Phase 2 data at a medical conference and publish results in a peer reviewed scientific journal.
+
+◦Neurofibromatosis Type 2 (NF2) (REC-2282): Our adaptive Phase 2/3 POPLAR clinical trial is an open label, two part study of REC-2282 in participants with progressive NF2-mutated meningiomas. Part 1 of the study explores two doses of REC-2282 in adult and pediatric participants. Enrollment of adult patients in Part 1 of the study is complete (n=24). We expect to share an update in Q4 2024.
+
+◦Familial Adenomatous Polyposis (FAP) (REC-4881): Our Phase 1b/2 TUPELO clinical trial is an open label, multicenter, two part study of REC-4881 in participants with FAP. Part 1 is complete and enrollment in Part 2 has commenced. We expect to share Phase 2 safety and preliminary efficacy data in H1 2025.
+
+◦APC or AXIN1 Mutant Cancers (REC-4881): Our Phase 2 LILAC clinical trial is an open label, multicenter study of REC-4881 in participants with unresectable, locally advanced or metastatic cancer with AXIN1 or APC mutations. We expect to share Phase 2 safety and preliminary efficacy data in H1 2025.
+
+◦Clostridioides difficile Infection (REC-3964): In October, we announced the first patient dosed in our Phase 2 clinical study of REC-3964, a potential first-in-class, oral, non-antibiotic small molecule for recurrent Clostridioides difficile infection. Our Phase 2 ALDER clinical trial is an open-label, multicenter
+
+randomized study designed to evaluate rates of recurrence with REC-3964 at two doses compared with an observational cohort after patients have achieved initial cure with vancomycin. We expect a preliminary readout by the end of 2025.
+
+◦Biomarker-Enriched Solid Tumors and Lymphoma, Target RBM39 (REC-1245): In October, we announced FDA clearance of an IND for REC-1245, a potential first-in-class RBM39 degrader for biomarker-enriched solid tumors and lymphoma. RBM39 is a novel CDK12-adjacent target identified by the Recursion OS. We plan to initiate dosing of Phase 1/2 in Q4 2024 to evaluate REC-1245. Phase 1 data from the dose-escalation portion of the study is expected by the end of 2025.
+
+◦Undisclosed Indication in Fibrosis, Target Epsilon: We are advancing our lead candidate and expect an IND submission in early 2025.
+
+•Partnerships
+
+◦Transformational Collaborations: We continue to advance efforts to discover potential new therapeutics with our strategic partners in the areas of undruggable oncology (Bayer) as well as neuroscience and a single indication in gastrointestinal oncology (Roche-Genentech). In August, our first neuroscience phenomap was optioned by Roche-Genentech for $30 million as part of a fee structure that could exceed a total of $500 million across multiple maps. In the near-term, there is the potential for option exercises associated with partnership programs and map building initiatives or data sharing.
+
+•Platform
+
+◦Google Cloud Collaboration: We entered into an expanded collaboration with Google Cloud in order to leverage Google Cloud's technologies to support our drug discovery platform. This strategic partnership includes exploring generative AI capabilities, including Gemini models, to support the RecursionOS, drive improved search and access with BigQuery, and help scale compute resources. In addition, we will also explore making some of our AI models available on Google Cloud.
+
+Additional Corporate Updates
+
+•Combination with Exscientia: A special shareholder meeting will be held on Nov 12, 2024 at 5:00 pm Eastern Time / 3:00 pm Mountain Time in order to vote on Recursion’s proposed combination with Exscientia. Shareholders may vote in advance of this meeting by telephone, mail, or online at www.virtualshareholdermeeting.com/RXRX2024SM. Following this shareholder meeting, we expect the date of the scheme of arrangement to be Nov 20, 2024.
+
+•L(earnings) Call: We will not host a L(earnings) Call in relation to the business updates and financials for the third quarter. Instead, we expect to host an Update Call around the date of the scheme of arrangement which is expected to be Nov 20, 2024. We will broadcast the live stream from Recursion’s X (formerly Twitter), LinkedIn, and YouTube accounts and there will be opportunities to ask questions of the company.
+
+•Chief People & Impact Officer: In October, Erica Fox joined Recursion as its Chief People & Impact Officer. Ms. Fox has over 20 years experience as a people and systems strategist having previously led various human resource functions at technology companies Primer.ai and Google.
+
+Third Quarter 2024 Financial Results
+
+•Cash Position: Cash and cash equivalents were $427.6 million as of September 30, 2024.
+
+•Revenue: Total revenue was $26.1 million for the third quarter of 2024, compared to $10.5 million for the third quarter of 2023. The increase was due to revenue recognized from our partnership with Roche & Genentech and the $30.0 million acceptance fee for the completion of a neuroscience phenomap.
+
+•Research and Development Expenses: Research and development expenses were $74.6 million for the third quarter of 2024, compared to $70.0 million for the third quarter of 2023. The increase in research and development expenses was driven by our platform and personnel costs as we continue to expand and upgrade our platform, including our chemical technology, machine learning, and transcriptomics platform.
+
+•General and Administrative Expenses: General and administrative expenses were $37.8 million for the third quarter of 2024, compared to $29.2 million for the third quarter of 2023. The increase in general and administrative expenses compared to prior period was primarily driven by an increase in software and lease expense.
+
+•Net Loss: Net loss was $95.8 million for the third quarter of 2024, compared to a net loss of $93.0 million for the third quarter of 2023.
+
+•Net Cash: Net cash used in operating activities was $59.2 million for the third quarter of 2024, compared to $72.9 million for the third quarter of 2023. The change in net cash used in operating activities compared to the same period last year was the net result of the $30.0 million acceptance fee received during the third quarter of 2024, partially offset by the higher operating costs incurred for research and development and general and administrative activities.
+
+About Recursion
+
+Recursion is a clinical stage TechBio company leading the space by decoding biology to industrialize drug discovery. Enabling its mission is the Recursion OS, a platform built across diverse technologies that continuously expands one of the world’s largest proprietary biological, chemical and patient-centric datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale — up to millions of wet lab experiments weekly — and massive computational scale — owning and operating one of the most powerful supercomputers in the world, Recursion is uniting technology, biology, chemistry and patient-centric data to advance the future of medicine.
+
+Recursion is headquartered in Salt Lake City, where it is a founding member of BioHive, the Utah life sciences industry collective. Recursion also has offices in Toronto, Montreal and the San Francisco Bay Area. Learn more at www.Recursion.com, or connect on X (formerly Twitter) and LinkedIn.
+
+Media Contact
+
+Media@Recursion.com
+
+Investor Contact
+
+Investor@Recursion.com
+
+Recursion Pharmaceuticals, Inc.
+
+Condensed Consolidated Statements of Operations (unaudited)
+
+(in thousands, except share and per share amounts)
+
+Three months ended September 30,
+
+Nine months ended
+September 30,
+
+2024
+
+2023
+
+2024
+
+2023
+
+Revenue
+
+Operating revenue
+
+$
+
+26,082 
+
+$
+
+10,102 
+
+$
+
+53,977 
+
+$
+
+33,252 
+
+Grant revenue
+
+— 
+
+431 
+
+316 
+
+432 
+
+Total revenue
+
+26,082 
+
+10,533 
+
+54,293 
+
+33,684 
+
+Operating costs and expenses
+
+Cost of revenue
+
+12,079 
+
+10,877 
+
+32,444 
+
+32,706 
+
+Research and development
+
+74,600 
+
+70,007 
+
+216,087 
+
+171,744 
+
+General and administrative
+
+37,757 
+
+29,199 
+
+100,998 
+
+80,364 
+
+Total operating costs and expenses
+
+124,436 
+
+110,083 
+
+349,529 
+
+284,814 
+
+Loss from operations
+
+(98,354)
+
+(99,550)
+
+(295,236)
+
+(251,130)
+
+Other income, net
+
+2,679 
+
+6,533 
+
+9,347 
+
+16,060 
+
+Loss before income tax benefit
+
+(95,675)
+
+(93,017)
+
+(285,889)
+
+(235,070)
+
+Income tax benefit
+
+(167)
+
+— 
+
+1,134 
+
+— 
+
+Net loss and comprehensive loss
+
+$
+
+(95,842)
+
+$
+
+(93,017)
+
+$
+
+(284,755)
+
+$
+
+(235,070)
+
+ 
+
+Per share data
+
+Net loss per share of Class A, B and Exchangeable common stock, basic and diluted
+
+$
+
+(0.34)
+
+$
+
+(0.43)
+
+$
+
+(1.12)
+
+$
+
+(1.16)
+
+Weighted-average shares (Class A, B and Exchangeable) outstanding, basic and diluted
+
+282,583,048 
+
+214,327,186 
+
+253,447,099 
+
+203,090,637 
+
+Recursion Pharmaceuticals, Inc.
+
+Condensed Consolidated Balance Sheets (unaudited)
+
+(in thousands)
+
+ 
+
+September 30,
+
+December 31,
+
+ 
+
+2024
+
+2023
+
+Assets
+
+ 
+
+ 
+
+Current assets
+
+ 
+
+ 
+
+Cash and cash equivalents
+
+$
+
+427,647 
+
+$
+
+391,565 
+
+Restricted cash
+
+1,555 
+
+3,231 
+
+Other receivables
+
+2,255 
+
+3,094 
+
+Other current assets
+
+42,715 
+
+40,247 
+
+Total current assets
+
+474,172 
+
+438,137 
+
+Restricted cash, non-current
+
+6,629 
+
+6,629 
+
+Property and equipment, net
+
+84,410 
+
+86,510 
+
+Operating lease right-of-use assets
+
+47,882 
+
+33,663 
+
+Financing lease right-of-use assets
+
+26,897 
+
+— 
+
+Intangible assets, net
+
+34,093 
+
+36,443 
+
+Goodwill
+
+52,056 
+
+52,056 
+
+Other assets, non-current
+
+360 
+
+261 
+
+Total assets
+
+$
+
+726,499 
+
+$
+
+653,699 
+
+Liabilities and stockholders’ equity
+
+Current liabilities
+
+Accounts payable
+
+$
+
+2,260 
+
+$
+
+3,953 
+
+Accrued expenses and other liabilities
+
+40,597 
+
+46,635 
+
+Unearned revenue
+
+49,579 
+
+36,426 
+
+Operating lease liabilities
+
+8,233 
+
+6,116 
+
+Notes payable and financing lease liabilities
+
+8,219 
+
+41 
+
+Total current liabilities
+
+108,888 
+
+93,171 
+
+Unearned revenue, non-current
+
+15,712 
+
+51,238 
+
+Operating lease liabilities, non-current
+
+53,663 
+
+43,414 
+
+Notes payable and financing lease liabilities, non-current
+
+20,510 
+
+1,101 
+
+Deferred tax liabilities
+
+168 
+
+1,339 
+
+Other liabilities, non-current
+
+2,999 
+
+— 
+
+Total liabilities
+
+201,940 
+
+190,263 
+
+Commitments and contingencies
+
+Stockholders’ equity
+
+Common stock (Class A, B and Exchangeable)
+
+3 
+
+2 
+
+Additional paid-in capital
+
+1,776,933 
+
+1,431,056 
+
+Accumulated deficit
+
+(1,252,377)
+
+(967,622)
+
+Total stockholders’ equity
+
+524,559 
+
+463,436 
+
+Total liabilities and stockholders’ equity
+
+$
+
+726,499 
+
+$
+
+653,699 
+
+Forward-Looking Statements
+
+This document contains information that includes or is based upon "forward-looking statements'' within the meaning of the Securities Litigation Reform Act of 1995, including, without limitation, those regarding expectations related to early and late stage discovery, preclinical, and clinical programs, including timelines for enrollment in studies, data readouts, and progression toward IND-enabling studies; the timing and likelihood of completing the proposed business transaction with Exscientia plc; the impact of the Google Cloud agreement on our drug discovery platform; the option exercise by Roche-Genentech and the potential future revenue related to the potential creation, delivery, and option of future maps; the completion and uses of additional maps being built; our anticipated meeting with the FDA regarding REC-994; plans to present SYCAMORE trial data at a medical conference and submit the data for publication; developments with Recursion OS and other technologies, including construction of foundation models and augmentation of our dataset; developments of our transcriptomics technology, including the timing of development of a whole-genome knockout transcripts map; expectations and developments with respect to licenses and collaborations, including option exercises by partners and additional partnerships; prospective products and their potential future indications and market opportunities; expectations for business and financial plans and performance, including cash runway; Recursion’s plan to maintain a leadership position in data generation and aggregation and advancing the future of medicine; and all other statements that are not historical facts. Forward-looking statements may or may not include identifying words such as “plan,” “will,” “expect,” “anticipate,” “intend,” “believe,” “potential,” “could,” “continue,” and similar terms. These statements are subject to known or unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements, including but not limited to: challenges inherent in pharmaceutical research and development, including the timing and results of preclinical and clinical programs, where the risk of failure is high and failure can occur at any stage prior to or after regulatory approval due to lack of sufficient efficacy, safety considerations, or other factors; our ability to leverage and enhance our drug discovery platform; our ability to obtain financing for development activities and other corporate purposes; the success of our collaboration activities; our ability to obtain regulatory approval of, and ultimately commercialize, drug candidates; our ability to obtain, maintain, and enforce intellectual property protections; cyberattacks or other disruptions to our technology systems; our ability to attract, motivate, and retain key employees and manage our growth; inflation and other macroeconomic issues; and other risks and uncertainties such as those described under the heading “Risk Factors” in our filings with the U.S. Securities and Exchange Commission (the “SEC”), including in the definitive joint proxy statement related to the proposed business combination filed with the SEC on October 10, 2024, our most recent Annual Report on Form 10-K, and our subsequent Quarterly Reports on Form 10-Q. All forward-looking statements are based on management’s current estimates, projections, and assumptions, and Recursion undertakes no obligation to correct or update any such statements, whether as a result of new information, future developments, or otherwise, except to the extent required by applicable law.
+
+Additional Information and Where to Find It
+
+This communication relates to the proposed business combination by and between Recursion and Exscientia plc. Recursion and Exscientia have delivered a definitive joint proxy statement related to the proposed business combination to Recursion’s stockholders and Exscientia’s shareholders, which was also filed with the SEC on October 10, 2024. The definitive joint proxy statement provides full details of the proposed business combination and the attendant benefits and risks, including the terms and conditions of the Scheme of Arrangement and the other information required to be provided to Exscientia’s shareholders under the applicable provisions of the United Kingdom Companies Act 2006. This communication is not a substitute for the
+
+definitive joint proxy statement or any other document that Recursion or Exscientia may file with the SEC or send to their respective security holders in connection with the proposed business combination. Security holders are urged to read the definitive joint proxy statement and all other relevant documents filed with the SEC or sent to Recursion’s stockholders or Exscientia’s shareholders as they become available because they will contain important information about the proposed business combination. All documents, when filed, will be available free of charge at the SEC’s website (www.sec.gov). You may also obtain these documents by contacting Recursion’s Investor Relations department at investor@recursion.com; or by contacting Exscientia’s Investor Relations department at investors@exscientia.ai. This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote or approval.
+
+INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE DEFINITIVE PROXY STATEMENT (WHICH INCLUDES AN EXPLANATORY STATEMENT IN RESPECT OF THE SCHEME OF ARRANGEMENT OF EXSCIENTIA, IN ACCORDANCE WITH THE REQUIREMENTS OF THE UNITED KINGDOM COMPANIES ACT 2006) AND ANY OTHER RELEVANT DOCUMENTS THAT MAY BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY IF AND WHEN THEY BECOME AVAILABLE BECAUSE THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION.
+
+Participants in the Solicitation
+
+The Company, Exscientia and their respective directors and executive officers may be deemed to be participants in any solicitation of proxies in connection with the proposed business combination.
+
+Information about Recursion’s directors and executive officers is available in Recursion’s proxy statement dated April 23, 2024 for its 2024 Annual Meeting of Stockholders. Information about Exscientia’s directors and executive officers is available in Exscientia’s Annual Report on Form 20-F dated March 21, 2024. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, is contained in the definitive joint proxy statement. Investors are urged to read the definitive joint proxy statement and any other relevant materials to be filed with the SEC regarding the proposed business combination when they become available, carefully before making any voting or investment decisions.
+
+No Offer or Solicitation
+
+This communication is not intended to and shall not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any securities, or a solicitation of any vote or approval, nor shall there be any offer, solicitation or sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. The Company securities issued in the proposed business combination are anticipated to be issued in reliance upon an available exemption from such registration requirements pursuant to Section 3(a)(10) of the Securities Act of 1933, as amended.

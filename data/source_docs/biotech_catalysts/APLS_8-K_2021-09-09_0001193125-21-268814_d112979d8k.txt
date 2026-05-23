@@ -1,0 +1,241 @@
+8-K
+
+false 0001492422 0001492422 2021-09-09 2021-09-09
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 9, 2021
+
+ 
+
+ 
+
+Apellis Pharmaceuticals, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38276
+
+ 
+
+27-1537290
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+100 Fifth Avenue
+
+Waltham, MA
+
+ 
+
+02451
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617) 977-5700
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock
+
+ 
+
+APLS
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On September 9, 2021, Apellis Pharmaceuticals, Inc. (the “Company” or “Apellis”) announced top-line data from its Phase 3 DERBY and OAKS clinical trials evaluating intravitreal pegcetacoplan in a total of 1,258 adults with geographic atrophy, or GA, secondary to age-related macular degeneration, or AMD.
+
+DERBY (621 patients enrolled) and OAKS (637 patients enrolled) are Phase 3, multicenter, randomized, double-masked, sham-controlled studies comparing the efficacy and safety of intravitreal pegcetacoplan with sham injections in patients with GA secondary to AMD. The primary objective of the studies is to evaluate the efficacy of pegcetacoplan in patients with GA assessed by change in the total area of GA lesions from baseline as measured by fundus autofluorescence (p-value less than 0.05) at 12 months. Patients in DERBY and OAKS will continue on masked treatment for 24 months.
+
+Monthly and every-other-month treatment with pegcetacoplan met the primary endpoint in OAKS, significantly reducing GA lesion growth by 22% (p=0.0003) and 16% (p=0.0052), respectively, compared to pooled sham at 12 months. DERBY did not meet the primary endpoint, showing a reduction in GA lesion growth of 12% (p=0.0528) and 11% (p=0.0750) with monthly and every-other-month treatment, respectively, compared to pooled sham at 12 months. In a prespecified analysis of the combined DERBY and OAKS studies, monthly and every-other-month treatment with pegcetacoplan reduced lesion growth by 17% (p<0.0001) and 14% (p=0.0012), respectively, compared to pooled sham at 12 months.
+
+In a prespecified analysis of the primary endpoint, pegcetacoplan demonstrated a greater effect in patients with extrafoveal lesions at baseline. Patients with GA typically present first with extrafoveal lesions, which then progress toward the fovea where central vision is impacted. In the combined studies, monthly and every-other-month treatment with pegcetacoplan decreased GA lesion growth by 26% (p<0.0001) and 23% (p=0.0002), respectively, in patients with extrafoveal lesions, compared to pooled sham at 12 months.
+
+In another prespecified analysis looking at the untreated fellow eye in patients with bilateral GA in the combined studies, monthly treatment with pegcetacoplan reduced lesion growth by 16% and every-other-month treatment with pegcetacoplan reduced lesion growth by 11%, in each case compared to the untreated fellow eye at month 12. In the sham group, the lesion in the study eye grew faster by 4% compared to the lesion in the fellow eye.
+
+The Company also observed that the underlying lesion growth rate in the untreated fellow eye in the monthly pegcetacoplan groups was higher than the untreated fellow eye in the sham groups by 11% in DERBY and 7% in OAKS at month 12. In the every-other-month pegcetacoplan group, the lesion growth rate was higher by 1% in DERBY and 3% in OAKS as compared to the untreated fellow eye in the sham groups at month 12.
+
+Pegcetacoplan was well tolerated in both Phase 3 studies. The pooled rate of new-onset exudations was 6.0% of patients in the monthly pegcetacoplan groups, 4.1% in the every-other-month pegcetacoplan groups, and 2.4% in the sham groups. Two cases of confirmed infectious endophthalmitis and one case of suspected infectious endophthalmitis were observed in the study eye out of a total of 6,331 injections (0.047%). Thirteen events of intraocular inflammation were observed in the studies (0.21% per injection). No events of retinal vasculitis or retinal vein occlusion were observed. There were no clinically relevant changes in vision for patients who developed infectious endophthalmitis or intraocular inflammation.
+
+The Company believes that across the DERBY, OAKS and Phase 2 FILLY trials, pegcetacoplan has demonstrated an efficacy and safety profile with both monthly and every-other-month dosing that supports approval for the treatment of patients with GA. The Company plans to discuss these results with regulatory authorities worldwide. The Company expects to submit an NDA for approval in the United States in the first half of 2022. The Company also plans to submit a market authorization application for approval in Europe. The European Medicines Agency has recommended that the Company include 24-month functional data as part of that submission.
+
+The Company plans to continue the buildout of its ophthalmology commercial and medical affairs team and has hired marketing and sales leadership in the United States and built out its European team and affiliates in Germany and Australia.
+
+The Company continues to analyze results from the studies, and detailed data will be presented at upcoming scientific meetings.
+
+The Company also expects to initiate a pivotal study of pegcetacoplan in patients with intermediate AMD in 2022 and it plans to submit an investigation new drug application to the FDA in late 2022 for APL-2006, a next generation therapy for wet AMD that is designed to combine the benefits of an anti-VEGF therapy with an anti-C3 therapy to prevent the development of GA.
+
+Forward-Looking Statements
+
+Statements in this Current Report on Form 8-K about future expectations, plans and prospects, as well as any other statements regarding matters that are not historical facts, may constitute “forward-looking statements” within the meaning of The Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements relating to Apellis’ interpretation of results from the DERBY and OAKS trials, its planned timing of regulatory submissions and the potential advantages and therapeutic potential of intravitreal pegcetacoplan for GA. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” “would” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: whether results obtained in preclinical studies and clinical trials will be indicative of results that will be generated in future clinical trials; whether the results of the DERBY and OAKS trials are sufficient to support regulatory submissions; whether a submission for approval of intravitreal pegcetacoplan for GA on the basis of the DERBY and OAKS trials will be accepted by the FDA or foreign regulatory agencies; whether intravitreal pegcetacoplan will receive approval from the FDA or equivalent foreign regulatory agencies for GA when expected or at all; whether, if intravitreal pegcetacoplan receives approval, it will be successfully distributed and marketed; and other factors discussed in the “Risk Factors” section of Apellis’ Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on August 9, 2021 and the risks described in other filings that Apellis may make with the Securities and Exchange Commission. Any forward-looking statements contained in this Current Report on Form 8-K speak only as of the date hereof, and Apellis specifically disclaims any obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Apellis Pharmaceuticals, Inc.
+
+Date: September 9, 2021
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Timothy Sullivan
+
+ 
+
+ 
+
+ 
+
+Timothy Sullivan
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

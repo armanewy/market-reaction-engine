@@ -1,0 +1,149 @@
+EDGAR Filing Documents for 0001104659-22-099101
+
+SEC.gov
+
+EDGAR
+
+Latest Filings
+
+Filings search tools
+
+Filing Detail
+
+SEC Home »
+
+Company Search »
+
+Current Page
+
+Form 8-K - Current report:
+
+SEC Accession No. 0001104659-22-099101
+
+Filing Date
+
+2022-09-12
+
+Accepted
+
+2022-09-12 08:00:18
+
+Documents
+
+12
+
+Period of Report
+
+2022-09-12
+
+Items
+
+Item 7.01: Regulation FD Disclosure
+
+ Interactive Data
+
+Document Format Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+1
+
+FORM 8-K
+
+tm2225634d1_8k.htm   iXBRL
+
+8-K
+
+25168
+
+ 
+
+Complete submission text file
+
+0001104659-22-099101.txt
+
+ 
+
+195447
+
+Data Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+2
+
+XBRL TAXONOMY EXTENSION SCHEMA
+
+gild-20220912.xsd
+
+EX-101.SCH
+
+3027
+
+3
+
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+gild-20220912_lab.xml
+
+EX-101.LAB
+
+34476
+
+4
+
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+gild-20220912_pre.xml
+
+EX-101.PRE
+
+22591
+
+6
+
+EXTRACTED XBRL INSTANCE DOCUMENT
+
+tm2225634d1_8k_htm.xml
+
+XML
+
+3488
+
+Mailing Address
+333 LAKESIDE DR
+
+FOSTER CITY CA
+94404
+
+Business Address
+333 LAKESIDE DR
+
+FOSTER CITY CA
+94404
+6505743000
+
+GILEAD SCIENCES, INC. (Filer)
+CIK: 0000882095 (see all company filings)
+
+EIN.: 943047598 | State of Incorp.: DE | Fiscal Year End: 1231
+
+Type: 8-K | Act: 34 | File No.: 000-19731 | Film No.: 221237397
+
+SIC: 2836 Biological Products, (No Diagnostic Substances)

@@ -1,0 +1,381 @@
+8-K
+
+BIOMARIN PHARMACEUTICAL INC false 0001048477 0001048477 2020-05-11 2020-05-11
+
+ 
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 11, 2020
+
+ 
+
+BioMarin Pharmaceutical Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+Delaware
+
+ 
+
+000-26727
+
+ 
+
+68-0397820
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+770 Lindaro Street, San Rafael,
+
+California
+
+ 
+
+94901
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (415) 506-6700
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $.001 par value
+
+ 
+
+BMRN
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Agreement.
+
+On May 14, 2020, BioMarin Pharmaceutical Inc. (the “Company” or “BioMarin”) completed its previously announced private offering of $550.0 million aggregate principal amount of 1.25% Senior Subordinated Convertible Notes due 2027 (the “Notes”). BioMarin also granted the initial purchasers of the Notes a 13-day option to purchase up to an additional $50.0 million principal amount of Notes. The Notes are the senior subordinated, unsecured obligations of the Company. The Notes were issued pursuant to an Indenture, dated May 14, 2020 (the “Indenture”), between the Company and U.S. Bank National Association, as trustee.
+
+The Notes will mature on May 15, 2027, unless earlier repurchased, redeemed or converted. The Notes will bear interest from May 14, 2020 at a rate of 1.25% per year payable semiannually in arrears on May 15 and November 15 of each year, beginning on November 15, 2020. The Notes will be convertible at the option of the holders at any time before the close of business on the second scheduled trading day immediately preceding the maturity date. The conversion rate for the Notes will initially be 7.2743 shares of the Company’s common stock (the “Common Stock”) per $1,000 principal amount of Notes, which is equivalent to an initial conversion price of approximately $137.47 per share of Common Stock. The initial conversion price of the Notes represents a premium of approximately 42.50% to the $96.47 per share closing price of the Common Stock on May 11, 2020. The conversion rate is subject to adjustment under certain circumstances in accordance with the terms of the Indenture. In addition, following certain corporate transactions, the Company will, in certain circumstances, increase the conversion rate for a holder who elects to convert its Notes in connection with such corporate transactions by a number of additional shares of Common Stock.
+
+The Notes are redeemable in whole or in part, at the Company’s option at any time, and from time to time, on or after May 20, 2024, at a cash redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the redemption date, but only if the last reported sale price of the Common Stock exceeds 130% of the conversion price on (i) each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the trading day immediately before the date the Company sends the relevant redemption notice; and (2) the trading day immediately before the date the Company sends such redemption notice. In addition, calling any Note for redemption will constitute a make-whole fundamental change (as defined in the Indenture) with respect to that Note, in which case the conversion rate applicable to the conversion of that Note will be increased, in certain circumstances, if it is converted after it is called for redemption.
+
+If the Company undergoes a fundamental change (as defined in the Indenture), holders may require the Company to repurchase for cash all or any portion of their Notes at a fundamental change repurchase price equal to 100% of the principal amount of the Notes to be repurchased, plus accrued and unpaid interest to, but excluding, the fundamental change repurchase date.
+
+The Indenture includes customary covenants and sets forth certain events of default after which the Notes may be declared immediately due and payable and sets forth certain types of bankruptcy or insolvency events of default involving the Company after which the Notes become automatically due and payable. The following events are considered “events of default” under the Indenture:
+
+ 
+
+•
+
+failure by the Company to pay when due the principal of or premium, if any, on the Notes, as applicable, at maturity, upon redemption or exercise of a repurchase right or otherwise, whether or not such payment is prohibited by the subordination provisions of the Indenture;
+
+ 
+
+•
+
+failure by the Company to pay an installment of interest on any of the Notes for 30 days after the date when due, whether or not such payment is prohibited by the subordination provisions of the Indenture;
+
+ 
+
+•
+
+failure by the Company to deliver, when due, the consideration due upon conversion of any Note, and that failure continues for 10 days;
+
+ 
+
+•
+
+failure by the Company to perform or observe any other term, covenant or agreement contained in the Notes or the Indenture for a period of 60 days after written notice of such failure, requiring the Company to remedy the same, shall have been given (i) to the Company by the trustee or (ii) to the Company and the trustee by the holders of at least 25% in aggregate principal amount of the Notes then outstanding;
+
+ 
+
+•
+
+failure by the Company to make any payment by the end of the applicable grace period, if any, after the maturity of any indebtedness for borrowed money in an amount in excess of $100.0 million, or there is an acceleration of indebtedness for borrowed money in an amount in excess of $100.0 million because of a default with respect to such indebtedness without such indebtedness having been discharged or such acceleration having been cured, waived, rescinded or annulled, in either case, for a period of 60 days after written notice (i) to the Company by the trustee or (ii) to the Company and the trustee by holders of at least 25% in aggregate principal amount of the notes then outstanding;
+
+ 
+
+•
+
+failure by the Company to give notice of a fundamental change or a notice of a make-whole fundamental change pursuant to the applicable provisions of the Indenture; and
+
+ 
+
+•
+
+certain events of bankruptcy, insolvency or reorganization with respect to the Company or any of its significant subsidiaries.
+
+If certain bankruptcy and insolvency-related events of default occur, the principal of, and accrued and unpaid interest on, all of the then-outstanding Notes shall automatically become due and payable. If an event of default other than certain bankruptcy and insolvency-related events of default occurs and is continuing, the trustee by notice to the Company or the holders of at least 25% in principal amount of the outstanding Notes by notice to Company and the trustee, may declare the principal of, and accrued and unpaid interest on, all of the then outstanding Notes to be due and payable. Notwithstanding the foregoing, the Indenture provides that, to the extent the Company elects, the sole remedy for an event of default relating to certain failures by the Company to comply with certain reporting covenants in the Indenture will, for the first 365 days after such event of default, consist exclusively of the right to receive additional interest on the Notes.
+
+The Indenture provides that the Company shall not, without the consent of the holders, consolidate with or merge with or into another person, or sell, convey, transfer or lease all or substantially all of its consolidated properties and assets to, another person, unless: (i) the surviving entity (if not the Company) assumes all our obligations under the indenture and the Notes, as provided in the Indenture; (ii) at the time of and immediately after giving effect to such transaction, no event of default, and no event which, after notice or lapse of time, would become an event of default, shall have happened and be continuing; and (iii) if the Company will not be the resulting or surviving corporation from the consolidation, merger or transfer, an officer’s certificate and an opinion of counsel, each stating that the consolidation, merger or transfer complies with the Indenture, have been delivered to the trustee.
+
+A copy of the Indenture (including the form of the Notes) is attached as an exhibit to this report and is incorporated herein by reference (and this description is qualified in its entirety by reference to such document).
+
+The net proceeds from this offering were approximately $536.9 million, after deducting the initial purchasers’ discounts and commissions and the estimated offering expenses payable by the Company. The Company used approximately $50 million of the net proceeds to repurchase shares of its common stock in privately negotiated transactions effected through one of the initial purchasers or its affiliate, as its agent. The Company intends to use a majority of the net proceeds from the offering to repay, repurchase or settle in cash some or all of its 1.50% Senior Subordinated Notes due 2020, although it did not effect any such repayment or repurchase concurrently with the offering. The Company intends to use the remainder of the net proceeds for general corporate purposes.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+Item 3.02
+
+Unregistered Sale of Equity Securities.
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+The Company offered and sold the Notes to the initial purchasers in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”), and for resale by the initial purchasers to qualified institutional buyers pursuant to the exemption from registration provided by Rule 144A under the Securities Act. The Company relied on these exemptions from registration based in part on representations made by the initial purchasers in the purchase agreement dated May 11, 2020 by and among the Company and the initial purchasers. The shares of the Common Stock issuable upon conversion of the Notes, if any, have not been registered under the Securities Act and may not be offered or sold in the United States absent registration or an applicable exemption from registration requirements.
+
+To the extent that any shares of the Common Stock are issued upon conversion of the Notes, they will be issued in transactions anticipated to be exempt from registration under the Securities Act by virtue of Section 3(a)(9) thereof, because no commission or other remuneration is expected to be paid in connection with conversion of the Notes, and any resulting issuance of shares of the Common Stock.
+
+Item 8.01
+
+Other Events.
+
+On May 11, 2020, the Company issued a press release announcing the Company’s proposed private offering of $500 million principal amount of the Notes pursuant to Rule 144A under the Securities Act of 1933, as amended. A copy of the press release is filed as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+On May 11, 2020, the Company issued a press release announcing that it had priced an upsized offering of $550 million principal amount of the Notes. A copy of the press release is filed as Exhibit 99.2 hereto and is incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+ 
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  4.1
+
+ 
+
+ 
+
+Indenture, dated as of May 14, 2020, by and between BioMarin Pharmaceutical Inc. and U.S. Bank National Association, as Trustee, including the Form of Global Note, representing BioMarin Pharmaceutical Inc.’s 1.25% Senior Subordinated Convertible Notes due 2027, as Exhibit A thereto.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+ 
+
+Press release, dated May 11, 2020, issued by BioMarin Pharmaceutical Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+99.2
+
+ 
+
+ 
+
+Press release, dated May 11, 2020, issued by BioMarin Pharmaceutical Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+ 
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+BioMarin Pharmaceutical Inc.,
+
+a Delaware corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Date: May 14, 2020
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+G. Eric Davis
+
+Executive Vice President, General Counsel

@@ -1,0 +1,319 @@
+8-K
+
+false 0001937653 0001937653 2023-12-23 2023-12-23
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 23, 2023
+
+ 
+
+ 
+
+Zymeworks Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-41535
+
+ 
+
+88-3099146
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+108 Patriot Drive, Suite A
+
+Middletown, Delaware
+
+ 
+
+19709
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(302) 274-8744
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+ZYME
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+Securities Purchase Agreement
+
+On December 23, 2023, Zymeworks Inc. (the “Company”) entered into a securities purchase agreement (the “Securities Purchase Agreement”) for a private placement (the “Private Placement”) with certain institutional accredited investors affiliated with EcoR1 Capital, LLC (collectively, the “Purchasers”). Pursuant to the Securities Purchase Agreement, the Purchasers have agreed to purchase 5,086,521 pre-funded warrants (the “Pre-Funded Warrants”) to purchase 5,086,521 shares of common stock, $0.00001 par value per share, of the Company (“Common Stock”). The per share purchase price for the Pre-Funded Warrants is $9.8299, for an aggregate purchase price of approximately $50 million. The closing of the purchase and sale of the Pre-Funded Warrants is expected to occur on or about December 28, 2023 (the “Closing Date”), subject to the satisfaction of customary closing conditions.
+
+In addition, the Company has agreed that EcoR1 Capital, LLC will have the right to nominate one of its partners as a member of the board of directors of the Company, subject to specified conditions. Such nomination right will terminate upon the earliest of the effective date of such appointment and January 1, 2026.
+
+The Company intends to use the net proceeds from the Private Placement for working capital and general corporate purposes.
+
+Pre-Funded Warrants
+
+The Pre-Funded Warrants will be exercisable at an exercise price equal to $0.0001 per share, subject to adjustments as provided under the terms of the Pre-Funded Warrants. The Pre-Funded Warrants will be exercisable at any time on or after the Closing Date, except that the Pre-Funded Warrants cannot be exercised if, after giving effect or immediately prior to such exercise, the Purchaser, together with its affiliates and any other persons whose beneficial ownership of shares of Common Stock would be aggregated with the Purchaser for purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), would beneficially own more than 19.99% (the “Maximum Percentage”) of the total number of issued and outstanding shares of Common Stock or voting power of the Company following such exercise. The Maximum Percentage may be increased or decreased by a Purchaser with 61 days’ written notice to the Company; provided, however, that such percentage may in no event exceed 19.99%.
+
+Registration Rights Agreement
+
+The Company also entered into a registration rights agreement (the “Registration Rights Agreement”) with the Purchasers on December 23, 2023, requiring the Company to register the resale of the shares of Common Stock issuable upon exercise of the Pre-Funded Warrants (the “Registrable Securities”). Under the Registration Rights Agreement, the Company has agreed to file a registration statement covering the resale by the Purchasers of their Registrable Securities upon the earlier of March 15, 2024 and the first business day following the date that the Company files it Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the “Filing Deadline”).
+
+The Company has agreed to use commercially reasonable efforts to cause such registration statement or final prospectus, as applicable, to be declared effective as soon as practicable, but no later than the later of April 29, 2024 and the 123rd calendar day following the Closing Date (the “Effectiveness Deadline”), and to keep such registration statement effective for a period that will terminate upon the earliest of (i) the date that all Registrable Securities covered by such registration statement or final prospectus, as applicable, have been sold, (ii) the date that all Registrable Securities covered by such registration statement or final prospectus, as applicable, may be sold without the requirement for the Company to be in compliance with the current public information required under Rule 144 as to such Registrable Securities and without volume or manner-of-sale restrictions and (iii) two (2) years after the date of the Securities Purchase Agreement. The Company has agreed to be responsible for all reasonable expenses in connection with the filing of any registration statement or final prospectus, as applicable. For the avoidance of doubt, the fees and expenses of the Purchaser’s counsel shall be the responsibility of such Purchaser, and not the Company.
+
+In the event (i) the registration statement or final prospectus, as applicable, covering the Registrable Securities has not been filed with the Securities and Exchange Commission (the “SEC”) on or prior to the Filing Deadline, (ii) the registration statement or final prospectus, as applicable, covering the Registrable Securities is not declared effective by the SEC prior to the earlier of (a) ten (10) business days after the date on which the Company is notified by the SEC that the registration statement or final prospectus, as applicable, will not be reviewed by the SEC or is not subject to further comment by the SEC and (b) the Effectiveness Deadline, or (iii) after the registration statement or final prospectus, as applicable, has been declared effective by the SEC, sales cannot be made pursuant to the registration statement or final prospectus, as applicable, for any reason, subject to certain limited exceptions, then the Company has agreed to make pro rata payments to each Purchaser as liquidated damages and not as a penalty, in an amount equal to one percent (1%) of the aggregate purchase price paid by such Purchaser pursuant to the Securities Purchase Agreement for any shares of Common Stock held by such Purchaser pursuant to the exercise of Pre-Funded Warrants but not for any unissued shares of Common Stock issuable upon exercise of the Pre-Funded Warrants for each 30-day period or pro rata for any portion thereof (a) following the Filing Deadline for which no registration statement or final prospectus, as applicable, is filed with respect to the Registrable Securities or (b) during which such registration statement or final prospectus, as applicable, is unavailable, as applicable. Payment of such liquidated damages shall be the Purchasers’ exclusive remedy for such events. In addition, (i) the aggregate amount of liquidated damages payable to a Purchaser shall not exceed, in the aggregate, six percent (6%) of the aggregate purchase price paid by such Purchaser and (ii) the Company shall not be liable in any thirty (30) day period for liquidated damages in excess of one percent (1%) of the aggregate purchase price paid by the Purchasers
+
+ 
+
+2
+
+The Company has granted the Purchasers customary indemnification rights in connection with the registration statement. The Purchasers have also granted the Company customary indemnification rights in connection with the registration statement.
+
+The foregoing description of the material terms of the Private Placement is qualified in its entirety by reference to the Securities Purchase Agreement attached hereto as Exhibit 10.1, the Registration Rights Agreement attached hereto as Exhibit 10.2, and the Form of Pre-Funded Warrant to purchase shares of Common Stock attached hereto as Exhibit 10.3, each of which is incorporated by reference herein.
+
+The Securities Purchase Agreement and the Registration Rights Agreement are incorporated herein by reference only to provide investors with information regarding the terms thereof and not to provide investors with any other factual information regarding the Company or its business, and should be read in conjunction with the disclosures in the Company’s periodic reports and other filings with the SEC.
+
+The sale of the securities pursuant to the Securities Purchase Agreement has not been registered under the Securities Act of 1933, as amended (the “Securities Act”) or any state securities laws. Neither this Current Report on Form 8-K, nor the exhibits attached hereto is an offer to sell or the solicitation of an offer to buy the securities described herein.
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+The information contained above under Item 1.01 is hereby incorporated by reference in response to this Item 3.02 of Form 8-K.
+
+The offering and sale of the Pre-Funded Warrants will be exempt from registration under Section 4(a)(2) of the Securities Act and Rule 506 of Regulation D as promulgated by the SEC under the Securities Act. The Pre-Funded Warrants have not been registered under the Securities Act or any state securities laws, and the Pre-Funded Warrants may not be offered for sale, sold, transferred, assigned or otherwise disposed of absent registration with the SEC or an applicable exemption from the registration requirements. The sale of the securities will not involve a public offering and will be made without general solicitation or general advertising. The Purchasers represented that they are institutional “accredited investors” as defined in Rule 501(a) under the Securities Act, and that they are acquiring the Pre-Funded Warrants for investment purposes only and not with a view to, or for distributing or reselling such Pre-Funded Warrants in violation of the Securities Act or any applicable state securities laws.
+
+Item 7.01 Regulation FD Disclosure.
+
+On December 26, 2023, the Company issued a press release announcing its entry into the Securities Purchase Agreement and Registration Rights Agreement with the Purchasers. A copy of this press release is being furnished as Exhibit 99.1 to this Report on Form 8-K.
+
+The information in Item 7.01 of this Current Report on Form 8-K and Exhibit 99.1 attached hereto are being furnished and shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall such information be deemed incorporated by reference in any filing under the Exchange Act or the Securities Act regardless of the general incorporation language of such filing, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+3
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K includes “forward-looking statements” or information within the meaning of the applicable securities legislation, including Section 27A of the Securities Act, and Section 21E of the Exchange Act. Forward-looking statements in this Current Report on Form 8-K include, but are not limited to, statements regarding the expected closing of the private placement, anticipated receipt and use of proceeds from the private placement, whether the conditions for the closing of the private placement will be satisfied, the filing of a registration statement or final prospectus, as applicable, to register the resale of the shares of common stock issuable upon the exercise of the pre-funded warrant to be issued and sold in the private placement, and other information that is not historical information. When used herein, words such as “plan”, “believe”, “expect”, “may”, “continue”, “anticipate”, “potential”, “will”, “progress”, and similar expressions are intended to identify forward-looking statements. In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking. All forward-looking statements are based upon the Company’s current expectations and various assumptions. The Company believes there is a reasonable basis for its expectations and beliefs, but they are inherently uncertain. The Company may not realize its expectations, and its beliefs may not prove correct. Actual results could differ materially from those described or implied by such forward-looking statements as a result of various factors, including, without limitation: whether the conditions for the closing of the private placement will be satisfied; clinical trials may not demonstrate safety and efficacy of any of the Company’s or its collaborators’ product candidates; any of the Company’s or its partners’ product candidates may fail in development, may not receive required regulatory approvals, or may be delayed to a point where they are not commercially viable; the Company may not achieve milestones or receive additional payments under its collaborations; the impact of pandemics and other health crises on the Company’s business, research and clinical development plans and timelines and results of operations, including impact on its clinical trial sites, collaborators, and contractors who act for or on the Company’s behalf; inability to maintain or enter into new partnerships or strategic collaborations; regulatory agencies may impose additional requirements or delay the initiation of clinical trials; the impact of new or changing laws and regulations; the Company’s assumptions regarding its cash runway may be incorrect; market conditions; and the other risks described under “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for its quarter ended September 30, 2023 (a copy of which may be obtained at www.sec.gov and www.sedar.com). Although the Company believes that such forward-looking statements are reasonable, there can be no assurance they will prove to be correct. Investors should not place undue reliance on forward-looking statements. The above assumptions, risks and uncertainties are not exhaustive. Forward-looking statements are made as of the date hereof and, except as may be required by law, the Company undertakes no obligation to update, republish, or revise any forward-looking statements to reflect new information, future events or circumstances, or to reflect the occurrences of unanticipated events.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+  
+
+Description
+
+10.1
+
+  
+
+Securities Purchase Agreement, dated December 23, 2023, by and among the Company and the Purchasers.
+
+10.2
+
+  
+
+Registration Rights Agreement, dated December 23, 2023, by and among the Company and the Purchasers.
+
+10.3
+
+  
+
+Form of Pre-Funded Warrant.
+
+99.1
+
+  
+
+Press Release dated December 26, 2023.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded as Inline XBRL document).
+
+ 
+
+4
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ZYMEWORKS INC.
+
+ 
+
+ 
+
+(Registrant)
+
+Date: December 26, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Kenneth Galbraith
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Kenneth Galbraith
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chair and Chief Executive Officer
+
+ 
+
+5

@@ -1,0 +1,148 @@
+EX-99.1
+2
+d190155dex991.htm
+EX-99.1
+
+EX-99.1
+
+Corporate Presentation September 2021
+Exhibit 99.1
+
+Cautionary Note Regarding
+Forward-Looking Statements  This presentation contains forward-looking statements about Sana Biotechnology, Inc. (the “Company,” “we,” “us,” or “our”) within the meaning of the federal securities
+laws. All statements other than statements of historical facts contained in this presentation, including, among others, statements regarding the Company’s strategy, expectations, cash runway and future financial condition, future operations,
+and prospects, are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “aim,” “anticipate,” “assume,” “believe,” “contemplate,”
+“continue,” “could,” “design,” “due,” “estimate,” “expect,” “goal,” “intend,” “may,” “objective,” “plan,”
+“positioned,” “potential,” “predict,” “seek,” “should,” “target,” “will,” “would” and other similar expressions that are predictions of or indicate
+future events and future trends, or the negative of these terms or other comparable terminology. The Company has based these forward-looking statements largely on its current expectations, estimates, forecasts and projections about future events and
+financial trends that it believes may affect its financial condition, results of operations, business strategy and financial needs. In light of the significant uncertainties in these forward-looking statements, you should not rely upon
+forward-looking statements as predictions of future events. These statements are subject to risks and uncertainties that could cause the actual results to vary materially, including, among others, the risks inherent in drug development such as those
+associated with the initiation, cost, timing, progress and results of the Company’s current and future research and development programs, preclinical and clinical trials. For a detailed discussion of the risk factors that could affect the
+Company’s actual results, please refer to the risk factors identified in the Company’s SEC reports, including but not limited to its Annual Report on Form 10-K dated March 24, 2021 and Quarterly Report on Form 10-Q dated August 4, 2021.
+Except as required by law, the Company undertakes no obligation to update publicly any forward-looking statements for any reason.
+
+Sana Biotechnology Engineered cells as
+medicines We believe the ability to modify the genome and use engineered cells as medicines will be one of the most (if not the most) important advances in healthcare over the next several decades Three aspirations drive us in our pursuit to deliver
+on the promise of cells as medicines Repair and control the genes in any cell in the body Replace any cell in the body Broad access to our therapies We continue to advance our technologies with multiple INDs planned as early as 2022
+
+Deliver any payload (DNA, RNA, protein,
+organelle, integrating vs non-integrating)… To any cell (unlimited volume of distribution) in a…  Specific (e.g., just T cell),… And repeatable way (limit immunogenicity)   Manufacture any cell at scale… That
+engrafts (the right cell in the right environment)… Functions (understand exact phenotype desired)… And persists (overcome immune rejection and cellular signaling, such as apoptotic signaling)  Repair and control the genes of any
+cell in the body Replace any cell in the body in vivo Cell Engineering ex vivo Cell Engineering Sana goal: fix cells in the body when possible or replace them when needed
+
+Assembling an experienced team across
+capabilities Delivery of Genetic Material Modification of Genome Immunology Biology Manufacturing Cell Biology Stem Cell Biology Disease Biology Richard Mulligan, PhD Jagesh Shah, PhD Ed Rebar, PhD  Christina Chaivorapol, PhD Stacey Ma, PhD
+Craig Lichtenstein Mike Laska, PhD Oscar Salas, PhD Sunil Agarwal, MD Terry Fry, MD Chuck Murry, MD, PhD Steve Goldman, MD, PhD Donna Dambach, VMD, PhD Ke Liu, MD, PhD Sonja Schrepfer, MD, PhD  Terry Fry, MD
+
+PLATFORM TECHNOLOGY PROGRAMS (CELL
+TYPES) THERAPEUTIC AREA PRODUCT CANDIDATE POTENTIAL INDICATIONS POTENTIAL IND SUBMISSION in vivo cell engineering Fusogen T cells Oncology  SG295 (CD8/CD19) NHL/ALL/CLL As early as 2022 SG239 (CD8/BCMA) Multiple myeloma As early as 2022 SG242
+(CD4/CD19) NHL/ALL/CLL As early as 2023 SG221 (CD4/BCMA) Multiple myeloma As early as 2023 Hepatocytes Liver-related genetic disorders SG328 OTC1  As early as 2023 Hematopoietic stem cells Hemoglobinopathies SG418 Sickle cell disease As early
+as 2023 SG465 Beta-thalassemia As early as 2023 ex vivo cell engineering Hypoimmune donor-derived T cells Oncology SC291 (CD19) NHL/ALL/CLL As early as 2022 SC255 (BCMA) Multiple myeloma As early as 2022 Hypoimmune stem cell-derived Beta cells
+Diabetes SC451 Type 1 diabetes As early as 2023 Stem cell-derived (to migrate to hypoimmune) Glial progenitor cells Central nervous system (CNS) SC379 Huntington’s disease As early as 2023  Pelizaeus-Merzbacher disease As early as
+2023  Secondary progressive multiple sclerosis As early as 2023  Stem cell-derived Cardiomyocytes Cardiovascular  SC187 Heart failure As early as 2023 Sana’s platforms, technology and programs 1Ornithine transcarbamylase
+deficiency
+
+VHH G protein dictates binding to a
+target receptor Sana’s fusosome technology makes use of a viral fusogen to enable the targeting of specific cells and the delivery of different therapeutic payloads F G Fusosome F protein drives fusion Fusogen Technology
+
+Development of cell-specific in vivo
+delivery platform Fusogen Technology Enveloped viruses incorporate viral and cellular proteins (fusogens) expressed on the infected cell membrane upon release from infected cells Fusogens on surface of the resulting virus particles (fusosomes)
+mediate virus entry via direct fusion of virus and cell membranes Fusogen Technology ViralZone 2011. Swiss Institute of Bioinformatics
+
+in vivo cell engineering –
+creating targeted medicines across a diverse set of cell types T cells Hepatocytes Hematopoietic stem cells in vivo cell engineering strategy focused on developing therapies with transformative   fusogen platform delivery based on cell
+specificity and payload diversity
+
+Blood cancers remain high unmet
+need; despite success, current CAR T solutions have limitations Current ex vivo approaches have limitations T cell fusosome carrying CAR construct infused into patient; the patient is the bioreactor that creates CAR T Fusogen platform offers
+potential to overcome these limitations Current manufacturing limits access T Cell Fusogen
+
+CAR Activity Expression/Recognition
+Amplification Target cell killing Target cell killing T cell amplification Using a T cell-targeted fusosome to make CAR T cells in vivo Specificity CD4/CD8 T cell transduction Expression Transgene integration and CAR expression Function Targeted
+cell killing T cell inside a patient Fusosome Cancer cell CAR T cell 2 Fusosome performance Transduction specificity Transduction efficiency 1 T Cell Fusogen
+
+Targeting of different T cell types
+by viral fusosomes Sana has generated fusosomes that specifically target and transduce CD8, CD4 and CD3 T cells CD8-targeted fusosome in vitro primary T cells CD8-targeted CD4-targeted fusosome in vitro primary T cells CD4-targeted CD3-targeted
+CD3-targeted fusosome in vitro primary PBMCs GFP CD4 GFP CD8 GFP CD3 T Cell Fusogen
+
+IV administration of CD19 CAR
+delivered by fusogen can clear B cell tumors in humanized mice comparably to ex vivo CD19 CAR T Saline SG295 & Activated PBMC SG295 & Non-Activated PBMC CD19 CAR delivered by fusogen: in vivo CD19 CAR: ex vivo Saline CD19 CAR T D3 D7 D15 D19
+D27 D7 D10 D17 D24 D31 T Cell Fusogen
+
+B cell levels (CD20+ cells) CD8
+fusogen delivering a CD20 CAR causes B cell depletion in NHPs Dosing well tolerated in all animals treated with CD20 CAR T delivered by CD8 fusogen, no infusion-related toxicity or evidence of CAR-associated toxicity Substantial B cell depletion
+observed in 4/6 treated animals T Cell Fusogen
+
+Potential first-in-class fusogen T
+cell programs – potential to target large markets with a single IV administration Next Steps SG295 and SG239 Future Development IND-enabling studies and scale GMP manufacturing  Finalize development plan – expect initial indications
+in NHL for CD19 and multiple myeloma for BCMA Build CD8 and CD4 fusogen programs CD19 indications beyond NHL Targets beyond CD19 and BCMA
+
+Protecting cells from immune
+destruction is key to unlocking potential of ex vivo cell engineering Fetomaternal tolerance during pregnancy “Allogeneic” fetus: Half of fetal proteins are from the father, not the mother. However, the fetus is not rejected by the
+mother. Sana approach: creating hypoimmune cells from human iPSCs How can we protect our engineered cells from getting attacked from the recipient’s immune system? Hypoimmune
+
+Sana is pursuing a broad ex
+vivo cell engineering strategy T cells Pancreatic islets Glial progenitor cells Cardiomyocytes Differentiate pluripotent stem cells with hypoimmune edits Programs that benefit from, but do not require hypoimmune Transforming ex vivo cell engineering
+through development of hypoimmune cell platform
+
+Hypoimmune cells evade rejection
+from the adaptive and innate immune system in a mouse T Cell Activation (ELISPOT) IgM Binding (FACS) No systemic T cell activation with HIP cell transplantation No binding of donor specific antibodies against HIP cells NK Cell Killing No NK cell
+killing with HIP Wildtype Unmodified Cells MHC Class I/II Disruption MHC Class I/II Disruption & CD47 Overexpression No killing of unmodified cells by NK cells Killing of partially edited iPSC; HLA I/II knockout by NK cells No killing of HIP
+cells by NK cells Evade the adaptive immune system Evade the innate immune system Deuse T, …, Schrepfer S. Nat Biotechnology. 2019; 37:252-258 Unmodified iPSC HIP Hypoimmune
+
+Unmodified iPSC Hypoimmune iPSC T
+Cell Activation (ELISPOT) IgM Production (ELISA) No systemic T cell activation by hypoimmune cells Implantation of hypoimmune cells does not cause activation of antibody production Transplantation of NHP iPSCs into allogeneic NHPs: immune evasion is
+achieved even after prior sensitization HIP WT Hypoimmune cells in NHP: no systemic adaptive immune activation after transplantation of hypoimmune iPSCs into naïve and sensitized NHPs Hypoimmune HIP cells did not activate the systemic
+adaptive immune system (T cells and B cells) HIP cells evaded immune responses in a crossover experiment in NHP with pre-existing immunity  Data suggest the potential to treat autoimmune disorders such as type 1 diabetes
+
+Killing by macrophages Killing by NK
+cells Hypoimmune cells do not activate the “missing self” response from the macrophages Anti-CD47 safety switch  Hypoimmune cells do not activate the “missing self” response from the NK cells Anti-CD47 safety switch
+Transplantation of NHP iPSCs into allogeneic NHPs (n=4/group) Hypoimmune cells do not elicit an innate immune response in allogeneic NHP recipients HLA-I/II KO iPSC Hypoimmune iPSC No killing CD47 safety switch results in killing No killing Killing
+due to missing self Killing due to missing self CD47 safety switch results in killing Hypoimmune HIP cells do not activate the “missing self” response from macrophages and NK cells "Safety switch": CD47 blockade results in killing by
+innate cells, providing a possible "safety switch"
+
+HIP WT D0 (cross over) 4 wks (after
+crossover transplant) Hypoimmune iPSCs 8 wks (after crossover transplant) 3 wks (after crossover transplant) NHP 4 Summary Hypoimmune Unmodified cells were rejected within 3 weeks Hypoimmune cells survive in a crossover experiment in NHPs with
+pre-existing immunity Data suggest the potential to treat autoimmune disorders such as type 1 diabetes Hypoimmune cells survive and proliferate in allogeneic sensitized NHPs without immunosuppression 108 107 106 105 Photos/s (*106) Representative of
+results across 4 NHPs per arm. D0  (day of transplant) 3 wks  (after transplant) Unmodified iPSCs
+
+Hypoimmune cells survive in vivo in
+NHP while unmodified iPSCs get rejected D0  (cross over) Unmodified iPSCs 2wks  (after crossover transplant) 16wks  (after transplant) D0 (day of transplant) 2 wks (after transplant)  Hypoimmune iPSCs 5 wks  (after
+transplant) 10 wks  (after transplant) moved NHP 5 Summary Hypoimmune Hypoimmune cells survive in allogeneic NHPs Unmodified cells get rejected while hypoimmune cells continue to survive HIP WT 108 107 106 105 Photos/s (*106)
+Representative of results across 4 NHPs per arm.
+
+Hypoimmune edits (HLA-I knockout,
+HLA-II knockout, CD47tg) do not affect differentiation capacity nor intrinsic cell function. Unmodified iPSC Deuse T, Hu X, …, Schrepfer S. Nat Biotechnology. 2019; 37:252-258 Hypoimmune iPSC Cardiac cell differentiation Hypoimmune Human
+hypoimmune cells differentiate into various cell types Islet cell differentiation
+
+2 3 CD19 targeted allogeneic T cell
+Donor or iPSC T cells Cell engineering Hypo Allo T IMMUNE CHALLENGES CURRENT ALLO T  SANA’S HYPOIMMUNE ALLO T  GvHD  HvGD:  Adaptive Immune System  HvGD:  Innate Immune System  We believe we are better
+positioned to overcome immune challenges versus existing allo T therapies Sana’s hypoimmune allo T: potential best-in-class opportunity 1 Note: GvHD: Graft versus Host Disease HvGD: Host versus Graft Disease
+
+Day 0 Day 3 start of CAR dosing Day
+7 Day 15 Untreated Day 23 Day 27 HIP CAR T cells Unmodified CAR T cells CD19 HIP CAR T cells clear tumor in vivo Hypo Allo T
+
+HIP CAR T cells do not incite an
+antibody response T cells are not activated by HIP CAR T cells HIP CAR T cells evade innate cell “missing self” response CD19 HIP CAR T cells do not activate adaptive or innate immune responses HIP CAR T Unmodified CAR T HIP CAR T
+Unmodified CAR T IgM Binding (FACS) T Cell Activation (ELISPOT) NK Cell Killing Macrophage Killing Hypo Allo T
+
+Allogeneic CAR T cells: potential
+best-in-class CAR T platform for off-the-shelf therapies Next Steps for SC291 Future Development Develop GMP gene editing and manufacturing processes Finalize development plan – expect initial indication in NHL SC291 for other B cell
+malignancies SC255 for multiple myeloma Targets beyond CD19 and BCMA
+
+Type 1 diabetes represents a large
+unmet need with a loss of approximately 15 years of life Autoimmune disease where destruction of insulin-producing beta cells results in inability to control glucose 1.6 million patients with type 1 diabetes in the US and 2.4 million in Europe; 51k
+new patients/year combined Approximately 15-year shorter life expectancy* Long term complications: end-organ damage, including heart attack, stroke, peripheral vascular disease, retinopathy, nephropathy Our goal is to produce hypoimmune beta cells
+that evade the immune system and normalize glucose *Rawshani et al, Lancet 2018 Beta Cell Ex Vivo
+
+SC451: combining HIP edits with
+leading beta cells protocol offers transformative potential for type 1 diabetes patients Superior insulin secretion and faster kinetics in vitro Robust rescue of type 1 diabetes mouse model Human Islet WashU (Sana) Tech Pagliuca Tech Beta Cell Ex
+Vivo
+
+Beta cells: potential to transform
+global diabetes pandemic with curative treatment Next Steps for SC451 GMP hypoimmune iPSC cell line Develop scalable GMP manufacturing process IND-enabling studies
+
+Sana aspiration: engineered cells as
+medicines Almost all diseases result from damage to or dysfunction in a cell The challenge: Sana: engineered cells to treat a broad set of diseases Fusosome for CD19 CAR T in vivo Fusosome for BMCA CAR T in vivo Hypoimmune allo CD19 CAR T Hypoimmune
+allo BCMA CAR T Hypoimmune cells for: Type 1 diabetes Heart disease CNS disorders Fusosomes delivering payloads for other diseases Address obstacles to using engineered cells as medicines Validate platforms and create important medicines Unlock the
+potential of engineered cells as medicines in multiple diseases

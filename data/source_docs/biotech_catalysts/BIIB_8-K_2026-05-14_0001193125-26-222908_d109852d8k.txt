@@ -1,0 +1,363 @@
+8-K
+
+false 0000875045 0000875045 2026-05-14 2026-05-14
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 14, 2026
+
+ 
+
+ 
+
+Biogen Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+0-19311
+
+ 
+
+33-0112644
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+225 Binney Street
+
+Cambridge, MA
+
+ 
+
+02142
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617) 679-2000
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0005 par value per share
+
+ 
+
+BIIB
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+CVR Agreement
+
+As previously disclosed, on March 31, 2026, Biogen Inc., a Delaware corporation (“Biogen”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Apellis Pharmaceuticals, Inc., a Delaware corporation (“Apellis”), and Aspen Purchaser Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Biogen (“Purchaser”).
+
+Pursuant to the Merger Agreement and in connection with the irrevocable acceptance for payment by Purchaser of all outstanding shares of common stock, par value $0.0001 per share, of Apellis (the “Shares”) validly tendered and not validly withdrawn pursuant to the Offer (as defined below), on May 14, 2026, Biogen, Apellis and Equiniti Trust Company, LLC, a New York limited liability trust company, entered into a Contingent Value Rights Agreement (the “CVR Agreement”) governing the terms of the CVRs (as defined below) issued pursuant to the Offer and the Merger (as defined below).
+
+Each CVR represents a non-transferable contractual contingent right to receive the following cash payments, without interest and subject to reduction for any applicable tax withholding (the “Milestone Payments”) if the following milestones (each, a “Milestone”) are achieved:
+
+ 
+
+ 
+
+•
+
+ 
+
+$2.00 per CVR, upon the achievement of Annual Net Sales (as defined in the CVR Agreement) of at least $1,500,000,000 attributable to SYFOVRE® and related products in the aggregate during the 2027, 2028, 2029 or 2030 calendar years (the “Net Sales Milestone 1”); and
+
+ 
+
+ 
+
+•
+
+ 
+
+$2.00 per CVR, upon the achievement of Annual Net Sales (as defined in the CVR Agreement) of at least $2,000,000,000 attributable to SYFOVRE® and related products in the aggregate during the 2027, 2028, 2029, 2030 or 2031 calendar years (the “Net Sales Milestone 2”), provided that if the Net Sales Milestone 1 is not met prior to December 31, 2030 but the Net Sales Milestone 2 is achieved during the 2031 calendar year, then the Net Sales Milestone 2 will be worth $4.00 per CVR.
+
+Each Milestone may only be achieved and paid once; if the Annual Net Sales threshold is met in multiple calendar years, only the first achievement triggers payment.
+
+There can be no assurance that any Milestone will be achieved prior to the expiration or termination of the CVR Agreement, or that payment will be required of Biogen with respect to any Milestone.
+
+The foregoing description of the CVR Agreement does not purport to be complete and is qualified in all respects by reference to the full text of the CVR Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Term Loan Credit Agreement
+
+On May 12, 2026, Biogen entered into a Credit Agreement with U.S. Bank National Association (“U.S. Bank”), as administrative agent, and the lenders party thereto (the “Credit Agreement”). The Credit Agreement provides for unsecured term loan facilities in an aggregate principal amount of $2 billion (the “Term Facilities”), comprised of a $1 billion 364-day tranche (“Tranche A”) and a $1 billion two-year tranche (“Tranche B”). On May 13, 2026, in connection with the completion of the Offer and the Merger, Biogen borrowed the full amount available under the Credit Agreement.
+
+The proceeds from the borrowings under the Term Facilities were used to pay a portion of the consideration for the Offer and the Merger and for other purposes in connection with the Transactions (as defined in the Credit Agreement).
+
+Loans under the Credit Agreement are denominated in dollars. Tranche A loans bear interest at a rate per annum equal to either, at Biogen’s option, (a) Term SOFR (as defined in the Credit Agreement), subject to a floor of 0.000% per annum, plus an applicable margin of 0.750% or (b) Base Rate (as defined in the Credit Agreement), plus an applicable margin of 0.000%. Tranche B loans bear interest at a rate per annum equal to either, at Biogen’s option, (a) Term SOFR, subject to a floor of 0.00% per annum, plus an applicable margin ranging from 0.750% to 1.000% based on the ratings of Biogen’s non-credit enhanced, senior unsecured long-term debt, as determined by S&P Global Ratings and Moody’s or (b) Base Rate plus an applicable margin of 0.000%.
+
+All amounts outstanding under the Term Facility shall become due and payable (a) in the case of Tranche A, May 12, 2027 and (b) in the case of Tranche B, May 12, 2028. Under the Term Facility, voluntary prepayments are permitted, in whole or in part, in minimum amounts without premium or penalty, other than customary breakage costs.
+
+The Credit Agreement contains customary representations and warranties, affirmative and negative covenants and events of default that are, in each case, substantially similar to the equivalent terms of that certain Credit Agreement dated as of August 12, 2024 (as amended, restated, amended and restated, supplemented and/or otherwise modified prior to the date hereof), among Biogen, the lenders party thereto and Bank of America, N.A., as administrative agent.
+
+The Credit Agreement also includes a financial covenant requiring Biogen to maintain, as of the end of each fiscal quarter, a maximum consolidated leverage ratio of 3.75 to 1.0 (which shall be temporarily increased, at the option of Biogen, to 4.25 to 1.0 upon notice by Biogen to U.S. Bank as a result of other material acquisitions from time to time, subject to customary limitations).
+
+A copy of the Credit Agreement is attached hereto as Exhibit 10.2 and is incorporated herein by reference. The foregoing description of the Credit Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Credit Agreement.
+
+Item 2.01 Completion of Acquisition or Disposition of Assets.
+
+Pursuant to the Merger Agreement, on April 14, 2026, Purchaser commenced a tender offer (the “Offer”) to acquire any and all of the issued and outstanding Shares, in exchange for (i) $41.00 per Share, net to the seller in cash, without interest and subject to reduction for any applicable tax withholding (the “Cash Amount”), plus (ii) one contractual, non-transferable contingent value right per Share (each, a “CVR”) representing the right to receive contingent cash payments of up to an aggregate of $4.00 in cash, without interest and subject to reduction for any applicable tax withholding, upon the achievement of certain specified milestones (the Cash Amount plus one CVR, collectively, the “Offer Price”), upon the terms and subject to the conditions set forth in the Offer to Purchase, dated April 14, 2026 (as amended or supplemented from time to time, the “Offer to Purchase”) and in the related Letter of Transmittal.
+
+On May 14, 2026, Biogen announced that the Offer and related withdrawal rights expired as scheduled at one minute after 11:59 p.m., Eastern Time, on May 13, 2026 (the “Expiration Time”) and that immediately prior to the Expiration Time, based on the information provided by the depositary for the Offer, a total of 105,687,831 Shares were validly tendered (and not validly withdrawn) pursuant to the Offer, representing approximately 82.4% of the Shares outstanding immediately prior to the Expiration Time. The number of Shares validly tendered (and not validly withdrawn) pursuant to the Offer (excluding Shares tendered pursuant to guaranteed delivery procedures that have not yet been “received”, as such term is defined by Section 251(h)(6)(f) of the General Corporation Law of the State of Delaware (the “DGCL”)), together with any Shares beneficially owned by Biogen or any of its subsidiaries, satisfied the Minimum Condition (as defined in the Offer to Purchase), and all other conditions to the consummation of the Offer having been satisfied or waived, on May 14, 2026, Purchaser irrevocably accepted for payment all Shares that were validly tendered (and not validly withdrawn) pursuant to the Offer, and payment for such Shares will be made promptly in accordance with the terms of the Offer and the Merger Agreement.
+
+Following the completion of the Offer, the remaining conditions to the Merger (as defined below) set forth in the Merger Agreement were satisfied or waived, and on May 14, 2026, pursuant to the terms of the Merger Agreement, Purchaser merged with and into Apellis, without a vote of the stockholders of Apellis in accordance with Section 251(h) of the DGCL, with Apellis continuing as the surviving corporation of the Merger (the “Surviving Corporation”) and as a wholly owned subsidiary of Biogen (the “Merger”, and the date and time at which the Merger became effective is referred to as the “Effective Time”). Pursuant to the Merger Agreement, at the Effective Time, each Share (other than Shares that were (i) held in the treasury of Apellis, (ii) irrevocably accepted for purchase in the Offer by Purchaser and “received” (as such term is defined by Section 251(h)(6)(f) of the DGCL) by Purchaser, (iii) held by Biogen, Purchaser or any other wholly owned subsidiary of Biogen as of both the commencement of the Offer and immediately prior to the Effective Time and (iv) held by stockholders who were entitled to, and properly demanded, appraisal for such Shares in accordance with Section 262 of the DGCL) was cancelled and converted into the right to receive the Offer Price without interest, subject to reduction for any applicable withholding taxes (the “Merger Consideration”).
+
+Pursuant to the terms of the Merger Agreement, effective as of immediately prior to the Effective Time, any outstanding and unexercised warrant to purchase Shares (each, an “Apellis Warrant”) was deemed to be exercised in full in a “cashless exercise” pursuant to its terms, and any Shares issued upon such deemed cashless exercise were automatically converted into the right to receive the Merger Consideration, without interest and subject to applicable withholding taxes. Apellis has confirmed that, as of immediately prior to the Effective Time, no Apellis Warrants were outstanding.
+
+At the Effective Time, subject to all required withholding taxes and with each CVR payable in accordance with the CVR Agreement, each outstanding Apellis equity award was treated as follows: (i) each option to purchase Shares (each, an “Apellis Option”) that had vested as of immediately prior to the Expiration Time (including any Apellis Option that vested as a result of the transactions) with an exercise price less than the Cash Amount was automatically cancelled and converted into the right to receive from the Surviving Corporation a cash payment equal to the product of the total number of Shares underlying such vested Apellis Option multiplied by the excess of the Cash Amount over the exercise price per Share of such vested Apellis Option, plus one CVR per Share underlying such vested Apellis Option; (ii) each vested Apellis Option with an exercise price equal to or greater than the Cash Amount but less than the Aggregate Amount (as defined in the Merger Agreement) was cancelled and converted into the right to receive one CVR per Share underlying such vested Apellis Option (with any Milestone Payment reduced by the excess, if any, of the applicable exercise price per Share over the Cash Amount, as set forth in the CVR Agreement); (iii) each Apellis Option with an exercise price equal to or greater than the Aggregate Amount was cancelled for no consideration; (iv) each unvested Apellis Option was cancelled and converted into a contingent right to receive the same consideration as a comparably priced vested Apellis Option (including the right to receive one CVR per Share underlying such unvested Apellis Option, subject to the terms of the CVR Agreement), payable in cash, subject to the holder’s continued service through the applicable vesting dates and otherwise subject to the same terms and conditions (including any double-trigger vesting provisions, as extended under the terms of the Merger Agreement) as the original award; (v) each award of restricted stock units with respect to Shares (each, an “Apellis RSU”), including awards subject to both a time-based and performance-based vesting schedule (each, an “Apellis PSU”), that had vested as of immediately prior to the Expiration Time was automatically cancelled and converted into the right to receive a cash payment equal to the product of the total number of Shares underlying such vested Apellis RSU or vested Apellis PSU multiplied by the Cash Amount, plus one CVR per Share underlying such vested Apellis RSU or vested Apellis PSU; and (vi) each unvested Apellis RSU and unvested Apellis PSU was cancelled and converted into the contingent right to receive the same consideration as a vested award of the same type (including the right to receive one CVR per Share underlying such unvested Apellis RSU and unvested Apellis PSU, subject to the terms of the CVR Agreement), subject to the holder’s continued service through the applicable vesting dates (in the case of Apellis PSUs, through the end of the applicable performance period) and otherwise subject to the same terms and conditions (including any double-trigger vesting provisions, as extended under the terms of the Merger Agreement, but, in the case of Apellis PSUs, no longer subject to performance-based vesting conditions) as the original award. The number of Shares underlying each Apellis PSU was determined based on (A) actual performance as determined by the Compensation Committee of the Apellis Board as of the latest practicable date prior to the Effective Time with respect to total stockholder return-based Apellis PSUs granted in January 2026 and (B) the target performance levels for all other Apellis PSUs.
+
+The aggregate amount to be paid by Purchaser in the Offer and the Merger is approximately $5.3 billion, excluding related fees and expenses and, for the avoidance of doubt, any amounts that may become payable pursuant to the CVRs. Biogen and Purchaser will fund the acquisition of the Shares in the Offer and the Merger through a combination of cash and borrowings. Biogen estimates it would need approximately $582 million to pay the maximum aggregate amount that the holders of CVRs (including holders of certain Apellis Options, Apellis RSUs, Apellis PSUs and Apellis Warrants who received CVRs pursuant to the Merger Agreement) would be entitled to if all of the Milestones are achieved.
+
+The foregoing description of the Merger Agreement and the related transactions does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which was filed as Exhibit 2.1 to the Current Report on Form 8-K filed by Biogen on March 31, 2026 and is incorporated herein by reference.
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement.
+
+The information set forth in Item 1.01 of this Current Report on Form 8-K is incorporated by reference into this Item 2.03.
+
+Item 7.01 Regulation FD Disclosure.
+
+On May 14, 2026, Biogen issued a press release announcing, among other things, the consummation of the Merger. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+The information contained in this Item 7.01 and in Exhibit 99.1 of this Current Report on Form 8-K shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(a) Financial statements of businesses acquired.
+
+The audited consolidated financial statements of Apellis for the fiscal year ended December 31, 2025 are incorporated herein by reference to Apellis’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed with the Securities and Exchange Commission (the “SEC”) on February 24, 2026.
+
+The unaudited condensed consolidated financial statements of Apellis for the quarterly period ended March 31, 2026 are incorporated herein by reference to Apellis’s Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2026, filed with the SEC on May 7, 2026.
+
+(b) Pro forma financial information.
+
+The unaudited pro forma financial information required by this Item 9.01(b) will be filed by amendment to this Current Report on Form 8-K no later than 71 calendar days after the date on which this Current Report on Form 8-K is required to be filed.
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+  
+
+Description
+
+2.1
+
+  
+
+Agreement and Plan of Merger, dated as of March 31, 2026, by and among Apellis Pharmaceuticals, Inc., Biogen Inc. and Aspen Purchaser Sub, Inc. (incorporated herein by reference to Exhibit 2.1 of the Current Report on Form 8-K filed by Biogen with the SEC on March 31, 2026).†
+
+10.1
+
+  
+
+Contingent Value Rights Agreement, dated as of May 14, 2026, by and among Biogen, Apellis and Equiniti Trust Company, LLC.
+
+10.2
+
+  
+
+Credit Agreement, dated as of May 12, 2026, by and among Biogen, U.S. Bank National Association and the lenders party thereto.
+
+99.1
+
+  
+
+Press Release issued by Biogen, dated May 14, 2026.
+
+99.2
+
+  
+
+Audited consolidated financial statements of Apellis for the fiscal year ended December 31, 2025 (incorporated herein by reference to Apellis’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed with the SEC on February 24, 2026).
+
+99.3
+
+  
+
+Unaudited condensed consolidated financial statements of Apellis for the quarterly period ended March 31, 2026 (incorporated herein by reference to Apellis’s Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2026, filed with the SEC on May 7, 2026).
+
+104
+
+  
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+ 
+
+† 
+
+Certain exhibits and schedules have been omitted pursuant to Item 601(b)(2) of Regulation S-K. Biogen hereby undertakes to furnish supplemental copies of any of the omitted exhibits and schedules upon request by the SEC.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Biogen Inc.
+
+Date: May 14, 2026
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Wendell Taylor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: Wendell Taylor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:  Secretary

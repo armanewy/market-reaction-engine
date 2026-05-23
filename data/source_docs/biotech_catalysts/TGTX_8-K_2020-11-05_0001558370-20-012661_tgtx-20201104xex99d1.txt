@@ -1,0 +1,184 @@
+EX-99.1
+2
+tgtx-20201104xex99d1.htm
+EX-99.1
+
+Exhibit 99.1
+
+TG Therapeutics Highlights Data Selected for Presentation at the 62nd American Society of Hematology (ASH) Annual Meeting
+
+UNITY-CLL: U2 significantly improved progression-free survival over obinutuzimab plus chlorambucil (HR=0.54, p<0.0001) as well as ORR (p<0.001) in patients with CLL; with consistent PFS improvement across treatment naïve CLL (HR=0.48) and relapsed/refractory CLL (HR=0.60)
+
+UNITY-NHL: Umbralisib monotherapy demonstrated ORR of 49.3% in patients with relapsed/refractory MZL and 45.3% in relapsed/refractory FL patients
+
+U2 plus venetoclax demonstrated 100% ORR, 80% uMRD in the peripheral blood and 68% uMRD in the bone marrow in patients with relapsed/refractory CLL at cycle 12 of therapy (n=19)
+
+TG-1701(BTK inhibitor) monotherapy in the 200mg expansion cohort (n=21) demonstrated an 85% ORR in patients with relapsed/refractory CLL
+
+Umbralisib monotherapy and the U2 combination across all abstract trials exhibited a manageable safety profile with low incidence of immune-mediated toxicities and AE-related discontinuations
+
+Conference call with leading investigators from the UNITY-NHL and UNITY-CLL trials to be held tomorrow, November 5, 2020 at 8:45 AM ET
+
+NEW YORK, NY (November 4, 2020) - TG Therapeutics, Inc. (NASDAQ: TGTX), today announced the release of four abstracts that will be presented at the upcoming 62nd American Society of Hematology (ASH) annual meeting and exposition, to be held virtually December 5 – 8, 2020. Abstracts are now publicly available online via the ASH meeting website at www.hematology.org. The Company is also hosting a zoom conference call tomorrow, November 5, 2020, at 8:45 AM ET, with leading investigators from the UNITY-NHL and UNITY-CLL trials. Abstract highlights, as well as details about the ASH presentations and the conference call are outlined below.
+
+Michael S. Weiss, Executive Chairman and Chief Executive Officer, stated, “We are excited to share the first data from the pivotal UNITY-CLL Phase 3 trial evaluating the combination of ublituximab and umbralisib (U2) in treatment naïve and relapsed/refractory CLL, which is the first randomized trial with a PI3K inhibitor in treatment naïve CLL. In addition, we are equally excited to present updated data from the UNITY-NHL trial which supported our NDA for umbralisib, and updated data from two triple therapy datasets, including U2 plus TG-1701, our BTK inhibitor, and U2 plus venetoclax in CLL. Importantly, we believe these data showcase the differentiated tolerability profile of umbralisib, our once daily, dual PI3K-delta and CK1-epsilon inhibitor and the potential of umbralisib monotherapy and the U2 combination in FL, MZL, and CLL. We look forward to discussing these data sets during tomorrow’s call with some of our leading investigators from the UNITY-CLL and UNITY-NHL trials.”
+
+ABSTRACT HIGHLIGHTS:
+
+Oral Presentation Title: Umbralisib Plus Ublituximab (U2) Is Superior to Obinutuzumab Plus Chlorambucil (O+Chl) in Patients with Treatment Naïve (TN) and Relapsed/Refractory (R/R) Chronic Lymphocytic Leukemia (CLL): Results from the Phase 3 UNITY-CLL Study
+
+●
+
+421 patients were randomized to the U2 (n=210) or O+Chl (n=211) arms; 57% of patients were treatment-naïve and 43% had R/R CLL
+
+●
+
+At a median follow-up of 36.2 months, U2 significantly prolonged progression-free survival (PFS) vs O+Chl (median 31.9 months vs 17.9 months; hazard ratio 0.546 (p<0.0001))
+
+●
+
+PFS improvement with U2 vs O+Chl was consistent across all subgroups examined including treatment naïve patients (median 38.5 months vs 26.1 months, hazard ratio 0.482) and relapsed/refractory patients (median 19.5 months vs 12.9 months, hazard ratio 0.601)
+
+●
+
+Overall response rate (ORR) was significantly higher with U2 compared to O+Chl (83.3% vs 68.7%; p<0.001)
+
+●
+
+Grade 3/4 Adverse Events (AE) of interest regardless of causality (U2 vs O+Chl) included neutropenia (30.6% vs 34.7%), thrombocytopenia (3.4% vs 13.1%), diarrhea (12.1% vs 2.5%), infusion related reaction (1.9% vs 3.5%), elevated AST/ALTs (8.3% vs 2%), colitis (3.4% vs 0%) and pneumonitis (2.9% vs 0%)
+
+●
+
+Conclusion: U2 exhibited a well-tolerated safety profile, and significantly improved PFS vs. standard of care chemoimmunotherapy in patients with treatment naïve and relapsed/refractory CLL
+
+Poster Presentation Title: Umbralisib, the Once Daily Dual Inhibitor of PI3Kδ and Casein Kinase-1ε Demonstrates Clinical Activity in Patients with Relapsed or Refractory Indolent Non-Hodgkin Lymphoma: Results from the Phase 2 Global UNITY-NHL Trial
+
+●
+
+A total of 208 patients with iNHL received at least 1 dose of umbralisib, including 69 marginal zone lymphoma (MZL), 117 follicular lymphoma (FL), and 22 small lymphocytic lymphoma (SLL) patients
+
+●
+
+MZL patients were relapsed/refractory to ≥1 prior lines of treatment, including an anti-CD20. At a median follow up of 27.8 months, the following was observed:
+
+o
+
+49.3% ORR with 15.9% Complete response (CR) rate
+
+o
+
+Median PFS was not reached, with an estimated 12-month PFS rate of 64.2%; no patients who achieved a CR have experienced disease progression to date
+
+●
+
+FL patients were relapsed or refractory to ≥2 prior lines, including an anti-CD20 and an alkylating agent. At a median follow up of 27.5 months the following was observed:
+
+o
+
+45.3% ORR with 5.1% achieving a CR
+
+o
+
+Median PFS was 10.6 months, with an estimated 12-month PFS rate of 45.9%
+
+●
+
+The most common AEs of > Grade 3 were neutropenia (11.5%), diarrhea (10.1%) and increased ALT/AST (7.2%). Other AEs of interest included pneumonitis (all Grades 1.4%, > Grade 3 1.0%) and colitis (all Grades 1.4%, >Grade 3 0.5%)
+
+●
+
+Conclusion: Umbralisib achieved meaningful clinical activity in a heavily pretreated iNHL population. The safety profile was manageable, with a relatively low incidence of immune-mediated toxicities and AE-related discontinuations.
+
+Poster Presentation Title: A Phase 1/2 Study of Umbralisib, Ublituximab, and Venetoclax (U2-Ven) in Patients with Relapsed or Refractory Chronic Lymphocytic Leukemia (CLL)
+
+●
+
+Regimen was administered with 3 cycles of U2, followed by umbralisib plus venetoclax in cycles 4 through 12. Patients that had undetectable minimal residual disease (uMRD) in the bone marrow
+
+after cycle 12 were permitted to stop all therapy, while MRD detectable patients continued on single agent umbralisib.
+
+●
+
+40 patients have been treated as of the data cutoff
+
+●
+
+Among evaluable patients, ORR was 76% (26/34) after cycle 3 (U2 only), 100% (26/26) after cycle 7, and 100% (19/19) after cycle 12.
+
+●
+
+Among the 19 patients who finished 12 cycles of therapy:
+
+●
+
+42% achieved Complete Response (CR) by iwCLL criteria
+
+●
+
+95% achieved undetectable MRD in the peripheral blood
+
+●
+
+68% achieved undetectable MRD in the bone marrow
+
+●
+
+Grade 3/4 AEs occurring in > 5% of patients were neutropenia (23%), leukopenia (13%), and infusion related reactions (8%). No TLS events were observed during venetoclax administration.
+
+●
+
+Conclusion: Results suggest that this chemotherapy-free regimen can provide undetectable MRD after only 12 cycles of treatment, representing an effective 12-month treatment option for this population
+
+Poster Presentation Title: Clinical Activity of TG-1701, As Monotherapy and in Combination with Ublituximab and Umbralisib (U2), in Patients with B-Cell Malignancies
+
+●
+
+A total of 102 patients have been treated with TG-1701, with patients receiving monotherapy in the dose-escalation cohort (n=25) or in the dose-expansion cohort (n=63), or TG-1701 in combination with U2 in the dose escalation cohort (n=14)
+
+●
+
+TG-1701 monotherapy was well tolerated and the maximum tolerated dose was not reached up through 400 mg QD
+
+●
+
+The most common Grade ≥3 treatment-related adverse events (TRAE) were neutropenia (5%) on monotherapy, and neutropenia and ALT/AST increases for 1701+U2 (both 21%). There were no G4 TRAE with TG-1701 monotherapy
+
+●
+
+With a median follow up of 4.6 months in the 200 mg QD monotherapy expansion cohorts, preliminary overall response rates (ORR) were: 85% (17/20) in CLL, 42% (5/12) in MCL, and 86% (12/14) in WM
+
+●
+
+The ORR for 1701+U2 was 100% in patients with WM, CLL, MZL and DLBCL (n=7) and 67% (4/6) in FL
+
+Abstracts are now publicly available via the ASH meeting website at www.hematology.org and also accessible via the publications page of TG corporate website at http://tgtxinc.com/publications.cfm.
+
+CONFERENCE CALL INFORMATION
+
+The Company is hosting a zoom conference call tomorrow, November 5, 2020, which will begin at 8:45 AM ET.
+
+In order to participate in the call, please join via the zoom webinar link: https://bit.ly/37XZai1, which will also be available on the Events page, located within the Investors & Media section, of the Company's website at https://ir.tgtherapeutics.com/events. Attendees may also join via phone by dialing 1-877-407-8029 (U.S.), 1-201-689-8029 (outside the U.S.), Conference Title: TG Therapeutics ASH Abstract Review Call. A recording of the conference call will also be available for replay at www.tgtherapeutics.com, for a period of 30 days after the call.
+
+ABOUT TG THERAPEUTICS, INC.
+
+TG Therapeutics is a biopharmaceutical company focused on the acquisition, development and commercialization of novel treatments for B-cell malignancies and autoimmune diseases. Currently, the company is in late stage clinical development with two investigational compounds, ublituximab and umbralisib, the combination of which is referred to as “U2”, targeting hematological malignancies and
+
+autoimmune diseases. Ublituximab (TG-1101) is a glycoengineered monoclonal antibody that targets a specific and unique epitope on the CD20 antigen found on mature B-lymphocytes. Umbralisib (TGR-1202) is an oral, once-daily dual inhibitor of PI3K-delta and CK1-epsilon. Umbralisib is currently under review by the U.S. Food and Drug Administration (FDA) for accelerated approval as a treatment for patients with previously treated marginal zone lymphoma (MZL) who have received at least one prior anti-CD20 based regimen or follicular lymphoma (FL) who have received at least two prior systemic therapies. The Company also has a fully enrolled Phase 3 clinical trial evaluating U2 in patients with treatment naïve and relapsed/refractory chronic lymphocytic leukemia (CLL), and two fully enrolled identical Phase 3 trials evaluating ublituximab monotherapy in patients with relapsing forms of multiple sclerosis (RMS).  Additionally, the Company has recently brought into Phase 1 clinical development its anti-PD-L1 monoclonal antibody, cosibelimab (TG-1501), its covalently-bound Bruton’s Tyrosine Kinase (BTK) inhibitor, TG-1701, as well as its anti-CD47/CD19 bispecific antibody, TG-1801. TG Therapeutics is headquartered in New York City.
+
+Cautionary Statement
+
+This press release contains forward-looking statements that involve a number of risks and uncertainties. For those statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. In addition to the risk factors identified from time to time in our reports filed with the Securities and Exchange Commission, factors that could cause our actual results to differ materially include the following: the risk that the results of the UNITY-CLL trial will not be sufficient or acceptable to support regulatory submission of the combination of ublituximab (TG-1101) and umbralisib (TGR-1202) (U2) for the treatment of CLL; the risk that the results of the UNITY-NHL trial in previously treated FL and MZL will not be sufficient to support accelerated approval of our pending NDA for umbralisib; the risk that we will not be able to meet the regulatory submission timelines that we project or achieve other anticipated milestones, including the risk that the evolving and unpredictable COVID-19 pandemic delays achievement of those milestones; the risk that interim, top-line, or other early clinical trial results, that may have supported the acceptance of our data for presentation or influenced our decision to proceed with additional clinical trials, will not be reproduced in final data sets or in future studies; the risk that the safety profile observed with umbralisib, ublituximab or TG-1701, or combinations thereof, may change as additional patients are exposed for longer durations; the risk that the U2 combination will not prove to be a safe and efficacious combination, or backbone for triple therapy combinations, including with venetoclax and TG-1701. Any forward-looking statements set forth in this press release speak only as of the date of this press release. We do not undertake to update any of these forward-looking statements to reflect events or circumstances that occur after the date hereof. This press release and prior releases are available at www.tgtherapeutics.com. The information found on our website is not incorporated by reference into this press release and is included for reference purposes only.
+
+CONTACT:
+
+Jenna Bosco
+
+Senior Vice President,
+
+Corporate Communications
+
+TG Therapeutics, Inc.
+
+Telephone: 212.554.4351
+
+Email: ir@tgtxinc.com

@@ -1,0 +1,489 @@
+false
+0001710072
+
+0001710072
+
+2025-04-02
+2025-04-02
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): April 2, 2025
+
+ 
+
+Edgewise Therapeutics, Inc.
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+Delaware
+
+ 
+
+001-40236
+
+ 
+
+82-1725586
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+ 
+
+(IRS
+Employer
+
+Identification No.)
+
+ 
+
+1715
+38th St.
+
+Boulder,
+CO 80301
+
+(Address of principal executive offices) (Zip Code)
+
+ 
+
+(720)
+262-7002 
+
+(Registrant’s telephone number, including
+area code)
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed
+since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name
+of exchange on which registered
+
+Common
+Stock, $0.0001 par value per share
+
+ 
+
+EWTX
+
+ 
+
+The
+Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+ 
+
+On April 2, 2025, Edgewise Therapeutics, Inc. (the “Company”)
+issued a press release announcing top-line data of EDG-7500 from the Phase 2 CIRRUS-hypertrophic cardiomyopathy (“HCM”) 28-day
+trial in patients with obstructive or nonobstructive HCM. The press release is attached hereto as Exhibit 99.1 to this Current Report
+on Form 8-K and is incorporated herein by reference.
+
+ 
+
+The information furnished by this Current Report on Form 8-K
+under Item 7.01, including Exhibit 99.1 attached hereto shall be deemed furnished and not “filed”
+for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject
+to the liabilities of that section, and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended
+or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Information.
+
+ 
+
+Top-Line Results from Phase 2 CIRRUS-HCM Four-Week Trial of EDG-7500
+in Hypertrophic Cardiomyopathy (“HCM”)
+
+ 
+
+On April 2, 2025, the Company announced positive top-line data
+of EDG-7500 from the Phase 2 CIRRUS-HCM four-week trial in participants with obstructive or nonobstructive HCM.
+
+ 
+
+CIRRUS-HCM is a multi-part, open-label trial of EDG-7500 in individuals
+with HCM. In September 2024, the Company announced positive top-line data from Part A of the trial showing that a single oral
+dose of EDG-7500 in participants with obstructive HCM demonstrated robust reductions in left ventricular outflow tract gradient (“LVOT-G”) without meaningful changes in left ventricular ejection fraction (“LVEF”).
+
+ 
+
+Part B of CIRRUS-HCM included 17 participants with obstructive
+HCM and Part C included 12 participants with nonobstructive HCM. Both parts of the trial evaluated the safety and efficacy of once-daily
+doses of 50 or 100 mg of EDG-7500 for four weeks.
+
+ 
+
+In participants with obstructive HCM, EDG-7500 demonstrated
+meaningful dose-dependent reductions in LVOT-G at rest and post Valsalva. Participants receiving 100 mg experienced mean reductions
+from baseline of 71% and 58% in resting and provokable (Valsalva) gradients respectively. Importantly, gradient reductions were
+achieved without meaningful changes in LVEF. Treatment with 100 mg of EDG-7500 also demonstrated a 62% mean reduction from baseline
+in NT-proBNP, a key biomarker of heart failure. In addition, positive trends in echocardiographic parameters of diastolic function
+were observed following treatment with EDG-7500. Clinically meaningful improvements were also observed on the Kansas City
+Cardiomyopathy Questionnaire Overall Summary Score (KCCQ-OSS), with a substantial mean increase of 23 points observed at the 100 mg
+dose. In addition, treatment with 100 mg of EDG-7500 over four weeks demonstrated improvements on the NYHA functional class score. Seventy-eight percent of
+participants improved by ≥ 1 NYHA Class, and 67% improved to NYHA Class I (i.e. asymptomatic).
+
+ 
+
+In participants with nonobstructive HCM, EDG-7500 administration resulted in
+a dose-dependent reduction in NT-proBNP, with a 42% mean decrease from baseline at 100 mg. A positive trend in an echocardiographic parameter
+of diastolic function (mean e’) was observed in as early as one week. Substantial improvements in KCCQ-OSS and KCCQ-Clinical Summary
+Scores, with substantial mean increases of 17 points and 22 points, respectively, were observed at the 100 mg dose, after only four weeks.
+
+ 
+
+The positive results observed in participants with obstructive HCM and nonobstructive HCM were achieved without meaningful reductions
+in LVEF. Importantly, there were no LVEF values <50% at any measurement. The most frequently reported adverse events were dizziness,
+upper respiratory tract infection and atrial fibrillation ("AF"); nearly all were considered mild to moderate in severity. Two participants
+experienced serious adverse events of AF requiring cardioversion. In Parts B and C, the rates of AF were in the range of those reported
+in other HCM Phase 2 clinical trials of cardiac myosin inhibitors. One participant discontinued treatment due to moderate dizziness. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anticipated 2025 and 2026 Key Milestones
+
+ 
+
+The Company’s 2025 and 2026 anticipated key milestones are:
+
+ 
+
+Muscular Dystrophy Program - Sevasemten (EDG-5506)
+
+ 
+
+Becker muscular dystrophy
+
+ 
+
+·
+
+Report GRAND CANYON results in the fourth quarter of 2026.
+
+ 
+
+Duchenne muscular dystrophy
+
+ 
+
+·
+
+Initiate the Phase 3 LYNX and FOX trials in the second half of 2025.
+
+ 
+
+Cardiac Program
+
+ 
+
+Hypertrophic cardiomyopathy - EDG-7500
+
+ 
+
+·
+
+Report initial readout of 12-week data from the Part D Phase 2 CIRRUS-HCM trial in the second half of 2025.
+
+·
+
+Initiate the Phase 3 CIRRUS-HCM trial in the first half of 2026.
+
+ 
+
+Heart Failure and Cardiometabolic
+
+ 
+
+·
+
+File an investigational new drug (“IND”) application for a novel candidate for the treatment of heart failure in the first
+half of 2025 and report data from the Phase 2 clinical trial of such candidate in the first half of 2026.
+
+·
+
+Select a proprietary cardiometabolic product candidate based on preclinical proof-of-concept data in the second half of 2025.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cautionary Note Regarding Forward Looking Statements
+
+ 
+
+This
+Current Report on Form 8-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933,
+as amended and Section 21E of the Securities Exchange Act of 1934 and the Private Securities Litigation Reform Act of 1995. These
+forward-looking statements include statements regarding the potential of, and expectations regarding, the Company’s product candidates
+and programs, including sevasemten and EDG-7500; the Company’s expectations relating to clinical trials and clinical development
+of sevasemten and EDG-7500, including statements regarding timing of reporting data and initiating clinical trials; the Company’s
+expectations relating clinical development of a novel candidate for the treatment of heart failure, including statements regarding timing
+of filing an IND and reporting clinical data; the Company’s expectations relating to selection of a proprietary cardiometabolic
+product candidate; and statements regarding the Company’s key milestones. Such statements are based on current assumptions that
+involve risks and uncertainties that could cause actual outcomes and results to differ materially. These risks and uncertainties, many
+of which are beyond the Company’s control, include risks associated with the potential unreliability of extrapolations and comparisons
+of published results without head-to-head comparison included in the topline result from Parts B and C of Phase 2 of the CIRRUS-HCM trial;
+the Company’s limited operating history, its products being early in development and not having products approved for commercial
+sale; risks associated with Edgewise not having generated any revenue to date; the Company’s ability to achieve objectives relating
+to the discovery, development and commercialization of its product candidates, if approved; the Company’s need for substantial additional
+capital to finance its operations; the Company’s substantial dependence on the success of sevasemten and EDG-7500; the Company’s
+ability to develop and commercialize sevasemten and EDG-7500 and discover, develop and commercialize product candidates in future programs,
+including a novel candidate for the treatment of heart failure and a proprietary cardiometabolic product candidate; risks related to the
+Company’s clinical trials of its product candidates not demonstrating safety and efficacy; risks related to the Company’s
+product candidates causing serious adverse events, toxicities or other undesirable side effects; the outcome of preclinical testing and
+early clinical trials not being predictive of the success of later clinical trials and the risks related to the results of the Company’s
+clinical trials not satisfying the requirements of regulatory authorities; delays or difficulties in the enrollment and/or maintenance
+of patients in clinical trials; risks related to competition; risks relating to interim, topline and preliminary data from the Company’s
+clinical trials changing as more patient data becomes available; risks related to the regulatory approval processes of domestic and foreign
+authorities being lengthy, time consuming and inherently unpredictable; risks related to production of drugs by the Company’s third-party
+manufacturers; risks related to changes in methods of product candidate manufacturing or formulation; risks related to not achieving adequate
+market acceptance; risks related to the patient population for our product candidates having a small patient population; risks related
+to regulatory authorities not accepting data from trials conducted in locations outside of their jurisdiction; risks relating to the Company’s
+ability to attract and retain highly skilled executive officers and employees; the Company’s ability to obtain and maintain intellectual
+property protection for its product candidates; the Company’s reliance on third parties; general economic and market conditions;
+ and the other risks set forth in the Company’s filings with the Securities and Exchange Commission. These forward-looking
+statements speak only as of the date hereof. The Company disclaims any obligation to update these forward-looking statements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+Number
+
+ 
+
+Description
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press Release, dated April 2, 2025.
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+EDGEWISE THERAPEUTICS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ R. Michael Carruthers
+
+ 
+
+ 
+
+R. Michael Carruthers
+
+ 
+
+ 
+
+Chief Financial Officer
+
+ 
+
+Date: April 2, 2025

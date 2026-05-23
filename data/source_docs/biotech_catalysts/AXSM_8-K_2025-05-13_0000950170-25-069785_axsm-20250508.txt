@@ -1,0 +1,243 @@
+8-K
+
+false000157942800015794282025-05-082025-05-08
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 08, 2025
+
+ 
+
+ 
+
+Axsome Therapeutics, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+001-37635
+
+45-4241907
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+One World Trade Center, 29th Floor
+
+ 
+
+New York, New York
+
+ 
+
+10007
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (212) 332-3241
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, Par Value $0.0001 Per Share
+
+ 
+
+AXSM
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Item 1.01. Entry Into a Material Definitive Agreement.
+
+Loan Agreement
+
+On May 8, 2025 (the “Closing Date”), Axsome Therapeutics, Inc. (the “Company”) entered into a Loan Agreement (the “Loan Agreement”), with Blackstone Alternative Credit Advisors LP and Blackstone Life Sciences Advisors L.L.C. (collectively, the “Blackstone Representative” and referred to herein as “Blackstone”), certain subsidiaries of the Company party thereto as Guarantors, Wilmington Trust, National Association, as Agent and the lenders from time to time party thereto (collectively, the “Lenders”). Capitalized terms used but not otherwise defined in this Item 1.01 have the respective meanings ascribed to such terms in the Loan Agreement.
+
+The Loan Agreement provides for loans in an aggregate principal amount of up to $570.0 million, consisting of (i) a first lien senior secured term loan in an aggregate principal amount of $120.0 million funded to the Company on the Closing Date, (ii) a $180.0 million senior secured term loan which is available to the Company at the Company’s option, of which $90.0 million is available to the Company until May 31, 2026, and of which the remaining $90.0 million is available until May 31, 2027 (the “Term Loans”) and (iii) a super senior revolving credit facility in an aggregate principal amount of up to $70.0 million available at the Company’s option (the “Revolver” and collectively with the Term Loans, the “Loans”). The Loan Agreement also allows the Company, subject to the consent of the Lenders, to request incremental term loans in an aggregate principal amount of up to $200.0 million at any time and on the same terms as the initial term loans, except that any call protection will be determined at the time the incremental term loans are incurred. The proceeds of the Term Loans were used, together with cash on hand, to repay in full the Company’s existing term loan under its existing Credit Agreement with Hercules Capital, Inc., as agent (the “Existing Hercules Credit Agreement”).
+
+The Term Loans bear interest at a rate equal to the Term SOFR adjusted secured overnight financing rate plus a margin of 4.75%. The Revolver bears interest at SOFR plus a margin of 4.00%. If an Event of Default occurs and is continuing, all amounts outstanding under the Loan Agreement will bear 2.00% additional interest. The Loans mature and the principal amount (including any interest and fees) must be repaid on the date that is five years from the Closing Date.
+
+The Loans are subject to mandatory prepayment provisions that may require prepayment upon a change of control, the incurrence of certain additional indebtedness, certain asset sales, or an event of loss, subject to certain conditions set forth in the Loan Agreement. The Company may prepay the Loans in whole at its option at any time. Any prepayment of the Term Loan is subject to certain yield protection premiums.
+
+The obligations under the Loan Agreement are guaranteed by the Guarantors and secured by a first lien security interest in certain assets of the Company and Guarantors.
+
+The Loan Agreement contains certain customary representations and warranties, affirmative and negative covenants and events of default applicable to the Company and the Guarantors. The Loan Agreement also contains a minimum liquidity covenant of $30 million, tested quarterly. If an event of default occurs and is continuing, the Lenders may declare all amounts outstanding under the Loan Agreement to be immediately due and payable.
+
+The foregoing description of the Loan Agreement is not complete and is qualified in its entirety by reference to the full text of the Loan Agreement, which will be filed as an exhibit to the Company’s next periodic report filed with the U.S. Securities and Exchange Commission (“SEC”).
+
+Securities Purchase Agreement
+
+On May 8, 2025, the Company entered into a securities purchase agreement (the “Purchase Agreement”) with the purchasers set forth on Schedule A attached thereto (the “Purchasers”), which are all funds or accounts that are managed, advised or sub-advised by Blackstone or its affiliates, for the private placement (the “Private Placement”) of an aggregate of 140,000 shares of the Company’s common stock, at a purchase price of $107.14 per share (the “Common Stock”). Gross proceeds from the Private Placement were approximately $15,000,000. The closing of the Private Placement occurred contemporaneously with the Closing Date of the Loan Agreement.
+
+The Purchase Agreement contains customary representations, warranties and covenants made by the Company. In addition, pursuant to the terms of the Purchase Agreement, each Purchaser has agreed to a “lock-up” period that generally prohibits, without the prior written consent of the Company, the sale, transfer, pledge or other disposition of securities of the Company through the period ending one hundred twenty (120) days from the Closing Date.
+
+The foregoing description of the Purchase Agreement does not purport to be complete and is qualified in its entirety by reference to the copy of the Purchase Agreement, which will be filed as an exhibit to the Company’s next periodic report filed with the SEC.
+
+The representations, warranties and covenants contained in the Loan Agreement and Purchase Agreement were made only for purposes of such agreements and as of specific dates, were solely for the benefit of the parties to the Loan Agreement and Purchase Agreement, and may be subject to limitations agreed upon by the contracting parties. Accordingly, the Loan Agreement and Purchase Agreement are incorporated herein by reference only to provide investors with information regarding the terms of the Loan Agreement and Purchase Agreement, and not to provide investors with any other factual information regarding the Company or its business, and should be read in conjunction with the disclosures in the Company’s periodic reports and other filings with the SEC.
+
+Item 1.02. Termination of a Material Definitive Agreement.
+
+The information provided in Item 1.01 of this Current Report on Form 8-K regarding termination of the Existing Hercules Credit Agreement in connection with the payoff of this agreement is incorporated by reference into this Item 1.02.
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information provided in Item 1.01 of this Current Report on Form 8-K regarding the Loan Agreement is incorporated by reference into this Item 2.03.
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+The information provided in Item 1.01 of this Current Report on Form 8-K regarding the Private Placement of the Common Stock is incorporated by reference into this Item 3.02. The Private Placement was made pursuant to Section 4(a)(2) of the U.S. Securities Act of 1933, as amended.
+
+Item 8.01. Other Events.
+
+On May 13, 2025, the Company issued a press release announcing the execution of the Loan Agreement. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+ 
+
+ 
+
+Exhibit No.
+
+Description
+
+99.1
+
+ 
+
+Press Release dated May 13, 2025.
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Axsome Therapeutics, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+May 13, 2025
+
+By:
+
+/s/ Herriot Tabuteau, M.D.
+
+ 
+
+ 
+
+Name:
+
+Title:
+
+Herriot Tabuteau, M.D.
+
+President and Chief Executive Officer

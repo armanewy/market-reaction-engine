@@ -1,0 +1,211 @@
+0001001316false00010013162021-12-302021-12-30
+
+​
+
+​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): January 27, 2022
+
+TG Therapeutics, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+​
+
+Delaware
+
+001-32639
+
+36-3898269
+
+(State or Other Jurisdiction
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+of Incorporation)
+
+​
+
+​
+
+​
+
+2 Gansevoort Street, 9th Floor
+
+New York, New York 10014
+
+(Address of Principal Executive Offices)
+
+(212) 554-4484
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐    Pre-commencement communications pursuant to Rule 14d-2b under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities filed pursuant to Section 12(b) of the Act:
+
+​
+
+​
+
+​
+
+​
+
+Title of Class
+
+Trading Symbol(s)
+
+Exchange Name
+
+Common Stock
+
+TGTX
+
+Nasdaq Capital Market
+
+​
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2). Emerging growth company ☐
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+​
+
+​
+
+​
+
+​
+
+Item 8.01 Other Events.
+
+On January 27, 2022, TG Therapeutics, Inc. (the “Company”) participated in a webcast fireside chat during the B. Riley Securities’ 2022 Virtual Oncology Investor Conference. During the webcast, Michael S. Weiss, Chief Executive Officer of the Company, shared a data and regulatory update. Mr. Weiss noted that the Company was nearing completion of a submission to the U.S. Food and Drug Administration (FDA) of updated Overall Survival (OS) analyses from the UNITY-CLL Phase 3 study evaluating the investigational U2 combination (UKONIQ® (umbralisib) and ublituximab) compared to the control arm of obinutuzumab plus chlorambucil and that the FDA imposed a partial clinical hold on select studies of U2 and its components for chronic lymphocytic leukemia (CLL) and non-Hodgkin's lymphoma (NHL).
+
+​
+
+With regard to the data update, Mr. Weiss noted that the updated OS results from the UNITY-CLL study, showed an improvement from the preliminary data originally shared with the FDA, and previously disclosed on November 30, 2021, which was at that time an OS hazard ratio of 1.23 and when censoring for COVID-19 related deaths a hazard ratio of 1.04. An OS hazard ratio above 1.00 implies potential risk that the investigational therapy is causing harm and below 1.00 implies the possibility the drug is improving survival. The UNITY-CLL study was not powered for OS. Neither the original preliminary results nor the updated preliminary results were statistically significant, and the results are expected to change over time as more events occur. The original preliminary OS Hazard Ratio and the updated information discussed today were as of the same data cutoff date of September 2021.
+
+​
+
+With regard to the partial clinical hold, Mr. Weiss noted that no new patients may be enrolled to the select CLL/NHL studies identified by FDA, however patients on these studies who are deriving clinical benefit can continue on therapy once they have been reconsented. Mr. Weiss also noted that the partial clinical hold was not based on any new information provided by the Company to the FDA but appears to be based on the same data and concerns that gave rise to the previously announced Oncologic Drug Advisory Committee (ODAC) meeting, which is set to take place in the March/April 2022 timeframe. Most studies included in the partial clinical hold were previously closed to new enrollment or were on Company administrative hold to new enrollment. The Company does not expect to provide an update on the partial clinical hold prior to the ODAC meeting.
+
+​
+
+Forward-looking Statement
+
+​
+
+This 8-K contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995, including statements relating to the interim overall survival analyses from the UNITY-CLL study, and the partial clinical hold that the FDA placed on select studies of the U2 regimen, including the ublituximab and UKONIQ® (umbralisib) monotherapy arms of those studies. In addition to the risk factors identified from time to time in our reports filed with the U.S. Securities and Exchange Commission, factors that could cause our actual results to differ materially include the following: the risk that the FDA disagrees with the updated overall survival analysis from the UNITY-CLL study referenced in this 8-K; the risk that the overall survival analysis from the UNITY-CLL study, which is interim and statistically underpowered, changes over time in favor of the control arm as patients are followed for a longer period of time;  and the risk that FDA may not remove the partial clinical holds on studies evaluating the U2 combination, including the ublituximab and UKONIQ monotherapy arms of those studies.
+
+​
+
+Further discussion about these and other risks and uncertainties can be found in our Annual Report on Form 10-K for the fiscal year ended December 31, 2020, as updated by our subsequent Quarterly Reports on Form 10-Q, and in our other filings with the U.S. Securities and Exchange Commission. Any forward-looking statements set forth in this 8-K speak only as of the date of this 8-K. We do not undertake to update any of these forward-looking statements to reflect events or circumstances that occur after the date hereof.
+
+​
+
+​
+
+​
+
+​
+
+- 2 -
+
+Item 9.01. Financial Statements and Exhibits.
+
+Exhibit No.
+
+    
+
+Description
+
+​
+
+​
+
+​
+
+Exhibit 104
+
+​
+
+The cover page from this Current Report on Form 8-K formatted in Inline XBRL
+
+​
+
+​
+
+​
+
+- 3 -
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+​
+
+TG THERAPEUTICS, INC.
+
+​
+
+(Registrant)
+
+​
+
+​
+
+​
+
+Date: January 27, 2022
+
+By:
+
+/s/ Sean A. Power
+
+​
+
+Name: 
+
+Sean A. Power
+
+​
+
+Title:
+
+Chief Financial Officer
+
+​
+
+​
+
+​
+
+- 4 -

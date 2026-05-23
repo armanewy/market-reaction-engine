@@ -1,0 +1,1115 @@
+8-K
+
+false 0001628171 0001628171 2025-09-10 2025-09-10 0001628171 us-gaap:CommonStockMember 2025-09-10 2025-09-10 0001628171 us-gaap:WarrantMember 2025-09-10 2025-09-10
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 10, 2025
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39219
+
+ 
+
+47-2029180
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+700 Saginaw Drive
+
+ 
+
+Redwood City, California
+
+ 
+
+94063
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (650) 481-6801
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+RVMD
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Warrants to purchase 0.1112 shares of common stock expiring 2026
+
+ 
+
+RVMDW
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On September 10, 2025, Revolution Medicines, Inc. (the “Company”) provided the following pipeline updates.
+
+Daraxonrasib – Second-Line PDAC
+
+The Company reported updated clinical safety, tolerability, and activity data for daraxonrasib, its RAS(ON) multi-selective inhibitor, from its monotherapy Phase 1 RMC-6236-001 study (the “RMC-6236-001 Study”) in patients with previously treated metastatic RAS-mutant pancreatic ductal adenocarcinoma (“PDAC”) as of a data cutoff date of June 30, 2025 (the “2L Data Cutoff Date”).
+
+In the RMC-6236-001 Study, a total of 83 second line or later (“2L+”) patients with metastatic RAS-mutant PDAC treated with a dose of 300 mg daily were evaluated for safety and tolerability as of the 2L Data Cutoff Date (Table 1). The most common treatment-related adverse events (“TRAEs”) that were observed were rash and gastrointestinal (“GI”)-related toxicities.
+
+Table 1. RMC-6236-001: TRAEs in patients with metastatic RAS-mutant PDAC treated in the 2L+ setting with daraxonrasib at 300 mg daily
+
+ 
+
+ 
+
+  
+
+(N=83)
+
+ 
+
+  
+
+Any Grade
+
+ 
+
+Grade ≥3
+
+Any TRAE
+
+  
+
+ 
+
+ 
+
+80 
+
+(96%)
+
+ 
+
+ 
+
+ 
+
+28 
+
+(34%)
+
+TRAEs occurring in ≥10% of patients, n (%)
+
+  
+
+ 
+
+ 
+
+ 
+
+Rash*
+
+  
+
+ 
+
+ 
+
+75 
+
+(90%)
+
+ 
+
+ 
+
+ 
+
+6 
+
+(7%)
+
+Stomatitis/mucositis*
+
+  
+
+ 
+
+ 
+
+45 
+
+(54%)
+
+ 
+
+ 
+
+ 
+
+3 
+
+(4%)
+
+Diarrhea
+
+  
+
+ 
+
+ 
+
+43 
+
+(52%)
+
+ 
+
+ 
+
+ 
+
+3 
+
+(4%)
+
+Nausea
+
+  
+
+ 
+
+ 
+
+32 
+
+(39%)
+
+ 
+
+ 
+
+ 
+
+0 
+
+(0%)
+
+Vomiting
+
+  
+
+ 
+
+ 
+
+30 
+
+(36%)
+
+ 
+
+ 
+
+ 
+
+0 
+
+(0%)
+
+Paronychia
+
+  
+
+ 
+
+ 
+
+15 
+
+(18%)
+
+ 
+
+ 
+
+ 
+
+0 
+
+(0%)
+
+Fatigue
+
+  
+
+ 
+
+ 
+
+14 
+
+(17%)
+
+ 
+
+ 
+
+ 
+
+1 
+
+(1%)
+
+Other select TRAEs, n (%)
+
+  
+
+ 
+
+ 
+
+ 
+
+Platelet count decreased
+
+  
+
+ 
+
+ 
+
+8 
+
+(10%)
+
+ 
+
+ 
+
+ 
+
+3 
+
+(4%)
+
+Aspartate transferase increased
+
+  
+
+ 
+
+ 
+
+8 
+
+(10%)
+
+ 
+
+ 
+
+ 
+
+3 
+
+(4%)
+
+Anemia
+
+  
+
+ 
+
+ 
+
+7 
+
+(8%)
+
+ 
+
+ 
+
+ 
+
+6 
+
+(7%)
+
+Alanine transaminase increased
+
+  
+
+ 
+
+ 
+
+6 
+
+(7%)
+
+ 
+
+ 
+
+ 
+
+2 
+
+(2%)
+
+Neutrophil count decreased
+
+  
+
+ 
+
+ 
+
+5 
+
+(6%)
+
+ 
+
+ 
+
+ 
+
+3 
+
+(4%)
+
+Patients with dose modifications due to TRAEs, n (%)
+
+  
+
+ 
+
+ 
+
+40 
+
+(48%)
+
+ 
+
+ 
+
+Patients with dose discontinuation due to TRAEs, n (%)
+
+  
+
+ 
+
+ 
+
+0 
+
+(0%)
+
+ 
+
+ 
+
+Mean dose intensity
+
+  
+
+ 
+
+ 
+
+86
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+*
+
+Bundled term comprising multiple MedDRA preferred terms.
+
+The Company also reported best percentage change in tumor size from baseline for patients with metastatic RAS-mutant PDAC treated with a dose of 300 mg daily in the second-line (“2L”) setting (Figure 1). For these patients, as of the 2L Data Cutoff Date, the objective response rate (“ORR”) was 35% (9 of 26) for patients with tumors harboring RAS G12X mutations and 29% (11 of 38) for patients with tumors harboring RAS G12X, G13X, or Q61X mutations, and the disease control rate (“DCR”) was 92% (24 of 26) for patients with tumors harboring RAS G12X mutations and 95% (36 of 38) for patients with tumors harboring RAS G12X, G13X, or Q61X mutations.
+
+Figure 1. RMC-6236-001: Best percentage change in tumor size from baseline in patients with metastatic RAS-mutant PDAC treated in the 2L setting with daraxonrasib at 300 mg daily
+
+ 
+
+Median (range) follow-up is 16.7 (10.3, 24.6) months and 17.4 (10.3, 24.6) months for RAS G12X and RAS mutant, respectively and median duration of response (95% confidence interval (“CI”)) is 8.2 months (3.8, not estimable (“NE”)) and 8.2 months (3.8, 8.8), for RAS G12X and RAS mutant, respectively.
+
+ORR per RECIST v1.1 includes complete responses (“CR”) and partial responses (“PR”) that were confirmed or still had the potential to confirm. DCR includes CR, PR, and stable disease (“SD”).
+
+One patient included in the denominator for ORR and DCR calculations is not displayed on the waterfall and is treated as a non-responder for purposes of the ORR and DCR calculations due to lack of post-baseline target lesion assessment.
+
+RAS Mutant is defined as patients with RAS G12X, G13X, or Q61X PDAC.
+
+SOD is defined as sum of diameters.
+
+ 
+
+In addition, the Company reported updated progression-free survival (“PFS”) data for 2L Efficacy Evaluable Patients (Figure 2). As of the 2L Data Cutoff Date, the median PFS was 8.5 months (95% CI: 6.7, 10.5) for patients with tumors harboring RAS G12X mutations and 8.1 months (95% CI: 5.9, 10.1) for patients with tumors harboring G12X, G13X, or Q61X mutations.
+
+Figure 2. RMC-6236-001: Interim PFS in 2L metastatic RAS-mutant PDAC patients treated with daraxonrasib at 300 mg daily
+
+ 
+
+Median (range) follow-up is 16.7 (10.3, 24.6) months and 17.4 (10.3, 24.6) months for KRAS G12X and RAS Mutant, respectively.
+
+The Company also reported updated overall survival (“OS”) data for 2L Efficacy Evaluable Patients (Figure 3). As of the 2L Data Cutoff Date, the median OS was 13.1 months (95% CI: 10.9, NE) for patients with tumors harboring RAS G12X mutations and 15.6 months (95% CI: 10.9, NE) for patients with tumors harboring G12X, G13X, or Q61X mutations.
+
+Figure 3. RMC-6236-001: Interim OS in 2L metastatic RAS-mutant PDAC patients treated with daraxonrasib at 300 mg daily
+
+ 
+
+Median (range) follow-up is 16.7 (10.3, 24.6) months and 17.4 (10.3, 24.6) months for KRAS G12X and RAS Mutant, respectively.
+
+The Company believes these preliminary data observations from the RMC-6236-001 Study support the continued development of daraxonrasib in patients with RAS-mutant PDAC.
+
+Daraxonrasib – First-Line PDAC
+
+The Company also reported initial clinical safety, tolerability, and activity data for daraxonrasib from the RMC-6236-001 Study for patients with treatment-naïve metastatic RAS-mutant PDAC as of a data cutoff date of July 28, 2025 (the “1L Data Cutoff Date”).
+
+In the RMC-6236-001 Study, a total of 40 patients with treatment-naïve metastatic RAS-mutant PDAC treated with a dose of 300 mg daily were evaluated for safety and tolerability as of the 1L Data Cutoff Date (Table 2). The most common TRAEs that were observed were rash and GI-related toxicities.
+
+Table 2. RMC-6236-001: TRAEs in patients with treatment-naïve metastatic RAS-mutant PDAC treated with daraxonrasib at 300 mg daily
+
+ 
+
+ 
+
+  
+
+(N=40)
+
+ 
+
+  
+
+Any Grade
+
+ 
+
+Grade ≥3
+
+Any TRAE
+
+  
+
+38 (95%)
+
+ 
+
+14 (35%)
+
+TRAEs occurring in ≥10% of patients, n (%)
+
+  
+
+ 
+
+Rash*
+
+  
+
+35 (88%)
+
+ 
+
+3 (8%)
+
+Diarrhea
+
+  
+
+23 (58%)
+
+ 
+
+4 (10%)
+
+Stomatitis/mucositis*
+
+  
+
+23 (58%)
+
+ 
+
+3 (8%)
+
+Nausea
+
+  
+
+20 (50%)
+
+ 
+
+1 (3%)
+
+Vomiting
+
+  
+
+20 (50%)
+
+ 
+
+2 (5%)
+
+Fatigue
+
+  
+
+14 (35%)
+
+ 
+
+1 (3%)
+
+Constipation
+
+  
+
+6 (15%)
+
+ 
+
+0 (0%)
+
+Decreased appetite
+
+  
+
+6 (15%)
+
+ 
+
+0 (0%)
+
+Other select TRAEs, n (%)
+
+  
+
+ 
+
+Alanine transaminase increased
+
+  
+
+3 (8%)
+
+ 
+
+0 (0%)
+
+Aspartate transferase increased
+
+  
+
+3 (8%)
+
+ 
+
+0 (0%)
+
+Platelet count decreased
+
+  
+
+3 (8%)
+
+ 
+
+0 (0%)
+
+Anemia
+
+  
+
+2 (5%)
+
+ 
+
+1 (3%)
+
+Neutrophil count decreased
+
+  
+
+0 (0%)
+
+ 
+
+0 (0%)
+
+Patients with dose modifications due to TRAEs, n (%)
+
+  
+
+25 (63%)
+
+ 
+
+Patients with dose discontinuation due to TRAEs, n (%)
+
+  
+
+4 (10%)
+
+ 
+
+Mean dose intensity
+
+  
+
+85%
+
+ 
+
+ 
+
+ 
+
+*
+
+Bundled term comprising multiple MedDRA preferred terms.
+
+Two treatment-naïve patients are included in this safety analysis but are excluded from the waterfall and ORR/DCR analysis below because they do not meet the definition of first-line (“1L”) metastatic PDAC: one patient had locally advanced disease and the other had a synchronous neuroendocrine tumor.
+
+The Company also reported best percentage change in tumor size from baseline for patients with metastatic RAS-mutant PDAC treated in the 1L setting with a dose of 300 mg daily that received their first dose of daraxonrasib at least 14 weeks prior to the 1L Data Cutoff Date (“1L PDAC Monotherapy Efficacy Evaluable Patients”) (Figure 4). As of the 1L Data Cutoff Date, the ORR for 1L PDAC Monotherapy Efficacy Evaluable Patients was 47% (18 of 38) and the DCR was 89% (34 of 38).
+
+Figure 4. RMC-6236-001: Best percentage change in tumor size from baseline in patients with metastatic RAS-mutant PDAC treated in the 1L setting with daraxonrasib at 300 mg daily
+
+ 
+
+Two treatment-naïve patients who are included in the safety analysis above are excluded from the waterfall and ORR/DCR analysis because they do not meet the definition of 1L metastatic PDAC: one patient had locally advanced disease and the other had a synchronous neuroendocrine tumor.
+
+Median (range) follow-up is 9.3 (4.8, 11.5) months.
+
+ORR includes CRs and PRs that were confirmed or still had the potential to confirm. DCR includes CR, PR, and SD.
+
+Four patients included in the denominator for the ORR and DCR calculations are not displayed on waterfall and are treated as non-responders for purposes of the ORR and DCR calculations due to lack of post-baseline target lesion assessment.
+
+SOD is defined as sum of diameters.
+
+Daraxonrasib and Chemotherapy Combo – 1L PDAC
+
+The Company also reported initial clinical safety, tolerability, and activity data for the combination of daraxonrasib at a dose of 200 mg daily with gemcitabine at a dose of 1000 mg/m2 and of nab-paclitaxel at a dose of 125 mg/m2 (“GnP”), with GnP administered every two weeks, from its Phase 1 RMC-GI-102 study (the “RMC-GI-102 Study”), for patients with metastatic RAS-mutant PDAC that were treated in the 1L setting (“1L PDAC Combination Patients”), as of the 1L Data Cutoff Date.
+
+In the RMC-GI-102 Study, a total of 40 1L PDAC Combination Patients were evaluated for safety and tolerability as of the 1L Data Cutoff Date (Table 3). The most common TRAEs that were observed were rash, fatigue and GI-related toxicities.
+
+Table 3. RMC-GI-102: TRAEs in patients with metastatic RAS-mutant PDAC treated in the 1L setting with daraxonrasib at 200 mg daily and gemcitabine at 1,000 mg/m2 with nab-Paclitaxel at 125mg/m2 every two weeks
+
+ 
+
+ 
+
+  
+
+(N=40)
+
+Maximum Severity of TRAEs
+
+  
+
+Any Grade
+
+  
+
+Grade ≥3
+
+Any TRAE
+
+  
+
+39 (98%)
+
+  
+
+23 (58%)
+
+TRAEs occurring in ≥10% of patients, n (%)
+
+  
+
+  
+
+Rash*
+
+  
+
+34 (85%)
+
+  
+
+ 5 (13%)
+
+Fatigue
+
+  
+
+27 (68%)
+
+  
+
+ 5 (13%)
+
+Diarrhea
+
+  
+
+27 (68%)
+
+  
+
+ 5 (13%)
+
+Nausea
+
+  
+
+25 (63%)
+
+  
+
+2 (5%)
+
+Vomiting
+
+  
+
+19 (48%)
+
+  
+
+0 (0%)
+
+Anemia
+
+  
+
+17 (43%)
+
+  
+
+ 9 (23%)
+
+Stomatitis/mucositis*
+
+  
+
+17 (43%)
+
+  
+
+3 (8%)
+
+Edema peripheral
+
+  
+
+16 (40%)
+
+  
+
+0 (0%)
+
+Neutrophil count decreased
+
+  
+
+15 (38%)
+
+  
+
+ 6 (15%)
+
+Platelet count decreased
+
+  
+
+14 (35%)
+
+  
+
+2 (5%)
+
+Alopecia
+
+  
+
+13 (33%)
+
+  
+
+0 (0%)
+
+Other select TRAEs, n (%)
+
+  
+
+  
+
+Alanine transaminase increased
+
+  
+
+10 (25%)
+
+  
+
+2 (5%)
+
+Aspartate transferase increased
+
+  
+
+ 9 (23%)
+
+  
+
+1 (3%)
+
+ 
+
+  
+
+Daraxonrasib
+
+  
+
+GnP
+
+Patients with dose modifications due to TRAEs, n (%)
+
+  
+
+21 (53%)
+
+  
+
+22 (55%)
+
+Patients with dose discontinuation due to TRAEs, n (%)
+
+  
+
+2 (5%)
+
+  
+
+3 (8%)
+
+Mean dose intensity
+
+  
+
+81%
+
+  
+
+63%
+
+ 
+
+ 
+
+*
+
+Bundled term comprising multiple MedDRA preferred terms.
+
+The Company also reported best percentage change in tumor size from baseline for 1L PDAC Combination Patients that received their first doses of daraxonrasib and GnP at least 18 weeks prior to the 1L Data Cutoff Date (“1L PDAC Combination Efficacy Evaluable Patients”) (Figure 5). The ORR for the 1L PDAC Combination Efficacy Evaluable Patients as of the 1L Data Cutoff Date was 55% (17 of 31) and the DCR was 90% (28 of 31).
+
+Figure 5. RMC-GI-102: Best percentage change in tumor size from baseline in patients with metastatic RAS-mutant PDAC treated in the 1L setting with 200 mg of daraxonrasib daily and gemcitabine at 1,000 mg/m2 with nab-Paclitaxel at 125mg/m2 every two weeks
+
+ 
+
+Median (range) follow-up is 6.9 (4.3, 9.7) months.
+
+ORR includes CRs and PRs that were confirmed or still had the potential to confirm. DCR includes CR, PR and SD.
+
+One patient included in the denominator for the ORR and DCR calculations is not displayed on the waterfall and is treated as a non-responder for purposes of the ORR and DCR calculations due to lack of post-baseline target lesion assessment.
+
+SOD is defined as sum of diameters.
+
+The Company believes these preliminary data observations from the RMC-6236 Study and RMC-GI-102 Study support the Company’s plans to initiate RASolute 303, a global, randomized Phase 3 trial in patients with 1L metastatic PDAC. The three-arm trial will evaluate daraxonrasib monotherapy and the combination of daraxonrasib plus GnP, compared to a control arm of GnP.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Any statements in this report that are not historical facts may be considered “forward-looking statements,” including, without limitation, statements regarding the Company’s belief that preliminary data observations from the RMC-6236-001 Study support the continued development of daraxonrasib in patients with RAS-mutant PDAC and preliminary data observations from the RMC-6236 Study and RMC-GI-102 Study as of the 1L Data Cutoff Date support the company’s plans to initiate RASolute 303, a global, randomized Phase 3 trial in patients with 1L metastatic PDAC; and the Company’s plans to initiate a global, randomized Phase 3 trial comparing daraxonrasib with and without GnP against a GnP monotherapy in patients with RAS-mutant PDAC in the 1L setting. Forward-looking statements are typically, but not always, identified by the use of words such as “may,” “will,” “would,” “believe,” “intend,” “plan,” “anticipate,” “estimate,” “expect,” and other similar terminology indicating future results. Such forward-looking statements are subject to substantial risks and uncertainties that could cause the Company’s development programs, future results, performance, or achievements to differ materially from those anticipated in the forward-looking statements. Such risks and uncertainties include, without limitation: risks and uncertainties inherent in the drug development process, in performing clinical studies, and in the process of designing and conducting clinical trials; risks that the results of prior clinical trials may not be predictive of future clinical trials, clinical efficacy, or other future results; the regulatory approval processes; the timing of regulatory filings; the challenges associated with manufacturing drug products; the Company’s ability to successfully establish, protect, and defend its intellectual property; other matters that could affect the sufficiency of the Company’s capital resources to fund operations; reliance on third parties for manufacturing and development efforts; changes in the competitive landscape impacting the Company; and the effects on the Company’s business of global events, such as international conflicts or global pandemics. For a further description of the risks and uncertainties that could cause actual results to differ from those anticipated in these forward-looking statements, as well as risks relating to the business of the Company in general, see the Company’s Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (“SEC”) on August 6, 2025, and its future periodic reports to be filed or furnished with the SEC. Except as required by law, the Company undertakes no obligation to update any forward-looking statements to reflect new information, events or circumstances, or to reflect the occurrence of unanticipated events.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+Date: September 10, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Mark A. Goldsmith
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mark A. Goldsmith, M.D., Ph.D.
+
+President and Chief Executive Officer

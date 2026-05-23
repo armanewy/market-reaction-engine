@@ -1,0 +1,315 @@
+adpt-8k_20220912.htm
+
+false
+0001478320
+
+0001478320
+
+2022-09-12
+2022-09-12
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 12, 2022
+
+ 
+
+ADAPTIVE BIOTECHNOLOGIES CORPORATION
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Washington
+
+001-38957
+
+27-0907024
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+1165 Eastlake Avenue East
+
+Seattle, Washington
+
+ 
+
+98109
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (206) 659-0067
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common stock, par value $0.0001 per share
+
+ 
+
+ADPT
+
+ 
+
+The NASDAQ Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01    
+
+Entry into a Material Definitive Agreement.
+
+ 
+
+Revenue Interest Purchase Agreement
+
+ 
+
+On September 12, 2022, Adaptive Biotechnologies Corporation (“Adaptive”) entered into a Revenue Interest Purchase Agreement (the “Purchase Agreement”) with OrbiMed Royalty & Credit Opportunities IV, LP (“OrbiMed”), an affiliate of OrbiMed Advisors LLC, as collateral agent and administrative agent for the purchasers party thereto (the “Purchasers”). Pursuant to the Purchase Agreement, the Purchasers have agreed to pay $125 million to Adaptive at closing, less certain transaction expenses. Adaptive will also be entitled to receive up to $125 million in subsequent installments as follows: (i) $75 million upon Adaptive’s request occurring no later than September 12, 2025 (the “Second Payment”) and (ii) $50 million upon Adaptive’s request in connection with certain permitted acquisitions occurring no later than September 12, 2025 (the “Third Payment”), in each case subject to certain funding conditions.
+
+ 
+
+Revenue Interest Payments
+
+ 
+
+As consideration for such payments, the Purchasers will have a right to receive certain revenue interests (the “Revenue Interests”) from Adaptive based on a percentage (the “Applicable Payment Percentage”) of all GAAP revenue (the “Revenue Base”). If only the First Payment has been made, the Applicable Payment Percentage shall be five percent of the quarterly Revenue Base.  If both the First Payment and Second Payment have been made, the Applicable Payment Percentage shall be eight percent of the quarterly Revenue Base.  If each of the First, Second and Third Payments have been made, the applicable payment percentage applied to the Revenue Interest shall be ten percent of the quarterly Revenue Base.  
+
+ 
+
+Payments in respect of the Revenue Interests shall be made quarterly within 45 days following the end of each fiscal quarter (each, a “Revenue Interest Payment”).  If OrbiMed has not received Revenue Interest Payments in the aggregate equal to or greater than the sum of its invested capital (the “Cumulative Purchaser Payments”) on or prior to September 12, 2028, the revenue interest rate shall be increased to a rate which, if applied retroactively to Adaptive’s cumulative Revenue Base, would have resulted in Revenue Interest Payments equal to the sum of all Cumulative Purchaser Payments.
+
+ 
+
+Return Cap
+
+ 
+
+OrbiMed will be entitled to 100% of the Revenue Interest Payments until it has received a total cumulative value of 165% of the Cumulative Purchaser Payments (the “Return Cap”), unless full repayment of the amount of the Return Cap has not been made by September 12, 2032, in which case the Return Cap shall be increased to 175% of the Cumulative Purchaser Payments.  
+
+ 
+
+Put/Call Options
+
+ 
+
+Upon the occurrence of a Put Option Event (as defined in the Purchase Agreement), including material divestitures by Adaptive, a change of control, material judgments, or bankruptcy events, Purchasers representing at least a majority of the purchase commitments under the Purchase Agreement shall have the right but not the obligation to require Adaptive to repurchase all of the outstanding Revenue Interests at the applicable price (the “Put/Call Price”).  Additionally, at any time following receipt of the First Payment, Adaptive may exercise a call option to repurchase all Revenue Interests at the applicable Put/Call Price.
+
+ 
+
+For all Put Option Events other than a change of control or a material divestiture, the Put/Call Price shall be an amount equal to the applicable Return Cap.  For a change of control or a material divestiture, prior to March 12, 2024, the Put/Call Price shall be an amount equal to 120% of the Cumulative Purchaser Payments less the sum of all Revenue Interest Payments made by Adaptive to the Purchasers prior to such date, between March 12, 2024 and September 12, 2024, the Put/Call Price shall be an amount equal to 125% of the Cumulative Purchaser Payments less the sum of all Revenue Interest Payments made by Adaptive to the Purchasers prior to such date, and after September 12, 2024, the Put/Call Price shall be equal to the applicable Return Cap.  
+
+ 
+
+In addition, the Purchase Agreement contains various representations and warranties, information rights, non-financial covenants, indemnification obligations and other provisions that are customary for a transaction of this nature. The closing of the transaction contemplated by the Purchase Agreement is subject to certain conditions that are customary for a transaction of this nature.
+
+ 
+
+The foregoing is a summary only and does not purport to be a complete description of all of the terms and provisions of the Purchase Agreement, and is subject to and qualified by reference to the full text of the Purchase Agreement, which has been filed as Exhibit 10.1 to this Current Report on Form 8-K.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 2.03    
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The information set forth under Item 1.01, “Entry into a Material Definitive Agreement,” is incorporated herein by reference.
+
+Item 8.01. Other Events.
+
+ 
+
+On September 12, 2022, the Company issued a press release announcing the entry into the Purchase Agreement. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+ 
+
+Description
+
+10.1
+
+ 
+
+Revenue Interest Purchase Agreement, made and entered into as of September 12, 2022, by and among Adaptive Biotechnologies Corporation, the Purchasers from time to time party hereto, and OrbiMed Royalty & Credit Opportunities IV, LP
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+ 
+
+Press Release dated September 12, 2022
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Adaptive Biotechnologies Corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: September 12, 2022
+
+ 
+
+By:
+
+/s/ Tycho Peterson
+
+ 
+
+ 
+
+ 
+
+Tycho Peterson
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

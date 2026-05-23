@@ -1,0 +1,682 @@
+EX-99.1
+2
+exhibit991-q0125.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Recursion Reports First Quarter 2025 Financial Results and Provides Business Update
+
+•Pipeline: Delivered on our commitment to a more focused R&D strategy by advancing a streamlined portfolio of 5+ clinical and preclinical programs in oncology and rare disease, while deprioritizing 3 clinical programs and 1 pre-clinical program following a strategic, data-driven review
+
+•Partnerships: Achieved fourth milestone in Sanofi collaboration, generating $7 million for an orally active small-molecule lead with best-in-class potential in autoimmune diseases
+
+•Platform and Operations: Implemented meaningful synergies and streamlined operations while maintaining capabilities, resulting in cash runway until mid 2027
+
+SALT LAKE CITY, May 5, 2025 (GLOBE NEWSWIRE) — Recursion (Nasdaq: RXRX), a leading clinical stage TechBio company decoding biology to radically improve lives, today reported business updates financial results for its first quarter ending March 31, 2025.
+
+Recursion will host a L(earnings) Call on May 5, 2025 at 8:00 am ET / 6:00 am MT / 1:00 pm BST from Recursion’s X (formerly Twitter), LinkedIn, and YouTube accounts giving analysts, investors, and the public the opportunity to ask questions of the company by submitting question here: https://forms.gle/ciFX2KbLfkAvh3Q87.
+
+"Recursion's decade-long investment in AI is driving a decisive, data-led portfolio strategy," said Chris Gibson, Co-Founder and CEO of Recursion. "We are prioritizing high-potential programs to accelerate better treatments to patients, building on our platform's unique ability to learn and lead this transformative shift in drug discovery. Our deep appreciation goes to the patients and investigators whose participation is invaluable on this journey."
+
+Summary of Business Highlights
+
+Pipeline Updates
+
+"Our portfolio evolution reflects Recursion’s commitment to advancing medicines in areas of high unmet need where we believe we can have the greatest impact," said Najat Khan, Chief R&D Officer and Chief Commercial Officer at Recursion. "As part of our business combination with Exscientia, we are proactively streamlining our portfolio, platform, and operations, making deliberate tradeoffs to focus resources on programs with the strongest scientific rationale and the highest potential for near- and long-term impact. Powered by the integrated Recursion OS platform, we are advancing a focused set of differentiated internal and partnered programs. Our approach is grounded in rigorous science and evidenced by the consistent delivery of key milestones with leading pharmaceutical and technology collaborators."
+
+•Preliminary Program Data:
+
+▪REC-4881 (MEK1/2): Preliminary data presented at DDW as a late-breaking oral presentation on May 4, 2025 from the ongoing Phase 1b/2 TUPELO study of REC-4881 in familial adenomatous polyposis (FAP):
+
+•In the Phase 2 open-label study, REC-4881 (4 mg QD) led to a preliminary median 43% reduction (n=6 patients) in polyp burden at the week 13 assessment at time of data cutoff.
+
+•Five of six patients (83%) experienced reductions in polyp burden ranging from 31% to 82%, however, one patient showed a substantial increase from baseline.
+
+•At Week 13, 50% of patients (3 out of 6) achieved ≥1-point improvement in Spigelman stage, a measure of upper GI disease severity.
+
+•The early safety profile of REC-4881 was generally consistent with that of prior MEK1/2 inhibitors; among 19 patients across Phase 1b and 2, most treatment-related adverse events were Grade 1 or 2, with Grade 3 events in 16% of patients and no Grade ≥4 TRAEs reported to date.
+
+▪REC-7735 (PI3Kα H1047R): Candidate profiling ongoing targeting PI3Kα H1047R mutant breast cancer; DC nomination expected 2H25:
+
+•Highly selective and structurally differentiated molecule to reduce dose-limiting hyperglycemia.
+
+•REC-7735 showed dose-dependent tumor regression in PI3Kα H1047R CDX models, with no elevation in insulin levels or hyperglycemia markers in wild-type mice, unlike standard-of-care PI3K inhibitors.
+
+•Demonstrated dose-dependent tumor regression in preclinical models, with low-dose REC-7735 outperforming high-dose capivasertib (AKT inhibitor) in efficacy and tolerability.
+
+▪REV102 (ENPP1): IND-enabling studies ongoing for hypophosphatasia (HPP) in development with Rallybio; Phase 1 initiation expected 2H26:
+
+•Highly selective and orally bioavailable molecule supports QD or BID dosing.
+
+•In vivo data in early-onset HPP model shows improved survival while treatment in late-onset HPP model improves bone defects.
+
+•Preliminary data supports first-in-class potential for adult-onset HPP.
+
+◦Additional Strategic Pipeline Programs
+
+▪Focus on highest value programs in core therapeutic areas (oncology and rare disease):
+
+•REC-617 (CDK7): Phase 1/2 ELUCIDATE study ongoing in advanced solid tumors; molecule designed to maximize therapeutic index; best-in-class potential.
+
+•REC-1245 (RBM39): Phase 1/2 DAHLIA study with dose-escalation ongoing for biomarker-selected solid tumors and R/R lymphomas; novel mechanism of action identified to modulate DDR; first-in-class potential.
+
+•REC-3565 (MALT1): Phase 1 EXCELERIZE study recently initiated for B cell malignancies; designed to avoid UGT1A1 on-target toxicity; best-in-class potential.
+
+•REC-4539 (LSD1): Precision designed for reversibility and CNS penetration in solid tumors (e.g.; SCLC); strategic pause to ensure a competitive Target Product Profile.
+
+•Continued focus on advancing additional discovery programs that meet key criteria.
+
+▪As part of this prioritization, the Company will discontinue development and/or pursue partnering opportunities for the following clinical programs:
+
+•REC-2282 (NF2): Totality of data supports the discontinuation of the study
+
+◦New findings: Phase 2 passed the futility threshold primarily driven by the 40mg cohort, however the 60mg and combined dose arms did not pass the futility criteria.
+
+◦Limited overall tumor shrinkage and clinical activity across all arms.
+
+•REC-994 (CCM): Totality of data supports the discontinuation of study
+
+◦Early data suggested potential promising trends in exploratory efficacy endpoints at 400mg (mean volume reduction, mRS), negative trends in efficacy at 200mg (data were not statistically significant).
+
+◦New findings: Long-term extension results showed no promising trends in MRI or functional outcomes in the placebo-to-400mg crossover, and the 400mg-to-400mg arm did not continue prior trends and was indistinguishable from natural history.
+
+•REC-3964 (C. difficile): The company will consider out-licensing opportunities
+
+◦Evolved treatment options result in low recurrence rates (~5%); thus limiting unmet need.
+
+◦Strategic decision to focus on other areas with greater unmet need.
+
+◦Upcoming milestones:
+
+▪REC-617 (CDK7): On track to initiate CDK7 combination studies in 1H25, additional monotherapy data expected in 2H25.
+
+▪REC-4881 (MEK1/2): Additional data in FAP from TUPELO expected in 2H25.
+
+▪REC-7735 (PI3Kα H1047R): preclinical studies ongoing with development candidate expected in 2H25.
+
+▪REC-1245 (RBM39): Early Phase 1 safety and PK monotherapy data expected in 1H26.
+
+▪REC-3565 (MALT1): Early Phase 1 safety and PK monotherapy data expected in 2H26.
+
+▪REV102 (ENPP1): Phase 1 initiation expected in 2H26.
+
+Partnerships Updates
+
+Recursion and Sanofi advanced their fourth partnered program through a significant discovery milestone. This milestone involved the Recursion OS identifying differentiated, orally active small molecule leads against a high-interest immune cell target. These leads exhibit potential best-in-class properties, addressing significant liabilities seen in other candidates. As a result of this milestone, Recursion has received a $7 million milestone payment with the potential for over $300 million in additional milestone payments for this program. In total, the partnership has generated $130 million of cash inflows (including an upfront payment) to Recursion to date.
+
+Recursion’s collaboration within Neuroscience and a GI Oncology Indication for Roche and Genentech continues to bring unbiased novel biological insights to potential programs. To date, the collaboration has built five phenomaps derived from a vast dataset of over one trillion iPSC-derived cells, one hundred billion GI Oncology relevant cells, alongside around 5,000 transcriptomes representing approximately 171 TB of data. Our approach continues to integrate high-throughput screens of genetics and small molecules with detailed cell measurements, informing our AI/ML models. Looking ahead, we are actively building additional maps and are focused on leveraging the Recursion OS and collaborating with Roche and Genentech to identify new novel programs that will fuel program advancement in both a GI Oncology indication and within Neuroscience.
+
+Platform Updates
+
+◦The platform is continuing to expand its ClinTech focus including high-quality, linked data assets, to industrialize clinical development, reduce costs, and accelerate the development of novel therapeutics. Updates include:
+
+▪Leveraging Tempus data across Recursion’s oncology programs to expand therapeutic areas, which the Company believes will enrich patient population subgroups, and help increase likelihood of response for oncology clinical programs.
+
+▪Signing an agreement with HealthVerity to integrate de-identified data for over 340 million covered lives within the US into Recursion OS, allowing for deeper insights into patient populations, enhanced trial design and feasibility assessments, as well as clinical operations workflows.
+
+◦The collaboration with Enamine, leveraging Recursion's massive data layer of predicted protein-small molecule interactions, resulted in the generation of enriched screening libraries to target 100 key and clinically relevant drug targets. The screening libraries are now available for purchase from Enamine.
+
+Financial and Corporate Updates
+
+“Recursion is stronger as a combined company, allowing us to not only deliver on operational goals more efficiently, but also be nimble in periods of uncertainty," stated Ben Taylor, CFO of
+
+Recursion and President Recursion UK. "We have been able to significantly lower costs without cutting important platform capabilities by decreasing overall capacity. We maintain the ability to restore capacity in the future to respond to market needs. This aligns closely with our fundamental goal of using AI and automation to make drug discovery more flexible, efficient and effective.”
+
+First Quarter 2025 Financial Results
+
+•Cash Position: Cash and cash equivalents and restricted cash were $509 million as of March 31, 2025 compared to $603 million as of December 31, 2024.
+
+•Revenue: Total revenue, consisting primarily of revenue from collaborative agreements, was $15 million for the first quarter of 2025, compared to $14 million for the first quarter of 2024 due to the timing of projects from the Company's Sanofi, Roche and Merck KGaA, Darmstadt, Germany collaborations.
+
+•Research and Development Expenses: Research and development expenses were $130 million for the first quarter of 2025, compared to $68 million for the first quarter of 2024. The increase was primarily driven by the Company's agreement with Tempus as well as our business combination with Exscientia in November 2024. This includes $27 million in non-cash expenses for use of Tempus’ patient-centric multimodal oncology data for Recursion programs.
+
+•General and Administrative Expenses: General and administrative expenses were $55 million for the first quarter of 2025, compared to $31 million for the first quarter of 2024. The increase compared to prior period was primarily due to the inclusion of G&A expenses from the business combination with Exscientia.
+
+•Net Loss: Net loss was $202.5 million for the first quarter of 2025, compared to a net loss of $91.4 million for the first quarter of 2024.
+
+•Net Cash: Net cash used in operating activities was $132 million for the first quarter of 2025, compared to net cash used in operating activities of $102 million for the first quarter of 2024. The difference was primarily driven by higher costs incurred for R&D and G&A due to the Company’s business combination with Exscientia, in addition to $16 million of one-time transaction related costs in the first quarter of 2025.
+
+Integration update and guidance
+
+•Operational teams have been functioning as consolidated groups since immediately after closing. Core integration plans are completed or on schedule across the company.
+
+•Expected cash burn* excluding partnering or financing inflows for 2025 of equal to or less than $450 million, excluding the benefit of potential cash inflows from existing or new partnerships. In 2024, the combined cash burn excluding partnering or financing inflows was approximately $606 million, including $203 million of change in cash from Exscientia prior to the business combination and $403 million from Recursion, excluding $49 million of respective partnership inflows.
+
+•1Q25 cash burn excluding partnering or financing inflows of approximately $118 million, excluding transaction related costs
+
+•Projected cash runway into mid 2027 based on current business plan.
+
+•Primary areas of combination synergies and operational savings beyond pipeline prioritization:
+
+◦Duplicated corporate expenses
+
+◦Reduction in capacity of drug discovery operations
+
+◦Utilization of broader platform capabilities to reduce project costs
+
+◦Increasing administrative efficiency
+
+◦Rationalization of facilities and office locations
+
+◦Greater purchasing power with vendors
+
+◦Spin-out of Austrian operations
+
+*Cash burn is a non-GAAP financial measure. See "Non-GAAP Financial Measures" below for additional information regarding cash burn and for a reconciliation of cash burn to net cash used in operating activities for historical periods, the most directly comparable GAAP financial measure. With respect to the expected cash burn for 2025, certain items that affect the calculation of the GAAP financial measure for net cash used by operating activities are not available on a forward-looking basis because such items cannot be reasonably calculated without unreasonable effort due to the unpredictability of the amounts and timing of events affecting the items we exclude from cash burn. Consequently, the Company is unable to provide a reconciliation of net cash used in operating activities to cash burn for the Company’s fiscal 2025 guidance.
+
+Expanded Board:
+
+•Namandjé Bumpus, Ph.D, and Elaine Sun have been appointed to Recursion’s Board of Directors, effective as of March 15th.
+
+•Dr. Bumpus brings deep experience in scientific innovation and regulatory strategy, while Elaine Sun adds extensive leadership in life sciences finance and corporate strategy.
+
+About Recursion
+
+Recursion (NASDAQ: RXRX) is a clinical stage TechBio company leading the space by decoding biology to radically improve lives. Enabling its mission is the Recursion OS, a platform built across diverse technologies that continuously generate one of the world’s largest proprietary biological and chemical datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale — up to millions of wet lab experiments weekly — and massive computational scale — owning and operating one of the most powerful supercomputers in the world, Recursion is uniting technology, biology and chemistry to advance the future of medicine.
+
+Recursion is headquartered in Salt Lake City, where it is a founding member of BioHive, the Utah life sciences industry collective. Recursion also has offices in Toronto, Montréal, New York, London, Oxford area, and the San Francisco Bay area. Learn more at www.Recursion.com, or connect on X (formerly Twitter) and LinkedIn.
+
+Media Contact
+
+Media@Recursion.com
+
+Investor Contact
+
+Investor@Recursion.com
+
+Recursion Pharmaceuticals, Inc.
+
+Condensed Consolidated Statements of Operations (unaudited)
+
+(in thousands, except share and per share amounts)
+
+Three months ended March 31,
+
+2025
+
+2024
+
+Revenue
+
+Operating revenue
+
+$
+
+14,818 
+
+$
+
+13,491 
+
+Grant revenue
+
+(73)
+
+303 
+
+Total revenue
+
+14,745 
+
+13,794 
+
+Operating costs and expenses
+
+Cost of revenue
+
+21,829 
+
+11,166 
+
+Research and development
+
+129,634 
+
+67,560 
+
+General and administrative
+
+54,650 
+
+31,408 
+
+Total operating costs and expenses
+
+206,113 
+
+110,134 
+
+Loss from operations
+
+(191,368)
+
+(96,340)
+
+Other income (loss), net
+
+(11,277)
+
+4,188 
+
+Loss before income tax benefit
+
+(202,645)
+
+(92,152)
+
+Income tax benefit
+
+158 
+
+779 
+
+Net loss
+
+$
+
+(202,487)
+
+$
+
+(91,373)
+
+Per share data
+
+Net loss per share of Class A, B and Exchangeable common stock, basic and diluted
+
+$
+
+(0.50)
+
+$
+
+(0.39)
+
+Weighted-average shares (Class A, B and Exchangeable) outstanding, basic and diluted
+
+402,771,972 
+
+236,019,349 
+
+Recursion Pharmaceuticals, Inc.
+
+Condensed Consolidated Balance Sheets (unaudited)
+
+(in thousands)
+
+ 
+
+March 31,
+
+December 31,
+
+ 
+
+2025
+
+2024
+
+Assets
+
+ 
+
+ 
+
+Current assets
+
+ 
+
+ 
+
+Cash and cash equivalents
+
+$
+
+500,453 
+
+$
+
+594,350 
+
+Restricted cash
+
+3,075 
+
+3,045 
+
+Other receivables
+
+46,124 
+
+49,166 
+
+Prepaid data assets
+
+2,470 
+
+29,601 
+
+Other current assets
+
+32,023 
+
+38,107 
+
+Total current assets
+
+584,145 
+
+714,269 
+
+Restricted cash, non-current
+
+5,629 
+
+5,629 
+
+Property and equipment, net
+
+126,834 
+
+141,063 
+
+Operating lease right-of-use assets
+
+53,186 
+
+65,877 
+
+Financing lease right-of-use assets
+
+24,757 
+
+26,273 
+
+Intangible assets, net
+
+335,790 
+
+335,855 
+
+Goodwill
+
+158,112 
+
+148,873 
+
+Deferred tax assets
+
+2,003 
+
+1,934 
+
+Other assets, non-current
+
+14,778 
+
+8,825 
+
+Total assets
+
+$
+
+1,305,234 
+
+$
+
+1,448,598 
+
+Liabilities and stockholders’ equity
+
+Current liabilities
+
+Accounts payable
+
+$
+
+25,086 
+
+$
+
+21,613 
+
+Accrued expenses and other liabilities
+
+56,804 
+
+81,872 
+
+Unearned revenue
+
+39,651 
+
+61,767 
+
+Operating lease liabilities
+
+11,853 
+
+13,795 
+
+Notes payable and financing lease liabilities
+
+8,587 
+
+8,425 
+
+Total current liabilities
+
+141,981 
+
+187,472 
+
+Unearned revenue, non-current
+
+129,609 
+
+118,765 
+
+Operating lease liabilities, non-current
+
+56,024 
+
+67,250 
+
+Notes payable and financing lease liabilities, non-current
+
+16,446 
+
+19,022 
+
+Deferred tax liabilities
+
+22,437 
+
+16,575 
+
+Other liabilities, non-current
+
+4,790 
+
+4,732 
+
+Total liabilities
+
+371,287 
+
+413,816 
+
+Commitments and contingencies
+
+Stockholders’ equity
+
+Common stock (Class A, B and Exchangeable)
+
+4 
+
+4 
+
+Additional paid-in capital
+
+2,553,492 
+
+2,473,698 
+
+Accumulated deficit
+
+(1,633,694)
+
+(1,431,283)
+
+Accumulated other comprehensive loss
+
+14,145 
+
+(7,637)
+
+Total stockholders’ equity
+
+933,947 
+
+1,034,782 
+
+Total liabilities and stockholders’ equity
+
+$
+
+1,305,234 
+
+$
+
+1,448,598 
+
+Non-GAAP Financial Measures
+
+To supplement our financial statements prepared in accordance with U. S. GAAP, we monitor and consider cash burn, which is a non-GAAP financial measure. We define cash burn as the
+
+net cash used in operating activities, excluding non-ordinary course transaction costs, plus partnership cash inflows and purchases of property and equipment. This non-GAAP financial measure is not based on any standardized methodology prescribed by U.S. GAAP and is not necessarily comparable to similarly-titled measures presented by other companies. We believe cash burn to be a liquidity measure that provides useful information to management and investors about the amount of cash consumed by the operations of the business, including our purchases of property and equipment. A limitation of using this non-U.S. GAAP measure is that cash burn does not represent the total change in cash and cash equivalents for the period because it excludes cash provided by or used for other investing and financing activities. We account for this limitation by providing information about our capital expenditures and other investing and financing activities in the statements of cash flows in our financial statements and by presenting cash flows from investing and financing activities in our reconciliation of cash burn. In addition, it is important to note that other companies, including companies in our industry, may not use cash burn, may calculate cash burn in a different manner than we do or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of cash burn as a comparative measure. Because of these limitations, cash burn should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with U.S. GAAP. The reconciliation of cash burn to net cash used in operating activities and cash and cash equivalents is provided in the tables below (in millions of dollars):
+
+Cash burn - 1Q 25
+
+(in millions)
+
+Recursion net cash used in operating activities
+
+132
+
+*
+
+Subtract: transaction costs
+
+(16)
+
+Add: purchases of property and equipment
+
+2
+
+*
+
+Cash burn - 1Q 25
+
+118
+
+*: This is from Recursion inc Condensed Consolidated Statement of Cash Flows for the three months ended March 31, 2025
+
+Cash burn - 2024
+
+(in millions)
+
+Exscientia change in cash, cash equivalents and bank deposits
+
+$
+
+184 
+
+&
+
+Recursion net cash used in operating activities
+
+359 
+
+*
+
+Add: partnership cash inflows
+
+49
+
+Add: purchases of property and equipment
+
+14
+
+*
+
+Cash burn - 2024
+
+$
+
+606 
+
+&: See below table for the calculation of this amount
+
+*: This is from Recursion inc Consolidated Statement of Cash Flows for the year ended December 31, 2024
+
+Cash, cash equivalents and bank deposits - Exscientia
+
+(in millions)
+
+November 20, 2024
+
+December 31, 2023
+
+Change
+
+Cash and cash equivalents
+
+$
+
+277 
+
+£
+
+259 
+
+Short term bank deposits
+
+— 
+
+104
+
+Total - GBP
+
+N/A
+
+£
+
+363 
+
+GDP to USD rate
+
+N/A
+
+1.27
+
+Total USD
+
+$
+
+277 
+
+$
+
+461 
+
+$
+
+(184)
+
+Forward-Looking Statements
+
+This document contains information that includes or is based upon “forward-looking statements” within the meaning of the Securities Litigation Reform Act of 1995, including, without limitation, those regarding Recursion’s cash position, cash burn and cash runway; the potential to deliver effective therapies to patients in high-need areas; Recursion’s ability to demonstrate the potential of technology-driven approaches to increase speed, quality and the scalability of drug discovery; the potential outlook for programs being prioritized and deprioritized; Recursion's future as a leader in TechBio and ability to deliver better treatments to patients faster; the completion of core integration plans and the results of the business combination with Exscientia; expectations relating to early and late stage discovery, preclinical, and clinical programs, including timelines for commencement of and enrollment in studies, data readouts, and progression toward IND-enabling studies; expectations and developments with respect to licenses and collaborations, including option exercises by partners and additional partnerships, the value of data generated for the Roche-Genentech partnership, the value of data from new partnerships, and the promising future of partnership programs, the acceleration of progress across multiple partnered programs; prospective products and their potential future indications and market opportunities; developments with Recursion OS and other technologies; business and financial plans and performance; and all other statements that are not historical facts. Forward-looking statements may or may not include identifying words such as “plan,” “will,” “expect,” “anticipate,” “intend,” “believe,” “potential,” “continue,” and similar terms. These statements are subject to known or unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements, including but not limited to: challenges inherent in pharmaceutical research and development, including the timing and results of preclinical and clinical programs, where the risk of failure is high and failure can occur at any stage prior to or after regulatory approval due to lack of sufficient efficacy, safety considerations, or other factors; our ability to leverage and enhance our drug discovery platform; our ability to obtain financing for development activities and other corporate purposes; the success of our collaboration activities; our ability to obtain regulatory approval of, and ultimately commercialize, drug candidates; our ability to obtain, maintain, and enforce intellectual property protections; cyberattacks or other disruptions to our technology systems; our ability to attract, motivate, and retain key employees and manage our growth; inflation and other macroeconomic issues; and other risks and uncertainties such as those described under the heading “Risk Factors” in our filings with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. All forward-looking statements are based on management’s current estimates, projections, and assumptions, and Recursion undertakes no obligation to correct or update any such statements, whether as a result of new information, future developments, or otherwise, except to the extent required by applicable law.

@@ -1,0 +1,146 @@
+edit-20250514
+0001650664FALSE00016506642025-05-142025-05-14
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+_________________________________________________________________________________________
+
+FORM 8-K
+
+_________________________________________________________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 14, 2025
+
+_________________________________________________________________________________________
+
+Editas Medicine, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+_________________________________________________________________________________________
+
+Delaware
+
+001-37687
+
+46-4097528
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+11 Hurley Street
+
+Cambridge,
+
+Massachusetts
+
+02141
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617) 401-9000
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________________________________________________________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.0001 par value per share
+
+EDIT
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01    Regulation FD Disclosure.
+
+On May 14, 2025, Editas Medicine, Inc. (the “Company”) issued a press releases titled “Editas Medicine Reports New In Vivo Data Highlighting the Potential of Editas’ Gene Upregulation Strategy in HSCs at the American Society of Gene and Cell Therapy Annual Meeting,” a copy of which is furnished as Exhibit 99.1 hereto.
+
+The information in this Item 7.01, including Exhibit 99.1 attached hereto, is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 8.01 Other Events.
+
+On May 14, 2025, the Company announced new in vivo data demonstrating therapeutically relevant levels of HBG1/2 promoter editing in hematopoietic stem cells (“HSCs”) with a single dose of proprietary targeted lipid nanoparticle (“tLNP”) in humanized mice and non-human primates (“NHPs”).
+
+In these studies, the Company’s proprietary tLNP formulation delivered HBG1/2 promoter editing cargo to hematopoietic stem and progenitor cells and/or HSCs in humanized mice (mice engrafted with human CD34+ cells) and in NHPs. In an ongoing NHP study, administration of a single intravenous dose of the Company’s proprietary tLNP demonstrated high efficiency HSC delivery and achieved up to 47% HBG1/2 editing levels. In a study with humanized mice, administration of a single dose achieved 48% editing of HBG1/2 in long-term HSCs. Both studies exceeded the predicted editing threshold of ≥25% required for therapeutic benefit. In addition to achieving therapeutically relevant editing levels, preliminary biodistribution data in NHPs with the Company’s tLNP shows significant de-targeting of the liver in contrast to standard LNPs.
+
+Item 9.01    Financial Statements and Exhibits.
+
+(d)Exhibits
+
+Exhibit
+
+No.
+
+Description
+
+99.1
+
+Press release issued by the Company on May 14, 2025*
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+*This exhibit shall be deemed to be furnished and not filed.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+EDITAS MEDICINE, INC.
+
+Date: May 14, 2025
+
+By:
+
+/s/ Amy Parison
+
+Amy Parison
+
+Chief Financial Officer

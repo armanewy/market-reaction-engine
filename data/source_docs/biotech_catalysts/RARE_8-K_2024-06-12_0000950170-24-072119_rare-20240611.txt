@@ -1,0 +1,211 @@
+8-K
+
+0001515673false00015156732024-06-112024-06-11
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 11, 2024
+
+ 
+
+ 
+
+Ultragenyx Pharmaceutical Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+001-36276
+
+27-2546083
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60 Leveroni Court
+
+ 
+
+Novato, California
+
+ 
+
+94949
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 415 483-8800
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+RARE
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On June 11, 2024, Ultragenyx Pharmaceutical Inc. (the “Company”), together with its collaboration partner, Mereo BioPharma Group plc, announced positive 14-month results from the Phase 2 portion of the ongoing Phase 2/3 Orbit study (NCT05125809) demonstrating that, as of a May 24, 2024 data cut-off date, treatment with setrusumab (UX143) continued to significantly reduce incidence of fractures in patients with osteogenesis imperfecta (“OI”) with at least 14 months of follow-up. Treatment with setrusumab also resulted in ongoing and meaningful improvements in lumbar spine bone mineral density (“BMD”) at month 12 without evidence of plateau.
+
+The large reduction in annualized radiologically confirmed fracture rate previously reported in patients treated for a minimum of six months was sustained in patients treated for at least 14 months with a high degree of significance. The median annualized rate of radiologically confirmed fractures across all 24 patients in the two years prior to treatment was 0.72. Following a mean treatment duration period of 16 months, the median annualized fracture rate was reduced 67% to 0.00 (p=0.0014; n=24). The annualized fracture rate excluded morphometric vertebral fractures and fractures of the fingers, toes, skull, and face, consistent with the Phase 3 study primary efficacy endpoint.
+
+The reduction in annualized fracture rates was associated with continued, clinically meaningful increases in BMD. Tests conducted at the 12-month timepoint demonstrated that treatment with setrusumab resulted in a mean increase in lumbar spine BMD from baseline of 22% (p<0.0001, n=19) across all age groups (five to < 26 years old), a further improvement from 14% observed at six months of treatment. This increase in BMD is reflected in the change from the mean baseline lumbar spine BMD Z-score of -1.73 to -0.49 at 12 months across all age groups, a substantial normalization in Z-score of +1.25 (p<0.0001, n=18). This is further improved from the mean six-month Z-score change of +0.85. The improvements in BMD and Z-scores were significant and consistent across all OI sub-types studied.
+
+As of the data cut-off, there were no treatment-related serious adverse events observed in the study. Reported adverse events were generally consistent with those observed in the Asteroid study with infusion-related events and headache determined to be the most common adverse events related to the study drug. As of the data cut-off, there were no reported hypersensitivity reactions related to setrusumab.
+
+More detailed 14-month data will be presented at a future scientific meeting.
+
+About the Setrusumab Phase 3 Program
+
+The Company is developing setrusumab in pediatric and young adult patients across OI sub-types I, III and IV with two late-stage trials: the pivotal Phase 2/3 Orbit study and Phase 3 Cosmic study.
+
+The global, seamless Phase 2/3 Orbit study is evaluating the effect of setrusumab on clinical fracture rate in patients aged five to 25 years. In the Phase 2 portion, 24 patients were randomized 1:1 to receive setrusumab at one of two doses to determine the optimal dosing strategy for Phase 3. All patients from the 40 mg/kg dosing cohort have been transitioned to 20 mg/kg of setrusumab.
+
+The pivotal Phase 3 portion of the study has enrolled an additional 158 patients at 45 sites across 11 countries, with subjects randomized 2:1 to receive setrusumab or placebo, and a primary efficacy endpoint of annualized clinical fracture rate. All patients will transition to an extension period and receive open-label setrusumab after the Phase 3 primary analysis is complete.
+
+The global Phase 3 Cosmic study is an open-label, randomized, active-controlled study in patients aged 2 to <7 years. Patients are randomized 1:1 to receive setrusumab or intravenous bisphosphonates (IV-BP) therapy to evaluate reduction in total fracture rate. The Cosmic study has enrolled 69 patients at 21 sites across seven countries.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may be identified by the use of words such as, but not limited to, “anticipates,” “continue,” “will,” or other similar terms or expressions that concern the Company’s expectations, plans and intentions. Forward-looking statements include, without limitation, statements regarding the clinical benefit, tolerability and safety of UX143 and the corresponding impact on patients and the timing for future data reporting. Such forward-looking statements involve substantial risks and uncertainties that could cause the Company’s clinical development programs, collaboration with third parties, future results, performance or achievements to differ significantly from those expressed or implied by the forward-looking statements. Such risks and uncertainties include, among others, the uncertainty of clinical drug development and unpredictability and lengthy process for obtaining regulatory approvals, the ability of the Company to successfully develop UX143, the Company’s ability to achieve its projected development goals in its expected timeframes, the risk that results from earlier studies may not be predictive of future study results, risks related to adverse side effects, risks related to reliance on third party partners to conduct certain activities on the
+
+ 
+
+ 
+
+Company’s behalf, the potential for any license or collaboration agreement, including the company’s collaboration agreement with Mereo to be terminated, smaller than anticipated market opportunities for the Company’s products and product candidates, manufacturing risks, competition from other therapies or products, and other matters that could affect the sufficiency of existing cash, cash equivalents and short-term investments to fund operations, the Company’s future operating results and financial performance, the timing of clinical trial activities and reporting results from same, and the availability or commercial potential of the Company’s products and drug candidates. The Company undertakes no obligation to update or revise any forward-looking statements. For a further description of the risks and uncertainties that could cause actual results to differ from those expressed in these forward-looking statements, as well as risks relating to the business of the Company in general, see the Company's Annual Report on Form 10-K filed with the Securities and Exchange Commission (SEC) on February 21, 2024, and its subsequent periodic reports filed with the SEC.
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Ultragenyx Pharmaceutical Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+June 11, 2024
+
+By:
+
+/s/ Howard Horn
+
+ 
+
+ 
+
+ 
+
+Howard Horn
+
+Executive Vice President, Chief Financial Officer, Corporate Strategy

@@ -1,0 +1,152 @@
+EDGAR Filing Documents for 0001193125-25-204991
+
+SEC.gov
+
+EDGAR
+
+Latest Filings
+
+Filings search tools
+
+Filing Detail
+
+SEC Home »
+
+Company Search »
+
+Current Page
+
+Form 8-K - Current report:
+
+SEC Accession No. 0001193125-25-204991
+
+Filing Date
+
+2025-09-16
+
+Accepted
+
+2025-09-16 16:08:47
+
+Documents
+
+12
+
+Period of Report
+
+2025-09-15
+
+Items
+
+Item 8.01: Other Events
+
+ Interactive Data
+
+Document Format Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+1
+
+8-K
+
+d66361d8k.htm   iXBRL
+
+8-K
+
+27600
+
+ 
+
+Complete submission text file
+
+0001193125-25-204991.txt
+
+ 
+
+138830
+
+Data Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+2
+
+XBRL TAXONOMY EXTENSION SCHEMA
+
+cytk-20250915.xsd
+
+EX-101.SCH
+
+2852
+
+3
+
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+cytk-20250915_lab.xml
+
+EX-101.LAB
+
+17234
+
+4
+
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+cytk-20250915_pre.xml
+
+EX-101.PRE
+
+10813
+
+15
+
+EXTRACTED XBRL INSTANCE DOCUMENT
+
+d66361d8k_htm.xml
+
+XML
+
+3538
+
+Mailing Address
+350 OYSTER POINT BOULEVARD
+
+SOUTH SAN FRANCISCO CA
+94080
+
+Business Address
+350 OYSTER POINT BOULEVARD
+.
+
+SOUTH SAN FRANCISCO CA
+94080
+(650) 624-3000
+
+CYTOKINETICS INC (Filer)
+CIK: 0001061983 (see all company filings)
+
+EIN.: 943291317 | Fiscal Year End: 1231
+
+Type: 8-K | Act: 34 | File No.: 000-50633 | Film No.: 251317410
+
+SIC: 2834 Pharmaceutical Preparations
+
+(CF Office: 03 Life Sciences)

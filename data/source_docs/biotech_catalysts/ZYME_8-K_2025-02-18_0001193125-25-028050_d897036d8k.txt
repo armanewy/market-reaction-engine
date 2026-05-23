@@ -1,0 +1,363 @@
+8-K
+
+false 0001937653 0001937653 2025-02-17 2025-02-17
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 17, 2025
+
+ 
+
+ 
+
+Zymeworks Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-41535
+
+ 
+
+88-3099146
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+108 Patriot Drive, Suite A
+
+Middletown, Delaware
+
+ 
+
+19709
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(302) 274-8744
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+ZYME
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Director Appointment
+
+On February 17, 2025, the board of directors (the “Board”) of Zymeworks Inc. (the “Company”), upon recommendation from the nominating and corporate governance committee of the Board (the “Nominating Committee”), appointed Mr. Oleg Nodelman, Founder and Portfolio Manager of EcoR1 (as defined below), as a director of the Company, effective as of February 17, 2025. Mr. Nodelman was appointed as a Class II director with a term expiring at the Company’s 2026 annual general meeting of stockholders. Mr. Nodelman was named to the Nominating Committee of the Board in connection with his appointment effective as of February 17, 2025.
+
+As previously disclosed in Current Reports on Form 8-K filed with the Securities and Exchange Commission (“SEC”) on December 26, 2023 and February 22, 2024, and described below, the Company previously entered into a securities purchase agreement (the “Purchase Agreement”), with certain institutional accredited investors affiliated with EcoR1 Capital, LLC (collectively, “EcoR1”). In connection with the entry into the Purchase Agreement, the Company and EcoR1 agreed that EcoR1 would have the right to nominate one of its partners as a member of the Company’s Board, with such nomination right terminating upon the earliest of the effective date of such appointment and January 1, 2026. Pursuant to this nomination right, Mr. Scott Platshon, Partner at EcoR1, was designated by EcoR1 as its nominee for the Board’s consideration for appointment to the Board and, on February 22, 2024, the Board appointed Mr. Platshon as a member of the Board. Mr. Nodelman’s appointment to the Board was not made pursuant to the terms of the Purchase Agreement or the transactions contemplated thereby, including the nomination right previously exercised by EcoR1 with respect to Mr. Platshon.
+
+Except as described below under the section of this Item 5.02 titled “2023 Purchase Agreement Transactions”, there are no transactions and no proposed transactions between Mr. Nodelman or any member of his immediate family and the Company or its subsidiaries that would require disclosure under Item 404(a) of Regulation S-K under the Securities Act of 1933, as amended, and there is no other arrangement or understanding between Mr. Nodelman and any other person or entity pursuant to which Mr. Nodelman was appointed as a director of the Company.
+
+Mr. Nodelman will also enter into the Company’s standard form of indemnification agreement for directors and executive officers. In connection with his appointment, Mr. Nodelman waived his entitlement to cash and equity compensation otherwise payable to him pursuant to the Company’s non-employee director compensation policy.
+
+2023 Purchase Agreement Transactions
+
+Pursuant to the Purchase Agreement dated December 23, 2023, EcoR1 agreed to purchase 5,086,521 pre-funded warrants (the “Pre-Funded Warrants”) to purchase 5,086,521 shares of common stock, $0.00001 par value per share, of the Company (“Common Stock”). The per share purchase price for the Pre-Funded Warrants was $9.8299, for an aggregate purchase price of approximately $50 million. The closing of the purchase and sale of the Pre-Funded Warrants occurred on December 28, 2023 (the “Closing Date”).
+
+The Pre-Funded Warrants are exercisable at an exercise price equal to $0.0001 per share, subject to adjustments as provided under the terms of the Pre-Funded Warrants. The Pre-Funded Warrants are exercisable at any time, except that the Pre-Funded Warrants cannot be exercised if, after giving effect or immediately prior to such exercise, EcoR1, together with its affiliates and any other persons whose beneficial ownership of shares of Common Stock would be aggregated with EcoR1 for purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended, would beneficially own more than 19.99% (the “Maximum Percentage”) of the total number of issued and outstanding shares of Common Stock or voting power of the Company following such exercise. The Maximum Percentage may be increased or decreased by EcoR1 with 61 days’ written notice to the Company; provided, however, that such percentage may in no event exceed 19.99%.
+
+The Company also entered into a registration rights agreement (the “Registration Rights Agreement”) with EcoR1 on December 23, 2023, requiring the Company to register the resale of the shares of Common Stock issuable upon exercise of the Pre-Funded Warrants (the “Registrable Securities”). Under the Registration Rights Agreement, the Company agreed to file a registration statement covering the resale by EcoR1 of the Registrable Securities upon the earlier of March 15, 2024 and the first business day following the date that the Company files it Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the “Filing Deadline”). Pursuant to the Registration Rights Agreement, the Company filed an automatically effective Form S-3ASR (File No. 333-277751) with the SEC on March 7, 2024.
+
+Pursuant to the terms of the Registration Rights Agreement, the Company agreed to keep such registration statement effective for a period that will terminate upon the earliest of (i) the date that all Registrable Securities covered by such registration statement or final prospectus, as applicable, have been sold, (ii) the date that all Registrable Securities covered by such registration statement or final prospectus, as applicable, may be sold without the requirement for the Company to be in compliance with the current public information
+
+ 
+
+2
+
+required under Rule 144 as to such Registrable Securities and without volume or manner-of-sale restrictions and (iii) two (2) years after the date of the Purchase Agreement. The Company agreed to be responsible for all reasonable expenses in connection with the filing of any registration statement or final prospectus, as applicable. For the avoidance of doubt, the fees and expenses of EcoR1’s counsel shall be the responsibility of EcoR1, and not the Company.
+
+In the event that after the registration statement or final prospectus, as applicable, has been declared effective by the SEC, sales cannot be made pursuant to the registration statement or final prospectus, as applicable, for any reason, subject to certain limited exceptions, then the Company has agreed to make pro rata payments to EcoR1 as liquidated damages and not as a penalty, in an amount equal to one percent (1%) of the aggregate purchase price paid by EcoR1 pursuant to the Purchase Agreement for any shares of Common Stock held by EcoR1 pursuant to the exercise of Pre-Funded Warrants but not for any unissued shares of Common Stock issuable upon exercise of the Pre-Funded Warrants for each 30-day period or pro rata for any portion thereof during which such registration statement or final prospectus, as applicable, is unavailable, as applicable. Payment of such liquidated damages shall be EcoR1’s exclusive remedy for such events. In addition, (i) the aggregate amount of liquidated damages payable to EcoR1 shall not exceed, in the aggregate, six percent (6%) of the aggregate purchase price paid by EcoR1 and (ii) the Company shall not be liable in any thirty (30) day period for liquidated damages in excess of one percent (1%) of the aggregate purchase price paid by EcoR1. The Company also granted EcoR1 customary indemnification rights in connection with the registration statement. EcoR1 also granted the Company customary indemnification rights in connection with the registration statement.
+
+A press release announcing Mr. Nodelman’s appointment to the Board is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On February 17, 2025, the Board appointed Mr. Platshon, a current member of the Board, as a member of the Compensation Committee of the Board (the “Compensation Committee”) effective as of February 17, 2025. Following Mr. Nodelman’s appointment to the Nominating Committee and Mr. Platshon’s appointment to the Compensation Committee, the composition of the Board’s committees is as follows:
+
+ 
+
+Audit Committee
+
+ 
+
+Compensation Committee
+
+ 
+
+Nominating and Corporate
+
+Governance Committee
+
+ 
+
+Research and Development
+
+Committee
+
+Carlos Campoy (Chair)
+
+ 
+
+Susan Mahony (Chair)
+
+ 
+
+Derek Miller (Chair)
+
+ 
+
+Kelvin Neu (Chair)
+
+Troy M. Cox
+
+ 
+
+Nancy Davidson
+
+ 
+
+Carlos Campoy
+
+ 
+
+Alessandra Cesano
+
+Derek Miller
+
+ 
+
+Neil Gallagher
+
+ 
+
+Alessandra Cesano
+
+ 
+
+Nancy Davidson
+
+ 
+
+Scott Platshon
+
+ 
+
+Oleg Nodelman
+
+ 
+
+Neil Gallagher
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release dated February 18, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded as Inline XBRL document).
+
+ 
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ZYMEWORKS INC.
+
+ 
+
+ 
+
+(Registrant)
+
+Date: February 18, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Kenneth Galbraith
+
+ 
+
+ 
+
+Name:
+
+Title:
+
+ 
+
+Kenneth Galbraith
+
+Chair, President and Chief Executive Officer
+
+ 
+
+4

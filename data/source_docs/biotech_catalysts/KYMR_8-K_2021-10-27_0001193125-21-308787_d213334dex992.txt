@@ -1,0 +1,124 @@
+EX-99.2
+3
+d213334dex992.htm
+EX-99.2
+
+EX-99.2
+
+Exhibit 99.2 Safety, PK and PD from Single Ascending Dose Portion of
+KT-474 Phase 1 Trial in Healthy Volunteers Jared Gollob, M.D. - Chief Medical Officer th 4 Annual TPD Summit, Keynote Plenary Session October 27, 2021
+
+Forward-Looking Statements This presentation contains forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995 (PSLRA) and other federal securities laws. These statements include information about our current and future prospects and our operations and financial results,
+which are based on currently available information. All statements other than statements of historical facts contained in this presentation, including express or implied statements regarding our strategy, future financial condition, future
+operations, projected costs, prospects, plans, objectives of management and expected market growth, are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as ‘‘aim,’’
+‘‘anticipate,’’ ‘‘assume,’’ ‘‘believe,’’ ‘‘contemplate,’’ ‘‘continue,’’ ‘‘could,’’
+‘‘design,’’ ‘‘due,’’ ‘‘estimate,’’ ‘‘expect,’’ ‘‘goal,’’ ‘‘intend,’’ ‘‘may,’’
+‘‘objective,’’ ‘‘plan,’’ ‘‘predict,’’ ‘‘positioned,’’ ‘‘potential,’’ ‘‘seek,’’
+‘‘should,’’ ‘‘target,’’ ‘‘will,’’ ‘‘would’’ and other similar expressions that are predictions of or indicate future events and future trends, or the
+negative of these terms or other comparable terminology. These forward-looking statements include statements about the initiation, timing, progress and results of our future clinical trials and current and future preclinical studies of our product
+candidates and of our research and development programs; our plans to develop and commercialize our current product candidates and any future product candidates and the implementation of our business model and strategic plans for our business,
+current product candidates and any future product candidates. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements.
+You should not rely upon forward-looking statements as predictions of future events. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements we make. We undertake no
+obligation to update or revise any forward-looking statements, whether as a result of new information, the occurrence of certain events or otherwise. As a result of these risks and others, including those set forth in our most recent and future
+filings with the Securities and Exchange Commission, actual results could vary significantly from those anticipated in this presentation, and our financial condition and results of operations could be materially adversely affected. This presentation
+contains trademarks, trade names and service marks of other companies, which are the property of their respective owners. Certain information contained in this presentation and statements made orally during this presentation relate to or is based on
+studies, publications, surveys and other data obtained from third-party sources and the Company’s own internal estimates and research. While the Company believes these third-party studies, publications, surveys and other data to be reliable as
+of the date of the presentation, it has not independently verified, and makes no representation as to the adequacy, fairness, accuracy or completeness of, any information obtained from third-party sources. In addition, no independent sources has
+evaluated the reasonableness or accuracy of the Company’s internal estimates or research and no reliance should be made on any information or statements made in this presentation relating to or based on such internal estimates and research.
+©2021 KYMERA THERAPEUTICS, INC. PAGE 2
+
+Kymera’s Pipeline of Novel Protein Degraders Discovery
+Pre-Clinical Phases 1-3 1 Pathway Program Indication(s) Discovery Preclinical Phase 1 Phases 2/3 Next Milestone Rights 2 KT-474 POB: 4Q21 Atopic Dermatitis, Hidradenitis Suppurativa, IRAK4 Rheumatoid Arthritis, others 2 Next Gen. IL-1R/TLR IRAKIMiD
+MT MYD88 DLBCL KT-413 Ph1: 2H21 (IRAK4, Ikaros, Aiolos) STAT3 Liquid & Solid Tumors KT-333 Ph1: 4Q21 JAK/STAT Autoimmune & STAT3 Fibrotic Diseases Multiple programs in immune-inflammatory and Several Discovery Programs genetically-defined
+oncology indications Discovery Research and development of degraders against 1 Undisclosed Program a second undisclosed target with Sanofi Pipeline 6 targets in 5 disease areas outside of 6 Undisclosed Programs immunology-inflammation and oncology
+1. Option to participate equally in the development and commercialization of Sanofi-partnered programs in the US. = Oncology = Immunology-Inflammation 2. Sanofi collaboration to develop IRAK4 degrader candidates, including KT-474 (SAR444656),
+outside of oncology and immuno-oncology fields. ©2021 KYMERA THERAPEUTICS, INC. PAGE 3
+
+IRAK4 Targeting: Degrader Advantage, Clinical Validation, and Human
+Genetics De-risking Degrader Advantage IL-1R/TLR Pathway secreted Inhibitor IL-1a/β, IL-18, signaling TNF-α, IFN-γ, IRAK4 IL-33, IL-36 IL-1β, IL-6, Scaffolding Kinase IL-8, IL-10, Role Role IL-12, IL-17, IL-23 TLRs NFkB JNK/p38
+IRF5/7 (TLR 2,4,5,7,8,9) IL-1R Degrader Clinical Pathway Validation IL-1a/IL-1β : Rheumatoid Arthritis, CAPS, Hidradenitis Suppurativa IL-1a: Atopic Dermatitis MyD88 IL-1β: Gout; CANTOS Outcomes Data in Atherosclerosis and Lung Cancer
+Myddosome IRAK4 IL-18: Macrophage Activation Syndrome IRAK1 IRAK2 IL-36: Generalized Pustular Psoriasis, Atopic Dermatitis JNK/p38 TRAF6 IRAK4 SMI: Rheumatoid Arthritis IRAK3 IKKs Human Genetics Humans with IRAK4 Null Mutation are healthy NFkB IRAK4
+degrader has potential to achieve a broad, well-tolerated c-Jun anti-inflammatory effect, providing multiple development opportunities in autoimmune inflammatory diseases ©2021 KYMERA THERAPEUTICS, INC. PAGE 4
+
+Development Opportunities for IRAK4 Degrader in Inflammation Potential
+for Broad Activity Across Th1-Th17 and Th2 Diseases IL-1R/TLR Limitations of IRAK4 Current Therapies Anti-Cytokine/Cytokine Receptor Antibodies • Target only 1-2 cytokines • Require injection Th1-Th17/Neutrophils Th2/Eosinophils Small
+Molecule Inhibitors • Hidradenitis Suppurativa• Atopic Dermatitis • Rheumatoid Arthritis• Asthma • Limited pathway blockade (IRAK4 SMI) • Systemic Lupus Erythematosus• COPD • Safety issues (JAK family)
+• Inflammatory Bowel Disease• CRSwNP • Gout • Psoriasis • Behcet’s Disease ©2021 KYMERA THERAPEUTICS, INC. PAGE 5
+
+IRAK4 Protein Expression in Autoimmune Diseases: Upregulation in Skin of
+HS Patients Compared to Healthy Subjects IRAK4 protein levels overexpressed in IRAK4 expression is upregulated in dermis and epidermis of HS patients relative HS patient skin lesions to healthy subject skin Dermal Immune Cells Immunofluorescence
+(IF) Epidermal Keratinocytes Mass Spectrometry (MS) Alavi et al., Society for Investigative Dermatology Annual Meeting, 2021 ©2021 KYMERA THERAPEUTICS, INC. PAGE 6
+
+Multiple Proinflammatory Transcripts Are Upregulated and Correlate with
+IRAK4 Protein Levels in HS Skin Lesions • Upregulation of TLRs, IL-1b/IL-36, MYD88, and multiple additional drivers of inflammation that all correlate with IRAK4 protein expression • Highlights potential of IRAK4 targeting to treat
+diseases like HS characterized by marked pleiotropic inflammation Alavi et al., Society for Investigative Dermatology Annual Meeting, 2021 IF: immunofluorescence; MS: mass spectrometry ©2021 KYMERA THERAPEUTICS, INC. PAGE 7
+
+KT-474: Potent and Specific IRAK4 Degradation with Impact on Cytokines
+Superior to Kinase Inhibition Superiority over SM kinase Inhibitor Degradation and Selectivity LPS + IL-1b→ IL-6 • KT-474 DC = 2.1 nM in 10xDC 24hr 50 90 3 human immune cells • KT-474 only degraded 2.5 IRAK4 in human immune cells
+at concentration 10- 2 fold above the DC 90 IRAK4 • KT-474 better able to 1.5 inhibit IL-6 under both LPS pval=0.05 and LPS + IL-1b than 1 clinically active IRAK4 SM kinase inhibitor PF- Log[Compound] (nM) 0.5 06550833 Legend Compound IL-6 IC
+(nM) 50 0 IRAK4 Degrader 0.8 -2 -1.5 -1 -0.5 0 0.5 1 1.5 2 Negative control 450 IRAK4 SMI (PF-06550833) N/A Protein Level Fold Change (log2) ©2021 KYMERA THERAPEUTICS, INC. PAGE 8 Pvalue (–log 10)
+
+KT-474 is Superior to IRAK4 Small Molecule Inhibitor (SMI) Across
+Multiple Preclinical Immune-inflammatory In Vivo Models rmIL-33 Intradermal rhIL-36abg Intradermal Th17-mediated Multiple Challenge Model Challenge Model Sclerosis Model In vivo IRAK4 IL-5 in In vivo IRAK4 In vivo IRAK4 Ear 1 MOG-EAR
+Degradation Ear Degradation Degradation Thickness in Whole Blood Tissues in Whole Blood in Whole Blood Treatment Mean Max Score +/- SD p value Vehicle 3.40 +/- 0.54 - Degrader 150 mg/kg 2.69 +/- 0.52 0.0018 SMI 30 mg/kg 3.07 +/- 0.42 0.0822 FTY720 3
+mg/kg 0.0271 2.70 +/- 1.28 IRAK4 knockdown of ≥85% in whole blood achieved anti-inflammatory effect comparable to potent corticosteroids or approved standard of care drugs in these models as well as in models of TLR4 (MSU-Gout) or TLR7/8
+(Imiquimod-Psoriasis) activation that was superior to IRAK4 small molecule inhibitor ©2021 KYMERA THERAPEUTICS, INC. 1. Myelin Oligodendrocyte Glycoprotein-induced Experimental Autoimmune Encephalomyelitis (MOG-EAR) Model PAGE 9
+
+KT-474 Multi-dosing (Daily x 7 Days) Maximizes IRAK4 Degradation at
+Lower Doses in Dogs IRAK4 Knockdown 24h after Day 1 Dose MAD PK/PD for Blood and Skin Results for 10 mg/kg Group Blood IRAK4 Knockdown 24h after Day 7 Dose Skin * * = BLQ * = BLQ ©2021 KYMERA THERAPEUTICS, INC. PAGE 10
+
+KT-474: Near Complete Systemic IRAK4 Degradation is Well Tolerated in
+Preclinical Non-rodent Model PBMC Skin Spleen • Orally-administered KT- 474 evaluated in a 14- day non-GLP tox and PKPD study in rodent and non-rodents (shown). • Almost complete knockdown demonstrated across Kidney Liver Lymph Node
+multiple tissues at multiple doses • Compound well-tolerated at all doses up to 600 mg/kg for rodents and 100 mg/kg for non- rodents ©2021 KYMERA THERAPEUTICS, INC. PAGE 11
+
+KT-474 Phase 1 Trial Design Double-blind, Placebo-controlled, Single
+Ascending Dose (SAD) and Multiple Ascending Dose (MAD) trial Endpoints Three-part Phase 1 Design • Safety & tolerability Primary Secondary/ • Pharmacokinetic measures (half-life, bioavailability) 1 2 3 Exploratory • IRAK4
+knockdown in PBMC SAD Portion MAD Portion MAD Portion SAD & MAD Patient Cohort Healthy Volunteers Healthy Volunteers • Ex vivo response of whole Exploratory blood to TLR agonists (SAD & • 7 cohorts • 5 cohorts • 1
+cohort SAD & MAD MAD) and IL-1b (MAD only) (up to 56 adult (up to 60 adult (up to 20 AD and healthy subjects) healthy subjects) HS patients) • IRAK4 knockdown in skin biopsies Exploratory • 8 per cohort • 12 per cohort •
+Open-label • Proinflammatory cytokine and MAD Only (6:2 randomization) (9:3 randomization) chemokine levels in skin biopsies • 14x daily doses (Patients only) • Single dosing • 14x daily doses (starting dose 25 mg) (starting
+dose 25 mg) • Plasma C-reactive protein (HV and Patients) and cytokine levels (Patients only) ©2021 KYMERA THERAPEUTICS, INC. PAGE 12
+
+SAD Study: Favorable PK after Single Oral Dosing SAD Cmax AUC Dose t
+(h) t (h) max 1/2 # (ng/mL) (ng.h/mL) 3.49 (61.2) 8.0 (6.0-8.0) 112 (65.4) 25.2 (27.0) 1 25 mg 9.08 (36.6) 7.0 (6.0-8.0) 288 (36.7) 28.7 (10.1) 2 75 mg 12.7 (25.7) 9.0 (8.0 - 10.0) 483 (21.9) 31.6 (22.1) 3 150 mg 17.4 (29.6) 8.0 (8.0 – 24.0)
+869 (31.4) 36.4 (13.1) 4 300 mg 24.2 (27.5) 12.0 (6.00 – 24.0) 1530 (18.6) 40.9 (18.2) 5 600 mg 27.8 (34.4) 20.0 (6.0 – 24.0) 1890 (60.8) 38.8 (7.0) 6 1000 mg 27.3 (36.2) 24.0 (12.0 – 48.0) 1920 (43.0) 36.4 (46.9) 7 1600 mg
+Geometric Mean (%CV) reported for all parameters, except tmax where median (range) are presented • Consistent PK after single dosing: Cmax achieved between 7-24 hours, half-life = 25-40 hours • Dose dependent exposure increases,
+plateauing after the 1000 mg dose • Low to moderate inter-subject variability in exposure ©2021 KYMERA THERAPEUTICS, INC. PAGE 13
+
+KT-474 Achieved Deep and Dose-Dependent IRAK4 Degradation after Single
+Oral Doses that Lasted for at Least 6 Days Absolute IRAK4 Levels Mean % Reduction of IRAK4 LLOQ • Detected by Mass Spectrometry in circulating PBMC • IRAK4 levels nadired at 48-72 hours (Day 3-4) • IRAK4 reduction lasted for at
+least 6 days post-dose in all dose groups • SAD 5 through 7 approached or exceeded Lower Limit of Quantitation (LLOQ) ©2021 KYMERA THERAPEUTICS, INC. PAGE 14
+
+KT-474 Achieved >95% IRAK4 Degradation After Single Dose Percent
+IRAK4 Reduction in PBMC at 48 Hours Post-Dose using Mass Spectrometry Median Mean IRAK4 N IRAK4 p value Change Change -- 13 -1% -2% Placebo 6 0.1 25 mg -26% -39% 6 <0.0001 75 mg -73% -75% 6 <0.0001 150 mg -81% -82% 6 <0.0001 300 mg -84%
+-89% 7 -96% -96% <0.0001 600 mg 5 -93% -94% <0.0001 1000 mg 6 <0.0001 -95% -95% 1600 mg * p-values relative to placebo ©2021 KYMERA THERAPEUTICS, INC. PAGE 15
+
+Robust IRAK4 Degradation Observed in Lymphocytes and Monocytes: Flow
+Cytometry Results at SAD 7 Absolute IRAK4 Levels Mean % Reduction of IRAK4 LLOQ: Monos LLOQ: PBMC/Lymphs ©2021 KYMERA THERAPEUTICS, INC. PAGE 16
+
+Ex Vivo Cytokine Stimulation: Methodology in KT-474 Phase 1 Trial
+Impact of KT-474 on TLR- stimulated Cytokine/Chemokine 1 2 3 4 Production Overnight Plasma Cytokine/Chemokine Blood Draw Cytokines/Chemokines Incubation Isolation Measurement Pre-/Post-Dose (37°) TNF-α, IFN-γ, IL-1β, IL-6, TLRs
+IL-8, IL-10, IL-12, IL-17, IL-23 R848 or MyD88 IRAK3 IRAK4 LPS IRAK1 IRAK2 KT-474 TRAF6 TruCulture Tube PBMCs ©2021 KYMERA THERAPEUTICS, INC. PAGE 17
+
+Up to 97% Maximum Ex Vivo Cytokine Inhibition 24-48h Post-Dose Effect
+Against LPS (TLR4)- or R848 (TLR7/8)-Stimulated Cytokine Induction in Whole Blood LPS R848 Placebo (n = 14) 3 SAD 6 (n = 6) 3 SAD 7 (n = 6) IFNγ IL1β IL6 IL8 IL10 IL12 IL17 IL23 TNFα IFNγ IL1β IL6 IL8 IL10 IL12 IL17
+TNFα 80% 27% 16% 19% 30% 29% 19% 22% 24% 40% -12% -4% 185% 19% -7% 4% -8% Pbo Pbo SAD 6 1 2 1 2 2 2 2 1 1 1 1 -51% -58% -46% -72% -67% -45% -40% -54% -31% -78% -78% -60% -33% -45% -80% -60% -61% SAD 6 85-93% Degr* SAD 7 1 1 1 1 2 2 2 2 2 1 1 1
+1 1 2 -42% -68% -62% -81% -83% -35% -43% -45% -42% SAD 7 -97% -92% -88% -54% -89% -93% -79% -88% 89-95% Degr* 1 2 = p value < 0.01; = p value < 0.05 *Mean IRAK4 degradation in PBMC at 24-48h 3 Ex vivo cytokine assay was performed at 48h nadir
+(maximal degradation) only in cohorts 6-7 ©2021 KYMERA THERAPEUTICS, INC. PAGE 18
+
+Blinded SAD Safety Summary Possibly or Probably Treatment-Related AEs*
+(>1 Subject) • No SAEs #AEs AE Term Severity Cohort • Treatment-related AEs observed only in SAD 5 (subjects) and SAD 6; all were self-limiting and resolved Moderate (x2) SAD 5, SAD 6 • No treatment-related AEs in SAD 7 4
+Headache (3) Mild (x2) SAD 5 • No significant ECG changes 2 Nausea (2) Mild (x2) SAD 6 * per investigator assessment ©2021 KYMERA THERAPEUTICS, INC. PAGE 19
+
+SAD Summary • SAD dose escalation completed • Single doses
+resulting in sustained pharmacodynamic effect were well-tolerated, with mild- moderate self-limiting headache and GI symptoms the most common treatment-related AEs seen at doses ≥ 600 mg • Robust, dose-dependent IRAK4 reduction in PBMC
+maintained for at least 6 days, with mean 93- 96% KD (approaching or exceeding lower limit of quantification) at 48 hours plateauing after 600 mg; expectation during multi-dosing is to reach these levels at much lower dose • Proof-of-biology
+established with demonstration of broad and potent ex vivo cytokine inhibition in whole blood • Up to 79-97% inhibition of R848 or LPS induction of 8 different pro-inflammatory cytokines, including: IFN-g (97%), IL-12 (93%), IL-1b (92%),
+IL-10 (89%), IL-6 (88%), TNF-a (88%), IL-8 (81%) and IL-17 (79%) • Maximum cytokine effects seen with KT-474 exposures corresponding to ≥85% degradation in PBMC KT-474 SAD Phase 1 results demonstrate degrader proof-of-mechanism and
+proof-of-biology, first time for TPD in a placebo-controlled study ©2021 KYMERA THERAPEUTICS, INC. PAGE 20
+
+KT-474 Phase 1 Trial: Next Steps 2020 2021 2022 2023 IND Phase 1 HV SAD
+HV MAD Patient Cohort Phase 2 Trials (Sanofi-sponsored) • Oct 2021: HV SAD POM/POB• Mid 2022: Patients POM/POB Data readouts: • Before end of 2021: HV MAD POM/POB • Healthy volunteer MAD enrollment ongoing • Anticipate
+maximizing IRAK4 knockdown and impact on downstream biomarkers at substantially lower doses with daily dosing based on PK and PD and as shown in preclinical models • Plan to present safety, PK, and PD data before year end • PD includes:
+IRAK4 levels in blood and skin, ex vivo cytokine stimulation, plasma hsCRP • On track to complete by year-end • Cohort of AD and HS patients (up to 20) to start enrolling in Q1’22 • Data readout planned for mid-year
+©2021 KYMERA THERAPEUTICS, INC. PAGE 21

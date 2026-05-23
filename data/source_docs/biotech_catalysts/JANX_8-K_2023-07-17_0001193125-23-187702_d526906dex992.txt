@@ -1,0 +1,112 @@
+EX-99.2
+3
+d526906dex992.htm
+EX-99.2
+
+EX-99.2
+
+Program Updates July 2023 Exhibit
+99.2
+
+Forward-looking statements and
+disclaimers This presentation includes certain forward-looking statements that involve risks and uncertainties that could cause actual results to be materially different from historical results or from any future results expressed or implied by such
+forward-looking statements regarding Janux Therapeutics, Inc. (the “Company”). These forward-looking statement include, but are not limited to, those regarding the Company’s ability to bring new treatments to patients in need, the
+progress and expected timing of the Company’s drug development programs, clinical development plans and timelines, the timing of and plans for regulatory filings, market size and opportunity, the Company’s strategy and intellectual
+property matters, and estimates regarding the Company’s expenses, capital requirements, and needs for additional financing. Because such statements are subject to risks and uncertainties, actual results may differ materially from those
+expressed or implied by such forward-looking statements. Factors that may cause actual results to differ materially include the risk that compounds that appeared promising in early research do not demonstrate safety and/or efficacy in later
+preclinical studies or clinical trials, the risk that the Company may not obtain approval to market its product candidates, uncertainties associated with performing clinical trials, regulatory filings and applications, risks associated with reliance
+on third parties to successfully conduct clinical trials, the risks associated with reliance on outside financing to meet capital requirements, and other risks associated with the process of discovering, developing and commercializing drugs that are
+safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs. Also, interim results of a clinical trial are not necessarily indicative of final results and one or more of the clinical outcomes may
+materially change as patient enrollment continues, following more comprehensive reviews of the data and more patient data become available. In light of these risks, uncertainties, contingencies and assumptions, the events or circumstances referred
+to in the forward-looking statements may not occur. For a further list and description of the risks and uncertainties that the Company faces, please refer to the Company’s periodic and other filings with the Securities and Exchange Commission,
+which are available at www.sec.gov. Such forward-looking statements are current only as of the date they are made, and the Company assumes no obligation to update any forward-looking statements, whether as a result of new information, future events,
+or otherwise. The trademarks included herein are the property of the owners thereof and are used for reference purposes only. Such use should not be construed as an endorsement of such products. This presentation concerns therapeutic product
+candidates that are in preclinical and clinical development and which have not yet been approved for marketing by the U.S. Food and Drug Administration. They are currently limited by federal law to investigational use, and no representation is made
+as to their safety or effectiveness for the purposes for which they are being investigated.
+
+Multiple programs in Janux drug
+development pipeline Clinically validated targets Stage of Development Program Target(s) Initial Indication(s) Discovery IND-Enabling Phase 1 Phase 2 Phase 3 TRACTr Programs PSMA-TRACTr JANX007 PSMAxCD3 mCRPC EGFR-TRACTr JANX008 EGFRxCD3 CRC, HNC,
+NSCLC, RCC TROP2-TRACTr TROP2xCD3 TNBC, UC, NSCLC TRACIr Programs Costim. Bispecific JANX009 PD-L1xCD28 Solid Tumors Partnered Programs Merck TRACTr Programs T1xCD3 T2xCD3 Undisclosed T1xCD3 initiated December-2020; T2xCD3 initiated May-2022
+
+T-cell engagers represent an effective
+approach to trigger anti-tumor immune responses Solid tumor treatments have been hindered by safety and PK challenges Ongoing clinical challenges Cytokine-release syndrome (CRS) toxicity Multiple third-party clinical program terminations On-target
+healthy tissue toxicities Multiple third-party clinical program terminations Short half-life Continuous multi-week infusion TCE Precision Engineered TRACTrs Masks designed to prevent target and/or T-cell binding Inhibits T-cell activation in healthy
+tissue to improve safety Cleavable linkers Tumor specific cleavage, stable in serum Bimodal serum half-life Once-weekly TRACTr dosing, active TCEs rapidly cleared Manufacturing Robust antibody-like GMP manufacturing process Designed for weekly
+dosing TRACTr TRACTrs are designed to overcome toxicity and PK limitations to access large solid tumor opportunity
+
+TRACTr platform update overview
+Interim clinical data provides first insights into TRACTr performance in humans* PSMA-TRACTr clinical data consistent with TRACTr mechanism-of-action Meaningful PSA drops coupled with manageable safety and CRS profile PK exposure demonstrated TRACTr
+activation with lack of TCE accumulation No significant treatment-emergent ADA titers observed Both PSMA-TRACTr and EGFR-TRACTr have been generally well tolerated at dose levels above the projected MTD of the parental TCEs Development programs
+progressing on-schedule PDL1xCD28-TRACIr IND enabling studies and manufacturing ongoing TROP2-TRACTr development compound identification in-progress Pipeline development Multiple TCE and CD28 bispecific programs progressing *28 June 2023 data
+cutoff; MTD maximum tolerated dose; TCE T-cell engager; ADA anti drug antibody
+
+PSMA-TRACTr Program
+
+PSMA-TRACTr dose escalation and
+expansions in mCRPC patients Phase 1a dose escalation (3+3) Cohort 1 FPI Oct 2022 Cohort 2 Additional Cohorts Cohort 3 Efficacy: PSA reductions Safety: CRS & healthy tissue PK: TRACTr & active TCE Evidence of mask cleavage Immunogenicity 1
+cycle: 21 days, every week x 3; DLT window C1 d1-21 Phase 1a dose expansion (3x10 pt) Recommended Phase 1b dose & interval Efficacy: PSA reductions & RECIST response Safety: CRS & healthy tissue Phase 1b dose expansion (30 pt) JANX007
+Recommended Phase 2 dose & interval Efficacy: PSA reductions & RECIST response Safety: CRS & healthy tissue Expansion group timing, pt population and design based upon escalation results Expansion 1 Expansion 2 Expansion 3
+
+Janux Tumor Activated T-Cell Engager
+(TRACTr) platform design principles Each program is designed as a potent T-cell engager with reduced toxicity Healthy Tissue Healthy Tissue Improved Safety Masks block binding to targets in healthy tissues Inhibits immune response against healthy
+tissues Reduces healthy tissue cytokine release to reduce systemic toxicity Tumor Tissue Activation Tumor proteases cleave linkers Releases both masks and the half-life extender Fully active TCE drives maximum anti-tumor immune response Rapid
+Clearance Active TCE that diffuses from tumor is rapidly cleared Reduces active TCE levels in healthy tissue Reduces risk of systemic toxicity to improve safety profile Tumor Tissue
+
+Interim clinical PK data has been
+consistent with TRACTr design principles TRACTr cleavage without TCE accumulation observed JANX007 interim PK data in humans showed consistency with tumor cleavage dependent activity Human Exposure of TRACTr Components TRACTr plasma levels below
+preclinical activity threshold TRACTr Activity Threshold (20nM) TCE Activity Threshold (50pM) TCE LLOQ (8pM) No TCE detected in any samples TCE plasma levels below preclinical activity threshold Activation observed without TCE accumulation in blood
+PD effects are not from systemic TCE exposures sDa cleavage fragment indicates TRACTr activation is occurring Days (300ug doses*) * Data from Patient 11006 time normalized to 300mg doses
+
+PSMA-TRACTr designed to address
+dosing, CRS and safety limitations of early generation TCEs PSMA is a validated oncology target with large market opportunity Clinical efficacy has been demonstrated with early generation PSMA-TCEs Clinical validation for PSMA-TCE treatment Reported
+efficacy in multiple patients No reported toxicities related to healthy tissues Required multi-week continuous IV infusion 1st Generation PSMA-TCE Engineered to support once-weekly dosing Not designed to modulate safety or CRS CRS has constrained
+clinical development Multiple competitor clinical programs terminated or deprioritized 2nd Generation PSMA-TCEs Dose Dependent PSA Drops Evidence of Long-Lived Activity
+
+TCE mediated immune responses in
+PSMA(+) healthy & tumor tissues trigger cytokine release that leads to CRS TRACTrs are designed to prevent T-cell activation and cytokine release in healthy tissues Adapted from Arvedson, 2022 CRS Tumor Proteases
+
+JANX007 interim clinical data Best
+Overall % Change in PSA Values From Baseline* PSA reduction combined with manageable CRS profile consistent with TRACTr MOA and supports continued clinical development Grade 1 - fever Grade 2 - fever; hypotension (no vasopressors required); hypoxia
+(low flow nasal canula or blow by) Flat-doses (100 & 300ug) yielded >30% best PSA reductions in 4 of 5 patients PSA reductions -31% to -67% Flat and step-dosing under evaluation to potentially deepen PSA reductions Dose escalation of step and
+target dose is ongoing to optimize efficacy CRS Grade Grade 1 or 2 CRS observed only in patients with PSA reductions Suggests anti-tumor activity is associated with CRS We believe PSA declines coupled with CRS profile are consistent with on-tumor
+activity and reduced healthy tissue activity EFFICACY SAFETY 100 µg 300 µg 50/100/300 µg Flat Dose Cohorts Step Dose Cohort 28 June 2023 data cutoff; * Best PSA reductions at any time point in evaluable patients -31% -44% -49%
+-67%
+
+P50 P50 P50 P50 P30 P30 G3 G3 G2 G2
+G2 G2 G1 G1 G1 G1/2 Competitor clinical PSA reduction and CRS rate comparisons with JANX007 Differentiated PSA and CRS profile compared to the other clinical programs JANX007 exhibited encouraging combination of PSA drops with manageable CRS
+Competitive PSA drops High response rates Early dosing has already achieved >PSA50 response Manageable CRS No Grade 3 CRS Only patients with PSA reduction exhibited CRS 24% to 100% of patients on competitor clinical trials exhibited CRS with no
+PSA reduction Plans Dose optimization to further mitigate CRS and improve efficacy is in-progress Percentage of Patients Information provided in the table above is for illustrative purposes only and is not a head-to-head comparison. Differences
+exist between study or trial designs and subject characteristics, and caution should be exercised when comparing data across studies.
+
+Assessing tissue contributions to
+CRS in clinical programs Patients exhibiting CRS without a PSA drop may indicate PSMA(+) healthy tissue activity JANX007 design showed consistency with tumor specific activity and reduced PSMA(+) healthy tissue activity mCRPC Patient PSMA(+) Tissue
+TCE Activity Site Metastatic tumors - CRS and PSA reduction Healthy tissue - CRS no PSA reduction Lacrimal and salivary glands, liver, kidney, small intestine Clinical CRS and PSA Patient Distributions CRS driven by PSMA(+) healthy tissue TCE
+activity CRS driven by tumor TCE activity JNJ-8081 (IV) 100% Nominal anti-tumor activity in any CRS(+) patient JANX007 100% Anti-tumor activity observed in all CRS(+) patients AMG160 76% 24% HPN424 38% 62% 41% 59% JNJ-8081 (SC) Anti-tumor activity
+in subset of CRS(+) patients Information provided in the table above is for illustrative purposes only and is not a head-to-head comparison. Differences exist between study or trial designs and subject characteristics, and caution should be
+exercised when comparing data across studies.
+
+Treatment related adverse events
+Well-tolerated with no dose limiting toxicities to date CRS and related events were low-grade, transient and limited to cycle-1, low frequency of other AEs 28 June 2023 data cutoff; *CRS-related Preferred Term All Subjects (n=8) Grade 1 Grade 2
+Grade ≥3 All Grades Cytokine release syndrome 3 (38) 4 (50) 0 7 (88) *Lipase increased 0 0 1 (13) 1 (13) *Chills 0 1 (13) 0 1 (13) *Confusional state 0 1 (13) 0 1 (13) *Dyspnea 1 (13) 0 0 1 (13) *Pyrexia 1 (13) 0 0 1 (13) *Stomatitis 1 (13) 0
+0 1 (13) Syncope 0 0 1 (13) 1 (13)
+
+On-target, off-tumor toxicity
+comparisons for PSMA-TCE clinical programs PSMA expressed in liver, GI tract, salivary glands and kidney PSMA(+) Tissue Adverse Event JNJ-8081 HPN424 AMG160 JANX007 G1-2 / ³ G3 G1-2 / ³ G3 G1-2 / ³ G3 G1-2 / ³ G3 Liver*
+Transaminitis 0% / 8% 0% / 21% 0% / 53% NONE Small Intestine Nausea - 45% / 1% 40% / 0% NONE Vomiting - 38% / 1% 44% / 0% NONE Diarrhea - 14% / 0% 33% / 0% NONE Salivary Glands Dry mouth - - 33% / 0% NONE Kidney Creatinine Inc 15% - - NONE Lim, Clin
+GenU Ca 2023 Corp Update, June 2021 Tran, ESM0 2020 28 June 2023 data cutoff JANX007 safety results showed consistency with tumor specific activity and reduced PSMA(+) healthy tissue activity *Amgen and Harpoon attribute transaminitis as secondary
+to CRS Information provided in the table above is for illustrative purposes only and is not a head-to-head comparison. Differences exist between study or trial designs and subject characteristics, and caution should be exercised when comparing data
+across studies.
+
+Step doses intended to lower the
+risk of CRS to facilitate higher target doses Higher target doses may improve efficacy Janux clinical development has shifted to dose optimization with the aim to maximize efficacy with manageable safety CRS Grade Over First Infusions Dose
+Optimization Step size Dose levels Dosing intervals 100 µg 300 µg 50/100/300 µg Flat Dose Cohorts Step Dose Cohort 11001 11004 11002 11003 11005 11007 11006 11008 123 123 123 123 123 123 123 12
+
+Update summary TRACTr platform
+clinical proof-of-principle supported by interim data First evidence of tumor-activated T cell engagement for the TRACTr platform in patients with prostate cancer Both PSMA-TRACTr and EGFR-TRACTr have been generally well tolerated at dose levels
+above the projected MTD of the parental TCEs PK exposure demonstrated TRACTr activation with lack of TCE accumulation Meaningful PSA drops coupled with manageable safety and CRS profile No significant treatment-emergent ADA titers observed
+PSMA-TRACTr clinical program continuing to progress Multiple patients have had substantial declines in serum PSA and activity has been observed in all CRS(+) patients Suggests reduced healthy tissue activity JANX007 preliminary data showed
+encouraging initial safety results; no dose-limiting toxicities and cytokine-related adverse events have been transient and manageable Minimal healthy tissue/non-CRS related safety issues as of data cutoff Manageable CRS profile that appears linked
+to anti-tumor activity Evidence of TRACTr activation without TCE accumulation 28 June 2023 data cutoff
+
+David Campbell, Ph.D. President and
+CEO 10955 Vista Sorrento Parkway San Diego, CA 92130 dcampbell@januxrx.com

@@ -1,0 +1,357 @@
+8-K
+
+false 0000875045 0000875045 2026-03-31 2026-03-31
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 31, 2026
+
+ 
+
+ 
+
+Biogen Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+0-19311
+
+ 
+
+33-0112644
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+225 Binney Street
+
+Cambridge, MA
+
+ 
+
+02142
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (781) 464-2000
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☒
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0005 par value per share
+
+ 
+
+BIIB
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+Agreement and Plan of Merger
+
+On March 31, 2026, Biogen Inc., a Delaware corporation (“Biogen”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Apellis Pharmaceuticals, Inc., a Delaware corporation (“Apellis”), and Aspen Purchaser Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Biogen (“Purchaser”).
+
+Pursuant to the Merger Agreement, and upon the terms and subject to the conditions therein, Purchaser will commence a tender offer (the “Offer”) to acquire any and all outstanding shares of common stock, par value $0.0001 per share, of Apellis (the “Apellis Common Stock”), in exchange for (i) $41.00 per share of Apellis Common Stock, net to the seller in cash, without interest and subject to reduction for any applicable tax withholding (such amount, or any higher amount per share paid pursuant to the Offer, the “Upfront Consideration”), plus (ii) one contractual, non-transferable contingent value right per share of Apellis Common Stock (each, a “CVR”), which shall entitle the holder to receive potential payments of up to an aggregate of $4.00 in cash, without interest and subject to reduction for any applicable tax withholding, upon the achievement of certain specified milestones described below in accordance with the terms and conditions of a contingent value rights agreement (the “CVR Agreement”) to be entered into with a rights agent (the “Rights Agent”) mutually acceptable to Biogen and Apellis (the Upfront Consideration plus one CVR, together, the “Offer Price”). The Offer will remain open for 20 business days, subject to extension under certain circumstances.
+
+Promptly following the consummation of the Offer, subject to the terms and conditions set forth in the Merger Agreement, and in accordance with the General Corporation Law of the State of Delaware (the “DGCL”), Purchaser will merge with and into Apellis, with Apellis continuing as the surviving corporation and a wholly owned subsidiary of Biogen (the “Merger”). The Merger Agreement contemplates that the Merger will be effected pursuant to Section 251(h) of the DGCL, with no stockholder vote required to consummate the Merger. At the effective time of the Merger (the “Effective Time”), each share of Apellis Common Stock (other than shares of Apellis Common Stock that are (i) held in the treasury of Apellis, (ii) irrevocably accepted for purchase in the Offer by Purchaser and “received” (as such term is defined by Section 251(h)(6)(f) of the DGCL) by Purchaser, (iii) held by Biogen, Purchaser or any other wholly owned subsidiary of Biogen as of both the commencement of the Offer and immediately prior to the Effective Time and (iv) held by stockholders who are entitled to, and properly demand, appraisal for such shares of Apellis Common Stock in accordance with Section 262 of the DGCL) will be cancelled and converted into the right to receive the Offer Price without interest, subject to reduction for any applicable withholding taxes (the “Merger Consideration”).
+
+The obligation of Purchaser to purchase shares of Apellis Common Stock tendered in the Offer is subject to the satisfaction or waiver of a number of conditions set forth in the Merger Agreement, including (i) that there have been validly tendered and not validly withdrawn prior to the expiration of the Offer a number of shares of Apellis Common Stock that, considered together with the number of shares of Apellis Common Stock, if any, then owned beneficially by Biogen and its subsidiaries, would represent at least one more share of Apellis Common Stock than 50% of the total number of shares of Apellis Common Stock outstanding at the time of the expiration of the Offer (the “Minimum Condition”); (ii) the accuracy of the representations and warranties of Apellis contained in the Merger Agreement, subject to customary thresholds and exceptions; (iii) Apellis’ compliance with, and performance of, in all material respects its covenants and obligations contained in the Merger Agreement; (iv) the expiration or termination of all applicable waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “HSR Act”); and (v) other customary conditions set forth in Annex I to the Merger Agreement. The Minimum Condition may not be waived by Biogen or Purchaser without the prior written consent of Apellis. Consummation of the Offer is not subject to a financing condition.
+
+Biogen and Apellis have agreed to make an appropriate filing of a Notification and Report Form pursuant to the HSR Act with respect to the transactions contemplated by the Merger Agreement as promptly as practicable and in any event within 15 business days after the date of the Merger Agreement, and to as promptly as reasonably practicable make any filings required under other applicable antitrust or foreign direct investment laws.
+
+ 
+
+The Merger Agreement includes customary representations, warranties and covenants of Biogen, Apellis and Purchaser for a transaction of this nature, including covenants regarding the operation of Apellis’ business until the time at which Purchaser irrevocably accepts for purchase all shares of Apellis Common Stock validly tendered (and not validly withdrawn) pursuant to the Offer (or the earlier termination of the Merger Agreement).
+
+Apellis has also agreed to customary restrictions on its ability to solicit alternative acquisition proposals from third parties and engage in discussions or negotiations with third parties regarding acquisition proposals. Notwithstanding these restrictions, Apellis may under certain circumstances provide information to and participate in discussions or negotiations with third parties with respect to an unsolicited bona fide written acquisition proposal that the board of directors of Apellis (the “Apellis Board”) has determined in good faith is, or would reasonably be expected to lead to, a Superior Proposal (as defined in the Merger Agreement), if failing to do so would be reasonably likely to be inconsistent with Apellis Board’s fiduciary obligations under applicable law.
+
+The Merger Agreement also includes customary termination provisions for both Biogen and Apellis, including, among others, the right of either party to terminate for failure to consummate the Offer on or before September 30, 2026. If the Merger Agreement is terminated under certain circumstances specified in the Merger Agreement, Apellis will be required to pay Biogen a termination fee of $205,000,000 (including under specified circumstances in connection with Apellis’ entry into an agreement with respect to an alternative transaction, including in connection with a Superior Proposal, or the Apellis Board withdraws its recommendation in favor of the Offer). The parties to the Merger Agreement are also entitled to specifically enforce the terms and provisions of the Merger Agreement.
+
+The board of directors of Biogen (the “Biogen Board”) and the board of directors of Purchaser (the “Purchaser Board”) have adopted, approved and declared it advisable for Biogen and Purchaser, respectively, to enter into the Merger Agreement and the CVR Agreement and to consummate the Offer, the Merger and the other transactions contemplated by the Merger Agreement and the CVR Agreement, upon the terms and subject to the conditions set forth therein, and the Purchaser Board has recommended that the sole stockholder of Purchaser approve and adopt the Merger Agreement in its capacity as the sole stockholder of Purchaser.
+
+The Apellis Board unanimously: (i) determined and declared that it is in the best interests of Apellis and the stockholders of Apellis that Apellis enter into the Merger Agreement and the CVR Agreement and consummate the Merger and that the stockholders of Apellis accept the Offer and tender their shares of Apellis Common Stock pursuant to the Offer, in each case on the terms and subject to the conditions set forth in the Merger Agreement; (ii) approved and declared the advisability of the Merger Agreement, the CVR Agreement, the Offer, the Merger and the other transactions contemplated by the Merger Agreement; (iii) resolved that the Merger shall be effected under Section 251(h) of the DGCL; (iv) declared that the terms of the Offer and the Merger are fair to Apellis and Apellis’ stockholders; (v) resolved to recommend that Apellis’ stockholders accept the Offer and tender their shares of Apellis Common Stock pursuant to the Offer; (vi) approved the execution, delivery and performance by Apellis of the Merger Agreement and Apellis’ consummation of the Merger and the other transactions contemplated by the Merger Agreement; and (vii) approved Apellis’ entry into the CVR Agreement and the performance of its obligations thereunder.
+
+The foregoing summary of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, which is filed as Exhibit 2.1 hereto and is incorporated herein by reference. The foregoing summary and the copy of the Merger Agreement are intended to provide information regarding the terms of the Merger Agreement and are not intended to modify or supplement any factual disclosures about Biogen in its public reports filed with the U.S. Securities and Exchange Commission (the “SEC”). The assertions embodied in the representations and warranties included in the Merger Agreement were made solely for purposes of such agreement and are subject to important qualifications and limitations agreed to by Biogen, Apellis and Purchaser in connection with the negotiated terms, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties thereto. Moreover, certain representations and warranties were made as of a specified date, may be subject to a contractual standard of materiality different from those generally applicable to Biogen’s SEC filings or may have been used for purposes of allocating risk among Biogen, Apellis and Purchaser rather than establishing matters as facts. Investors should not rely on the representations and warranties or any description of them as characterizations of the actual state of facts of Biogen,
+
+ 
+
+Apellis, Purchaser or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, and, unless required by applicable law, Biogen undertakes no obligation to update such information.
+
+Tender and Support Agreement
+
+On March 31, 2026, in connection with the execution and delivery of the Merger Agreement, certain of Apellis’ current directors and executive officers, Cedric Francois, Gerald Chan, Alec Machiels and Pascal Deschatelets, and Morningside Venture Investments, Ltd., a stockholder of Apellis (collectively, the “Support Stockholders”), solely in their respective capacities as stockholders of Apellis, entered into a tender and support agreement (the “Tender and Support Agreement”) with Biogen and Purchaser, pursuant to which each Support Stockholder agreed, among other things, (i) to tender all of the shares of Apellis Common Stock held by such Support Stockholder in the Offer, (ii) to, if applicable, vote all of such Support Stockholder’s shares of Apellis Common Stock in favor of the Merger, and (iii) to certain other restrictions on its ability to take actions with respect to Apellis and its shares of Apellis Common Stock. The Support Stockholders are the record or beneficial owners (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended) of approximately 14% of the outstanding shares of Apellis Common Stock as of March 27, 2026. The Tender and Support Agreement will terminate upon the earliest of (i) the date and time upon which the Merger Agreement is terminated in accordance with its terms, (ii) the Effective Time, (iii) such time as any modification, waiver or amendment to the Merger Agreement is effected without each Support Stockholder’s consent that (A) changes the form of consideration payable in the Offer, decreases the Offer Price or decreases the maximum number of shares of Apellis Common Stock sought to be purchased in the Offer, (B) terminates the Offer, (C) amends, modifies or supplements the terms of the Offer in any manner adverse to such Support Stockholder or (D) imposes any new condition to the Offer other than the conditions to the Offer in the Merger Agreement, (iv) the Apellis Board changes its recommendation in favor of the Offer and (v) the mutual written consent of Biogen and each Support Stockholder.
+
+The Tender and Support Agreement has been included to provide information regarding its terms. It is not intended to modify or supplement any factual disclosures about the applicable Support Stockholder or Biogen, Apellis or Purchaser in any public reports filed with the SEC by Biogen.
+
+The foregoing description of the Tender and Support Agreement does not purport to be complete and is qualified in all respects by reference to the full text of the Tender and Support Agreement, which is attached as Exhibit 99.1 hereto and is incorporated by reference herein.
+
+Contingent Value Rights Agreement
+
+At or prior to the time at which Purchaser irrevocably accepts for purchase all shares of Apellis Common Stock validly tendered (and not validly withdrawn) pursuant to the Offer, Biogen, Apellis and the Rights Agent will enter into the CVR Agreement. The CVRs are contractual rights only and not transferable except under certain limited circumstances, will not be certificated or evidenced by any instrument and will not be registered with the SEC or listed for trading. The CVRs will not have any voting or dividend rights and will not represent any equity or ownership interest in Biogen, Purchaser, Apellis or any of their affiliates.
+
+Each CVR represents a non-transferable contractual contingent right to receive the following cash payments, without interest and subject to reduction for any applicable tax withholding (the “Milestone Payments”) if the following milestones (the “Milestones”) are achieved:
+
+ 
+
+ 
+
+•
+
+ 
+
+$2.00 per CVR, upon the achievement of Annual Net Sales, as defined in the CVR Agreement, of at least $1,500,000,000 attributable to SYFOVRE® and related products in the aggregate during the 2027, 2028, 2029 or 2030 calendar years (the “Net Sales Milestone 1”); or
+
+ 
+
+ 
+
+•
+
+ 
+
+$2.00 per CVR, upon the achievement of Annual Net Sales, as defined in the CVR Agreement, of at least $2,000,000,000 attributable to SYFOVRE® and related products in the aggregate during the 2027, 2028, 2029, 2030 or 2031 calendar years (the “Net Sales Milestone 2”), provided that if the Net Sales Milestone 1 is not met prior to December 31, 2030 but the Net Sales Milestone 2 is achieved during the 2031 calendar year, then the Net Sales Milestone 2 shall be worth $4.00 per CVR.
+
+ 
+
+Each Milestone may only be achieved one time; if the Annual Net Sales threshold is met in multiple calendar years, only the first achievement triggers payment.
+
+There can be no assurance that any Milestone will be achieved prior to the expiration or termination of the CVR Agreement, or that payment will be required of Biogen with respect to any Milestone.
+
+The foregoing description of the CVR Agreement does not purport to be complete and is qualified in all respects by reference to the full text of the form of the CVR Agreement, a copy of which is attached as Exhibit B to the Merger Agreement filed as Exhibit 2.1 hereto and is incorporated by reference herein.
+
+Item 8.01 Other Events.
+
+Press Release
+
+On March 31, 2026, Biogen and Apellis issued a joint press release announcing the entry into the Merger Agreement. A copy of the press release is attached as Exhibit 99.2 hereto and is incorporated herein by reference.
+
+Investor Webcast Presentation
+
+On March 31, 2026, Biogen held an investor webcast presentation announcing the Merger. A copy of the investor webcast presentation relating to the Merger is attached as Exhibit 99.3 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements, relating to, among others, statements regarding the expected timetable for completing the proposed transaction, benefits of the proposed transaction, financing of the proposed transaction, costs and other anticipated financial impacts of the proposed transaction. These forward-looking statements may be accompanied by such words as “aim,” “anticipate,” “assume,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “forecast,” “goal,” “guidance,” “hope,” “intend,” “may,” “objective,” “outlook,” “plan,” “possible,” “potential,” “predict,” “project,” “prospect,” “should,” “target,” “will,” “would” or the negative of these words or other words and terms of similar meaning. Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in commercialization of a product. Results in early-stage clinical trials may not be indicative of full results or results from later stage or larger scale clinical trials and do not ensure regulatory approval. You should not place undue reliance on these statements. Given their forward-looking nature, these statements involve substantial risks and uncertainties that may be based on inaccurate assumptions and could cause actual results to differ materially from those reflected in such statements.
+
+These forward-looking statements are based on management’s current beliefs and assumptions and on information currently available to management. Given their nature, we cannot assure that any outcome expressed in these forward-looking statements will be realized in whole or in part. We caution that these statements are subject to risks and uncertainties, many of which are outside of our control and could cause future events or results to differ materially from those stated or implied in this document, including, among others, the delay or failure of the tender offer conditions to be satisfied (or waived), including insufficient shares of Apellis common stock being tendered in the tender offer; the timing to consummate the proposed transaction; the risk that the conditions to closing of the proposed transaction may not be satisfied or that the closing of the proposed transaction otherwise does not occur; the risk that a regulatory approval that may be required to consummate the proposed transaction is not obtained or is obtained subject to conditions that are not anticipated or conditions that Biogen is not obligated to accept; the diversion of management time on transaction-related issues; expectations regarding regulatory approval of the transaction; results of litigation, settlements and investigations; actions by third parties, including governmental agencies; global economic conditions; adverse industry conditions; potential business uncertainty, including changes to existing business relationships during the pendency of the proposed transaction that could affect financial performance; legal proceedings; governmental regulation; the ability to retain management and other personnel; that all or any of the contingent consideration will become payable on the terms described herein; the accuracy of Biogen’s estimates of the size and characteristics of the markets that may be addressed by its product candidates; Biogen’s ability to increase its manufacturing capabilities for its products and product candidates; and other economic, business, or competitive factors. and any other risks and uncertainties that are described in other reports we have filed with the U.S. Securities and Exchange Commission, which are available on the SEC’s website at www.sec.gov.
+
+These statements speak only as of the date of this press release and are based on information and estimates available to us at this time. Should known or unknown risks or uncertainties materialize or should underlying assumptions prove inaccurate, actual results could vary materially from past results and those anticipated, estimated or projected. Investors are cautioned not to put undue reliance on forward-looking statements. A further list and description of risks, uncertainties and other matters can be found in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025, and in our subsequent reports on Form 10-Q. Except as required by law, we do not undertake any obligation to publicly update any forward-looking statements whether as a result of any new information, future events, changed circumstances or otherwise.
+
+Important Information for Investors and Stockholders and Where to Find It
+
+The tender offer referenced in this Current Report on Form 8-K has not yet commenced. This filing is for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell any Apellis Common Stock or any other securities, nor is it a substitute for the tender offer materials that Biogen or Purchaser will file with the SEC. The terms and conditions of the tender offer will be published in, and the offer to purchase Apellis Common Stock will be made only pursuant to, the offer document and related offer materials prepared by Biogen and Purchaser and filed with the SEC in a tender offer statement on Schedule TO at the time the tender offer is commenced.
+
+THE TENDER OFFER MATERIALS (INCLUDING AN OFFER TO PURCHASE, A RELATED LETTER OF TRANSMITTAL AND CERTAIN OTHER TENDER OFFER DOCUMENTS) AND THE SOLICITATION/RECOMMENDATION STATEMENT ON SCHEDULE 14D-9, AS THEY MAY BE AMENDED FROM TIME TO TIME, WILL CONTAIN IMPORTANT INFORMATION. INVESTORS AND APELLIS SECURITYHOLDERS ARE URGED TO READ THESE DOCUMENTS CAREFULLY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION THAT SUCH PERSONS SHOULD CONSIDER BEFORE MAKING ANY DECISION REGARDING TENDERING THEIR COMMON STOCK.
+
+The tender offer materials, including the offer to purchase and the related letter of transmittal and certain other tender offer documents, and the solicitation/recommendation statement (when they become available) and other documents filed with the SEC by Biogen or Apellis, may be obtained free of charge at the SEC’s website at www.sec.gov or at Biogen’s website at https://www.biogen.com/ or at Apellis’ website at https://investors.apellis.com/news-releases. In addition, Biogen’s tender offer statement and other documents it will file with the SEC will be available at https://investors.biogen.com/.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+2.1*
+
+  
+
+Agreement and Plan of Merger, dated as of March 31, 2026, by and among Apellis Pharmaceuticals, Inc., Biogen Inc. and Aspen Purchaser Sub, Inc.
+
+99.1
+
+  
+
+Tender and Support Agreement, dated as of March 31, 2026, by and among Biogen Inc., Aspen Purchaser Sub, Inc. and certain stockholders of Apellis Pharmaceuticals, Inc.
+
+99.2
+
+  
+
+Joint Press Release, dated March 31, 2026, issued by Biogen Inc. and Apellis Pharmaceuticals, Inc.
+
+99.3
+
+  
+
+Investor Webcast Presentation, dated March 31, 2026, prepared by Biogen Inc.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+*
+
+Schedules, exhibits and similar attachments have been omitted pursuant to Item 601(a)(5) of Regulation S-K. Biogen hereby agrees to supplementally furnish to the SEC upon request any omitted schedule, exhibit or similar attachment to Exhibit 2.1.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Biogen Inc.
+
+Date: March 31, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Wendell Taylor
+
+ 
+
+ 
+
+ 
+
+Name: Wendell Taylor
+
+ 
+
+ 
+
+ 
+
+Title: Secretary

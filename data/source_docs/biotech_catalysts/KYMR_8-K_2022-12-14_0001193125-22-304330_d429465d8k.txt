@@ -1,0 +1,445 @@
+8-K
+
+false 0001815442 0001815442 2022-12-14 2022-12-14
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 14, 2022
+
+ 
+
+ 
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39460
+
+ 
+
+81-2992166
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Kymera Therapeutics, Inc.
+
+200 Arsenal Yards Blvd., Suite 230
+
+Watertown, Massachusetts 02472
+
+(Address of principal executive offices, including zip code)
+
+(857) 285-5300
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+KYMR
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On December 14, 2022, Kymera Therapeutics, Inc. (the “Company”) issued a press release, a copy of which is furnished herewith as Exhibit 99.1.
+
+The information in this Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events
+
+Clinical Updates
+
+On December 14, 2022, the Company announced clinical results from Part C, the patient cohort portion of its KT-474 (IRAK4) Phase 1 clinical trial, as well as updates on its oncology programs: KT-413 (IRAKIMiD), KT-333 (STAT3) and KT-253 (MDM2).
+
+KT-474 Phase 1 Clinical Trial, Part C
+
+Part C of the Company’s Phase 1 clinical trial was designed to confirm that the pharmacokinetics (“PK”), and pharmacodynamics (“PD”), and safety data previously demonstrated in healthy volunteers would translate into patients with hidradenitis suppurativa (“HS”) and atopic dermatitis (“AD”). Data was also collected on the change in circulating inflammatory biomarkers and proinflammatory gene transcripts in the patients’ skin, as well as on multiple clinical endpoints.
+
+Part C patients were dosed for 28 days and subsequently followed for an additional 2 weeks out to Day 42. Patients received 75 mg of KT-474 once daily in the fed state. That dose was selected to achieve similar exposures to healthy volunteers in the multiple ascending dose (“MAD”) portion of the Phase 1 clinical trial who received 100 mg in the fasted state (“MAD3”). A total of 21 patients were enrolled in the trial, including 13 HS and 8 AD patients, with median age 31-40 years (13 female, 8 male). Disease severity for HS was moderate (10), severe (1) and very severe (2) and for AD was mild (1), moderate (5) and severe (2). One HS and one AD patient withdrew from treatment early due to personal reasons, resulting in 12 HS and seven AD patients evaluable for PD and clinical efficacy.
+
+In patients with HS and AD, KT-474 demonstrated plasma PK in Part C that was comparable to healthy volunteers in MAD3. Baseline IRAK4 level in skin lesions of evaluable HS and AD patients in Part C (n=11) was approximately two-fold higher at day 28 compared to healthy volunteers. KT-474 demonstrated IRAK4 knockdown in both blood and skin that was comparable to MAD3, with maximum degradation exceeding 90%. Target degradation was similar across HS and AD patients in both blood and skin. In ex vivo cytokine stimulation assays, KT-474 demonstrated broad and deep inhibition of multiple disease-relevant cytokines, including inhibition of up to 84% in HS and up to 98% in AD. Cytokine reductions across both patient groups in Part C were comparable or superior to what was observed in MAD3. KT-474 also reduced several circulating cytokines and acute phase reactants in vivo such as IL-6, CRP, IL-1b and serum amyloid A (SAA) in evaluable patients (n= 3 to 10). In serial biopsies of skin lesions, proinflammatory gene transcripts that were strongly downregulated in at least 50% of evaluable patients included but not limited to: IL-5, NLRP3, CXCL1 and IL-2RB in AD and IL-1b, IL-36A, IL-17A, IFN-g, IL-8, granzyme B, IL-2RA and CSF3 in HS.
+
+Clinical Activity: Atopic Dermatitis (AD)
+
+AD clinical endpoints collected in the trial included the Eczema Area and Severity Index (“ EASI”), score, Peak Pruritus Numerical Rating Scale (“NRS”), and the Validated Investigator Global Assessment for AD (“vIGA-AD”). Peak Pruritus NRS was used to derive Peak Pruritus NRS responder rate. Results are shown in the table below. vIGA-AD was stable or improved in all patients.
+
+ 
+
+ 
+
+  
+
+Atopic Dermatitis (n=7)
+
+ 
+
+Responders:
+
+  
+
+Peak Pruritus NRS: Past Week/Past 24 Hours
+
+  
+
+ 
+
+57%/71%
+
+ 
+
+Mean Reductions:
+
+  
+
+EASI
+
+  
+
+ 
+
+-37%
+
+ 
+
+Peak Pruritus NRS: Past Week/Past 24 Hours
+
+  
+
+ 
+
+-52%/-63%
+
+ 
+
+Note: Results represent highest response/deepest reduction across Days 28 through 42.
+
+Clinical Activity: Hidradenitis Suppurativa (HS)
+
+HS clinical endpoints collected in the trial included abscess and inflammatory nodule (“AN”), count, Pain NRS, Pruritus NRS and HS Physician Global Assessment (“HS-PGA”). AN count and Pain NRS were also used to derive AN 0/1/2, Hidradenitis Suppurativa Clinical Response (“HiSCR”), and Pain NRS30 responder rates. Analyses were done for all patients, including very severe (n=12), and for patients with only moderate to severe disease (n=10). Results are shown in the table below. HS-PGA was stable or improved in all patients.
+
+ 
+
+ 
+
+  
+
+Hidradenitis Suppurativa
+
+Responders:
+
+  
+
+All Patients (n=12*)
+
+  
+
+Moderate/Severe (n=10)
+
+AN Count 0/1/2
+
+  
+
+42%
+
+  
+
+50%
+
+HiSCR50/ HiSCR75
+
+  
+
+42%/25%
+
+  
+
+50%/30%
+
+Pain NRS30
+
+  
+
+50%
+
+  
+
+60%
+
+Mean Reductions:
+
+  
+
+  
+
+AN Count
+
+  
+
+-46%
+
+  
+
+-51%
+
+Pain NRS
+
+  
+
+-49%
+
+  
+
+-55%
+
+Peak Pruritus NRS
+
+  
+
+-62%
+
+  
+
+-68%
+
+Note: Results represent highest response/deepest reduction across Days 28 through 42. Pain and Pruritus scores measured over past week.
+
+ 
+
+*
+
+One patient started on concurrent HS medications on Day 34 and was censored at Day 35 and Day 42 from Mean Reduction values.
+
+Safety
+
+KT-474 was generally safe and well-tolerated, with no serious adverse events, no drug-related infections, and no dose interruptions or discontinuations due to adverse events. Adverse events, which included headache, fatigue and diarrhea, were predominantly mild, and all fully resolved. Previously seen modest, non-adverse QTcF prolongation was observed at Days 7-14, the mean of which was slightly below the mean levels at similar timepoints in MAD3 healthy volunteers. The QTcF prolongation declined spontaneously with continued dosing, with resolution to baseline by Day 28, and remained in the same normal range after cessation of dosing.
+
+STAT3 degrader program (KT-333)
+
+KT-333 is a potent degrader of STAT3, a transcriptional regulator that has been linked to numerous cancers and other inflammatory and autoimmune diseases. KT-333 is being developed for the treatment of STAT3-dependent hematological malignancies and solid tumors. The Phase 1 clinical trial of KT-333 is designed to evaluate the safety, tolerability, PK/PD and clinical activity of KT-333 dosed weekly on Days 1, 8 and 15 of 28-day cycles in adult patients with relapsed and/or refractory lymphomas, leukemias and solid tumors.
+
+The Phase 1a dose escalation portion of the trial is ongoing; dose level 1 (0.05 mg/kg) has been completed with a total of four patients enrolled. All patients were heavily pretreated with multiple prior lines of therapy and included three patients with solid tumors and one patient with cutaneous T-cell lymphoma. Plasma PK and PD translated as the Company expected in humans with mean maximum STAT3 degradation in peripheral blood mononuclear cells (“PBMC”), following the first 2 doses averaging 66%, with maximum STAT3 knockdown of up to 86% as measured by mass spectrometry. Maximal degradation in dose level 1 patients was observed between 24 and 96 hours post infusion in Cycle 1 weeks 1 & 2, with recovery of STAT3 levels between doses, as seen in preclinical models There were no dose limiting toxicities (“DLTs”) or treatment-related serious adverse events (“SAEs”) observed in dose level 1 as of the date of this Current Report on Form 8-K. Dose level 2 (0.10 mg/kg) is currently enrolling. The Company plans to share additional STAT3 clinical data in 2023.
+
+IRAKIMiD degrader program (KT-413)
+
+KT-413 is a novel heterobifunctional degrader targeting both IRAK4 and the IMiD substrates Ikaros and Aiolos. Designed to address both the IL-1R/TLR and Type 1 IFN pathways synergistically with a single molecule, KT-413 is in development for the treatment of MYD88-mutant B cell malignancies. The Phase 1 clinical trial of KT-413 is designed to evaluate the safety, tolerability, PK/PD and clinical activity of KT-413 administered as an intravenous (“IV”) infusion once every 3 weeks to adult patients with relapsed and/or refractory B-cell non-Hodgkin’s lymphomas.
+
+The Phase 1a dose escalation portion of the trial is ongoing; dose level 1 (0.16 mg/kg) and dose level 2 (0.32 mg/kg) have been completed. Patients in both dose cohorts were heavily pretreated, having received multiple prior lines of therapy, and included follicular lymphoma and nodular lymphocyte-predominant Hodgkin lymphoma, which were both wild-type for MYD88. Plasma PK and PD also translated as expected in humans with dose level 1 and dose level 2 showing dose-dependent degradation of IRAK4, Ikaros and Aiolos in PBMC, with up to 95/100% knockdown of Ikaros/Aiolos and 40% knockdown of IRAK4 in dose level 2. Serial tumor biopsies at Cycle 3/Day 4 in the patient treated at dose level 1 showed comparable knockdown of Ikaros/Aiolos and IRAK4 as in plasma. There were no DLTs or treatment-related SAEs and no neutropenia observed in dose level 1 and dose level 2 patient cohorts. Phase 1a dose escalation is ongoing and dose level 3 (0.51 mg/kg) is currently enrolling. The Company plans to share additional IRAKIMiD clinical data in 2023.
+
+MDM2 degrader program (KT-253)
+
+On December 14, 2022, the Company announced that it received clearance from the FDA of its investigational new drug (“IND”) application for KT-253. KT-253 is a degrader that targets MDM2, the crucial regulator of the most common tumor suppressor, p53, which remains intact (WT) in more than 50% of cancers. Unlike small molecule inhibitors, KT-253 has been shown preclinically to have the ability to suppress the MDM2 feedback loop and rapidly induce apoptosis, even with brief exposures. The Company is currently preparing to initiate a Phase 1 clinical trial evaluating the safety, tolerability, PK/PD and clinical activity of KT-253 in adult patients with liquid and solid tumors in 2023. The Company plans to share more details around the trial design and timelines in early 2023.
+
+Sanofi Collaboration
+
+On July 7, 2020, the Company entered into a collaboration agreement (the “Original Sanofi Agreement”) with Genzyme Corporation, a subsidiary of Sanofi S.A. (“Sanofi”), to co- develop drug candidates directed to two biological targets. The Original Sanofi Agreement became effective during the third quarter of 2020.
+
+On November 15, 2022, the Company and Sanofi entered into an Amended and Restated Collaboration and License Agreement (the “Amended Sanofi Agreement”), which amended the Original Sanofi Agreement to revise certain research terms and responsibilities set forth under the Original Sanofi Agreement. The Amended Sanofi Agreement also specifies details around the timing and number of Phase 2 trials required under the terms of the collaboration. The Amended Sanofi agreement became effective on December 5, 2022.
+
+The Original Sanofi Agreement’s development opt-in provisions and related terms and conditions, termination provisions, and the aggregate milestone dollar amounts, profit-sharing rights, and royalty provisions remain unchanged in the Amended Sanofi Agreement.
+
+Under the Amended Sanofi Agreement, the Company will be eligible to receive certain development milestone payments of up to $1.48 billion in the aggregate, of which more than $1.0 billion relates to the IRAK4 program, upon the achievement of certain developmental or regulatory events. The Company will also be eligible to receive certain commercial milestone payments up to $700.0 million in the aggregate, of which $400.0 million relates to the IRAK4 program, which are payable upon the achievement of certain net sales thresholds, which remain unchanged from the Original Sanofi Agreement. The Company will further be eligible to receive tiered royalties for each program on net sales ranging from the high single digits to high teens, subject to low-single digits upward adjustments in certain circumstances, which are also unchanged from the Original Sanofi Agreement.
+
+The Amended Sanofi Agreement, unless earlier terminated, will expire on a product-by-product basis on the date of expiration of all payment obligations under the Amended Sanofi Agreement with respect to such product. The Company or Sanofi may terminate the agreement upon the other party’s material breach or insolvency or for certain patent challenges. In addition, Sanofi may terminate the agreement for convenience or for a material safety event upon advance prior written notice, and the Company may terminate the agreement with respect to any collaboration candidate if, following Sanofi’s assumption of responsibility for the development, commercialization or manufacturing of collaboration candidates with respect to a particular target, Sanofi ceases to exploit any collaboration candidates directed to such target for a specified period. The forgoing termination triggers are consistent with those set forth in the Original Sanofi Agreement.
+
+The forgoing description of the Amended Sanofi Agreement does not purport to be complete and is qualified in its entirety by the full text of the Amended Sanofi Agreement, a copy of which is expected to be filed as an exhibit to the Company’s annual report on Form 10-K for the year ending December 31, 2022.
+
+Additionally, on December 2, 2022, Sanofi provided the Company with written notice of its intention to advance the collaboration target 1 candidate, KT-474, into Phase 2 clinical trials. The Company is entitled to receive milestone payments upon the dosing of the first Phase 2 patient(s) per indication up to a specified number of indications as further set forth in the Amended Sanofi Agreement. Phase 2 clinical trials of KT-474 will initially investigate its potential in HS and AD with the clinical trial for the first indication initiating in 2023.
+
+The disclosure under this Item 8.01 contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, express or implied statements regarding the Company’s strategy, business plans and objectives for the IRAK4, IRAKIMiD, STAT3 and MDM2 degrader programs; plans and timelines for the clinical development of the Company’s product candidates, including the therapeutic potential, clinical benefits and safety thereof; expectations regarding timing, success and data announcements of current ongoing or planned clinical trials; and the ability to initiate new clinical programs. The words “‘‘aim,’’ ‘‘anticipate,’’ ‘‘assume,’’ ‘‘believe,’’ ‘‘contemplate,’’ ‘‘continue,’’ ‘‘could,’’ ‘‘design,’’
+
+‘‘due,’’ ‘‘estimate,’’ ‘‘expect,’’ ‘‘goal,’’ ‘‘intend,’’ ‘‘may,’’ ‘‘objective,’’ ‘‘plan,’’ ‘‘predict,’’ ‘‘positioned,’’ ‘‘potential,’’ ‘‘seek,’’ ‘‘should,’’ ‘‘target,’’ ‘‘will,’’ ‘‘would’’ and other similar expressions that are predictions of or indicate future events and future trends, or the negative of these terms or other comparable terminology.
+
+Any forward-looking statements in this press release are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, those risks and uncertainties associated with: the impact of COVID-19 on countries or regions in which the Company has operations or do business, as well as on the timing and anticipated results of the Company’s current and future preclinical studies and clinical trials, supply chain, strategy and future operations; the delay of any current and future preclinical studies or clinical trials or the development of Kymera Therapeutics’ drug candidates; the risk that the results of current preclinical studies and clinical trials may not be predictive of future results in connection with current or future clinical trials, including those for KT-474, KT-333 and KT-413; Kymera Therapeutics’ ability to successfully demonstrate the safety and efficacy of its drug candidates; the timing and outcome of the Kymera Therapeutics’ planned interactions with regulatory authorities; obtaining, maintaining and protecting its intellectual property; Kymera Therapeutics’ relationships with its existing and future collaboration partners; and other risks identified in the Company’s SEC filings, including those risks discussed under the heading “Risk Factors” in the Company’s Annual Report on Form 10-K for the year ended December 31, 2021 and its Quarterly Report on Form 10-Q for the quarter ended September 30, 2022, as well as other risks detailed in the Company’s subsequent filings with the SEC. The Company cautions you not to place undue reliance on any forward-looking statements, which speak only as of the date they are made. Any forward-looking statement included in this Item 8.01 speaks only as of the date on which it was made. The Company undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise, except as required by law.
+
+ 
+
+Item 9.01.
+
+Exhibits
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release issued by Kymera Therapeutics, Inc. on December 14, 2022, furnished herewith.
+
+104
+
+  
+
+Cover Page Interactive Data (embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Kymera Therapeutics, Inc.
+
+Date: December 14, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Nello Mainolfi
+
+ 
+
+ 
+
+ 
+
+Nello Mainolfi, Ph.D.
+
+ 
+
+ 
+
+ 
+
+Founder, President and Chief Executive Officer

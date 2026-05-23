@@ -1,0 +1,277 @@
+8-K
+
+false 0001937653 0001937653 2026-03-02 2026-03-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 2, 2026
+
+ 
+
+ 
+
+Zymeworks Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-41535
+
+ 
+
+88-3099146
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+108 Patriot Drive, Suite A,
+
+Middletown, Delaware
+
+ 
+
+19709
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(302) 274-8744
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.00001 par value per share
+
+ 
+
+ZYME
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On March 2, 2026, Zymeworks BC Inc. (“Zymeworks BC”), a subsidiary of Zymeworks Inc. (the “Company”), entered into a sale agreement (the “Sale Agreement”) with Zymeworks Royalty Limited Partnership (the “Subsidiary”), a special purpose entity newly formed by Zymeworks BC and by its general partner Zymeworks General Partner ULC (“Zymeworks GP”), the Company solely for the purpose of certain indemnification provisions thereunder, and Royalty Pharma Development Funding, LLC (“Royalty Pharma”) as administrative agent. Pursuant to the Sale Agreement, Zymeworks BC sold to the Subsidiary 30% of future royalty payments (not to exceed 120% of the maximum amount payable (excluding indemnification and other similar obligations) by the Subsidiary under the Loan Agreement (as defined below)) related to Ziihera (zanidatamab-hrii) receivable under: (i) the Amended and Restated License and Collaboration Agreement, dated as of May 15, 2023, between Zymeworks BC and Jazz Pharmaceuticals Ireland Limited (as amended, the “Jazz Agreement”) and (ii) collectively: (x) the License and Collaboration Agreement, dated as of November 26, 2018, by and between Zymeworks BC and BeOne Medicines Ltd. (f/k/a BeiGene, Ltd.); and (y) the Three-Party Royalty Payment Agreement, dated October 30, 2025 and effective as of December 6, 2024, by and between Zymeworks BC, BeOne Medicines Ltd. (f/k/a BeiGene, Ltd.) and BeOne Pharmaceutical (Suzhou) Co., Ltd. (as amended, the “BeOne Agreement,” and together with the Jazz Agreement, the “Covered Agreements”) at a purchase price of $250.0 million. The Ziihera-related assets and rights sold to the Subsidiary are referred to herein as the “Royalty Interest.” Under the Sale Agreement, Zymeworks BC is restricted from taking certain actions with respect to the Covered Agreements, including (i) entering into any contracts, or amending, modifying or waiving provisions of any contracts, relating to the royalties receivable under the Covered Agreements that would undermine the Royalty Interest or reasonably be expected to result in a Material Adverse Effect (as defined therein), (ii) taking actions that would, or would give the right to an applicable counterparty to, terminate a Covered Agreement or certain material in-license agreements covering Ziihera, or amending, modifying, waiving any provision, providing any consent or taking any action under any Covered Agreement that would reduce any Royalty Interest payments or reasonably be expected to result in a Material Adverse Effect, without the prior written consent of the Subsidiary and Royalty Pharma, (iii) selling, transferring, disposing of or encumbering its interests in applicable Ziihera-specific intellectual property, Ziihera, a Covered Agreement or certain material in-license agreements covering Ziihera, or entering into monetization or similar transactions with respect to Zymeworks BC’s retained royalty interests under any Covered Agreement, except, in each case, without certain assumption and other arrangements protective to Royalty Pharma’s interests, and (iv) permitting Covered Agreement counterparties to acquire more than 50% of Zymeworks BC’s retained royalty interests under any Covered Agreement without certain assumption and other arrangements protective to Royalty Pharma’s interests, in addition to being subject to other customary covenants.
+
+The Sale Agreement also includes customary indemnification obligations of the Company and Zymeworks BC in favor of the Subsidiary and Royalty Pharma. The obligations of the parties under the Sale Agreement terminate automatically upon the payment in full of the Loan and the other obligations under the Loan Agreement.
+
+Following the sale and transfer of the Royalty Interest, the Subsidiary entered into a Loan Agreement (the “Loan Agreement”), dated March 2, 2026, with Royalty Pharma as administrative agent and lender (in the capacity as lender under the Loan Agreement, the “Lender” and together with such other lenders party to the Loan Agreement from time to time the “Lenders”), pursuant to which the Lenders made a term loan to the Subsidiary (the “Loan”) in an aggregate principal amount of $250.0 million (the “Loan Amount”), that bears interest at a fixed rate and matures on December 31, 2042 (the “Maturity Date”). Under the terms of the Loan Agreement, the amount payable to the Lenders no later than the Maturity Date is approximately $481.3 million, provided that if the Loan is repaid in full on or before December 31, 2033, the amount payable to the Lenders is $412.5 million, in each case inclusive of all applicable interest, yield protection premiums, early redemption fees, exit fees and other amounts payable under the Loan Agreement (excluding indemnification and similar obligations). Any amount borrowed and repaid by Subsidiary may not be reborrowed.
+
+The Company will retain 70% of royalties on Ziihera annual net sales, with full royalty rights reverting to the Company once the Loan and other amounts payable under the Loan Agreement to Royalty Pharma have been repaid in full. All earned regulatory and commercial milestone payments under the Covered Agreements will be retained by the Company.
+
+Under the Jazz Agreement, the Company is eligible to receive tiered royalties of ten to high teens percentages on global (outside of Asia (other than Japan), Australia and New Zealand) annual net sales of Ziihera up to $2.0 billion and 20% on annual net sales above $2.0 billion. Under the BeOne Agreement, the Company is eligible to receive tiered royalties of mid-single to mid-double digit percentages on annual net sales of Ziihera in Asia (other than Japan), Australia and New Zealand up to $1.0 billion and 19.5% on annual net sales above $1.0 billion (with royalty rates increasing by 0.5% when cumulative amounts forgone as a result of a royalty reduction of 0.5% reaches a cap in the low double-digit millions of dollars).
+
+In connection with entering into the Loan Agreement, (i) the Subsidiary entered into a security agreement with Royalty Pharma, whereby the Subsidiary granted a security interest in all of its assets (the “Collateral”) in favor of Royalty Pharma, and (ii) Zymeworks BC and Zymeworks GP entered into a pledge and security agreement with Royalty Pharma, whereby Zymeworks BC and Zymeworks GP pledged their respective equity interests in the Subsidiary, with Zymeworks BC also pledging its equity in Zymeworks GP. If certain Events of Default (as defined in the Loan Agreement) occur, including the termination of the Jazz Agreement or the BeOne Agreement or a change of control of the Company, as well as other customary events of default, the administrative agent may terminate the Loan Agreement and demand immediate payment of an amount equal to the outstanding principal amount of the Loan plus all applicable fees, premiums and accrued and unpaid interest thereon and exercise all rights and remedies available under or pursuant to the Loan Agreement. The Loan Agreement includes certain customary affirmative and negative covenants applicable to the Subsidiary, including restrictions on the incurrence of additional indebtedness, creation of liens, asset transfers, mergers, dividends and certain transactions with affiliates. In addition, the Subsidiary is subject to covenants designed to limit its activities primarily to holding and administering its rights and obligations under certain transaction agreements including the Loan Agreement and the Sale Agreement, and the Subsidiary may not amend or terminate the Sale Agreement without the Lenders’ consent.
+
+The Loan Agreement also contains other customary terms and conditions, including representations and warranties, as well as indemnification obligations in favor of Royalty Pharma. The payment obligations under the Loan Agreement are limited to the Subsidiary, and the Lenders have no recourse under the Loan Agreement against the Company or Zymeworks BC or any assets other than the Collateral and Zymeworks BC’s equity interest in Zymeworks GP and the Subsidiary, and Zymeworks GP’s equity interests in the Subsidiary.
+
+The above description of the Loan Agreement and the Sale Agreement is a summary of the material terms and does not purport to be complete; the summary is qualified in its entirety by reference to the Loan Agreement and Sale Agreement, copies of which will be filed as exhibits to the Company’s Quarterly Report on Form 10-Q for the three months ended March 31, 2026, to be filed with the Securities and Exchange Commission.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information in Item 1.01 above is incorporated by reference into this Item 2.03.
+
+Item 7.01
+
+Regulation FD Disclosure
+
+On March 2, 2026, the Company and Royalty Pharma issued a joint press release announcing the entry into the Loan Agreement and Sale Agreement. A copy of this press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+The information provided under this Item 7.01 (including Exhibit 99.1 attached hereto) is being furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+ 
+
+ITEM 9.01
+
+FINANCIAL STATEMENTS AND EXHIBITS
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release dated March 2, 2026.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded as Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ZYMEWORKS INC.
+
+(Registrant)
+
+Date: March 2, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Kenneth Galbraith
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Kenneth Galbraith
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chair of the Board of Directors, President, Chief Executive Officer and interim Chief Financial Officer

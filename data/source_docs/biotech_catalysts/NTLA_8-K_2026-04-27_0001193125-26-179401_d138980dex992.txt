@@ -1,0 +1,347 @@
+EX-99.2
+3
+d138980dex992.htm
+EX-99.2
+
+EX-99.2
+
+Exhibit 99.2
+
+ 
+
+Phase 3 HAELO Clinical Trial: Topline Data for Lonvo-z April 27, 2026
+
+Intellia Therapeutics’ Legal Disclaimer This presentation contains “forward-looking
+statements” of Intellia Therapeutics, Inc. (“Intellia”, “we” or “our”) within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, but are not
+limited to, express or implied statements about Intellia’s beliefs and expectations regarding: our ability to successfully develop and commercialize lonvoguran ziclumeran (“lonvo-z”), formerly known as NTLA-2002, for the treatment
+of hereditary angioedema (“HAE”); our ability to achieve upcoming objectives, including completing the submission of a biologics license application for lonvo-z for the treatment of HAE in the second half of 2026, and successfully
+launching lonvo-z for the treatment of HAE in the U.S. in the first half of 2027; the potential commercial opportunities for lonvo-z and our other product candidates, including the value and market potential for lonvo-z and the potential of lonvo-z
+to eliminate attacks and ongoing therapy with one treatment; and our ability to complete our current lonvo-z priorities to prepare for a successful launch, including scaling a field sales and reimbursement teams, finalizing pricing, and finalizing a
+contracting strategy. Any forward-looking statements in this presentation are based on management’s current expectations and beliefs of future events, and are subject to a number of risks and uncertainties that could cause actual results to
+differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: risks related to the ability to successfully develop and commercialize lonvo-z or
+any of our other product candidates; risks related to Intellia’s ability to protect and maintain its intellectual property position; risks related to Intellia’s relationship with third parties, including our contract manufacturers,
+licensors and licensees; risks related to the ability of our licensors to protect and maintain their intellectual property position; uncertainties related to the authorization, initiation and conduct of preclinical and clinical studies and other
+development requirements for our product candidates, including uncertainties related to regulatory approvals to conduct clinical trials; risks related to the results of preclinical studies or clinical studies not being predictive of future results
+in connection with future studies; the risk that clinical trial results will not be positive; risks related to the development and advancement of in vivo and ex vivo technologies for pipeline expansion and collaborations; risks related to
+Intellia’s future financial condition and our ability to fund our operations; risks related to Intellia’s collaborations with Regeneron or our other collaborations not continuing or not being successful; and risks related to
+Intellia’s ability to execute its strategic plans, including completing pivotal clinical trials and commercial launch of its product candidates. For a discussion of these and other risks and uncertainties, and other important factors, any of
+which could cause Intellia’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in Intellia’s most recent Annual Report of Form 10-K and Quarterly Report
+on Form 10-Q as well as discussions of potential risks, uncertainties, and other important factors in Intellia’s other filings with the Securities and Exchange Commission. All information in this presentation is as of the date on its cover
+page, and Intellia undertakes no duty to update this information unless required by law.
+
+Today’s Speakers Dr. John Leonard, President and Chief Executive Officer Intellia Therapeutics
+Dr. David Lebwohl, Executive Vice President and Chief Medical Officer Intellia Therapeutics Dr. Marc Riedl, Professor of Medicine, Clinical Director of the U.S. Hereditary Angioedema Association (HAEA) Angioedema Center University of
+California San Diego; HAELO principal investigator
+
+Introduction Dr. John Leonard President & CEO, Intellia Therapeutics
+
+CRISPR is Coming of Age 2020 1987 2012 Nobel Prize in Chemistry 2023 Discovery of natural CRISPR/Cas9 awarded
+to Intellia co-founder FDA approval of first ex vivo CRISPR systems in 2 publication in Science Jennifer Doudna CRISPR-based therapy E. coli bacteria1 2014 Intellia Therapeutics founded
+
+Intellia’s Mission Statement To transform the lives of people with severe diseases by developing and
+commercializing potentially curative treatments.
+
+CRISPR is Coming of Age 2020 1987 2012 Nobel Prize in Chemistry 2023 Discovery of natural CRISPR/Cas9 awarded
+to Intellia co-founder FDA approval of first ex vivo CRISPR systems in 2 publication in Science Jennifer Doudna CRISPR-based therapy E. coli bacteria1 2024-2025 2020 Intellia doses first TODAY 2014 Intellia doses first patient patients with in vivo
+Intellia reports world’s Intellia Therapeutics with an in vivo CRISPR-based CRISPR-based first Ph3 in vivo CRISPR founded data; initiation of therapy (nex-z) therapies in Ph3 trials for HAE and ATTR rolling BLA
+
+Intellia’s Pipeline Advancing Toward Significant Near-Term Milestones Research/ Early-Stage Late-Stage
+BLA Prog ram Indication Preclinical Clinical Clinical Submission Lonvo-z1 Hereditary Angioedema (HAE) Transthyretin Amyloidosis with LEAD Polyneuropathy (ATTRv-PN) Nex-z2 Transthyretin Amyloidosis with LEAD Cardiomyopathy (ATTR-CM) REGV131-LNP12653
+Hemophilia B AVC-201 Acute Myeloid Leukemia (AML) 4 AVC-203 B-cell malignancies 5 Other Ongoing Various Research Programs
+
+About HAE and Lonvo-z Dr. David Lebwohl Chief Medical Officer, Intellia Therapeutics
+
+Hereditary Angioedema (HAE): Currently a Lifelong Condition with Significant Burden Rare, genetic and
+life-threatening disease • Caused by a hereditary deficiency or dysfunction of the C1 inhibitor protein that leads to an imbalance in the kallikrein-kinin system and an overproduction of bradykinin • Patients experience unpredictable,
+recurrent, painful and potentially life-threatening swelling attacks1,2 • Symptoms often begin in the first decade of life and typically worsen in puberty3,4 • Attacks can be triggered by stress, trauma, infection, fatigue and hormones2
+
+Despite Available Treatments, Many Patients are Unable to Break the Chronic Cycle of Managing Their HAE
+Patient-Reported Burdens Lifelong Incomplete Significant Treatment for Control for Most Financial Impact All Life-Threatening Burden to Attacks Maintain Access 80% reported having 68% highly 45% highly ?1 HAE attack during concerned about concerned
+about the past year1 need for lifetime the financial burden of medication1 of HAE1 >50% experience 80% concerned their a laryngeal attack health insurance would in their lifetime2 change and impact medication access1
+
+The Cumulative Costs for Chronic HAE Treatments are Sizable U.S. Treated Patients Average Age of HAE Cumulative
+U.S. Healthcare System Costs for with Type 1 & 2 HAE1 Diagnosis in U.S.2 Chronic and On-Demand HAE Therapies3 ~7,000 $19.1B On Demand LTP ~2,600 On Demand ~20 $11.5B ~4,400 LTP $3.8B $9 $3.0B 1 year 3 years 5 years
+
+Lonvo-z is an Investigational One-Time HAE Treatment Intended to Permanently Inactivate the KLKB1 Gene In HAE,
+C1 inhibitor deficiency imbalances the Lonvo-z was designed to stop HAE attacks: kallikrein-kinin system (KKS), leading to excess Inactivating KLKB1 gene resets the KKS to stop protein production and debilitating swelling attacks excess protein
+production and HAE swellings Blood vessel with HAE Blood vessel after lonvo-z Factor XII Factor XIIa Factor XII Factor XIIa C1INH C1INH KLKB1 KLKB1 Prekallikrein Kallikrein Prekallikrein Kallikrein gene gene C1INH C1INH HMW kininogen Bradykinin HMW
+kininogen Bradykinin
+
+Lonvo-z is Designed to be Administered in an Outpatient Setting in Two to Four Hours DAY PRIOR DAY OF One dose
+of orally One dose of each of Single outpatient infusion† Return home administered steroid the following: steroid, (at home)* histamine blocker, STP* gene the gene the editing and Targeting editing and rgetingTa This schedule reflects the HAELO
+Phase 3 clinical trial protocol. Schedule may vary if approved.
+
+Pooled Analysis of Phase 1/2 Clinical Data: After Becoming Attack-Free and LTP-Free for ?6 Months, All Patients
+Maintained Their Response Patient ID* Baseline Monthly LTP initiation LTP withdrawal Attack-free and LTP-free: ?6 months <6 months Attack: Mild Moderate Severe Phase-Initial Dose-Pt # Attack Rate† 1-50-04 1.2 1-50-02 0‡ 1-50-03 0.7
+1-50-01 6.5 2-50-04 1.0 2-50-03 0.9 2-50-01 1.9 2-50-05 4.8 2-50-08 2.1 2-50-09 8.7 2-50-10 7.8 2-50-11 1.0 2-PBO-23 1.1 2-PBO-25 3.7 2-PBO-24 4.3 1-25-03 2.9 2-PBO-22 2.8 2-PBO-27 1.5 24 patients have been 2-50-06 3.3 attack-free and LTP-free for
+7-32 months 2-25-18 3.1 2-25-20 2.3 and remain so at last follow-up 2-25-19 6.4 1-25-02 7.2 2-25-17 1.4 2-50-02 2.8 2-PBO-26 5.2 2-25-13 3.1 7 patients have been 2-25-21 6.8 attack-free and LTP-free for <6 months 2-25-15 4.5 2-25-14 1.4 and
+remain so at last follow-up 2-25-16 2.9 2-50-07 5.4 59% reduction from BL in monthly attack rate
+
+No Waning of Effect Observed: Kallikrein Reduction has Remained Deep and Durable Pooled Data from All 32
+Patients Who Received 50 mg Dose of Lonvo-z in Phase 1/2 0% -10% -20% kallikrein SD) ± -30% (mean -40% plasma in -50% baseline -60% change from -70% -86% -87% Percent -80% -89% -89% -90% -100% BL 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34
+36 Months after lonvo-z 50 mg infusion (N) 32 32 30 29 27 26 23 18 14 14 11 9 4
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator
+
+A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of
+Study Day 1 Week 28 Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term
+(4-8 weeks) randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of
+investigator- Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of
+moderate or severe investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified
+primary analysis when ?60 patients reach Week 28
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months
+
+HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28
+Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2 2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5
+11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key secondary endpoints were achieved with high statistical significance (p<0.0001)
+
+100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically
+relevant Attack-free and 62% 38% 72% mean attack-rate therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0 Favorable Safety and Tolerability Data Primary Observation Period • No SAEs or
+Grade ?3 TEAEs Lonvo-z (N=52) Placebo (N=28) (Weeks 1 – 28) reported in lonvo-z arm TEAEs in ?10% of patients, n (%) • All IRRs were mild or moderate and Infusion-related reaction 32 (62%) 5 (18%) were transient Headache 10
+(19%) 3 (11%) • No meaningful difference between arms in clinical chemistries; single Fatigue 7 (14%) 3 (11%) Grade 2 ALT elevation observed in Nasopharyngitis 7 (14%) 9 (32%) lonvo-z arm that self-resolved in one
+Back pain 6 (12%) 3 (11%) week Upper respiratory tract infection 6 (12%) 2 (7%) • Consistent safety and tolerability data observed in crossover following week Serious TEAEs 0 1 (4%)* 28 as of data cutoff Grade ?3 TEAEs 0 0
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0 Favorable Safety and Tolerability Data Primary Observation Period • No SAEs or
+Grade ?3 TEAEs Lonvo-z (N=52) Placebo (N=28) (Weeks 1 – 28) reported in lonvo-z arm TEAEs in ?10% of patients, n (%) • All IRRs were mild or moderate and Infusion-related reaction 32 (62%) 5 (18%) were transient Headache 10
+(19%) 3 (11%) • No meaningful difference between arms in clinical chemistries; single Fatigue 7 (14%) 3 (11%) Grade 2 ALT elevation observed in Nasopharyngitis 7 (14%) 9 (32%) lonvo-z arm that self-resolved in one
+Back pain 6 (12%) 3 (11%) week Upper respiratory tract infection 6 (12%) 2 (7%) • Consistent safety and tolerability data observed in crossover following week Serious TEAEs 0 1 (4%)* 28 as of data cutoff Grade ?3 TEAEs 0 0
+HAELO Data Summary • Novel one-time investigational treatment • Primary and all key secondary endpoints achieved. During the six-month efficacy observation period: – 87% attack-reduction rate for lonvo-z vs. placebo – 62% of
+patients entirely free from attacks (and therapy) • All patients in lonvo-z arm saw a reduction in attack rate from baseline • Early crossover data trending favorably with attack rates approaching zero in both trial arms • Favorable
+safety and tolerability data
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0 Favorable Safety and Tolerability Data Primary Observation Period • No SAEs or
+Grade ?3 TEAEs Lonvo-z (N=52) Placebo (N=28) (Weeks 1 – 28) reported in lonvo-z arm TEAEs in ?10% of patients, n (%) • All IRRs were mild or moderate and Infusion-related reaction 32 (62%) 5 (18%) were transient Headache 10
+(19%) 3 (11%) • No meaningful difference between arms in clinical chemistries; single Fatigue 7 (14%) 3 (11%) Grade 2 ALT elevation observed in Nasopharyngitis 7 (14%) 9 (32%) lonvo-z arm that self-resolved in one
+Back pain 6 (12%) 3 (11%) week Upper respiratory tract infection 6 (12%) 2 (7%) • Consistent safety and tolerability data observed in crossover following week Serious TEAEs 0 1 (4%)* 28 as of data cutoff Grade ?3 TEAEs 0 0
+HAELO Data Summary • Novel one-time investigational treatment • Primary and all key secondary endpoints achieved. During the six-month efficacy observation period: – 87% attack-reduction rate for lonvo-z vs. placebo – 62% of
+patients entirely free from attacks (and therapy) • All patients in lonvo-z arm saw a reduction in attack rate from baseline • Early crossover data trending favorably with attack rates approaching zero in both trial arms • Favorable
+safety and tolerability data Advancing Toward Lonvo-z’s Planned Launch Dr. John Leonard President & CEO, Intellia Therapeutics
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0 Favorable Safety and Tolerability Data Primary Observation Period • No SAEs or
+Grade ?3 TEAEs Lonvo-z (N=52) Placebo (N=28) (Weeks 1 – 28) reported in lonvo-z arm TEAEs in ?10% of patients, n (%) • All IRRs were mild or moderate and Infusion-related reaction 32 (62%) 5 (18%) were transient Headache 10
+(19%) 3 (11%) • No meaningful difference between arms in clinical chemistries; single Fatigue 7 (14%) 3 (11%) Grade 2 ALT elevation observed in Nasopharyngitis 7 (14%) 9 (32%) lonvo-z arm that self-resolved in one
+Back pain 6 (12%) 3 (11%) week Upper respiratory tract infection 6 (12%) 2 (7%) • Consistent safety and tolerability data observed in crossover following week Serious TEAEs 0 1 (4%)* 28 as of data cutoff Grade ?3 TEAEs 0 0
+HAELO Data Summary • Novel one-time investigational treatment • Primary and all key secondary endpoints achieved. During the six-month efficacy observation period: – 87% attack-reduction rate for lonvo-z vs. placebo – 62% of
+patients entirely free from attacks (and therapy) • All patients in lonvo-z arm saw a reduction in attack rate from baseline • Early crossover data trending favorably with attack rates approaching zero in both trial arms • Favorable
+safety and tolerability data Advancing Toward Lonvo-z’s Planned Launch Dr. John Leonard President & CEO, Intellia Therapeutics Additional HAELO Perspectives Significant Diverse Mix Extensive Patient Enthusiasm of Patients (and
+Still Expanding) Phase 3 Database 80 patients enrolled Multi-national trial with (original target: ?60) ~50% of enrolled patients Longest Phase 3 trial in U.S.; broad age range undertaken in HAE to date, All patients dosed within once completed nine
+months Population includes patients: With complete HAE control; Largest cohort of patients ~70% of patients washed partial control at entry receiving proposed label dose out of LTP to enroll (50 mg of lonvo-z) Who were on LTP and/or on-demand
+therapies at entry
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0 Favorable Safety and Tolerability Data Primary Observation Period • No SAEs or
+Grade ?3 TEAEs Lonvo-z (N=52) Placebo (N=28) (Weeks 1 – 28) reported in lonvo-z arm TEAEs in ?10% of patients, n (%) • All IRRs were mild or moderate and Infusion-related reaction 32 (62%) 5 (18%) were transient Headache 10
+(19%) 3 (11%) • No meaningful difference between arms in clinical chemistries; single Fatigue 7 (14%) 3 (11%) Grade 2 ALT elevation observed in Nasopharyngitis 7 (14%) 9 (32%) lonvo-z arm that self-resolved in one
+Back pain 6 (12%) 3 (11%) week Upper respiratory tract infection 6 (12%) 2 (7%) • Consistent safety and tolerability data observed in crossover following week Serious TEAEs 0 1 (4%)* 28 as of data cutoff Grade ?3 TEAEs 0 0
+HAELO Data Summary • Novel one-time investigational treatment • Primary and all key secondary endpoints achieved. During the six-month efficacy observation period: – 87% attack-reduction rate for lonvo-z vs. placebo – 62% of
+patients entirely free from attacks (and therapy) • All patients in lonvo-z arm saw a reduction in attack rate from baseline • Early crossover data trending favorably with attack rates approaching zero in both trial arms • Favorable
+safety and tolerability data Advancing Toward Lonvo-z’s Planned Launch Dr. John Leonard President & CEO, Intellia Therapeutics Additional HAELO Perspectives Significant Diverse Mix Extensive Patient Enthusiasm of Patients (and
+Still Expanding) Phase 3 Database 80 patients enrolled Multi-national trial with (original target: ?60) ~50% of enrolled patients Longest Phase 3 trial in U.S.; broad age range undertaken in HAE to date, All patients dosed within once completed nine
+months Population includes patients: With complete HAE control; Largest cohort of patients ~70% of patients washed partial control at entry receiving proposed label dose out of LTP to enroll (50 mg of lonvo-z) Who were on LTP and/or on-demand
+therapies at entry Lonvo-z: Unique Potential to Eliminate Attacks and Ongoing with One Treatment PHASE 3 CR OSS -T RIA L COM PARISO N* % of Patients Attack % Attack Reduction % of Patients Product & Therapy Free* vs. Placebo* Attack Free*
+Lifetime Dosing Burden lonvo-z 1x 62% 87% 62% (investigational) infusion 1 Daily berotralstat 0% 44% n/a therapies oral tablets 2 104 C1 est. inh. 0% 87% n/a (LTP) injections / year 3 7–13 donidalorsen 0% 55-81% 35-53% prophylaxis injections /
+year term 4 13—garadacimab 0% 89% 62% long injections / year 5 13–26 lanadelumab 0% 74-87% 31-44% Chronic injections / year For illustrative purposes only.
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0 Favorable Safety and Tolerability Data Primary Observation Period • No SAEs or
+Grade ?3 TEAEs Lonvo-z (N=52) Placebo (N=28) (Weeks 1 – 28) reported in lonvo-z arm TEAEs in ?10% of patients, n (%) • All IRRs were mild or moderate and Infusion-related reaction 32 (62%) 5 (18%) were transient Headache 10
+(19%) 3 (11%) • No meaningful difference between arms in clinical chemistries; single Fatigue 7 (14%) 3 (11%) Grade 2 ALT elevation observed in Nasopharyngitis 7 (14%) 9 (32%) lonvo-z arm that self-resolved in one
+Back pain 6 (12%) 3 (11%) week Upper respiratory tract infection 6 (12%) 2 (7%) • Consistent safety and tolerability data observed in crossover following week Serious TEAEs 0 1 (4%)* 28 as of data cutoff Grade ?3 TEAEs 0 0
+HAELO Data Summary • Novel one-time investigational treatment • Primary and all key secondary endpoints achieved. During the six-month efficacy observation period: – 87% attack-reduction rate for lonvo-z vs. placebo – 62% of
+patients entirely free from attacks (and therapy) • All patients in lonvo-z arm saw a reduction in attack rate from baseline • Early crossover data trending favorably with attack rates approaching zero in both trial arms • Favorable
+safety and tolerability data Advancing Toward Lonvo-z’s Planned Launch Dr. John Leonard President & CEO, Intellia Therapeutics Additional HAELO Perspectives Significant Diverse Mix Extensive Patient Enthusiasm of Patients (and
+Still Expanding) Phase 3 Database 80 patients enrolled Multi-national trial with (original target: ?60) ~50% of enrolled patients Longest Phase 3 trial in U.S.; broad age range undertaken in HAE to date, All patients dosed within once completed nine
+months Population includes patients: With complete HAE control; Largest cohort of patients ~70% of patients washed partial control at entry receiving proposed label dose out of LTP to enroll (50 mg of lonvo-z) Who were on LTP and/or on-demand
+therapies at entry Lonvo-z: Unique Potential to Eliminate Attacks and Ongoing with One Treatment PHASE 3 CR OSS -T RIA L COM PARISO N* % of Patients Attack % Attack Reduction % of Patients Product & Therapy Free* vs. Placebo* Attack Free*
+Lifetime Dosing Burden lonvo-z 1x 62% 87% 62% (investigational) infusion 1 Daily berotralstat 0% 44% n/a therapies oral tablets 2 104 C1 est. inh. 0% 87% n/a (LTP) injections / year 3 7–13 donidalorsen 0% 55-81% 35-53% prophylaxis injections /
+year term 4 13—garadacimab 0% 89% 62% long injections / year 5 13–26 lanadelumab 0% 74-87% 31-44% Chronic injections / year For illustrative purposes only. Preparing for a Successful Launch in 1H 2027* Established core commercialization
+team Deployed field medical team Priorities ahead… Finalized overall launch strategy Complete BLA submission Commenced payer engagement Scale field sales and reimbursement teams Continued patient advocacy group/medical society engagements
+Finalize pricing Finalized distribution model for launch Finalize contracting strategy Identified potential treatment centers Initiated rolling BLA submission with FDA 2025 Accomplishment 2026 Accomplishment
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0 Favorable Safety and Tolerability Data Primary Observation Period • No SAEs or
+Grade ?3 TEAEs Lonvo-z (N=52) Placebo (N=28) (Weeks 1 – 28) reported in lonvo-z arm TEAEs in ?10% of patients, n (%) • All IRRs were mild or moderate and Infusion-related reaction 32 (62%) 5 (18%) were transient Headache 10
+(19%) 3 (11%) • No meaningful difference between arms in clinical chemistries; single Fatigue 7 (14%) 3 (11%) Grade 2 ALT elevation observed in Nasopharyngitis 7 (14%) 9 (32%) lonvo-z arm that self-resolved in one
+Back pain 6 (12%) 3 (11%) week Upper respiratory tract infection 6 (12%) 2 (7%) • Consistent safety and tolerability data observed in crossover following week Serious TEAEs 0 1 (4%)* 28 as of data cutoff Grade ?3 TEAEs 0 0
+HAELO Data Summary • Novel one-time investigational treatment • Primary and all key secondary endpoints achieved. During the six-month efficacy observation period: – 87% attack-reduction rate for lonvo-z vs. placebo – 62% of
+patients entirely free from attacks (and therapy) • All patients in lonvo-z arm saw a reduction in attack rate from baseline • Early crossover data trending favorably with attack rates approaching zero in both trial arms • Favorable
+safety and tolerability data Advancing Toward Lonvo-z’s Planned Launch Dr. John Leonard President & CEO, Intellia Therapeutics Additional HAELO Perspectives Significant Diverse Mix Extensive Patient Enthusiasm of Patients (and
+Still Expanding) Phase 3 Database 80 patients enrolled Multi-national trial with (original target: ?60) ~50% of enrolled patients Longest Phase 3 trial in U.S.; broad age range undertaken in HAE to date, All patients dosed within once completed nine
+months Population includes patients: With complete HAE control; Largest cohort of patients ~70% of patients washed partial control at entry receiving proposed label dose out of LTP to enroll (50 mg of lonvo-z) Who were on LTP and/or on-demand
+therapies at entry Lonvo-z: Unique Potential to Eliminate Attacks and Ongoing with One Treatment PHASE 3 CR OSS -T RIA L COM PARISO N* % of Patients Attack % Attack Reduction % of Patients Product & Therapy Free* vs. Placebo* Attack Free*
+Lifetime Dosing Burden lonvo-z 1x 62% 87% 62% (investigational) infusion 1 Daily berotralstat 0% 44% n/a therapies oral tablets 2 104 C1 est. inh. 0% 87% n/a (LTP) injections / year 3 7–13 donidalorsen 0% 55-81% 35-53% prophylaxis injections /
+year term 4 13—garadacimab 0% 89% 62% long injections / year 5 13–26 lanadelumab 0% 74-87% 31-44% Chronic injections / year For illustrative purposes only. Preparing for a Successful Launch in 1H 2027* Established core commercialization
+team Deployed field medical team Priorities ahead… Finalized overall launch strategy Complete BLA submission Commenced payer engagement Scale field sales and reimbursement teams Continued patient advocacy group/medical society engagements
+Finalize pricing Finalized distribution model for launch Finalize contracting strategy Identified potential treatment centers Initiated rolling BLA submission with FDA 2025 Accomplishment 2026 Accomplishment Summary #1 HAELO trial achieved Global
+first Intellia advancing its primary and all key for in vivo rapidly toward secondary endpoints gene editing potential approval with favorable safety and first planned and tolerability data launch in 1H 2027*
+
+HAELO Phase 3 Clinical Data Dr. Marc Riedl Professor of Medicine, Clinical Director of the U.S. Hereditary
+Angioedema Association (HAEA) Angioedema Center at the University of California San Diego; HAELO principal investigator A Placebo-Controlled, Double-Blind, Randomized Phase 3 Trial of Lonvo-z as a One-Time HAE Treatment End of Study Day 1 Week 28
+Week 104 Lonvo-z 50 mg Placebo (n=52) All patients Efficacy invited to Screening 1 Screening 2 One-time infusion evaluation Optional, Follow-up enroll in the LTP washout Run-in period period blinded crossover (76 weeks) long-term (4-8 weeks)
+randomization 2:1 (Weeks 5-28) follow-up Placebo study Lonvo-z 50 mg (n=28) Key Secondary En dpoints Stratification Primary En dpoint • Time-normalized number of investigator-confirmed HAE attacks requiring Baseline number of investigator-
+Time-normalized number of on-demand treatment from Weeks 5 through 28 confirmed HAE attacks per month from investigator-confirmed HAE attacks Screening 2 to Randomization from Weeks 5 through 28 • Time-normalized number of moderate or severe
+investigator-confirmed HAE attacks from Weeks 5 through 28 • Investigator-confirmed HAE attack-free status from Weeks 5 through 28 • Change from baseline to Week 28 in AE-QoL Questionnaire total score Pre-specified primary analysis when
+?60 patients reach Week 28 HAELO Phase 3 Demographics and Baseline Characteristics Demographic Characteristics Lonvo-z (n=52) Placebo (n=28) Age, median years (range) 42 (23 – 71) 40 (19 – 76) Female, n (%) 35 (67%) 20
+(71%) Enrolled in United States, n (%) 26 (50%) 13 (46%) Hereditary angioedema type, n (%) Type 1 49 (94%) 25 (89%) Type 2 3 (6%) 3 (11%) Long-term prophylaxis at study entry, n (%) 35 (67%) 22
+(79%) Lanadelumab 25 (48%) 12 (43%) C1 esterase inhibitor 5 (10%) 3 (11%) Berotralstat 4 (8%) 1 (4%) Garadacimab 1 (2%) 3 (11%) Other 2 (4%) 3 (11%) On-Demand therapy only, n (%) 17
+(33%) 6 (21%) Historic typical attack severity, n (%) Mild 7 (14%) 5 (18%) Moderate 30 (58%) 20 (71%) Severe 15 (29%) 3 (11%) Monthly attack rate during run-in, mean (SD)* 3.5 (1.8) 3.5
+(1.9) Median follow-up for enrolled patients: 7.5 months HAELO Trial Achieved its Primary and All Key Secondary Endpoints Mean Attack-Rate Reduction Weeks 5—28 Attack Free Weeks 5—28 (Primary Endpoint) 1,2 (Key Secondary Endpoint) 2
+2.5 70% 2.10 62% 60% 2 50% 1.5 87% reduction patients of 40% Odds Ratio 12.8 attacks/month (95% CI: 78%-93%) E 1 p<0.0001 30% (95% CI: 3.5-47.6) HA p<0.0001 20% 0.5 11% 0.26 Percent Mean 10% 0 0% Placebo Lonvo-z Placebo Lonvo-z All other key
+secondary endpoints were achieved with high statistical significance (p<0.0001) 100% of Patients in Lonvo-z Arm Experienced Attack-Rate Reductions from Baseline During Weeks 5-28 Clinically relevant Attack-free and 62% 38% 72% mean attack-rate
+therapy-free reduction* All patients who received lonvo-z at baseline or in crossover were LTP-free Attack-Rate Reduction Observed Quickly Following Lonvo-z Dosing; Further Reduction Observed in Early Crossover Data Following Week 28 Mean Monthly
+Investigator-Confirmed HAE Attack Rate Over Time Lonvo-z Placebo Placebo?Lonvo-z (post crossover) per 5 Start of Crossover Period (SE) 4 Attacks E Mean 3 HA of 2 Month, Number 1 0 BL 4 8 12 16 20 24 28 32 36 40 44 48 LTP wash-out Weeks Since Initial
+Infusion Lonvo-z (n) 52 52 52 52 52 52 50 44 43 20 8 6 3 Placebo (n) 28 28 28 27 27 27 25 21 0 0 0 0 0 Placebo?Lonvo-z (n) 0 0 0 0 0 0 0 0 20 12 3 0 0 Favorable Safety and Tolerability Data Primary Observation Period • No SAEs or
+Grade ?3 TEAEs Lonvo-z (N=52) Placebo (N=28) (Weeks 1 – 28) reported in lonvo-z arm TEAEs in ?10% of patients, n (%) • All IRRs were mild or moderate and Infusion-related reaction 32 (62%) 5 (18%) were transient Headache 10
+(19%) 3 (11%) • No meaningful difference between arms in clinical chemistries; single Fatigue 7 (14%) 3 (11%) Grade 2 ALT elevation observed in Nasopharyngitis 7 (14%) 9 (32%) lonvo-z arm that self-resolved in one
+Back pain 6 (12%) 3 (11%) week Upper respiratory tract infection 6 (12%) 2 (7%) • Consistent safety and tolerability data observed in crossover following week Serious TEAEs 0 1 (4%)* 28 as of data cutoff Grade ?3 TEAEs 0 0
+HAELO Data Summary • Novel one-time investigational treatment • Primary and all key secondary endpoints achieved. During the six-month efficacy observation period: – 87% attack-reduction rate for lonvo-z vs. placebo – 62% of
+patients entirely free from attacks (and therapy) • All patients in lonvo-z arm saw a reduction in attack rate from baseline • Early crossover data trending favorably with attack rates approaching zero in both trial arms • Favorable
+safety and tolerability data Advancing Toward Lonvo-z’s Planned Launch Dr. John Leonard President & CEO, Intellia Therapeutics Additional HAELO Perspectives Significant Diverse Mix Extensive Patient Enthusiasm of Patients (and
+Still Expanding) Phase 3 Database 80 patients enrolled Multi-national trial with (original target: ?60) ~50% of enrolled patients Longest Phase 3 trial in U.S.; broad age range undertaken in HAE to date, All patients dosed within once completed nine
+months Population includes patients: With complete HAE control; Largest cohort of patients ~70% of patients washed partial control at entry receiving proposed label dose out of LTP to enroll (50 mg of lonvo-z) Who were on LTP and/or on-demand
+therapies at entry Lonvo-z: Unique Potential to Eliminate Attacks and Ongoing with One Treatment PHASE 3 CR OSS -T RIA L COM PARISO N* % of Patients Attack % Attack Reduction % of Patients Product & Therapy Free* vs. Placebo* Attack Free*
+Lifetime Dosing Burden lonvo-z 1x 62% 87% 62% (investigational) infusion 1 Daily berotralstat 0% 44% n/a therapies oral tablets 2 104 C1 est. inh. 0% 87% n/a (LTP) injections / year 3 7–13 donidalorsen 0% 55-81% 35-53% prophylaxis injections /
+year term 4 13—garadacimab 0% 89% 62% long injections / year 5 13–26 lanadelumab 0% 74-87% 31-44% Chronic injections / year For illustrative purposes only. Preparing for a Successful Launch in 1H 2027* Established core commercialization
+team Deployed field medical team Priorities ahead… Finalized overall launch strategy Complete BLA submission Commenced payer engagement Scale field sales and reimbursement teams Continued patient advocacy group/medical society engagements
+Finalize pricing Finalized distribution model for launch Finalize contracting strategy Identified potential treatment centers Initiated rolling BLA submission with FDA 2025 Accomplishment 2026 Accomplishment Summary #1 HAELO trial achieved Global
+first Intellia advancing its primary and all key for in vivo rapidly toward secondary endpoints gene editing potential approval with favorable safety and first planned and tolerability data launch in 1H 2027* Thank You! We extend our gratitude to
+the patients, caregivers, and families who have taken part in the HAELO clinical trial; a decision not taken lightly and rooted in trust and hope. A sincere thank you to the HAELO study investigators, site coordinators and staff whose commitment and
+hard work made this study possible. We also express our appreciation to the U.S. Hereditary Angioedema Association (HAEA) and HAE International (HAEi) for their invaluable support and partnership throughout this journey. This milestone is a shared
+achievement that we could not have achieved without the unwavering support of the HAE community.
+
+Q&A
+
+Intellia therapeutics

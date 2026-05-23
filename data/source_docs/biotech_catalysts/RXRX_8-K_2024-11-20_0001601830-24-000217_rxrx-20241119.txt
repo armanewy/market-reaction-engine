@@ -1,0 +1,252 @@
+rxrx-20241119
+0001601830FALSE00016018302024-11-192024-11-19
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 19, 2024
+
+RECURSION PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-40323
+
+ 46-4099738
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+41 S Rio Grande Street
+
+Salt Lake City, UT 84101
+
+(Address of principal executive offices) (Zip code)
+
+(385) 269 - 0203
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☒    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange on which registered
+
+Class A Common Stock, par value $0.00001 per share
+
+RXRX
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Introductory Note
+
+As previously disclosed, Recursion Pharmaceuticals, Inc., a Delaware corporation (the “Company”), entered into the Transaction Agreement, dated as of August 8, 2024, by and between the Company and Exscientia plc, a public limited company incorporated under the laws of England and Wales with registered number 13483814 (“Exscientia”), as amended by the First Amendment to the Transaction Agreement (the “First Amendment”), dated as of November 5, 2024 (as amended, the “Transaction Agreement”).
+
+This Current Report on Form 8-K is being filed in connection with the completion on November 20, 2024 of the transactions contemplated by the Transaction Agreement pursuant to which the Company acquired the entire issued and to be issued share capital of Exscientia (the “Transaction”) pursuant to a scheme of arrangement under Part 26 of the United Kingdom Companies Act 2006 (the “Scheme of Arrangement”).
+
+Item 2.01. Completion of Acquisition or Disposition of Assets.
+
+Under the Transaction Agreement, the Transaction was conditioned on, among other things, the sanction of the Scheme of Arrangement by the High Court of Justice of England and Wales (the “Court”). On November 19, 2024, the Court issued an order sanctioning the Scheme of Arrangement. Upon the delivery of such order to the Registrar of Companies in England and Wales on November 20, 2024 (the “Effective Time”), the Scheme of Arrangement became effective. As a result, at the Effective Time, the Company acquired the entire issued and to be issued share capital of Exscientia in accordance with the terms of the Transaction Agreement and the Scheme of Arrangement, and Exscientia became a wholly owned subsidiary of the Company.
+
+Pursuant to the Transaction Agreement and the Scheme of Arrangement, at the Effective Time, each ordinary share in Exscientia, each with a nominal value £0.0005 per share (an “Exscientia Ordinary Share”) outstanding as of the Effective Time (each a “Scheme Share”) was acquired by Recursion (or, at Recursion’s direction, by a nominee) from the holders of the Scheme Shares (each a “Scheme Shareholder”) in exchange for 0.7729 shares of Class A Common Stock (the “Company Class A Common Stock”) of the Company, par value of $0.00001 per share (the “Share Deliverable” and collectively the “Exchange Shares”, and the ratio that each Share Deliverable bears to each Scheme Share being the “Exchange Ratio”). Because each American Depositary Share in Exscientia represents a beneficial interest in one Exscientia Ordinary Share (an “Exscientia ADS”), holders of Exscientia ADSs are entitled to receive an amount of Exchange Shares equal to the Share Deliverable per Exscientia ADS. In connection with the Transaction, 102,138,419 shares of Company Class A Common Stock were issued to such Scheme Shareholders, including in respect of the Exscientia ADSs. In connection with the completion of the Transaction, the Exscientia ADSs, which previously traded under the symbol “EXAI,” ceased trading on Nasdaq and will be delisted from Nasdaq.
+
+At the Effective Time, and in compliance with and subject to the terms and limitations set out in the Transaction Agreement:
+
+•each option to acquire Exscientia Ordinary Shares or Exscientia ADSs under Exscientia’s stock plans (each such option a “Exscientia Share Option”) that was outstanding and unexercised as of immediately prior to the Effective Time and that was held by a continuing service provider (each, an “Assumed Exscientia Option”) ceased to represent a right to acquire Exscientia ADSs or
+
+Exscientia Ordinary Shares, as applicable, and was converted into an option to acquire shares of Company Class A Common Stock (each such option, a “Company Option”) on the same terms and conditions (including applicable vesting, exercise and expiration provisions, and subject to the severance and retention plan adopted by Exscientia in connection with the Transaction (“Retention Plan”)) as applied to such Assumed Exscientia Option immediately prior to the Effective Time; provided that: (i) the number of shares of Company Class A Common Stock subject to each Company Option was determined by multiplying: (A) the number of Exscientia ADSs or Exscientia Ordinary Shares, as applicable, underlying such Exscientia Share Option immediately prior to the Effective Time by (B) the Exchange Ratio, and rounding such product down to the nearest whole share; and (ii) the per share exercise price for each Company Option was determined by dividing: (A) the per share exercise price of such Assumed Exscientia Option immediately prior to the Effective Time by (B) the Exchange Ratio, and rounding such quotient up to the nearest whole cent;
+
+•each Exscientia Share Option that was outstanding and unexercised as of immediately prior to the Effective Time and was not an Assumed Exscientia Option was canceled and converted into the right to receive a number of shares of Company Class A Common Stock (rounded down to the nearest whole share) equal to (i) the product of (A) the number of Exscientia ADSs or Exscientia Ordinary Shares, as applicable, underlying the portion of such Exscientia Share Option that was vested (including vesting pursuant to the Retention Plan) as of immediately prior to the Effective Time, multiplied by (B) the Exchange Ratio, less (ii) a number of shares of Company Class A Common Stock equal to the quotient obtained by dividing (A) the sum of the aggregate per share exercise price of such Exscientia Share Option plus applicable tax withholding amount and other authorized deductions arising from the treatment of the Exscientia Share Options pursuant to the Transaction Agreement, by (B) the closing price of a share of Company Class A Common Stock on the closing date of the Transaction (the “Company Stock Price”);
+
+•each award of restricted stock units representing the right to receive Exscientia Ordinary Shares or Exscientia ADSs granted under Exscientia’s stock plans (each unit, an “Exscientia RSU”) that was outstanding and unvested as of immediately prior to the Effective Time and that was held by a continuing service provider (each such Exscientia RSU, an “Assumed Exscientia RSU”) ceased to represent a right to acquire Exscientia ADSs, or Exscientia Ordinary Shares, as applicable, and was converted into an award of restricted stock units covering shares of Company Class A Common Stock (each unit, a “Company RSU”) on the same terms and conditions (including applicable vesting provisions, and subject to the Retention Plan, and once vested, each award of Company RSUs will be settled only in shares of Company Class A Common Stock) as applied to such award of Assumed Exscientia RSUs immediately prior to the Effective Time; provided that the number of shares of Company Class A Common Stock subject to each such award of Company RSUs was determined by multiplying: (x) the number of Exscientia ADSs or Exscientia Ordinary Shares, as applicable, underlying such award of Assumed Exscientia RSUs immediately prior to the Effective Time by (y) the Exchange Ratio, and rounding such product down to the nearest whole share; and
+
+•each award of Exscientia RSUs that was outstanding as of immediately prior to the Effective Time and was not an Assumed Company RSU was canceled and converted into the right to receive a number of shares of Company Class A Common Stock (rounded down to the nearest whole share) equal to (i) the product of (A) the number of Exscientia ADSs or Exscientia Ordinary Shares, as applicable, underlying the portion of such Exscientia RSU award that was vested immediately prior to the Effective Time and (B) the Exchange Ratio, less (ii) a number of shares of Company Class A Common Stock equal to the quotient obtained by dividing (A) the applicable tax withholding amount and other authorized deductions arising from the treatment of the Exscientia RSUs pursuant to the Transaction Agreement, by (B) the Company Stock Price.
+
+For purposes of the treatment of Exscientia Share Options and awards of Exscientia RSUs described above, to the extent such an equity award was subject to performance-vesting conditions, such performance-vesting conditions were deemed achieved at the greater of (i) the target level of achievement of all relevant performance goals in accordance with the applicable award agreement relating thereto or (ii) the actual level of achievement of all relevant performance goals against target as of Exscientia’s fiscal quarter-end immediately preceding the closing of the Transaction, and only that portion of such equity award became a Company Option, an award of Company RSUs, or the right to receive shares of Company Class A Common Stock, as applicable. The remaining portion of such equity award, if any, was immediately forfeited (solely with respect to the unvested portion).
+
+The foregoing description of the Transaction Agreement contained in this Item 2.01 does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Transaction Agreement, including the First Amendment. A copy of the initial Transaction Agreement was filed as Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the Securities and Exchange Commission (the “SEC”) on August 8, 2024 and a copy of the First Amendment was filed as Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the SEC on November 6, 2024, each of which is incorporated herein by reference.
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Director Appointment
+
+Under the Transaction Agreement, Exscientia had the right to designate one member of the board of directors of Exscientia, subject to approval of the Board of Directors (the “Board”) of the Company in compliance with fiduciary duties under applicable law, to serve as a member of the Board following the completion of the Transaction.
+
+Effective as of the Effective Time, in connection with Exscientia’s right to designate one member of the board of directors of Exscientia to serve as a member of the Board under the terms of the Transaction Agreement, the Board increased the number of members of the Board from 7 to 8 and appointed Franziska Michor, Ph.D., (“Dr. Michor”) as a Class II Director of the Board, with her initial term to extend until the 2026 Annual Meeting of Stockholders. Dr. Michor has not yet been appointed to any committee of the Board.
+
+As a non-employee director, Dr. Michor will receive cash and equity compensation paid by the Company pursuant to its Outside Director Compensation Policy, which is described under the caption “Director Compensation” in the Company’s definitive proxy statement on Schedule 14A filed with the SEC on April 23, 2024, as adjusted by the Board from time to time, and Dr. Michor will enter into an indemnification agreement with the Company on the Company’s standard form of indemnification agreement for officers and directors.
+
+There are no transactions in which Dr. Michor has a direct or indirect material interest requiring disclosure under Item 404(a) of Regulation S-K. Other than the arrangements under the Transaction Agreement described above, there is no arrangement or understanding between Dr. Michor and any other person pursuant to which Dr. Michor was selected as a director of the Company.
+
+Executive Officer Changes
+
+Michael Secora
+
+On November 20, 2024, the Company announced that Michael Secora (“Dr. Secora”), Chief Financial Officer of the Company, will be transitioning from his role as Chief Financial Officer, effective as of November 20, 2024. Dr. Secora is expected to continue his employment with the Company as an Executive Advisor of the Company for a transition period from November 20, 2024 through December 31,
+
+2024. Dr. Secora will continue to receive the same monthly base salary and benefits as in effect as of November 20, 2024.
+
+On or about December 31, 2024 (or, if earlier, the date he separates from the Company) (the “Secora Separation Date”), Dr. Secora is expected to enter into a separation agreement and release of claims in favor of the Company and other released parties (the “Secora Agreement”) under which he will become entitled to receive the severance benefits under the Company’s Executive Change in Control and Severance Plan (the “Severance Plan”) and a participation agreement setting forth the terms of the Severance Plan (“Participation Agreement”), which include (i) a lump sum payment equal to $356,250 which is equivalent to 9 months of his annual base salary, and (ii) reimbursement of continued health coverage under COBRA for a period of up to 9 months following his Secora Separation Date (or a taxable lump sum payment in lieu of the COBRA reimbursement). In addition, Dr. Secora will receive a bonus under the Company’s 2024 bonus plan (the “2024 Bonus Plan”) equal to (i) a lump sum cash payment of $95,000, which represents 20% of his annual base salary, and (ii) $95,000, which represents 20% of his annual base salary, payable in Company restricted stock units (with the value converted into a number of restricted stock units determined in accordance with the Company’s equity grant procedures), which vest on the effective date of the Secora Agreement. All of the severance benefits described in this paragraph are subject to Dr. Secora’s signing and not revoking the Secora Agreement and complying with various post-employment obligations.
+
+The foregoing description of the Secora Agreement is not complete and is qualified in its entirety by reference to the full text of such agreement. The Company intends to file such agreement as an exhibit to the Company’s annual report filed on Form 10-K for the Company’s fiscal year ending December 31, 2024.
+
+Ben Taylor
+
+On November 20, 2024, the Board appointed Ben Taylor (“Mr. Taylor”), age 47, as Chief Financial Officer of the Company and President of Recursion UK, effective as of November 20, 2024. Prior to such appointment, Mr. Taylor served as Chief Financial and Strategy Officer and a member of the board of directors of Exscientia since November 2020. Mr. Taylor has more than two decades of experience, including 15 years in healthcare investment banking, primarily at Goldman Sachs & Co. LLC, or Goldman Sachs, and seven years in biotech and healthtech executive roles. During this period, Mr. Taylor focused on strategy, financings, communications, clinical development and business development in the biopharmaceutical industry. Prior to joining Exscientia, Mr. Taylor was interim Chief Financial Officer at Aetion, Inc., a healthtech company using real world data analytics to optimise biopharma clinical development and commercialisation, from April 2020 to November 2020. Mr. Taylor served as President and Chief Financial Officer for Tyme Technologies, Inc., where he oversaw operations for the oncology company from April 2017 to August 2020. Mr. Taylor served as Head of Commercial Pharma, Managing Director for Barclays Capital Inc. from February 2016 to March 2017 and in a variety of roles with Goldman Sachs from July 2006 to February 2016. He received a B.A. with Honors from Brown University in East Asian Studies.
+
+As of November 20, 2024, Mr. Taylor will receive compensation and benefits as set forth under the amended and restated employment agreement that he entered into with an affiliate of Exscientia in October 2021, including a 2024 gross annual base salary of £340,000, a 2024 annual performance bonus with a target amount of 45% of his annual base salary, and severance and change in control benefits in the event his employment terminates under certain circumstances as described in the section entitled “Interests of Exscientia’s Directors and Executive Officers in the Transaction” in the joint proxy statement on Form DEFM 14A filed October 10, 2024. Mr. Taylor’s Assumed Exscientia Options and Assumed Exscientia RSUs will continue to vest in accordance with their terms.
+
+There is no arrangement or understanding with any person pursuant to which Mr. Taylor is being appointed as Chief Financial Officer of the Company and President of Recursion UK. There are no family relationships between Mr. Taylor and any director or executive officer of the Company. There are no transactions in which Mr. Taylor has a direct or indirect material interest requiring disclosure under Item 404(a) of Regulation S-K.
+
+The foregoing description of the terms of Mr. Taylor’s employment agreement is not complete and is qualified in its entirety by reference to the full text of such agreement. The Company intends to file such agreement as an exhibit to the Company’s annual report filed on Form 10-K for the Company’s fiscal year ending December 31, 2024.
+
+Tina Marriott
+
+On November 20, 2024, the Company announced that Tina Marriott (“Ms. Marriott”), President and Chief Operating Officer of the Company, will be transitioning from such positions, effective as of November 20, 2024. Ms. Marriott is expected to continue her employment with the Company as an Executive Advisor of the Company for a transition period (such period, the “Marriott Transition Period”) from November 20, 2024 through August 31, 2025 (or, if earlier, the actual date she separates from the Company) (such date, the “Marriott Separation Date”).
+
+In connection with this transition, Ms. Marriott is expected to enter into a transition agreement and release with the Company (“Marriott Transition Agreement”) under which Ms. Marriott will receive during the Transition Period: (i) continuation of her monthly base salary as in effect as of November 20, 2024, (ii) the bonus under the Company’s 2024 Bonus Plan that she is entitled to receive, and settled 50% in cash and 50% in Company restricted stock units, in each case payable at the same time as the Company’s other senior executive bonus payments under the 2024 Bonus Plan and subject to Ms. Marriott remaining employed through the applicable payment date (“2024 Bonus Plan Payment Date”), and (iii) her continued vesting of her Company equity awards in accordance with the original vesting schedule, provided that she remains as a service provider through each vesting date. If Ms. Marriott signs and does not revoke the Transition Agreement, and Ms. Marriott’s employment is terminated prior to August 31, 2025 for any reason other than Cause(as defined in the Severance Plan), then, subject to Ms. Marriott signing and not revoking a supplemental release of claims against the Company and complying with various post-employment obligations (the “Marriott Supplemental Release”), (i) the Company will pay Ms. Marriott the base salary she would have received had she remained employed through August 31, 2025, (ii) if Ms. Marriott validly elects and is eligible to continue health coverage under COBRA, the Company will reimburse her the total applicable premium cost for her continued group health plan coverage under COBRA for herself and any spouse and/or dependents (“COBRA Premium”) for the period of time beginning on her termination of employment until August 31, 2025, or if the reimbursement of the COBRA Premium would violate any applicable laws, in lieu of the reimbursement, the Company may provide Ms. Marriott with a lump sum payment equal to the COBRA Premium (on an after-tax basis), which would be made regardless of whether she elects COBRA continuation coverage, and (iii) if Ms. Marriott’s termination occurs prior to the 2024 Bonus Plan Payment Date, Ms. Marriott will receive a bonus amount under the 2024 Bonus Plan as follows: (1) a lump sum cash payment equal to 20% of her annual base salary in effect immediately prior to her termination date, and (2) a payment equal to 20% of her annual base salary in effect immediately prior to her separation date payable in Company restricted stock units (with the value converted into a number of restricted stock units as determined in accordance with the Company’s equity grant procedures) and which vest on the effective date of the Marriott Supplemental Release. If she timely signs and does not revoke both the Marriott Transition Agreement and the Marriott Supplemental Release on or following the Marriott Separation Date, Ms. Marriott will receive a lump sum cash payment of five thousand dollars.
+
+The foregoing summary of the Marriott Transition Agreement is subject to, and qualified in its entirety by, the full text of such agreement, which will be filed as an exhibit to the Company’s annual report filed on Form 10-K for the Company’s fiscal year ending December 31, 2024.
+
+Christopher Gibson
+
+On November 19, 2024, the Board appointed Christopher Gibson, Ph.D. (“Dr. Gibson”), age 41, current Chief Executive Officer of the Company and a member of the Board, to serve also as President of the Company, effective as of November 20, 2024. Dr. Gibson has been Chief Executive Officer since the Company’s founding in November 2013. Previously, Dr. Gibson was an M.D./Ph.D. student at the University of Utah. After obtaining his Ph.D., he withdrew from medical school to found Recursion. He has undergraduate degrees in bioengineering (B.S.) and managerial studies (B.A.) from Rice University. He
+
+has served as a Founding Chairman of the Board of BioHive (the Utah life science collective and branding effort, composed of therapeutics, diagnostics, medical device and health IT companies, along with the companies that support them and the public sector) since November 2020. He also serves as a Board member of the Recursion Foundation (the Company’s not-for-profit entity seeking to promote corporate social responsibility) since November 2019, through which he is on the Board of Altitude Lab (an incubator/accelerator focused on creating the next generation of diverse biotech founder in Utah) since July 2020. Dr. Gibson is co-author of more than a dozen peer-reviewed studies in a variety of journals including Nature, Nature Protocols, Circulation, the Journal of Clinical Investigation, Molecular Pharmaceutics, PloS One, and Diabetes.
+
+There is no arrangement or understanding with any person pursuant to which Dr. Gibson is being appointed as President. There are no family relationships between Dr. Gibson and any director or executive officer of the Company. There are no transactions in which Dr. Gibson has a direct or indirect material interest requiring disclosure under Item 404(a) of Regulation S-K.
+
+Adoption of 2024 Inducement Equity Incentive Plan
+
+Effective November 20, 2024, the Board adopted the Recursion Pharmaceuticals, Inc. 2024 Inducement Equity Incentive Plan (the “Inducement Plan”) and, subject to the adjustment provisions of the Inducement Plan, reserved 17,500,000 shares of the Company’s Class A common stock for issuance pursuant to equity awards granted under the Inducement Plan.
+
+The Inducement Plan was adopted without stockholder approval pursuant to the applicable Nasdaq Listing Rules. The Inducement Plan provides for the grant of equity-based awards, including nonstatutory stock options, restricted stock units, restricted stock, stock appreciation rights, performance shares and performance stock units, and its terms are substantially similar to the Company’s 2021 Equity Incentive Plan (the “2021 Plan”), including with respect to treatment of equity awards in the event of a “merger” or “change in control” as defined under the Inducement Plan, but with such other terms and conditions intended to comply with the NASDAQ inducement award exception.
+
+In accordance with the Nasdaq Listing Rules, awards under the Inducement Plan may only be made to individuals not previously employees or non-employee directors of the Company (or following such individuals’ bona fide period of non-employment with the Company), as an inducement material to the individuals’ entry into employment with the Company, including in connection with a merger or acquisition.
+
+A copy of the Inducement Plan and related form agreements under the Inducement Plan are attached hereto as Exhibit 99.1 to this Current Report on Form 8-K. The above description of the Inducement Plan does not purport to be complete and is qualified in its entirety by reference to such exhibit.
+
+Item 7.01. Regulation FD Disclosure.
+
+On November 20, 2024, the Company released an updated corporate presentation to the investor section of the Company’s website. A copy of the presentation is attached hereto as Exhibit 99.2 to this Current Report on Form 8-K and incorporated into this Item 7.01 by reference.
+
+The information furnished pursuant to Item 7.01 (including Exhibit 99.2) on this Form 8-K, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01. Other Events.
+
+On November 20, 2024, the Company issued a press release announcing the completion of the Transaction. A copy of the press release is attached hereto as Exhibit 99.3 and is incorporated by reference herein.
+
+Executive Team Changes
+
+Effective November 20, 2024, the Board made the following changes to its executive team in addition to those reported in Item 5.02 of this Current Report on Form 8-K:
+
+•David Hallet, former Interim Chief Executive Officer of Exscientia, was appointed as Chief Scientific Officer of the Company.
+
+•Kristen Rushton, Chief Business Operations Officer of the Company, was promoted to Chief Operating Officer of the Company.
+
+•Matthew Kinn, Senior Vice President, Business Development and Corporate Initiatives, was promoted to serve as Chief Business Officer of the Company.
+
+•Lina Nilsson, Senior Vice President, Emerging Technologies of the Company, was promoted to serve on the executive team as Senior Vice President, Head of Platform of the Company.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(a) Financial statements of business acquired
+
+The audited consolidated statement of financial position of Exscientia as of and for the years ended December 31, 2023, and December 31, 2022, and the related consolidated statement of loss and other comprehensive (loss)/income, of changes in equity and of cash flows for each of the three years in the period ended December 31, 2023 were filed as Exhibit 99.3 to the Company’s Current Report on Form 8-K on September 3, 2024 and is incorporated by reference herein.
+
+The unaudited condensed consolidated financial statements of Exscientia as of September 30, 2024, and September 30, 2023, and for the three and nine months ended September 30, 2024, and September 30, 2023, and the notes related thereto are attached as Exhibit 99.4 hereto and is incorporated by reference herein.
+
+(b) Pro forma financial information
+
+The pro forma financial information required by this Item 6.01(b) is not included in this Current Report on Form 8-K. The Company intends to file such pro forma financial information by amendment to this Current Report on Form 8-K not later than 71 calendar days after the date this Current Report on Form 8-K is required to be filed.
+
+Item 9.01. Financial Statements and Exhibits.
+
+Exhibit Number
+
+Description
+
+2.1*
+
+Transaction Agreement by and between Recursion Pharmaceuticals, Inc. and Exscientia plc dated as of August 8, 2024 (incorporated herein by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the SEC on August 8, 2024).
+
+2.2
+
+First Amendment to Transaction Agreement by and between Recursion Pharmaceuticals, Inc. and Exscientia plc dated as of November 5, 2024 (incorporated herein by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the SEC on November 6, 2024).
+
+99.1
+
+Recursion Pharmaceuticals, Inc. 2024 Inducement Equity Incentive Plan.
+
+99.2
+
+Investor Presentation of Recursion Pharmaceuticals, Inc. dated November 20, 2024.
+
+99.3
+
+Press Release of Recursion Pharmaceuticals, Inc. dated November 20, 2024.
+
+99.4
+
+Unaudited condensed consolidated financial statements of Exscientia as of September 30, 2024 and 2023 and for the three and nine months ended September 30, 2024 and 2023, and the notes related thereto.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+*Exhibits and/or schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The registrant hereby undertakes to furnish supplementally copies of any of the omitted exhibits and schedules upon request by the SEC; provided, however, that the registrant may request confidential treatment pursuant to Rule 24b-2 under the Exchange Act for any exhibits or schedules so furnished.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: November 20, 2024.
+
+RECURSION PHARMACEUTICALS, INC.
+
+By:
+
+/s/ Christopher Gibson
+
+Christopher Gibson
+
+Chief Executive Officer

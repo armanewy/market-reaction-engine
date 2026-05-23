@@ -1,0 +1,196 @@
+EX-99.2
+3
+ef20031846_ex99-2.htm
+EXHIBIT 99.2
+
+Exhibit 99.2
+
+ A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Assess the
+Efficacy, Safety, and Tolerability of Brensocatib Administered Once Daily for 52 Weeks in Patients With Non-Cystic Fibrosis Bronchiectasis - The ASPEN Study  James D. Chalmers,1 Pierre-Régis Burgel,2 Charles L. Daley,3 Anthony De Soyza,4
+Charles S. Haworth,5 David Mauger,6 Kevin Mange,7 Ariel Teper,7 Carlos Fernandez,7 Chunpeng Fan,7 Xiangmin Zhang,7 Mark L. Metersky8  1Division of Molecular and Clinical Medicine, University of Dundee, Dundee, UK; 2Hôpital Cochin and Cystic
+Fibrosis National Reference Center, Service de Pneumologie, AP-HP and Université de Paris, Inserm U1016-Institut Cochin, Paris, France; 3National Jewish Health and the University of Colorado, Denver, CO, USA; 4Population and Health Sciences
+Institute, NIHR Biomedical Research Centre for Aging Newcastle University and Department of Respiratory Medicine, Newcastle upon Tyne NHS Foundation Trust, Newcastle upon Tyne, UK; 5Royal Papworth Hospital NHS Foundation Trust and University of
+Cambridge, Cambridge, UK; 6Pennsylvania State University, Hershey, PA, USA; 7Insmed Incorporated, Bridgewater, NJ, USA; 8University of Connecticut School of Medicine, Farmington, CT, USA. 
+
+ 
+
+ Forward Looking Statement  Forward Looking Statements  This presentation contains
+forward-looking statements that involve substantial risks and uncertainties. "Forward-looking statements," as that term is defined in the Private Securities Litigation Reform Act of 1995, are statements that are not historical facts and involve
+a number of risks and uncertainties. Words herein such as "may," "will," "should," "could," "would," "expects," "plans," "anticipates," "believes," "estimates," "projects," "predicts," "intends," "potential," "continues," and similar
+expressions (as well as other words or expressions referencing future events, conditions or circumstances) may identify forward-looking statements.  The forward-looking statements in this presentation are based upon the Company's current
+expectations and beliefs, and involve known and unknown risks, uncertainties and other factors, which may cause the Company's actual results, performance and achievements and the timing of certain events to differ materially from the results,
+performance, achievements or timings discussed, projected, anticipated or indicated in any forward-looking statements. Such risks, uncertainties and other factors include, among others, the following: the risk that the full data set from the
+ASPEN study or data generated in further clinical trials of brensocatib will not be consistent with the topline results of the ASPEN study or any additional results of the ASPEN study; failure to obtain, or delays in obtaining, regulatory
+approvals for brensocatib in the U.S., Europe or Japan; failure to successfully commercialize brensocatib, if approved by applicable regulatory authorities, in the U.S., Europe or Japan, or to maintain U.S., European or Japanese approval for
+brensocatib once approved; uncertainties in the degree of market acceptance of brensocatib by physicians, patients, third-party payors and others in the healthcare community; inaccuracies in the Company's estimates of the size of the potential
+markets for brensocatib or in data the Company has used to identify physicians; expected rates of patient uptake, duration of expected treatment, or expected patient adherence or discontinuation rates; inability of the Company, Esteve
+Pharmaceuticals, S.A., Thermo Fisher Scientific, Inc.  or the Company's other third-party manufacturers to comply with regulatory requirements related to brensocatib; the Company's inability to obtain adequate reimbursement from government or
+third-party payors for brensocatib or acceptable prices for brensocatib; development of unexpected safety or efficacy concerns related to brensocatib; failure to obtain regulatory approval for potential future brensocatib indications;
+restrictions or other obligations imposed on us by agreements related to brensocatib, including our license agreement with AstraZeneca AB, and failure to comply with our obligations under such agreements; failure to successfully conduct future
+clinical trials for brensocatib, including due to the Company's potential inability to enroll or retain sufficient patients to conduct and complete the trials or generate data necessary for regulatory approval, among other things; risks that
+the Company's clinical studies will be delayed or that serious side effects will be identified during drug development; failure of third parties on which the Company is dependent to manufacture sufficient quantities of brensocatib for
+commercial or clinical needs, to conduct the Company's clinical trials, or to comply with the Company's agreements or laws and regulations that impact the Company's business or agreements with the Company; the strength and enforceability of the
+Company’s intellectual property rights or the rights of third parties; the cost and potential reputational damage resulting from litigation to which the Company may become a party, including product liability claims; changes in laws and
+regulations applicable to the Company's business and failure to comply with such laws and regulations; business or economic disruptions due to catastrophes or other events, including natural disasters or public health crises; and inability to
+repay the Company's existing indebtedness and uncertainties with respect to the Company's need and ability to access future capital.   The Company may not actually achieve the results, plans, intentions or expectations indicated by the
+Company's forward-looking statements because, by their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. For additional
+information about the risks and uncertainties that may affect the Company's business, please see the factors discussed in Item 1A, "Risk Factors," in the Company's Annual Report on Form 10-K for the year ended December 31, 2023 and any
+subsequent Company filings with the Securities and Exchange Commission (SEC).  The Company cautions readers not to place undue reliance on any such forward-looking statements, which speak only as of the date of this presentation. The Company
+disclaims any obligation, except as specifically required by law and the rules of the SEC, to publicly update or revise any such statements to reflect any change in expectations or in events, conditions or circumstances on which any such
+statements may be based, or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements.  Please be aware that brensocatib is an investigational product that has not been approved for
+sale or found safe or effective by the FDA or any regulatory authority. 
+
+ 
+
+ Inflammation in Bronchiectasis  Neutrophilic inflammation is central to the
+pathophysiology of non-cystic fibrosis bronchiectasis (hereafter bronchiectasis) and promotes a vicious vortex1  Excessive release of neutrophil serine proteases (NSPs) such as neutrophil elastase (NE) in bronchiectasis has been shown
+to2,3  Impair innate defences against pathogenic bacteria  Reduce mucociliary clearance and promote mucus hypersecretion  Degrade airway proteins leading to remodeling  Elevated levels of NE are associated with more severe disease, lower lung
+function, and increased risk of exacerbations3  Vicious Vortex of Bronchiectasis1  NE, neutrophil elastase; NSP, neutrophil serine protease.1. Keir HR, Chalmer JD. Semin Respir Crit Care Med. 2021;42(4):499-512. 2. Chalmers JD, Chotirmall SH.
+Lancet Respir Med. 2018;6(9):715-726. 3. Chalmers JD, et al. Am J Respir Crit Care Med. 2017;195(10):1384-1393.  Lung destruction  Chronic airway inflammation  Chronic airway infection  Impaired mucociliary clearance 
+
+ 
+
+ Targeting Neutrophilic Inflammation in Bronchiectasis  NSPs are activated in the
+bone marrow by dipeptidyl peptidase 1 (DPP1)1  Brensocatib is a novel, oral, selective, competitive, and reversible inhibitor of DPP1 and is in development for the treatment of bronchiectasis2,3  In the phase 2 WILLOW trial, daily treatment
+with brensocatib 10 mg or 25 mg for 24 weeks prolonged the time to first exacerbation and reduced NE activity in sputum in adults with bronchiectasis compared with placebo3  DPP1, dipeptidyl peptidase 1; NE, neutrophil elastase; NSP, neutrophil
+serine protease.   1. Chalmers JD, Chotirmall SH. Lancet Respir Med. 2018;6(9):715-726. 2. Doyle K, et al. J Med Chem. 2016;59(20):9457-9472. 3. Chalmers JD, et al. N Engl J Med. 2020;383(22):2127-2137.  DPP1  Inactive   NSPs  N-terminal
+dipeptide removed  Proteinase 3  NE  Activated  NSPs  Cathepsin G  DPP1  Inactive   NSPs  Proteinase 3  NE  Cathepsin G  Brensocatib  DPP1 inhibitor 
+
+ 
+
+ ASPEN Study Design  Primary endpoint:Annualized rate of adjudicated pulmonary
+exacerbationsb over 52 weeks  Secondary endpoints (hierarchical):  Time to first exacerbation  Proportion of patients who remained exacerbation-free  Change from baseline in post-bronchodilator FEV1 at week 52  Annualized rate of severe
+exacerbations  Change from baseline in QOL-B Respiratory Symptom Domain score at week 52  Off treatment4 weeks  Treatment period  52 weeks  Baseline  day 1  randomization  End of trial  day 364  End of studyday 392 ± 3   6
+weeks  Randomization:  1:1:1 for adults  2:2:1 for adolescents  Screening  Brensocatib 10 mg once daily  Brensocatib 25 mg once daily  Placeboonce daily  Adults stratified by:  Sputum Pseudomonas aeruginosa culture status at screening (positive
+or negative)  Number of exacerbations in the prior 12 months (2 or ≥3)  Geographic region (Europe, Japan, North America, or ROW)  aASPEN trial (NCT04594369). bDefined as the presence of ≥3 of the following symptoms for at least 48 hours,
+resulting in a physician’s decision to prescribe systemic antibiotics: (1) increased cough, (2) increased sputum production or change in sputum consistency, (3) increased sputum purulence, (4) increased breathlessness and/or decreased exercise
+tolerance, (5) fatigue and/or malaise, or (6) hemoptysis.   FEV1, forced expiratory volume in 1 second; PO, orally; QOL-B, Quality of Life-Bronchiectasis questionnaire; ROW, rest of world.   A phase 3, randomized, double-blind,
+placebo-controlled 52-week study of 2 doses of brensocatib vs placebo in patients with bronchiectasisa 
+
+ 
+
+ Select Key Eligibility Criteria  Key inclusion criteriaa  Clinical history
+consistent with bronchiectasis  CT confirmation of bronchiectasis  Post-bronchodilator FEV1 ≥30% predicted   Adults  18 to 85 years of age  BMI ≥18.5 kg/m2 at screening  ≥2 exacerbations in the 12 months prior to screening  Able to provide
+sputum sample during screening visit  Adolescents  12 to <18 years of age  Body weight ≥30 kg at screening  ≥1 exacerbation in the 12 months prior to screening  aA full list of eligibility criteria can be found at
+https://clinicaltrials.gov/study/NCT04594369. ABPA, allergic bronchopulmonary aspergillosis; BMI, body mass index; CF, cystic fibrosis;   COPD, chronic obstructive pulmonary disease; CT, computed tomography; FEV1, forced expiratory volume in 1
+second; NTM, non-tuberculous mycobacteria; TB, tuberculosis.  Key exclusion criteriaa  Underlying diseases  Primary diagnosis of COPD or asthma (secondary diagnoses allowed)  Bronchiectasis due to CF  Known or suspected immunodeficiency
+disorder  Being treated for ABPA, TB, or NTM  Supplemental oxygen >12 hours per day  Current smokers  Chronic use of systemic steroids or use of immunomodulatory agents 
+
+ 
+
+ Geographic Distribution of Patients Enrolled  Patients in the ASPEN trial
+represent   5 continents  35 countries  391 trial sites  1680 adultsa   41 adolescents  aAccounts for 2 patients who were not included in the ITT population due to significant GCP non-compliance.GCP, Good Clinical Practice; ITT,
+intention-to-treat.  
+
+ 
+
+ Patient Disposition  Screened (n=2296)  Randomized (n=1767)  Brensocatib 10 mg
+(n=583)  Completed study (n=458, 78.6%)  Ongoing study (n=47, 8.1%)  Ongoing treatment (n=9, 1.5%)  Discontinued study (n=78, 13.4%)  Adverse events (n=10)  Death (n=2)   Lost to follow-up (n=10)  Physician decision (n=2)  Protocol deviation
+(n=1)  Patient withdrawal (n=40)  Other (n=13)  Intention-to-treat analysis set (n=583)  Safety analysis set (n=582)b  Brensocatib 25 mg (n=575)  Completed study (n=466, 81.0%)  Ongoing study (n=44, 7.7%)  Ongoing treatment (n=7,
+1.2%)  Discontinued study (n=65, 11.3%)  Adverse events (n=10)  Death (n=4)   Lost to follow-up (n=2)   Physician decision (n=2)  Protocol deviation (n=3)  Patient withdrawal (n=32)  Other (n=12)      Intention-to-treat analysis set
+(n=575)  Safety analysis set (n=574)b  Placebo (n=563)  Completed study (n=457, 81.2%)  Ongoing study (n=31, 5.5%)  Ongoing treatment (n=4, 0.7%)  Discontinued study (n=75, 13.3%)  Adverse events (n=9)  Death (n=8)   Lost to follow-up (n=4)
+  Physician decision (n=3)  Protocol deviation (n=2)  Patient withdrawal (n=37)  Other (n=12)   Screen failed (n=529, 23.0%)a  Not meeting inclusion/exclusion criteria (n=474, 20.6%)  Withdrawal of consent (n=49, 2.1%)  Other (n=6,
+0.3%)  Discontinued due to war in Ukraine (n=44, 2.5%)  Significant GCP non-compliance (n=2, 0.1%)  Intention-to-treat analysis set (n=563)  Safety analysis set (n=563)  a9 patients had screen failure due to COVID-19. b2 patients did not
+receive investigational product and were not included in the safety analysis set. GCP, Good Clinical Practice. 
+
+ 
+
+ Baseline Characteristics  aStratification criteria for adults. bCurrent smokers
+were excluded from the study.BMI, body mass index; BSI, bronchiectasis severity score; COPD, chronic obstructive pulmonary disease; FEV1, forced expiratory volume in 1 second; QOL-B RSS, Quality of Life-Bronchiectasis questionnaire Respiratory
+Symptom Domain score.  Brensocatib 10 mgn=583  Brensocatib 25 mgn=575  Placebon=563  Age, mean ± SD, years  Age ≥75 years, n (%)  59.8 ± 15.9  83 (14.2)  60.6 ± 15.8  84 (14.6)  60.0 ± 15.4  93 (16.5)  Female sex, n (%)  385 (66.0)  360
+(62.6)  362 (64.3)  White race, n (%)  431 (73.9)  430 (74.8)  405 (71.9)  BMI, mean ± SD, kg/m2   25.5 ± 5.4  25.4 ± 5.1  25.1 ± 4.9  Chronic antibiotic use, n (%)   Macrolides  146 (25.0)  110 (18.9)  154 (26.8)  114 (19.8)  133 (23.6)  105
+(18.7)  Use of inhaled steroids, n (%)  324 (55.6)  324 (56.3)  352 (62.5)  Pseudomonas aeruginosa,a n (%)  203 (34.8)  205 (35.7)  199 (35.3)  ≥3 exacerbations in previous 12 months,a n (%)  172 (29.5)  163 (28.3)  167 (29.7)  BSI, mean
+(SD)  7.1 (3.5)  7.1 (3.6)  7.1 (3.6)  Post-bronchodilator % predicted FEV1, mean (SD)   74.3 (23.4)  74.3 (24.6)  71.9 (22.2)  Blood eosinophil count ≥300 cells/µL, n (%)  115 (19.7)  111 (19.3)  106 (18.8)  History of COPD, n (%)  77
+(13.2)  83 (14.4)  102 (18.1)  History of asthma, n (%)  101 (17.3)  109 (19.0)  111 (19.7)  History of smoking, n (%)b  164 (28.1)  163 (28.3)  183 (32.5)  QOL-B RSS (adults), mean (SD)  59.8 (17.0)  61.9 (17.2)  60.0 (16.8) 
+
+ 
+
+ Annualized Rate of Adjudicated Pulmonary Exacerbations Over 52 Weeks  Primary
+endpoint  Annualized rate of exacerbationsa  21.1% Risk reduction  19.4% Risk reduction  aExacerbations were adjudicated events in the ITT analysis set analyzed using a negative binomial model.   bP value is statistically significant when
+adjusted for multiplicity control.   ITT, intention-to-treat.  Brensocatib 10 mgn=583  Brensocatib 25 mgn=575  Rate ratio vs placebo  (95% CI)   0.789  (0.680–0.916)  0.806  (0.694–0.936)  P value  0.0019b  0.0046b 
+
+ 
+
+ Time to First Exacerbation  Secondary endpoint  Brensocatib 10
+mgn=583  Brensocatib 25 mgn=575  Placebon=563  Median time, weeks   (95% CI)   49.0  (40.0–NE)  50.7  (37.6–NE)  36.7  (31.1–41.4)  Hazard ratio vs placebo (95% CI)   0.813   (0.695–0.952)  0.825  (0.703–0.968)  –  P
+valueb  0.0100c  0.0182c  –  Placebo  Brensocatib 25 mg  Brensocatib 10
+mg  583  537  498  459  427  393  367  346  322  310  292  280  265  183  575  526  475  433  400  380  357  337  313  296  282  270  264  169  563  506  461  417  386  354  328  303  281  261  245  228  217  154  Number of patients at
+risk  Proportion of patients with no pulmonary exacerbationa  1.0  0.8  0.6  0.4  0.2  0  0.9  0.7  0.5  0.3  0.1  Brensocatib 10 mg   Brensocatib 25 mg  Placebo  1  4  8  12  16  20  24  28  32  36  40  44  48  52  Week  aExacerbations were
+adjudicated events in the ITT analysis set. b2-sided Wald P value vs placebo calculated from a Cox model. cP value is statistically significant when adjusted for multiplicity control.  ITT, intention-to-treat; NE, not estimable. 
+
+ 
+
+ Proportion of Patients Who Remained Exacerbation-Free  Secondary
+endpoint  Patients who remained exacerbation-free, %  aP value vs placebo calculated from logistic regression Wald test in the ITT analysis set. bP value is statistically significant when adjusted for multiplicity control.  ITT,
+intention-to-treat.  Brensocatib 10 mgn=583  Brensocatib 25 mgn=575  Odds ratio vs placebo  (95% CI)   1.412   (1.105–1.806)  1.400  (1.095–1.792)  P valuea  0.0059b  0.0074b  40.0% Increased odds  41.2% Increased odds  40.3%  48.5%  48.5% 
+
+ 
+
+ Change From Baseline in Post-Bronchodilator FEV1 at Week 52  Brensocatib 25 mg
+showed a 38 mL less FEV1 decline vs placebo  Brensocatib 10 mg  Brensocatib 25 mg  Placebo  LS mean change from baseline to week 52 in post-BD FEV1 (mL)  −50  −24  −62  LS mean difference vs placebo in post-BD FEV1 (mL)  11  38  –  P value vs
+placebo  0.3841  0.0054b  –  LS mean (SE) change from baseline   in post-BD FEV1, mLa  1  16  28  40  52  Week  0  −20  −40  −60  579  545  529  513  475  571  529  523  494  487  563  522  513  494  468  a% predicted FEV1 analyzed using a
+linear repeated measures model in the ITT analysis set. bP value is statistically significant when adjusted for multiplicity control.  BD, bronchodilator; FEV1, forced expiratory volume in 1 second; ITT, intention-to-treat; LS, least
+squares.  Brensocatib 10 mg   Brensocatib 25 mg  Placebo  Placebo  Brensocatib 25 mg  Brensocatib 10 mg  Number of patients with observation  Secondary endpoint 
+
+ 
+
+ Annualized Rate of Severe Exacerbations  Annualized rate of severe
+exacerbationsa  25.8% Risk reduction  26.0% Risk reduction  aSevere adjudicated exacerbations were defined as those requiring intravenous antibiotics and/or hospitalization. bP value vs placebo was calculated using a negative binomial model in
+the ITT analysis set.   ITT, intention-to-treat.  Brensocatib 10 mgn=583  Brensocatib 25 mgn=575  Rate ratio vs placebo  (95% CI)   0.742   (0.505–1.089)  0.740   (0.515–1.062)  P valueb  0.1277  0.1025  Secondary endpoint 
+
+ 
+
+ Change From Baseline in QOL-B Respiratory Symptom Domain Score at Week
+52  1  4  8  12  16  20  24  28  32  36  40  44  48  52  0  2  4  6  8  LS mean (SE) change from baseline in QOL-B
+RSS  488  473  463  456  453  450  446  443  418  418  435  423  416  381  497  476  464  459  454  456  442  446  434  438  432  426  423  394  487  457  459  452  448  437  421  434  428  411  408  405  399  366  Placebo  Brensocatib 25
+mg  Brensocatib 10 mg  Number of patients with observationa  Week  Brensocatib 10 mg   Brensocatib 25 mg  Placebo  aAdult patients only. bP value vs placebo calculated using a linear repeated measures model in the ITT analysis set. cNominally
+significant P value.  LS, least squares; QOL-B RSS, Quality of Life-Bronchiectasis questionnaire Respiratory Symptom Domain score.  Brensocatib 25 mg showed a nominally significant improvement in QOL-B RSS of 3.8 points vs placebo  Brensocatib
+10 mg  Brensocatib 25 mg  Placebo  LS mean change from baseline to week 52 in QOL-B RSS  6.841  8.575  4.809  LS mean difference vs placebo in QOL-B RSS  2.031  3.766  –  P value vs placebob  0.0594  0.0004c  –  Secondary endpoint 
+
+ 
+
+ Change From Baseline in Post-Bronchodilator FVC at Week 52  Placebo  Brensocatib
+25 mg  Brensocatib 10 mg  Number of patients with observation  545  529  513  475  529  523  494  487  522  513  494  468  579  571  563  aFVC analyzed using a linear repeated measures model in the ITT analysis set. bNominally significant P
+value.  BD, bronchodilator; FVC, forced vital capacity; ITT, intention-to-treat; LS, least squares.  1  16  28  40  52  Week  20  0  −40  −80  Brensocatib 10 mg   Brensocatib 25 mg  Placebo  −100  −20  −60  LS mean (SE) change from baseline  
+in post-BD FVC, mLa  Brensocatib 10 mg  Brensocatib 25 mg  Placebo  LS mean change from baseline to week 52 in post-BD FVC (mL)  −51  −12  −87  LS mean difference vs placebo in post-BD FVC (mL)  36  75  –  P value vs
+placebo  0.0331b  <0.0001b  –  Exploratory endpoint 
+
+ 
+
+ Change From Baseline in Average Daily BEST Score  Exploratory endpoint  aAverage
+daily change in the BEST score analyzed with an analysis of covariance model in adult patients in the ITT analysis set. bNominall significant P value.  BEST, Bronchiectasis Exacerbation and Symptoms
+Tool.  1  4  8  12  16  20  24  28  32  36  40  44  48  52  −1.5  −1.0  −0.5  0.0  Week  Number of patients with observationa  Placebo  Brensocatib 25 mg  Brensocatib 10 mg  Brensocatib 10 mg   Brensocatib 25 mg
+  Placebo  558  553  555  547  544  534  528  520  515  506  504  505  497  488  557  552  542  540  534  529  517  520  522  513  507  505  499  494  549  549  541  534  527  520  517  508  505  499  493  490  485  477  Mean change from
+baseline in   BEST scorea  Brensocatib 10 mg  Brensocatib 25 mg  Placebo  LS mean change from baseline in 52-week average daily BEST score  −0.594  −0.999  −0.426  LS mean difference vs placebo in BEST score  −0.168  −0.572  –  P value vs
+placebo  0.1696  <0.0001b  – 
+
+ 
+
+ Brensocatib 10 mgn=582b  Brensocatib 25 mgn=574b  Placebon=563b  Any AE, n
+(%)  452 (77.7)  440 (76.7)  448 (79.6)  Serious AE  101 (17.4)  97 (16.9)  108 (19.2)  Related AE  72 (12.4)  85 (14.8)  73 (13.0)  Serious related AE  0  1 (0.2)  0  AE leading to death  3 (0.5)  4 (0.7)  7 (1.2)  AE leading to treatment
+discontinuation  25 (4.3)  22 (3.8)  23 (4.1)  AE leading to study discontinuation  14 (2.4)  16 (2.8)  16 (2.8)  Most common AEs (≥5% of patientsc), n (%)  COVID-19  92 (15.8)  120 (20.9)  89 (15.8)  Nasopharyngitis  45 (7.7)  36 (6.3)  43
+(7.6)  Cough  41 (7.0)  35 (6.1)  36 (6.4)  Headache  39 (6.7)  49 (8.5)  39 (6.9)  Overview of Treatment-Emergent AEsa  aTreatment-emergent AEs were defined as those occurring up to 28 days after last dose of study treatment. bSafety analysis
+set includes all participants who were randomized and received at least 1 dose of brensocatib or placebo. cAEs reported in ≥5% of patients in each treatment group and higher in patients treated with either dose of brensocatib compared with
+placebo.  AE, adverse event. 
+
+ 
+
+ Brensocatib 10 mgn=582b  Brensocatib 25 mgn=574b  Placebon=563b  Any AE of special
+interest, n (%)  42 (7.2)  56 (9.8)  53 (9.4)  Hyperkeratosis  8 (1.4)  17 (3.0)  4 (0.7)  Periodontitis/gingivitis  8 (1.4)  12 (2.1)  15 (2.7)  Severe infection  4 (0.7)  7 (1.2)  4 (0.7)  Pneumonia  23 (4.0)  27 (4.7)  33 (5.9)  AEs of
+Special Interesta  aAEs reported by study investigators; congenital complete absence of DPP1 leads to Papillon Lefèvre syndrome that is characterized by gingival hyperplasia and hyperkeratosis (but not increased infection rates). bSafety
+analysis set includes all participants randomized and received at least 1 dose of brensocatib or placebo.  AE, adverse event; DPP1, dipeptidyl peptidase 1. 
+
+ 
+
+ Conclusions  Brensocatib at both doses, 10 mg and 25 mg once daily,
+  Significantly reduced the annualized rate of pulmonary exacerbations  Significantly prolonged the time to first exacerbation   Significantly increased the odds of remaining exacerbation-free over the treatment period  Brensocatib 25 mg
+significantly reduced the rate of loss of lung function, as measured by the change from baseline in post-bronchodilator FEV1 at week 52 vs placebo  Both doses demonstrated numerical reductions in the rate of severe pulmonary exacerbations
+  Brensocatib 25 mg showed a nominally significant improvement in quality of life, as measured by the QOL-B RSS  The positive impact of brensocatib 25 mg on lung function and quality of life was also observed in nominally significant changes
+from baseline vs placebo in post-bronchodilator FVC at week 52 and average daily BEST score  Brensocatib at both doses was generally well tolerated and demonstrated a favorable safety profile  BEST, Bronchiectasis Exacerbation and Symptoms
+Tool; FEV1, forced expiratory volume in 1 second; FVC, forced vital capacity; QOL-B RSS, Quality of Life-Bronchiectasis questionnaire Respiratory Symptoms Domain score. 
+
+ 
+
+ Acknowledgements  We thank the patients who participated in the trial and their
+family members and caregivers, as well as the investigators, clinical research teams, and support staff at the trial sites for providing patient care and their contributions to this study  This study was funded by Insmed Incorporated,
+Bridgewater, NJ, USA  Medical writing support was provided by Lynsey Fettig, PhD, of Envision Pharma Group, and funded by Insmed Incorporated

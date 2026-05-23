@@ -1,0 +1,473 @@
+EX-99.1
+2
+ex991q22025_earningsxrelea.htm
+EX-99.1
+
+Document
+
+Zymeworks Provides Corporate Update and
+Reports Second Quarter 2025 Financial Results
+
+•Investigational new drug (IND) application cleared by the United States Food and Drug Administration (FDA) for ZW251 with first-in-human studies planned to initiate in 2025
+
+•China and European approval for zanidatamab in 2L HER2-positive biliary tract cancer (BTC) expands international patient access
+
+• $48.7 million in revenue for 2Q-2025 from continued progress on existing partnerships
+
+•Ziihera® net product sales by Jazz were $5.5 million for 2Q-2025
+
+•Cash resources of $333.4 million as of June 30, 2025 (compared to $324.2 million as of December 31, 2024), which when combined with certain anticipated regulatory milestone payments, provides a projected cash runway into 2H-2027
+
+•Will host conference call with management today at 4:30 p.m. Eastern Time (ET)
+
+Vancouver, British Columbia (August 7, 2025) – Zymeworks Inc. (Nasdaq: ZYME), a clinical-stage biotechnology company developing a diverse pipeline of novel, multifunctional biotherapeutics to improve the standard of care for difficult-to-treat diseases, including cancer, inflammation, and autoimmune disease, today reported financial results for the three and six months ended June 30, 2025 and provided a summary of recent business highlights.
+
+“This quarter, continued progress across our strategic partnerships has further validated the strength and versatility of our Azymetric platform as well as our strategic partnership model, which enables broad and accelerated clinical development with the right collaborators. The achievement of key development milestones from these partnerships not only reinforces our scientific approach but also generated meaningful revenue, helping to offset our measured R&D cash burn,” said Kenneth Galbraith, Chair and Chief Executive Officer at Zymeworks. “Importantly, we have maintained financial prudence while executing on critical R&D objectives, including the recent IND clearance of ZW251. With this development, we expect to have three product candidates in active Phase 1 trials in the second half of 2025, with two additional product candidates on track to enter the clinic in 2026. Together these developments demonstrate consistent execution across our R&D programs and long term business strategy.”
+
+Galbraith continued, “With anticipated topline data from the HERIZON-GEA-01 study expected in the fourth quarter of 2025, we are evolving our business strategy to help enhance long term-value for our shareholders through thoughtful capital allocation, while continuing to pursue a meaningful impact on patient outcomes through our R&D innovation. Given the strong potential we see for peak sales of zanidatamab, we believe we have a compelling opportunity to anchor our future strategy around anticipated royalty and milestone streams from Ziihera® in BTC, GEA and other potential future indications, which we believe could provide a predictable, longer-term source of substantial
+
+and durable positive cash flows. These core royalty revenues from Ziihera® could be supplemented over time by additional potential revenues from our existing partnerships, such as our collaboration with J&J for pasritamig, as well as new partnerships and collaborations formed from our wholly-owned R&D pipeline. We believe that this focused, capital-efficient partnership business model could serve as both a long-term funding source for continued R&D operations and as a foundation from which to grow our self-contained royalty income over the longer term. We intend to remain disciplined with our R&D investment strategy with respect to focusing resource allocation on high-potential, innovative programs that align with our partnership-driven business model, whether originating from within ZYME or accessed externally.”
+
+Recent Developments
+
+Wholly-Owned R&D Programs
+
+In May 2025, we presented new preclinical data for ZW1528, a novel IL-4Rα x IL-33 bispecific molecule designed to address respiratory inflammation, at the American Thoracic Society International Conference. Key findings for ZW1528 include:
+
+•High-affinity binding to both IL-33 and IL-4Rα and effective blockade of IL-4, IL-13, and IL-33 signaling at levels comparable to clinical benchmark monoclonal antibody controls.
+
+•Suppression of both Type 2 and non-Type 2 responses in primary human immune cells of COPD patients in vitro.
+
+•Efficacy in vivo in acute and chronic murine models of lung inflammation driven by house dust mites.
+
+•Extended pharmacokinetics in rodent and non-human primate models, with incorporation of Fc extending half-life optimization.
+
+•Biophysical stability at high concentration (150 mg/mL), supporting potential for subcutaneous administration.
+
+In June 2025, we presented a trial in progress poster for ZW171 at the American Society of Clinical Oncology (ASCO) Annual Meeting. The study employs a subcutaneous step-up dosing regimen on Days 1, 8, and 15 of each 21-day cycle. The starting dose level (Dose Level 1) is based on a quantitative systems pharmacology-guided minimal anticipated biological effect level (MABEL) approach and includes sequential doses of 4.2 µg (Cycle 1 Day 1), 12.6 µg (Cycle 1 Day 8), and 38.0 µg (Cycle 1 Day 15). Dose levels 2 and above are determined by the data from the prior dose based on pre-specified rules within the protocol. The modified toxicity probability interval (mTPI) design is being used to establish the maximum tolerated dose and recommended dose for expansion.
+
+Also in June, we presented a trial in progress poster for ZW191 at the ESMO Gynaecological Cancers Congress. The starting dose level (Dose Level 1) is 1.6 mg/kg, administered once every three weeks (Q3W) by intravenous infusion. Approximately six dose levels are planned, with escalation guided by safety and tolerability using a modified toxicity probability interval design.
+
+In July 2025, we announced that the IND application for ZW251, a first-in-class GPC3-targeting antibody-drug conjugate, was cleared by the FDA. We plan to commence Phase 1 clinical studies for ZW251 in 2025.
+
+“We are encouraged by the clinical progress observed to date with our lead ADC candidate, ZW191, which utilizes our proprietary Topo1i payload, '519, and an optimized antibody. The clinical and
+
+translational alignment observed further supports our decision to advance ZW251 into the clinic, leveraging the same core components to expand the therapeutic potential of our ADC approach in hepatocellular carcinoma,” said Paul Moore, Ph.D., Chief Scientific Officer at Zymeworks. “In parallel, this quarter we were pleased to present inaugural preclinical data from our first autoimmune and inflammatory disease program. ZW1528 has demonstrated promising preclinical activity against relevant benchmarks, showcasing the versatility of our technology beyond oncology and into broader therapeutic areas.”
+
+Zanidatamab Continues to Progress
+
+In May 2025, our partner Jazz announced long-term data, including the first report of median overall survival (OS) from the Phase 2 trial evaluating Ziihera® (zanidatamab-hrii), a dual HER2-targeted bispecific antibody, in combination with chemotherapy for the investigational use in first-line HER2-positive (HER2+) (IHC 3+ or IHC 2+/FISH+) locally advanced nonresectable gastroesophageal adenocarcinoma (mGEA). The data were featured as a rapid oral presentation at the ASCO Annual Meeting. Among 41 patients with centrally confirmed HER2+ tumors, treatment with Ziihera® in combination with physician’s choice of chemotherapy resulted in a median progression-free survival (PFS) of 15.2 months [95% CI: 9.5, 33.4], and a median overall survival (OS) of 36.5 months [95% CI: 23.6, not estimable (NE)]. Median PFS remained stable with the additional four-year follow-up, consistent with previously reported results. Among all 46 patients in the study with HER2-expressing mGEA, median PFS was 12.5 months [95% CI: 8.2, 21.8], and median OS also reached 36.5 months [95% CI: 23.6, NE], with the longest observed survival at 57.9 months (censored at data cutoff). Long-term follow-up also demonstrated low discontinuation rates, with no new safety signals observed. The pivotal HERIZON-GEA-01 trial, evaluating zanidatamab in 1L gastroesophageal adenocarcinoma (GEA), is expected to read out topline PFS data in 4Q-2025.
+
+Also in May, our partner BeOne Medicines announced that the National Medical Products Administration (NMPA) in China granted conditional approval of zanidatamab for the treatment of patients with previously treated, unresectable or metastatic HER2+ BTC. We recognized $20.0 million in milestone revenue from BeOne in relation to this conditional approval, and remain eligible to receive up to $144 million in additional development and commercial milestones. We are also eligible to receive tiered royalties of up to 19.5% of net sales in BeOne Medicine’s territories, increasing to up to 20% when cumulative amounts foregone as a result of a royalty reduction of 0.5% reaches a cap in the low double-digit millions of dollars.
+
+In July 2025, our partner Jazz announced that the European Commission granted conditional marketing authorization of Ziihera® for the treatment of adults with unresectable locally advanced or metastatic HER2+ BTC, expanding patient access and expected to increase future royalties payable to us.
+
+In August 2025, our partner Jazz announced the initiation of a Phase 2 trial (EmpowHER-BC-208) to evaluate zanidatamab in patients with HER2-positive neoadjuvant and adjuvant breast cancer.
+
+Our royalty revenue from Jazz and BeOne was $0.6 million for 2Q-2025, driven principally by $5.5 million of net product sales of Ziihera® by Jazz.
+
+Platform Collaboration Agreements
+
+In May 2025, we recognized $7.5 million upon BMS’s exercise of its commercial license option in relation to our licensing and collaboration agreement with BMS dated December 23, 2014. We remain eligible to receive up to $313.0 million in potential payments from the BMS collaboration, including development and commercial milestones, in addition to being entitled to earn tiered royalties on global product sales.
+
+In June 2025, at the ASCO Annual Meeting, our collaboration partner, J&J Innovative Medicine (J&J), reported Phase 1 trial results for pasritamig (JNJ-78278343), a first-in-class, T-cell engaging bispecific antibody targeting human kallikrein 2 (KLK2) expressed on the surface of prostate cancer cells. Pasritamig demonstrated preliminary anti-tumor activity in prostate cancer patients to establish proof of concept for KLK2 as a target in prostate cancer and to warrant further development by J&J. Pasritamig also demonstrated a favorable safety profile with very low rates of cytokine release syndrome and could be safely administered in an outpatient setting. Under our agreement with J&J for JNJ-78278343, we remain eligible to receive development milestone payments of up to $86.0 million, commercial milestone payments of up to $373.0 million, and mid-single digit royalties on sales.
+
+Also in June, at the ASCO Annual Meeting, our collaboration partner, Daiichi Sankyo, Inc. presented a trial in progress poster for a Phase 1, first-in-human study of DS-2243, a bispecific T-cell engager in patients with advanced solid tumors.
+
+Second Quarter 2025 Financial Results
+
+The key financial highlights for our 2Q-2025 results are as follows:
+
+•Revenue – Total revenue was $48.7 million in 2Q-2025 compared to $19.2 million for 2Q-2024. The increase was primarily due to a $20.0 million non-refundable milestone from BeOne upon conditional approval of the BLA for zanidatamab for second-line treatment of HER2+ BTC by the NMPA in China, as well as the recognition of $18.3 million of deferred revenue in relation to the achievement of that milestone, and $7.5 million from BMS due to the exercise of its commercial license option, with revenue from royalty income increasing to $0.6 million from Jazz and BeOne. This was partially offset by a reduction in development support and drug supply revenue from Jazz and other milestones achieved in 2Q-2024.
+
+•Research and Development (R&D) Expenses – R&D expenses were $34.4 million in 2Q-2025 compared to $29.2 million in 2Q-2024, primarily due to an increase in expenses for ZW171, ZW191 and other preclinical expenses related to IND-enabling studies for ZW209 and ZW251. These were partially offset by a decrease in expenses for zanidatamab zovodotin and ZW220.
+
+•General and Administrative (G&A) Expenses – G&A expenses were $15.0 million in 2Q-2025 compared to $15.7 million in 2Q-2024. This was primarily due to decreases in rent and consulting expenses, partially offset by an increase in non-cash stock-based compensation, depreciation and amortization expenses.
+
+•Other Income, net – Other income was $2.8 million in 2Q-2025 compared to $5.3 million in 2Q-2024. The change was driven primarily by lower interest income on cash, cash equivalents and marketable securities and by net foreign exchange loss.
+
+•Net Income (loss) – Net income was $2.3 million in 2Q-2025 compared to a net loss of $37.7 million in 2Q-2024. This was primarily due to an increase in revenue and a decrease in operating expenses, which included an impairment charge of $17.3 million on intangible assets in 2Q-2024, partially offset by a decrease in interest income.
+
+•Liquidity – As of June 30, 2025, we had $333.4 million of cash resources consisting of cash, cash equivalents and marketable securities. Based on current operating plans, we expect our existing cash resources as of June 30, 2025, when combined with the assumed receipt of certain anticipated regulatory milestones, will enable us to fund planned operations into 2H-2027.
+
+About Zymeworks Inc.
+
+Zymeworks is a global clinical-stage biotechnology company committed to the discovery, development, and commercialization of novel, multifunctional biotherapeutics. Zymeworks’ mission is to make a meaningful difference in the lives of people impacted by difficult-to-treat conditions such as cancer, inflammation, and autoimmune disease. The Company’s complementary therapeutic platforms and fully integrated drug development engine provide the flexibility and compatibility to precisely engineer and develop highly differentiated antibody-based therapeutic candidates. Zymeworks engineered and developed zanidatamab, a HER2-targeted bispecific antibody using the Company’s proprietary Azymetric™ technology. Zymeworks has entered into separate agreements with BeOne Medicines Ltd. (formerly BeiGene, Ltd.) and Jazz Pharmaceuticals Ireland Limited, granting each exclusive rights to develop and commercialize zanidatamab in different territories. Zanidatamab has received accelerated approval from the U.S. FDA, conditional approval from the NMPA in China, and conditional marketing authorization from the European Commission for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC). It is the first and only dual HER2-targeted bispecific antibody approved for this indication in the U.S., Europe, and China. Zanidatamab is also being evaluated in multiple global clinical trials as a potential best-in-class treatment for patients with multiple HER2-expressing cancers. Zymeworks is rapidly advancing a robust pipeline of wholly-owned product candidates, leveraging its expertise in both antibody drug conjugates and multispecific antibody therapeutics targeting novel pathways in areas of significant unmet medical need. Phase 1 studies for ZW171 and ZW191 are actively recruiting, and ZW251 is expected to enter clinical trials in 2025. In addition to Zymeworks’ pipeline, its therapeutic platforms have been further leveraged through strategic partnerships with global biopharmaceutical companies. For information about Zymeworks, visit www.zymeworks.com and follow @ZymeworksInc on X.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release includes “forward-looking statements” or information within the meaning of the applicable securities legislation, including Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements in this press release include, but are not limited to, statements that relate to Zymeworks’ expectations regarding implementation of its strategic priorities; the anticipated benefits of its collaboration agreements, including Zymeworks’ ability to receive any future milestone payments and royalties thereunder; the potential addressable market of zanidatamab; the timing of and results of interactions with regulators; Zymeworks’ clinical development of its product candidates and enrollment in its clinical trials; the timing and status of ongoing and future studies and the related data; the timing of anticipated IND submissions; anticipated preclinical and clinical data presentations; expectations regarding future regulatory filings and approvals and the timing thereof; potential safety profile and
+
+therapeutic effects of zanidatamab and Zymeworks’ other product candidates; evolution of Zymeworks’ business strategy related to anticipated and potential future royalty streams and existing and potential new partnerships; expected financial performance and future financial position; the commercial potential of technology platforms and product candidates; Zymeworks’ ability to satisfy potential regulatory and commercial milestones with existing and future partners; the timing and status of ongoing and future studies and the release of data; anticipated continued receipt of revenue from existing and future partners; Zymeworks’ early-stage pipeline; anticipated sufficiency of existing cash resources, when combined with the assumed receipt of certain anticipated regulatory milestones, to fund Zymeworks’ planned operations into the second half of 2027; Zymeworks’ ability to execute new collaborations and partnerships and other information that is not historical information. When used herein, words such as “plan”, “believe”, “expect”, “may”, “continue”, “anticipate”, “potential”, “will”, “on track”, “progress”, and similar expressions are intended to identify forward-looking statements. In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking. All forward-looking statements are based upon Zymeworks’ current expectations and various assumptions. Zymeworks believes there is a reasonable basis for its expectations and beliefs, but they are inherently uncertain. Zymeworks may not realize its expectations, and its beliefs may not prove correct. Actual results could differ materially from those described or implied by such forward-looking statements as a result of various factors, including, without limitation: any of Zymeworks’ or its partners’ product candidates may fail in development, may not receive required regulatory approvals, or may be delayed to a point where they are not commercially viable; Zymeworks may not achieve milestones or receive additional payments under its collaborations; regulatory agencies may impose additional requirements or delay the initiation of clinical trials; the impact of new or changing laws and regulations; market conditions; the impact of pandemics and other health crises on Zymeworks’ business, research and clinical development plans and timelines and results of operations, including impact on its clinical trial sites, collaborators, and contractors who act for or on Zymeworks’ behalf; zanidatamab may not be successfully commercialized; Zymeworks’ evolution of its business strategy related to anticipated and potential future milestones and royalty streams and existing and potential new partnerships may not be successfully implemented; clinical trials may not demonstrate safety and efficacy of any of Zymeworks’ or its collaborators’ product candidates; Zymeworks’ assumptions and estimates regarding its financial condition, future financial performance and estimated cash runway may be incorrect; inability to maintain or enter into new partnerships or strategic collaborations; and the factors described under “Risk Factors” in Zymeworks’ quarterly and annual reports filed with the Securities and Exchange Commission (copies of which may be obtained at www.sec.gov and www.sedarplus.ca).
+
+Although Zymeworks believes that such forward-looking statements are reasonable, there can be no assurance they will prove to be correct. Investors should not place undue reliance on forward-looking statements. The above assumptions, risks and uncertainties are not exhaustive. Forward-looking statements are made as of the date hereof and, except as may be required by law, Zymeworks undertakes no obligation to update, republish, or revise any forward-looking statements to reflect new information, future events or circumstances, or to reflect the occurrences of unanticipated events.
+
+ZYMEWORKS INC.
+
+Condensed Interim Consolidated Statements of Income (Loss) and Comprehensive Income (Loss)
+
+(Expressed in thousands of U.S. dollars except share and per share data) (unaudited)
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2025
+
+2024
+
+2025
+
+2024
+
+Revenue
+
+Research and development collaborations
+
+$
+
+48,726 
+
+$
+
+19,243 
+
+$
+
+75,836 
+
+$
+
+29,273 
+
+Operating expenses:
+
+Research and development
+
+34,449 
+
+29,163 
+
+70,187 
+
+61,205 
+
+General and administrative
+
+14,951 
+
+15,679 
+
+31,936 
+
+31,469 
+
+Impairment on acquired in-process research and development assets
+
+— 
+
+17,287 
+
+— 
+
+17,287 
+
+Total operating expenses
+
+49,400 
+
+62,129 
+
+102,123 
+
+109,961 
+
+Loss from operations
+
+(674)
+
+(42,886)
+
+(26,287)
+
+(80,688)
+
+Other income, net
+
+2,805 
+
+5,268 
+
+6,278 
+
+11,492 
+
+Income (loss) before income taxes
+
+2,131 
+
+(37,618)
+
+(20,009)
+
+(69,196)
+
+Income tax recovery (expense)
+
+186 
+
+(68)
+
+(310)
+
+(143)
+
+Net income (loss)
+
+$
+
+2,317 
+
+$
+
+(37,686)
+
+$
+
+(20,319)
+
+$
+
+(69,339)
+
+Other comprehensive income (loss):
+
+Unrealized income (loss) on available for sale securities, net of tax of nil
+
+66 
+
+(180)
+
+612 
+
+(1,301)
+
+Total other comprehensive income (loss)
+
+66 
+
+(180)
+
+612 
+
+(1,301)
+
+Comprehensive income (loss)
+
+$
+
+2,383 
+
+$
+
+(37,866)
+
+$
+
+(19,707)
+
+$
+
+(70,640)
+
+Net earnings (loss) per common share:
+
+Basic
+
+$
+
+0.03 
+
+$
+
+(0.49)
+
+$
+
+(0.27)
+
+$
+
+(0.91)
+
+Diluted
+
+$
+
+0.03 
+
+$
+
+(0.49)
+
+$
+
+(0.27)
+
+$
+
+(0.91)
+
+Weighted-average common stock outstanding:
+
+Basic
+
+75,337,168 
+
+76,392,593 
+
+75,254,553 
+
+76,303,713 
+
+Diluted
+
+77,378,449 
+
+76,396,217 
+
+75,302,357 
+
+76,321,941 
+
+ZYMEWORKS INC.
+
+Selected Condensed Interim Consolidated Balance Sheet Data
+
+(Expressed in thousands of U.S. dollars) (unaudited)
+
+ 
+
+June 30,
+2025
+
+December 31,
+2024
+
+Assets
+
+Current assets:
+
+Cash, cash equivalents and short-term marketable securities
+
+$
+
+281,379 
+
+$
+
+225,776 
+
+Accounts receivable
+
+2,631 
+
+55,815 
+
+Other current assets
+
+12,120 
+
+18,860 
+
+Long-term marketable securities
+
+51,996 
+
+98,428 
+
+Other long-term assets
+
+60,259 
+
+64,212 
+
+Total assets
+
+$
+
+408,385 
+
+$
+
+463,091 
+
+Liabilities
+
+Current liabilities:
+
+Accounts payable and accrued expenses
+
+$
+
+31,003 
+
+$
+
+59,838 
+
+Other current liabilities
+
+7,499 
+
+28,456 
+
+Long-term liabilities
+
+35,377 
+
+36,029 
+
+Total liabilities
+
+73,879 
+
+124,323 
+
+Stockholders’ equity
+
+334,506 
+
+338,768 
+
+Total liabilities and stockholders’ equity
+
+$
+
+408,385 
+
+$
+
+463,091 
+
+Contacts:
+
+Investor Inquiries:
+
+Shrinal Inamdar
+
+Senior Director, Investor Relations
+
+(604) 678-1388 
+
+ir@zymeworks.com
+
+Media Inquiries:  
+
+Diana Papove
+
+Senior Director, Corporate Communications
+
+(604) 678-1388  
+
+media@zymeworks.com

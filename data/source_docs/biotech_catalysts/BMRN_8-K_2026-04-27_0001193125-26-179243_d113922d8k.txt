@@ -1,0 +1,353 @@
+8-K
+
+BIOMARIN PHARMACEUTICAL INC false 0001048477 0001048477 2026-04-27 2026-04-27
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 27, 2026
+
+ 
+
+ 
+
+BioMarin Pharmaceutical Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+000-26727
+
+ 
+
+68-0397820
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+770 Lindaro Street
+
+ 
+
+San Rafael
+
+ 
+
+California
+
+  
+
+94901
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+  
+
+(Zip Code)
+
+(415) 506-6700
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001
+
+ 
+
+BMRN
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Introductory Note
+
+On April 27, 2026 (the “Closing Date”), BioMarin Pharmaceutical Inc., a Delaware corporation (“BioMarin” or the “Company”), completed its previously announced merger transaction with Amicus Therapeutics, Inc., a Delaware corporation (“Amicus”), pursuant to that certain Agreement and Plan of Merger (the “Merger Agreement”), dated as of December 19, 2025, by and among BioMarin, Amicus, and Lynx Merger Sub 1, Inc., a Delaware corporation and a wholly owned subsidiary of BioMarin (“Merger Sub”). Pursuant to the terms of the Merger Agreement, Amicus merged with and into Merger Sub (the “Merger”) with Amicus continuing as the surviving corporation and as a wholly owned subsidiary of BioMarin.
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+The information set forth in Item 2.03 below is incorporated into this Item 1.01 by reference.
+
+ 
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+The information set forth in the “Introductory Note” above is incorporated into this Item 2.01 by reference.
+
+At the effective time of the Merger (the “Effective Time”), each share of common stock, par value $0.01 per share, of Amicus (“Amicus Common Stock”) issued and outstanding immediately prior to the Effective Time (other than certain excluded shares as described in the Merger Agreement) was automatically cancelled and converted into the right to receive $14.50 in cash, without interest thereon and subject to any applicable withholding of taxes.
+
+Pursuant to the Merger Agreement, at the Effective Time, (i) each outstanding and unexercised Amicus option awarded, whether or not vested, and which had a per share exercise price that was less than $14.50 (each, an “In-the-Money Option”) was cancelled and converted into the right to receive a cash payment equal to the product of (A) the excess of (x) $14.50 over (y) the exercise price payable per share under such Amicus option multiplied by (B) the total number of shares subject to such Amicus option (without regard to vesting); (ii) each outstanding and unexercised Amicus option awarded other than an In-the-Money Option, whether or not vested, was cancelled with no consideration payable in respect thereof; (iii) each outstanding Amicus restricted stock unit awarded was cancelled and the holder thereof was entitled to receive a cash payment in the amount equal to the product of $14.50 multiplied by the number of shares of Amicus Common Stock subject to such Amicus restricted stock unit; and (iv) each outstanding Amicus performance-vesting restricted stock unit awarded, whether or not vested, was cancelled and the holder thereof was entitled to receive a cash payment in the amount equal to the product of $14.50 multiplied by the number of shares of Amicus Common Stock subject to such Amicus performance-vesting restricted stock unit (as determined at the level of performance set forth in the Merger Agreement and without any pro-ration).
+
+The foregoing description of the Merger Agreement and the transactions contemplated thereby does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, which is included as Exhibit 2.1 hereto and incorporated herein by reference.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+On the Closing Date, in connection with the Merger, the Company entered into a Credit Agreement (the “Credit Agreement”), by and among the Company, as borrower, the lenders and issuing banks from time to time party thereto, and Citibank, N.A., as administrative agent and collateral agent (in such capacities, the “Administrative Agent” and the “Collateral Agent,” respectively).
+
+The Credit Agreement provides for a $2.0 billion senior secured term loan “B” facility (the “Term Loan B Facility” and the loans thereunder, the “Term B Loans”), a $800.0 million senior secured term loan “A” facility (the “Term Loan A Facility” and, together with the Term Loan B Facility, the “Term Facilities”, the loans thereunder, the “Term A Loans” and, together with the Term B Loans, the “Term Loans”) and a $600.0 million senior secured revolving credit facility (the “Revolving Facility” and, together with the Term Facilities, the “Senior Secured Credit Facilities”, the loans thereunder, the “Revolving Loans”).
+
+ 
+
+The Term Loans were fully funded on the Closing Date and no amounts of Revolving Loans were funded on the Closing Date. The Term Loan B Facility matures on the seventh anniversary of the Closing Date and the Term Loan A Facility and Revolving Facility each mature on the fifth anniversary of the Closing Date.
+
+The Company used the proceeds of the Term Loans, together with the proceeds of the previously issued 5.500% Senior Notes due 2034 (the “2034 Notes”) that were released from escrow on the Closing Date, and cash on hand, to finance the consideration payable in connection with the Merger and to pay related fees and expenses. The Revolving Facility is available for working capital and general corporate purposes.
+
+Borrowings under the Senior Secured Credit Facilities bear interest, at the Company’s option, at a rate equal to either (i) Term SOFR plus an applicable margin or (ii) an alternate base rate plus an applicable margin. The applicable margin for Term B Loans is 1.75% per annum for Term SOFR loans and 0.75% per annum for alternate base rate loans. The applicable margins for Term A Loans and Revolving Loans are subject to adjustment based on the Company’s Total Net Leverage Ratio (as defined in the Credit Agreement), ranging from 1.00% to 1.75% per annum for Term SOFR loans and 0.00% to 0.75% per annum for alternate base rate loans. The Company is required to pay a commitment fee on the daily unused portion of the Revolving Facility at a rate per annum ranging from 0.125% to 0.200%, subject to adjustment based on the Company’s Total Net Leverage Ratio.
+
+The obligations of the Company under the Credit Agreement are guaranteed by certain of its subsidiaries (the “Guarantors”) and are secured by a first-priority lien on substantially all of the assets of the Company and the Guarantors, subject to certain exceptions set forth in the Credit Agreement.
+
+The Credit Agreement contains customary affirmative and negative covenants, including, among others, covenants that restrict the ability of the Company and its subsidiaries to incur additional indebtedness, create liens, make investments, pay dividends or make other restricted payments, dispose of assets, and enter into transactions with affiliates, in each case subject to exceptions set forth in the Credit Agreement. In addition, with respect to the Term A Facility and the Revolving Facility, the Credit Agreement requires the Company to maintain (i) a Total Net Leverage Ratio not to exceed 3.50 to 1.00 (subject to a temporary increase to 4.00 to 1.00 in connection with certain material acquisitions) and (ii) an Interest Coverage Ratio (as defined in the Credit Agreement) of not less than 3.00 to 1.00, in each case tested as of the last day of each fiscal quarter.
+
+The Credit Agreement also contains customary events of default, including, among others, payment defaults, breaches of representations and warranties, covenant defaults, cross-defaults to material indebtedness, certain bankruptcy and insolvency events, judgment defaults, and certain change of control events.
+
+The Company’s existing Credit Agreement, dated as of August 28, 2024, by and among the Company, the lenders party thereto and Citibank, N.A., as administrative agent, was repaid in full and terminated in connection with the closing of the new Senior Secured Credit Facilities.
+
+On the Closing Date, certain of the Guarantors that were not already party to the indenture governing the 2034 Notes (the “2034 Notes Indenture”) executed and delivered a supplemental indenture thereto (the “Supplemental Indenture”), pursuant to which such Guarantors guaranteed the Company’s obligations under the 2034 Notes Indenture on the terms and subject to the conditions set forth therein.
+
+The foregoing description of the Credit Agreement and the Supplemental Indenture does not purport to be complete and is qualified in its entirety by reference to the full text of the Credit Agreement and the Supplemental Indenture, copies of which are included as exhibits 10.1 and 4.2 hereto, respectively, and incorporated herein by reference. The foregoing description of the 2034 Notes Indenture does not purport to be complete and is qualified in its entirety by reference to the full text of the 2034 Notes Indenture, a copy of which was filed as exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 12, 2026.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On April 27, 2026, BioMarin issued a press release announcing the completion of the previously announced Merger. A copy of the press release is attached as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+The information contained in this Item 7.01 and Exhibit 99.1 attached hereto is furnished pursuant to Item 7.01 of Form 8-K and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section. The information shall not be deemed incorporated by reference into any other filing with the Securities and Exchange Commission made by BioMarin regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+ 
+
+(a)
+
+Financial Statements of Businesses Acquired
+
+Financial statements, to the extent required by this Item 9.01, will be filed by amendment to this Current Report on Form 8-K no later than 71 days following the date that this Current Report on Form 8-K is required to be filed.
+
+ 
+
+(b)
+
+Pro Forma Financial Information
+
+Financial statements, to the extent required by this Item 9.01, will be filed by amendment to this Current Report on Form 8-K no later than 71 days following the date that this Current Report on Form 8-K is required to be filed.
+
+ 
+
+(d)
+
+Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+ 2.1
+
+  
+
+Agreement and Plan of Merger, dated as of December 19, 2025, by and among BioMarin Pharmaceutical Inc., Amicus Therapeutics, Inc. and Lynx Merger Sub 1, Inc. (incorporated by reference to Exhibit 2.1 to BioMarin’s Current Report on Form 8-K filed on December 19, 2025).
+
+ 4.1
+
+  
+
+Supplemental Indenture, dated as of April 27, 2026, by and among BioMarin Pharmaceutical Inc., certain guarantors party thereto, and U.S. Bank Trust Company, National Association.
+
+10.1
+
+  
+
+Credit Agreement, dated as of April 27, 2026, by and among BioMarin Pharmaceutical Inc., as the Borrower, Citibank, N.A., as administrative agent and collateral agent, and the lenders and issuing banks party thereto.
+
+99.1
+
+  
+
+Press Release issued by BioMarin Pharmaceutical Inc. on April 27, 2026.
+
+104
+
+  
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BIOMARIN PHARMACEUTICAL INC.,
+
+Date: April 27, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+Executive Vice President, Chief Legal Officer

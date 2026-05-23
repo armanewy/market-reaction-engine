@@ -1,0 +1,451 @@
+falseINSMED Inc0001104506NASDAQ00011045062026-03-232026-03-23
+
+UNITED
+
+STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 23, 2026
+
+INSMED INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+
+Virginia
+
+ 
+
+000-30739
+
+ 
+
+54-1972729
+
+(State or other jurisdiction
+
+ 
+
+(Commission
+
+ 
+
+(IRS Employer
+
+of incorporation)
+
+ 
+
+File Number)
+
+ 
+
+Identification No.)
+
+700 US Highway 202/206
+
+Bridgewater, New Jersey
+
+ 
+
+08807
+
+(Zip Code)
+
+(Address of principal executive offices)
+
+ 
+
+ 
+
+Registrant’s telephone number, including area code: (908) 977-9900
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule
+14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule
+13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+INSM
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 7.01 — Regulation FD Disclosure.
+
+On March 23, 2026, Insmed Incorporated (the “Company”) issued a press release announcing positive topline results from its Phase 3b ENCORE study of ARIKAYCE® (amikacin liposome inhalation suspension) plus multidrug therapy (azithromycin 250 mg + ethambutol 15 mg/kg) once-daily versus placebo plus multidrug therapy once-daily in diagnosed patients with a new occurrence of Mycobacterium avium complex (“MAC”) lung infection who had not
+received antibiotics (the “ENCORE Study”). A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+The Company will host a conference call to discuss the positive topline results of the ENCORE Study on March 23, 2026, at 8:00 a.m., Eastern Time, and a
+live webcast of the call will be available through the investor relations section of the Company’s website. A copy of the slide presentation to be used by the Company during the conference call is attached hereto as Exhibit 99.2 and incorporated
+herein by reference.
+
+The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+ITEM 8.01 — Other Events.
+
+On March 23, 2026, the Company issued a press release announcing positive topline results from the ENCORE Study. Topline efficacy results from the ENCORE Study are as follows:
+
+ 
+
+ARIKAYCE 590 mg plus azithromycin 250 mg + ethambutol 15 mg/kg once-daily (N=213)
+
+Placebo plus azithromycin 250 mg + ethambutol 15 mg/kg once-daily (N=212)
+
+Treatment difference, p-value
+
+Primary Endpoint
+
+ 
+
+Change from Baseline in Respiratory Symptom Score at Month 13
+
+17.77 points
+
+14.66 points
+
+3.11 points,
+
+p=0.0299*
+
+Multiplicity-Controlled Secondary Endpoints
+
+ 
+
+Culture Conversion by Month 6
+
+87.8%
+
+57.0%
+
+30.8%,
+
+p<0.0001*
+
+Culture Conversion by Month 12
+
+84.7%
+
+61.3%
+
+23.3%,
+
+p<0.0001*
+
+Culture Conversion by Month 13
+
+82.4%
+
+55.6%
+
+26.8%,
+
+p<0.0001*
+
+Durable Culture Conversion at Month 15
+
+76.2%
+
+47.6%
+
+28.6%,
+
+p<0.0001*
+
+Change from Baseline in PROMIS Fatigue T-score at Month 13
+
+-5.07
+
+-4.27
+
+-0.81,
+
+p=0.2900
+
+Other Secondary & Exploratory Endpoints
+
+Meeting the Meaningful Within-Patient Change (“MWPC”) Threshold as Reflected in the Change in Respiratory Symptom Scores Computed from Baseline to Month 13
+
+MWPC=16.67
+
+53.4%
+
+MWPC=16.67
+
+45.4%
+
+MWPC=16.67
+
+8.0%,
+
+p=0.0570**
+
+MWPC=20.83
+
+43.5%
+
+MWPC=20.83
+
+35.3%
+
+MWPC=20.83
+
+8.2%,
+
+p=0.0390**
+
+Change from Baseline in Respiratory Symptom Score at Month 15
+
+16.63 points
+
+11.83 points
+
+4.80 points,
+
+p=0.0015**
+
+Time to Culture Conversion
+
+Median:  Month 2***
+
+Median:  Month 3***
+
+Hazard ratio:  2.03,
+
+p<0.0001**
+
+ * Statistically significant
+
+ ** Nominal p-value not adjusted for multiplicity control
+
+ *** The second month of two consecutive negative cultures after applying adjustment rules as specified in the statistical analysis plan
+
+Patients were screened and enrolled at 177 sites globally, and a total of 425 patients were randomized 1:1 to receive ARIKAYCE plus multidrug therapy (n=213) or placebo
+plus multidrug therapy (n=212) once daily for 12 months. Patients then discontinued all study treatments and remained in the trial for three months for the assessment of durability of culture conversion.
+
+The most common treatment-emergent adverse events (“TEAEs”) occurring in 10% or more of patients in a treatment arm and higher in the ARIKAYCE arm compared to the active
+comparator arm were in line with expectations. Overall TEAEs were as follows:
+
+ 
+
+ARIKAYCE 590 mg plus azithromycin 250 mg + ethambutol 15 mg/kg once-daily (N=213)
+
+Placebo plus azithromycin 250 mg + ethambutol 15 mg/kg once-daily (N=212)
+
+Any TEAE, n (%)
+
+209 (98.1)
+
+206 (97.2)
+
+Severe TEAE, n (%)
+
+32 (15.0)
+
+22 (10.4)
+
+Serious TEAE, n (%)
+
+30 (14.1)
+
+24 (11.3)
+
+TEAE Leading to Death, n (%)
+
+1 (0.5)
+
+1 (0.5)
+
+TEAE Leading to ARIKAYCE/Comparator
+
+Discontinuation, n (%)
+
+31 (14.6)
+
+18 (8.5)
+
+TEAEs ≥10% and Higher in the ARIKAYCE Arm
+
+ 
+
+ 
+
+Dysphonia, n (%)
+
+125 (58.7)
+
+18 (8.5)
+
+Cough, n (%)
+
+70 (32.9)
+
+31 (14.6)
+
+Fatigue, n (%)
+
+37 (17.4)
+
+24 (11.3)
+
+Dyspnea, n (%)
+
+35 (16.4)
+
+12 (5.7)
+
+Nausea, n (%)
+
+33 (15.5)
+
+27 (12.7)
+
+Headache, n (%)
+
+27 (12.7)
+
+25 (11.8)
+
+ n = number of patients with at least one event
+
+Among TEAEs of special interest, only bronchospasm (n=49, 23.0% vs n=25, 11.8%) and hypersensitivity pneumonitis (n=5, 2.3% vs n=0) occurred in notably more patients
+receiving ARIKAYCE than patients in the comparator arm. Comparable rates between treatment arms were observed for ototoxicity (n=55, 25.8% vs n=48, 22.6%),
+exacerbation of underlying pulmonary disease (n=23, 10.8% vs n=21, 9.9%), hemoptysis (n=22, 10.3% vs n=22, 10.4%), neuromuscular disorders (n=5, 2.3% vs n=6, 2.8%), and nephrotoxicity (n=1, 0.5% vs n=0). No death was considered related to ARIKAYCE or
+placebo. The treatment discontinuation rate was 18.3% in the ARIKAYCE arm and 11.8% in the comparator arm. Study completion rates were 90.6% in the ARIKAYCE arm and 93.4% in the comparator arm.
+
+With these results, the Company has completed the study intended to fulfill the U.S. Food and Drug Administration (the “FDA”) post-marketing requirement. The Company
+plans to file a supplemental new drug application for ARIKAYCE in patients with MAC lung disease in the second half of 2026 to support potential label expansion and to obtain traditional approval for the existing refractory indication in the U.S.
+Additionally, the Company plans to submit the data to the Pharmaceuticals and Medical Devices Agency in the second half of 2026 to support potential label expansion in Japan.
+
+Forward-Looking Statements
+
+The forward-looking statements in this Current Report on Form 8-K are based upon the Company’s current expectations and beliefs, and involve known and unknown risks,
+uncertainties and other factors, which may cause the Company’s actual results, performance and achievements and the timing of certain events to differ materially from the results, performance, achievements or timings discussed, projected, anticipated
+or indicated in any forward-looking statements. Such risks, uncertainties and other factors include, among others, the following: risk that topline data from the Company’s clinical trials, including the ENCORE Study, that the Company announces or
+publishes from time to time may change as more patient data become available or may be interpreted differently if additional data are disclosed; failure to continue to successfully commercialize ARIKAYCE in the U.S., Europe or Japan, or to maintain
+U.S., European or Japanese approval for ARIKAYCE; the Company’s inability to obtain full approval of ARIKAYCE from the FDA, or the Company’s failure to obtain regulatory approval to expand ARIKAYCE's indication to a broader patient population;
+failure to obtain, or delays in obtaining, regulatory approvals for ARIKAYCE outside of the U.S., Europe and Japan, including separate regulatory approval for the Lamira® Nebulizer System in each market and for each usage; failure to
+successfully commercialize ARIKAYCE in a broader patient population, if approved by applicable regulatory authorities; uncertainties or changes in the degree of market acceptance of ARIKAYCE by physicians, patients, third-party payors and others in
+the healthcare community; the Company’s inability to obtain and maintain adequate reimbursement from government or third-party payors for ARIKAYCE in a broader patient population, if approved, or acceptable prices for ARIKAYCE; inaccuracies in the
+Company’s estimates of the size of the potential markets for ARIKAYCE or in data the Company has used to identify physicians, expected rates of patient uptake, duration of expected treatment, or expected patient adherence or discontinuation rates;
+failure of third parties on which the Company is dependent to manufacture sufficient quantities of ARIKAYCE for commercial needs, or to comply with the Company’s agreements or laws and regulations that impact the Company’s business; the Company’s
+inability to create or maintain an effective direct sales and marketing infrastructure or to partner with third parties that offer such an infrastructure for distribution of ARIKAYCE; development of unexpected safety or efficacy concerns related to
+ARIKAYCE; restrictions or other obligations imposed on the Company by agreements related to ARIKAYCE, including the Company’s license agreement with PARI, and failure to comply with the Company’s obligations under such agreements; the cost and
+potential reputational damage resulting from litigation to which the Company is or may become a party, including product liability claims; and delays in the execution of plans to build out an additional third-party manufacturing facility approved by
+the appropriate regulatory authorities and unexpected expenses associated with those plans.
+
+The Company may not actually achieve the results, plans, intentions or expectations indicated by the Company's forward-looking statements because, by their nature,
+forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. For additional information about the risks and uncertainties that may affect the Company's
+business, please see the factors discussed in Item 1A, "Risk Factors," in the Company's Annual Report on Form 10-K for the year ended December 31, 2025 and any subsequent Company filings with the Securities and Exchange Commission (the “SEC”).
+
+The Company cautions readers not to place undue reliance on any such forward-looking statements, which speak only as of the date hereof. The Company disclaims any
+obligation, except as specifically required by law and the rules of the SEC, to publicly update or revise any such statements to reflect any change in expectations or in events, conditions or circumstances on which any such statements may be based,
+or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements.
+
+ITEM 9.01 – Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press release issued by Insmed Incorporated on March 23, 2026.
+
+99.2
+
+ 
+
+Insmed Incorporated March 23, 2026 ENCORE Presentation.
+
+104
+
+ 
+
+Cover Page Interactive Date File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Dated: March 23, 2026
+
+INSMED INCORPORATED
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Michael A. Smith
+
+ 
+
+Name:
+
+Michael A. Smith
+
+ 
+
+Title:
+
+Chief Legal Officer and Corporate Secretary

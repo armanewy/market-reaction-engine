@@ -1,0 +1,353 @@
+8-K
+
+true 0001937653 false 0001937653 2023-06-02 2023-06-02 0001937653 us-gaap:CommonStockMember 2023-06-02 2023-06-02 0001937653 zyme:PreferredStockPurchaseRightsMember 2023-06-02 2023-06-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 2, 2023
+
+ 
+
+ 
+
+Zymeworks Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-41535
+
+ 
+
+88-3099146
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+108 Patriot Drive, Suite A
+
+Middletown, Delaware
+
+ 
+
+19709
+
+(Zip Code)
+
+(Address of principal executive offices)
+
+ 
+
+(302) 274-8744
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on
+
+which registered
+
+Common Stock, par value $0.00001 per share
+
+ 
+
+ZYME
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Preferred Stock Purchase Rights
+
+ 
+
+N/A
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On June 2, 2023, Zymeworks Inc. (“Zymeworks”) and Jazz Pharmaceuticals plc (“Jazz”) released new data from the ongoing Phase 2b HERIZON-BTC-01 trial (NCT04466891) of the bispecific antibody zanidatamab in previously treated HER2-amplified biliary tract cancers (BTC). The data were featured as an oral presentation at the American Society of Clinical Oncology Annual Meeting, and the results were concurrently published in The Lancet Oncology.
+
+A total of 87 patients were assigned into two cohorts based on tumor immunohistochemistry (IHC) status: Cohort 1 included 80 patients who were IHC 2+/3+ (HER2-amplified) and Cohort 2 included 7 patients who were IHC 0/1+. The trial evaluated zanidatamab (20 mg/kg IV every 2 weeks) in patients with HER2-amplified, locally advanced unresectable or metastatic BTC (gallbladder cancer, intra-/extra-hepatic cholangiocarcinoma) who had received prior gemcitabine-containing therapy. Patients with prior HER2-targeted therapy use were excluded from the trial. All patients were required to have HER2 status confirmed with tissue samples by a central lab. Tumors were assessed every 8 weeks per RECIST v1.1. The primary endpoint was confirmed objective response rate (cORR) by independent central review (ICR) in Cohort 1, with secondary endpoints including other efficacy and safety outcomes. Data reported includes:
+
+ 
+
+ 
+
+•
+
+ 
+
+In Cohort 1, cORR was 41.3% [95% CI: 30.4,52.8] with a Kaplan Meier estimated median duration of response (DOR) of 12.9 months (range of 1.5 - 16.9+) by ICR assessment with a median study follow-up time of 12.4 months (range of 7 - 24).
+
+ 
+
+ 
+
+•
+
+ 
+
+The median progression-free survival (PFS) in Cohort 1, was 5.5 months [95% CI: 3.7, 7.2], with a range of 0.3 to 18.5 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Among the 33 responding patients at the data cutoff (October 10, 2022), 16 patients (48.5%) had ongoing responses and 27 patients (81.8%) had a DOR of ≥16 weeks. The median time to first confirmed response was 1.8 months (range, 1.6 - 5.5). No responses were observed in Cohort 2.
+
+ 
+
+ 
+
+  
+
+Cohort 1 (n=80)
+
+Confirmed Objective Response Rate, % (95% CI)
+
+  
+
+41.3 (30.4, 52.8)
+
+Confirmed Best Objective Response, n (%)
+
+ 
+
+Complete Response
+
+  
+
+1 (1.3)
+
+ 
+
+Partial Response
+
+  
+
+32 (40)
+
+ 
+
+Stable Disease
+
+  
+
+22 (27.5)
+
+ 
+
+Progressive Disease
+
+  
+
+24 (30)
+
+Disease Control Rate, (95%, CI)
+
+  
+
+68.8 (57.4, 78.7)
+
+Progression Free Survival
+
+  
+
+Median months: 5.5 (0.3 -18.5)
+
+Duration of Response Greater than, or Equal to, 16 Weeks
+
+  
+
+27
+
+Time to First Response
+
+  
+
+Median months: 1.8 (1.6 - 5.5)
+
+ 
+
+ 
+
+•
+
+ 
+
+Zanidatamab demonstrated a manageable and tolerable safety profile, with two of the 87 patients (2.3%) experiencing adverse events (AEs) leading to treatment discontinuation. There were no Grade 4 AEs and no deaths were treatment-related. The most common AEs were diarrhea and infusion-related reactions, which were predominately low-grade, reversible and manageable with routine supportive care.
+
+The data demonstrated rapid, durable responses with a manageable safety profile in patients with treatment-refractory HER2-amplified BTC.
+
+ 
+
+ 
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ZYMEWORKS INC.
+
+ 
+
+ 
+
+(Registrant)
+
+Date: June 2, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Kenneth Galbraith
+
+ 
+
+ 
+
+Name:
+
+Title:
+
+ 
+
+Kenneth Galbraith
+
+Chair and Chief Executive Officer
+
+ 
+
+3

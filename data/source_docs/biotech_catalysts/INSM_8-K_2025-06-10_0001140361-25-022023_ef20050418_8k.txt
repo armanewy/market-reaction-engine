@@ -1,0 +1,237 @@
+false000110450600011045062025-06-102025-06-10
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 10, 2025
+
+INSMED INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+
+Virginia
+
+ 
+
+000-30739
+
+ 
+
+54-1972729
+
+(State or other jurisdiction of incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer Identification No.)
+
+700 US Highway 202/206
+
+Bridgewater, New Jersey
+
+ 
+
+08807
+
+(Zip Code)
+
+(Address of principal executive offices)
+
+ 
+
+ 
+
+Registrant’s telephone number, including area code: (908) 977-9900
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which
+
+registered
+
+Common Stock, par value $0.01 per share
+
+INSM
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ITEM 7.01 — Regulation FD Disclosure.
+
+On June 10, 2025, Insmed Incorporated (the “Company”) issued a press release announcing positive topline results from its Phase 2b study of
+treprostinil palmitil inhalation powder (“TPIP”) in patients with pulmonary arterial hypertension (“PAH”). A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+The Company will host a conference call to discuss the positive topline results of the TPIP PAH study on June 10, 2025, at 8:00 a.m., Eastern Time, and
+a live webcast of the call will be available through the investor relations section of the Company’s website. A copy of the slide presentation to be used by the Company during the conference call is attached hereto as Exhibit 99.2 and incorporated
+herein by reference.
+
+The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934 (the “Exchange Act”), as amended, or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+ITEM 8.01 — Other Events.
+
+On June 10, 2025, the Company announced positive
+topline results from its Phase 2b TPIP PAH study, a randomized, double-blind, placebo-controlled study evaluating the efficacy and safety of TPIP administered once daily in patients with PAH (World Health
+Organization Group 1). The study met its primary endpoint and all secondary efficacy endpoints. For the primary endpoint, the placebo-adjusted reduction from baseline in pulmonary vascular resistance (“PVR”) was 35% with Least Squares (“LS”) mean
+ratio of 0.65 (95% Confidence Interval (“CI”): 0.54, 0.79; p<0.001). For the secondary efficacy endpoints, the placebo-adjusted improvement in six-minute walk distance (“6MWD”) was 35.5 meters (95% CI: 11.2, 60.7; p=0.003) and the
+placebo-adjusted reduction from baseline in N-terminal pro b-type natriuretic peptide (“NT-proBNP”) concentrations, a biomarker for cardiac stress, was 60% with LS mean ratio of 0.40 (95% CI: 0.27, 0.59; p<0.001). Efficacy of TPIP was
+evaluated approximately 24 hours after therapy was administered.
+
+Based on these results, the Company will engage with the U.S. Food and Drug Administration
+(“FDA”) regarding the Phase 3 trial design for PAH. The Company plans to initiate a Phase 3 trial in patients with pulmonary hypertension associated with interstitial lung
+disease (“PH-ILD”) before the end of 2025 and a Phase 3 trial in patients with PAH in early 2026.
+
+The TPIP PAH study was conducted at 44 sites globally, and a total of 102 patients were randomized 2:1 to receive either TPIP (n=69) or placebo (n=33) for 16 weeks.
+Demographics and baseline characteristics were similar in both study arms. Patients started at a dose of 80 µg once daily (TPIP or matching placebo) and were titrated up to their maximum tolerated dose, or to the maximum allowable dose of 640 µg,
+once daily over a three-week period, with the possibility of a final dose increase occurring at Week 5. Of the patients treated with TPIP, 84% titrated to at least 480 µg once daily (n=58) and 75% titrated to the maximum allowed dose of 640 µg once
+daily (n=52). Overall, 90% of patients receiving TPIP (n=62) and all patients receiving placebo completed the study.
+
+Once-daily TPIP therapy was well-tolerated in the study. Treatment-emergent adverse events (“TEAEs”) occurred in 88.4% of patients who received TPIP versus 75.8% of
+patients who received placebo; serious TEAEs were observed in 7.2% of patients who received TPIP versus 3.0% of patients who received placebo; and severe TEAEs were observed in 5.8% of patients who received TPIP versus 3.0% of patients who received
+placebo. TEAEs leading to treatment discontinuation were experienced by 5.8% of patients taking TPIP; there were none in the placebo arm. There were no deaths in the study. The most common TEAEs occurring in at least 5.0% of patients in any study
+arm, and more frequently with TPIP than with placebo, were cough (40.6%, 21.2%), headache (31.9%, 15.2%), fatigue (10.1%, 3.0%), chest discomfort (8.7%, 0.0%), flushing (8.7%, 3.0%), upper respiratory tract infection (7.2%, 3.0%), and non-cardiac
+chest pain (5.8%, 3.0%) for TPIP and placebo, respectively.
+
+All patients who completed the Phase 2b study were eligible to enroll in the long-term open-label extension, which will evaluate TPIP up to a maximum allowable dose of
+1,280 µg once daily. Of the patients who completed the Phase 2b study (n=95), 95% enrolled in the open-label extension. The Company plans to present detailed results from
+the Phase 2b study of TPIP in PAH and the open-label extension at future medical meetings. Topline results from the Phase 2a study of TPIP in patients with PH-ILD were previously reported in May 2024.
+
+Forward-Looking Statements
+
+The forward-looking statements in this Current Report on Form 8-K are based upon the Company's current expectations and beliefs, and involve known and unknown risks,
+uncertainties and other factors, which may cause the Company's actual results, performance and achievements and the timing of certain events to differ materially from the results, performance, achievements or timings discussed, projected,
+anticipated or indicated in any forward-looking statements. Such risks, uncertainties and other factors include, among others, the following: the risk that the full data set from the TPIP PAH study or data generated in further clinical trials of
+TPIP will not be consistent with the topline results of the TPIP PAH study; failure to successfully conduct future clinical trials for TPIP, such as the Company’s planned Phase 3 program for TPIP, including due to the Company's potential inability
+to enroll or retain sufficient patients to conduct and complete the trials or generate data necessary for regulatory approval, among other things; development of unexpected safety or efficacy concerns related to TPIP; failure of third parties on
+which the Company is dependent to manufacture sufficient quantities of TPIP for clinical needs, to conduct the Company's clinical trials, or to comply with the Company's agreements or laws and regulations that impact the Company's business or
+agreements with the Company; failure to obtain regulatory approval for TPIP; inaccuracies in the Company's estimates of the size of the potential markets for TPIP or in data the Company has used to identify physicians; expected rates of patient
+uptake, duration of expected treatment, or expected patient adherence or discontinuation rates, if TPIP is approved; inability of the Company or the Company's third-party manufacturers to comply with regulatory requirements related to TPIP; the
+Company's inability to obtain adequate reimbursement from government or third-party payors for TPIP or acceptable prices for TPIP, if approved; restrictions or other obligations imposed on us by agreements related to TPIP and failure to comply with
+our obligations under such agreements; risks that the Company's clinical studies will be delayed or that serious side effects will be identified during drug development; the strength and enforceability of the Company’s intellectual property rights
+or the rights of third parties; and the cost and potential reputational damage resulting from litigation to which the Company may become a party, including product liability claims.
+
+The Company may not actually achieve the results, plans, intentions or expectations indicated by the Company's forward-looking statements because, by their nature,
+forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. For additional information about the risks and uncertainties that may affect the Company's
+business, please see the factors discussed in Item 1A, “Risk Factors,” in the Company's Annual Report on Form 10-K for the year ended December 31, 2024 and any subsequent Company filings with the Securities and Exchange Commission (the “SEC”).
+
+The Company cautions readers not to place undue reliance on any such forward-looking statements, which speak only as of the date hereof. The Company disclaims any
+obligation, except as specifically required by law and the rules of the SEC, to publicly update or revise any such statements to reflect any change in expectations or in events, conditions or circumstances on which any such statements may be based,
+or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements.
+
+ITEM 9.01 – Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+99.1
+
+ 
+
+Press release issued by Insmed Incorporated on June 10, 2025.
+
+99.2
+
+ 
+
+Insmed Incorporated June 10, 2025 TPIP PAH Presentation.
+
+104
+
+ 
+
+Cover Page Interactive Date File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Dated: June 10, 2025
+
+INSMED INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Michael A. Smith
+
+ 
+
+Name:
+
+Michael A. Smith
+
+ 
+
+Title:
+
+Chief Legal Officer and Corporate Secretary

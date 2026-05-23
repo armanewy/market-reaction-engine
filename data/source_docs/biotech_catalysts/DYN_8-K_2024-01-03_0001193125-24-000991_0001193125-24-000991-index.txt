@@ -1,0 +1,185 @@
+EDGAR Filing Documents for 0001193125-24-000991
+
+SEC.gov
+
+EDGAR
+
+Latest Filings
+
+Filings search tools
+
+Filing Detail
+
+SEC Home »
+
+Company Search »
+
+Current Page
+
+Form 8-K - Current report:
+
+SEC Accession No. 0001193125-24-000991
+
+Filing Date
+
+2024-01-03
+
+Accepted
+
+2024-01-03 06:37:51
+
+Documents
+
+15
+
+Period of Report
+
+2024-01-03
+
+Items
+
+Item 7.01: Regulation FD Disclosure
+
+Item 8.01: Other Events
+
+Item 9.01: Financial Statements and Exhibits
+
+ Interactive Data
+
+Document Format Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+1
+
+8-K
+
+d586587d8k.htm   iXBRL
+
+8-K
+
+46551
+
+2
+
+EX-99.1
+
+d586587dex991.htm
+
+EX-99.1
+
+39144
+
+6
+
+GRAPHIC
+
+g586587g0103081534782.jpg
+
+GRAPHIC
+
+631
+
+7
+
+GRAPHIC
+
+g586587g0103082505228.jpg
+
+GRAPHIC
+
+2809
+
+ 
+
+Complete submission text file
+
+0001193125-24-000991.txt
+
+ 
+
+229096
+
+Data Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+3
+
+XBRL TAXONOMY EXTENSION SCHEMA
+
+dyn-20240103.xsd
+
+EX-101.SCH
+
+2847
+
+4
+
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+dyn-20240103_lab.xml
+
+EX-101.LAB
+
+17978
+
+5
+
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+dyn-20240103_pre.xml
+
+EX-101.PRE
+
+11257
+
+9
+
+EXTRACTED XBRL INSTANCE DOCUMENT
+
+d586587d8k_htm.xml
+
+XML
+
+3341
+
+Mailing Address
+1560 TRAPELO ROAD
+
+WALTHAM MA
+02451
+
+Business Address
+1560 TRAPELO ROAD
+
+WALTHAM MA
+02451
+(781) 786-8230
+
+Dyne Therapeutics, Inc. (Filer)
+CIK: 0001818794 (see all company filings)
+
+EIN.: 364883909 | State of Incorp.: DE | Fiscal Year End: 1231
+
+Type: 8-K | Act: 34 | File No.: 001-39509 | Film No.: 24504316
+
+SIC: 2834 Pharmaceutical Preparations
+
+(CF Office: 03 Life Sciences)

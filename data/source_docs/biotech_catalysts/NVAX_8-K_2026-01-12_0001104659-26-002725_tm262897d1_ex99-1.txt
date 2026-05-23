@@ -1,0 +1,491 @@
+EX-99.1
+2
+tm262897d1_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+ 
+
+ 
+
+© 2026 NOVAVAX. All rights reserved. 1
+Novavax Corporate
+Presentation
+John C. Jacobs, President and
+Chief Executive Officer
+J.P. Morgan Healthcare Conference
+© 2026 NOVAVAX. All rights reserved. 1
+
+© 2026 NOVAVAX. All rights reserved. 2
+We envision a world where our
+technology is amplified to touch
+the lives of billions, sparking
+transformation in global health.
+This is
+Novavax
+© 2026 NOVAVAX. All rights reserved. 2
+
+© 2026 NOVAVAX. All rights reserved. 3
+Cautionary Note Regarding Forward-Looking Statements
+This presentation includes forward-looking statements. These forward-looking statements generally can be
+identified by the use of words such as “anticipate,” “expect,” “plan,” “could,” “may,” “will,” “believe,”
+“estimate,” “forecast,” “goal,” “project,” and other words of similar meaning. These forward-looking
+statements address various matters including Novavax’s corporate strategy and operating plans, objectives
+and prospects; its value drivers and near-term priorities; its partnerships, including expectations with
+respect to potential royalties, milestones, and cost reimbursement, and plans for additional potential
+partnering activities; its expectations regarding manufacturing capacity, timing, production and delivery for
+its COVID-19 vaccine; the transition of the lead responsibility for commercialization of Novavax’s COVID-19
+vaccine to Sanofi beginning with the 2025-2026 vaccination season the development of Novavax’s clinical
+and preclinical product candidates and pipeline advancement; the conduct, timing and potential results
+from clinical trials and other preclinical and postmarketing studies; scope, timing and outcome of future
+and pending regulatory filings and actions; potential future market sizes and demand for its COVID-19
+vaccine and product candidates; the conduct of our post marketing commitment (“PMC”) study requested
+by the U.S. FDA following the U.S. FDA’s approval of the BLA for our COVID-19 Vaccine and the expected
+costs and timing associated with the PMC study; full year 2025 financial guidance and revenue framework;
+expected combined annual R&D and SG&A expenses for 2025, 2026 and 2027; the amount and impact of
+Novavax’s cost reduction plans; Novavax’s future financial or business performance; and plans and
+negotiations with respect to Novavax’s existing advanced purchase agreements.
+Novavax cautions that these forward-looking statements are subject to numerous risks and uncertainties
+that could cause actual results to differ materially from those expressed or implied by such statements.
+These risks and uncertainties include, without limitation, Novavax’s ability to successfully and timely obtain
+and maintain full U.S. FDA licensure or foreign regulatory approvals necessary to manufacture, market,
+distribute, or deliver its COVID-19 vaccine; the impact of delays in obtaining regulatory approval, including
+regulatory decisions impacting labeling, approval or authorization, including the scope of the indicated
+population, product dosage, manufacturing processes, shelf life, safety, for Novavax’s product candidates;
+challenges in conducting the PMC study, Novavax’s ability to obtain adequate additional funding to maintain
+its current level of operations and fund the further development of its vaccine candidates; challenges
+related to Novavax’s partnership with Sanofi, including collaboration on the PMC, and in pursuing additional
+partnership opportunities; challenges satisfying, alone or together with partners, various safety, efficacy,
+and product characterization requirements, including those related to process qualification, assay
+validation, and stability testing, necessary to satisfy applicable regulatory authorities; challenges or delays
+in conducting clinical trials or studies for Novavax’s product candidates; manufacturing, distribution or
+export delays or challenges; Novavax’s substantial dependence on Serum Institute of India Pvt. Ltd. and
+Serum Life Sciences Limited for co-formulation and filling Novavax’s COVID-19 vaccine and the impact of
+any delays or disruptions in their operations; the impact of potential legislative, regulatory, or policy
+changes under the current presidential administration, including any adverse impact funding for vaccine
+research and development, reimbursement for vaccines and their administration, vaccine mandates and
+recommendations, and public perception of vaccine importance; uncertainty with respect to pricing, third-party reimbursement and healthcare reform; uncertainty in the regulatory pathway for our COVID -19
+vaccine; the impact of any new or changes in interpretations of existing trade measures, including tariffs,
+embargoes, sanctions, import restrictions, and export licensing requirements; difficulty obtaining scarce
+raw materials and supplies, including for Novavax’s proprietary adjuvant; resource constraints, including
+human capital and manufacturing capacity, constraints on Novavax’s ability to pursue planned regulatory
+pathways, alone or with partners, in multiple jurisdictions simultaneously, leading to staggering of
+regulatory filings, and potential regulatory actions; Novavax’s ability to timely deliver doses; challenges in
+obtaining commercial adoption and market acceptance of Novavax’s COVID-19 vaccine or any COVID-19
+variant strain containing formulation, or Novavax’s CIC vaccine candidates, stand-alone influenza vaccine
+candidates or other candidates; challenges meeting contractual requirements under agreements with
+multiple commercial, governmental, and other entities, including requirements to deliver doses that may
+require Novavax to refund portions of upfront and other payments previously received or result in reduced
+future payments pursuant to such agreements and challenges in negotiating, amending or terminating such
+agreements; challenges related to the seasonality of vaccinations against COVID-19 or influenza;
+challenges related to the demand for vaccinations against COVID-19 or influenza; challenges in identifying
+and successfully pursuing innovation expansion opportunities; Novavax’s expectation as to expenses and
+cash needs may prove not to be correct for reasons such as changes in plans or actual events being
+different than Novavax’s assumptions, and other risks and uncertainties identified the “Risk Factors” and
+“Management's Discussion and Analysis of Financial Condition and Results of Operations” sections of
+Novavax's Annual Report on Form 10-K for the year ended December 31, 2024, and subsequent Quarterly
+Reports on Form 10-Q, as filed with the Securities and Exchange Commission (SEC). Novavax cautions
+investors not to place considerable reliance on forward-looking statements contained in this presentation.
+Investors are encouraged to read Novavax’s filings with the SEC, available at www.sec.gov and
+www.novavax.com, for a discussion of these and other risks and uncertainties.
+The forward-looking statements in this presentation speak only as of the date of this presentation, and we
+undertake no obligation to update or revise any of these statements. Our business is subject to substantial
+risks and uncertainties, including those referenced above. Investors, potential investors, and others should
+give careful consideration to these risks and uncertainties.
+NovavaxTM (and all associated logos) is a trademark of Novavax, Inc. Matrix-M is a trademark of Novavax AB.
+
+© 2026 NOVAVAX. All rights reserved. 4
+Non-GAAP Financial Measures
+The Company presents the following non-GAAP financial measures in this presentation: Combined R&D and SG&A expenses (net of partner reimbursements) and Non-GAAP profitability. Non-GAAP financial
+measures refer to financial information adjusted from financial measures prepared in accordance with accounting principles generally accepted in the United States (GAAP). The Company believes that the
+presentation of these adjusted financial measures is useful to investors as they provide additional information on comparisons between periods by including certain items that affect overall comparability.
+The Company uses these non-GAAP financial measures for business planning purposes and to consider underlying trends of its business. Non-GAAP financial measures should be considered in addition to,
+and not as an alternative for, the Company’s reported results prepared in accordance with GAAP. Our use of non-GAAP financial measures may differ from similar measures reported by other companies and
+may not be comparable to other similarly titled measures. The Company is unable to reconcile these forward-looking non-GAAP financial measures to the most directly comparable GAAP measures without
+unreasonable effort because the Company is reliant on Sanofi sales forecasts for certain revenue categories, which are not available.
+
+© 2026 NOVAVAX. All rights reserved. 5
+Global Commercial
+Company With
+Singular Focus on
+COVID-19
+Vision for Long-term
+Growth Via Diversified
+Revenue Base
+Driving Value
+Through Partnering
+and R&D Innovation
+• Bold leadership
+changes
+• Aggressive cost and
+liability reduction
+• Sanofi partnership
+secured
+• New growth strategy
+• Seeking new and expanded
+partnerships to unlock
+growth
+• Driving continuous
+innovation on our
+technology platform via
+R&D
+• Fast, agile proof of concept
+R&D approach – clinic as
+early as 2027
+• Envision multiple large
+pharma partners
+• Multiple, diversified
+royalty streams
++ milestone opportunities
+• Path to non-GAAP
+profitability1,2 as early
+as 2028
+2025-2027 2028 and Beyond
+Potential to achieve billions in milestones + royalties with current agreements
+2023-2024
+© 2026 NOVAVAX. All rights reserved. 5
+Transformed
+Our Business
+Model to Position
+Novavax for
+Long-term Value
+Creation
+
+© 2026 NOVAVAX. All rights reserved. 6
+Actual Novavax scientist
+• Strong existing
+partnerships drive current
+value and have the
+potential to deliver
+significant additional value
+over time
+• Actively seeking new
+partnerships to further
+amplify the value of our
+technology
+• Lean and focused
+R&D and BD
+operating model
+Partnerships R&D Lean Operating
+In-house early-stage R&D to: Model
+• Drive further proof points
+on value of our technology
+• Expand utility of
+our technology
+• Build, create additional
+assets that can further
+facilitate partnering
+Corporate Growth Strategy Designed to Deliver
+Value Through Partnering and R&D Innovation
+6 6
+
+© 2026 NOVAVAX. All rights reserved. 7
+• New Matrix-M pipeline asset(s)
+milestones & royalties
+• CIC/Nuvaxovid royalties
+• CIC milestones &
+royalties
+• Nuvaxovid royalties
+• Improved financial
+terms in 2025
+• Nuvaxovid
+milestones &
+royalties (20 years)
+• Annual milestones and
+royalties
+• Annual milestones and
+royalties
+Novavax R&D efforts are focused on
+generating new data and proof
+points for our technology, further
+strengthening our IP and expanding
+the utility of Matrix-M both within
+and beyond infectious disease with
+the goal of long term, continuous
+regeneration of new partnering
+opportunities for years to come
+© 2026 NOVAVAX. All rights reserved.
+Current Near- to
+Mid-Term
+Mid- to
+Long-Term
+For Matrix:
+• Active MTAs w/ top
+10 pharmas
+• Additional MTAs with other
+organizations
+• New MTA signed
+in Q4 2025 with another
+large pharma
+• New potential
+partnerships
+• New data and proof
+points for our
+technology from
+NVAX R&D efforts
+• New potential partnerships
+• New assets from NVAX R&D
+Value Creation
+Opportunity
+Amplifies
+Over Time
+with Potential
+for Billions in
+Revenue
+• Royalties • Royalties • Royalties
+Other
+7 7
+
+© 2026 NOVAVAX. All rights reserved. 8
+2025:
+A Year of Achievements
+Potential for Value Creation:
+2026-2028 and beyond
+Ongoing receipt of
+milestones and royalties from
+existing partnerships
+Nuvaxovid U.S. BLA
+approved + commercial
+transition to Sanofi
+$225 million in Sanofi
+milestones achieved
+Sanofi flu / COVID-19
+combination clinical programs
+that include Nuvaxovid
+achieved positive preliminary
+results
+R21/Matrix-M malaria vaccine
+via partners achieved 85%
+share in growing market2
+Developed and advanced
+new pipeline programs
+Optimized existing partnerships
+Multiple MTAs signed
+Advance early-stage
+assets into the clinic
+Preclinical data and
+select product candidates
+for clinical work,
+expansion beyond ID
+Additional licensing agreements
+with Matrix and new partnerships
+for pipeline assets
+>12% market share1
+for
+Nuvaxovid in Japan in 2025
+via Takeda partnership
+© 2026 NOVAVAX. All rights reserved.
+1. Encise cluster daily data.
+2. Novavax internal data.
+
+© 2026 NOVAVAX. All rights reserved. 9
+Novavax technology has the potential to target
+high-value/ high unmet need vaccine opportunities
+Potential for cancer immunotherapies,
+vaccine and adjuvant innovations
+~$12B2
+2024 2032
+Over
+$42B2
+Combined total
+of projection of
+the infectious
+disease and oncology
+immunotherapeutics
+categories globally
+© 2026 NOVAVAX. All rights reserved.
+~$57B1
+2024
+Over
+$75B1
+Market Projected to
+Grow
+Key Markets:
+• Pneumococcal
+• HPV
+• Shingles
+• Flu
+• COVID-19
+• Flu/COVID-19 Combo
+• DTaP
+• Meningococcal
+• RSV
+Novavax Growth Strategy is Focused on Tapping Into a Global Market
+Opportunity That is Projected to Grow to >$100B by the 2030s
+9
+1. McKinsey Report, March 2025.
+2. Fortune Business Insights, November 2025.
+
+© 2026 NOVAVAX. All rights reserved. 10
+Matrix-M® Adjuvant
+• Helps induce a broad, potent and
+long-lasting immune response1,2
+• Compatible with multiple vaccine
+development platforms3,4
+• Ability to lower antigen content,
+improving tolerability and lowering
+COGS5-7
+• ~25 million doses9 of R21/Matrix-M
+malaria vaccine distributed
+A platform with a proven safety profile
+• More than 5.5 million doses8 of COVID-19 vaccine administered globally
+Recombinant Protein-based
+Nanoparticles
+• Highly immunogenic
+• Enables Novavax to develop our own
+vaccine candidates
+• Rapid early–antigen development
+capability enables speed to early-stage
+proof of concept
+Technology Platform Fuels Pipeline, Partnerships
+and Value Creation
+1. Keech C, et al. N Engl J Med. 2020 Dec 10;383(24):2320-2332.
+2. Yadav P, et al. Vaccine Insight 2023; 02:59-66.
+3. Stertman L, et al. Hum Vaccin Immunoter. 2023 Dec 31;19(1):2189885.
+4. Sang S, et al. Welcome Open Res. 2023; 8:450.
+5. Carnrot C, et al. Front Drug Deliv. 2023. 3:1279710.
+6. Rousculp MD, et al. Vaccines (Basel) 2024 12(7):802.
+7. Chung KY, et al. Vaccine. 2015. 33(32):3953-62.
+8. Novavax internal data as of December 2025.
+© 9. UNICEF. 2025. Gavi shipment report. 2026 NOVAVAX. All rights reserved.
+
+© 2026 NOVAVAX. All rights reserved. 11
+P Preclinical 1 Phase 1 2 Phase 2 3 Phase 3 A Authorized Use
+Therapeutic Area Candidate Phase Partner
+COVID-19 Nuvaxovid (COVID-19 Vaccine, Adjuvanted)1
+Malaria R21/Matrix-M® adjuvant2
+Clostridiodes difficile (C. diff) colitis –
+initial preclinical work funded C. diff
+Varicella-zoster virus (shingles) – initial
+preclinical work funded Shingles vaccine
+Respiratory syncytial virus (RSV) – initial
+preclinical work funded RSV combinations (RSV, hMPV, other respiratory)
+Pandemic influenza – advances only if
+funded by partner/government Pandemic influenza vaccine
+COVID-19 + seasonal influenza –
+available for partnership; no current
+investment
+COVID-19-Influenza Combination (CIC) vaccine
+Seasonal Influenza – available for
+partnership; no current investment Influenza vaccine (older adults)
+COVID-19 + seasonal influenza Flublok + Nuvaxovid (COVID-19 Vaccine, Adjuvanted)3
+Fluzone High-Dose + Nuvaxovid (COVID-19 Vaccine, Adjuvanted)3
+Pandemic influenza Pandemic influenza vaccine with Matrix-M® adjuvant
+Additional Respiratory Vaccines Licensed rights to develop additional combination vaccines using our COVID-19 vaccine
+Additional Respiratory Vaccines using
+our Matrix-M® adjuvant Licensed rights to develop vaccines using our Matrix-M® adjuvant
+Preclinical Phase 1 Phase 2 Phase 3 Authorized Use
+A
+Pipeline
+Partner Pipeline Using
+Novavax Tech
+A
+Marketed Products
+Early-Stage
+Late-Stage (No Current Investment)
+Partner Pipeline
+P 1 2 3 A
+P 1 2 3 A
+P 1 2 3 A
+P 1 2 3 A
+1 2 3 A
+3 A
+P 1 2 3 A
+3 A
+Novavax Organic Pipeline
+
+© 2026 NOVAVAX. All rights reserved. 12
+Revenue
+Framework
+New Strategy Drives Revenue Growth
+via Partnering and R&D Innovation
+Core Spend
+Profile
+Focus on Lean and Efficient
+Model Reduces Cost Structure
+Full Value
+Potential
+Revenue Cost Structure
+Long-term core spend profile
+of $250 million R&D+SG&A,
+net of partner reimbursement
+Potential for Non-GAAP
+profitability1,2 A as early as 2028
+Revenues from existing
+partner agreements plus new
+business development deals
+and partnerships to drive cash
+flow
+B
+Potential for long-term value
+creation by monetizing our
+innovative technology
+platform
+C
+D
+R&D + SG&A, net
+of reimbursement
+Our Planned Path to Profitability
+12
+
+© 2026 NOVAVAX. All rights reserved. 13
+Lean and agile operating model is
+focused on targeted investments
+in R&D to drive value creation
+FY 2025 E FY 2026 E FY 2027 E
+~$250M
+~$350M
+~$450M
+Combined R&D and SG&A Expenses,
+Net of Partner Reimbursement
+Financial Guidance for R&D and SG&A expenses, net of partner
+reimbursement as of November 6, 2025. We undertake no obligation
+to update or revise this guidance in the future.
+Expense targets established, net of
+partner reimbursement to highlight
+investment in Novavax programs
+© 2026 NOVAVAX. All rights reserved.
+Mid-point of range for each period
+Reducing Operating Expenses to Enable Value Creation
+13
+
+© 2026 NOVAVAX. All rights reserved. 14
+Building Financial Strength in 2024 - 2025
+Cash flow earned in 2024 & 20251
+Upfront payments $520M
+Milestones $280M
+Asset Sales $260M
+Non-Dilutive $1,060M 78%
+Financings $307M 22%
+Total $1,367M
+Highlights:
+1. Cash flow earned in 2024 & 2025 through November 2025
+and includes $200M proceeds from sale of Czech Republic
+manufacturing facility.
+• Non-dilutive capital as primary source of
+new cash to Novavax as we monetize our
+technology and sell assets linked to prior
+commercial operations
+• No ATM activity since Q2 2024
+© 2026 NOVAVAX. All rights reserved.
+2024-2025 New Cash Flow to Novavax
+$1.1B
+$0.3B
+(Non-dilutive)
+~$1.4 billion in
+NVAX cash flow earned
+in 2024 & 20251
+Driven by
+78% Non-Dilutive
+Sources
+
+© 2026 NOVAVAX. All rights reserved. 15
+We look forward to the year ahead
+where our efforts will be focused on
+unlocking new opportunities to create
+shareholder value and deliver lasting
+impact on global health.
+Thank
+you!
+© 2026 NOVAVAX. All rights reserved. 15

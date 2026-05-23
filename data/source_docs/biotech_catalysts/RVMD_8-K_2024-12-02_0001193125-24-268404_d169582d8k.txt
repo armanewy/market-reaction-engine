@@ -1,0 +1,1699 @@
+8-K
+
+false 0001628171 0001628171 2024-12-02 2024-12-02 0001628171 us-gaap:CommonStockMember 2024-12-02 2024-12-02 0001628171 us-gaap:WarrantMember 2024-12-02 2024-12-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 2, 2024
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39219
+
+ 
+
+47-2029180
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+700 Saginaw Drive
+
+ 
+
+ 
+
+Redwood City, California
+
+ 
+
+ 
+
+94063
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (650) 481-6801
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+RVMD
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Warrants to purchase 0.1112 shares of common stock expiring 2026
+
+ 
+
+RVMDW
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On December 2, 2024, Revolution Medicines, Inc. (the “Company”) provided the following pipeline updates.
+
+RMC-6236 PDAC
+
+The Company reported updated clinical safety, tolerability, and activity data for RMC-6236, its RAS(ON) multi-selective inhibitor, at a dose level of 300 mg daily, from its monotherapy first-in-human Phase 1 RMC-6236-001 study (the “RMC-6236-001 study”) in patients with previously treated RAS-mutant pancreatic ductal adenocarcinoma (“PDAC”) as of a data cutoff date of July 23, 2024 (the “PDAC Data Cutoff Date”).
+
+In the RMC-6236-001 study, a total of 76 patients with PDAC treated with a dose of 300 mg daily were evaluated for safety and tolerability as of the PDAC Data Cutoff Date (Table 1). The most common treatment-related adverse events (“TRAEs”) that were observed were rash and gastrointestinal (“GI”)-related toxicities. One Grade 4 TRAE (platelet count decreased) was observed, and no Grade 5 TRAEs were observed.
+
+Table 1. RMC-6236-001: TRAEs and TRAEs leading to dose modifications in patients with PDAC treated with RMC-6236 at 300 mg daily
+
+ 
+
+ 
+
+  
+
+(N=76)
+
+Maximum Severity of TRAEs
+
+  
+
+Any Grade
+
+ 
+
+Grade ≥3
+
+Any TRAE
+
+  
+
+73 (96%)
+
+ 
+
+26 (34%)
+
+TRAEs occurring in ≥10% of patients, n (%)
+
+  
+
+ 
+
+Rash1
+
+  
+
+69 (91%)
+
+ 
+
+6 (8%)
+
+Diarrhea
+
+  
+
+40 (53%)
+
+ 
+
+3 (4%)
+
+Nausea2
+
+  
+
+29 (38%)
+
+ 
+
+0 (0%)
+
+Vomiting2
+
+  
+
+27 (36%)
+
+ 
+
+0 (0%)
+
+Stomatitis
+
+  
+
+26 (34%)
+
+ 
+
+3 (4%)
+
+Mucosal inflammation
+
+  
+
+13 (17%)
+
+ 
+
+1 (1%)
+
+Fatigue
+
+  
+
+12 (16%)
+
+ 
+
+1 (1%)
+
+Decreased appetite
+
+  
+
+10 (13%)
+
+ 
+
+0 (0%)
+
+Paronychia
+
+  
+
+10 (13%)
+
+ 
+
+0 (0%)
+
+Oedema peripheral
+
+  
+
+10 (13%)
+
+ 
+
+0 (0%)
+
+Platelet count decreased
+
+  
+
+8 (11%)
+
+ 
+
+3 (4%)
+
+Dry skin
+
+  
+
+8 (11%)
+
+ 
+
+0 (0%)
+
+Other select TRAEs, n (%)
+
+  
+
+ 
+
+Anemia
+
+  
+
+6 (8%)
+
+ 
+
+5 (7%)
+
+ALT increased
+
+  
+
+5 (7%)
+
+ 
+
+3 (4%)
+
+Neutrophil count decreased
+
+  
+
+5 (7%)
+
+ 
+
+2 (3%)
+
+AST increased
+
+  
+
+4 (5%)
+
+ 
+
+1 (1%)
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+TRAEs leading to dose modification, n (%)
+
+  
+
+32 (42%)
+
+ 
+
+Dose interruption
+
+  
+
+30 (40%)
+
+ 
+
+Dose reduction
+
+  
+
+19 (25%)
+
+ 
+
+TRAEs leading to dose discontinuation, n (%)
+
+  
+
+0 (0%)
+
+ 
+
+Specific TRAEs leading to dose reduction in >10% patients, n (%)
+
+  
+
+ 
+
+Rash3
+
+  
+
+10 (13%)
+
+ 
+
+Mean dose intensity
+
+  
+
+89%
+
+ 
+
+Data Cutoff Date of July 23, 2024
+
+ 
+
+ 
+
+1 
+
+Includes preferred terms of dermatitis, dermatitis acneiform, eczema, erythema, rash, rash erythematous, rash maculopapular, rash pruritic and rash pustular; multiple types of rash may have occurred in the same patient.
+
+ 
+
+2 
+
+No prophylaxis for nausea or vomiting was administered.
+
+ 
+
+3 
+
+Includes preferred terms of dermatitis acneiform, rash, and rash maculopapular.
+
+Median duration of treatment was 5.2 months.
+
+ALT, alanine transaminase; AST, aspartate transferase.
+
+The Company also reported best percentage change in tumor size from baseline for patients with metastatic PDAC with tumors harboring KRAS G12X mutations treated with a dose of 300 mg daily in the second-line (“2L”) setting as of the PDAC Data Cutoff Date (Figure 1). The objective response rate (“ORR”) for patients who received the first dose of RMC-6236 at least 14 weeks prior to the PDAC Data Cutoff Date was 36% (8 of 22 patients) for patients with tumors harboring KRAS G12X mutations and was 27% (10 of 37 patients) for patients with tumors harboring G12X, G13X, or Q61X mutations.
+
+Figure 1. RMC-6236-001: Best percentage change in tumor size from baseline in patients with PDAC treated in the 2L setting with RMC-6236 at 300 mg daily
+
+ 
+
+ 
+
+Data Cutoff Date of July 23, 2024
+
+KRAS G12X mutation includes any KRAS mutation where glycine (G) at position 12 is substituted by another amino acid. RAS Other includes mutations in KRAS G13X, KRAS Q61X, or mutations in HRAS or NRAS at codons G12X, G13X, or Q16X. Among patients with a response (confirmed or unconfirmed), 46% of first response occurred within 2 months of RMC-6236 treatment. 2L in the metastatic setting includes patients who progressed on prior therapy in an earlier setting within 6 months of last dose. ORR analyses included all patients who received first dose of RMC-6236 at least 14 weeks prior to the PDAC Data Cutoff Date (to allow 2 potential scans). Unconfirmed PRs (PR*) with treatment discontinued (will never confirm) were not considered responders but remained in the denominator; ORR (by RECIST v1.1) included confirmed CRs/PRs and unconfirmed CRs/PRs who were still on treatment and may yet be confirmed. One patient included in the denominator of the ORR analyses is not displayed on waterfall due to lack of post-baseline target lesion assessment (patient withdrew consent).
+
+CR, complete response; PD, progressive disease; PR, partial response; SD, stable disease; SOD, sum of diameters.
+
+In addition, the Company reported preliminary progression-free survival (“PFS”) data as of the PDAC Data Cutoff Date for patients with metastatic PDAC treated with a dose of 300 mg daily in the 2L setting (Figure 2). As of the PDAC Data Cutoff Date, the median PFS for patients with tumors harboring KRAS G12X mutations was 8.8 months (95% confidence interval (“CI”): 8.5, not estimable (“NE”)), and for patients with tumors harboring G12X, G13X, or Q61X mutations was 8.5 months (95% CI: 5.9, NE).
+
+Figure 2. RMC-6236-001: Interim PFS in 2L metastatic PDAC patients treated with RMC-6236 at 300 mg daily
+
+ 
+
+ 
+
+Data Cutoff Date of July 23, 2024
+
+RAS Mutant defined as patients with G12X, G13X, or Q61X PDAC.
+
+2L in the metastatic setting includes patients who progressed on prior therapy in an earlier setting within 6 months of last dose.
+
+Median follow-up is 6.1 months and 6.6 months for KRAS G12X and RAS Mutant in the 2L setting at 300 mg, respectively.
+
+The Company also reported preliminary overall survival (“OS”) data as of the PDAC Data Cutoff Date for patients with metastatic PDAC treated with a dose of 300 mg daily in the 2L setting (Figure 3). The median OS as of the PDAC Data Cutoff Date for patients with tumors harboring KRAS G12X mutations was not estimable (95% CI: NE, NE) and for patients with tumors harboring G12X, G13X, or Q61X mutations was also not estimable (95% CI: 8.5 months, NE). As of the PDAC Data Cutoff Date, the OS rate at 6 months was 100% (95% CI: 100%, 100%) for patients with tumors harboring KRAS G12X mutations and was 97% (95% CI: 79%, 100%) for patients with tumors harboring G12X, G13X, or Q61X mutations.
+
+Figure 3. RMC-6236-001: Interim OS in 2L PDAC patients treated with RMC-6236 at 300 mg daily
+
+ 
+
+ 
+
+Data Cutoff Date of July 23, 2024
+
+RAS Mutant defined as patients with G12X, G13X, or Q61X PDAC.
+
+2L in the metastatic setting includes patients who progressed on prior therapy in an earlier setting within 6 months of last dose.
+
+Median follow-up is 6.1 months and 6.6 months for KRAS G12X and RAS Mutant in the 2L setting at 300 mg, respectively.
+
+OS rate at 6 months and 95% CI are from Kaplan-Meier analysis.
+
+RMC-6236 NSCLC
+
+The Company also reported updated clinical safety, tolerability, and activity data for RMC-6236 from the RMC-6236-001 study, as of a data cutoff date of September 30, 2024 (the “NSCLC Data Cutoff Date”) in patients with RAS-mutant non-small cell lung cancer (“NSCLC”).
+
+In the RMC-6236-001 study, a total of 124 patients with NSCLC treated across dose cohorts ranging from 120 mg daily to 300 mg daily were evaluated for safety and tolerability as of the NSCLC Data Cutoff Date (Table 2). The Company believes that these data show that RMC-6236 was generally well tolerated at dose levels between 120 mg daily and 220 mg daily, with an increase in the rate of TRAEs observed at the 300 mg daily dose level. One Grade 4 TRAE (pneumonitis) was observed at the 300 mg daily dose level. No Grade 5 TRAEs were observed. The Company also reported the TRAEs leading to dose modifications for patients with NSCLC treated across dose cohorts ranging from 120 mg daily to 300 mg daily as of the NSCLC Data Cutoff Date. For patients treated across dose cohorts ranging from 120 mg daily to 220 mg daily, the median treatment duration was 5.5 months, and the median cumulative duration of dose interruption was 8.5 days.
+
+Table 2. RMC-6236-001: TRAEs and TRAEs leading to dose modifications in patients with NSCLC treated with RMC-6236 across dose cohorts ranging from 120 mg daily to 300 mg daily
+
+ 
+
+ 
+
+ 
+
+120 mg to 300 mg
+
+(N=124)
+
+ 
+
+120-220 mg
+
+(N = 73)
+
+ 
+
+300 mg
+
+(N = 51)
+
+ 
+
+ 
+
+Any
+
+Grade
+
+ 
+
+Grade ≥3
+
+ 
+
+Any
+
+Grade
+
+ 
+
+Grade ≥3
+
+ 
+
+Any
+
+Grade
+
+ 
+
+Grade ≥3
+
+Any TRAE
+
+ 
+
+121 (98%)
+
+ 
+
+33 (27%)
+
+ 
+
+71 (97%)
+
+ 
+
+12 (16%)
+
+ 
+
+50 (98%)
+
+ 
+
+21 (41%)
+
+TRAEs occurring in ≥10% of patients, n (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rash1
+
+ 
+
+110 (89%)
+
+ 
+
+9 (7%)
+
+ 
+
+66 (90%)
+
+ 
+
+5 (7%)
+
+ 
+
+44 (86%)
+
+ 
+
+4 (8%)
+
+Diarrhea
+
+ 
+
+87 (70%)
+
+ 
+
+10 (8%)
+
+ 
+
+46 (63%)
+
+ 
+
+1 (1%)
+
+ 
+
+41 (80%)
+
+ 
+
+9 (18%)
+
+Nausea
+
+ 
+
+68 (55%)
+
+ 
+
+0 (0%)
+
+ 
+
+36 (49%)
+
+ 
+
+0 (0%)
+
+ 
+
+32 (63%)
+
+ 
+
+0 (0%)
+
+Vomiting
+
+ 
+
+55 (44%)
+
+ 
+
+3 (2%)
+
+ 
+
+29 (40%)
+
+ 
+
+2 (3%)
+
+ 
+
+26 (51%)
+
+ 
+
+1 (2%)
+
+Stomatitis
+
+ 
+
+47 (38%)
+
+ 
+
+3 (2%)
+
+ 
+
+25 (34%)
+
+ 
+
+0 (0%)
+
+ 
+
+22 (43%)
+
+ 
+
+3 (6%)
+
+Paronychia
+
+ 
+
+26 (21%)
+
+ 
+
+0 (0%)
+
+ 
+
+14 (19%)
+
+ 
+
+0 (0%)
+
+ 
+
+12 (24%)
+
+ 
+
+0 (0%)
+
+Fatigue
+
+ 
+
+20 (16%)
+
+ 
+
+0 (0%)
+
+ 
+
+8 (11%)
+
+ 
+
+0 (0%)
+
+ 
+
+12 (24%)
+
+ 
+
+0 (0%)
+
+Dry skin
+
+ 
+
+19 (15%)
+
+ 
+
+0 (0%)
+
+ 
+
+9 (12%)
+
+ 
+
+0 (0%)
+
+ 
+
+10 (20%)
+
+ 
+
+0 (0%)
+
+AST increased
+
+ 
+
+17 (14%)
+
+ 
+
+2 (2%)
+
+ 
+
+11 (15%)
+
+ 
+
+0 (0%)
+
+ 
+
+6 (12%)
+
+ 
+
+2 (4%)
+
+ALT increased
+
+ 
+
+15 (12%)
+
+ 
+
+3 (2%)
+
+ 
+
+10 (14%)
+
+ 
+
+0 (0%)
+
+ 
+
+5 (10%)
+
+ 
+
+3 (6%)
+
+Decreased appetite
+
+ 
+
+14 (11%)
+
+ 
+
+0 (0%)
+
+ 
+
+4 (6%)
+
+ 
+
+0 (0%)
+
+ 
+
+10 (20%)
+
+ 
+
+0 (0%)
+
+Dysgeusia
+
+ 
+
+12 (10%)
+
+ 
+
+0 (0%)
+
+ 
+
+3 (4%)
+
+ 
+
+0 (0%)
+
+ 
+
+9 (18%)
+
+ 
+
+0 (0%)
+
+Other select TRAEs, n (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anemia
+
+ 
+
+9 (7%)
+
+ 
+
+3 (2%)
+
+ 
+
+4 (6%)
+
+ 
+
+2 (3%)
+
+ 
+
+5 (10%)
+
+ 
+
+1 (2%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRAEs leading to dose modification, n (%)
+
+ 
+
+64 (52%)
+
+ 
+
+ 
+
+30 (41%)
+
+ 
+
+ 
+
+34 (67%)
+
+ 
+
+Dose interruption
+
+ 
+
+59 (48%)
+
+ 
+
+ 
+
+25 (34%)
+
+ 
+
+ 
+
+34 (67%)
+
+ 
+
+Dose reduction
+
+ 
+
+34 (27%)
+
+ 
+
+ 
+
+15 (21%)
+
+ 
+
+ 
+
+19 (37%)
+
+ 
+
+TRAEs leading to dose discontinuation, n (%)
+
+ 
+
+7 (6%)
+
+ 
+
+ 
+
+ 
+
+3 (4%)
+
+ 
+
+ 
+
+ 
+
+4 (8%)
+
+ 
+
+ 
+
+TRAEs leading to dose reductions in ≥ 10% patients, n (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diarrhea
+
+ 
+
+12 (10%)
+
+ 
+
+ 
+
+4 (6%)
+
+ 
+
+ 
+
+8 (16%)
+
+ 
+
+Rash1
+
+ 
+
+13 (11%)
+
+ 
+
+ 
+
+6 (8%)
+
+ 
+
+ 
+
+7 (14%)
+
+ 
+
+Mucositis/stomatitis
+
+ 
+
+6 (5%)
+
+ 
+
+ 
+
+1 (1%)
+
+ 
+
+ 
+
+5 (10%)
+
+ 
+
+Mean dose intensity
+
+ 
+
+81%
+
+ 
+
+ 
+
+88%
+
+ 
+
+ 
+
+72%
+
+ 
+
+Data Cutoff Date of September 30, 2024
+
+One Grade 4 pneumonitis (possibly related) observed at 300 mg daily dose level in patient with concomitant pneumocystis pneumonia. No other Grade 4 TRAEs were observed. No Grade 5 TRAEs were observed.
+
+ 
+
+ 
+
+1 
+
+Includes preferred terms of rash pustular, rash papular, rash maculopapular, rash macular, rash, erythema, and dermatitis acneiform. Multiple types of rash may have occurred in the same patient.
+
+The Company also reported best percentage change in tumor size from baseline for patients with NSCLC with tumors harboring RAS G12X mutations who had received one or two prior lines of therapy, which must have included prior immunotherapy and platinum chemotherapy administered either concurrently or sequentially, but did not include docetaxel, who were treated with RMC-6236 across dose cohorts ranging from 120 mg daily to 220 mg daily (“NSCLC Efficacy-Evaluable Patients”) (Figure 4). The ORR for NSCLC Efficacy-Evaluable Patients who received the first dose of RMC-6236 at least 14 weeks prior to the NSCLC Data Cutoff Date was 38% (15 of 40 patients).
+
+Figure 4. RMC-6236-001: Best percentage change in tumor size from baseline in NSCLC Efficacy-Evaluable Patients
+
+ 
+
+ 
+
+Data Cutoff Date of September 30, 2024
+
+Population includes patients with RAS G12X mutant NSCLC who have received 1 or 2 prior lines of therapy, which must have included prior immunotherapy and platinum chemotherapy administered either concurrently or sequentially, and have not received docetaxel previously. Adjuvant therapy or multimodal therapy with curative intent is considered prior therapy if disease progression occurred or treatment completion was within 6 months of first dose of RMC-6236.
+
+Among patients with a response (confirmed or unconfirmed), 65% of first response occurred within 2 months of RMC-6236 treatment.
+
+ORR analyses included all patients who received first dose of RMC-6236 at least 14 weeks prior to data cutoff date (to allow 2 potential scans).
+
+ORR (by RECIST v1.1) included confirmed CRs/PRs and unconfirmed CRs/PRs who were still on treatment and may yet be confirmed; unconfirmed PRs (PR*) with treatment discontinued (will never confirm) were not considered responders but remained in the denominator. Three patients included in the denominator of the ORR analyses are not displayed on waterfall due to lack of post-baseline target lesion assessment (2 due to patient request to withdraw from treatment, and 1 due to patient withdrawal of consent); patient with 100% reduction in SOD from baseline was deemed as PD due to new lesion, treatment is ongoing post progression.
+
+CR, complete response; NE, not evaluable; PD, progressive disease; PR, partial response; SD, stable disease; SOD, sum of diameter; DCR, disease control rate.
+
+In addition, the Company reported preliminary PFS data as of the NSCLC Data Cutoff Date for NSCLC-Evaluable Patients (Figure 5). As of the NSCLC Data Cutoff Date, the median PFS for NSCLC Efficacy-Evaluable Patients was 9.8 months (95% CI: 6.0, 12.3).
+
+Figure 5. RMC-6236-001: Interim PFS in NSCLC Efficacy-Evaluable Patients
+
+ 
+
+ 
+
+Data Cutoff Date of September 30, 2024
+
+Population includes patients with RAS G12X mutant NSCLC who have received 1 or 2 prior lines of therapy, which must include prior immunotherapy and platinum chemotherapy administered either concurrently or sequentially, and have not received docetaxel previously. Adjuvant therapy or multimodal therapy with curative intent is considered prior therapy if disease progression occurred or treatment completion was within 6 months of first dose of RMC-6236.
+
+Median follow-up is 10.8 months.
+
+The Company also reported interim OS data as of the NSCLC Data Cutoff Date for NSCLC Efficacy-Evaluable Patients (Figure 6). As of the NSCLC Data Cutoff Date, the median OS for NSCLC Efficacy-Evaluable Patients was 17.7 months (95% CI: 13.7, NE).
+
+Figure 6. RMC-6236-001: Interim OS in NSCLC Efficacy-Evaluable Patients
+
+ 
+
+ 
+
+Data Cutoff Date of September 30, 2024
+
+Population includes patients with RAS G12X mutant NSCLC who have received 1 or 2 prior lines of therapy, which must include prior immunotherapy and platinum chemotherapy administered either concurrently or sequentially, and have not received docetaxel previously. Adjuvant therapy or multimodal therapy with curative intent is considered prior therapy if disease progression occurred or treatment completion was within 6 months of first dose of RMC-6236.
+
+Median follow-up is 10.8 months.
+
+The Company believes these preliminary data observations from the RMC-6236-001 study as of the NSCLC Data Cutoff Date for NSCLC Efficacy-Evaluable Patients support the Company’s plans to initiate a global, randomized Phase 3 trial comparing RMC-6236 against docetaxel in patients with RAS-mutated NSCLC who have been treated with one or two prior lines of therapy, which must have included immunotherapy or platinum chemotherapy.
+
+RMC-6236 with Pembrolizumab Combination
+
+The Company reported that, based on the initial observations of 20 previously treated patients in the Company’s RMC-LUNG-101 Phase 1b clinical study, as of a data cutoff date of October 28, 2024, the combination of RMC-6236 at a dose level of 200 mg daily with pembrolizumab at the standard dose level of 200 mg once every three weeks was generally well tolerated. TRAEs of Grade 1 aspartate aminotransferase (“AST”) elevation were reported in two patients (10%) and a TRAE of Grade 2 AST elevation was reported in one patient (5%). A TRAE of Grade 1 alanine transaminase (“ALT”) elevation was reported in one patient (5%) and a TRAE of Grade 3 ALT elevation was reported in one patient (5%). The Company believes these observations support continued evaluation of the combination of RMC-6236 with pembrolizumab in NSCLC patients in the first-line (“1L”) setting.
+
+RMC-6236 with RMC-6291 Combination
+
+The Company reported clinical safety and tolerability data for the combination of RMC-6236 at dose levels ranging from 100 mg daily to 300 mg daily with RMC-6291, its RAS(ON) oral tri-complex G12C inhibitor at dose levels of 100 mg and 200 mg twice daily, from its RMC-6291-101 Phase 1b clinical study (the “RMC-6291-101 study”), as of a data cutoff date of October 28, 2024 (the “RMC-6236/RMC-6291 Data Cutoff Date”) in patients with advanced RAS G12C mutant solid tumors.
+
+In the RMC-6291-101 study, a total of 74 patients were evaluated for safety and tolerability as of the RMC-6236/RMC-6291 Data Cutoff Date (Table 3). The combination of RMC-6236 with RMC-6291 was generally well tolerated across all dose levels tested. One Grade 4 TRAE (hypokalemia), which led to dose interruption, was associated with Grade 3 diarrhea. No Grade 5 TRAEs were observed.
+
+Table 3. RMC-6291-101: TRAEs and TRAEs leading to dose modifications in patients treated with the combination of RMC-6236 and RMC-6291
+
+ 
+
+ 
+
+  
+
+All Dose Levels (N=74)
+
+Maximum Severity of TRAEs
+
+  
+
+Grade 1
+
+ 
+
+Grade 2
+
+ 
+
+Grade 3
+
+ 
+
+Grade 4
+
+ 
+
+Any Grade
+
+Any TRAE
+
+  
+
+14 (19%)
+
+ 
+
+26 (35%)
+
+ 
+
+16 (22%)
+
+ 
+
+1 (1%)
+
+ 
+
+57 (77%)
+
+TRAEs occurring in ≥10% of patients, n (%)
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rash1
+
+  
+
+21 (28%)
+
+ 
+
+23 (31%)
+
+ 
+
+4 (5%)
+
+ 
+
+0 (0%)
+
+ 
+
+48 (65%)
+
+Diarrhea
+
+  
+
+23 (31%)
+
+ 
+
+10 (14%)
+
+ 
+
+1 (1%)
+
+ 
+
+0 (0%)
+
+ 
+
+34 (46%)
+
+Nausea
+
+  
+
+17 (23%)
+
+ 
+
+7 (10%)
+
+ 
+
+0 (0%)
+
+ 
+
+0 (0%)
+
+ 
+
+24 (32%)
+
+Vomiting
+
+  
+
+18 (24%)
+
+ 
+
+6 (8%)
+
+ 
+
+0 (0%)
+
+ 
+
+0 (0%)
+
+ 
+
+24 (32%)
+
+Mucositis/Stomatitis
+
+  
+
+8 (11%)
+
+ 
+
+9 (12%)
+
+ 
+
+1 (1%)
+
+ 
+
+0 (0%)
+
+ 
+
+18 (24%)
+
+Fatigue
+
+  
+
+8 (11%)
+
+ 
+
+2 (3%)
+
+ 
+
+3 (4%)
+
+ 
+
+0 (0%)
+
+ 
+
+13 (18%)
+
+Anemia
+
+  
+
+4 (5%)
+
+ 
+
+4 (5%)
+
+ 
+
+2 (3%)
+
+ 
+
+0 (0%)
+
+ 
+
+10 (14%)
+
+ALT increased
+
+  
+
+3 (4%)
+
+ 
+
+6 (8%)
+
+ 
+
+0 (0%)
+
+ 
+
+0 (0%)
+
+ 
+
+9 (12%)
+
+AST increased
+
+  
+
+4 (5%)
+
+ 
+
+3 (4%)
+
+ 
+
+1 (1%)
+
+ 
+
+0 (0%)
+
+ 
+
+8 (11%)
+
+Other select TRAEs, n (%)
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Electrocardiogram QT prolonged
+
+  
+
+0 (0%)
+
+ 
+
+0 (0%)
+
+ 
+
+2 (3%)
+
+ 
+
+0 (0%)
+
+ 
+
+2 (3%)
+
+TRAEs leading to dose interruption of any study drug, n (%)
+
+  
+
+0 (0%)
+
+ 
+
+12 (16%)
+
+ 
+
+9 (12%)
+
+ 
+
+1 (1%)
+
+ 
+
+22 (30%)
+
+TRAEs leading to dose reduction of any study drug, n (%)
+
+  
+
+1 (1%)
+
+ 
+
+4 (5%)
+
+ 
+
+2 (3%)
+
+ 
+
+0 (0%)
+
+ 
+
+7 (10%)
+
+TRAEs leading to treatment discontinuation of any study drug, n (%)
+
+  
+
+0 (0%)
+
+ 
+
+0 (0%)
+
+ 
+
+2 (3%)
+
+ 
+
+0 (0%)
+
+ 
+
+2 (%)
+
+  
+
+Data Cutoff Date of October 28, 2024
+
+Median duration of treatment was 2.3 months.
+
+The mean dose intensities for RMC-6291 and RMC-6236 were 95% and 92%, respectively.
+
+ 
+
+ 
+
+1 
+
+Rash bundled term includes dermatitis acneiform, rash maculopapular, rash, rash pustular, and erythema.
+
+ALT, alanine transaminase; AST, aspartate transferase.
+
+The Company also reported best percentage change in tumor size from baseline for patients from the RMC-6291-101 study with colorectal cancer (“CRC”) who were previously treated with a KRAS(OFF) G12C inhibitor as of the RMC-6236/RMC-6291 Data Cutoff Date (Figure 7). The ORR for patients who received the first dose of study drugs at least 8 weeks prior to the RMC-6236/RMC-6291 Data Cutoff Date was 25% (3 of 12 patients), including one patient with an unconfirmed complete response, and the disease control rate was 92% (11 of 12 patients). As reference values, the Company also reported that the ORR for patients with CRC treated with RMC-6236 monotherapy at a dose of 300 mg daily in the RMC-6236-001 study as of a data cutoff date of September 30, 2024 was 9% (2 of 22 patients), and the ORR for patients with CRC previously treated with a KRAS(OFF) G12C inhibitor who were subsequently treated with RMC-6291 monotherapy at a dose of 200 mg twice daily in the RMC-6291-001 study as of a data cutoff date of October 28, 2024 was 0% (0 of 6 patients).
+
+Figure 7. RMC-6291-101: Best percentage change in tumor size from baseline in patients with CRC who were previously treated with a KRAS(OFF) G12C inhibitor
+
+ 
+
+ 
+
+Data Cutoff Date of October 28, 2024
+
+ORR and DCR (CR+PR+SD) analyses include all patients who received first dose of study drug(s) at least 8 weeks prior to the data cutoff date (to allow 1 potential scan). Unconfirmed PRs (PR*) with treatment discontinued (will never confirm) were not considered responders but included in the denominator; ORR (by RECIST v1.1) included confirmed CRs/PRs and unconfirmed CRs/PRs who were still on treatment and may yet be confirmed. Two patients with 8 weeks follow up do not appear in waterfall due to one patient with no tumor assessment entered in database and one patient with missing target lesion measurements (overall response entered as SD). One patient with unconfirmed CR (CR*) has confirmed PR.
+
+SOD, sum of diameters; SD, stable disease; CR, complete response; CR*, unconfirmed complete response; PR, partial response; PR*, unconfirmed PR.
+
+The Company believes these preliminary clinical safety and antitumor activity data provide initial proof-of-mechanism for a RAS(ON) inhibitor doublet in KRAS(OFF) G12C inhibitor-experienced CRC patients and that they support continued development of RAS(ON) inhibitor doublets in a broad range of tumor types and earlier lines of therapy.
+
+RMC-6291 with Pembrolizumab Combination
+
+The Company reported that, based on the initial observations of 15 patients in the Company’s RMC-LUNG-101 Phase 1b clinical study, as of a data cutoff date of October 28, 2024, the combination of RMC-6291 at a dose level of 200 mg twice daily with pembrolizumab at the standard dose level of 200 mg once every three weeks was generally well tolerated. A TRAE of Grade 1 AST elevation was reported in one patient (7%) and a TRAE of Grade 1 ALT elevation was reported in one patient (7%). There were no TRAEs of Grade 2 or higher AST or ALT elevations reported. The Company believes these observations, together with its observations reported above from the combination of RMC-6236 with RMC-6921 and the combination of RMC-6236 with pembrolizumab, support exploration of the triplet combination of RMC-6291, RMC-6236, and pembrolizumab, which the Company believes has the potential to provide a chemotherapy-sparing option for patients with NSCLC in the 1L setting.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Any statements in this report that are not historical facts may be considered “forward-looking statements,” including, without limitation, statements regarding the potential advantages, including potential safety, tolerability, efficacy, and durability, of RMC-6236 and RMC-6291, alone or in combination with other therapies; the Company’s plans to initiate a global, randomized Phase 3 trial comparing RMC-6236 against docetaxel in patients with RAS-mutated NSCLC; the Company’s plans for further development involving RAS(ON) inhibitors, including RAS(ON) inhibitor doublets and other combinations; the ability of the Company’s compounds to address a broad range of tumor types or be used in earlier lines of therapy; and the Company’s ability to develop a chemotherapy-sparing treatment option. Forward-looking statements are typically, but not always, identified by the use of words such as “may,” “will,” “would,” “believe,” “intend,” “plan,” “anticipate,” “estimate,” “expect” and other similar terminology indicating future results. Such forward-looking statements are subject to substantial risks and uncertainties that could cause the Company’s development programs, future results, performance or achievements to differ materially from those anticipated in the forward-looking statements. Such risks and uncertainties include, without limitation: risks and uncertainties inherent in the drug development process, in performing clinical studies, and in the process of designing and conducting clinical trials; risks that the results of prior clinical trials may not be predictive of future clinical trials, clinical efficacy, or other future results; the regulatory approval processes; the timing of regulatory filings; the challenges associated with manufacturing drug products; the Company’s ability to successfully establish, protect and defend its intellectual property; other matters that could affect the sufficiency of the Company’s capital resources to fund operations; reliance on third parties for manufacturing and development efforts; changes in the competitive landscape impacting the Company; and the effects on the Company’s business of global events, such as international conflicts or global pandemics. For a further description of the risks and uncertainties that could cause actual results to differ from those anticipated in these forward-looking statements, as well as risks relating to the business of the Company in general, see the Company’s Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (“SEC”) on November 6, 2024, and its future periodic reports to be filed with the SEC. Except as required by law, the Company undertakes no obligation to update any forward-looking statements to reflect new information, events or circumstances, or to reflect the occurrence of unanticipated events.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+Date: December 2, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Mark A. Goldsmith
+
+ 
+
+ 
+
+ 
+
+Mark A. Goldsmith, M.D., Ph.D.
+
+President and Chief Executive Officer

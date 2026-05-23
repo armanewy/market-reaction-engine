@@ -1,0 +1,289 @@
+8-K
+
+false 0000873303 0000873303 2025-08-28 2025-08-28
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): August 28, 2025
+
+ 
+
+ 
+
+Sarepta Therapeutics, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-14895
+
+ 
+
+93-0797222
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+215 First Street
+
+ 
+
+Cambridge, Massachusetts
+
+ 
+
+02142
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (617) 274-4000
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+SRPT
+
+ 
+
+NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+As previously announced, on August 20, 2025, Sarepta Therapeutics, Inc. (the “Company”) entered into separate, privately negotiated exchange agreements (the “Exchange Agreements”) with certain holders of its 1.25% Convertible Senior Notes due 2027 (the “Existing Convertible Notes”). Under the terms of the Exchange Agreements, the holders party thereto agreed to exchange with the Company $700.0 million in aggregate principal amount of Existing Convertible Notes held by them for consideration consisting of (i) $602.0 million in aggregate principal amount of 4.875% Convertible Senior Notes due 2030 (the “New Convertible Notes”), (ii) an aggregate of 5,851,693 shares of the Company’s common stock, par value $0.0001 per share (“Common Stock”), and (iii) an aggregate of approximately $123.3 million in cash.
+
+The New Convertible Notes were issued by the Company on August 28, 2025 pursuant to an Indenture, dated as of such date (the “Indenture”), between the Company and U.S. Bank Trust Company, National Association, as trustee (the “Trustee”). The New Convertible Notes bear cash interest at the annual rate of 4.875%, payable on March 1 and September 1 of each year, beginning on March 1, 2026, and will mature on September 1, 2030 unless earlier redeemed, converted or repurchased. The Company will settle conversions of New Convertible Notes through payment or delivery, as the case may be, of cash, Common Stock or a combination of cash and Common Stock, at the Company’s option (subject to, and in accordance with, the settlement provisions of the Indenture). The New Convertible Notes have an initial conversion rate of 16.6667 shares of Common Stock (subject to adjustment as provided for in the Indenture) per $1,000 principal amount of New Convertible Notes (which is equivalent to an initial conversion price of approximately $60.00 per share of Common Stock), representing an approximately 191.5% conversion premium based on the last reported sale price of Common Stock of $20.58 per share on August 20, 2025.
+
+Prior to September 6, 2028, the New Convertible Notes will not be redeemable. On or after September 6, 2028 and on or before the 21st scheduled trading day immediately preceding the maturity date, the Company may redeem for cash all or part of the New Convertible Notes (subject to certain conditions), at its option, if the last reported sale price of the Common Stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive), including the trading day immediately preceding the date on which the Company provides notice of redemption, during any 30 consecutive trading day period ending on, and including, the trading day immediately preceding the date on which the Company provides notice of redemption. If the Company elects to redeem fewer than all of the outstanding New Convertible Notes, at least $150.0 million aggregate principal amount of New Convertible Notes must be outstanding and not subject to redemption as of, and after giving effect to, delivery of the relevant notice of redemption.
+
+Holders of the New Convertible Notes may convert their New Convertible Notes at their option at any time prior to the close of business on the business day immediately preceding March 1, 2030 in multiples of $1,000 principal amount, only under the following circumstances:
+
+ 
+
+ 
+
+•
+
+ 
+
+during any calendar quarter commencing after the calendar quarter ending on December 31, 2025 (and only during such calendar quarter), if the last reported sale price of the Common Stock for at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to 130% of the conversion price for the New Convertible Notes on each applicable trading day;
+
+ 
+
+ 
+
+•
+
+ 
+
+during the five business day period after any five consecutive trading day period (the “measurement period”) in which the “trading price” (as defined in the Indenture) per $1,000 principal amount of New Convertible Notes for each trading day of the measurement period was less than 98% of the product of the last reported sale price of the Common Stock and the conversion rate for the New Convertible Notes on each such trading day;
+
+ 
+
+ 
+
+•
+
+ 
+
+if the Company calls any or all of the New Convertible Notes for redemption, at any time prior to the close of business on the scheduled trading day immediately prior to the redemption date, but only with respect to the New Convertible Notes called (or deemed called) for redemption; or
+
+ 
+
+ 
+
+•
+
+ 
+
+upon the occurrence of specified corporate events described in the Indenture.
+
+ 
+
+On or after March 1, 2030, until the close of business on the second scheduled trading day immediately preceding September 1, 2030, holders may convert their New Convertible Notes, in multiples of $1,000 principal amount, at the option of the holder regardless of the foregoing circumstances.
+
+If the Company experiences a fundamental change or gives a notice of redemption with respect to any or all of the New Convertible Notes, as described in the Indenture, prior to the maturity date of the New Convertible Notes, holders of the New Convertible Notes will, subject to specified conditions, have the right, at their option, to require the Company to repurchase for cash all or a portion of their New Convertible Notes at a repurchase price equal to 100% of the principal amount of the Notes to be repurchased, plus accrued and unpaid interest, if any, to, but not including, the fundamental change repurchase date. In addition, following certain corporate events that occur prior to the maturity date of the New Convertible Notes, the Company will increase the conversion rate for a holder who elects to convert its New Convertible Notes in connection with such corporate event.
+
+The Indenture provides for customary events of default. In the case of an event of default with respect to the New Convertible Notes arising from specified events of bankruptcy or insolvency, all outstanding New Convertible Notes will become due and payable immediately without further action or notice. If any other event of default with respect to the New Convertible Notes under the Indenture occurs or is continuing, the Trustee or holders of at least 25% in aggregate principal amount of the then outstanding New Convertible Notes may declare the principal amount of the New Convertible Notes to be immediately due and payable.
+
+The foregoing description of the Indenture and the New Convertible Notes does not purport to be complete and is qualified in its entirety by reference to each of the Indenture and form of Note, which are filed as Exhibits 4.1 and 4.2 to this Current Report on Form 8-K and are incorporated herein by reference.
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+Item 8.01 Other Events.
+
+Concurrently with the issuance of the New Convertible Notes, the Company completed the previously announced private placement of 1,106,806 shares of Common Stock to J. Wood Capital Advisors LLC at a purchase price per share of $18.07, equal to the last reported sale price of our Common Stock on August 27, 2025.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+4.1
+
+  
+
+Indenture, dated as of August 28, 2025, by and between Sarepta Therapeutics, Inc. and U.S. Bank Trust Company, National Association (including the form of the 4.875% Convertible Senior Note due 2030).
+
+4.2
+
+  
+
+Form of 4.875% Convertible Senior Note due 2030 (included in Exhibit 4.1).
+
+104
+
+  
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Sarepta Therapeutics, Inc.
+
+By:
+
+ 
+
+/s/ Ian Estepan
+
+ 
+
+Ian Estepan
+
+ 
+
+President and Chief Operating Officer
+
+Date: August 29, 2025

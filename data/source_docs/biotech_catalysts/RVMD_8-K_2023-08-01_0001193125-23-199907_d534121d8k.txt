@@ -1,0 +1,407 @@
+8-K
+
+false 0001628171 0001628171 2023-07-31 2023-07-31
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 31, 2023
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39219
+
+ 
+
+47-2029180
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+700 Saginaw Drive
+
+Redwood City, California
+
+ 
+
+94063
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (650) 481-6801
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+RVMD
+
+ 
+
+The Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Merger Agreement
+
+On July 31, 2023, Revolution Medicines, Inc., a Delaware corporation (the “Company”), EQRx, Inc., a Delaware corporation (“EQRx”), Equinox Merger Sub I, Inc., a Delaware corporation and a direct, wholly owned subsidiary of the Company (“Merger Sub I”), and Equinox Merger Sub II LLC, a Delaware limited liability company and a direct, wholly owned subsidiary of the Company (“Merger Sub II”), entered into an Agreement and Plan of Merger (the “Merger Agreement”). Pursuant to the Merger Agreement, and subject to the satisfaction or waiver of the conditions specified therein, Merger Sub I will be merged with and into EQRx (the “First Merger”), with EQRx surviving the First Merger as a direct, wholly owned subsidiary of the Company (the “Surviving Corporation”), and as soon as practicable following the First Merger, the Surviving Corporation will be merged with and into Merger Sub II, with Merger Sub II surviving as a direct, wholly owned subsidiary of the Company (together with the First Merger, the “Mergers”).
+
+The boards of directors of each of the Company and EQRx have approved the Merger Agreement and the transactions contemplated thereby.
+
+Merger Consideration
+
+At the effective time of the First Merger (the “Effective Time”), each share of common stock, par value $0.0001 per share, of EQRx (“EQRx Common Stock”) issued and outstanding immediately prior to the Effective Time (other than the shares that are held by EQRx in treasury or owned by the Company, Merger Sub I, Merger Sub II or any wholly owned subsidiary of EQRx or the Company) will be converted into the right to receive a number of validly issued, fully paid and non-assessable shares of common stock, par value $0.0001 per share, of the Company (the “Company Common Stock”) equal to the Exchange Ratio (as defined below) (such shares of Company Common Stock, the “Merger Consideration”). No fractional shares of the Company Common Stock will be issued in the Mergers, and EQRx stockholders will receive cash in lieu of any fractional shares as part of the Merger Consideration, as specified in the Merger Agreement. The Merger Consideration will consist of a number of shares of Company Common Stock to be issued (including in respect of converted EQRx Options, EQRx RSU Awards and EQRx Restricted Stock (each as defined below)) determined as follows: (i) 7,692,308 shares of Company Common Stock, which was determined based on $200.0 million of the aggregate purchase price divided by $26.00 per share of Company Common Stock; plus (ii) an additional number of shares of Company Common Stock, which will be determined prior to the special meeting of stockholders of EQRx (the “EQRx Stockholders Meeting”) and will represent $870.0 million of the aggregate purchase price divided by the five trading day volume-weighted average price per share of Company Common Stock ending on the sixth business day prior to the scheduled EQRx Stockholders Meeting (the “Pre-Meeting VWAP”), applying a six percent discount.
+
+Also at the Effective Time:
+
+ 
+
+ 
+
+•
+
+ 
+
+options to acquire shares of EQRx Common Stock (“EQRx Options”) outstanding immediately prior to the Effective Time will be accelerated in full immediately prior to the Effective Time, and each EQRx Option with a per share exercise price that is less than the Per Share Value (as defined below) (an “In-the-Money EQRx Option”) will be cancelled and converted into shares of Company Common Stock based on the Exchange Ratio after taking into account the exercise price; all EQRx Options that do not constitute In-the-Money EQRx Options will be terminated at the Effective Time for no consideration; the “Per Share Value” will be equal to the Pre-Meeting VWAP, multiplied by the Exchange Ratio (rounded down to the nearest whole cent);
+
+ 
+
+ 
+
+•
+
+ 
+
+awards of EQRx restricted stock units covering EQRx Common Stock (“EQRx RSU Awards”) outstanding immediately prior to the Effective Time, whether or not vested, will be cancelled and converted into shares of Company Common Stock based on the Exchange Ratio; and
+
+ 
+
+ 
+
+•
+
+ 
+
+the vesting of each share of restricted EQRx Common Stock will be accelerated in full immediately prior to the Effective Time and each share of restricted EQRx Common Stock will be treated the same as all other shares of EQRx Common Stock under the Merger Agreement.
+
+Also at the Effective Time, all outstanding and unexercised warrants to purchase shares of EQRx Common Stock (“EQRx Warrants”) will, in accordance with their terms, be assumed by the Company and will cease to represent a warrant exercisable for Company Common Stock, and will become a warrant exercisable for the Merger Consideration that the holder of such EQRx Warrant would have received if such EQRx Warrant had been exercised immediately prior to the Effective Time.
+
+EQRx remains subject to an obligation under the definitive merger agreement dated August 5, 2021 (the “EQRx DeSPAC Merger Agreement”) entered into in connection with its business combination transaction with EQRx International, Inc. (formerly known as EQRx, Inc.) to deliver up to 50,000,000 shares of EQRx Common Stock on the terms and subject to the conditions specified in the EQRx DeSPAC Merger Agreement (the “EQRx Earn-Out”). Each share of EQRx Common Stock that is issued and outstanding immediately prior to the Effective Time and held in escrow subject to the EQRx Earn-Out will be converted in the same manner as all other shares of EQRx Common Stock under the Merger Agreement. Prior to signing, EQRx delivered signed waivers and releases from legacy EQRx International, Inc. stockholders holding rights with respect to at least a majority of the shares subject to the EQRx Earn-Out, pursuant to which such holders have waived (effective immediately prior to the Effective Time) their respective rights to receive the applicable shares subject to the EQRx Earn-Out and any other right with respect to the EQRx Earn-Out. EQRx may obtain additional waivers prior to the EQRx Stockholders Meeting.
+
+The “Exchange Ratio” will be determined by dividing the aggregate number of shares of Company Common Stock to be issued as Merger Consideration by the number of shares of EQRx Common Stock outstanding immediately prior to the Effective Time, determined in accordance with the Merger Agreement. The number of shares of EQRx Common Stock outstanding for purposes of determining the Exchange Ratio will (i) take into account the number of shares of EQRx Common Stock subject to EQRx Options, EQRx RSU Awards and EQRx Restricted Stock that will convert into shares of Company Common Stock in the Merger, (ii) include 10% of the shares of EQRx Common Stock subject to EQRx Warrants and (iii) include 10% of the shares of EQRx Common Stock subject to the EQRx Earn-Out (to the extent not waived by the applicable EQRx Earn-Out holder).
+
+Governance
+
+The Merger Agreement provides that, upon the closing of the Mergers, the board of directors of the Company will be comprised of ten members, including one independent director from the board of directors of EQRx designated by the Company and EQRx. Such director designee will be assigned to Class II of the board of directors of the Company, the current term of which will expire at the annual meeting of the Company’s stockholders to be held in 2025.
+
+Conditions to the Mergers
+
+The consummation of the Mergers is subject to customary closing conditions, including (i) the adoption of the Merger Agreement by the affirmative vote of the holders of a majority of the shares of EQRx Common Stock outstanding on the record date for the EQRx Stockholders Meeting; (ii) the approval of the issuance of shares of the Company Common Stock in connection with the First Merger (the “Share Issuance”) by the affirmative vote of the holders of a majority in voting power of the votes cast at the special meeting of stockholders of the Company (the “Company Stockholders Meeting”); (iii) the absence of any adverse law or order promulgated, enforced, enacted or issued by any governmental entity that prohibits, restrains or makes illegal the consummation of the Merger; (iv) the shares of the Company Common Stock to be issued in the First Merger being approved for listing on the Nasdaq Global Select Market; (v) the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (if applicable); (vi) the U.S. Securities and Exchange Commission (the “SEC”) having declared effective the Registration Statement on Form S-4 filed by the Company, which will contain the joint proxy statement/prospectus of the parties in connection with the Mergers; (vii) subject to certain materiality exceptions, the accuracy of certain representations and warranties of each of EQRx and the Company contained in the Merger Agreement and the compliance by each party with the covenants contained in the Merger Agreement; and (viii) the absence of a continuing material adverse effect with respect to each of EQRx and the Company. The parties expect that the Mergers will be completed in November 2023, subject to satisfaction of customary closing conditions, including approval by each of the Company’s and EQRx’s stockholders.
+
+Certain Other Terms of the Merger Agreement
+
+EQRx, the Company, Merger Sub I and Merger Sub II each made certain representations, warranties and covenants in the Merger Agreement, including, among other things, covenants by (i) EQRx to use reasonable best efforts to conduct its business consistent with a mutually agreed operating and capital expenditure budget and use commercially reasonable efforts to wind down certain mutually agreed programs, and to refrain from taking certain actions specified in the Merger Agreement, and (ii) the Company to use commercially reasonable efforts to conduct its business in the ordinary course, and to refrain from taking certain actions specified in the Merger Agreement, in
+
+each case, during the period between the execution of the Merger Agreement and consummation of the Mergers. The parties to the Merger Agreement also agreed to use reasonable best efforts to cause the conditions of the Mergers to be satisfied and to consummate the Mergers.
+
+Neither EQRx nor the Company is permitted to solicit, initiate or knowingly encourage or induce, or take any other action designed to facilitate, any competing transaction proposals from third parties or to engage in discussions or negotiations with third parties regarding any competing transaction proposals, subject to certain exceptions. Each of EQRx’s or the Company’s board of directors may change its recommendation to its stockholders in response to a superior proposal or an intervening event if such board of directors determines in good faith that the failure to take such action would be inconsistent with the directors’ fiduciary duties under applicable law.
+
+The Merger Agreement provides for certain termination rights for both EQRx and the Company, including the right of either party to terminate the Merger Agreement if the First Merger has not been consummated prior to 12:00 a.m. Eastern Time on January 31, 2024. Upon termination of the Merger Agreement under certain specified circumstances, including (i) the termination of the Merger Agreement by EQRx or the Company in order to enter into an alternative transaction constituting a superior proposal or (y) the termination of the Merger Agreement by the other party due to a change in recommendation of EQRx’s or the Company’s board of directors to its stockholders, EQRx or the Company may be required to pay the other party a termination fee of $25.0 million (in the case of a termination fee payable by EQRx) or $65.0 million (in the case of a termination fee payable by the Company). In addition, if the Merger Agreement is terminated due to either party’s failure to obtain the requisite stockholder vote under circumstances in which a termination fee is not payable, EQRx or the Company may be required to pay the other party an expense reimbursement of up to $10.0 million.
+
+The foregoing description of the material terms of the Merger Agreement does not purport to be complete and is subject to, and is qualified in its entirety by, reference to the Merger Agreement, which is filed as Exhibit 2.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The Merger Agreement has been attached as an exhibit to this report to provide investors and security holders with information regarding its terms. It is not intended to provide any other factual information about EQRx or the Company or to modify or supplement any factual disclosures about EQRx or the Company in their respective SEC filings. The Merger Agreement includes representations, warranties and covenants of EQRx and the Company made solely for the purposes of the Merger Agreement and which may be subject to important qualifications and limitations agreed to by EQRx and the Company in connection with the negotiated terms of the Merger Agreement. Moreover, some of those representations and warranties may not be accurate or complete as of any specified date, may be subject to certain disclosures between the parties and a contractual standard of materiality different from those generally applicable to EQRx’s or the Company’s SEC filings. In addition, the representations and warranties were made for purposes of allocating risk among the parties to the Merger Agreement and should not be relied upon as establishing factual matters.
+
+Voting Agreements
+
+Simultaneously with the execution of the Merger Agreement, the Company entered into voting agreements, each in substantially similar form, with certain of the directors and executive officers of EQRx (and stockholders of EQRx with which such directors and executive officers are affiliated) who hold more than 40% of the voting shares of EQRx (collectively, the “EQRx Supporting Stockholders” and such agreements, collectively, the “EQRx Voting Agreements”) and EQRx entered into voting agreements, each in substantially similar form, with certain of the directors and executive officers of the Company (and stockholders of the Company with which such directors and executive officers are affiliated) who hold approximately 8% of the voting shares of the Company (collectively, the “Company Supporting Stockholders” and such agreements, collectively, the “Company Voting Agreements”).
+
+Pursuant to the EQRx Voting Agreements, each EQRx Supporting Stockholder has agreed, among other things, to vote or cause to be voted its respective shares of beneficially owned EQRx Common Stock (i) in favor of the Merger Agreement and the transactions contemplated by the Merger Agreement, including the Mergers, and (ii) against (x) any action or agreement that would reasonably be expected to result in any of the closing conditions to be performed by EQRx under the Merger Agreement not being fulfilled and (y) any competing transaction proposal (as further described in the EQRx Voting Agreements), or any agreement, transaction or other matter that is intended to, or would reasonably be expected to, materially impede, materially interfere with or materially and adversely affect the consummation of the Mergers and the other transactions contemplated by the Merger Agreement. The EQRx Voting Agreements cannot be amended without the Company’s consent.
+
+Pursuant to the Company Voting Agreements, each Company Supporting Stockholder has agreed, among other things, to vote or cause to be voted its respective shares of beneficially owned Company Common Stock (i) in favor of the Share Issuance and (ii) against (x) any action or agreement that would reasonably be expected to result in any of the closing conditions to be performed by the Company under the Merger Agreement not being fulfilled and (y) any competing transaction proposal (as further described in the Company Voting Agreements), or any agreement, transaction or other matter that is intended to, or would reasonably be expected to, materially impede, materially interfere with or materially and adversely affect the consummation of the Mergers and the other transactions contemplated by the Merger Agreement. The Company Voting Agreements cannot be amended without EQRx’s consent.
+
+The foregoing description of the material terms of the EQRx Voting Agreements and the Company Voting Agreements does not purport to be complete and is subject to, and qualified in its entirety by, reference to the form of EQRx Voting Agreement and the form of Company Voting Agreement, which are filed as Exhibit 10.1 and Exhibit 99.1, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+Lock-up Agreements
+
+Simultaneously with the execution of the Merger Agreement, the Company entered into lock-up agreements, each in substantially similar form, with each of the EQRx Supporting Stockholders and each of the Company Supporting Stockholders (collectively, the “Lock-up Agreements”).
+
+Pursuant to the Lock-up Agreements, each EQRx Supporting Stockholder and each Company Supporting Stockholder (together, the “Lock-up Parties”) has agreed, from the Effective Time until 11:59 p.m. Eastern Time on the 90th calendar day after the date on which the transactions contemplated by the Merger Agreement are consummated (the “Lock-up Period”), among other things, not to, subject to certain exceptions, sell, transfer or otherwise dispose of any shares of Company Common Stock, including shares of Company Common Stock received as Merger Consideration pursuant to the Merger Agreement, beneficially owned by such EQRx Supporting Stockholder or Company Supporting Stockholder after the Effective Time, as applicable. Notwithstanding the foregoing, beginning at 11:59 p.m. Eastern Time on the 30th calendar day after the date on which the transactions contemplated by the Merger Agreement are consummated, 20% of the shares of Company Common Stock beneficially owned by the Lock-up Parties as of the Effective Time, exclusive of shares of Company Common Stock acquired by the Lock-up Parties during the Lock-up Period, may be sold, transferred or otherwise disposed of in accordance with the terms of the Lock-up Agreements.
+
+The foregoing description of the material terms of the Lock-up Agreements does not purport to be complete and is subject to, and qualified in its entirety by, reference to the form of Lock-up Agreement, which is filed as Exhibit 10.2 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On August 1, 2023, the Company and EQRx issued a joint press release announcing the entrance into the Merger Agreement described in Item 1.01 of this Current Report on Form 8-K. A copy of the press release is furnished as Exhibit 99.2 to this Current Report on Form 8-K.
+
+On August 1, 2023, the Company confirmed its guidance for net loss in accordance with U.S. generally accepted accounting principles of $360.0 million to $400.0 million for the fiscal year ending December 31, 2023, which includes estimated non-cash stock-based compensation expense of $40.0 million to $50.0 million. Such guidance does not give effect to the proposed transaction with EQRx.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K (including Exhibit 99.2 attached hereto) shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly provided by specific reference in such a filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On August 1, 2023, the Company provided the following pipeline updates.
+
+The Company currently expects to present an update on the clinical antitumor activity of RMC-6236, the Company’s RASMULTI(ON) Inhibitor, in patients with non-small cell lung cancer or pancreatic cancer in October 2023, and supporting clinical data will be presented in October 2023 as well. Planning is underway for one or more single agent pivotal clinical trials for RMC-6236, potentially to begin in 2024.
+
+The Company currently expects to provide a first report on initial clinical findings with RMC-6291, the Company’s KRASG12C(ON) Inhibitor, including preliminary evidence of differentiation of this compound from KRASG12C(OFF) inhibitors, in October 2023. Planning is underway for a Phase 1/1b clinical trial to evaluate the combination of RMC-6236 and RMC-6291, potentially to begin in early 2024.
+
+Study site activation is ongoing under an investigational new drug application for a monotherapy dose-escalation Phase 1/1b trial of RMC-9805, the Company’s KRASG12D(ON) Inhibitor, and the Company now expects to announce dosing of the first patient in this study in the second half of 2023.
+
+In line with the Company’s continued prioritization and focus of its resources on novel drug mechanisms of action targeting RAS-addicted cancers, the Company does not intend to advance EQRx’s research and development portfolio following consummation of the Mergers. EQRx is expected to commence a process to wind down these programs and return the associated intellectual property to its partner on each.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of federal securities laws, including the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Such statements are based upon current plans, estimates and expectations of management of the Company and EQRx in light of historical results and trends, current conditions and potential future developments, and are subject to various risks and uncertainties that could cause actual results to differ materially from such statements. The inclusion of forward-looking statements should not be regarded as a representation that such plans, estimates and expectations will be achieved. Words such as “anticipate,” “expect,” “project,” “intend,” “believe,” “may,” “will,” “should,” “plan,” “could,” “continue,” “target,” “contemplate,” “estimate,” “forecast,” “guidance,” “predict,” “possible,” “potential,” “pursue,” “likely,” and words and terms of similar substance used in connection with any discussion of future plans, actions or events identify forward-looking statements. All statements, other than historical facts, including express or implied statements regarding the proposed transaction; the conversion of equity interests contemplated by the Merger Agreement; the issuance of common stock of the Company contemplated by the Merger Agreement; the expected filing by the Company of a registration statement and joint proxy statement/prospectus to be included therein; the expected timing of the closing of the proposed transaction; the ability of the parties to complete the proposed transaction considering the various closing conditions; the expected benefits of the proposed transaction; the competitive ability and position of the combined company; the Company’s development plans and timelines and its ability to advance its portfolio and research and development pipeline; progression of clinical studies and findings from these studies, including the tolerability and potential efficacy of the Company’s candidates being studied; the potential advantages and effectiveness of the Company’s clinical and preclinical candidates, including its RAS(ON) Inhibitors; the potential clinical utility of RMC-6236 in patients with non-small cell lung cancer and pancreatic cancer; the timing and completion of a clinical trial for the combination of RMC-6236 and RMC-6291; whether additional near-term and longer-term investments will strengthen the clinical advancement of the Company’s RAS(ON) Inhibitors; the Company’s ability to enable seamless program progression; the Company’s ability to advance its oncology assets and its intention to concentrate development resources on its three priority RAS-focused assets (RMC-6236, RMC-6291 and RMC-9805) following the proposed transaction; the Company’s expectation to not advance EQRx’s research and development portfolio following closing of the proposed transaction; EQRx’s expectation to wind down its programs; and any assumptions underlying any of the foregoing, are forward-looking statements. Important factors that could cause actual results to differ materially from the Company’s and EQRx’s plans, estimates or expectations described in such forward-looking statements could include, but are not limited to: (i) the risk that the proposed transaction may not be completed in a timely manner or at all, which may adversely affect the Company’s and EQRx’s businesses and the price of their respective securities; (ii) uncertainties as to the timing of the consummation of the proposed transaction; (iii) the potential failure to receive, on a timely basis or otherwise, the required approvals of the proposed transaction, including stockholder approvals by both the Company’s stockholders and EQRx’s stockholders, and the potential failure to satisfy the other conditions to the consummation of the transaction; (iv) that the proposed transaction may involve unexpected costs, liabilities or delays; (v) the effect of the announcement, pendency or completion of the proposed transaction on each of the Company’s or EQRx’s ability to attract, motivate, retain and hire key personnel and maintain relationships with customers, distributors, suppliers and others with whom the Company or EQRx does business, or on the Company’s or EQRx’s operating results and business
+
+generally; (vi) that the proposed transaction may divert management’s attention from each of the Company’s and EQRx’s ongoing business operations; (vii) the risk of any legal proceedings related to the proposed transaction or otherwise, or the impact of the proposed transaction thereupon, including resulting expense or delay; (viii) that the Company or EQRx may be adversely affected by other economic, business and/or competitive factors; (ix) the occurrence of any event, change or other circumstance that could give rise to the termination of the Merger Agreement relating to the proposed transaction, including in circumstances which would require the Company or EQRx to pay a termination fee; (x) the risk that restrictions during the pendency of the proposed transaction may impact the Company’s or EQRx’s ability to pursue certain business opportunities or strategic transactions; (xi) the risk that the Company or EQRx may be unable to obtain governmental and regulatory approvals required for the proposed transaction, or that required governmental and regulatory approvals may delay the consummation of the proposed transaction or result in the imposition of conditions that could reduce the anticipated benefits from the proposed transaction or cause the parties to abandon the proposed transaction; (xii) the risk that the anticipated benefits of the proposed transaction may otherwise not be fully realized or may take longer to realize than expected; (xiii) the impact of legislative, regulatory, economic, competitive and technological changes; (xiv) risks relating to the value of the Company securities to be issued in the proposed transaction; (xv) the risk that integration of the proposed transaction post-closing may not occur as anticipated or the combined company may not be able to achieve the growth prospects expected from the transaction; (xvi) the effect of the announcement, pendency or completion of the proposed transaction on the market price of the common stock of each of the Company and the common stock and publicly traded warrants of EQRx; (xvii) the implementation of each of the Company’s and EQRx’s business model and strategic plans for product candidates and pipeline, and challenges inherent in developing, commercializing, manufacturing, launching, marketing and selling potential existing and new products; (xviii) the scope, progress, results and costs of developing the Company’s and EQRx’s product candidates and any future product candidates, including conducting preclinical studies and clinical trials, and otherwise related to the research and development of the Company’s and EQRx’s pipeline; (xix) the timing and costs involved in obtaining and maintaining regulatory approval for the Company’s and EQRx’s current or future product candidates, and any related restrictions, limitations and/or warnings in the label of an approved product; (xx) the market for, adoption (including rate and degree of market acceptance) and pricing and reimbursement of the Company’s and EQRx’s product candidates and their respective abilities to compete with therapies and procedures that are rapidly growing and evolving; (xxi) uncertainties in contractual relationships, including collaborations, partnerships, licensing or other arrangements and the performance of third-party suppliers and manufacturers; (xxii) the ability of each of the Company and EQRx to establish and maintain intellectual property protection for products or avoid or defend claims of infringement; (xxiii) exposure to inflation, currency rate and interest rate fluctuations and risks associated with doing business locally and internationally, as well as fluctuations in the market price of each of the Company’s and EQRx’s traded securities; (xxiv) risks relating to competition within the industry in which each of the Company and EQRx operate; (xxv) the unpredictability and severity of catastrophic events, including, but not limited to, acts of terrorism or outbreak of war or hostilities; (xxvi) whether the termination of EQRx’s license agreements and/or discovery collaboration agreements may impact its or the Company’s ability to license in additional programs in the future and the risk of delays or unforeseen costs in terminating such arrangements; (xxvii) risks that restructuring costs and charges may be greater than anticipated or incurred in different periods than anticipated; (xxviii) the risk that EQRx’s restructuring efforts may adversely affect its programs and its ability to recruit and retain skilled and motivated personnel, and may be distracting to employees and management; and (xxix) the risk that EQRx’s restructuring or wind-down efforts may negatively impact its business operations and reputation with or ability to serve counterparties or may take longer to realize than expected, as well as each of the Company’s and EQRx’s response to any of the aforementioned factors. Additional factors that may affect the future results of the Company and EQRx are set forth in their respective filings with the SEC, including each of the Company’s and EQRx’s most recently filed Annual Reports on Form 10-K, subsequent Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and other filings with the SEC, which are available on the SEC’s website at www.sec.gov. See in particular Item 1A of the Company’s Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2023 under the heading “Risk Factors,” and Item 1A of each of EQRx’s Annual Report on Form 10-K for the fiscal year ended December 31, 2022 and Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2023 under the headings “Risk Factors.” The risks and uncertainties described above and in the SEC filings cited above are not exclusive and further information concerning the Company and EQRx and their respective businesses, including factors that potentially could materially affect their respective businesses, financial conditions or operating results, may emerge from time to time. Readers are urged to consider these factors carefully in evaluating these forward-looking statements, and not to place undue reliance on any forward-looking statements, which speak only as of the date hereof. Readers should also carefully review the risk factors described in other documents that the Company
+
+and EQRx file from time to time with the SEC. Except as required by law, each of the Company and EQRx assume no obligation to update or revise these forward-looking statements for any reason, even if new information becomes available in the future.
+
+Additional Information and Where to Find It
+
+In connection with the proposed transaction, the Company and EQRx plan to file with the SEC and mail or otherwise provide to their respective security holders a joint proxy statement/prospectus regarding the proposed transaction (as amended or supplemented from time to time, the “Joint Proxy Statement/Prospectus”). INVESTORS AND THE COMPANY’S AND EQRX’S RESPECTIVE SECURITY HOLDERS ARE URGED TO CAREFULLY READ THE JOINT PROXY STATEMENT/PROSPECTUS IN ITS ENTIRETY WHEN IT BECOMES AVAILABLE AND ANY OTHER DOCUMENTS FILED BY EACH OF THE COMPANY AND EQRX WITH THE SEC IN CONNECTION WITH THE PROPOSED TRANSACTION OR INCORPORATED BY REFERENCE THEREIN BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION AND THE PARTIES TO THE PROPOSED TRANSACTION.
+
+The Company’s investors and security holders may obtain a free copy of the Joint Proxy Statement/Prospectus and other documents that the Company files with the SEC (when available) from the SEC’s website at www.sec.gov and the Company’s website at ir.revmed.com. In addition, the Joint Proxy Statement/Prospectus and other documents filed by the Company with the SEC (when available) may be obtained from the Company free of charge by directing a request to Eric Bonach, H/Advisors Abernathy at eric.bonach@h-advisors.global.
+
+EQRx’s investors and security holders may obtain a free copy of the Joint Proxy Statement/Prospectus and other documents that EQRx files with the SEC (when available) from the SEC’s website at www.sec.gov and EQRx’s website at investors.eqrx.com. In addition, the Joint Proxy Statement/Prospectus and other documents filed by EQRx with the SEC (when available) may be obtained from EQRx free of charge by directing a request to EQRx’s Investor Relations at investors@eqrx.com.
+
+No Offer or Solicitation
+
+This communication is not intended to and shall not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any securities, nor shall there be any offer, solicitation or sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended.
+
+Participants in the Solicitation
+
+The Company, EQRx and their respective directors, executive officers, other members of management, certain employees and other persons may be deemed to be participants in the solicitation of proxies from the security holders of the Company and EQRx in connection with the proposed transaction. Security holders may obtain information regarding the names, affiliations and interests of the Company’s directors and executive officers in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2022, which was filed with the SEC on February 27, 2023, and the Company’s definitive proxy statement on Schedule 14A for its 2023 annual meeting of stockholders, which was filed with the SEC on April 26, 2023. To the extent holdings of the Company’s securities by the Company’s directors and executive officers have changed since the amounts set forth in such proxy statement, such changes have been or will be reflected on subsequent Statements of Changes in Beneficial Ownership on Form 4 filed with the SEC. Security holders may obtain information regarding the names, affiliations and interests of EQRx’s directors and executive officers in EQRx’s Annual Report on Form 10-K for the fiscal year ended December 31, 2022, which was filed with the SEC on February 23, 2023, and in certain of EQRx’s Current Reports on Form 8-K. To the extent holdings of EQRx’s securities by EQRx’s directors and executive officers have changed since the amounts set forth in such Annual Report on Form 10-K, such changes have been or will be reflected on subsequent Statements of Changes in Beneficial Ownership on Form 4 filed with the SEC. Additional information regarding the interests of such individuals in the proposed transaction will be included in the Joint Proxy Statement/Prospectus relating to the proposed transaction when it is filed with the SEC. These documents (when available) may be obtained free of charge from the SEC’s website at www.sec.gov, the Company’s website at www.revmed.com and EQRx’s website at www.eqrx.com.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description of Exhibit
+
+  2.1*
+
+  
+
+Agreement and Plan of Merger, dated July 31, 2023, by and among Revolution Medicines, Inc., EQRx, Inc., Equinox Merger Sub I, Inc. and Equinox Merger Sub II LLC.
+
+10.1
+
+  
+
+Form of Voting Agreement with Revolution Medicines, Inc.
+
+10.2
+
+  
+
+Form of Lock-up Agreement with Revolution Medicines, Inc.
+
+99.1
+
+  
+
+Form of Voting Agreement with EQRx, Inc.
+
+99.2
+
+  
+
+Press Release, dated August 1, 2023.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+*
+
+Portions of this exhibit have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company will furnish copies of any omitted exhibits and schedules to the SEC upon its request; provided, that the Company may request confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended, for any exhibits or schedules so furnished.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+Date: August 1, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Mark A. Goldsmith
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Mark A. Goldsmith, M.D., Ph.D.
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer

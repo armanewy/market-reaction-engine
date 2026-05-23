@@ -1,0 +1,183 @@
+EX-99.1
+2
+ny20005453x2_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+ Update from Phase 1 Trial of RP-A501 Gene Therapy Treatment for Danon
+DiseaseSeptember 30, 2022 
+
+ 
+
+ DISCLAIMER  Various statements in this release concerning Rocket’s future
+expectations, plans and prospects, including without limitation, Rocket’s expectations regarding its guidance for 2022, the safety and effectiveness of RP-A501 for the potential treatment of Danon Disease, trends for RP-A501 safety and efficacy
+based on the adult patients treated to date, the expected timing and outcome of Rocket’s regulatory interactions and planned submissions, including in connection with the potential advancement toward a Phase 2 pivotal study for RP-A501,
+Rocket’s plans for the advancement of its Danon Disease program and the safety, effectiveness and timing of related pre-clinical studies and clinical trials, may constitute forward-looking statements for the purposes of the safe harbor
+provisions under the Private Securities Litigation Reform Act of 1995 and other federal securities laws and are subject to substantial risks, uncertainties and assumptions. You should not place reliance on these forward-looking statements,
+which often include words such as "believe," "expect," "anticipate," "intend," "plan," "will give," "estimate," "seek," "will," "may," "suggest" or similar terms, variations of such terms or the negative of those terms. Although Rocket believes
+that the expectations reflected in the forward-looking statements are reasonable, Rocket cannot guarantee such outcomes. Actual results may differ materially from those indicated by these forward-looking statements as a result of various
+important factors, including, without limitation, Rocket’s ability to monitor the impact of COVID-19 on its business operations and take steps to ensure the safety of patients, families and employees, the interest from patients and families for
+participation in each of Rocket’s ongoing trials, our expectations regarding the delays and impact of COVID-19 on clinical sites, patient enrollment, trial timelines and data readouts, our expectations regarding our drug supply for our ongoing
+and anticipated trials, actions of regulatory agencies, which may affect the initiation, timing and progress of pre-clinical studies and clinical trials of its product candidates, Rocket’s dependence on third parties for development,
+manufacture, marketing, sales and distribution of product candidates, the outcome of litigation, and unexpected expenditures, as well as those risks more fully discussed in the section entitled "Risk Factors" in Rocket’s Annual Report on Form
+10-K for the year ended December 31, 2021, filed February 28, 2022 with the SEC and subsequent filings with the SEC including our Quarterly Reports on Form 10-Q.  Accordingly, you should not place undue reliance on these forward-looking
+statements. All such statements speak only as of the date made, and Rocket undertakes no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise. 
+
+ 
+
+ Danon Disease (DD): Serious Condition with Unmet Medical Need   Standard of care:
+  Heart transplant (HTx)  Limitations:  Considerable morbidity and mortality   Only ~20% of patients receive HTx  Not curative of extracardiac disease  Therapeutic Challenges  X-linked, dominant, monogenic disease   Loss-of-function mutations
+in LAMP-2B​  Disease Etiology  Impaired autophagy  Prominent ​autophagic vacuoles  Myocardial disarray  Clinical Manifestations  Addressable Market – US and EU  Prevalence of 15,000 to 30,000 individuals  Annual incidence of 800 to 1,200
+individuals  Severe cardiomyopathy  Mortality secondary to heart failure or arrhythmia  Males: Aggressive disease course, median overall survival: 19 years  Females: Delayed median presentation (~20 years later) due to additional X chromosome,
+highly morbid and fatal disorder  Other clinical manifestations  Skeletal myopathy  CNS manifestations  Ophthalmologic manifestations  CNS, central nervous system; LAMP-2B, lysosome-associated membrane protein 2B.  Boucek D et al. Genet Med.
+2011;13(6):563-568. Brambatti M et al. Int J Cardiol. 2019;286:92-98.  RP-A501: Danon Disease 
+
+ 
+
+ RP-A501: Prospect of Direct Benefit  Age (years)  5  10  15  20  25  30  Cardiac
+Pathophysiology   Symptom onset  Diagnosis  Progression to end-stagecardiomyopathy (potential for heart transplant)  Death   Gene therapy(hypothesized optimal treatment interval)  Stabilization or improvement  Trajectory of cardiac
+pathophysiology and heart failure in male Danon disease patients  Figure modified from disease progression by age data from Boucek D et al. Genet Med. 2011;13(6):563-568 and Brambatti M et al. Int J Cardiol. 2019;286:92-98.  RP-A501: Danon
+Disease 
+
+ 
+
+ Pathophysiology and Clinical Manifestations of Danon Disease HCM  DD, Danon
+disease; LAMP2B, lysosome-associated membrane protein 2B; VT, ventricular tachycardia.  Adapted from Jones & Arnold. 2014. Hypertrophic Cardiomyopathy: Pathogenesis and Clinical Findings  Pathophysiology  Mechanism  Patient
+impact  Pathogenic LAMP-2B mutation causing DD  Autophagic vacuoles,  myocardial disarray,   myocardial thickening   Impaired ventricular filling during diastole (diastolic dysfunction)  No Cardiac LAMP2B protein expression  Disorganized
+myocytes disrupt signal conduction  Microvascular ischemia,  apoptosis with fibrous substitution  Ventricular arrhythmias   Decreased cardiac output  ↑ Left-sided pressure   ↓ Coronary artery perfusion, mismatch of myocardial oxygen supply
+& demand   Tissue hypoxia  Stimulus to breathe  Myocardial injury  Fibrosis  Impaired systolic function   Pulmonary edema and ↑ work of breathing  Sudden cardiac arrest  End-Stage Heart Failure  Tachypnea  Fatigue  Dyspnea on
+exertion  RP-A501: Danon Disease 
+
+ 
+
+ Phase 1 Study: Non-Randomized Open Label   Non-randomized open label study in male
+DD patients  INCLUSION CRITERIA  Male  Confirmed LAMP-2B mutations  Cardiac involvement confirmed by imaging or ECG  NYHA Class II or III  Able to walk >150 m unassisted during 6-minute walk test (6MWT)  EXCLUSION CRITERIA  Anti-AAV9
+neutralizing antibody titer >1:40  Cardiopulmonary instability  Prior organ transplantation  LVEF <40% (​implemented prior to pediatric cohort)  Pediatric 8-14 years  n=2​ at CHOP  Adults (& Adolescents) >15 years  n=5​ at
+UCSD  Single Intravenous Dose of RP-A501 (AAV9.LAMP2B)  Low Dose:     6.7 x 1013  GC/kg  High Dose*:  1.1 x 1014  GC/kg *No further enrollment at this dose.  Early and long-term safety   Target tissue transduction & LAMP2B protein
+expression​  Improved myocardial histology  Clinical improvement or stabilization  PRIMARY OUTCOMES  36 months  ***Enrollment Complete***  Data Reporting Details  Pre-dose (baseline) value defined as the mean values from all visits prior to
+infusion  Core lab data presented for echocardiographic parameters, cardiac serologies, and cardiac histology  Data cut September 27, 2022; source data verification through July 11, 2022.    6MWT, 6-minute walk test; AAV, adeno-associated
+virus; CHOP, Children’s Hospital of Philadelphia; DD, Danon disease; ECG, electrocardiogram; LAMP-2B, lysosome-associated membrane protein 2B; LVEF, left ventricle ejection fraction; NYHA, New York Heart Association; UCSD, University of
+California San Diego.  RP-A501: Danon Disease 
+
+ 
+
+ RP-A501: Safety Monitoring of Phase 1
+Patients  Pt  Age  Wt  1001a  17.5  52.5  1002  20.4  89.1  1005  18.3  91.8  Cohort 1: Low-dose adult  Cohort 2: High-dose adult  Cohort 3: Low-dose pediatric   1.1 x 1014 GC/kg  6.7 x 1013 GC/kg  6.7 x 1013 GC/kg  RP-A501  Steroid (prednisone
+1mg/kg)  Tacrolimus  Tacrolimus  Rituximab   (2 doses)  Steroid (prednisone 0.5 – 0.8mg/kg); Taper start d 10  Sirolimus (target trough 4-8 ng/mL)  RP-A501  RP-A501  n=2 grade 3 steroid myopathy  n=1 grade 3 steroid myopathy  n=1 grade 4 TMA
+  SAEs of Interest  none  Platelets  n=2,  Grade 1   decrease(to LLN range)  n=1,  Grade 4 decrease  Remain in   normal range  Steroid (prednisone
+1mg/kg)  Pt  Age  Wt  1006  21.1  82.7  1007b  20.7  96.7  Pt  Age  Wt  1008  12.3  70.5  1009  11.7  55.7  a Corticosteroid compliance uncertain  b This patient underwent heart transplant due to DD progression five months post RP-A501
+infusion; both because this patient would no longer be eligible for future studies based on revised eligibility criteria and because long-term RP-A501 effect is not evaluable, data for this patient are not shown. He is currently
+stable.  Rituximab   (2 doses)  Daily, real-time monitoring of labs & clinical status  Day -14  Month 3  Day 14  d, day; LLN, lower limit of normal; Pt, patient; SAE, serious adverse event; TMA, thrombotic microangiopathy; Wt, weight.​  Age
+in years at RP-A501 infusion; weight in kg.​  RP-A501: Danon Disease 
+
+ 
+
+ RP-A501 Was Generally Well Tolerated in Pediatric Cohorton Enhanced
+Immunomodulation  Minimal complement activation  No complement-related clinical or laboratory AEs  All AEs were transient and reversible  No treatment-related SAEs  Steroid     (prednisone 0.5 – 0.8mg/kg and tapered starting  day
+10)  Sirolimus       (target trough 4-8 ng/mL)  Rituximab   (2 doses)  RP-A501  Pediatric immunomodulation protocol  Daily, real-time monitoring of labs & clinical status  Day -14  Month 3  Day 14  Platelets remained within normal range  No
+reported skeletal myopathy or late transaminitis with initial steroid dose-reduction and more rapid taper, and introduction of sirolimus  sC5b9 Evaluation Post RP-A501  AE, adverse event; SAE, serious AE; ULN, upper limit of normal.  Data
+cut-off September 27, 2022 with source data verification through July 11, 2022.  All AEs were Transient and Reversible with 6 and 11 month follow up in 1008 and 1009, respectively  1008  1009  1000  750  500  250  0  0  30  60  90  ULN  sC5b9
+(ng/mL)  Days Post Dose  RP-A501: Danon Disease 
+
+ 
+
+ Early Pediatric Data are Encouraging and Consistent with Adult Efficacy Data at
+Similar Timeframe  Variable​​​​  Baseline2  Most Recent Follow-up​​​  LAMP2 protein3 (%)   2.6  354  Troponin-I (ng/mL)  0.67  0.07  BNP (pg/mL)​​​  297​  113  KCCQ-overall scale  52  815  NYHA Class  II  I  6 months  AGE AT INFUSION 11.7
+years  ICD no    WPW no  Patient ID: A501-008-1008  Patient ID: A501-008-1009  AGE AT INFUSION 12.3 years  ICD yes1  WPW yes  Variable​​​​  Baseline2​​​  Most RecentFollow-up​​​  LAMP2 protein3 (%)  0.5  214  Troponin-I (ng/mL)  1.89  0.28  BNP
+(pg/mL)​​​  1837  406  KCCQ-overall scale  50  93  NYHA Class  II  I  9 months  MAX LV WALL THICKNESS 41.9 mm, z-score +32   6MWT   438 meters      MAX LV WALL THICKNESS 19.8 mm, z-score +12  6MWT   553 meters  Baseline
+Characteristics  Baseline Characteristics  6MWT, 6-minute walk test; BNP, brain natriuretic peptide; ICD, implantable cardioverter defibrillator; KCCQ, Kansas City cardiomyopathy questionnaire; LAMP2, lysosome-associated membrane protein 2; LV,
+left ventricle; NYHA, New York Heart Association; WPW, Wolff-Parkinson-White syndrome.   Data cut-off September 27, 2022 with source data verification through July 11, 2022.  1 Recommended prior to enrollment; ICD implanted 3 months after
+RP-A501 infusion  2 Baseline values for troponin-I and BNP are the mean values from all pre-dose visits   3 All biopsies stained for LAMP2 were compared to normal controls. Data is quantitated in a blinded fashion from ~3-5 sections   4 Most
+recent biopsy data available from 6 month visit for 1008 and 3 month visit for 1009  5 Most recent KCCQ data available from 3 month visit for 1009   RP-A501: Danon Disease 
+
+ 
+
+ Early Pediatric LAMP2 Expression are Encouraging and Consistent with Adult Data
+  LAMP2, lysosome associated membrane protein 2.  IHC, immunohistochemistry.  Cohort  Patient ID  Initial Biopsy  Post Infusion  Pediatric - Low Dose  1008  Month 3:   18.5%*  1009  Month 3:   34.7%  Adult - Low Dose   1001  Month 2:     
+7.3%  1002  Month 2:   36.9%  1005  Month 2:   17.6%  Adult - High Dose  1006  Month 2:      5.0%  1007  Month 2:      6.9%  All biopsies stained for LAMP2 were compared to normal control samples. Data is quantitated in a blinded fashion from
+~3-5 sections.   * 1008 Month 6 biopsy: 21% as noted in previous slide  Adapted from Oldfors 2015.   A: IHC of an explanted heart of a younger female Danon disease patient with extremely patchy, nonhomogenous LAMP2 staining.   C: IHC of an
+explanted heart of an older female Danon disease patient with more homogenous LAMP2 staining  Quantified LAMP2 protein expression by immunohistochemistry (IHC)  RP-A501: Danon Disease 
+
+ 
+
+ LAMP2 Myocardial Protein Expression and Histologic Improvement in the Pediatric
+Cohort  EMB, endomyocardial biopsy; H&E, hematoxylin & eosin stain; LAMP2, lysosome associated membrane protein 2.  A501-008-1008 Endomyocardial Biopsy (EMB) Images  LAMP2 protein expression assessed (relative to normal human controls)
+by core lab in a blinded fashion of entire tissue sample  Electron Microscopy  Immunohistochemistry  Baseline  Month 3  Month 6  Hematoxylin & Eosin  Grade 0  Grade 2  Grade 2  Percentages reflect estimated extent of LAMP2 staining  Grade 0
+negative staining   Grade 1 ≤25%  Grade 2 26%-50%   Grade 3 51%-75%   Grade 4 >75%  H&E images captured at 20x magnification, presented digitally zoomed  Arrows indicate autophagic vacuoles   Similar findings on EMB from patient 1009 at
+Baseline and Month 3  RP-A501: Danon Disease 
+
+ 
+
+ Pediatric LAMP2 Protein and DNA Suggests Durable Expression As Demonstrated in
+Adult Cohort  *LAMP2 protein expression assessed (relative to normal human controls) by core lab in a blinded fashion of entire tissue sample; Percentages reflect estimated extent of LAMP2 staining:    Grade 0=negative staining; Grade 1 ≤25%;
+Grade 2 =26%-50%; Grade 3 =51%-75%; Grade 4
+>75%.  1001  1002  1005  1006  1008  1009  4  3  2  1  0  Pre  M3  M6  M12  M24  Pre  M3  M6  M12  M24  Pre  M3  M6  M12  M24  Pre  M3  M6  M12  M24  Pre  M3  M6  M12  M24  Pre  M3  M6  M12  M24  M36  Grade 0  Grade 0  Grade 0  Grade 0  No
+Data  Grade 0  No Data  Grade 0  Grade 0  Oct 2022  Oct 2023  Grade 0  Data Pending  March 2023  March 2024  LAMP2 Grade* by IHC  Patient ID   Predose  Month 6  Month 12  Month 36   
+1001a  0  0.384  0.197  0.120  1002  0  ND  0.575  0.590c  1005  0  0.583  ND  1.228c  1006  0  2.693  1.131  -  1007  0  RV: 6.77b  LV: 9.15b  Post heart transplant  1008  0  0.492  -  -  1009  0  Data pending  -  -  LAMP2, lysosome
+associated membrane protein 2; M, month.  LAMP2 Protein Expression   Cardiac LAMP2 DNA by qPCR (vector copies per diploid nucleus)  LV, Left ventricle and RV, Right ventricle at 5 months from explanted heart; ND.  not done, -, visit
+pending.   a Corticosteroid compliance uncertain. b Assessment from explanted heart tissue at 5 months. c Month 30 visit.  RP-A501: Danon Disease 
+
+ 
+
+ n=1  15  n=6  n=3  n=3  n=2  10  5  0  Predose  Month 6  Vacuole Area/Tissue Area
+(%)  Month 12  Month 24  Month 36  Restored Autophagy Sustained Following RP-A501  M, month; X, data not
+assessed  B.  1001  1002  1005  1006  1008  M12  M24  M36  M6  M12  M24  M24  M6  M12  M6  M6  25  0  -25  -50  -75  -100  Improvement  Vacuole Area/Tissue Area  % Change from Baseline  X  X  X  A.  Vacuolar Area of Endomyocardial
+Tissue  Restored autophagy indicated by attenuation of vacuolar area  B.  Vacuolar Area Decreases with Treatment  Bars denote minimum and maximum range, and line within each bar represents the mean value within study population.  Light
+microscopy images at 20X;  Autophagic vacuoles are depicted by yellow arrows.    RP-A501: Danon Disease 
+
+ 
+
+ Sustained Improvement or Stabilization of Biomarkers of Myocardial Injury and
+Stress Following RP-A501  Brain Natriuretic Peptide (BNP)  1001  1002  1005  1006  High Sensitivity Troponin I
+(hsTnI)  25  0  -25  -50  -75  -100  M18  M24  M30  M36  X  X  X  M18  M24  M30  M12  M18  M30  M18  M24  M12  Improvement  hsTroponin I   % Change from
+Baseline  25  0  -25  -50  -75  -100  M18  M24  M30  M36  M12  M18  M24  M30  M12  M18  M30  M18  M24  M12  Improvement  BNP   % Change from Baseline  X  X  M, month; X, data not assessed  RP-A501: Danon Disease 
+
+ 
+
+ Sustained Improvement or Stabilization of LV HypertrophyFollowing RP-A501  LV,
+left ventricle; LVPWd, LV posterior wall end diastole; M, month; X, data not assessed  LV hypertrophy is assessed via LV posterior wall at end diastole (LVPWd) and LV mass.  LV Posterior Wall Thickness  LV
+Mass  M18  M24  M30  M36  M12  M6  M18  M24  M30  M18  M9  M18  M12  M9  M6  25  0  -25  -50  Improvement  X  X  X  X  X  X  X  X  LVPWd   % Change from Baseline  LV Mass   % Change from
+Baseline  M18  M24  M30  M36  M12  M6  M18  M24  M30  M18  M9  M18  M12  M9  M6  Improvement  X  X  X  X  X  X  X  X  25  0  -25  -50  1001  1002  1005  1006  RP-A501: Danon Disease 
+
+ 
+
+ Sustained Improvement or Stabilization of  Functional Cardiac StatusFollowing
+RP-A501  Cohort​​​  Patient ID​​​  Baseline​​​  Month 12  Most Recent Follow-up  Time of Most Recent   Follow-up  Low Dose​ Adult  1001​​​a  II​​​​  II  II  36 months  1002​​​​  II​​​​  III  I  30 months  1005​​​  II​​​​  II  I​  30
+months  High Dose Adult  1006​​​​  II​​​​  I​​​  I​​​  24 months  Low Dose Pediatric  1008  II​​​​  October 2022  I  9 months  1009​​​  II​​​​  March 2023  I  6 months  New York Heart Association Class  100  75  50  25  0  KCCQ-Overall
+Score  1001  1002  1005  1006  1008  M, month; X, data not assessed.  a Corticosteroid compliance uncertain  Pre  M3  Pre  M9  X  Pre  M24  X  Pre  M24  X  X  X  X  Pre  M30  X  X  Pre  M3  M6  M12  M18  M24  M30  M36  X  1009  Kansas City
+Cardiomyopathy Questionnaire Overall Score  RP-A501: Danon Disease 
+
+ 
+
+ Summary of Results  PEDIATRIC COHORT   ADULT COHORT  Low-dose continues to be
+generally well tolerated at 2-3 years post-treatment  Increased LAMP2B protein expression was associated with durable disease improvement or stabilization including clinical status (NYHA class, KCCQ), LV hypertrophy (LV wall thickness and
+mass), biomarkers of myocardial injury and stress (hsTroponin I and BNP), and cardiac histology   All patients are alive in their early 20s, whereas median survival in DD males is 19 years old*  RP-A501 was well tolerated  No immediate, early
+or delayed RP-A501 related SAEs observed to date with enhanced immunomodulation   Minimal complement activation  Platelets remained within normal range  Absent or limited worsening of skeletal myopathy with reduced steroid dose and more rapid
+taper, and introduction of sirolimus  Increased LAMP2B protein expression was associated with early signals of improved cardiac histology, as well as serological evidence of decreased myocardial injury and stress  Early improvement in NYHA
+class and KCCQ for both patients   BNP, brain natriuretic peptide; hs, high sensitivity; KCCQ, Kansas City cardiomyopathy questionnaire; LAMP2B, lysosome-associated membrane protein 2B; LV, left ventricle; NYHA, New York Heart Association; SAE,
+serious adverse event.  *Except for patient 1007 who received a heart transplant at 5 months due to Danon Disease progression. He is currently stable. Brambatti M et al. Int J Cardiol. 2019;286:92-98  Data cut-off September 27, 2022 with source
+data, verification through July 11, 2022.  RP-A501: Danon Disease 
+
+ 
+
+ Connecting Surrogate Endpoints to Functional Outcomes for Pivotal
+Study*   Molecular Expression   Cellular Structure   Cardiac Structure and Function   Cardiac Structure and Function   Clinical Status   Endomyocardial Bx:   LAMP2 protein expression  Endomyocardial Bx:   Vacuolar area   Serology:
+  Troponin-I  BNP   Echo Parameters:   Wall thickness (LVPWd, MLVWT)  LVEF  LV mass   Hemodynamics:   PCWp  Cardiac output  Functional parameters:    NYHA Class  KCCQ Overall Score  Patient Screening  Predose  Month 3  Month 6  Month 12  Month
+24  Month 36  RP-A501  Post Gene Therapy  BNP, brain natriuretic peptide; Bx, biopsy; KCCQ, Kansas City cardiomyopathy questionnaire; LAMP2, lysosome-associated membrane protein 2; LV, left ventricle; LVEF, LV ejection fraction; LVPWd, LV
+posterior wall end diastole; MLVWT, maximal LV wall thickness; NYHA, New York Heart Association; PCWp, pulmonary capillary wedge pressure.  *Pending regulatory feedback  RP-A501: Danon Disease 
+
+ 
+
+ Summary of Results  Phase 1 enrollment and treatment are complete  The enhanced
+immunomodulatory regimen was generally well tolerated and has mitigated adverse events in the pediatric cohort, who are currently 6 and 11 months post treatment  The early LAMP2 expression data from the pediatric cohort are encouraging
+and consistent with that seen in the adult patients at the same timepoints  The early clinical trends for the pediatric cohort are encouraging and consistent with the sustained clinical responses seen in the adults at 24-36 months   Study
+design and endpoints have been identified for the planned Phase 2 pivotal study* and endorsed by an International Scientific and Clinical Advisory Board; FDA discussion planned at the end of this year  *Pending regulatory feedback  RP-A501:
+Danon Disease 
+
+ 
+
+ Development Plan  Moving toward pivotal Phase 2 study  PLANNED
+GLOBAL  REGISTRATIONAL PHASE 2 STUDY  Expanded natural history study  End of Phase 1 regulatory meeting with FDA  Initiate Phase 2 global pivotal study activities  Initiate female study  PLANNED  Phase 1 treatment completed in males  Orphan
+Drug, Rare Pediatric and Fast Track designations in the US (eligible for PRV, if approved)  Initiated in-house manufacturing to support Phase 2 product  CURRENT  FDA, Food and Drug Administration; H2, second half of the year; PRV, priority
+review voucher.  Data on file. Rocket Pharmaceuticals. 2022.  RP-A501: Danon Disease

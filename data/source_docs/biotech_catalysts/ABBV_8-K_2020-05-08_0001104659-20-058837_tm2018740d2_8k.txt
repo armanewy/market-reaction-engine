@@ -1,0 +1,531 @@
+0001551152
+false
+Common Stock, $0.01 Par Value
+ABBV
+
+0001551152
+
+2020-05-07
+2020-05-08
+
+0001551152
+
+us-gaap:CommonStockMember
+exch:XNYS
+
+2020-05-07
+2020-05-08
+
+0001551152
+
+exch:XCHI
+us-gaap:CommonStockMember
+
+2020-05-07
+2020-05-08
+
+0001551152
+
+abbv:Sec1.375SeniorNotesDue2024Member
+exch:XNYS
+
+2020-05-07
+2020-05-08
+
+0001551152
+
+abbv:Sec0.750SeniorNotesDue2027Member
+exch:XNYS
+
+2020-05-07
+2020-05-08
+
+0001551152
+
+abbv:Sec2.125SeniorNotesDue2028Member
+exch:XNYS
+
+2020-05-07
+2020-05-08
+
+0001551152
+
+abbv:Sec1.250SeniorNotesDue2031Member
+exch:XNYS
+
+2020-05-07
+2020-05-08
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported): May 8, 2020
+
+ 
+
+ABBVIE INC.
+
+ 
+
+(Exact Name of Registrant as Specified
+in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-35565
+
+ 
+
+32-0375147
+
+(State or other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+1 North Waukegan Road
+
+North Chicago, Illinois 60064-6400
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (847) 932-7900
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common Stock, $0.01 Par Value
+
+ 
+
+ABBV
+
+ 
+
+New York Stock Exchange
+
+Chicago Stock Exchange
+
+1.375% Senior Notes due 2024
+
+ 
+
+ABBV24
+
+ 
+
+New York Stock Exchange
+
+0.750% Senior Notes due 2027
+
+ 
+
+ABBV27
+
+ 
+
+New York Stock Exchange
+
+2.125% Senior Notes due 2028
+
+ 
+
+ABBV28
+
+ 
+
+New York Stock Exchange
+
+1.250% Senior Notes due 2031
+
+ 
+
+ABBV31
+
+ 
+
+New York Stock Exchange
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 2.01. Completion of Acquisition or Disposition
+of Assets.
+
+ 
+
+On May 8, 2020 (the “Closing Date”), AbbVie Inc.
+(“AbbVie”) completed the previously announced acquisition of Allergan plc (“Allergan”),
+an Irish public limited company (the “Acquisition”). The Acquisition was
+effected by means of a court-sanctioned scheme of arrangement (the “Scheme”) and in accordance with a
+Transaction Agreement (the “Transaction Agreement”), dated as of June 25, 2019 (as amended on May 5, 2020), by and
+among AbbVie, Allergan and Venice Subsidiary LLC, a Delaware limited liability company and a direct wholly-owned subsidiary
+of AbbVie (“Acquirer Sub”).
+
+ 
+
+The Acquisition was conditioned on, among other things, the
+sanction of the Scheme by the Irish High Court (the “Court”) and the registration of the Court Order (as defined in
+the Transaction Agreement) with the Registrar of Companies in Dublin, Ireland. On May 6, 2020, the Court sanctioned the Scheme.
+On May 8, 2020, the Court Order was registered by the Registrar of Companies, at which time the Scheme became effective.
+
+ 
+
+At the effective time of the Scheme, Acquirer Sub acquired
+all of the outstanding ordinary shares of Allergan and each outstanding ordinary share of Allergan, excluding the Excluded
+Scheme Share (as defined in the Transaction Agreement) and any Allergan treasury shares, was cancelled and automatically
+converted into the right to receive (i) $120.30 in cash (and any cash in lieu of fractions of AbbVie Shares) and (ii)
+0.8660 of a share of AbbVie common stock (“AbbVie Shares”). In respect of Allergan ordinary shares issued and
+outstanding immediately prior to the effective time of the Scheme, AbbVie delivered approximately 285.6 million AbbVie Shares
+and paid an aggregate of approximately $39.67 billion in cash to former Allergan shareholders in exchange for Allergan
+ordinary shares.
+
+ 
+
+Also at the effective
+time of the Scheme, (i) each Allergan stock option and each Allergan restricted stock unit award that was outstanding immediately
+prior to the effective time of the Scheme was substituted by AbbVie with a corresponding AbbVie stock option and AbbVie restricted
+stock unit award relating to shares of AbbVie common stock, with the number of shares of AbbVie common stock subject to such award
+and, if applicable, the exercise price per share applicable to such award, determined in accordance with the formulas set forth
+in the Transaction Agreement, and (ii) each Allergan performance stock unit award that was outstanding as of immediately prior
+to the effective time of the Scheme was substituted by AbbVie with an AbbVie restricted stock unit award relating to shares of
+AbbVie common stock, that vests based on the holder’s continued service following the effective time of the Scheme,
+with the number of shares of AbbVie common stock subject to such award determined in accordance with the formulas set forth in
+the Transaction Agreement (which, for any Allergan performance stock unit awards that were subject to performance-based vesting
+conditions on June 25, 2019, was calculated based on deemed satisfaction of performance at 130% of target).
+
+ 
+
+The substituted AbbVie
+stock options and AbbVie restricted stock units, as described above, have the same terms and conditions (including the same time-based
+vesting conditions, but excluding any performance-based vesting conditions) as applied to the corresponding Allergan stock options,
+Allergan restricted stock units and Allergan performance stock units immediately prior to the effective time of the Scheme,
+except for terms rendered inoperative by reason of the transactions contemplated by the Transaction Agreement or such other immaterial
+administrative or ministerial changes that are not adverse to any holder other than in any de minimis respect.
+
+ 
+
+The foregoing summaries of the Acquisition, the Transaction
+Agreement and Appendix III to the Rule 2.5 Announcement (the “Conditions Appendix”)
+do not purport to be complete and are subject to, and qualified in their entirety by, the full text of the Transaction Agreement
+and the Conditions Appendix, which were filed as Exhibits 2.1 and 2.2, respectively, to AbbVie’s Current Report on Form 8-K filed on June 25, 2019 and are incorporated herein by reference.
+
+ 
+
+ 
+
+ 
+
+Item 2.03. Creation
+of a Direct Financial Obligation or an Obligation Under an Off- Balance Sheet Arrangement of a Registrant
+
+ 
+
+As previously reported, on July 12,
+2019, AbbVie entered into a Term Loan Credit Agreement  (the “Term Loan Credit Agreement”) among AbbVie,
+certain lenders party thereto and Morgan Stanley Senior Funding, Inc., as administrative agent. On May 8, 2020, AbbVie borrowed
+$3.0 billion under the Term Loan Credit Agreement to fund a portion of the cash consideration paid to Allergan shareholders in
+connection with the Acquisition.
+
+ 
+
+The description of the Term Loan Credit
+Agreement contained in this Item 2.03 does not purport to be complete and is subject to, and qualified in its entirety by, the
+full text of the Term Loan Credit Agreement, which was filed as Exhibit 10.1 to AbbVie’s Current Report on Form 8-K filed on July 16, 2019 and is incorporated herein by reference.
+
+ 
+
+Item 3.02. Unregistered Sales of
+Equity Securities.
+
+ 
+
+The disclosure set forth above in Item
+2.01 of this Current Report on Form 8-K with respect to the issuance of AbbVie Shares in connection with the Acquisition is incorporated
+by reference herein. The AbbVie Shares issued in connection with the Acquisition were not registered under the Securities
+Act of 1933, as amended (the “Securities Act”), in reliance on the exemption from registration provided by Section
+3(a)(10) of the Securities Act and/or the regulations promulgated thereunder.
+
+ 
+
+Item 5.02. Departure of Directors or Certain Officers;
+Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+In connection with the completion of the Acquisition, effective
+following the effective time of the Scheme, AbbVie expanded the size of its Board of Directors (the “Board”) from eleven
+directors to twelve directors and appointed Thomas Freyman to the Board as a Class I director. In addition, Mr. Freyman has been
+appointed to serve on AbbVie’s Compensation Committee.
+
+ 
+
+Mr. Freyman formerly served on the board of directors of Allergan.
+The Board affirmatively determined that Mr. Freyman is an “independent director” under the standards set forth in section
+303A.02 of the New York Stock Exchange Listed Company Manual, AbbVie’s governance guidelines and director independence guidelines.
+Mr. Freyman will be entitled to compensation as an independent director as disclosed in Exhibit 10.6 to AbbVie’s Form 10-Q for the quarterly period ended March 31, 2020.
+
+ 
+
+This appointment was made as contemplated by the Transaction
+Agreement, a copy of which was filed as Exhibit 2.1 to AbbVie’s Current Report on Form 8-K filed on June 25, 2019 and is
+incorporated herein by reference. The amendment to the Transaction Agreement, dated May 5, 2020, was filed as Exhibit 2.1 to AbbVie’s Form 10-Q for the quarterly period ended March 31, 2020.
+
+ 
+
+Item 8.01. Other Events
+
+ 
+
+Press Release
+
+ 
+
+On May 8, 2020, AbbVie issued a press release
+announcing the completion of the Acquisition.  A copy of the press release is attached hereto as Exhibit 99.1 to this Current
+Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+Item 9.01. Financial Statements
+and Exhibits.
+
+ 
+
+(a) Financial Statements of Businesses
+Acquired.
+
+ 
+
+The financial statements required by this
+Item 9.01(a) are not included in this Current Report on Form 8-K.  AbbVie intends to file such financial statements by amendment
+to this Current Report on Form 8-K not later than 71 calendar days after the date this Current Report on Form 8-K is required to
+be filed.
+
+ 
+
+(b) Pro Forma Financial Information.
+
+ 
+
+The pro forma financial information required
+by this Item 9.01(b) is not included in this Current Report on Form 8-K.  AbbVie intends to file such pro forma financial
+information by amendment to this Current Report on Form 8-K not later than 71 calendar days after the date this Current Report
+on Form 8-K is required to be filed.
+
+  
+
+ 
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+ 
+
+Exhibit
+
+2.1
+
+ 
+
+Transaction Agreement, dated as of June 25, 2019, between AbbVie, Allergan and Acquirer Sub (incorporated by reference to Exhibit 2.1 of AbbVie’s Current Report on Form 8-K filed on June 25, 2019).
+
+2.2
+
+ 
+
+Appendix III to the Rule 2.5 Announcement, dated as of June 25, 2019 (Conditions Appendix) (incorporated by reference to Exhibit 2.2 of AbbVie’s Current Report on Form 8-K filed on June 25, 2019).
+
+99.1
+
+ 
+
+Press Release dated May 8, 2020
+
+104
+
+ 
+
+The cover page from this Current Report on Form 8-K formatted in Inline XBRL (included as Exhibit 101). 
+
+ 
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+ABBVIE INC.
+
+ 
+
+ 
+
+Date: May 8, 2020
+
+By:
+
+/s/ Robert A. Michael
+
+ 
+
+ 
+
+Robert A. Michael
+
+ 
+
+ 
+
+Executive Vice President, Chief Financial Officer
+
+ 
+
+ 
+
+Common Stock, $0.01 Par Value
+
+ABBV

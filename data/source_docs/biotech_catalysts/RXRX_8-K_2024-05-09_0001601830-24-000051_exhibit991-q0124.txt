@@ -1,0 +1,445 @@
+EX-99.1
+3
+exhibit991-q0124.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Recursion Provides Business Updates and Reports First Quarter 2024 Financial Results
+
+•On track to read out multiple Phase 2 clinical trials in the coming quarters, beginning in Q3 2024
+
+•Performance benchmarking completed on BioHive-2, Recursion's next generation supercomputer, which will support the construction of foundation models across biology, chemistry, and patient outcomes
+
+•Transcriptomics technology has continued to be scaled to more than 1 million transcriptomes with a whole-genome knockout transcriptomics map to be completed in the coming quarters
+
+•Entered into a multi-year agreement with Helix to access hundreds of thousands of de-identified records for training causal AI models and designing biomarker and patient stratification strategies
+
+SALT LAKE CITY, May 9, 2024 — Recursion (Nasdaq: RXRX), a leading clinical stage TechBio company decoding biology to industrialize drug discovery, today reported business updates and financial results for its first quarter ending March 31, 2024.
+
+"We are excited about the multiple upcoming value catalysts that could potentially occur in the near-term, including clinical trial readouts, partnership option exercises, new partnerships, and interest in Recursion's data and technology solutions,” said Chris Gibson, Ph.D., Co-founder and CEO of Recursion. "It is great to see individuals from both the biopharma and technology industries demonstrating an understanding and appetite for the power of combining large-scale computing resources with the ability to generate a proprietary source of large-scale data. To that end, we are thrilled to welcome Dr. Najat Khan to Recursion who will help lead our R&D and commercialization efforts."
+
+Summary of Business Highlights
+
+•Pipeline
+
+◦Cerebral Cavernous Malformation (CCM) (REC-994): Our Phase 2 SYCAMORE clinical trial is a randomized, double-blind, placebo-controlled study of two doses of REC-994 in participants with CCM. The primary endpoint of the study is safety and tolerability. Secondary and exploratory endpoints, including clinician measured outcomes, imaging of CCM lesions, patient reported outcomes, and selected biomarkers, will be evaluated. This trial was fully enrolled in June 2023 with 62 participants, where the vast majority of participants who completed 12 months of treatment have entered the long-term extension study. We expect to share Phase 2 data in Q3 2024.
+
+◦Neurofibromatosis Type 2 (NF2) (REC-2282): Our adaptive Phase 2/3 POPLAR clinical trial is a randomized, two part study of REC-2282 in participants with progressive NF2-mutated meningiomas. Part 1 of the study is ongoing and is exploring two doses of REC-2282 in approximately 23 adults and 9 adolescents, with enrollment in adults expected to complete in Q2 2024. We expect to share Phase 2 safety and preliminary efficacy data in Q4 2024.
+
+◦Familial Adenomatous Polyposis (FAP) (REC-4881): Our Phase 1b/2 TUPELO clinical trial is an open label, multicenter, two part study of REC-4881 in participants with FAP. Part 1 is complete and enrollment in Part 2 has commenced. We expect to share Phase 2 safety and preliminary efficacy data in H1 2025.
+
+◦AXIN1 or APC Mutant Cancers (REC-4881): Our Phase 2 LILAC clinical trial is an open label, multicenter study of REC-4881 in participants with unresectable, locally advanced or metastatic cancer with AXIN1 or APC mutations. This study was initiated at the end of 2023 with the first participant dosed in Q1 2024. Since that time, multiple participants are now enrolled. We expect to share Phase 2 safety and preliminary efficacy data in H1 2025.
+
+◦Clostridioides difficile Infection (REC-3964): REC-3964 is a first-in-class C. difficile toxin inhibitor and the first new chemical entity developed by Recursion, with promising preclinical efficacy data seen in relevant models (superiority versus bezlotoxumab). Full Phase 1 data from our healthy volunteers study will be presented at the World Congress on Infectious Diseases in Paris in June 2024. We expect to initiate a randomized Phase 2 study in patients at high risk for C. difficile infection recurrence in 2024.
+
+◦Advanced HR-Proficient Cancers (RBM39): RBM39 is a novel CDK12-adjacent target identified by the Recursion OS. We intend to position our lead candidate as a single agent for the potential treatment of advanced HR-proficient cancers including ovarian and other solid tumors. We expect to submit an IND in H2 2024 and anticipate initiating a Phase 1 open label study of our lead candidate in participants with relapsed/refractory cancer. The primary endpoint of the study will be safety and tolerability. Secondary endpoints will explore pharmacokinetics and preliminary signs of anti-tumor activity.
+
+◦Undisclosed Indication in Fibrosis (Target Epsilon): This program originated under our initial fibrosis collaboration with Bayer and we have since in-licensed from Bayer all rights to this program. We are advancing our lead candidate through IND-enabling studies with IND submission expected in the near-term.
+
+•Platform
+
+◦Supercomputer Expansion: We worked with our partner NVIDIA to design and build BioHive-2, our next generation supercomputer with over 500 H100 GPUs. We have nearly completed the build out of BioHive-2 and began performance benchmarking tests. We believe that the performance of our supercomputer may place BioHive-2 in the top 50 of the next TOP500 list, making it one of the most powerful supercomputers in the world across any industry and the most powerful supercomputer owned and operated by any biopharma company. These computational resources, paired with Recursion’s vast datasets and data generation capabilities, enable the construction of Recursion’s large foundation models for biology, chemistry and causal patient outcomes.
+
+◦Whole-Genome Transcriptomics Map: We continue to focus on key technologies that enhance our ability to generate, extract and validate novel insights for therapeutic advancements. Over the past year, we have scaled our transcriptomics technology in order to validate phenotypic-insights and relate to patient-derived RNA sequencing data. In April, we announced sequencing our 1 millionth transcriptome. We believe that we are one of the largest transcriptomics sequencers in the world and are advancing the development of a whole-genome knockout transcriptomics map, which we expect to complete in the coming quarters. Such platform capabilities are important for curating scaled datasets that are relatable and provide a more complete understanding of biology, chemistry, and patient outcomes.
+
+◦Active Learning: We have been applying active learning approaches to predict where our OS should generate and enrich biological and chemical datasets via phenotypic and ADME compound profiling across existing and new cellular contexts. These capabilities enable Recursion to rapidly construct multiomics maps that are enriched for areas of biology and chemistry that may be of high value for translating insights into therapeutic programs. We believe that such approaches enable Recursion to more rapidly expand its data moat and see active learning capabilities as an important step towards autonomous drug discovery.
+
+•Partnerships
+
+◦Helix Collaboration: Recursion entered into a multi-year agreement with Helix to access hundreds of thousands of de-identified records including Helix's Exome+(R) genomic data and data from longitudinal health records. Recursion plans to use this data to train causal AI models and design biomarker and patient stratification strategies across broad disease areas. The Helix dataset expands Recursion's integration of real-world patient data and complements Recursion's access to Tempus' oncology data.
+
+◦Transformational Collaborations: We continue to advance efforts to discover potential new therapeutics with our strategic partners in the areas of undruggable oncology (Bayer) as well as neuroscience and a single indication in gastrointestinal oncology (Roche-Genentech). In the near-term, there is the potential for option exercises associated with partnership programs, option exercises associated with map building initiatives or data sharing and additional partnerships in large, intractable areas of biology or technological innovation.
+
+Additional Corporate Updates
+
+•L(earnings) Call: Recursion will host a L(earnings) Call on May 9, 2024 at 5:00 pm Eastern Time / 3:00 pm Mountain Time. Recursion will broadcast the live stream from Recursion's X (formerly Twitter), LinkedIn and YouTube accounts and there will be opportunities to ask questions of the company.
+
+•Chief R&D Officer and Chief Commercialization Officer: In April 2024, Recursion named Najat Khan, Ph.D. as Chief R&D Officer and Chief Commercialization Officer. Previous to joining Recursion, Dr. Khan worked at Johnson & Johnson for over 6 years, serving most recently as Chief Data Science Officer and Global Head of Strategy & Portfolio Organization for Innovative Medicine R&D. Dr. Khan has also been appointed to Recursion’s Board of Directors.
+
+•London Office: In March 2024, Recursion announced plans to open a new office in London in order to recruit top TechBio talent within the areas of computational biology, machine learning and data science. Additionally, Recursion announced that Prof. Michael Bronstein, DeepMind Professor of Artificial Intelligence at Oxford University, will join Recursion as a Scientific Advisor.
+
+•Annual Shareholder Meeting: Recursion's Annual Shareholder Meeting will be held on June 3, 2024 at 10:00 am Eastern Time / 8:00 am Mountain Time.
+
+First Quarter 2024 Financial Results
+
+•Cash Position: Cash and cash equivalents were $296.3 million as of March 31, 2024.
+
+•Revenue: Total revenue was $13.8 million for the first quarter of 2024, compared to $12.1 million for the first quarter of 2023. The increase was due to revenue recognized from our partnership with Roche, as our mix of work on the three performance obligations shifted towards higher cost processes including the progression of work related to one of our neuroscience performance obligations.
+
+•Research and Development Expenses: Research and development expenses were $67.6 million for the first quarter of 2024, compared to $46.7 million for the first quarter of 2023. The increase in research and development expenses was across all development phases as we continue to expand and upgrade our platform, including our chemical technology, machine learning and transcriptomics platform. Our discovery costs increased as we advanced our preclinical pipeline including our work on Target Epsilon. Our clinical costs grew as we continued to progress through our various clinical trials.
+
+•General and Administrative Expenses: General and administrative expenses were $31.4 million for the first quarter of 2024, compared to $22.9 million for the first quarter of 2023. The increase in general and administrative expenses was due to an increase in salaries and wages of $3.9 million and increases in software and depreciation expenses.
+
+•Net Loss: Net loss was $91.4 million for the first quarter of 2024, compared to a net loss of $65.3 million for the first quarter of 2023.
+
+•Net Cash: Net cash used in operating activities was $102.3 million for the first quarter of 2024, compared to net cash used in operating activities of $73.3 million for the first quarter of 2023. The increase in net cash used in operating activities compared to the same period last year was due to higher operating costs incurred for research and development and general and administrative due to Recursion's expansion and upgraded capabilities. Net cash used in operating activities was $74.1 million for the fourth quarter of 2023. The increase in net cash used compared to the fourth quarter of 2023 was due to paying our annual cash bonuses to employees of $18.0 million, timing
+
+of accrual payments of $6.4 million and a lease deposit prepayment for our BioHive-2 supercomputer of $1.6 million.
+
+About Recursion
+
+Recursion is a clinical stage TechBio company leading the space by decoding biology to industrialize drug discovery. Enabling its mission is the Recursion OS, a platform built across diverse technologies that continuously expands one of the world’s largest proprietary biological, chemical and patient-centric datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale — up to millions of wet lab experiments weekly — and massive computational scale — owning and operating one of the most powerful supercomputers in the world, Recursion is uniting technology, biology, chemistry and patient-centric data to advance the future of medicine.
+
+Recursion is headquartered in Salt Lake City, where it is a founding member of BioHive, the Utah life sciences industry collective. Recursion also has offices in Toronto, Montréal and the San Francisco Bay Area. Learn more at www.Recursion.com, or connect on X (formerly Twitter) and LinkedIn.
+
+Media Contact
+
+Media@Recursion.com
+
+Investor Contact
+
+Investor@Recursion.com
+
+Recursion Pharmaceuticals, Inc.
+
+Condensed Consolidated Statements of Operations and Comprehensive Loss (unaudited)
+
+(in thousands, except share and per share amounts)
+
+Three months ended
+March 31,
+
+2024
+
+2023
+
+Revenue
+
+Operating revenue
+
+$
+
+13,491 
+
+$
+
+12,134 
+
+Grant revenue
+
+303 
+
+— 
+
+Total revenue
+
+13,794 
+
+12,134 
+
+Operating costs and expenses
+
+Cost of revenue
+
+11,166 
+
+12,448 
+
+Research and development
+
+67,560 
+
+46,677 
+
+General and administrative
+
+31,408 
+
+22,874 
+
+Total operating costs and expenses
+
+110,134 
+
+81,999 
+
+Loss from operations
+
+(96,340)
+
+(69,865)
+
+Other income, net
+
+4,188 
+
+4,538 
+
+Loss before income tax benefit
+
+$
+
+(92,152)
+
+$
+
+(65,327)
+
+Income tax benefit
+
+$
+
+779 
+
+$
+
+— 
+
+Net loss and comprehensive loss
+
+$
+
+(91,373)
+
+$
+
+(65,327)
+
+ 
+
+Per share data
+
+Net loss per share of Class A, B and Exchangeable common stock, basic and diluted
+
+$
+
+(0.39)
+
+$
+
+(0.35)
+
+Weighted-average shares (Class A, B and Exchangeable) outstanding, basic and diluted
+
+236,019,349 
+
+173,435,970 
+
+Recursion Pharmaceuticals, Inc.
+
+Condensed Consolidated Balance Sheets (unaudited)
+
+(in thousands)
+
+ 
+
+March 31,
+
+December 31,
+
+ 
+
+2024
+
+2023
+
+Assets
+
+ 
+
+ 
+
+Current assets
+
+ 
+
+ 
+
+Cash and cash equivalents
+
+$
+
+296,326 
+
+$
+
+391,565 
+
+Restricted cash
+
+3,195 
+
+3,231 
+
+Other receivables
+
+2,599 
+
+3,094 
+
+Other current assets
+
+41,495 
+
+40,247 
+
+Total current assets
+
+343,615 
+
+438,137 
+
+Restricted cash, non-current
+
+6,629 
+
+6,629 
+
+Property and equipment, net
+
+86,716 
+
+86,510 
+
+Operating lease right-of-use assets
+
+35,501 
+
+33,663 
+
+Intangible assets, net
+
+33,076 
+
+36,443 
+
+Goodwill
+
+52,056 
+
+52,056 
+
+Other assets, non-current
+
+254 
+
+261 
+
+Total assets
+
+$
+
+557,847 
+
+$
+
+653,699 
+
+Liabilities and stockholders’ equity
+
+Current liabilities
+
+Accounts payable
+
+$
+
+5,115 
+
+$
+
+3,953 
+
+Accrued expenses and other liabilities
+
+26,070 
+
+46,635 
+
+Unearned revenue
+
+36,618 
+
+36,426 
+
+Notes payable
+
+55 
+
+41 
+
+Operating lease liabilities
+
+6,062 
+
+6,116 
+
+Total current liabilities
+
+73,920 
+
+93,171 
+
+Unearned revenue, non-current
+
+37,391 
+
+51,238 
+
+Notes payable, non-current
+
+1,071 
+
+1,101 
+
+Operating lease liabilities, non-current
+
+43,786 
+
+43,414 
+
+Deferred tax liabilities
+
+528 
+
+1,339 
+
+Total liabilities
+
+156,696 
+
+190,263 
+
+Commitments and contingencies
+
+Stockholders’ equity
+
+Common stock (Class A, B and Exchangeable)
+
+2 
+
+2 
+
+Additional paid-in capital
+
+1,460,144 
+
+1,431,056 
+
+Accumulated deficit
+
+(1,058,995)
+
+(967,622)
+
+Total stockholders’ equity
+
+401,151 
+
+463,436 
+
+Total liabilities and stockholders’ equity
+
+$
+
+557,847 
+
+$
+
+653,699 
+
+Forward-Looking Statements
+
+This document contains information that includes or is based upon "forward-looking statements'' within the meaning of the Securities Litigation Reform Act of 1995, including, without limitation, those regarding expectations related to early and late stage discovery, preclinical, and clinical programs, including timelines for enrollment in studies, data readouts, and progression toward IND-enabling studies; developments with Recursion OS and other technologies, including construction of foundation models and augmentation of our dataset; developments of our transcriptomics technology, including the timing of development of a whole-genome knockout transcripts map; expectations and developments with respect to licenses and collaborations, including option exercises by partners and additional partnerships; expected ranking of our BioHive supercomputer on the TOP500 list; prospective products and their potential future indications and market opportunities; expectations for business and financial plans and performance, including cash runway; outcomes and benefits expected from the Helix partnership, including the development of causal AI models and biomarker and patient stratification strategies; Recursion’s plan to maintain a leadership position in data generation and aggregation; and all other statements that are not historical facts. Forward-looking statements may or may not include identifying words such as “plan,” “will,” “expect,” “anticipate,” “intend,” “believe,” “potential,” “could,” “continue,” and similar terms. These statements are subject to known or unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements, including but not limited to: challenges inherent in pharmaceutical research and development, including the timing and results of preclinical and clinical programs, where the risk of failure is high and failure can occur at any stage prior to or after regulatory approval due to lack of sufficient efficacy, safety considerations, or other factors; our ability to leverage and enhance our drug discovery platform; our ability to obtain financing for development activities and other corporate purposes; the success of our collaboration activities; our ability to obtain regulatory approval of, and ultimately commercialize, drug candidates; our ability to obtain, maintain, and enforce intellectual property protections; cyberattacks or other disruptions to our technology systems; our ability to attract, motivate, and retain key employees and manage our growth; inflation and other macroeconomic issues; and other risks and uncertainties such as those described under the heading “Risk Factors” in our filings with the U.S. Securities and Exchange Commission, including our most recent Quarterly Report on Form 10-Q and our Annual Report on Form 10-K for the Fiscal Year Ended December 31, 2023. All forward-looking statements are based on management’s current estimates, projections, and assumptions, and Recursion undertakes no obligation to correct or update any such statements, whether as a result of new information, future developments, or otherwise, except to the extent required by applicable law.

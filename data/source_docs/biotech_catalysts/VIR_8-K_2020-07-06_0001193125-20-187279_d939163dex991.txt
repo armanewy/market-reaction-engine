@@ -1,0 +1,377 @@
+EX-99.1
+2
+d939163dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+BUSINESS SUMMARY
+
+Business Summary
+
+Our mission is to create a world without infectious disease
+
+We are a clinical-stage immunology company focused on combining immunologic insights with cutting-edge technologies to treat and prevent
+serious infectious diseases. Infectious diseases are one of the leading causes of death worldwide and can cause trillions of dollars of direct and indirect economic burden each year – as evidenced by the current coronavirus disease 2019, or COVID-19, pandemic. We believe that now is the time to apply the recent and remarkable advances in immunology to combat infectious diseases. Our approach begins with identifying the limitations of the immune system
+in combating a particular pathogen, the vulnerabilities of that pathogen and the reasons why previous approaches have failed. We then bring to bear powerful technologies that we believe, individually or in combination, will lead to effective
+therapies.
+
+We have assembled four technology platforms, focused on antibodies, T cells, innate immunity and small interfering ribonucleic
+acid, or siRNA, through internal development, collaborations and acquisitions. Our current development pipeline consists of product candidates targeting severe acute respiratory syndrome coronavirus 2, or SARS-CoV-2, the virus that causes COVID-19, hepatitis B virus, or HBV, influenza A, human immunodeficiency virus, or HIV, and tuberculosis, or TB. For SARS-CoV-2, VIR-7831, a
+SARS-CoV-2- neutralizing monoclonal antibody, or mAb, is planned to start a Phase 2/3 clinical trial program in August 2020
+and we anticipate initial clinical data to be available before the end of the year. VIR-7832, a vaccinal
+SARS-CoV-2-neutralizing mAb, is planned to initiate a Phase 2 clinical trial later this year.
+VIR-2703, a SARS-CoV-2-targeting siRNA, is in preclinical studies. For HBV, VIR-2218, an HBV-targeting siRNA, is currently in an ongoing Phase 2 clinical trial. Initial Phase 2 data have demonstrated substantial, durable, and dose dependent reduction
+of hepatitis B virus surface antigen, or HBsAg, and VIR-2218 has been generally well-tolerated. We recently initiated a Phase 2 clinical trial to combine VIR-2218 with
+pegylated interferon-alpha, or PEG-IFN-α, an approved immune modulatory agent. In addition, we recently initiated a Phase 1 clinical trial for VIR-3434, an HBV-neutralizing mAb. For influenza A, VIR-2482, a mAb designed for the prevention of influenza A, is currently in a Phase
+1/2 clinical trial and has been generally well-tolerated. For HIV, VIR-1111, an HIV T cell vaccine based on HCMV, is planned to initiate a Phase 1 trial in the second half of this year. We have built an
+industry-leading team that has deep experience in immunology, infectious diseases and product development. Given the global impact of infectious diseases, we are committed to developing cost-effective treatments that can be delivered at scale.
+
+Our Technology Platforms
+
+Our four
+current technology platforms are designed to stimulate and enhance the immune system by exploiting critical observations of natural immune processes. We are using our platforms to advance our current product candidates and generate additional
+product candidates for multiple indications.
+
+ 
+
+1
+
+Antibody Platform: We have established a robust method for capitalizing on unusually
+successful immune responses naturally occurring in people who are protected from, or have recovered from, infectious diseases. We identify rare antibodies from survivors that have the potential to treat and prevent rapidly evolving and/or previously
+untreatable pathogens via direct pathogen neutralization and immune system stimulation. The fully-human antibodies that we discover may also be modified to enhance their therapeutic potential. We have applied these methods to identify mAbs for a
+range of pathogens including Ebola, HBV, influenza A and influenza B virus, SARS-CoV-2, RSV and malaria, and bacterial pathogens, including clostridium difficile, Staphylococcus aureus, Klebsiella pneumoniae, and Acinetobacter
+spp.
+
+T Cell Platform: We are exploiting the unique immunology of human cytomegalovirus, or HCMV, a commonly occurring virus in humans,
+as a vaccine vector to potentially treat and prevent infection by pathogens refractory to current vaccine technologies. This approach is based on fundamental observations made in non-human primates, or NHPs,
+with rhesus cytomegalovirus, or RhCMV. We believe that this platform may also have applicability beyond infectious diseases, to areas such as cancer.
+
+Innate Immunity Platform: Moving beyond more traditional approaches that are used to evoke adaptive immunity or that directly target pathogens,
+where the development of resistance can occur, we plan to target host proteins as a means of creating host-directed therapies with high barriers to resistance. We believe that by leveraging the power of innate immunity, we can create medicines that
+break the “one-drug-for-one-bug” paradigm to produce “one-drug-for-multiple-bugs.”
+
+siRNA Platform: We are harnessing the power of siRNA to inhibit pathogen replication, eliminate key host factors necessary for pathogen survival
+and remove microbial immune countermeasures. Our collaboration with Alnylam Pharmaceuticals, Inc., or Alnylam, includes VIR-2218 for HBV, VIR-2703 for SARS-CoV-2 and up to seven additional programs for infectious diseases.
+
+Our
+Development Pipeline
+
+Our current product candidates are summarized in the chart below:
+
+ 
+
+*
+
+VIR-1111 is a vaccine designed to establish proof of concept in Phase
+(Ph) 1 clinical trial to determine whether unique immune response observed in NHPs can be replicated in humans; ultimately, any candidates we advance as a potential HIV vaccine will require modifications to
+VIR-1111 before further clinical development.
+
+ 
+
+2
+
+SARS-CoV-2:
+The substantial impact of viral outbreaks and the need for global preparedness have been highlighted by the current COVID-19 pandemic. As of June 19, 2020, the virus had spread to 188 countries,
+there were over 8.5 million recorded infections and over 450,000 recorded deaths. We have moved rapidly to address this global health challenge. Our focus is on treating and preventing SARS-CoV-2, as well as potential future coronavirus outbreaks. To do so, we are taking multiple approaches: antibodies (VIR-7831 and
+VIR-7832), siRNA (VIR-2703), applying our innate immunity platform to identify cellular host genes necessary for virus replication, and vaccines. We anticipate that the
+initial registration populations for our product candidates will include those at high risk of contracting COVID-19 and those in need of treatment for COVID-19.
+
+VIR-7831 and VIR-7832 are SARS-CoV-2-neutralizing mAbs. For VIR-7831, we plan to submit an Investigational New Drug
+Application, or IND, and thereafter commence a Phase 2/3 clinical trial program in August 2020. VIR-7832 is planned to initiate a Phase 2 clinical trial later this year. Both VIR-7831 and VIR-7832 are based on a parent antibody, S309, which was derived from samples previously gathered for research on
+pan-coronavirus-neutralizing mAbs. S309 has demonstrated high affinity and avidity for the SARS-CoV-2 spike protein and the
+ability to potently neutralize SARS-CoV-2 in multiple live-virus cellular assays. S309 binds to an epitope on SARS-CoV-2 that is shared with SARS-CoV-1 (also commonly known as ‘SARS’), indicating that the epitope is highly
+conserved. We believe the conservation of this epitope will make it more difficult for escape mutants to develop and result in a high barrier to resistance. S309 also exhibits potent effector function in vitro, potentially allowing the engagement
+and recruitment of immune cells to kill off already infected cells. VIR-7831 and VIR-7832 have both been engineered with “LS” mutations within the Fc region of
+the mAbs, for the purpose of increasing lung tissue bioavailability and extending their half-life. VIR-7832 has been further engineered with “XX2” mutations in the Fc region of the mAb to potentially
+allow it to function as a T cell vaccine. We anticipate initial clinical data from our Phase 2/3 trial of VIR-7831 to be available before the end of the year.
+
+Our Phase 2/3 trial program for VIR-7831 will be comprised of the following:
+
+ 
+
+To accelerate the progress of VIR-7831 and VIR-7832, we have signed a number of collaboration agreements to aid in their manufacture and potential commercialization. Specifically, we are collaborating on clinical manufacturing with WuXi Biologics (Hong Kong)
+Limited, or WuXi, and Biogen Inc., or Biogen. We are collaborating on commercial manufacturing with WuXi and Samsung Biologics Co., Ltd., or Samsung, and we anticipate commercial supply of approximately 10-15 million doses in 2021, depending on
+titer, yield and dose amount. And we are collaborating on potential commercialization with WuXi for greater China and GlaxoSmithKline plc, or GSK, for all other countries. See the section titled “Recent SARS-CoV-2 Activities” for a description of these and other collaborations.
+
+VIR-2703 is an inhaled SARS-CoV-2-targeting siRNA for which we are conducting
+preclinical studies that are expected to be completed by the end of 2020. In vitro, VIR-2703 has demonstrated the ability to significantly reduce
+SARS-CoV-2 live virus replication. It is designed to degrade the viral genome, leading to inhibition of viral protein synthesis and blocking the production of infectious
+virus. It targets a nucleic acid sequence in the SARS-CoV-2 genome that is highly conserved amongst currently available viral sequences and is also conserved in SARS-CoV-1. VIR-2703 leverages Alnylam’s latest advances in lung delivery of siRNAs and is the first development candidate
+selected in our expanded collaboration with Alnylam for SARS-CoV-2 and other coronaviruses.
+
+ 
+
+3
+
+HBV: Approximately 290 million people globally are chronically infected with HBV and
+approximately 900,000 of them die from HBV-associated complications each year. There is a significant unmet medical need for more effective therapies that lead to life-long control of the virus after a finite
+duration of therapy, which is the definition of a functional cure. For a registrational trial to demonstrate a functional cure, the formal endpoint accepted by the U.S. Food and Drug Administration, or the FDA, is undetectable HBsAg, defined as less
+than 0.05 international units per milliliter, or IU/ml, as well as HBV DNA less than the lower limit of quantification, in the blood six months after the end of therapy.
+
+We are developing VIR-2218 and VIR-3434 for the functional
+cure of HBV. Each of these product candidates has the potential to stimulate an effective immune response and also has direct antiviral activity against HBV. We believe that a functional cure for HBV will require an effective immune response, in
+addition to antiviral activity, based on the observation that severe immunosuppression can reactivate HBV disease. While monotherapy with VIR-2218 and VIR-3434 may
+provide a functional cure in some patients, we believe combination therapy will be necessary for a functional cure in many patients. We are planning trials that combine VIR-2218 and VIR-3434, which we believe have the potential to act in concert by removing potentially tolerogenic HBV proteins and stimulating new HBV specific T cells. We also recently initiated a trial that combines VIR-2218 with PEG-IFN-α and are evaluating additional combinations with other immunotherapy agents and direct acting antiviral
+agents. We anticipate that the initial registration population for these product candidates will be patients chronically infected with HBV.
+
+VIR-2218 is a subcutaneously administered
+HBV-targeting siRNA that is currently in a Phase 2 clinical trial. By targeting a conserved region of the HBV genome, it is designed to inhibit the production of all HBV proteins: X, polymerase, S, and
+core. Suppression of HBV proteins, particularly HBsAg, is hypothesized to remove the inhibition of T cell and B cell activity directed against HBV, allowing VIR-2218 to potentially result in a
+functional cure. VIR-2218 was the first siRNA in the clinic to include Alnylam’s ESC+ technology, which has the potential to enhance the therapeutic index. In total, 37 healthy volunteers have received VIR-2218 and 12 healthy volunteers have received placebo. In addition, 24 patients with chronic HBV on nucleotide/nucleoside reverse transcriptase inhibitors, or NRTIs, have received VIR-2218, and eight patients with chronic HBV on NRTIs have received placebo. The data suggest that VIR-2218 is generally well-tolerated in healthy volunteers given as a
+single dose up to 900 mg and in patients given as two doses of 20 mg, 50 mg, 100 mg or 200 mg each dose. The data also demonstrate substantial, dose dependent reductions in HBsAg in patients at doses ranging from 20 mg
+to 200 mg, which are durable at the higher doses for at least six months. We recently initiated a Phase 2 combination trial of VIR-2218 and PEG-IFN-α, and
+anticipate initial clinical data to be available in 2021.
+
+The trial design for the Phase 2 combination trial of VIR-2218 and
+PEG-IFN-α is shown below:
+
+ 
+
+4
+
+VIR-3434 is a subcutaneously
+administered HBV-neutralizing mAb currently in a Phase 1 clinical trial. By targeting a conserved region of HBsAg, it is designed to block entry of all 10 genotypes of HBV into liver cells called hepatocytes
+and reduce the level of virions and subviral particles in the blood. We have also engineered VIR-3434 to have an extended half-life and to potentially function as a therapeutic T cell vaccine for chronic HBV
+infection. These modifications are intended to enhance its potential to result in an HBV functional cure. We anticipate clinical data from our Phase 1 trial will enable us to initiate a Phase 2 clinical trial of
+VIR-3434 in combination with VIR-2218 in 2021.
+
+Influenza: On average, each year the influenza virus infects 5% to 10% of the world’s population and results in an estimated 500,000
+deaths. In the 2017-2018 flu season, it is now estimated that 61,000 people died from influenza in the United States alone. Influenza vaccines have historically had limited success, with an average efficacy of 40%. This limited efficacy results from
+incomplete coverage against seasonal strains and the lack of an effective immune response in many individuals after receiving the vaccine. We are developing VIR-2482 as a universal prophylactic for influenza A
+and have designed it to overcome both limitations of flu vaccines, which we believe will lead to meaningfully higher levels of protection. We anticipate that the initial registration population for VIR-2482
+will be individuals at high risk of influenza A complications, such as the elderly with chronic lung disease or congestive heart failure.
+
+VIR-2482 is an intramuscularly administered influenza
+A-neutralizing mAb currently in a Phase 1/2 clinical trial. In vitro, VIR-2482 has been shown to cover all major strains of influenza A that have arisen since the
+1918 Spanish flu pandemic. We believe that VIR-2482 has the potential to provide superior protection to flu vaccines and be able to be used year after year because it has broad strain coverage as opposed to
+the limited strain coverage generated by vaccines. We also believe that it provides passive immunity rather than relying on a person to generate active immunity via a functional immune response, an ability that is known to decline with age. VIR-2482 has been engineered to increase lung tissue bioavailability and to extend its half-life so that a single intramuscular dose has the potential to last the entire flu season, which is typically five to six
+months long. VIR-2482 is estimated to have a half-life of 58 days based on preliminary data. VIR-2482 has been generally well-tolerated in the approximately 100 healthy volunteers dosed in the Phase 1
+portion of the clinical trial. We anticipate initiating the Phase 2 portion of the clinical trial in the northern hemisphere in the fourth quarter of 2020, followed by a second northern hemisphere season if necessary. Data from an interim analysis
+of the first flu season of the Phase 2 clinical trial are anticipated to be available in the first half of 2021.
+
+HIV: Each year there are
+approximately 1.8 million new cases of HIV and approximately 1.0 million HIV-related deaths globally. Current prevention approaches such as behavioral modification and pharmacological intervention
+have had only a modest effect on HIV transmission globally, leaving a high unmet medical need for a safe and effective vaccine for the billions of individuals who are or may become sexually active. VIR-1111 is
+a proof of concept HIV vaccine designed to elicit a type of immune response that is different from other vaccines. We anticipate the initial registration population for our eventual HIV vaccine will be individuals at high risk of contracting HIV.
+
+VIR-1111 is a subcutaneously administered HIV T cell vaccine based on HCMV for
+which we plan to submit an IND in the second half of 2020 and thereafter commence a Phase 1 clinical trial. VIR-1111 has been designed to elicit T cells that recognize HIV epitopes that are different from
+those recognized by prior HIV vaccines and to stimulate a different and specific type of T cell immune response to HIV, known as an HLA-E restricted immune response. An
+HLA-E restricted immune response has been shown to be associated with protection of NHPs from simian immunodeficiency virus, or SIV, the NHP equivalent of HIV. VIR-1111
+is a vaccine designed solely to establish proof of concept in a Phase 1 clinical trial to determine whether the unique immune response observed in NHPs can be replicated in humans.
+
+ 
+
+5
+
+TB: Globally, nearly two billion people are latently infected with TB, and each year there are
+approximately 10 million new active cases of TB and approximately 1.6 million TB-related deaths. There is a high unmet medical need for a safe and effective vaccine that prevents active pulmonary TB
+in adolescents and adults, as they represent the key sources of TB transmission and are the primary contributors to overall disease burden. VIR-2020 is a vaccine designed to provide a type of immune
+response that is different from other vaccines and lead to meaningful levels of protection from active TB. We anticipate that the initial registration population for VIR-2020 will be people at high risk of
+developing active TB, such as those who have latent TB infection.
+
+VIR-2020 is a
+subcutaneously administered TB T cell vaccine based on HCMV for which we plan to submit an IND in 2023 and thereafter commence a Phase 1 clinical trial. VIR-2020 is designed to stimulate T cells that reside in
+the lung and to recognize TB epitopes that are different from those recognized by prior TB vaccines. In preclinical studies, a T cell vaccine based on RhCMV has been shown to provide protection of NHPs from TB.
+
+Recent SARS-CoV-2 Activities
+
+Since February 2020, we have entered into a number of collaboration agreements to accelerate the development, manufacture, and potential
+commercialization of therapies to treat and prevent SARS-CoV-2 and other coronaviruses. We have also made substantial efforts to protect our intellectual property in
+this area, as evidenced by our recent expansion of our patent portfolio.
+
+Development and Commercialization
+
+GSK Collaboration Agreement
+
+In June 2020,
+we entered into a definitive collaboration agreement with Glaxo Wellcome UK Limited and Beecham S.A. of GSK (and collectively referred to as GSK), pursuant to which we agreed to collaborate to research, develop and commercialize products for the
+prevention, treatment and prophylaxis of diseases caused by SARS-CoV-2 and potentially other coronaviruses. The collaboration is focused on the development and
+commercialization of three types of collaboration products under three programs: (1) antibodies targeting SARS-CoV-2, and potentially other coronaviruses, or the
+Antibody Program; (2) vaccines targeting SARS-CoV-2, and potentially other coronaviruses, or the Vaccine Program, and (3) products based on genome-wide CRISPR
+screening of host targets expressed in connection with exposure to SARS-CoV-2, or the Functional Genomics Program. The initial antibodies under the Antibody Program will
+be VIR-7831 and VIR-7832, which have demonstrated high affinity for the SARS-CoV-2 spike
+protein and are highly potent in neutralizing SARS-CoV-2 in live-virus cellular assays.
+
+We are primarily responsible for the development and clinical manufacturing activities for the Antibody Program, and for conducting the
+initial development activities directed to a vaccine in the Vaccine Program. GSK will be primarily responsible for the commercialization activities for the Antibody Program (except in connection with sales of antibody products licensed to WuXi in
+greater China), the later-stage development, manufacturing and commercialization activities for the Vaccine Program and the development, manufacturing and commercialization activities for the Functional Genomics Program. We and GSK are required to
+use commercially reasonable efforts to conduct the activities assigned to each party under each development plan and to seek and obtain regulatory approval for collaboration products that arise from such activities in the United States and specified
+major markets. Subject to an opt-out mechanism, we and GSK will share all development costs, manufacturing costs and costs and expenses for the commercialization of the collaboration products, with us bearing
+72.5% of such costs for the antibody products, 27.5% of such costs for the vaccine products, and we and GSK sharing equally all such costs for the functional genomics products, and all profits will be shared in the same ratios. If we and GSK elect
+to conduct a technology transfer of manufacturing technology under our agreements with WuXi (as further described below) and Biogen, we will bear 72.5% of the costs related to such
+
+ 
+
+6
+
+manufacturing technology transfer and for commercial manufacturing of the antibody products under such agreements with WuXi and Biogen, and GSK will bear 27.5% of such costs. The parties will
+also share the committed costs for the reservation of manufacturing capacity for the drug substance for antibody products in the foregoing ratio under our agreement with Samsung as well as such costs relating to committed manufacturing capacity for
+antibody products as are approved by the joint steering committee from time to time.
+
+On an antibody product-by-antibody product basis, we have a co-promotion right with respect to such antibody product in the United States, pursuant to which we will have the right to
+perform up to 20% of details in connection with such antibody product. GSK will lead commercialization and book all sales and is required to use commercially reasonable efforts to commercialize each collaboration product following regulatory
+approval in the United States and specified major markets. This definitive agreement superseded and replaced the April 2020 preliminary agreement with GSK. In connection with the GSK collaboration, we also entered into a stock purchase agreement in
+April 2020, pursuant to which we issued 6,626,027 shares of our common stock to an affiliate of GSK at a price per share of $37.73, for an aggregate purchase price of approximately $250.0 million.
+
+Expansion of Alnylam Collaboration and License Agreement
+
+In March and April 2020, we entered into two further amendments to our collaboration and license agreement with Alnylam, dated October 16,
+2017, to expand our existing collaboration of five infectious disease targets to nine, including one targeting SARS-CoV-2 and potentially other coronaviruses, and up to three targeting human host factors for SARS-CoV-2.
+
+Pursuant to both recent amendments, we and Alnylam will each be responsible for pre-clinical
+development costs incurred by such party in performing its allocated responsibilities under an agreed-upon initial pre-clinical development plan for each of the four new targets. We and Alnylam will equally
+share costs incurred in connection with the manufacture of non-GMP drug product required for pre-clinical development prior to filing of an IND. Following the completion
+of initial pre-clinical development activities, if we exercise our option to progress one or more candidates arising from the coronavirus program into further development, we will be responsible for conducting
+all development, manufacturing and commercialization activities at our sole expense, subject to Alnylam’s right to opt-in, during a specified period, to share equally with us the profits and losses in
+connection with development and commercialization of a coronavirus product.
+
+Manufacturing
+
+Consistent with our corporate manufacturing strategy of building internal capabilities in chemistry, manufacturing and control, or CMC, and
+working with contract development and manufacturing organizations, or CDMOs, to supply clinical and commercial batches of our product candidates, we have entered into the following agreements to date in support of our
+SARS-CoV-2 program:
+
+WuXi Manufacturing Agreements
+
+In February 2020, we entered into a development and manufacturing collaboration agreement with WuXi, for the clinical development,
+manufacturing, and commercialization of our proprietary antibodies developed for SARS-CoV-2. Under the agreement, WuXi will conduct cell-line development, process and
+formulation development, and initial manufacturing for clinical development. WuXi will have the right to commercialize products incorporating such antibodies in greater China pursuant to an exclusive license granted for the selected antibodies that
+have been developed. We will have the right to commercialize such products in all other markets worldwide.
+
+ 
+
+7
+
+WuXi will perform mutually agreed development and manufacturing activities, under individual
+statements of work. In addition, the parties agreed that WuXi will pay us tiered royalties at percentages ranging from the high single-digits to mid-teens on annual net sales of all products sold by WuXi in
+greater China.
+
+On June 15, 2020, we entered into a binding letter of intent with WuXi, pursuant to which WuXi will perform certain
+development and manufacturing services for our SARS-CoV-2 antibody program. Under the terms of the letter of intent, we have committed to purchase a firm and binding
+capacity reservation for the manufacture of a specified number of batches of drug substance of our SARS-CoV-2 antibody in 2020 and 2021. In addition, we have the right
+to order an additional specified number of batches of drug substance, provided we make such election by a specified date in the fourth calendar quarter in 2020. WuXi is obligated to reserve such manufacturing slots on a non-cancellable basis, and will manufacture the agreed number of batches of drug substance in accordance with an agreed manufacturing schedule. We are obligated to pay a total of approximately $130.0 million
+for such capacity reservation, if all batches are manufactured, inclusive of estimated raw material costs, with between 70% and 80% of the batch production fees owed to WuXi on a
+take-or-pay basis regardless of whether we utilize such manufacturing slots. The amounts will be payable during 2020 and 2021 and invoiced on a per-batch basis. The SARS-CoV-2 antibody drug substance contemplated to be manufactured in accordance with the terms of the letter of
+intent will be utilized in connection with progressing the development and commercialization of the SARS-CoV-2 antibody product under our collaboration with GSK.
+
+We and WuXi will continue to negotiate additional terms in a definitive commercial manufacturing and supply agreement and will use
+commercially reasonable efforts to execute such definitive agreement before July 30, 2020.
+
+We will bear 72.5% of the costs under the
+development and manufacturing collaboration agreement and letter of intent with WuXi and GSK will bear 27.5% of such costs pursuant to our collaboration agreement with GSK, subject to certain conditions and exceptions.
+
+Biogen Clinical Development and Manufacturing Agreement
+
+In May 2020, we entered into a clinical development and manufacturing agreement with Biogen pursuant to which Biogen will perform process
+development activities and specified manufacturing services under agreed statements of work for certain pre-commercial and clinical supply of our SARS-CoV-2 mAbs. We also agreed to collaborate with Biogen to develop highly productive clonal cell lines and clinical and commercial manufacturing processes for our SARS-CoV-2 mAbs. These processes are designed to be transferrable to global biomanufacturing facilities designed for advanced biologics production. Under the agreement, Biogen will conduct cGMP clinical
+manufacturing in the United States and provide technical support to facilitate process transfer to Samsung, and potentially other large-scale biomanufacturing facilities in the United States and other regions of the world to enable us to obtain
+reliable supply of a potential commercial product.
+
+Under the terms of the Biogen agreement, we have agreed to pay fees for Biogen’s
+performance of services as provided in each applicable statement of work, including costs to third parties on a pass-through basis. We entered into three statements of work with Biogen for the process development and certain clinical manufacturing
+services simultaneously with the execution of the agreement, with the cost of activities under such agreed statements of work totaling approximately $13.8 million.
+
+The Biogen agreement provides us the right to request a technology transfer of all manufacturing technology and processes developed under the
+agreement to us or any third party designated by us to conduct manufacturing of a SARS-CoV-2 antibody using such technology, including applicable licenses to
+us under Biogen’s relevant intellectual property rights. In connection with any such technology transfer, we have also agreed to pay an “access fee” to Biogen for each successful batch of SARS-CoV-2 antibody drug substance manufactured using
+
+ 
+
+8
+
+certain improvements relating to increases in batch yield developed under the agreement, whether such manufacturing is performed by us, our affiliates, or third parties. If we successfully
+manufacture all batches of SARS-CoV-2 antibody drug substance for which we are currently committed under the Samsung letter agreement, based on our current
+working assumptions of manufacturing yield per batch, the access fee payable to Biogen in connection with the Samsung manufacturing will total approximately $100.0 million.
+
+We will bear 72.5% of the costs under the Biogen agreement and GSK will bear 27.5% of such costs pursuant to our collaboration agreement with
+GSK, subject to certain conditions and exceptions.
+
+Samsung Manufacturing Agreement
+
+In April 2020, we entered into a binding letter agreement with Samsung pursuant to which Samsung will perform development and manufacturing
+services for our SARS-CoV-2 mAbs. Under the terms of the letter agreement, we have committed to purchase a firm and binding capacity reservation for a specified
+number of drug substance manufacturing slots in 2021 and 2022. Samsung will reserve such manufacturing slots on a non-cancellable, non-adjustable basis
+and will not offer such manufacturing slots under our capacity reservation to third parties. We are obligated to pay a total of approximately $362.0 million for such capacity reservation on a take-or-pay basis regardless of whether such manufacturing slots are utilized by us. The amounts will be payable during 2021 and 2022 and invoiced on
+a per-batch basis, with shortfalls invoiced at the end of the year in which such shortfall occurs. Samsung began performing services for us upon execution of the letter agreement, and we agreed to
+pay fees and out-of-pocket costs for the services performed thereunder. Samsung is expected to commence manufacturing on our behalf as early as October 2020
+with the first engineering run.
+
+We will bear 72.5% of the costs under the Samsung letter agreement and GSK will bear 27.5% of such costs
+pursuant to our collaboration agreement with GSK, subject to certain conditions and exceptions.
+
+We continue to negotiate a definitive
+agreement with Samsung, to expand upon the letter agreement, and agreed to use best efforts to execute such definitive agreement before July 31, 2020.
+
+Intellectual Property
+
+VIR-7831
+
+Our VIR-7831 intellectual property portfolio
+includes multiple United States provisional patent applications. These applications include composition of matter claims, pharmaceutical composition claims, and method of treatment claims. The 20-year term of
+any patents issuing from these provisional patent applications is presently estimated to expire in 2041, absent any available patent term adjustments or extensions.
+
+Licensed Patents
+
+Our VIR-7831 intellectual property portfolio also includes patents and patent applications that we have non- exclusively licensed from Xencor, Inc., or Xencor. As of
+February 15, 2020, these patents and applications include seven issued patents in the United States directed to composition of matter claims, methods of extending antibody serum half-life claims, pharmaceutical composition claims and process
+(methods of producing) claims. The 20-year term of these patents is presently estimated to expire between 2021 and 2025, absent any available patent term adjustments or extensions. Additionally, as of
+February 15, 2020, these patents and applications include 70 issued patents in Australia, Austria, Belgium, Canada, China, Croatia, Czech Republic, Estonia, Finland, France, Germany, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, South
+Korea, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Poland, Russia, Slovenia, Spain, Sweden, Switzerland, Turkey and the United Kingdom directed to composition of matter claims, pharmaceutical composition claims, method of
+
+ 
+
+9
+
+treatment claims, composition for use in treatment claims and process (methods of producing) claims. The 20-year term of these patents is presently
+estimated to expire between 2021 and 2028, absent any available patent term adjustments or extensions.
+
+The patents and applications we
+have non-exclusively licensed from Xencor also include, as of February 15, 2020, a pending patent application in the United States and five patent applications pending in Brazil, Canada, China, Europe and
+Russia directed to composition of matter claims, pharmaceutical composition claims, composition for use in treatment claims, and process (methods of producing) claims. The 20-year term of any patents issuing
+from these patent applications is presently estimated to expire between 2021 and 2028, absent any available patent term adjustments or extensions.
+
+VIR-7832
+
+Our VIR-7832 intellectual property portfolio
+includes multiple United States provisional patent applications. These applications include composition of matter claims, pharmaceutical composition claims, and method of treatment claims. The 20-year term of
+any patents issuing from these provisional patent applications is presently estimated to expire in 2041, absent any available patent term adjustments or extensions.
+
+Licensed Patents
+
+Our VIR-7832 intellectual property portfolio includes a patent family that we have exclusively licensed from Rockefeller, which includes, as of February 15, 2020, one pending patent application in the United
+States, one pending PCT patent application and one pending patent application in Europe. The applications in this family include composition of matter claims, pharmaceutical composition claims, method of treatment claims, composition for use in
+treatment claims and process (methods of producing) claims. The 20-year term of any patents issuing from the application in this family is presently estimated to expire in 2038, absent any available patent
+term adjustments or extensions.
+
+Our VIR-7832 intellectual property portfolio also includes
+patents and patent applications that we have non- exclusively licensed from Xencor. As of February 15, 2020, these patents and applications include seven issued patents in the United States directed to
+composition of matter claims, methods of extending antibody serum half-life claims, pharmaceutical composition claims and process (methods of producing) claims. The 20-year term of these patents is presently
+estimated to expire between 2021 and 2025, absent any available patent term adjustments or extensions. Additionally, as of February 15, 2020, these patents and applications include 70 issued patents in Australia, Austria, Belgium, Canada,
+China, Croatia, Czech Republic, Estonia, Finland, France, Germany, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, South Korea, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Poland, Russia, Slovenia, Spain, Sweden, Switzerland, Turkey
+and the United Kingdom directed to composition of matter claims, pharmaceutical composition claims, method of treatment claims, composition for use in treatment claims and process (methods of producing) claims. The
+20-year term of these patents is presently estimated to expire between 2021 and 2028, absent any available patent term adjustments or extensions.
+
+The patents and applications we have non-exclusively licensed from Xencor also include, as of
+February 15, 2020, a pending patent application in the United States and five patent applications pending in Brazil, Canada, China, Europe and Russia directed to composition of matter claims, pharmaceutical composition claims, composition for
+use in treatment claims, and process (methods of producing) claims. The 20-year term of any patents issuing from these patent applications is presently estimated to expire between 2021 and 2028, absent any
+available patent term adjustments or extensions.
+
+ 
+
+10
+
+VIR-2703
+
+Licensed Patents
+
+Our VIR-2703 intellectual property portfolio includes multiple United States provisional patent applications that we have exclusively licensed from Alnylam. These applications include composition of matter claims,
+pharmaceutical composition claims, and method of treatment claims. The 20-year term of any patents issuing from these provisional patent applications is presently estimated to expire in 2041, absent any
+available patent term adjustments or extensions.
+
+ 
+
+11

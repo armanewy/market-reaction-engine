@@ -1,0 +1,230 @@
+false000128189500012818952024-11-182024-11-18
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 18, 2024
+
+Rocket Pharmaceuticals, Inc.
+
+Rocket Pharmaceuticals, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-36829
+
+04-3475813
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+9 Cedarbrook Drive, Cranbury, NJ
+
+ 
+
+08512
+
+(Address of principal
+executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (646)
+440-9100
+
+Not applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Common stock, $0.01 par value
+
+ 
+
+RCKT
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+Attached as Exhibit 99.l to this Current Report on Form 8-K, and incorporated into this Item 7.01 by reference, is an investor presentation (the
+“Investor Presentation”) prepared by Rocket Pharmaceuticals, Inc. (the “Company”) providing certain updates on the Company’s Danon Disease Program, including certain long-term safety and efficacy results from the Phase 1 RP-A501 study for Danon
+Disease.
+
+The information in this Item 7.01, including Exhibit 99.1 is furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to liabilities under that section, and shall not be deemed to be incorporated by reference into the filings of the Company under the Securities Act of 1933, as amended, or
+the Exchange Act, regardless of any general incorporation language in such filings. This Current Report on Form 8-K will not be deemed an admission as to the materiality of any information contained in this Item 7.01, including Exhibit 99.1.
+
+Item 8.01.
+
+Other Events.
+
+Danon Disease Phase 1 RP-A501 Update
+
+On November 18, 2024, the Company presented long-term safety and efficacy results from the Phase 1 RP-A501 study which showed that RP-A501 was
+generally well tolerated and all evaluable Danon disease patients demonstrated LAMP2 protein expression at 12 months (sustained up to 60 months) and reduction of left
+ventricular (LV) mass index by ≥10% at 12 months (sustained up to 54 months) after treatment. These data were presented today at a Late-Breaking Scientific session at the
+American Heart Association (AHA) Scientific Sessions 2024, published in The New England
+Journal of Medicine (NEJM) and discussed on a company webinar today at 12:00 p.m. ET.
+
+The safety and preliminary efficacy of RP-A501 was evaluated in a single-arm, open-label, multi-center Phase 1 study in male patients with Danon
+disease. Five patients [pediatric (n=2) and adult/adolescent (n=3)] were treated with the low dose (6.7 x 1013 GC/kg), and 2 adult/adolescent patients were treated with the high dose (1.1 x 1014 GC/kg). Data from the Phase 1
+study (cut-off April 19, 2024) showed that RP-A501 in conjunction with a transient immunomodulatory regimen was generally well tolerated. Most adverse events (AEs) were mild or moderate in severity, assessed as not related to RP-A501, and
+non-serious. All RP-A501 or immunomodulatory regimen-related AEs were manageable or reversible. One patient had worsening heart failure at baseline (LVEF <40%) attributed to Danon disease and required heart transplantation for cardiomyopathy
+progression five months after receiving RP-A501.
+
+Evidence of sustained clinically meaningful improvement was observed in pediatric patients followed up to 24 months and adult/adolescent patients
+followed up to 60 months. All evaluable patients in the Phase 1 trial demonstrated:
+
+•
+
+Cardiac LAMP2 protein expression at 12 months and thereafter;
+
+•
+
+Reduction or stabilization of LV mass index – the median reduction from baseline to most recent visit of 24% (for the ongoing pivotal Phase 2 trial, a 10% reduction in LV mass
+index and positive protein expression of Grade 1 or more are co-primary endpoints);
+
+•
+
+Preservation of normal LV ejection fraction (LVEF);
+
+•
+
+Reduction or stabilization of cardiac biomarkers (median cTnI and NTproBNP reductions of 84% and 57%, respectively);
+
+•
+
+Improvement in New York Heart Association class from Class II at baseline to Class I at most recent follow-up visit; NYHA Class I reflects the absence of clinical signs of
+heart failure;
+
+•
+
+Improvements in Kansas City Cardiomyopathy Questionnaire quality-of-life (median improvement of 27 points) scores that persisted up to 54 months of follow-up; and
+
+•
+
+Preliminary long-term follow-up assessments for Patient 1001 were positive for immunohistochemical staining and appear to show Grade 3 expression in the heart at the five-year
+timepoint. These are preliminary results with a formal update to be presented at an upcoming medical conference in 2025.
+
+Pyruvate Kinase Deficiency Phase 2 RP-L301 Update
+
+As previously disclosed, the Company has reached agreement with the U.S. Food and Drug Administration on the study design of the Phase 2 pivotal trial
+for RP-L301, the Company’s ex vivo LV-based program targeting Pyruvate Kinase Deficiency, a monogenic red blood cell disorder resulting in increased red cell destruction and
+mild to life-threatening anemia (“Phase 2 RP-L301 Study”). While the Phase 2 RP-L301 Study is ready for patient enrollment, the Company is currently focusing its resources on its other programs and has not initiated enrollment in the Phase 2
+RP-L301 Study. The Company anticipates resuming patient enrollment in 2025.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Investor Presentation dated November 18, 2024.
+
+Exhibit 104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+Date: November 18, 2024
+
+Rocket Pharmaceuticals, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Gaurav Shah, MD
+
+ 
+
+Name:
+
+Gaurav Shah, MD
+
+ 
+
+Title:
+
+Chief Executive Officer and Director

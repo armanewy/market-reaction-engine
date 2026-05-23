@@ -1,0 +1,277 @@
+8-K
+
+false000106198300010619832022-10-022022-10-02
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 02, 2022
+
+ 
+
+ 
+
+Cytokinetics, Incorporated
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+000-50633
+
+94-3291317
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+350 Oyster Point Boulevard
+
+ 
+
+South San Francisco, California
+
+ 
+
+94080
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (650) 624-3000
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+CYTK
+
+ 
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On October 2, 2022, Cytokinetics, Incorporated (the "Company" or the "Registrant") announced new data on symptom improvement and quality of life related to treatment with aficamten in REDWOOD-HCM OLE (Randomized Evaluation of Dosing With CK-274 in Obstructive Outflow Disease in HCM Open Label Extension) in a Late Breaking Clinical Trials session at the Heart Failure Society of America (HFSA) Annual Scientific Meeting in Washington, D.C.
+
+ 
+
+Previously presented data from REDWOOD-HCM open label extension (OLE) showed that treatment with aficamtenwas associated with significant and sustained reductions in left ventricular outflow tract gradient (LVOT-G), improvements in New York Heart Association (NYHA) Functional Class and improvements in cardiac biomarkers.
+
+ 
+
+This new analysis evaluates patients’ self-reported health status using the Kansas City Cardiomyopathy Questionnaire (KCCQ) and compares baseline values to those collected at Week 12 and Week 24. The KCCQ is a validated patient reported outcomes tool1 used to evaluate heart failure symptoms and their impact on social and physical limitations as well as quality of life. Higher scores indicate better health status. As early as Week 12, patients experienced substantial and significant symptom improvements as measured by the change in their KCCQ scores. The KCCQ Overall Summary Score (KCCQ-OSS) and all KCCQ sub-domain scores demonstrated these improvements, improvements which were also noted to be sustained through Week 24. At 12 and 24 weeks, the change from baseline (mean [SD]) change in KCCQ-OSS was 16.5 [16.7] (p<0.0001) and 17.6 [24.7] (p=0.0015). The proportion of patients with clinically important improvements (improvement ≥5 points on the KCCQ-OSS) was 72.7% at Week 12 and 72.0% at Week 24, and 36.4% of patients at Week 12 and 40.0% at Week 24 reported a very large clinical improvement (≥20 points). (Figure 1)
+
+ 
+
+Figure 1
+
+ 
+
+ 
+
+ 
+
+Literature Synthesis Finds Patients with Worsening Heart Failure and LVEF ≤30% have Disproportionately High Risk of Heart Failure Hospitalization
+
+ 
+
+In patients with heart failure with reduced ejection fraction (HFrEF), previous work has identified that worsening heart failure (WHF) and lower left ventricular ejection fraction (LVEF) are risk factors for cardiovascular (CV) death and HF hospitalization. However, gaps remain in understanding the relative impact of these factors. A new analysis conducted in partnership with Yale University School of Medicine examined heart failure prevalence and rates of hospitalization. Reported statistics and U.S. 2020 Census data were used to estimate the prevalence of three groups of patients, including those with heart failure, those with HFrEF, and a third higher-risk subgroup of patients with heart failure with reduced ejection fraction with LVEF ≤30%. Among these groups, patients were defined as having worsening heart failure if they had a heart failure event within the prior 6-12 months. Approximately 882 per 100,000 patients in the U.S. were estimated to have HFrEF including 634 per 100,000 with LVEF ≤30%. Within the HFrEF subgroup, 168 per 100,000 patients had worsening heart failure, including 126 per 100,000 with LVEF ≤30% and worsening heart failure and (7% of all patients with heart failure). Rates of heart failure hospitalizations were then estimated using reported event rates. Among the 343 heart failure hospitalizations per 100,000, 263 (76.7%) were for patients with worsening heart failure, suggesting that patients with worsening heart failure have a disproportionately high risk of HF hospitalization. Furthermore, the higher-risk subgroup with both worsening heart failure and LVEF ≤30% comprised 7% of patients with heart failure, but accounted for 36% of all heart failure hospitalizations (p<0.0001), an excess risk of 516% relative to the average patient with heart failure. This suggests that there remains significant unmet medical need among people with worsening heart failure.
+
+ 
+
+About Aficamten
+
+ 
+
+Aficamten is an investigational selective, small molecule cardiac myosin inhibitor discovered following an extensive chemical optimization program that was conducted with careful attention to therapeutic index and pharmacokinetic properties and as may translate into next-in-class potential in clinical development. Aficamten was designed to reduce the number of active actin-myosin cross bridges during each cardiac cycle and consequently suppress the myocardial hypercontractility that is associated with hypertrophic cardiomyopathy (HCM). In preclinical models, aficamten reduced myocardial contractility by binding directly to cardiac myosin at a
+
+distinct and selective allosteric binding site, thereby preventing myosin from entering a force producing state. The development program for aficamten is assessing its potential as a treatment that improves exercise capacity and relieves symptoms in patients with HCM as well as its long-term effects on cardiac structure and function. Aficamten received Breakthrough Therapy Designation for the treatment of symptomatic obstructive HCM from the U.S. Food & Drug Administration (FDA).
+
+ 
+
+About Hypertrophic Cardiomyopathy
+
+ 
+
+Hypertrophic cardiomyopathy (HCM) is a disease in which the heart muscle (myocardium) becomes abnormally thick (hypertrophied). The thickening of cardiac muscle leads to the inside of the left ventricle becoming smaller and stiffer, and thus the ventricle becomes less able to relax and fill with blood. This ultimately limits the heart’s pumping function, resulting in symptoms including chest pain, dizziness, shortness of breath, or fainting during physical activity. A subset of patients with HCM are at high risk of progressive disease which can lead to atrial fibrillation, stroke and death due to arrhythmias. There are no FDA approved medical treatments that directly address the hypercontractility that underlies HCM.
+
+ 
+
+About Heart Failure
+
+ 
+
+Heart failure is a grievous condition that affects more than 64 million people worldwide2 about half of whom have reduced left ventricular function.3,4 It is the leading cause of hospitalization and readmission in people age 65 and older.5,6 Despite broad use of standard treatments and advances in care, the prognosis for patients with heart failure is poor.7 An estimated one in five people over the age of 40 are at risk of developing heart failure, and approximately 50 percent of people diagnosed with heart failure will die within five years of initial hospitalization.8,9 More than 2 million people in the U.S. are estimated to have an ejection fraction <30%, indicating they may have severe heart failure.10
+
+ 
+
+About Cytokinetics
+
+ 
+
+Cytokinetics is a late-stage biopharmaceutical company focused on discovering, developing and commercializing first-in-class muscle activators and next-in-class muscle inhibitors as potential treatments for debilitating diseases in which muscle performance is compromised. As a leader in muscle biology and the mechanics of muscle performance, the company is developing small molecule drug candidates specifically engineered to impact muscle function and contractility. Cytokinetics is readying for the potential commercialization of omecamtiv mecarbil, its cardiac muscle activator, following positive results from GALACTIC-HF, a large, international Phase 3 clinical trial in patients with heart failure. Cytokinetics is also developing aficamten, a next-generation cardiac myosin inhibitor, currently the subject of SEQUOIA-HCM, the Phase 3 clinical trial of aficamten in patients with symptomatic obstructive hypertrophic cardiomyopathy (HCM). Aficamten is also being evaluated in non-obstructive HCM in Cohort 4 of the Phase 2 clinical trial, REDWOOD-HCM. Cytokinetics is also developing reldesemtiv, an investigational fast skeletal muscle troponin activator, currently the subject of COURAGE-ALS, a Phase 3 clinical trial in patients with amyotrophic lateral sclerosis (ALS). Cytokinetics continues its over 20-year history of pioneering innovation in muscle biology and related pharmacology focused to diseases of muscle dysfunction and conditions of muscle weakness.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This press release contains forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995 (the "Act"). Cytokinetics disclaims any intent or obligation to update these forward-looking statements and claims the protection of the Act's Safe Harbor for forward-looking statements. Examples of such statements, express or implied, include, but are not limited to, statements relating to the REDWOOD-HCM OLE or SEQUOIA-HCM clinical trial and statements relating to the potential benefits of aficamten for patients with obstructive or non-obstructive HCM or that treatment of patients with aficamten will prevent hospitalization. Cytokinetics' research and development activities; the design, timing, results, significance and utility of preclinical and clinical results; and the properties and potential benefits of Cytokinetics' other drug candidates. Such statements are based on management's current expectations, but actual results may differ materially due to various risks and uncertainties, including, but not limited to, potential difficulties or delays in the development, testing, regulatory approvals for trial commencement, progression or product sale or manufacturing, or production of Cytokinetics' drug candidates that could slow or prevent clinical development or product approval; Cytokinetics' drug candidates may have adverse side effects or inadequate therapeutic efficacy; the FDA or foreign regulatory agencies may delay or limit Cytokinetics' ability to conduct clinical trials; Cytokinetics may be unable to obtain or maintain patent or trade secret protection for its intellectual property; standards of care may change, rendering Cytokinetics' drug candidates obsolete; and competitive products or alternative therapies may be developed by others for the treatment of indications Cytokinetics' drug candidates and potential drug candidates may target. For further information regarding these and other risks related to Cytokinetics' business, investors should consult Cytokinetics' filings with the Securities and Exchange Commission.
+
+ 
+
+ 
+
+1.
+Michael Nassif, Jennifer T Fine, Chantal Dolan, Matthew Reaney, Prithvi Addepalli,, Veleka D Allen, Amy J Sehnert, Kensey Gosch, John A Spertus. Validation of the Kansas City Cardiomyopathy Questionnaire in Symptomatic Obstructive Hypertrophic Cardiomyopathy. JACC Heart Fail. 2022 Aug;10(8):531-539.
+
+1.
+Psotka MA, Gottlieb SS, Francis GS et al. Cardiac Calcitropes, Myotropes, and Mitotropes. JACC. 2019; 73:2345-53.
+
+2.
+Planelles-Herrero VJ, Hartman JJ, Robert-Paganin J. et al. Mechanistic and structural basis for activation of cardiac myosin force production by omecamtiv mecarbil. Nat Commun. 2017;8:190.
+
+3.
+Shen YT, Malik FI, Zhao X, et al. Improvement of cardiac function by a cardiac myosin activator in conscious dogs with systolic heart failure. Circ Heart Fail. 2010; 3: 522-27.
+
+4.
+Malik FI, Hartman JJ, Elias KA, Morgan BP, Rodriguez H, Brejc K, Anderson RL, Sueoka SH, Lee KH, Finer JT, Sakowicz R. Cardiac myosin activation: a potential therapeutic approach for systolic heart failure. Science. 2011 Mar 18;331(6023):1439-43.
+
+5.
+James et al. GBD 2017 Disease and Injury Incidence and Prevalence Collaborators. Lancet 2018; 392: 1789–858.
+
+6.
+Yancy CW, Jessup M, Bozkurt B, et al. 2013 ACCF/AHA Guideline for the Management of Heart failure: A Report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation. 2013;128:e240-e327.
+
+7.
+Ponikowski P, Voors AA, Anker SD, et al. 2016 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. Eur Heart J. 2016;37:2129–2200.
+
+8.
+Roger VL. Epidemiology of Heart Failure. Circulation Research. 2013;113:646-659, originally published August 29, 2013. Doi: 10.1161/CIRCRESAHA.113.300268.
+
+9.
+Kilgore M, Patel HK, Kielhorn A et al. Economic burden of hospitalizations of Medicare beneficiaries with heart failure. Risk Manag Healthc Policy. 2017; 10: 63-70.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CYTOKINETICS, INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+October 2, 2022
+
+By:
+
+/s/ John Faurescu
+
+ 
+
+ 
+
+ 
+
+John Faurescu, Esq.
+
+Vice President, Assistant Secretary

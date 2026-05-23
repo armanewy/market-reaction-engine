@@ -1,0 +1,109 @@
+EX-99.3
+4
+d548890dex993.htm
+EX-99.3
+
+EX-99.3
+
+GTX-102 for Angelman Syndrome Phase
+1/2 Clinical Study Update © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary Exhibit 99.3
+
+GTX-102 for Angelman syndrome
+(AS)  Antisense oligonucleotide (ASO) activates UBE3A Confidential and Proprietary Devastating neurodevelopmental disorder Prevalence*: ~60,000 No approved treatments Phase 1/2: enrolling and dosing expansion cohorts Targeting highly
+conserved region across multiple species *Prevalence in commercially accessible geographies SNHG14 SNRPN SNORD64 SNORD109A SNURF SNORD107 SNORD116 SNORD115 SNORD109B UBE3A-AS UBE3A Cluster 2 GTX-102 E-3.1 E-3.2 E-3.3 E-3.4 E-3.5
+
+GTX-102 Phase 2 Update © 2023
+Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary Multiple domains improved in Loading and Maintenance Phase compared to natural history, where available Clinical changes associated with quantitative changes in EEG Extension cohorts and
+redosed patients have demonstrated clinically meaningful changes in quantitative scores and in emerging developmental gains as reported by caregivers
+
+© 2023 Ultragenyx Pharmaceutical
+Inc. | Confidential and Proprietary Key Angelman Syndrome Domain Evaluations Domains Evaluation Natural History Comparison1 Cognition Bayley-4 Yes Sleep Angelman Severity Assessment for Sleep (ASA) -- Receptive Communication Bayley-4 Yes Behavior
+ASA for Behavior -- Gross Motor Bayley-4 Yes Overall ASA for Overall -- 1: Not available for all endpoints and shown as representative comparisons
+
+Angelman Severity Assessment (ASA)
+Rating Scales © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary ASA rate the severity of the patient’s symptoms The ratings are: 1 – Not at all impaired 2 – Borderline, slightly impaired 3 – Mildly
+impaired 4 – Moderately impaired 5 – Markedly impaired 6 – Severely impaired 7 – Among the most severely impaired Most patients are between mildly and severely (3 and 6) impaired at baseline Each ASA domain rating scale is
+anchored to 6-8 questions specific to Angelman disease severity A decrease in score represents an improvement or lessening severity
+
+Confidential and Proprietary Interim
+Phase 2 Data on Extension Cohorts No additional events of lower extremity weakness or other safety signals Cohorts 4-7 Enrolled outside of the U.S. n=15 patients Loading doses from 3.3 - 7.5 mg  Maintenance from 10 - 14 mg 11 patients on
+therapy greater than 12 months, with the longest approaching 2 years
+
+Study Dosing Schematic for GTX-102
+Loading phase through Day 254 Month 1 … PMD2 PMD1 Month 4 Month 2 Month 3 Baseline Evaluation Day 58 Evaluation Day 128 Evaluation Day 254 Evaluation Dose 1 Dose 2 Dose 3 Dose 4 Dose 5 Dose 6 Monthly loading doses Maintenance dosing every 3
+months © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary PMD: Pre-maintenance Dose
+
+© 2023 Ultragenyx Pharmaceutical
+Inc. | Confidential and Proprietary Natural History as Comparator for GTX-102 Phase 2 Data Comparable to GTX-102 study population age and genotype 1Sadhwani et al., 2021; Keute et al., 2021; Gentile et al., 2010 2Linking Angelman and Dup15q Data for
+Expanded Research (LADDER) Data from the Angelman Natural History study2 is used as a comparator for the treatment effect size observed with GTX-1021 Bayley-4 Cognition, Receptive Communication, and Gross Motor scores were compared across GTX-102
+treated and natural history patients2 64 patients with deletion-type AS Ages 4 to 17 years At least 2 consecutive assessments
+
+Cognition by Bayley-4 Improved Rapidly
+Compared to Natural History GTX-102 treated patients showed positive response at Day 254 Natural history through Day 730 15 15 12 0 128 254 Day Patients -2 0 2 4 6 8 10 12 Bayley-4 Cognition GSV LS Mean (SE) -5 0 365 730 254 Patients 64 62 47
+Bayley-4 Cognition GSV LS Mean (SE) Day Response threshold of ≥5 based on Bayley-4 administration manual The estimated values are from a GEE model which includes all available data as the dependent variable and baseline age as a covariate,
+with exchangeable correlation structure -2 0 2 4 6 8 10 12 © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary
+
+Natural History EEG data shows
+pathologically increased relative delta power (den Bakker et al., 2018) Relative delta power reliably predicts cognitive function, as assessed by the Bayley (Ostrowski et al., 2021) EEG Showed Rapid Positive Change for Patients on GTX-102 Reduction
+in delta relative power while awake correlated with improvement in Bayley-4 Cognition scores © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary Wake Delta (1 to 4 Hz) **p < 0.005 **p < 0.05 60 56 52 48 44 0 1 128 254 Day
+Mean Relative Delta Power (%) Change in Relative Delta Power (%) Day 254 30 20 10 0 0 Change in Bayley-4 Cognition GSV at Day 254 10 20 30 R2 = 0.4741 GTX-102 Administration Patients 13 13 8
+
+Sleep by Angelman Severity
+Assessment (ASA) Scores Improved in Parallel with Increased Sleep Spindle Duration on EEG den Bakker H et al. (2018) Mol Autism 9: 32. Ostrowski LM et al. (2021). Ann Clin Transl Neurol 8(7): 1433-1445. ASA-Sleep improved for GTX-102 treated
+patients through Day 254 EEG showed increased sleep spindle duration through Day 254 15 0 15 128 14 170 12 254 Day Patients 0.84 0.82 0 Mean Seconds 0.80 0.78 0.76 0.74 0.72 0.70 0.68 1 128 254 Day GTX-102 Administration -1.6 -1.4 -1.2 -1.0 -0.8
+-0.6 -0.4 -0.2 0.0 0.2 11 11 8 Patients ASA Sleep LS Mean (SE) © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary
+
+GTX-102 Maintenance Phase
+Confidential and Proprietary
+
+Cognition by Bayley-4 Continued to
+Improve During Maintenance Phase GTX-102 treated patients showed positive response through Day 506 Patients 15 0 15 128 12 254 11 338 9 422 8 506* Day 25 20 15 10 5 0 -5 *Doses at D506 between 10mg and 14mg Bayley-4 Cognition GSV LS Mean (SE)
+Natural history through Day 730 Bayley-4 Cognition GSV LS Mean (SE) 0 365 730 Day 64 62 47 Patients 506 Response threshold of ≥5 based on Bayley-4 administration manual. The estimated values are from a GEE model which includes all available
+data as the dependent variable and baseline age as a covariate, with exchangeable correlation structure. 25 20 15 10 5 0 -5 © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary
+
+Receptive Communication by Bayley-4
+Showed Sustained Improvement During Maintenance Treated patients showed sustained improvements through Day 506 Natural history through Day 730 15 12 8 0 128 422 15 11 9 338 506 254 -2 0 2 4 6 8 10 12 Patients 0 365 730 Day 506 Bayley-4 Receptive
+Communication GSV LS Mean (SE) Bayley-4 Receptive Communication GSV LS Mean (SE) Day Response threshold of ≥6 based on Bayley-4 administration manual. The estimated values are from a GEE model which includes all available data as the dependent
+variable and baseline age as a covariate, with exchangeable correlation structure. 64 62 47 Patients -2 0 2 4 6 8 10 12 © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary
+
+Gross Motor by Bayley-4 Showed
+Continued Improvement Compared to Natural History Gross Motor Bayley-4 showed steady improvement through Day 506 Response threshold of ≥5 based on Bayley-4 administration manual. The estimated values are from a GEE model which includes all
+available data as the dependent variable and baseline age as a covariate, with exchangeable correlation structure. Natural history through Day 730 64 0 Patients 61 365 47 730 506 Day Bayley-4 Gross Motor GSV LS Mean (SE) Bayley-4 Gross Motor GSV LS
+Mean (SE) -1 0 1 2 3 4 6 9 5 7 8 2 3 4 6 9 5 7 8 Patients 15 14 12 11 9 8 128 254 338 422 506 Day 0 -1 0 1 © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary
+
+Sleep by ASA Show Continued
+Improvement During Maintenance The estimated values are from a GEE model which includes all available data as the dependent variable and baseline age as a covariate, with exchangeable correlation structure. Day Patients ASA-Sleep improved for
+patients treated with GTX-102 through Day 506 0.25 0.00 -0.25 -0.50 -0.75 -1.00 -1.25 -1.50 -1.75 ASA Sleep LS Mean (SE) 15 12 7 0 128 422 15 9 9 254 338 506 14 170 -2.00 © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and
+Proprietary
+
+Behavior by ASA Showed Continued
+Improvement During Maintenance 15 12 7 0 128 422 Day 15 9 9 254 338 506 Patients 14 170 The estimated values are from a GEE model which includes all available data as the dependent variable and baseline age as a covariate, with exchangeable
+correlation structure. ASA-Behavior severity decreased with GTX-102 through Day 506 1.0 0.5 0.0 -0.5 -1.0 -1.5 -2.0 ASA Behavior LS Mean (SE) © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary
+
+Multi-Domain Responder Index (MDRI)
+Captures Broad Clinical Benefit Across Five Domains in Patients Treated with GTX-102 Patient (n=11) ASA Sleep ASA Behavior Bayley-4 Receptive Comm   Bayley-4 Gross Motor   Bayley-4 Cognition Total  Net Responses* 1 1 0 1 0 3 1 2 3 2 7
+3 17 4 3 1 1 16 5 20 5 4 0 0 14 3 23 2 5 1 2 6 1 4 3 6 4 0 7 1 1 2 7 2 1 10 9 16 5 8 1 1 15 6 25 5 9 2 0 23 7 11 2 10 n/a  n/a 2 1 5 1 11 0 0 3 4 16 1 Decline Improvement Minimal Important Difference (MID) ASA-Sleep +/- 1 ASA-Behavior +/- 1
+Bayley-4 Receptive Communication +/- 6 Bayley-4 Gross Motor +/- 5 Bayley-4 Cognition +/- 5 ** P-value is from a sign test © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary Median Total Net Responses  +2 Net
+Responses ≠ 0 p** = 0.001 *Day 338
+
+© 2023 Ultragenyx
+Pharmaceutical Inc. | Confidential and Proprietary Quantitative Analysis of Multiple Domains Showed Meaningful Improvement Improvements far exceeding natural history Cognition Receptive Communication Gross Motor Supportive data from EEG delta power
+and sleep spindle Improvements in other important domains Sleep Behavior Powerful change in multiple domains as demonstrated by MDRI
+
+Emergence of New Developmental
+Skills Gained, Lost and Regained in Redosed Patients Patient A Patient B Patient C 103-004 Init dose Off-tx Re-dose Init dose Off-tx Re-dose Init dose Off-tx Re-dose Receptive Communication       Responds to name  No issue  
+  Follows 1-step directions       Follows 2-step or complex directions       Expressive Communication       Babbles/consonant sounds       Communicate wants or needs (gesture/device)
+      Identifies or requests object(s)       First word/approximation       Multiple words       Behavior       Alertness       Reduced hyperactivity  
+   No issue   Reduced disruptive behavior or irritability Reduced mouthing behavior     Data N/A   Sleep       Sleeping through the night No issue   No issue   Less frequent awakenings  
+    Fine Motor       Pincer grasp       Opening/closing doorknobs, lids       Gross motor       Throwing/catching a ball       Walking up stairs or reciprocal
+climbing       Reduced or eliminated falls     Data N/A   Swimming independently       Skill gained Key Skill lost Issue, but no change © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and
+Proprietary
+
+Interim Safety Evaluation including
+Extension and Expansion Cohorts Most Common Adverse Events Reported Phase 1/2 Patients (n=58) Vomiting (anesthesia related) 18 (31%) Pyrexia (Fever) 10 (17%) Nasopharyngitis 8 (14%) Coronavirus infection 6 (10%) Fall 5 (9%) Post-lumbar puncture
+syndrome 5 (9%) No patients with lower extremity weakness events since Nov 2022 No unexpected adverse events or safety concerns 3 patients discontinued treatment for non-serious adverse events © 2023 Ultragenyx Pharmaceutical Inc. |
+Confidential and Proprietary Safety data as of October 3, 2023 Patients have received up to 11 doses of GTX-102
+
+Next Steps Phase 2 Expansion Cohort
+Update © 2023 Ultragenyx Pharmaceutical Inc. | Confidential and Proprietary >30 patients enrolled across Cohorts A-E (Expansion Cohorts) 25 sites active across 8 countries Next data update planned for at least 20 patients with 6 months of
+data by 1H24 Expected FDA interactions in early 1Q24 to discuss Phase 3 endpoints No new lower extremity weakness

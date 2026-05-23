@@ -1,0 +1,225 @@
+8-K
+
+0001515673false00015156732024-05-302024-05-30
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 30, 2024
+
+ 
+
+ 
+
+Ultragenyx Pharmaceutical Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+001-36276
+
+27-2546083
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60 Leveroni Court
+
+ 
+
+Novato, California
+
+ 
+
+94949
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 415 483-8800
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+RARE
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Item 8.01 Other Events.
+
+On May 30, 2024, Ultragenyx Pharmaceutical Inc. (the “Company”) announced positive topline results from its Phase 3 GlucoGene study (NCT05139316) evaluating DTX401, an investigational gene therapy for the treatment of patients aged eight years and older with Glycogen Storage Disease Type Ia (“GSDIa”).
+
+ 
+
+The study achieved its primary endpoint, demonstrating that treatment with DTX401 resulted in a statistically significant and clinically meaningful reduction in daily cornstarch intake compared with placebo at Week 48. The mean percent reduction was 41.3% in the DTX401 group (n=20) compared with 10.3% in the placebo group (n=24) at Week 48 (p<0.0001). Across patients treated with DTX401, the mean reduction in cornstarch continued to decline over the 48-week period. In the treatment group, all patients achieved a reduction in cornstarch, with 68% achieving ≥30% reduction and 37% achieving ≥50% reduction compared to the placebo group, which achieved the same reductions in 13% and 4% of patients, respectively, at Week 48.
+
+ 
+
+The study also successfully met key secondary endpoints of reduction in the number of cornstarch doses per day and maintenance of glucose control at Week 48. Treatment with DTX401 resulted in a mean reduction of 1.1 cornstarch doses per day in the DTX401 treatment group compared with a mean reduction of 0.2 in the placebo group (p=0.0011). Patients in the DTX401 group also showed significant improvement in both frequency and quantity of nighttime cornstarch dosing compared with the placebo group. This blinded study established non-inferiority (p<0.0001) of glucose control between the study groups while the treatment group significantly reduced daily cornstarch intake.
+
+ 
+
+The Patient Global Impression of Change (“PGIC”) at Week 48 showed a median score of 2.0 (moderately improved) for the DTX401 treatment group and 1.0 (minimally improved) for the placebo group (p=0.132). Moderately or higher improved PGIC scores correlated with a ≥30% reduction in total daily cornstarch intake indicating that this is a clinically meaningful threshold for patients.
+
+ 
+
+The study demonstrated an acceptable and expected safety profile for DTX401 consistent with Phase 1/2 study results. Anticipated vector-induced hepatic effects were all non-serious and manageable with a prophylactic corticosteroid regimen. No AAV8 class effects of dorsal root ganglion toxicity or thrombotic microangiopathy were observed in the study through Week 48.
+
+Full 48 Week data from the Phase 3 study will be presented at a scientific conference later this year. These results will be discussed with regulatory authorities to support a marketing application in 2025.
+
+ 
+
+About the Phase 3 GlucoGene study
+
+ 
+
+The 48-week randomized, double-blind, placebo-controlled study treated 46 patients aged eight years and older with DTX401 (1.0 x 10^13 GC/kg dose measured by ddPCR) or placebo. There were 44 patients in the modified intention-to-treat (mITT) population with efficacy data within the Week 48 analysis period following treatment with DTX401 (n=20) or placebo (n=24). At Week 48, eligible patients crossed over and received the alternate treatment. After crossover, patients will be followed for an additional 96 weeks. After study completion, patients will be offered enrollment into a Disease Monitoring Program (DMP) where they will be followed for at least 10 years post-DTX401 infusion.
+
+ 
+
+Cautionary Note Regarding Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may be identified by the use of words such as, but not limited to, “anticipates,” “continue,” “will,” or other similar terms or expressions that concern the Company’s expectations, plans and intentions. Forward-looking statements include, without limitation, statements regarding the clinical benefit, tolerability and safety of DTX401 and the corresponding impact on patients, the timing for regulatory meetings and submission of marketing applications for DTX401. Such forward-looking statements involve substantial risks and uncertainties that could cause the Company’s clinical development programs, collaboration with third parties, future results, performance or achievements to differ significantly from those expressed or implied by the forward-looking statements. Such risks and uncertainties include, among others, the uncertainty of clinical drug development and
+
+unpredictability and lengthy process for obtaining regulatory approvals, the ability of the Company to successfully develop DTX401, the Company’s ability to achieve its projected development goals in its expected timeframes, the risk that results from earlier studies may not be predictive of future study results, risks related to adverse side effects, risks related to reliance on third party partners to conduct certain activities on the Company’s behalf, smaller than anticipated market opportunities for the Company’s products and product candidates, manufacturing risks, competition from other therapies or products, and other matters that could affect the sufficiency of existing cash, cash equivalents and short-term investments to fund operations, the Company’s future operating results and financial performance, the timing of clinical trial activities and reporting results from same, and the availability or commercial potential of the Company’s products and drug candidates. The Company undertakes no obligation to update or revise any forward-looking statements. For a further description of the risks and uncertainties that could cause actual results to differ from those expressed in these forward-looking statements, as well as risks relating to the business of the Company in general, see the Company's Annual Report on Form 10-K filed with the Securities and Exchange Commission (SEC) on February 21, 2024, and its subsequent periodic reports filed with the SEC.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+Description
+
+104
+
+The cover page from the Company’s Current Report on Form 8-K dated May 30, 2024 formatted in Inline XBRL.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Ultragenyx Pharmaceutical Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+May 30, 2024
+
+By:
+
+/s/ Howard Horn
+
+ 
+
+ 
+
+ 
+
+Howard Horn
+
+Executive Vice President, Chief Financial Officer, Corporate Strategy

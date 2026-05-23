@@ -1,0 +1,477 @@
+false
+0001710072
+
+0001710072
+
+2024-12-16
+2024-12-16
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+
+December 16, 2024
+
+ 
+
+Edgewise Therapeutics, Inc.
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+Delaware
+
+ 
+
+001-40236
+
+ 
+
+82-1725586
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+ 
+
+(IRS
+Employer
+
+Identification No.)
+
+ 
+
+1715
+38th St.
+
+Boulder,
+CO 80301
+
+(Address of principal executive offices) (Zip Code)
+
+ 
+
+(720)
+262-7002 
+
+(Registrant’s telephone number, including
+area code)
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed
+since last report.)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name
+of each exchange on which registered
+
+Common
+Stock, $0.0001 par value per share
+
+ 
+
+EWTX
+
+ 
+
+The
+Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company x
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+ 
+
+On December 16, 2024, Edgewise Therapeutics, Inc. (the “Company”)
+issued a press release announcing positive topline results from the Phase 2 CANYON trial of sevasemten in individuals with Becker muscular
+dystrophy. The press release is attached hereto as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein
+by reference.
+
+ 
+
+On
+December 16, 2024, the Company also posted a presentation to its Investor Relations website (https://investors.edgewisetx.com).
+A copy of the presentation is furnished as Exhibit 99.2 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+The information in this Item 7.01, including Exhibits 99.1 and 99.2
+attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended,
+or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities
+Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+On December 16, 2024, the Company announced positive topline results
+from the Phase 2 CANYON trial of sevasemten in individuals with Becker muscular dystrophy.
+
+ 
+
+Overview of CANYON and Clinical Results
+
+ 
+
+CANYON,
+the largest interventional Becker muscular dystrophy trial, is a Phase 2, double-blind, randomized, placebo-controlled study to
+investigate the effect of sevasemten on the safety, pharmacokinetics, biomarkers, and functional measures of participants (NCT05291091).
+The trial was not powered for the functional endpoints. Forty adults and 29 adolescents with Becker muscular dystrophy were enrolled.
+This study had a 4-week screening period, a 12-month treatment period, followed by a 4-week follow-up period. The adult participants were
+randomized to sevasemten or placebo in a 3:1 ratio. The adolescent participants were randomized in a 2:1 ratio to sevasemten or placebo
+and were assessed for safety and tolerability. The data analysis included the complete adult safety population of 40 individuals. There
+was a notable imbalance between adult participants in the sevasemten and placebo groups with the sevasemten group having more advanced
+disease at baseline based on all functional measures and MRI.
+
+ 
+
+Primary
+Endpoint: The primary endpoint to assess the efficacy of sevasemten compared to placebo was change from baseline in creatine
+kinase (“CK”) over the treatment period for adults. The results demonstrated a significant change from baseline in
+CK in the sevasemten-treated group (difference vs. placebo, 28% average decrease over months 6 through 12; p=0.02).
+
+ 
+
+Key
+Secondary Endpoint: The key secondary endpoint was the change from baseline in NSAA total score in adults at month 12. North
+Star Ambulatory Assessment (“NSAA”) is a scale commonly used to rate motor function. The between-group difference was
+1.1 points, favoring sevasemten; p=0.16 across all adult participants. NSAA remained stable over time in the sevasemten treatment group,
+similar to the observations in the ARCH study. Further, while the placebo group was small in number (n=12), NSAA declined similarly to
+that observed in previous natural history studies.1,2,3
+
+ 
+
+Other
+Secondary Endpoints: Plasma fast skeletal muscle troponin I (“TNNI2”) decreased 77% from baseline in the
+sevasemten-treated group compared to placebo, averaged over months 6 through 12 in adults; p<0.001.
+
+ 
+
+The 10-meter walk/run, 4-stair climb and 100-meter timed test showed
+trends towards improvement, compared to placebo. The Company continues to evaluate additional secondary and exploratory endpoints.
+
+ 
+
+Safety
+and Tolerability: Sevasemten was well-tolerated, and no new safety concerns were identified.
+
+ 
+
+ 
+
+ 
+
+ 
+
+CANYON
+Implications to GRAND CANYON: The functional observations from the CANYON study support that the GRAND CANYON pivotal cohort’s
+primary endpoint is powered at >95% to demonstrate a statistically significant NSAA difference at 18 months.
+
+ 
+
+References
+
+ 
+
+[1] Bello L, et al. Functional changes in Becker
+muscular dystrophy: implications for clinical trials in dystrophinopathies. Sci Rep. 2016;6:32439. doi:10.1038/srep32439.
+
+ 
+
+[2] van de Velde NM, et al. Selection approach
+to identify the optimal biomarker using quantitative muscle MRI and functional assessments in Becker muscular dystrophy. Neurology. 2021;97(5):e513-e522.
+doi: 10.1212/WNL.0000000000012233.
+
+ 
+
+[3] De Wel B, et al. Lessons for future clinical
+trials in adults with Becker muscular dystrophy: disease progression detected by muscle magnetic resonance imaging, clinical and patient-reported
+outcome measures. Eur J Neurol. 2024:e16282. doi:10.1111/ene.16282. Online ahead of print.
+
+ 
+
+Cautionary Note Regarding Forward-Looking Statements
+
+ 
+
+This Form 8-K contains forward-looking statements as that
+term is defined in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+Statements in this Form 8-K that are not purely historical are forward-looking statements. Such forward-looking statements
+include, among other things, statements regarding Edgewise’s cash runway; the potential of, and expectations regarding
+Edgewise’s expectations relating to its clinical trials and clinical development of sevasemten (EDG-5506), including
+statements regarding the number of individuals to be recruited, timing of completion of recruitment and over-enrollment of the GRAND
+CANYON trial; statements regarding the potential of, and expectations regarding, Edgewise’s product candidates and programs,
+including sevasemten and EDG-7500; statements regarding Edgewise’s milestones; statements regarding whether data from the
+GRAND CANYON trial could support a marketing application; statements regarding the Company’s plans to engage the FDA and
+European Medicines Agency; statements about sevasemten being the potential first treatment for Becker; statements about the
+submission of results of the CANYON trial for publication at a future medical congress; and statements by Edgewise’s chief
+executive officer and chief medical officer and Craig M. McDonald, M.D. Words such as “believes,”
+“anticipates,” “plans,” “expects,” “intends,” “will,”
+“goal,” “potential” and similar expressions are intended to identify forward-looking statements. The
+forward-looking statements contained herein are based upon Edgewise’s current expectations and involve assumptions that may
+never materialize or may prove to be incorrect. Actual results could differ materially from those projected in any forward-looking
+statements due to numerous risks and uncertainties, including but not limited to: risks associated with the process of discovering,
+developing and commercializing drugs that are safe and effective for use as human therapeutics and operating as an early clinical
+stage company, including the potential for Edgewise’s product candidates to cause serious adverse events; Edgewise’s
+ability to develop, initiate or complete clinical trials for, obtain approvals for and commercialize any of its product candidates;
+Edgewise’s ability to take advantage of potential benefits associated with designations granted by FDA and/or to maintain
+qualifications for applicable designations over time; the timing, progress and results of clinical trials for sevasemten and
+EDG-7500; Edgewise’s ability to enroll and maintain patients in clinical trials; Edgewise’s ability to raise any
+additional funding it will need to continue to pursue its business and product development plans; the timing, scope and likelihood
+of regulatory filings and approvals; the potential for any clinical trial results to differ from preclinical, interim, preliminary,
+topline or expected results, including that the primary endpoint of the GRAND CANYON trial (change from baseline in NSAA) will be
+met even though it was not met as a secondary endpoint in the CANYON trial; the potential that the outcome of preclinical testing
+and early clinical trials, including the results from the CANYON trial, may not be predictive of the success of later clinical
+trials, including that the trends from the CANYON trial will also be seen, and will be statistically significant, in the GRAND
+CANYON trial; Edgewise may gain further insights from its analysis of the CANYON trial results over time, including
+Edgewise’s ongoing evaluation of additional secondary and exploratory endpoints; Edgewise’s ability to develop a
+proprietary drug discovery platform to build a pipeline of product candidates; Edgewise’s manufacturing, commercialization and
+marketing capabilities and strategy; the size of the market opportunity for Edgewise’s product candidates; the loss of key
+scientific or management personnel; competition in the industry in which Edgewise operates; Edgewise’s reliance on third
+parties; Edgewise’s ability to obtain and maintain intellectual property protection for its product candidates; general
+economic and market conditions; and other risks. Information regarding the foregoing and additional risks may be found in the
+section entitled “Risk Factors” in documents that Edgewise files from time to time with the U.S. Securities and Exchange
+Commission. These forward-looking statements are made as of the date of this Form 8-K, and Edgewise assumes no obligation to
+update the forward-looking statements, or to update the reasons why actual results could differ from those projected in the
+forward-looking statements, except as required by law.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press
+Release, dated December 16, 2024.
+
+ 
+
+ 
+
+ 
+
+99.2
+
+ 
+
+Presentation, dated December 16, 2024.
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+Cover
+Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+EDGEWISE THERAPEUTICS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Behrad Derakhshan, Ph.D.
+
+ 
+
+ 
+
+Behrad Derakhshan, Ph.D.
+
+ 
+
+ 
+
+Chief Business Officer
+
+ 
+
+ 
+
+Date: December 16, 2024

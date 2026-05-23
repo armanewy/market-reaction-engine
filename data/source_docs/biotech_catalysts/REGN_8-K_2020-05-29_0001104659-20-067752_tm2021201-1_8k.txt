@@ -1,0 +1,500 @@
+0000872589
+false
+
+0000872589
+
+2020-05-24
+2020-05-25
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+ 
+
+May 29, 2020 (May 25, 2020)
+
+Date of
+Report (Date of earliest event reported)
+
+ 
+
+REGENERON PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified
+in its charter)
+
+ 
+
+Commission
+File Number 000-19034
+
+ 
+
+New York
+
+ 
+
+13-3444607
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(I.R.S.
+Employer
+
+Identification No.)
+
+ 
+
+777
+Old Saw Mill River Road
+
+Tarrytown, New York
+
+10591-6707
+
+(Address
+of principal executive offices, including zip code)
+
+ 
+
+(914) 847-7000
+
+(Registrant’s telephone number,
+including area code)
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨ Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨ Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨ Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨ Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name
+of Each Exchange
+
+on Which Registered
+
+Common Stock – par value $0.001 per share
+
+ 
+
+REGN
+
+ 
+
+Nasdaq Global Select Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+Underwriting Agreement
+
+ 
+
+On May 26, 2020,
+Regeneron Pharmaceuticals, Inc. (“Regeneron” or the “Company”) entered into an underwriting
+agreement (the “Underwriting Agreement”) with Sanofi (“Sanofi”), Aventisub LLC (“Aventisub,”
+and together with Sanofi, the “Selling Shareholders”), BofA Securities, Inc. (“BofA Securities”),
+and Goldman Sachs & Co. LLC (“Goldman Sachs”), with BofA Securities and Goldman Sachs acting as representatives
+of the several underwriters named therein (collectively, the “Underwriters”). Under the terms of the Underwriting
+Agreement, the Selling Shareholders agreed to sell to the Underwriters 11,831,496 shares (the “Initial Securities”)
+of common stock of the Company, par value $0.001 per share (“Common Stock”), and granted the Underwriters an
+overallotment option to purchase an additional 1,183,150 shares of Common Stock (the “Option Securities”),
+which option was exercised in full on May 28, 2020 (collectively, the “Secondary Offering”). The Secondary
+Offering with respect to the Initial Securities and the Option Securities closed on May 29, 2020.
+
+ 
+
+The Company and the
+Selling Shareholders have agreed to indemnify the Underwriters against certain liabilities, including certain liabilities under
+the Securities Act of 1933, as amended (the “Securities Act”), or the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”), or to contribute payments the Underwriters may be required to make because of any of
+those liabilities.
+
+ 
+
+The Secondary Offering
+is being conducted as a registered public offering pursuant to the Company’s registration statement filed with the Securities
+and Exchange Commission (the “SEC”) on Form S-3 (File No. 333-228352), and a prospectus supplement thereunder.
+A copy of the opinion of Wachtell, Lipton, Rosen & Katz relating to the validity of the issuance and sale of the shares of
+Common Stock in the Secondary Offering is filed as Exhibit 5.1 to this Current Report on Form 8-K.
+
+ 
+
+Stock Repurchase Agreement
+
+ 
+
+On May 25, 2020,
+the Company entered into a Stock Repurchase Agreement (the “Stock Repurchase Agreement”) with Sanofi, pursuant
+to which the Company agreed to repurchase an aggregate of approximately $5 billion of Common Stock from Sanofi at the price per
+share at which the shares of Common Stock would be sold to the public in the Secondary Offering, less the underwriting discount
+(the “Stock Repurchase”). The Company completed the Stock Repurchase of 9,806,805 shares of Common Stock on
+May 29, 2020.
+
+ 
+
+Amendment to Investor Agreement
+
+ 
+
+On May 25, 2020,
+the Company entered into an amendment (the “Investor Agreement Amendment”) to the Amended and Restated Investor
+Agreement, dated as of January 11, 2014, as amended, by and among Sanofi, Sanofi-Aventis US LLC, Aventisub, and the Company
+(the “Investor Agreement”). The Investor Agreement Amendment provides, among other things, that following the
+Secondary Offering and the Stock Repurchase, (1) the “standstill” provisions, which contractually prohibit Sanofi
+from seeking to directly or indirectly exert control of the Company, continue to apply pursuant to their terms; (2) Sanofi no
+longer has the right to designate an independent board member for the Company’s board of directors; (3) the voting commitments
+contained in the Investor Agreement continue to apply to the shares of Common Stock held by Sanofi and its affiliates following
+the Secondary Offering and the Stock Repurchase, for so long as such shares are held by them; (4) Sanofi and its affiliates no
+longer have registration rights with respect to the shares of Common Stock held by them as provided in the Investor Agreement;
+(5) the information rights and pre-emptive rights provided to Sanofi and its affiliates under the Investor Agreement no longer
+apply; and (6) the lock-up restrictions in the Investor Agreement continue to apply to the shares of Common Stock held by Sanofi
+and its affiliates following the Secondary Offering and the Stock Repurchase until December 20, 2020 (except those shares which
+may be used to satisfy certain funding obligations of Sanofi under the parties’ existing collaborations). The termination
+of Sanofi’s board designation right does not impact the term of the current Sanofi designee, N. Anthony Coles, M.D., or
+his nomination for election as a Class III director at the Company’s 2020 annual meeting of shareholders.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bridge Loan Facility
+
+ 
+
+On May 25, 2020,
+the Company entered into a credit agreement (the “Bridge Credit Agreement”) by and among the Company, as the
+borrower; Goldman Sachs Bank USA, as administrative agent, sole bookrunner, sole lead arranger, and a lender; and the other lenders
+party thereto from time to time.
+
+ 
+
+Pursuant to the Bridge
+Credit Agreement, the lenders have provided a $1.5 billion senior unsecured 364-day bridge loan facility (the “Bridge
+Facility”), which was funded in full on May 28, 2020. The Company paid, and may be required to pay certain other, customary
+fees in connection with the Bridge Facility. The proceeds of the loans under the Bridge Facility were used to finance, in part,
+the Stock Repurchase described above and to pay related fees, costs, and expenses. The loans under the Bridge Facility bear interest
+at a variable interest rate based on either the London Interbank Offered Rate or the alternate base rate, plus an applicable margin
+that varies with the Company’s debt rating and total leverage ratio.
+
+ 
+
+The Bridge Facility
+matures, and all amounts outstanding thereunder will become due and payable in full, on May 27, 2021. Amounts borrowed under the
+Bridge Facility may be prepaid at any time without premium or penalty. The Company will be required to prepay the loans under the
+Bridge Facility on a dollar-for-dollar basis by the net cash proceeds received by the Company and its subsidiaries from certain
+asset sales, debt issuances, and equity offerings, subject to certain exceptions set forth in the Bridge Credit Agreement. Amounts
+prepaid or repaid under the Bridge Facility may not be reborrowed. As of the date of this Current Report on Form 8-K, $1.5 billion
+principal amount of loans were outstanding under the Bridge Facility.
+
+ 
+
+The Bridge Credit
+Agreement contains financial and operating covenants, which are substantially similar to the covenants set forth in the Credit
+Agreement, dated as of December 14, 2018 (the “Revolving Credit Agreement”), by and among the Company, as a
+borrower and guarantor; certain subsidiaries of the Company party thereto as subsidiary borrowers; JPMorgan Chase Bank, N.A.,
+as administrative agent; and the lenders party thereto from time to time (except for such matters specifically relating to the
+Bridge Facility or the transactions contemplated thereby). The Company’s entry into the Revolving Credit Agreement was previously
+reported in its Current Report on Form 8-K filed with the SEC on December 17, 2018. Financial covenants include a maximum total
+leverage ratio and a minimum interest expense coverage ratio. Operating covenants include, among other things, limitations on
+(i) the incurrence of indebtedness by the Company’s subsidiaries, (ii) liens on assets of the Company and its subsidiaries,
+(iii) certain fundamental changes and the disposition of assets by the Company and its subsidiaries, (iv) entering into swap agreements,
+(v) entering into affiliate transactions, and (vi) the payment of dividends, distributions, and certain other restricted payments
+in respect of the capital stock of the Company and its subsidiaries (the “Restricted Payments Covenant”). Similar
+to the Revolving Credit Agreement, the Restricted Payments Covenant allows the Company, so long as no event of default exists
+or would arise therefrom, to make payments that would otherwise be restricted if at the time of the making of any such payment
+and immediately thereafter it meets a specified total leverage ratio requirement. The Bridge Credit Agreement contains other customary
+covenants, representations and warranties, and events of default.
+
+ 
+
+* * *
+
+ 
+
+Copies of the Underwriting
+Agreement, the Stock Repurchase Agreement, the Investor Agreement Amendment, and the Bridge Credit Agreement are filed as Exhibits
+1.1, 10.1, 10.2, and 10.3, respectively, to this Current Report on Form 8-K and incorporated herein by reference. The above descriptions
+of the Underwriting Agreement, the Stock Repurchase Agreement, the Investor Agreement Amendment, and the Bridge Credit Agreement
+are qualified in their entirety by reference to the full text of such agreements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+7.01. Regulation FD Disclosure.
+
+ 
+
+Following the Secondary
+Offering and the Stock Repurchase, Regeneron estimates its weighted average share count used for calculating GAAP and non-GAAP
+diluted net income per share for the second quarter of 2020 to be in the range of 116-118 million shares and 118-120 million shares,
+respectively. The difference between the GAAP and non-GAAP fully diluted share count used for calculating GAAP and non-GAAP net
+income per share, respectively, is due to the impact of unamortized share-based compensation expense.
+
+ 
+
+The information included
+in this Item 7.01 shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, nor shall such information
+be deemed incorporated by reference in any filing under the Securities Act, except as shall be expressly set forth by specific
+reference in such a filing.
+
+ 
+
+Item 9.01. Financial Statements and
+Exhibits.
+
+ 
+
+(d)       Exhibits.
+
+ 
+
+Number
+
+ 
+
+Description
+
+1.1
+
+ 
+
+Underwriting Agreement, dated as of May 26, 2020, by and among Regeneron Pharmaceuticals, Inc., Sanofi, Aventisub LLC, and BofA Securities, Inc. and Goldman Sachs & Co. LLC, as representatives of the other underwriters named therein 
+
+ 
+
+ 
+
+ 
+
+5.1
+
+ 
+
+Opinion of Wachtell, Lipton, Rosen & Katz
+
+ 
+
+ 
+
+ 
+
+10.1
+
+ 
+
+Stock
+Repurchase Agreement, dated as of May 25, 2020, by and between Regeneron Pharmaceuticals, Inc. and Sanofi
+
+ 
+
+ 
+
+ 
+
+10.2
+
+ 
+
+Amendment to the Amended and Restated Investor Agreement, dated as of May 25, 2020, by and among Regeneron Pharmaceuticals, Inc., Sanofi, Sanofi-Aventis US LLC, and Aventisub LLC
+
+ 
+
+ 
+
+ 
+
+10.3
+
+ 
+
+Credit Agreement, dated as of May 25, 2020, by and among Regeneron Pharmaceuticals, Inc., as borrower; Goldman Sachs Bank USA, as administrative agent, sole bookrunner, sole lead arranger, and a lender; and the other lenders party thereto from time to time
+
+ 
+
+ 
+
+ 
+
+23.1
+
+ 
+
+Consent of Wachtell, Lipton, Rosen & Katz (included in Exhibit 5.1)
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REGENERON PHARMACEUTICALS,
+INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:  May 29, 2020
+
+By:
+
+/s/ Joseph J. LaRosa
+
+ 
+
+ 
+
+Joseph J. LaRosa
+
+ 
+
+ 
+
+Executive Vice President, General Counsel and Secretary

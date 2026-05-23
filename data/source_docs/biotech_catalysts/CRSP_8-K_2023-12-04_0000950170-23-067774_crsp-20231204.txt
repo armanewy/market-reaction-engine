@@ -1,0 +1,233 @@
+8-K
+
+0001674416false00-000000000016744162023-12-042023-12-04
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 4, 2023
+
+ 
+
+ 
+
+CRISPR THERAPEUTICS AG
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Switzerland
+
+001-37923
+
+Not Applicable
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Baarerstrasse 14
+
+ 
+
+6300 Zug, Switzerland
+
+ 
+
+Not Applicable
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 41 (0)41 561 32 77
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Shares, nominal value CHF 0.03
+
+ 
+
+CRSP
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On December 4, 2023, CRISPR Therapeutics AG (the “Company”) announced an update on its immuno-oncology pipeline of CRISPR/Cas9 gene-edited allogeneic chimeric antigen receptor (“CAR”) T cell product candidates. The Company’s first-generation allogeneic CAR T candidates, CTX110 and CTX130, provided important proof of concept that allogeneic CAR T cells can produce durable remissions following a standard lymphodepletion regimen. Preliminary data from ongoing clinical trials of its next-generation candidates, CTX112 targeting CD19 and CTX131 targeting CD70, suggest that these candidates may improve upon that clinical profile. Emerging pharmacology data, including pharmacokinetics, indicate that the novel potency gene edits in CTX112 and CTX131 lead to significantly higher CAR T cell expansion and functional persistence in patients compared to the first-generation candidates. In addition, the next-generation candidates exhibit increased manufacturing robustness, with a higher and more consistent number of CAR T cells produced per batch. Based on these considerations, the Company is focusing on the development of CTX112 and CTX131 and will be transitioning patients treated with CTX110 and CTX130 to long-term follow-up where applicable.
+
+As previously disclosed by the Company, in December 2022, the Company presented data from Part A of the Phase 1/2 clinical trial of CTX110 that showed the potential for CTX110 to produce durable complete remissions in heavily pre-treated patients following a standard lymphodepletion regimen. In new data updated today, Part B of the trial demonstrated an increased 6-month complete response (“CR”) rate following the inclusion of consolidation dosing, as shown in the table below. The safety profile of CTX110 in Part B remained consistent with the positively differentiated safety profile observed in Part A.
+
+ 
+
+Part A
+
+Single dose with optional re-dosing at ≥DL3 (N=27)
+
+Part B
+
+Consolidation dosing at DL4 (N=31)
+
+ORR
+
+67%
+
+65%
+
+CR rate
+
+41%
+
+39%
+
+6-month CR rate
+
+19%
+
+23%
+
+CTX112 and CTX131 each incorporate two novel gene edits—knock-out of Regnase-1 and transforming growth factor-beta receptor type 2 (“TGFBR2”)—that have the potential to enhance CAR T potency and reduce CAR T exhaustion. Editing Regnase-1 removes an intrinsic “brake” on T cell function while editing TGFBR2 removes a key extrinsic “brake” on T cell anti-tumor activity. CRISPR Therapeutics identified this combination of edits through systematic screening of dozens of new and previously described genes. In preclinical studies, these edits synergistically improved potency approximately 10-fold compared to the first-generation candidates. Clinical trials are ongoing for CTX112 in B-cell malignancies and for CTX131 in solid tumors. The Company is producing CTX112 and CTX131 for clinical trials at its internal GMP manufacturing facility.
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CRISPR Therapeutics AG
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+ December 4, 2023
+
+By:
+
+/s/ Samarth Kulkarni
+
+ 
+
+ 
+
+ 
+
+Samarth Kulkarni, Ph.D.
+
+Chief Executive Officer

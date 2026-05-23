@@ -1,0 +1,225 @@
+8-K
+
+false 0001422143 0001422143 2022-12-10 2022-12-10
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 10, 2022
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37620
+
+ 
+
+61-1547851
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+12730 High Bluff Drive, Suite 400, San Diego, CA
+
+ 
+
+92130
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (858) 500-8800
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+KURA
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On December 10, 2022, Kura Oncology, Inc. (the “Company”) announced updated clinical data from KOMET-001, a Phase 1/2 trial of the Company’s potent and selective menin inhibitor, ziftomenib, that were presented at an oral presentation at the 2022 Annual Meeting of the American Society of Hematology.
+
+In the Phase 1a dose-escalation trial, ziftomenib demonstrated a wide therapeutic window and encouraging monotherapy activity in an all-comer population of 30 patients with relapsed/refractory acute myeloid leukemia (“AML”), including a complete remission (“CR”) with no evidence of minimal residual disease (“MRD”) in a nucleophosmin 1 (“NPM1”)-mutant patient with DNMT3A and Lysine K-specific Methyl Transferase 2A (“KMT2D”) co-mutations. The patient entered the trial having progressed through seven prior lines of therapy and remains on ziftomenib after two years.
+
+In order to inform an optimal Phase 2 dose and in consultation with the U.S. Food and Drug Administration (“FDA”) and its Project Optimus initiative, the Company conducted a Phase 1b trial with two randomized expansion cohorts, each comprised of NPM1-mutant and KMT2A-rearranged AML patients. A total of 53 patients were ultimately treated in the Phase 1b trial: 17 at 200 mg and 36 at 600 mg. These patients were heavily pretreated and received a median of three prior lines of therapy (range 1-11), with the majority of patients having received prior venetoclax and a quarter having progressed after at least one prior stem cell transplant. As of the data cutoff on October 24, 2022, 10 of the patients treated at 600 mg remained on ziftomenib and 17 were still in follow-up. Median duration of response has not been reached.
+
+Ziftomenib demonstrated optimal clinical benefit at 600 mg with a 30% CR rate (6/20) in patients with NPM1-mutant AML, compared to 17% (1/6) at 200 mg. Notably, four of the six NPM1-mutant patients who achieved a CR at 600 mg had IDH and/or FLT3 co-mutations. Overall, four of the seven patients with IDH co-mutations achieved a CR on ziftomenib. Of the five patients assessed for MRD at 600 mg, three were MRD negative.
+
+Although meaningful clinical benefit was observed in patients with KMT2A rearrangements, symptoms of differentiation syndrome prevented most patients from receiving sufficient therapy to attain response criteria for CR or CR with partial hematologic recovery (“CRh”), and only one patient achieved a CR/CRh.
+
+Continuous daily dosing of ziftomenib has been well tolerated. Reported adverse events most often were consistent with features of underlying disease. No evidence of drug-induced QTc prolongation was observed. Six patients discontinued due to adverse events; however, none of these were considered treatment related. The most common treatment-emergent adverse event observed was differentiation syndrome (“DS”), a known adverse event related to AML treatments that promote differentiation of AML cells. Of the 20 NPM1-mutant patients treated at 600 mg, four (20%) experienced DS; three of these events were less than Grade 3, and only one of these events (5%) was Grade 3. For KMT2A-rearranged patients, rates of DS were similar across doses, and approximately 38% of patients experienced DS; 25-30% of treated KMT2A-rearranged patients experienced Grade 3 or greater events.
+
+The Company believes the higher incidence of DS observed in the KMT2A-rearranged patients is due to their much higher incidence of disease in extramedullary (outside of the bone marrow) sites, induced to differentiate by the high tissue penetrance demonstrated by ziftomenib preclinically. By combining ziftomenib with appropriate standards of care, the Company believes it can reduce this extramedullary disease burden and consequent DS symptoms, keep patients on ziftomenib therapy longer and drive superior treatment outcomes in patients with KMT2A-rearranged AML.
+
+The Company also announced that 600 mg has been determined as the recommended Phase 2 dose for ziftomenib in NPM1-mutant AML following a positive Type C meeting with the FDA. Agreement was also reached on key elements of a registration-enabling study design, and the Company is now preparing to initiate the Phase 2 registration-directed trial. The Company expects to dose the first patient in the first quarter of 2023, followed by a series of combination studies in frontline and relapsed/refractory AML that will prioritize development with venetoclax and FLT3 in combination.
+
+Forward-Looking Statements
+
+Statements contained in this Current Report on Form 8-K regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements, including, but not limited to, statements regarding, among other things, the efficacy, safety and therapeutic potential of ziftomenib, potential benefits of combining ziftomenib with appropriate standards of care, and progress and expected timing of the ziftomenib program and clinical trials.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. Risks that contribute to the uncertain nature of the forward-looking statements include: the risk that compounds that appeared promising in early research or clinical trials do not demonstrate safety and/or efficacy in later preclinical studies or clinical trials, the risk that the Company may not obtain approval to market its product candidates, uncertainties associated with performing clinical trials, regulatory filings, applications and other interactions with regulatory bodies, risks associated with reliance on third parties to successfully conduct clinical trials, the risks associated with reliance on outside financing to meet capital requirements, and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs, as well as those risks and uncertainties set forth more fully under the caption “Risk Factors” in the Company’s most recent Annual Report on Form 10-K, as filed with the Securities and Exchange Commission (“SEC”) on February 24, 2022 and its quarterly report on Form 10-Q for the quarter ended September 30, 2022 filed with the SEC on November 3, 2022, as well as discussions of potential risks, uncertainties and other important factors in the Company’s other filings and reports with the SEC. All forward-looking statements contained in this Current Report on Form 8-K speak only as of the date on which they were made. The Company undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+KURA ONCOLOGY, INC.
+
+Date: December 12, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Teresa Bair
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer

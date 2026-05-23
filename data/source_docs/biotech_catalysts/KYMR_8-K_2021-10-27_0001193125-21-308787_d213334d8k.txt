@@ -1,0 +1,497 @@
+8-K
+
+false 0001815442 0001815442 2021-10-27 2021-10-27
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 27, 2021
+
+ 
+
+ 
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39460
+
+ 
+
+81-2992166
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Kymera Therapeutics, Inc.
+
+200 Arsenal Yards Blvd., Suite 230
+
+Watertown, Massachusetts 02472
+
+(Address of principal executive offices, including zip code)
+
+(857) 285-5300
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+KYMR
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On October 27, 2021, Kymera Therapeutics, Inc. (the “Company”) issued a press release, a copy of which is furnished herewith as Exhibit 99.1. In addition, on October 27, 2021, the Company presented at the 4th Annual Targeted Protein Degradation Summit and intends to host a conference call to discuss the results of the Single Ascending Dose (SAD) portion of the Company’s ongoing Phase 1 trial of KT-474. A form of the slide presentation is being furnished as Exhibit 99.2 to this Current Report on Form 8-K. The Company undertakes no obligation to update, supplement or amend the materials attached hereto as Exhibit 99.2.
+
+The information in this Item 7.01, including Exhibit 99.1 and Exhibit 99.2 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events
+
+On October 27, 2021, the Company announced results from the SAD portion of its ongoing Phase 1 trial of KT-474, including the seven KT-474 single dose cohorts, comprising 57 healthy volunteer subjects randomized 6:2 to either a single oral dose of KT-474 or placebo. The data demonstrated robust, dose-dependent IRAK4 reduction, maintained for up to 6 days, in peripheral blood mononuclear cells (PBMC) measured by mass spectrometry, resulting in mean IRAK4 reduction from baseline of 93-96% achieved at 48 hours post-dose at the top three dose levels, achieving strong proof-of-mechanism (see Table 1). Flow cytometry demonstrated that the effect of KT-474 on IRAK4 levels was similar in lymphocytes and monocytes.
+
+Table 1: Percent IRAK4 Change from Baseline in PBMC at 48 Hours Post-Dose using Mass Spectrometry
+
+ 
+
+ 
+
+  
+
+Placebo
+
+(n=13)
+
+ 
+
+Cohort 1
+
+(n=6)
+
+ 
+
+Cohort 2
+
+(n=6)
+
+ 
+
+Cohort 3
+
+(n=6)
+
+ 
+
+Cohort 4
+
+(n=6)
+
+ 
+
+Cohort 5
+
+(n=7)
+
+ 
+
+Cohort 6
+
+(n=5)
+
+ 
+
+Cohort 7
+
+(n=6)
+
+KT-474 dose
+
+  
+
+—  
+
+ 
+
+25 mg
+
+ 
+
+75 mg
+
+ 
+
+150 mg
+
+ 
+
+300 mg
+
+ 
+
+600 mg
+
+ 
+
+1000 mg
+
+ 
+
+1600 mg
+
+Mean IRAK4 Change
+
+  
+
+-1%
+
+ 
+
+-26%
+
+(p=0.1)
+
+ 
+
+-73%
+
+(p<0.0001)
+
+ 
+
+-81%
+
+(p<0.0001)
+
+ 
+
+-84%
+
+(p<0.0001)
+
+ 
+
+-96%
+
+(p<0.0001)
+
+ 
+
+-93%
+
+(p<0.0001)
+
+ 
+
+-95%
+
+(p<0.0001)
+
+The Company also announced that proof-of-biology was also established, with inhibition of ex vivo R848- or LPS-mediated induction of multiple pro-inflammatory cytokines in whole blood at doses and exposures associated with mean IRAK4 reduction in PBMC of ³85% at 24-48 hours post-dose. In Cohort 7, where mean IRAK4 reduction at 24 and 48 hours was 89% and 95%, respectively, mean maximum cytokine inhibition as great as 97% was observed (see Table 2). KT-474 demonstrated oral bioavailability, a half-life supportive of daily dosing, and dose-dependent plasma exposures that plateaued after 1000 mg. KT-474 was observed to be well-tolerated; mild to moderate, self-limited headache and nausea were the most common possible or probable treatment-related adverse events, and there were no serious adverse events.
+
+Table 2: Mean Maximum Percent Change from Baseline at 24-48 Hours in Ex Vivo Proinflammatory Cytokine Induction by R848 and LPS in Whole Blood at Cohort 7
+
+ 
+
+Proinflammatory Cytokine
+
+  
+
+IFNg
+
+ 
+
+IL1ß
+
+ 
+
+IL6
+
+ 
+
+IL8
+
+ 
+
+IL10
+
+ 
+
+IL12
+
+ 
+
+IL17
+
+ 
+
+TNFα
+
+R848 (TLR 7/8 agonist)
+
+  
+
+-97%2
+
+ 
+
+-92%1
+
+ 
+
+-88%1
+
+ 
+
+-54%
+
+ 
+
+-89%1
+
+ 
+
+-93%1
+
+ 
+
+-79%1
+
+ 
+
+-88%2
+
+LPS (TLR 4 agonist)
+
+  
+
+-42%
+
+ 
+
+-68%1
+
+ 
+
+-62%1
+
+ 
+
+-81%1
+
+ 
+
+-83%1
+
+ 
+
+-35%2
+
+ 
+
+-43%2
+
+ 
+
+-42%2
+
+1 = p value < 0.01; 2 = p value < 0.05, for comparison to placebo
+
+The disclosure under this Item 8.01 contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, express or implied statements regarding the Company’s views on KT-474 as validating its platform and approach to drug development; strategy, business plans and objectives for its IRAK4 degrader program; and plans and timelines for the clinical development of its product candidates, including the therapeutic potential and clinical benefits thereof. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+Any forward-looking statements in this press release are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, those risks and uncertainties related: the Company’s ability to execute on its strategy; the therapeutic potential and safety of KT-474; the timing and completion of the Company’s Phase 1 study of KT-474 and final audit and quality controlled verification of initial data and related analyses; positive results from initial data analyses not necessarily being predictive of final results; the Company’s planned regulatory submissions and developments; and other risks identified in the Company’s SEC filings, including those risks discussed under the heading “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2021, as well as other risks detailed in the Company’s subsequent filings with the SEC. We caution you not to place undue reliance on any forward-looking statements, which speak only as of the date they are made. The Company disclaims any obligation to publicly update or revise any such statements to reflect any change in expectations or in events, conditions or circumstances on which any such statements may be based, or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements. Any forward-looking statement included in this Item 8.01 speaks only as of the date on which it was made. The Company undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise, except as required by law.
+
+Item 9.01.
+
+Exhibits
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release issued by Kymera Therapeutics, Inc. on October 27, 2021, furnished herewith.
+
+99.2
+
+  
+
+Kymera Therapeutics, Inc. Corporate Presentation, dated October 27, 2021, furnished herewith.
+
+104
+
+  
+
+Cover Page Interactive Data
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Kymera Therapeutics, Inc.
+
+Date: October 27, 2021
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Nello Mainolfi
+
+ 
+
+ 
+
+ 
+
+Nello Mainolfi, Ph.D.
+
+ 
+
+ 
+
+ 
+
+Founder, President and Chief Executive Officer

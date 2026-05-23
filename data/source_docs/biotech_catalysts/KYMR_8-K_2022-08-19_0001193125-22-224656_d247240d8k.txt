@@ -1,0 +1,297 @@
+8-K
+
+false 0001815442 0001815442 2022-08-19 2022-08-19
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): August 19, 2022
+
+ 
+
+ 
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39460
+
+ 
+
+81-2992166
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Kymera Therapeutics, Inc.
+
+200 Arsenal Yards Blvd., Suite 230
+
+Watertown, Massachusetts 02472
+
+(Address of principal executive offices, including zip code)
+
+(857) 285-5300
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+KYMR
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement
+
+Securities Purchase Agreement
+
+On August 18, 2022, Kymera Therapeutics, Inc. (the “Company”) and certain accredited investors (each an “Investor” and collectively, the “Investors”) entered into a securities purchase agreement (the “Purchase Agreement”) pursuant to which the Company agreed to sell and issue to the Investors in a private placement (the “Private Placement”) (i) an aggregate of 2,769,228 shares (the “Shares”) of the Company’s common stock, par value $0.0001 per share (the “Common Stock”), at a purchase price of $26.00 per share, and/or (ii) 3,000,000 pre-funded warrants (the “Pre-Funded Warrants”) to purchase Common Stock (the “Warrant Shares” and together with the Shares and the Pre-Funded Warrants, the “Securities”), at a purchase price of $25.9999 per Pre-Funded Warrant. The Pre-Funded Warrants will have an exercise price of $0.0001 per share of Common Stock, be immediately exercisable and remain exercisable until exercised in full. The holders of Pre-Funded Warrants may not exercise the warrant if the holder, together with its affiliates, would beneficially own more than 4.99% of the number of shares of the Common Stock outstanding immediately after giving effect to such exercise. The holders of Pre-Funded Warrants may increase or decrease such percentages not in excess of 19.99% by providing at least 61 days’ prior notice to the Company.
+
+The Private Placement is anticipated to close on August 22, 2022, subject to customary closing conditions. The Company anticipates receiving gross proceeds from the Private Placement of approximately $150 million, before deducting offering expenses payable by the Company. The Company expects to use the proceeds from the Private Placement to fund working capital and other general corporate purposes.
+
+The foregoing description of the Purchase Agreement and the Pre-Funded Warrants does not purport to be complete and is qualified in its entirety by reference to the complete text of the Purchase Agreement and the form of the Pre-Funded Warrant, which are attached hereto as Exhibits 10.1 and 4.1, respectively, to this Current Report on Form 8-K and are hereby incorporated by reference into this Item 1.01.
+
+Registration Rights
+
+In connection with the Private Placement, the Company and the Investors entered into a Registration Rights Agreement dated August 18, 2022 (the “Registration Rights Agreement”), providing for the registration for resale of the Securities (including the shares of Common Stock underlying the Pre-Funded Warrants) that are not then registered on an effective registration statement, pursuant to a registration statement (the “Registration Statement”) to be filed with the Securities and Exchange Commission (the “SEC”) on or prior to September 19, 2022 (the “Filing Date”). The Company has agreed to use its best efforts to cause the Registration Statement to be declared effective as soon as possible, but in no event later than 45 days of the closing of the Private Placement (or 60 days in the event of a full review of the Registration Statement by the SEC) (the “Effectiveness Date”), and to keep the Registration Statement continuously effective for a period that extends from the first date on which the SEC issues an order of effectiveness in relation to the Registration Statement until such date that all registrable securities (as such term is defined in the Registration Rights Agreement) covered by the Registration Statement have been sold thereunder or pursuant to Rule 144 or may be sold without volume or manner-of-sale restrictions pursuant to Rule 144 and without the requirement for the Company to be in compliance with the current public information requirement under Rule 144.
+
+The Company has granted the Investors customary indemnification rights in connection with the Registration Statement. The Investors have also granted the Company customary indemnification rights in connection with the Registration Statement.
+
+The foregoing description of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the Registration Rights Agreement, a copy of which is filed as Exhibit 10.2 hereto and incorporated by reference into this Item 1.01.
+
+ 
+
+Item 3.02.
+
+Unregistered Shares of Equity Securities
+
+The information contained above in Item 1.01 relating to the Private Placement is hereby incorporated by reference into this Item 3.02. Based in part upon the representations of the Investors in the Purchase Agreement, the offering and sale of the securities was made in reliance on the exemption afforded by Regulation D under the Securities Act of 1933, as amended (the “Securities Act”), and corresponding provisions of state securities or “blue sky” laws. The Securities (including the shares of Common Stock underlying the Pre-Funded Warrants) have not been registered under the Securities Act or any state securities laws and may not be offered or sold in the United States absent registration with the SEC or an applicable exemption from the registration requirements. The sale of the Securities did not involve a public offering and was made without general solicitation or general advertising. The Investors represented that they are accredited investors, as such term is defined in Rule 501(a) of Regulation D under the Securities Act, and that they are acquiring the securities for investment purposes only and not with a view to any resale, distribution or other disposition of the securities in violation of the U.S. federal securities laws.
+
+Neither this Current Report on Form 8-K nor any exhibit attached hereto is an offer to sell or the solicitation of an offer to buy shares of Common Stock or other securities of the Company.
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure
+
+On August 19, 2022, the Company issued a press release announcing the Private Placement and providing an update on its cash position and cash runway. The press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 9.01.
+
+Exhibits
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+4.1
+
+  
+
+Form of Pre-Funded Warrant
+
+10.1*
+
+  
+
+Securities Purchase Agreement, dated August 18, 2022, by and among Kymera Therapeutics, Inc. and the persons party thereto
+
+10.2*
+
+  
+
+Registration Rights Agreement, dated August 18, 2022, by and among Kymera Therapeutics, Inc. and the persons party thereto
+
+99.1
+
+  
+
+Press release issued by Kymera Therapeutics, Inc. on August 19, 2022, furnished herewith
+
+104
+
+  
+
+Cover Page Interactive Data
+
+ 
+
+*
+
+Schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished to the SEC upon request.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Kymera Therapeutics, Inc.
+
+Date: August 19, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Nello Mainolfi
+
+ 
+
+ 
+
+ 
+
+Nello Mainolfi, Ph.D.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

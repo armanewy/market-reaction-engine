@@ -1,0 +1,3172 @@
+0001193125-24-000991.txt : 20240103
+0001193125-24-000991.hdr.sgml : 20240103
+20240103063751
+ACCESSION NUMBER: 0001193125-24-000991
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 15
+CONFORMED PERIOD OF REPORT: 20240103
+ITEM INFORMATION: Regulation FD Disclosure
+ITEM INFORMATION: Other Events
+ITEM INFORMATION: Financial Statements and Exhibits
+FILED AS OF DATE: 20240103
+DATE AS OF CHANGE: 20240103
+
+FILER:
+
+COMPANY DATA:
+COMPANY CONFORMED NAME: Dyne Therapeutics, Inc.
+CENTRAL INDEX KEY: 0001818794
+STANDARD INDUSTRIAL CLASSIFICATION: PHARMACEUTICAL PREPARATIONS [2834]
+ORGANIZATION NAME: 03 Life Sciences
+IRS NUMBER: 364883909
+STATE OF INCORPORATION: DE
+FISCAL YEAR END: 1231
+
+FILING VALUES:
+FORM TYPE: 8-K
+SEC ACT: 1934 Act
+SEC FILE NUMBER: 001-39509
+FILM NUMBER: 24504316
+
+BUSINESS ADDRESS:
+STREET 1: 1560 TRAPELO ROAD
+CITY: WALTHAM
+STATE: MA
+ZIP: 02451
+BUSINESS PHONE: (781) 786-8230
+
+MAIL ADDRESS:
+STREET 1: 1560 TRAPELO ROAD
+CITY: WALTHAM
+STATE: MA
+ZIP: 02451
+
+8-K
+1
+d586587d8k.htm
+8-K
+
+8-K
+
+false 0001818794 0001818794 2024-01-03 2024-01-03
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): January 3, 2024
+
+ 
+
+ 
+
+Dyne Therapeutics, Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39509
+
+ 
+
+36-4883909
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+1560 Trapelo Road
+
+Waltham, Massachusetts
+
+ 
+
+ 
+
+02451
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (781) 786-8230
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, $0.0001 par value per share
+
+ 
+
+DYN
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On January 3, 2024, Dyne Therapeutics, Inc. (the “Company”) issued a press release announcing positive initial clinical data from its ACHIEVE clinical trial of DYNE-101 in patients with myotonic dystrophy type 1 (“DM1”) and its DELIVER clinical trial of DYNE-251 in patients with Duchenne muscular dystrophy (“DMD”) who are amenable to exon 51 skipping. A copy of the press release is furnished as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+On January 3, 2024, the Company also made available a presentation to be used to discuss the initial clinical data from the ACHIEVE and DELIVER clinical trials. A copy of the presentation will be available by 8:00 a.m. ET on the Events & Presentations page of the Investors & Media section of the Company’s website (https://www.dyne-tx.com/). The information contained in, or that can be accessed through, the Company’s website is not a part of this filing.
+
+The information furnished under this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+On January 3, 2024, the Company announced positive initial clinical data from its ACHIEVE clinical trial of DYNE-101 in patients with DM1 and its DELIVER clinical trial of DYNE-251 in patients with DMD who are amenable to exon 51 skipping.
+
+Phase 1/2 ACHIEVE Trial of DYNE-101 in DM1
+
+The initial efficacy assessment of the DYNE-101 ACHIEVE trial is based on data from 32 adult DM1 patients enrolled in the randomized, placebo-controlled multiple ascending dose (“MAD”) portion of the trial, including 6-month data from the 1.8 mg/kg (approximate antisense oligonucleotide (“ASO”) dose) cohort (n=16) and 3-month data from the 3.4 mg/kg Q4W cohort (n=16). In each of these cohorts, participants were randomized to receive either DYNE-101 (n=6) or placebo (n=4) once every four weeks or participants in the recovery arm (n=6) received two doses of DYNE-101 followed by placebo for the remainder of the MAD portion of the trial.
+
+In the ACHIEVE trial, DYNE-101 demonstrated a dose dependent splicing correction and increase in muscle delivery and DMPK knockdown while also showing functional improvement in myotonia. Key initial findings from ACHIEVE include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Muscle Delivery: Administration of 3.4 mg/kg of DYNE-101 Q4W demonstrated a mean ASO muscle concentration of 21.5 ng/g at 3 months while administration of 1.8 mg/kg Q4W showed a mean ASO muscle concentration of 10.0 ng/g at 3 months and 12.7 ng/g at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+DMPK Knockdown: Evaluable patients in the 3.4 mg/kg Q4W group had a 40% mean DMPK knockdown from baseline compared to 25% in patients in the 1.8 mg/kg Q4W group at 3 months and 16% in patients in the 1.8 mg/kg Q4W group at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Splicing: Evaluable patients treated with 3.4 mg/kg Q4W of DYNE-101 had a 19% mean splicing correction from baseline across a broad, 22-gene panel at 3 months, with all evaluable participants experiencing an improvement. Patients in the 1.8 mg/kg Q4W group at 3 months had a 13% mean splicing correction and at 6 months had a 7% mean increase in splicing.
+
+ 
+
+ 
+
+•
+
+ 
+
+Function: Patients treated with 1.8 mg/kg of DYNE-101 Q4W had a mean 3.8 second benefit in myotonia at 6 months as measured by video hand opening time (“vHOT”).
+
+ 
+
+ 
+
+•
+
+ 
+
+Patient Reported Outcome: Patients in the DYNE-101 1.8 mg/kg Q4W group experienced an overall improvement at 6 months in the Myotonic Dystrophy Health Index (“MDHI”), including the fatigue subscale, suggesting potential benefit of DYNE-101 in the central nervous system.
+
+Safety and tolerability data in this initial assessment of the ACHIEVE trial are based on 45 patients enrolled through the 5.4 mg/kg Q8W cohort of the MAD portion. As of the data cutoff date of December 6, 2023, DYNE-101 has demonstrated a favorable safety profile. The majority of treatment-emergent adverse events were mild or moderate and no related serious treatment-emergent adverse events have been identified. In addition, no participants demonstrated treatment-emergent anemia, and no clinically meaningful changes were observed in kidney or liver parameters. No participants have demonstrated kidney injury. Liver enzyme elevations have been observed in approximately 18% of participants, with no impact on liver function. Interpretation is complicated by underlying liver disease and elevated baseline values up to approximately 2.5 times greater than the upper limit of normal. All participants who have completed the MAD portion of ACHIEVE have enrolled in the 24-week open label extension (“OLE”).
+
+Enrollment is complete through the 5.4 mg/kg Q8W cohort of the ACHIEVE trial (48 total patients enrolled), and approximately 300 doses have been administered to date supporting dose escalation up to 6.8 mg/kg. These initial clinical data position the Company to optimize dose and dose regimen for DYNE-101 with the goal of initiating registrational cohorts in the trial by the end of 2024. The Company anticipates reporting data from multiple cohorts of the ACHIEVE trial in the second half of 2024.
+
+Phase 1/2 DELIVER Trial of DYNE-251 in DMD
+
+The initial efficacy assessment of the DYNE-251 DELIVER trial is based on 6-month data from six male patients with DMD amenable to exon 51 skipping enrolled in the 5 mg/kg (approximate phosphorodiamidate morpholino oligomer (“PMO”) dose) cohort of the randomized, placebo-controlled MAD portion of the trial. Patients were randomized to receive either DYNE-251 (n=4) or placebo (n=2) once every four weeks. Once every 4-week administration of DYNE-251 in the DELIVER trial reached levels of dystrophin expression, exon skipping and percent dystrophin positive fibers that exceeded levels reported in a third-party clinical trial for the current weekly standard of care for DMD exon 51, eteplirsen, at 6 months with a 24-fold lower total PMO dose. Key initial findings from DELIVER include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Muscle delivery: DYNE-251 showed a mean 657 ng/g PMO muscle drug concentration at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Exon 51 skipping: DYNE-251 demonstrated a mean absolute exon skipping level of 0.90% and a 0.80% change from baseline at 6 months. In the eteplirsen trial, eteplirsen, which is administered weekly, showed a 0.59% mean absolute exon skipping level and a 0.40% change from baseline at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Dystrophin expression measured by Western blot: Patients treated with DYNE-251 had a mean absolute dystrophin level of 0.88% of normal and a 0.28% change from baseline at 6 months. In the eteplirsen trial, eteplirsen reached a mean absolute dystrophin level of 0.30% of normal and a 0.06% change from baseline at 6 months.
+
+ 
+
+ 
+
+•
+
+ 
+
+Percent dystrophin positive fibers: DYNE-251 demonstrated 22.2% mean level of dystrophin positive fibers (“PDPF”) and a 19.8% change from baseline at 6 months. In the eteplirsen trial, eteplirsen showed a 19.6% mean level of PDPF and a 10.7% change from baseline at 6 months.
+
+The DELIVER trial does not compare DYNE-251 to eteplirsen, and no head-to-head trials have been conducted comparing DYNE-251 to eteplirsen. Eteplirsen data may not be directly comparable to the DELIVER data due to differences between the trials in trial protocols, dosing regimens and patient populations. Accordingly, these cross-trial comparisons may not be reliable.
+
+Safety and tolerability data in the DELIVER trial are based on 37 patients enrolled through the 20 mg/kg cohort of the MAD portion. As of the data cutoff date of December 6, 2023, DYNE-251 has demonstrated a favorable safety profile. The majority of treatment-emergent adverse events were mild or moderate and no related serious adverse events have been identified. In addition, no participants demonstrated treatment-emergent anemia, and no clinically meaningful changes were observed in kidney parameters or electrolytes, including magnesium. All participants who have completed the MAD portion of DELIVER have enrolled in the 24-week OLE.
+
+Enrollment is complete through the 20 mg/kg cohort of the DELIVER trial (40 total patients enrolled) and approximately 275 doses have been administered to date supporting dose escalation up to 40 mg/kg. These initial clinical data position the Company to optimize dose and dose regimen for DYNE-251 with the goal of initiating registrational cohorts by the end of 2024. The Company anticipates reporting data from multiple cohorts of the DELIVER trial in the second half of 2024.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE platform, the anticipated timelines for reporting data from the DYNE-101 and DYNE-251 clinical trials, and plans to optimize dose and dose regimen for DYNE-101 and DYNE-251, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “predict,” “project,” “potential,” “should,” or “would,” or the negative of these terms, or other comparable terminology are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in these forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in these forward-looking statements as a result of various important factors, including: uncertainties inherent in the identification and development of product candidates, including the initiation and completion of preclinical studies and clinical trials; uncertainties as to the availability and timing of results from preclinical studies and clinical trials; the timing of and the Company’s ability to initiate and enroll patients in clinical trials; whether results from preclinical studies and initial data from early clinical trials will be predictive of the final results of the clinical trials or future trials; whether the Company’s cash resources will be sufficient to fund the Company’s foreseeable and unforeseeable operating expenses and capital expenditure requirements; as well as the risks and uncertainties identified in the Company’s filings with the Securities and Exchange Commission (“SEC”), including the Company’s most recent Form 10-Q and in subsequent filings the Company may make with the SEC. In addition, the forward-looking statements included in this Current Report on Form 8-K represent the Company’s views as of the date hereof. The Company anticipates that subsequent events and developments will cause its views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date hereof.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated January 3, 2024.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+DYNE THERAPEUTICS, INC.
+
+Date: January 3, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Joshua Brumm
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Joshua Brumm
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer
+
+EX-99.1
+2
+d586587dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+Dyne Therapeutics Announces Positive Initial Clinical Data from ACHIEVE Trial in DM1
+
+Patients and DELIVER Trial in DMD Patients Demonstrating Promise of the FORCE™
+
+Platform in Developing Therapeutics for Rare Muscle Diseases
+
+- In Phase 1/2 ACHIEVE Trial, DYNE-101 Demonstrated Dose-Dependent Splicing Correction, Muscle Delivery
+and DMPK Knockdown -
+
+- All Evaluable Patients in the 3.4 mg/kg Cohort Treated with DYNE-101
+Q4W Demonstrated Consistent Splicing Correction with a 19% Mean Improvement Across 22-Gene Panel at 3 Months -
+
+- Improvement in Myotonia (vHOT) as well as Fatigue (MDHI) Observed in Lowest Dose ACHIEVE Cohort at 6 Months -
+
+- In Phase 1/2 DELIVER Trial, DYNE-251 Showed 0.88% Mean Dystrophin Expression at 6 Months in 5 mg/kg
+Cohort Administered Monthly; Greater Than 2.5 Times Higher Dystrophin Than Reported for Weekly Administered Current Standard of Care1-
+
+- Favorable Safety Profile for DYNE-101 and DYNE-251 Has
+Supported Dose Escalation; Enrollment Complete in 5.4 mg/kg Cohort of ACHIEVE Trial and 20 mg/kg Cohort of DELIVER Trial -
+
+- Virtual
+Webcast Event Today, Wednesday, January 3 at 8:00 a.m. ET -
+
+WALTHAM, Mass., January 3, 2024 – Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage muscle disease company focused on advancing innovative life-transforming
+therapeutics for people living with genetically driven diseases, today announced positive initial clinical data from its ACHIEVE trial of DYNE-101 in patients with myotonic dystrophy type 1 (DM1) and its
+DELIVER trial of DYNE-251 in patients with Duchenne muscular dystrophy (DMD) who are amenable to exon 51 skipping.
+
+“We are excited that Dyne’s first clinical data in two programs have demonstrated
+proof-of-concept and validated the promise of the FORCE™ platform in developing targeted therapeutics for rare
+muscle diseases. In addition to the opportunity with our co-lead programs, this clinical validation reinforces the potential of FORCE to deliver for patients in other areas, including building a global DMD
+franchise, addressing FSHD and exploring diseases involving the CNS,” said Joshua Brumm, Dyne’s president and chief executive officer. “The safety profiles for both DYNE-101 and DYNE-251 have supported dose escalation to a combined 10 cohorts and the administration of nearly 600 doses across both the ACHIEVE and DELIVER trials. This positions us to optimize dose and dose regimen in both
+trials with the goal of initiating registrational cohorts as we end 2024. We anticipate reporting data for multiple, higher dose cohorts from both trials in the second half of 2024, while continuing to pursue expedited regulatory pathways and
+working to help address the urgent need for therapeutics for people living with DM1 and Duchenne.”
+
+ 
+
+1
+
+ 
+
+“These compelling initial data from our ACHIEVE and DELIVER trials highlight the exciting opportunity we
+have to advance our investigational therapeutics for devastating diseases with no or limited treatment options. DYNE-101 demonstrated early dose-dependent results, including in correction of splicing, the key
+biomarker for DM1, as well as meaningful improvement in myotonia at the lowest dose. Treatment with DYNE-251 surpassed the level of dystrophin production reported for the standard of care for DMD exon 51 with
+a fraction of the dose. Underpinning these results are favorable safety profiles, which are critical in the development of therapies for chronic diseases,” said Wildon Farwell, M.D., MPH, Dyne’s chief medical officer. “We are grateful
+to the participants, clinicians and the community for their ongoing partnership as we collectively strive to transform the treatment of rare muscle diseases.”
+
+Phase 1/2 ACHIEVE Trial of DYNE-101 in DM1
+
+The initial efficacy assessment of the DYNE-101 ACHIEVE trial is based on data from 32 adult DM1 patients enrolled in
+the randomized, placebo-controlled multiple ascending dose (MAD) portion of the trial, including 6-month data from the 1.8 mg/kg (approximate ASO dose) cohort (n=16) and
+3-month data from the 3.4 mg/kg Q4W cohort (n=16). In each of these cohorts, participants were randomized to receive either DYNE-101 (n=6) or placebo (n=4) once every
+four weeks or participants in the recovery arm (n=6) received two doses of DYNE-101 followed by placebo for the remainder of the MAD portion of the trial.
+
+In the ACHIEVE trial, DYNE-101 demonstrated a dose-dependent splicing correction and increase in muscle delivery and
+DMPK knockdown while also showing functional improvement in myotonia. Key initial findings from ACHIEVE include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Muscle Delivery: Administration of 3.4 mg/kg of DYNE-101 Q4W
+demonstrated a mean ASO muscle concentration of 21.5 ng/g at 3 months, while administration of 1.8 mg/kg Q4W showed a mean ASO muscle concentration of 10.0 ng/g at 3 months.
+
+ 
+
+•
+
+ 
+
+DMPK Knockdown: Evaluable patients in the 3.4 mg/kg Q4W group had a 40% mean DMPK
+knockdown from baseline compared to 25% in patients in the 1.8 mg/kg Q4W group at 3 months.
+
+ 
+
+•
+
+ 
+
+Splicing: Evaluable patients treated with 3.4 mg/kg Q4W of DYNE-101
+had a 19% mean splicing correction from baseline across a broad, 22-gene panel at 3 months, with all evaluable participants experiencing an improvement. Patients in the 1.8 mg/kg Q4W group at 3 months had a
+13% mean splicing correction.
+
+ 
+
+•
+
+ 
+
+Function: Patients treated with 1.8 mg/kg of DYNE-101 Q4W had a
+mean 3.8 second benefit in myotonia at 6 months as measured by video hand opening time (vHOT). Myotonia, which is difficulty in relaxing muscles, is a common symptom of DM1 patients.
+
+ 
+
+•
+
+ 
+
+Patient Reported Outcome (PRO): Patients in the DYNE-101 1.8 mg/kg
+Q4W group experienced an overall improvement at 6 months in the Myotonic Dystrophy Health Index (MDHI), including the fatigue subscale, suggesting potential benefit of DYNE-101 in the CNS.
+
+Safety and tolerability data in this initial assessment of the ACHIEVE trial are based on 45 patients enrolled through the 5.4 mg/kg Q8W
+cohort of the MAD portion. As of the data cutoff date2, DYNE-101 has demonstrated a favorable safety profile. The majority of treatment-emergent adverse
+events were mild or moderate and no related serious treatment-emergent adverse events have been
+
+ 
+
+2
+
+ 
+
+identified. In addition, no participants demonstrated treatment-emergent anemia, and no clinically meaningful changes were observed in kidney or liver parameters. All participants who have
+completed the MAD portion of ACHIEVE have enrolled in the 24-week open-label extension (OLE).
+
+Enrollment is
+complete through the 5.4 mg/kg Q8W cohort of the ACHIEVE trial (48 total patients enrolled), and approximately 300 doses have been administered to date, supporting dose escalation up to 6.8 mg/kg. Dyne anticipates providing its next clinical data
+update from the ACHIEVE trial in the second half of 2024.
+
+Phase 1/2 DELIVER Trial of DYNE-251 in DMD
+
+The initial efficacy assessment of the DYNE-251 DELIVER trial is based on
+6-month data from 6 male patients with DMD amenable to exon 51 skipping enrolled in the 5 mg/kg (approximate PMO dose) cohort of the randomized, placebo-controlled MAD portion of the trial. Patients were
+randomized to receive either DYNE-251 (n=4) or placebo (n=2) once every four weeks. Once every 4-week administration of DYNE-251
+reached levels of dystrophin expression, exon skipping and percent dystrophin positive fibers that exceeded levels reported in a clinical trial for the current weekly standard of care for DMD exon 51, eteplirsen, at 6 months1 with a 24-fold lower total PMO dose. Key initial findings from DELIVER include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Muscle delivery: DYNE-251 showed a mean 657 ng/g PMO muscle drug
+concentration at 6 months.
+
+ 
+
+•
+
+ 
+
+Exon 51 skipping: DYNE-251 demonstrated a mean absolute exon
+skipping level of 0.90% and a 0.80% change from baseline at 6 months. The current standard of care, eteplirsen, which is administered weekly, showed a 0.59% mean absolute exon skipping level and a 0.40% change from baseline at 6 months. 1
+
+ 
+
+•
+
+ 
+
+Dystrophin expression measured by Western blot: Patients treated with
+DYNE-251 had a mean absolute dystrophin level of 0.88% of normal and a 0.28% change from baseline at 6 months. Eteplirsen reached a mean absolute dystrophin level of 0.30% of normal and a 0.06% change from
+baseline at 6 months.1
+
+ 
+
+•
+
+ 
+
+Percent dystrophin positive fibers: DYNE-251 demonstrated 22.2%
+mean level of dystrophin positive fibers (PDPF) and a 19.8% change from baseline at 6 months. Eteplirsen showed a 19.6% mean level of PDPF and a 10.7% change from baseline at 6 months.1
+
+Safety and tolerability data in the DELIVER trial are based on 37 patients enrolled through the 20 mg/kg cohort of the MAD portion. As
+of the data cutoff date2, DYNE-251 has demonstrated a favorable safety profile. The majority of treatment-emergent adverse events were mild or moderate and
+no related serious adverse events have been identified. In addition, no participants demonstrated treatment-emergent anemia, and no clinically meaningful changes were observed in kidney parameters or electrolytes, including magnesium. All
+participants who have completed the MAD portion of DELIVER have enrolled in the 24-week OLE.
+
+Enrollment is
+complete through the 20 mg/kg cohort of the DELIVER trial (40 total patients enrolled) and approximately 275 doses have been administered to date, supporting dose escalation up to 40
+
+ 
+
+3
+
+ 
+
+mg/kg. Dyne anticipates providing its next clinical data update from the DELIVER trial in the second half of 2024.
+
+Virtual Event
+
+Dyne will host a live video webcast event,
+“Achieving the Promise of FORCE to Deliver for Patients,” to discuss these ACHIEVE and DELIVER data today, January 3, 2024, at 8:00 a.m. ET. Dyne’s leadership team will be joined by two leading neuromuscular disease experts:
+Valeria A. Sansone, M.D., Ph.D., and Perry Shieh, M.D., Ph.D. Dr. Sansone is Clinical and Scientific Director at the Clinical Center NeMO in Milan, Professor of Neurology, University of Milan, and a principal investigator for the ACHIEVE trial.
+Dr. Shieh is Professor of Neurology and Pediatrics at the David Geffen School of Medicine at UCLA, a Neurologist at the Ronald Reagan UCLA Medical Center in Los Angeles, and a principal investigator for the DELIVER trial.
+
+The live webcast will be available in the Events & Presentations page of the Investors & Media section of Dyne’s website and a replay
+will be accessible for 90 days following the presentation. An accompanying slide presentation will also be available. To access the presentation, register for the live webcast and replay, please visit https://investors.dyne-tx.com/news-and-events/events-and-presentations
+.
+
+About ACHIEVE
+
+ACHIEVE is a Phase 1/2 global clinical trial evaluating DYNE-101, consisting of a
+24-week multiple ascending dose (MAD) randomized placebo-controlled period, a 24-week open-label extension and a 96-week
+long-term extension. The trial, which is designed to be registrational, is enrolling adult patients with myotonic dystrophy type 1 (DM1) who are 18 to 49 years of age. The primary endpoints are safety and tolerability, with secondary endpoints of
+pharmacokinetics and pharmacodynamics, including change from baseline in splicing, as well as measures of muscle strength and function. For more information on the ACHIEVE trial, visit https://www.clinicaltrials.gov/ (NCT05481879).
+
+About DYNE-101
+
+DYNE-101 is an investigational therapeutic being evaluated in the Phase 1/2 global ACHIEVE clinical trial for people living with DM1. DYNE-101 consists of an antisense
+oligonucleotide (ASO) conjugated to a fragment antibody (Fab) that binds to the transferrin receptor 1 (TfR1) which is highly expressed on muscle. It is designed to enable targeted muscle tissue delivery with the goal of reducing toxic DMPK
+RNA in the nucleus, releasing splicing proteins, allowing normal mRNA processing and translation of normal proteins, and potentially stopping or reversing the disease progression. DYNE-101 has been granted
+orphan drug designation by the European Medicines Agency and the U.S. Food and Drug Administration for the treatment of DM1.
+
+About Myotonic Dystrophy
+Type 1 (DM1)
+
+DM1 is a rare, progressive, genetic disease that affects skeletal, cardiac and smooth muscle. It is a monogenic, autosomal dominant
+disease caused by an abnormal trinucleotide expansion in a region
+
+ 
+
+4
+
+ 
+
+of the DMPK gene. This expansion of CTG repeats causes toxic RNA to cluster in the nucleus, forming nuclear foci and altering the splicing of multiple proteins essential for normal
+cellular function. This altered splicing, or spliceopathy, results in a wide range of symptoms. People living with DM1 typically experience myotonia and progressive weakness of major muscle groups, which can affect mobility, breathing, heart
+function, speech, digestion and vision as well as cognition. DM1 is estimated to affect more than 40,000 people in the United States and over 74,000 people in Europe, but there are currently no approved disease-modifying therapies.
+
+About the DELIVER Trial
+
+DELIVER is a Phase 1/2 global
+clinical trial evaluating DYNE-251, consisting of a 24-week multiple ascending dose (MAD) randomized placebo-controlled period, a
+24-week open-label extension and a 96-week long-term extension. The trial, which is designed to be registrational, is enrolling ambulant and non-ambulant males with Duchenne muscular dystrophy who are ages 4 to 16 and have mutations amenable to exon 51 skipping. The primary endpoints are safety, tolerability and change from baseline in dystrophin levels
+as measured by Western blot. Secondary endpoints include measures of muscle function, exon skipping and pharmacokinetics. For more information on the DELIVER trial,
+visit https://www.clinicaltrials.gov/ (NCT05524883).
+
+About DYNE-251
+
+DYNE-251 is an investigational therapeutic being evaluated in the Phase 1/2 global DELIVER clinical trial for people living with DMD who are amenable to exon 51 skipping.
+DYNE-251 consists of a phosphorodiamidate morpholino oligomer (PMO) conjugated to a fragment antibody (Fab) that binds to the transferrin receptor 1 (TfR1) which is highly expressed on muscle. It is designed
+to enable targeted muscle tissue delivery and promote exon skipping in the nucleus, allowing muscle cells to create a truncated, functional dystrophin protein, with the goal of stopping or reversing disease progression. DYNE-251 has been granted fast track, orphan drug and rare pediatric disease designations by the U.S. Food and Drug Administration for the treatment of DMD mutations amenable to exon 51 skipping.
+
+In addition to DYNE-251, Dyne is building a global DMD franchise and has preclinical programs targeting other exons,
+including 53, 45 and 44.
+
+About Duchenne Muscular Dystrophy (DMD)
+
+DMD is a rare disease caused by mutations in the gene that encodes for dystrophin, a protein critical for the normal function of muscle cells. These mutations,
+the majority of which are deletions, result in the lack of dystrophin protein and progressive loss of muscle function. DMD occurs primarily in males and affects an estimated 12,000 to 15,000 individuals in the U.S. and 25,000 in Europe. Loss of
+strength and function typically first appears in pre-school age boys and worsens as they age. As the disease progresses, the severity of damage to skeletal and cardiac muscle often results in patients
+experiencing total loss of ambulation by their early teenage years and includes worsening cardiac and respiratory symptoms and loss of upper body function by the later teens. There is no cure for DMD and currently approved therapies provide limited
+benefit.
+
+ 
+
+5
+
+ 
+
+About Dyne Therapeutics
+
+Dyne Therapeutics is a clinical-stage muscle disease company focused on advancing innovative life-transforming therapeutics for people living with genetically
+driven diseases. With its proprietary FORCE™ platform, Dyne is developing modern oligonucleotide therapeutics that are designed to overcome limitations in delivery to muscle tissue. Dyne has
+a broad pipeline for serious muscle diseases, including clinical programs for myotonic dystrophy type 1 (DM1) and Duchenne muscular dystrophy (DMD) and a preclinical program for facioscapulohumeral muscular dystrophy (FSHD). For more information,
+please visit https://www.dyne-tx.com, and follow us on X,
+LinkedIn and Facebook.
+
+Forward-Looking Statements
+
+This press release contains
+forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this press release, including statements regarding Dyne’s strategy, future operations,
+prospects and plans, objectives of management, the potential of the FORCE platform, the anticipated timelines for reporting data from the DYNE-101 and DYNE-251 clinical
+trials, and plans to optimize dose and dose regimen for DYNE-101 and DYNE-251, constitute forward-looking statements within the meaning of The Private Securities
+Litigation Reform Act of 1995. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “objective,”
+“ongoing,” “plan,” “predict,” “project,” “potential,” “should,” or “would,” or the negative of these terms, or other comparable terminology are intended to identify
+forward-looking statements, although not all forward-looking statements contain these identifying words. Dyne may not actually achieve the plans, intentions or expectations disclosed in these forward-looking statements, and you should not place
+undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in these forward-looking statements as a result of various important factors, including:
+uncertainties inherent in the identification and development of product candidates, including the initiation and completion of preclinical studies and clinical trials; uncertainties as to the availability and timing of results from preclinical
+studies and clinical trials; the timing of and Dyne’s ability to initiate and enroll patients in clinical trials; whether results from preclinical studies and initial data from early clinical trials will be predictive of the final results of
+the clinical trials or future trials; whether Dyne’s cash resources will be sufficient to fund the Company’s foreseeable and unforeseeable operating expenses and capital expenditure requirements; as well as the risks and uncertainties
+identified in Dyne’s filings with the Securities and Exchange Commission (SEC), including the Company’s most recent Form 10-Q and in subsequent filings Dyne may make with the SEC. In addition, the
+forward-looking statements included in this press release represent Dyne’s views as of the date of this press release. Dyne anticipates that subsequent events and developments will cause its views to change. However, while Dyne may elect to
+update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing Dyne’s views as of any date subsequent to the
+date of this press release.
+
+ 
+
+6
+
+ 
+
+1. No head-to-head trials have been conducted comparing DYNE-251 to eteplirsen. Eteplirsen data may not be directly comparable due to differences in trial protocols, dosing
+regimens and patient populations. Accordingly, these cross-trial comparisons may not be reliable. Eteplirsen data from J Neuromuscul Dis. 2021; 8(6): 989–1001
+
+2. Safety data as of December 6, 2023
+
+Contacts:
+
+Investors
+
+Amy Reilly
+
+areilly@dyne-tx.com
+
+857-341-1203
+
+Media
+
+Stacy
+Nartker
+
+snartker@dyne-tx.com
+
+781-317-1938
+
+ 
+
+7
+
+EX-101.SCH
+3
+dyn-20240103.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+
+100000 - Document - Document and Entity Information
+link:calculationLink
+link:presentationLink
+link:definitionLink
+
+EX-101.LAB
+4
+dyn-20240103_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+Cover [Abstract]
+Cover [Abstract]
+
+Amendment Flag
+Amendment Flag
+
+Entity Central Index Key
+Entity Central Index Key
+
+Document Type
+Document Type
+
+Document Period End Date
+Document Period End Date
+
+Entity Registrant Name
+Entity Registrant Name
+
+Entity Incorporation State Country Code
+Entity Incorporation State Country Code
+
+Entity File Number
+Entity File Number
+
+Entity Tax Identification Number
+Entity Tax Identification Number
+
+Entity Address, Address Line One
+Entity Address, Address Line One
+
+Entity Address, City or Town
+Entity Address, City or Town
+
+Entity Address, State or Province
+Entity Address, State or Province
+
+Entity Address, Postal Zip Code
+Entity Address, Postal Zip Code
+
+City Area Code
+City Area Code
+
+Local Phone Number
+Local Phone Number
+
+Written Communications
+Written Communications
+
+Soliciting Material
+Soliciting Material
+
+Pre Commencement Tender Offer
+Pre Commencement Tender Offer
+
+Pre Commencement Issuer Tender Offer
+Pre Commencement Issuer Tender Offer
+
+Security 12b Title
+Security 12b Title
+
+Trading Symbol
+Trading Symbol
+
+Security Exchange Name
+Security Exchange Name
+
+Entity Emerging Growth Company
+Entity Emerging Growth Company
+
+Entity Ex Transition Period
+Entity Ex Transition Period
+
+EX-101.PRE
+5
+dyn-20240103_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+GRAPHIC
+6
+g586587g0103081534782.jpg
+GRAPHIC
+
+begin 644 g586587g0103081534782.jpg
+M_]C_X 02D9)1@ ! 0$ 8 !@ #_VP!# @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$ P$! 0$!
+M 0$! 0 $" P0%!@<("0H+_\0 M1$ @$"! 0#! <%! 0 0)W $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,! (1 Q$ /P#W^BBB@#__
+!V0$!
+
+end
+
+GRAPHIC
+7
+g586587g0103082505228.jpg
+GRAPHIC
+
+begin 644 g586587g0103082505228.jpg
+M_]C_X 02D9)1@ ! 0$ 8 !@ #_VP!# @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$ P$! 0$!
+M 0$! 0 $" P0%!@<("0H+_\0 M1$ @$"! 0#! <%! 0 0)W $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,! (1 Q$ /P#W^CJ.*\@^
+M*_B+4(M7CTBWF>&V6(2.$."Y.>OL*ROAMXFO[3Q);:=).\EIY49'K7EOPN\0WUS>S:5:Z;QS?00S.-TVU1N('-=6"IK%;.QQYK3EEU3V^T5B>&/$MKXGTM;NW^61?EEB)Y1O\ "MNN&47!\LMSLC)25UL%%%%24%%%
+M% !1110 4444 (:*#10!Q_C;P+#XI1+F&00W\2;58CAQV!KQN."\\)^*+8WT
+M+1RVLRN1_> /;U!%?2M>=_%O2H[G0;>_5!Y\$P0MWVL#_4"O0PF+Y/W=3X?R
+M.+$81U'S4E[WYG;2:O91Z.=4,Z&U\OS X/!&/YUX%;V%]XHUZ86D1>6:0NQ[
+M+D]2:SQ?W@TY; W4IM5;<(BWRY^E>Q_"[38[7PS]LV8EN9&)8CG . /TKPZK
+MC7J\L'[J/M\/2J91@W7J)>TE96Z(O^#_ =!X8@>1I/.O)0 [XX ]!7D_B__
+M )*1YE<5&;2['Q>;5ZE>U2H[ML]^A_
+MU$?^Z/Y5A^,M$@UOPW=12(#)&ADB;'*D#-;D/^HC_P!T?RJEKMU'9:%?7$K!
+M46%N3[C KBIMJ:<=S>:3@T]CQ3X=7EY#J]W86LS127-NP1AV<*4 [8U9V/I4_Q)TE]$\6)J-NNV.X(E4C
+MLXZU[=2-.=9TY+5H\BFYQI*HGHF>SZM?)IFDW5[(<+#&6KRGP=XH\2>(/$#1
+MR7S_ &:)6ED Q@=!6AX\\4)=^ =/\E_WE^ 7QZ#K^M6_A?HWV+PM=:C(N)+
+ML-M)_N ?XUQ4Z:I8>4IK5NR.N321Y9\//'NH7VK)I.JRF?S0
+M?*E;[P8=B>];?CSQ\?#SC3]/57OV7+,W(C';CUKSGP\!%\3X50;5&H,H ]-Y
+MXJCKUS/<>.;R;R_.F%X0L;#.[#8 Q^ JWA:",C>JA]I(]EK?\ OC^ZU2^_L763_I#@K%-C:2P_A/O5 >./&P&
+M!H^ .@\@US-G8:Y<>,+;4Y--GA=[Q)6*QD!3N!-)TU4C)5%%=K JCA).#;[W
+M/?8HFB#!I&<$Y&[M[45(:*\0]@6L?Q1HYU[P]=6",%DO&TH@^(-Y*P)"7 8@>QK
+MZ%KG-0\#>']3O9;R[LM\\IRS;R,FNK!UXT9MR['D8JC*K%*)S*_A5187
+M1(4#JM<=XG\1SGPZ\(OX>TY[J\7%[<@97
+M^XO8?6K7Q%T/^V?"TQ1GZ(MG$ $A@V#'L*\D^%6D'4/$,^K2Q@1V^2O'&\^GTKUDZM82326K3#
+M>"$92".3P!^-=.8U5SJ';\S'+Z$G!S2O_D>'^!/^2AVW_75_ZU[^WW3]*Y.Q
+MT'PIINJK=6D0%VA8AE8G&.O\ZWAK.GM;23_:5$48!V1A!/()HY .%?J1^?-
+M>BKH7A*PUG[:$5+Q'\[?O. QRV?YUN7%SI6H6DD5UYD2V:G48YH+@#Y@B;E8^U/TSXH6^K>*+73
+MH+1TM)B4\UOO;CTX],_SILG@GP3ATYHH-%<1T"U'/#'-%BC6- JC [
+M"EHK6I6J5;<[O8SIT84[\BL+1245D:"T4E% $-Y;"\LIK8N\8E0H60\C/I7F
+M@^#4'VO:]1HK:EB*E)-0=KF52A3J-.:N4='T>RT/3H[*QB
+MV1)U)ZL?4GUJ.YT6&[EF:5V*RO&[+V^3M6E16,O>=Y&U.3I_!H8D?AJ*"X$L
+M,Y4 ,-I7/#$'CGVIH\*VXMQ;BYG$.49@",DJ..3GCOBMVBHY(]C?ZU6_F,-/
+M"]H(I5>621WB$2NQ^X " <="<'K0?#N8E3[8R_NC"^V/[R'''7@\=:W**?)$
+M7UJK_,95SH,%T9=\K[9)EE('LNW'Y4R70Y9[6&"2]/[G 218@'4<="#P>/\
+3ZU;%%'(A+$5%;78#1115&)__V0$!
+
+end
+
+XML
+8
+R1.htm
+IDEA: XBRL DOCUMENT
+
+v3.23.4
+
+Document and Entity Information
+
+Jan. 03, 2024
+
+Cover [Abstract]
+
+ 
+
+Amendment Flag
+
+false
+
+Entity Central Index Key
+
+0001818794
+
+Document Type
+
+8-K
+
+Document Period End Date
+
+Jan. 03, 2024
+
+Entity Registrant Name
+
+Dyne Therapeutics, Inc.
+
+Entity Incorporation State Country Code
+
+DE
+
+Entity File Number
+
+001-39509
+
+Entity Tax Identification Number
+
+36-4883909
+
+Entity Address, Address Line One
+
+1560 Trapelo Road
+
+Entity Address, City or Town
+
+Waltham
+
+Entity Address, State or Province
+
+MA
+
+Entity Address, Postal Zip Code
+
+02451
+
+City Area Code
+
+(781)
+
+Local Phone Number
+
+786-8230
+
+Written Communications
+
+false
+
+Soliciting Material
+
+false
+
+Pre Commencement Tender Offer
+
+false
+
+Pre Commencement Issuer Tender Offer
+
+false
+
+Security 12b Title
+
+Common stock, $0.0001 par value per share
+
+Trading Symbol
+
+DYN
+
+Security Exchange Name
+
+NASDAQ
+
+Entity Emerging Growth Company
+
+true
+
+Entity Ex Transition Period
+
+false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_AmendmentFlag
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Area code of city
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_CityAreaCode
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Cover page.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_CoverAbstract
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:stringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_DocumentPeriodEndDate
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:dateItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_DocumentType
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:submissionTypeItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressAddressLine1
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Name of the City or Town
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressCityOrTown
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Code for the postal or zip code
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressPostalZipCode
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Name of the state or province.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressStateOrProvince
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:stateOrProvinceItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b-2
+
++ Details
+
+Name:
+
+dei_EntityCentralIndexKey
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:centralIndexKeyItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b-2
+
++ Details
+
+Name:
+
+dei_EntityEmergingGrowthCompany
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Securities Act
+-Number 7A
+-Section B
+-Subsection 2
+
++ Details
+
+Name:
+
+dei_EntityExTransitionPeriod
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityFileNumber
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:fileNumberItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:edgarStateCountryItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b-2
+
++ Details
+
+Name:
+
+dei_EntityRegistrantName
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b-2
+
++ Details
+
+Name:
+
+dei_EntityTaxIdentificationNumber
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:employerIdItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Local phone number for entity.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_LocalPhoneNumber
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 13e
+-Subsection 4c
+
++ Details
+
+Name:
+
+dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 14d
+-Subsection 2b
+
++ Details
+
+Name:
+
+dei_PreCommencementTenderOffer
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b
+
++ Details
+
+Name:
+
+dei_Security12bTitle
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:securityTitleItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection d1-1
+
++ Details
+
+Name:
+
+dei_SecurityExchangeName
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:edgarExchangeCodeItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Section 14a
+-Number 240
+-Subsection 12
+
++ Details
+
+Name:
+
+dei_SolicitingMaterial
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_TradingSymbol
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:tradingSymbolItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Securities Act
+-Number 230
+-Section 425
+
++ Details
+
+Name:
+
+dei_WrittenCommunications
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+XML
+9
+d586587d8k_htm.xml
+IDEA: XBRL DOCUMENT
+
+0001818794
+
+2024-01-03
+2024-01-03
+
+false
+0001818794
+8-K
+2024-01-03
+Dyne Therapeutics, Inc.
+DE
+001-39509
+36-4883909
+1560 Trapelo Road
+Waltham
+MA
+02451
+(781)
+786-8230
+false
+false
+false
+false
+Common stock, $0.0001 par value per share
+DYN
+NASDAQ
+true
+false
+
+EXCEL
+10
+Financial_Report.xlsx
+IDEA: XBRL DOCUMENT
+
+begin 644 Financial_Report.xlsx
+M4$L#!!0 ( +DT(U@'04UB@0 +$ 0 9&]C4')O<',O87!P+GAM
+M;$V./0L",1!$_\IQO;=!P4)B0-!2L+(/>QLOD&1#LD)^OCG!CVX>;QA&WPIG
+M*N*I#BV&5(_C(I(/ !47BK9.7:=N')=HI6-Y #OGDK7A.YNJQ<&4GPZ4A!0W_J=0U[R;UEA_6\#MI7E!+ P04
+M " "Y-"-8]=2.U^\ K @ $0 &1O8U!R;W!S+V-O&ULS9)1
+M2\,P$,>_BN2]O:8=BJ'+BV-/"H(#Q;>0W+9@DX;DI-VW-ZU;A^@'\#%W__SN
+M=W"M#D+W$9]C'S"2Q70SNLXGH<.:'8F" $CZB$ZE,B=\;N[[Z!3E9SQ 4/I#
+M'1#JJKH%AZ2,(@43L @+DWI\65>M[ ^
+MD?(:\Z]D!9T"KMEE\FOSL-EMF:RK>E54O*B:'>>BN1.K^_?)]8??5=CUQN[M
+M/S:^",H6?MV%_ )02P,$% @ N30C6)E&UL[5I;<]HX%'[OK]!X9_9M"\8V@;:T$W-I=MNTF83M
+M3A^%$5B-;'EDD81_OTV23;J;/ 0LZ?O.14?GZ#AY\^XN8NB&B)3R
+M> +]O6N[!3+
+MUES@6QHO(];JM-O=5H1I;*$81V1@?5XL:$#05%%:;U\@M.4?,_@5RU2-9:,!
+M$U=!)KF(M/+Y;,7\VMX^9<_I.ATR@6XP&U@@?\YOI^1.6HCA5,+$P&IG/U9K
+MQ]'22(""R7V4!;I)]J/3%0@R#3LZG5C.=GSVQ.V?C,K:=#1M&N#C\7@XMLO2
+MBW A(5M>5 TR
+M6'!VULS2 Y9>*?IUE!K9';O=05SP6.XYB1'^QL4$UFG2&98T1G*=D 4. #?$
+MT4Q0?*]!MHK@PI+27)#6SRFU4!H(FLB!]4>"(<7K;YH]
+M5Z%82=J$^!!&&N*<<^9ST6S[!Z5&T?95O-RCEU@5 9<8WS2J-2S%UGB5P/&M
+MG#P=$Q+-E L&08:7)"82J3E^34@3_BNEVOZKR2.FJW"$2M"/F(9
+M-AIRM1:!MG&IA&!:$L;1>$[2M!'\6:PUDSY@R.S-D77.UI$.$9)>-T(^8LZ+
+MD!&_'H8X2IKMHG%8!/V>7L-)P>B"RV;]N'Z&U3-L+([W1]072N0/)J<_Z3(T
+M!Z.:60F]A%9JGZJ'-#ZH'C(*!?&Y'C[E>G@*-Y;&O%"N@GL!_]':-\*K^(+
+M.7\N?<^E[[GT/:'2MSAD6R4)RU3393>*
+M$IY"&V[I4_5*E=?EK[DHN#Q;Y.FOH70^+,_Y/%_GM,T+,T.WF)&Y
+M"M-2D&_#^>G%>!KB.=D$N7V85VWGV-'1^^?!4;"C[SR6'<>(\J(A[J&&F,_#
+M0X=Y>U^89Y7&4#04;6RL)"Q&MV"XU_$L%.!D8"V@!X.O40+R4E5@,5O& RN0
+MHGQ,C$7H<.>77%_CT9+CVZ9EM6ZO*7<9;2)2.<)IF!-GJ\K>9;'!51W/55OR
+ML+YJ/;053L_^6:W(GPP13A8+$DACE!>F2J+S&5.^YRM)Q%4XOT4SMA*7&+SC
+MYL=Q3E.X$G:V#P(RN;LYJ7IE,6>F\M\M# DL6XA9$N)-7>W5YYNTB42%(JP# 4A
+M%W+C[^^3:G>,U_HL@6V$5#)DU1?*0XG!/3-R0]A4)?.NVB8+A=OB5,V[&KXF
+M8$O#>FZ=+2?_VU[4/;07/4;SHYG@'K.'
+MYA,L0Z1^P7V*BH 1JV*^NJ]/^26<.[1[\8$@F_S6VZ3VW> ,?-2K6J5D*Q$_
+M2P=\'Y(&8XQ;]#1?CQ1BK::QK<;:,0QY@%CS#*%F.-^'19H:,]6+K#F-"F]!
+MU4#E/]O4#6CV#30,9FV-J/D3@H\W/[O#;#"Q([A[8N_ 5!+ P04
+M" "Y-"-8V=U*VV8$ G$0 & 'AL+W=O_K1ZO5*XG13L@W%3&FR3Z)4S6V(JVS6]M60<02JFY$QE+X
+M92-D0C4TY=96F60T+(*2V/8#XYRAJ5>\T@:?7
+M'^H/1>>A,VNJV$S$KSS4T=CR+1*R#D>1K4S$71U2(:
+MX'AJ1F6I)?S*(4Y/YB+((TW*T(6LC6\-+S*-V][_A-K!5@%X%Z!5ZG3-Z,_'.)/EKNE9:PA#^W414*G2;
+M%4Q=WZJ,!FQL0>$J)M^9-?GN&[?O_(CP=2J^#J8^F4+VPB*##S'=-M'A\1L:
+M*X9P="N.+JIS'+L9D$@:PQB&;$\^L4,3$:[D.([KN_Y@B U?K\+JH6)5?:T.
+M&6MBP/VPK;<
+M5#A /M.DD0S7F1]21E81DS1CN>:!NH(:"&X00K\B]"\A!#4A,R$+7R!+#?DC
+M,Y%#N4'5B; 1&1>>WR-TPXIN> G= X\9>=KD>STK[N^WQGBA">>[UY". U#\$,HE.,%^0S/
+MD2]IXU"V2+J]OD-6IOAB05X$#3'0VOM=U+J_ IV9EI!D)7;-2Q,N]TIC'=$$
+M0ZMMW\5]^_]HY80 MH44[SP-FI.(:SY-,;1Z)7 O6@HJM(50&I:$/WEV=J*V
+M*(+5]5R,K5X.7-S0BQ&]U'(RH7@I:I9":),G3HVNH1BI[^(>O10Q#[CF
+MZ98\08%+3N-&'EREE:=V>Q>WZH5D17H8S+!R7P';+]@@?MELSHP?KM=&YM6V
+M[^$>_179HU(YD+4!MLBV M:N[^$6O61!+LWT<[TU67$=-TZ_%A'30UC)X%P2
+MO%V1;YT;LULD&97DG<8Y(QET5454HL@G>W_P]WYBIW]_L@HNF6G=VEM0@]3Y?SZ:\84VWSWD4V?Y\PN35)^@D4=&1J
+M,*-IX[Z_15#+'!VVVN0]W*,_R/9F1P '^&+S4^Z]&[%PM;,SP#XY]IJ_$)ZH
+M280B,=N D',S %U9GLK+AA99<1)>"PWGZN(R8A1FIWD ?M\(H3\:YG!=_3QS:')W3VZNT=W)YFN6W>2_.'(N2.]DKK=T*-SS?LD:0]'KEC[SC1<>Z0R
+M5C'G55LG;6,Y*UMP4C)9WMQDB6)"TV*M.W6G7$L.IM-N0V]H4JPKH\^6E :#
+M7\H4)X],;NB62;&W8EC+E)"G8%Z"X6"DL<1Y*GQ#%V!IGP*\"!JP'.,HH8T%
+M8Q(RA._]N/P9,&FM5X64,\$E#89BW3#GN-5W7AD6#\87$!GEW:GQ#&O+3HOE
+M+3T[##\^R=[8DMLYS8).IF(M>05TK*B/\.M,DP#HG%%>* 6KC68#A\EC%'S8
+M Y?R 5KXK;J*W5B'_2^FO-CT1=X=-8T\O1!BEHK'O;^RPF+-9O\R-%8\>2S
+MP:0)P:?EA6;/CO9NFJ:]PSLM_D/.?K7/--;=,7I+VH_\W5_DM
+MC)/Q]%PZC+N.HL?X;[:)'-M[#/)73)>UYN1]76^T$D
+M7O!9QP<&%Y_J?]K-#]! SCMHHB*]1GA?H$
+MKQBR'3Y8GKA/[I_X3O,\3;,,J^AV&V6PQ>J69? 7CX9Q P\L#V1Z6ZWQ;N,3
+M\OH<8#U];4*PG>*3B.T4KS4@\;J!1Y['NXWE 0^L"]CL0/YX'IBIN$^:0ERHY_U=3_ 102P,$% @ N30C6)>*NQS $P( L !?
+M3T\$MP>:4#M.*2VBZD8_1!2:5K5N %(MB6/:(7->=I3W;+T]!;X"O.DQQ0FE(2S,.\,W2
+M?S+W\PPU1>5*(Y5;&GC3Y?YVX$G1H2)8%II%R=.B':5_'FR-9V87YTC'?8Q']>5=2(6NF9MYEJ6R
+M!F_236P@R*2*Y U+2X3[+O,&@EXN1:T/9=1,92L88!.R
+M'<(Y_A^[<#K3P&]'@!6^AC(,
+M=D",Y1]XVXG\-/O4(VSV'T:$%'J6"V&%E+C?Z/F-:#R!+ ]=R_$)'0.M#,,S
+MQ;;!<.AHQ$5V9://8:Q#B'/Z3XRQJK"$52Q;#X&'' E<)S"D&IND53 >"CVN
+M*!.L>@PL(:EU&*ADMW,JI]=V<,TB]RI#FJ,,:&T'X:-:"Q4&L&]R( DNR94;
+M4EWI>::W=Y-[2:AU[D&P]_ :C1W-CQ^W_ %02P,$% @ N30C6"0>FZ*M
+M ^ $ !H !X;"]?+7_OR4Z?:!1W;J"V
+M\R1&:P;*9,OL[P"D6[2*+L[C,$]J%ZSB688&O-*]:A"2*+I!V#-DGNZ9HIP\
+M_D-T==UI?#C]LCCP#S"\7>BI160I2A4:Y$S":+8VP5+BRTR6HJ@R&8HJEG!:
+M(.+)(&UI5GVP3TZTYWD7-_=%KLWC":[?#'!X=/X!4$L#!!0 ( +DT(UAE
+MD'F2&0$ ,\# 3 6T-O;G1E;G1?5'EP97-=+GAM;*V334[#,!"%KQ)E
+M6R4N+%B@IAM@"UUP 6-/&JO^DV=:TMLS3MI*H!(5A4VL>-Z\SYZ7K-Z/$;#H
+MG?78E!U1?!0"50=.8ATB>*ZT(3E)_)JV(DJUDUL0]\OE@U#!$WBJ*'N4Z]4S
+MM')OJ7CI>1M-\$V9P&)9/(W"S&I*&:,U2A+7Q<'K'Y3J1*BY<]!@9R(N6%"*
+MJX1<^1UPZGL[0$I&0[&1B5ZE8Y7HK4 Z6L!ZVN+*&4/;&@4ZJ+WCEAIC JFQ
+M R!GZ]%T,4TFGC",S[O9_,%F"LC*30H1.;$$?\>=(\G=560C2&2FKW@ALO7L
+M^T%.6X.^D&PO=&AE;64O
+M=&AE;64Q+GAM;%!+ 0(4 Q0 ( +DT(UC9W4K;9@0 "<1 8
+M " @0X( !X;"]W;W)K&PO&PO7W)E;',O=V]R
+M:V)O;VLN>&UL+G)E;'-02P$"% ,4 " "Y-"-899!YDAD! #/ P $P
+M @ ' $@ 6T-O;G1E;G1?5'EP97-=+GAM;%!+!08 "0 )
++ #X" *% !
+
+end
+
+XML
+11
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+
+XML
+12
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+..report table.authRefData{
+background-color: #def;
+border: 2px solid #2F4497;
+font-size: 1em;
+position: absolute;
+}
+
+..report table.authRefData a {
+display: block;
+font-weight: bold;
+}
+
+..report table.authRefData p {
+margin-top: 0px;
+}
+
+..report table.authRefData .hide {
+background-color: #2F4497;
+padding: 1px 3px 0px 0px;
+text-align: right;
+}
+
+..report table.authRefData .hide a:hover {
+background-color: #2F4497;
+}
+
+..report table.authRefData .body {
+height: 150px;
+overflow: auto;
+width: 400px;
+}
+
+..report table.authRefData table{
+font-size: 1em;
+}
+
+/* Report Styles */
+..pl a, .pl a:visited {
+color: black;
+text-decoration: none;
+}
+
+/* table */
+..report {
+background-color: white;
+border: 2px solid #acf;
+clear: both;
+color: black;
+font: normal 8pt Helvetica, Arial, san-serif;
+margin-bottom: 2em;
+}
+
+..report hr {
+border: 1px solid #acf;
+}
+
+/* Top labels */
+..report th {
+background-color: #acf;
+color: black;
+font-weight: bold;
+text-align: center;
+}
+
+..report th.void {
+background-color: transparent;
+color: #000000;
+font: bold 10pt Helvetica, Arial, san-serif;
+text-align: left;
+}
+
+..report .pl {
+text-align: left;
+vertical-align: top;
+white-space: normal;
+width: 200px;
+white-space: normal; /* word-wrap: break-word; */
+}
+
+..report td.pl a.a {
+cursor: pointer;
+display: block;
+width: 200px;
+overflow: hidden;
+}
+
+..report td.pl div.a {
+width: 200px;
+}
+
+..report td.pl a:hover {
+background-color: #ffc;
+}
+
+/* Header rows... */
+..report tr.rh {
+background-color: #acf;
+color: black;
+font-weight: bold;
+}
+
+/* Calendars... */
+..report .rc {
+background-color: #f0f0f0;
+}
+
+/* Even rows... */
+..report .re, .report .reu {
+background-color: #def;
+}
+
+..report .reu td {
+border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+..report .ro, .report .rou {
+background-color: white;
+}
+
+..report .rou td {
+border-bottom: 1px solid black;
+}
+
+..report .rou table td, .report .reu table td {
+border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+..report .fn {
+white-space: nowrap;
+}
+
+/* styles for numeric types */
+..report .num, .report .nump {
+text-align: right;
+white-space: nowrap;
+}
+
+..report .nump {
+padding-left: 2em;
+}
+
+..report .nump {
+padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+..report .text {
+text-align: left;
+white-space: normal;
+}
+
+..report .text .big {
+margin-bottom: 1em;
+width: 17em;
+}
+
+..report .text .more {
+display: none;
+}
+
+..report .text .note {
+font-style: italic;
+font-weight: bold;
+}
+
+..report .text .small {
+width: 10em;
+}
+
+..report sup {
+font-style: italic;
+}
+
+..report .outerFootnotes {
+font-size: 1em;
+}
+
+XML
+13
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+3.23.4
+
+html
+1
+23
+1
+false
+0
+0
+false
+0
+
+false
+false
+R1.htm
+100000 - Document - Document and Entity Information
+Sheet
+http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation
+Document and Entity Information
+Cover
+1
+
+false
+false
+All Reports
+Book
+All Reports
+
+d586587d8k.htm
+dyn-20240103.xsd
+dyn-20240103_lab.xml
+dyn-20240103_pre.xml
+
+http://xbrl.sec.gov/dei/2023
+
+true
+false
+
+JSON
+15
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+"version": "2.2",
+"instance": {
+"d586587d8k.htm": {
+"nsprefix": "dyn",
+"nsuri": "http://www.dyne-tx.com/20240103",
+"dts": {
+"inline": {
+"local": [
+"d586587d8k.htm"
+]
+},
+"schema": {
+"local": [
+"dyn-20240103.xsd"
+],
+"remote": [
+"http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+"http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+"http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+"http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+"http://www.xbrl.org/2005/xbrldt-2005.xsd",
+"http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd",
+"http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd",
+"https://www.xbrl.org/dtr/type/2022-03-31/types.xsd",
+"https://xbrl.sec.gov/dei/2023/dei-2023.xsd",
+"https://xbrl.sec.gov/naics/2023/naics-2023.xsd"
+]
+},
+"labelLink": {
+"local": [
+"dyn-20240103_lab.xml"
+]
+},
+"presentationLink": {
+"local": [
+"dyn-20240103_pre.xml"
+]
+}
+},
+"keyStandard": 23,
+"keyCustom": 0,
+"axisStandard": 0,
+"axisCustom": 0,
+"memberStandard": 0,
+"memberCustom": 0,
+"hidden": {
+"total": 2,
+"http://xbrl.sec.gov/dei/2023": 2
+},
+"contextCount": 1,
+"entityCount": 1,
+"segmentCount": 0,
+"elementCount": 24,
+"unitCount": 0,
+"baseTaxonomies": {
+"http://xbrl.sec.gov/dei/2023": 23
+},
+"report": {
+"R1": {
+"role": "http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation",
+"longName": "100000 - Document - Document and Entity Information",
+"shortName": "Document and Entity Information",
+"isDefault": "true",
+"groupType": "document",
+"subGroupType": "",
+"menuCat": "Cover",
+"order": "1",
+"firstAnchor": {
+"contextRef": "duration_2024-01-03_to_2024-01-03",
+"name": "dei:DocumentType",
+"unitRef": null,
+"xsiNil": "false",
+"lang": "en-US",
+"decimals": null,
+"ancestors": [
+"span",
+"p",
+"div",
+"div",
+"body",
+"html"
+],
+"reportCount": 1,
+"baseRef": "d586587d8k.htm",
+"first": true,
+"unique": true
+},
+"uniqueAnchor": {
+"contextRef": "duration_2024-01-03_to_2024-01-03",
+"name": "dei:DocumentType",
+"unitRef": null,
+"xsiNil": "false",
+"lang": "en-US",
+"decimals": null,
+"ancestors": [
+"span",
+"p",
+"div",
+"div",
+"body",
+"html"
+],
+"reportCount": 1,
+"baseRef": "d586587d8k.htm",
+"first": true,
+"unique": true
+}
+}
+},
+"tag": {
+"dei_EntityRegistrantName": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityRegistrantName",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Registrant Name",
+"terseLabel": "Entity Registrant Name",
+"documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+}
+}
+},
+"auth_ref": [
+"r1"
+]
+},
+"dei_AmendmentFlag": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "AmendmentFlag",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Amendment Flag",
+"terseLabel": "Amendment Flag",
+"documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+}
+}
+},
+"auth_ref": []
+},
+"dei_TradingSymbol": {
+"xbrltype": "tradingSymbolItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "TradingSymbol",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Trading Symbol",
+"terseLabel": "Trading Symbol",
+"documentation": "Trading symbol of an instrument as listed on an exchange."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityAddressStateOrProvince": {
+"xbrltype": "stateOrProvinceItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityAddressStateOrProvince",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, State or Province",
+"terseLabel": "Entity Address, State or Province",
+"documentation": "Name of the state or province."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityIncorporationStateCountryCode": {
+"xbrltype": "edgarStateCountryItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityIncorporationStateCountryCode",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Incorporation State Country Code",
+"terseLabel": "Entity Incorporation State Country Code",
+"documentation": "Two-character EDGAR code representing the state or country of incorporation."
+}
+}
+},
+"auth_ref": []
+},
+"dei_SolicitingMaterial": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "SolicitingMaterial",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Soliciting Material",
+"terseLabel": "Soliciting Material",
+"documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+}
+}
+},
+"auth_ref": [
+"r5"
+]
+},
+"dei_DocumentType": {
+"xbrltype": "submissionTypeItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "DocumentType",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Document Type",
+"terseLabel": "Document Type",
+"documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+}
+}
+},
+"auth_ref": []
+},
+"dei_CityAreaCode": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "CityAreaCode",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "City Area Code",
+"terseLabel": "City Area Code",
+"documentation": "Area code of city"
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityCentralIndexKey": {
+"xbrltype": "centralIndexKeyItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityCentralIndexKey",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Central Index Key",
+"terseLabel": "Entity Central Index Key",
+"documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+}
+}
+},
+"auth_ref": [
+"r1"
+]
+},
+"dei_EntityAddressCityOrTown": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityAddressCityOrTown",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, City or Town",
+"terseLabel": "Entity Address, City or Town",
+"documentation": "Name of the City or Town"
+}
+}
+},
+"auth_ref": []
+},
+"dei_PreCommencementIssuerTenderOffer": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "PreCommencementIssuerTenderOffer",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Pre Commencement Issuer Tender Offer",
+"terseLabel": "Pre Commencement Issuer Tender Offer",
+"documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+}
+}
+},
+"auth_ref": [
+"r3"
+]
+},
+"dei_WrittenCommunications": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "WrittenCommunications",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Written Communications",
+"terseLabel": "Written Communications",
+"documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+}
+}
+},
+"auth_ref": [
+"r6"
+]
+},
+"dei_CoverAbstract": {
+"xbrltype": "stringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "CoverAbstract",
+"lang": {
+"en-us": {
+"role": {
+"label": "Cover [Abstract]",
+"terseLabel": "Cover [Abstract]",
+"documentation": "Cover page."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityFileNumber": {
+"xbrltype": "fileNumberItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityFileNumber",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity File Number",
+"terseLabel": "Entity File Number",
+"documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+}
+}
+},
+"auth_ref": []
+},
+"dei_Security12bTitle": {
+"xbrltype": "securityTitleItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "Security12bTitle",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Security 12b Title",
+"terseLabel": "Security 12b Title",
+"documentation": "Title of a 12(b) registered security."
+}
+}
+},
+"auth_ref": [
+"r0"
+]
+},
+"dei_EntityAddressPostalZipCode": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityAddressPostalZipCode",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, Postal Zip Code",
+"terseLabel": "Entity Address, Postal Zip Code",
+"documentation": "Code for the postal or zip code"
+}
+}
+},
+"auth_ref": []
+},
+"dei_DocumentPeriodEndDate": {
+"xbrltype": "dateItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "DocumentPeriodEndDate",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Document Period End Date",
+"terseLabel": "Document Period End Date",
+"documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityEmergingGrowthCompany": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityEmergingGrowthCompany",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Emerging Growth Company",
+"terseLabel": "Entity Emerging Growth Company",
+"documentation": "Indicate if registrant meets the emerging growth company criteria."
+}
+}
+},
+"auth_ref": [
+"r1"
+]
+},
+"dei_LocalPhoneNumber": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "LocalPhoneNumber",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Local Phone Number",
+"terseLabel": "Local Phone Number",
+"documentation": "Local phone number for entity."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityExTransitionPeriod": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityExTransitionPeriod",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Ex Transition Period",
+"terseLabel": "Entity Ex Transition Period",
+"documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards."
+}
+}
+},
+"auth_ref": [
+"r7"
+]
+},
+"dei_EntityAddressAddressLine1": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityAddressAddressLine1",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, Address Line One",
+"terseLabel": "Entity Address, Address Line One",
+"documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+}
+}
+},
+"auth_ref": []
+},
+"dei_PreCommencementTenderOffer": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "PreCommencementTenderOffer",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Pre Commencement Tender Offer",
+"terseLabel": "Pre Commencement Tender Offer",
+"documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+}
+}
+},
+"auth_ref": [
+"r4"
+]
+},
+"dei_EntityTaxIdentificationNumber": {
+"xbrltype": "employerIdItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "EntityTaxIdentificationNumber",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Tax Identification Number",
+"terseLabel": "Entity Tax Identification Number",
+"documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+}
+}
+},
+"auth_ref": [
+"r1"
+]
+},
+"dei_SecurityExchangeName": {
+"xbrltype": "edgarExchangeCodeItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2023",
+"localname": "SecurityExchangeName",
+"presentation": [
+"http://www.dyne-tx.com//20240103/taxonomy/role/DocumentDocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Security Exchange Name",
+"terseLabel": "Security Exchange Name",
+"documentation": "Name of the Exchange on which a security is registered."
+}
+}
+},
+"auth_ref": [
+"r2"
+]
+}
+}
+}
+},
+"std_ref": {
+"r0": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "12",
+"Subsection": "b"
+},
+"r1": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "12",
+"Subsection": "b-2"
+},
+"r2": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "12",
+"Subsection": "d1-1"
+},
+"r3": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "13e",
+"Subsection": "4c"
+},
+"r4": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "14d",
+"Subsection": "2b"
+},
+"r5": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Section": "14a",
+"Number": "240",
+"Subsection": "12"
+},
+"r6": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Securities Act",
+"Number": "230",
+"Section": "425"
+},
+"r7": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Securities Act",
+"Number": "7A",
+"Section": "B",
+"Subsection": "2"
+}
+}
+}
+
+ZIP
+16
+0001193125-24-000991-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001193125-24-000991-xbrl.zip
+M4$L#!!0 ( +DT(UC /=[2\QT +2W . 9#4X-C4X-V0X:RYH=&WM
+M/6ESXS:RW[=J_P/*>;-E5^F6;,ORC+<<69/QQM?:SB;O?=F"2$AB3!)<@K2M
+M_?6O&P29A<+A_J>]>J6V1YAO<=OQ
+MAY_VXFA0;N^1OY_]]2\?1Q$TA,:^Z-C,^;0WBJ*@4ZV^]D.W(IA5&?+G*CRH
+M-FJ-YIYN&(MR- Z82%H/J.A7>#BLFB>YYC[W_=A+&K^\O%1D]_B"'855?*,*
+MCBU8G$/(6_5ZK4$^E?A%,$ _=:KOUU?/5@CYM&RXXN(^E8R0AR%,^$Y
+MJ<)3T] 1O-6H'\\!7K=(7GB=U;8.;7V8*OOMQ_NKM'E4W#YM6HU"ZHL!#ST:
+M ;E@3X?E6J/<.,IT4@9BR'5DB&-1/^URLY[@$@9WYDUU HOXU)X@2MWXJ*H>
+MZJ:SR00)?$]2.J,V_HV;;\'_TV:5##<1K=,\&
+M\#@.)8[_C=1:KM7+M>:_(Y[YMGU\D'/^&$?_=\P$C
+MXRX,&5+WTK?9Z\]LO)^TZ^WCD]8T?-4)S(1LP$(074S =^3C
+MCI ?*J[#-4QI:(<<56EI@;$$4
+MG7VLYJ>C)Y^;L/PN>!RJKY)_.AK;"6"NXY-?JC)__;._O9#_:AV^K$:S!JHN7B@QMH#9;IM02=D>@)D
+M $M3%LY_6:?>3KX/J.>XX\ZCXS%!;M@+N><>]4_ELQ<%=Y^[]FG!\OQR<_G8
+MNR /C^>/O8?9X-3>")R'7O>7^\O'R]X#.;^Y(+W?NE_.;W[JD>[M]?7EP\/E
+M[_FD=SW[F[O']]?WMS%H8BI'Y&(DP=F(<4IA-6;A(>D?KAO'[P_E'Q HA%#
+M ./0B1QXO_=JC:@_9.3CS1S?P9&7U*4@!G"0R6SIM0@5Y")B%CI!-
+M')]T1^#(L'!2HNU(NIBDOP(O&,>A?9<1B[DN&D,RL%G;D]\#:MOFNQY*3]7B
+MKDL#P3KFPWSJ('D(%3+JM=H'C;I.38/9J1D7#P$+U1\[[SDV6Q_0Z8_LB:?/
+M+ 3JIZY&KIIP84O=3V.%?@S,Q:],=@C_:-A#TR2@0U;NAXP^88P3_/X.?>9
+M($LCKBZ7+C\NR1 3R5%31](1F9@+T 1 F+6")_EVH; "T<)#4(M2*CU$H*NZ
+M//:C<-SE]E?I/0R,8@0C8D'(GW%85'P7S*4OH -G&M#+DH&A^:GV6\'AVHZ&
+M0O)GQV7PK ^B:?688+W@; =Z;VL9([4MP <6" Y67:@
+M5.O[L,7[+E.7>YXCQ+>P*BCYB&+:/_&"7-X_D)X7N'S,PG=?DKQ )3>\DJY,
+M@>C+6"S3,LQ$ZAOXJ&"MLL]!9J-%ZG_::ZS1]ELUP0RYOJ\KMD"-GMMVR(30
+M?Z[ (ZJOK$+KAT$!H$+E GD]#5AW\T8LY]!
+M"X'SI\*^(=%?M9 6AI@N-1 ZZ,?W^2OI@S7W@FN&#W$I%[.B3']+WB #QT6AX0B0(!'S;5CS
+MB!/A>+$;49_Q6+AC(H #Q6 L1] O\#Z@2[D?.L48ILF#&/H)"?7'YMF NP D
+MOH>VCH-^K2#[TX)9?NXXH,8=:^],,&; _(GY+ 2==>G#$+$,5Y#S2J.B9G_0
+MF4F51VN'WS<57J^G%4Z=6B;0/AW0GPCX+V=L3-H/:H#6A]-"53A+!O\:.A$L
+M/X8=8E_[E>*KK=L^YVZ?PM)'0*B(Y9/C5NMT6DPO93YDEI?D5Y1\M1"?*'H#
+M-T'A Q"010@),CG_^QB(I-4XU-0^D67'Y/I^_9AT/]\34$T5:#CAHQ<8%SNR
+M79%L'T"@6X!P?W@-XA!DHOLGIMD4&="UPL8TP2[4#?46+=<;1NZFM)TK&S&4
+MO;"W1JM643T>9*RQ'1-LD@GN0H9R&PNK94$<:O$07+K5+>D_$#,LI$S 6MG*
+MH,U0_"*)OP0#V>7&?O]@LRRD^MPQT1LQT:40,0MWK/3.K-1DY=:^M5E6TGTN
+MS4I;CA> WDZM1N5#L1"\L&!F>2D* N-8P?1G^SZ[TJ,_;.G1.H'C)4(B,V9;
+MP$KOFO]\Q,V-JCK8&A'+I4*\569Z722^<_[Z,:3(O.^>N19C#Q[MBS>K)'B#
+M]=H&GDQ%KB1PII7=QWY(JF?<)\"0\'.J+.8E_[^)%/L"+UXIP'&]T9>4U"Q4:#Y]D&RR>MWY
+M_]Y\\S,TBVTLN'4*[*>,:^00DT&_H<*F_R$_N1S,;3"=7#">R#4-GUA4B)RW
+ML?OVSBY]&TUA1OIC8LEH/O3X!+S,9"7>1 C=$01L63"G<= A&8;\)1JA11U@
+M6)T*8K.!XZO:?!6)K!V2Z;7)Y@>?I(=
+M=-7[6W$HCPHW8$O =\0GT+HZ'4LK R'AOC
+M:1PV#6VA,E+V7(^KN4\3CRM+W955B.#U,8%?[4Q[LY#"#/>POLS>_"7VWG_'
+MF_Q5VE8G;__Z%U![19Q29]X4I^!/&=.JSV!QP+1R7^A8H.T(G>/!+(D9!JXQ
+M#SL_G,C_3LV$@M=WMU=7[WT.N8
+M#]]VQ*]>+PSY$?D1"&DZEC4=BKF,F*>HX[A2JU<*ZJ&RO;U7A&Z> Z&F><^&
+ML:NR\Y\OR(4C+)>+.&05LDJXZV@3&N+6)T5;94MDQB9)LH]2%BN=&K73KM&U
+M\*U^>@!6D8A!4E,0VEC.%H+*H* FJ.^#7+=D?0%'$?O,0/7 7Y#Y%D@07!QB
+MTXB20<@]XD1@&'6_7/;^U4L?1S)?!D)^H:4"5G:O7*_5C84"%E@ N ;N%$H'
+M>6,><>B5V&-0;SP8C0F>Y$/J:(+)>5U.27!"RV01SZCACA>J%1.'+Z3D1.3BIU HO.H$J>-*M"A"!#PK7H,Y]1D:
+M+K*(Q@:VBP$EV,D<:I1A7$V-B)%B.A!%Z$X&?G%<%X=.(0,$MCNU&J$5KT)Z
+MCP2A0^L%=]$+;;90+S@E=YE^A%1I9H1+_YF!2QWFFE\SVZ%$*//(M,RPJ2Q/
+M?&%]X,(E/(E]/)=)%!Q5=V!D+TH(P%YR])JTF:CV?$IHYD4C&A$+QL'Y6Q80
+M(:)_%/)X."K-!0]H#VU-BI&"*'$T5('3]HEN&9Y
+MJ82!#5A\G @@P&9@B]M&?,)4F*V96AK+8.*"@&2R$#AOXK:7=.1*R,PH%M!B
+MSHKJ;&,C1^3Z<'1O7\ 2)R+N_X[../ &ON@ZM ^XED/)P6$=-6&58#ZAGIF3
+MG5A.5F2%!,H\Y%)=GC:S)D<[P]EI:"K*F_8EC+JQ0&Z$9Z]2MF$A'(L0CR!1
+M86RA]L=;>2 $B%H@J1E4E*&0];,S.S,M,=/:W[69IO9@*IG\+9EF.;6G;"OT
+MC[\!TPH,I[,P80
+MPZTFU,(0)N@A@>4"1O.L#+V9OUIWT)9X^J2-IDY*D,T&H7;L1G*>R1HS/^2N
+MJZ*G,A(%-,4]F XH@\"%,?N\C(:&;H7%T$Z ]IX )USJ8!O4:&(Z7Y^GIC,6
+MR6=,(PE;5GDOG.5161XU9":9-Q3KE3;QAM6G(=F7=>"O#I;Z 4M$H&!] (F#
+M>.%^;+F,1R")$Q#/'VX3$!'V S"D1O*D)?]3_4AY(0M!:\X#K5EI:=#^V?HU
+MWWL%;$F5RE)8 3C5<_#YT/9R<$.2Y#W0HYG%0(X+F<50Z#!'"LN5B00@.)*Q
+M;;VN^$,+?D!US4 E@,G XQ!&9D]"-LO"8\B#65PVI:&G.]1@ 8@O7")4K,6
+MJC!>V3(&P $WV0 /#%VT8S0M 9D5DM?V;=5+/^>F:*)>>;8VGJ*%$=](.O&2
+MAVP6H!4&8D#@!AED$3#Q0NU@2%GO6Z'R*7WIO[KXDNNH!4&'Z?KN9_+D<^O)
+MYB\R.8JQX5@P\E:-OR778'X5W;16
+MOU:$?:$)6W-,AYS;'E"EY!G-]JF<74?@H&R>8$./01>@'PQS62@;_!1F\WJ@<)T^.]),E[.4=
+M8^X8\ZL94VJ7GXUV2?BRAY4EDD(2HU(;"WD[:!CR." CBBS0JGU0;#"AL:26
+M0=L5DUTJ>1HJXZ=Q^"'GF^@A\BRFAIABFJ-57MUQU8ZKWI*K'K2M-X^?(E@/
+MU%#2(<]SU3J:3_%@_43S8)&UF6=$:H5< #.1?LBIO82YVVB4A\Q/]JS"/\S-
+M\F5)ERBXX 9GIIOQ-]@K5C8PEF]"9P)I956FID;GFL@M1RX62IB0KP32.)?D2.-2NB)BR+.J5_&KC;8M,W<"@8_2P!C9&RST.
+M>D%E(+!P%\M_Y) "*UQCL41W(_H,N&8,S$US\Y8M\P6H64PM0-Y*SDVN: 2?
+M>0XM&9A,?M =2S4/XF 0NT2E^O5T>!\ ?E;YH"?']MD8)R=#<3@T]1BP SC'
+M-Q.02.!SX.BW'?_W.!Q7R)7L@OG_'8,UP%PP^U6=33KK[-"9E X 6V]_P!7)
+M#J@]")@4"%0\N1_(4T%I0MR(.H U")DN#<+2>2R1EG78TEB1M1&J9%J]:SM"
+ME]'9&D9L:-P@N85&$)#M6+*5@[!1.91VC@#ACT:9+,91,C(.<-.-ZWA*U/I8
+MYN("!X NR&=\1EPA0P+)Y(I.ISH,=\J6D\F[);;]EC&]D^PH N-N+0/SIFL
+M+0&\S@.@(<"8ZAT!E1]P=P"@1J;#5I:!DDUPG"%7J7$%DIR$V7:@,T(Z$VFH
+M22&SKPZ[8FC0#V15A!*5:56$(N%(;MI.T),D1).,L>F]<,GTD-KG&%%WD([V
+MCG4%IK!BQ;J"?#T%5E!\3W4%&>C-_*?K"M9/W@OG%>:;#6\E=2;SZDNFA-UA
+M4?H_&'$!_X?<=@!5DFD]'L(OP']YS:^&F)V&3CR*
+M3>7Q,XNBT_:Y/'YC1AZ_0F[3GQ>.E-<.TPFM=:@?D9(GHQ#K'P 5H%^9*^6!
+M*<&&YKK"4%H[D@22]4=Q")H4#?+L"TDMUL !BU&HXDFL6&1V.H:Y+$N:%F@
+MAW89E>]XLF3*5!Q8<1CB0(@/K';4>Z006 M-8FR'%*NI%&"-&%@68,T!W%FW
+M3L4YE]+, Q ^!G%8"A%J)09$*HES7F;>8'B7F=_%4;:=F;TD=!-64L8#R<2X[OQ,VR/H47U1H0ON"NW'$)O2<5%FH:&J5
+MD]H'Y:[ YS9\UD7Y$\FY+%_H\K14&YD*M:Q^4H=FX+[ZK).C5%TI9":B!L+07ACG-WG/L&M2I%%F4N4?4K0[KW2=_ET8+4VLKB!B-&;9AZ&?_FKU;4.Y$S\6*,6\;RT!8U
+MC:4VN,R=2(7TTH67X3./CI/=K0X6+KEC/9H)FF6#+?(5.V9J _9 ;\P4\';T
+M@A GT2H5\%6'9(<\XGA=60DC#B9$[#%?55+JB!U0?Z /5<#-V)8%@A3:HO&H
+MM[1@N5A9=:G1(3#7DYE R'#3J_L&6]H7IT,G*3*7\VP>+\AY-FHZ$/D^ZQ10[
+M[ HJME]0L41RWE(CL G$C$L(QN>&PT/=L2*6JQ=N-7N!C^8KS)_PN;V/T)$EM/=4(/-#5
+MZ1%548=J>%(F"6[(
+M#[$C/-="B>>T@Y(Z_)'+!_U"OK&,EEFX:*M.]/"P4:2BO
+M2HV?!H(QEA8UM49(0$J<*)DCH54E?&@Y2RK0)7VV.F4O,7#%/)Y0'#WF,5&H
+ME@/+R@8LSXNUIXA%#'QQ9^B-(LCPD@!UKT![U@C SI4CG-P*!5-+Y-GTO&05
+MX-H3D^'64^CD]=G\ !/@5,;].7A:?GKSJ7
+MP_ /#TR9#] WQB'P&#!;UK^(R>IP8VGI][4YJ_T4X)I$XHH(7F(*#1-B^'0"
+M3BI,]$&?NZ9<;.ES@X!68LZLB<3XT@/),$72A^RQ0&>:$9%UU/QT$:>TKW-[
+M/Z=&,.=.+P6?,9U378"82'V&
+MC([$_I+#RO#P>T?DBE@?>MU9NR0FA_&XB&1M%J!K.3NO7BO_,VLUR#//^@*P
+M@'T8L*,)P>K1)Y:92Z\[$0>1-#);JN@*GXU8J09X,/'4V8>%B'EVV(MD\32$
+MQ>3IE'PPVP-39]BEV-!2>$)B:5JU*!YQC2=9J;& 6M625L@7_H+%:R5]R,(D
+M,M69]GA&=B#!6BR4\,">.
+M'#HR#O6< 3-:38<]\5S# *6O2!$_BRBSN$<8M+^?H%5+W=R2[ [:V^I!>R??
+M]4%[GY,CX#,A R5%Y5&:[W'ZWKY]D P_AWH;:U/ODI=X;8:ZE[C%"\.C^B8O
+M_<%6&#??9M!/[LZM&==]J8^9!
+M8.AA9MY]^7N^%E6<,&&%3I#9J9VB/UWO K*>QJ6YWQV?%("<>4PP5P=C?=IK
+M;'&YB^X]FI9LA4C#@WFWM5;J=AU*1J&\->*P?738/K;9Z\E)O3**/'D;HQ!@
+M%\ESN$M22=J%YWRBS*,S\?=G6:MZK;75I>KB%FARA^=JRYUY5+E%%^A)?4;C
+M;A^SH+:MRZZT;7;IR[*%WWZ\OP*;RXI18QUD62M14+MLV!MDPY:ZL^WA\J>;
+M\\=?[GL/ZV3W98>./ D1+Z]=S9:XRUQ=HXZ.3'W2-0[V+NE.DDU=RPZEN@.9Z[*,G@=W!PHUXB%N$YAGP
+MWZ\)5&CTY"F^E5@TJYA!7:W'.1T=;AZT5LY"FS81WD(5S)GWJG?CO77/
+MJ3I5U_WUR..7WOWY7>^7Q\ON0XEWT/9&.-$-^''>V!_-J5Z4NN)]K1=57%57R#RY&,24_AK'GO?E=J'\
+MX2(I!"_BW"*-Y-=HMSXKKX^\&G>+"X1^HTQ+R,!8=^2P 1B*8#1*?^46DRHL
+M7-8%^5CMVU+8U2&JO6@)\__I[SNENJ24;L DPDYEL[6Y 2/T\C]]Y].F]
+MHZO3D_V]H_Y!;[]>V[LZOCKI[_?_T]S9:77VWNI?X?E;\P+;^WC6^XU]_'QX
+M=G)V\6'EV]'Q57^%75[]=M+_L!(&L6B.13 :I[M?9!+Q<&6?U6OP_:&(4Y'L
+M[_6.?[4OWP9^.M[=;FT&\0KC83"*H0$Q3%>HFW/[6L2341 W4SG9;4_2]\S\
+M/I!I*B/]:"CCM*F"_Q.[G>+W(8^"<+I[D 0\9%]XDLC;%79P5!$>X
+MLK_W<;]_-PX&0K!%\''U9&F]M;F]OO1NU.>[V]W=UL;W:[VZW?)R.:;'P#RS9
+M<\_CG*\VW[QG-R))<0F:1.&[,!V@D7]T-M>!1N KXJT9JGOIN8<\
+M'0)[TDS%C0CE!&=6VE7X.[O@B6"GF?)"P7HP9ZY@DQ_9J^#A:AS*)!%>&LBXD:^!"(&ZDVF]1D1S>OXO]J]8
+M>M>^O(U9<^_M\?[K^%9>O4/X,5#I/2NGN^&LL_.&G0H>L^-HDL@;$>'[
+M!UXBE7I\$-UN\[.(A=V\L'R+/RK2N5?@R3->%BO
+M?1,#CP-_]V]P@E?2Y],&T)L?"T4__L+CC"=3C1K7D?*W=]MMQEM1B_6OGF7X
+M[=;F@Q- 1/ -,.71P2EH.JY4*Q\6Z7I4]_2/&60#5KV[03@ @4S[O:$)V&6'
+M+>;T-#NJ%6;,B'^TX3_#(8SEZRS";( 4\O;>?MTW)%4BP?NGU6*K7SBL\G]W
+M&=#D6@/TD&?P:%.E?"18I-6ZKZ$-\X#\>#R%47J9 E)%2>3?\)B46@ H]X83
+MN@V#H6B"_HL5@BCX8[V65J'31$@@97CU!C\F-3@")4;R 42-GT!#L>T99I@B
+M90!):RCMLXF%TH&!TG;HS,^A= !ZWK)$2E,'\E^:J8'7)A8UT#@CK<<\YAN9
+M.67I= (:@*T"5E\COH.NZS7+:4OV[N^ML=NQ
+M9 A+.4@,$FRI9.(.MFJSP]1U,$$DVV*64KY/X#[*.4#_&^_>?Q,T(G'G!2CA
+MTC%P,1(Q_G7K/=!#D( $*&\@XK-;R0! C!(>*3;FL->^@ZQ@V(^MYJ,O0.MR
+MV(3_>A*(:I+FJU*((((:1H7E+*R01ZQIZI_7! ?G:,-"<[T!PB1-$XN#011![8>;C_ =9$-(/
+MG(U".4#[^+17KPU!I'@P#M' V1(8@G<^71[U:*O$W224"3ZR"P--WLB0) R.
+M[?#+90-I;OL]4SSPV2]2C3/./B99%#5*%(E(*R!S!QN&/L40FA=>1B)'#H>!
+M)Y(6T^0-HAC:(_0PT>A![Q4PS?(FA(,A ><)3?
+M@R"&OW;:\#/B 6W=X]IP@^T2_3YL7BQX I)X"[0MM@:O:GN$IH6?6-'J.@A(
+MU %!7B&Y:!D-',LRA2.0DS2(@#GTZ/ S^B$1(T"B,=(#M@W*@AK15(L=C:0F
+M)RWJRHA&:M1"1 8/JQY.,1Q85\-$+R(&^$/T$-&) ?B*TM4
+MAI)O(GR2?3!ND-JI3*;(!^-;/J4MJ-=N97)M/AJ+<&()G+K+0!H *<;"P/%%
+ME"EZC6ACC,)H&<(GJ(1>L ?)0K=TOB8BM0_1F$R<1!,%V2MH1-"J)
+M3Q22A&<%M0K*0Z@T&%DA,\-VH+'!=-$"*5P_O#+&1!V9L366\.UTL;:C\-#JJEO6CTYA)^-$>;J2R9
+M@*%E4%>(R B'[Q=."AB+GWD&@3BN"A+/CDO"0^2I9];+<3 .JEY# N+YTN"'
+M>O!?83T3P&&QP0VDHFAM"<8.F3"O#&])*7!(3\K,8PX$X3P="04F"
+M@C=.M#UAK1T7I'P#* 0C_,03W!,P0%L]L#]/SX_*B$5CE C4C$?*LH10# ?
+M(?7 5H*&U1AQPA.M'&.D&XWN C#;#$.D-9CJ%#8!33A"H]82I"8=9A@2G&55-.MHJI>T3=#//]]C_E0S<8%(
+MS;.,' &G%80"=YI[8!H#NRCE$-CR4RC;R@#@!MR8^86X7>^"C 1>H,GF4%Z0
+MCXHF
+MVIM:B+5')[;5C-#KFU;7QBJWP"O'L71 @.#R[/: QK!OVQU?A#
+M9VM-H[-'>UQ_J,ZJ(E^!7!?(8B(@
+M*VKI[881P/P0/NH-P@<;\ #UG]!AG"'JP5LAKA6]YP[("#88A,1W0&TZ/(6AAD JY X?3/,16@F?B(@'**8MC0#=S"6;UHN+D>.X9 RE3PRY
+ME?0[K^IVJ[===4YNIMA+R#6'"MF(41.#,X1[O(]A. J]7>>A.&VJ #R23(WE
+M+38\S&+/X)Q[%'V+_4M,<[DS#(AM53EHK7E4[%;#?-^1)8#@_NK@XTG?MO7Q
+M[*+7OV@"'C\Y.+_L[]H?[M^D>7Y5W'QS:
+MWUVHKX=SH8T"]H&M.+9$$*//8!?@0>";%WOYQV^*.5WU*G]JW 1HE<2[(8WR,T7.UUV.ZU-%H_>CG2\E&2XLJ;\K$ND
+M4!THR)6.UBW0#:Q%>Z8;+9IHM^#_+O#_D,Q_$OR/3_!&ZIK8%,6&\CP(3?U%
+M1L+DWHP$I+%1(K,)&W,DLXWV&TUJCE"OUPJIKKU5H TPRTP':Q*-%+J;;TJA
+M!--5F9QU5S\)].] H#85Y5YB3-TTF#))/D$XHW_%-VDN1,'S\$R9?(VSF;-!
+M(KF_ *#J=ILC)PMF4F3!Y%*=
+MT2Q;KW76[Y_Q3_[ZR_+7)X.F=\D?<#Z7JPH*>B+"
+MA\"BQV!]WYFD1-Z%$W8NH6!
+MK[GL\G*.#9,01ZY@&<)*#H(0/<%Y>@:&>*T[8-;[6'8FHI\W]R9N;,[Q'*9C
+MV,*1#O@6N6W_W@:KSLMSURJNGA8[4+GO'H?E9:D<#O'G9?,0NSHCXPF>FS'(
+MTXK=>5^( ./B O;E=YG@2N+(K3>\">2IP[S9NJ!]IAICB)= R'B'S,4W/T9"OZ[A8+K-4K%"8:!\$NI
+M3@WD@!*$+_'A/%Z(181(QG"/S6<*IVZ@TP,L-!*&\:23BGX=^+&8ZL@N9C-!
+MUSP2L+. 9O"80=EA/Y;$:RB^=-:N/\]3;<4DL:431EE,*W8WFNB=MZ((\5LS
+MY .P?,0=:"!*%E\].^FOM;[SX,6CF^1D*0>JF//]8IV5I7I97:QN;(/227DX
+MJRC6].XYH1O8O?4\2:D0;]S-5L<<-'BU85.D\HB3DR,% )>V[+ HD7Q52=_
+M"-/")*!EBJS#B&)8XW+68KV63;";(O13":G=FS[TXOM3BG:64\"?F)B* ?4?
+M+MKI3*&M$.Q<(]]T;8 1LR5T_BLG%ZCV8CCO#]YOS I3GIY4 I9GX(Z'6
+M^R-C.09'05>O/4-PT5E=$TLL!1>[;G"1%;'%%CLK'C_:4UGDS3KIEQTJS!P#
+ML#!MRC-1E403D1^[:>B-RW<-Q1#8&XA,2IDI-C-]& Q ->AT9W'G">$7?>0Y
+M*_!!D79O:-%&.3USQ.96'[]Y+*T%QI>*21@ V(.Q.H8.0>'RZ8.%#N78TVF+
+MJ*&A#/.L80S;)D9^6ZI]*'IH.?%G]/"G.^'>Z*%?BAXNGU%6"M9M;;[3\3@D
+M3QLX3[(1 AW6
+M3ON-1K1X[A-^UN9'-1SB$N*5HQNJ2J&L!'*/;0D,:WW2*'@"EL)&9DH#9I7Q
+MVF%N+#+,I;4.LVKG)Z/]11FM-P]6E8(1WP32:,P&H4P?")XL -%G#\C,,J6#
+MVAR&Q,/7>/Z%ZK/D--_=7H0U^SGS,8LJ%^MTO3VOT_96J=-Z[7Y.6Q[=_62S
+MORB;G3]JE&C6^CX-U^VVNF],]'%NAG[%#EH][YU_6C.DW=EI+,
+MMLK[Q;9MT^W6NT75T]),\Z>,PXB*+Z,4;%E_]TBP)2\1\&"8I5[[0^(L)0'^
+M(G$6]EB8I5Z;$V>Y-ZCRYW)5%QYJG)7 TQE =-4E(X)17P4"Q5D$;FQZ[6Y
+M?FSVH!O;$N"SN+'/3OI_"G_U/9Q19K;5C?:]KNHYGNKNN\WG\E1#QS]D"&_]
+M9PCO[Q?">VI(A54C*A6W_2,1E1<^0&;*V)CJ-0\7JGN6/FG];H,P9&.I0$E0
+M)-*D<-V:4CJDDQKUFC[[=X G _,2"$YQOKPX0\\ISF"M+7L$$:51H+Q,GT17
+M\P_]TSZE*2G-Q#L=TG%"L JQ(-$^!;.
+M(A89S"&O?F)*TU#F3ZIVZ[5?.6"D@+.#%KODL9*QL&P
+M,N/27UDO:>FAFV_1=Y(7:<0O+[U *WB/]0),Y(1%,R=@\_>TK&!?Q.D9U3T+
+M0@X "M+@<4KZP8E]C7'UE@(IY64/920)*&A@E=,XBRR2/#Y2"
+MBZUZK1@\3@R'/K]/LP1^P.%+3]GQ]SC0$?LLAD/029?>6$J"UJ=XIM2@YZ^'
+M)P=8)\@V%:C4?GV!9X=\=B'X"( YOJB_+-:#BKEA.988O>7YVG$
+MC<12EIDL,?(;#CN#4-.('&)YI=?[GSR:O(?%!@:)4ZY+7J!:LHCAF&8FD]+K
+MN#H<)5>.H1R>@.Z!(H19HP2,(#ZMU_+!>![Z3@:F3ME.&UAPJLR).A/ O)ZE(-;FUKK7H8)8WU\(Z!5>&*?I1.V^?1M86FCYL-_-]*X%N_(V%K>J
+M"+?5*!B2&F9B]K^3Q\+MJ)T,\)]&/J
+MJ_0;"\9K'TT;TI+GT:9VMMRFZK50QJ,F"(2H:$I;X^9@;)%##A;G*-8&ST!4
+M"OI0"KDVHRC23B?.EZO"9NN@=;;)5MIA4\$3"NZ#8-9# M4#I#7%>D$3P!JF
+MOH.:[V\QYTWJWQ3Z1]R+!IK#D@LF*F'M&^25$L95RM[>W
+M+PK
+M6R5/UR8!:X#.L6 -0)@'B)"KX07)$".LJ(K0U :MM&-5\V&+':=5<68SO6P5
+M/\.Q, DL!I8?T)^I;Y8(/_-T$; [V)'2,<^++P=V2VCZF4+PA9B*T)P]70;F
+M= H;B>C:8D$34HJP!?BS9\KFD7S#V8=%Q3?]IM,&RC![E($RD*0.!V,E0D%6
+MBP&;U@ZC@H$ZKO>$?4<7+WG$1C PJO$HDPE6(\;<#+/$>K1H%"((!S-D@H$
+M:Z2 >3$2L3?-*]A\;5VB4)2^MEBQGL"BZAJH,$5]XO$$+!J/%EI%$LOF
+ME7F$8^Q%0FN!![25I5))I#?$-#'L=[V6%YKE5%]V,"7N'QBZ!$'C<#[P(M=(
+MA5+H$#_('_1,P\9/A^C?SR%JTY:= BW(9Z9T9D'=6%;]ZC.:T2">E&8-930$
+MBO048T.9,@Z6DGXPU9?U XXVNA=H7!_"ZU9TY[J#L*6Q/ZP.8*CN]$DVE).:
+M$^LU#W I^=\*X$G#IH8Q3):#6/B(?@%HP-/QM)&74B.NO45.3@@(8W4Z?514
+MM=CY_(*6 /!-#*PXZ>><<45M5<@M ,_\.D:W!4X,8X%6$=-AP;Q+]9%]TC'-8 Q+![+)SK0!\Q'"&S= '-)Q/V,K(9K&'PO0[LE1'.C%,=(5
+M7X]RF&+[3$BBQFRCW6BWVQ9%F\V*N]J30@#S\@=
+ME^B*;R9+#!8LECH0A?%!(V:;D?2#X=30@:Y']RI>/HCP&FK.IAK/
+M\P4 77^G,Z"[>:\S8&FK_%E\ QA<0#4#RF,K,"UA"L8R;]IM\
+M:7DH%BBHGI=2QQ#[!@ZNLT7=4N@VRJRK]^%2ZX]Y&AKEM Y=<'J^;Z":.J;J
+MMH(#58)XY2,7!41Z.K5\],_EX^"ZK\NZ*0PH"J2,RGA5;29
+M.QQL%32 030'CQ)W8_
+MAAB]@G7WKA'!%BX("F@A84UL]#0?@^.=4-8]\63G0V]A[?(*Y2W=FR66AT&4
+ML8"G*^?=Z<#R*QV,7J6K%W(^SV__T%1*^T_'$7$=%.B5PIV^N=[ NA+8RL:K
+MG*;5LCJ'#Z<6/O0J][&\1H0+5S)WWK!9+TI!3(9IT=(T!Q-C3_JF#G7!B0T*
+MS!,S%J6L+:T:=XQE80= $,L3XE$./FKHDL!N.F91*-M'[Q&]92Q#.T0 M=>S
+M-;]I1%5#+Y1J'HQI$85)#XP@91 8+!V512+\1Z#6>+& P0OCK-,EXPKQWB;]
+MA*<5;P(_AJ.&L>>65\Y3.EX0V['V\!/\**-5\V8U(#ND./.Q2$VI"
+MP@D3;#/G1"W-.K>=<\.Y*-NNT]:$+?%?KYDZ/ZT?TP.Y^=,#^7?S0!8J;.;"
+MXE=163.]ZJ)Q+W,!W4)7YCCWS]5KE0OH6NP;OH(YJL#ZH$Q .(+T>;8+P!HY
+M3G*N :-3"#&KQCQ+<]&QF$24?"CH(J2*:R2>"M6?HWIXIX3W36+N&*^B-"4W
+MV228:,<#+I<]]U"YJZ&4T#"#VNB"I04NRWO\4CN;*C@##:F/(?<"J3P^R4(Y
+MSB(L^C:W*;PI;&V^XP(PBIN@]ORNBH7SP]"7X62&/3FE2T=O=4H@WK\E8RM7
+MG%:>*^WC/T\87[UV$L37PC^.<7G@>ST^&/6<@3[/,#^1HU1>?V>"W M[@8 ^
+M;P'M-$^DI"O!R/;3*WAZ],UM=/>8SB_0=YKQ ),/AV9HH1F:*H9&@DC?
+MMZ>+(J9(8W=R;84DJ1!BR95330,*8=A4*<=@'.P8@ ZVD;A'MT
+M58T>D?4954?LBB6GJ42,$$7"0S?55I_!PDSL898B" 00G^26"\@9-3$F KG:
+MT5*1@]_U/3W)!XO$5^9:I6(/[7$)_7P NPE:
+MO/S07 PX\S0+_?(C:X=6GMXA%9:? 2.)N/)UQ*>5!WCY6?E13K[FL3TJ8FYV
+M*K^,6U]YDF"R35I]*'^?&6#.">7':NS.&DA&/[ZM/"5?@QAQ<^>F.8""\21%
+M<64M+W2=>^T@$PCVS!$'TN^X/AH2F7.9TX=D&/HPTS$=_XME2J7"'R M(X/,
+ML&S[A":11@RD@OW0C7EX4 B-23J/([2DT.*$QJE!&I[2I)TVH T/WX!5FSO'
+MU4/4KGEU*C.F5Y@ZINA@O9;%?H9\&@;Z?KO'6VLA\>/A)FOIX]ANS-2Q=:P"
+M#1N M)KH_+!<5LU.S%S0^L29H4>#6P<1D,(-UW TB%!68C00%8-,7$"ZBY-V
+M% [\!%6E
+M\)%Q.I7C&.I]63&2]T9[_LTAC"(PB,)7BS"[*;3D3D?H=7J@)_(UYXT0^'94
+MH>T*^45/3,MX'7TMW1\QT_+M6! _WC>PT@K,7N.H74&55O/3-T;D%(( *XBY
+MI#G4/L;J]V@<:*5>'6;I[CRNQMB4S.@:8]NIRK#:()6RA@499B:C\% ;H?GE
+MU1+/9P@20!KDN$\,EL P%Q!_K.R^\$F SC%ZZ _OW3P2*O(W
+M'T2YI5&I)F/I5NV02JSEL91"TU%#_3L39H8)18$NQ;)ZV3^GCZ(1(WW
+M\!YLB/A*GZ@IK=9-(&Z)]8HR!X;6J@W,.<1*V->9DA&3%8EB*(O<\N1)T'UB
+MA(PVHL6.Y"UZ8^T%1/F*T,%]>#&O+_JXO(3QH . @OY6X&E6@.W%"\6$1Z(/
+MQ3:)8AZ0$W4*X#:T( A/?TIHR+KT'^C0T3@#K6=@ [*)SHC*E[R*O=U5Q[YI
+MH"\1CU&C\B^0/&)5
+M.GJ."!.S/'7=,%04[=I)JH0F#I#([A,9V"KXR?,LG>\_XL^"JV]C:P7*$SD;>&I]\Y[
+MMKVZM;;+=K9WT.7;?@^O$P?GXT^[&HQW/$7 ZB*;L0 >K<[],U2Z9K/ ]W;F^^:ZQN=9J?;7B^+U(/=
+M=O=^3?:2Y$Y%!W1YTY$E\/*T7H.G*=XP_QI$_TKA&A7K.2U"\X_R
+M89GJ7VF%GD3T[[8[S?7.NV9G9WV[@B-^2!S^[F$<#C1\UOL-'AY=G9[L_S]0
+M2P,$% @ N30C6-&DDF<\ P 1@L ! !D>6XM,C R-# Q,#,N>'-D
+MO5;?;]LV$'XOT/_AIJ<-F$3);@=8B%.T2P,$2+/"38>]%;1T=HA2I$92B?W?
+M[TA)CNS$GI,4S4LHWGT?O_O!HT_>K2H)MVBLT&H:94D: :I"ET(MIU%C8VX+
+M(:)WIZ]?G?P2QW!V?G$%,=PX5]N,)?/X$'P.+@FM1X1"JZ[41RQL'OQ:_04"=::502ES#N5!<%8)+^-(K_ATN
+M5)' >REAYF&69%HTMU@F'>O*EKDM;K#BKU\!4+Z4S151-M4T\HGH\K":&YEH
+MLV2E,\RM:V3D%),7&E%$ ^C_XQY@J!#>8C? !;?S .HM/C_C :)+Q$$9I.F;4#HZRC .(%.K[ 80W
+MSZDSAH<\@-R- R";3"8L6'D]4M38.VA:\U$6X&0>RZ;_BO@BQWXJS43S.$B*+0#TJ>D\%@;U82%_;
+M9PG9-,;10NR^!O:+V"_VG?YXVS\[ [NWV<<_\?%G?QP5_X-I\ .4:'7U4C&#
+MD?;\FB@NBG9BMU4 O=
+M;=&F;^*\[^09+B!,KYR;PFB)AV<C-X.[V47&ZH?3=,(TMIEX/;^7.C
+MK0T^-5J"6!KMH6C[@_X\\'IR[/Z<:_( O_@ZN]C[.&Q>!^;X2BM=K5N-9[IH
+M_/O3_W^ORH^*E*TOJ*U,%51%(.@9F9'[MZ/<-QI[E272SS81>C=+_1_]JNL9
+MADNN2FCI8,!WPG9)=OD;B^5?ZC2L"RZ+1FYRWH$[CT/ W6H=C[Q7MA_7[?;U
+MZN\PV[W$W<[PLK=;[;"AS_\ 4$L#!!0 ( +DT(UCT$^Y.B08 *E& 4
+M 9'EN+3(P,C0P,3 S7VQA8BYX;6S-G&]OVS80QM\7Z'>X>6\VH+)C>V]B
+M-"TR)QF")DW0N-NP82ADB;&)2:1!RHG][4?J3R/'E$R%IRDOFBK2W7/W*+]3
+M:%G.^X^;.(('(B3E[*0W[!_U@+" AY0M3GIKZ?DRH+0',O%9Z$>ELC>
+MQP]OW[S_P?/@[.+R,WBP3)*5G P&CX^/_?">,LFC=:(D93_@\0 \KXB?SK["
+M[UFY"7PA$?$E@=B7"1'PZYI&X61T-!H/CX:C_JB<)HBO]2#T$S*!X6 \4'&_
+MP' T.1I.QL=P>PWGJ0J#&8U).96OMH(NE@G\%/P,:=899XQ$$=G"!64^"Z@?
+MP5W1\3NX9$$?3J,(ON@TJ=J41#R0L)^K1I3].]%?YKIY>/L&0)U%)M-])SU]
+M+O)3L9F+J,_%0C5[-!X4*;VGC,U>RN,X31@>'Q\/TJ/E:$E-L4I\./CS^NHN
+M6)+8]]395S^M("\CZ42F^Z]XD)Y"BP:A,D)_YQ5AGM[E#4?>>-C?R+#W01?,
+MSXX_)]&5VH+4PT3PB-04UH?3ZKT\/MFN5#S9)(2%)%?^KLV#/&HIR'VFJME+
+M)24)^@O^, @)U82,]8:G-W2'/ZIOODVYPOUT+A/A!\ENO4B?(BZ*G:F)DYXA
+M:;#;D(X[%<&.EB^"0D=M'O"?1PP"KGYNJ\1+%8OT>\%C8Q=Y.6XX^"V:1\8V
+M-4EJ2T\W8=[7NT->,Z&R,4$D7PN%5Y,?;>KG0ZH,?Q?:_[P?/-5^+:VJ2X@D
+M5TW[=4/R-%:8JW_)1>0O;)%\EM01DN;6N>&@"Y(&(20DORN#EG8&LH5&RT#:
+M=NN&XSE+:+*=JC+"CR[5!7CSB6QML:Q([@C/>BN\)L@%UQI!)&RS"I"7@+0&
+MJ"+. +?8>AGDYOV[(7W&@[6>FYGJWI;DW9R. #8VSO>/N>"ZKX-$:2$,6MD9
+M3?PVRT1:]HJ#X2T1E(?G+#Q3+V>:\O@LN6,PS59X31 &J@9!;&:S$J!J@"Z"
+MAF\+K1LYMNX?8['PA2RH7B2SY+,?6Q-MSNUTJ5!AA%?'N"\43'JXZX2G"J!+
+M(*T2VNC;L$BP;AX#Y$L6<+'B(KU5HP9GRM5JD;*<\;,CU :E.,;>SR:U3
+MW(? 0AYW)G8*0EH1\I*@:R(-R?_@RS S+S>',407-"*?U_&JZ8Q0)WYF\M0+9;H/4D6&S<3 *=#H*
+M=9;X@4#W$:@4Q<4_UW]7;("N!#<,:QW3F@T#^B_P@HC^5&W>B!E_9"\"OYS^
+M&K WV#%!_Q2&AOQSR9: UV6 "]"%<&''-E"'NIT+1,S3%P4WXE;P!\J"AJ]M
+MJS1> _!5QDS4/XM%0]^HVQ+_V:L[A4Y1#7<(6K%2-PD-_"".PRV7B1_]15?-
+M;_28%5[#*)A-F09A)Q)M# RJ+0U!5@E4*GJ,2A3XWS_F--#4'LZ2."FO^>U,@ZG^'WN/ !EV:P;B/K)Q.AVR5G#FX;[
+M>1T!66F FX^[@&G60H(S%8=4'>OF23O]EB%MTK0;J'\(FB2$37D1KEI]VXXW_&(!C2A;'&M5MR"
+M^I$MRZ;,CD"N,<&K(EP0KE)#XO=)'@I]9WC;:KE,;J.^W;"]%43/!U%8I(^#
+MZ8\(B)O[>_N%0YU"1QA;F.*'(EVP/J2*A+H
+MZ%]*N2;"?0 ,.J]C#*H-FH=A+QYQ)"JTVQJ,K%RK\]&2H]HI:63+<7E#@K5:
+M3VV'H_F,)I'U/8[]O*Z6-E4&N/FXT[+&J(6UJ,G%0:E#*N^^IFFEWYT538.F
+MW4"="5]_WO9N&\^Y]1+\65)'B)I;YX:#+G :A)#(S)4ADW:FLH5&RTC:=HMS
+MW3S?!$OEEC1YHMNZV^O;>$VU;![C_;WS
+MF(B%FIK?!'],EFHQLO)9PT\S5DAT^@Y?O2U^,-3]/;X:6236\S?&BD*058*\
+M%-)[?"W:,+S)U]@+R@ALU&\.)JF^FYA]+*@A_X;\;N&O-L3KXQ"PK]!$9GX#
+M3V7RSW)A =^2 1/M-B[*.Z[4EOX3*_DNFOVA$;7G/U!+ P04 " "Y-"-8
+M*PO C&ULU9I=C^(V%(;O
+M5]K_X*8WK=00 K/;#AIF19F9%>I\(&#;JC-6F-7IH#:>"2E!EHD
+MCIH1]KL@<:-5CUO-2])_(+=Y%$%&+(-=J9RO%9O.#/DA^9'DJALI!' .:W+'
+M!!4)HYP,G>.?2$\D-=+AG RL3*--#>H9TMHV*F?B[Y;]-[;FR=LW!/^PCD+G
+MK>W 5F-;C-58\9I44[1;;T9.%.QJ5@>B93.7Q)>7EU%^M-A?L[+>.$ <_?EP
+M/TQFD-$0&2"S9&\H=).:?]2[YMY%FX.NOV8MG4>ZETE>^A/2(D=[V$^AZQ;:
+MIC!NA,VXMM)I<&V'W%1520X#F!#[^FG0*XR9K@6$9I7/J)Q^/<;(AJZDD-DZ
+MLI+H1B:+#(1QKQV1W@K#S+HG)E)E>2(!R6O:FBF8M .,&KI@ULWW XSS^9PX
+M9CW';X5FV9Q#0**=;.8*9XXP>>][;"@(8&5 I)"Z,-;_?Y/O]0;I=M[*I)"_
+M^^;FO#0DM:E\CE)@=L2F?6.KLZD,?OCBZ%L:ZF#:J4W]CM/IJ8;V1$5#N]0Z*BF$I"IQX?#M ;+BI-_VB.948;PP
+MF>'RYM03);/2XFQ'DZ5&I4I!M8-&HX9?]H#,%9,*86-+0!8:O_P?I43$?$U<5UQ+##UO0&
+MFUM/1EC&4VD5-=6%5/3IV+SSCDT?T"LN]^D-GA.="VE/7'U:>X8=MO?>8-NL
+M#0.8,INH,(\T.YE:N;:ZT,K].F8_>\8,KP>DFDN5EW:(%8:N7. 2O^[*]$R$
+M7PE5=:)?L>\ _^(9X#O&X7&1C4&=1W-75W5TNUX=ITO/.(WHJI=B&=B$;:Y)
+M7P/M:)"J$SQJ?(NS6?<,9R=-L+Y=E6]3R7_'GU1?R6=F-PQ?0_ @AB<8#WP[EOY.XH4W%.UZTE% S^%6U%275-&G8^//AHN] \+[
+M,RG.O$@XU%67T:%7Q\F?'98_T)\!T959MA#;P]3/4TFIR^+
+M+T6H+KV77#N*_NRG[&73TWH!ZM^S+(GC#=$2[UNN%_YLK PA65B+<6,\8H:?
+M?"IYJ*LNMT.OCI,_NRTC5L-U-I8G_]SMB:I+:,^HP^//_HB;8K>K9$;%
+M%,ZY5U>NK2ZLY]W\FQ1)]Y1&6>';\_H?MDJOHH"[WV& ?>=TTO,= "TMP #@ @ $
+M 9#4X-C4X-V0X:RYH=&U02P$"% ,4 " "Y-"-8'$K%[9\@ +F@
+M$0 @ $?'@ 9#4X-C4X-V1E>#DY,2YH=&U02P$"% ,4
+M" "Y-"-8T:229SP# !&"P $ @ 'M/@ 9'EN+3(P,C0P
+M,3 S+GAS9%!+ 0(4 Q0 ( +DT(UCT$^Y.B08 *E& 4
+M " 5=" !D>6XM,C R-# Q,#-?;&%B+GAM;%!+ 0(4 Q0 ( +DT(U@K
+M"\"-R@0 #DL 4 " 1)) !D>6XM,C R-# Q,#-?<')E
+:+GAM;%!+!08 !0 % #T! .3@ !
+
+end

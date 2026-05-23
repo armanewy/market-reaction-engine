@@ -1,0 +1,239 @@
+8-K
+
+0001061983false00010619832022-11-072022-11-07
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 07, 2022
+
+ 
+
+ 
+
+Cytokinetics, Incorporated
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+000-50633
+
+94-3291317
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+350 Oyster Point Boulevard
+
+ 
+
+South San Francisco, California
+
+ 
+
+94080
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (650) 624-3000
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+CYTK
+
+ 
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On November 7, 2022, Cytokinetics, Incorporated (the "Company" or the "Registrant") announced new data from two additional analyses from GALACTIC-HF (Global Approach to Lowering Adverse Cardiac Outcomes Through Improving Contractility in Heart Failure), as well as an analysis of patients hospitalized for heart failure with reduced ejection fraction (HFrEF) from the Get With The Guidelines®-Heart Failure Registry, were presented at the American Heart Association Scientific Sessions 2022 in Chicago, IL.
+
+Reduction in Heart Failure Events for North American Patients Treated with Omecamtiv Mecarbil in GALACTIC-HF Associated with 26.9% Cost Reduction over Three Years
+
+Nihar R. Desai, M.D., MPH, Associate Professor of Medicine, Associate Chief, Cardiovascular Medicine, Yale School of Medicine, Center for Outcomes Research and Evaluation, presented data from an analysis of the healthcare resource use, early benefit and costs of hospitalization for North American patients with heart failure with reduced ejection fraction (HFrEF) treated with omecamtiv mecarbil in GALACTIC-HF. This analysis included 1,090 (78.6%) North American patients from GALACTIC-HF matching the criteria of a subgroup of patients previously identified as being the most likely to benefit from treatment with omecamtiv mecarbil: those with an ejection fraction (EF) ≤30% and who were not receiving digoxin in the presence of atrial fibrillation at baseline. In this subgroup, treatment with omecamtiv mecarbil was associated with a reduction in the risk of the primary composite endpoint of cardiovascular death or first heart failure event (hazard ratio (HR) 0.80; 95% CI 0.68-0.95; p=0.013) and a reduction in the risk of first heart failure event (HR 0.81; 95% CI 0.67-0.98; p=0.027). Treatment with omecamtiv mecarbil also reduced the risk for total heart failure events (HR 0.76; 95% CI 0.61-0.94; p=0.010; absolute risk reduction (ARR) 14.2; number needed to treat (NNT) 7), with 44% fewer heart failure events seen at 30 days (incidence rate ratio (IRR) 0.56, p=0.035), 39% fewer heart failure events at 90 days (IRR 0.61, p=0.005), and 21% fewer heart failure events at 3 years (IRR 0.78, p=0.029), with rising ARR over time. The estimated cost reduction due to heart failure events avoided with omecamtiv mecarbil averaged $420 per patient at 30 days (38% reduction), $928 per patient at 90 days (34% reduction), and $6,052 per patient (26.9% reduction) at 3 years, suggesting that treatment with omecamtiv mecarbil is associated with both a clinical and economic benefit for patients with HFrEF.
+
+Women Enrolled in GALACTIC-HF Had Lower Quality of Life at Baseline and Lower Rate of the Primary Outcome; Treatment Benefit from Omecamtiv Mecarbil Did Not Differ from Men
+
+Maria Pabon Porras, M.D., Cardiovascular Division, Brigham and Women’s Hospital and Harvard Medical School presented data from an analysis from GALACTIC-HF on sex differences in baseline characteristics, clinical outcomes, efficacy and safety of omecamtiv mecarbil. Of 8,232 patients enrolled, 1,749 (21.2%) were women. At baseline, women had lower Kansas City Cardiomyopathy Questionnaire (KCCQ) scores (male 67.5 ± 24.8, female 62.4 ± 25.9, p<0.001), indicating they had worse quality of life, and they were less likely to be treated with guideline recommended medical therapies and devices than men. For both men and women, KCCQ scores at baseline were highly predictive of incidence rates of the primary outcome, however, compared to men, women had a 20% lower adjusted risk of the primary composite endpoint (HR 0.89; 95% CI 0.81-0.97, p=0.01), and had lower rates of serious adverse events than men. The treatment effect of omecamtiv mecarbil did not differ between men and women (interaction p=0.68).
+
+Patients with Ejection Fraction ≤30% Have Higher Risk of Death, Heart Failure Hospitalization
+
+Stephen Greene, M.D., Assistant Professor of Medicine, Duke University School of Medicine, Member, Duke Clinical Research Institute, presented data from an analysis of 113,348 patients hospitalized for HFrEF from the Get With the Guidelines®-Heart Failure Registry admitted between 2014-2019. Patients included in this analysis were hospitalized for a primary diagnosis of HFrEF with EF ≤40%, without severe kidney disease, who did not receive heart transplantation or a ventricular assist device. Among this population, 78,589 (69%) patients had an EF ≤30% and 34,759 (31%) had EF 31-40%. Compared to patients with EF 31-40%, patients with EF ≤30% were younger (68 vs 74 years), more likely to be Black (29.6% vs 20.2%), more likely to be male (68.9% vs 60.7%), and more likely to receive guideline directed medical therapy at discharge. Patients with EF ≤30% had a significantly higher risk of death (p<0.001) and heart failure hospitalization (p<0.001), as well as numerically higher healthcare costs (p=0.11) and rehospitalizations (p=0.106). Overall, these data suggest that the two-thirds of patients hospitalized for HFrEF with in the U.S. with EF ≤30%, despite being younger and more likely to be receiving guideline directed medical therapy, face worse outcomes including higher rates of death
+
+and hospitalization.
+
+About Omecamtiv Mecarbil
+
+Omecamtiv mecarbil is an investigational, selective, small molecule cardiac myosin activator, the first of a novel class of myotropes1 designed to directly target the contractile mechanisms of the heart, binding to and recruiting more cardiac myosin heads to interact with actin during systole. Omecamtiv mecarbil is designed to increase the number of active actin-myosin cross bridges during each cardiac cycle and consequently augment the impaired contractility that is associated with heart failure with reduced ejection fraction (HFrEF). Preclinical research has shown that omecamtiv mecarbil increases cardiac contractility without increasing intracellular myocyte calcium concentrations or myocardial oxygen consumption.2-4
+
+The development program for omecamtiv mecarbil is assessing its potential for the treatment of HFrEF. Positive results from GALACTIC-HF, the first Phase 3 clinical trial of omecamtiv mecarbil demonstrated a statistically significant effect of treatment with omecamtiv mecarbil to reduce risk of the primary composite endpoint of cardiovascular (CV) death or heart failure events (heart failure hospitalization and other urgent treatment for heart failure) compared to placebo in patients treated with standard of care. No reduction in the secondary endpoint of time to CV death was observed. Adverse events and treatment discontinuation of study drug were balanced between treatment arms.
+
+About Heart Failure
+
+Heart failure is a grievous condition that affects more than 64 million people worldwide5 about half of whom have reduced left ventricular function.6,7 It is the leading cause of hospitalization and readmission in people age 65 and older.8,9 Despite broad use of standard treatments and advances in care, the prognosis for patients with heart failure is poor.10 An estimated one in five people over the age of 40 are at risk of developing heart failure, and approximately 50 percent of people diagnosed with heart failure will die within five years of initial hospitalization.11,12 More than 2 million people in the U.S. are estimated to have an ejection fraction <30%, indicating they may have severe heart failure.13
+
+About Cytokinetics
+
+Cytokinetics is a late-stage biopharmaceutical company focused on discovering, developing and commercializing first-in-class muscle activators and next-in-class muscle inhibitors as potential treatments for debilitating diseases in which muscle performance is compromised. As a leader in muscle biology and the mechanics of muscle performance, the company is developing small molecule drug candidates specifically engineered to impact muscle function and contractility. Cytokinetics is readying for the potential commercialization of omecamtiv mecarbil, its cardiac muscle activator, following positive results from GALACTIC-HF, a large, international Phase 3 clinical trial in patients with heart failure. Cytokinetics is also developing aficamten, a next-generation cardiac myosin inhibitor, currently the subject of SEQUOIA-HCM, the Phase 3 clinical trial of aficamten in patients with symptomatic obstructive hypertrophic cardiomyopathy (HCM). Aficamten is also being evaluated in non-obstructive HCM in Cohort 4 of the Phase 2 clinical trial, REDWOOD-HCM. Cytokinetics is also developing reldesemtiv, an investigational fast skeletal muscle troponin activator, currently the subject of COURAGE-ALS, a Phase 3 clinical trial in patients with amyotrophic lateral sclerosis (ALS). Cytokinetics continues its over 20-year history of pioneering innovation in muscle biology and related pharmacology focused to diseases of muscle dysfunction and conditions of muscle weakness.
+
+Forward-Looking Statements
+
+ 
+
+This press release contains forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995 (the "Act"). Cytokinetics disclaims any intent or obligation to update these forward-looking statements and claims the protection of the Act's Safe Harbor for forward-looking statements. Examples of such statements include, but are not limited to, statements, express or implied, relating to any of our other clinical trials, including statements relating to the potential benefits of omecamtiv mecarbil for patients with heart failure with reduced ejection fraction or any particular patient group with certain characteristics or the actual cost reduction due to heart failure events for patients treated with omecamtiv mecarbil, and statements relating to our ability to obtain marketing approval from FDA or any other regulatory body for omecamtiv mecarbil. Such statements are based on management's current expectations, but actual results may differ materially due to various risks and uncertainties, including, but not limited to, potential difficulties or delays in the development, testing, regulatory approvals for trial commencement, progression or product sale or manufacturing, or production of Cytokinetics' drug candidates that could slow or prevent clinical development or product approval; Cytokinetics' drug candidates may have adverse side effects or inadequate therapeutic efficacy; the FDA or foreign regulatory agencies may delay or limit Cytokinetics' ability to conduct clinical trials; Cytokinetics may be unable to obtain or maintain patent or trade secret protection for its intellectual property; standards of care may change, rendering Cytokinetics' drug candidates obsolete; and competitive products or alternative therapies may be developed by others for the treatment of indications Cytokinetics' drug candidates and potential drug candidates may target. For further information regarding these and other risks related to Cytokinetics' business, investors should consult Cytokinetics' filings with the Securities and Exchange Commission.
+
+References:
+
+1. Psotka MA, Gottlieb SS, Francis GS et al. Cardiac Calcitropes, Myotropes, and Mitotropes. JACC. 2019; 73:2345-53.
+
+2. Planelles-Herrero VJ, Hartman JJ, Robert-Paganin J. et al. Mechanistic and structural basis for activation of cardiac myosin force production by omecamtiv mecarbil. Nat Commun. 2017;8:190.
+
+3. Shen YT, Malik FI, Zhao X, et al. Improvement of cardiac function by a cardiac myosin activator in conscious dogs with systolic heart failure. Circ Heart Fail. 2010; 3: 522-27.
+
+4. Malik FI, Hartman JJ, Elias KA, Morgan BP, Rodriguez H, Brejc K, Anderson RL, Sueoka SH, Lee KH, Finer JT, Sakowicz R. Cardiac myosin activation: a potential therapeutic approach for systolic heart failure. Science. 2011 Mar 18;331(6023):1439-43.
+
+5. James et al. GBD 2017 Disease and Injury Incidence and Prevalence Collaborators. Lancet 2018; 392: 1789–858.
+
+6. Yancy CW, Jessup M, Bozkurt B, et al. 2013 ACCF/AHA Guideline for the Management of Heart failure: A Report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation. 2013;128:e240-e327.
+
+7. Ponikowski P, Voors AA, Anker SD, et al. 2016 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. Eur Heart J. 2016;37:2129–2200.
+
+8. Roger VL. Epidemiology of Heart Failure. Circulation Research. 2013;113:646-659, originally published August 29, 2013. Doi: 10.1161/CIRCRESAHA.113.300268.
+
+9. Kilgore M, Patel HK, Kielhorn A et al. Economic burden of hospitalizations of Medicare beneficiaries with heart failure. Risk Manag Healthc Policy. 2017; 10: 63-70.
+
+10. Jhund PS, MacIntyre K, Simpson CR, et al. Long-Term Trends in First Hospitalization for Heart Failure and Subsequent Survival Between 1986 and 2003. Circulation. 2009;119:515-523.
+
+11. Benjamin EJ, Virani SS, Callaway CW et al. Heart Disease and Stroke Statistics—2018 Update: A Report From the American Heart Association. Circulation. 2018;137:e67-e492.
+
+12. Roger VL, Weston SA, Redfield MM, et al. Trends in Heart Failure Incidence and Survival in a Community-Based Population. JAMA. 2004;292:344-350.
+
+13. Shannon M. Dunlay, Véronique L. Roger, Susan A. Weston, Ruoxiang Jiang, and Margaret M. Redfield (Circ Heart Fail. 2012;5:720-726.); Olmsted County community cohort of HF patients (1984 to 2009).
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CYTOKINETICS, INCORPORATED
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+November 7, 2022
+
+By:
+
+/s/ John Faurescu
+
+ 
+
+ 
+
+ 
+
+John Faurescu, Esq., Vice President, Corporate Legal & Assistant Secretary

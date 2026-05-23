@@ -1,0 +1,245 @@
+8-K
+
+false 0001815442 0001815442 2023-11-02 2023-11-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 2, 2023
+
+ 
+
+ 
+
+KYMERA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39460
+
+ 
+
+81-2992166
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Kymera Therapeutics, Inc.
+
+200 Arsenal Yards Blvd., Suite 230
+
+Watertown, Massachusetts 02472
+
+(Address of principal executive offices, including zip code)
+
+(857) 285-5300
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+KYMR
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On November 2,2023, Kymera Therapeutics, Inc. (the “Company”) issued a press release relating to its Phase 1 clinical trial of its STAT3 degrader, KT-333, a copy of which is furnished herewith as Exhibit 99.1.
+
+The information in this Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events
+
+On November 2, 2023, the Company reported interim clinical data from its Phase 1 clinical trial of KT-333 as of a data cut-off date of July 10, 2023. Of 21 patients enrolled through dose level (“DL”) 5, 12 were evaluable for disease assessment including 1 with cutaneous T-cell lymphoma (“CTCL”) and 1 with peripheral T-cell lymphoma at DL2 and 10 with solid tumors at DL1-4. One partial response was reported after two cycles in a CTCL patient at DL2, and stable disease was reported after two cycles in three solid tumor patients treated at DL3 and DL4. Pharmacodynamics data in blood available for DL1-4 demonstrated robust, dose-dependent, and sustained STAT3 degradation in peripheral blood mononuclear cells that, particularly at DL3 and beyond, were at levels associated with anti-tumor activity in preclinical models. No dose limiting toxicities or serious adverse events were reported; the most common adverse events were Grade 1/2 constipation, fatigue, nausea, and anemia. The Company believes these data provide evidence of STAT3 targeted protein degradation in humans with associated STAT3 pathway inhibition, along with early signs of antitumor activity, highlighting the potential of heterobifunctional degraders for targeting previously undruggable transcription factors.
+
+The disclosure under this Item 8.01 contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, express or implied statements regarding the Company’s views on KT-333 as highlighting the potential of heterobifunctional degraders for targeting previously undruggable transcription factors; strategy, business plans and objectives for its STAT3 degrader program; and plans and timelines for the clinical development of its product candidates, including the therapeutic potential and clinical benefits thereof. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this Item 8.01 are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, risks associated with: the timing and anticipated results of our current and future preclinical studies and clinical trials, supply chain, strategy and future operations; the delay of any current and future preclinical studies or clinical trials or the development of Kymera Therapeutics’ drug candidates, including those for KT-474, KT-333, KT-413 and KT-253; the risk that the results or interim results of current preclinical studies and clinical trials may not be predictive of future results in connection with current or future preclinical and clinical trials; Kymera Therapeutics’ ability to successfully demonstrate the safety and efficacy of its drug candidates; the timing and outcome of the Kymera Therapeutics’ planned interactions with regulatory authorities; obtaining, maintaining and protecting its intellectual property; the risks associated with pandemics or epidemics; and Kymera Therapeutics’ relationships with its existing and future collaboration partners. These and other risks and uncertainties are described in greater detail in the section entitled “Risk Factors” in the Annual Report on Form 10-K for the period ended December 31, 2022, and most recent Quarterly Report on Form 10-Q, as well as discussions of potential risks, uncertainties, and other important factors in Kymera Therapeutics’ subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent Kymera Therapeutics’ views only as of today and should not be relied upon as representing its views as of any subsequent date. Kymera Therapeutics explicitly disclaims any obligation to update any forward-looking statements. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements.
+
+ 
+
+Item 9.01.
+
+Exhibits
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release issued by Kymera Therapeutics, Inc. on November 2, 2023, furnished herewith.
+
+104
+
+  
+
+Cover Page Interactive Data
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Kymera Therapeutics, Inc.
+
+Date: November 2, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Nello Mainolfi
+
+ 
+
+ 
+
+ 
+
+Nello Mainolfi, Ph.D.
+
+ 
+
+ 
+
+ 
+
+Founder, President and Chief Executive Officer

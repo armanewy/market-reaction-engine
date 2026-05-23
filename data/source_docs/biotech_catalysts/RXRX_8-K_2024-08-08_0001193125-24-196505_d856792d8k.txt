@@ -1,0 +1,403 @@
+8-K
+
+false 0001601830 0001601830 2024-08-06 2024-08-06
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): August 6, 2024
+
+ 
+
+ 
+
+RECURSION PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-40323
+
+ 
+
+46-4099738
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+41 S Rio Grande Street
+
+Salt Lake City, UT 84101
+
+(Address of principal executive offices) (Zip code)
+
+(385) 269 - 0203
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☒
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Class A Common Stock, par value $0.00001 per share
+
+ 
+
+RXRX
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Transaction Agreement
+
+The Transaction
+
+On August 8, 2024, Recursion Pharmaceuticals, Inc. (the “Company”), entered into a transaction agreement (“Transaction Agreement”) with Exscientia plc, a public limited company incorporated under the laws of England and Wales with registered number 13483814 (“Exscientia”).
+
+The Transaction Agreement provides that, subject to the terms and conditions set forth therein, including the requisite approval of each of the Company’s and Exscientia’s shareholders, the Company will acquire the entire issued and to be issued share capital of Exscientia pursuant to a scheme of arrangement under Part 26 of the United Kingdom Companies Act 2006 (the “Scheme of Arrangement” and such transaction, the “Transaction”).
+
+Under the Transaction Agreement, following the effective time of the Scheme of Arrangement (the “Effective Time”), each ordinary share in Exscientia (each a “Scheme Share”) shall be transferred from the holders of the Scheme Shares (each a “Scheme Shareholder”) to the Company (or as it directs, in the case of Exscientia’s ADSs (as defined below), to a nominee) in exchange for 0.7729 shares of Class A Common Stock of the Company, par value of $0.00001 per share (the “Share Deliverable” and collectively the “Exchange Shares”, and the ratio that each Share Deliverable bears to each Scheme Share being the “Exchange Ratio”). Because each American Depositary Share in Exscientia represents a beneficial interest in one ordinary share in the capital of Exscientia, each with a nominal value £0.0005 per share (such ordinary share of Exscientia an “Exscientia Ordinary Share” and each American Depositary Share in Exscientia an “Exscientia ADS”), holders of Exscientia ADSs will be entitled to receive an amount of Exchange Shares equal to the Share Deliverable.
+
+Voting Agreements; Irrevocable Undertakings
+
+Concurrent with the execution of the Transaction Agreement, (i) certain stockholders of the Company who together hold or control, in the aggregate, approximately 32% of the voting power of the Company, have entered into a voting and support agreement (each, a “Voting Agreement”) with Exscientia pursuant to which each such stockholder agreed to, among other things, and subject to the terms and conditions set forth in the Voting Agreement, vote all of the shares of capital stock of the Company held by such stockholder in favor of the issuance of the Exchange Shares; and (ii) certain shareholders of Exscientia who together hold or control, in the aggregate, approximately 42% of the total outstanding share capital of Exscientia, have entered into an irrevocable undertaking (each an “Irrevocable Undertaking”) with the Company pursuant to which each such shareholder agreed to, among other things, and subject to the terms and conditions set forth in the Irrevocable Undertaking, vote (or have voted on their behalf) all of their shares in Exscientia in favor of all resolutions to approve and give effect to
+
+the Scheme of Arrangement and certain related matters. In addition, the Company stockholders entering into a Voting Agreement have agreed, among other things, that from the date of the Transaction Agreement and until the earliest of (i) the expiration date of the Voting Agreement, (ii) the occurrence of the vote at the Company’s stockholder meeting to approve the Company’s issuance of the Exchange Shares, and (iii) December 31, 2024, not to sell or otherwise dispose of any shares of capital stock of the Company which are or will be beneficially owned by them, subject to specified exceptions.
+
+Conditions to the Transaction
+
+The respective obligations of the Company and Exscientia to consummate the Transaction are subject to the satisfaction or waiver of a number of conditions, including: (i) approvals by Exscientia’s shareholders of the Scheme of Arrangement and certain related matters, and sanction by the High Court of Justice of England and Wales (the “Court”) of the Scheme of Arrangement; (ii) approval by the Company’s stockholders of the issuance of the Exchange Shares; (iii) receipt of certain regulatory approvals, including the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended; (iv) compliance by the other party in all material respects with such other party’s obligations under the Transaction Agreement; (v) accuracy of the other party’s representations and warranties, subject to certain materiality standards set forth in the Transaction Agreement; (vi) the absence of any law or order that enjoins, prevents, prohibits, or makes illegal the consummation of the Transaction; and (vii) the Exchange Shares issuable in the Transaction having been approved for listing on Nasdaq.
+
+Representations and Warranties; Covenants
+
+The Transaction Agreement contains certain representations, warranties and covenants made by each of the Company and Exscientia, including, among others, covenants by each party to use their commercially reasonable efforts to conduct their respective businesses in the ordinary course of business and to refrain from taking specified actions without the consent of the other party. The parties have agreed to use their respective reasonable best efforts to complete the Transaction as promptly as reasonably practicable, including in obtaining each third-party consent or approval necessary, proper or advisable to complete the Transaction. Each party is also subject to “no-shop” restrictions on its ability (and the ability of its subsidiaries and representatives) to solicit alternative acquisition proposals from third parties, to provide information to third parties and to engage in discussions with third parties regarding alternative acquisition proposals, subject to certain exceptions. In addition, each party has agreed that, subject to certain exceptions, its board of directors will not withdraw its recommendation of the Transaction to its stockholders.
+
+Treatment of Exscientia Equity Awards
+
+At the Effective Time, and in compliance with and subject to the terms and limitations set out in the Transaction Agreement:
+
+ 
+
+ 
+
+•
+
+ 
+
+each option to acquire Exscientia Ordinary Shares or Exscientia ADSs under Exscientia’s stock plans (each such option a “Exscientia Share Option”) that is outstanding and unexercised as of immediately prior to the Effective Time and that is held by a continuing service provider (each, an “Assumed Exscientia Option”) shall cease to represent a right to acquire Exscientia ADSs or Exscientia Ordinary Shares, as applicable, and be converted into an option to acquire shares of Company Class A Common Stock (each such option, a “Company Option”) on the same terms and conditions (including applicable vesting, exercise and expiration provisions, and subject to the severance and retention plan adopted by Exscientia in connection with the Transaction (“Retention Plan”)) as applied to such Assumed Exscientia Option immediately prior to the Effective Time; provided that: (i) the number of shares of Company Class A Common Stock subject to each Company Option shall be determined by multiplying: (A) the number of Exscientia ADSs or Exscientia Ordinary Shares, as applicable, underlying such Exscientia Share Option immediately prior to the Effective Time by (B) the Exchange Ratio, and rounding such product down to the nearest whole share; and (ii) the per share exercise price for each Company Option shall be determined by dividing: (A) the per share exercise price of such Assumed Exscientia Option immediately prior to the Effective Time by (B) the Exchange Ratio, and rounding such quotient up to the nearest whole cent;
+
+ 
+
+•
+
+ 
+
+each Exscientia Share Option that is outstanding and unexercised as of immediately prior to the Effective Time and is not an Assumed Exscientia Option shall be canceled and converted into the right to receive a number of shares of Company Class A Common Stock (rounded down to the nearest whole share) equal to (i) the product of (A) the number of Exscientia ADSs or Exscientia Ordinary Shares, as applicable, underlying the portion of such Exscientia Share Option that is vested (including vesting pursuant to the Retention Plan) as of immediately prior to the Effective Time, multiplied by (B) the Exchange Ratio, less (ii) a number of shares of Company Class A Common Stock equal to the quotient obtained by dividing (A) the sum of the aggregate per share exercise price of such Exscientia Share Option plus applicable tax withholding amount and other authorized deductions arising from the treatment of the Exscientia Share Options pursuant to the Transaction Agreement, by (B) the closing price of a share of Company Class A Common Stock on the closing date of the Transaction (the “Company Stock Price”);
+
+ 
+
+ 
+
+•
+
+ 
+
+each award of restricted stock units representing the right to receive Exscientia Ordinary Shares or Exscientia ADSs granted under Exscientia’s stock plans (each unit, an “Exscientia RSU”) that is outstanding and unvested as of immediately prior to the Effective Time and that is held by a continuing service provider (each such Exscientia RSU, an “Assumed Exscientia RSU”) shall cease to represent a right to acquire Exscientia ADSs, or Exscientia Ordinary Shares, as applicable, and be converted into an award of restricted stock units covering shares of Company Class A Common Stock (each unit, a “Company RSU”) on the same terms and conditions (including applicable vesting provisions, and subject to the Retention Plan, and once vested, each award of Company RSUs will be settled only in shares of Company Class A Common Stock) as applied to such award of Assumed Exscientia RSUs immediately prior to the Effective Time; provided that the number of shares of Company Class A Common Stock subject to each such award of Company RSUs shall be determined by multiplying: (x) the number of Exscientia ADSs or Exscientia Ordinary Shares, as applicable, underlying such award of Assumed Exscientia RSUs immediately prior to the Effective Time by (y) the Exchange Ratio, and rounding such product down to the nearest whole share; and
+
+ 
+
+ 
+
+•
+
+ 
+
+each award of Exscientia RSUs that is outstanding as of immediately prior to the Effective Time and is not an Assumed Company RSU shall be canceled and converted into the right to receive a number of shares of Company Class A Common Stock (rounded down to the nearest whole share) equal to (i) the product of (A) the number of Exscientia ADSs or Exscientia Ordinary Shares, as applicable, underlying the portion of such Exscientia RSU award that is vested immediately prior to the Effective Time and (B) the Exchange Ratio, less (ii) a number of shares of Company Class A Common Stock equal to the quotient obtained by dividing (A) the applicable tax withholding amount and other authorized deductions arising from the treatment of the Exscientia RSUs pursuant to the Transaction Agreement, by (B) the Company Stock Price.
+
+For purposes of the treatment of Exscientia Share Options and awards of Exscientia RSUs described above, to the extent such an equity award is subject to performance-vesting conditions, such performance-vesting conditions will be deemed achieved at the greater of (i) the target level of achievement of all relevant performance goals in accordance with the applicable award agreement relating thereto or (ii) the actual level of achievement of all relevant performance goals against target as of Exscientia’s fiscal quarter-end immediately preceding the closing of the Transaction, and only that portion of such equity award shall become a Company Option, an award of Company RSUs, or the right to receive shares of Company Class A Common Stock, as applicable. The remaining portion of such equity award, if any, will be immediately forfeited (solely with respect to the unvested portion).
+
+Termination and Termination Fees
+
+The Transaction Agreement contains certain termination rights exercisable by either party, including, among others, if (i) the Transaction is not completed by 11:59 p.m. (Eastern time) on August 8, 2025, subject to up to a four Business Day extension if the Scheme of Arrangement is sanctioned by the Court less than four Business Days before that date, (ii) a governmental authority of competent jurisdiction has issued a final, non-appealable order prohibiting the Transaction, (iii) Exscientia’s shareholders do not provide the requisite approvals for the Transaction at the applicable meetings, (iv) the Court declines or refuses to sanction the Scheme of Arrangement and any associated appeal is unsuccessful or (v) the Company’s stockholders do not approve the Share Issuance.
+
+In addition, either party may terminate the Transaction Agreement in certain additional limited circumstances, including if the other party changes its recommendation of the Transaction to its stockholders or by a party to enter
+
+into an agreement providing for an alternative acquisition that constitutes a “Superior Proposal” (with respect to Exscientia) or a “Parent Superior Proposal” (with respect to the Company) (each as defined in the Transaction Agreement), subject to the additional terms and conditions set forth therein.
+
+Exscientia will be required to make a payment to the Company equal to $6.88 million if the Transaction Agreement is terminated in certain circumstances, including (i) if Exscientia terminates the Transaction Agreement to accept a Superior Proposal or (ii) the Company terminates the Transaction Agreement because of an Exscientia Adverse Recommendation Change (or if the Exscientia board communicates to the Court that the Exscientia board no longer supports the consummation of the Transaction or no longer wishes the Court to sanction the Scheme of Arrangement). This termination fee will also be payable by Exscientia if (i) if the Transaction Agreement was terminated because Exscientia’s shareholders do not approve the Transaction at the applicable meetings or the Court declines or refuses to sanction the Scheme of Arrangement, (ii) an alternative acquisition proposal has been publicly announced and not publicly withdrawn without qualification at least four business days prior to the Exscientia’s shareholder meetings or the date of the hearing of the Scheme of Arrangement and (iii) within 12 months from such termination Exscientia enters into a definitive agreement with respect to an alternative transaction and such transaction is subsequently consummated.
+
+The Company will be required to make a payment to Exscientia equal to $58.77 million if the Transaction Agreement is terminated in certain circumstances, including (i) if the Company terminates the Transaction Agreement to accept a Parent Superior Proposal or (ii) Exscientia terminates the Transaction Agreement because of a Parent Adverse Recommendation Change. This termination fee will also be payable by the Company if (i) if the Transaction Agreement was terminated because the Company’s stockholders do not approve the Share Issuance, (ii) an alternative acquisition proposal has been publicly announced and not publicly withdrawn without qualification at least four business days prior to the Company’s stockholder meeting and (iii) within 12 months from such termination the Company enters into a definitive agreement with respect to an alternative transaction and such transaction is subsequently consummated.
+
+Other Information
+
+The foregoing description of each of the Transaction, the Scheme of Arrangement, the Transaction Agreement, the Voting Agreements and the Irrevocable Undertakings does not purport to be complete and is qualified in its entirety by reference to the full text of the Transaction Agreement, the form of Voting Agreement and the form of Irrevocable Undertaking (Institutional), and the form of Irrevocable Undertaking (Individual) which are filed as Exhibit 2.1, Exhibit 10.1, Exhibit 10.2 and Exhibit 10.3, respectively, to this Current Report on Form 8-K, and each of which are incorporated herein by reference.
+
+The Transaction Agreement contains representations, warranties, covenants and agreements, which were made only for purposes of such agreement and as of specified dates. The representations and warranties in the Transaction Agreement reflect negotiations between the parties to the Transaction Agreement and are not intended as statements of fact to be relied upon by the Company’s stockholders or Exscientia’s shareholders or any other person. In particular, the representations, warranties, covenants and agreements in the Transaction Agreement may be subject to limitations agreed by the parties, including having been modified or qualified by certain confidential disclosures that were made between the parties in connection with the negotiation of the Transaction Agreement, and having been made for purposes of allocating risk among the parties rather than establishing matters of fact. In addition, the parties may apply standards of materiality in a way that is different from what may be viewed as material by investors. As such, the representations and warranties in the Transaction Agreement may not describe the actual state of affairs at the date they were made or at any other time and you should not rely on them as statements of fact. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Transaction Agreement, and unless required by applicable law, the Company undertakes no obligation to update such information.
+
+ 
+
+Item 2.02.
+
+Results of Operations and Financial Condition.
+
+On August 8, 2024, the Company issued a press release announcing its results of operations and financial condition for the quarter ended June 30, 2024. A copy of the press release is furnished as Exhibit 99.1 and is incorporated herein by reference.
+
+Item 3.02
+
+Unregistered Sales of Equity Securities.
+
+The information contained above in Item 1.01 is hereby incorporated by reference into this Item 3.02. The securities of the Company to be issued as described herein will be issued without registration pursuant to the exemption provided by Section 3(a)(10) under the Securities Act of 1933, as amended.
+
+ 
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On August 6, 2024, Terry-Ann Burrell informed the Company’s board of her decision to resign as a member of the Company’s board and Chair of its Audit Committee, effective August 12, 2024. Ms. Burrell’s resignation did not result from any disagreement with the Company on any matters relating to the Company’s operations, policies or practices. The Company’s board has appointed Zachary Bogue to succeed Ms. Burrell as Chair of the Audit Committee, effective August 12, 2024.
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On August 8, 2024, the Company issued a press release announcing the Transaction. The press release is furnished as Exhibit 99.2 to this Current Report on Form 8-K and incorporated into this Item 7.01 by reference.
+
+Also on August 8, 2024, the Company released a presentation made in connection with its L(earnings) call on August 8, 2024. A copy of the presentation is attached hereto as Exhibit 99.3 to this Current Report on Form 8-K and incorporated into this Item 7.01 by reference.
+
+Also on August 8, 2024, the Company released an updated corporate presentation to the investor section of the Company’s website. A copy of the presentation is attached hereto as Exhibit 99.4 to this Current Report on Form 8-K and incorporated into this Item 7.01 by reference.
+
+The information furnished pursuant to Item 2.02 (including Exhibit 99.1) and 7.01 (including Exhibits 99.2, 99.3, and 99.4) on this Form 8-K, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Additional Information and Where to Find It.
+
+This communication relates to the proposed transaction by and between the Company and Exscientia that will become the subject of a joint proxy statement to be filed by the Company and Exscientia with the SEC. The joint proxy statement will provide full details of the proposed transaction and the attendant benefits and risks, including the terms and conditions of the scheme of arrangement and the other information required to be provided to Exscientia’s shareholders under the applicable provisions of the U.K. Companies Act 2006. This communication is not a substitute for the joint proxy statement or any other document that the Company or Exscientia may file with the SEC or send to their respective security holders in connection with the proposed transaction. Security holders are urged to read the definitive joint proxy statement and all other relevant documents filed with the SEC or sent to the Company’s stockholders or Exscientia’s shareholders as they become available because they will contain important information about the proposed transaction. All documents, when filed, will be available free of charge at the SEC’s website (www.sec.gov). You may also obtain these documents by contacting the Company’s Investor Relations department at investor@recursion.com; or by contacting Exscientia’s Investor Relations department at investors@exscientia.ai. This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote or approval.
+
+INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE PROXY STATEMENT (WHICH WILL INCLUDE AN EXPLANATORY STATEMENT IN RESPECT OF THE SCHEME OF ARRANGEMENT OF EXSCIENTIA, IN ACCORDANCE WITH THE REQUIREMENTS OF THE U.K. COMPANIES ACT 2006) AND ANY OTHER RELEVANT DOCUMENTS THAT MAY BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY IF AND WHEN THEY BECOME AVAILABLE BECAUSE THEY CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION.
+
+Participants in the Solicitation.
+
+The Company, Exscientia and their respective directors and executive officers may be deemed to be participants in any solicitation of proxies in connection with the proposed transaction.
+
+Information about the Company’s directors and executive officers is available in the Company’s proxy statement dated April 23, 2024 for its 2024 Annual Meeting of Stockholders. Information about Exscientia’s directors and executive officers is available in Exscientia’s Annual Report on Form 20-F dated March 21, 2024. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the joint proxy statement and all other relevant materials to be filed with the SEC regarding the proposed transaction when they become available. Investors should read the joint proxy statement carefully when it becomes available before making any voting or investment decisions.
+
+No Offer or Solicitation.
+
+This communication is not intended to and shall not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any securities, or a solicitation of any vote or approval, nor shall there be any offer, solicitation or sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made in the United States absent registration under the U.S. Securities Act of 1933, as amended (Securities Act), or pursuant to an exemption from, or in a transaction not subject to, such registration requirements. The Company securities issued in the proposed transaction are anticipated to be issued in reliance upon an available exemption from such registration requirements pursuant to Section 3(a)(10) of the Securities Act.
+
+Forward Looking Statements.
+
+Statements contained herein which are not historical facts may be considered forward-looking statements under federal securities laws and may be identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “potential,” “predicts,” “projects,” “seeks,” “should,” “will,” or words of similar meaning and include, but are not limited to, statements regarding the proposed business combination of Recursion and Exscientia and the outlook for Recursion’s or Exscientia’s future business and financial performance such as delivering better treatments to patients, faster and at a lower cost; the discovery and translation of higher quality medicines more efficiently and at a higher scale; helping to enable a full-stack technology-enabled platform; allowing Recursion to more rapidly and effectively run SAR cycles during hit to lead optimization; generating the diverse chemistry to experimentally improve predictive maps; the number and timing of clinical program readouts over the next 18 months; the combined company’s first-in-class and best-in-class opportunities; potential for sales from successful programs with annual peak sales opportunities of over $1 billion each; potential for approximately $200 million in milestone payments over the next 24 months, and over $20 billion in revenue before royalties over the course of the partnerships; percentage of the combined company to be received by Exscientia shareholders; cash runway extending into 2027; the value of estimated annual synergies; implementing the combination through a UK scheme of arrangement; the expected closing of the transaction by early 2025; continuing to build the best example of the next generation of biotechnology companies; the plans for David Hallett, Ph.D. to join the combined company as Chief Scientific Officer; and many others. Such forward-looking statements are based on the current beliefs of Recursion’s and Exscientia’s respective management as well as assumptions made by and information currently available to them, which are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict. Actual outcomes and results may vary materially from these forward-looking statements based on a variety of risks and uncertainties including: the occurrence of any event, change or other circumstances that could give rise to the termination of the transaction agreement; the inability to obtain Recursion’s stockholder approval or Exscientia’s shareholder approval or the failure to satisfy other conditions to completion of the proposed combination, including obtaining the sanction of the High Court of Justice of England and Wales to the Scheme of Arrangement, on a timely basis or at all, and the receipt of required regulatory approvals; risks that the proposed combination disrupts each company’s current plans and operations; the diversion of the attention of the respective management teams of Recursion and Exscientia from their respective ongoing business operations; the ability of
+
+either Recursion, Exscientia or the combined company to retain key personnel; the ability to realize the benefits of the proposed combination, including cost synergies; the ability to successfully integrate Exscientia’s business with Recursion’s business, at all or in a timely manner; the outcome of any legal proceedings that may be instituted against Recursion, Exscientia or others following announcement of the proposed combination; the amount of the costs, fees, expenses and charges related to the proposed combination; the effect of economic, market or business conditions, including competition, regulatory approvals and commercializing drug candidates, or changes in such conditions, have on Recursion’s, Exscientia’s and the combined company’s operations, revenue, cash flow, operating expenses, employee hiring and retention, relationships with business partners, the development or launch of technology enabled drug discovery, and commercializing drug candidates; the risks of conducting Recursion’s and Exscientia’s business internationally; the impact of changes in interest rates by the Federal Reserve and other central banks; the impact of potential inflation, volatility in foreign currency exchange rates and supply chain disruptions; the ability to maintain technology-enabled drug discovery in the biopharma industry; and risks relating to the market value of Recursion’s common stock to be issued in the proposed combination.
+
+Other important factors and information are contained in Recursion’s most recent Annual Report on Form 10-K and Exscientia’s most recent Annual Report on Form 20-F, including the risks summarized in the section entitled “Risk Factors,” Recursion’s most recent Quarterly Reports on Form 10-Q and Exscientia’s filing on Form 6-K filed May 21, 2024, and each company’s other periodic filings with the U.S. Securities and Exchange Commission (the “SEC”), which can be accessed at https://ir.recursion.com in the case of Recursion, http://investors.exscientia.ai in the case of Exscientia, or www.sec.gov. All forward-looking statements are qualified by these cautionary statements and apply only as of the date they are made. Neither Recursion nor Exscientia undertakes any obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+ 2.1*
+
+  
+
+Transaction Agreement by and between Recursion Pharmaceuticals, Inc. and Exscientia plc dated as of August 8, 2024.
+
+10.1
+
+  
+
+Form of Voting and Support Agreement.
+
+10.2
+
+  
+
+Form of Irrevocable Undertaking (Institutional).
+
+10.3
+
+  
+
+Form of Irrevocable Undertaking (Individual).
+
+99.1
+
+  
+
+Press Release of Recursion Pharmaceuticals, Inc. dated August 8, 2024.
+
+99.2
+
+  
+
+Press Release of Recursion Pharmaceuticals, Inc. dated August 8, 2024.
+
+99.3
+
+  
+
+Company presentation dated August 8, 2024.
+
+99.4
+
+  
+
+L(earnings) call presentation dated August 8, 2024.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+*
+
+Exhibits and/or schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The registrant hereby undertakes to furnish supplementally copies of any of the omitted exhibits and schedules upon request by the SEC; provided, however, that the registrant may request confidential treatment pursuant to Rule 24b-2 under the Exchange Act for any exhibits or schedules so furnished.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized on August 8, 2024.
+
+ 
+
+RECURSION PHARMACEUTICALS, INC.
+
+By:
+
+ 
+
+/s/ Michael Secora
+
+ 
+
+Michael Secora
+
+ 
+
+Chief Financial Officer

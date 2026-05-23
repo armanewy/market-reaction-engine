@@ -1,0 +1,128 @@
+EX-99.1
+2
+d450277dex991.htm
+EX-99.1
+
+EX-99.1
+
+EHA Investor Event – June 12,
+2023 DEVELOPING PRECISION MEDICINES FOR THE TREATMENT OF CANCER Exhibit 99.1
+
+This presentation contains
+forward-looking statements. Such statements include, but are not limited to, statements regarding our research, preclinical and clinical development activities, plans and projected timelines for ziftomenib, tipifarnib and KO-2806, plans regarding
+regulatory filings, our expectations regarding the relative benefits of our product candidates versus competitive therapies, and our expectations regarding the therapeutic and commercial potential of our product candidates. The words
+“believe,” “may,” “should,” “will,” “estimate,” “promise,” “plan”, “continue,” “anticipate,” “intend,” “expect,”
+“potential” and similar expressions (including the negative thereof), are intended to identify forward-looking statements. Because such statements are subject to risks and uncertainties, actual results may differ materially from those
+expressed or implied by such forward-looking statements. Risks that contribute to the uncertain nature of the forward-looking statements include: our preclinical studies and clinical trials may not be successful; the U.S. Food and Drug
+Administration (FDA) may not agree with our interpretation of the data from clinical trials of our product candidates; we may decide, or the FDA may require us, to conduct additional clinical trials or to modify our ongoing clinical trials; we may
+experience delays in the commencement, enrollment, completion or analysis of clinical testing for our product candidates, or significant issues regarding the adequacy of our clinical trial designs or the execution of our clinical trials may arise,
+which could result in increased costs and delays, or limit our ability to obtain regulatory approval; the commencement, enrollment and completion of clinical trials and the reporting of data therefrom; the COVID-19 pandemic may disrupt our business
+and that of the third parties on which we depend, including delaying or otherwise disrupting our clinical trials and preclinical studies, manufacturing and supply chain, or impairing employee productivity; our product candidates may not receive
+regulatory approval or be successfully commercialized; unexpected adverse side effects or inadequate therapeutic efficacy of our product candidates could delay or prevent regulatory approval or commercialization; and we may not be able to obtain
+additional financing. Additional risks and uncertainties may emerge from time to time, and it is not possible for Kura’s management to predict all risk factors and uncertainties.  All forward-looking statements contained in this
+presentation speak only as of the date on which they were made. Other risks and uncertainties affecting us are described more fully in our filings with the Securities and Exchange Commission. We undertake no obligation to update such statements to
+reflect events that occur or circumstances that exist after the date on which they were made. This presentation also contains statistical and clinical data obtained from and prepared by third parties. The recipient is cautioned not to give undue
+weight to such disclosures. Neither the Company nor any other person makes any representation as to the accuracy or completeness of such data or undertakes any obligation to update such data after the date of this presentation. Forward-Looking
+Statements
+
+Today’s Agenda Topic Speaker
+Welcome / Opening Remarks Troy Wilson, Ph.D., J.D., President and Chief Executive Officer Introduction of KOMET-001 Investigators Stephen Dale, M.D., Chief Medical Officer Opportunity in AML / KOMET-001 Trial Design Ghayas Issa, M.D., MD Anderson
+Cancer Center Presentation of KOMET-001 Phase 1b Data Amir Fathi, M.D., Massachusetts General Hospital Ziftomenib Clinical Development Path Mollie Leoni, M.D., Senior Vice President, Clinical Development Q & A session All Closing Remarks Troy
+Wilson, Ph.D., J.D., President and Chief Executive Officer
+
+Demonstrated clinical activity in
+other AML subtypes beyond NPM1-m and KMT2A-r to broaden patient potential Ziftomenib Represents a Transformational Therapy for AML Rationale for ziftomenib as a highly durable and well-tolerated maintenance therapy to transform acute leukemias into
+a chronic disease Meaningful Durability Clinical evidence building to demonstrate role of ziftomenib sequencing first ahead of IDH1/2i and FLT3i Potential to Sequence Earlier Expanding Beyond NPM1 and KMT2A Ziftomenib is uniquely positioned within
+and outside of menin class with ideal monotherapy properties translating into superior early clinical activity Highly Differentiated 1 2 3 4
+
+KOMET-001 Investigators Program
+Director, Center for Leukemia, Massachusetts General Hospital Cancer Center Associate Professor of Medicine, Harvard Medical School Amir Fathi, M.D. Hematology & Oncology, Departments of Leukemia and Genomic Medicine, MD Anderson Cancer Center
+Assistant Professor, Department of Leukemia, The University of Texas MD Anderson Cancer Center Ghayas Issa, M.D.
+
+AML, acute myeloid leukemia; NPM1-m,
+nucleophosmin1-mutations; OS, overall survival; R/R, relapsed/refractory. 1. Döhner et al. Blood 2017;129(4):424-47; 2. SEER statistics for AML in the US, accessed April 2020; 3. Angenendt L, et al. J Clin Oncol 2019;37(29):2632-42; 4. Issa G,
+et al. Blood Adv 2023;7(6):933-42. NPM1-mutant AML is a Large Genetic Subset1 with a High Unmet Need Adult patients with NPM1-mutant AML and select co-mutations and/or relapsed/refractory disease have a poor prognosis1 ~6,000 new cases annually in
+the U.S.2 NPM1-mutant AML ~30% NPM1-m AML Median overall survival is suboptimal4 Second Line – 7.8 mo. Third Line – 5.3 mo. Fourth Line – 3.5 mo. 5-year Overall Survival ~50%3 No FDA-approved NPM1-m specific targeted therapies
+exist today in AML​
+
+Ziftomenib Targets the Menin-KMT2A
+Pathway, a Foundational Target in AML​ 1. Lu et al. Cancer Cell 2016;30(1):92–107; 2. Ferreira et al. Oncogene 2016;35(23):3079-82; 3. Jeong et al. Nat. Genet 2014;46(1):17-23; 4. Wang et al. Blood 2005;106(1):254–64; 5. Chowdhury
+et al. EMBO Rep 2011;12(5):463-9; 6. Schmidt et al. Leukemia 2019;33(7):1608-19; 7. Xu et al. Cancer Cell 2016;30(6):863-78; 8. Collins & Hess. Curr Opin Hematol 2016;23(4):354-61; 9. Brunetti et al. Cancer Cell 2018; 34(3):499–512. NPM1-m
+and KMT2A-r drive overexpression of HOXA9/MEIS1 genes, critical for transformation to AML KMT2A(MLL) sits upstream from major AML targets (i.e., FLT3, IDH1/2, DNMT3A) KMT2A(MLL)-dependent genes contribute to therapeutic resistance and relapse to
+current therapies Menin inhibition downregulates HOXA9/MEIS1, leading to differentiation of leukemic blasts Myeloid lineage differentiation genes Proliferation genes ‘Stemness’ genes
+
+KOMET-001 Phase 1/2 Study of
+Ziftomenib in Relapsed/Refractory AML CR, complete remission; CRh, complete remission with partial hematological recovery; FDA, United States Food and Drug Administration; MRD, measurable residual disease; R/R, relapsed/refractory; RP2D,
+recommended phase 2 dose. Phase 1a Dose Escalation Phase 1b Validation Cohorts Phase 1b Expansion 50 mg QD ~ ~ 100 mg QD 1000 mg QD Cohort 1: 200 mg QD Cohort 2: 600 mg QD • Safety and tolerability • Pharmacokinetics • Early
+evidence of antitumor activity • Safety and tolerability • Pharmacokinetics • Clinical activity Continue enrollment of Phase 1b validation cohort(s) consistent with FDA’s Project Optimus • Safety and tolerability
+• Pharmacokinetics • Clinical activity Completed Expansion of 600 mg QD Phase 2 Registration-Enabling (Ongoing) • Primary endpoint: CR/CRh • Secondary endpoints: Duration of CR/CRh Transfusion independence CR/CRh MRD
+negativity Adverse events Ongoing Completed OBJECTIVES 600 mg QD NPM1-m or KMT2A-r NPM1-m NPM1-m Completed NPM1-m, KMT2A-r, Other
+
+Ziftomenib Demonstrates Encouraging
+Safety Profile in NPM1-mutant Patients Treated at 600 mg Dose Fathi et al. EHA 2023 #LB2713 (preliminary data as of April 12, 2023) ≥ 20% Treatment-Emergent Adverse Events, n (%) NPM1-m, n = 20 Patients with TEAEs (All Grades) 19 (95) Diarrhea
+9 (45) Hypokalemia 8 (40) Nausea 6 (30) Anemia 6 (30) Back pain 6 (30) Epistaxis 5 (25) Patients with TEAEs (≥Grade 3) 17 (85) Anemia 5 (25) Thrombocytopenia 4 (20) ≥ 20% Treatment-Related Adverse Events, n (%) NPM1-m, n = 20 Patients
+with TRAEs (All Grades) 12 (60) Nausea 4 (20) Differentiation Syndrome 4 (20) Patients with TRAEs (≥Grade 3) 6 (30) N/A No reports of drug-induced QTc prolongation 1 report of grade 3 differentiation syndrome Manageable with mitigation
+strategy Other reports of DS Grade ≤ 2
+
+Ziftomenib Demonstrates Encouraging
+Clinical Activity CR Rates vs. SOC in Heavily Pretreated Patients MUTATION CR % mDOR MEDIAN PRIORS Ziftomenib 600mg QD NPM1m 35% 8.2 mo* 3 FLT3m 33% - IDH 1/2 57% - Gilteritinib FLT3m 14.2% 14.8 mo 1 Enasidenib IDH2 19% 8.2 mo 2 Ivosidenib IDH1 25%
+10.1 mo 2 *Median DoR for CRc without censoring at HSCT Source: USPI’s Fathi et al. EHA 2023 #LB2713 (preliminary data as of April 12, 2023) HSCT, hematopoietic stem cell transplantation; MLFS, morphological leukemia-free state 1 Best Overall
+Response, Ph.1b, n (%) 600 mg, n = 20 Complete remission rate (CR) ​  7 (35) CRc rate (CR+CRh+CRi) ​ 8 (40) Overall response rate (CR+CRh+CRi+MLFS)​  9 (45)     CR 7 (35)     CRh 0
+    CRi 1 (5)     MLFS 1 (5) 33% CR co-FLT3m (N=6) 50% CR co-IDHm (N=8) Co-mutations in FLT3 and IDH1/2 did not affect chances of response to single agent ziftomenib​ 1 patient achieved CRi, proceeded to HSCT, and
+achieved and remains in CR Median time to first response: 51 days
+
+Ziftomenib Drives Durable CRs with
+Maintained Count Recovery as a Monotherapy in Late-Line NPM1-mutant AML Patients 1 NPM1-m CRc Responders Mean Change in Platelets and ANC up to C7D1​ Maintained count recovery after durable CRs suggests no drug-induced myelosuppression
+Excellent safety profile and no predicted adverse drug-drug interactions support potential for combinations
+
+Ziftomenib Monotherapy Drives
+Durable Responses​ 2 Fathi et al. EHA 2023 #LB2713 (preliminary data as of April 12, 2023) Median DoR 8.2 months (95% CI: 1.0 to Not Evaluable) with a median follow up time of 8.8 months Patient 1 on ziftomenib in CR (MRD-) through Cycle 36
+Patients 9 and 21 proceeded to HSCT Patient 9 remains on ziftomenib for post-HSCT maintenance Patient 21 achieved CRi, proceeded to HSCT, and achieved and remains in CR
+
+Meaningful Durability and Favorable
+Tolerability at 600 mg Dose 22 yo male with NPM1-m AML 1 Prior Tx (refractory to 7+3) Baseline bone marrow blasts: 90% ziftomenib at 600 mg Response CRmrd- after Cycle 1 HSCT CRmrd- maintained on Cycle 2 post-HSCT 44 yo female with NPM1-m, DNMT3A
+and IKZF1 AML 7 Prior Tx Baseline bone marrow blasts: 14% ziftomenib at 200 mg Response CRmrd- after Cycle 1 CRmrd- through Cycle 36 Durable CR for 36 cycles on ziftomenib in 8th line including 2 HSCTs Enthusiasm among investigators and patients to
+utilize ziftomenib earlier and initiate maintenance 2
+
+Rationale to Sequence Ziftomenib
+Ahead of Other Targeted Therapies * Mutations detected in MyMRD NGS (Invivoscribe, San Diego, CA) Ziftomenib drives CR and brings co-mutations down to near undetectable levels following failure with midostaurin and sequenced ahead of IDH1 inhibitor
+Ziftomenib drives CR and low levels of co-mutations following failure with midostaurin and gilteritinib and sequenced ahead of IDH2 inhibitor 3 Ongoing Central MRD Analysis, by NGS* Subject: Prior Tx with  midostaurin NPM1 FLT3-TKD IDH1 Variant
+Allele Frequency (%) C1 D28  33 33 35 C5 D28  Not detected Not detected Not detected Subject: Prior Tx with  midostaurin and gilteritinib NPM1 FLT3-ITD IDH2 Variant Allele Frequency (%) C1 D28   47 91 46 C4 D28  0.37 0.87
+0.41
+
+SETD2/RUNX1 patient achieved a CR
+at 100mg dose in Phase 1a Notable evidence of blast reduction in range of off-target patients KOMET-001 study will continue to evaluate additional AML populations Potential to be incorporated into KOMET-007/008 combination studies Targeting the
+Menin-KMT2A Pathway has Potential to Benefit a Broader Subset of AML Patients Ziftomenib has Demonstrated Evidence of Activity in Non-NPM1-m/KMT2A-r Patients Graphic excludes subjects where post-baseline BM samples not collected Off-Target
+Mutations: Best Change from Baseline in Bone Marrow Blasts – mITT Phase 1a SETD2/RUNX1 Patient 4
+
+Ziftomenib Active Against Known
+Menin Gatekeeper Mutations​ 1Perner et al. Abstract #3457 presented at AACR April 14-19, 2023, Orlando, FL. No major conformational changes observed in MeninT349M vs. wild-type (WT) protein  M327 and Y324 side chains adopt new
+conformations in MeninT349M but do not affect ziftomenib binding Binding affinity of ziftomenib is reduced for MeninM327I but unaffected for MeninT349M Per Armstrong lab1, ziftomenib also retains activity against MeninG331R Ziftomenib retains
+activity against 2 of 3 known MEN1 mutant loci Menin WT – ziftomenib  Menin T349M – ziftomenib T349M M327 ziftomenib Y324 W346 R335 Crystal structure of ziftomenib binding to menin Inhibitory activity of ziftomenib
+
+Ziftomenib Appears Less Susceptible
+to Observed Mutations Associated With Resistance to Menin Inhibition 1 Perner et al. Nature 2023; 615(7954):913-19. 2MEN1 mutant transcripts detected from serial analysis of bone marrow aspirate (BMA) of patients treated with at least 1 cycle of
+ziftomenib using RNA NGS Following reports of MEN1 resistance mutations with another menin inhibitor1, an analysis of KOMET-001 identified 1 of 29 subjects (3.4%) with the resistance mutation (MEN1-M327I) acquired while on ziftomenib2 MEN1 mutant
+RNA was not detected in 13 of 13 other subjects who received ≥ 2 cycles of ziftomenib and had best response of SD or PD, suggesting that progression or lack of response in these subjects is not due to MEN1 mutations Ziftomenib’s ability
+to target MEN1 harboring G331R or T349M mutations may explain the low frequency of MEN1 resistance mutations detected in KOMET-001 subjects Further analysis underway to continue to characterize mechanisms of menin resistance  Screening 6% (VAF)
+Subject: KMT2A-MLLT4 fusion and prior Tx’s with 7+3, HiDAC, Ven/Aza C1D28 C2D28 C3D28 C4D28 C5D28 C6D28 C7D28 Negative Positive BMA Status for MEN1-M327I
+
+Summary: KOMET-001 Phase 1 Clinical
+Trial of Ziftomenib Fathi et al. EHA 2023 #LB2713 (preliminary data as of April 12, 2023) Ziftomenib demonstrates significant clinical activity with 45% ORR (35% CR rate) and non-myelosuppressive with maintained count recovery in heavily pretreated
+R/R NPM1-m AML Durable remissions with MRD clearance of foundational NPM1-m and other key co-mutations, including FLT3 and IDH1/2 co-mutations, observed with ziftomenib monotherapy Resistance mutations have developed infrequently and ziftomenib
+retains activity against common menin gatekeeper mutations Ziftomenib is well tolerated, with no drug induced QTc and manageable DS; the lack of predicted adverse drug-drug interactions is supportive of combination approaches
+
+DEVELOPMENT APPROACH STUDY STARTUP
+PHASE 1 REGISTRATION DIRECTED TRIAL MONOTHERAPY (Relapsed/refractory) COMBINATIONS WITH VENETOCLAX + AZACITIDINE, CYTARABINE + DAUNORUBICIN (7+3) (Relapsed/refractory, frontline) COMBINATIONS WITH GILTERITINIB, FLAG-IDA, LDAC (Relapsed/refractory)
+POST-TRANSPLANT MAINTENANCE Company-sponsored study COMBINATION WITH FLA Investigator-sponsored studies COMBINATION WITH BV-DAM NPM1-mutant acute myeloid leukemia (AML) KMT2A-rearranged AML NPM1-mutant AML NPM1-mutant AML KMT2A-rearranged AML
+KMT2A-rearranged ALL Non- NPM1-m/KMT2A-r AML KMT2A-rearranged AML NPM1-mutant AML Pediatric AML & ALL Pediatric ALL Ziftomenib Clinical Development Path
+
+Targets foundational mutations at
+the core of up to 50% of AML cases Has demonstrated durable CRs and maintained count recovery as a monotherapy in late-line AML patients Favorable tolerability and once-daily oral dosing, ideal for chronic therapy Strong mechanistic synergy with
+current standards of care Optimal pharmaceutical properties for combinations We believe ziftomenib has ideal properties to become a backbone of therapy across the continuum of care for AML patients Pursuing a broad-based ziftomenib development
+program coupled with potential to convert 50% of AML from an acute to chronic condition Ziftomenib Represents a Transformational Therapy for AML
+
+Q & A
+
+EHA Investor Event – June 12,
+2023 DEVELOPING PRECISION MEDICINES FOR THE TREATMENT OF CANCER

@@ -1,0 +1,180 @@
+EX-99.1
+2
+d366823dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+Update on a Phase 1/2 First-in-Human Study of the Menin-KMT2A (MLL)
+Inhibitor Ziftomenib (KO-539) in Patients with Relapsed or Refractory Acute Myeloid Leukemia
+
+Harry P. Erba1, Amir Fathi2, Ghayas Issa3, Jessica
+Altman4, Pau Montesinos5, Mrinal Patnaik6, James Foran7, Stephane DeBotton8, Maria Baer9, Gary
+Schiller10, Roland Walter11, Marina Kremyanskaya12, Kristin Pettit13, Stephen Strickland14, Blake Tomkinson15, Marilyn Tabachri15, Mollie Leoni15, Stephen Dale15, Eunice
+Wang16
+
+Histone-lysine-N-methyltransferase 2A (KMT2A) is a central regulator of target genes
+that drive leukemogenic transformation. KMT2A rearrangements (KMT2Ar) and nucleophosmin 1 mutations (NPM1m), founding events in leukemia, occur in 5-10% and 30% of acute myeloid
+leukemia (AML) patients (pts), respectively. KMT2Ar functions in a protein complex that requires menin to cause epigenetic dysregulation in AML. KMT2Awt-menin also cooperates with NPM1m causing dysregulation of an overlapping set of
+leukemogenic genes dependent on KMT2A-menin interaction. Thus, the strong rationale for targeting menin in KMT2Ar/NPM1m AML.
+
+We present
+here preliminary KOMET-001 (NCT04067336) data, an ongoing Phase (P) 1/2 study of ziftomenib (KO-539), an inhibitor of KMT2A-menin interaction, in adult pts with
+relapsed/refractory (R/R) AML. Ziftomenib is dosed orally, once daily, in 28-day cycles.
+
+P1a dose escalation
+enrolled 30 adult pts with R/R AML regardless of genotype. Pts received 50-1000 mg ziftomenib to assess safety, tolerability, pharmacokinetics, and anti-leukemic activity. Median age was 65.5 years (range
+[r] 22-85); 33%/13% had KMT2Ar/NPM1m AML. Pts had a median of 3 prior therapies (r 1-10), with 17% having ≥ 1 prior stem cell transplant (SCT).
+
+In P1a, treatment-emergent adverse events (TEAEs) ≥ Grade (Gr) 3 in ≥ 10% of all pts (N=30) were anemia, pneumonia (27%); neutropenia (17%);
+thrombocytopenia (13%); febrile neutropenia, decreased appetite (10%). Two dose-limiting toxicities (DLTs) occurred: pneumonitis (400 mg), differentiation syndrome (DS, 1000 mg); per protocol, the DLT in 1/1 pt at 1000 mg resulted in de-escalation.
+
+Clinical benefit with disease control (eg, decreasing blast counts [BC] or hydroxyurea requirement)
+occurred across dose levels. At 100 mg, 1 complete remission (CR) was observed in a pt with SETD2, RUNX1 mutations. At 200 mg, the 2 NPM1m pts responded (1 experienced a CR without measurable residual disease [MRD-] with >100 weeks duration (ongoing), and 1 had morphologic leukemic-free state [MLFS]). At 600 mg, 1 of 2 KMT2A pts had stable disease with significantly decreased BC lasting >4 months.
+
+P1b dose-validation explored 2 P1a doses (200/600 mg) in 24 pts with KMT2Ar/NPM1m AML to determine an optimal biologically active dose.
+KMT2Ar/NPM1m pts randomized to 200/600 mg were 9/3 and 6/6. Median age 46 years (r 31-82), 62.5/37.5% had KMT2Ar/NPM1m AML, and 33% had ≥1 prior SCT. The 200/600mg pts
+had a median of 2.5/4 prior therapies (r 1-12/2-8).
+
+In P1b, TEAEs ≥
+Gr 3 in ≥ 10% of all pts (N=24) were anemia, febrile neutropenia, neutropenia, thrombocytopenia (25% each); DS, leukocytosis (17% each); sepsis, leukopenia (13% each). At 200 mg (N=12), TEAEs ≥ Gr 3 in ≥ 10% were neutropenia,
+thrombocytopenia (33% each); febrile neutropenia, anemia, sepsis (25% each); DS, leukocytosis, respiratory failure (17% each). At 600 mg (N=12), TEAEs ≥ Gr 3 in ≥ 10% were febrile neutropenia, anemia (25% each); DS,
+leukocytosis, neutropenia, thrombocytopenia, leukopenia, diarrhea (17% each).
+
+The on-target effect of DS occurred
+in 7 P1b pts. At 200 mg, 3 were KMT2A pts, of which 2 had events ≥ Gr 3 including 1 death. Of the 4 pts at 600 mg, 2 were Gr 3 (1 each KMT2A/NPM1), and 2 were Gr 2 (1 each KMT2A/NPM1). Since implementation of DS
+Guidance, reported DS event severity has declined.
+
+P1b clinical efficacy was dose-dependent. At 200 mg, changes in bone marrow (BM) morphology and
+stable/decreasing BC were seen. Three pts were dose-escalated to 600 mg with improvement: 1 achieved a BM BC < 5% and significant reduction of high burden extramedullary disease despite persistence of a small disease focus; 1 had significantly
+reduced BC and disease control; 1 attained MLFS and remains on treatment. At 600 mg, 25% of P1b pts had a best response of CR/CR with partial hematologic recovery (CRh); 33.3% of NPM1m pts achieved CR/CRh. Composite CR was 33% with 75% MRD-. Overall response rate (ORR) was 42%. Pts who experienced DS had an ORR of 75%. At data cutoff, 50% of pts remain on treatment.
+
+Overall, P1a results demonstrated a manageable safety profile and preliminary efficacy that informed the P1b doses to determine the optimal biologically
+active dose. P1b results suggest that with appropriate DS management, ziftomenib is well tolerated. Additionally, the 600 mg dose demonstrates meaningful signs of efficacy in heavily pretreated R/R AML pts, warranting further investigation of
+ziftomenib as a monotherapy and in combination with rational therapeutic partners.
+
+Table 1: Preliminary Efficacy Data for the Phase 1b Portion of KOMET-001
+
+ 
+
+ 
+
+  
+
+200 mg
+(N=12)
+
+  
+
+600 mg
+(N = 12)
+
+CR/CRh Rate, n (%)1
+
+95% CI2
+
+Complete Remission Rate, n (%)
+
+95% CI2
+
+  
+
+0
+
+(0.0, 26.5)
+
+0
+
+(0.0, 26.5)
+
+  
+
+3 (25.0)
+
+(5.5, 57.2)
+
+2 (16.7)
+
+(2.1, 48.4)
+
+CRc Rate, n(%)3
+
+95% CI2
+
+MRD Negativity Rate, n (%)
+
+95% CI2
+
+  
+
+0
+
+(0.0, 26.5)
+
+0
+
+(NA, NA)
+
+  
+
+4 (33.3)
+
+(9.9, 65.1)
+
+3 (75.0)
+
+(19.4, 99.4)
+
+Overall Response Rate, n (%)4
+
+95% CI2
+
+MRD Negativity Rate, n(%)
+
+95% CI2
+
+  
+
+0
+
+(0.0, 26.5)
+0
+
+(NA, NA)
+
+  
+
+5 (41.7)
+
+(15.2, 72.3)
+
+3 (60.0)
+
+(14.7,
+94.7)
+
+Abbreviations: CI = confidence interval; CR = complete remission; CRc = composite
+complete remission; CRh = complete remission with partial hematologic recovery; CRi = complete remission with incomplete hematologic recovery; CRp = complete remission with incomplete platelet recovery; MLFS = morphologic leukemia-free state; MRD =
+measurable residual disease; n/N = number of patients; NA = not applicable; ORR = overall response rate; PR = partial response.
+
+ 
+
+1 
+
+CR/CRh response rate is defined as the proportion of patients achieving a best overall response of CR or CRh.
+
+2
+
+Clopper-Pearson 95% confidence intervals are calculated based on binomial distribution.
+
+3
+
+CRc response rate is defined as the proportion of patients achieving a best overall response of CRi (including
+CRp), CRh, or CR.
+
+4 
+
+ORR is defined as the proportion of patients achieving a best overall response of MLFS, PR, CRi (including
+CRp), CRh, or CR.

@@ -1,0 +1,371 @@
+8-K
+
+false 0001652130 0001652130 2024-11-16 2024-11-16
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 16, 2024
+
+ 
+
+ 
+
+INTELLIA THERAPEUTICS, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37766
+
+ 
+
+36-4785571
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+40 Erie Street, Suite 130
+
+Cambridge, Massachusetts
+
+ 
+
+02139
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (857) 285-6200
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock (Par Value $0.0001)
+
+ 
+
+NTLA
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On November 16, 2024, Intellia Therapeutics, Inc. (the “Company”) issued a press release titled “Intellia Announces First Clinical Evidence from Ongoing Phase 1 Study that Nexiguran Ziclumeran (nex-z), an In Vivo CRISPR/Cas9-Based Gene Editing Therapy, May Favorably Impact Disease Progression in Transthyretin (ATTR) Amyloidosis.” A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The information under this Item 7.01, including Exhibit 99.1 hereto, is being furnished herewith and shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+On November 16, 2024, the Company announced positive new clinical data from the ongoing Phase 1 trial of nexiguran ziclumeran (nex-z, also known as NTLA-2001) in patients with transthyretin (ATTR) amyloidosis. Nex-z is an investigational in vivo CRISPR-based gene editing therapy in development as a one-time treatment for ATTR amyloidosis. Development and commercialization of nex-z is led by the Company as part of a multi-target collaboration with Regeneron Pharmaceuticals, Inc.
+
+The Phase 1 trial is an open-label, two-part study evaluating the safety and activity of nex-z in patients with either ATTR amyloidosis with cardiomyopathy (ATTR-CM) or hereditary ATTR amyloidosis with polyneuropathy (ATTRv-PN). New results from the Phase 1 study were as of the data cut-off date of August 21, 2024.
+
+ATTR-CM Arm Phase 1 Results
+
+Across all patients (n=36), a single dose of nex-z led to consistently rapid, deep and sustained serum TTR reduction, regardless of baseline levels, through the latest follow-up. At month 12, the mean serum TTR reduction was 90%, and the mean absolute residual serum TTR concentration was 17 µg/mL. With 11 patients who have reached 24 months of follow-up, all patients continued to show a sustained response with no evidence of a waning effect over time.
+
+In newly reported data of multiple markers of disease progression, patients treated with nex-z showed evidence of disease stabilization or improvement at month 12 compared to baseline. This evidence was observed despite the high proportion of patients enrolled with advanced or severe disease, as indicated by 50% classified as New York Heart Association (NYHA) Class III, 31% variant ATTR-CM, as well as elevated baseline N-terminal pro-B-type natriuretic peptide (NT-proBNP) and poor functional status. Evaluation of individual disease markers at 12 months showed stability or improvement in NT-proBNP, high sensitivity Troponin T (hs-Troponin T) and 6-minute walk test (6MWT) in 81%, 94% and 77% of patients, respectively; 66% showed stability or improvement across all three markers examined. There also was evidence of benefit in quality of life, based on the Kansas City Cardiomyopathy Questionnaire (KCCQ). Notably, 92% of patients were stable or improved in their NYHA functional classification. All patients with NYHA Class III at baseline (n=18) showed improvement or no change in their NYHA Class at month 12. The month 12 cardiac disease marker results are detailed in the table below. Consistent with the cardiac disease marker data, assessment of cardiac structure with either echocardiography or MRI, as well as measurements of cardiopulmonary exercise testing also showed a similar pattern of stability at month 12. The hospitalization rate for cardiovascular events among the 36 patients with ATTR-CM was 0.16/patient/year (95% CI: 0.08 to 0.36).
+
+ 
+
+Biomarker of Cardiac Disease
+
+ 
+
+Change from Baseline at Month 12
+
+NT-proBNP, geometric mean fold change (95% CI) (n=36)
+
+ 
+
+1.02 (0.88, 1.17)
+
+hs-Troponin T, geometric mean fold change (95% CI) (n=36)
+
+ 
+
+0.95 (0.89, 1.01)
+
+6MWT, median (Q1, Q3) (n=35)
+
+ 
+
++5 meters (-33, 49)
+
+KCCQ, median (Q1, Q3) (n=36)
+
+ 
+
++8 points (-0.5 to 15)
+
+Nex-z was generally well tolerated across all patients. The most commonly reported treatment-related adverse events were infusion-related reactions (IRRs), which were predominantly mild and moderate in severity, and did not result in any discontinuations.
+
+ATTRv-PN Arm Phase 1 Results
+
+Across patients who received a dose of 0.3 mg/kg or higher (n=33), the mean serum TTR reduction was 91% and the mean absolute residual serum TTR concentration was 20 µg/mL at month 12. With 16 patients who have reached 24 months of follow-up, all patients continued to show a sustained response with no evidence of a waning effect over time. Favorable trends indicating stability or
+
+improvement were observed in patients with ATTRv-PN based on evaluation of multiple clinical measures, including Neuropathy Impairment Score (NIS), modified Neuropathy Impairment Score (mNIS+7) and modified BMI (mBMI). The clinical measure results are detailed in the table below.
+
+ 
+
+Clinical Measures
+
+  
+
+Change from Baseline at Month 12
+
+ 
+
+Change from Baseline at Month 24
+
+Part 1: Dose-escalation portion (n=15)
+
+NIS, mean (SD)
+
+  
+
+-1.9* (5.42)
+
+ 
+
+-4.5 (7.40)
+
+mBMI, mean (SD)
+
+  
+
+28.2 (93.07)
+
+ 
+
+54.7 (84.58)
+
+Part 2: Dose-expansion portion (n=21)
+
+mNIS+7, mean (SD)
+
+  
+
+-0.6† (11.07)
+
+ 
+
+N/A
+
+mBMI, mean (SD)
+
+  
+
+2.4‡ (94.18)
+
+ 
+
+N/A
+
+ 
+
+*
+
+n=14, †n=19, ‡n=20, N/A: Data for this time point is not yet available for the full cohort and will be reported in the future.
+
+Nex-z was generally well tolerated across all patients and at all dose levels tested. The most commonly reported treatment-related adverse events were IRRs, which were mild or moderate, and did not result in any discontinuations.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K and certain of the materials furnished or filed herewith contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+These forward-looking statements include, but are not limited to, express or implied statements regarding Intellia’s beliefs and expectations regarding: the safety, efficacy, success and advancement of its clinical programs for nexiguran ziclumeran or “nex-z” (also known as NTLA-2001), for transthyretin (“ATTR”) amyloidosis, including the ability to successfully complete our global Phase 3 MAGNITUDE study for ATTR amyloidosis with cardiomyopathy (“ATTR-CM”), to initiate and complete our global Phase 3 MAGNITUDE-2 study for hereditary ATTR amyloidosis with polyneuropathy (“ATTRv-PN”) pursuant to our clinical trial applications and investigational new drug submissions; and its belief in the success of its MAGNITUDE and MAGNITUDE-2 studies.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations and beliefs of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: risks related to Intellia’s ability to protect and maintain its intellectual property position; risks related to valid third party intellectual property; risks related to Intellia’s relationship with third parties, including its licensors and licensees; risks related to the ability of its licensors to protect and maintain their intellectual property position; uncertainties related to regulatory agencies’ evaluation of regulatory filings and other information related to our product candidates, including nex-z; uncertainties related to the authorization, initiation and conduct of studies and other development requirements for our product candidates, including uncertainties related to regulatory approvals to conduct clinical trials, including our ability to initiate or enroll the Phase 3 MAGNITUDE study for ATTR-CM or Phase 3 MAGNITUDE-2 study for ATTRv-PN; the risk that any one or more of Intellia’s product candidates, including nex-z, will not be successfully developed and commercialized; the risk that the results of preclinical studies or clinical studies will not be predictive of future results in connection with future studies for the same product candidate or Intellia’s other product candidates; and risks related to Intellia’s reliance on collaborations, including that its collaboration with Regeneron Pharmaceuticals, Inc. will not continue or will not be successful. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause Intellia’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in Intellia’s most recent annual report on Form 10-K and quarterly report on Form 10-Q, as well as discussions of potential risks, uncertainties, and other important factors in Intellia’s other filings with the Securities and Exchange Commission. All information in this Current Report on Form 8-K is as of the Date of Report indicated above, and Intellia undertakes no duty to update this information unless required by law.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release dated November 16, 2024.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Intellia Therapeutics, Inc.
+
+Date: November 18, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ John M. Leonard
+
+ 
+
+ 
+
+Name:
+
+ 
+
+John M. Leonard
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Executive Officer and President

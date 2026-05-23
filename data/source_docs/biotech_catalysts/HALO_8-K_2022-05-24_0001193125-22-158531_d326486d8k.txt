@@ -1,0 +1,299 @@
+8-K
+
+false 0001159036 0001159036 2022-05-24 2022-05-24
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported): May 24, 2022
+
+ 
+
+ 
+
+HALOZYME THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+Commission File Number 001-32335
+
+ 
+
+Delaware
+
+ 
+
+88-0488686
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+11388 Sorrento Valley Road
+
+San Diego
+
+California
+
+ 
+
+92121
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(858) 794-8889
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+HALO
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( §230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( §240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement
+
+The information contained in Item 2.03 of this Current Report on Form 8-K is incorporated herein by reference.
+
+Item 2.01 Completion of Acquisition or Disposition of Asset
+
+As previously disclosed, on April 12, 2022, Halozyme Therapeutics, Inc., a Delaware corporation (“Parent”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Antares Pharma, Inc., a Delaware corporation (the “Company”), and Atlas Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Parent (“Purchaser”).
+
+Pursuant to the Merger Agreement, on April 26, 2022, Purchaser commenced a tender offer to acquire all of the outstanding shares of common stock of the Company, $0.01 par value per share (the “Shares”), at a purchase price of $5.60 per Share in cash (the “Offer Price”), without interest and subject to any withholding of taxes required by applicable legal requirements, upon the terms and subject to the conditions set forth in the Offer to Purchase, dated April 26, 2022 (the “Offer to Purchase”), and in the related Letter of Transmittal (which, together with the Offer to Purchase, as each may be amended or supplemented from time to time, constitute the “Offer”).
+
+On May 24, 2022, Parent announced that the offering period of the Offer had expired at one minute following 11:59 p.m., Eastern Time, on May 23, 2022 (the “Expiration Time”) and that as of such time, based on the information provided by the depositary for the Offer, 139,371,158 Shares were validly tendered and not validly withdrawn pursuant to the Offer prior to the Expiration Time, representing approximately 81.56% of the outstanding Shares as of such time, which Shares were sufficient to have met the minimum condition of the Offer and to enable the Merger (as defined below) to occur under Delaware law without a vote of the Company’s stockholders. All conditions to the Offer having been satisfied, on May 24, 2022, Purchaser accepted for payment all Shares validly tendered and not validly withdrawn prior to the Expiration Time, and will promptly pay for such Shares in accordance with the terms of the Offer.
+
+Following the completion of the Offer, on May 24, 2022, pursuant to the terms of the Merger Agreement and in accordance with Section 251(h) of the General Corporation Law of the State of Delaware, Purchaser merged with and into the Company with the Company surviving as a wholly owned subsidiary of Parent (the “Merger”). At the effective time of the Merger (the “Effective Time”), Shares that were not purchased pursuant to the Offer (other than Shares (i) held by the Company (or in the Company’s treasury), Parent, or any direct or indirect wholly owned subsidiary of Parent (other than Purchaser), or by stockholders of the Company who have properly exercised and perfected their statutory rights of appraisal under Delaware law, or (ii) irrevocably accepted by Purchaser for purchase in the Offer) were converted into the right to receive an amount in cash equal to the Offer Price (the “Merger Consideration”), without interest and subject to any withholding of taxes required by applicable legal requirements.
+
+Pursuant to the Merger Agreement, each of the Company’s stock options (the “Company Options”) that was outstanding as of immediately prior to the Effective Time, to the extent unvested, accelerated and became fully vested and exercisable effective prior to the Effective Time. As of the Effective Time, (1) each Company Option that was outstanding and unexercised as of immediately prior to the Effective Time was cancelled and converted into the right to receive cash in an amount equal to the total number of Shares subject to such Company Option immediately prior to the Effective Time multiplied by the excess (if any) of the Merger Consideration over the exercise price payable per Share under such Company Option, (2) each performance stock unit award granted pursuant to any of the Company equity plans or otherwise (“Company PSUs”) that was outstanding as of immediately prior to the Effective Time was cancelled and converted into the right to receive cash in an amount equal to the number of Shares subject to such Company PSU (determined at the target level of performance) multiplied by the Merger Consideration and (3) each restricted stock unit award granted pursuant to any of the Company equity plans or otherwise (“Company RSUs”) that was outstanding as of immediately prior to the Effective Time was cancelled and converted into the right to receive cash in an amount equal to the number of Shares subject to such Company RSU multiplied by the Merger Consideration.
+
+The total consideration paid for the Shares in the Offer and the Merger was approximately $957 million. These amounts exclude fees and expenses related to the Offer and the Merger. Parent provided Purchaser with sufficient funds to purchase all Shares accepted for payment in the offering period of the Offer and all Shares purchased in the Merger.
+
+The foregoing description of the Merger Agreement and the related transactions does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which was filed as Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the Securities and Exchange Commission (the “SEC”) on April 13, 2022, and is incorporated herein by reference.
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+On May 24, 2022, in connection with the closing of the transactions contemplated by the Merger Agreement (the “Closing”), Parent entered into that certain Credit Agreement (the “Credit Agreement”) with Bank of America, N.A., as Administrative Agent, Swing Line Lender and an L/C Issuer, and the other lenders and L/C Issuers party thereto, evidencing a credit facility (the “Facility”) that provides for (x) a $350 million revolving credit facility (the “Revolving Credit Facility”) and (y) a $250 million term loan facility (the “Term Facility”). The proceeds of the Term Facility and the initial borrowings under the Revolving Credit Facility, in addition to a portion of Parent’s existing cash on hand, were used to pay the Merger Consideration, refinance the Company’s existing indebtedness and pay fees and expenses in connection with the foregoing.
+
+Halozyme, Inc., a wholly-owned subsidiary of Parent, and the Company guarantee Parent’s obligations under the Credit Agreement. The Facility will mature on November 30, 2026, unless either the Revolving Credit Facility or the Term Facility is extended prior to such date in accordance with the Credit Agreement.
+
+The Credit Agreement contains an expansion feature, which allows Parent, subject to certain conditions, to increase the aggregate principal amount of the Facility, provided Parent remains in compliance with underlying financial covenants on a pro forma basis including the consolidated interest coverage ratio and the consolidated net leverage ratio covenants set forth in the Credit Agreement, and the consolidated net leverage ratio shall be not greater than 0.25:1.00 less than the consolidated net leverage ratio then permitted under the Credit Agreement.
+
+In addition to paying interest on the outstanding principal under the Facility, Parent will pay (i) a commitment fee in respect of the unutilized commitments thereunder and (ii) customary letter of credit fees and agency fees. The commitment fees range from 0.15% to 0.35% per annum based on Parent’s consolidated net leverage ratio.
+
+Substantially all of the assets of Parent and the Guarantors (as defined in the Credit Agreement) are pledged as collateral under the Facility (subject to customary exceptions and excluding real property and intellectual property) pursuant to the terms set forth in the Security Agreement (as defined in the Credit Agreement) and Pledge Agreement, each dated as of May 24, 2022, and each executed in favor of the administrative agent by Parent and the Guarantors. Following the Closing, borrowings under the Revolving Credit Facility are to be used by Parent to provide financing for working capital and other general corporate purposes, including potential acquisitions.
+
+Borrowings under the Facility bear interest, at Parent’s option, at a rate equal to an applicable margin plus: (a) the applicable Term SOFR (as defined in the Credit Agreement) rate (which includes a SOFR adjustment of 0.10%), or (b) a base rate determined by reference to the highest of (1) the federal funds effective rate plus 0.50%, (2) the Bank of America prime rate, (3) the Term SOFR rate for an interest period of one month plus 1.10%, and (4) 1.00%. The margin for the Facility ranges, based on Parent’s consolidated total net leverage ratio, from 0.25% to 1.25% in the case of base rate loans and from 1.25% to 2.25% in the case of Term SOFR rate loans.
+
+The terms of the Facility include certain affirmative and negative covenants as set forth in the Credit Agreement, that, among other things, may restrict Parent’s ability to: create liens on assets; incur additional indebtedness; make investments; make acquisitions and other fundamental changes; and sell and dispose of property or assets. The Credit Agreement also includes financial covenants requiring Parent to maintain, measured as of the end of each fiscal quarter, a maximum consolidated net leverage ratio of 4.75 to 1.00 initially, which declines to 4.00 to 1.00 over the term of the Facility, and a minimum consolidated interest coverage ratio of 3.00 to 1.00. If Parent consummates a material acquisition the consolidated net leverage ratio covenant will be increased by 0.50 to 1.00 (to a level not to exceed 4.75 to 1.00) for a period of three fiscal quarters following such material acquisition. The Credit Agreement also contains customary representations and warranties and events of default.
+
+The Term Facility requires quarterly scheduled repayments of the term loans in each of the first, second, third and fourth years following the Closing in annual amounts equal to 2.50%, 5.00%, 7.50% and 10.00% of the initial principal amount of the term loans, respectively. The term loans are also subject to mandatory prepayments from the proceeds of certain asset sales, subject to Parent’s right to reinvest the proceeds thereof.
+
+The foregoing is a summary description of certain terms of the Facility and does not purport to be complete, and it is qualified in its entirety by reference to the full text of the Credit Agreement, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and the Security Agreement, which is filed as Exhibit 10.2 to this Current Report on Form 8-K, each of which is incorporated herein by reference.
+
+Item 7.01 Regulation FD Disclosure
+
+On May 24, 2022, Parent issued a press release announcing the successful completion of Parent’s acquisition of the Company, including the completion of both the Offer and the Merger. A copy of the press release is filed as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+The information set forth under this Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1, shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that Section. The information in this Current Report on Form 8-K shall not be incorporated by reference into any registration statement or other document pursuant to the Securities Act of 1933, as amended, or the Exchange Act.
+
+Item 9.01 Financial Statements and Exhibits
+
+(a) Financial Statements of Businesses Acquired
+
+The audited financial statements of the Company required by this item will be filed by amendment to this Current Report on Form 8-K no later than 71 calendar days after the date on which this Current Report on Form 8-K was required to be filed.
+
+(b) Pro Forma Financial Information
+
+The pro forma financial information reflecting the Merger, to the extent required by this item, will be furnished by amendment to this Current Report on Form 8-K no later than 71 calendar days after the date on which this Current Report on Form 8-K was required to be filed.
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+  
+
+Description
+
+2.1
+
+  
+
+Agreement and Plan of Merger, dated as of April 12, 2022, by and among Halozyme Therapeutics, Inc., Atlas Merger Sub, Inc. and Antares Pharma, Inc. (incorporated herein by reference to Exhibit 2.1 to Halozyme Therapeutics, Inc.’s Form 8-K (File No. 001-32335), filed with the SEC on April 13, 2022).
+
+10.1
+
+  
+
+Credit Agreement, dated as of May 24, 2022, by and among Halozyme Therapeutics, Inc., the Guarantors, Bank of America N.A. and each of those additional Lenders that are a party to such agreement.
+
+10.2
+
+  
+
+Security Agreement, dated as of May 24, 2022, by and among Halozyme Therapeutics, Inc., the Guarantors and Bank of America N.A.
+
+99.1
+
+  
+
+Press Release of Halozyme Therapeutics, Inc., dated as of May 24, 2022.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+HALOZYME THERAPEUTICS, INC.
+
+        May 24, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Nicole LaBrosse
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Nicole LaBrosse
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President, Chief Financial Officer

@@ -1,0 +1,347 @@
+omer20240516_8k.htm
+
+false
+0001285819
+
+0001285819
+
+2024-06-03
+2024-06-03
+
+ 
+
+ ​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+ ​
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+ ​
+
+Date of Report (Date of earliest event reported): June 3, 2024
+
+OMEROS CORPORATION
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ ​
+
+Washington
+
+001-34475
+
+91-1663741
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+201 Elliott Avenue West
+
+Seattle, WA
+
+ 
+
+98119
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ ​
+
+Registrant’s Telephone Number, Including Area Code: (206) 676-5000
+
+ ​
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ ​
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ ​
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+​
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+​
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+​
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ ​
+
+Securities Registered Pursuant to Section 12(b) of the Act:
+
+ ​
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common stock, $0.01 par value per share
+
+OMER
+
+The Nasdaq Stock Market LLC
+
+ ​
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 under the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 under the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+ ​
+
+Emerging growth company ☐
+
+ ​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ ​
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Definitive Material Agreement.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+On June 3, 2024 (the “Closing Date”), Omeros Corporation (the “Company”) with certain subsidiaries, as guarantors, entered into a Credit and Guaranty Agreement (the “Credit Agreement”) with certain funds managed by Athyrium Capital Management, LP (collectively, “Athyrium”) and certain funds managed by Highbridge Capital Management, LLC (collectively, “Highbridge”) as lenders (together with additional lenders from time to time, the “Lenders”) and Wilmington Savings Fund Society, FSB, as administrative agent and collateral agent. The Credit Agreement provides for a senior secured term loan facility initially of up to $92.1 million consisting of (i) an initial term loan of $67.1 million (the “Initial Term Loan”), which was fully funded on the Closing Date, and (ii) a $25.0 million delayed draw term loan (the “Delayed Draw Term Loan”), which may be drawn once in full on or prior to June 3, 2025, provided that the Company has received approval from the U.S. Food and Drug Administration of narsoplimab in hematopoietic stem cell transplant-associated thrombotic microangiopathy. The Initial Term Loan has no original issue discount, while the Delayed Draw Term Loan would be issued with an original issue discount of 3.00%. Neither the Initial Term Loan nor the Delayed Draw Term Loan include any equity consideration for the Lenders (i.e., the transaction is non-dilutive to the Company’s shareholders).
+
+ 
+
+On the Closing Date, the Company used the proceeds of the Initial Term Loan, along with $21.2 million of cash on hand, subject to certain post-closing adjustments, to repurchase from Highbridge and Athyrium (the “Noteholders”) $118.1 million aggregate principal amount of the Company’s existing 5.25% Convertible Senior Notes due on February 15, 2026 (the “2026 Notes”), an amount representing 55 percent of the outstanding 2026 Notes and resulting in approximately $51 million in total debt extinguishment, at a blended price of 74.75 percent of par value. In addition, the Company paid accrued and unpaid interest on the repurchased 2026 Notes through the Closing Date. Proceeds of the Delayed Draw Term Loan, if borrowed, must be used to fund the commercialization of narsoplimab and to pay transaction costs associated with the Delayed Draw Term Loan.
+
+ 
+
+The Company is permitted under the Credit Agreement to repurchase additional outstanding 2026 Notes for cash in open market or privately negotiated transactions, subject to certain limitations described below. Additionally, until the earlier of November 1, 2025 and the date the Company elects to draw under the Delayed Draw Term Loan, the Company, at its sole discretion, may exchange up to $16.9 million aggregate principal amount of outstanding 2026 Notes for cash and additional term loan amounts, with the holders of such notes becoming Lenders under the Credit Agreement (any such additional term loans, together with the Initial Term Loan and the Delayed Draw Term Loan, the “Loans”). The Company also retains all potential future value of the capped call purchased in connection with the issuance of the 2026 Convertible Notes covering all shares underlying the original 2026 Notes.
+
+ 
+
+All indebtedness outstanding under the Credit Agreement is guaranteed by certain of the Company’s direct and indirect subsidiaries, other than certain foreign subsidiaries that are not material (the Company and the guarantors, collectively, the “Credit Parties”). Pursuant to a Pledge and Security Agreement, dated June 3, 2024 (the “Pledge and Security Agreement”), the indebtedness under the Credit Agreement is secured by a first-priority security interest in and lien on substantially all tangible and intangible property of the Credit Parties, subject to customary exceptions, and excluding royalty interests in OMIDRIA® and certain related rights.
+
+ 
+
+The Credit Agreement contains certain customary default provisions, representations and warranties and affirmative and negative covenants, including a covenant for the Credit Parties to maintain at all times unrestricted cash and cash equivalents of at least $25.0 million in accounts subject to control agreements, and a covenant limiting the use of cash for open market or privately negotiated repurchases of any outstanding 2026 Notes to (i) an initial amount not exceeding $25.0 million, which may be increased by up to an additional $10.0 million subject to the satisfaction of certain conditions, (ii) an unlimited amount, if the amount of Loans outstanding at the time of repurchase does not exceed $38.5 million, and (iii) an additional amount not to exceed 50% of the net cash proceeds from an equity offering, provided that the Company offers to prepay an equal amount of Loans with the net cash proceeds of such offering.
+
+ 
+
+The Loans accrue interest at a rate of adjusted term SOFR (with a 3.00% floor) plus 8.75% per annum, payable quarterly. The Company may choose to pay up to 50% of any quarterly interest payment in kind by adding the portion of such interest payment to the outstanding principal amount of Loans using a quarterly interest rate of adjusted term SOFR (with a 3.00% floor) plus 10.25% per annum. A default interest rate of an additional 3.00% per annum would apply on all outstanding obligations after the occurrence and during the continuance of certain specified events of default.
+
+ 
+
+The Credit Agreement with a four-year term has a scheduled maturity date of June 3, 2028 (unless all Loans become due and payable at an earlier date, whether by acceleration or otherwise). If on November 1, 2025, (i) the aggregate principal amount of 2026 Notes outstanding that is not held by the Lenders is equal to or greater than $38.5 million and (ii) the Company has not made nor delivered notice that it expects to make certain voluntary or mandatory prepayments under the Credit Agreement of at least $20.0 million in the aggregate, then the Company will be required to prepay the Loans in an amount equal to the amount necessary to achieve the $20.0 million prepayment requirement. All mandatory prepayments are subject to the prepayment premiums as described below.
+
+ 
+
+The Company may elect to prepay Loans, in whole or in part, in cash, subject to (i) during the first year of such Loans, a make-whole premium plus 5.00% of the aggregate principal amount of Loans subject to prepayment (unless the prepayment is made in contemplation of a change of control, in which case only the make-whole premium would be payable), (ii) during the second year, a 5.00% prepayment premium, and (iii) during the third year, a 3.00% prepayment premium. The Credit Agreement requires mandatory prepayments of Loans in an amount equal to 60% of the net cash proceeds (excluding research and development and certain other milestone payments) received by the Credit Parties from asset sales and licenses, provided that if an asset sale or license involving narsoplimab occurs while any Delayed Draw Term Loans are outstanding, mandatory prepayments must be in an amount equal to 100% of the net cash proceeds from such sale. Mandatory prepayments are also required (i) from insurance recoveries on loss of property that are not otherwise reinvested in other assets of the Credit Parties, (ii) from indebtedness incurred by any of the Credit Parties other than as permitted by the Credit Agreement, (iii) in the event of a change of control and (iv) in respect of 25% of the amount of any milestone payments received from DRI Healthcare Acquisitions LP or its affiliates on the basis of net sales of OMIDRIA.
+
+ 
+
+The foregoing descriptions of the Credit Agreement and the Pledge and Security Agreement (together, the “Agreements”) do not purport to be complete and are qualified in their entirety by reference to the full text of the Credit Agreement and the Pledge and Security Agreement, respectively, copies of which are attached as Exhibits 10.1 and 10.2, respectively, to this Current Report on Form 8-K and incorporated herein by reference. The Agreements contain representations, warranties and other provisions that were made only for purposes of the applicable agreement and as of specific dates, are solely for the benefit of the parties thereto, and may be subject to limitations agreed upon by such parties. The Agreements are not intended to provide any other factual information about the Company.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+ 
+
+On June 3, 2024, the Company issued a press release describing the transactions above. A copy of the press release is furnished as Exhibit 99.1 hereto and incorporated by reference herein.
+
+ 
+
+The information contained in this Item 7.01 shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+ 
+
+As described above, on the Closing Date, the Company repurchased $118.1 million aggregate principal amount of the 2026 Notes through separate, privately negotiated agreements with the Noteholders. If the Company enters into agreements for additional repurchases of 2026 Notes within six months of the Closing Date with pricing or other terms that are more favorable than those received by the Noteholders, the Company agreed to pay the Noteholders the difference between the more favorable price and the price paid to the Noteholders for their 2026 Notes, or to provide to the Noteholders the more favorable other terms, as applicable.
+
+ 
+
+Following the repurchases of the 2026 Notes described herein, such 2026 Notes will be canceled and $97.9 million aggregate principal amount of 2026 Notes remained outstanding. As noted above, the Company may elect to exchange up to approximately $16.9 million aggregate principal amount of outstanding 2026 Notes for cash and additional term loan amounts and/or may, subject to certain limitations, use cash for open market or privately negotiated repurchases of additional 2026 Notes, each of which would further lower the aggregate principal amount of outstanding 2026 Notes. The repurchase of the 2026 Notes and any future repurchases of the 2026 Notes may affect the market price of the Company’s common stock.
+
+ 
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act, which are subject to the “safe harbor” created by those sections for such statements. All statements other than statements of historical fact are forward-looking statements, which are often indicated by terms such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “goal,” “intend,” “likely,” “look forward to,” “may,” “objective,” “plan,” “possible,” “potential,” “predict,” “project,” “should,” “slate,” “target,” “will,” “would” and similar expressions and variations thereof. Forward-looking statements, including the future regulatory status of narsoplimab, expectations regarding uses of proceeds of Loans, the terms of any potential future repurchases of 2026 Notes and the impact of repurchases of 2026 Notes on the price of the Company’s common stock, are based on management’s beliefs and assumptions and on information available to management only as of the date hereof. The Company’s actual results could differ materially from those anticipated in these forward-looking statements for many reasons, including, without limitation, regulatory processes and oversight, market factors, and the risks, uncertainties and other factors described under the heading “Risk Factors” in the Company’s Annual Report on Form 10-K filed with the Securities and Exchange Commission on April 1, 2024. Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements, and the Company assumes no obligation to update these forward-looking statements, whether as a result of new information, future events or otherwise, except as required by applicable law.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+​
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+​
+
+Description
+
+​
+
+​
+
+​
+
+10.1 †
+
+ 
+
+Credit and Guaranty Agreement, dated as of June 3, 2024, among the Company, certain subsidiaries of the Company, as guarantors, various Lenders and Wilmington Savings Fund Society, FSB, as Administrative Agent and Collateral Agent.
+
+10.2
+
+​
+
+Pledge and Security Agreement, dated as of June 3, 2024, between the Company, nura inc. and Wilmington Savings Fund Society, FSB, as Collateral Agent.
+
+99.1
+
+ 
+
+Press Release dated June 3, 2024.
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+†    Certain identified information has been excluded from the exhibit because it both (A) is not material and (B) would be competitively harmful if publicly disclosed.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+​
+
+OMEROS CORPORATION
+
+​
+
+​
+
+​
+
+Date: June 3, 2024
+
+By:
+
+/s/ Gregory A. Demopulos
+
+​
+
+​
+
+Gregory A. Demopulos, M.D.
+
+​
+
+​
+
+President, Chief Executive Officer and
+
+​
+
+​
+
+Chairman of the Board of Directors
+
+ ​

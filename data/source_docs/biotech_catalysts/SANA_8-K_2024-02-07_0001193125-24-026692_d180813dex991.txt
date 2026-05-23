@@ -1,0 +1,110 @@
+EX-99.1
+2
+d180813dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+Overview
+
+We were founded on the belief
+that engineered cells will be one of the most important transformations in medicine over the next several decades. The burden of diseases that can be addressed at their root cause through engineered cells is significant. We view engineered cells as
+having the potential to be as therapeutically disruptive as biologics to clinical practice. Our long-term aspirations are to be able to control or modify any gene in the body, to replace any cell that is damaged or missing, and to markedly improve
+access to cellular and gene- based medicines. We have brought together an experienced group of scientists, engineers, and company builders and combined them with the necessary technologies to move this vision forward. We are developing ex vivo and
+in vivo cell engineered cell therapies to revolutionize treatment across a broad array of therapeutic areas with unmet treatment needs, including in oncology, diabetes, autoimmune diseases, and central nervous system disorders, among others. Our
+platform progress, broad capabilities, and strong balance sheet enable us to execute on a broad vision.
+
+Frequently in disease, cells are
+damaged or missing entirely, and an effective therapy needs to replace the entire cell, an approach referred to as cell therapy or ex vivo cell engineering. A successful therapeutic requires an ability to manufacture cells at scale that engraft,
+function, and have the necessary persistence in the body. Of these requirements, long-term persistence related to overcoming immunologic rejection of another person’s cells has been the most challenging, which has led many to focus on
+autologous, or a patient’s own, cells as the therapeutic source. However, autologous therapies require a complex process of harvesting cells from the patients, manipulating them outside the body, and returning them to the patient. Products
+using this approach have had to manage significant challenges such as scalability, product variability, product quality, cost, patient accessibility, and limits on number of cell types that are amenable to this approach. Given these limitations,
+rather than using autologous cells to overcome immune rejection, we have invested in creating hypoimmune- modified cells that can “hide” from the patient’s immune system. We are striving to make therapies that use pluripotent stem
+cells with our hypoimmune genetic modifications as the starting material, which we then differentiate into a specific cell type, such as a pancreatic islet cell, before treating the patient. Additionally, there are cell types for which effective
+differentiation protocols from a stem cell have not yet been developed, such as T cells. For these cell types, instead of starting from a pluripotent stem cell, we can use allogeneic, fully- differentiated cells sourced from a donor as the starting
+material to which we then apply our hypoimmune genetic modifications.
+
+The process of repairing and controlling genes in the body,
+referred to as gene therapy or in vivo cell engineering, requires in vivo delivery of a therapeutic payload and modification of the genome. There are multiple methods available to modify the genome, but limited ability to deliver therapeutic
+payloads in vivo. Thus, delivery of a therapeutic payload is at the core of our strategic focus for our in vivo gene therapy program, with our ultimate goal being the delivery of any payload to any cell in a specific and repeatable way. Our initial
+effort is on cell-specific delivery and increasing the diversity and size of payloads. Using our fusogen technology, we have shown in preclinical studies that we can specifically target numerous cell surface receptors that, when combined with
+delivery vehicles to form fusosomes, allow cell-specific delivery across multiple different cell types.
+
+We believe the time is right to
+develop engineered cell therapies across a broad range of therapeutic areas. Substantial progress in the understanding of genetics, gene editing, protein engineering, stem cell biology, immunology, process analytics, and computational biology have
+converged to create an opportunity to markedly increase the breadth and depth of the potential impact of cellular medicines. We are focused on creating transformative engineered cell therapies across a range of therapeutic areas. We are developing a
+broad pipeline of product candidates, which are summarized below:
+
+ 
+
+ 
+
+1 
+
+Investigator sponsored trial.
+
+Abbreviations: ANCA-associated vasculitis (AAV); chronic lymphocytic leukemia (CLL); extrarenal systemic lupus erythematosus (ERL); Huntington’s disease
+(HD); lupus nephritis (LN); multiple myeloma (MM); non-Hodgkin lymphoma (NHL); Pelizaeus-Merzbacher Disease (PMD); secondary progressive multiple sclerosis (SPMS); type
+1 diabetes (T1D); worldwide (WW).
+
+Clinical Updates
+
+SC291 – ARDENT
+
+In January 2024, we
+disclosed initial interim clinical data from our ongoing Phase 1 clinical trial evaluating our CD19-targeted directed allogeneic chimeric antigen receptor (CAR) T program, SC291, in patients with B-cell
+mediated autoimmune diseases, including non-Hodgkin’s lymphoma (NHL) and chronic lymphoblastic leukemia (CLL), which we refer to as the ARDENT trial.
+
+As of January 5, 2024, the cut-off date for our early interim analysis, six patients had been
+dosed with SC291 and four patients were evaluable (defined as patients dosed with SC291 who had at least one disease assessment), of whom three were dosed with 60M CAR T cells (Dose Level 1) and the other was dosed with 120M CAR T cells (Dose
+Level 2). With respect to the four evaluable patients at these two dose levels, we observed no dose limiting toxicities, no SC291-related serious adverse events, and no incidences of graft versus host disease. We also observed no cytokine
+release syndrome (CRS) or immune effector cell-associated neurotoxicity syndrome (ICANS) of any grade or any infections of Grade 3 or higher. Additionally, we observed at least a partial response in three of the patients, including ongoing complete
+responses in one patient from Dose Level 1 after three months and the patient from Dose Level 2 after two months.
+
+The SC291
+drug product contains CAR T cells that are fully edited hypoimmune cells, which we describe as HIP-edited CAR-T cells, along with partially edited cells, which we
+describe as non-HIP CAR T cells. In vitro testing showed evidence that blood and immune cells from each of the four evaluable patients had mounted an immune response to the non-HIP CAR T cells but not to the HIP-edited CAR T cells. Specifically, HIP-edited CAR T cells from the drug product were not rejected
+by the innate immune response mediated by the patient’s natural killer (NK) cells, nor did the patients have T cell or antibody responses that recognized these cells. In contrast, we observed immune responses against the non-HIP CAR T cells in the drug product.
+
+Importantly, this evidence suggests that the patients had an intact immune system capable of
+recognizing allogeneic cells and that the HIP CAR T cells were able to evade these responses. These results were consistent across all four evaluable patients and provide early support for the idea that the immune evasion profile of our HIP gene
+edits in multiple pre-clinical models may translate into human subjects. We believe this observation supports further dose escalation and dose expansion in the ARDENT trial and broader application of our HIP
+technology in allogeneic cell therapies in other indications.
+
+We are continuing to enroll and dose patients in the ARDENT trial and
+expect to share additional data in 2024.
+
+SC291 – GLEAM
+
+In November 2023, the FDA cleared our Investigational New Drug application (IND) to evaluate SC291 in patients with lupus nephritis, extrarenal
+lupus, and antineutrophil cytoplasmic antibody-associated vasculitis, which we refer to as our GLEAM trial.
+
+In the ongoing ARDENT trial,
+we have observed the pharmacodynamic effect of peripheral blood B cell depletion, which refers to diminishing B cell counts in the peripheral blood, associated with SC291 treatment in patients. We believe this may increase the possibility that SC291
+treatment may confer similar benefit to patients with B cell-mediated autoimmune disorders as autologous CD19 CAR T cell therapies.
+
+We
+expect to share data from the GLEAM trial in 2024.
+
+SC262 – VIVID
+
+In January 2024, the FDA cleared our IND to evaluate SC262, our hypoimmune-modified CD22 CAR T program, in patients with relapsed or refractory
+B-cell malignancies who have received prior CD19 CAR T therapy, which we refer to as our VIVID trial. We expect to share data from the VIVID trial in 2024.
+
+Pancreatic Islet Cell Program
+
+In January
+2024, we presented data from a study transplanting allogeneic HIP-modified pancreatic islet cells into a fully immunocompetent, diabetic non-human primate (NHP).
+Subsequent to diabetes being induced in the NHP with streptozotocin, daily insulin injections were performed to re-establish glucose control. After 78 days, the NHP underwent transplantation of HIP primary
+islets by intramuscular injection, resulting in insulin independence without the use of any immunosuppression. As early as one week after the transplantation, the NHP’s serum c-peptide level had
+normalized, and it remained stable throughout the follow-up period of six months. The NHP showed tightly controlled blood glucose levels for six months, was completely insulin-independent, and was continuously
+healthy throughout this period with no use of any immunosuppression. Up to six months following HIP primary islet transplantation, peripheral blood mononuclear cells and serum were obtained from the NHP for immune analyses. HIP primary islets showed
+no T cell recognition, no graft-specific antibodies, and were protected from NK cell and macrophage killing. To demonstrate that the NHP’s insulin-independence was fully dependent on the HIP primary islets and that there was no regeneration of
+the animal’s endogenous islet cell population, we triggered the destruction of the HIP primary islets using a CD47-targeting antibody. This resulted in a loss of glycemic control and return to exogenous insulin dependence. We believe these data
+demonstrate potential evidence for immune evasion of HIP primary islets, graft-mediated insulin-independence of the diabetic NHP, and a potential safety strategy.
+
+In November 2023, the Swedish Medical Products Agency authorized a clinical trial application for an investigator-sponsored, first-in-human study (IST) evaluating UP421, an allogeneic, primary islet cell therapy engineered with our HIP technology, in patients with type 1 diabetes mellitus. Subjects
+in this study will receive no immunosuppression. We expect data from the IST to be shared in 2024. We believe that immunology insights gained from the IST, particularly with respect to whether HIP modifications lead to long-term survival and evasion
+of either allogeneic or autoimmune killing of the transplanted cells, may provide direct insights applicable to our preclinical-stage pluripotent stem cell-derived hypoimmune pancreatic islet product candidate, SC451.

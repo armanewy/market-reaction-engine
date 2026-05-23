@@ -1,0 +1,173 @@
+EDGAR Filing Documents for 0001564590-21-059911
+
+SEC.gov
+
+EDGAR
+
+Latest Filings
+
+Filings search tools
+
+Filing Detail
+
+SEC Home »
+
+Company Search »
+
+Current Page
+
+Form 8-K - Current report:
+
+SEC Accession No. 0001564590-21-059911
+
+Filing Date
+
+2021-12-09
+
+Accepted
+
+2021-12-09 17:10:12
+
+Documents
+
+14
+
+Period of Report
+
+2021-12-09
+
+Items
+
+Item 8.01: Other Events
+
+Item 9.01: Financial Statements and Exhibits
+
+ Interactive Data
+
+Document Format Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+1
+
+8-K
+
+sndx-8k_20211209.htm   iXBRL
+
+8-K
+
+45561
+
+2
+
+EX-5.1
+
+sndx-ex51_22.htm
+
+EX-5.1
+
+11446
+
+3
+
+EX-99.1
+
+sndx-ex991_6.htm
+
+EX-99.1
+
+12914
+
+ 
+
+Complete submission text file
+
+0001564590-21-059911.txt
+
+ 
+
+214632
+
+Data Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+4
+
+XBRL TAXONOMY EXTENSION SCHEMA
+
+sndx-20211209.xsd
+
+EX-101.SCH
+
+5677
+
+5
+
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+sndx-20211209_lab.xml
+
+EX-101.LAB
+
+20826
+
+6
+
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+sndx-20211209_pre.xml
+
+EX-101.PRE
+
+12379
+
+7
+
+EXTRACTED XBRL INSTANCE DOCUMENT
+
+sndx-8k_20211209_htm.xml
+
+XML
+
+3788
+
+Mailing Address
+35 GATEHOUSE DRIVE
+BUILDING D, FLOOR 3
+
+WALTHAM MA
+02451
+
+Business Address
+35 GATEHOUSE DRIVE
+BUILDING D, FLOOR 3
+
+WALTHAM MA
+02451
+781-419-1400
+
+Syndax Pharmaceuticals Inc (Filer)
+CIK: 0001395937 (see all company filings)
+
+EIN.: 320162505 | State of Incorp.: DE | Fiscal Year End: 1231
+
+Type: 8-K | Act: 34 | File No.: 001-37708 | Film No.: 211482733
+
+SIC: 2834 Pharmaceutical Preparations

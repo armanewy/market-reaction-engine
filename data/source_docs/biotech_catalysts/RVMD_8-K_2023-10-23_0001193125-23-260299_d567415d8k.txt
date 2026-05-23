@@ -1,0 +1,1015 @@
+8-K
+
+false 0001628171 0001628171 2023-10-22 2023-10-22
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 22, 2023
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39219
+
+ 
+
+47-2029180
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+700 Saginaw Drive
+
+Redwood City, California 94063
+
+(Address of principal executive offices, including Zip Code)
+
+Registrant’s telephone number, including area code: (650) 481-6801
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+RVMD
+
+ 
+
+The Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On October 22, 2023, Revolution Medicines, Inc. (the “Company”) posted an updated corporate presentation to the investor section of the Company’s website at: ir.revmed.com/events-and-presentations. The Company’s updated corporate presentation is attached hereto as Exhibit 99.1.
+
+The furnishing of the attached presentation is not an admission as to the materiality of any information therein. The information contained in the slides is summary information that is intended to be considered in the context of more complete information included in the Company’s filings with the U.S. Securities and Exchange Commission (the “SEC”) and other public announcements that the Company has made and may make from time to time by press release or otherwise. The Company undertakes no duty or obligation to update or revise the information contained in this Current Report on Form 8-K, although it may do so from time to time as its management believes is appropriate. Any such updating may be made through the filing of other reports or documents with the SEC, through press releases or through other public disclosures. For important information about forward looking statements, see the slide titled “Legal Disclaimer” in Exhibit 99.1 attached hereto.
+
+The information furnished under this Item 7.01 and in the presentation attached as Exhibit 99.1 to this Current Report on Form 8-K shall not be deemed “filed” for purposes of Section 18 of the Exchange Act or otherwise subject to the liabilities of that section or Sections 11 or 12(a)(2) of the Securities Act. The information contained in this Item 7.01 and in the presentation attached as Exhibit 99.1 to this Current Report on Form 8-K shall not be incorporated by reference into any filing with the SEC made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On October 22, 2023, the Company provided the following pipeline updates.
+
+RMC-6236
+
+The Company reported updated preliminary safety and anti-tumor data for RMC-6236, its RASMULTI(ON) Inhibitor.
+
+In the Company’s ongoing RMC-6236-001 Phase 1/1b trial, a total of 111 patients with either non-small cell lung cancer (“NSCLC”) (n=46) or pancreatic ductal adenocarcinoma (“PDAC”) (n=65) treated across six dose cohorts ranging from 80 mg daily to 400 mg daily were evaluated for safety and tolerability as of a data cut-off date of October 12, 2023 (the “Data Cut-off Date”). Patients at dose levels below 80 mg daily were not included in this analysis based on the Company’s preclinical and pharmacokinetics predictions that these dose levels would not be associated with tumor regressions in patients and its clinical observations of these doses. Common RAS mutations in patients evaluated included G12D, G12V, G12R, G12A and G12S. Patients with KRASG12C mutations were excluded from the study due to the availability of currently approved KRASG12C(OFF) inhibitors. All of these patients had previously been treated with standard of care appropriate for tumor type and stage. Patients with NSCLC had received a median of two prior lines of therapy (range: 1–6) and patients with PDAC had received a median of three prior lines of therapy (range: 1–7).
+
+As of the Data Cut-off Date, the Company observed that RMC-6236 demonstrated an acceptable safety profile that was generally well tolerated across the dose levels analyzed (Table 1). Median duration of treatment as of the Data Cut-off Date was 2.1 months (range: 0.2–10.9). The most common treatment-related adverse events (“TRAEs”) were rash and gastrointestinal (“GI”)-related toxicities that were primarily Grade 1 or 2 in severity. One previously reported Grade 4 TRAE occurred in a patient with PDAC at the 80 mg dose level who had a large intestine perforation at the site of an invasive tumor that reduced in size while on treatment, which resulted in treatment discontinuation. No fatal TRAEs were observed. No safety signals were observed that indicated an elevated risk of hepatotoxicity, which has been reported for some KRASG12C(OFF) inhibitors.
+
+Table 1. RMC-6236-001: Select treatment-related adverse events for patients with NSCLC and PDAC Treated at ≥80 mg daily
+
+ 
+
+Total (N=111)
+
+ 
+
+Maximum Severity of Treatment-Related AEs (TRAEs)
+
+  
+
+Grade 1
+
+  
+
+Grade 2
+
+  
+
+Grade 3
+
+  
+
+Grade 4
+
+  
+
+Any Grade
+
+TRAEs occurring in ≥10% of patients, n (%)
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+Rash‡
+
+  
+
+ 
+
+ 
+
+58(52)
+
+  
+
+ 
+
+ 
+
+25(23)
+
+  
+
+ 
+
+ 
+
+7(6)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+90(81)
+
+Nausea
+
+  
+
+ 
+
+ 
+
+40(36)
+
+  
+
+ 
+
+ 
+
+11(10)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+51(46)
+
+Diarrhea
+
+  
+
+ 
+
+ 
+
+28(25)
+
+  
+
+ 
+
+ 
+
+14(13)
+
+  
+
+ 
+
+ 
+
+1(1)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+43(39)
+
+Vomiting
+
+  
+
+ 
+
+ 
+
+30(27)
+
+  
+
+ 
+
+ 
+
+7(6)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+37(33)
+
+Stomatitis
+
+  
+
+ 
+
+ 
+
+13(12)
+
+  
+
+ 
+
+ 
+
+9(8)
+
+  
+
+ 
+
+ 
+
+2(2)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+24(22)
+
+Fatigue
+
+  
+
+ 
+
+ 
+
+11(10)
+
+  
+
+ 
+
+ 
+
+6(5)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+17(15)
+
+Other select TRAEs, n (%)
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+ALT elevation
+
+  
+
+ 
+
+ 
+
+8(7)
+
+  
+
+ 
+
+ 
+
+1(1)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+9(8)
+
+Maximum Severity of Treatment-Related AEs (TRAEs)
+
+  
+
+Grade 1
+
+  
+
+Grade 2
+
+  
+
+Grade 3
+
+ 
+
+Grade 4
+
+ 
+
+Any Grade
+
+AST elevation
+
+  
+
+ 
+
+ 
+
+8(7)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+— 
+
+ 
+
+ 
+
+ 
+
+— 
+
+ 
+
+ 
+
+ 
+
+8(7)
+
+Electrocardiogram QT prolonged
+
+  
+
+ 
+
+ 
+
+1(1)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+— 
+
+ 
+
+ 
+
+ 
+
+— 
+
+ 
+
+ 
+
+ 
+
+1(1)
+
+TRAEs leading to dose reduction*, n (%)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+10(9)
+
+  
+
+ 
+
+  
+
+5(5)
+
+† 
+
+ 
+
+ 
+
+ 
+
+— 
+
+ 
+
+ 
+
+ 
+
+15(14)
+
+TRAEs leading to treatment discontinuation, n (%)
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+— 
+
+  
+
+ 
+
+ 
+
+— 
+
+ 
+
+ 
+
+ 
+
+1
+
+(1)^
+
+ 
+
+ 
+
+ 
+
+1(1)
+
+AE, adverse event; ALT, alanine transaminase; AST, aspartate transferase; TRAEs, treatment-related adverse events.
+
+‡ Includes preferred terms of dermatitis acneiform, rash maculopapular, rash, rash pustular, erythema, rash erythematous; multiple types of rash may have occurred in the same patient.
+
+* The most common reason for dose reduction was rash.
+
+† Grade 3 TRAEs leading to reduction were rash (n=4), including one patient with a dose reduction due to rash and decreased appetite, and stomatitis (n=1).
+
+^ One Grade 4 TRAE occurred in a patient with PDAC at the 80 mg dose level who had a large intestine perforation at the site of an invasive tumor that reduced in size while on treatment.
+
+Clinical activity was evaluated as of the Data Cut-off Date in patients with NSCLC (n=40) and PDAC (n=46) who had received the first dose of RMC-6236 at least eight weeks prior to the Data Cut-off Date (n=86). Confirmed objective responses included tumors harboring KRAS mutations G12D, G12V or G12R, and disease control was observed across all KRAS mutations, including G12A and G12S.
+
+As of the Data Cut-off Date, RMC-6236 demonstrated preliminary evidence of clinical activity in efficacy-evaluable NSCLC patients (Figure 1).
+
+Figure 1. RMC-6236-001: Change in tumor burden from efficacy-evaluable KRASG12X NSCLC patients
+
+ 
+
+Data extracted October 12, 2023.
+
+QD, daily dosing; PD, progressive disease; SD, stable disease; PR, partial response; PR*, unconfirmed PR per Response Evaluation Criteria in Solid Tumors (“RECIST”) 1.1; CR, complete response.
+
+‡ Patients who received first dose of RMC-6236 at least eight weeks prior to data extract date.
+
+Among the efficacy evaluable NSCLC patients, the objective response rate was 38 percent, with one patient achieving a complete response (“CR”) as a best response and 14 patients achieving a partial response (“PR”) (including three unconfirmed PRs) (Table 2). The disease control rate (“DCR”) in this NSCLC population was 85 percent.
+
+Table 2. RMC-6236-001: Tumor Response per RECIST for efficacy-evaluable KRASG12X NSCLC patients
+
+ 
+
+Tumor Response (per RECIST 1.1)
+
+ 
+
+Best Overall Response, n (%)
+
+  
+
+CR
+
+PR
+
+SD
+
+PD
+
+NE†
+
+  
+
+ 
+
+1(3)
+
+14(35)
+
+19(48)
+
+5(13)
+
+1(3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORR, n (%)
+
+  
+
+ 
+
+15(38)
+
+ 
+
+Confirmed, n
+
+  
+
+ 
+
+12
+
+ 
+
+DCR (CR+PR+SD), n (%)
+
+  
+
+ 
+
+34(85)
+
+ 
+
+CR, complete response; PR, partial response; SD, stable disease; PD, progressive disease; NE, not evaluable; ORR, objective response rate; DCR, disease control rate.
+
+† One subject withdrew from study without post-baseline scans.
+
+As of the Data Cut-off Date, RMC-6236 demonstrated preliminary evidence of clinical activity in efficacy-evaluable PDAC patients (Figure 2).
+
+Figure 2. RMC-6236-001: Change in tumor burden from efficacy-evaluable KRASG12X PDAC patients
+
+ 
+
+Data extracted October 12, 2023.
+
+QD, daily dosing; PD, progressive disease; SD, stable disease; PR, partial response; PR*, unconfirmed PR per RECIST 1.1.
+
+‡ Patients who received first dose of RMC-6236 at least eight weeks prior to data extract date.
+
+Among the efficacy-evaluable PDAC patients, the objective response rate was 20 percent, with nine patients achieving a PR (including four unconfirmed PRs) as a best response (Table 3). The DCR in this PDAC population was 87 percent.
+
+Table 3. RMC-6236-001: Tumor Response per RECIST for efficacy-evaluable KRASG12X PDAC patients
+
+ 
+
+Tumor Response (per RECIST 1.1)
+
+ 
+
+Best Overall Response, n (%)
+
+  
+
+PR
+
+SD
+
+PD
+
+NE†
+
+  
+
+ 
+
+9(20)
+
+31(67)
+
+3(7)
+
+3(7)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORR, n (%)
+
+  
+
+ 
+
+9(20)
+
+ 
+
+Confirmed, n
+
+  
+
+ 
+
+5
+
+ 
+
+DCR (CR+PR+SD), n (%)
+
+  
+
+ 
+
+40(87)
+
+ 
+
+PR, partial response; SD, stable disease; PD, progressive disease; NE, not evaluable; ORR, objective response rate; DCR, disease control rate.
+
+† Two patients died prior to first post-baseline scan; one patient had scan after 11 days of treatment and subsequently died due to PD.
+
+The Company is planning a global randomized phase 3 trial comparing RMC-6236 against docetaxel in patients with previously treated RAS-mutated NSCLC who have been treated with immunotherapy and platinum-containing chemotherapy. The study design for this planned trial is subject to change based on regulatory authority feedback. The Company is aiming to initiate this study in 2024.
+
+The Company may potentially plan a global randomized phase 3 trial comparing RMC-6236 against a physician’s choice of chemotherapy regimens in patients with previously treated RAS-mutated PDAC. The study design for this potential trial is subject to change based on regulatory authority feedback. The Company expects to make a decision regarding plans for this study after additional patient follow-up regarding durability of response and dose optimization, but the Company believes the study could potentially be initiated in 2024.
+
+Planning is underway for one or more combination pivotal clinical trials for RMC-6236 with standard of care therapies.
+
+RMC-6291
+
+Active recruitment of patients is underway for the Phase 1/1b clinical trial to evaluate the combination of RMC-6236 and RMC-6291.
+
+RMC-4630
+
+Based on the Company’s review of the complete data set from the RMC-4630-03 study, the Company concluded that the combination of RMC-4630 (200 mg intermittent dosing D1D2) with sotorasib (960 mg daily dosing) showed additive side effects compared to either agent alone and that tolerability was insufficient to confer a clinical benefit (objective response rate or durability) due to dose interruptions and discontinuations. The Company has no immediate plans for further development of RMC-4630, but believes this compound remains an option for potential evaluation in other combinations.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Any statements in this report that are not historical facts may be considered “forward-looking statements,” including, without limitation, statements regarding the scope, progress and results of developing the Company’s product candidates, and conducting clinical trials. Forward-looking statements are typically, but not always, identified by the use of words such as “may,” “will,” “would,” “believe,” “intend,” “plan,” “anticipate,” “estimate,” “expect” and other similar terminology indicating future results. Such forward-looking statements are subject to substantial risks and uncertainties that could cause the Company’s development programs, future results, performance or achievements to differ materially from those anticipated in the forward-looking statements. Such risks and uncertainties include, without limitation, risks and uncertainties inherent in the drug development process, including the Company’s programs’ early stage of development, the process of designing and conducting preclinical and clinical trials, the
+
+regulatory approval processes, the timing of regulatory filings, the challenges associated with manufacturing drug products, the Company’s ability to successfully establish, protect and defend its intellectual property, other matters that could affect the sufficiency of the Company’s capital resources to fund operations, reliance on third parties for manufacturing and development efforts, changes in the competitive landscape and the effects on the Company’s business of global events and other macroeconomic conditions. For a further description of the risks and uncertainties that could cause actual results to differ from those anticipated in these forward-looking statements, as well as risks relating to the business of the Company in general, see the Company’s Quarterly Report on Form 10-Q filed with the SEC on August 8, 2023, and its future periodic reports to be filed with the SEC. Except as required by law, the Company undertakes no obligation to update any forward-looking statements to reflect new information, events or circumstances, or to reflect the occurrence of unanticipated events.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+  No.  
+
+  
+
+Description
+
+99.1
+
+  
+
+Company presentation dated October 22, 2023.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+Date: October 23, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Mark A. Goldsmith
+
+ 
+
+ 
+
+ 
+
+Mark A. Goldsmith, M.D., Ph.D.
+
+President and Chief Executive Officer

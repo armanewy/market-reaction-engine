@@ -1,0 +1,267 @@
+8-K
+
+false 0001652130 0001652130 2025-09-25 2025-09-25
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 25, 2025
+
+ 
+
+ 
+
+INTELLIA THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37766
+
+ 
+
+36-4785571
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+40 Erie Street, Suite 130
+
+Cambridge, Massachusetts
+
+ 
+
+02139
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (857) 285-6200
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock (Par Value $0.0001)
+
+ 
+
+NTLA
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+On September 25, 2025, Intellia Therapeutics, Inc. (the “Company” or “Intellia”) issued a press release titled “Intellia Therapeutics Announces Positive Longer-Term Phase 1 Data for Nexiguran Ziclumeran (nex-z) in Patients with Hereditary Transthyretin (ATTR) Amyloidosis with Polyneuropathy.” A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The information under this Item 7.01, including Exhibit 99.1 hereto, is being furnished herewith and shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 8.01. Other Events.
+
+On September 25, 2025, the Company announced positive new clinical data from the ongoing Phase 1 trial of nexiguran ziclumeran (“nex-z,” also known as NTLA-2001) in patients with hereditary transthyretin (“ATTR”) amyloidosis with polyneuropathy (“ATTRv-PN”). Nex-z is an investigational in vivo CRISPR-based gene editing therapy in development as a one-time treatment for ATTR amyloidosis. The Phase 1 trial is an open-label study evaluating the safety and activity of nex-z in patients with ATTR amyloidosis.
+
+As of the data cutoff date, which was April 11, 2025, deep, durable and consistent TTR reductions continue to be observed in the Phase 1 trial. Across patients who received a one-time dose of 0.3 mg/kg or higher (n=33), the mean serum TTR reduction at 24 months was 92% (corresponding mean absolute serum TTR level of 17.3 µg/mL [Mean 95% CI, 12.5 – 22.2]). Among the 12 patients who had reached 36 months of follow-up, the mean serum TTR reduction was 90% (corresponding mean absolute serum TTR level of 20 µg/mL [Mean 95% CI, 11.2 – 28.8]).
+
+Favorable trends indicating stability or improvement were observed in most patients with ATTRv-PN after a single dose of nex-z. Stability or improvement was based on evaluation of multiple clinical and biomarker measures, including Neuropathy Impairment Score (NIS), modified Neuropathy Impairment Score +7 (mNIS+7), modified body mass index (mBMI), Norfolk Quality of Life-Diabetic Neuropathy (QoL-DN) questionnaire, neurofilament light chain (NfL), and polyneuropathy disability (PND) score.
+
+Among the 18 patients in whom a 24-month mNIS+7 assessment was completed by the data cutoff date, 13 (72%) showed improvements of a clinically meaningful threshold of ≥4 points, including most of the patients in the cohort who had progressed on patisiran. Among all 36 patients enrolled in the Phase 1 trial, mean values of the secondary endpoints mBMI, QoL-DN and NfL all trended toward disease improvement and 89% of patients showed improvement or stability in PND scores through 24 months compared to baseline.
+
+Nex-z has been generally well tolerated as of the data cutoff date across all patients and at all dose levels tested. The most commonly reported treatment-related adverse events were infusion-related reactions, which were mild or moderate and did not result in any discontinuations. As previously reported, three participants had Grade ≥3 liver enzyme elevations that were not considered serious, were asymptomatic and resolved spontaneously without medical intervention or sequelae.
+
+In addition, the Company provided an update on the Phase 3 MAGNITUDE-2 trial, which is a randomized, double-blind, placebo-controlled trial designed to evaluate the efficacy and safety of nex-z in approximately 50 patients, who are randomized 1:1 to receive a single 55 mg infusion of nex-z or placebo. The Company began dosing patients in MAGNITUDE-2 in April 2025. Patient screening is advancing rapidly, and enrollment completion is expected in the first half of 2026. Intellia anticipates submitting a biologics license application for ATTRv-PN by 2028.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K and certain of the materials furnished or filed herewith contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+These forward-looking statements include, but are not limited to, express or implied statements regarding Intellia’s beliefs and expectations regarding: the safety, tolerability, efficacy, success and advancement of its clinical programs for nexiguran ziclumeran or “nex-z” (also known as NTLA-2001) for transthyretin (“ATTR”) amyloidosis, including the ability to successfully complete its global Phase 3 MAGNITUDE-2 study for hereditary transthyretin ATTR amyloidosis with polyneuropathy (“ATTRv-PN”) pursuant to its
+
+clinical trial applications and investigational new drug submissions; its expectation to complete enrollment in the MAGNITUDE-2 trial in the first half of 2026; its belief that a single dose of nex-z leads to deep, durable and consistent reductions in serum TTR and that increasingly deep reductions in TTR levels translate to better outcomes for patients; its belief that the MAGNITUDE-2 trial will demonstrate nex-z’s potential to halt or reverse disease progression in people living with ATTRv-PN; and its expectation to submit a biologics license application for nex-z for the treatment of ATTRv-PN by 2028.
+
+Any forward-looking statements in this current report on Form 8-K are based on management’s current expectations and beliefs of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: risks related to Intellia’s ability to protect and maintain its intellectual property position; risks related to valid third party intellectual property; risks related to Intellia’s relationship with third parties, including its licensors and licensees; risks related to the ability of its licensors to protect and maintain their intellectual property position; uncertainties related to regulatory agencies’ evaluation of regulatory filings and other information related to our product candidates, including nex-z; uncertainties related to the authorization, initiation and conduct of studies and other development requirements for our product candidates, including uncertainties related to regulatory approvals to conduct clinical trials; the risk that any one or more of Intellia’s product candidates, including nex-z, will not be successfully developed and commercialized; the risk that the results of preclinical studies or clinical studies will not be predictive of future results in connection with future studies for the same product candidate or Intellia’s other product candidates; and risks related to Intellia’s reliance on collaborations, including that its collaboration with Regeneron Pharmaceuticals, Inc. will not continue or will not be successful. For a discussion of these and other risks and uncertainties, and other important factors, any of which could cause Intellia’s actual results to differ from those contained in the forward-looking statements, see the section entitled “Risk Factors” in Intellia’s most recent annual report on Form 10-K and quarterly report on Form 10-Q, as well as discussions of potential risks, uncertainties, and other important factors in Intellia’s other filings with the Securities and Exchange Commission. All information in this current report on Form 8-K is as of the date of the report, and Intellia undertakes no duty to update this information unless required by law.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press release dated September 25, 2025.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Intellia Therapeutics, Inc.
+
+ 
+
+ 
+
+ 
+
+(Registrant)
+
+Date: September 25, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ John M. Leonard
+
+ 
+
+ 
+
+ 
+
+Name: John M. Leonard
+
+ 
+
+ 
+
+ 
+
+Title: Chief Executive Officer and President

@@ -1,0 +1,449 @@
+8-K
+
+BIOMARIN PHARMACEUTICAL INC false 0001048477 0001048477 2026-02-12 2026-02-12
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 12, 2026
+
+ 
+
+ 
+
+BioMarin Pharmaceutical Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+000-26727
+
+ 
+
+68-0397820
+
+(State or other jurisdiction
+
+of incorporation or organization)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+770 Lindaro Street
+
+ 
+
+San Rafael
+
+ 
+
+California
+
+  
+
+94901
+
+(Address of Principal Executive Offices)
+
+ 
+
+  
+
+(Zip Code)
+
+(415) 506-6700
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001
+
+ 
+
+BMRN
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On February 12, 2026, BioMarin Pharmaceutical Inc. (BioMarin or the company) completed its previously-announced private placement of $850 million aggregate principal amount of 5.500% Senior Notes due 2026 (the Notes) to several investment banks acting as initial purchasers who subsequently resold the Notes to qualified institutional buyers as defined in Rule 144A under the Securities Act of 1933, as amended (the Securities Act) and outside the United States to non-U.S. persons pursuant to Regulation S under the Securities Act.
+
+BioMarin intends to use the net proceeds from the offering of the Notes, together with borrowings under a new $2 billion senior secured term loan “B” facility (the Term Loan B Facility) and a $800 million senior secured term loan “A” facility (the Term Loan A Facility and, together with the Term Loan B Facility, the Term Facilities) and cash on hand, to fund the consideration payable in connection with the pending acquisition (the Acquisition) of Amicus Therapeutics, Inc. and related fees and expenses in connection with the Acquisition, the borrowings under the Term Facilities, and the offering of the Notes. In addition to the Term Facilities, BioMarin expects to enter into a $600 million senior secured revolving credit facility in connection with the Acquisition (the New Revolving Facility and, together with the Term Facilities, the New Senior Secured Credit Facilities). BioMarin may also borrow up to $150 million under the New Revolving Facility to pay such fees and expenses.
+
+Gross proceeds from the offering of the Notes were deposited into an escrow account at the closing of the offering, pending consummation of the Acquisition. In the event that the Acquisition is not completed on or prior to December 19, 2026, or upon the occurrence of certain other events, BioMarin will be required to redeem all of the Notes at a redemption price equal to 100% of the initial issue price of the Notes plus accrued and unpaid interest from the date of issuance, or the most recent date to which interest has been paid or provided for, to but excluding the special mandatory redemption date.
+
+The description of the Notes and the guarantees thereof by BioMarin and certain of its subsidiaries is incorporated herein by reference to BioMarin’s Current Report on Form 8-K, filed on January 29, 2026.
+
+The Notes were issued pursuant to an Indenture, dated as of February 12, 2026 (the Indenture), among BioMarin, certain subsidiaries of BioMarin party thereto as subsidiary guarantors (the Guarantors) and U.S. Bank Trust Company, National Association, as trustee (the Trustee). The Indenture contains covenants that will limit the ability of BioMarin and certain of its subsidiaries to, among other things:
+
+ 
+
+ 
+
+•
+
+ 
+
+incur, assume or guarantee additional indebtedness;
+
+ 
+
+ 
+
+•
+
+ 
+
+declare or pay dividends or make other distributions with respect to, or purchase or otherwise acquire or retire for value, equity interests;
+
+ 
+
+ 
+
+•
+
+ 
+
+make any principal payment on, or redeem or repurchase, subordinated debt;
+
+ 
+
+ 
+
+•
+
+ 
+
+make loans, advances or other investments;
+
+ 
+
+ 
+
+•
+
+ 
+
+incur liens;
+
+ 
+
+ 
+
+•
+
+ 
+
+sell or otherwise dispose of assets, including capital stock of subsidiaries;
+
+ 
+
+ 
+
+•
+
+ 
+
+enter into sale and lease-back transactions;
+
+ 
+
+ 
+
+•
+
+ 
+
+consolidate or merge with or into, or sell all or substantially all of the assets of BioMarin to, another person; and
+
+ 
+
+ 
+
+•
+
+ 
+
+enter into transactions with affiliates.
+
+Certain of the covenants will be suspended during any period in which the Notes receive investment grade ratings.
+
+The Indenture also provides for certain events of default, which, if any of them occurs, would permit or require the principal, premium, if any, interest and any other monetary obligations on all the then outstanding Notes to be declared immediately due and payable. The following constitute events of default under the Indenture:
+
+ 
+
+ 
+
+•
+
+ 
+
+a default in any payment of interest on any Note when due, continued for 30 days;
+
+ 
+
+ 
+
+•
+
+ 
+
+a default in the payment of principal or premium, if any, of any Note when due at maturity, upon redemption, required repurchase or otherwise;
+
+ 
+
+ 
+
+•
+
+ 
+
+failure by BioMarin or, as applicable, certain of its subsidiaries, after receipt of written notice given by the Trustee or the holders of not less than 30% in aggregate principal amount of the Notes then outstanding to comply with certain obligations, covenants or agreements contained in the Notes or the Indenture;
+
+ 
+
+ 
+
+•
+
+ 
+
+failure by BioMarin or, as applicable, certain of its subsidiaries, to pay certain indebtedness within any applicable grace period after final maturity or the acceleration of any such indebtedness by the holders thereof because of a default, subject to certain exceptions, in each case, if the total amount of such indebtedness unpaid or accelerated exceeds $125 million or its foreign currency equivalent;
+
+ 
+
+ 
+
+•
+
+ 
+
+certain events of bankruptcy, insolvency or reorganization of BioMarin or certain of its subsidiaries;
+
+ 
+
+ 
+
+•
+
+ 
+
+failure by BioMarin or, as applicable, certain of its subsidiaries, to pay final judgments aggregating in excess of $125 million or its foreign currency equivalent (net of any amounts that are covered by enforceable insurance policies issued by solvent carriers), which judgments are not discharged, waived or stayed for a period of 75 days; or
+
+ 
+
+ 
+
+•
+
+ 
+
+the guarantee of a Guarantor with respect to the Notes ceases to be in full force and effect (except as contemplated by the terms thereof) or any Guarantor denies or disaffirms its obligations under the Indenture or any guarantee with respect to the Notes and such default continues for 10 days.
+
+The foregoing descriptions of the Indenture and the Notes are not intended to be complete and are qualified in their entirety by reference to the Indenture and the form of Note, copies of which are filed herewith as Exhibits 4.1 and 4.2, respectively, and incorporated herein by reference.
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information provided in Item 1.01 is hereby incorporated by reference into this Item 2.03.
+
+Item 7.01 Regulation FD Disclosure.
+
+On February 12, 2026, BioMarin issued a press release announcing the closing of the offering of the Notes. A copy of this press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit Number
+
+  
+
+Description
+
+4.1
+
+  
+
+Indenture, dated as of February 12, 2026, by and among BioMarin Pharmaceutical Inc., certain guarantors party thereto, and U.S. Bank Trust Company, National Association.
+
+4.2
+
+  
+
+Form of Global Note (included as Exhibit A to the Indenture filed as Exhibit 4.1).
+
+99.1
+
+  
+
+Press Release dated February 12, 2026.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+No Offer or Solicitation
+
+This Current Report on Form 8-K does not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall it constitute an offer to sell, solicitation or sale in any jurisdiction in which such offer, solicitation or sale would be unlawful. Any offers of the securities were made only by means of a confidential offering memorandum. These securities have not been registered under the Securities Act or any state securities laws and, unless so registered, may not be offered or sold in the United States or to U.S. persons except pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act and applicable state laws.
+
+Forward Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements about the entry into the New Senior Secured Credit Facilities and the expected use of proceeds of the New Senior Secured Credit Facilities and the offering of the Notes. These forward-looking statements are predictions and involve risks and uncertainties such that actual results may differ materially from these statements. These risks and uncertainties include, among others, the timing to consummate the New Senior Secured Credit Facilities and Acquisition, and the risk that such transactions may not close, as well as those factors detailed in BioMarin’s filings with the Securities and Exchange Commission, including, without limitation, the factors contained under the caption “Risk Factors” in BioMarin’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2025, as such factors may be updated by any subsequent reports. Investors are urged not to place undue reliance on forward-looking statements, which speak only as of the date hereof. BioMarin is under no obligation and expressly disclaims any obligation to update or alter any forward-looking statement, whether as a result of new information, future events or otherwise, except as required by law.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BioMarin Pharmaceutical Inc.,
+
+a Delaware corporation
+
+Date: February 12, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+Executive Vice President, Chief Legal Officer

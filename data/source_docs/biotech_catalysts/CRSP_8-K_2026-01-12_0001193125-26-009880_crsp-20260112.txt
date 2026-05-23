@@ -1,0 +1,240 @@
+8-K
+
+false000167441600-000000000016744162026-01-122026-01-12
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 12, 2026
+
+ 
+
+ 
+
+CRISPR THERAPEUTICS AG
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Switzerland
+
+001-37923
+
+Not Applicable
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Baarerstrasse 14
+
+ 
+
+6300 Zug, Switzerland
+
+ 
+
+Not Applicable
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 41 (0)41 561 32 77
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Shares, nominal value CHF 0.03
+
+ 
+
+CRSP
+
+ 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On January 12, 2026, CRISPR Therapeutics AG (the “Company”) issued a press release highlighting, among other things, selected updates related to its wholly-owned cardiovascular, autoimmune, immuno-oncology and regenerative medicine programs:
+
+•
+The Company continues to advance a diversified portfolio of in vivo gene editing programs leveraging its proprietary lipid nanoparticle (“LNP”) delivery platform.
+
+o
+In 2025, the Company presented data for CTX310, demonstrating deep and durable reductions of triglycerides and low-density lipoprotein following a single-course intravenous infusion, with a well-tolerated safety profile. Based on the positive Phase 1 results, the Company has advanced CTX310, targeting angiopoietin-related protein 3 (ANGPTL3), into Phase 1b clinical trials, prioritizing development in severe hypertriglyceridemia and refractory hypercholesterolemia.
+
+o
+CTX320, targeting LPA, has demonstrated reductions of up to 73% in the dose escalation phase of the clinical trial. In parallel, the Company is advancing a next-generation LPA program, CTX321, incorporating an updated guide RNA that demonstrates approximately two-fold greater potency in preclinical testing, while utilizing the same LNP delivery system. CTX321 is currently in IND/CTA-enabling studies.
+
+o
+In addition to its clinical-stage programs, the Company continues to advance several preclinical in vivo gene editing candidates, including:
+
+▪
+CTX460, targeting SERPINA1 for the treatment of alpha-1 antitrypsin deficiency (AATD), the first investigational candidate to emerge from the Company’s SyNTase editing platform; and
+
+▪
+CTX340, targeting angiotensinogen (AGT) for refractory hypertension, which is currently in IND/CTA-enabling studies.
+
+•
+Zugocabtagene geleucel (zugo-cel; formerly CTX112) continues to advance in both autoimmune disease and hematologic malignancies.
+
+o
+In autoimmune disease, Phase 1 clinical trials are ongoing across multiple indications, including systemic lupus erythematosus (SLE), systemic sclerosis (SSc), and inflammatory myositis and a second Phase 1 trial in immune thrombocytopenia purpura (ITP) and warm autoimmune hemolytic anemia (wAIHA). The first patient with SLE, refractory to 9 prior therapies with a baseline Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K) score of 8, has maintained drug-free DORIS clinical remission through month 9 following CAR-T therapy. The second SLE patient with a baseline SLEDAI-2K score of 8, has sustained B cell depletion with SLEDAI-2K score of 0 through month 2 following CAR-T therapy.
+
+o
+The Phase 1/2 clinical trial of zugo-cel in B-cell malignancies is ongoing.
+
+o
+The Company has established a collaboration and clinical supply agreement with Eli Lilly to evaluate zugo-cel together with pirtobrutinib in aggressive B-cell lymphomas, further expanding the program’s development in oncology.
+
+•
+The Company continues to advance its regenerative medicine portfolio, including its efforts in diabetes. Clinical data generated from CTX211 were promising, demonstrating detectable C-peptide levels 12 months after implantation. These data have informed the Company’s approach to hypoimmune cell engineering, supporting a transition to a next-generation candidate, CTX213. CTX213 has demonstrated compelling preclinical efficacy and is progressing towards the clinic.
+
+Forward-Looking Statements
+
+Statements contained in this Current Report on Form 8-K regarding matters that are not historical facts are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. Risks that contribute to the uncertain nature of the forward-looking statements include, without limitation, the risks and uncertainties discussed under the heading “Risk Factors” in the Company's most recent annual report on Form 10-K and in any other subsequent filings made by the Company with the U.S. Securities and Exchange Commission. Existing and prospective investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date they are made. The Company disclaims any obligation or undertaking to update or revise any forward-looking statements contained in this press release, other than to the extent required by law.
+
+CRISPR THERAPEUTICS® standard character mark and design logo, SyNTase™, CTX112™, CTX211™, CTX213™, CTX310®, CTX320™, CTX321™, CTX340™ and CTX460™ are trademarks and registered trademarks of CRISPR Therapeutics AG. All other trademarks and registered trademarks are the property of their respective owners.
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+CRISPR Therapeutics AG
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+ January 12, 2026
+
+By:
+
+/s/ Samarth Kulkarni
+
+ 
+
+ 
+
+ 
+
+Samarth Kulkarni, Ph.D.
+
+Chief Executive Officer

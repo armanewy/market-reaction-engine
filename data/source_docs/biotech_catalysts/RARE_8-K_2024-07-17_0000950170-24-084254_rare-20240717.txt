@@ -1,0 +1,213 @@
+8-K
+
+false000151567300015156732024-07-172024-07-17
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 17, 2024
+
+ 
+
+ 
+
+Ultragenyx Pharmaceutical Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+001-36276
+
+27-2546083
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60 Leveroni Court
+
+ 
+
+Novato, California
+
+ 
+
+94949
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 415 483-8800
+
+ 
+
+ 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+RARE
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01 Other Events.
+
+On July 17, 2024, Ultragenyx Pharmaceutical Inc. (the “Company”) announced the successful completion of an end-of-Phase 2 (“EoP2”) meeting with the U.S. Food and Drug Administration (“FDA”), supporting its Phase 3 study plans for GTX-102, an antisense oligonucleotide for Angelman syndrome.
+
+Phase 3 design and next steps
+
+The EoP2 meeting focused on discussion of the Company’s interim Phase 1/2 data and resulted in alignment with the FDA on the Phase 3 study design and endpoints. The pivotal Phase 3, will be a global, randomized, double-blind, sham-controlled trial and will include a 48-week primary efficacy analysis period enrolling approximately 120 patients with Angelman syndrome with a genetically confirmed diagnosis of full maternal UBE3A gene deletion. The primary endpoint will be improvement in cognition assessed by Bayley-4 cognitive raw score. Control patients completing the study will be eligible to roll over onto treatment after the double-blind period is over.
+
+Previously disclosed results from the Phase 1/2 study showed that UBE3A gene deletion patients treated with GTX-102 experienced rapid, progressive and clinically significant improvement in cognition, as assessed by Bayley-4, that was far greater than the minimal change observed in Natural History data(1) in deletion patients. UBE3A gene deletion patients are at the severe end of the clinical spectrum, with lower Bayley scores at baseline, and demonstrate a much slower rate of skill attainment compared to, for example, UBE3A missense mutation patients, who demonstrate higher Bayley cognition improvement in Natural History data(2). In the Phase 1/2 study, GTX-102 treated patients also demonstrated meaningful improvements in other domains of communication, motor function, sleep problems, and behavior.
+
+The Phase 3 study will include the key secondary endpoint of the Multi-domain Responder Index (MDRI) across all five domains of cognition, receptive communication, behavior, gross motor function, and sleep. Individual secondary endpoints were also discussed and aligned on with the FDA for the domains of communication, behavior, motor function and sleep. Additional feedback on the conduct and analysis of these endpoints may be received from the FDA’s Division of Clinical Outcomes Assessment.
+
+Global regulatory progress
+
+The Company has also participated in a PRIME meeting with the European Medicines Agency, receiving acceptance of the overall Phase 3 study design, dosing and evaluations. The Company expects to meet with Japan’s Pharmaceuticals and Medical Devices Agency in the coming weeks to inform and discuss the Phase 3 study design.
+
+Additional genotypes and ages to be studied in Phase 3
+
+In addition to the randomized, controlled Phase 3 study, the Company discussed with the FDA its plans to initiate an open-label clinical study to evaluate the safety and efficacy of GTX-102 for the treatment of patients with other Angelman syndrome genotypes and in other age groups. The goal of this additional study would be to enable treatment across a broad array of Angelman patient types.
+
+1) https://clinicaltrials.gov/study/NCT00296764
+
+2) https://pubmed.ncbi.nlm.nih.gov/33517526/
+
+ 
+
+ 
+
+ 
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may be identified by the use of words such as, but not limited to, “anticipates,” “continue,” “will,” or other similar terms or expressions that concern the Company’s expectations, plans and intentions. Forward-looking statements include, without limitation, statements regarding the clinical benefit, tolerability and safety of GTX-102 and the corresponding impact on patients, the anticipated dosing of the Phase 2 study for GTX-102, the timing for initiation of a Phase 3 study for GTX-102 and associated regulatory meetings and the Company’s plans to initiate other studies evaluating GTX-102 with other Angelman syndrome genotypes and in other age groups. Such forward-looking statements involve substantial risks and uncertainties that could cause the Company’s clinical development programs, collaboration with third parties, future results, performance or achievements to differ significantly from those expressed or implied by the forward-looking statements. Such risks and uncertainties include, among others, the uncertainty of clinical drug development and unpredictability and lengthy process for obtaining regulatory approvals, the ability of the Company to successfully develop GTX-102, the Company’s ability to achieve its projected development goals in its expected timeframes, the risk that results from earlier studies may not be predictive of future study results, risks related to adverse side effects, risks related to reliance on third party partners to conduct certain activities on the Company’s behalf, smaller than anticipated market opportunities for the Company’s products and product candidates, manufacturing risks, competition from other therapies or products, and other matters that could affect the sufficiency of existing cash, cash equivalents and short-term investments to fund operations, the Company’s future operating results and financial performance, the timing of clinical trial activities and reporting results from same, and the availability or commercial potential of the Company’s products and drug candidates. The Company undertakes no obligation to update or revise any forward-looking statements. For a further description of the risks and uncertainties that could cause actual results to differ from those expressed in these forward-looking statements, as well as risks relating to the business of the Company in general, see the Company's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (SEC) on May 3, 2024, and its subsequent periodic reports filed with the SEC.
+
+ 
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Ultragenyx Pharmaceutical Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+July 17, 2024
+
+By:
+
+/s/ Howard Horn
+
+ 
+
+ 
+
+ 
+
+Howard Horn
+
+Executive Vice President, Chief Financial Officer, Corporate Strategy

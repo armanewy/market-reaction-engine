@@ -1,0 +1,143 @@
+EX-99.1
+2
+d517250dex991.htm
+EX-99.1
+
+EX-99.1
+
+PRECISION GENETIC MEDICINES THROUGH
+BASE EDITING Beam Therapeutics NASDAQ: BEAM Exhibit 99.1
+
+This presentation contains
+forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements include statements regarding: the initiation, timing, progress and results of preclinical studies and research and
+development programs, including the initiation and progress of clinical trials, including our BEACON trial and our BEAM-201 trial; the advancement of our pipeline, including the advancement of BEAM-101, BEAM-201, BEAM-301, BEAM-302, and additional
+CAR-T and liver programs in multiple preclinical studies; our current expectations and anticipated results of operations, including our expected use of capital; the potential activities and benefits under license and collaboration agreements and the
+formation of new collaborations; and the therapeutic applications and potential of our technology, including our potential to develop life-long, curative, precision genetic medicines for patients through base editing, including potential safety
+advantages, all of which are subject to known and unknown important risks, uncertainties and other factors that may cause our actual results, performance or achievements, market trends, or industry results to differ materially from those expressed
+or implied by such forward-looking statements. Therefore, any statements contained herein that are not statements of historical fact may be forward-looking statements and should be evaluated as such. Without limiting the foregoing, the words
+“anticipate,” “expect,” “suggest,” “plan,” “vision,” “believe,” “intend,” “project,” “forecast,” “estimates,”
+“targets,” “projections,” “potential,” “should,” “could,” “would,” “may,” “might,” “will,” and the negative thereof and similar words and
+expressions are intended to identify forward-looking statements. Each forward-looking statement is subject to important risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statement,
+including, without limitation, risks and uncertainties related to: our ability to develop, obtain regulatory approval for, and commercialize our product candidates, which may take longer or cost more than planned; our ability to raise additional
+funding, which may not be available; our ability to obtain, maintain and enforce patent and other intellectual property protection for our product candidates; the potential impact of pandemics and other health emergencies, including their impact on
+the global supply chain; that preclinical testing of our product candidates and preliminary or interim data from preclinical studies and clinical trials may not be predictive of the results or success of ongoing or later clinical trials; that
+initiation and enrollment of our clinical trials may take longer than expected; that our product candidates may experience manufacturing or supply interruptions or failures; risks related to competitive products; and the other risks and
+uncertainties identified under the headings “Risk Factors Summary” and “Risk Factors” and elsewhere in our annual report on Form 10-K for the year ended December 31, 2022, our Quarterly Report on Form 10-Q for the quarter
+ended March 31, 2023, our Quarterly Report on Form 10-Q for the quarter ended June 30, 2023, and in any subsequent filings with the Securities and Exchange Commission (the “SEC”) which are available on the SEC’s website at
+www.sec.gov. Additional information will be made available by our annual and quarterly reports and other filings that we make from time to time with the SEC. These forward-looking statements speak only as of the date of this presentation. Factors or
+events that could cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. We undertake no obligation to update any forward-looking statement, whether as a result of new information,
+future developments or otherwise, except as may be required by applicable law. Cautionary note regarding forward-looking statements .
+
+Potential for one-time, curative
+therapies Gene editing for rare and common diseases Platform for rapidly-programmable precision medicines Our vision is to provide life-long cures for patients suffering from serious diseases
+
+Base editing is a differentiated,
+potentially best-in-class gene editing technology Precise targeting? Yes (guide RNA or ZF/TALE) Yes (guide RNA) Durability of edit? Permanent Permanent Double strand breaks? Yes No Applications? Primarily knockout Correct, modify, activate,
+multiplex Editing predictability Random insertions and deletions 100s of uncharacterized edits Single base edits All edits fully characterized Efficiency of precise edit? Low – dividing cells only High – any cell type Nuclease CRISPR,
+ZFN, TALENs Base editing
+
+A precise gene editing technology with
+highly versatile applications CRISPR Protein Deaminase Guide RNA Correct proteins (eg, BEAM-301, BEAM-302) 3 Modify proteins (eg, ESCAPE) 4 Activate expression (eg, BEAM-101) X Knock out proteins (eg, BEAM-201) 2 Multiplex simultaneous edits (eg,
+four gRNAs in BEAM-201) X + - 1 5 …And many other applications possible
+
+We are establishing a leading fully
+integrated platform for precision genetic medicines FULLY INTEGRATED TECHNOLOGY AND CAPABILITIES MODULAR PLATFORM FOR RAPID DEVELOPMENT OF NEW BASE EDITING PROGRAMS
+
+Lead programs: Potentially de-risk
+technology, generate revenue, benefit patients with unmet need Future platforms: Expand addressable patient populations to create valuable, differentiated franchises Business strategy: Pursue both internal development of priority assets and external
+partnerships HEMATOLOGY BEAM-101 ESCAPE for conditioning In vivo delivery GENETIC DISEASES BEAM-301, BEAM-302 Multiple new liver targets LNP for liver and beyond Near term: Future platforms: IMMUNOLOGY- ONCOLOGY BEAM-201 Next-generation allogeneic
+platform (4-6+ edits) Beam's portfolio strategy creates broad potential for wholly-owned programs and partnership opportunities ESCAPE: Engineered Stem Cell Antibody Paired Evasion
+
+PROGRAM / DISEASE DELIVERY EDITING
+APPROACH RESEARCH LEAD OPTIMIZATION IND ENABLING PHASE I/II PIVOTAL BEAM-101 Sickle Cell Disease Beta Thalassemia Ex vivo HSCs Activation of fetal hemoglobin ESCAPE Sickle Cell Disease Beta Thalassemia Ex vivo HSCs Multiplex CD117 edit-antibody pair
+BEAM-302 Alpha-1 Antitrypsin Deficiency In vivo LNP Correction of E342K mutation BEAM-301 Glycogen Storage Disease Ia In vivo LNP Correction of R83C mutation BEAM-201 T-ALL / T-LL CD7+ AML Ex vivo T cells Multiplex silenced CD7 CAR-T Complement
+Pathway (Apellis) In vivo LNP Undisclosed 3 undisclosed targets (Pfizer) In vivo LNP Undisclosed Advancing a diversified pipeline into the clinic LNP = Lipid Nanoparticle; HSC = Hematopoietic Stem Cell; T-ALL / TLL = T-Cell Acute Lymphoblastic
+Leukemia / T-Cell Lymphoblastic Lymphoma; AML = Acute Myeloid Leukemia; ESCAPE: Engineered Stem Cell Antibody Paired Evasion
+
+Complete BEACON sentinel cohort
+enrollment and initiate enrollment of expansion cohort in 2023 Dose first patient in the BEAM-201 study Initiate preclinical studies for BEAM-301 and BEAM-302 NC manufacturing site GMP operational in late 2023 Data presentation on multiple patients
+from BEACON in 2024 Regulatory filing for BEAM-302 in Q1 2024 Regulatory filing for BEAM-301 in 1H 2024 Data presentation of first cohort from BEAM-201 study by year-end Key progress and anticipated milestones 2023 ACHIEVEMENTS 2024 UPCOMING
+MILESTONES
+
+Well positioned to deliver
+potentially best-in-class regimens for SCD patients, now and in the future Precise gene editing (non-cutting, non-viral) Busulfan conditioning BEAM-101 (HbF upregulation) Less toxic conditioning selects for edited cells – potential to expand
+to younger and broader patient population ESCAPE (multiplex therapeutic edit + CD117 selection edit) In vivo editing delivered by infusion, avoiding the need for transplant altogether Base editing delivered with HSC-targeted LNPs * ESCAPE:
+Engineered Stem Cell Antibody Paired Evasion WAVE 1 Base Editing + HSC Transplant WAVE 2 Improved Conditioning WAVE 3 In vivo Delivery
+
+Designed for best-in-class profile:
+One-time therapy with potential for highest fetal hemoglobin (HbF) induction Direct editing of HbF genes to turn them on Potential for greatest reduction of disease-causing HbS due to hemoglobin switching Non-viral: No detectable random insertion
+Non-cutting: Lower risk for genotoxic stress and chromosomal abnormalities Investment in patient delivery to differentiate: Wholly owned manufacturing: control over quality and connection to patient services Investment in patient services:
+optimizing patient experience BEAM-101: Designed to treat sickle cell disease with a potentially one-time, direct, non-cutting activation of HbF Sickle Cell Disease: 100,000 patients in the US; severe pain crises, multi-organ damage, early mortality
+HPFH = Hereditary Persistence of Fetal Hemoglobin HBB HBG1 HBG2 A single base editor + gRNA edits regulatory element of both fetal hemoglobin genes, without cutting DNA Sickle hemoglobin (HbS) gene Duplicated fetal hemoglobin (HbF) genes
+
+Potentially best-in-class
+attributes of BEAM-101 product Base editing at HBG1/2 promoters1 HbF protein levels2 Preclinical data presented at ASGCT 2020; Edited human HSPCs analyzed 16 weeks after infusion in NBSGW mice (Mean±SEM, n=4-6); 1. Sorted human Lineage-CD34+
+bulk bone marrow; 2. Sorted erythroid cells (GlyA+) HbS protein levels2 Edited human CD34+ cells followed by 16 week engraftment in mice >90% 65% <40% Potential for highest HbF induction and lowest residual HbS levels versus other approaches
+in the field Building capabilities for potential best-in-class patient delivery including internal manufacturing
+
+BEAM-101 is the first clinical base
+editing program in the U.S., accelerating path to patients and the market BEACON-101 Phase 1/2 Study Design Manufacturing Conditioning & Transplant Engraftment Follow-up Patient 1 Patient 2 Patient 3 Patients 4-45 Transfusion & Mobilization
+6 months (+ / -) Select safety endpoints Proportion of patients with successful neutrophil engraftment by day 42 Safety and tolerability assessments Select inclusion criteria Patients with sickle cell disease (SCD) with severe vaso-occlusive crises
+despite hydroxyurea or other supportive measures Age ≥18 to ≤35 years for initial cohort Select efficacy endpoints Severe vaso-occlusive crises Transfusion requirements Hemoglobin F levels Quality of life and ability to function Red
+blood cell function and organ damage
+
+Stem cell factor (SCF) signaling
+via CD117 is required for HSC survival and proliferation A single base edit changes an epitope on the CD117 receptor and is designed not to impact HSC biology Customized conditioning antibody depletes diseased unedited cells, but enables
+CD117-edited cells to “ESCAPE” and grow normally ESCAPE* designed for selective depletion of diseased cells, which may enable non-genotoxic conditioning Enrichment of edited cells in presence of antibody Paired CD117 antibody (ng/mL) HSC
+eHSC Cell Dies Cell Survives * ESCAPE: Engineered Stem Cell Antibody Paired Evasion
+
+BEAM-302: A potential one-time
+treatment of AATD with potential to correct liver and lung disease Normal AAT Function Genetics Liver Respiratory AAT Deficiency Wild type SERPINA1 gene AAT protein is secreted, protecting lungs E342K* (PiZ) mutation AAT aggregates and causes liver
+damage/failure Low functional AAT and presence of Z-AAT aggregates** in circulation causes lung damage, emphysema, etc. Alpha-1 Anti-trypsin Deficiency (AATD): 60,000 ZZ patients in US; severe progressive lung & liver disease * Also referred to
+as E366K (includes the signal peptide subject to post-translational cleavage) ** Aggregates also referred to as polymers
+
+In vivo correction of the causative
+AATD “PiZ” point mutation in mice with BEAM-302 BEAM-302 LNP Sequence for correction editing IV delivery NSG-PiZ Mouse 1-week Liver editing Numbers = % corrected alleles out of total alleles Corrected alleles include WT correction and WT
+correction plus D341G bystander edit – both proteins observed to function and secrete normally
+
+Correction of PiZ mutation in mice
+with BEAM-302* decreased liver aggregates Reduction in toxic liver aggregates Control Correction * Research grade BEAM-302
+
+Measured secreted AAT in blood
+1-week post-dose AATD mice dosed with BEAM-302 had decreased serum PiZ AAT and increased corrected AAT
+
+Increased serum AAT in mice after
+BEAM-302 dosing corresponded to increased functional AAT Collect serum from dosed NSG-PiZ mice Incubate with neutrophil elastase Measure inhibition of elastase activity as Functional AAT ~3-fold increase Functional AAT * P<0.05, ***P<0.005,
+****P<0.0005 One-way ANOVA with Sidak’s Multiple Comparison test
+
+GSD1a unmet need: Low G6PC activity
+can result in severe drop in blood glucose levels within 1-3 hrs Hypoglycemia may result in seizures or can be lethal Multiple organ dysfunction (e.g. renal and liver) BEAM-301 potential: Near-normal serum metabolites, G6PC activity, hepatic
+morphology, increased survival in mice Animal studies suggest 11% editing sufficient for restoring fasting glucose1 Key points: Beam’s first in vivo DC First DC in industry with in vivo direct correction gene editing2 U.S. regulatory filing
+expected in 1H 2024 Chou & Mansfield. 2007. Curr. Gen. Ther. Based on publicly announced development candidates Wildtype G6PC gene G6PC R83C mutation BEAM-301 program aims to restore impaired glycogen metabolism which otherwise causes
+significant morbidity Liver Low G6P conversion High G6P conversion Glycogen Storage Disease Ia: 900 US R83C patients; severe hypoglycemia, liver & kidney dysfunction
+
+Preclinical data presented at ESGCT
+2021 1. Homozygous huG6PC-R83C mice untreated or treated with LNP via temporal vein shortly after birth, and untreated mice survived less than 3 days with glucose therapy BEAM-301 program aims to restore impaired glycogen metabolism which otherwise
+causes significant morbidity ABE correction of GSDIa R83C mutation associated with improved survival of R83C mice Near-normal serum metabolites, G6PC activity, hepatic morphology and lipid deposition
+
+Multiplex base editing: Unlike
+nuclease editors, no detected chromosomal rearrangements, normal cell expansion, and no detected DNA damage response in preclinical studies Clinical-scale process: 96-99% editing, >90% quad edited1 BEAM-201 first patient dosed in August 2023
+BEAM-201: Base edited allogeneic cell therapy candidate with an opportunity to treat aggressive CD7+ leukemias T-Cell Acute Leukemia: 15% of ALL, not treated by B-cell CARTs, few options for relapsed/refractory patients Base editor mRNA TRAC gRNA:
+Prevent graft-vs-host disease CD52 gRNA: Enable allogeneic cell source PD1 gRNA: Prolong efficacy CD7 gRNA: Prevent fratricide from CD7 CAR C G C G C G C G Clinical-scale process yielded 96-99% editing, >90% quad edited1 Unedited BEAM-201 CD7 CAR
+Preclinical data presented at SITC 2020; 1. Simultaneous base editing at four target loci using clinical-scale process as measured by NGS.
+
+BEAM-201: Significant advantages of
+multiplex base editing without double strand breaks Chromosomal rearrangements Impact on cell expansion 4 edits: TRAC, CD52, PD1, CD7 3 edits: TRAC, B2M, PD1 Base editing Nuclease Percent of cells with translocations1 Percent yield after editing2
+Preclinical data presented at SITC 2020; 1. Base editing versus nuclease editing with the same four guide RNAs measured via G-banded karyotypes from 100 cells; updated analysis shows <0.1% translocations using first generation CBE (data
+unpublished) 2. Extensive guide screen across three targets, with BE4 and spCas9 sgRNAs selected for high editing efficiency and expansion in single-plex test, final cell yields compared between 3 edits, normalized to electroporation only control
+<40% Multiplex editing more efficient with base editing which translates to better cell product Optimization of platform ongoing with focus on generating next generation “true allogeneic” products
+
+Additional strategic and innovator
+deals potentially unlock base editing value and broaden therapeutic impact License to Beam’s base editing technology for the prevention of cardiovascular disease 3 targets: PCSK9 (VERVE-101 and VERVE-102), ANGPTL3 (VERVE 201), Undisclosed #3
+Beam opt-in after P1: 50% US (PCSK9 and ANGPTL3) or 35% of WW (Target 3) cost/profit $75M in upfront payments for base editing for complement mediated diseases Beam opt-in to 50% of US rights after Phase 1 on one program Prime editing (PE) is a
+novel gene editing technology, complementary to base editing Beam provides delivery and CRISPR technology/know-how Beam has exclusive rights to PE: Any transition edit (A-G, C-T) plus any edit for SCD $50M upfront for license to Cas12b nuclease for
+certain engineered cell therapies Non-exclusive license – Beam retains ability to use or repartner Cas12b $300M upfront, $1B+ in potential milestones 3 gene targets using Beam’s editing and delivery to target liver, muscle, CNS Beam
+option at end of P1/2 for 35% WW cost/net profit split on one program Next-gen RNA and delivery; Beam provides interim leadership and RNA/LNP capabilities Beam has meaningful equity stake in Orbital Beam access to Orbital IP for gene editing
+(exclusive) and certain fields (non-exclusive) Strategic deals Innovator deals
+
+Meet the Beam Team Significant team
+track record in discovery, development, approval of first-in-class medicines John Evans Chief Executive Officer Giuseppe Ciaramella, PhD President, Chief Scientific Officer Susan O’Connor Chief Human Resources Officer Christine Bellon PhD, JD
+Chief Legal Officer Terry-Ann Burrell Chief Financial Officer Brian Riley Chief Manufacturing Officer Amy Simon, MD Chief Medical Officer Manmohan Singh, PhD Chief Technology Officer John Lo, PhD Chief Commercial Officer Gopi Shanker, PhD. Chief
+Scientific Officer
+
+Thank you

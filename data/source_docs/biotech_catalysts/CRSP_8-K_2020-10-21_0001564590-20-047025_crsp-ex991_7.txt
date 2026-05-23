@@ -1,0 +1,160 @@
+EX-99.1
+2
+crsp-ex991_7.htm
+EX-99.1
+
+crsp-ex991_7.htm
+
+Exhibit 99.1
+
+ 
+
+CRISPR Therapeutics Reports Positive Top-Line Results from Its Phase 1 CARBON Trial of CTX110™ in Relapsed or Refractory CD19+ B-cell Malignancies
+
+ 
+
+-50% (2/4) complete response (CR) rate at three months in the Dose Level 3 (DL3) cohort; both responders remain in CR-
+
+ 
+
+-Early evidence of dose-dependent responses with CTX110-
+
+ 
+
+-Acceptable safety profile at DL3 or below-
+
+-Management to host webcast and conference call today at 8:30 a.m. ET-
+
+ 
+
+ZUG, Switzerland and CAMBRIDGE, Mass., October 21, 2020 -- CRISPR Therapeutics (Nasdaq: CRSP), a biopharmaceutical company focused on creating transformative gene-based medicines for serious diseases, today announced positive top-line results from the Company’s ongoing Phase 1 CARBON trial evaluating the safety and efficacy of CTX110, its wholly-owned allogeneic CAR-T cell therapy targeting CD19+ B-cell malignancies.
+
+ 
+
+“We are highly encouraged by today’s data, which demonstrate the promise of allogeneic therapies in treating hematological malignancies,” said Samarth Kulkarni, Ph.D., Chief Executive Officer of CRISPR Therapeutics. “Over time, we believe CRISPR-edited allogeneic CAR-T has the potential to leapfrog autologous CAR-T and benefit much broader patient populations. We continue to enroll patients and look forward to additional data read-outs for this program as well as our other allogeneic CAR-T programs, CTX120™ and CTX130™, next year. We are grateful to the patients and investigators who have made this important research possible.”
+
+ 
+
+"From this early data read-out, CTX110 has shown dose-dependent efficacy and response rates that are comparable to the early autologous CAR-T trials. Furthermore, CTX110 had an acceptable safety profile, which could make CAR-Ts more widely accessible,” said Joseph McGuirk, D.O., Professor of Medicine and Division Director of Hematologic Malignancies and Cellular Therapeutics at the University of Kansas Medical Center and investigator in the Phase 1 CARBON trial of CTX110. “While longer follow-up is required, these early data support the potential for CTX110 to become an effective off-the-shelf CAR-T therapy for patients with relapsed or refractory B-cell malignancies.”
+
+ 
+
+CARBON Trial Overview
+
+The Phase 1 CARBON trial is an open-label, multicenter study evaluating the safety and efficacy of CTX110 in adult patients with relapsed or refractory non-Hodgkin lymphoma, who have received at least two prior lines of therapy. As of the September 28, 2020, data cutoff, 12 patients were enrolled and infused with CTX110. Data are reported for the 11 patients who had at least completed their one-month assessment as of the data cutoff date.
+
+ 
+
+Patients were infused with CTX110 following three days of lymphodepletion using fludarabine (30mg/m2/day) and cyclophosphamide (500mg/m2/day). The primary endpoints include safety as measured by the incidence of dose limiting toxicities (DLTs) and overall response rate. Key secondary endpoints include duration of response, progression-free survival and overall survival.
+
+ 
+
+Additional details may be found at clinicaltrials.gov, using identifier: NCT04035434.
+
+ 
+
+Safety Data Overview
+
+Dose Levels 1 – 3 (n=10)
+
+No DLTs were observed. There were no cases of Graft-vs-Host Disease (GvHD) despite high HLA-mismatch between allogeneic CAR-T donors and patients. No infusion reactions to either lymphodepleting chemotherapy or CTX110 were observed. Cytokine Release Syndrome (CRS) occurred in three patients (30%) and in each case was Grade 2 or below and resolved with tocilizumab administration. One patient (10%) had Grade 2 Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) that improved within 24 hours with standard interventions. Two additional serious adverse events (periorbital cellulitis and febrile neutropenia) occurred after CTX110 infusion, both of which resolved and were determined to be unrelated to disease progression or CTX110.  
+
+ 
+
+Dose Level 4 (n=1)
+
+One patient received Dose Level 4 of CTX110. On Day 5, the patient experienced Grade 2 CRS which resolved in 5 days. The PET/CT assessment at Day 25 showed the patient had achieved a complete response. The following day, the patient was hospitalized with febrile neutropenia and developed symptoms of short-term memory loss and confusion. The symptoms eventually progressed to significant obtundation that required intubation. He was initially treated for ICANS with steroids, anakinra and intrathecal chemotherapy without improvement. The patient was later found to have reactivation of HHV-6 and HHV-6 encephalitis and treated with antiviral therapy. The decision was made to withdraw supportive care and the patient died 52 days after CTX110 infusion.
+
+ 
+
+Clinical Activity (n=11)
+
+Early evidence of dose-dependent anti-tumor activity was seen with CTX110. Disease assessment was performed by centralized independent radiological review according to the 2014 Lugano response criteria.
+
+ 
+
+ 
+
+•
+
+Complete response (CR) was achieved at Dose Levels 2, 3, and 4. At DL3, two out of four patients had a complete response. These two patients remain in CR.
+
+ 
+
+•
+
+The four patients with CR had deep responses including the complete resolution of extranodal disease, normalization of all nodal disease to 1.5 cm or smaller, and a Deauville score of 2 or lower. Additionally, one of these patients who had 30% lymphoblasts in the bone marrow achieved complete clearance after CTX110 infusion.
+
+ 
+
+•
+
+CR was achieved both in patients with diffuse large B-cell lymphoma and with transformed follicular lymphoma, as well as in patients who were primary refractory and who had relapsed after autologous stem cell transplant.
+
+ 
+
+•
+
+At DL2 and above, CTX110 was detected at multiple time points in all patients, with peak expansion occurring at 1-2 weeks and cells detected as late as 180 days post-infusion​.
+
+Conference Call and Webcast
+
+CRISPR Therapeutics will host a conference call and webcast today at 8:30 a.m. ET. The webcast will be made available on the CRISPR Therapeutics website at https://crisprtx.gcs-web.com/events in the Investors section under Events and Presentations. Following the live audio webcast, the presentation and replay will be available on the Company's website for approximately 30 days.
+
+Dial-In Information
+
+Live (U.S. / Canada): +1 (866) 342‑8588
+
+Live (International): +1 (203) 518‑9865
+
+Conference ID: 80521
+
+ 
+
+About CTX110™
+
+CTX110, a wholly owned program of CRISPR Therapeutics, is a healthy donor-derived gene-edited allogeneic CAR-T investigative therapy targeting cluster of differentiation 19, or CD19. CTX110 is being investigated in the CARBON trial.
+
+ 
+
+About CARBON
+
+The ongoing Phase 1 single-arm, multi-center, open label clinical trial, CARBON, is designed to assess the safety and efficacy of several dose levels of CTX110 for the treatment of relapsed or refractory B-cell malignancies. CRISPR Therapeutics is the sponsor of the CARBON trial.
+
+ 
+
+About CRISPR Therapeutics
+
+CRISPR Therapeutics is a leading gene editing company focused on developing transformative gene-based medicines for serious diseases using its proprietary CRISPR/Cas9 platform. CRISPR/Cas9 is a revolutionary gene editing technology that allows for precise, directed changes to genomic DNA. CRISPR Therapeutics has established a portfolio of therapeutic programs across a broad range of disease areas including hemoglobinopathies, oncology, regenerative medicine and rare diseases. To accelerate and expand its efforts, CRISPR Therapeutics has established strategic partnerships with leading companies including Bayer, Vertex Pharmaceuticals and ViaCyte, Inc. CRISPR Therapeutics AG is headquartered in Zug, Switzerland, with its wholly-owned U.S. subsidiary, CRISPR Therapeutics, Inc., and R&D operations based in Cambridge, Massachusetts, and business offices in San Francisco, California and London, United Kingdom. For more information, please visit www.crisprtx.com.
+
+ 
+
+CRISPR Forward-Looking Statement
+
+This press release may contain a number of “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including statements made by Drs. Kulkarni and McGuirk in this press release, as well as regarding CRISPR Therapeutics’ expectations about any or all of the following: (i) the safety, efficacy and clinical progress of our various clinical programs; (ii) the status of clinical trials (including, without limitation, activities at clinical trial sites) and expectations regarding the data that is being presented; (iii) the data that will be generated by ongoing and planned clinical trials, and the ability to use that data for the design and initiation of further clinical trials; and (iv) the therapeutic value, development, and commercial potential of CRISPR/Cas9 gene editing technologies and therapies, including as compared to other therapies. Without limiting the foregoing, the words “believes,”
+
+“anticipates,” “plans,” “expects” and similar expressions are intended to identify forward-looking statements. You are cautioned that forward-looking statements are inherently uncertain. Although CRISPR Therapeutics believes that such statements are based on reasonable assumptions within the bounds of its knowledge of its business and operations, forward-looking statements are neither promises nor guarantees and they are necessarily subject to a high degree of uncertainty and risk. Actual performance and results may differ materially from those projected or suggested in the forward-looking statements due to various risks and uncertainties. These risks and uncertainties include, among others: the potential for initial and preliminary data from any clinical trial and initial data from a limited number of patients not to be indicative of final trial results; the potential that clinical trial results may not be favorable;  potential impacts due to the coronavirus pandemic, such as the timing and progress of clinical trials; that future competitive or other market factors may adversely affect the commercial potential for CRISPR Therapeutics’ product candidates; uncertainties regarding the intellectual property protection for CRISPR Therapeutics’ technology and intellectual property belonging to third parties, and the outcome of proceedings (such as an interference, an opposition or a similar proceeding) involving all or any portion of such intellectual property; and those risks and uncertainties described under the heading "Risk Factors" in CRISPR Therapeutics’ most recent annual report on Form 10-K, quarterly report on Form 10-Q and in any other subsequent filings made by CRISPR Therapeutics with the U.S. Securities and Exchange Commission, which are available on the SEC's website at www.sec.gov. Existing and prospective investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date they are made. CRISPR Therapeutics disclaims any obligation or undertaking to update or revise any forward-looking statements contained in this press release, other than to the extent required by law.
+
+CRISPR THERAPEUTICS® standard character mark and design logo, CTX110™, CTX120™, and CTX130™ are trademarks and registered trademarks of CRISPR Therapeutics AG.  All other trademarks and registered trademarks are the property of their respective owners.
+
+ 
+
+Investor Contact:
+
+Susan Kim
+
++1-617-307-7503
+
+susan.kim@crisprtx.com
+
+ 
+
+Media Contact:
+
+Rachel Eides
+
+WCG on behalf of CRISPR
+
++1-617-337-4167  
+
+reides@wcgworld.com

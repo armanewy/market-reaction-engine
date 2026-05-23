@@ -1,0 +1,50 @@
+EX-99.1
+2
+exhibit991-pressreleaseena.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Recursion and Enamine to Generate and Design Enriched Compound Libraries for Global Drug Discovery Industry
+
+Screening libraries will leverage Recursion's MatchMaker tool to identify compounds across Enamine REAL Space predicted to bind to high-value targets.
+
+Kyiv, Ukraine/Salt Lake City, US: Recursion (NASDAQ: RXRX), a leading clinical stage TechBio company decoding biology to industrialize drug discovery, today announced its partnership with Enamine, a world-renowned provider of novel molecules and contract research services, to generate enriched screening libraries with insights from Recursion’s protein-ligand interaction predictions spanning across Enamine’s massive library of 36 billion compounds.
+
+Chris Gibson, CEO and Co-founder of Recursion, traveled to Kyiv to sign this partnership deal with Andrey Tolmachov, CEO and Founder of Enamine. “I’m thrilled to announce this partnership as we continue to advance insights in chemical space using the power of relatable datasets and computational tools,” said Chris Gibson. “We believe combining one of the largest chemical libraries with our protein-ligand predictor tool, MatchMaker, will unlock the ability to generate more powerful compound libraries for drug discovery purposes.”
+
+“Chemical space is limitless,” said Andrey Tolmachov. “While we have developed a reliable approach to synthetically accessible regions of chemical space, Recursion’s prediction technology has further highlighted the drug discovery-useful subregions with the molecules we can deliver.”
+
+To begin the partnership, Enamine and Recursion will mutually agree upon up to 100 biological targets around which they will build screening libraries. From there, Recursion will utilize MatchMaker’s predicted protein-ligand interactions for Enamine REAL Space containing 36B compounds to design compound libraries enriched for molecules that are likely to bind to biological targets. Enamine may offer the resulting libraries to customers for purchase and will co-brand any libraries under both the Enamine and MatchMaker trademarks.
+
+Recursion believes that these new libraries will be of interest to customers given the additional predictive insights via MatchMaker. The tool employs machine learning to evaluate the suitability of small molecules for specific protein binding pockets and is more scalable than traditional docking and physics-based interaction simulations. Similar to Recursion's Phenomics platform, MatchMaker's scalability affords a comprehensive view of biochemistry; it can predict binding activity for large quantities of molecules across the proteome. The predicted data can guide the selection of wet-lab experiments, helping to expedite progress across a diverse range of targets and chemical areas, and can act as a preliminary screening tool for more computationally intensive precision modeling techniques.
+
+As part of the agreement, Recursion will receive a significant number of unique REAL compounds of Recursion’s choosing to augment its internal compound library, at no cost.
+
+Furthermore, Recursion will receive preferential pricing on any enriched screening libraries made available to Enamine customers as part of the collaboration.
+
+About Recursion
+
+Recursion (NASDAQ: RXRX) is a clinical stage TechBio company leading the space by decoding biology to industrialize drug discovery. Enabling its mission is the Recursion OS, a platform built across diverse technologies that continuously expands one of the world’s largest proprietary biological and chemical datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale — up to millions of wet lab experiments weekly — and massive computational scale — owning and operating one of the most powerful supercomputers in the world, Recursion is uniting technology, biology, and chemistry to advance the future of medicine.
+
+Recursion is headquartered in Salt Lake City, where it is a founding member of BioHive, the Utah life sciences industry collective. Recursion also has offices in Toronto, Montréal and the San Francisco Bay Area. Learn more at www.Recursion.com, or connect on Twitter and LinkedIn.
+
+About Enamine
+
+Headquartered in Kyiv, Ukraine, Enamine is a scientifically driven integrated discovery Contract Research Organization with unique partnering opportunities in exploring new chemical space. The company combines access to the in-house produced screening compounds (4M in stock) and building blocks (300K in stock) with a comprehensive platform of integrated discovery services to advance and accelerate the efforts in Drug Discovery. Enamine has developed the largest offering of make-on-demand compounds that includes trillions of Enamine REAL molecules and over a billion of Enamine MADE building blocks. The company’s unique knowledge-based approach allows for fast and inexpensive delivery of novel entities from the above make-on-demand chemical space.
+
+Media Contact
+
+Media@Recursion.com
+
+Investor Contact
+
+Investor@Recursion.com
+
+Forward-Looking Statements
+
+This document contains information that includes or is based upon "forward-looking statements" within the meaning of the Securities Litigation Reform Act of 1995, including, without limitation, those regarding the outcomes and benefits expected from the Enamine partnership, including the potential to generate new compound libraries and accelerate cycles for advancing chemical series; the Recursion OS and other technologies, including MatchMaker and the Enamine REAL Space chemical library; and all other statements that are not historical facts. Forward-looking statements may or may not include identifying words such as "plan," "will," "expect," "anticipate," "intend," "believe," "potential," "continue," and similar terms. These statements are subject to
+
+known or unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements, including but not limited to: challenges inherent in pharmaceutical research and development, including the timing and results of preclinical and clinical programs, where the risk of failure is high and failure can occur at any stage prior to or after regulatory approval due to lack of sufficient efficacy, safety considerations, or other factors; our ability to leverage and enhance our drug discovery platform; our ability to obtain financing for development activities and other corporate purposes; the success of our collaboration activities; our ability to obtain regulatory approval of, and ultimately commercialize, drug candidates; our ability to obtain, maintain, and enforce intellectual property protections; cyberattacks or other disruptions to our technology systems; our ability to attract, motivate, and retain key employees and manage our growth; and other risks and uncertainties such as those described under the heading "Risk Factors" in our filings with the U.S. Securities and Exchange Commission, including our most recent Quarterly Report on Form 10-Q and our Annual Report on Form 10-K. All forward-looking statements are based on management's current estimates, projections, and assumptions, and Recursion undertakes no obligation to correct or update any such statements, whether as a result of new information, future developments, or otherwise, except to the extent required by applicable law.

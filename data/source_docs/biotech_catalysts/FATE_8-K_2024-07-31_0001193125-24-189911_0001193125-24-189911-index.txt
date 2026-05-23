@@ -1,0 +1,175 @@
+EDGAR Filing Documents for 0001193125-24-189911
+
+SEC.gov
+
+EDGAR
+
+Latest Filings
+
+Filings search tools
+
+Filing Detail
+
+SEC Home »
+
+Company Search »
+
+Current Page
+
+Form 8-K - Current report:
+
+SEC Accession No. 0001193125-24-189911
+
+Filing Date
+
+2024-07-31
+
+Accepted
+
+2024-07-31 16:03:29
+
+Documents
+
+15
+
+Period of Report
+
+2024-07-29
+
+Items
+
+Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+
+Item 7.01: Regulation FD Disclosure
+
+Item 9.01: Financial Statements and Exhibits
+
+ Interactive Data
+
+Document Format Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+1
+
+8-K
+
+d764342d8k.htm   iXBRL
+
+8-K
+
+30416
+
+2
+
+EX-99.1
+
+d764342dex991.htm
+
+EX-99.1
+
+13267
+
+6
+
+GRAPHIC
+
+g764342g0731010924611.jpg
+
+GRAPHIC
+
+3644
+
+ 
+
+Complete submission text file
+
+0001193125-24-189911.txt
+
+ 
+
+174891
+
+Data Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+3
+
+XBRL TAXONOMY EXTENSION SCHEMA
+
+fate-20240729.xsd
+
+EX-101.SCH
+
+2878
+
+4
+
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+fate-20240729_lab.xml
+
+EX-101.LAB
+
+17236
+
+5
+
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+fate-20240729_pre.xml
+
+EX-101.PRE
+
+10831
+
+18
+
+EXTRACTED XBRL INSTANCE DOCUMENT
+
+d764342d8k_htm.xml
+
+XML
+
+3541
+
+Mailing Address
+12278 SCRIPPS SUMMIT DRIVE
+
+SAN DIEGO CA
+92131
+
+Business Address
+12278 SCRIPPS SUMMIT DRIVE
+
+SAN DIEGO CA
+92131
+858.875.1803
+
+FATE THERAPEUTICS INC (Filer)
+CIK: 0001434316 (see all company filings)
+
+EIN.: 651311552 | Fiscal Year End: 1231
+
+Type: 8-K | Act: 34 | File No.: 001-36076 | Film No.: 241161847
+
+SIC: 2836 Biological Products, (No Diagnostic Substances)
+
+(CF Office: 03 Life Sciences)

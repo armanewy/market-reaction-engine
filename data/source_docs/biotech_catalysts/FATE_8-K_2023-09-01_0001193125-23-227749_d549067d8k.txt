@@ -1,0 +1,227 @@
+8-K
+
+FATE THERAPEUTICS INC false 0001434316 0001434316 2023-08-30 2023-08-30
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): August 30, 2023
+
+ 
+
+ 
+
+Fate Therapeutics, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-36076
+
+ 
+
+65-1311552
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+12278 Scripps Summit Drive
+
+San Diego, California
+
+ 
+
+ 
+
+92131
+
+(Address of principal executive offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (858) 875-1800
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+FATE
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+Fate Therapeutics, Inc. (the “Company”) issued an update on its litigation proceedings against Shoreline Biosciences, Inc. and certain of its founders and officers (“Shoreline”). On May 13, 2022, the Company initiated litigation against Shoreline in San Diego Superior Court for breach of contract, fraud and deceit, and tortious interference (the “State Case”) and in the U.S. District Court for the Southern District of California for patent infringement (the “Federal Case”).
+
+State Case Update
+
+Litigation in the State Case is pending, and fact and expert discovery is ongoing. A trial in San Diego Superior Court has been scheduled for January 2024.
+
+Federal Case Update
+
+The Federal Case alleged infringement of certain U.S. patents expiring in November 2024, which are exclusively licensed to the Company by Whitehead Institute for Biomedical Research (the “Whitehead Patents”). The Whitehead Patents include certain composition of matter patents, including U.S. Patent No. 8,071,369 issued on December 6, 2011, as well as certain method of use patents relating to methods of making a somatic cell more susceptible to reprogramming to a pluripotent state by introducing at least one exogenous nucleic acid encoding Oct4.
+
+During the Court’s construction of the claims, the composition claims were construed to embody a somatic cell that comprises an exogenously introduced nucleic acid encoding an Oct4 protein, which the Company believes is a foundational composition for the practice of induced pluripotent stem cell (“iPSC”) technology. With respect to the claim construction of the method patents, the Company strongly disagrees with the Court’s claim construction that the method claims do not cover the direct reprogramming of somatic cells to iPSCs.
+
+On August 28, 2023, the Court conducted a hearing to consider the parties’ cross-motions for summary judgment. Shoreline represented throughout the case that it does not itself reprogram somatic cells or manufacture iPSCs, and that its therapeutic business is founded on the purchase and use of iPSC lines from third parties, including primarily an iPSC line that Shoreline claims was originally manufactured by Lonza almost 10 years ago for the National Institute of Health (NIH) and made generally available to the research community. On August 30, 2023, the Court granted Shoreline’s motion for summary judgment of non-infringement and denied the Company’s, ruling that Shoreline did not infringe the Whitehead Patents through its purchase and use of the third-party iPSC lines. The Company strongly disagrees with the Court’s ruling.
+
+The Court’s ruling does not bear on either the validity or the enforceability of the Whitehead Patents. The Company intends to consider all options at its disposal with respect to Shoreline, including an appeal of the Court’s decision and continued enforcement of the Whitehead Patents and other intellectual property owned or controlled by Fate.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Fate Therapeutics, Inc.
+
+Date: September 1, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ J. Scott Wolchko
+
+ 
+
+ 
+
+Name:
+
+ 
+
+J. Scott Wolchko
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer

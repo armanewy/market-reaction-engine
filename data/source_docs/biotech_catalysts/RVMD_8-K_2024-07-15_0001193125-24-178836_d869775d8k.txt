@@ -1,0 +1,697 @@
+8-K
+
+false 0001628171 0001628171 2024-07-15 2024-07-15 0001628171 rvmdw:CommonStock0.0001ParValuePerShareMember 2024-07-15 2024-07-15 0001628171 rvmdw:WarrantsToPurchase0.1112SharesOfCommonStockExpiring2026Member 2024-07-15 2024-07-15
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 15, 2024
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39219
+
+ 
+
+47-2029180
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+700 Saginaw Drive
+
+Redwood City, California
+
+ 
+
+94063
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (650) 481-6801
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.0001 par value per share
+
+ 
+
+RVMD
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Warrants to purchase 0.1112 shares of common stock expiring 2026
+
+ 
+
+RVMDW
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+On July 15, 2024, Revolution Medicines, Inc. (the “Company”) informed investors that it expects its net loss for the year ended December 31, 2024 to be between $560 million and $600 million, which includes estimated non-cash stock-based compensation expense of approximately $70 million to $80 million. The Company confirmed that it continues to project that current cash, cash equivalents and marketable securities can fund planned operations into 2027.
+
+The information in this Item 7.01 of this Current Report on Form 8-K shall not be deemed “filed” under the Securities Act of 1934, as amended (the “Exchange Act”), nor shall it be incorporated by reference into any future filings under the Securities Act of 1933, as amended (the “Securities Act”), or under the Exchange Act unless the Company expressly sets forth in such future filing that such information is to be considered “filed” or incorporated by reference therein.
+
+Item 8.01 Other Events.
+
+On July 15, 2024, the Company provided the following pipeline updates.
+
+The Company reported updated clinical safety, tolerability and activity data for RMC-6236, its RAS(ON) multi-selective inhibitor, from its monotherapy first-in-human RMC-6236-001 study (the “RMC-6236-001 study”) as of a data cutoff date of May 11, 2024 (the “Data Cutoff Date”) for patients with previously treated pancreatic ductal adenocarcinoma (“PDAC”).
+
+In the RMC-6236-001 study, a total of 127 patients with PDAC treated across dose cohorts ranging from 160 mg daily to 300 mg daily were evaluated for safety and tolerability as of the Data Cutoff Date (Table 1). As of the Data Cutoff Date, the most common treatment-related adverse events (“TRAEs”) that were observed were rash and gastrointestinal (“GI”)-related toxicities.
+
+Table 1. RMC-6236-001: Select treatment-related adverse events for patients with PDAC treated with RMC-6236 (160-300 mg daily)
+
+ 
+
+ 
+
+  
+
+Total (n = 127)
+
+ 
+
+Maximum Severity of TRAEs
+
+  
+
+Any Grade
+
+ 
+
+ 
+
+Grade ≥3
+
+ 
+
+Any TRAE
+
+  
+
+ 
+
+122 (96
+
+%) 
+
+ 
+
+ 
+
+28 (22
+
+%) 
+
+TRAEs occurring in ≥10% of patients, n (%)
+
+  
+
+ 
+
+Rash‡
+
+  
+
+ 
+
+111 (87
+
+%) 
+
+ 
+
+ 
+
+8 (6
+
+%) 
+
+Diarrhea
+
+  
+
+ 
+
+58 (46
+
+%) 
+
+ 
+
+ 
+
+2 (2
+
+%) 
+
+Nausea
+
+  
+
+ 
+
+54 (43
+
+%) 
+
+ 
+
+ 
+
+0
+
+ 
+
+Stomatitis/mucositis
+
+  
+
+ 
+
+48 (38
+
+%) 
+
+ 
+
+ 
+
+3 (2
+
+%) 
+
+Vomiting
+
+  
+
+ 
+
+36 (28
+
+%) 
+
+ 
+
+ 
+
+0
+
+ 
+
+Fatigue
+
+  
+
+ 
+
+21 (17
+
+%) 
+
+ 
+
+ 
+
+1 (1
+
+%) 
+
+Paronychia
+
+  
+
+ 
+
+13 (10
+
+%) 
+
+ 
+
+ 
+
+0
+
+ 
+
+Other select TRAEs, n (%)
+
+  
+
+ 
+
+ALT elevation
+
+  
+
+ 
+
+6 (5
+
+%) 
+
+ 
+
+ 
+
+0
+
+ 
+
+AST elevation
+
+  
+
+ 
+
+8 (6
+
+%) 
+
+ 
+
+ 
+
+0
+
+ 
+
+Electrocardiogram QT prolonged
+
+  
+
+ 
+
+1 (1
+
+%) 
+
+ 
+
+ 
+
+1 (1
+
+%) 
+
+Neutropenia/neutrophil count decreased
+
+  
+
+ 
+
+6 (5
+
+%) 
+
+ 
+
+ 
+
+1 (1
+
+%) 
+
+Thrombocytopenia/platelet count decreased
+
+  
+
+ 
+
+14 (11
+
+%) 
+
+ 
+
+ 
+
+3 (2
+
+%) 
+
+ 
+
+‡ 
+
+Includes preferred terms of dermatitis acneiform, eczema, erthyema, rash, rash erythematous, rash maculopapular, rash pruritic and rash pustular; multiple types of rash may have occurred in the same patient.
+
+ALT, alanine transaminase; AST, aspartate transferase
+
+ 
+
+The Company also reported the TRAEs leading to dose modifications for patients with PDAC treated across dose cohorts ranging from 160 mg daily to 300 mg daily (Table 2).
+
+Table 2. RMC-6236-001: Treatment-related adverse events leading to dose modifications for patients with PDAC treated with RMC-6236 (160-300 mg daily)
+
+ 
+
+ 
+
+  
+
+Total (n = 127)
+
+ 
+
+TRAEs leading to dose modification, n (%)
+
+  
+
+ 
+
+35 (28
+
+%) 
+
+Dose interruption
+
+  
+
+ 
+
+34 (27
+
+%) 
+
+Dose reduction
+
+  
+
+ 
+
+14 (11
+
+%) 
+
+Dosing discontinuation
+
+  
+
+ 
+
+0 (0
+
+%) 
+
+Specific TRAEs leading to dose reduction (≥2 patients) by preferred term
+
+  
+
+Rash‡
+
+  
+
+ 
+
+7 (6
+
+%) 
+
+Stomatitis/mucositis
+
+  
+
+ 
+
+4 (3
+
+%) 
+
+Decreased appetite
+
+  
+
+ 
+
+2 (2
+
+%) 
+
+Diarrhea
+
+  
+
+ 
+
+2 (2
+
+%) 
+
+Platelet count decreased
+
+  
+
+ 
+
+2 (2
+
+%) 
+
+Dose intensity was ≥ 92% at each dose level with an average of 94% across 160-300 mg daily cohorts
+
+ 
+
+‡ 
+
+Includes preferred terms of dermatitis acneiform and rash maculopapular; multiple types of rash may have occurred in the same patient.
+
+In addition, the Company reported preliminary progression-free survival (“PFS”) data as of the Data Cutoff Date for patients with metastatic PDAC treated with RMC-6236 in the second-line (“2L”) setting across dose cohorts ranging from 160 mg daily to 300 mg daily (Figure 1). As of the Data Cutoff Date, the median PFS for patients with tumors harboring KRAS G12X mutations was 8.1 months (95% confidence interval (“CI”): 5.9 months, not estimable), and the median PFS for patients with G12X, G13X and Q61X PDAC was 7.6 months (95% CI: 5.3 months, not estimable). Based on the Company’s review of publicly available results from certain clinical trials of chemotherapy treatments for previously treated PDAC patients in the 2L or 2L or later setting (the “2L Chemotherapy Trials”), the Company believes the range for the median PFS from the 2L Chemotherapy Trials to range from 2.0 to 3.5 months. The 2L Chemotherapy Trials were not head-to-head trials with RMC-6236 and include differences in study protocols, conditions, patient populations and reporting standards, and caution should be exercised when comparing data across trials. The Company believes the preliminary PFS observations from the RMC-6236-001 study as of the Data Cutoff Date compare favorably to the Company’s belief regarding the median PFS for the 2L Chemotherapy Trials, supporting the Company’s plans to initiate a global, randomized Phase 3 trial of RMC-6236 in the 2L treatment of patients with metastatic PDAC (the “RASolute 302 study”).
+
+Figure 1. RMC-6236-001: Observed PFS for patients with 2L metastatic PDAC treated with RMC-6236 (160-300 mg daily)
+
+ 
+
+Data Cutoff Date of May 11, 2024          
+
+2L in the metastatic setting includes patients who progressed on prior therapy in an earlier setting within 6 months of last dose.
+
+RAS Mutant defined as patients with G12X, G13X or Q61X PDAC.
+
+ 
+
+The Company also reported preliminary PFS data as of the Data Cutoff Date for patients with metastatic PDAC harboring KRAS G12X mutations who were treated with RMC-6236 in the 2L and third-line or later (“3L+”) settings across dose cohorts ranging from 160 mg daily to 300 mg daily (Figure 2). As of the Data Cutoff Date, the median PFS for patients harboring KRAS G12X mutations who were treated in the 3L+ setting was 4.2 months (95% CI: 4.1 months, 6.4 months). Based on the Company’s review of publicly available results from certain clinical trials of chemotherapy treatments for previously treated PDAC patients in the 3L+ setting (the “3L+ Chemotherapy Trials”), the Company believes the median PFS from the 3L+ Chemotherapy Trials to be 1.9 months. The 3L+ Chemotherapy Trials were not head-to-head trials with RMC-6236 and include differences in study protocols, conditions, patient populations and reporting standards, and caution should be exercised when comparing data across trials. The Company believes this preliminary PFS observation from the RMC-6236-001 study as of the Data Cutoff Date compares favorably to the Company’s belief regarding the median PFS for the 3L+ Chemotherapy Trials, supporting the Company’s plans to initiate the RASolute 302 study.
+
+Figure 2. RMC-6236-001: Observed PFS for patients with 2L vs 3L+ metastatic PDAC harboring KRAS G12X mutations treated with RMC-6236 (160-300 mg daily)
+
+ 
+
+Data Cutoff Date of May 11, 2024      
+
+2L in the metastatic setting includes patients who progressed on prior therapy in an earlier setting within 6 months of last dose.
+
+The Company also reported best percentage change in tumor size from baseline for patients with PDAC treated with RMC-6236 in the 2L or later (“2L+”) setting as of the Data Cutoff Date (Figure 3). The objective response rate (“ORR”) for patients who received the first dose of RMC-6236 at least 14 weeks prior to the Data Cutoff Date was 20% for patients with tumors harboring KRAS G12X mutations and was 21% for patients with G12X, G13X and Q61X PDAC. The ORR for patients who received the first dose of RMC-6236 at least 20 weeks prior to the Data Cutoff Date was 27% for patients with tumors harboring KRAS G12X mutations and was 26% for patients with G12X, G13X and Q61X PDAC. Based on the Company’s review of publicly available results from the 2L Chemotherapy Trials, the Company believes the mean ORR from the 2L Chemotherapy Trials to be 9%. The 2L Chemotherapy Trials were not head-to-head trials with RMC-6236 and include differences in study protocols, conditions, patient populations and reporting standards, and caution should be exercised when comparing data across trials. The Company believes the ORR observations from the RMC-6236-001 study as of the Data Cutoff Date compare favorably to the Company’s belief regarding the mean ORR from the 2L Chemotherapy Trials, supporting the Company’s plans to initiate the RASolute 302 study. The disease control rate (“DCR”) for patients who received the first dose of RMC-6236 at least 14 weeks prior to the Data Cutoff Date was 87% for patients with tumors harboring KRAS G12X mutations and was 88% for patients with G12X, G13X and Q61X PDAC.
+
+Figure 3. RMC-6236-001: Best percentage change in tumor size from baseline and ORR for patients with 2L+ PDAC treated with RMC-6236 (160-300 mg daily)
+
+ 
+
+Data Cutoff Date of May 11, 2024     
+
+Unconfirmed partial responses PRs (“PRu”) with treatment discontinued (will never confirm) are not considered responders but remain in the denominator (n=5); ORR (by RECISTv1.1) includes confirmed complete responses (“CRs”) and partial responses (“PRs”) and unconfirmed CRs/PRs who are still on treatment and may yet confirm; 2L in the metastatic setting includes patients who progressed on prior therapy in an earlier setting within 6 months of last dose.
+
+SOD, sum of diameters; RAS Other, non-G12X RAS mutations; PD, progressive disease; SD, stable disease.
+
+The Company also reported interim observed overall survival (“OS”) data as of the Data Cutoff Date for patients with metastatic PDAC who were treated with RMC-6236 in the 2L setting across dose cohorts ranging from 160 mg daily to 300 mg daily (Figure 4). The interim OS as of the Data Cutoff Date for patients with PDAC tumors harboring KRAS G12X was not estimable (95% CI: 8.5 months, not estimable) and for patients with G12X, G13X and Q61X PDAC was also not estimable (95% CI: 8.5 months, not estimable).
+
+ 
+
+Figure 4. RMC-6236-001: Interim observed OS for patients with 2L metastatic PDAC treated with RMC-6236 (160-300mg daily)
+
+ 
+
+Data Cutoff Date of May 11, 2024           
+
+2L in the metastatic setting includes patients who progressed on prior therapy in an earlier setting within 6 months of last dose.
+
+RAS Mutant defined as patients with G12X, G13X or Q61X PDAC.
+
+In the RASolute 302 study, the Company plans to randomize patients in a 1:1 ratio to receive either RMC-6236 at a dose of 300 mg daily or the investigator’s choice of chemotherapy. The anticipated study design for the RASolute 302 study provides that patients with metastatic PDAC who have had one prior line of therapy in the metastatic setting will be eligible for the study, subject to satisfaction of other inclusion and exclusion criteria. The RASolute 302 study is further anticipated to have a nested trial design in which patients with tumors harboring RAS G12X mutations and all enrolled patients will be evaluated for the dual primary endpoints of PFS and OS, with secondary endpoints including ORR and quality of life measures.
+
+The Company’s current planned trial design and dose selection for the RASolute 302 study are based on initial feedback from the U.S. Food and Drug Administration (“FDA”), including supportive discussions on high level trial design and dose, but are subject to finalization pending the Company’s final protocol submission and FDA review. The Company continues to anticipate initiating the RASolute 302 study in the second half of 2024.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Any statements in this report that are not historical facts may be considered “forward-looking statements,” including, without limitation, statements regarding the Company’s financial projections and expectations related to the Company’s capital resources; the potential advantages of RMC-6236, including potential tolerability, efficacy and durability; the Company’s development plans for RMC-6236 and initial feedback from the FDA. Forward-looking statements are typically, but not always, identified by the use of words such as “may,” “will,” “would,” “believe,” “intend,” “plan,” “anticipate,” “estimate,” “expect” and other similar terminology indicating future results. Such forward-looking statements are subject to substantial risks and uncertainties that could cause the Company’s development programs, future results, performance or achievements to differ materially from those anticipated in the forward-looking statements. Such risks and uncertainties include, without limitation, risks and uncertainties inherent in the drug development process, the process of designing and conducting clinical trials, risks that the results of prior clinical trials may not be predictive of future clinical trials, clinical efficacy, or other future results, the regulatory approval processes, the timing of regulatory filings, the challenges associated with manufacturing drug products, the Company’s ability to successfully establish, protect and defend its intellectual property, other matters that could affect the sufficiency of the Company’s capital resources to fund operations, reliance on third parties for manufacturing and development efforts, changes in the competitive landscape and the effects on the Company’s business of global events, such as international conflicts or global pandemics. For a further description of the risks and uncertainties that could cause actual results to differ from those anticipated in these forward-looking statements, as well as risks relating to the business of the
+
+Company in general, see the Company’s Quarterly Report on Form 10-Q filed with the SEC on May 8, 2024, and its future periodic reports to be filed with the SEC. Except as required by law, the Company undertakes no obligation to update any forward-looking statements to reflect new information, events or circumstances, or to reflect the occurrence of unanticipated events.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+REVOLUTION MEDICINES, INC.
+
+Date: July 15, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Mark A. Goldsmith
+
+ 
+
+ 
+
+ 
+
+Mark A. Goldsmith, M.D., Ph.D.
+
+President and Chief Executive Officer

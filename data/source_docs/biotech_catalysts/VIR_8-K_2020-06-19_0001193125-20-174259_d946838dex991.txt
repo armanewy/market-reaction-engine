@@ -1,0 +1,3618 @@
+EX-99.1
+2
+d946838dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) WOULD
+LIKELY CAUSE COMPETITIVE HARM IF PUBLICLY DISCLOSED.
+
+ 
+
+CONFIDENTIAL
+
+  
+
+EXECUTION VERSION
+
+PATENT LICENSE AGREEMENT
+
+This PATENT LICENSE AGREEMENT (this “Agreement”), effective as of March 25, 2020 (the “Effective
+Date”), is made by and between Vir Biotechnology, Inc., a Delaware corporation (“VirBio”), having a principal place of business at 499 Illinois St, San Francisco, CA 94158, and Xencor, Inc., a Delaware corporation
+(“Xencor”), having a principal place of business at 111 West Lemon Avenue, Monrovia, California 91016. VirBio and Xencor may each be referred to herein individually as a “Party” or collectively as the
+“Parties”.
+
+BACKGROUND
+
+WHEREAS, Xencor has developed expertise in engineering Antibodies;
+
+WHEREAS, Xencor owns and controls certain Patents directed to its half-life extension Fc Region-related technologies, which are [***] of an
+Antibody that can be introduced to extend the half-life in vivo of an Antibody;
+
+WHEREAS, VirBio and its Affiliates possess expertise in
+discovering, developing, manufacturing, marketing, and selling pharmaceutical products worldwide, including with respect to discovering, developing, and manufacturing Antibodies;
+
+WHEREAS, VirBio intends to develop and commercialize Antibodies for the treatment of severe acute respiratory syndrome caused by
+coronaviruses; and
+
+WHEREAS, VirBio desires to obtain from Xencor, and Xencor desires to grant to VirBio, a
+non-exclusive license to incorporate Xencor’s half-life extension Fc Region-related technologies claimed by the Xencor Patents into Fc Licensed Products, subject to the terms and conditions set forth
+herein.
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants herein contained, the Parties hereby agree as
+follows:
+
+ARTICLE 1
+
+DEFINITIONS
+
+As used in
+this Agreement, the following capitalized terms shall have the meanings indicated in this Article 1 below or elsewhere in this Agreement:
+
+1.1 “Affiliate” means, with respect to a Person, any other Person that controls, is controlled by, or is under common control
+with such Person. For purposes of this Agreement, a Person will be deemed to control another Person if it owns or controls, directly or indirectly, more than 50% of the equity securities of such other Person entitled to vote in the election of
+directors (or, in the case that such other Person is not a corporation, for the election of the corresponding managing authority), or otherwise has the power to direct the management and policies of such other Person. The Parties acknowledge that in
+the case of certain entities organized under the laws of certain countries outside the United States, the maximum percentage ownership permitted by law for a foreign investor may be less than 50%, and that in such case such lower percentage will be
+substituted in the preceding sentence, provided that such foreign investor has the power to direct the management and policies of such entity.
+
+1.2 “Antibody” means a protein comprising an Fc Region and at least one Fv
+Region. For clarity, an Antibody that differs in amino acid sequence will be treated as a distinct Antibody.
+
+1.3 “BLA”
+means (a) a Biologics License Application as described in 21 C.F.R. §601.2, as amended, (b) a Marketing Authorization Application filed with the EMA or other applicable Regulatory Authority in the EU, or (c) any equivalent
+application, registration or certification in any other country or region.
+
+1.4 “Business Day” means a day other than a
+Saturday, Sunday or a bank or other public holiday in California in the United States.
+
+1.5 “Change of Control” means,
+with respect to a Party, (a) a merger or consolidation of such Party with a Third Party that results in the voting securities of such Party outstanding immediately prior thereto, or any securities into which such voting securities have been
+converted or exchanged, ceasing to represent at least 50% of the combined voting power of the surviving entity or the parent of the surviving entity immediately after such merger or consolidation, (b) a transaction or series of related
+transactions in which a Third Party, together with its Affiliates, becomes the direct or indirect beneficial owner of more than 50% of the combined voting power of the outstanding securities of such Party, or (c) the sale or other transfer to a
+Third Party of all or substantially all of such Party’s and its controlled Affiliates’ assets.
+
+1.6 “Commercially
+Reasonable Efforts” means, with respect to the efforts to be expended by VirBio with respect to a Commercial License, that level of efforts and resources, at the relevant point in time, that are of a substantially similar level of effort
+and resources expended for the development and commercialization of products that pharmaceutical companies commonly exercise for a product of similar commercial potential at a similar stage in its lifecycle as a Licensed Product, taking into
+consideration all relevant factors at the time such efforts are expended, including technical, legal, scientific, and medical factors.
+
+1.7 “Control” means, with respect to any Patents, the possession, legal authority or right (whether by ownership, license or
+sublicense) by a Party (other than by operation of any license granted in this Agreement) to assign or grant to the other Party the licenses, sublicenses or rights to access and use or disclose such Patents as provided for in this Agreement, without
+paying any consideration to any Third Party (now or in the future) or violating the terms of any agreement or other arrangement with any Third Party in existence as of the time such Party would be required hereunder to grant such license, sublicense
+or rights of access and use.
+
+1.8 “Cover”, “Covering”, or “Covered” means, with respect
+to a particular Licensed Product and a relevant Patent, that, but for a license granted to a Person under a claim included in such Patent, the research, development, manufacture, or commercialization of such Licensed Product by such Person would
+infringe, or contribute to or induce the infringement of, such claim, or with respect to a Patent application, as if such claim was contained in an issued Patent.
+
+1.9 “EMA” means the European Medicines Agency and any successor Governmental Authority having substantially the same
+function.
+
+ 
+
+- 2 -
+
+1.10 “Executive Officer” means, for Xencor, its Chief Executive Officer or
+his/her senior executive designee, and for VirBio, its Chief Executive Officer or his/her senior executive designee. In the event that the position of any of the Executive Officers no longer exists due to a Change of Control, corporate
+reorganization, corporate restructuring or the like, the applicable Executive Officer will be replaced with another executive officer with responsibilities and seniority comparable to the eliminated Executive Officer.
+
+1.11 “Fc Licensed Antibody” means an Antibody that:
+
+ 
+
+ 
+
+(a)
+
+contains the Fc Licensed Component, and
+
+ 
+
+ 
+
+(b)
+
+does not contain any technology (other than Xtend Technology) that is covered or claimed (including Covered) by
+any Patent Controlled by Xencor or its Affiliates (whether such claim or coverage applies to the other technology alone or in combination with an Fc Licensed Component).
+
+1.12 “Fc Licensed Component” means an Fc Region that:
+
+ 
+
+ 
+
+(a)
+
+contains the following [***] (such [***], the “Xtend Technology”), and
+
+ 
+
+ 
+
+(b)
+
+does not contain any [***] that are Covered by any Patent Controlled by Xencor or its Affiliates (whether such
+claim or coverage applies to [***] identified in (a) above).
+
+1.13 “Fc Region” means the fragment
+crystallizable region of an Antibody (by way of example, [***], and any variant, fragment or portion thereof, including naturally occurring fragments, naturally occurring variants of such fragments and
+non-naturally occurring variants of such fragments.
+
+1.14 “FDA” means the United
+States Food and Drug Administration or any successor agency thereto.
+
+1.15 “Field” means any and all uses and purposes,
+including the treatment, palliation, diagnosis or prevention of human or animal disease, disorder or condition.
+
+1.16 “First
+Commercial Sale” means, with respect to a Licensed Product, the first sale by or on behalf of VirBio or any of its Affiliates or Sublicensees to a Third Party of such Licensed Product in a given country following the receipt of Regulatory
+Approval for such Licensed Product in such country.
+
+ 
+
+- 3 -
+
+1.17 “Fv Region” means an antigen binding domain of an antibody containing
+a variable heavy region and a variable light region. For clarity, Fv Regions can be [***], each on a different polypeptide sequence.
+
+1.18
+“Governmental Authority” means any applicable government authority, court, tribunal, arbitrator, agency, department, legislative body, commission or other instrumentality of (a) any government of any country or territory,
+(b) any nation, state, province, county, city or other political subdivision thereof or (c) any supranational body.
+
+1.19
+“Included Target” means any component of a coronavirus, including SARS-CoV- 2, SARS-CoV, and MERS-CoV.
+
+1.20 “IND” means an investigational new drug application, clinical trial
+application or equivalent application or submission for approval to conduct human clinical investigations filed with or submitted to the applicable Regulatory Authority in conformance with the requirement of such Regulatory Authority, and any
+amendments thereto.
+
+1.21 “Laws” means all applicable laws, statutes, rules, regulations, orders, judgments, injunctions,
+ordinances or other pronouncements having the binding effect of law of any Governmental Authority.
+
+1.22 “Licensed
+Compound” means an Fc Licensed Antibody that [***] an Included Target.
+
+1.23 “Licensed Product” means any
+product that contains a Licensed Compound as an active ingredient, whether alone or in combination with other active ingredients, and in any form, formulation, dosage, or presentation, and for any mode of delivery; provided that, a Licensed
+Product (a) does not include any Antibodies, compounds or products of Xencor or any of its Affiliates other than the Licensed Compound contained in or comprising such Licensed Product and (b) does not bind to [***].
+
+1.24 “[***]” means [***].
+
+1.25 “[***] Agreement” means the [***] Agreement between [***] and Xencor, dated [***], as amended from time-to-time.
+
+1.26 “[***] Patent” means (a) U.S.
+Patent Serial Number [***]; (b) all patent applications (including provisional and utility applications) to which it claims priority or claiming priority to or common priority with or based on any of the foregoing, including all divisionals,
+continuations, continuations-in-party, patents of addition and substitutions of any of the foregoing; (c) all patents issued or issuing on any of the foregoing, and
+all reissues, reexaminations, renewals and extensions of any of the foregoing; (d) all counterparts to the foregoing in other countries; and (e) all supplementary protection certifications, restoration of patent term and other similar
+rights of [***] or its Affiliates based on any of the foregoing; and (f) all Patents owned or controlled by [***] or its Affiliates at any time during the Term that claim [***]; provided, that, if a claim of a Patent that is a [***] Patent
+would still read on [***], then notwithstanding the foregoing definition of [***] Patents, such claim shall be excluded from the definition of [***] Patents.
+
+ 
+
+- 4 -
+
+1.27 “Net Sales” means, with respect to a Licensed Product, the gross
+amounts invoiced for sales of such Licensed Products by or on behalf of VirBio or its Affiliates or Sublicensees to Third Parties (other than to a Sublicensee of VirBio or its Affiliates, unless such Sublicensee or Affiliate is the end user) less
+the following deductions [***] by VirBio or its Affiliates or Sublicensees, as applicable, with respect to the sale of such Licensed Product [***]:
+
+1.27.1 [***];
+
+1.27.2 [***];
+
+1.27.3 [***];
+
+1.27.4 [***];
+
+1.27.5 [***]; and
+
+1.27.6 [***].
+
+Notwithstanding the foregoing, sales between VirBio, its Affiliates, or their respective Sublicensees shall not be included in the
+calculation of Net Sales, unless the purchaser is an end user of the Licensed Product.
+
+Each of the deductions set forth above shall be
+reasonable and customary, and in no event will any particular amount identified above be deducted more than once in calculating Net Sales.
+
+ 
+
+- 5 -
+
+If a Licensed Product is sold as part of a Combination Product in a country, the Net Sales
+with respect to such Combination Product in such country shall be determined by [***] during the applicable reporting period, calculated as set forth above, by the fraction A/(A+B), where A is the weighted average sale price (by sales volume) of the
+Licensed Product without the Additional Ingredient(s) in the Combination Product in such country when sold separately, and B is the weighted average sales price of the Additional Ingredient(s) in the Combination Product in such country when sold
+separately, in each case in the same dosage and dosage form and in the same country as the Combination Product during the applicable reporting period. If the Additional Ingredient(s) in the Combination Product is not sold separately in such country
+during the applicable reporting period, Net Sales shall be calculated by [***] of the Combination Product in such country. [***]. As used in this definition, “Combination Product” means a Licensed Product that (i) in addition
+to a Licensed Compound, contains one (1) or more other active ingredients that do not incorporate an Fc Licensed Component (the “Additional Ingredient”) and (ii) is sold for a single price, either as a single unit, in a
+single package, or otherwise. A Combination Product shall be deemed a Licensed Product for the purpose of this Agreement.
+
+1.28
+“Patent” means all patents and patent applications and all substitutions, divisions, continuations, continuations-in-part, any patent issued with
+respect to any such patent applications, any reissue, reexamination, utility models or designs, renewal or extension (including any supplementary protection certificate) of any such patent, and any confirmation patent or registration patent or
+patent of addition based on any such patent, and all counterparts thereof in any country.
+
+1.29 “Person” means any
+natural person, corporation, unincorporated organization, partnership, association, sole proprietorship, joint stock company, joint venture, limited liability company, trust or government, or Governmental Authority, or any other similar entity.
+
+1.30 “Pricing Approval” means, with respect to a Licensed Product, the governmental approval, agreement, determination or
+decision of any Governmental Authority establishing prices or level of reimbursement for such Licensed Product that can be charged or reimbursed in regulatory jurisdictions where the applicable Governmental Authorities approve or determine the price
+or reimbursement of pharmaceutical products.
+
+1.31 “Regulatory Approval” means a BLA, together with all other approvals
+or establishment licenses, registrations or authorizations (including marketing authorizations) of any Regulatory Authority that are necessary for the manufacture, use, storage, import, transport, promotion, marketing, distribution, sale, offer for
+sale, and/or other commercialization of a Licensed Product in any country or jurisdiction in the Territory.
+
+ 
+
+- 6 -
+
+1.32 “Regulatory Authority” means, any Governmental Authority involved in
+granting approvals for the development, manufacturing and commercialization, including Pricing Approval of Licensed Products, including the FDA, the EMA, the Japanese Ministry of Health, Labour and Welfare and the Pharmaceuticals and Medical Devices
+Agency in Japan.
+
+1.33 “Research Program” means VirBio’s programs directed to the research, development (including
+clinical development) and manufacture of biopharmaceutical products directed to Included Targets. The Research Programs as of the Effective Date are programs directed to the research, development (including clinical development) and manufacture of
+Antibodies against [***]. For clarity, the activities included in the Research Program do not include commercialization activities.
+
+1.34
+“Royalty Term” has the meaning set forth in Section 5.1.2.
+
+1.35 “Sublicensee” means any Third
+Party to whom VirBio grants a sublicense to develop, use, import, promote, offer for sale, or sell any Licensed Product in the Territory, beyond the mere right to purchase Licensed Products from VirBio and its Affiliates, and excluding [***].
+
+1.36 “Target” means a biological molecule, [***].
+
+1.37 “Territory” means worldwide.
+
+1.38 “Third Party” means any Person other than Xencor, VirBio or their respective Affiliates.
+
+1.39 “U.S.” means the United States of America, including its territories and possessions.
+
+1.40 “Valid Claim” means a claim of a Xencor Patent that (a) has not been rejected, revoked or held to be invalid or
+unenforceable by a court or other authority of competent jurisdiction, from which no appeal can be further taken, or (b) has not been finally abandoned, disclaimed or admitted to be invalid or unenforceable through reissue or disclaimer. In
+order to be a Valid Claim, any claim being prosecuted in a pending patent application must be prosecuted in good faith and not have been pending for more than seven (7) years from the filing date of the first utility patent application (or
+equivalent concept in any such country) in the patent application family in the country in question, in which case it will cease to be considered a Valid Claim until the patent issues and recites said claim (from and after which time the same would
+be deemed a Valid Claim).
+
+1.41 “Xencor Patents” means those Patents Controlled by Xencor or any of its Affiliates as of
+the Effective Date or during the Term that Cover any Licensed Compound, including, as of the Effective Date, (a) the [***] Patent, (b) the Patents listed on Exhibit A and (c) the Patents issuing from any Patent set forth on
+Exhibit A during the Term.
+
+1.42 “Xtend Technology” has meaning set forth in Section 1.12(a).
+
+ 
+
+- 7 -
+
+ARTICLE 2
+
+RESEARCH PROGRAM
+
+2.1
+Conduct of the Research Program.
+
+2.1.1 VirBio shall conduct the Research Programs at its expense and discretion. For each Research
+Program, the applicable Licensed Product will incorporate the applicable lead Licensed Compound in such Research Program. VirBio shall have the right, with prior written notice to Xencor, to replace the lead Licensed Compound with a back-up Licensed Compound that specifically binds to the same Included Target, at VirBio’s discretion. Such activities will be deemed to be included within then applicable Research Program. For clarity, VirBio
+will be permitted to [***]; provided, however, that if the backup Licensed Compound is first to achieve any clinical milestone before the lead Licensed Compound for the applicable Research Program, then the payment of the applicable milestone will
+be due at such time.
+
+2.1.2 VirBio acknowledges that Xencor is not granting to VirBio any licenses under the Xencor Patents to conduct
+research activities other than those set forth herein. The Research Program shall be conducted by or on behalf of VirBio in a good, scientific manner in compliance with all applicable Laws and in accordance with the terms and conditions set forth in
+this Agreement. VirBio may perform any portion of the Research Program through one or more subcontractors; provided, however that VirBio shall remain responsible for the performance by its subcontractors and the compliance of its subcontractors with
+the provisions of this Agreement in connection with such performance.
+
+2.1.3 Research Programs. VirBio hereby agrees to take a
+Commercial License for each of the Research Programs as set forth in Section 3.2.
+
+ 
+
+- 8 -
+
+ARTICLE 3
+
+LICENSE
+
+3.1 Research
+License Grant to VirBio. Subject to the terms and conditions of this Agreement, Xencor hereby grants to VirBio a non-exclusive license, with a right to grant sublicenses to Affiliates and subcontractors
+only, under the Xencor Patents to make and use Fc Licensed Components for incorporating Fc Licensed Components into, and evaluating, Licensed Compounds in the course of conducting the Research Programs. VirBio acknowledges that the license granted
+in this Section 3.1 shall not include any right or license to use or practice the Xencor Patents for any purpose other than making and using Fc Licensed Components to incorporate such Fc Licensed Components into, and to
+evaluate, Licensed Compounds in the course of conducting the Research Program. For clarity, the license granted in this Section 3.1 will include the right for Vir Bio to manufacture and assess backup Licensed Compounds in
+accordance with Section 2.1.1.
+
+3.2 Commercial License.
+
+3.2.1 Commercial License Grant. Subject to the terms and conditions of this Agreement, Xencor hereby grants to VirBio, a non-exclusive, non-transferable, sublicensable (in accordance with Section 3.3), royalty-bearing license, under the Xencor Patents to research, make,
+have made, develop, use, sell, offer for sale and import Licensed Products in the Field in the Territory (the “Commercial License”).
+
+3.3 Sublicense Rights. VirBio may grant sublicenses (through multiple tiers)under and within the scope of any Commercial License
+granted pursuant to Section 3.2. Each sublicense granted by VirBio shall be consistent with all of the relevant terms and conditions of this Agreement, and subordinate thereto, and VirBio shall remain responsible to Xencor
+for all payments and royalties that become due under this Agreement as a result of the activities of such sublicensee. Within [***] following the execution of any sublicense agreement, VirBio shall provide Xencor with written notice of such
+sublicense and [***]. Notwithstanding any sublicense, VirBio will remain primarily liable to Xencor for the performance of all of VirBio’s obligations under, and VirBio’s compliance with all provisions of, this Agreement and [***]. In the
+event of any termination of this Agreement by Xencor pursuant to the terms hereof, all Sublicensees pursuant to this Section 3.3 of both development and commercial rights shall, at the Sublicensee’s written election,
+automatically become a direct license under this Agreement between Xencor and such Sublicensee with respect to the subject matter hereof with all rights and obligations of VirBio hereunder automatically becoming rights and obligations of such
+Sublicensee, unless the Sublicensee is in material default under such sublicense at the time of termination of this Agreement, in which case it shall have no such right; provided, that the scope of the direct license granted hereunder shall be
+adjusted as appropriate to be the same scope as the license granted to such Sublicensee under the original sublicense.
+
+ 
+
+- 9 -
+
+3.4 No Implied Licenses. Each Party acknowledges that the rights and licenses granted
+under this Article 3 and elsewhere in this Agreement are limited to the scope expressly granted herein. Accordingly, except for the rights expressly granted under this Agreement, no right, title, or interest of any nature whatsoever is granted,
+whether by implication, estoppel, reliance, or otherwise, by either Party to the other Party. All rights with respect to Patents and other intellectual property rights that are not specifically granted herein are reserved to the owner thereof.
+Without limiting the foregoing, Xencor reserves all rights to practice and use, and grant to Third Parties the right to practice and use, the Xencor Technology to incorporate Fc Licensed Components into molecules other than Licensed Compounds or
+Licensed Products.
+
+ARTICLE 4
+
+DEVELOPMENT AND COMMERCIALIZATION
+
+4.1 Diligence. Subject to the terms and conditions of this Agreement, with respect to each Research Program during the Term, VirBio
+shall, at its expense, use Commercially Reasonable Efforts to develop and commercialize a Licensed Product for each such Research Program in the Field in the Territory.
+
+4.2 Disclosure Regarding VirBio Efforts. During the Term, VirBio shall provide [***] written reports to Xencor summarizing the status
+of the development efforts of VirBio and its Affiliates and Sublicensees with respect to Licensed Products that arise from the Research Programs, including [***]. Xencor’s right to receive such [***] reports with respect to a Licensed Product
+shall terminate upon [***] for such Licensed Product.
+
+ARTICLE 5
+
+FEES AND ROYALTIES
+
+5.1
+Royalties.
+
+5.1.1 Royalty Rate. Subject to the terms of this Section 5.1, VirBio shall pay to
+Xencor a [***] royalty on worldwide annual Net Sales of Licensed Products by VirBio, its Affiliates or Sublicensees, which may be paid directly by VirBio or an Affiliate of VirBio. Royalties under this Section 5.1 shall be payable on a Licensed
+Product-by-Licensed Product and country-by- country basis during the applicable Royalty
+Term for such Licensed Product.
+
+[***].
+
+5.1.2 Royalty Term. Royalties shall be payable on a
+country-by-country and Licensed Product-by-Licensed Product basis for the period
+beginning on the date of the First Commercial Sale of such Licensed Product in such country by or on behalf of VirBio or its Affiliates or Sublicensees until the later of (1) the expiration of the last-to-expire Valid Claim Covering such Licensed Product in such country, or (2) 12 years (“Royalty Term”).
+
+ 
+
+- 10 -
+
+ARTICLE 6
+
+PAYMENTS; BOOKS AND RECORDS
+
+6.1 Royalty Reports and Payments. Royalties shall be calculated and reported for each calendar quarter during the applicable Royalty
+Term and shall be paid within [***] after the end of each calendar quarter. Each payment shall be accompanied by a report of Net Sales of Licensed Products by VirBio, its Affiliates and Sublicensees, which shall include the gross sales of Licensed
+Products, calculation of Net Sales (including deductions) of Licensed Products, the exchange rates used for the applicable period, and the royalties payable.
+
+6.2 Payment Method. All payments under this Agreement shall be made by bank wire transfer in immediately available funds to an account
+designated by Xencor. All amounts specified in this Agreement, and all payments made hereunder, are and shall be made in U.S. dollars. Any payments due under this Agreement which are not paid by the date such payments are due under this Agreement
+(but excluding payments which are being disputed in good faith by VirBio), shall bear interest to the extent permitted by applicable Law at the U.S. prime rate per annum quoted by The Wall Street Journal (U.S., Western Edition), or its
+successor, on the first Business Day after such payment is due, plus an additional [***] percentage points, calculated on the number of days such payment is delinquent. This Section 6.2 shall in no way limit any other remedies available to
+either Party.
+
+6.3 Currency Conversion. With respect to conversion of Net Sales in currencies other than U.S. dollars to U.S.
+dollars, VirBio or its Affiliates or Sublicensees, as applicable, shall convert the Net Sales to U.S. dollars at the rate of exchange at the close of business on [***]. The rate of exchange shall be the value of U.S. dollars at the close of business
+on such day as published by Bloomberg, or if Bloomberg is not available, then another similar Third Party source, and applying such exchange rate in a manner consistent with VirBio’s or its Affiliates or Sublicensees, as applicable, then
+standard foreign currency conversion methodology actually used on a consistent basis in preparing its audited financial statements.
+
+6.4
+Tax. Either Party (a “Withholding Party”) may withhold from payments due to the other Party (a “Non-Withholding Party”) amounts for payment of any withholding tax that
+is required by Law to be paid to any taxing authority with respect to such payments, which shall be remitted in accordance with Law. The Withholding Party will provide to the Non-Withholding Party all relevant
+documents and correspondence, and will also provide to the Non-Withholding Party any other cooperation or assistance on a reasonable basis as may be necessary to enable the
+Non-Withholding Party to claim exemption from such withholding taxes and to receive a refund of such withholding tax or claim a foreign tax credit. The Withholding Party will give proper evidence from time to
+time as to the payment of any such tax. The Parties will cooperate with each other in seeking deductions under any double taxation or other similar treaty or agreement from time to time in force. Such cooperation may include the Withholding Party
+making payments from a single source in the U.S., where possible.
+
+6.5 Records; Audits. During the Term and for a period of [***]
+thereafter, VirBio shall keep (and shall cause its Affiliates and Sublicensees to keep) complete and accurate records pertaining to the sale or other disposition of Licensed Products in sufficient detail to permit Xencor to confirm the accuracy of
+all sales milestone and royalty payments due hereunder. Xencor shall have the right to cause an independent, certified public accountant reasonably acceptable to VirBio to audit such records to confirm gross receipts, Net Sales and royalty payments
+for a period
+
+ 
+
+- 11 -
+
+covering not more than the preceding [***]. Such audits may be exercised no more than [***] during normal business hours upon [***] prior written notice to VirBio; provided, that, in the event of
+a good faith “for cause” audit such [***] notice shall not be required. Any such auditor shall first execute a confidentiality agreement with VirBio in customary form and shall not disclose VirBio’s confidential information to Xencor,
+except to the extent necessary to verify the accuracy of the financial reports and payments provided by VirBio to Xencor under this Agreement. No accounting period of VirBio shall be subject to audit more than one time by Xencor. Adjustments shall
+be made by the Parties to reflect the results of such audit. Xencor shall bear the full cost of such audit unless such audit discloses an underpayment by VirBio of more than [***] of the amount of royalty payments due under this Agreement computed
+on an annual basis, in which case, VirBio shall bear the full cost of such audit and shall promptly remit to Xencor the amount of any underpayment, plus interest calculated in accordance with Section 6.2. With respect to
+any overpayment by VirBio revealed by such audit, VirBio may credit the amount of such overpayment against any subsequent payment due to Xencor.
+
+ARTICLE 7
+
+CONFIDENTIALITY
+
+7.1
+Confidential Information. Except to the extent expressly authorized by this Agreement or otherwise agreed in writing by the Parties, each Party agrees that, during the Term and for [***] thereafter, such Party shall keep confidential and
+shall not publish or otherwise disclose and shall not use for any purpose other than as expressly provided for in this Agreement any confidential or proprietary information furnished to it by or on behalf of the other party pursuant to this
+Agreement (collectively, “Confidential Information”). Such Party (the “Receiving Party”) will maintain all Confidential Information of the other Party (the “Disclosing Party”) as confidential and
+will not disclose any such Confidential Information or use any such Confidential Information for any purpose, except (a) as expressly authorized by this Agreement, (b) as permitted by Section 7.2 or
+Section 7.3, or (c) to those of its and its Affiliates’ respective employees, agents, consultants, subcontractors and other representatives who require access to such Confidential Information to exercise its
+rights or perform its obligations under this Agreement, provided that such persons are under obligations of confidentiality and non-use of the Confidential Information at least as stringent as those set forth
+in this Article 7. The Receiving Party may use the Confidential Information only to the extent required to accomplish the purposes of this Agreement. The Receiving Party will use at least the same standard of care as it uses to protect its own
+confidential information of a similar nature, but no less than reasonable care, to ensure that its and its Affiliates’ employees, agents, consultants, subcontractors and other representatives do not disclose or make any unauthorized use of the
+Confidential Information. The Receiving Party will promptly notify the Disclosing Party upon discovery of any unauthorized use or disclosure of the Confidential Information. For the avoidance of doubt, the terms of this Agreement and the existence
+of this Agreement is deemed “Confidential Information” of each Party.
+
+7.2 Authorized Disclosures. The Receiving
+Party may disclose Confidential Information of the Disclosing Party as expressly permitted by this Agreement, or if and to the extent such disclosure is reasonably necessary in the following instances:
+
+7.2.1 filing or prosecuting Patents as permitted by this Agreement;
+
+ 
+
+- 12 -
+
+7.2.2 establishing or enforcing the Receiving Party’s rights under this Agreement;
+
+7.2.3 prosecuting or defending litigation as permitted by this Agreement;
+
+7.2.4 complying with a valid order of a court or other governmental body having jurisdiction or with applicable Laws, including those
+regulations promulgated by any securities exchange in any jurisdiction; provided that the Receiving Party shall, except where impracticable or prohibited by law, give reasonable advance notice to the Disclosing Party of the required disclosure, and,
+at the Disclosing Party’s request and expense, cooperate with the Disclosing Party’s efforts to contest such required disclosure, or to obtain a protective order preventing or limiting the disclosure or requiring that the Confidential
+Information so disclosed be used only for the purposes for which such disclosure is required, or to obtain other confidential treatment of the Confidential Information required to be disclosed. In any event, the Receiving Party shall disclose only
+such Confidential Information as it is required by such order or applicable Law to be so disclosed and shall only disclose such Confidential Information for the purpose and to the entity(ies) required by such order or applicable Law;
+
+7.2.5 in the case of VirBio, disclosure to actual or potential Sublicensees, provided, in each case, that any such Sublicensee has agreed in
+writing to be bound by obligations of confidentiality and non-use at least as stringent as those set forth in this Article 7, and that the Confidential Information so disclosed shall remain subject to this
+Article 7;
+
+7.2.6 disclosure of [***], provided, in each case, that: (a) any such Third Party agrees in writing to be bound by
+reasonable obligations of confidentiality and non-use at least as stringent as those set forth in this Article 7, (b) in the case of disclosure by Xencor, [***], (c) in the case of disclosure by VirBio, [***],
+and (d) the Confidential Information so disclosed shall remain subject to this Article 7; and
+
+7.2.7 in addition to the authorized
+disclosures set forth in clauses 7.2.1 — 7.2.6, the Parties agree that each Party’s obligations with respect to Confidential Information shall not apply to:
+
+ 
+
+ 
+
+(a)
+
+information that is in the public domain at the time of disclosure hereunder or which subsequently comes within
+the public domain through no fault of or action by the Receiving Party;
+
+ 
+
+ 
+
+(b)
+
+information that is in the possession of the Receiving Party without obligation of confidentiality at the time
+of disclosure by the Disclosing Party hereunder, as evidenced by the Receiving Party’s prior written records;
+
+ 
+
+- 13 -
+
+ 
+
+(c)
+
+information that is obtained, after the date hereof, by the Receiving Party from any Third Party that is
+lawfully in possession of such information without obligation of confidentiality and not in violation of any contractual or legal obligation with respect to such information; and
+
+ 
+
+ 
+
+(d)
+
+information that is independently developed by the Receiving Party, after the date hereof, without the aid,
+application, use of or reference to information provided by the Disclosing Party, in each such case as evidenced by contemporaneous written records.
+
+7.3 Terms of this Agreement. Each Party agrees not to disclose to any Third Party the terms of this Agreement without the prior written
+consent of the other Party, except as expressly permitted by Section 7.2.
+
+7.4 Approved Press Release Upon
+Execution. The Parties hereby agree that each Party shall have the right to issue the press release set forth on Exhibit B hereto at any time on or after the Effective Date.
+
+7.5 Press Release. Except as provided in this ARTICLE 7, neither Party will issue a press release or public announcement relating to
+this Agreement without the prior written approval of the other Party (such approval not to be unreasonably withheld, conditioned or delayed), except that a Party may:
+
+7.5.1 once a press release or other public statement is approved in writing by both Parties, make subsequent public disclosure of the
+information contained in such press release or other written statement without the further approval of the other Party, and
+
+7.5.2 issue a
+press release or public announcement as required by Law based on the advice of counsel (including a press release corresponding to any securities disclosure, such as pursuant to a Form 8-K or with respect to
+the achievement of a milestone event and the amount of, and receipt of, any milestone payment), including by the rules or regulations of the United States Securities and Exchange Commission or similar regulatory agency in a country other than the
+United States or of any stock exchange or listing entity, provided that, the Party issuing such press release gives reasonable prior notice given the circumstances to the other Party of and the opportunity to comment on the press release or
+public announcement, and otherwise complies with this Section 7.4. In addition, Xencor may, solely with VirBio’s prior written approval to be given on a
+case-by-case basis, such approval not to be unreasonably withheld, conditioned or delayed, issue a press release regarding the payment or receipt of any milestone
+payments under this Agreement with respect to any Licensed Products, provided such press release complies with this Section 7.4.
+
+ 
+
+- 14 -
+
+ARTICLE 8
+
+INTELLECTUAL PROPERTY
+
+8.1
+Ownership. As between the Parties, Xencor shall at all times be and remain the sole and exclusive owner of any Fc Licensed Component and Xencor Patents.
+
+8.2 Prosecution and Maintenance. Xencor shall have the sole right, as between the Parties, but not the obligation, at Xencor’s
+expense, to control and manage the preparation, filing, prosecution (including interferences, reissue proceedings and reexaminations) and maintenance of all Xencor Patents. VirBio agrees to reasonably cooperate in the preparation, filing,
+prosecution and maintenance of Xencor Patents in the Territory under this Agreement.
+
+8.3 Patent Enforcement.
+
+8.3.1 Notice. Each Party shall promptly notify the other in writing of any alleged or threatened infringement of any Xencor Patent in
+the Field in the Territory by a Competitive Product of which they become aware. “Competitive Product” means a product of a Third Party (other than a Sublicensee) [***] a Licensed Product.
+
+8.3.2 Enforcement. Xencor shall have the sole right, as between the Parties, but not the obligation, to bring and control any action or
+proceeding with respect to infringement of any Xencor Patent at its own expense.
+
+8.4 Infringement Claims by Third Parties. If the
+development, manufacture, use, or commercialization of a Licensed Product by VirBio pursuant to this Agreement results in any claim, suit, or proceeding by a Third Party alleging patent infringement by VirBio (or its Affiliates or Sublicensees),
+VirBio shall have the sole right, but not the obligation, to defend and control the defense of any such claim, suit, or proceeding as it pertains to VirBio at VirBio’s own expense as it reasonably determines appropriate.
+
+ARTICLE 9
+
+REPRESENTATIONS AND WARRANTIES
+
+9.1
+Mutual Representations and Warranties. Each Party represents and warrants to the other, as of the Effective Date, that:
+
+9.1.1 it is
+duly organized and validly existing under the laws of its jurisdiction of incorporation or formation, and has full corporate or other power and authority to enter into this Agreement and to carry out the provisions hereof;
+
+9.1.2 it is duly authorized to execute and deliver this Agreement and to perform its obligations hereunder, and the person or persons
+executing this Agreement on its behalf has been duly authorized to do so by all requisite corporate or partnership action; and
+
+9.1.3 this
+Agreement is legally binding upon it, enforceable in accordance with its terms, and does not conflict with, breach or violate any agreement, instrument or understanding, oral or written, to which it is a party or by which it may be bound, nor
+violate any law or regulation of any court, governmental body or administrative or other agency having jurisdiction over it.
+
+ 
+
+- 15 -
+
+9.2 Xencor Representations and Warranties. Xencor hereby represents and warrants to
+VirBio, as of the Effective Date, that:
+
+9.2.1
+
+to Xencor’s knowledge, (a) Exhibit A attached hereto contains a true and complete list of the existing Xencor Patents as of the Effective Date and (b) all such issued Patents identified therein are
+valid and enforceable;
+
+9.2.2 Xencor is the sole owner of the Xencor Patents, except for the [***] Patent;
+
+9.2.3 Xencor has the right to grant all rights and licenses it purports to grant to VirBio with respect to the Xencor Patents under this
+Agreement;
+
+9.2.4 Xencor is not a party to any legal action, suit or proceeding relating to the Xencor Patents;
+
+9.2.5 [***]; and
+
+9.2.6 [***].
+
+For clarity, all representations and warranties of Xencor in this Section 9.2 are made as of the Effective Date with respect to circumstances as
+they exist as of the Effective Date.
+
+9.3 VirBio Covenants. VirBio covenants to Xencor that:
+
+9.3.1 in the performance of its obligations and exercise of its rights under this Agreement, VirBio shall comply and shall cause its and its
+Affiliates’ employees and contractors to comply with all applicable Laws; and
+
+9.3.2 VirBio is not debarred or disqualified under the
+United States Federal Food, Drug and Cosmetic Act or comparable applicable law, rule or regulation outside the U.S. in the Territory, and it does not, and will not during the Term, employ or use the services of any person or entity who is debarred
+or disqualified, in connection with activities relating to the Licensed Compound or Licensed Product. In the event that VirBio becomes aware of the debarment or disqualification or threatened debarment or disqualification of any person or entity
+providing services to VirBio, including VirBio itself and its Affiliates or Sublicensees, which directly or indirectly relate to activities under this Agreement, Xencor shall be promptly notified in writing and VirBio shall cease using any such
+person to perform any services under this Agreement.
+
+9.4 Xencor Covenant. Xencor covenants to Vir that Xencor shall
+(a) comply with the terms of the[***] Agreement, and (b) not amend, terminate or allow to lapse or terminate the [***] Agreement in any way that could be reasonably expected to adversely affect Vir’s rights hereunder, without
+Vir’s prior written consent.
+
+ 
+
+- 16 -
+
+9.5 Disclaimer of Warranties. Except as expressly set forth in this Agreement, THE
+INTELLECTUAL PROPERTY RIGHTS PROVIDED BY EACH PARTY HEREUNDER ARE PROVIDED “AS IS,” AND EACH PARTY EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF DESIGN,
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF THE INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES, OR ARISING FROM A COURSE OF DEALING, USAGE OR TRADE PRACTICES.
+
+9.6 Limitation of Liability. EXCEPT FOR LIABILITY FOR BREACH OF ARTICLE 7, NEITHER PARTY SHALL BE ENTITLED TO RECOVER FROM THE OTHER
+PARTY ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OR FOR LOSS OF PROFITS IN CONNECTION WITH THIS AGREEMENT OR ANY LICENSE GRANTED HEREUNDER, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES; provided, however, that this
+Section 9.6 shall not limit either Party’s indemnification obligations under ARTICLE 10. For the avoidance of doubt, payments under Article 5 shall not be considered special, incidental, consequential or
+punitive damages.
+
+ARTICLE 10
+
+INDEMNIFICATION
+
+10.1
+Indemnification by VirBio. VirBio hereby agrees to save, defend, indemnify and hold harmless Xencor, its Affiliates and their respective officers, directors, employees, consultants and agents (the “Xencor Indemnitees”) from
+and against any and all losses, damages, liabilities, expenses and costs, including reasonable legal expense and attorneys’ fees (“Losses”), to which any Xencor Indemnitee may become subject as a result of any claim, demand,
+action or other proceeding by any Third Party to the extent such Losses arise out of:
+
+10.1.1 the research, development, manufacture, use,
+handling, storage, sale or other disposition of any Licensed Compound or Licensed Product by or on behalf of VirBio or any of its Affiliates or Sublicensees;
+
+10.1.2 the gross negligence or willful misconduct of any VirBio Indemnitee (defined below); or
+
+10.1.3 the breach by VirBio of any warranty, representation, covenant or agreement made by it in this Agreement;
+
+provided that the foregoing indemnification obligations shall not apply to the extent such Losses result from (a) the negligence or willful misconduct of
+any Xencor Indemnitee, (b) the breach by Xencor of any warranty, representation, covenant or agreement made by it in this Agreement, or (c) a claim by a Third Party that the research, development, manufacture, sale or import of a Licensed
+Product in the Territory infringes or misappropriates the Patents or know-how Controlled by such Third Party due to the presence of an Fc Licensed Component incorporated in the Licensed Product.
+
+ 
+
+- 17 -
+
+10.2 Indemnification by Xencor. Xencor hereby agrees to save, defend, indemnify and
+hold harmless VirBio, its Affiliates and Sublicensees and their respective officers, directors, employees, consultants and agents (the “VirBio Indemnitees”) from and against any and all Losses to which any VirBio Indemnitee may
+become subject as a result of any claim, demand, action or other proceeding by any Third Party to the extent such Losses arise out of:
+
+10.2.1 the gross negligence or willful misconduct of any Xencor Indemnitee; or
+
+10.2.2 the breach by Xencor of any warranty, representation, covenant or agreement made by Xencor in this Agreement;
+
+provided that the foregoing indemnification obligations shall not apply to the extent such Losses result from (a) the negligence or willful misconduct of
+any VirBio Indemnitee, or (b) the breach by VirBio of any warranty, representation, covenant or agreement made by VirBio in this Agreement.
+
+10.3 Procedure. In the event a Party seeks indemnification under Section 10.1 or 10.2, it shall inform the other party (the
+“Indemnifying Party”) of such claim as soon as reasonably practicable after such Party (the “Indemnified Party”) receives notice of the claim (it being understood and agreed, however, that the failure by an
+Indemnified Party to give notice of a claim as provided in this Section 10.3 shall not relieve the Indemnifying Party of its indemnification obligation under this Agreement except and only to the extent that such Indemnifying Party is actually
+prejudiced as a result of such failure to give notice), shall permit the Indemnifying Party to assume direction and control of the defense of the claim (including the right to settle the claim solely for monetary consideration), and shall cooperate
+as requested (at the expense of the Indemnifying Party) in the defense of the claim. The Indemnified Party shall not agree to any settlement of such action, suit, proceeding or claim without the prior written consent of the Indemnifying Party. The
+Indemnifying Party shall not agree to any settlement of such action, suit, proceeding or claim or consent to any judgment in respect thereof that does not include a complete and unconditional release of the Indemnified Party from all liability with
+respect thereto, that imposes any liability or obligation on the Indemnified Party or that acknowledges fault by the Indemnified Party; in each case, without the prior written consent of the Indemnified Party.
+
+10.4 Insurance. VirBio, at its own expense, shall maintain product liability and other appropriate insurance during the Term and for
+[***] thereafter in an amount consistent with industry standards and reasonable in light of its obligations under this Agreement (including its indemnification obligations). VirBio shall provide a certificate of insurance evidencing such coverage to
+Xencor upon request.
+
+ARTICLE 11
+
+TERM AND TERMINATION
+
+11.1
+Term. The term of this Agreement shall commence on the Effective Date and continue on a Licensed Product-by-Licensed Product and country-by-country basis until the expiration of the Royalty Term for such Licensed Product in such country, subject, in each case, to earlier termination pursuant to this ARTICLE 11 (the
+“Term”).
+
+ 
+
+- 18 -
+
+11.2 Termination for Convenience. VirBio may terminate this Agreement in its entirety
+or on a Included Target-by- Included Target basis at any time for its convenience upon sixty (60) days’ written notice.
+
+11.3 Termination for Material Breach. A Party may terminate this Agreement for material breach of this Agreement by the other Party
+upon sixty (60) days (or, in the case of non- payment breach, thirty (30) days) written notice specifying the nature of the breach, unless the breaching Party cures such breach within such sixty (60)-day (or thirty (30)-day, as applicable) period.
+
+11.4
+Termination for Insolvency. If, at any time during the Term (a) a case is commenced by or against either Party under Title 11, United States Code, as amended, or analogous provisions of Law outside the United States (the
+“Bankruptcy Code”) and, in the event of an involuntary case under the Bankruptcy Code, such case is not dismissed within [***] after the commencement thereof, (b) either Party files for or is subject to the institution of
+bankruptcy, liquidation or receivership proceedings (other than a case under the Bankruptcy Code), (c) either Party assigns all or a substantial portion of its assets for the benefit of creditors, (c) a receiver or custodian is appointed for either
+Party’s business, or (e) a substantial portion of either Party’s business is subject to attachment or similar process, then, in any such case ((a), (b), (c), (d) or (e)), the other Party may terminate this Agreement upon written
+notice to the extent permitted under Law.
+
+11.5 Termination for Patent Challenge. Xencor shall have the right to terminate this
+Agreement upon written notice to VirBio if:
+
+11.5.1 VirBio or any of its Affiliates directly, or indirectly through any Third Party,
+commences any opposition proceeding, post-grant review, inter partes review or ex parte reexamination or Third Party submissions or submits observations with respect to, challenges the validity or enforceability of, or opposes any extension of or
+the grant of a supplementary protection certificate with respect to, any Xencor Patent; or
+
+11.5.2 any Sublicensee directly, or indirectly
+through any Third Party, commences any opposition proceeding, post-grant review, inter partes review or ex parte reexamination or Third Party submissions or submits observations with respect to, challenges the validity or enforceability of, or
+opposes any extension of or the grant of a supplementary protection certificate with respect to, any Xencor Patent, and (a) VirBio does not cause such Sublicensee to withdraw such action or (b) if such Sublicensee does not withdraw such
+action, VirBio does not terminate the sublicense agreement with such Sublicensee, in each case, within thirty (30) days after VirBio receiving from Xencor written notice of any such action being taken by such Sublicensee. Notwithstanding the
+foregoing, Xencor shall have no such right to terminate this Agreement in the case of (i) any claim made by VirBio or any of its Affiliates or Sublicensees as a defense in any lawsuit or administrative proceeding brought by Xencor, its
+Affiliates or licensees for the Patents forming the basis for such claim; or (ii) any lawsuit, reexamination proceeding or opposition brought by VirBio or any of its Affiliates or Sublicensees challenging the validity or enforceability of any
+Patent Controlled by Xencor that is not included in the Xencor Patents.
+
+ 
+
+- 19 -
+
+11.6 Effects of Expiration or Termination.
+
+11.6.1 Upon termination or expiration of this Agreement in its entirety by either Party, the license granted by Xencor to VirBio hereunder
+shall be of no further force or effect.
+
+11.6.2 Within [***] following the termination of this Agreement, each Party shall deliver to the
+other Party any and all Confidential Information of the other Party in its possession, except that each Party shall be entitled to retain a single copy of such Confidential Information for legal archival purposes.
+
+11.7 Survival. Neither expiration nor termination shall relieve either Party of any obligation accruing (including any payment
+obligation) prior to such expiration or termination. The obligations and rights of the parties under Sections 3.4, 8.1, 9.4, 9.6, 11.6, 11.7, 11.8, and 11.9, and ARTICLE 1, ARTICLE 6 (only with
+respect to payments accrued prior to expiration or termination, including ARTICLE 5 to the extent necessary to give effect to the foregoing), ARTICLE 7, ARTICLE 10 (except Section 10.4 only survives for the
+period set forth therein), and ARTICLE 12 (excluding Section 12.3) of this Agreement shall survive expiration or termination of this Agreement.
+
+11.8 Rights in Bankruptcy. All rights and licenses granted under or pursuant to this Agreement by one Party to the other Party are, and
+otherwise will be deemed to be, for purposes of Section 365(n) of the U.S. Bankruptcy Code or comparable provision of applicable bankruptcy or insolvency laws, licenses of right to “intellectual property” as defined under
+Section 101 of the U.S. Bankruptcy Code or comparable provision of applicable bankruptcy or insolvency laws. The Parties agree that a Party that is a licensee of such rights under this Agreement will retain and may fully exercise all of its
+rights and elections under the U.S. Bankruptcy Code or comparable provision of applicable bankruptcy or insolvency laws.
+
+11.9 Damages,
+Relief. Termination of this Agreement shall not preclude either Party from claiming any other damages, compensation or relief that it may be entitled to hereunder.
+
+ARTICLE 12
+
+MISCELLANEOUS
+
+12.1
+Governing Law. The Agreement will be construed and the respective rights of the Parties determined in accordance with the substantive Laws of the State of New York, notwithstanding any provisions of New York Law or any other Law governing
+conflicts of laws to the contrary.
+
+12.2 Arbitration.
+
+12.2.1 Disputes. Except as otherwise expressly set forth in this Agreement, disputes of any nature arising under, relating to, or in
+connection with this Agreement (“Disputes”) will be resolved pursuant to this Section 12.2.
+
+ 
+
+- 20 -
+
+12.2.2 Dispute Escalation. In the event of a Dispute between the Parties, the Parties
+will first attempt to resolve such Dispute by negotiation and consultation between themselves. In the event that such Dispute is not resolved on an informal basis within [***] from receipt of the written notice of a Dispute, either Party, if it
+wishes to pursue resolution of such dispute, shall, by written notice to the other, refer such Dispute to the Executive Officers, who will attempt to resolve such Dispute by negotiation and consultation for a [***] period following receipt of such
+written notice.
+
+12.2.3 Full Arbitration. Except as otherwise expressly set forth in this Agreement, in the event the Parties have
+not resolved such Dispute within [***] of receipt of the written notice referring such Dispute to the Executive Officers, and a Party wishes to pursue further resolution at any time after such [***] period, such Dispute shall be submitted to be
+finally settled by arbitration administered in accordance with the procedural rules of the American Arbitration Association (the “AAA”, and such rules, the “Rules”) in effect at the time of submission, as modified
+by this Section 12.2.3. The arbitration will be governed by the Laws of the State of New York. The arbitration will be heard and determined by three (3) arbitrators selected in accordance with the Rules, provided that
+each such arbitrator will have, to the extent reasonably possible, at least [***], each of whom will be impartial and independent and will not have [***]. Each Party will appoint one (1) arbitrator and the third arbitrator will be selected by
+the two (2) Party-appointed arbitrators, or, failing agreement within [***] following appointment of the second arbitrator, by the AAA in accordance with the Rules. The seat of the arbitration will be [***]. The arbitration award so given will,
+absent manifest error, be a final and binding determination of the Dispute, will be fully enforceable in any court of competent jurisdiction, and will not include any damages expressly prohibited by Section 9.6. [***];
+provided that the [***]. Except to the extent necessary to confirm or enforce an award of the arbitration or as otherwise required by Law or securities exchange, neither Party nor any arbitrator may disclose the existence, content or results of any
+arbitration hereunder without the prior written consent of both Parties. Notwithstanding anything to the contrary in the foregoing, in no event shall an arbitration be initiated after the date when commencement of a legal or equitable proceeding
+based on the dispute, controversy, or claim would be barred by the applicable New York statute of limitations.
+
+12.2.4 Injunctive
+Relief. Notwithstanding the dispute resolution procedures set forth in this Section 12.2, in the event of an actual or threatened breach of this Agreement, the aggrieved Party may seek provisional or temporary equitable relief (including
+restraining orders, specific performance or other injunctive relief), without first submitting to any dispute resolution procedures hereunder. Once the equitable relief proceedings have been conducted and a decision rendered thereon by the court,
+the Parties will, if the Dispute is not finally resolved by the equitable relief, proceed to resolve the Dispute in accordance with the terms of Section 12.2.3.
+
+ 
+
+- 21 -
+
+12.2.5 Tolling. The Parties agree that all applicable statutes of limitation and
+time- based defenses (such as estoppel and laches), as well as all time periods in which a Party must exercise rights or perform obligation hereunder, will be tolled once the dispute resolution procedures set forth in this Section 12.2 have
+been initiated and for so long as they are pending, and the Parties will cooperate in taking all actions reasonably necessary to achieve such resolution. In addition, during the pendency of any Dispute under this Agreement initiated before the end
+of any applicable cure period, including under Section 11.3, (a) this Agreement will remain in full force and effect, (b) the provisions of this Agreement relating to termination for material breach with respect to such Dispute will not be
+effective, (c) the time periods for cure under Section 11.3 as to any termination notice given prior to the initiation of arbitration will be tolled, (d) any time periods to exercise rights or perform obligations will be tolled, and
+(e) neither Party will issue a notice of termination pursuant to this Agreement based on the subject matter of the arbitration, until the arbitral tribunal has confirmed the material breach and the existence of the facts claimed by a Party to
+be the basis for the asserted material breach, provided that [***]. Further, with respect to any time periods that have run during the pendency of the Dispute, the applicable Party will have [***].
+
+12.3 Force Majeure. Neither Party will be held liable to the other Party nor be deemed to have defaulted under or breached this
+Agreement for failure or delay in performing any obligation under this Agreement (other than nonperformance of payment obligations) to the extent that such failure or delay is caused by or results from causes beyond the reasonable control of the
+affected Party, potentially including embargoes, war, acts of war (whether war be declared or not), insurrections, riots, civil commotions, strikes, fire, earthquakes, floods, or other acts of God. The affected Party will notify the other Party of
+such force majeure circumstances as soon as reasonably practical, and will promptly undertake reasonable efforts to cure such force majeure circumstances and resume performance of its obligations hereunder and will keep the other Party reasonably
+informed regarding the status of such circumstances and any efforts related to the cure thereof.
+
+12.4 No Implied Waivers; Rights
+Cumulative. No failure on the part of Xencor or VirBio to exercise, and no delay in exercising, any right, power, remedy or privilege under this Agreement, or provided by statute or at Law or in equity or otherwise, will impair, prejudice or
+constitute a waiver of any such right, power, remedy or privilege or be construed as a waiver of any breach of this Agreement or as an acquiescence therein, nor will any single or partial exercise of any such right, power, remedy or privilege
+preclude any other or further exercise thereof or the exercise of any other right, power, remedy or privilege. Any waiver by a Party of a particular term or condition will be effective only if set forth in a written instrument duly executed by or on
+behalf of the Party waiving such term or condition.
+
+ 
+
+- 22 -
+
+12.5 Independent Contractors. It is expressly agreed that Xencor and VirBio will be
+independent contractors and that the relationship between Xencor and VirBio will not constitute a partnership, joint venture or agency. Xencor will not have the authority to make any statements, representations or commitments of any kind, or to take
+any action, which will be binding on VirBio, without the prior written consent of VirBio, and VirBio will not have the authority to make any statements, representations or commitments of any kind, or to take any action, which will be binding on
+Xencor, without the prior written consent of Xencor.
+
+12.6 Notices. All notices which are required or permitted hereunder will be
+in writing and sufficient if delivered personally, sent by nationally-recognized overnight courier or sent by registered or certified mail, postage prepaid, return receipt requested, addressed as follows:
+
+If to Xencor, to: [***]
+
+With a
+copy to: [***]
+
+If to VirBio, to: [***]
+
+With a copy (which shall
+
+not
+constitute notice) to: [***]
+
+or to such other address as the Party to whom notice is to be given may have furnished to the other Party in writing in
+accordance herewith. Any such notice will be deemed to have been given (a) when delivered if personally delivered on a Business Day (or if delivered or sent on a non- Business Day, then on the next
+Business Day), (b) on the Business Day of receipt if sent by overnight courier, or (c) on the Business Day of receipt if sent by mail.
+
+12.7 Assignment. This Agreement shall not be assignable by either Party to any Third Party without the prior written consent of the
+other Party; except that each Party may assign this Agreement, without the need to obtain the other Party’s consent, (a) to a successor in interest of all or substantially all of the business or assets of such Party pertaining to this
+Agreement, whether by merger, transfer of assets, purchase of all outstanding shares or otherwise; provided that, intellectual property rights (including, without limitation, any Patents or Know-How) of the
+acquiring entity in such a transaction, if other than one of the Parties to this Agreement, shall not be included in the technology licensed hereunder, or (b) to an Affiliate of such Party, provided that, in the case of such an assignment to an
+Affiliate, the assigning Party shall remain liable and responsible to the non-assigning Party hereto for the performance and observance of all such duties and obligations by such Affiliate, and an assignment
+to an Affiliate will terminate, and all rights
+
+ 
+
+- 23 -
+
+so assigned will revert to the assigning Party, if and when such Affiliate ceases to be an Affiliate of the assigning Party. Any assignment in contravention of the foregoing shall be void and of
+no effect. Subject to the foregoing, this Agreement will be binding upon and will inure to the benefit of the Parties and their respective successors and assigns. Any assignment of this Agreement in contravention of this
+Section 12.7 shall be null and void.
+
+12.8 Severability. If any provision hereof should be held invalid,
+illegal or unenforceable in any respect in any jurisdiction, the Parties hereto will substitute, by mutual consent, valid provisions for such invalid, illegal or unenforceable provisions, which valid provisions in their economic effect are
+sufficiently similar to the invalid, illegal or unenforceable provisions that it can be reasonably assumed that the Parties would have entered into this Agreement with such valid provisions. In case such valid provisions cannot be agreed upon, the
+invalid, illegal or unenforceable of one or several provisions of this Agreement will not affect the validity of this Agreement as a whole, unless the invalid, illegal or unenforceable provisions are of such essential importance to this Agreement
+that it is to be reasonably assumed that the Parties would not have entered into this Agreement without the invalid, illegal or unenforceable provisions.
+
+12.9 Counterparts. This Agreement may be executed in one or more counterparts, including by electronic or PDF signature, each of which
+shall be deemed an original, and all of which together, shall constitute one and the same instrument.
+
+12.10 Entire Agreement. This
+Agreement (including any Exhibits and Schedules), contains the entire understanding of the Parties with respect to the subject matter hereof, and supersedes all previous arrangements with respect to the subject matter hereof, whether written or
+oral, including, effective as of the Effective Date, that Mutual Confidential Disclosure Agreement between the Parties dated as of [***] (provided that all information disclosed or exchanged under such agreement will be treated as
+Confidential Information hereunder). This Agreement may be amended, or any term hereof modified, only by a written instrument duly- executed by authorized representatives of both Parties hereto. The Exhibits and Schedules attached hereto may be
+amended, or any term hereof modified, only by a written instrument duly- executed by authorized representatives of both Parties hereto.
+
+12.11 Interpretation. Except where the context expressly requires otherwise, (a) the use of any gender herein will be deemed to
+encompass references to either or both genders, and the use of the singular will be deemed to include the plural (and vice versa), (b) the words “include”, “includes” and “including” will be deemed to be followed by the
+phrase “without limitation” and will not be interpreted to limit the provision to which it relates, (c) the word “shall” will be construed to have the same meaning and effect as the word “will, (d) any definition
+of or reference to any agreement, instrument or other document herein will be construed as referring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified (subject to any restrictions on
+such amendments, supplements or modifications set forth herein), (e) any reference herein to any Person will be construed to include the Person’s successors and assigns, (f) the words “herein”, “hereof” and
+“hereunder”, and words of similar import, will be construed to refer to this Agreement in its entirety, as the context requires, and not to any particular provision hereof, (g) all references herein to Sections, Exhibits or Schedules
+will be construed to refer to Sections, Exhibits or Schedules of this Agreement, and references to this Agreement include all Exhibits and Schedules attached hereto, (h) the word “notice” means notice
+
+ 
+
+- 24 -
+
+in writing (whether or not specifically stated) and will include notices, consents, approvals and other written communications contemplated under this Agreement, (i) provisions that require
+that a Party, the Parties or any committee hereunder “agree”, “consent” or “approve” or the like will require that such agreement, consent or approval be specific and in writing, whether by written agreement, letter,
+approved minutes or otherwise (but excluding e-mail and instant messaging), (j) references to any specific law, rule or regulation, or article, section or other division thereof, will be deemed to include the
+then-current amendments thereto or any replacement or successor law, rule or regulation thereof, and (k) the term “or” will be interpreted in the inclusive sense commonly associated with the term “and/or” unless the context
+dictates otherwise because the subjects of the conjunction are, or are intended to be, mutually exclusive.
+
+12.12 Binding Effect, No
+Third Party Beneficiaries. As of the Effective Date, this Agreement will be binding upon and inure to the benefit of the Parties and their respective permitted successors and permitted assigns. Except as expressly set forth in this Agreement, no
+Person other than the Parties and their respective Affiliates and permitted assignees hereunder will be deemed an intended beneficiary hereunder or have any right to enforce any obligation of this Agreement.
+
+12.13 Waiver of Rule of Construction. Each Party has had the opportunity to consult with counsel in connection with the review,
+drafting and negotiation of this Agreement. Accordingly, the rule of construction that any ambiguity in this Agreement will be construed against the drafting Party will not apply.
+
+12.14 Headings. The captions to the Sections hereof are not a part of this Agreement, but are merely for convenience to assist in
+locating and reading the several Sections hereof.
+
+ 
+
+- 25 -
+
+IN WITNESS WHEREOF, the Parties have caused this Patent License Agreement to be duly
+executed and delivered in duplicate originals as of the Effective Date.
+
+ 
+
+VIR BIOTECHNOLOGY, INC.
+
+ 
+
+ 
+
+XENCOR, INC.
+
+By:
+
+ 
+
+/s/ George Scangos
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Bassil Dahiyat
+
+Name: George Scangos, PhD
+
+ 
+
+ 
+
+Name: Bassil Dahiyat, PhD
+
+Title: Chief Executive Officer
+
+ 
+
+ 
+
+Title: President and Chief Executive Officer
+
+EXHIBIT A
+
+XENCOR PATENTS
+
+Case #
+
+  
+
+Application Number
+
+  
+
+Country
+
+  
+
+Filing Date
+
+  
+
+Patent #
+
+  
+
+Issue Date
+
+  
+
+Title
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+  
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+  
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+Case #
+
+  
+
+Application Number*
+
+  
+
+Country
+
+  
+
+Filing Date
+
+  
+
+Patent #
+
+  
+
+Issue Date
+
+  
+
+Title
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+Case #
+
+  
+
+Application Number
+
+  
+
+Country
+
+  
+
+Filing Date
+
+  
+
+Patent #
+
+  
+
+Issue Date
+
+  
+
+Title
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+Case #
+
+  
+
+Application Number
+
+  
+
+Country
+
+  
+
+Filing Date
+
+  
+
+Patent #
+
+  
+
+Issue Date
+
+  
+
+Title
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+Case #
+
+  
+
+Application Number
+
+  
+
+Country
+
+  
+
+Filing Date
+
+  
+
+Patent #
+
+  
+
+Issue Date
+
+  
+
+Title
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+  
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+Case #
+
+  
+
+Application Number
+
+  
+
+Country
+
+  
+
+Filing Date
+
+  
+
+Patent #
+
+  
+
+Issue Date
+
+  
+
+Title
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+  
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+[***]
+
+  
+
+  
+
+  
+
+[***]
+
+[***]
+
+[***]
+
+EXHIBIT B
+
+APPROVED PRESS RELEASE
+
+Xencor and Vir Biotechnology Enter License Agreement for Use of Xtend™ XmAb® Antibody
+
+Technology in Investigational Antibodies to Treat COVID-19
+
+MONROVIA, Calif.—Mar. 25, 2020— Xencor, Inc. (NASDAQ:XNCR), a clinical-stage biopharmaceutical company developing engineered monoclonal antibodies
+for the treatment of cancer and autoimmune disease, today announced it has entered into a technology license agreement with Vir Biotechnology, Inc., in which Vir will have non-exclusive access to Xencor’s
+Xtend™ Fc technology to extend the half-life of novel antibodies that Vir is investigating as potential treatments for patients with COVID-19, the
+disease caused by the novel coronavirus SARS-CoV-2.
+
+“The COVID-19 crisis requires urgent and coordinated action by the biotechnology industry to develop new drugs and vaccines. Xtend Fc technology has demonstrated, in multiple antibodies and through numerous human
+clinical trials, the ability to extend antibody drug half-life and reduce dosing frequency in patients, an important feature in anti-viral therapy for pandemic use,” said Bassil Dahiyat, Ph.D., president and chief executive officer at Xencor.
+“We are committed to broadly using Xtend technology, and our other XmAb® tools, to rapidly develop potential treatments for COVID-19. Vir’s
+antibody candidates, supported by their deep infectious disease expertise, are a promising approach for treating coronavirus infections.”
+
+Under the
+terms of the agreement, Vir will be solely responsible for the activities and costs related to research, development, regulatory and commercial activities. Financial terms of the agreement were not disclosed. Xencor and Vir previously entered into a
+separate technology license agreement in August 2019, in which Xencor provided a non-exclusive license to Xtend technology for Vir’s use in developing and commercializing antibodies as potential
+treatments for patients with influenza and hepatitis B virus infection.
+
+Xencor continues to evaluate the potential impact of the COVID-19 pandemic on ongoing and planned clinical studies. The Company is currently maintaining preestablished guidance on 2020 corporate milestones and will provide additional updates as needed.
+
+About Xtend™ XmAb® Fc Technology
+
+Xencor’s Xtend™ XmAb® Fc
+domains increase circulating half-life by increasing binding affinity to the receptor FcRn. FcRn is present inside lysosomes in endothelial cells lining the blood vessels and functions to rescue antibodies from the degradation that makes most
+proteins short-lived in circulation. Half-life extension can be exploited to potentially improve therapeutic antibody performance in several ways, such as increasing dosing interval or decreasing drug quantities at the same dosing interval compared
+to a parent antibody. Xtend technology is currently in multiple clinical-stage programs and one approved therapy, Alexion’s Ultomiris®
+(ravulizumab-cwvz).
+
+About Xencor, Inc.
+
+Xencor is a clinical-stage biopharmaceutical company developing engineered monoclonal antibodies for the treatment of cancer and autoimmune diseases.
+Currently, 15 candidates engineered with Xencor’s XmAb® technology are in clinical development internally and with partners. Xencor’s XmAb antibody engineering technology enables
+small changes to the structure of monoclonal antibodies resulting in new mechanisms of therapeutic action. For more information, please visit www.xencor.com.
+
+Xencor Forward-Looking Statements
+
+Statements contained in this press release regarding matters that are not historical facts are forward- looking statements within the meaning of applicable
+securities laws, including, but not limited to, the quotations from Xencor’s president and chief executive officer and any expectations relating to Xencor’s technology, clinical trials, patient outcomes, future product candidates, research
+and development programs, regulatory and commercialization activities, partnering efforts and business. Such statements involve known and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements and
+the timing of events to be materially different from those implied by such statements, and therefore these statements should not be read as guarantees of future performance or results. Such risks include, without limitation, the risks associated
+with the process of discovering, developing, manufacturing and commercializing drugs that are safe and effective for use as human therapeutics and other risks described in Xencor’s public securities filings. For a discussion of these and other
+factors, please refer to Xencor’s annual report on Form 10-K for the year ended December 31, 2019 as well as Xencor’s subsequent filings with the Securities and Exchange Commission. All forward-
+looking statements are based on Xencor’s current information and belief as well as assumptions made by Xencor. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. This
+caution is made under the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. All forward-looking statements are qualified in their entirety by this cautionary statement and Xencor undertakes no obligation to revise or
+update this press release to reflect events or circumstances after the date hereof, except as required by law.
+
+Contacts
+
+Xencor, Inc.
+
+Charles Liles
+
+626-737-8118
+
+cliles@xencor.com
+
+Media Contact
+
+Jason I. Spark
+
+Canale Communications
+
+619-849-6005
+
+jason@canalecomm.com

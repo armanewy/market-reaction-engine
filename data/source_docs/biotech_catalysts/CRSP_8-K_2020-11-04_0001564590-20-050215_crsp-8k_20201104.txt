@@ -1,0 +1,296 @@
+crsp-8k_20201104.htm
+
+false
+0001674416
+00-0000000
+
+0001674416
+
+2020-11-04
+2020-11-04
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 4, 2020
+
+ 
+
+CRISPR THERAPEUTICS AG
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Switzerland
+
+001-37923
+
+Not Applicable
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+Baarerstrasse 14
+
+6300 Zug, Switzerland
+
+ 
+
+Not Applicable
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: +41 (0)41 561 32 77
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Shares, nominal value CHF 0.03
+
+ 
+
+CRSP
+
+ 
+
+The NASDAQ Global Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On November 4, 2020, CRISPR Therapeutics AG, or the Company, issued a press release announcing that a new expanded data set from two ongoing Phase 1/2 clinical trials of the investigational CRISPR/Cas9 gene-editing therapy CTX001TM in severe hemoglobinopathies has been accepted for an oral presentation during the Plenary Scientific Session at the 62nd American Society of Hematology (ASH) Meeting and Exposition, which will take place virtually from December 5-8, 2020. A copy of the press release is attached hereto as Exhibit 99.1.
+
+The information in this Item 7.01 of Form 8-K, including the accompanying Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934 (the “Exchange Act”), or otherwise subject to the liability of such section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, regardless of the general incorporation language of such filing, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01.
+
+Other Events
+
+On November 4, 2020, ASH published online an abstract submitted by the Company and its partner, Vertex Pharmaceuticals Incorporated, that includes new clinical data from two ongoing Phase 1/2 open-label clinical trials of CTX001 in transfusion-dependent beta thalassemia, or TDT, (CLIMB THAL-111) and severe sickle cell disease, or SCD, (CLIMB SCD-121). Available safety and efficacy results from all patients with at least three months of follow-up from both studies as of July 2020 are presented.
+
+ 
+
+Data are presented for five patients with TDT. These patients had a red blood cell transfusion history ranging from 23.5 to 61 units per year. CTX001 post-infusion follow-up data are presented through months 15, 6, 4, 4, and 3, respectively. In the patients with TDT, median neutrophil engraftment occurred on Day 32 (range: 27 to 36) and median platelet engraftment occurred on Day 37 (range: 34 to 52). All patients demonstrated increases in total hemoglobin, or Hb, and fetal hemoglobin, or HbF, over time. Patients with TDT ceased receiving packed red blood cell, or pRBC, transfusions soon after CTX001 infusion, with the last pRBC transfusion occurring between 0.9 and 1.9 months after CTX001 infusion. See Figure A below.
+
+ 
+
+Data are presented for two patients with SCD. These patients had 7 vaso-occlusive crises, or VOCs, per year and 7.5 VOCs per year, respectively, annualized over two years prior to consent. CTX001 post-infusion follow-up data are presented through months 12 and 3, respectively. In the patients with SCD, neutrophil engraftment occurred on Day 30 and Day 22 and platelet engraftment occurred on Day 30 and Day 33, respectively. All patients demonstrated increases in total Hb and HbF over time. Patients with SCD have had no VOCs since CTX001 infusion. See Figure B below.
+
+ 
+
+In all seven patients, the safety profile after CTX001 infusion was generally consistent with busulfan myeloablation. Four serious adverse events, or SAEs, related or possibly related to CTX001 were reported in one patient with TDT: headache, haemophagocytic lymphohistiocytosis, or HLH, acute respiratory distress syndrome, and idiopathic pneumonia syndrome. All four of these SAEs occurred in the context of HLH and were either resolved or clinically improving at the time of this analysis. No other CTX001-related SAEs were reported in the other patients with TDT or in any patients with SCD.
+
+ 
+
+These trials are ongoing and patients will be followed for approximately two years following infusion.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits
+
+ 
+
+ 
+
+ 
+
+Exhibit
+
+Number
+
+ 
+
+Description
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press release issued by CRISPR Therapeutics AG, dated November 4, 2020
+
+ 
+
+ 
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CRISPR THERAPEUTICS AG
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: November 4, 2020
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Samarth Kulkarni
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Samarth Kulkarni, Ph.D.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chief Executive Officer

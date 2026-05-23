@@ -1,0 +1,196 @@
+EX-99.2
+3
+crsp-ex99_2.htm
+EX-99.2
+
+EX-99.2
+
+Exhibit 99.2
+
+Positive Results From Pivotal Trials of exa-cel for Transfusion-Dependent Beta Thalassemia and Severe Sickle Cell Disease Presented at the 2023 Annual European Hematology Association (EHA) Congress
+
+ 
+
+- Both trials met the primary and key secondary endpoints at the pre-specified interim analysis -
+
+- Data continue to demonstrate transformative and durable benefit -
+
+- Safety profile consistent with busulfan conditioning and autologous hematopoietic stem cell transplant –
+
+ 
+
+BOSTON & ZUG, Switzerland--(BUSINESS WIRE)--Jun. 9, 2023-- Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) and CRISPR Therapeutics (Nasdaq: CRSP) today announced that both pivotal trials for exagamglogene autotemcel (exa-cel) in patients with transfusion-dependent beta thalassemia (TDT) or severe sickle cell disease (SCD) met primary and key secondary endpoints at pre-specified interim analyses. The results are being presented at the Annual European Hematology Association (EHA) Congress.
+
+“The updated results from both the TDT and SCD trials are remarkable and bring the promise of an autologous CRISPR/Cas9 gene-edited cell therapy one-step closer to patients who are waiting,” said Carmen Bozic, M.D., Executive Vice President, Global Medicines Development and Medical Affairs, and Chief Medical Officer at Vertex.
+
+“This analysis confirms the potential of exa-cel to render patients transfusion-independent or VOC-free, with significant improvement in their quality of life and physical performance,” said Franco Locatelli, M.D., Ph.D., Professor of Pediatrics at the Sapienza University of Rome, Director of the Department of Pediatric Hematology and Oncology at Bambino Gesù Children’s Hospital. “This therapy offers the potential of a functional cure for patients with transfusion-dependent beta thalassemia or severe sickle cell disease along with a favorable safety profile.”
+
+New Data From Pre-Specified Interim Analyses in exa-cel Pivotal Trials
+
+Both CLIMB-111 and CLIMB-121 met their primary endpoint and key secondary endpoint at the pre-specified interim analysis for each trial. These analyses evaluated the efficacy and safety of exa-cel in patients with TDT or SCD in the ongoing Phase 3 trials as well as in the long-term follow up trial CLIMB-131. The data shared are from 83 patients (48 with TDT and 35 with SCD) dosed with exa-cel with follow-up up to 43.7 months. All patients treated with exa-cel demonstrated clinical benefit, and these data continue to demonstrate the potentially transformative profile of exa-cel.
+
+ 
+
+Efficacy of exa-cel in Patients With Transfusion-Dependent Beta Thalassemia
+
+Of the 48 patients with TDT who had received exa-cel at the time of the analysis, more than half (58.3%) have genotypes associated with severe disease, beta-zero/beta-zero or other beta-zero-like severe genotypes. At the time of the data cut, 27 TDT patients were evaluable for the primary and key secondary endpoint.
+
+•
+24/27 (88.9%) achieved the primary endpoint of transfusion-independence for at least 12 consecutive months (TI12) and the secondary endpoint of transfusion-independence for at least 6 consecutive months (TI6) with a mean weighted hemoglobin of at least 9 g/dL (95% CI: 70.8%, 97.6%; P<0.0001). Mean duration of transfusion-independence was 20.5 months with a maximum of 40.7 months.
+
+o
+Of the 3 patients who did not achieve TI12, one patient has since stopped transfusions and has been transfusion-free for 2.9 months; the remaining 2 patients have had substantial reductions (80% and 96%) in transfusion volume from baseline.
+
+•
+Increases in total hemoglobin occurred early within the first few months and were maintained over time. In the analysis of all patients who received exa-cel, mean total hemoglobin was ≥11g/dL at Month 3 and ≥12g/dL from Month 6 onward with pancellular distribution of fetal hemoglobin.
+
+•
+Mean proportion of edited BCL11A alleles was stable over time in bone marrow and peripheral blood indicating successful permanent editing in the long-term hematopoietic stem cells.
+
+•
+Patients also had clinically significant improvements in patient-reported outcomes.
+
+Efficacy of exa-cel in Patients With Severe Sickle Cell Disease
+
+Of the 35 patients with SCD who had received exa-cel at the time of the analysis, 17 patients were evaluable for the primary and key secondary endpoint at the time of the data cut.
+
+•
+16/17 (94.1%) achieved the primary endpoint of freedom from vaso-occlusive crises (VOCs) for at least 12 consecutive months (VF12) (95% CI: 71.3%, 99.9%; P=0.0001). Mean duration of VOC-free was 18.7 months, with a maximum of 36.5 months. 17/17 (100%) achieved the key secondary endpoint of being free from hospitalizations related to VOCs for at least 12 consecutive months (HF12) (95% CI: 80.5%, 100.0%; P<0.0001).
+
+o
+The one patient who did not achieve VF12 did achieve HF12 and has a complex set of comorbidities, including a history of chronic pain.
+
+o
+One patient who achieved VF12 had a VOC 22.8 months following exa-cel infusion in the setting of a parvovirus infection. This patient has since fully recovered from the infection and been VOC-free.
+
+•
+Increases in fetal hemoglobin and total hemoglobin occurred early, within the first few months, and were maintained over time. In the analysis of all patients who received
+
+ 
+
+exa-cel, mean fetal hemoglobin was more than 30% of total hemoglobin by Month 3 and was then maintained at approximately 40.0% through follow-up, with pancellular distribution.
+
+•
+Mean proportion of edited BCL11A alleles was stable over time in bone marrow and peripheral blood, indicating successful permanent editing in the long-term hematopoietic stem cells.
+
+•
+Patients also had clinically significant improvements in patient-reported outcomes.
+
+Safety of exa-cel in All Patients
+
+The safety profile of exa-cel was generally consistent with myeloablative conditioning with busulfan and autologous hematopoietic stem cell transplant. All patients engrafted neutrophils and platelets after exa-cel infusion.
+
+As previously reported, two TDT patients had serious adverse events (SAEs) considered related to exa-cel. One patient had three SAEs considered related to exa-cel: hemophagocytic lymphohistiocytosis (HLH), acute respiratory distress syndrome and headache, and one SAE of idiopathic pneumonia syndrome that was considered related to both exa-cel and busulfan. All four SAEs occurred in the context of HLH in the peri-engraftment period and have resolved. One patient had SAEs of delayed neutrophil engraftment and thrombocytopenia, both of which were considered related to exa-cel and busulfan, and both SAEs have resolved. Among the 35 patients with SCD, there were no SAEs considered related to exa-cel.
+
+Also as previously reported, one adult patient with SCD developed pneumonia and respiratory failure following SARS-CoV-2 infection, resulting in death. The investigator assessed the events as not related to exa-cel. There were no other deaths or discontinuations, and there have been no malignancies in either study.
+
+These data will be shared as outlined below:
+
+Abstract S270 will be an oral presentation entitled “Transfusion Independence and Elimination of Vaso-Occlusive Crises After Exagamglogene Autotemcel For Transfusion-Dependent Βeta-Thalassemia and Severe Sickle Cell Disease,” on Sunday, June 11 at 11:30 CEST. This presentation will include updated pivotal trial data from patients treated with exa-cel in CLIMB-111 and CLIMB-121 and followed in CLIMB‑131. This abstract was chosen for the media briefing program.
+
+In addition, three health economics abstracts from Vertex have been accepted for poster presentation on Friday, June 9 at 18:00 CEST.
+
+1.
+Abstract P1452 is entitled “Mortality and Clinical Complications Among Patients With Transfusion-Dependent Beta-Thalassemia in Italy.”
+
+ 
+
+2.
+Abstract P1447 is entitled “Mortality and Clinical Complications Among Patients With Sickle Cell Disease With Recurrent Vaso-Occlusive Crises in Italy.”
+
+3.
+Abstract P1464 is entitled “Clinical Complications Among Patients With Transfusion-Dependent Beta-Thalassemia in Germany.”
+
+About exagamglogene autotemcel (exa-cel)
+
+Exa-cel is an investigational, autologous, ex vivo CRISPR/Cas9 gene-edited cell therapy that is being evaluated for patients with SCD or TDT, in which a patient’s own hematopoietic stem cells are edited to produce high levels of fetal hemoglobin (HbF; hemoglobin F) in red blood cells. HbF is the form of the oxygen-carrying hemoglobin that is naturally present during fetal development, which then switches to the adult form of hemoglobin after birth. The elevation of HbF by exa-cel has the potential to reduce or eliminate painful and debilitating VOCs for patients with SCD and alleviate transfusion requirements for patients with TDT. Earlier results from these ongoing trials were published in The New England Journal of Medicine in January of 2021 and presented at the American Society of Hematology Annual Congress in 2022.
+
+Exa-cel has been granted Regenerative Medicine Advanced Therapy (RMAT), Fast Track, Orphan Drug, and Rare Pediatric Disease designations from the U.S. FDA for both TDT and SCD. The FDA has accepted the Biologics License Applications (BLAs) for exa-cel and assigned Prescription Drug User Fee Act (PDUFA) action dates of December 8, 2023, for SCD and March 30, 2024, for TDT.
+
+In the EU, exa-cel has been granted Orphan Drug Designation from the European Commission, as well as Priority Medicines (PRIME) designation from the European Medicines Agency (EMA), for both SCD and TDT. In the U.K., exa-cel has also been granted an Innovation Passport under the Innovative Licensing and Access Pathway (ILAP) from the Medicines Healthcare products Regulatory Agency (MHRA). In Europe, the Marketing Authorization Applications (MAAs) for exa-cel were submitted in December 2022 and validated by the EMA and MHRA in January 2023.
+
+About CLIMB-111 and CLIMB-121
+
+The ongoing Phase 1/2/3 open-label trials, CLIMB-111 and CLIMB-121, are designed to assess the safety and efficacy of a single dose of exa-cel in patients ages 12 to 35 years with TDT or with SCD, characterized by recurrent VOCs, respectively. The trials are now closed for enrollment. Patients will be followed for approximately two years after exa-cel infusion. Each patient will be asked to participate in CLIMB-131, a long-term follow-up trial.
+
+About CLIMB-131
+
+ 
+
+The ongoing long-term, open-label trial, CLIMB-131, is designed to evaluate the safety and efficacy of exa-cel in patients who received exa-cel in CLIMB-111, CLIMB-121, CLIMB-141, CLIMB-151 or CLIMB-161. The trial is designed to follow participants for up to 15 years after exa-cel infusion.
+
+About CLIMB-141 and CLIMB-151
+
+The ongoing Phase 3 open-label trials, CLIMB-141 and CLIMB-151, are designed to assess the safety and efficacy of a single dose of exa-cel in patients ages 2 to 11 years with TDT or with SCD, characterized by recurrent VOCs, respectively. The trials are now open for enrollment and currently enrolling patients ages 5 to 11 years with the plan to extend to ages 2 to less than 5 years at a later date. Each trial will enroll approximately 15 patients. Patients will be followed for approximately two years after infusion. Each patient will be asked to participate in CLIMB-131, a long-term follow-up trial.
+
+About CLIMB-161
+
+The ongoing Phase 3b trial, CLIMB-161, is to support expansion of our manufacturing footprint after initial potential approval and launch. This trial will enroll approximately 12 patients with either TDT or with SCD, characterized by recurrent VOCs, ages 12 to 35 years. Patients will be followed for approximately one year after infusion. Each patient will be asked to participate in CLIMB-131, a long-term follow-up trial.
+
+About the Gene-Editing Process in These Trials
+
+Patients who enroll in these trials will have their own hematopoietic stem and progenitor cells collected from peripheral blood. The patient’s cells will be edited using the CRISPR/Cas9 technology. The edited cells, exa-cel, will then be infused back into the patient as part of an autologous hematopoietic stem cell transplant (HSCT), a process which involves a patient being treated with myeloablative busulfan conditioning. Patients undergoing HSCT may also encounter side effects (ranging from mild to severe) that are unrelated to the administration of exa-cel. Patients will initially be monitored to determine when the edited cells begin to produce mature blood cells, a process known as engraftment. After engraftment, patients will continue to be monitored to track the impact of exa-cel on multiple measures of disease and for safety.
+
+About the Vertex and CRISPR Collaboration
+
+ 
+
+Vertex and CRISPR Therapeutics entered into a strategic research collaboration in 2015 focused on the use of CRISPR/Cas9 to discover and develop potential new treatments aimed at the underlying genetic causes of human disease. ‑Exa-cel represents the first potential treatment to emerge from the joint research program. Under an amended collaboration agreement, Vertex now leads global development, manufacturing and commercialization of exa-cel and splits program costs and profits worldwide 60/40 with CRISPR Therapeutics.
+
+About Vertex
+
+Vertex is a global biotechnology company that invests in scientific innovation to create transformative medicines for people with serious diseases. The company has multiple approved medicines that treat the underlying cause of cystic fibrosis (CF) — a rare, life-threatening genetic disease — and has several ongoing clinical and research programs in CF. Beyond CF, Vertex has a robust clinical pipeline of investigational small molecule, mRNA, cell and genetic therapies (including gene editing) in other serious diseases where it has deep insight into causal human biology, including sickle cell disease, beta thalassemia, APOL1-mediated kidney disease, acute and neuropathic pain, type 1 diabetes and alpha-1 antitrypsin deficiency.
+
+Founded in 1989 in Cambridge, Mass., Vertex's global headquarters is now located in Boston's Innovation District and its international headquarters is in London. Additionally, the company has research and development sites and commercial offices in North America, Europe, Australia and Latin America. Vertex is consistently recognized as one of the industry's top places to work, including 13 consecutive years on Science magazine's Top Employers list and one of Fortune’s 100 Best Companies to Work For. For company updates and to learn more about Vertex's history of innovation, visit www.vrtx.com or follow us on Facebook, Twitter, LinkedIn, YouTube and Instagram.
+
+(VRTX-GEN)
+
+Vertex Special Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, statements made by Carmen Bozic, M.D., and Franco Locatelli, M.D., Ph.D., in this press release, our expectations for the therapeutic value of exa-cel, our plans and expectations to present updated clinical data for exa-cel at EHA, our plans for additional abstracts for poster presentation and publication at EHA, the status of our clinical trials of our product candidates under development by us and our collaborators, including activities at the clinical trial sites, the gene-editing process, patient
+
+ 
+
+enrollment and expectations regarding clinical trial follow-up. While Vertex believes the forward-looking statements contained in this press release are accurate, these forward-looking statements represent the company's beliefs only as of the date of this press release and there are a number of risks and uncertainties that could cause actual events or results to differ materially from those expressed or implied by such forward-looking statements. Those risks and uncertainties include, among other things, that data from a limited number of patients may not be indicative of final clinical trial results, that regulatory authorities may not approve, or approve on a timely basis, the exa-cel applications, that data from the company's development programs, including its programs with its collaborators, may not support registration or further development of its compounds due to safety, efficacy or other reasons, that internal or external factors that could delay, divert, or change our plans and objectives with respect to our exa-cel program, that future competitive or other market factors may adversely affect the commercial potential for exa-cel, and other risks listed under the heading “Risk Factors” in Vertex's most recent annual report and subsequent quarterly reports filed with the Securities and Exchange Commission (SEC) and available through the company's website at www.vrtx.com and on the SEC’s website at www.sec.gov. You should not place undue reliance on these statements or the scientific data presented. Vertex disclaims any obligation to update the information contained in this press release as new information becomes available.
+
+(CRSP-GEN)
+
+About CRISPR Therapeutics
+
+CRISPR Therapeutics is a leading gene editing company focused on developing transformative gene-based medicines for serious diseases using its proprietary CRISPR/Cas9 platform. CRISPR/Cas9 is a revolutionary gene editing technology that allows for precise, directed changes to genomic DNA. CRISPR Therapeutics has established a portfolio of therapeutic programs across a broad range of disease areas including hemoglobinopathies, oncology, regenerative medicine and rare diseases. To accelerate and expand its efforts, CRISPR Therapeutics has established strategic collaborations with leading companies including Bayer, Vertex Pharmaceuticals and ViaCyte, Inc. CRISPR Therapeutics AG is headquartered in Zug, Switzerland, with its wholly-owned U.S. subsidiary, CRISPR Therapeutics, Inc., and R&D operations in Boston, Massachusetts and San Francisco, California, and business offices in London, United Kingdom. For more information, please visit www.crisprtx.com.
+
+ 
+
+CRISPR THERAPEUTICS® word mark and design are trademarks and registered trademarks of CRISPR Therapeutics AG. All other trademarks and registered trademarks are the property of their respective owners.
+
+CRISPR Therapeutics Forward-Looking Statement
+
+This press release may contain a number of “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including statements made by Carmen Bozic, M.D., and Franco Locatelli, M.D., Ph.D., in this press release, as well as statements regarding CRISPR Therapeutics’ expectations about any or all of the following: i) the safety, efficacy and clinical progress of the ongoing exa-cel clinical trials, including expectations regarding the clinical data being presented, the therapeutic value of exa-cel, and our plans to present the clinical data during the EHA Congress; and (ii) the therapeutic value, development, and commercial potential of CRISPR/Cas9 gene editing technologies and therapies. Without limiting the foregoing, the words “believes,” “anticipates,” “plans,” “expects” and similar expressions are intended to identify forward-looking statements. You are cautioned that forward-looking statements are inherently uncertain. Although CRISPR Therapeutics believes that such statements are based on reasonable assumptions within the bounds of its knowledge of its business and operations, existing and prospective investors are cautioned that forward-looking statements are inherently uncertain, are neither promises nor guarantees and not to place undue reliance on such statements, which speak only as of the date they are made. Actual performance and results may differ materially from those projected or suggested in the forward-looking statements due to various risks and uncertainties. These risks and uncertainties include, among others: the potential that data from a limited number of patients may not to be indicative of final or future clinical trial results; the potential that the exa-cel clinical trial results may not be favorable or may not support registration or further development; that future competitive or other market factors may adversely affect the commercial potential for exa-cel; CRISPR Therapeutics may not realize the potential benefits of its collaboration with Vertex; uncertainties regarding the intellectual property protection for CRISPR Therapeutics’ technology and intellectual property belonging to third parties; and those risks and uncertainties described under the heading “Risk Factors” in CRISPR Therapeutics’ most recent annual report on Form 10-K, quarterly report on Form 10-Q, and in any other subsequent filings made by CRISPR Therapeutics with the U.S. Securities and Exchange Commission, which are available on the SEC's website at www.sec.gov. CRISPR Therapeutics disclaims any obligation or undertaking to update or revise any forward-looking statements contained in this press release, other than to the extent required by law.
+
+ 
+
+Vertex Pharmaceuticals Incorporated
+Investors:
+Susie Lisa, +1 617-341-6108
+Or
+Manisha Pai, +1 617-961-1899
+Or
+Miroslava Minkova, +1 617-341-6135
+
+Media:
+mediainfo@vrtx.com
+or
+U.S.: +1 617-341-6992
+or
+Heather Nichols: +1 617-839-3607
+or
+International: +44 20 3204 5275
+
+CRISPR Therapeutics
+Investors:
+Susan Kim, +1 617-307-7503
+susan.kim@crisprtx.com
+
+Media:
+Rachel Eides, +1-617-315-4493
+rachel.eides@crisprtx.com

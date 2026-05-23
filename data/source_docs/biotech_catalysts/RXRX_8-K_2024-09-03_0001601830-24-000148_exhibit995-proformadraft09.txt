@@ -1,0 +1,2786 @@
+EX-99.5
+7
+exhibit995-proformadraft09.htm
+EX-99.5
+
+Document
+
+Exhibit 99.5
+
+UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL INFORMATION
+
+On August 8, 2024, Recursion Pharmaceuticals, Inc. (“Recursion”) entered into a transaction agreement (the “Transaction Agreement”) with Exscientia plc (“Exscientia”) to acquire the entire issued and to be issued share capital of Exscientia pursuant to a scheme of arrangement (the “Scheme of Arrangement”) under Part 26 of the United Kingdom Companies Act 2006 (the “proposed Transaction”).
+
+The following unaudited pro forma condensed combined financial information is based on the historical consolidated financial statements of Recursion and Exscientia and is adjusted to give effect to the proposed Transaction. Under the terms of the Transaction Agreement, upon consummation of the proposed Transaction, Exscientia shareholders will receive 0.7729 shares (the “Exchange Ratio”) of Recursion Class A common stock (“Recursion Shares”) for each Exscientia ordinary share (“Exscientia Share”) issued and outstanding as of the effective time of the proposed Transaction (the “Effective Time”) and cash in lieu of the fractional shares. The Transaction agreement also provides that Recursion will replace all Exscientia equity awards which are outstanding on the date of the consummation of the proposed Transaction, with Recursion equity awards or Recursion Shares, as applicable, based on the Exchange Ratio. Based on a stock price of $7.61 as of August 27, 2024, and the total fair value of Recursion’s replacement share based awards for Exscientia’s legacy incentive awards, the estimated total purchase price is equal to approximately $775.4 million. Upon the close of the proposed Transaction, Recursion stockholders will own approximately 74% of the combined company, and Exscientia shareholders will own approximately 26% of the combined company, in each case on a fully diluted basis based on the number of Exscientia Shares and Recursion Shares outstanding as of August 7, 2024. The combined company will account for the proposed Transaction as a business combination between Recursion and Exscientia using the acquisition method of accounting with Recursion as the accounting acquirer.
+
+The following unaudited pro forma condensed combined balance sheet as of June 30, 2024, and the unaudited pro forma condensed combined statements of operations for the year ended December 31, 2023, and the six months ended June 30, 2024, are presented herein. The unaudited pro forma condensed combined balance sheet combines the unaudited condensed consolidated balance sheets of Recursion and Exscientia as of June 30, 2024 and gives effect to the proposed Transaction as if it occurred on June 30, 2024. The unaudited pro forma condensed combined statements of operations combine the historical results of Recursion and Exscientia for the year ended December 31, 2023 and the six months ended June 30, 2024 and give effect to the proposed Transaction as if it occurred on January 1, 2023.
+
+The historical financial information has been adjusted in the unaudited pro forma condensed combined financial information to give effect to the following adjustments:
+
+•Adjustments to reconcile Exscientia’s historical financial statements prepared in accordance with International Financial Reporting Standards (“IFRS”) as issued by the International Accounting Standards Board (“IASB”) to U.S. Generally Accepted Accounting Principles (“GAAP”) and conversion from Pounds Sterling (“GBP”) to U.S. dollars (“USD”);
+
+•Addressing accounting policy differences and classification and presentation of certain financial information; and
+
+•Application of transaction accounting adjustments and the acquisition method of accounting in connection with the proposed Transaction.
+
+The pro forma adjustments are subject to modification based on the final purchase price which is based on the value of Recursion Shares and the fair value of the replacement Recursion stock options and restricted stock units (“RSUs”) issued at the Effective Time, the final determination of the fair value of the assets acquired and liabilities assumed and additional information that may become available. This may cause the final adjustments to be materially different from the unaudited pro forma condensed combined financial information presented below. Management of Recursion performed a preliminary
+
+review of Exscientia’s accounting policies and did not identify any material adjustments to be made to align accounting policies. Following the consummation of the proposed Transaction, Recursion management will perform a detailed review of Exscientia’s accounting policies in an effort to determine if differences in accounting policies require further adjustment or reclassification of Exscientia’s results of operations or assets or liabilities to conform to Recursion's accounting policies and classification. As a result, Recursion may subsequently identify additional differences in the accounting policies which could have a material impact on the unaudited pro forma condensed combined financial information.
+
+The unaudited pro forma condensed combined financial information presented is for informational purposes only and is not necessarily indicative of the financial position or results of operations that would have been realized if the proposed business combination had been completed on the dates set forth above, nor is it indicative of future results or the financial position of the combined company. The unaudited pro forma condensed combined financial information does not reflect any anticipated synergies or dis-synergies, operating efficiencies or cost savings that may result from the proposed business combination. The pro forma adjustments, which Recursion believes are reasonable under the circumstances, are preliminary and are based upon available information and certain assumptions described in the accompanying notes to the unaudited pro forma condensed combined financial information. Actual results and valuations may differ materially from the assumptions within the accompanying unaudited pro forma condensed combined financial information.
+
+These unaudited pro forma condensed combined financial statements should be read in conjunction with the following:
+
+•The accompanying notes to the unaudited pro forma condensed combined financial information;
+
+•The historical audited consolidated financial statements of Recursion as of and for the year ended December 31, 2023, included in Recursion’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023, filed with the SEC on February 29, 2024;
+
+•The historical unaudited condensed consolidated financial statements of Recursion as of and for the six months ended June 30, 2024, included in Recursion’s Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2024, filed with the SEC on August 8, 2024;
+
+•The historical audited consolidated financial statements of Exscientia as of and for the year ended December 31, 2023, included in Exscientia’s Annual Report on Form 20-F for the fiscal year ended December 31, 2023, filed with the SEC on March 21, 2024; and
+
+•The historical unaudited condensed consolidated financial statements of Exscientia as of and for the three and six months ended June 30, 2024, and 2023 included in Exscientia’s unaudited interim financial information furnished on Form 6-K with the SEC on August 15, 2024.
+
+UNAUDITED PRO FORMA CONDENSED COMBINED BALANCE SHEET
+
+AS OF June 30, 2024
+
+(in thousands of USD)
+
+Historical
+
+Recursion
+
+(U.S. GAAP)
+
+Exscientia
+(IFRS)
+(See Note 3)
+
+Exscientia
+U.S. GAAP Adjustments
+
+Note
+
+Exscientia
+(U.S. GAAP)
+
+Transaction Accounting Adjustments
+
+Note
+
+Pro Forma Combined
+
+Assets
+
+Current assets
+
+Cash and cash equivalents
+
+$
+
+474,341
+
+$
+
+176,109
+
+$
+
+—
+
+$
+
+176,109
+
+$
+
+(2,352)
+
+6A, 6B
+
+$
+
+648,098
+
+Restricted cash
+
+1,783
+
+—
+
+—
+
+—
+
+—
+
+1,783
+
+Short term bank deposits
+
+—
+
+193,970
+
+—
+
+193,970
+
+—
+
+193,970
+
+Trade receivables
+
+—
+
+296
+
+—
+
+296
+
+—
+
+296
+
+Other receivables
+
+2,526
+
+18,539
+
+—
+
+18,539
+
+—
+
+21,065
+
+Current tax assets
+
+—
+
+41,089
+
+—
+
+41,089
+
+—
+
+41,089
+
+Other current assets
+
+43,725
+
+—
+
+—
+
+—
+
+—
+
+43,725
+
+Total current assets
+
+522,375
+
+430,003
+
+$
+
+—
+
+430,003
+
+(2,352)
+
+950,026
+
+Restricted cash, non-current
+
+6,629
+
+—
+
+—
+
+—
+
+—
+
+6,629
+
+Property and equipment, net
+
+83,633
+
+55,715
+
+—
+
+55,715
+
+—
+
+139,348
+
+Other receivables
+
+—
+
+830
+
+—
+
+830
+
+—
+
+830
+
+Deferred tax asset, net
+
+—
+
+947
+
+—
+
+947
+
+1,257
+
+6H
+
+2,204
+
+Operating lease right-of-use assets
+
+44,088
+
+—
+
+18,153
+
+4A
+
+18,153
+
+5,544
+
+6C
+
+67,785
+
+Financing lease right-of-use assets
+
+28,562
+
+22,418
+
+(22,418)
+
+4A
+
+—
+
+—
+
+28,562
+
+Intangible assets, net
+
+38,210
+
+32,530
+
+(3,241)
+
+4B
+
+29,289
+
+366,711
+
+6D
+
+434,210
+
+Goodwill
+
+52,056
+
+7,645
+
+—
+
+7,645
+
+21,352
+
+6E
+
+81,053
+
+Other assets, non-current
+
+308
+
+3,262
+
+139
+
+4C
+
+3,401
+
+—
+
+3,709
+
+Total assets
+
+$
+
+775,861
+
+$
+
+553,350
+
+$
+
+(7,367)
+
+$
+
+545,983
+
+$
+
+392,512
+
+$
+
+1,714,356
+
+Liabilities and stockholders' equity
+
+Current liabilities
+
+Accounts payable
+
+$
+
+3,762
+
+$
+
+9,796
+
+$
+
+—
+
+$
+
+9,796
+
+$
+
+—
+
+$
+
+13,558
+
+Accrued expenses and other liabilities
+
+33,401
+
+32,044
+
+—
+
+32,044
+
+27,085
+
+6A, 6G
+
+92,530
+
+Unearned revenue
+
+32,204
+
+25,552
+
+—
+
+25,552
+
+(8,123)
+
+6K
+
+49,633
+
+Notes payable and financing lease liabilities, current
+
+8,109
+
+5,132
+
+(5,132)
+
+4A
+
+—
+
+—
+
+8,109
+
+Operating lease liabilities
+
+8,607
+
+—
+
+3,486
+
+4A
+
+3,486
+
+370
+
+6C
+
+12,463
+
+Total current liabilities
+
+86,083
+
+72,524
+
+(1,646)
+
+70,878
+
+19,332
+
+176,293
+
+Unearned revenue, non-current
+
+29,169
+
+76,571
+
+—
+
+76,571
+
+—
+
+105,740
+
+Notes payable and financing lease liabilities, non-current
+
+22,921
+
+21,900
+
+(21,522)
+
+4A
+
+378
+
+—
+
+23,299
+
+Operating lease liabilities, non-current
+
+50,239
+
+—
+
+18,253
+
+4A
+
+18,253
+
+1,587
+
+6C
+
+70,079
+
+Deferred tax liabilities
+
+—
+
+6,443
+
+—
+
+6,443
+
+(2,676)
+
+6H
+
+3,767
+
+Other liabilities, non-current
+
+3,000
+
+1,724
+
+—
+
+1,724
+
+—
+
+4,724
+
+Total liabilities
+
+191,412
+
+179,162
+
+(4,915)
+
+174,247
+
+18,243
+
+383,902
+
+Stockholders' equity:
+
+Common stock
+
+3
+
+81
+
+—
+
+81
+
+(80)
+
+6I, 6J
+
+4
+
+Additional paid-in capital
+
+1,740,981
+
+574,929
+
+—
+
+574,929
+
+220,165
+
+6B, 6F, 6I, 6J
+
+2,536,075
+
+Accumulated other comprehensive income (loss)
+
+—
+
+(1,101)
+
+139
+
+4C
+
+(962)
+
+962
+
+6I
+
+—
+
+Accumulated deficit
+
+(1,156,535)
+
+(199,721)
+
+(2,591)
+
+4A, 4B
+
+(202,312)
+
+153,222
+
+6A, 6B, 6F, 6I, 6G
+
+(1,205,625)
+
+Total stockholders' equity
+
+584,449
+
+374,188
+
+(2,452)
+
+371,736
+
+374,269
+
+1,330,454
+
+Total liabilities and stockholders' equity
+
+$
+
+775,861
+
+$
+
+553,350
+
+$
+
+(7,367)
+
+$
+
+545,983
+
+$
+
+392,512
+
+$
+
+1,714,356
+
+UNAUDITED PRO FORMA CONDENSED COMBINED STATEMENT OF OPERATIONS
+
+FOR THE YEAR ENDED December 31, 2023
+
+(in thousands of USD except per share amounts)
+
+Historical
+
+Recursion
+
+(U.S. GAAP)
+
+Exscientia
+(IFRS)
+(See Note 3)
+
+Exscientia
+U.S. GAAP Adjustments
+
+Note
+
+Exscientia
+(U.S. GAAP)
+
+Transaction Accounting Adjustments
+
+Note
+
+Pro Forma Combined
+
+Revenue
+
+Operating revenue
+
+$
+
+43,876
+
+$
+
+24,978
+
+$
+
+—
+
+$
+
+24,978
+
+$
+
+2,951
+
+6K
+
+$
+
+71,805
+
+Grant revenue
+
+699
+
+—
+
+—
+
+—
+
+—
+
+699
+
+Total revenue
+
+44,575
+
+24,978
+
+—
+
+24,978
+
+2,951
+
+72,504
+
+Operating costs and expenses
+
+Cost of revenue
+
+42,587
+
+34,089
+
+—
+
+34,089
+
+19,917
+
+6D
+
+96,593
+
+Research and development
+
+241,226
+
+159,784
+
+$
+
+(5,899)
+
+4D
+
+153,885
+
+$
+
+14,338
+
+6D, 6F
+
+$
+
+409,449
+
+General and administrative
+
+110,822
+
+56,392
+
+(3,335)
+
+4D
+
+53,057
+
+36,159
+
+6A, 6B, 6F, 6G
+
+200,038
+
+Total operating costs and expenses
+
+394,635
+
+250,265
+
+(9,234)
+
+241,031
+
+70,414
+
+706,080
+
+Loss from operations
+
+(350,060)
+
+(225,287)
+
+9,234
+
+(216,053)
+
+(67,463)
+
+(633,576)
+
+Other income, net
+
+17,932
+
+25,567
+
+1,279
+
+4A
+
+26,846
+
+—
+
+44,778
+
+Foreign exchange (losses)/gains
+
+—
+
+(1,917)
+
+—
+
+(1,917)
+
+—
+
+(1,917)
+
+Loss before income tax benefit
+
+(332,128)
+
+(201,637)
+
+10,513
+
+(191,124)
+
+(67,463)
+
+(590,715)
+
+Income tax benefit
+
+4,062
+
+20,059
+
+—
+
+4E
+
+20,059
+
+(1,848)
+
+6H
+
+22,273
+
+Net loss
+
+(328,066)
+
+(181,578)
+
+10,513
+
+(171,065)
+
+(69,311)
+
+(568,442)
+
+Foreign currency (loss)/gain on translation of foreign operations
+
+—
+
+(1,657)
+
+—
+
+(1,657)
+
+—
+
+(1,657)
+
+Comprehensive loss
+
+$
+
+(328,066)
+
+$
+
+(183,235)
+
+$
+
+10,513
+
+$
+
+(172,722)
+
+$
+
+(69,311)
+
+$
+
+(570,099)
+
+Per share data
+
+Net loss per share, basic and diluted
+
+$
+
+(1.58)
+
+$
+
+(1.46)
+
+—
+
+$
+
+—
+
+—
+
+$
+
+(1.83)
+
+Weighted-average shares outstanding, basic and diluted
+
+207,853,702
+
+124,197,000
+
+—
+
+—
+
+98,171,988
+
+6L
+
+309,780,804
+
+UNAUDITED PRO FORMA CONDENSED COMBINED STATEMENT OF OPERATIONS
+
+FOR THE SIX MONTHS ENDED JUNE 30, 2024
+
+(in thousands of USD except per share amounts)
+
+Historical
+
+Recursion
+
+(U.S. GAAP)
+
+Exscientia
+(IFRS)
+(See Note 3)
+
+Exscientia
+U.S. GAAP Adjustments
+
+Note
+
+Exscientia
+(U.S. GAAP)
+
+Transaction Accounting Adjustments
+
+Note
+
+Pro Forma Combined
+
+Revenue
+
+Operating revenue
+
+$
+
+27,895
+
+$
+
+12,282
+
+$
+
+—
+
+$
+
+12,282
+
+$
+
+3,102
+
+6K
+
+$
+
+43,279
+
+Grant revenue
+
+316
+
+—
+
+—
+
+—
+
+—
+
+316
+
+Total revenue
+
+28,211
+
+12,282
+
+—
+
+12,282
+
+3,102
+
+43,595
+
+Operating costs and expenses
+
+Cost of revenue
+
+20,365
+
+19,185
+
+—
+
+19,185
+
+9,958
+
+6D
+
+49,508
+
+Research and development
+
+141,488
+
+61,570
+
+1,774
+
+4D
+
+63,344
+
+8,358
+
+6D, 6F
+
+213,190
+
+General and administrative
+
+63,241
+
+25,593
+
+956
+
+4D
+
+26,549
+
+675
+
+6F
+
+90,465
+
+Total operating costs and expenses
+
+225,094
+
+106,348
+
+2,730
+
+109,078
+
+18,991
+
+353,163
+
+Loss from operations
+
+(196,883)
+
+(94,066)
+
+(2,730)
+
+(96,796)
+
+(15,889)
+
+(309,568)
+
+Other income, net
+
+6,668
+
+16,994
+
+688
+
+4A
+
+17,682
+
+—
+
+24,350
+
+Foreign exchange (losses)/gains
+
+—
+
+1,173
+
+—
+
+1,173
+
+—
+
+1,173
+
+Loss before income tax benefit
+
+(190,215)
+
+(75,899)
+
+(2,042)
+
+(77,941)
+
+(15,889)
+
+(284,045)
+
+Income tax benefit
+
+1,302
+
+3,484
+
+—
+
+4E
+
+3,484
+
+(1,265)
+
+6H
+
+3,521
+
+Net loss
+
+$
+
+(188,913)
+
+$
+
+(72,415)
+
+$
+
+(2,042)
+
+$
+
+(74,457)
+
+$
+
+(17,154)
+
+$
+
+(280,524)
+
+Foreign currency (loss)/gain on translation of foreign operations
+
+—
+
+(1,472)
+
+—
+
+(1,472)
+
+—
+
+(1,472)
+
+Comprehensive loss
+
+$
+
+(188,913)
+
+$
+
+(73,887)
+
+$
+
+(2,042)
+
+$
+
+(75,929)
+
+$
+
+(17,154)
+
+$
+
+(281,996)
+
+Per share data
+
+Net loss per share, basic and diluted
+
+$
+
+(0.79)
+
+$
+
+(0.57)
+
+$
+
+—
+
+$
+
+—
+
+$
+
+—
+
+$
+
+(0.82)
+
+Weighted-average shares outstanding, basic and diluted
+
+239,107,879
+
+126,285,033
+
+—
+
+—
+
+98,171,988
+
+6L
+
+342,088,314
+
+NOTES TO THE UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL INFORMATION
+
+1.Description of Transaction
+
+On August 8, 2024, Recursion and Exscientia entered into the Transaction Agreement. At the time at which the Scheme of Arrangement becomes effective (the “Effective Time”), each share of Exscientia issued and outstanding immediately prior to the Effective Time will automatically be exchanged for 0.7729 fully paid and non-assessable Recursion Shares, and cash in lieu of fractional shares. The Transaction Agreement also provides that Recursion will replace all Exscientia equity awards which are outstanding on the date of the consummation of the proposed Transaction with Recursion equity awards or Recursion Shares, as applicable, based on the Exchange Ratio. Immediately following the Effective Time, Recursion stockholders will own approximately 74% of the combined company, and Exscientia shareholders will own approximately 26% of the combined company, in each case on a fully diluted basis, based on the number of Exscientia Shares and Recursion Shares outstanding as of August 7, 2024.
+
+The proposed Transaction is expected to be accounted for as an acquisition of a business pursuant to Accounting Standards Codification Topic 805 — Business Combinations (“ASC 805”). Recursion is the accounting acquirer and will record assets acquired and liabilities assumed from Exscientia primarily at their respective fair values at the date of completion of the proposed Transaction. To the extent the fair value of the consideration transferred exceeds the fair value of the assets acquired and liabilities assumed, the excess will be recorded as goodwill. Recursion is considered to be the accounting acquirer at closing based on an evaluation of the following facts and circumstances:
+
+•Recursion Shares are issued to effect the acquisition and will remain outstanding.
+
+•The parent company of the combined group will retain the Recursion name.
+
+•The Recursion executive team will continue to serve in their roles subsequent to the proposed Transaction.
+
+•The Recursion Board of Directors will comprise of ten members with the addition of two members from the current Exscientia Board of Directors to the eight members of the Recursion Board of Directors.
+
+•The Recursion stockholders immediately preceding the Effective Time will own approximately 74% of the combined company after the closing of the proposed Transaction based on the number of Exscientia Shares and Recursion Shares outstanding as of August 7, 2024, calculated on a fully diluted basis.
+
+2.Basis of presentation
+
+The unaudited pro forma condensed combined financial statements and related notes are prepared in accordance with Article 11 of Regulation S-X and present the historical financial information of Recursion and Exscientia and present the pro forma effects of the proposed Transaction and certain transaction accounting adjustments described herein. The historical financial information of Recursion has been prepared in accordance with U.S. GAAP and presented in thousands of USD. Exscientia’s historical financial information has been prepared in accordance with IFRS, as issued by the IASB, presented in thousands of GBP and translated to thousands of USD for condensed combined pro forma financial information purposes. As such, certain IFRS to U.S. GAAP adjustments are included in the unaudited pro forma condensed combined financial information as discussed in Note 4 below.
+
+The proposed business combination of Exscientia will be accounted for using the acquisition method of accounting as per the provisions of ASC 805, using the fair value concepts defined in ASC Topic 820 – Fair Value Measurement (“ASC 820”), and based on the historical consolidated financial statements of Recursion and the historical consolidated financial statements of Exscientia. Under ASC 805, all assets acquired, and liabilities assumed in a business combination are generally recognized and measured at their assumed acquisition date fair value, while transaction costs and restructuring costs associated with the business combination are expensed as incurred. The excess of preliminary purchase price over the fair value of assets acquired and liabilities assumed, if any, will be recorded in goodwill or a potential bargain purchase gain if the fair value of assets acquired and liabilities assumed are greater than the preliminary purchase price.
+
+The pro forma adjustments represent management’s best estimates and are based upon available information as of August 27, 2024 and certain assumptions that the management of Recursion believes are reasonable under the circumstances.
+
+The unaudited condensed combined pro forma financial statements are not necessarily indicative of what the combined company’s financial position or results of operations would have been had the proposed Transaction been completed on the dates indicated. In addition, the unaudited pro forma condensed combined financial information does not purport to project the future financial position or operating results of the combined company.
+
+There were no material transactions between Recursion and Exscientia during the periods presented in the unaudited pro forma condensed combined financial statements.
+
+For purposes of preparing the unaudited pro forma condensed combined financial information, the historical financial information of Exscientia and related pro forma adjustments were translated from GBP to USD using the following historical exchange rates as posted by the Federal Reserve:
+
+£ / $
+
+Balance sheet and related adjustments as of June 30, 2024: period end exchange rate as of June 30, 2024
+
+1.264
+
+Statement of operations and related adjustments for the year ended December 31, 2023: average exchange rate for that period
+
+1.244
+
+Statement of operations and related adjustments for the six months ended June 30, 2024: average exchange rate for that period
+
+1.265
+
+3.Reclassifications
+
+Certain reclassifications were made to align Exscientia’s financial statement presentation with that of Recursion’s based on interim unaudited condensed consolidated financial information available June 30, 2024, including the impact of currency conversion.
+
+Exscientia Financial Statement Line
+
+Exscientia Historical (GBP)
+
+Exscientia Historical (USD)
+
+Reclassifications (USD)
+
+Exscientia Historical Reclassified (USD)
+
+Recursion Financial Statement Line
+
+Balance sheet as of June 30, 2024
+
+Current assets
+
+Cash and cash equivalents
+
+139,327
+
+$
+
+176,109
+
+$
+
+—
+
+$
+
+176,109
+
+Cash and cash equivalents
+
+Short term bank deposits
+
+153,457
+
+193,970
+
+—
+
+193,970
+
+Short term bank deposits
+
+Trade receivables
+
+234
+
+296
+
+—
+
+296
+
+Trade receivables
+
+Other receivables
+
+14,667
+
+18,539
+
+—
+
+18,539
+
+Other receivables
+
+Current tax assets
+
+32,507
+
+41,089
+
+—
+
+41,089
+
+Current tax assets
+
+Total current assets
+
+340,192
+
+430,003
+
+$
+
+—
+
+430,003
+
+Non-current assets
+
+Property, plant, and equipment, net
+
+44,078
+
+55,715
+
+—
+
+55,715
+
+Property and equipment, net
+
+Right-of-use assets, net
+
+17,736
+
+22,418
+
+—
+
+22,418
+
+Financing lease right-of-use assets
+
+Other intangible assets, net
+
+25,736
+
+32,530
+
+—
+
+32,530
+
+Intangible assets, net
+
+Goodwill
+
+6,048
+
+7,645
+
+—
+
+7,645
+
+Goodwill
+
+Other receivables
+
+657
+
+830
+
+—
+
+830
+
+Other receivables
+
+Deferred tax asset, net
+
+749
+
+947
+
+—
+
+947
+
+Deferred tax asset, net
+
+Investment in joint venture
+
+436
+
+551
+
+—
+
+551
+
+Other assets, non-current
+
+Investments in equity instruments
+
+2,145
+
+2,711
+
+—
+
+2,711
+
+Other assets, non-current
+
+Total assets
+
+437,777
+
+$
+
+553,350
+
+$
+
+—
+
+$
+
+553,350
+
+Current liabilities
+
+Trade payables
+
+7,750
+
+$
+
+9,796
+
+$
+
+—
+
+$
+
+9,796
+
+Accounts payable
+
+Contract liabilities and other advances
+
+21,986
+
+27,790
+
+(2,238)
+
+25,552
+
+Unearned revenue
+
+—
+
+—
+
+2,238
+
+2,238
+
+Accrued expenses and other liabilities
+
+Lease liabilities
+
+4,060
+
+5,132
+
+—
+
+5,132
+
+Notes payable and financing lease liabilities
+
+Other payables
+
+23,581
+
+29,806
+
+—
+
+29,806
+
+Accrued expenses and other liabilities
+
+Non-current liabilities
+
+—
+
+Contract liabilities and other advances
+
+60,578
+
+76,571
+
+—
+
+76,571
+
+Unearned revenue, non-current
+
+Loans
+
+299
+
+378
+
+—
+
+378
+
+Notes payable and financing lease liabilities, non-current
+
+Lease liabilities
+
+17,027
+
+21,522
+
+—
+
+21,522
+
+Notes payable and financing lease liabilities, non-current
+
+Deferred tax liability, net
+
+5,097
+
+6,443
+
+—
+
+6,443
+
+Deferred tax liabilities
+
+Provisions
+
+1,364
+
+1,724
+
+—
+
+1,724
+
+Other liabilities, non-current
+
+Total liabilities
+
+141,742
+
+179,162
+
+—
+
+179,162
+
+Stockholders’ equity
+
+Share capital
+
+64
+
+81
+
+—
+
+81
+
+Common stock
+
+Share premium
+
+364,658
+
+460,928
+
+—
+
+460,928
+
+Additional paid-in-capital
+
+Capital redemption reserve
+
+3
+
+4
+
+—
+
+4
+
+Additional paid-in-capital
+
+Foreign exchange reserve
+
+(672)
+
+(849)
+
+—
+
+(849)
+
+Accumulated other comprehensive income (loss)
+
+Share-based payment reserve
+
+35,975
+
+45,472
+
+—
+
+45,472
+
+Additional paid-in-capital
+
+Fair value reserve
+
+(199)
+
+(252)
+
+—
+
+(252)
+
+Accumulated other comprehensive income (loss)
+
+Merger Reserve
+
+54,213
+
+68,525
+
+—
+
+68,525
+
+Additional paid-in-capital
+
+Accumulated losses
+
+(158,007)
+
+(199,721)
+
+—
+
+(199,721)
+
+Accumulated deficit
+
+Total equity attributable to owners of the parent
+
+296,035
+
+374,188
+
+—
+
+374,188
+
+Total liabilities and stockholders' equity
+
+437,777
+
+$
+
+553,350
+
+$
+
+—
+
+$
+
+553,350
+
+Exscientia Financial Statement Line
+
+Exscientia Historical (GBP)
+
+Exscientia Historical (USD)
+
+Reclassifications (USD)
+
+Exscientia Historical Reclassified (USD)
+
+Recursion Financial Statement Line
+
+Income statement for the six months ended June 30, 2024
+
+Revenue
+
+9,709
+
+12,282
+
+—
+
+12,282
+
+Operating revenue
+
+Cost of sales
+
+15,166
+
+19,185
+
+—
+
+19,185
+
+Cost of revenue
+
+Research and development expenses
+
+48,672
+
+61,570
+
+—
+
+61,570
+
+Research and development
+
+General and administrative expenses
+
+20,232
+
+25,593
+
+—
+
+25,593
+
+General and administrative
+
+Foreign exchange gains
+
+(927)
+
+(1,173)
+
+—
+
+(1,173)
+
+Foreign exchange gains
+
+Finance income
+
+(7,704)
+
+(9,746)
+
+—
+
+(9,746)
+
+Other income, net
+
+Finance expense
+
+562
+
+711
+
+—
+
+711
+
+Other income, net
+
+Other income
+
+(7,216)
+
+(9,128)
+
+—
+
+(9,128)
+
+Other income, net
+
+Share of loss of joint venture
+
+924
+
+1,169
+
+—
+
+1,169
+
+Other income, net
+
+Income tax benefit
+
+(2,754)
+
+(3,484)
+
+—
+
+(3,484)
+
+Income tax benefit
+
+Loss for the period
+
+(57,246)
+
+(72,415)
+
+—
+
+(72,415)
+
+Foreign currency (loss)/gain on translation of foreign operations
+
+(1,164)
+
+(1,472)
+
+—
+
+(1,472)
+
+Foreign currency (loss)/gain on translation of foreign operations
+
+Exscientia Financial Statement Line
+
+Exscientia Historical (GBP)
+
+Exscientia Historical (USD)
+
+Reclassifications (USD)
+
+Exscientia Historical Reclassified (USD)
+
+Recursion Financial Statement Line
+
+Income statement for the year ended December 31, 2023
+
+Revenue
+
+20,079
+
+24,978
+
+—
+
+24,978
+
+Operating revenue
+
+Cost of sales
+
+27,403
+
+34,089
+
+—
+
+34,089
+
+Cost of revenue
+
+Research and development expenses
+
+128,444
+
+159,784
+
+—
+
+159,784
+
+Research and development
+
+General and administrative expenses
+
+45,331
+
+56,392
+
+—
+
+56,392
+
+General and administrative
+
+Foreign exchange losses
+
+1,541
+
+1,917
+
+—
+
+1,917
+
+Foreign exchange losses
+
+Finance income
+
+(16,628)
+
+(20,685)
+
+—
+
+(20,685)
+
+Other income, net
+
+Finance expense
+
+1,067
+
+1,327
+
+—
+
+1,327
+
+Other income, net
+
+Other income
+
+(6,636)
+
+(8,255)
+
+—
+
+(8,255)
+
+Other income, net
+
+Share of loss of joint venture
+
+1,645
+
+2,046
+
+—
+
+2,046
+
+Other income, net
+
+Income tax benefit
+
+(16,125)
+
+(20,059)
+
+—
+
+(20,059)
+
+Income tax benefit
+
+Loss for the year
+
+(145,963)
+
+(181,578)
+
+—
+
+(181,578)
+
+Foreign currency (loss)/gain on translation of foreign operations
+
+(1,332)
+
+(1,657)
+
+—
+
+(1,657)
+
+Foreign currency (loss)/gain on translation of foreign operations
+
+4.IFRS to U.S. GAAP adjustments
+
+Exscientia’s historical consolidated statement of financial position as of June 30, 2024, and statements of operations for the year ended December 31, 2023, and the six months ended June 30, 2024, have been prepared in conformity with IFRS, as issued by the IASB, which differs in certain material respects from U.S. GAAP. Adjustments were made to Exscientia’s financial statements to convert them from IFRS to U.S. GAAP after evaluating potential areas of differences. Adjustments are initially calculated in GBP and translated to USD based on the exchange rates detailed in Note 2. Any differences between adjustments impacting the unaudited pro forma condensed combined balance sheet and the unaudited pro forma condensed combined statements of operations are due to foreign exchange rates.
+
+A.Represents reductions of $22.4 million, $5.1 million, and $21.5 million to financing lease right of use assets, notes payable and financing lease liabilities, and notes payable and financing lease liabilities, non-current, respectively, to reclassify Exscientia’s lease balances from finance lease classification to operating lease classification. Under IFRS, lessees account for all leases as finance leases. Under U.S. GAAP Exscientia’s
+
+leases would be classified as operating leases with lease expense recognized on a straight-line basis as part of research and development expense or general and administrative expense.
+
+Exscientia’s legacy interest expense for lease liabilities classified as finance expense was removed in amounts totaling $1.3 million and $0.7 million for the year ended December 31, 2023 and the six months ended June 30, 2024, respectively. There was not a material difference between the research and development and general and administrative expense already recognized and the amount to be recognized under U.S. GAAP.
+
+In addition, Exscientia has two leases that are adjusted periodically based on the market rate and, under IFRS, led to a remeasurement of the related operating lease liabilities and operating lease assets. U.S. GAAP, however, does not require the remeasurement of lease liability for changes in market rate adjustments. This resulted in a decrease to the operating lease right-of-use asset, operating lease liabilities, and operating lease liabilities, non-current of $4.2 million, $1.6 million and $3.2 million, respectively, as of June 30, 2024.
+
+B.Represents a reduction of $3.2 million to Exscientia’s intangible asset balance to remove in process research and development capitalized in an asset acquisition. Under U.S. GAAP, in process research and development is not capitalized unless it has an alternative future use in an asset acquisition. Therefore, it has been expensed.
+
+C.Represents an adjustment to Exscientia’s investment in equity securities which is measured at fair value through other comprehensive income; however, under U.S. GAAP, the investment would be measured at its cost less impairment in accordance with ASC 321. The aggregate impact of changes in fair value was reversed with a corresponding adjustment to accumulated other comprehensive income amounting to $0.1 million as of June 30, 2024.
+
+D.Represents an adjustment to Exscientia’s share based compensation expense of $9.2 million and $2.7 million for the year ended December 31, 2023 and the six months ended June 30, 2024, respectively. Under U.S. GAAP, Recursion has elected to recognize expense on a straight line basis over the last vesting tranche for share based awards with only service conditions and to account for forfeitures as they occur rather than apply graded vesting and include estimates of forfeitures. This resulted in adjustments of $5.9 million and $3.3 million to research and development expense and general and administrative expense, respectively, for the year ended December 31, 2023 and $1.8 million and $0.9 million to research and development expense and general and administrative expense, respectively, for the six months ended June 30, 2024.
+
+E.There was no material income tax benefit as a result of IFRS to U.S. GAAP adjustments for either period due to a full valuation allowance position in the United Kingdom.
+
+5.Preliminary purchase price and allocation
+
+Preliminary purchase price
+
+Recursion expects that Exscientia shareholders will be entitled to receive approximately 98.2 million Recursion Shares upon consummation of the proposed Transaction. This assumes that no equity awards will vest or be exercised (as relevant) prior to the consummation of the proposed Transaction. In addition, pursuant to the terms of the Transaction Agreement, Recursion will replace all Exscientia equity awards which are outstanding on the date of the consummation of the proposed Transaction with Recursion equity awards or Recursion Shares, as applicable, based on the Exchange Ratio. This includes Exscientia’s share options and unvested restricted stock awards (including performance-based options, and performance-based awards). Each equity award vesting schedule and other applicable terms will be carried over except for (i) the exercise price of share options which will be adjusted in connection with the Exchange Ratio and (ii) any applicable performance conditions, which will be assessed on or around the date of consummation of the proposed Transaction.
+
+The accompanying unaudited pro forma condensed combined financial statements reflect a preliminary purchase price of approximately $775.4 million, determined as of August 27, 2024, which consists of the following (in thousands, except exchange ratio and share price):
+
+Preliminary purchase price
+
+Exscientia Shares issued and outstanding as of August 27, 2024
+
+127,018
+
+Fixed Exchange Ratio
+
+0.7729
+
+Number of Recursion Shares issued
+
+98,172
+
+Recursion Share price at August 27, 2024
+
+$
+
+7.61 
+
+Preliminary purchase price paid for Exscientia Shares (1)
+
+$
+
+747,089 
+
+Fair value of replacement Recursion Share Options attributable to the purchase price (2)
+
+$
+
+24,471 
+
+Fair value of replacement Recursion RSUs attributable to the purchase price (3)
+
+$
+
+1,314 
+
+Fair value of replacement Recursion Performance Share Options attributable to purchase price (4)
+
+$
+
+1,292 
+
+Fair value of replacement Recursion PSUs attributable to the purchase price (5)
+
+$
+
+1,276 
+
+Total Preliminary Purchase Price
+
+$
+
+775,442 
+
+Fair value of net assets acquired
+
+746,445 
+
+Preliminary Goodwill
+
+$
+
+28,997 
+
+(1)Recursion expects that Exscientia shareholders will be entitled to receive approximately 98.2 million Recursion Shares upon consummation of the proposed Transaction. This assumes that no equity awards will vest or be exercised (as relevant) prior to the consummation of the proposed Transaction. The aggregate fair value of those shares has been estimated using $7.61 per share, which was the last reported sale price of Recursion Shares on The Nasdaq Global Select Market on August 27, 2024. The value of the purchase price will change based on fluctuations in the price of Recursion Shares and the number of Exscientia Shares outstanding at the Effective Time.
+
+(2)Recursion expects that it will issue approximately 6.8 million options for Recursion Shares as replacement awards to holders of outstanding and unexercised options for Exscientia Shares. The aggregate fair value of those replacement awards of $51.6 million has been estimated using the Black Scholes option pricing model. Of that amount, $24.5 million was allocated to purchase consideration, based on the portion of the replacement awards’ fair value attributable to pre-combination employee services, and $27.1 million was allocated to future employee services and will be expensed as stock-based compensation on a straight-line basis over the remaining service periods of those awards.
+
+(3)Recursion expects that it will issue approximately 0.9 million Recursion RSUs as replacement awards to holders of outstanding and unexercised Exscientia RSUs. The aggregate fair value of those replacement awards of $6.7 million has been estimated using the total replacement units and the acquisition date Recursion share price of $7.61. Of that amount, $1.3 million was allocated to purchase consideration, based on the portion of the replacement awards’ fair value attributable to pre-combination employee services, and $5.4 million was allocated to future employee services and will be expensed as stock-based compensation on a straight-line basis over the remaining service periods of those awards.
+
+(4)Recursion expects that it will issue approximately 0.6 million Recursion Shares with an aggregate fair value of $4.5 million in settlement of the Exscientia performance based stock options. Of that amount, $1.3 million was allocated to purchase consideration, based on the portion of the replacement awards’ fair value attributable to pre-combination employee services, and $3.2 million was attributable to Recursion compensation expense.
+
+(5)Recursion expects that it will issue approximately 0.5 million Recursion Shares with an aggregate fair value of $3.6 million in settlement of the Exscientia performance based RSUs. Of that amount, $1.3 million was allocated to purchase consideration, based on the portion of the replacement awards’ fair value attributable to pre-combination employee services, and $2.3 million was attributable to Recursion compensation expense.
+
+The preliminary purchase price does not purport to represent the actual value of the total consideration that will be received by Exscientia’s shareholders when the proposed business combination is completed. In accordance with U.S. GAAP, the fair value of the shares of Recursion issued as part of the consideration will be measured on the closing date at the closing price and the fair value of the replacement Recursion stock options will be estimated using a Black-Scholes model on the closing date (i.e., the grant date). These requirements will likely result in a difference in the purchase price and that difference may be material. A sensitivity analysis related to the fluctuation in the Recursion Share price was performed to assess the impact a hypothetical change of 15% on the closing price of Recursion Shares as of August 27, 2024 would have on the preliminary purchase price and the preliminary pro forma goodwill or bargain purchase gain. The following table shows the change in stock price, preliminary
+
+estimated purchase price and the pro forma goodwill or bargain purchase gain (amounts in thousands, except exchange ratio and share price):
+
++15%
+
+-15%
+
+Potential volatility in the price of Recursion Shares
+
+$
+
+8.75
+
+$
+
+6.47
+
+Fixed Exchange Ratio
+
+0.7729
+
+0.7729
+
+Exscientia’s Shares issued and outstanding as of August 27, 2024
+
+127,018 
+
+$
+
+127,018 
+
+Number of Recursion Shares issued
+
+98,172 
+
+98,172 
+
+Preliminary purchase price paid for Exscientia Shares
+
+$
+
+859,152 
+
+$
+
+635,026 
+
+Fair value of replacement Recursion equity awards attributable to the purchase price
+
+28,353 
+
+28,353 
+
+Total preliminary purchase price
+
+$
+
+887,505 
+
+$
+
+663,379 
+
+Fair value of net assets acquired
+
+746,445 
+
+746,445 
+
+Goodwill / (Bargain purchase gain)
+
+$
+
+141,060 
+
+$
+
+(83,066)
+
+Preliminary purchase price allocation
+
+Recursion’s purchase price allocation for the proposed Transaction is preliminary and subject to revision once the proposed Transaction is complete and as additional information about the fair value of the assets to be acquired and liabilities to be assumed becomes available. In general, due to the nature of certain assets acquired and liabilities assumed, Recursion has determined that the carrying value of these assets and liabilities as of June 30, 2024 approximate their fair value. Recursion has engaged a third-party valuation company to assist it in completing the valuation of certain other assets to be acquired and liabilities to be assumed. However, Recursion has not completed a full, detailed valuation analysis. The preliminary valuation performed is limited to intangible assets i.e., developed technology and in-process research & development. The valuation is based on available financial statement information as of June 30, 2024, consideration of similar transactions, and currently available but limited forecasted financial information. Accordingly, the unaudited pro forma condensed combined financial information includes a preliminary allocation of the purchase price based on assumptions and estimates that, while considered reasonable under the circumstances, are subject to changes, which may be material. Recursion will continue to refine its identification and valuation of assets to be acquired and liabilities to be assumed as further information becomes available.
+
+The final determination of the purchase price allocation will be completed as soon as practicable but not one year beyond the date of the closing date of the proposed Transaction and will be based on the fair values of the assets acquired and liabilities assumed as of the closing date. The final amounts allocated to assets acquired and liabilities assumed could differ significantly from the amounts presented in the unaudited pro forma condensed combined financial information.
+
+The following table sets forth a preliminary allocation of the estimated purchase price to the identifiable tangible and intangible assets acquired and liabilities assumed of Exscientia based on Exscientia’s unaudited interim consolidated balance sheet as of June 30, 2024, with the excess recorded as goodwill (in thousands):
+
+Cash and cash equivalents
+
+$
+
+176,109 
+
+Short term bank deposits
+
+193,970
+
+Other current assets
+
+41,089
+
+18,835
+
+Property and equipment
+
+55,715
+
+Other assets, non-current
+
+6,435
+
+Operating lease right-of-use assets
+
+23,697
+
+Intangible assets
+
+396,000
+
+Total assets acquired
+
+$
+
+911,850
+
+Accounts payable
+
+9,796
+
+Accrued expenses and other liabilities
+
+32,044
+
+Unearned revenue
+
+17,429
+
+Operating lease liabilities
+
+3,856
+
+Unearned revenue, non-current
+
+76,571
+
+Operating lease liabilities, non-current
+
+19,840
+
+Other liabilities, non-current
+
+5,869
+
+Total liabilities assumed
+
+165,405
+
+Net Assets Acquired
+
+$
+
+746,445
+
+Total preliminary estimated purchase price
+
+775,442
+
+Preliminary Goodwill
+
+$
+
+28,997
+
+6.Transaction accounting adjustments
+
+The adjustments included in the unaudited preliminary pro forma condensed combined financial statements are as follows:
+
+A.Represents an adjustment to general and administrative expense to reflect $2.8 million in compensation owed to Exscientia employees based on change in control provisions in pre-existing employment agreements. This resulted in a decrease in cash and cash equivalents of $0.7 million for amounts paid at close and increase to accrued expenses and other liabilities of $2.1 million for amounts paid over an 18-month period with a corresponding adjustment of $2.8 million to accumulated deficit.
+
+B.Represents an adjustment to general and administrative expense to reflect the payment of $1.6 million in cash bonuses and $1.1 million in share based awards expected to be paid by Recursion as retention awards to certain key Exscientia personnel upon closing of the proposed Transaction with corresponding adjustments of $2.7 million to accumulated deficit and $1.1 million to additional paid in capital.
+
+C.Represents an adjustment to the right-of-use assets and lease liabilities for leases acquired as part of the proposed Transaction. Recursion calculated the lease liability based on the remaining lease payments and Recursion’s discount rate as of June 30, 2024. This resulted in an increase to the current lease liability of $0.4 million, presented in Operating lease liabilities, current, and an increase to the noncurrent lease liability of $1.6 million, presented in Operating lease liabilities, non-current with a corresponding increase to the Operating lease right-of-use asset of $5.5 million.
+
+D.Represents an adjustment to eliminate Exscientia’s historical intangible assets of $29.3 million. This adjustment also establishes the fair values of the acquired identifiable intangible assets at a total estimated fair value of $396.0 million, consisting of a developed technology platform asset with a fair value of $239.0 million and IPR&D assets at a fair value of $157.0 million. As noted above, these fair value estimates are preliminary and subject to change once the proposed Transaction is completed.
+
+The fair value of the intangible assets has been estimated based on third-party preliminary studies utilizing currently available but limited financial forecasts and publicly available information from comparable transactions.
+
+The developed technology platform asset has a preliminary estimated useful life of six years. Pro forma amortization expense for the six months ended June 30, 2024 is $9.9 million in research and development expense and $9.9 million in cost of revenue based on the nature of the activities of the platform. Similarly, pro forma amortization expense for the year ended December 31, 2023 is $19.9 million for research and development and $19.9 million for cost of revenue. The adjustment for amortization expense recorded in research and development is $14.2 million, net of $5.7 million of historical amortization expense, and $7.1 million, net of $2.8 million of historical amortization expense, for the year ended December 31, 2023, and the six months ended June 30, 2024, respectively. IPR&D assets have an indefinite life until completion or abandonment of the underlying research projects.
+
+An increase or decrease of 10% in the fair value of the intangible assets acquired would increase or decrease the fair value by $39.6 million with a decrease or increase to goodwill, respectively. With other assumptions held constant, a 10% increase or decrease in the fair value of the intangible assets would increase or decrease the estimated amortization expense by $2.0 million for the six months ended June 30, 2024 and $4.0 million for the year ended December 31, 2023.
+
+E.Represents the adjustment to goodwill, which is calculated as the difference between the fair value of the consideration paid and the estimated fair value of the identifiable tangible and intangible assets acquired and liabilities assumed. The pro forma adjustment to goodwill is calculated as follows:
+
+Estimated goodwill related to this transaction
+
+$
+
+28,997 
+
+Elimination of Exscientia historic goodwill
+
+(7,645)
+
+Pro forma adjustment
+
+$
+
+21,352 
+
+F.Represents the adjustment to eliminate Exscientia’s historical share-based compensation expense and record the incremental share-based compensation expense related to the post-combination expense for the replacement Recursion equity awards, including the acceleration of certain awards related to dual trigger provisions that resulted in approximately $18.5 million of expense to be recorded. The total pro forma share-based compensation expense includes the share-based compensation expense from new share options, RSUs, performance share options, and PSUs which will be issued upon the close of the proposed Transaction. The incremental expense is allocated to each financial statement line item as follows (in thousands):
+
+Year Ended December 31, 2023
+
+Removal of historical Exscientia expense
+
+Post-combination share options expense
+
+Post-combination RSU expense
+
+Post-combination performance share options expense
+
+Post-combination PSU expense
+
+Total Adjustment
+
+Research and development
+
+$
+
+(13,453)
+
+$
+
+11,472 
+
+$
+
+2,124 
+
+$
+
+— 
+
+$
+
+— 
+
+$
+
+143 
+
+General and administrative
+
+(7,605)
+
+6,486 
+
+1,201 
+
+3,220 
+
+2,318 
+
+5,620 
+
+Total share-based compensation expense
+
+$
+
+(21,058)
+
+$
+
+17,958
+
+$
+
+3,325
+
+$
+
+3,220
+
+$
+
+2,318
+
+$
+
+5,763
+
+Six Months Ended June 30, 2024
+
+Removal of historical Exscientia expense
+
+Post-combination share options expense
+
+Post-combination RSU expense
+
+Post-combination performance share options expense
+
+Post-combination PSU expense
+
+Total Adjustment
+
+Research and development
+
+$
+
+(887)
+
+$
+
+1,763 
+
+$
+
+376 
+
+$
+
+— 
+
+$
+
+— 
+
+$
+
+1,252 
+
+General and administrative
+
+(478)
+
+950 
+
+203 
+
+— 
+
+— 
+
+675 
+
+Total share-based compensation expense
+
+$
+
+(1,365)
+
+$
+
+2,713
+
+$
+
+579
+
+$
+
+—
+
+$
+
+—
+
+$
+
+1,927
+
+With other assumptions held constant, an increase or decrease of 15% in the Recursion Share price would increase or decrease the post-close compensation expense by $8.2 million. The total increase or decrease to the expense recognized during the year ended December 31, 2023 and the six months ended June 30, 2024 would be $7.5 million and $0.7 million, respectively.
+
+G.Represents an adjustment to reflect an accrual of additional $25.0 million in transaction costs expected to be incurred by Recursion between July 1, 2024 and the close of the proposed Transaction that are not reflected in the historical financial statements. An immaterial amount of transaction costs has been incurred as of June 30, 2024 and are included in the historical balance sheets and statements of operations of Recursion and Exscientia for the six months ended June 30, 2024.
+
+H.Represents an adjustment to deferred tax assets and deferred tax liabilities for the tax effects of recognizing the preliminary purchase price allocation reflected herein. This resulted in an increase to deferred tax assets of $1.3 million and decrease to deferred tax liabilities of $2.7 million as of June 30, 2024. Further changes from transaction accounting adjustments to loss before income taxes during the year ended December 31, 2023 and the six months ended June 30, 2024 resulted in decreases to the income tax benefit of $1.8 million and $1.3 million, respectively. There was no material income tax benefit as a result of transaction accounting adjustments for either period due to a full valuation allowance position in the United Kingdom.
+
+These adjustments are based on estimates of the fair value of Exscientia’s assets to be acquired, liabilities to be assumed, and the related purchase price allocations. These estimates are subject to further review by Recursion’s and Exscientia’s respective managements, which may result in material adjustments to deferred taxes with an offsetting adjustment to goodwill.
+
+The effective tax rate of the combined company could be significantly different than what is presented in these unaudited pro forma financial statements depending on post-business combination activities, including legal entity restructuring, repatriation decisions, and the geographical mix of taxable income.
+
+I.Represents an adjustment to eliminate Exscientia’s historical equity.
+
+J.Represents the portion of the preliminary purchase price related to the issuance of approximately $98.2 million Recursion Shares to Exscientia shareholders (assuming that no equity awards will vest or be exercised (as relevant) and the fair value of replacement equity awards attributable to the purchase price prior to the consummation of the proposed Transaction), worth approximately $775.4 million. The fair value of a Recursion Share was based on a closing price on August 27, 2024 of $7.61 per share.
+
+K.Represents an adjustment to decrease deferred revenue by $8.1 million related to reflect the application of the Recursion revenue recognition policy that impacted the allocation of transaction price and timing of revenue recognition for certain customer contracts. This resulted in increases to operating revenue of $3.0 million and $3.1 million for the year ended December 31, 2023, and the six months ended June 30, 2024, respectively.
+
+L.Represents an adjustment to the weighted average shares outstanding due to the increase of the number of Recursion Shares outstanding in relation to the proposed Transaction. The detail of the adjustment to the weighted average shares outstanding is as follows (amounts as stated):
+
+Six Months ended June 30, 2024
+
+Year ended December 31, 2023
+
+Number of Recursion Shares issued as preliminary purchase price
+
+98,171,988
+
+98,171,988
+
+Number of Recursion Shares issued for Equity Awards at close and vested throughout the period
+
+4,808,447
+
+3,755,114
+
+Number of Recursion Shares outstanding
+
+239,107,879
+
+207,853,702
+
+Total proforma adjustment to shares used in computing net loss per share, basic and diluted
+
+342,088,314
+
+309,780,804
+
+7.Pro Forma Earnings (Loss) Per Share
+
+The pro forma combined basic and diluted earnings per share have been adjusted to reflect the pro forma net loss for the year ended December 31, 2023 and the six months ended June 30, 2024. In addition, the number of shares used in calculating the pro forma combined basic and diluted net loss per share has been adjusted to reflect the estimated total number of shares of common stock of the combined company that would be outstanding as of the closing date (see Note 6). For the year ended December 31, 2023 and the six months ended June 30, 2024, the pro forma weighted average shares outstanding and proforma net income per share has been calculated as follows:
+
+(in thousands, except per share data)
+
+Six Months ended June 30, 2024
+
+Year ended December 31, 2023
+
+Pro forma net loss
+
+$
+
+(280,524)
+
+$
+
+(568,442)
+
+Total weighted average common shares outstanding
+
+342,088,314
+
+309,780,804
+
+Pro forma basic net loss per share - basic and diluted***
+
+$
+
+(0.82)
+
+$
+
+(1.83)
+
+*** The following potentially dilutive common shares were excluded from the computations of diluted net loss per share for the periods presented because including them would have been anti-dilutive:
+
+Six Months ended June 30, 2024
+
+Year ended December 31, 2023
+
+Recursion stock based compensation
+
+9,230,517 
+
+9,848,141 
+
+Tempus agreement
+
+6,694,934 
+
+1,073,834 
+
+Share options
+
+3,356,961 
+
+5,839,290 
+
+RSUs
+
+528,865 
+
+435,152 
+
+ Total anti-dilutive shares
+
+19,811,277 
+
+17,196,417

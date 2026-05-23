@@ -19,7 +19,11 @@ AMOUNT_RE = re.compile(r"\$?\s*(?P<num>-?\d{1,3}(?:,\d{3})*(?:\.\d+)?|-?\d+(?:\.
 SHARES_RE = re.compile(r"(?P<num>\d{1,3}(?:,\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)\s*(?P<unit>million|mn|m)?\s+shares", re.I)
 PRICE_RE = re.compile(r"\$\s*(?P<num>\d+(?:\.\d+)?)\s+per\s+share", re.I)
 OFFERING_PRICE_RE = re.compile(
-    r"(?:offering price|purchase price|sale price|priced at|at a price of|price of)\s*\$\s*(?P<num>\d+(?:\.\d+)?)\s+per\s+share",
+    r"(?:public offering price|offering price|price to the public|purchase price|sale price|priced at|at a price(?:\s+to\s+the\s+public)?\s+of|price of)\s*(?:of\s*)?\$\s*(?P<num>\d+(?:\.\d+)?)\s+per(?:\s+share)?",
+    re.I,
+)
+PRICE_PER_SHARE_OF_RE = re.compile(
+    r"(?:effective\s+purchase\s+price|purchase\s+price|price)\s+per\s+share\s+of\s*\$\s*(?P<num>\d+(?:\.\d+)?)",
     re.I,
 )
 
@@ -135,6 +139,21 @@ def _valid_money_match(segment: str, match: re.Match[str]) -> bool:
     return _amount_match_has_money_context(segment, match)
 
 
+def _price_match_is_bad_context(segment: str, match: re.Match[str]) -> bool:
+    around = segment[max(0, match.start() - 80) : match.end() + 80].lower()
+    before = segment[max(0, match.start() - 45) : match.start()].lower()
+    after = segment[match.end() : match.end() + 45].lower()
+    if re.search(r"par\s+value\s*$", before) or re.search(r"par\s+value\s*\$?\s*$", before):
+        return True
+    if "exercise price" in before or "exercise price" in after:
+        return True
+    if "exercise price" in around and not any(w in before for w in ["public offering price", "price to the public", "purchase price per share"]):
+        return True
+    if "net tangible book value" in around or "immediate dilution" in around:
+        return True
+    return False
+
+
 def _money(match: re.Match[str], default_unit: str = "") -> float:
     num = float(match.group("num").replace(",", ""))
     unit = (match.group("unit") or default_unit or "").lower()
@@ -219,6 +238,14 @@ def _fact_selection_priority(fact_or_row: CapitalRaiseFact | pd.Series | dict) -
     priority = 0
     if any(w in low for w in ["entered into securities purchase", "public offering price", "gross proceeds", "issued $", "issued and sold"]):
         priority += 30
+    if name == "price_per_share" and any(w in low for w in ["public offering price", "price to the public", "priced its underwritten"]):
+        priority += 40
+    if name == "price_per_share" and any(w in low for w in ["underwriters have agreed to purchase", "purchase price per share to be paid by the underwriters"]):
+        priority -= 15
+    if name == "shares_offered" and any(w in low for w in ["public offering", "issuance and sale", "offering of", "priced its underwritten", "priced its public offering"]):
+        priority += 25
+    if name == "shares_offered" and any(w in low for w in ["up to", "option", "additional", "upon exercise", "warrant shares", "issuable upon"]):
+        priority -= 35
     if "announced the pricing of its offering" in low or "priced $" in low:
         priority += 25
     if name == "convertible_principal" and "issued $" in low and "aggregate principal amount" in low:
@@ -338,16 +365,21 @@ def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
             and "number of shares" not in low
         ):
             facts.append(_fact(doc, "shares_offered", _shares(share_match), "shares", seg, 0.84, "shares_offered_sentence"))
-        price_match = OFFERING_PRICE_RE.search(seg)
-        if not price_match and "par value" not in low and not assumed_math and any(w in low for w in ["offering price", "purchase price", "priced at", "at a price"]):
-            price_match = PRICE_RE.search(seg)
-        if price_match:
+        price_matches = list(OFFERING_PRICE_RE.finditer(seg))
+        price_matches.extend(PRICE_PER_SHARE_OF_RE.finditer(seg))
+        if not price_matches and "par value" not in low and not assumed_math and any(w in low for w in ["offering price", "purchase price", "priced at", "at a price"]):
+            fallback_match = PRICE_RE.search(seg)
+            if fallback_match:
+                price_matches.append(fallback_match)
+        for price_match in price_matches:
             if fee_table or assumed_math or prior_dated_transaction:
-                pass
+                continue
+            elif _price_match_is_bad_context(seg, price_match):
+                continue
             elif "net tangible book value" in low or "immediate dilution" in low:
-                pass
-            elif ("exercise price" in low or "warrant" in low) and not any(w in low for w in ["offering price", "purchase price", "at a price of", "gross proceeds"]):
-                pass
+                continue
+            elif ("exercise price" in low or "warrant" in low) and not any(w in low for w in ["offering price", "purchase price", "price to the public", "at a price of", "gross proceeds"]):
+                continue
             else:
                 confidence = 0.90 if "gross proceeds" in low else 0.86
                 facts.append(_fact(doc, "price_per_share", float(price_match.group("num")), "usd_per_share", seg, confidence, "price_per_share_sentence"))

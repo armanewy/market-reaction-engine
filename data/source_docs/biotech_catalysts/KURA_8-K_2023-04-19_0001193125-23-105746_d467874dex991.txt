@@ -1,0 +1,147 @@
+EX-99.1
+2
+d467874dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+Background:
+
+The menin and
+histone-lysine-N-methyltransferase 2A (KMT2A) protein complex is an essential epigenetic regulator of genes critical for maintenance of multiple genetic subtypes of leukemia. This complex is implicated in NPM1 mutant acute myeloid
+leukemia (AML) (NPM1m, 25-30% of AML) as well as AML with KMT2A gene rearrangements (KMT2Ar; 5-10% of AMLs). The presence of co-mutations in genes such as IDH1/2 and FLT3 portend a poor prognosis, particularly in the relapsed/refractory (R/R) setting. There is high unmet need for the development of agents able to address
+these patient populations.
+
+Aims:
+
+The purpose of the
+Phase (Ph) 1 portion of KOMET-001 (NCT04067336) is to establish the safety, tolerability, and recommended phase 2 dose (RP2D) for ziftomenib monotherapy in NPM1-m and KMT2A-r R/R AML.
+
+Methods:
+
+KOMET-001 is a global, open-label Ph 1/2 study of ziftomenib in adult patients (pts) with R/R AML. The dose escalation
+and randomized, multi-dose expansion in pts with KMT2Ar or NPM1m R/R AML is fully enrolled. The single-arm Ph2 registration-enabling portion evaluating the ziftomenib monotherapy RP2D in pts with
+R/R NPM1m AML is currently enrolling. Ziftomenib is dosed orally, once daily, in 28-day cycles until relapse, progression, or unacceptable toxicity.
+
+Results:
+
+This report provides updates on the Ph 1
+NPM1m pts dosed at the 600mg RP2D (n=20) and on duration of remission (DoR) for a 200mg pt as of 31JAN2023. The median age for pts treated at RP2D was 70.5 years (22 to 86y). FLT3 and IDH1/2 mutations were common (35% FLT3, 30% IDH1/2, and
+20% both co-mutations). Median number of prior therapies was 2.5 (r: 1 to 8), including 15% with ≥1 prior stem cell transplant (SCT) and 60% with prior venetoclax.
+
+The cumulative safety profile for the ziftomenib RP2D is consistent with prior reports. Most (85%) had at least one ≥Gr 3 treatment-emergent adverse
+event (TEAE), with 30% of TEAEs considered potentially treatment-related. The most frequent (>10%) TEAEs ≥ Gr 3 were anemia (25%), pneumonia (20%), thrombocytopenia, neutropenia and hyperglycemia (15% each). Any grade differentiation
+syndrome (DS) was reported in 20%; 5% (n=1) as Gr 3.
+
+As of 31JAN2023, the complete remission (CR) rate for NPM1m pts treated with 600mg was
+30%, composite CR rate (CRc) was 35%, and ORR rate was 40% (see Table 1). The median DoR for pts achieving CRc, which continues to mature, was 8.2 months (m) per Kaplan-Meier estimate (95% CI: 1.5 to NE). One CR was noted at the 200mg dose with
+an ongoing DoR of 32 cycles. Median time to
+
+CR was 70 days (r: 26 to 89). Two pts (1 CR and 1 CR with incomplete hematologic recovery [CRi]) proceeded to SCT and both remain in remission as of the cutoff. Median overall survival for
+NPM1m pts treated with 600mg was 5.1m (95% CI: 2.1 to NE), with a median duration of follow-up of 8.0m. At the cutoff, 57.1% of pts achieving CRc at RP2D remain on treatment or in post-SCT follow-up; those on treatment continue to show evidence of evolving responses.
+
+Summary/Conclusion:
+
+Ziftomenib continues to demonstrate significant clinical activity in heavily pretreated and co-mutated R/R NPM1m
+AML pts. The safety profile remains consistent and the on-target effect of DS continues to be manageable. Data suggest durable remissions as the DoR continues to mature with 5 of 8 pts with CRc ongoing at the
+cutoff. A single-arm registration-directed Ph 2 study is currently accruing to further evaluate ziftomenib monotherapy in R/R NPM1m AML.
+
+Table 1. Response Rates for NPM1-m Patients treated at the Ziftomenib RP2D
+
+ 
+
+CR Rate
+
+  
+
+ 
+
+n (%)
+
+  
+
+6 (30)
+
+95% (CI)
+
+  
+
+(12, 54)
+
+CR/CRH Rate
+
+  
+
+ 
+
+n (%)
+
+  
+
+6 (30)
+
+95% (CI)
+
+  
+
+(12, 54)
+
+CRc Rate (CR+CRh+CRi)
+
+  
+
+ 
+
+n (%)
+
+  
+
+7 (35)
+
+95% (CI)
+
+  
+
+(15, 59)
+
+MRD Negativity Rate¹
+
+  
+
+n (%)
+
+  
+
+3 (43)
+
+95% (CI)
+
+  
+
+(10, 82)
+
+ORR Rate (CR+CRh+CRI+MLFS)
+
+  
+
+ 
+
+n (%)
+
+  
+
+8 (40)
+
+95% (CI)
+
+  
+
+(19, 64)
+
+ 
+
+¹
+
+Five of 7 patients achieving CRc were evaluated for MRD. Of those evaluated, 60% were MRD negative.

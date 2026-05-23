@@ -1,0 +1,297 @@
+8-K
+
+false 0001159036 0001159036 2022-04-12 2022-04-12
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported): April 12, 2022
+
+ 
+
+ 
+
+HALOZYME THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+Commission File Number 001-32335
+
+ 
+
+Delaware
+
+ 
+
+88-0488686
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+11388 Sorrento Valley Road
+
+San Diego
+
+California
+
+ 
+
+92121
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(858) 794-8889
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☒
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value
+
+ 
+
+HALO
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( §230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( §240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+Agreement and Plan of Merger
+
+On April 12, 2022, Halozyme Therapeutics, Inc., a Delaware corporation (“Halozyme”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Antares Pharma, Inc., a Delaware corporation (the “Company”), and Atlas Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Halozyme (“Purchaser”).
+
+Pursuant to the Merger Agreement, on the terms and subject to the conditions thereof, Purchaser will commence a cash tender offer (the “Offer”) to acquire all of the outstanding shares of common stock of the Company, $0.01 par value per share (the “Shares”), at a purchase price of $5.60 per Share in cash (the “Offer Price”), without interest and subject to any withholding of taxes required by applicable legal requirements.
+
+The obligation of Purchaser to purchase Shares tendered in the Offer is subject to the conditions set forth in the Merger Agreement, including (1) that the number of Shares validly tendered in accordance with the terms of the Offer and not validly withdrawn, considered together with all other Shares otherwise beneficially owned by Halozyme or any of its wholly owned subsidiaries (including Purchaser) (but excluding Shares tendered pursuant to guaranteed delivery procedures that have not yet been received, as defined by Section 251(h)(6) of the Delaware General Corporation Law (the “DGCL”)), would represent one more than 50% of the total number of Shares outstanding at the time of the expiration of the Offer, (2) the absence of any injunction or other order issued by a court of competent jurisdiction or law prohibiting consummation of the Offer or the Merger, (3) the expiration or early termination of the applicable waiting period (and any timing agreements, any extensions of any waiting period, any understandings or commitments obtained by request or other action of the U.S. Federal Trade Commission and/or the U.S. Department of Justice, as applicable) under the HSR Act (as defined in the Merger Agreement), (4) the accuracy of the Company’s representations and warranties, subject to certain materiality standards set forth in the Merger Agreement (5) compliance by the Company in all material respects with its obligations under the Merger Agreement and (6) the absence of a Material Adverse Effect (as defined in the Merger Agreement).
+
+Following the completion of the Offer and subject to the satisfaction or waiver of certain conditions set forth in the Merger Agreement, Purchaser will merge with and into the Company, with the Company continuing as the surviving corporation and as a wholly owned subsidiary of Halozyme (the “Merger”). Halozyme, Purchaser and the Company will effect the Merger after consummation of the Offer pursuant to Section 251(h) of the DGCL. At the effective time of the Merger (the “Effective Time”), the Shares then outstanding (other than Shares (1) held by the Company (or in the Company’s treasury), Halozyme or any direct or indirect wholly owned subsidiary of Halozyme (other than Purchaser), or by stockholders of the Company who have properly exercised and perfected their statutory rights of appraisal under Delaware law, or (2) irrevocably accepted for purchase in the Offer) will each be converted into the right to receive an amount in cash equal to the Offer Price (the “Merger Consideration”), without interest and subject to any withholding of taxes required by applicable legal requirements.
+
+Each of the Company’s stock options (the “Company Options”) that is outstanding as of immediately prior to the Effective Time will, to the extent unvested, accelerate and become fully vested and exercisable effective prior to the Effective Time. As of the Effective Time, (1) each Company Option that is outstanding and unexercised as of immediately prior to the Effective Time will be cancelled and converted into the right to receive cash in an amount equal to the total number of Shares subject to such Company Option immediately prior to the Effective Time multiplied by the excess (if any) of the Merger Consideration over the exercise price payable per Share under such Company Option, (2) each performance stock unit award granted pursuant to any of the Company equity plans or otherwise (“Company PSUs”) that is outstanding as of immediately prior to the Effective Time will be cancelled and converted into the right to receive cash in an amount equal to the number of Shares subject to such Company PSU (determined at the target level of performance) multiplied by the Merger Consideration and (3) each restricted stock unit award granted pursuant to any of the Company equity plans or otherwise (“Company RSUs”) that is outstanding as of immediately prior to the Effective Time will be cancelled and converted into the right to receive cash in an amount equal to the number of Shares subject to such Company RSU multiplied by the Merger Consideration.
+
+Representations, Warranties and Covenants
+
+The Merger Agreement includes representations, warranties and covenants of the parties customary for a transaction of this nature. From the date of the Merger Agreement until the earlier of the Effective Time and the termination of the Merger Agreement, the Company has agreed, subject to certain exceptions, to conduct its business in all material respects in the ordinary course and has agreed to certain other operating covenants, as set forth in the Merger Agreement. The Company has also agreed not to directly or indirectly solicit or encourage discussions or negotiations with any third party regarding alternative acquisition proposals. Notwithstanding these restrictions, the Company may under certain circumstances furnish, pursuant to an acceptable confidentiality agreement, information to and engage in or otherwise participate in discussions or negotiations with third parties with respect to a written alternative acquisition proposal if the board of directors of the Company has determined in good faith, after consultation with its financial advisors and outside legal counsel that such alternative acquisition proposal constitutes or could reasonably be expected to lead to a “Superior Offer” (as defined in the Merger Agreement) and that the failure to take any such action would reasonably be expected to be inconsistent with its fiduciary duties under applicable law.
+
+Termination
+
+The Merger Agreement includes a remedy of specific performance for Halozyme, Purchaser and the Company. The Merger Agreement also includes customary termination provisions for both Halozyme and the Company and provides that, in connection with the termination of the Merger Agreement under specified circumstances, including termination by the Company in order to accept and enter into a definitive agreement with respect to a Superior Offer, the Company will be required to pay a termination fee of an amount in cash equal to $33 million. Any such termination of the Merger Agreement by the Company is subject to certain conditions, including the Company’s compliance with certain process and notice requirements.
+
+The foregoing description of the Merger Agreement is not complete and is qualified in its entirety by reference to the Merger Agreement, which is attached as Exhibit 2.1 to this current report and incorporated herein by reference. The Merger Agreement and the foregoing description of the Merger Agreement have been included to provide investors and stockholders with information regarding the terms of the Merger Agreement. The assertions embodied in the representations and warranties contained in the Merger Agreement are qualified by information in confidential disclosure schedules delivered by the Company to Halozyme in connection with the signing of the Merger Agreement. Moreover, certain representations and warranties in the Merger Agreement were made as of a specified date, may be subject to a contractual standard of materiality different from what might be viewed as material to stockholders, or may have been used for the purpose of allocating risk between the parties to the Merger Agreement. Accordingly, the representations and warranties in the Merger Agreement should not be relied on by any persons as characterizations of the actual state of facts and circumstances of Halozyme, the Company or Purchaser, as applicable, at the time they were made and investors should consider the information in the Merger Agreement in conjunction with the entirety of the factual disclosure about Halozyme, the Company or Purchaser in Halozyme’s or the Company’s public reports filed with the SEC, as applicable. Information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in Halozyme’s or the Company’s public disclosures, as applicable.
+
+Debt Commitment Letter
+
+In connection with the Merger Agreement, Halozyme entered into a commitment letter (the “Debt Commitment Letter”) with BofA Securities, Inc. (“BofA Securities”) and Bank of America, N.A. (together with BofA Securities, the “Commitment Parties”) on April 12, 2022, pursuant to which the Commitment Parties have committed to provide a $375 million senior secured term loan and a $75 million revolving credit facility, the proceeds of which, in addition to a portion of Halozyme’s existing cash on hand, would be used to pay the Merger Consideration, refinance the Company’s existing indebtedness and pay any fees and expenses in connection with any of the foregoing. The commitments to provide each of the term loan and revolving credit facility are subject to certain conditions, including the negotiation of definitive documentation for the term loan and revolving credit facility, respectively, and other customary closing conditions consistent with the Merger Agreement. Halozyme will pay customary fees and expenses in connection with obtaining the Debt Commitment Letter, term loan and revolving credit facility and has agreed to indemnify the Commitment Parties if certain losses are incurred by the Commitment Parties in connection therewith.
+
+Item 7.01 Regulation FD Disclosure.
+
+On April 13, 2022, Halozyme and the Company issued a joint press release announcing the execution of the Merger Agreement (the “Press Release”). Also on April 13, 2022, Halozyme held a conference call to discuss, among other things, the announcement of the execution of the Merger Agreement, as well as an investor presentation regarding the same (the “Investor Presentation”). A copy of the Press Release and the Investor Presentation are furnished as Exhibit 99.1 and Exhibit 99.2, respectively, to this Current Report on Form 8-K.
+
+The information set forth under this Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 and Exhibit 99.2, shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that Section. The information in this Current Report on Form 8-K shall not be incorporated by reference into any registration statement or other document pursuant to the Securities Act of 1933, as amended, or the Exchange Act.
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+2.1*
+
+  
+
+Agreement and Plan of Merger, dated as of April 12, 2022, by and among Halozyme Therapeutics, Inc., Atlas Merger Sub, Inc. and Antares Pharma, Inc.
+
+99.1
+
+  
+
+Joint Press Release of Halozyme Therapeutics, Inc. and Antares Pharma, Inc., dated as of April 13, 2022
+
+99.2
+
+  
+
+Investor Presentation of Halozyme Therapeutics, Inc., dated as of April 13, 2022
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+*
+
+Schedules omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company agrees to furnish supplementally a copy of any omitted schedule to the SEC upon request.
+
+Forward-Looking Statements
+
+This current report contains “forward-looking statements”. All statements, other than statements of historical fact, included herein, including without limitation those regarding our future product development and regulatory events and goals, product collaborations, our business intentions and financial estimates and anticipated results, are, or may be deemed to be, forward-looking statements. Words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “seek,” “estimate,” “think,” “may,” “could,” “will,” “would,” “should,” “continue,” “potential,” “likely,” “opportunity,” “project” and similar expressions or variations of such words are intended to identify forward-looking statements, but are not the exclusive means of identifying forward-looking statements in this current report. Although Halozyme’s and the Company’s management each believes that the expectations reflected in such forward-looking statements are reasonable, investors are cautioned that forward-looking information and statements are subject to various risks and uncertainties, many of which are difficult to predict and generally beyond the control of Halozyme and the Company, that could cause actual results and developments to differ materially from those expressed in, or implied or projected by, the forward-looking information and statements. These risks and uncertainties include among other things, risks related to Halozyme’s and the Company’s ability to complete the proposed acquisition on the proposed terms or on the proposed timeline, including the receipt of required regulatory approvals, the possibility that competing offers will be made, other risks associated with executing proposed acquisition, such as the risk that the businesses will not be integrated successfully, that such integration may be more difficult, time-consuming or costly than expected or that the expected benefits of the proposed acquisition will not be realized, risks related to future opportunities and plans for the combined company, including uncertainty of the expected financial performance and results of the combined company following completion of the proposed acquisition, disruption from the proposed acquisition making it more difficult to conduct business as usual or to maintain relationships with customers, employees, manufacturers or suppliers, and the possibility that, if the combined company does not achieve the perceived benefits of the proposed acquisition as rapidly or to the extent anticipated by financial analysts or investors,
+
+the market price of Halozyme’s shares could decline, as well as other risks related Halozyme’s and the Company’s respective businesses, including the ability to grow sales and revenues from existing products and to develop, commercialize or market new products, competition, including potential generic competition, the uncertainties inherent in research and development, including future clinical data and analysis, regulatory obligations and oversight by regulatory authorities, such as the U.S. Food and Drug Administration, including decisions of such authorities regarding whether and when to approve any drug, device or biological application that may be filed for any product candidates as well as decisions regarding labelling and other matters that could affect the availability or commercial potential of any product candidates, the absence of a guarantee that any product candidates, if approved, will be commercially successful, Halozyme’s ability to execute its share repurchase program according to plan, Halozyme’s ability to benefit from external growth opportunities, to complete related transactions and/or obtain regulatory clearances, risks associated with Halozyme’s and the Company’s intellectual property and any related pending or future litigation and the ultimate outcome of such litigation, trends in exchange rates and prevailing interest rates, volatile economic and market conditions, cost containment initiatives and subsequent changes thereto, and the impact that COVID-19 will have on Halozyme and on the Company and their respective customers, suppliers, vendors, and other business partners, and the financial condition of any one of them, as well as on Halozyme’s and the Company’s employees and on the global economy as a whole. Any material effect of COVID-19 on any of the foregoing could also adversely impact Halozyme and the Company. This situation is changing rapidly and additional impacts may arise of which Halozyme and the Company are not currently aware and may exacerbate other previously identified risks. While the list of factors presented here is representative, no list should be considered a statement of all potential risks, uncertainties or assumptions that could have a material adverse effect on Halozyme’s consolidated financial condition or results of operations. The foregoing factors should be read in conjunction with the risks and cautionary statements discussed or identified in the public filings with the U.S. Securities and Exchange Commission (the “SEC”) made by Halozyme, including those listed under “Risk Factors” and “Cautionary Statement Regarding Forward-Looking Statements” in Halozyme’s annual report on Form 10-K for the year ended December 31, 2021 and Antares’ annual report on Form 10-K for the year ended December 31, 2021. The forward-looking statements speak only as of the date hereof and, other than as required by applicable law, Halozyme and the Company do not undertake any obligation to update or revise any forward-looking information or statements. Investors are urged not to place undue reliance on these forward-looking statements, which speak only as of the date of this current report.
+
+About the Offer
+
+The tender offer for the outstanding shares of Company common stock referenced in this current report has not yet commenced. This current report is for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell securities, nor is it a substitute for the tender offer materials that Halozyme and its acquisition subsidiary will file with the SEC, upon the commencement of the tender offer. At the time the tender offer is commenced, Halozyme and its acquisition subsidiary will file a tender offer statement on Schedule TO and thereafter the Company will file a Solicitation/Recommendation Statement on Schedule 14D-9 with the SEC with respect to the tender offer.
+
+THE TENDER OFFER MATERIALS (INCLUDING AN OFFER TO PURCHASE, A RELATED LETTER OF TRANSMITTAL AND CERTAIN OTHER TENDER OFFER DOCUMENTS) AND THE SOLICITATION/RECOMMENDATION STATEMENT ON SCHEDULE 14D-9 WILL CONTAIN IMPORTANT INFORMATION. THE COMPANY’S STOCKHOLDERS ARE URGED TO READ THESE DOCUMENTS CAREFULLY WHEN THEY BECOME AVAILABLE (AS EACH MAY BE AMENDED OR SUPPLEMENTED FROM TIME TO TIME) BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION THAT HOLDERS OF THE COMPANY’S SHARES SHOULD CONSIDER BEFORE MAKING ANY DECISION REGARDING TENDERING THEIR SHARES.
+
+The Offer to Purchase, the related Letter of Transmittal and certain other tender offer documents, as well as the Solicitation/Recommendation Statement, will be made available to all holders of the Company’s stock at no expense to them. The tender offer materials and the Solicitation/Recommendation Statement will be made available for free at the SEC’s website at www.sec.gov. Additional copies may be obtained for free by contacting Halozyme or the Company. Copies of the documents filed with the SEC by the Company will be available free of charge on the Company’s internet website at https://www.antarespharma.com/investors/sec-filings or by contacting the Company’s Investor Relations Department at +1 609-359-3016. Copies of the documents filed with the SEC by Halozyme will be available free of charge on Halozyme’s internet website at https://ir.halozyme.com or by contacting Halozyme’s Investor Relations Department at ir@halozyme.com.
+
+Additional Information
+
+In addition to the Offer to Purchase, the related Letter of Transmittal and certain other tender offer documents, as well as the Solicitation/Recommendation Statement, Halozyme files annual, quarterly and special reports and other information with the SEC and the Company files annual, quarterly and special reports and other information with the SEC. You may read and copy any reports or other information filed by Halozyme and the Company at the SEC public reference room at 100 F. Street, N.E., Washington D.C. 20549. Please call the SEC at 1-800-SEC-0330 for further information on the public reference room. Halozyme’s and the Company’s filings with the SEC are also available to the public from commercial document-retrieval services and at the website maintained by the SEC at www.sec.gov.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+HALOZYME THERAPEUTICS, INC.
+
+April 13, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Mark Snyder
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Mark Snyder
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President, General Counsel and Corporate Secretary

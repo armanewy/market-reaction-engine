@@ -1,0 +1,179 @@
+EX-99.1
+2
+d675282dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+Fate Therapeutics Announces First Lupus Patient Treated in Phase 1 Autoimmunity Study of Off-the-shelf FT819 CAR T-cell Program
+
+Pre-treatment Sample of Patient’s Blood Showed Rapid and Potent Depletion of CD19+ B Cells in
+Ex Vivo Cytotoxicity Assay with FT819
+
+Translational Data from FT819 Phase 1 B Cell Malignancies Study Support Key Therapeutic
+Mechanisms of Activity for B Cell-mediated Autoimmune Diseases
+
+Initial Clinical Observations of FT522 CAR NK Cell Program in Phase
+1 B Cell Lymphoma Study Show Rapid, Deep, and Sustained B Cell Depletion and Enhanced Persistence in the Periphery
+
+San Diego, CA –
+May 9, 2024 – Fate Therapeutics, Inc. (NASDAQ: FATE), a clinical-stage biopharmaceutical company dedicated to bringing a first-in-class
+pipeline of induced pluripotent stem cell (iPSC)-derived cellular immunotherapies to patients with cancer and autoimmune diseases, today announced that the first patient with systemic lupus erythematosus (SLE) has been treated in the Phase 1
+autoimmunity study of FT819, the Company’s off-the-shelf, CD19-targeted chimeric antigen receptor (CAR) T-cell program. In
+addition, at the American Society of Gene and Cell Therapy (ASGCT) 27th Annual Meeting, the Company today presented translational data from the Phase 1 study of FT819 in relapsed / refractory B-cell malignancies (BCM) and initial clinical observations from the Phase 1 study of its FT522 off-the-shelf, CD19-targeted CAR NK
+cell program in relapsed / refractory B-cell lymphoma (BCL). Data from these programs highlight the scientific rationale and demonstrate key therapeutic mechanisms of activity for the treatment of B
+cell-mediated autoimmune disease.
+
+The multi-center, Phase 1 autoimmunity study of FT819 is designed to assess safety, pharmacokinetics, and anti-B cell activity for patients with moderate-to-severe SLE (NCT06308978). The first patient, a 27
+year-old woman diagnosed with SLE over ten years ago who has refractory disease despite having been treated with multiple
+standard-of-care therapies, received conditioning chemotherapy followed by a single dose of FT819 at 360 million cells. The patient was discharged after a three-day hospital stay without any notable adverse events. In a “first-of-kind” translational assessment using a sample of
+the patient’s blood obtained prior to administration of conditioning chemotherapy, FT819 induced rapid and potent depletion of the patient’s CD19+ B cells in an ex vivo cytotoxicity assay.
+
+“The seminal data with autologous CAR-T cell therapy demonstrating early and long-lasting remissions in patients
+with certain B cell-mediated autoimmune diseases is remarkable, and we are very excited to bring potentially novel therapeutic solutions with disease-modifying potential to our patients”, said Jennifer Medlin, M.D., and Principal Investigator
+at the University of Nebraska Medical Center. “These solutions may extend to off-the-shelf cell products, such as FT819, which may have the potential to overcome
+critical challenges that could limit patient access to CAR-T for autoimmune diseases, such as the requirement for apheresis, conditioning chemotherapy, extended hospitalization, and risk of significant adverse
+events including secondary malignancies.”
+
+“We are excited to bring our iPSC product platform and our first product candidates to patients with
+autoimmune diseases, where preclinical and translational data from our off-the-shelf FT819 CAR T-cell program and our FT522 CAR
+NK cell program demonstrate key therapeutic mechanisms of activity for autoimmunity,” said Scott Wolchko, President and Chief Executive Officer of Fate Therapeutics. “We believe these programs have a favorable safety profile, offer patient
+access and convenience, and can deliver the breadth and depth of B cell depletion necessary to induce immune reset in patients with B-cell mediated autoimmune diseases.”
+
+Translational Data for FT819 iPSC-derived CAR T-cell Program
+
+FT819 is the Company’s off-the-shelf, CD19-targeted, 1XX CAR T-cell product candidate comprised of CD8αb+ T cells with a memory phenotype and high CXCR4 expression to promote tissue trafficking. Translational data presented
+today at ASGCT from the Company’s Phase 1 BCM study show that a single dose of FT819 exhibited multiple therapeutic mechanisms implicated in generating an immune reset in patients with B cell-mediated autoimmune disease. Clinical data
+highlighted today at ASGCT include:
+
+ 
+
+ 
+
+•
+
+ 
+
+Blood samples taken from 23 patients treated for relapsed / refractory B cell lymphoma showed rapid and deep
+CD19+ B cell depletion, with sustained suppression of B cells, in the periphery during the initial 30-day period following administration of standard conditioning chemotherapy and FT819;
+
+ 
+
+ 
+
+•
+
+ 
+
+Patient case studies demonstrating secondary and tertiary tissue trafficking, infiltration, and activity, with
+complete elimination of CD19+ cells in tissue; and
+
+ 
+
+ 
+
+•
+
+ 
+
+Patient case studies of plasma cell depletion and B-cell reconstitution
+showing recovery of naïve and immature phenotypes, with little to no recovery of activated memory B cells or plasmablasts.
+
+Notably,
+the Company also presented patient case studies demonstrating the capacity of FT819 to induce rapid, deep, and sustained B-cell depletion without the use of fludarabine as a conditioning agent. Collectively,
+these data support the potential of FT819 to reset the immune system of patients with autoimmune diseases, including as an add-on therapy to commonly-used treatment regimens. The presentation is available on
+the Company’s website here.
+
+Preclinical and Initial Clinical Observations for FT522 iPSC-derived CAR NK Cell Program Data
+
+FT522 is the Company’s off-the-shelf, CD19-targeted CAR NK cell product
+candidate and its first to incorporate a novel alloimmune defense receptor (ADR), which is designed to increase the potency of off-the-shelf cell therapy and enable
+effective treatment without administration of conditioning chemotherapy to patients. Data highlighted today at ASGCT include:
+
+ 
+
+ 
+
+•
+
+ 
+
+In a novel re-challenge assay using peripheral blood mononuclear cells
+(PBMCs) from unmatched SLE donors, FT522 uniquely drove rapid and deep CD19+ B cell depletion, eliminated alloreactive T cells, and maintained functional persistence, indicating that FT522 can function effectively in the presence of an unmatched
+host immune system;
+
+ 
+
+ 
+
+•
+
+ 
+
+In a preclinical in vivo biodistribution study, FT522 showed dose-dependent trafficking, infiltration, and
+residency in secondary and tertiary tissues without cytokine support at human dose equivalency levels of 250 million cells per dose and 1 billion cells per dose (based on 20 gram mouse and 65 kilogram human allometric conversion); and
+
+ 
+
+•
+
+ 
+
+In initial clinical observations from the Company’s ongoing Phase 1 BCL study, the first two patients
+treated with FT522 showed rapid, deep, and sustained B-cell depletion in the periphery throughout the one-month treatment cycle. In addition, both patients showed
+enhanced persistence of FT522 in the periphery compared to clinical data observed with FT596, a prior-generation CD19-targeted CAR NK cell without ADR technology.
+
+The Company intends to submit an Investigational New Drug (IND) application to the U.S. Food and Drug Administration (FDA) in the middle of 2024 for the
+treatment of various autoimmune diseases with FT522, including without administration of conditioning chemotherapy to patients. The presentation is available on the Company’s website here.
+
+About Fate Therapeutics’ iPSC Product Platform
+
+Human induced pluripotent stem cells (iPSCs) possess the unique dual properties of unlimited self-renewal and differentiation potential into all cell types of
+the body. The Company’s proprietary iPSC product platform combines multiplexed-engineering of human iPSCs with single-cell selection to create clonal master iPSC lines. Analogous to master cell lines used to mass produce biopharmaceutical drug
+products such as monoclonal antibodies, the Company utilizes its clonal master iPSC lines as a starting cell source to manufacture engineered cell products which are well-defined and uniform in composition, can be stored in inventory for off-the-shelf availability, can be combined and administered with other therapies, and can potentially reach a broad patient population. As a result, the Company’s
+platform is uniquely designed to overcome numerous limitations associated with the manufacture of cell therapies using patient- or donor-sourced cells. Fate Therapeutics’ iPSC product platform is supported by an intellectual property portfolio
+of over 500 issued patents and 500 pending patent applications.
+
+About Fate Therapeutics, Inc.
+
+Fate Therapeutics is a clinical-stage biopharmaceutical company dedicated to bringing a
+first-in-class pipeline of induced pluripotent stem cell (iPSC)-derived cellular immunotherapies to patients with cancer and autoimmune diseases. Using its proprietary
+iPSC product platform, the Company has established a leadership position in creating multiplexed-engineered master iPSC lines and in the manufacture and clinical development of
+off-the-shelf, iPSC-derived cell products. The Company’s pipeline includes iPSC-derived natural killer (NK) cell and T-cell
+product candidates, which are selectively designed, incorporate novel synthetic controls of cell function, and are intended to deliver multiple therapeutic mechanisms to patients. Fate Therapeutics is headquartered in San Diego, CA. For more
+information, please visit www.fatetherapeutics.com.
+
+Forward-Looking Statements
+
+This release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 including statements
+regarding the advancement of and plans related to the Company’s product candidates, clinical studies and preclinical research and development programs, the Company’s progress, plans and timelines for the clinical investigation of
+its product candidates, including the initiation and continuation of enrollment in the Company’s clinical trials, the timing and availability of data from the Company’s clinical trials, the therapeutic and market potential of the
+Company’s research and development programs and product candidates, and the potential capabilities and benefits of the Company’s iPSC product
+
+platform. These and any other forward-looking statements in this release are based on management’s current expectations of future events and are subject to a number of risks and
+uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to, the risk that the Company’s
+research and development programs and product candidates, including those product candidates in clinical investigation, may not demonstrate the requisite safety, efficacy, or other attributes to warrant further development or to achieve regulatory
+approval, the risk that results observed in prior studies of the Company’s product candidates, including preclinical studies and clinical trials, will not be observed in ongoing or future studies involving these product candidates, the risk of
+a delay or difficulties in the manufacturing of the Company’s product candidates or in the initiation and conduct of, or enrollment of patients in, any clinical trials, the risk that the Company may cease or delay preclinical or clinical
+development of any of its product candidates for a variety of reasons (including requirements that may be imposed by regulatory authorities on the initiation or conduct of clinical trials, changes in the therapeutic, regulatory, or competitive
+landscape for which the Company’s product candidates are being developed, the amount and type of data to be generated or otherwise to support regulatory approval, difficulties or delays in patient enrollment and continuation in the
+Company’s ongoing and planned clinical trials, difficulties in manufacturing or supplying the Company’s product candidates for clinical testing, failure to demonstrate that a product candidate has the requisite safety, efficacy, or other
+attributes to warrant further development, and any adverse events or other negative results that may be observed during preclinical or clinical development), and the risk that its product candidates may not produce therapeutic benefits or may cause
+other unanticipated adverse effects. For a discussion of other risks and uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the
+risks and uncertainties detailed in the Company’s periodic filings with the Securities and Exchange Commission, including but not limited to the Company’s most recently filed periodic report, and from time to time in the Company’s
+press releases and other investor communications. Fate Therapeutics is providing the information in this release as of this date and does not undertake any obligation to update any forward-looking statements contained in this release as a result of
+new information, future events or otherwise.
+
+Contact:
+
+Christina Tartaglia
+
+Stern Investor Relations, Inc.
+
+212.362.1200
+
+christina.tartaglia@sternir.com

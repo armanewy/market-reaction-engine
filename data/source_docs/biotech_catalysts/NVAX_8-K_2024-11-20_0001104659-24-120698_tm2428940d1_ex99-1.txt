@@ -1,0 +1,626 @@
+EX-99.1
+2
+tm2428940d1_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+Investor
+Presentation
+© 2024 NOVAVAX. All rights reserved. 1
+NASDAQ: NVAX | NOVEMBER 2024
+
+2
+Cautionary note regarding forward-looking statements
+© 2024 NOVAVAX. All rights reserved.
+This presentation includes forward-looking statements. These forward-looking statements generally can be identified by the use of words such as “anticipate,” “expect,” “plan,”
+“could,” “may,” “will,” “believe,” “estimate,” “forecast,” “goal,” “project,” and other words of similar meaning. These forward-looking statements address various matters including
+Novavax’s corporate strategy and operating plans, objectives and prospects; its value drivers and near-term priorities; its partnerships, including expectations with respect to potential
+royalties, milestones, and cost reimbursement, and plans for additional potential partnering activities; its expectations regarding manufacturing capacity, timing, production and
+delivery for its COVID-19 vaccine; the development of Novavax’s clinical and preclinical product candidates and innovation expansion opportunities; the conduct, timing and
+potential results from clinical trials and other preclinical studies; scope, timing and outcome of future and pending regulatory filings and actions; potential market sizes and demand for
+its COVID-19 vaccine and product candidates; full year 2024 financial guidance; expected combined annual R&D and SG&A expenses for 2025 and 2026; the amount and impact of
+Novavax’s cost reduction plans; Novavax’s future financial or business performance; plans with respect to Novavax’s existing advanced purchase agreements; and the potential sale
+of its Czech Republic manufacturing facility.
+Novavax cautions that these forward-looking statements are subject to numerous risks and uncertainties that could cause actual results to differ materially from those expressed or
+implied by such statements. These risks and uncertainties include, without limitation, Novavax’s ability to successfully and timely manufacture, market, distribute, or deliver its updated
+2024-2025 formula COVID-19 vaccine and the impact of its not having received a BLA from the FDA for the 2024-2025 vaccination season; challenges related to Novavax’s partnership
+with Sanofi and in pursuing additional partnership opportunities; challenges satisfying, alone or together with partners, various safety, efficacy, and product characterization
+requirements, including those related to process qualification, assay validation and stability testing, necessary to satisfy applicable regulatory authorities; challenges or delays in
+conducting clinical trials or studies for its product candidates, including increased costs associated with the Phase 3 trial for our CIC and stand-alone influenza vaccine candidates;
+challenges or delays in obtaining regulatory authorization for its product candidates, including for future COVID-19 variant strain changes, its CIC vaccine candidate, its stand-alone
+influenza vaccine candidate or other product candidates; manufacturing, distribution or export delays or challenges; Novavax’s substantial dependence on Serum Institute of India
+Pvt. Ltd. and Serum Life Sciences Limited for co-formulation and filling Novavax’s COVID-19 vaccine and the impact of any delays or disruptions in their operations; difficulty obtaining
+scarce raw materials and supplies including for its proprietary adjuvant; resource constraints, including human capital and manufacturing capacity; constraints on Novavax’s ability to
+pursue planned regulatory pathways, alone or with partners; challenges in implementing its global restructuring and cost reduction plan; challenges in obtaining commercial adoption
+and market acceptance of its updated 2024-2025 formula COVID-19 vaccine or any COVID-19 variant strain containing formulation, or for its CIC vaccine candidate and stand-alone
+influenza vaccine candidate or other product candidates; challenges meeting contractual requirements under agreements with multiple commercial, governmental, and other
+entities, including requirements to deliver doses that may require Novavax to refund portions of upfront and other payments previously received or result in reduced future payments
+pursuant to such agreements and challenges in amending or terminating such agreements; challenges related to the seasonality of vaccinations against COVID-19; challenges
+related to the demand for vaccinations against COVID-19 or influenza; challenges in identifying and successfully pursuing innovation expansion opportunities; Novavax’s expectations
+as to expenses and cash needs may prove not to be correct for reasons such as changes in plans or actual events being different than its assumptions; and the risks identified under
+the heading “Risk Factors” in Novavax' most recent Annual Report on Form 10-K and subsequent Quarterly Reports on Form 10-Q, as well as subsequent filings with the Securities and
+Exchange Commission. Novavax cautions investors not to place considerable reliance on the forward-looking statements contained in this presentation. Investors are encouraged to
+read Novavax’ filings with the Securities and Exchange Commission, available at www.sec.gov and on our website at www.novavax.com, for a discussion of these and other risks and
+uncertainties.
+The forward-looking statements in this presentation speak only as of the date of this presentation, and we undertake no obligation to update or revise any of these statements. Our
+business is subject to substantial risks and uncertainties, including those referenced above. Investors, potential investors, and others should give careful consideration to these risks and
+uncertainties.
+NovavaxTM (and all associated logos) is a trademark of Novavax, Inc. Matrix-MTM is a trademark of Novavax AB.
+
+3
+Non-GAAP financial measures
+© 2024 NOVAVAX. All rights reserved.
+The Company has used a non-GAAP financial measure in this presentation, which is adjusted combined R&D and SG&A expenses, net of Sanofi reimbursement costs under the Sanofi
+Agreement. Non-GAAP financial measures refer to financial information adjusted from financial measures prepared in accordance with accounting principles generally accepted in
+the United States (GAAP). The Company believes that the presentation of this adjusted financial measure is useful to investors as it provides additional information on comparisons
+between periods by including certain items that affect overall comparability. The Company uses this non-GAAP financial measure for business planning purposes and to consider
+underlying trends of its business and believes presenting this measure also provides useful information to investors and others for understanding and evaluating trends in the Company’s
+expenses in the same manner as the Company’s management. Non-GAAP financial measures should be considered in addition to, and not as an alternative for, the Company’s
+reported results prepared in accordance with GAAP. The use of this non-GAAP financial measure may differ from similar measures reported by other companies and may not be
+comparable to other similarly titled measures.
+
+Company
+SECTION
+Overview
+© 2024 NOVAVAX. All rights reserved. 4
+
+jdsfm
+5
+© 2024 NOVAVAX. All rights reserved.
+Novavax value framework
+Four pillars of potential value creation based on a validated technology platform
+Lean and Agile Operating Model
+Value Driver #1
+Sanofi partnership
+Value Driver #2
+Late-stage
+pipeline
+Value Driver #3
+Leverage our
+proven
+technology
+platform to drive
+additional
+partnerships and
+deals
+Value Driver #4
+Emerging, early-stage pipeline
+
+Novavax’s proven technology platform
+© 2024 NOVAVAX. All rights reserved. 6
+• Induces broad, robust neutralizing response2
+• Long-lived polyfunctional CD4+ cellular
+response2
+• Antigen sparing2
+• Large safety database that includes use in
+approved vaccines2,3
+• Reactogenicity consistent with licensed
+vaccines2,3
+Matrix-M Adjuvant
+Technology
+Performance Characteristics
+Stimulates the entry of antigen presenting cells
+(APCs) into the injection site and enhances
+antigen presentation in local lymph nodes
+• Highly immunogenic and efficacious1
+• Durable immune responses with reassuring
+safety profile1
+• Refrigerator-stable
+• Well-suited for development of combination
+vaccines
+• Disease-agnostic and adaptable
+Recombinant, Protein-based
+Nanoparticle Vaccine Technology
+Performance Characteristics
+Combines the power and speed of genetic
+engineering to efficiently produce protein-based nanoparticles
+1. Dunkle, LM et al., 2022. DOI.; Heath, PT et al., 2022. DOI.; Áñez, G et al., 2023. DOI.; Shinde, V et al., 2020. DOI.; Shinde, V et al., 2021. DOI.
+2. Stertman, L et al., 2023. DOI.
+3. Datoo, MS et al., 2022. DOI.
+
+Novavax’s Product Pipeline
+© 2024 NOVAVAX. All rights reserved. 7
+1. Authorized in select geographies under trade names Novavax COVID-19 Vaccine, Adjuvanted; Covovax ; and Nuvaxovid .
+2. Commercialized by Serum Institute of India; Granted prequalification by the WHO and distributed by UNICEF to endemic countries in Africa.
+
+Near-term Priorities
+SECTION
+© 2024 NOVAVAX. All rights reserved. 8
+
+2024 Near-term priorities
+jdsfm
+Priority #1
+Prioritize the
+successful execution
+of our partnership
+with Sanofi
+Priority #2
+Expand early-stage
+pipeline, advance
+CIC and flu
+programs. Pursue
+new BD opportunities
+Priority #3
+Further reduce
+combined R&D and
+SG&A expenses
+Priority #4
+Deliver an updated
+vaccine for the
+2024-2025
+vaccination season
+9
+© 2024 NOVAVAX. All rights reserved.
+
+Sanofi partnership provides potential for multiple additional
+revenue streams
+© 2024 NOVAVAX. All rights reserved. 10
+Further validation of our technology platform and provides significant opportunity to drive
+value creation and benefit global public health
+Co-exclusive license
+to co-commercialize
+Novavax’s current
+stand-alone
+adjuvanted COVID-19
+vaccine worldwide*
+Sole license to
+Novavax’s
+adjuvanted COVID-19
+vaccine for use in
+combination with
+Sanofi’s flu and other
+vaccines
+Non-exclusive
+license to use the
+Matrix-MTM adjuvant
+in vaccine products
+Sanofi took a
+minority (<5%)
+equity
+investment in
+Novavax
+jdsfm
+* Except in countries with existing Advance Purchase Agreements and in India, Japan, and South Korea where Novavax has existing
+partnership agreements
+Priority #1 Value
+Driver #1
+
+11
+Sanofi Agreement Economics & Financial Reporting
+Upfront Payment and
+Equity Investment
+(~$570 Million)
+Q2 2024 License, Royalties
+& Other $500
+$500 M Upfront payment received in Q2 2024
+o $391M recognized in Q2 2024
+o $109M amortized over the performance period through 2026
+Q2 2024 Balance Sheet ~$70 Equity investment
+Milestones
+($700 Million)
+Q4 2024
+License, Royalties
+& Other
+$50 Pediatric database lock – revenue recognition amortized over performance period
+through 2026
+Q2 2025 $175 BLA Approval – PDUFA date in April 2025
+2025 $25 Transfer of US market authorization
+2025 $25 Transfer of EU market authorization
+Late 2026 $75 Technology transfer completed
+Per Sanofi
+development
+plan
+$125 Initiation of Phase 3 trial of Sanofi CIC program
+$225 First commercial sale of Sanofi CIC product
+Royalties
+2025 & forward
+License, Royalties
+& Other
+High Teens to low
+Twenties % Nuvaxovid tiered net product sales royalty
+Per Sanofi
+development
+plan
+License, Royalties
+& Other
+Mid single digits
+to sub teens % Sanofi CIC & other combination products tiered net product sales royalty
+Cost Reimbursement 2025 -2026 License, Royalties
+& Other Variable Product supply, select R&D activities and technology transfer during the performance
+period through 2026
+Payment Type
+Expected
+Event Timing* Line Item Amount ($M) Related To
+In addition, Novavax is eligible to receive economics under the Matrix-M license agreement
+© 2024 NOVAVAX. All rights reserved.
+*Company estimate of when event may occur rather than when payment becomes due
+Priority #1 Value
+Driver #1
+
+• Clinical hold removed by FDA
+• Safety event from previous phase 2 study
+reviewed in detail
+• All clinical hold issues satisfactorily addressed
+• Data supports assessment that SAE was not
+related to the NVAX vaccine
+• Plan to start Phase 3 trial as soon as possible
+COVID-19-Influenza-Combination and
+Seasonal Influenza
+Program
+© 2024 NOVAVAX. All rights reserved. 12
+Priority #2 Value
+Driver #2
+
+COVID-19-Influenza-Combination vaccine updated Phase 3
+trial design
+13 © 2024 NOVAVAX. All rights reserved.
+FDA aligned with one Phase 3 trial for both CIC and seasonal influenza vaccines
+• Phase 2 CIC data support noninferior
+immunogenicity
+• During Pre IND process, FDA aligned with
+one Phase 3 trial for both CIC and influenza
+vaccines
+• Immunologic non-inferiority trial against
+COVID-19 and trivalent influenza vaccine
+• Older adults
+• Southern hemisphere, “out of season”
+Commercial Flu
+Vaccine
+CIC
+Novavax
+COVID-19 Vaccine
+Novavax Flu
+Vaccine
+Participants to be randomized to one of four arms:
+Immunogenicity
+comparisons
+Immunogenicity
+comparisons
+Priority #2 Value
+Driver #2
+
+• Improve upon existing viral vaccines
+• Example: Inactivated egg-based influenza
+• Antigen-sparing, reduce COGs
+• Example: Pneumococcal polysaccharide
+• Enable new vaccine development for poorly immunogenic pathogens
+• Master Transfer Agreement established with leading pharmaceutical company to
+evaluate Matrix-M activity in bacterial vaccine program
+Opportunities for Matrix-M in vaccine development
+14
+Matrix-M Adjuvant Attributes1,2,3
+• Increased magnitude and breadth of antibody response
+• Induces polyfunctional T-cells
+• Supports FcR-mediated responses
+• Antigen-sparing
+• Favorable safety and reactogenicity profile
+© 2024 NOVAVAX. All rights reserved.
+1. Stertman, L et al., 2023
+2. Kalkeri, R et al., 2024
+3. Datoo, MS et al., 2022
+Priority #2 Value
+Driver #3
+
+1
+2
+4
+8
+16
+32
+64
+128
+256
+512
+Competing Antibody Equivalent
+(CAE, μg/ml)
+HA (1.5g/Strain) + Matrix-M (5g)
+LOD
+Competition binning : A/Darwin/6/21 HA
+✱✱✱✱(p= <0.0001)
+✱✱✱✱(p= <0.0001)
+✱(p= 0.0299)
+Licensed IIV Licensed IIV + Matrix-M
+15
+Mice vaccinated on days 0 and 21, HAI measured
+at day 35
+8
+16
+32
+64
+128
+256
+512
+1024
+2048
+4096
+HAI Titer
+(GMT, 95%CI)
+Licensed IIV Licensed IIV + Matrix-M
+HA (0.5g/Strain) + Matrix-M (5g)
+A/Victoria/4897/22 B/Austria/1359417/21 A/Darwin/9/21 B/Phuket/3073/13
+✱✱ (p= 0092)
+✱ (p =<0.0001)
+Competition binning: A/Darwin/6/21 HA
+© 2024 NOVAVAX. All rights reserved.
+Matrix-M can be leveraged to improve existing vaccines
+HAI responses increased when Matrix-M given with licensed egg-derived inactivated
+influenza vaccine (IIV)
+Value
+Driver #3 Priority #2
+
+Vaccine Vaccine + Matrix-M
+10
+1
+10
+2
+10
+3
+10
+4
+10
+5
+Pneumococcal Vaccine (~3μg)
+IgG Titer
+(EC50)
+LOD
+8.3 Fold- Rise Anti- Pneumococal Vaccine IgG
+Anti-Pneumococcal IgG
+V a c c in e V a c c in e + M a trix -M 10
+0 10
+1 10
+2 10
+3 10
+4 10
+5 Serotype 6B
+Pneumococcal Vaccine (~1μg) Opsonic Index
+LOD
+3.7 Fold-Rise
+V a c c in e V a c c in e + M a trix -M 10
+0 10
+1 10
+2 10
+3 10
+4 10
+5 Serotype 14
+Pneumococcal Vaccine (~1μg) Opsonic Index
+LOD
+3.7 Fold-Rise
+V a c c in e V a c c in e + M a trix -M 10
+0 10
+1 10
+2 10
+3 10
+4 10
+5 Serotype 3
+Pneumococcal Vaccine (~1μg) Opsonic Index
+LOD
+2.6 Fold- Rise
+V a c c in e V a c c in e + M a trix -M 10
+0 10
+1 10
+2 10
+3 10
+4 10
+5 Serotype 23F
+Pneumococcal Vaccine (~1μg) Opsonic Index
+LOD
+7.5 Fold- Rise
+Opsonophagocytic Killing (OPK)
+Mice vaccinated on days 0, 14, and 28. Antibody testing at day 42.
+Attributes of Matrix-M can be leveraged to improve bacterial
+polysaccharide vaccines
+Anti-pneumococcal antibodies and OPK increased when Matrix-M given with pneumococcal vaccine
+16 © 2024 NOVAVAX. All rights reserved.
+Value
+Driver #3 Priority #2
+
+We are identifying early-stage pipeline and innovation expansion
+opportunities as part of our R&D strategy to support long-term growth
+Early Pipeline Opportunities
+COVID-19
+Flu
+CIC
+Expansion Within
+Infectious Disease
+Expansion Beyond
+Infectious Disease
+• Focus on exploring RSV- containing combinations –
+characterization of candidate ongoing
+• Pandemic Flu IND-enabling toxicology studies underway
+• Novavax discussing preparedness goals and funding
+opportunities with relevant government agencies
+• Leverage knowledge and existing translational models
+• Develop preclinical constructs to advance through
+proof of mechanism/proof of concept
+• Examples for evaluation: oncology, immune-mediated,
+protein aggregation
+• Areas to explore must meet predefined criteria
+• Some may be advanced to scientific and business case
+analyses
+• Examples for evaluation: reactivated infections, antibiotic-associated infections
+RSV Combinations/Pandemic Flu
+Expansion within Infectious Disease
+Expansion beyond Infectious Disease
+© 2024 NOVAVAX. All rights reserved. 17
+RSV Comb./
+Pandemic Flu
+Priority #2 Value
+Driver #4
+
+F Y 2022
+Actual
+F Y 2023
+Actual
+F Y 2024
+Expected
+F Y 2025
+Expected
+F Y 2026
+Expected
+Continuing to significantly reduce operating footprint and expenses
+$1.7B
+Creating a more lean and agile
+organization
+• Targeting FY 2024 combined R&D and
+SG&A expenses of $700 - $750 million
+• Prepared to initiate an additional cost
+reduction program to reduce combined
+R&D and SG&A expenses with a portion
+of expenses to be reimbursed by Sanofi
+under the agreement
+• Exiting commercial operations enables
+elimination of commercial and supply
+chain costs. Exploring sale of
+Czech Republic manufacturing facility
+Combined Annual R&D and SG&A Expense1
+$1.2B
+© 2024 NOVAVAX. All rights reserved. 18
+~$1.4B & 80%
+reduction compared
+to FY 2022
+Midpoint
+$700M - $750M
+~$500M ~$350M
+Expect a portion of 2025 & 2026
+costs to be reimbursed by
+Sanofi under the agreement
+~$450M for FY 2025, net of
+expected $50M reimbursement
+Priority
+#3
+1. Expected Combined Annual R&D and SG&A expenses targets for FY 2024 and FY 2025 may be impacted by the timing and costs
+associated with the Phase 3 trial for our CIC and stand-alone influenza vaccine candidates among other factors (See Slide 2).
+
+U.S. COVID-19 2024-2025 commercial market
+© 2024 NOVAVAX. All rights reserved. 19
+Focused on improved performance in the largest market
+Received authorization at the start of the season
+Pre-filled syringe product presentation
+Available in over 30,000 locations, including grocers and independent pharmacies
+Targeted commercial approach in select opportunity markets
+Higher visibility of Novavax on vaccine schedulers in most major retailers
+Priority
+#4
+
+20
+U.S. COVID-19 2024-2025 Season: Early highlights
+Focused Commercial Approach
+Establishing a solid foundation
+• Maintained a competitive position against mRNA
+vaccines in select settings
+• Achieved ~70% market share in a regional retailer
+• Targeted marketing campaign, with 53% of Nuvaxovid
+claims coming from primary target audience of 65+
+Establishing a solid foundation for next season
+© 2024 NOVAVAX. All rights reserved.
+Priority
+#4
+
+• Emergency Use Authorization granted by FDA on
+August 30th
+• Pre-filled syringes available across the U.S. by
+September 13th
+• Non-clinical studies continue to demonstrate that
+Novavax updated vaccine induces broad neutralizing
+responses, including against KP.3.1.1 and XEC strains
+2024-2025
+COVID-19
+Vaccine
+© 2024 NOVAVAX. All rights reserved. 21
+Priority
+#4
+
+GMFR compared to pre-boost (Day 357) titer
+XBB.1.5 vaccine given on days 0, 21, and 211; JN.1 vaccine given on day 357
+Novavax JN.1 vaccine induces broad cross neutralization to
+variants including KP.3.1.1 and XEC
+© 2024 NOVAVAX. All rights reserved. 22 10
+100
+1,000
+10,000
+98
+4,106
+141
+1,841
+139
+2,891
+98
+2,479
+103
+2,931
+92
+1,875
+117
+2,468
+168
+3,188
+143
+3,481
+175
+3,423
+108
+2,932
+97
+3,027
+151
+5,081
+126
+LOD Pseudovirus Neutralization
+(pVN50, GMT, 95%CI)
+Variant Pseudoviruses
+Pre Boost
+4,240
+Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost Pre Boost JN.1 JN.1.7 JN.1.16 JN.1.11.1 JN.1.13.1 KQ.1 KP.2 KP.1.1 LA.2 KP.3 FL RT FLiRT FLuQE KP.2.3 KP.3.1.1 FLiRT
++S31 FLuQE
++ S31 LB.1 XEC
+FLuQE
+T22N
+F59S
+GMFR 40.3 20.0 30.2 32.0 19.9 22.3 14.7 16.0 31.9 24.1 29.5 13.2 29.1 43.2
+Single JN.1 vaccine dose in XBB.1.5 vaccine primed and boosted rhesus macaques
+
+Financial Guidance
+and Corporate
+Milestones
+SECTION
+© 2024 NOVAVAX. All rights reserved. 23
+
+Full year 2024 financial guidance
+$ in millions
+Prior
+(as of Aug. 8, 2024)
+Updated
+(as of Nov. 12, 2024)
+Total Revenue $700 - $800 $650 - $700
+Product Sales1 $275 - $375 $175 - $225
+Licensing, Royalties and Other
+Revenue2 $425 $475
+Combined R&D and SG&A3
+$700 - $750 $700 - $750
+© 2024 NOVAVAX. All rights reserved. 24
+Guidance Notes: Guidance as of November 12, 2024. We undertake no obligation to update or revise this guidance in the future.
+1. Full year 2024 product sales guidance reflects approximately $100 million in APA dose deliveries in 1H 2024 and $75 million to $125
+million of commercial market sales in 2H 2024.
+2. Full year 2024 Licensing, royalties and other revenue guidance includes $450 million of revenue recognition from the $500 million
+Sanofi agreement upfront payment and $25 million in royalty and other revenue from partner-related activities.
+3. Expected Combined Annual R&D and SG&A expenses targets for FY 2024 and FY 2025 may be impacted by the timing and costs
+associated with the Phase 3 trial for our CIC and stand-alone influenza vaccine candidates.
+
+Corporate
+Milestones
+© 2024 NOVAVAX. All rights reserved. 25
+Received EUA from U.S. FDA for updated COVID-19
+vaccine for ages 12+
+Announced Novavax and Sanofi collaboration
+and licensing agreement (May 2024)
+Initiated 2024-2025 COVID-19 commercial season
+in mid-September
+Start CIC and stand-alone influenza Phase 3 trial
+as soon as possible
+Advance RSV combinations and pandemic
+influenza towards IND filings
+Acceptance of U.S. COVID-19 BLA submission
+(PDUFA action date of April 2025)
+Execute seamless transition of lead commercial
+activities to Sanofi

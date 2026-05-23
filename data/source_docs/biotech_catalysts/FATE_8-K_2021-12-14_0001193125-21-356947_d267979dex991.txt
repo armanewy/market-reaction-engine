@@ -1,0 +1,730 @@
+EX-99.1
+2
+d267979dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+Fate Therapeutics Highlights Positive Durability of Response Data from FT516 Phase 1 Study for B-cell Lymphoma and Announces FDA Regenerative Medicine Advanced Therapy Designation Granted to FT516 for Relapsed / Refractory DLBCL
+
+6 of 10 Patients Naïve to Treatment with Autologous CAR T-cell Therapy Continue in Ongoing Response at
+Median Follow-up of 9.1 Months, including 4 Patients with >6 Months Follow-up, at
+³90 Million FT516 Cells per Dose
+
+3 of 8 Patients Previously Treated with Autologous CAR T-cell Therapy Achieve Complete Response at ³90 Million FT516 Cells per Dose; 2 Patients Continue in Complete Response at Median Follow-up of 6.5 Months
+
+Outpatient Treatment Regimen Was Well-tolerated; No Events of Any Grade of Cytokine
+Release Syndrome, Immune Effector Cell-Associated Neurotoxicity Syndrome, or Graft-vs-Host Disease
+
+Dose-expansion Cohorts Initiated at 900
+Million FT516 Cells per Dose, including in Patients with Aggressive B-cell Lymphoma Previously Treated with Autologous CAR T-cell Therapy
+
+San Diego, CA – December 13, 2021 – Fate Therapeutics, Inc. (NASDAQ: FATE), a clinical-stage biopharmaceutical company
+dedicated to the development of programmed cellular immunotherapies for cancer, today presented positive clinical data from the dose-escalation stage of its ongoing Phase 1 study of FT516 for patients with relapsed / refractory B-cell lymphoma (BCL) at the 63rd American Society of Hematology Annual Meeting and Exposition. FT516 is the Company’s universal, off-the-shelf natural killer (NK) cell product candidate derived from a clonal master induced pluripotent stem cell (iPSC) line engineered with a novel high-affinity, non-cleavable CD16 (hnCD16) Fc receptor, which is designed to maximize antibody-dependent cellular cytotoxicity (ADCC), a potent anti-tumor mechanism by which NK cells recognize, bind and kill antibody-coated cancer
+cells.
+
+In addition, the Company today announced that the U.S. Food and Drug Administration (FDA) granted Regenerative Medicine Advanced Therapy (RMAT) designation
+to FT516 for the treatment of relapsed / refractory diffuse large B-cell lymphoma (DLBCL). The RMAT program provides all of the benefits of the fast track and breakthrough therapy designation programs such as
+early interactions with the FDA to discuss potential pathways for accelerated approval.
+
+“We continue to be highly encouraged by the differentiated therapeutic
+profile of FT516 as an off-the-shelf NK cell therapy administered in the outpatient setting, and its potential to deliver deep and durable responses for patients with
+advanced B-cell lymphomas, including those that have received prior autologous CAR T-cell therapy,” said Wayne Chu, M.D., Senior Vice President of Clinical
+Development of Fate Therapeutics. “The RMAT designation for the treatment of relapsed / refractory DLBCL reflects the
+
+positive clinical data we have observed with FT516 in the dose-escalation stage of our Phase 1 study, and it is an important milestone for the Company that recognizes the unique potential of off-the-shelf, iPSC-derived, NK cell cancer immunotherapy. We look forward to working closely with the FDA to accelerate the development of FT516 in this area of significant
+unmet medical need with the goal of expanding the reach of transformative cell therapies.”
+
+Phase 1 Dose-escalation Efficacy Data
+
+The Phase 1 clinical trial in relapsed / refractory BCL is assessing FT516 in an
+off-the-shelf treatment regimen of up to two cycles, with each cycle consisting of three days of conditioning chemotherapy (500 mg/m2 of cyclophosphamide and 30 mg/m2 of fludarabine), a single-dose of rituximab (375 mg/m2), and
+three weekly doses of FT516 each with IL-2 cytokine support. The FT516 treatment regimen is designed to be administered in the outpatient setting.
+
+Patients in the dose-escalation stage had received a median of 3.5 prior lines of therapy and a median of three prior lines containing CD20-targeted therapy. As of the
+data cutoff date of October 18, 2021, four patients in the second dose cohort of 90 million cells per dose, seven patients in the third dose cohort of 300 million cells per dose, and seven patients in the fourth dose cohort of
+900 million cells per dose were evaluable for assessment of safety and efficacy (n=18). Of these 18 patients, 10 patients were naïve to treatment with autologous CD19-targeted chimeric antigen receptor (CAR)
+T-cell therapy and eight patients were previously treated with autologous CD19-targeted CAR T-cell therapy, including three patients in the fourth dose cohort that were
+refractory to CAR T-cell therapy (see Table 1).
+
+ 
+
+ 
+
+Table 1. FT516 Phase 1 Dose Cohorts 2, 3 and 4 in Relapsed / Refractory B-cell
+Lymphoma 1
+
+ 
+
+  
+
+  
+
+ 
+
+CAR T Naïve
+
+ 
+
+  
+
+ 
+
+Prior CAR T        
+
+ 
+
+  
+
+  
+
+ 
+
+Aggressive BCL 2      
+
+ 
+
+  
+
+ 
+
+Indolent BCL 3        
+
+ 
+
+  
+
+ 
+
+Aggressive BCL 4      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+n
+
+  
+
+5
+
+  
+
+5
+
+  
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+Response 5
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objective Response (%)
+
+  
+
+4 (80%)
+
+  
+
+4 (80%)
+
+  
+
+3 (38%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Complete Response (%)
+
+  
+
+2 (40%)
+
+  
+
+3 (60%)
+
+  
+
+3 (38%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Durability of Response 6
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Response Rate – 3 Months (%)
+
+  
+
+4 (80%)
+
+  
+
+4 (80%)
+
+  
+
+3 (38%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ongoing Responders (%)
+
+Median Follow-up (months)
+
+  
+
+3 (60%)
+
+8.3 (4.6, 9.9)
+
+  
+
+3 (60%)
+
+9.9 (3.7, 13.2)
+
+  
+
+2 (25%)
+
+6.5 (4.6, 8.3)
+
+ 
+
+1 
+
+As of data cutoff date of October 18, 2021
+
+ 
+
+2 
+
+Includes diffuse large B-cell lymphoma (n=2); high-grade B-cell lymphoma (n=1); transformed indolent lymphoma (n=1); and gray zone lymphoma (n=1)
+
+ 
+
+3 
+
+Includes follicular lymphoma (n=3); mantle cell lymphoma (n=1); and marginal zone lymphoma (n=1)
+
+ 
+
+4 
+
+Includes diffuse large B-cell lymphoma (n=7) and high-grade B-cell lymphoma (n=1); includes 3 patients refractory to prior CAR T-cell therapy
+
+ 
+
+5 
+
+Cycle 2 Day 29 protocol-defined response assessment per Lugano 2014 criteria
+
+ 
+
+6 
+
+Measured from initiation of therapy
+
+Of the ten patients naïve to treatment with CAR T-cell therapy, eight
+patients achieved an objective response (80%), including five patients that achieved a complete response (50%). Three of eight patients previously treated with CAR T-cell therapy achieved an objective response
+(38%), all of whom achieved a complete response. In each relapsed / refractory BCL disease setting (aggressive BCL naïve to CAR T-cell therapy; indolent BCL naïve to CAR T-cell therapy; aggressive BCL previously treated with CAR T-cell therapy), responses were observed in each of the second, third, and fourth dose cohorts.
+
+All 11 responding patients in the second, third, and fourth dose cohorts continued in ongoing response at three months following initiation of treatment (61%). As of
+the data cutoff date, eight patients continued in ongoing response (44%) at a median follow-up of 8.3 months:
+
+ 
+
+ 
+
+•
+
+ 
+
+Three of five patients with aggressive BCL naïve to CAR T-cell therapy
+continued in ongoing response (60%), with two patients in ongoing response beyond six months (8.3 and 9.9 months) and one patient in ongoing response at 4.6 months;
+
+ 
+
+ 
+
+•
+
+ 
+
+Three of five patients with indolent BCL naïve to CAR T-cell therapy continued
+in ongoing response (60%), with two patients in ongoing response beyond six months (9.9 and 13.2 months) and one patient in ongoing response at 3.7 months; and
+
+ 
+
+ 
+
+•
+
+ 
+
+Two of eight patients with aggressive BCL previously treated with CAR T-cell
+therapy continued in ongoing response (25%), with responses ongoing at 4.6 and 8.3 months.
+
+The median duration of response in each of the relapsed
+/ refractory BCL disease settings for all responding patients had not been reached.
+
+Phase 1 Dose-escalation Safety Data
+
+No dose-limiting toxicities, and no FT516-related serious adverse events, were observed. The FT516 treatment regimen was well tolerated, and no treatment-emergent
+adverse events (TEAEs) of any grade of cytokine release syndrome, immune effector cell-associated neurotoxicity syndrome, or graft-versus-host disease were reported by investigators (see Table 2). Grade 3 or greater TEAEs related to FT516 were
+observed in two patients (neutrophil count decreased; and neutropenia and thrombocytopenia). There were no discontinuations due to adverse events. In addition, no evidence of anti-product T- or B-cell mediated host-versus-product alloreactivity was observed, supporting the potential to safely administer up to six doses of FT516 in the outpatient setting without the need for patient matching.
+
+ 
+
+ 
+
+Table 2. FT516 Phase 1 TEAEs of Interest in Relapsed / Refractory B-cell Lymphoma
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+n(%)
+
+  
+
+DL2 = 90M / dose
+
+(n=4)
+
+  
+
+DL3 = 300M / dose
+
+(n=7)
+
+  
+
+DL4 = 900M / dose
+
+(n=7)
+
+  
+
+Total 1
+
+(n=20)
+
+  
+
+ 
+
+All Grade  
+
+  
+
+Grade 3+  
+
+ 
+
+  
+
+ 
+
+All Grade  
+
+  
+
+ 
+
+Grade 3+  
+
+  
+
+ 
+
+All Grade  
+
+  
+
+ 
+
+Grade 3+  
+
+  
+
+ 
+
+All Grade  
+
+  
+
+ 
+
+Grade 3+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CRS
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ICANS
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GvHD
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+  
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Infections
+
+  
+
+3 (75%)
+
+  
+
+2 (50%)
+
+  
+
+2 (29%)
+
+  
+
+1 (14%)
+
+  
+
+1 (14%)
+
+  
+
+1 (14%)
+
+  
+
+6 (30%)
+
+  
+
+4 (20%)
+
+CRS = Cytokine Release Syndrome; DL = Dose Level; GvHD = Graft vs. Host Disease; ICANS = Immune
+Cell-Associated Neurotoxicity Syndrome; M = Million; TEAE = Treatment-Emergent Adverse Event
+
+ 
+
+1 
+
+Includes two subjects in the first dose cohort of 30M cells / dose
+
+FT516 RMAT Designation & Dose Expansion
+
+RMAT designation is an FDA program designed to expedite the development and review of regenerative medicine therapies, including cell-based cancer immunotherapies, that
+have demonstrated the potential to address an unmet medical need based on preliminary clinical evidence. The program allows for early and frequent interactions with the FDA, and enables regulatory authority guidance on efficient drug development,
+pathways for accelerated approval, and approaches to fulfill post-approval requirements.
+
+The Company has initiated enrollment in the dose-expansion stage of its
+Phase 1 study of FT516 in combination with rituximab for the treatment of relapsed / refractory BCL at 900 million cells per dose. The Company plans to enroll patients in three disease-specific expansion cohorts using cyclophosphamide and
+fludarabine as conditioning chemotherapy: patients with relapsed / refractory aggressive lymphomas who have previously been treated with CD19-targeted CAR T-cell therapy; patients with relapsed / refractory
+aggressive lymphomas who are naïve to treatment with CD19-targeted CAR T-cell therapy; and patients with relapsed / refractory follicular lymphoma. In addition, the Company plans to enroll an expansion
+cohort without conditioning chemotherapy, combining FT516 with rituximab and bendamustine, a standard-of-care treatment regimen for lymphoma.
+
+About Fate Therapeutics’ iPSC Product Platform
+
+The Company’s
+proprietary induced pluripotent stem cell (iPSC) product platform enables mass production of off-the-shelf, engineered, homogeneous cell products that are designed to be
+administered with multiple doses to deliver more effective pharmacologic activity, including in combination with other cancer treatments. Human iPSCs possess the unique dual properties of unlimited self-renewal and differentiation potential into all
+cell types of the body. The Company’s first-of-kind approach involves engineering human iPSCs in a one-time genetic
+modification event and selecting a single engineered iPSC for maintenance as a clonal master iPSC line. Analogous to master cell lines used to manufacture biopharmaceutical drug products such as monoclonal antibodies, clonal master iPSC lines are a
+renewable source for manufacturing cell therapy products which are well-defined and uniform in composition, can be mass produced at significant scale in a cost-effective manner, and can be delivered off-the-shelf for patient treatment. As a result, the Company’s platform is uniquely designed to overcome numerous limitations associated with the production of cell therapies using patient- or
+donor-sourced cells, which is logistically complex and expensive and is subject to batch-to-batch and
+cell-to-cell variability that can affect clinical safety and efficacy. Fate Therapeutics’ iPSC product platform is supported by an intellectual property portfolio
+of over 350 issued patents and 150 pending patent applications.
+
+About FT516
+
+FT516 is an investigational, universal, off-the-shelf natural killer (NK) cell cancer
+immunotherapy derived from a clonal master induced pluripotent stem cell (iPSC) line engineered to express a novel high-affinity 158V, non-cleavable CD16 (hnCD16) Fc receptor, which has been modified to
+prevent its down-regulation and to enhance its binding to tumor-targeting antibodies. CD16 mediates antibody-dependent cellular cytotoxicity (ADCC), a potent anti-tumor mechanism by which NK cells recognize, bind and kill antibody-coated cancer
+cells. ADCC is dependent on NK cells maintaining stable and effective expression of CD16, which has been shown to undergo considerable down-regulation in cancer patients. In addition, CD16
+
+occurs in two variants, 158V or 158F, that elicit high or low binding affinity, respectively, to the Fc domain of IgG1 antibodies. Numerous clinical studies with
+FDA-approved tumor-targeting antibodies, including rituximab, trastuzumab and cetuximab, have demonstrated that patients homozygous for the 158V variant, which is present in only about 15% of patients, have
+improved clinical outcomes. FT516 is being investigated in a multi-dose Phase 1 clinical trial as a monotherapy for the treatment of relapsed / refractory acute myeloid leukemia and in combination with CD20-targeted monoclonal antibodies for the
+treatment of relapsed / refractory B-cell lymphoma (NCT04023071).
+
+About Fate Therapeutics, Inc.
+
+Fate Therapeutics is a clinical-stage biopharmaceutical company dedicated to the development of
+first-in-class cellular immunotherapies for patients with cancer. The Company has established a leadership position in the clinical development and manufacture of
+universal, off-the-shelf cell products using its proprietary induced pluripotent stem cell (iPSC) product platform. The Company’s immuno-oncology pipeline includes off-the-shelf, iPSC-derived natural killer (NK) cell and T-cell product candidates, which are designed to synergize with
+well-established cancer therapies, including immune checkpoint inhibitors and monoclonal antibodies, and to target tumor-associated antigens using chimeric antigen receptors (CARs). Fate Therapeutics is headquartered in San Diego, CA. For more
+information, please visit www.fatetherapeutics.com.
+
+Forward-Looking Statements
+
+This release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 including statements regarding
+the safety and therapeutic potential of the Company’s iPSC-derived NK cell product candidates, including FT516 and its ongoing and planned clinical studies, its expected clinical development plans and timelines, and its regulatory
+pathways and strategy. These and any other forward-looking statements in this release are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to
+differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to, the risk that results observed in studies of its product candidates, including
+preclinical studies and clinical trials of any of its product candidates, will not be observed in ongoing or future studies involving these product candidates, the risk that the Company may cease or delay clinical development of any of its product
+candidates for a variety of reasons (including requirements that may be imposed by regulatory authorities on the initiation or conduct of clinical trials, the amount and type of data to be generated, or otherwise to support regulatory approval,
+difficulties or delays in subject enrollment and continuation in current and planned clinical trials, difficulties in manufacturing or supplying the Company’s product candidates for clinical testing, and any adverse events or other negative
+results that may be observed during preclinical or clinical development), and the risk that its product candidates may not produce therapeutic benefits or may cause other unanticipated adverse effects. For a discussion of other risks and
+uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the risks and uncertainties detailed in the Company’s periodic filings
+with the Securities and Exchange Commission, including but not limited to the Company’s most recently filed periodic report, and from time to time in the Company’s press releases and other investor communications. Fate Therapeutics is
+providing the information in this release as of this date and does not undertake any obligation to update any forward-looking statements contained in this release as a result of new information, future events or otherwise.
+
+Contact:
+
+Christina
+Tartaglia
+
+Stern Investor Relations, Inc.
+
+212.362.1200
+
+christina@sternir.com

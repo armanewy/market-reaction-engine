@@ -1,0 +1,250 @@
+EX-99.1
+2
+beam-ex99_1.htm
+EX-99.1
+
+EX-99.1
+
+ 
+
+ 
+
+Beam Therapeutics to Present Data Across Hematology Franchise, Including First Clinical Data for BEAM-101 in Sickle Cell Disease and ESCAPE Non-human Primate Data, at American Society of Hematology (ASH) Annual Meeting
+
+ 
+
+Initial Results from BEACON Phase 1/2 Clinical Trial Demonstrate Potential for Differentiation of Base Editing and BEAM-101
+
+ 
+
+Preclinical ESCAPE Data Establish Proof-of-concept for Non-genotoxic, Antibody-based Conditioning and Engraftment in Non-human Primates
+
+ 
+
+Clinical Data from Phase 1/2 BEAM-201 Trial Demonstrate Therapeutic Potential of First Quadruplex-edited Allogeneic CAR-T Cell Therapy
+
+ 
+
+Beam to Host Investor Event on Dec. 8, 2024, at 8 p.m. PT
+
+ 
+
+CAMBRIDGE, Mass., November 5, 2024 – Beam Therapeutics Inc. (Nasdaq: BEAM), a biotechnology company developing precision genetic medicines through base editing, today announced the acceptance of multiple oral and poster presentations, including the first clinical data from a Beam program, at the 66th American Society of Hematology (ASH) Annual Meeting and Exposition, taking place December 7-10, 2024, in San Diego.
+
+ 
+
+“For people living with severe sickle cell disease, a serious medical condition with reduced life expectancy, stem cell transplant with genotoxic chemotherapy is the only currently available curative option. At Beam, we have a long-term commitment to delivering better treatments for these patients, first with BEAM-101 as a potentially superior autologous cell product, followed by ESCAPE, which seeks to eliminate chemotherapy from the transplant process altogether,” said John Evans, chief executive officer of Beam. “Today represents an important milestone toward this vision as we unveil data with our base editing technology across both approaches to treating sickle cell disease. The initial results for BEAM-101 provide emerging clinical validation of base editing and of our preclinical hypothesis that more precise and efficient editing, without double-stranded DNA breaks, can lead to a differentiated product profile, with greater and more uniform induction of fetal hemoglobin, deeper reduction of sickle hemoglobin, and potentially faster engraftment.”
+
+“Our proof-of-concept data for ESCAPE in non-human primates demonstrate that base editing could enable antibody conditioning and engraftment for stem cell transplant without chemotherapy, a potential breakthrough in the field of hematology and for patients,” said Giuseppe Ciaramella, Ph.D., president of Beam. “Along with the strong translation from preclinical to clinical of our BEAM-101 program, these data reflect the potential of base editing to enable new therapeutic possibilities for people suffering from serious diseases.”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BEAM-101 Oral and Poster Presentations
+
+ 
+
+Title: Initial Results from the BEACON Clinical Study: A Phase 1/2 Study Evaluating the Safety and Efficacy of a Single Dose of Autologous CD34+ Base Edited Hematopoietic Stem Cells (BEAM-101) in Patients with Sickle Cell Disease with Severe Vaso-Occlusive Crises
+
+Abstract: 513
+
+Oral Session: 801. Gene Therapies: Gene Editing and Replacement Therapies for Hemoglobinopathies: From Bench to Bedside
+
+Presentation Time: Sunday, Dec. 8, 2024, at 10 a.m. PT
+
+Location: San Diego Convention Center, Room 30
+
+Presenter: Matthew M. Heeney, M.D., Dana-Farber/Boston Children’s Cancer and Blood Disorders Center
+
+Key Highlights:
+
+•
+Preliminary data as of a July 2, 2024, data cut from BEACON, a Phase 1/2 single-arm, open-label clinical trial evaluating the safety and efficacy of a single dose of BEAM-101 in patients with sickle cell disease (SCD) with severe vaso-occlusive crises (VOCs).
+
+•
+Initial safety profile was consistent with busulfan conditioning and autologous hematopoietic stem cell transplantation (HSCT).
+
+o
+In all patients dosed (n=6), there were no ≥Grade 3 adverse events (AEs) or serious AEs related to treatment with BEAM-101.
+
+o
+One patient died four months after BEAM-101 infusion due to respiratory failure that was determined by the investigator to be likely related to busulfan conditioning and deemed unrelated to BEAM-101. The case was reviewed by the Data Safety Monitoring Committee and the U.S. Food and Drug Administration. Pulmonary complications are a known cause of morbidity and, in rare cases, mortality in patients undergoing myeloablation with chemotherapy, such as busulfan, and stem cell transplantation.
+
+•
+All patients dosed achieved their target cell dose with either 1 or 2 mobilization cycles (mean: 1.5).
+
+•
+All 4 patients with ≥1 month of follow-up achieved neutrophil and platelet engraftment at a median of 17 (15–19) and 20 (11–34) days, respectively.
+
+•
+All 4 patients experienced rapid and robust fetal hemoglobin (HbF) induction by Month 1 (>60%) and corresponding sickle hemoglobin (HbS) reduction (≤36%) in non-transfused blood, which was sustained over time.
+
+•
+Markers of hemolysis normalized or improved for all 4 patients.
+
+•
+No VOCs were reported by investigators post-treatment.
+
+•
+These data support base editing of the HBG1/2 promoters as a therapeutic modality for the treatment of SCD and the ongoing development of BEAM-101.
+
+•
+The presentation at ASH will include additional data with more patients and longer follow-up.
+
+ 
+
+Title: Impact of BEAM-101 Treatment on Red Blood Cell Hemoglobin Expression, Rheology and Sickling Properties: Initial data from the BEACON Phase 1/2 study of Autologous CD34+ Base Edited Hematopoietic Stem Cells in Sickle Cell Disease
+
+Abstract: 4957
+
+ 
+
+ 
+
+Poster Session: 801. Gene Therapies: Poster III
+
+Session Time: Monday, Dec. 9, 2024, from 6-8 p.m. PT
+
+Location: San Diego Convention Center, Halls G-H
+
+Presenter: Priya S. Chockalingam, Ph.D., Beam Therapeutics
+
+Key Highlights:
+
+•
+Preliminary data as of a July 2, 2024, data cut includes exploratory biomarker assessments of red blood cell (RBC) hemoglobin expression, health and function in 3 patients for two or more of the following visits: screening, Month 1, 2, 3 and 6.
+
+•
+Initial results demonstrated 98-99% of RBCs expressing HbF as early as Month 1, with near complete elimination of RBCs expressing solely HbS post-treatment with BEAM-101.
+
+•
+The data showed reduction in RBC sickling, comparable to sickle cell trait, reduced cell adhesion and improved hemorheological properties of blood post-treatment with BEAM-101.
+
+•
+The presentation at ASH will include additional data with more patients and longer follow-up.
+
+ 
+
+ESCAPE Oral Presentation:
+
+ 
+
+Title: CD117 Antibody Conditioning and Multiplex Base Editing Enable Rapid and Robust Fetal Hemoglobin Reactivation in a Rhesus Autologous Transplantation Model
+
+Abstract: 516
+
+Oral Session: 801. Gene Therapies: Gene Editing and Replacement Therapies for Hemoglobinopathies: From Bench to Bedside
+
+Presentation Time: Sunday, Dec. 8, 2024, at 10:45 a.m. PT
+
+Location: San Diego Convention Center, Room 30
+
+Presenter: Selami Demirci, Ph.D., National Institutes of Health
+
+Key Highlights:
+
+•
+Study investigated whether Beam’s Engineered Stem Cell Antibody Evasion (ESCAPE) approach, using CD117 monoclonal antibody (mAb) conditioning, could successfully achieve long-term engraftment and induce robust levels of HbF in an immunocompetent host. Researchers used a non-human primate (NHP) model where autologous CD34+ hematopoietic stem and progenitor cells were multiplex edited to target a single epitope on CD117 and the promoter regions of HBG1/2, allowing cells to avoid detection by the conditioning mAb while upregulating HbF.
+
+•
+Two NHPs were conditioned with different doses (10 mg/kg and 25 mg/kg) of CD117 mAb, instead of busulfan, 7 days prior to transplantation. Post-transplant, further mAb treatments were administered to maintain competitive advantage for the edited cells.
+
+•
+mAb-based conditioning was well tolerated, with no need for NHP supportive care.
+
+•
+Both NHPs showed rapid and significant induction of HbF. The percentage of red blood cells expressing HbF (F-cells) reached 61% as early as 8 weeks post-transplant in one NHP and stabilized at ~85% by 35 weeks in both animals. Concurrently, levels of HbF increased rapidly, reaching ~55% at 35 weeks post-transplant in both animals.
+
+ 
+
+ 
+
+•
+Data suggest that ESCAPE, combined with CD117 mAb conditioning and selection, can achieve long-term engraftment and induce high levels of HbF, offering a promising alternative to traditional genotoxic conditioning in autologous HSCT.
+
+•
+The presentation at ASH will include additional data.
+
+ 
+
+BEAM-201 Poster Presentation:
+
+ 
+
+Title: BEAM-201 for the Treatment of Relapsed and/or Refractory (R/R) T-Cell Acute Lymphoblastic Leukemia (T-ALL) or T-Cell Lymphoblastic Lymphoma (T-LL): Initial Data from the Phase (Ph) 1/2 Dose-Exploration, Dose-Expansion, Safety, and Efficacy Study of Multiplex Base-Edited Allogeneic Anti CD7 CAR-T-Cells
+
+Abstract: 4838
+
+Poster Session: 704. Cellular Immunotherapies: Early Phase Clinical Trials and Toxicities: Poster III
+
+Session Time: Monday, Dec. 9, 2024, from 6-8 p.m. PT
+
+Location: San Diego Convention Center, Halls G-H
+
+Presenter: Caroline Diorio, M.D., FRCPC, FAAP, Children’s Hospital of Philadelphia
+
+Key Highlights:
+
+•
+Initial data as of a June 11, 2024, data cut in 3 patients treated with BEAM-201 show a safety profile consistent with underlying disease, lymphodepletion and AEs associated with CAR-T therapy.
+
+•
+A complete response (CRi/CR) was demonstrated in 2 of 3 patients at CAR-T cell doses <200 million. Both patients achieving a CRi/CR were deemed suitable for stem cell transplant following therapy.
+
+•
+The presentation at ASH will include additional data with more patients and longer follow-up.
+
+ 
+
+ASH Investor Event Information
+
+Beam will host a live and webcast investor event on Dec. 8, 2024, at 8:00 p.m. PT in San Diego to review the key presentations from this year’s ASH meeting. The event will be webcast live and can be accessed under “Events & Presentations” in the Investors section of the company's website at www.beamtx.com. The archived webcast will be available on the company's website beginning approximately two hours after the event.
+
+ 
+
+About Beam Therapeutics
+
+Beam Therapeutics (Nasdaq: BEAM) is a biotechnology company committed to establishing the leading, fully integrated platform for precision genetic medicines. To achieve this vision, Beam has assembled a platform with integrated gene editing, delivery and internal manufacturing capabilities. Beam’s suite of gene editing technologies is anchored by base editing, a proprietary technology that is designed to enable precise, predictable and efficient single base changes, at targeted genomic sequences, without making double-stranded breaks in the DNA. This has the potential to enable a wide range of potential therapeutic editing strategies that Beam is using to advance a diversified portfolio of base editing programs. Beam is a values-driven organization committed to its people, cutting-edge science, and a vision of providing life-long cures to patients suffering from serious diseases.
+
+ 
+
+ 
+
+ 
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Investors are cautioned not to place undue reliance on these forward-looking statements, including, but not limited to, statements related to: the therapeutic applications and potential of our technology, including with respect to SCD, T-ALL/T-LL, and ESCAPE; our plans, and anticipated timing, to advance our programs; the clinical trial designs and expectations for BEAM-101, BEAM-201, and ESCAPE; our potential presentations at the ASH annual meeting; and our ability to develop life-long, curative, precision genetic medicines for patients through base editing. Each forward-looking statement is subject to important risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statement, including, without limitation, risks and uncertainties related to: our ability to develop, obtain regulatory approval for, and commercialize our product candidates, which may take longer or cost more than planned; our ability to raise additional funding, which may not be available; our ability to obtain, maintain and enforce patent and other intellectual property protection for our product candidates; the uncertainty that our product candidates will receive regulatory approval necessary to initiate human clinical trials; that preclinical testing of our product candidates and preliminary or interim data from preclinical studies and clinical trials may not be predictive of the results or success of ongoing or later clinical trials; that initiation and enrollment of, and anticipated timing to advance, our clinical trials may take longer than expected; that our product candidates or the delivery modalities we rely on to administer them may cause serious adverse events; that our product candidates may experience manufacturing or supply interruptions or failures; risks related to competitive products; and the other risks and uncertainties identified under the headings “Risk Factors Summary” and “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2023, our Quarterly Reports on Form 10-Q and in any subsequent filings with the Securities and Exchange Commission. These forward-looking statements speak only as of the date of this press release. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. We undertake no obligation to update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by applicable law.
+
+ 
+
+Contacts:
+
+Investors:
+
+Holly Manning
+
+Beam Therapeutics
+
+hmanning@beamtx.com
+
+ 
+
+Media:
+
+Dan Budwick
+
+1AB
+
+dan@1abmedia.com

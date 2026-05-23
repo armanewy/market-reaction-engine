@@ -1,0 +1,192 @@
+EX-99.1
+2
+srpt-ex991_17.htm
+EX-99.1
+
+srpt-ex991_17.htm
+
+Exhibit 99.1
+
+ 
+
+ 
+
+Sarepta Therapeutics Announces Positive Expression and Functional Data From the SRP-9003 Gene Therapy Trial to Treat Limb-Girdle Muscular Dystrophy Type 2E
+
+ 
+
+-- In post-treatment muscle biopsies, clinical trial participants in the high-dose cohort showed a dose-dependent increase in transduction and expression when compared with the low-dose cohort, with a mean of 72% beta-sarcoglycan (beta-SG) positive fibers, as measured by immunohistochemistry (IHC), substantially exceeding the pre-defined 50% measure for success --
+
+-- A mean signal intensity of 73% in the high-dose group was observed compared to normal control --
+
+-- A mean beta-sarcoglycan expression of 62% as measured by Western blot was observed in the high-dose cohort compared to normal control --
+
+-- An 89% mean reduction of creatine kinase (CK) from baseline was observed in the high-dose cohort --
+
+-- Continued functional improvement was observed in the low-dose cohort at one year --
+
+ 
+
+CAMBRIDGE, Mass., June 8, 2020 (GLOBE NEWSWIRE) – Sarepta Therapeutics, Inc. (NASDAQ:SRPT), the leader in precision genetic medicine for rare diseases, today announced positive results from a study of SRP-9003, its investigational gene therapy for limb-girdle muscular dystrophy Type 2E (LGMD2E). Results included safety and expression results from three clinical trial participants in the high-dose cohort measured at 60 days, and one-year functional data from three clinical trial participants in the low-dose cohort. SRP-9003 is in development for the treatment of LGMD2E (also known as beta-sarcoglycanopathy and LGMDR4), a devastating monogenic neuromuscular disease caused by a lack of beta-sarcoglycan (beta-SG) proteins. SRP-9003 is a gene construct that transduces skeletal and cardiac muscle, delivering a gene that codes for the full-length beta-sarcoglycan protein, the absence of which is the sole cause of progressive degeneration and a shortened lifespan characterized by the disease.  
+
+ 
+
+“We were very encouraged by the previously reported results from our first cohort of patients treated with a lower dose of SRP-9003, including impressive expression, good tolerability, and positive functional signals, which continue impressively at one year.  We are excited to have been able to achieve even more impressive expression and other biomarkers in our higher-dose cohort for SRP-9003, along with good tolerability. The SRP-9003 gene construct, vector and promoter were designed with the goal of robustly
+
+ 
+
+ 
+
+delivering to skeletal and cardiac muscles a gene coding for the missing beta-sarcoglycan protein that causes LGMD2E. These data support the conclusion that the therapy is achieving its intended purpose, driving robust expression in the muscles where it is needed,” said Doug Ingram, President and CEO, Sarepta. “SRP-9003 employs the same vector, AAVrh74, and same promoter, MHCK7, as SRP-9001, our therapy in development to treat Duchenne muscular dystrophy. And Cohort 2 received a similar dose as our ongoing SRP-9001 studies for Duchenne. The safety and efficacy results with these two doses of SRP-9003 provide us with additional experience and confidence with the rh74 vector and the MHCK7 promoter as we select the dose for the pivotal trial of SRP-9003 and work to quickly develop this therapy for patients who currently have no treatment options.”
+
+ 
+
+The SRP-9003 study has two cohorts, each studying a different dose-per-kilogram based on the weight of the patient. Three participants in the low-dose cohort (Cohort 1) were treated with a one-time infusion of SRP-9003 dosed at 5x1013 vg/kg and an additional three participants in the high-dose cohort (Cohort 2) received a one-time infusion dosed at 2x1014 vg/kg. The six participants were between the ages of 4 and 13. Post-treatment biopsies were taken at 60 days. Sarepta previously shared data from Cohort 1 in 2019, including positive and robust expression and biomarker data and positive 9-month functional results.
+
+ 
+
+Preliminary results from Cohort 2 (n=3) are as follows:
+
+ 
+
+•
+
+Strong dose-dependent increase in transduction and expression transduction and expression when compared with the low-dose cohort.
+
+ 
+
+•
+
+The three participants showed a robust mean expression of 72.3% of transduced beta-SG, properly localized to the muscle sarcolemma, as measured by immunohistochemistry (IHC). These results exceeded the pre-defined measure of success for the study of 50% positive fibers which was previously achieved in Cohort 1.
+
+ 
+
+•
+
+Mean fiber intensity, as measured by IHC, was 73.1% compared to normal control.
+
+ 
+
+•
+
+All participants showed robust quantification of beta-SG, as measured by Western blot, with mean beta-SG of 62.1% of normal control.
+
+ 
+
+•
+
+All participants showed a reduction in serum creatine kinase (CK) levels from pre-treatment baseline measure to last measure at 90 days, with a mean CK reduction of 89.1% from baseline. CK is an enzyme biomarker strongly associated with muscle damage.
+
+ 
+
+ 
+
+ 
+
+•
+
+Adverse events in Cohort 2 were generally mild to moderate in severity. One serious adverse event – dehydration resulting from vomiting 3 days after infusion which resolved in 2 days with ondansetron, promethazine and IV fluids – was observed.
+
+ 
+
+•
+
+No other clinically significant laboratory findings were observed, including no finding of decreases in platelet counts outside of the normal range or signs of complement activation.
+
+ 
+
+•
+
+These results will help inform dosing in future studies.
+
+ 
+
+In Cohort 1 (low dose), at one year all three participants continued to show improvements from baseline across all functional measures, including the North Star Assessment for Limb-Girdle Muscular Dystrophies, time-to-rise, four-stair climb, 100-meter walk test and 10-meter walk test. These results are distinctly different from what an age-matched, natural history group would predict. There have been no new drug-related safety signals observed since the 9-month update, and no decreases in platelet counts outside of the normal range or signs of complement activation were observed.
+
+ 
+
+“LGMD2E is a devastating neuromuscular disease that causes significant disability in the children we see and currently lacks treatment options beyond tailored physical therapy,” said Jerry Mendell, M.D., principal investigator at the Center for Gene Therapy at the Abigail Wexner Research Institute at Nationwide Children’s Hospital and lead investigator for the study. “We are pleased that these data show robust expression, similar to what we observed in the micro-dystrophin program, for the protein that is missing in children with LGMD2E, and remain hopeful that this brings us one step closer to a therapy that can help improve both prognosis and quality of life.”
+
+ 
+
+About SRP-9003 and the study
+
+SRP-9003 uses the AAVrh74 vector, which is designed to be systemically and robustly delivered to skeletal, diaphragm and cardiac muscle, making it an ideal candidate to treat peripheral neuromuscular diseases. AAVrh74 has lower immunogenicity rates than reported with other human AAV vectors. The MHCK7 promoter has been chosen for its ability to robustly express in the heart, which is critically important for patients with limb-girdle muscular dystrophy Type 2E (LGMD2E), also known as beta-sarcoglycanopathy and LGMDR4, many of whom die from pulmonary or cardiac complications.
+
+ 
+
+ 
+
+ 
+
+This first-in-human study is evaluating a single intravenous infusion of SRP-9003 among children with LGMD2E between the ages of four and 15 years with significant symptoms of disease. Sarepta has exclusive rights to the LGMD2E gene therapy program initially developed at the Abigail Wexner Research Institute at Nationwide Children’s Hospital.
+
+ 
+
+About Limb-Girdle Muscular Dystrophy
+
+Limb-girdle muscular dystrophies are genetic diseases that cause progressive, debilitating weakness and wasting that begin in muscles around the hips and shoulders before progressing to muscles in the arms and legs.
+
+ 
+
+Patients with limb-girdle muscular dystrophy Type 2E (LGMD2E) begin showing neuromuscular symptoms such as difficulty running, jumping and climbing stairs before age 10. The disease, which is an autosomal recessive subtype of LGMD, progresses to loss of ambulation in the teen years and often leads to early mortality. There is currently no treatment or cure for LGMD2E.
+
+ 
+
+Sarepta has five LGMD gene therapy programs in development, including subtypes for LGMD2E, LGMD2D, LGMD2C, LGMD2B and LGMD2L, and holds an option for a sixth program for LGMD2A.
+
+ 
+
+About Sarepta Therapeutics
+
+At Sarepta, we are leading a revolution in precision genetic medicine and every day is an opportunity to change the lives of people living with rare disease. The Company has built an impressive position in Duchenne muscular dystrophy (DMD) and in gene therapies for limb-girdle muscular dystrophies (LGMDs), mucopolysaccharidosis type IIIA, Charcot-Marie-Tooth (CMT), and other CNS-related disorders, with more than 40 programs in various stages of development. The Company’s programs and research focus span several therapeutic modalities, including RNA, gene therapy and gene editing. For more information, please visit www.sarepta.com or follow us on Twitter, LinkedIn, Instagram and Facebook.
+
+Forward-Looking Statements
+
+This press release contains "forward-looking statements." Any statements contained in this press release that are not statements of historical fact may be deemed to be forward-looking statements. Words such as "believes," "anticipates," "plans," "expects," "will," "intends," "potential," "possible" and similar expressions are intended to identify forward-looking statements. These forward-looking statements
+
+ 
+
+ 
+
+include statements regarding the goal of the SRP-9003 gene construct, vector and promoter of robustly delivering to skeletal and cardiac muscles a gene coding for the missing beta-sarcoglycan protein that cause LGMD2E; SRP-9003’s potential to improve both prognosis and quality of life; the potential read through of the SRP-9003 trial results to SRP-9001; our plans to select the dose for the pivotal trial of SRP-9003 and work to quickly develop this therapy for patients; and the potential market opportunities with respect to SRP-9003 and SRP-9001.
+
+ 
+
+These forward-looking statements involve risks and uncertainties, many of which are beyond our control. Known risk factors include, among others: success in preclinical trials and early clinical trials, especially if based on a small patient sample, does not ensure that later clinical trials will be successful; the data presented in this release may not be consistent with the final data set and analysis thereof or result in a safe or effective treatment benefit; different methodologies, assumptions and applications we utilize to assess particular safety or efficacy parameters may yield different statistical results, and even if we believe the data collected from clinical trials of our product candidates are positive, these data may not be sufficient to support approval by the FDA or foreign regulatory authorities; we may not be able to execute on our business plans and goals, including meeting our expected or planned regulatory milestones and timelines, clinical development plans, and bringing our product candidates to market, due to a variety of reasons, some of which may be outside of our control, including possible limitations of company financial and other resources, manufacturing limitations that may not be anticipated or resolved for in a timely manner, regulatory, court or agency decisions, such as decisions by the United States Patent and Trademark Office with respect to patents that cover our product candidates and the COVID-19 pandemic; and even if Sarepta’s programs result in new commercialized products, Sarepta may not achieve the expected revenues from the sale of such products; and those risks identified under the heading “Risk Factors” in Sarepta’s most recent Annual Report on Form 10-K for the year ended December 31, 2019, and most recent Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (SEC) as well as other SEC filings made by the Company which you are encouraged to review.
+
+ 
+
+Any of the foregoing risks could materially and adversely affect the Company’s business, results of operations and the trading price of Sarepta’s common stock. For a detailed description of risks and uncertainties Sarepta faces, you are encouraged to review the SEC filings made by Sarepta. We caution investors not to place considerable reliance on the forward-looking statements contained in this press release. Sarepta does not undertake any obligation to publicly update its forward-looking statements based on events or circumstances after the date hereof.
+
+ 
+
+ 
+
+ 
+
+Internet Posting of Information
+
+We routinely post information that may be important to investors in the 'For Investors' section of our website at www.sarepta.com. We encourage investors and potential investors to consult our website regularly for important information about us.
+
+ 
+
+Source: Sarepta Therapeutics, Inc.
+
+ 
+
+Sarepta Therapeutics, Inc.
+
+ 
+
+Investors:
+
+Ian Estepan, 617-274-4052
+
+iestepan@sarepta.com
+
+Media:
+
+Tracy Sorrentino, 617-301-8566
+
+tsorrentino@sarepta.com

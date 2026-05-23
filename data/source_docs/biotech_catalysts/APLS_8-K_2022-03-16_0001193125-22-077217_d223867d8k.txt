@@ -1,0 +1,281 @@
+8-K
+
+false 0001492422 0001492422 2022-03-16 2022-03-16
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 16, 2022
+
+ 
+
+ 
+
+Apellis Pharmaceuticals, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38276
+
+ 
+
+27-1537290
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+100 Fifth Avenue
+
+Waltham, MA
+
+ 
+
+02451
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (617) 977-5700
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock
+
+ 
+
+APLS
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events
+
+On March 16, 2022, Apellis Pharmaceuticals, Inc. (the “Company” or “Apellis”) announced longer-term data from its Phase 3 DERBY and OAKS clinical trials, which showed that intravitreal pegcetacoplan continued to reduce geographic atrophy, or GA, lesion growth and demonstrated a favorable safety profile at month 18 for the treatment of GA secondary to age-related macular degeneration, or AMD. The Company plans to include these data in the new drug application that the Company plans to submit to the U.S. Food and Drug Administration in the second quarter of 2022.
+
+Pegcetacoplan showed continuous and clinically meaningful reductions in lesion growth from baseline out to month 18 (all nominal p-values < 0.05)
+
+ 
+
+Treatment effects observed in DERBY were comparable with OAKS over time
+
+ 
+
+Combined 18-month data show the potential for improving treatment effects over time
+
+ 
+
+In a longer-term analysis of the primary endpoint, pegcetacoplan continued to reduce GA lesion growth compared to pooled sham at month 18 (all p values are nominal):
+
+ 
+
+ 
+
+•
+
+ 
+
+In OAKS, pegcetacoplan reduced GA lesion growth with both monthly (22%; p<0.0001) and every-other-month treatment (16%; p=0.0018).
+
+ 
+
+ 
+
+•
+
+ 
+
+In DERBY, pegcetacoplan reduced GA lesion growth with both monthly (13%; p=0.0254) and every-other-month treatment (12%; p=0.0332).
+
+ 
+
+ 
+
+•
+
+ 
+
+Pegcetacoplan demonstrated marked improvements in DERBY during months 6-12 with reductions of 17% with monthly and 16% with every-other-month treatment compared to months 0-6, and the treatment effects were sustained through month 18. The treatment effects observed in DERBY were comparable with OAKS during months 6-18.
+
+ 
+
+ 
+
+•
+
+ 
+
+Data at 18 months from the combined studies show the potential for improving treatment effects with pegcetacoplan over time. The reduction in GA lesion growth improved with monthly pegcetacoplan treatment from 13% to 21% from months 0-6 to months 12-18. The reduction in GA lesion growth improved with every-other-month pegcetacoplan treatment from 12% to 17% from months 0-6 to months 12-18.
+
+The nominal p values presented in the month 18 results were calculated using the same methodology as the month 12 primary endpoint analysis.
+
+At month 18, pegcetacoplan continued to demonstrate a favorable safety profile, consistent with safety at 12 months and longer-term exposure to intravitreal injections. The rate of infectious endophthalmitis was 0.044% per injection, and the rate of intraocular inflammation was 0.23% per injection. Rates of endophthalmitis and intraocular inflammation continue to be generally in line with those reported in studies of other intravitreal therapies. No events of retinal vasculitis or retinal vein occlusion were observed. The combined rate of new-onset exudations at month 18 was 9.3%, 6.2%, and 2.9% in the pegcetacoplan monthly, every-other-month, and sham groups, respectively.
+
+The Company expects to present detailed data at upcoming scientific meetings.
+
+Forward-Looking Statements
+
+Statements in this Current Report on Form 8-K about future expectations, plans and prospects, as well as any other statements regarding matters that are not historical facts, may constitute “forward-looking statements” within the meaning of The Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements regarding timing of anticipated regulatory submissions. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” “would” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including whether the results of the FILLY, DERBY and OAKS trials are sufficient to support regulatory submissions; whether a submission for approval of intravitreal pegcetacoplan for GA on the basis of the FILLY, DERBY and OAKS trials will be accepted by the FDA or foreign regulatory agencies; whether intravitreal pegcetacoplan will receive approval from the FDA or equivalent foreign regulatory agencies for GA when expected or at all; and other factors discussed in the “Risk Factors” section of Apellis’ Annual Report on Form 10-K with the Securities and Exchange Commission on February 28, 2022 and the risks described in other filings that Apellis may make with the Securities and Exchange Commission. Any forward-looking statements contained in this Current Report on Form 8-K speak only as of the date hereof, and Apellis specifically disclaims any obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Apellis Pharmaceuticals, Inc.
+
+Date: March 16, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Timothy Sullivan
+
+ 
+
+ 
+
+ 
+
+Timothy Sullivan
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

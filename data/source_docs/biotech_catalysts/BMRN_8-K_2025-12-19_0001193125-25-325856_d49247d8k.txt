@@ -1,0 +1,315 @@
+8-K
+
+BIOMARIN PHARMACEUTICAL INC false 0001048477 0001048477 2025-12-19 2025-12-19
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 19, 2025
+
+ 
+
+ 
+
+BioMarin Pharmaceutical Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+000-26727
+
+ 
+
+68-0397820
+
+(State or other jurisdiction
+
+of incorporation or organization)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+770 Lindaro Street
+
+ 
+
+San Rafael
+
+ 
+
+California
+
+  
+
+94901
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+  
+
+(Zip Code)
+
+(415) 506-6700
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001
+
+ 
+
+BMRN
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Agreement and Plan of Merger
+
+On December 19, 2025, BioMarin Pharmaceutical Inc., a Delaware corporation (“BioMarin”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Amicus Therapeutics, Inc. (the “Company” or “Amicus”), and Lynx Merger Sub 1, Inc., a Delaware corporation and wholly owned subsidiary of BioMarin (“Merger Sub”), providing for the merger of Merger Sub with and into Amicus (the “Merger”), with Amicus surviving the Merger as a wholly owned subsidiary of BioMarin. Capitalized terms used herein and not otherwise defined herein have the meanings set forth in the Merger Agreement.
+
+At the effective time of the Merger (the “Effective Time”), each share of Amicus common stock, par value $0.01 per share (the “Shares”), issued and outstanding immediately prior to the Effective Time (other than Excluded Shares and Dissenting Shares) will be cancelled and converted into the right to receive $14.50 per Share in cash, without interest thereon (the “Merger Consideration”) and subject to any applicable withholdings of Taxes.
+
+At the Effective Time, each Company Option that is then outstanding and unexercised, whether or not vested and which has a per share exercise price that is less than the Merger Consideration (each, an “In the Money Option”), will be cancelled and converted into the right to receive a cash payment equal to (a) the excess of (i) the Merger Consideration over (ii) the exercise price payable per share under such In the Money Option, multiplied by (b) the total number of shares subject to such In the Money Option immediately prior to the Effective Time (without regard to vesting). In addition, at the Effective Time, each Company Option other than an In the Money Option that is then outstanding and unexercised, whether or not vested, will be cancelled with no consideration payable in respect thereof. At the Effective Time, each then outstanding Company RSU will be cancelled and the holder thereof will be entitled to receive a cash payment equal to (x) the Merger Consideration multiplied by (y) the number of shares subject to such Company RSU. At the Effective Time, each then outstanding Company PSU will be canceled and converted into a cash-based award, which will entitle the holder thereof to receive a cash payment equal to the product of (A) the number of shares subject to such Company PSU immediately prior to the Effective Time at specified levels of performance, without any pro-ration, as of immediately prior to the Effective Time multiplied by (B) an amount equal to the Merger Consideration.
+
+Consummation of the Merger is subject to customary closing conditions, including the absence of certain legal restraints preventing or otherwise making illegal the consummation of the Merger, the absence of any Material Adverse Effect having occurred since the signing of the Merger Agreement that is continuing, the expiration or termination of any waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “HSR Act”), applicable to the Merger, the obtainment of any clearance or affirmative approval applicable to the Merger under the antitrust and foreign direct investment laws of other Specified Antitrust Authorities, and the adoption of the Merger Agreement by holders of Amicus common stock representing at least a majority of Amicus’ outstanding Amicus common stock. The parties expect the Merger and the other transactions contemplated by the Merger Agreement to close in the second quarter of the calendar year 2026. The Merger Agreement provides that as promptly as reasonably practicable (and in any event within 20 Business Days) after the date of the Merger Agreement, Amicus will prepare and file a preliminary proxy statement in anticipation of Amicus’ meeting of its stockholders for the purpose of voting upon the adoption of the Merger Agreement.
+
+BioMarin and Amicus have each made customary representations and warranties in the Merger Agreement. Amicus has agreed to customary covenants regarding the operation of the business of Amicus and its subsidiaries between the Agreement Date and the earlier of the Effective Time and the valid termination of the Merger Agreement (the “Interim Period”). Amicus is also subject to customary restrictions on its ability to solicit alternative Acquisition Proposals from third parties and to provide non-public information to, and participate in discussions and engage in negotiations with, third parties regarding alternative Acquisition Proposals, with customary exceptions to allow the Amicus board of directors to exercise its fiduciary duties during the Interim Period. These exceptions include that, subject to the terms and conditions of the Merger Agreement, if Amicus receives an Acquisition Proposal that did not result from Amicus’ (or its Representatives’) breach of its no-shop covenants, and following such receipt, the Amicus board of directors determines in good faith, after consultation with its outside legal counsel and financial advisors, that such Acquisition Proposal is or could lead to a Superior Offer and the failure to terminate the Merger Agreement and change its recommendation of the Merger to Amicus’ stockholders would be inconsistent with the Amicus board of directors’ fiduciary duties under applicable law, then prior to the Cut-off Time Amicus is permitted to terminate the Merger Agreement and the Amicus board of directors is permitted to change its recommendation of the Merger to Amicus’ stockholders (subject to certain customary match rights in favor of BioMarin).
+
+The Merger Agreement contains certain termination rights for BioMarin and Amicus. Subject to the terms and conditions of the Merger Agreement, the Merger Agreement may be terminated under certain circumstances, including (i) by mutual written consent of BioMarin and Amicus, (ii) by either BioMarin or Amicus, if the Merger is not consummated by midnight Eastern Time, on June 19, 2026, which period will be extended for two automatic three-month periods if at the end of the prior period, all conditions to closing of the Merger other than conditions relating to the HSR Act or other applicable antitrust and foreign direct investment laws have been obtained or waived as of such date (such date, as extended, the “End Date”), (iii) by either BioMarin or Amicus if a Specified Governmental Body of competent jurisdiction issues any order, directive, judgment, decree or ruling, or takes any other action permanently restraining, enjoining or otherwise prohibiting the consummation of the Merger, and such order becomes final and non-appealable, (iv) by BioMarin (A) due to certain breaches by Amicus of its representations, warranties and covenants contained in the Merger Agreement, subject to certain cure rights, or (B) at any time before the Cut-Off Time, if (1) the Amicus board of directors fails to include the Company Board Recommendation in the Merger Proxy Statement when filed with the SEC or mailed, or effects a Company Adverse Recommendation Change, (2) in the case of an Acquisition Proposal structured as a tender offer or exchange offer, the Amicus board of directors (I) states that the Amicus board of directors recommends such tender or exchange offer or expresses no opinion or is unable to take a position (other than a “stop, look and listen” communication pursuant to Rule 14d-9(f) promulgated under the Exchange Act) with respect to such tender or exchange offer, or (II) fails to recommend rejection of such tender offer or exchange offer or fails to reaffirm the Company Board Recommendation within 10 Business Days after the commencement of such tender offer or exchange offer, (3) after any public announcement of an Acquisition Proposal (other than a tender offer or exchange offer), the Amicus board of directors fails to publicly affirm the Company Board Recommendation within three Business Days after a written request by BioMarin to do so, or (4) the Amicus board of directors fails to publicly reaffirm the Company Board Recommendation within three Business Days after BioMarin so requests in writing, and (v) by Amicus (A) due to certain breaches by BioMarin of its representations, warranties and covenants contained in the Merger Agreement, subject to certain cure rights or (B) in order to substantially concurrently with such termination enter into a binding written definitive acquisition agreement providing for the consummation of the Superior Offer approved by the Amicus board of directors.
+
+Upon termination of the Merger Agreement, under specified circumstances, Amicus will be required to pay BioMarin a termination fee of $175,000,000. Such circumstances include where the Merger Agreement is terminated (i) in connection with Amicus accepting a Superior Offer approved by the Amicus board of directors and entering into a binding written definitive acquisition agreement for the consummation of a transaction which the Amicus board of directors determines constitutes a Superior Offer, (ii) due to the Amicus board of directors’ change or withdrawal of, or failure to reaffirm as required by the Merger Agreement, its recommendation of the Merger to Amicus’ stockholders, or (iii) because the Amicus board of directors or Amicus willfully breach their non-solicit obligations under the Merger Agreement in any material respect. The termination fee will also be payable if the
+
+Merger Agreement is terminated (i) (a) by BioMarin or Amicus because the Merger is not consummated before the End Date (but in the case of a termination by Amicus, only if BioMarin would not be prohibited from terminating the Merger Agreement on this basis because its material breach had proximately caused or resulted in the Merger not being consummated by the End Date), (b) by BioMarin or Amicus due to failure to obtain the requisite Amicus stockholder vote to adopt the Merger Agreement, or (c) by BioMarin because Amicus breaches its representations, warranties or covenants in a manner that would cause the related closing conditions to not be met (provided that neither BioMarin nor Merger Sub is then in breach of its representations, warranties or covenants in a manner that would cause the related closing conditions to not be met), (ii) and in the case of each of such events and prior to any such termination, a proposal to acquire at least 50% of Amicus’ stock or assets is communicated to the Amicus board of directors or publicly disclosed and has not been withdrawn, and (iii) Amicus enters into an agreement for, or consummates, a transaction involving an acquisition of at least 50% of Amicus’ stock or assets within 12 months of such termination.
+
+The Merger Agreement and the above description of the Merger Agreement have been included to provide investors with information regarding the terms of the Merger Agreement. It is not intended to provide any other factual information about BioMarin, Amicus or their respective subsidiaries, affiliates or businesses. The representations, warranties and covenants contained in the Merger Agreement were made only for the purposes of that agreement and as of specific dates, were solely for the benefit of the parties to the Merger Agreement and may be subject to limitations agreed upon by the parties in connection with negotiating the terms of the Merger Agreement. In addition, such representations, warranties and covenants have been included in the Merger Agreement for the purpose of allocating risk between the contracting parties rather than establishing matters as fact. In addition, the representations, warranties and covenants have been qualified by (a) matters specifically disclosed in certain of Amicus’ filings with the United States Securities and Exchange Commission (“SEC”), (b) confidential disclosures made to BioMarin and Merger Sub in the disclosure letter delivered in connection with the Merger Agreement and (c) materiality qualifications contained in the Merger Agreement, which may differ from what may be viewed as material by investors. Accordingly, the Merger Agreement is included with this filing only to provide investors with information regarding the terms of the Merger Agreement, and not to provide investors with any other factual information regarding BioMarin, Amicus or their respective businesses.
+
+Additional Information
+
+The foregoing description of the Merger Agreement and the transactions contemplated thereby does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Merger Agreement, a copy of which is attached hereto as Exhibit 2.1 and is incorporated by reference herein.
+
+Investors should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of BioMarin, Amicus or any of their subsidiaries or affiliates. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in the Company’s public disclosures. The Merger Agreement should not be read alone, but should instead be read in conjunction with the other information regarding BioMarin that is or will be contained in, or incorporated by reference into, the Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and other documents that BioMarin files with the SEC.
+
+Debt Financing Commitment
+
+In connection with its entry into the Merger Agreement, on December 19, 2025, BioMarin entered into a debt financing commitment letter and related fee letter with Morgan Stanley Senior Funding, Inc. (“MSSF”), pursuant to which MSSF has committed to provide BioMarin with debt financing in an aggregate principal amount of up to approximately $3.65 billion in the form of a 364-day senior secured bridge loan facility (the “Bridge Facility”), subject to customary conditions and entry into definitive financing and ancillary documentation as set forth therein. BioMarin will pay customary fees and expenses in connection with obtaining the Bridge Facility commitment. In lieu of all or a portion of the Bridge Facility, BioMarin intends to fund a portion of the Merger Consideration through one or more bank financing or capital markets transactions, subject to market conditions and other factors.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On December 19, 2025, BioMarin and Amicus issued a joint press release announcing the execution of the Merger Agreement. A copy of the joint press release is attached as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+The information contained in this Item 7.01 of this report, including Exhibit 99.1 attached hereto, is furnished pursuant to Item 7.01 of Form 8-K and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section. The information shall not be deemed incorporated by reference into any other filing with the SEC made by BioMarin regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+ 2.1*
+
+  
+
+Agreement and Plan of Merger, dated as of December 19, 2025, by and among Amicus Therapeutics, Inc., BioMarin Pharmaceutical Inc., and Lynx Merger Sub 1, Inc.
+
+99.1
+
+  
+
+Joint Press Release issued by BioMarin Pharmaceutical Inc. and Amicus Therapeutics, Inc. on December 19, 2025
+
+104
+
+  
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+ 
+
+*
+
+Certain exhibits and schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. BioMarin agrees to furnish supplementally a copy of any omitted exhibit or schedule to the SEC upon request; provided, however, that BioMarin may request confidential treatment pursuant to Rule 24b-2 of the Exchange Act for any schedule so furnished.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements about, among other things, the proposed acquisition of Amicus by BioMarin and the business prospects of Amicus and BioMarin, including, without limitation, statements about: the anticipated occurrence, manner and timing of the closing of the proposed acquisition and the availability of financing, including the proposed non-convertible debt financing; the prospective benefits of the proposed acquisition, including expectations that it will accelerate BioMarin’s revenue growth and strengthen its financial outlook immediately upon close, increase BioMarin’s long-term CAGR through 2030 and beyond, strengthen and diversify BioMarin’s commercial portfolio and be a strong strategic fit for BioMarin by expanding BioMarin’s rare disease product portfolio, create substantial shareholder value by being accretive to Non-GAAP Diluted EPS in the first 12 months after close and substantially accretive beginning in 2027; BioMarin’s commitment to deleveraging and the expectation that BioMarin will reach gross leverage <2.5x within two years after close; expectations regarding Amicus’ products, Galafold and Pombiliti + Opfolda, including ability to expand access to patients in new markets across BioMarin’s global footprint; expectations regarding Amicus’ product candidate, DMX-200, and its ongoing development, including the potential for DMX-200 to be the first-in-class investigational small molecule for the treatment of focal segmental glomerulosclerosis (FSGS); expectations regarding the settlement of the patent litigation relating to Galafold, including expectations that U.S. exclusivity for Galafold will be through January 2037; BioMarin’s capital allocation strategy to leverage its financial strength to diversify its pipeline and add innovative new therapies for patients; the potential impact of the acquisition on BioMarin’s financial results and financial guidance; BioMarin’s plans for external innovation, including BioMarin’s ability to execute additional transactions in future quarters; statements about BioMarin’s future financial performance; and other statements that are not historical facts. Actual results could differ materially from those anticipated in these forward-looking statements. Except as required by law, each of BioMarin and Amicus assume no obligation to update these forward-looking statements, whether as a result of new information, future events or otherwise. These statements, which represent each of BioMarin’s and Amicus’ current expectations or beliefs concerning various future events that are subject to significant risks and uncertainties, may contain words such as “may,” “will,” “would,” “could,” “expect,” “anticipate,” “intend,” “plan,” “believe,” “estimate,” “project,” “seek,” “should,” “strategy,” “future,” “opportunity,” “potential” or other similar words and expressions indicating future results.
+
+ 
+
+These forward-looking statements are predictions and involve risks and uncertainties such that actual results may differ materially from these statements. Forward-looking statements reflect current beliefs and expectations; however, these statements involve inherent risks and uncertainties, including, without limitation, with respect to: consummating the proposed acquisition and financing in the anticipated timeframe, if at all; whether Amicus’ stockholders will approve the acquisition; the possibility that competing offers or acquisition proposals will be made; the possibility that various closing conditions for the transaction may not be satisfied or waived, including that a governmental entity may prohibit, delay, or refuse to grant approval for the consummation of the transaction (or only grant approval subject to adverse conditions or limitations); the difficulty of predicting the timing or outcome of regulatory approvals or actions, if any; the effects of the proposed acquisition (or the announcement thereof) on Amicus’ or BioMarin’s stock price and/or Amicus’ or BioMarin’s operating results; unknown or inestimable liabilities; the development, launch and commercialization of products and product candidates; the parties’ ability to realize the anticipated benefits of the proposed acquisition, including the possibility that the expected benefits from the proposed acquisition will not be realized or will not be realized within the expected time period and that BioMarin and Amicus will not be integrated successfully or that such integration may be more difficult, time-consuming or costly than expected; obtaining and maintaining adequate coverage and reimbursement for BioMarin’s or Amicus’ products; the time-consuming and uncertain regulatory approval process; the costly and time-consuming pharmaceutical product development process and the uncertainty of clinical success, including risks related to failure or delays in successfully initiating or completing clinical trials and assessing patients, including with respect to current and planned future clinical trials; global economic, financial, and healthcare system disruptions and the current and potential future negative impacts to BioMarin’s or Amicus’ business operations and financial results; the sufficiency of BioMarin’s or Amicus’ cash flows and capital resources; BioMarin’s ability to fund the acquisition, including BioMarin’s ability to obtain financing on terms satisfactory to BioMarin or at all; BioMarin’s evaluation of the potential impact of the transaction on its financial results and financial guidance; BioMarin’s or Amicus’ ability to achieve targeted or expected future financial performance and results and the uncertainty of future tax, accounting and other provisions and estimates; the effects of the transaction on relationships with key third parties, including employees, customers, suppliers, other business partners or governmental entities, including the risk that the proposed acquisition adversely affects employee retention; transaction costs; risks that the proposed acquisition disrupts current plans and operations; risks that the proposed transaction diverts management’s attention from ongoing business operations; changes in Amicus’ business during the period between announcement and closing of the proposed acquisition; any legal proceedings and/or regulatory actions that may be instituted related to the proposed acquisition; and other risks and uncertainties affecting BioMarin and Amicus, including those risk factors detailed in BioMarin’s and Amicus’ filings with the SEC, including, without limitation, the risk factors contained under the caption “Risk Factors” in BioMarin’s Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2025 and Amicus’ Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2025, as such risk factors may be updated by any subsequent reports, as well as the Proxy Statement on Schedule 14A to be filed by Amicus. Stockholders of BioMarin and Amicus are urged not to place undue reliance on forward-looking statements, which speak only as of the date hereof. BioMarin and Amicus are under no obligation, and expressly disclaim any obligation, to update (publicly or otherwise) or alter any forward-looking statement, including without limitation any financial projection or guidance, whether as a result of new information, future events or otherwise.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BioMarin Pharmaceutical Inc.,
+
+a Delaware corporation
+
+Date: December 19, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+G. Eric Davis
+
+ 
+
+ 
+
+ 
+
+Executive Vice President, Chief Legal Officer
