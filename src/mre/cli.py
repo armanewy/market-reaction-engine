@@ -24,6 +24,15 @@ from .capital_raises import (
     write_capital_raise_readiness_report,
     write_capital_raise_parser_audit_report,
 )
+from .government_contracts import (
+    build_government_contract_source_documents,
+    enrich_government_contract_context,
+    parse_government_contract_manifest,
+    validate_government_contract_parser,
+    write_government_contract_parser_audit_report,
+    write_government_contract_readiness_report,
+)
+
 from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
 from .corpus_demo import generate_corpus_demo_data
 from .demo import generate_demo_data
@@ -499,6 +508,98 @@ def cmd_enrich_capital_raise_context(args: argparse.Namespace) -> None:
 
 def cmd_capital_raise_readiness_report(args: argparse.Namespace) -> None:
     summary = write_capital_raise_readiness_report(args.events, args.out, min_train=args.min_train, parser_errors_path=args.parser_errors)
+    print(json.dumps({"report": str(args.out), **summary}, indent=2, default=str))
+
+
+def cmd_government_contract_source_docs(args: argparse.Namespace) -> None:
+    df, diagnostics = build_government_contract_source_documents(
+        args.out,
+        mapping_path=args.mapping,
+        manifest_paths=args.manifest,
+        use_usaspending=args.use_usaspending,
+        tickers=args.tickers,
+        recipient_search=args.recipient_search,
+        start=args.start,
+        end=args.end,
+        limit_per_recipient=args.limit_per_recipient,
+        min_award_amount=args.min_award_amount,
+        requests_per_second=args.requests_per_second,
+    )
+    print(
+        json.dumps(
+            {
+                "rows": int(len(df)),
+                "out": str(args.out),
+                "mapping": str(args.mapping),
+                "diagnostics": diagnostics,
+                "warning": "Government-contract source rows are candidates; recipient mapping and funded-vs-ceiling classification require review before modeling.",
+            },
+            indent=2,
+            default=str,
+        )
+    )
+
+
+def cmd_parse_government_contracts(args: argparse.Namespace) -> None:
+    facts, features, events = parse_government_contract_manifest(
+        args.documents,
+        args.facts_out,
+        args.features_out,
+        args.events_out,
+        min_confidence=args.min_confidence,
+        usable_confidence=args.usable_confidence,
+    )
+    payload = {
+        "documents": args.documents,
+        "fact_rows": int(len(facts)),
+        "feature_rows": int(len(features)),
+        "event_rows": int(len(events)),
+        "facts_out": str(args.facts_out),
+        "features_out": str(args.features_out),
+        "events_out": str(args.events_out),
+        "event_type_counts": features["government_contract_event_type"].value_counts(dropna=False).to_dict() if "government_contract_event_type" in features.columns else {},
+        "warning": "Government-contract parser output is a review queue, not a model-ready corpus.",
+    }
+    print(json.dumps(payload, indent=2, default=str))
+
+
+def cmd_validate_government_contract_parser(args: argparse.Namespace) -> None:
+    facts_df = __import__("pandas").read_csv(args.facts)
+    gold_df = __import__("pandas").read_csv(args.gold)
+    errors, report = validate_government_contract_parser(facts_df, gold_df, out_errors=args.errors_out)
+    report_path = write_government_contract_parser_audit_report(report, errors, args.report_out)
+    print(json.dumps({"report": str(report_path), "errors": str(args.errors_out), **report}, indent=2, default=str))
+
+
+def cmd_enrich_government_contract_context(args: argparse.Namespace) -> None:
+    df = enrich_government_contract_context(
+        args.events,
+        args.prices_dir,
+        args.out,
+        benchmark_ticker=args.benchmark,
+        market_caps_path=args.market_caps,
+        revenue_path=args.revenue,
+    )
+    status_counts = df["government_contract_context_status"].value_counts(dropna=False).to_dict() if "government_contract_context_status" in df.columns else {}
+    payload = {
+        "rows": int(len(df)),
+        "out": str(args.out),
+        "status_counts": status_counts,
+        "rows_with_award_amount_pct_market_cap": int(df["award_amount_pct_market_cap"].notna().sum()) if "award_amount_pct_market_cap" in df.columns else 0,
+        "rows_with_obligated_amount_pct_market_cap": int(df["obligated_amount_pct_market_cap"].notna().sum()) if "obligated_amount_pct_market_cap" in df.columns else 0,
+        "warning": "Government-contract context enrichment is feature preparation only; review rows before modeling.",
+    }
+    print(json.dumps(payload, indent=2, default=str))
+
+
+def cmd_government_contract_readiness_report(args: argparse.Namespace) -> None:
+    summary = write_government_contract_readiness_report(
+        args.events,
+        args.out,
+        source_documents_path=args.source_documents,
+        min_train=args.min_train,
+        parser_errors_path=args.parser_errors,
+    )
     print(json.dumps({"report": str(args.out), **summary}, indent=2, default=str))
 
 
@@ -1300,6 +1401,53 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--min-train", type=int, default=40)
     p.add_argument("--parser-errors", default=None, help="Optional parser validation errors CSV; if supplied, parser audit must pass.")
     p.set_defaults(func=cmd_capital_raise_readiness_report)
+
+    p = sub.add_parser("government-contract-source-docs", help="Build government-contract award source-document candidates from USAspending and/or source manifests.")
+    p.add_argument("--out", default="data/events/government_contract_source_documents.csv")
+    p.add_argument("--mapping", default="data/events/government_contract_recipient_ticker_map.csv", help="Recipient-name-to-ticker mapping CSV. A starter map is created if missing.")
+    p.add_argument("--manifest", nargs="*", default=[], help="Optional source-document manifests for DoD, company press releases, SEC/company docs, or manually collected sources.")
+    p.add_argument("--use-usaspending", action="store_true", help="Query USAspending Advanced Award Search for mapped recipients.")
+    p.add_argument("--tickers", nargs="*", default=[], help="Limit USAspending recipient searches to mapped public tickers.")
+    p.add_argument("--recipient-search", nargs="*", default=[], help="Explicit USAspending recipient search terms.")
+    p.add_argument("--start", default="2024-01-01")
+    p.add_argument("--end", default="2026-05-23")
+    p.add_argument("--limit-per-recipient", type=int, default=3)
+    p.add_argument("--min-award-amount", type=float, default=None)
+    p.add_argument("--requests-per-second", type=float, default=2.0)
+    p.set_defaults(func=cmd_government_contract_source_docs)
+
+    p = sub.add_parser("parse-government-contracts", help="Parse government-contract source documents into facts, features, and a review queue.")
+    p.add_argument("--documents", required=True, help="Government-contract source-document manifest.")
+    p.add_argument("--facts-out", required=True)
+    p.add_argument("--features-out", required=True)
+    p.add_argument("--events-out", required=True)
+    p.add_argument("--min-confidence", type=float, default=0.0)
+    p.add_argument("--usable-confidence", type=float, default=0.70)
+    p.set_defaults(func=cmd_parse_government_contracts)
+
+    p = sub.add_parser("validate-government-contract-parser", help="Validate government-contract parser facts against a reviewed gold-set CSV.")
+    p.add_argument("--facts", required=True)
+    p.add_argument("--gold", required=True)
+    p.add_argument("--errors-out", required=True)
+    p.add_argument("--report-out", required=True)
+    p.set_defaults(func=cmd_validate_government_contract_parser)
+
+    p = sub.add_parser("enrich-government-contract-context", help="Add market-cap, revenue-scale, and pre-event run-up context to reviewed government-contract events.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--prices-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--market-caps", default=None, help="Optional CSV with event_id or ticker/asof_date market_cap_before_event.")
+    p.add_argument("--revenue", default=None, help="Optional CSV with event_id or ticker/asof_date revenue_ltm_if_available.")
+    p.set_defaults(func=cmd_enrich_government_contract_context)
+
+    p = sub.add_parser("government-contract-readiness-report", help="Summarize whether a reviewed/enriched government-contract corpus is ready for modeling.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--source-documents", default=None)
+    p.add_argument("--min-train", type=int, default=40)
+    p.add_argument("--parser-errors", default=None, help="Optional parser validation errors CSV; if supplied, parser audit must pass.")
+    p.set_defaults(func=cmd_government_contract_readiness_report)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")
     p.add_argument("--events", required=True)

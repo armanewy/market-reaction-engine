@@ -1,0 +1,1 @@
+event_id,fact_name,expected_value,actual_value,unit,tolerance,abs_error,status,confidence,evidence_text

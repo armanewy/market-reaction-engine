@@ -1,0 +1,33 @@
+recipient_name_pattern,ticker,public_company_name,subsidiary_name,mapping_type,confidence,notes
+LOCKHEED MARTIN,LMT,Lockheed Martin Corporation,,exact,0.95,Large defense prime.
+SIKORSKY,LMT,Lockheed Martin Corporation,Sikorsky,subsidiary,0.9,Lockheed subsidiary.
+RAYTHEON,RTX,RTX Corporation,Raytheon,subsidiary,0.92,RTX defense subsidiary.
+PRATT & WHITNEY,RTX,RTX Corporation,Pratt & Whitney,subsidiary,0.9,RTX aerospace subsidiary.
+COLLINS AEROSPACE,RTX,RTX Corporation,Collins Aerospace,subsidiary,0.9,RTX aerospace subsidiary.
+NORTHROP GRUMMAN,NOC,Northrop Grumman Corporation,,exact,0.95,Large defense prime.
+GENERAL DYNAMICS,GD,General Dynamics Corporation,,exact,0.95,Large defense prime.
+GDIT,GD,General Dynamics Corporation,General Dynamics Information Technology,subsidiary,0.88,General Dynamics IT subsidiary.
+BOEING,BA,The Boeing Company,,exact,0.92,Large aerospace prime.
+HUNTINGTON INGALLS,HII,"Huntington Ingalls Industries, Inc.",,exact,0.95,Shipbuilding prime.
+INGALLS SHIPBUILDING,HII,"Huntington Ingalls Industries, Inc.",Ingalls Shipbuilding,subsidiary,0.9,HII subsidiary.
+L3HARRIS,LHX,"L3Harris Technologies, Inc.",,exact,0.95,Defense electronics prime.
+L3 TECHNOLOGIES,LHX,"L3Harris Technologies, Inc.",,subsidiary,0.88,Legacy L3 name.
+CACI,CACI,CACI International Inc,,exact,0.94,Government services/IT.
+SCIENCE APPLICATIONS INTERNATIONAL,SAIC,Science Applications International Corporation,,exact,0.94,Government services/IT.
+SAIC,SAIC,Science Applications International Corporation,,exact,0.94,Government services/IT.
+LEIDOS,LDOS,"Leidos Holdings, Inc.",,exact,0.94,Government services/IT.
+BOOZ ALLEN,BAH,Booz Allen Hamilton Holding Corporation,,exact,0.94,Government services/IT.
+PALANTIR,PLTR,Palantir Technologies Inc.,,exact,0.95,Government software.
+KRATOS,KTOS,"Kratos Defense & Security Solutions, Inc.",,exact,0.94,Defense technology.
+MERCURY SYSTEMS,MRCY,"Mercury Systems, Inc.",,exact,0.94,Defense electronics.
+AEROVIRONMENT,AVAV,"AeroVironment, Inc.",,exact,0.94,Unmanned systems.
+ROCKET LAB,RKLB,"Rocket Lab USA, Inc.",,exact,0.94,Space launch and systems.
+INTUITIVE MACHINES,LUNR,"Intuitive Machines, Inc.",,exact,0.94,Space systems.
+REDWIRE,RDW,Redwire Corporation,,exact,0.94,Space infrastructure.
+BLACKSKY,BKSY,BlackSky Technology Inc.,,exact,0.94,Satellite imagery.
+PLANET LABS,PL,Planet Labs PBC,,exact,0.94,Earth observation.
+PALO ALTO NETWORKS,PANW,"Palo Alto Networks, Inc.",,exact,0.93,Cybersecurity vendor.
+CROWDSTRIKE,CRWD,"CrowdStrike Holdings, Inc.",,exact,0.93,Cybersecurity vendor.
+CLOUDFLARE,NET,"Cloudflare, Inc.",,exact,0.93,Network/cybersecurity vendor.
+ZSCALER,ZS,"Zscaler, Inc.",,exact,0.93,Cybersecurity vendor.
+UNITED LAUNCH ALLIANCE,BA;LMT,United Launch Alliance,United Launch Alliance,ambiguous,0.45,Joint venture; do not map to parent without event-specific evidence.

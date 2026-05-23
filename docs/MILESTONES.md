@@ -193,3 +193,17 @@ The pipeline automates candidate corpus creation, review queue generation, expec
 merges, price fetching or reuse, event studies, placebo controls, peer controls,
 purged walk-forward backtests, calibration, cost/slippage simulation, null-shuffle
 tests, and gated research reports.
+
+## Government Contract Awards Domain
+
+Status: initial data-product milestone implemented.
+
+- Corpus domain: `government_contract_awards`
+- USAspending/manifest source discovery
+- Recipient-name-to-ticker mapping CSV
+- Parser facts, feature pivot, and review queue
+- Parser audit command and audit report scaffold
+- Market context enrichment command
+- Readiness report with no-model gating
+
+See `docs/GOVERNMENT_CONTRACT_AWARDS_MILESTONE.md`.
