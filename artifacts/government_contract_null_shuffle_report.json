@@ -1,0 +1,31 @@
+{
+  "n_iter": 500,
+  "seed": 42,
+  "actual_strategy_report": {
+    "horizon": 1,
+    "n_predictions": 141,
+    "n_trades": 50,
+    "n_long": 50,
+    "n_short": 0,
+    "long_threshold": 0.6,
+    "short_threshold": 0.4,
+    "allow_short": false,
+    "cost_bps": 5.0,
+    "slippage_bps": 5.0,
+    "mean_gross_event_return": -0.0032188157709755714,
+    "mean_net_event_return": -0.004218815770975572,
+    "median_net_event_return": 0.00025273688312088625,
+    "hit_rate": 0.5,
+    "event_sharpe": -1.3082147081424642,
+    "cumulative_net_return": -0.20111550269167888,
+    "max_drawdown": -0.2184004857284756,
+    "avg_trade_cost": 0.001
+  },
+  "null_metric": "mean_net_event_return",
+  "actual_metric": -0.004218815770975572,
+  "null_mean": -0.002477429753168362,
+  "null_std": 0.002587281516401755,
+  "one_sided_p_value_actual_ge_null": 0.7544910179640718,
+  "z_score_vs_null": -0.6730562587673226,
+  "null_distribution_path": "artifacts\\government_contract_null_shuffle_distribution.csv"
+}

@@ -1,0 +1,48 @@
+{
+  "peer_events": 185,
+  "peer_map": "artifacts\\government_contract_peer_map.csv",
+  "generation_diagnostics": {
+    "rows_total": 186,
+    "rows_used": 185,
+    "rows_skipped": 1,
+    "skipped_reasons": {
+      "missing_peer_BKSY": 1
+    }
+  },
+  "event_study_diagnostics": {
+    "events_total": 185,
+    "events_ok": 185,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "summary": {
+    "label": "peer_control",
+    "rows": 185,
+    "ok_rows": 185,
+    "h1": {
+      "n": 185,
+      "mean_log": -8.440711569957669e-05,
+      "median_log": 0.00021629424555066196,
+      "mean_simple": 7.289973247717545e-05,
+      "positive_rate": 0.5081081081081081,
+      "mean_abs_log": 0.012432802573801275
+    },
+    "h3": {
+      "n": 184,
+      "mean_log": -0.00229758985543419,
+      "median_log": -0.0008929373058225834,
+      "mean_simple": -0.0018386459214337438,
+      "positive_rate": 0.483695652173913,
+      "mean_abs_log": 0.022981983787872206
+    },
+    "h10": {
+      "n": 181,
+      "mean_log": -0.002639313717448908,
+      "median_log": 0.0007986140899515458,
+      "mean_simple": -0.00027230397392995675,
+      "positive_rate": 0.5027624309392266,
+      "mean_abs_log": 0.05088065559388175
+    }
+  },
+  "warning": "Peer controls use a fixed defense/space peer map; they are approximate and should be audited before any signal claim."
+}

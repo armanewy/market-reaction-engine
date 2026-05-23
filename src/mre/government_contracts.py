@@ -2097,6 +2097,7 @@ def validate_government_contract_public_links(
             if event_id not in event_by_id.index:
                 continue
             event = event_by_id.loc[event_id].to_dict()
+            event["event_id"] = event_id
             event["event_time"] = link.get("public_announcement_time")
             event["release_session"] = link.get("public_announcement_release_session")
             event["source_type"] = link.get("announcement_source_type_normalized")

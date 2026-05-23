@@ -1,0 +1,99 @@
+{
+  "random_events": 186,
+  "shifted_events": 105,
+  "random_generation_diagnostics": {
+    "rows_total": 186,
+    "rows_used": 186,
+    "rows_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "shifted_generation_diagnostics": {
+    "rows_total": 186,
+    "rows_used": 105,
+    "rows_skipped": 81,
+    "skipped_reasons": {
+      "no_placebo_date_NOC": 9,
+      "no_placebo_date_LMT": 19,
+      "no_placebo_date_MRCY": 1,
+      "no_placebo_date_RTX": 18,
+      "no_placebo_date_HII": 9,
+      "no_placebo_date_GD": 12,
+      "no_placebo_date_AVAV": 1,
+      "no_placebo_date_LHX": 2,
+      "no_placebo_date_SAIC": 2,
+      "no_placebo_date_BA": 8
+    }
+  },
+  "random_event_study_diagnostics": {
+    "events_total": 186,
+    "events_ok": 170,
+    "events_skipped": 16,
+    "skipped_reasons": {
+      "not enough pre-event history": 16
+    }
+  },
+  "shifted_event_study_diagnostics": {
+    "events_total": 105,
+    "events_ok": 105,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "random_summary": {
+    "label": "random_placebo",
+    "rows": 186,
+    "ok_rows": 170,
+    "h1": {
+      "n": 170,
+      "mean_log": 0.0033637651242861555,
+      "median_log": 0.0014292791961687994,
+      "mean_simple": 0.0036905214335109,
+      "positive_rate": 0.5529411764705883,
+      "mean_abs_log": 0.012180349293926267
+    },
+    "h3": {
+      "n": 170,
+      "mean_log": 0.0010848025973938104,
+      "median_log": -0.0006893395394499055,
+      "mean_simple": 0.0017843461951548224,
+      "positive_rate": 0.49411764705882355,
+      "mean_abs_log": 0.022112143069933334
+    },
+    "h10": {
+      "n": 169,
+      "mean_log": -0.0013305059035364256,
+      "median_log": 0.004194810978363855,
+      "mean_simple": 0.000983152049398391,
+      "positive_rate": 0.5325443786982249,
+      "mean_abs_log": 0.04392831279899845
+    }
+  },
+  "shifted_summary": {
+    "label": "shifted_placebo",
+    "rows": 105,
+    "ok_rows": 105,
+    "h1": {
+      "n": 105,
+      "mean_log": -0.0029479697516171565,
+      "median_log": -6.630946141681715e-05,
+      "mean_simple": -0.0025918137900339012,
+      "positive_rate": 0.49523809523809526,
+      "mean_abs_log": 0.01640097757135965
+    },
+    "h3": {
+      "n": 104,
+      "mean_log": -0.011262710469687777,
+      "median_log": -0.0034209107657549413,
+      "mean_simple": -0.010173852954026062,
+      "positive_rate": 0.4230769230769231,
+      "mean_abs_log": 0.03157228573959563
+    },
+    "h10": {
+      "n": 100,
+      "mean_log": -0.01242745781669847,
+      "median_log": -0.002723171349230388,
+      "mean_simple": -0.009541734410879599,
+      "positive_rate": 0.47,
+      "mean_abs_log": 0.05243366739735935
+    }
+  }
+}

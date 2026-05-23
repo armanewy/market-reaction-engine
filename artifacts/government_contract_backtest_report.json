@@ -1,0 +1,850 @@
+{
+  "agent": "4G",
+  "domain": "government_contract_awards",
+  "benchmark": "SPY",
+  "sector_benchmark": "SPY",
+  "sector_control_limitation": "Defense/aerospace ETF prices were not available locally; SPY is used as the sector-control fallback.",
+  "horizons": [
+    1,
+    3,
+    10
+  ],
+  "event_counts": {
+    "analysis_events": 186,
+    "event_study_rows": 186,
+    "event_study_ok_rows": 186,
+    "small_mid_cap_rows": 38,
+    "large_prime_rows": 158,
+    "material_1pct_rows": 61,
+    "material_5pct_rows": 14
+  },
+  "event_study_diagnostics": {
+    "events_total": 186,
+    "events_ok": 186,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "event_study_summary": {
+    "label": "main",
+    "rows": 186,
+    "ok_rows": 186,
+    "h1": {
+      "n": 186,
+      "mean_log": 0.001353100440460326,
+      "median_log": 0.0004814205447409455,
+      "mean_simple": 0.0019561422141647464,
+      "positive_rate": 0.5161290322580645,
+      "mean_abs_log": 0.01670970444184472
+    },
+    "h3": {
+      "n": 185,
+      "mean_log": 0.0005563696551720495,
+      "median_log": -0.0008381962770742969,
+      "mean_simple": 0.0020220110420203666,
+      "positive_rate": 0.4918918918918919,
+      "mean_abs_log": 0.028490727628463833
+    },
+    "h10": {
+      "n": 182,
+      "mean_log": -0.00021067690558076055,
+      "median_log": -0.003240049817834726,
+      "mean_simple": 0.0024660795441963073,
+      "positive_rate": 0.47802197802197804,
+      "mean_abs_log": 0.05035020723611114
+    }
+  },
+  "base_rate_rows": 111,
+  "hypotheses": {
+    "h1_material_small_mid_award": {
+      "definition": "small/mid-cap, actual funded award, obligated_amount_pct_market_cap >= 1%",
+      "expected": "positive",
+      "n": 26,
+      "h1": {
+        "n": 26,
+        "mean_log": 0.020917361273633618,
+        "median_log": 0.01452039238376467,
+        "mean_simple": 0.024179348742875275,
+        "positive_rate": 0.6153846153846154,
+        "negative_rate": 0.38461538461538464,
+        "alignment_rate": 0.6153846153846154,
+        "mean_abs_log": 0.043020595279414854
+      },
+      "h3": {
+        "n": 25,
+        "mean_log": 0.025031699835850407,
+        "median_log": 0.01460694919618009,
+        "mean_simple": 0.03241490605166284,
+        "positive_rate": 0.6,
+        "negative_rate": 0.4,
+        "alignment_rate": 0.6,
+        "mean_abs_log": 0.05496652553455367
+      },
+      "h10": {
+        "n": 25,
+        "mean_log": 0.0353680681246992,
+        "median_log": 0.010124345164611607,
+        "mean_simple": 0.042692158300885456,
+        "positive_rate": 0.56,
+        "negative_rate": 0.44,
+        "alignment_rate": 0.56,
+        "mean_abs_log": 0.08378729463781584
+      }
+    },
+    "h2_highly_material_small_mid_award": {
+      "definition": "small/mid-cap, actual funded award, obligated_amount_pct_market_cap >= 5%",
+      "expected": "strong_positive",
+      "n": 9,
+      "h1": {
+        "n": 9,
+        "mean_log": 0.027475551553230067,
+        "median_log": 0.024285531799902626,
+        "mean_simple": 0.029038677538116953,
+        "positive_rate": 0.7777777777777778,
+        "negative_rate": 0.2222222222222222,
+        "alignment_rate": 0.7777777777777778,
+        "mean_abs_log": 0.03954591618826137
+      },
+      "h3": {
+        "n": 8,
+        "mean_log": 0.032989282932143246,
+        "median_log": 0.027289486681099248,
+        "mean_simple": 0.035326095330593804,
+        "positive_rate": 0.75,
+        "negative_rate": 0.25,
+        "alignment_rate": 0.75,
+        "mean_abs_log": 0.05362736781278027
+      },
+      "h10": {
+        "n": 8,
+        "mean_log": 0.09785103802025055,
+        "median_log": 0.10275648406344207,
+        "mean_simple": 0.10634304213860626,
+        "positive_rate": 0.875,
+        "negative_rate": 0.125,
+        "alignment_rate": 0.875,
+        "mean_abs_log": 0.09896906379092685
+      }
+    },
+    "h3_large_prime_low_materiality_control": {
+      "definition": "large-prime ticker and obligated_amount_pct_market_cap < 1%",
+      "expected": "weak_or_none",
+      "n": 114,
+      "h1": {
+        "n": 114,
+        "mean_log": -0.0016664318699664785,
+        "median_log": -0.0004279168251635347,
+        "mean_simple": -0.0015128996021449288,
+        "positive_rate": 0.4824561403508772,
+        "negative_rate": 0.5175438596491229,
+        "alignment_rate": null,
+        "mean_abs_log": 0.011819929822239218
+      },
+      "h3": {
+        "n": 114,
+        "mean_log": -0.00204976438360082,
+        "median_log": -0.002089433913014524,
+        "mean_simple": -0.0016300495984357365,
+        "positive_rate": 0.4649122807017544,
+        "negative_rate": 0.5350877192982456,
+        "alignment_rate": null,
+        "mean_abs_log": 0.02185210127742757
+      },
+      "h10": {
+        "n": 111,
+        "mean_log": -9.365956649451198e-05,
+        "median_log": -0.0031204329865490623,
+        "mean_simple": 0.001232836446291085,
+        "positive_rate": 0.4864864864864865,
+        "negative_rate": 0.5135135135135135,
+        "alignment_rate": null,
+        "mean_abs_log": 0.03810772942798303
+      }
+    },
+    "h4_ceiling_only_contrast": {
+      "definition": "ceiling_only_flag=true",
+      "expected": "weaker_noisier",
+      "n": 0,
+      "h1": {
+        "n": 0
+      },
+      "h3": {
+        "n": 0
+      },
+      "h10": {
+        "n": 0
+      }
+    },
+    "h5_positive_runup_material_award": {
+      "definition": "pre_event_market_adjusted_return_20d > 0 and material award >= 1% market cap",
+      "expected": "weaker_or_sell_the_news",
+      "n": 28,
+      "h1": {
+        "n": 28,
+        "mean_log": 0.013305246969737432,
+        "median_log": 0.0013154260034376176,
+        "mean_simple": 0.016328799977790687,
+        "positive_rate": 0.5714285714285714,
+        "negative_rate": 0.42857142857142855,
+        "alignment_rate": null,
+        "mean_abs_log": 0.0371126655319169
+      },
+      "h3": {
+        "n": 28,
+        "mean_log": 0.01903488779359926,
+        "median_log": -0.004071051137890802,
+        "mean_simple": 0.02579841908589366,
+        "positive_rate": 0.4642857142857143,
+        "negative_rate": 0.5357142857142857,
+        "alignment_rate": null,
+        "mean_abs_log": 0.05544763822996842
+      },
+      "h10": {
+        "n": 28,
+        "mean_log": -0.0004452536727701195,
+        "median_log": -0.0104218879902491,
+        "mean_simple": 0.0054102862852857024,
+        "positive_rate": 0.42857142857142855,
+        "negative_rate": 0.5714285714285714,
+        "alignment_rate": null,
+        "mean_abs_log": 0.07527516029203608
+      }
+    }
+  },
+  "walk_forward": {
+    "horizon": 1,
+    "min_train": 40,
+    "purge_days": 10,
+    "n_events": 186,
+    "n_predictions": 141,
+    "n_skipped": 5,
+    "categorical_features": [
+      "ticker",
+      "event_type",
+      "event_subtype",
+      "event_family",
+      "source_type",
+      "release_session",
+      "expectedness",
+      "surprise_direction",
+      "surprise_magnitude",
+      "corpus_name",
+      "review_status",
+      "label_quality",
+      "evidence_status",
+      "agency",
+      "sub_agency",
+      "government_contract_event_type",
+      "award_type",
+      "contract_type",
+      "prime_or_sub",
+      "new_vs_modification",
+      "company_size_bucket",
+      "public_announcement_source_type",
+      "mapping_type",
+      "duplicate_status"
+    ],
+    "numeric_features": [
+      "materiality",
+      "pre_return_5d",
+      "pre_return_20d",
+      "benchmark_pre_return_20d",
+      "pre_vol_20d",
+      "benchmark_pre_vol_20d",
+      "alpha",
+      "beta",
+      "residual_vol",
+      "market_cap_before_event",
+      "pre_event_return_20d",
+      "pre_event_return_60d",
+      "pre_event_benchmark_return_20d",
+      "pre_event_benchmark_return_60d",
+      "pre_event_market_adjusted_return_20d",
+      "pre_event_market_adjusted_return_60d",
+      "award_amount",
+      "obligated_amount",
+      "recipient_mapping_confidence",
+      "award_amount_pct_market_cap",
+      "obligated_amount_pct_market_cap",
+      "actual_funded_award_flag",
+      "ceiling_only_flag",
+      "modification_flag",
+      "option_exercise_flag",
+      "new_work_flag",
+      "incumbent_or_extension_flag",
+      "prime_contractor_flag",
+      "subcontractor_flag",
+      "small_cap_flag",
+      "small_mid_cap_flag",
+      "large_prime_flag",
+      "large_prime_low_materiality_flag"
+    ],
+    "warnings": [
+      "Purged walk-forward metrics are diagnostics only; test placebo controls and costs before trusting them."
+    ],
+    "metrics": {
+      "accuracy": 0.5106382978723404,
+      "brier_score": 0.31324383440629305,
+      "balanced_accuracy": 0.5106639839034205,
+      "roc_auc": 0.4959758551307847,
+      "log_loss": 0.8936683382193735
+    },
+    "predictions_path": "artifacts\\government_contract_walk_forward_predictions.csv"
+  },
+  "calibration": {
+    "n_predictions": 141,
+    "bins": 10,
+    "expected_calibration_error": 0.19746141933075595,
+    "mean_probability": 0.49469039495619055,
+    "observed_rate": 0.5035460992907801
+  },
+  "strategy": {
+    "horizon": 1,
+    "n_predictions": 141,
+    "n_trades": 50,
+    "n_long": 50,
+    "n_short": 0,
+    "long_threshold": 0.6,
+    "short_threshold": 0.4,
+    "allow_short": false,
+    "cost_bps": 5.0,
+    "slippage_bps": 5.0,
+    "mean_gross_event_return": -0.0032188157709755714,
+    "mean_net_event_return": -0.004218815770975572,
+    "median_net_event_return": 0.00025273688312088625,
+    "hit_rate": 0.5,
+    "event_sharpe": -1.3082147081424642,
+    "cumulative_net_return": -0.20111550269167888,
+    "max_drawdown": -0.2184004857284756,
+    "avg_trade_cost": 0.001,
+    "trades_path": "artifacts\\government_contract_strategy_trades.csv"
+  },
+  "null_shuffle": {
+    "n_iter": 500,
+    "seed": 42,
+    "actual_strategy_report": {
+      "horizon": 1,
+      "n_predictions": 141,
+      "n_trades": 50,
+      "n_long": 50,
+      "n_short": 0,
+      "long_threshold": 0.6,
+      "short_threshold": 0.4,
+      "allow_short": false,
+      "cost_bps": 5.0,
+      "slippage_bps": 5.0,
+      "mean_gross_event_return": -0.0032188157709755714,
+      "mean_net_event_return": -0.004218815770975572,
+      "median_net_event_return": 0.00025273688312088625,
+      "hit_rate": 0.5,
+      "event_sharpe": -1.3082147081424642,
+      "cumulative_net_return": -0.20111550269167888,
+      "max_drawdown": -0.2184004857284756,
+      "avg_trade_cost": 0.001
+    },
+    "null_metric": "mean_net_event_return",
+    "actual_metric": -0.004218815770975572,
+    "null_mean": -0.002477429753168362,
+    "null_std": 0.002587281516401755,
+    "one_sided_p_value_actual_ge_null": 0.7544910179640718,
+    "z_score_vs_null": -0.6730562587673226,
+    "null_distribution_path": "artifacts\\government_contract_null_shuffle_distribution.csv"
+  },
+  "placebo_controls": {
+    "random_events": 186,
+    "shifted_events": 105,
+    "random_generation_diagnostics": {
+      "rows_total": 186,
+      "rows_used": 186,
+      "rows_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "shifted_generation_diagnostics": {
+      "rows_total": 186,
+      "rows_used": 105,
+      "rows_skipped": 81,
+      "skipped_reasons": {
+        "no_placebo_date_NOC": 9,
+        "no_placebo_date_LMT": 19,
+        "no_placebo_date_MRCY": 1,
+        "no_placebo_date_RTX": 18,
+        "no_placebo_date_HII": 9,
+        "no_placebo_date_GD": 12,
+        "no_placebo_date_AVAV": 1,
+        "no_placebo_date_LHX": 2,
+        "no_placebo_date_SAIC": 2,
+        "no_placebo_date_BA": 8
+      }
+    },
+    "random_event_study_diagnostics": {
+      "events_total": 186,
+      "events_ok": 170,
+      "events_skipped": 16,
+      "skipped_reasons": {
+        "not enough pre-event history": 16
+      }
+    },
+    "shifted_event_study_diagnostics": {
+      "events_total": 105,
+      "events_ok": 105,
+      "events_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "random_summary": {
+      "label": "random_placebo",
+      "rows": 186,
+      "ok_rows": 170,
+      "h1": {
+        "n": 170,
+        "mean_log": 0.0033637651242861555,
+        "median_log": 0.0014292791961687994,
+        "mean_simple": 0.0036905214335109,
+        "positive_rate": 0.5529411764705883,
+        "mean_abs_log": 0.012180349293926267
+      },
+      "h3": {
+        "n": 170,
+        "mean_log": 0.0010848025973938104,
+        "median_log": -0.0006893395394499055,
+        "mean_simple": 0.0017843461951548224,
+        "positive_rate": 0.49411764705882355,
+        "mean_abs_log": 0.022112143069933334
+      },
+      "h10": {
+        "n": 169,
+        "mean_log": -0.0013305059035364256,
+        "median_log": 0.004194810978363855,
+        "mean_simple": 0.000983152049398391,
+        "positive_rate": 0.5325443786982249,
+        "mean_abs_log": 0.04392831279899845
+      }
+    },
+    "shifted_summary": {
+      "label": "shifted_placebo",
+      "rows": 105,
+      "ok_rows": 105,
+      "h1": {
+        "n": 105,
+        "mean_log": -0.0029479697516171565,
+        "median_log": -6.630946141681715e-05,
+        "mean_simple": -0.0025918137900339012,
+        "positive_rate": 0.49523809523809526,
+        "mean_abs_log": 0.01640097757135965
+      },
+      "h3": {
+        "n": 104,
+        "mean_log": -0.011262710469687777,
+        "median_log": -0.0034209107657549413,
+        "mean_simple": -0.010173852954026062,
+        "positive_rate": 0.4230769230769231,
+        "mean_abs_log": 0.03157228573959563
+      },
+      "h10": {
+        "n": 100,
+        "mean_log": -0.01242745781669847,
+        "median_log": -0.002723171349230388,
+        "mean_simple": -0.009541734410879599,
+        "positive_rate": 0.47,
+        "mean_abs_log": 0.05243366739735935
+      }
+    }
+  },
+  "peer_controls": {
+    "peer_events": 185,
+    "peer_map": "artifacts\\government_contract_peer_map.csv",
+    "generation_diagnostics": {
+      "rows_total": 186,
+      "rows_used": 185,
+      "rows_skipped": 1,
+      "skipped_reasons": {
+        "missing_peer_BKSY": 1
+      }
+    },
+    "event_study_diagnostics": {
+      "events_total": 185,
+      "events_ok": 185,
+      "events_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "summary": {
+      "label": "peer_control",
+      "rows": 185,
+      "ok_rows": 185,
+      "h1": {
+        "n": 185,
+        "mean_log": -8.440711569957669e-05,
+        "median_log": 0.00021629424555066196,
+        "mean_simple": 7.289973247717545e-05,
+        "positive_rate": 0.5081081081081081,
+        "mean_abs_log": 0.012432802573801275
+      },
+      "h3": {
+        "n": 184,
+        "mean_log": -0.00229758985543419,
+        "median_log": -0.0008929373058225834,
+        "mean_simple": -0.0018386459214337438,
+        "positive_rate": 0.483695652173913,
+        "mean_abs_log": 0.022981983787872206
+      },
+      "h10": {
+        "n": 181,
+        "mean_log": -0.002639313717448908,
+        "median_log": 0.0007986140899515458,
+        "mean_simple": -0.00027230397392995675,
+        "positive_rate": 0.5027624309392266,
+        "mean_abs_log": 0.05088065559388175
+      }
+    },
+    "warning": "Peer controls use a fixed defense/space peer map; they are approximate and should be audited before any signal claim."
+  },
+  "materiality_sensitivity": [
+    {
+      "threshold": 0.005,
+      "slice": "all",
+      "horizon": 1,
+      "n": 88,
+      "mean_log": 0.007202923059072299,
+      "mean_simple": 0.008274064194253316,
+      "positive_rate": 0.5681818181818182
+    },
+    {
+      "threshold": 0.005,
+      "slice": "all",
+      "horizon": 3,
+      "n": 87,
+      "mean_log": 0.008206095487657427,
+      "mean_simple": 0.010632872275672011,
+      "positive_rate": 0.5287356321839081
+    },
+    {
+      "threshold": 0.005,
+      "slice": "all",
+      "horizon": 10,
+      "n": 87,
+      "mean_log": 0.004460703025958568,
+      "mean_simple": 0.008089791121451136,
+      "positive_rate": 0.5057471264367817
+    },
+    {
+      "threshold": 0.005,
+      "slice": "small_mid",
+      "horizon": 1,
+      "n": 30,
+      "mean_log": 0.01934380270293708,
+      "mean_simple": 0.022184446644330797,
+      "positive_rate": 0.6333333333333333
+    },
+    {
+      "threshold": 0.005,
+      "slice": "small_mid",
+      "horizon": 3,
+      "n": 29,
+      "mean_log": 0.022315398288036227,
+      "mean_simple": 0.02870517270580269,
+      "positive_rate": 0.5862068965517241
+    },
+    {
+      "threshold": 0.005,
+      "slice": "small_mid",
+      "horizon": 10,
+      "n": 29,
+      "mean_log": 0.03145654062055655,
+      "mean_simple": 0.03813338670270063,
+      "positive_rate": 0.5862068965517241
+    },
+    {
+      "threshold": 0.005,
+      "slice": "large_prime",
+      "horizon": 1,
+      "n": 68,
+      "mean_log": 0.002790504377692038,
+      "mean_simple": 0.0029683646794033355,
+      "positive_rate": 0.5735294117647058
+    },
+    {
+      "threshold": 0.005,
+      "slice": "large_prime",
+      "horizon": 3,
+      "n": 68,
+      "mean_log": 0.0010936007110346202,
+      "mean_simple": 0.001494147475275268,
+      "positive_rate": 0.4852941176470588
+    },
+    {
+      "threshold": 0.005,
+      "slice": "large_prime",
+      "horizon": 10,
+      "n": 68,
+      "mean_log": -0.005668723689431551,
+      "mean_simple": -0.003260685914163449,
+      "positive_rate": 0.47058823529411764
+    },
+    {
+      "threshold": 0.01,
+      "slice": "all",
+      "horizon": 1,
+      "n": 61,
+      "mean_log": 0.008184975223091797,
+      "mean_simple": 0.009673650556350753,
+      "positive_rate": 0.5737704918032787
+    },
+    {
+      "threshold": 0.01,
+      "slice": "all",
+      "horizon": 3,
+      "n": 60,
+      "mean_log": 0.009166796087283742,
+      "mean_simple": 0.012537726122699266,
+      "positive_rate": 0.5333333333333333
+    },
+    {
+      "threshold": 0.01,
+      "slice": "all",
+      "horizon": 10,
+      "n": 60,
+      "mean_log": 0.0034895921393417986,
+      "mean_simple": 0.008030498241341104,
+      "positive_rate": 0.4666666666666667
+    },
+    {
+      "threshold": 0.01,
+      "slice": "small_mid",
+      "horizon": 1,
+      "n": 26,
+      "mean_log": 0.020917361273633618,
+      "mean_simple": 0.024179348742875275,
+      "positive_rate": 0.6153846153846154
+    },
+    {
+      "threshold": 0.01,
+      "slice": "small_mid",
+      "horizon": 3,
+      "n": 25,
+      "mean_log": 0.025031699835850407,
+      "mean_simple": 0.03241490605166284,
+      "positive_rate": 0.6
+    },
+    {
+      "threshold": 0.01,
+      "slice": "small_mid",
+      "horizon": 10,
+      "n": 25,
+      "mean_log": 0.0353680681246992,
+      "mean_simple": 0.042692158300885456,
+      "positive_rate": 0.56
+    },
+    {
+      "threshold": 0.01,
+      "slice": "large_prime",
+      "horizon": 1,
+      "n": 44,
+      "mean_log": 0.002553674001782551,
+      "mean_simple": 0.0027690045168447227,
+      "positive_rate": 0.6136363636363636
+    },
+    {
+      "threshold": 0.01,
+      "slice": "large_prime",
+      "horizon": 3,
+      "n": 44,
+      "mean_log": 7.670654569221531e-06,
+      "mean_simple": 0.0004706734922211171,
+      "positive_rate": 0.5
+    },
+    {
+      "threshold": 0.01,
+      "slice": "large_prime",
+      "horizon": 10,
+      "n": 44,
+      "mean_log": -0.013811607055381132,
+      "mean_simple": -0.010863834415911254,
+      "positive_rate": 0.4090909090909091
+    },
+    {
+      "threshold": 0.02,
+      "slice": "all",
+      "horizon": 1,
+      "n": 30,
+      "mean_log": 0.01624835895960396,
+      "mean_simple": 0.019061293846860908,
+      "positive_rate": 0.6
+    },
+    {
+      "threshold": 0.02,
+      "slice": "all",
+      "horizon": 3,
+      "n": 29,
+      "mean_log": 0.022087770385102023,
+      "mean_simple": 0.028335294486956437,
+      "positive_rate": 0.5517241379310345
+    },
+    {
+      "threshold": 0.02,
+      "slice": "all",
+      "horizon": 10,
+      "n": 29,
+      "mean_log": 0.021012412378089734,
+      "mean_simple": 0.027765449921263646,
+      "positive_rate": 0.4482758620689655
+    },
+    {
+      "threshold": 0.02,
+      "slice": "small_mid",
+      "horizon": 1,
+      "n": 18,
+      "mean_log": 0.033503566954611236,
+      "mean_simple": 0.037950890770919565,
+      "positive_rate": 0.6666666666666666
+    },
+    {
+      "threshold": 0.02,
+      "slice": "small_mid",
+      "horizon": 3,
+      "n": 17,
+      "mean_log": 0.04192264224739604,
+      "mean_simple": 0.052255962928447704,
+      "positive_rate": 0.6470588235294118
+    },
+    {
+      "threshold": 0.02,
+      "slice": "small_mid",
+      "horizon": 10,
+      "n": 17,
+      "mean_log": 0.05169456605661831,
+      "mean_simple": 0.06199381755689924,
+      "positive_rate": 0.5882352941176471
+    },
+    {
+      "threshold": 0.02,
+      "slice": "large_prime",
+      "horizon": 1,
+      "n": 19,
+      "mean_log": 0.000735836292156156,
+      "mean_simple": 0.0011084963314078366,
+      "positive_rate": 0.631578947368421
+    },
+    {
+      "threshold": 0.02,
+      "slice": "large_prime",
+      "horizon": 3,
+      "n": 19,
+      "mean_log": -0.0018439253217463214,
+      "mean_simple": -0.0014716364125479649,
+      "positive_rate": 0.47368421052631576
+    },
+    {
+      "threshold": 0.02,
+      "slice": "large_prime",
+      "horizon": 10,
+      "n": 19,
+      "mean_log": -0.009644145581724608,
+      "mean_simple": -0.006721188713702496,
+      "positive_rate": 0.3157894736842105
+    },
+    {
+      "threshold": 0.05,
+      "slice": "all",
+      "horizon": 1,
+      "n": 14,
+      "mean_log": 0.016775275003737666,
+      "mean_simple": 0.017835250583840192,
+      "positive_rate": 0.7142857142857143
+    },
+    {
+      "threshold": 0.05,
+      "slice": "all",
+      "horizon": 3,
+      "n": 13,
+      "mean_log": 0.021033389645537765,
+      "mean_simple": 0.022575195827090017,
+      "positive_rate": 0.6923076923076923
+    },
+    {
+      "threshold": 0.05,
+      "slice": "all",
+      "horizon": 10,
+      "n": 13,
+      "mean_log": 0.06192020791079758,
+      "mean_simple": 0.06760887315859523,
+      "positive_rate": 0.6923076923076923
+    },
+    {
+      "threshold": 0.05,
+      "slice": "small_mid",
+      "horizon": 1,
+      "n": 9,
+      "mean_log": 0.027475551553230067,
+      "mean_simple": 0.029038677538116953,
+      "positive_rate": 0.7777777777777778
+    },
+    {
+      "threshold": 0.05,
+      "slice": "small_mid",
+      "horizon": 3,
+      "n": 8,
+      "mean_log": 0.032989282932143246,
+      "mean_simple": 0.035326095330593804,
+      "positive_rate": 0.75
+    },
+    {
+      "threshold": 0.05,
+      "slice": "small_mid",
+      "horizon": 10,
+      "n": 8,
+      "mean_log": 0.09785103802025055,
+      "mean_simple": 0.10634304213860626,
+      "positive_rate": 0.875
+    },
+    {
+      "threshold": 0.05,
+      "slice": "large_prime",
+      "horizon": 1,
+      "n": 8,
+      "mean_log": 0.008568233866775415,
+      "mean_simple": 0.008882237299325468,
+      "positive_rate": 0.75
+    },
+    {
+      "threshold": 0.05,
+      "slice": "large_prime",
+      "horizon": 3,
+      "n": 8,
+      "mean_log": 0.006483758873657651,
+      "mean_simple": 0.006756504727192955,
+      "positive_rate": 0.625
+    },
+    {
+      "threshold": 0.05,
+      "slice": "large_prime",
+      "horizon": 10,
+      "n": 8,
+      "mean_log": 0.007794773619613168,
+      "mean_simple": 0.008630006621831679,
+      "positive_rate": 0.5
+    }
+  ],
+  "timestamp_issue_found": false,
+  "mapping_context_issue_found": false,
+  "artifacts": {
+    "analysis_events": "artifacts\\government_contract_analysis_events.csv",
+    "event_study": "artifacts\\government_contract_event_study.csv",
+    "base_rates": "artifacts\\government_contract_base_rates.csv",
+    "walk_forward_predictions": "artifacts\\government_contract_walk_forward_predictions.csv",
+    "calibration": "artifacts\\government_contract_calibration.csv",
+    "strategy_trades": "artifacts\\government_contract_strategy_trades.csv",
+    "null_shuffle_distribution": "artifacts\\government_contract_null_shuffle_distribution.csv",
+    "null_shuffle_report": "artifacts\\government_contract_null_shuffle_report.json",
+    "placebo_report": "artifacts\\government_contract_placebo_report.json",
+    "peer_report": "artifacts\\government_contract_peer_report.json",
+    "materiality_sensitivity": "artifacts\\government_contract_materiality_sensitivity.md",
+    "backtest_report": "artifacts\\government_contract_backtest_report.json",
+    "agent_report": "artifacts\\government_contract_agent_4g_report.md"
+  },
+  "warnings": [
+    "Do not call the government-contract signal graduated from Agent 4G.",
+    "USAspending remains economic verification only; public announcement timestamps drive event_time.",
+    "GlobalSecurity mirrors were used only for machine-readable text during manifest buildout, not as timestamp authority.",
+    "War.gov/DoD after-close announcements are measured from the next trading day by release_session handling.",
+    "Sector-control ETF prices were unavailable unless noted; SPY fallback weakens sector-control interpretation."
+  ],
+  "decision": "failed falsification"
+}

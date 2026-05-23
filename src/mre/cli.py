@@ -49,6 +49,7 @@ from .government_contracts import (
     write_government_contract_public_awareness_report,
     write_government_contract_readiness_report,
 )
+from .government_contract_falsification import run_government_contract_falsification_pass
 from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
 from .corpus_demo import generate_corpus_demo_data
 from .demo import generate_demo_data
@@ -542,6 +543,27 @@ def cmd_biotech_catalyst_falsification_pass(args: argparse.Namespace) -> None:
         out_dir=args.out_dir,
         benchmark=args.benchmark,
         sector_benchmark=args.sector_benchmark,
+        horizons=comma_ints(args.horizons),
+        min_train=args.min_train,
+        purge_days=args.purge_days,
+        probability_threshold=args.probability_threshold,
+        cost_bps=args.cost_bps,
+        slippage_bps=args.slippage_bps,
+        null_iterations=args.null_iterations,
+        seed=args.seed,
+        estimation_window=args.estimation_window,
+        estimation_gap=args.estimation_gap,
+        min_estimation_observations=args.min_estimation_observations,
+    )
+    print(json.dumps(report, indent=2, default=str))
+
+
+def cmd_government_contract_falsification_pass(args: argparse.Namespace) -> None:
+    report = run_government_contract_falsification_pass(
+        events_path=args.events,
+        prices_dir=args.prices_dir,
+        out_dir=args.out_dir,
+        benchmark=args.benchmark,
         horizons=comma_ints(args.horizons),
         min_train=args.min_train,
         purge_days=args.purge_days,
@@ -1670,6 +1692,24 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--estimation-gap", type=int, default=5)
     p.add_argument("--min-estimation-observations", type=int, default=60)
     p.set_defaults(func=cmd_biotech_catalyst_falsification_pass)
+
+    p = sub.add_parser("government-contract-falsification-pass", help="Run the first government-contract event-study and falsification pass.")
+    p.add_argument("--events", default="data/events/government_contract_public_eligible_corpus.csv")
+    p.add_argument("--prices-dir", default="data/prices/government_contracts")
+    p.add_argument("--out-dir", default="artifacts")
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--horizons", default="1,3,10")
+    p.add_argument("--min-train", type=int, default=40)
+    p.add_argument("--purge-days", type=int, default=10)
+    p.add_argument("--probability-threshold", type=float, default=0.60)
+    p.add_argument("--cost-bps", type=float, default=5.0)
+    p.add_argument("--slippage-bps", type=float, default=5.0)
+    p.add_argument("--null-iterations", type=int, default=500)
+    p.add_argument("--seed", type=int, default=42)
+    p.add_argument("--estimation-window", type=int, default=120)
+    p.add_argument("--estimation-gap", type=int, default=5)
+    p.add_argument("--min-estimation-observations", type=int, default=60)
+    p.set_defaults(func=cmd_government_contract_falsification_pass)
 
     p = sub.add_parser("parse-capital-raises", help="Parse capital raise, dilution, ATM, convertible, and liquidity source documents into reviewable fact/event rows.")
     p.add_argument("--documents", required=True, help="Source-document manifest.")

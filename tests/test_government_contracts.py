@@ -556,6 +556,7 @@ def test_validate_public_announcement_links_builds_eligible_primary_and_duplicat
     assert validated.loc[0, "model_eligible_public_announcement_flag"] == True
     assert validated.loc[1, "model_eligible_public_announcement_flag"] == False
     assert len(eligible) == 1
+    assert eligible.loc[0, "event_id"] == "E1"
     assert eligible.loc[0, "event_time"] == "2024-01-02T08:30:00"
     assert eligible.loc[0, "release_session"] == "before_open"
     assert summary["gates"]["no_duplicate_award_counted_twice"] is False
