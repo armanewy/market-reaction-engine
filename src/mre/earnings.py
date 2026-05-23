@@ -71,6 +71,18 @@ def _normalize_timestamp(ts: object) -> pd.Timestamp:
     return out
 
 
+def _normalize_utc_filter_timestamp(ts: object) -> pd.Timestamp:
+    out = pd.to_datetime(ts, errors="coerce")
+    if pd.isna(out):
+        return out
+    out = pd.Timestamp(out)
+    if out.tzinfo is None:
+        out = out.tz_localize("UTC")
+    else:
+        out = out.tz_convert("UTC")
+    return out
+
+
 def normalize_sec_items(items: object) -> set[str]:
     """Normalize SEC item strings such as 'Item 2.02; 9.01'."""
     text = re.sub(r"(?i)\bitem\b", "", str(items or ""))
@@ -248,8 +260,8 @@ def build_earnings_corpus_from_sec(
     """
     rows: list[dict] = []
     forms = ["8-K", "8-K/A"] + (["10-Q", "10-K"] if include_periodic else [])
-    start_ts = pd.to_datetime(start, errors="coerce") if start else None
-    end_ts = pd.to_datetime(end, errors="coerce") if end else None
+    start_ts = _normalize_utc_filter_timestamp(start) if start else None
+    end_ts = _normalize_utc_filter_timestamp(end) if end else None
     sector_map = {k.upper(): v.upper() for k, v in (ticker_to_sector_benchmark or {}).items()}
 
     for ticker in sorted({str(t).upper().strip() for t in tickers if str(t).strip()}):
@@ -257,7 +269,7 @@ def build_earnings_corpus_from_sec(
         if filings.empty:
             continue
         filings = filings.copy()
-        filings["_event_time"] = pd.to_datetime(filings.get("acceptanceDateTime", filings.get("filingDate")), errors="coerce")
+        filings["_event_time"] = pd.to_datetime(filings.get("acceptanceDateTime", filings.get("filingDate")), errors="coerce", utc=True)
         if start_ts is not None and not pd.isna(start_ts):
             filings = filings[filings["_event_time"] >= start_ts]
         if end_ts is not None and not pd.isna(end_ts):

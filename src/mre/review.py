@@ -127,7 +127,8 @@ def make_review_queue(
         out["evidence_text_count"] = 0
         out["mean_fact_confidence"] = np.nan
         out["extracted_fact_names"] = ""
-        out["evidence_status"] = "not_checked"
+        existing_evidence = out["evidence_status"].fillna("").astype(str).str.strip()
+        out["evidence_status"] = existing_evidence.where(existing_evidence != "", "not_checked")
         diag.add_issue("facts_path_not_supplied")
 
     # Useful triage hints.  These are not labels.
