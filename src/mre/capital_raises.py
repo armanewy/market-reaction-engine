@@ -8,14 +8,20 @@ import numpy as np
 import pandas as pd
 
 from .events import make_event_template
+from .ingestion import IngestionDiagnostics, build_sec_source_document_manifest
 from .paths import ensure_parent
 from .prices import load_price_csv
+from .sec import SecClient
 from .source_docs import SourceDocument, load_source_documents
 
 
 AMOUNT_RE = re.compile(r"\$?\s*(?P<num>-?\d{1,3}(?:,\d{3})*(?:\.\d+)?|-?\d+(?:\.\d+)?)\s*(?P<unit>billion|bn|b|million|mn|m)?", re.I)
 SHARES_RE = re.compile(r"(?P<num>\d{1,3}(?:,\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)\s*(?P<unit>million|mn|m)?\s+shares", re.I)
 PRICE_RE = re.compile(r"\$\s*(?P<num>\d+(?:\.\d+)?)\s+per\s+share", re.I)
+
+CAPITAL_RAISE_SEC_FORMS = ("8-K", "S-1", "S-3", "424B2", "424B3", "424B4", "424B5", "424B7")
+CAPITAL_RAISE_8K_ITEMS = "1.01,2.03,3.02,8.01"
+CAPITAL_RAISE_EXHIBIT_PATTERN = r"(?i)(ex[-_]?|exhibit|99|sales[-_ ]agreement|purchase[-_ ]agreement|securities[-_ ]purchase|placement|offering|atm|note|press)"
 
 
 @dataclass(frozen=True)
@@ -297,6 +303,108 @@ def parse_capital_raise_manifest(
     features = pivot_capital_raise_facts(facts, features_out, min_confidence=usable_confidence)
     events = capital_raise_features_to_events(features, events_out)
     return facts, features, events
+
+
+def build_capital_raise_sec_source_documents(
+    client: SecClient,
+    tickers: list[str],
+    out_manifest: str | Path,
+    docs_dir: str | Path,
+    *,
+    start: str | None = None,
+    end: str | None = None,
+    forms: list[str] | None = None,
+    item_filter: str = CAPITAL_RAISE_8K_ITEMS,
+    limit_per_ticker: int | None = None,
+    sector_benchmark: str = "",
+    overwrite: bool = False,
+    min_text_chars: int = 40,
+) -> tuple[pd.DataFrame, IngestionDiagnostics]:
+    """Build a capital-raise-focused SEC source-document manifest.
+
+    8-K rows are item-filtered to financing-relevant items. Registration
+    statements and prospectus supplements usually do not have 8-K item strings,
+    so they are fetched separately without item filtering.
+    """
+    forms = [f.upper().strip() for f in (forms or list(CAPITAL_RAISE_SEC_FORMS)) if str(f).strip()]
+    out_manifest = Path(out_manifest)
+    tmp_paths: list[Path] = []
+    frames: list[pd.DataFrame] = []
+    combined = IngestionDiagnostics()
+
+    def add_diag(diag: IngestionDiagnostics) -> None:
+        combined.rows_total += diag.rows_total
+        combined.rows_written += diag.rows_written
+        combined.rows_skipped += diag.rows_skipped
+        combined.downloaded += diag.downloaded
+        combined.local_files_read += diag.local_files_read
+        combined.inline_rows_read += diag.inline_rows_read
+        combined.text_chars_total += diag.text_chars_total
+        for reason, count in diag.skipped_reasons.items():
+            combined.skipped_reasons[reason] = combined.skipped_reasons.get(reason, 0) + int(count)
+
+    if "8-K" in forms:
+        tmp = out_manifest.parent / f".{out_manifest.stem}_8k_tmp.csv"
+        tmp_paths.append(tmp)
+        df, diag = build_sec_source_document_manifest(
+            client,
+            tickers=tickers,
+            out_manifest=tmp,
+            docs_dir=docs_dir,
+            forms=("8-K",),
+            start=start,
+            end=end,
+            item_filter=item_filter,
+            limit_per_ticker=limit_per_ticker,
+            include_primary=True,
+            include_exhibits=True,
+            exhibit_pattern=CAPITAL_RAISE_EXHIBIT_PATTERN,
+            sector_benchmark=sector_benchmark,
+            overwrite=overwrite,
+            min_text_chars=min_text_chars,
+        )
+        frames.append(df)
+        add_diag(diag)
+
+    other_forms = [f for f in forms if f != "8-K"]
+    if other_forms:
+        tmp = out_manifest.parent / f".{out_manifest.stem}_registration_tmp.csv"
+        tmp_paths.append(tmp)
+        df, diag = build_sec_source_document_manifest(
+            client,
+            tickers=tickers,
+            out_manifest=tmp,
+            docs_dir=docs_dir,
+            forms=other_forms,
+            start=start,
+            end=end,
+            item_filter=None,
+            limit_per_ticker=limit_per_ticker,
+            include_primary=True,
+            include_exhibits=False,
+            exhibit_pattern=CAPITAL_RAISE_EXHIBIT_PATTERN,
+            sector_benchmark=sector_benchmark,
+            overwrite=overwrite,
+            min_text_chars=min_text_chars,
+        )
+        frames.append(df)
+        add_diag(diag)
+
+    out = pd.concat([f for f in frames if not f.empty], ignore_index=True) if frames else pd.DataFrame()
+    if not out.empty:
+        out = out.drop_duplicates(["source_doc_id"]).sort_values(["ticker", "event_time", "source_doc_id"]).reset_index(drop=True)
+        out["event_type"] = "financing"
+        out["event_subtype"] = out["event_subtype"].replace("", "capital_raise_source")
+        out["notes"] = out["notes"].fillna("").astype(str) + " capital_raise_dilution_candidate=true"
+    ensure_parent(out_manifest)
+    out.to_csv(out_manifest, index=False)
+    for tmp in tmp_paths:
+        try:
+            tmp.unlink()
+        except FileNotFoundError:
+            pass
+    combined.rows_written = int(len(out))
+    return out, combined
 
 
 def pivot_capital_raise_facts(facts: pd.DataFrame, out_path: str | Path | None = None, *, min_confidence: float = 0.70) -> pd.DataFrame:
@@ -621,3 +729,82 @@ def enrich_capital_raise_context(
     ensure_parent(out_path)
     enriched.to_csv(out_path, index=False)
     return enriched
+
+
+def capital_raise_readiness_summary(events: pd.DataFrame, *, min_train: int = 40) -> dict[str, object]:
+    if events.empty:
+        return {"rows": 0, "decision": "continue corpus buildout", "reason": "no rows"}
+
+    review_status = events.get("review_status", pd.Series([""] * len(events), index=events.index)).fillna("").astype(str).str.lower()
+    usable = events[~review_status.isin({"rejected", "drop", "dropped"})].copy()
+    reviewed = usable[review_status.eq("reviewed")].copy() if "review_status" in events.columns else usable
+    if reviewed.empty:
+        reviewed = usable
+
+    completed = reviewed[reviewed.get("completed_financing_flag", pd.Series(False, index=reviewed.index)).map(_bool_value)]
+    capacity = reviewed[reviewed.get("capacity_only_flag", pd.Series(False, index=reviewed.index)).map(_bool_value)]
+    ambiguous = events[review_status.isin({"ambiguous", "needs_review", "unreviewed"})]
+
+    metrics: dict[str, object] = {
+        "candidate_rows": int(len(events)),
+        "reviewed_usable_rows": int(len(reviewed)),
+        "completed_financing_rows": int(len(completed)),
+        "capacity_only_rows": int(len(capacity)),
+        "ambiguous_or_unreviewed_rows": int(len(ambiguous)),
+        "rejected_rows": int(review_status.isin({"rejected", "drop", "dropped"}).sum()),
+        "rows_with_financing_amount_best": int(reviewed.get("financing_amount_best", pd.Series(index=reviewed.index, dtype=float)).notna().sum()),
+        "rows_with_price_per_share": int((reviewed.get("price_per_share", pd.Series(index=reviewed.index, dtype=float)).notna() | reviewed.get("offering_price", pd.Series(index=reviewed.index, dtype=float)).notna()).sum()),
+        "rows_with_discount_to_last_close_pct": int(reviewed.get("discount_to_last_close_pct", pd.Series(index=reviewed.index, dtype=float)).notna().sum()),
+        "rows_with_market_cap_before_event": int(reviewed.get("market_cap_before_event", pd.Series(index=reviewed.index, dtype=float)).notna().sum()),
+        "rows_with_financing_amount_pct_market_cap": int(reviewed.get("financing_amount_pct_market_cap", pd.Series(index=reviewed.index, dtype=float)).notna().sum()),
+        "rows_with_estimated_dilution_pct": int(reviewed.get("estimated_dilution_pct", pd.Series(index=reviewed.index, dtype=float)).notna().sum()),
+        "likely_oos_predictions_min_train": int(max(0, len(reviewed) - int(min_train))),
+    }
+
+    blockers = []
+    gates = {
+        "reviewed_usable_events_80_min": metrics["reviewed_usable_rows"] >= 80,
+        "reviewed_usable_events_100_preferred": metrics["reviewed_usable_rows"] >= 100,
+        "completed_financing_events_60": metrics["completed_financing_rows"] >= 60,
+        "financing_amount_pct_market_cap_rows_40": metrics["rows_with_financing_amount_pct_market_cap"] >= 40,
+        "discount_rows_40": metrics["rows_with_discount_to_last_close_pct"] >= 40,
+        "likely_oos_predictions_30": metrics["likely_oos_predictions_min_train"] >= 30,
+    }
+    for gate, passed in gates.items():
+        if not passed:
+            blockers.append(gate)
+    metrics["gates"] = gates
+    metrics["top_missing_fields_blocking_modeling"] = blockers[:]
+    if all(gates.values()):
+        metrics["decision"] = "model-ready"
+        metrics["reason"] = "corpus clears first-pass non-modeling readiness gates"
+    else:
+        metrics["decision"] = "continue corpus buildout"
+        metrics["reason"] = "readiness gates still failing: " + ", ".join(blockers)
+    return metrics
+
+
+def write_capital_raise_readiness_report(events_path: str | Path, out_path: str | Path, *, min_train: int = 40) -> dict[str, object]:
+    events = pd.read_csv(events_path)
+    summary = capital_raise_readiness_summary(events, min_train=min_train)
+    out = ensure_parent(out_path)
+    lines = [
+        "# Capital Raise Corpus Readiness Report",
+        "",
+        "This is a data-readiness report, not a prediction result.",
+        "",
+        "## Summary",
+        "",
+    ]
+    for key, value in summary.items():
+        if key in {"gates", "top_missing_fields_blocking_modeling"}:
+            continue
+        lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Gates", ""])
+    for gate, passed in (summary.get("gates", {}) or {}).items():
+        lines.append(f"- {gate}: {'PASS' if passed else 'FAIL'}")
+    lines.extend(["", "## Top Missing Fields / Gates", ""])
+    for blocker in summary.get("top_missing_fields_blocking_modeling", []) or []:
+        lines.append(f"- {blocker}")
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return summary

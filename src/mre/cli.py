@@ -16,9 +16,11 @@ from .backtest import (
 )
 from .base_rates import base_rate_table
 from .capital_raises import (
+    build_capital_raise_sec_source_documents,
     enrich_capital_raise_context,
     parse_capital_raise_manifest,
     validate_capital_raise_parser,
+    write_capital_raise_readiness_report,
     write_capital_raise_parser_audit_report,
 )
 from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
@@ -422,6 +424,43 @@ def cmd_parse_capital_raises(args: argparse.Namespace) -> None:
     print(json.dumps(payload, indent=2, default=str))
 
 
+def cmd_capital_raise_sec_source_docs(args: argparse.Namespace) -> None:
+    tickers, benchmark, sector_benchmark = resolve_tickers_and_sector(args)
+    client = SecClient(user_agent=args.user_agent, requests_per_second=args.requests_per_second)
+    forms = [v.strip().upper() for v in args.forms.split(",") if v.strip()]
+    df, diag = build_capital_raise_sec_source_documents(
+        client,
+        tickers=tickers,
+        out_manifest=args.out,
+        docs_dir=args.docs_dir,
+        start=args.start,
+        end=args.end,
+        forms=forms,
+        item_filter=args.item_filter,
+        limit_per_ticker=args.limit_per_ticker,
+        sector_benchmark=sector_benchmark,
+        overwrite=args.overwrite,
+        min_text_chars=args.min_text_chars,
+    )
+    print(
+        json.dumps(
+            {
+                "provider": "sec-edgar",
+                "tickers": tickers,
+                "benchmark": benchmark,
+                "sector_benchmark": sector_benchmark,
+                "rows": int(len(df)),
+                "diagnostics": diag.to_dict(),
+                "out": str(args.out),
+                "docs_dir": str(args.docs_dir),
+                "warning": "Capital-raise SEC documents are source candidates; review parser output before modeling.",
+            },
+            indent=2,
+            default=str,
+        )
+    )
+
+
 def cmd_validate_capital_raise_parser(args: argparse.Namespace) -> None:
     facts_df = __import__("pandas").read_csv(args.facts)
     gold_df = __import__("pandas").read_csv(args.gold)
@@ -449,6 +488,11 @@ def cmd_enrich_capital_raise_context(args: argparse.Namespace) -> None:
         "warning": "Capital-raise context enrichment is feature preparation only; review rows before modeling.",
     }
     print(json.dumps(payload, indent=2, default=str))
+
+
+def cmd_capital_raise_readiness_report(args: argparse.Namespace) -> None:
+    summary = write_capital_raise_readiness_report(args.events, args.out, min_train=args.min_train)
+    print(json.dumps({"report": str(args.out), **summary}, indent=2, default=str))
 
 
 def cmd_enrich_expectations(args: argparse.Namespace) -> None:
@@ -1202,6 +1246,24 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--usable-confidence", type=float, default=0.70)
     p.set_defaults(func=cmd_parse_capital_raises)
 
+    p = sub.add_parser("capital-raise-sec-source-docs", help="Download SEC financing/dilution source-document candidates.")
+    p.add_argument("--preset", default=None)
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--sector-benchmark", default="")
+    p.add_argument("--forms", default="8-K,S-1,S-3,424B2,424B3,424B4,424B5,424B7")
+    p.add_argument("--item-filter", default="1.01,2.03,3.02,8.01", help="8-K item filter for financing-relevant current reports.")
+    p.add_argument("--start", default=None)
+    p.add_argument("--end", default=None)
+    p.add_argument("--limit-per-ticker", type=int, default=None)
+    p.add_argument("--docs-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--user-agent", default=None)
+    p.add_argument("--requests-per-second", type=float, default=5.0)
+    p.add_argument("--overwrite", action="store_true")
+    p.add_argument("--min-text-chars", type=int, default=40)
+    p.set_defaults(func=cmd_capital_raise_sec_source_docs)
+
     p = sub.add_parser("validate-capital-raise-parser", help="Validate capital-raise parser facts against a reviewed gold-set CSV.")
     p.add_argument("--facts", required=True)
     p.add_argument("--gold", required=True)
@@ -1217,6 +1279,12 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--market-caps", default=None, help="Optional CSV with event_id or ticker/asof_date market_cap_before_event.")
     p.add_argument("--shares-outstanding", default=None, help="Optional CSV with event_id or ticker/asof_date shares_outstanding_before_event.")
     p.set_defaults(func=cmd_enrich_capital_raise_context)
+
+    p = sub.add_parser("capital-raise-readiness-report", help="Summarize whether a reviewed/enriched capital-raise corpus is ready for modeling.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--min-train", type=int, default=40)
+    p.set_defaults(func=cmd_capital_raise_readiness_report)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")
     p.add_argument("--events", required=True)

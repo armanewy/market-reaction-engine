@@ -2,7 +2,13 @@ from __future__ import annotations
 
 import pandas as pd
 
-from mre.capital_raises import enrich_capital_raise_context, parse_capital_raise_document, parse_capital_raise_manifest, validate_capital_raise_parser
+from mre.capital_raises import (
+    capital_raise_readiness_summary,
+    enrich_capital_raise_context,
+    parse_capital_raise_document,
+    parse_capital_raise_manifest,
+    validate_capital_raise_parser,
+)
 from mre.source_docs import SourceDocument, make_source_docs_template
 
 
@@ -193,3 +199,27 @@ def test_enrich_capital_raise_context_computes_discount_and_dilution(tmp_path):
     assert round(enriched.loc[0, "estimated_dilution_pct"], 4) == 0.1
     assert round(enriched.loc[0, "market_cap_before_event"], 4) == 100_000_000
     assert round(enriched.loc[0, "financing_amount_pct_market_cap"], 4) == 0.08
+
+
+def test_capital_raise_readiness_summary_enforces_gates():
+    rows = []
+    for i in range(85):
+        rows.append(
+            {
+                "event_id": f"E{i}",
+                "ticker": "XYZ",
+                "review_status": "reviewed",
+                "completed_financing_flag": i < 61,
+                "capacity_only_flag": i >= 61,
+                "financing_amount_best": 10_000_000,
+                "discount_to_last_close_pct": -0.1 if i < 41 else pd.NA,
+                "financing_amount_pct_market_cap": 0.1 if i < 41 else pd.NA,
+            }
+        )
+    summary = capital_raise_readiness_summary(pd.DataFrame(rows), min_train=40)
+    assert summary["reviewed_usable_rows"] == 85
+    assert summary["completed_financing_rows"] == 61
+    assert summary["likely_oos_predictions_min_train"] == 45
+    assert summary["gates"]["reviewed_usable_events_80_min"] is True
+    assert summary["gates"]["reviewed_usable_events_100_preferred"] is False
+    assert summary["decision"] == "continue corpus buildout"

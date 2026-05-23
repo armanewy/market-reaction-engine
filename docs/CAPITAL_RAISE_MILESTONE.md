@@ -55,6 +55,26 @@ Shelf registrations and new ATM programs are capacity signals until reviewed evi
 
 ## Parser Command
 
+Build SEC source-document candidates:
+
+```bash
+mre capital-raise-sec-source-docs \
+  --tickers MRNA PLUG RIVN \
+  --start 2020-01-01 \
+  --end 2026-05-23 \
+  --docs-dir data/source_docs/capital_raises \
+  --out data/events/capital_raise_source_documents.csv
+```
+
+The default SEC source pass targets:
+
+```text
+8-K items: 1.01, 2.03, 3.02, 8.01
+registration/prospectus forms: S-1, S-3, 424B2, 424B3, 424B4, 424B5, 424B7
+```
+
+The 8-K items are used to find current reports for material agreements, direct financial obligations, unregistered equity sales, and other financing events. Registration statements and prospectus supplements are included separately because they usually do not have 8-K item strings.
+
 ```bash
 mre parse-capital-raises \
   --documents data/events/capital_raise_source_documents.csv \
@@ -150,6 +170,29 @@ atm_capacity_pct_market_cap
 convertible_principal_pct_market_cap
 pre_event_market_adjusted_return_20d
 pre_event_market_adjusted_return_60d
+```
+
+## Readiness Report
+
+Before modeling, write a data-readiness report:
+
+```bash
+mre capital-raise-readiness-report \
+  --events data/events/capital_raise_enriched.csv \
+  --out data/events/capital_raise_readiness_report.md
+```
+
+The report checks:
+
+```text
+candidate rows
+reviewed usable rows
+completed financing rows
+capacity-only rows
+rows with financing_amount_pct_market_cap
+rows with discount_to_last_close_pct
+likely OOS predictions at min_train=40
+top missing gates blocking modeling
 ```
 
 ## Modeling Gate
