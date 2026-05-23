@@ -26,6 +26,7 @@ from .earnings import build_alpha_vantage_earnings_corpus, build_earnings_corpus
 from .earnings_demo import generate_earnings_demo_data
 from .event_study import run_event_study
 from .events import event_tickers, load_events, make_event_template
+from .exhibit99_parser import parse_exhibit99_manifest, pivot_parsed_facts, validate_parser_against_gold
 from .expectations import enrich_expectations, make_expectations_template, merge_external_expectations
 from .modeling import find_analogs, predict_direction, train_direction_model, walk_forward_direction_model
 from .options import make_options_template, merge_options_implied_moves
@@ -295,6 +296,56 @@ def cmd_validate_llm_facts(args: argparse.Namespace) -> None:
         require_evidence_in_text=not args.allow_missing_evidence,
     )
     print(json.dumps({"fact_rows": int(len(df)), "out": str(args.out)}, indent=2))
+
+
+def cmd_parse_exhibit99(args: argparse.Namespace) -> None:
+    facts = parse_exhibit99_manifest(args.documents, args.facts_out, min_confidence=args.min_confidence)
+    features = pivot_parsed_facts(facts, args.features_out, min_confidence=args.usable_confidence)
+    payload = {
+        "documents": args.documents,
+        "fact_rows": int(len(facts)),
+        "feature_rows": int(len(features)),
+        "facts_out": str(args.facts_out),
+        "features_out": str(args.features_out),
+        "fact_counts": facts["fact_name"].value_counts(dropna=False).to_dict() if not facts.empty else {},
+        "period_role_counts": facts["period_role"].value_counts(dropna=False).to_dict() if not facts.empty else {},
+        "warning": "Specialized Exhibit 99 parser output still requires gold-set validation before modeling.",
+    }
+    print(json.dumps(payload, indent=2, default=str))
+
+
+def cmd_validate_exhibit99_parser(args: argparse.Namespace) -> None:
+    facts = Path(args.facts)
+    gold = Path(args.gold)
+    facts_df = __import__("pandas").read_csv(facts)
+    gold_df = __import__("pandas").read_csv(gold)
+    errors, report = validate_parser_against_gold(facts_df, gold_df, out_errors=args.errors_out)
+    report_path = ensure_parent(args.report_out)
+    lines = [
+        "# Exhibit 99 Parser Validation Report",
+        "",
+        f"- facts: `{facts}`",
+        f"- gold: `{gold}`",
+        f"- errors: `{args.errors_out}`",
+        "",
+        "## Metrics",
+        "",
+        f"- gold_rows: {report.get('gold_rows', 0)}",
+        f"- correct_rows: {report.get('correct_rows', 0)}",
+        f"- row_accuracy: {report.get('row_accuracy', 0):.3f}" if "row_accuracy" in report else f"- status: {report.get('status', 'unknown')}",
+        "",
+        "## By Fact",
+        "",
+    ]
+    for fact_name, metrics in (report.get("by_fact", {}) or {}).items():
+        lines.append(f"- {fact_name}: {metrics}")
+    if not errors.empty and (errors["status"] != "ok").any():
+        lines.extend(["", "## Non-OK Rows", ""])
+        for _, row in errors[errors["status"] != "ok"].head(50).iterrows():
+            lines.append(f"- {row['event_id']} / {row['fact_name']} / {row['period_role']}: {row['status']} expected={row['expected_value']} actual={row['actual_value']}")
+    report_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(json.dumps({"report": str(report_path), "errors": str(args.errors_out), **report}, indent=2, default=str))
+
 
 def cmd_enrich_expectations(args: argparse.Namespace) -> None:
     df = enrich_expectations(
@@ -988,6 +1039,21 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--out", required=True)
     p.add_argument("--allow-missing-evidence", action="store_true")
     p.set_defaults(func=cmd_validate_llm_facts)
+
+    p = sub.add_parser("parse-exhibit99", help="Parse semiconductor Exhibit 99 earnings releases with table/sentence-aware rules.")
+    p.add_argument("--documents", required=True, help="Source-document manifest with Exhibit 99 text paths.")
+    p.add_argument("--facts-out", required=True)
+    p.add_argument("--features-out", required=True)
+    p.add_argument("--min-confidence", type=float, default=0.0)
+    p.add_argument("--usable-confidence", type=float, default=0.80)
+    p.set_defaults(func=cmd_parse_exhibit99)
+
+    p = sub.add_parser("validate-exhibit99-parser", help="Validate Exhibit 99 parser facts against a gold-set CSV.")
+    p.add_argument("--facts", required=True)
+    p.add_argument("--gold", required=True)
+    p.add_argument("--errors-out", required=True)
+    p.add_argument("--report-out", required=True)
+    p.set_defaults(func=cmd_validate_exhibit99_parser)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")
     p.add_argument("--events", required=True)
