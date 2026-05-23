@@ -15,6 +15,7 @@ from .backtest import (
     simulate_event_strategy,
 )
 from .base_rates import base_rate_table
+from .capital_raises import parse_capital_raise_manifest
 from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
 from .corpus_demo import generate_corpus_demo_data
 from .demo import generate_demo_data
@@ -390,6 +391,30 @@ def cmd_validate_management_guidance_bridge(args: argparse.Namespace) -> None:
     )
     write_management_guidance_validation_report(report, args.report_out)
     print(json.dumps({"report": str(args.report_out), **report}, indent=2, default=str))
+
+
+def cmd_parse_capital_raises(args: argparse.Namespace) -> None:
+    facts, features, events = parse_capital_raise_manifest(
+        args.documents,
+        args.facts_out,
+        args.features_out,
+        args.events_out,
+        min_confidence=args.min_confidence,
+        usable_confidence=args.usable_confidence,
+    )
+    payload = {
+        "documents": args.documents,
+        "fact_rows": int(len(facts)),
+        "feature_rows": int(len(features)),
+        "event_rows": int(len(events)),
+        "facts_out": str(args.facts_out),
+        "features_out": str(args.features_out),
+        "events_out": str(args.events_out),
+        "fact_counts": facts["fact_name"].value_counts(dropna=False).to_dict() if not facts.empty else {},
+        "financing_event_type_counts": features["financing_event_type"].value_counts(dropna=False).to_dict() if "financing_event_type" in features.columns else {},
+        "warning": "Capital-raise parser output is a review queue, not a model-ready corpus.",
+    }
+    print(json.dumps(payload, indent=2, default=str))
 
 
 def cmd_enrich_expectations(args: argparse.Namespace) -> None:
@@ -935,7 +960,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.set_defaults(func=cmd_corpus_domains)
 
     p = sub.add_parser("domain-template", help="Create a domain-specific curated event template.")
-    p.add_argument("--domain", required=True, help="earnings_guidance, fda_biotech, regulatory_legal, cyber_incident, or recall_safety")
+    p.add_argument("--domain", required=True, help="earnings_guidance, fda_biotech, regulatory_legal, cyber_incident, recall_safety, or capital_raise_dilution")
     p.add_argument("--tickers", nargs="*", default=[])
     p.add_argument("--corpus-name", default=None)
     p.add_argument("--rows-per-ticker", type=int, default=1)
@@ -1133,6 +1158,15 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--max-prior-event-gap-days", type=int, default=190)
     p.add_argument("--min-confidence", type=float, default=0.80)
     p.set_defaults(func=cmd_validate_management_guidance_bridge)
+
+    p = sub.add_parser("parse-capital-raises", help="Parse capital raise, dilution, ATM, convertible, and liquidity source documents into reviewable fact/event rows.")
+    p.add_argument("--documents", required=True, help="Source-document manifest.")
+    p.add_argument("--facts-out", required=True)
+    p.add_argument("--features-out", required=True)
+    p.add_argument("--events-out", required=True)
+    p.add_argument("--min-confidence", type=float, default=0.0)
+    p.add_argument("--usable-confidence", type=float, default=0.70)
+    p.set_defaults(func=cmd_parse_capital_raises)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")
     p.add_argument("--events", required=True)

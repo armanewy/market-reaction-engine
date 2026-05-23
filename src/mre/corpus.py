@@ -133,6 +133,35 @@ DOMAIN_SPECS: dict[str, dict[str, object]] = {
         ],
         "required_review_columns": ["agency", "product_or_model", "recall_units", "event_time", "source_url"],
     },
+    "capital_raise_dilution": {
+        "description": "Equity offerings, ATM programs, convertibles, shelf registrations, liquidity warnings, and dilution events.",
+        "event_type": "financing",
+        "default_subtype": "capital_raise_or_dilution",
+        "source_types": ["sec_filing", "prospectus", "company_press_release", "8-k", "s-1", "s-3", "424b5"],
+        "domain_columns": [
+            "financing_event_type",
+            "security_type",
+            "offering_amount",
+            "gross_proceeds",
+            "net_proceeds",
+            "shares_offered",
+            "price_per_share",
+            "atm_capacity",
+            "shelf_amount",
+            "convertible_principal",
+            "conversion_price",
+            "warrant_coverage",
+            "discount_to_last_close",
+            "offering_size_to_market_cap",
+            "cash_runway_months",
+            "going_concern_warning",
+            "liquidity_warning",
+            "use_of_proceeds",
+            "underwriter_or_agent",
+            "primary_dilution_metric",
+        ],
+        "required_review_columns": ["financing_event_type", "security_type", "event_time", "source_type", "source_url"],
+    },
 }
 
 
@@ -168,6 +197,14 @@ def normalize_domain(domain: str) -> str:
         "breach": "cyber_incident",
         "recall": "recall_safety",
         "safety": "recall_safety",
+        "capital_raise": "capital_raise_dilution",
+        "capital_raises": "capital_raise_dilution",
+        "dilution": "capital_raise_dilution",
+        "financing": "capital_raise_dilution",
+        "offering": "capital_raise_dilution",
+        "offerings": "capital_raise_dilution",
+        "atm": "capital_raise_dilution",
+        "liquidity": "capital_raise_dilution",
     }
     key = aliases.get(key, key)
     if key not in DOMAIN_SPECS:
