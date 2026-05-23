@@ -84,6 +84,50 @@ GOVERNMENT_CONTRACT_SOURCE_COLUMNS = SOURCE_DOC_COLUMNS + [
     c for c in GOVERNMENT_CONTRACT_EXTRA_SOURCE_COLUMNS if c not in SOURCE_DOC_COLUMNS
 ]
 
+PUBLIC_ANNOUNCEMENT_MANIFEST_COLUMNS = [
+    "event_id",
+    "ticker",
+    "recipient_name",
+    "award_id",
+    "contract_number",
+    "award_date",
+    "announcement_time",
+    "announcement_source_type",
+    "announcement_source_url",
+    "announcement_title",
+    "announcement_text_excerpt",
+    "source_confidence",
+    "link_confidence",
+    "link_notes",
+]
+
+PUBLIC_ANNOUNCEMENT_SOURCE_TYPES = {
+    "company_press_release",
+    "investor_relations",
+    "sec_8k",
+    "sec_filing",
+    "dod_contract_announcement",
+    "agency_press_release",
+    "government_contract_announcement",
+    "official_agency_announcement",
+}
+
+PUBLIC_ANNOUNCEMENT_PRIORITY_TICKERS = {
+    "KTOS",
+    "MRCY",
+    "AVAV",
+    "RKLB",
+    "LUNR",
+    "RDW",
+    "BKSY",
+    "PL",
+    "CACI",
+    "SAIC",
+    "LDOS",
+    "BAH",
+    "PLTR",
+}
+
 USASPENDING_CONTRACT_CODES = ("A", "B", "C", "D")
 USASPENDING_IDV_CODES = ("IDV_A", "IDV_B", "IDV_B_A", "IDV_B_B", "IDV_B_C", "IDV_C", "IDV_D", "IDV_E")
 USASPENDING_AWARD_FIELDS = [
@@ -1731,6 +1775,455 @@ def write_government_contract_human_audit_report(summary: dict[str, object], aud
     lines.extend(["", "## Audited Rows", ""])
     for _, row in audit.head(80).iterrows():
         lines.append(f"- {row.get('event_id')}: bucket={row.get('audit_bucket')} recipient={row.get('recipient_name')} model_eligible={row.get('model_eligible_after_audit')} drop_reason={row.get('drop_reason')}")
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return out
+
+
+def _parser_audit_passed(parser_errors: pd.DataFrame | None) -> bool:
+    if parser_errors is None or parser_errors.empty or "status" not in parser_errors.columns:
+        return False
+    return bool(len(parser_errors) >= 60 and parser_errors["status"].fillna("").astype(str).eq("ok").mean() >= 0.90)
+
+
+def _release_session_from_time(value: object) -> str:
+    ts = pd.to_datetime(value, errors="coerce")
+    if pd.isna(ts):
+        return "unknown"
+    hour = int(ts.hour)
+    minute = int(ts.minute)
+    minutes = hour * 60 + minute
+    if minutes < 9 * 60 + 30:
+        return "before_open"
+    if minutes >= 16 * 60:
+        return "after_close"
+    return "market_hours"
+
+
+def _public_source_type(value: object) -> str:
+    raw = _norm(value).lower().replace("-", "_").replace(" ", "_")
+    aliases = {
+        "press_release": "company_press_release",
+        "company_release": "company_press_release",
+        "ir_press_release": "investor_relations",
+        "8_k": "sec_8k",
+        "8-k": "sec_8k",
+        "dod": "dod_contract_announcement",
+        "defense_contracts": "dod_contract_announcement",
+        "agency": "agency_press_release",
+        "usaspending": "usaspending_only",
+        "usaspending_api": "usaspending_only",
+    }
+    return aliases.get(raw, raw)
+
+
+def _is_public_announcement_source(value: object) -> bool:
+    return _public_source_type(value) in PUBLIC_ANNOUNCEMENT_SOURCE_TYPES
+
+
+def _amount_token(value: object) -> str:
+    amount = _to_float(value)
+    if pd.isna(amount) or amount <= 0:
+        return ""
+    if amount >= 1_000_000_000:
+        return f"{amount / 1_000_000_000:.1f}".rstrip("0").rstrip(".")
+    if amount >= 1_000_000:
+        return f"{amount / 1_000_000:.1f}".rstrip("0").rstrip(".")
+    return f"{amount:,.0f}"
+
+
+def _link_mentions_event(row: pd.Series | dict, event: pd.Series | dict) -> tuple[bool, bool, str]:
+    text = _norm_space(" ".join(_norm(row.get(c)) for c in ["announcement_title", "announcement_text_excerpt", "link_notes"])).lower()
+    contract = _norm(row.get("contract_number") or row.get("award_id") or event.get("contract_number")).lower()
+    recipient = _norm(row.get("recipient_name") or event.get("recipient_name")).lower()
+    ticker = _norm(row.get("ticker") or event.get("ticker")).lower()
+    company_terms = [term for term in [recipient, ticker] if term and len(term) >= 3]
+    mentions_recipient_or_contract = bool((contract and contract in text) or any(term in text for term in company_terms))
+
+    amount_terms = [_amount_token(event.get("obligated_amount")), _amount_token(event.get("award_amount")), _amount_token(event.get("contract_ceiling"))]
+    agency = _norm(event.get("agency")).lower()
+    description = _norm(event.get("product_or_service_description")).lower()
+    description_terms = [t for t in re.split(r"[^a-z0-9]+", description) if len(t) >= 6][:8]
+    economics_match = bool(
+        any(term and term in text for term in amount_terms)
+        or (agency and agency in text)
+        or any(term in text for term in description_terms)
+        or (contract and contract in text)
+    )
+    notes = []
+    if not mentions_recipient_or_contract:
+        notes.append("announcement_text_does_not_mention_recipient_or_contract")
+    if not economics_match:
+        notes.append("announcement_text_does_not_match_amount_agency_or_program")
+    return mentions_recipient_or_contract, economics_match, ";".join(notes)
+
+
+def _announcement_event_key(row: pd.Series | dict, event: pd.Series | dict) -> str:
+    ticker = _norm(row.get("ticker") or event.get("ticker")).upper()
+    contract = _norm(row.get("contract_number") or row.get("award_id") or event.get("contract_number")).upper()
+    source_url = _norm(row.get("announcement_source_url")).lower()
+    title = _norm_space(row.get("announcement_title")).lower()
+    if contract:
+        return f"{ticker}:{contract}"
+    if source_url:
+        return f"{ticker}:{source_url}"
+    return f"{ticker}:{title[:80]}"
+
+
+def build_government_contract_public_announcement_candidates(
+    events: pd.DataFrame,
+    out_path: str | Path | None = None,
+    *,
+    limit: int | None = None,
+) -> pd.DataFrame:
+    df = events.copy()
+    for col in [
+        "event_id",
+        "ticker",
+        "recipient_name",
+        "contract_number",
+        "event_time",
+        "source_type",
+        "source_url",
+        "award_amount",
+        "obligated_amount",
+        "actual_funded_award_flag",
+        "ceiling_only_flag",
+        "recipient_mapping_confidence",
+        "award_amount_pct_market_cap",
+        "obligated_amount_pct_market_cap",
+        "company_size_bucket",
+        "small_cap_flag",
+    ]:
+        if col not in df.columns:
+            df[col] = np.nan
+
+    award_ratio = pd.to_numeric(df["award_amount_pct_market_cap"], errors="coerce")
+    obligated_ratio = pd.to_numeric(df["obligated_amount_pct_market_cap"], errors="coerce")
+    materiality = pd.concat([award_ratio, obligated_ratio], axis=1).max(axis=1).fillna(0.0)
+    ticker = df["ticker"].fillna("").astype(str).str.upper()
+    actual_funded = df["actual_funded_award_flag"].map(_bool_value)
+    ceiling_only = df["ceiling_only_flag"].map(_bool_value)
+    high_mapping = pd.to_numeric(df["recipient_mapping_confidence"], errors="coerce").fillna(0.0) >= 0.80
+    small_cap = df["small_cap_flag"].map(_bool_value) | df["company_size_bucket"].fillna("").astype(str).str.lower().isin({"small_cap", "mid_cap"})
+
+    priority_score = (
+        materiality.clip(upper=0.25) * 100
+        + actual_funded.astype(int) * 5
+        + small_cap.astype(int) * 4
+        + ticker.isin(PUBLIC_ANNOUNCEMENT_PRIORITY_TICKERS).astype(int) * 3
+        + high_mapping.astype(int) * 2
+        - ceiling_only.astype(int) * 10
+    )
+    candidate = df.assign(
+        public_announcement_priority_score=priority_score,
+        public_announcement_priority_reason=np.where(
+            (materiality >= 0.01) | small_cap | ticker.isin(PUBLIC_ANNOUNCEMENT_PRIORITY_TICKERS),
+            "high_materiality_or_priority_ticker",
+            "lower_priority_control",
+        ),
+        public_announcement_link_status="needs_public_announcement_link",
+        award_date=df["event_time"].fillna("").astype(str).str.slice(0, 10),
+    )
+    candidate = candidate[
+        high_mapping
+        & actual_funded
+        & ~ceiling_only
+        & (ticker != "")
+        & (materiality.notna())
+    ].copy()
+    cols = [
+        "event_id",
+        "ticker",
+        "recipient_name",
+        "contract_number",
+        "award_date",
+        "event_time",
+        "source_type",
+        "source_url",
+        "award_amount",
+        "obligated_amount",
+        "award_amount_pct_market_cap",
+        "obligated_amount_pct_market_cap",
+        "company_size_bucket",
+        "small_cap_flag",
+        "public_announcement_priority_score",
+        "public_announcement_priority_reason",
+        "public_announcement_link_status",
+    ]
+    candidate = candidate.sort_values(["public_announcement_priority_score", "event_id"], ascending=[False, True])
+    if limit is not None:
+        candidate = candidate.head(int(limit))
+    candidate = candidate[[c for c in cols if c in candidate.columns]]
+    if out_path:
+        ensure_parent(out_path)
+        candidate.to_csv(out_path, index=False)
+    return candidate.reset_index(drop=True)
+
+
+def _load_public_announcement_manifest(path: str | Path | None) -> pd.DataFrame:
+    if not path:
+        return pd.DataFrame(columns=PUBLIC_ANNOUNCEMENT_MANIFEST_COLUMNS)
+    p = Path(path)
+    if not p.exists():
+        return pd.DataFrame(columns=PUBLIC_ANNOUNCEMENT_MANIFEST_COLUMNS)
+    df = pd.read_csv(p)
+    for col in PUBLIC_ANNOUNCEMENT_MANIFEST_COLUMNS:
+        if col not in df.columns:
+            df[col] = ""
+    return df[PUBLIC_ANNOUNCEMENT_MANIFEST_COLUMNS + [c for c in df.columns if c not in PUBLIC_ANNOUNCEMENT_MANIFEST_COLUMNS]]
+
+
+def validate_government_contract_public_links(
+    events: pd.DataFrame,
+    links: pd.DataFrame,
+    *,
+    parser_errors: pd.DataFrame | None = None,
+    audit_candidates: pd.DataFrame | None = None,
+    target_audit_rows: int = 60,
+) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, dict[str, object]]:
+    for col in PUBLIC_ANNOUNCEMENT_MANIFEST_COLUMNS:
+        if col not in links.columns:
+            links[col] = ""
+    event_lookup = events.drop_duplicates("event_id").set_index("event_id") if "event_id" in events.columns and not events.empty else pd.DataFrame()
+    parser_pass = _parser_audit_passed(parser_errors)
+    rows: list[dict[str, object]] = []
+    for _, link in links.iterrows():
+        event_id = _norm(link.get("event_id"))
+        if not event_id or event_lookup.empty or event_id not in event_lookup.index:
+            event = pd.Series(dtype=object)
+            missing_event = True
+        else:
+            event = event_lookup.loc[event_id]
+            missing_event = False
+        source_type = _public_source_type(link.get("announcement_source_type"))
+        announcement_time = pd.to_datetime(link.get("announcement_time"), errors="coerce")
+        source_confidence = _to_float(link.get("source_confidence"))
+        link_confidence = _to_float(link.get("link_confidence"))
+        mentions, economics_match, mention_notes = _link_mentions_event(link, event)
+        mapping_conf = _to_float(event.get("recipient_mapping_confidence"))
+        amount_ratio_present = pd.notna(_to_float(event.get("obligated_amount_pct_market_cap"))) or pd.notna(_to_float(event.get("award_amount_pct_market_cap")))
+        has_amount = pd.notna(_to_float(event.get("obligated_amount"))) or pd.notna(_to_float(event.get("award_amount")))
+        event_key = _announcement_event_key(link, event)
+        validation_notes: list[str] = []
+        if missing_event:
+            validation_notes.append("event_id_not_found")
+        if not _is_public_announcement_source(source_type):
+            validation_notes.append("announcement_source_not_public_market_source")
+        if pd.isna(announcement_time):
+            validation_notes.append("missing_announcement_time")
+        if not mentions or not economics_match:
+            validation_notes.extend([n for n in mention_notes.split(";") if n])
+        if pd.isna(source_confidence) or source_confidence < 0.80:
+            validation_notes.append("source_confidence_below_0_80")
+        if pd.isna(link_confidence) or link_confidence < 0.80:
+            validation_notes.append("link_confidence_below_0_80")
+        if not parser_pass:
+            validation_notes.append("parser_audit_not_passed")
+        if pd.isna(mapping_conf) or mapping_conf < 0.80:
+            validation_notes.append("recipient_mapping_confidence_below_0_80")
+        if not _bool_value(event.get("actual_funded_award_flag")):
+            validation_notes.append("not_actual_funded_award")
+        if _bool_value(event.get("ceiling_only_flag")):
+            validation_notes.append("ceiling_only_event")
+        if not has_amount:
+            validation_notes.append("missing_award_or_obligated_amount")
+        if not amount_ratio_present:
+            validation_notes.append("missing_market_cap_materiality_ratio")
+        if source_type == "usaspending_only":
+            validation_notes.append("timestamp_source_type_usaspending_only")
+        valid_link = not validation_notes
+        rows.append(
+            {
+                **link.to_dict(),
+                "announcement_source_type_normalized": source_type,
+                "public_announcement_time": announcement_time.isoformat() if pd.notna(announcement_time) else "",
+                "public_announcement_release_session": _release_session_from_time(announcement_time),
+                "public_awareness_event_key": event_key,
+                "parser_audit_pass": bool(parser_pass),
+                "source_public_flag": bool(_is_public_announcement_source(source_type)),
+                "announcement_time_present_flag": bool(pd.notna(announcement_time)),
+                "announcement_mentions_event_flag": bool(mentions),
+                "announcement_economics_match_flag": bool(economics_match),
+                "source_confidence_ok_flag": bool(pd.notna(source_confidence) and source_confidence >= 0.80),
+                "link_confidence_ok_flag": bool(pd.notna(link_confidence) and link_confidence >= 0.80),
+                "recipient_mapping_confidence": mapping_conf if pd.notna(mapping_conf) else 0.0,
+                "actual_funded_award_flag": bool(_bool_value(event.get("actual_funded_award_flag"))),
+                "ceiling_only_flag": bool(_bool_value(event.get("ceiling_only_flag"))),
+                "amount_materiality_present_flag": bool(amount_ratio_present),
+                "valid_public_announcement_link_flag": bool(valid_link),
+                "validation_status": "ok" if valid_link else "invalid",
+                "validation_notes": ";".join(validation_notes),
+            }
+        )
+    validated = pd.DataFrame(rows)
+    if validated.empty:
+        validated = pd.DataFrame(columns=PUBLIC_ANNOUNCEMENT_MANIFEST_COLUMNS + [
+            "announcement_source_type_normalized",
+            "public_announcement_time",
+            "public_announcement_release_session",
+            "public_awareness_event_key",
+            "duplicate_group_id",
+            "duplicate_status",
+            "valid_public_announcement_link_flag",
+            "model_eligible_public_announcement_flag",
+            "validation_status",
+            "validation_notes",
+        ])
+    else:
+        validated = validated.sort_values(["public_awareness_event_key", "link_confidence", "source_confidence"], ascending=[True, False, False]).reset_index(drop=True)
+        duplicate_status = []
+        duplicate_group = []
+        for key, group in validated.groupby("public_awareness_event_key", dropna=False, sort=False):
+            group_id = re.sub(r"[^A-Z0-9]+", "_", _norm(key).upper())[:96] or "AMBIGUOUS"
+            for pos, idx in enumerate(group.index):
+                duplicate_group.append((idx, group_id))
+                if not _norm(key):
+                    duplicate_status.append((idx, "ambiguous"))
+                else:
+                    duplicate_status.append((idx, "primary" if pos == 0 else "duplicate"))
+        for idx, value in duplicate_group:
+            validated.at[idx, "duplicate_group_id"] = value
+        for idx, value in duplicate_status:
+            validated.at[idx, "duplicate_status"] = value
+        validated["model_eligible_public_announcement_flag"] = (
+            validated["valid_public_announcement_link_flag"].map(_bool_value)
+            & validated["duplicate_status"].eq("primary")
+        )
+    eligible_rows: list[dict[str, object]] = []
+    if not validated.empty and not events.empty:
+        event_by_id = events.drop_duplicates("event_id").set_index("event_id")
+        for _, link in validated[validated.get("model_eligible_public_announcement_flag", pd.Series(False, index=validated.index)).map(_bool_value)].iterrows():
+            event_id = _norm(link.get("event_id"))
+            if event_id not in event_by_id.index:
+                continue
+            event = event_by_id.loc[event_id].to_dict()
+            event["event_time"] = link.get("public_announcement_time")
+            event["release_session"] = link.get("public_announcement_release_session")
+            event["source_type"] = link.get("announcement_source_type_normalized")
+            event["source_url"] = link.get("announcement_source_url")
+            event["review_status"] = "approved"
+            event["evidence_status"] = "public_announcement_linked"
+            event["label_quality"] = "public_announcement_validated"
+            event["public_announcement_time"] = link.get("public_announcement_time")
+            event["public_announcement_source_type"] = link.get("announcement_source_type_normalized")
+            event["public_announcement_source_url"] = link.get("announcement_source_url")
+            event["public_announcement_link_confidence"] = link.get("link_confidence")
+            event["public_awareness_event_key"] = link.get("public_awareness_event_key")
+            event["duplicate_group_id"] = link.get("duplicate_group_id")
+            event["duplicate_status"] = link.get("duplicate_status")
+            event["model_eligible_public_announcement_flag"] = True
+            eligible_rows.append(event)
+    eligible_extra_cols = [
+        "public_announcement_time",
+        "public_announcement_source_type",
+        "public_announcement_source_url",
+        "public_announcement_link_confidence",
+        "public_awareness_event_key",
+        "duplicate_group_id",
+        "duplicate_status",
+        "model_eligible_public_announcement_flag",
+    ]
+    eligible = pd.DataFrame(eligible_rows)
+    if eligible.empty:
+        eligible = pd.DataFrame(columns=list(events.columns) + [c for c in eligible_extra_cols if c not in events.columns])
+
+    audit = validated.copy()
+    if audit_candidates is not None and len(audit) < target_audit_rows:
+        candidate = audit_candidates.copy()
+        if "event_id" in candidate.columns:
+            already = set(audit.get("event_id", pd.Series(dtype=str)).fillna("").astype(str))
+            candidate = candidate[~candidate["event_id"].astype(str).isin(already)].head(max(0, int(target_audit_rows) - len(audit)))
+            candidate["validation_status"] = np.where(
+                candidate["source_type"].fillna("").astype(str).eq("usaspending_api"),
+                "usaspending_only_negative_control",
+                "missing_public_announcement_link",
+            )
+            candidate["valid_public_announcement_link_flag"] = False
+            candidate["model_eligible_public_announcement_flag"] = False
+            candidate["duplicate_status"] = ""
+            candidate["validation_notes"] = np.where(
+                candidate["validation_status"].eq("usaspending_only_negative_control"),
+                "USAspending-only record cannot establish market-public event_time.",
+                "No public-announcement manifest row supplied.",
+            )
+            audit = pd.concat([audit, candidate], ignore_index=True, sort=False)
+    audit = audit.head(int(target_audit_rows))
+
+    def count_true(df: pd.DataFrame, col: str) -> int:
+        return int(df.get(col, pd.Series(dtype=bool)).map(_bool_value).sum()) if not df.empty else 0
+
+    audit_rows = int(len(audit))
+    valid_links = count_true(validated, "valid_public_announcement_link_flag")
+    eligible_rows_count = count_true(validated, "model_eligible_public_announcement_flag")
+    gate_public_ts = float(validated.get("announcement_time_present_flag", pd.Series(dtype=bool)).map(_bool_value).mean()) if len(validated) else 0.0
+    gate_link_precision = float(validated.get("valid_public_announcement_link_flag", pd.Series(dtype=bool)).map(_bool_value).mean()) if len(validated) else 0.0
+    duplicate_failures = int(validated.get("duplicate_status", pd.Series(dtype=str)).fillna("").eq("duplicate").sum()) if len(validated) else 0
+    usaspending_marked_eligible = int(
+        validated[
+            validated.get("announcement_source_type_normalized", pd.Series(dtype=str)).fillna("").eq("usaspending_only")
+            & validated.get("model_eligible_public_announcement_flag", pd.Series(dtype=bool)).map(_bool_value)
+        ].shape[0]
+    ) if len(validated) else 0
+    gates = {
+        "public_announcement_timestamp_precision_95": gate_public_ts >= 0.95 and len(validated) > 0,
+        "award_to_announcement_link_precision_90": gate_link_precision >= 0.90 and len(validated) > 0,
+        "no_usaspending_only_model_eligible": usaspending_marked_eligible == 0,
+        "no_duplicate_award_counted_twice": duplicate_failures == 0,
+        "eligible_public_rows_80_min": eligible_rows_count >= 80,
+        "eligible_public_rows_100_preferred": eligible_rows_count >= 100,
+        "likely_oos_predictions_30": max(0, eligible_rows_count - 40) >= 30,
+        "parser_audit_pass": parser_pass,
+    }
+    if eligible_rows_count >= 80 and all(gates.values()):
+        verdict = "model-ready"
+    elif valid_links == 0:
+        verdict = "continue public-announcement linking"
+    elif not gates["public_announcement_timestamp_precision_95"]:
+        verdict = "timestamp/public-awareness insufficient"
+    else:
+        verdict = "continue public-announcement linking"
+    summary = {
+        "announcement_manifest_rows": int(len(links)),
+        "validated_link_rows": int(len(validated)),
+        "valid_public_announcement_links": valid_links,
+        "model_eligible_public_rows": eligible_rows_count,
+        "audit_rows": audit_rows,
+        "audit_status_counts": audit.get("validation_status", pd.Series(dtype=str)).value_counts(dropna=False).to_dict() if not audit.empty else {},
+        "duplicate_status_counts": validated.get("duplicate_status", pd.Series(dtype=str)).value_counts(dropna=False).to_dict() if not validated.empty else {},
+        "gates": {k: bool(v) for k, v in gates.items()},
+        "verdict": verdict,
+        "warning": "Public-announcement linking is a data-quality gate only; no model, event study, or backtest was run.",
+    }
+    return validated, audit, eligible, summary
+
+
+def write_government_contract_public_awareness_report(summary: dict[str, object], out_path: str | Path) -> Path:
+    out = ensure_parent(out_path)
+    lines = [
+        "# Government Contract Public Awareness Report",
+        "",
+        "This validates public-announcement links for government-contract events. It is not a model result.",
+        "",
+        "## Verdict",
+        "",
+        f"- verdict: {summary.get('verdict')}",
+        "",
+        "## Summary",
+        "",
+    ]
+    for key, value in summary.items():
+        if key in {"gates", "audit_status_counts", "duplicate_status_counts", "verdict"}:
+            continue
+        lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Gates", ""])
+    for key, value in (summary.get("gates", {}) or {}).items():
+        lines.append(f"- {key}: {'PASS' if value else 'FAIL'}")
+    lines.extend(["", "## Audit Status Counts", ""])
+    for key, value in (summary.get("audit_status_counts", {}) or {}).items():
+        lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Duplicate Status Counts", ""])
+    for key, value in (summary.get("duplicate_status_counts", {}) or {}).items():
+        lines.append(f"- {key}: {value}")
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return out
 

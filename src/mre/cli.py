@@ -35,14 +35,17 @@ from .capital_raises import (
 from .government_contracts import (
     build_government_contract_human_audit,
     build_government_contract_parser_gold_template,
+    build_government_contract_public_announcement_candidates,
     build_government_contract_source_documents,
     enrich_government_contract_context,
     load_recipient_ticker_map,
     parse_government_contract_manifest,
+    validate_government_contract_public_links,
     validate_government_contract_parser,
     write_government_contract_human_audit_report,
     write_government_contract_mapping_audit_report,
     write_government_contract_parser_audit_report,
+    write_government_contract_public_awareness_report,
     write_government_contract_readiness_report,
 )
 from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
@@ -748,6 +751,53 @@ def cmd_government_contract_human_audit(args: argparse.Namespace) -> None:
             default=str,
         )
     )
+
+
+def _run_government_contract_public_link_validation(args: argparse.Namespace, links_df) -> dict:
+    pd = __import__("pandas")
+    events = pd.read_csv(args.events)
+    parser_errors = pd.read_csv(args.parser_errors) if args.parser_errors else None
+    candidates = build_government_contract_public_announcement_candidates(
+        events,
+        args.candidates_out,
+        limit=args.candidate_limit,
+    )
+    validated, audit, eligible, summary = validate_government_contract_public_links(
+        events,
+        links_df,
+        parser_errors=parser_errors,
+        audit_candidates=candidates,
+        target_audit_rows=args.target_audit_rows,
+    )
+    validated.to_csv(args.links_out, index=False)
+    audit.to_csv(args.audit_out, index=False)
+    eligible.to_csv(args.eligible_out, index=False)
+    report_path = write_government_contract_public_awareness_report(summary, args.report_out)
+    return {
+        "candidates_out": str(args.candidates_out),
+        "links_out": str(args.links_out),
+        "audit_out": str(args.audit_out),
+        "eligible_out": str(args.eligible_out),
+        "report_out": str(report_path),
+        **summary,
+    }
+
+
+def cmd_government_contract_public_announcements(args: argparse.Namespace) -> None:
+    pd = __import__("pandas")
+    if args.manifest:
+        links_df = pd.read_csv(args.manifest)
+    else:
+        links_df = pd.DataFrame()
+    payload = _run_government_contract_public_link_validation(args, links_df)
+    print(json.dumps(payload, indent=2, default=str))
+
+
+def cmd_validate_government_contract_public_links(args: argparse.Namespace) -> None:
+    pd = __import__("pandas")
+    links_df = pd.read_csv(args.links)
+    payload = _run_government_contract_public_link_validation(args, links_df)
+    print(json.dumps(payload, indent=2, default=str))
 
 
 def cmd_validate_government_contract_parser(args: argparse.Namespace) -> None:
@@ -1684,6 +1734,32 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--report-out", required=True)
     p.add_argument("--target-events", type=int, default=60)
     p.set_defaults(func=cmd_government_contract_human_audit)
+
+    p = sub.add_parser("government-contract-public-announcements", help="Create candidates and ingest manifest-driven public-announcement links for government-contract events.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--manifest", default=None, help="Optional manifest of public-announcement links.")
+    p.add_argument("--parser-errors", default=None, help="Reviewed parser audit errors CSV; required for model eligibility.")
+    p.add_argument("--candidates-out", required=True)
+    p.add_argument("--links-out", required=True)
+    p.add_argument("--audit-out", required=True)
+    p.add_argument("--eligible-out", required=True)
+    p.add_argument("--report-out", required=True)
+    p.add_argument("--candidate-limit", type=int, default=300)
+    p.add_argument("--target-audit-rows", type=int, default=60)
+    p.set_defaults(func=cmd_government_contract_public_announcements)
+
+    p = sub.add_parser("validate-government-contract-public-links", help="Validate manifest-driven public-announcement links for government-contract events.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--links", required=True)
+    p.add_argument("--parser-errors", default=None, help="Reviewed parser audit errors CSV; required for model eligibility.")
+    p.add_argument("--candidates-out", required=True)
+    p.add_argument("--links-out", required=True)
+    p.add_argument("--audit-out", required=True)
+    p.add_argument("--eligible-out", required=True)
+    p.add_argument("--report-out", required=True)
+    p.add_argument("--candidate-limit", type=int, default=300)
+    p.add_argument("--target-audit-rows", type=int, default=60)
+    p.set_defaults(func=cmd_validate_government_contract_public_links)
 
     p = sub.add_parser("validate-government-contract-parser", help="Validate government-contract parser facts against a reviewed gold-set CSV.")
     p.add_argument("--facts", required=True)

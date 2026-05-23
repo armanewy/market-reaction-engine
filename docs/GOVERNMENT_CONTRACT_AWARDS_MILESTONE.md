@@ -573,3 +573,96 @@ Next narrow slice:
 small/mid-cap company press-release-confirmed contract awards
 or DoD daily-contract-announcement-confirmed awards with 5 p.m. release timing
 ```
+
+## Agent 4D Public-Announcement Linking
+
+Agent 4D adds a public-announcement layer. USAspending remains the economics/verification source, but model-eligible `event_time` must come from a public market-awareness source.
+
+Create high-priority announcement-link candidates and optionally ingest a manifest:
+
+```bash
+mre government-contract-public-announcements \
+  --events data/events/government_contract_enriched.csv \
+  --manifest data/events/government_contract_public_announcement_manifest.csv \
+  --parser-errors data/events/government_contract_parser_errors.csv \
+  --candidates-out data/events/government_contract_public_announcement_candidates.csv \
+  --links-out data/events/government_contract_public_announcement_links.csv \
+  --audit-out data/events/government_contract_public_announcement_audit.csv \
+  --eligible-out data/events/government_contract_public_eligible_corpus.csv \
+  --report-out data/events/government_contract_public_awareness_report.md
+```
+
+The manifest is optional in the command, but no row can become model-eligible without a validated manifest row.
+
+Manifest columns:
+
+```text
+event_id
+ticker
+recipient_name
+award_id
+contract_number
+award_date
+announcement_time
+announcement_source_type
+announcement_source_url
+announcement_title
+announcement_text_excerpt
+source_confidence
+link_confidence
+link_notes
+```
+
+Validate a link manifest directly with:
+
+```bash
+mre validate-government-contract-public-links \
+  --events data/events/government_contract_enriched.csv \
+  --links data/events/government_contract_public_announcement_manifest.csv \
+  --parser-errors data/events/government_contract_parser_errors.csv \
+  --candidates-out data/events/government_contract_public_announcement_candidates.csv \
+  --links-out data/events/government_contract_public_announcement_links.csv \
+  --audit-out data/events/government_contract_public_announcement_audit.csv \
+  --eligible-out data/events/government_contract_public_eligible_corpus.csv \
+  --report-out data/events/government_contract_public_awareness_report.md
+```
+
+Model eligibility requires:
+
+```text
+parser audit passed
+recipient_mapping_confidence >= 0.80
+actual_funded_award_flag = true
+obligated_amount or award_amount present
+market-cap materiality ratio present
+public_announcement_time present
+public_announcement_link_confidence >= 0.80
+timestamp_source_type != usaspending_only
+duplicate_status = primary
+ceiling_only_flag = false
+mapping is not ambiguous
+```
+
+Duplicate fields:
+
+```text
+public_awareness_event_key
+duplicate_group_id
+duplicate_status: primary / duplicate / ambiguous
+```
+
+Agent 4D run summary with no announcement manifest supplied:
+
+```text
+announcement_manifest_rows: 0
+validated_link_rows: 0
+valid_public_announcement_links: 0
+model_eligible_public_rows: 0
+audit_rows: 60
+audit_status_counts:
+  usaspending_only_negative_control: 60
+parser_audit_pass: true
+verdict: continue public-announcement linking
+```
+
+The run produced `data/events/government_contract_public_announcement_candidates.csv`, which is the queue for manual or automated public-source linking. The first usable slice should attach company press releases, SEC 8-Ks, DoD daily contract announcements, or agency releases to those candidates, then rerun `validate-government-contract-public-links`.

@@ -206,9 +206,11 @@ Status: real corpus, mapping/context stress test, and 60-row audit implemented; 
 - Machine-proposed gold-set template that requires human review
 - Recipient mapping audit command and report
 - 60-row human-audit command and report
+- Manifest-driven public-announcement linker and validator
 - Market context enrichment command
 - Readiness report with no-model gating
 - 4B verdict: parser not trusted
 - 4C verdict: timestamp/public-awareness insufficient; USAspending-only rows are not valid market-public timestamps
+- 4D gate: USAspending economics must be linked to public announcement timestamps before model eligibility
 
 See `docs/GOVERNMENT_CONTRACT_AWARDS_MILESTONE.md`.

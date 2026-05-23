@@ -6,6 +6,7 @@ from mre.corpus import normalize_domain
 from mre.government_contracts import (
     build_government_contract_human_audit,
     build_government_contract_parser_gold_template,
+    build_government_contract_public_announcement_candidates,
     build_government_contract_source_documents,
     enrich_government_contract_context,
     government_contract_mapping_audit,
@@ -14,6 +15,7 @@ from mre.government_contracts import (
     map_recipient_to_ticker,
     parse_government_contract_document,
     parse_government_contract_manifest,
+    validate_government_contract_public_links,
     validate_government_contract_parser,
     write_government_contract_recipient_ticker_map,
 )
@@ -424,6 +426,182 @@ def test_readiness_summary_blocks_when_public_timestamp_gate_fails():
     assert summary["gates"]["parser_audit_pass"] is True
     assert summary["gates"]["clear_event_timestamps"] is False
     assert summary["decision"] == "timestamp/public-awareness insufficient"
+
+
+def test_public_announcement_candidates_prioritize_material_small_cap_rows():
+    events = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "ticker": "KTOS",
+                "recipient_name": "KRATOS DEFENSE",
+                "contract_number": "W1",
+                "event_time": "2024-01-02T12:00:00",
+                "source_type": "usaspending_api",
+                "source_url": "https://www.usaspending.gov/award/W1",
+                "award_amount": 50_000_000,
+                "obligated_amount": 50_000_000,
+                "actual_funded_award_flag": True,
+                "ceiling_only_flag": False,
+                "recipient_mapping_confidence": 0.95,
+                "award_amount_pct_market_cap": 0.05,
+                "obligated_amount_pct_market_cap": 0.05,
+                "company_size_bucket": "small_cap",
+                "small_cap_flag": True,
+            },
+            {
+                "event_id": "E2",
+                "ticker": "LMT",
+                "recipient_name": "LOCKHEED MARTIN",
+                "contract_number": "W2",
+                "event_time": "2024-01-02T12:00:00",
+                "source_type": "usaspending_api",
+                "source_url": "https://www.usaspending.gov/award/W2",
+                "award_amount": 10_000_000,
+                "obligated_amount": 10_000_000,
+                "actual_funded_award_flag": True,
+                "ceiling_only_flag": False,
+                "recipient_mapping_confidence": 0.95,
+                "award_amount_pct_market_cap": 0.0001,
+                "obligated_amount_pct_market_cap": 0.0001,
+                "company_size_bucket": "large_cap",
+                "small_cap_flag": False,
+            },
+        ]
+    )
+    candidates = build_government_contract_public_announcement_candidates(events)
+    assert candidates.iloc[0]["event_id"] == "E1"
+    assert candidates.iloc[0]["public_announcement_link_status"] == "needs_public_announcement_link"
+
+
+def test_validate_public_announcement_links_builds_eligible_primary_and_duplicate():
+    events = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "ticker": "KTOS",
+                "recipient_name": "KRATOS DEFENSE",
+                "contract_number": "W911TEST",
+                "agency": "Department of Defense",
+                "product_or_service_description": "drone command and control systems",
+                "award_amount": 50_000_000,
+                "obligated_amount": 50_000_000,
+                "actual_funded_award_flag": True,
+                "ceiling_only_flag": False,
+                "recipient_mapping_confidence": 0.95,
+                "award_amount_pct_market_cap": 0.05,
+                "obligated_amount_pct_market_cap": 0.05,
+                "release_session": "unknown",
+                "event_time": "2024-01-02T12:00:00",
+            },
+            {
+                "event_id": "E2",
+                "ticker": "KTOS",
+                "recipient_name": "KRATOS DEFENSE",
+                "contract_number": "W911TEST",
+                "agency": "Department of Defense",
+                "product_or_service_description": "drone command and control systems",
+                "award_amount": 50_000_000,
+                "obligated_amount": 50_000_000,
+                "actual_funded_award_flag": True,
+                "ceiling_only_flag": False,
+                "recipient_mapping_confidence": 0.95,
+                "award_amount_pct_market_cap": 0.05,
+                "obligated_amount_pct_market_cap": 0.05,
+                "release_session": "unknown",
+                "event_time": "2024-01-03T12:00:00",
+            },
+        ]
+    )
+    links = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "ticker": "KTOS",
+                "recipient_name": "KRATOS DEFENSE",
+                "contract_number": "W911TEST",
+                "announcement_time": "2024-01-02T08:30:00",
+                "announcement_source_type": "company_press_release",
+                "announcement_source_url": "https://example.com/ktos-award",
+                "announcement_title": "Kratos receives Department of Defense award",
+                "announcement_text_excerpt": "Kratos Defense received a $50 million Department of Defense award for drone command and control systems under contract W911TEST.",
+                "source_confidence": 0.95,
+                "link_confidence": 0.95,
+            },
+            {
+                "event_id": "E2",
+                "ticker": "KTOS",
+                "recipient_name": "KRATOS DEFENSE",
+                "contract_number": "W911TEST",
+                "announcement_time": "2024-01-02T08:30:00",
+                "announcement_source_type": "company_press_release",
+                "announcement_source_url": "https://example.com/ktos-award",
+                "announcement_title": "Kratos receives Department of Defense award",
+                "announcement_text_excerpt": "Kratos Defense received a $50 million Department of Defense award for drone command and control systems under contract W911TEST.",
+                "source_confidence": 0.95,
+                "link_confidence": 0.90,
+            },
+        ]
+    )
+    parser_errors = pd.DataFrame({"status": ["ok"] * 80})
+    validated, audit, eligible, summary = validate_government_contract_public_links(
+        events,
+        links,
+        parser_errors=parser_errors,
+        audit_candidates=build_government_contract_public_announcement_candidates(events),
+        target_audit_rows=2,
+    )
+    assert validated.loc[0, "duplicate_status"] == "primary"
+    assert validated.loc[1, "duplicate_status"] == "duplicate"
+    assert validated.loc[0, "model_eligible_public_announcement_flag"] == True
+    assert validated.loc[1, "model_eligible_public_announcement_flag"] == False
+    assert len(eligible) == 1
+    assert eligible.loc[0, "event_time"] == "2024-01-02T08:30:00"
+    assert eligible.loc[0, "release_session"] == "before_open"
+    assert summary["gates"]["no_duplicate_award_counted_twice"] is False
+
+
+def test_validate_public_announcement_links_rejects_usaspending_source():
+    events = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "ticker": "KTOS",
+                "recipient_name": "KRATOS DEFENSE",
+                "contract_number": "W911TEST",
+                "agency": "Department of Defense",
+                "award_amount": 50_000_000,
+                "obligated_amount": 50_000_000,
+                "actual_funded_award_flag": True,
+                "ceiling_only_flag": False,
+                "recipient_mapping_confidence": 0.95,
+                "award_amount_pct_market_cap": 0.05,
+            }
+        ]
+    )
+    links = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "ticker": "KTOS",
+                "recipient_name": "KRATOS DEFENSE",
+                "contract_number": "W911TEST",
+                "announcement_time": "2024-01-02T12:00:00",
+                "announcement_source_type": "usaspending_api",
+                "announcement_source_url": "https://www.usaspending.gov/award/W911TEST",
+                "announcement_title": "USAspending award",
+                "announcement_text_excerpt": "Kratos Defense Department of Defense award W911TEST $50 million.",
+                "source_confidence": 0.95,
+                "link_confidence": 0.95,
+            }
+        ]
+    )
+    validated, _, eligible, summary = validate_government_contract_public_links(events, links, parser_errors=pd.DataFrame({"status": ["ok"] * 80}))
+    assert validated.loc[0, "valid_public_announcement_link_flag"] == False
+    assert "announcement_source_not_public_market_source" in validated.loc[0, "validation_notes"]
+    assert "timestamp_source_type_usaspending_only" in validated.loc[0, "validation_notes"]
+    assert eligible.empty
+    assert summary["gates"]["no_usaspending_only_model_eligible"] is True
 
 
 def test_source_builder_merges_paginated_usaspending_rows(monkeypatch, tmp_path):
