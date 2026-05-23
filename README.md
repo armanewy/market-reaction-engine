@@ -1,6 +1,6 @@
 # Market Reaction Engine
 
-Version 0.5 adds a source-document extraction/provenance layer: raw filing/transcript/article manifests, deterministic evidence-grounded fact extraction, LLM work-packet preparation, and validated LLM fact ingestion.
+Version 0.6 adds real source ingestion: SEC filing/exhibit downloads, URL/local/inline source normalization, extraction-ready source manifests, and an offline ingestion demo.
 
 This project is intentionally conservative. It is not a magic stock predictor. It is a point-in-time event-study workbench that helps answer:
 
@@ -9,7 +9,8 @@ This project is intentionally conservative. It is not a magic stock predictor. I
 The current pipeline is:
 
 ```text
-curated/ingested event rows OR raw source-document manifests
+curated/ingested event rows OR SEC/URL/local source documents
+→ normalized source-document manifests
 → evidence-grounded extracted facts
 → optional point-in-time expectation fields
 → local daily price data
@@ -88,6 +89,16 @@ curated/ingested event rows OR raw source-document manifests
 - Validator for external LLM fact JSONL that checks evidence appears in the source text
 - Offline extraction demo
 
+### M7 — real source ingestion
+
+- URL/local/inline source-ingestion template
+- Download and normalize source URLs into text files
+- Normalize local HTML/text files into extraction-ready documents
+- SEC 8-K/filing source-document ingestion with primary filing docs and likely earnings-release exhibits
+- SEC item filter defaults for 8-K Item 2.02 earnings candidates
+- Offline source-ingestion demo that chains ingestion → extraction
+- See `docs/SOURCE_INGESTION_MILESTONE.md` for usage details
+
 ## Install
 
 ```bash
@@ -120,6 +131,35 @@ Source-document extraction demo:
 
 ```bash
 mre extraction-demo --root .
+```
+
+Run the source-ingestion demo:
+
+```bash
+mre source-ingestion-demo --root .
+```
+
+Ingest real SEC source documents:
+
+```bash
+export SEC_USER_AGENT="market-reaction-engine your-email@example.com"
+
+mre sec-source-docs \
+  --preset semis \
+  --start 2022-01-01 \
+  --end 2025-01-01 \
+  --docs-dir data/source_docs/sec \
+  --out data/events/sec_source_documents.csv
+```
+
+Then extract facts from the ingested manifest:
+
+```bash
+mre extract-facts \
+  --documents data/events/sec_source_documents.csv \
+  --facts-out data/events/sec_extracted_facts.csv \
+  --expectations-out data/events/sec_extracted_expectations.csv \
+  --events-out data/events/sec_extracted_events.csv
 ```
 
 The extraction demo writes:

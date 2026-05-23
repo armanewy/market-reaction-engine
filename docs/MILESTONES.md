@@ -125,7 +125,24 @@ Next corpora to consider after earnings:
 - cyber breach events
 - product recall events
 
-## M7: Trading-grade backtest harness
+## M7: Real source ingestion
+
+Status: implemented in v0.6.0.
+
+This milestone turns the extraction/provenance layer into a source-ingestion pipeline.
+
+- URL/local/inline source-ingestion template
+- Normalize company press releases, transcript pages, agency docs, or local HTML/text into auditable text files
+- SEC filing source-document ingestion
+- SEC archive index support for primary filing docs and likely earnings-release exhibits
+- 8-K Item 2.02 default filter for earnings candidates
+- Source manifest output compatible with `mre extract-facts`
+- Offline source-ingestion demo chaining ingestion → extraction
+
+See `docs/SOURCE_INGESTION_MILESTONE.md`.
+
+
+## M8: Trading-grade backtest harness
 
 Status: not implemented.
 

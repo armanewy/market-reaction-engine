@@ -8,6 +8,8 @@ from .analyst_revisions import make_analyst_revisions_template, merge_analyst_re
 from .demo import generate_demo_data
 from .extraction import build_extraction_packets, run_document_extraction, validate_llm_facts_jsonl
 from .extraction_demo import generate_extraction_demo_data
+from .ingestion import build_sec_source_document_manifest, ingest_source_document_manifest, make_ingestion_template
+from .source_ingestion_demo import generate_source_ingestion_demo_data
 from .earnings import build_alpha_vantage_earnings_corpus, build_earnings_corpus_from_sec, build_yfinance_earnings_corpus, write_manual_earnings_template
 from .earnings_demo import generate_earnings_demo_data
 from .event_study import run_event_study
@@ -156,6 +158,60 @@ def cmd_sec_earnings_corpus(args: argparse.Namespace) -> None:
 def cmd_source_docs_template(args: argparse.Namespace) -> None:
     df = make_source_docs_template(args.out)
     print(f"Wrote source-document manifest template with {len(df)} row(s): {args.out}")
+
+
+def cmd_ingestion_template(args: argparse.Namespace) -> None:
+    df = make_ingestion_template(args.out)
+    print(f"Wrote source-ingestion template with {len(df)} row(s): {args.out}")
+
+
+def cmd_ingest_source_docs(args: argparse.Namespace) -> None:
+    df, diag = ingest_source_document_manifest(
+        args.input,
+        args.out,
+        args.docs_dir,
+        user_agent=args.user_agent,
+        requests_per_second=args.requests_per_second,
+        overwrite=args.overwrite,
+        include_inline_text=args.include_inline_text,
+        min_text_chars=args.min_text_chars,
+    )
+    print(json.dumps({"rows": int(len(df)), "diagnostics": diag.to_dict(), "out": str(args.out), "docs_dir": str(args.docs_dir)}, indent=2, default=str))
+
+
+def cmd_sec_source_docs(args: argparse.Namespace) -> None:
+    tickers, benchmark, sector_benchmark = resolve_tickers_and_sector(args)
+    client = SecClient(user_agent=args.user_agent, requests_per_second=args.requests_per_second)
+    forms = [v.strip().upper() for v in args.forms.split(",") if v.strip()]
+    df, diag = build_sec_source_document_manifest(
+        client,
+        tickers=tickers,
+        out_manifest=args.out,
+        docs_dir=args.docs_dir,
+        forms=forms,
+        start=args.start,
+        end=args.end,
+        item_filter=None if args.item_filter.lower() in {"", "none", "all"} else args.item_filter,
+        limit_per_ticker=args.limit_per_ticker,
+        include_primary=not args.no_primary,
+        include_exhibits=not args.no_exhibits,
+        exhibit_pattern=args.exhibit_pattern,
+        sector_benchmark=sector_benchmark,
+        overwrite=args.overwrite,
+        min_text_chars=args.min_text_chars,
+    )
+    print(json.dumps({
+        "provider": "sec-edgar",
+        "tickers": tickers,
+        "benchmark": benchmark,
+        "sector_benchmark": sector_benchmark,
+        "rows": int(len(df)),
+        "diagnostics": diag.to_dict(),
+        "out": str(args.out),
+        "docs_dir": str(args.docs_dir),
+        "warning": "SEC source documents are primary-source downloads, but extraction labels should still be reviewed before modeling.",
+    }, indent=2, default=str))
+
 
 
 def cmd_extract_facts(args: argparse.Namespace) -> None:
@@ -484,6 +540,11 @@ def cmd_extraction_demo(args: argparse.Namespace) -> None:
     print("Extraction demo complete.")
     print(json.dumps({k: str(v) for k, v in paths.items()}, indent=2))
 
+def cmd_source_ingestion_demo(args: argparse.Namespace) -> None:
+    paths = generate_source_ingestion_demo_data(Path(args.root) / "data" / "source_ingestion_demo")
+    print("Source ingestion demo complete.")
+    print(json.dumps({k: str(v) for k, v in paths.items()}, indent=2))
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="mre",
@@ -552,6 +613,42 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("source-docs-template", help="Create a raw source-document manifest template for extraction.")
     p.add_argument("--out", default="data/events/source_documents.csv")
     p.set_defaults(func=cmd_source_docs_template)
+
+    p = sub.add_parser("ingestion-template", help="Create a URL/local/inline source-ingestion template.")
+    p.add_argument("--out", default="data/events/source_ingestion_template.csv")
+    p.set_defaults(func=cmd_ingestion_template)
+
+    p = sub.add_parser("ingest-source-docs", help="Download/normalize URL, local-path, or inline source rows into extraction-ready text files.")
+    p.add_argument("--input", required=True, help="Input CSV with source_url, path, or text plus ticker/event_time metadata.")
+    p.add_argument("--out", required=True, help="Output source-document manifest compatible with extract-facts.")
+    p.add_argument("--docs-dir", required=True, help="Directory for normalized text files.")
+    p.add_argument("--user-agent", default=None)
+    p.add_argument("--requests-per-second", type=float, default=2.0)
+    p.add_argument("--overwrite", action="store_true")
+    p.add_argument("--include-inline-text", action="store_true", help="Also include normalized text in the output CSV; usually leave off for large docs.")
+    p.add_argument("--min-text-chars", type=int, default=20)
+    p.set_defaults(func=cmd_ingest_source_docs)
+
+    p = sub.add_parser("sec-source-docs", help="Download SEC filing primary docs and likely earnings-release exhibits into a source-document manifest.")
+    p.add_argument("--preset", help="Preset, e.g. semiconductors, mega_cap_tech, software.")
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--benchmark", default="")
+    p.add_argument("--sector-benchmark", default="")
+    p.add_argument("--forms", default="8-K", help="Comma-separated SEC forms, default 8-K.")
+    p.add_argument("--start")
+    p.add_argument("--end")
+    p.add_argument("--item-filter", default="2.02", help="Comma-separated 8-K item filter. Use 'all' to disable.")
+    p.add_argument("--limit-per-ticker", type=int, default=None)
+    p.add_argument("--no-primary", action="store_true", help="Do not include primary filing document.")
+    p.add_argument("--no-exhibits", action="store_true", help="Do not include likely earnings-release exhibits.")
+    p.add_argument("--exhibit-pattern", default=r"(?i)(ex[-_]?99|exhibit[-_ ]?99|dex99|99[._-]?1|earnings|results|press[-_ ]?release)")
+    p.add_argument("--docs-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--user-agent", default=None)
+    p.add_argument("--requests-per-second", type=float, default=5.0)
+    p.add_argument("--overwrite", action="store_true")
+    p.add_argument("--min-text-chars", type=int, default=40)
+    p.set_defaults(func=cmd_sec_source_docs)
 
     p = sub.add_parser("extract-facts", help="Extract evidence-grounded earnings/guidance facts from a source-document manifest.")
     p.add_argument("--documents", required=True, help="CSV manifest with source_doc_id, ticker, event_time, and text/path.")
@@ -711,6 +808,10 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("extraction-demo", help="Run the offline source-document extraction demo.")
     p.add_argument("--root", default=".")
     p.set_defaults(func=cmd_extraction_demo)
+
+    p = sub.add_parser("source-ingestion-demo", help="Run the offline source-ingestion + extraction demo.")
+    p.add_argument("--root", default=".")
+    p.set_defaults(func=cmd_source_ingestion_demo)
 
     p = sub.add_parser("earnings-demo", help="Run the offline synthetic earnings/expectations demo pipeline.")
     p.add_argument("--root", default=".")

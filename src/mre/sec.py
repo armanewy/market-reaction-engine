@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import re
 import time
 from pathlib import Path
 from typing import Iterable
@@ -12,10 +13,11 @@ from .events import make_event_template
 
 SEC_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEC_SUBMISSIONS_URL = "https://data.sec.gov/submissions/CIK{cik10}.json"
+SEC_ARCHIVES_BASE = "https://www.sec.gov/Archives/edgar/data"
 
 
 def default_user_agent() -> str:
-    return os.environ.get("SEC_USER_AGENT", "market-reaction-engine/0.1 contact@example.com")
+    return os.environ.get("SEC_USER_AGENT", "market-reaction-engine/0.6 contact@example.com")
 
 
 class SecClient:
@@ -41,6 +43,17 @@ class SecClient:
         time.sleep(self.delay)
         return resp.json()
 
+    def _get_response(self, url: str) -> requests.Response:
+        resp = self.session.get(url, timeout=30)
+        if resp.status_code >= 400:
+            raise RuntimeError(f"SEC request failed {resp.status_code}: {url}\n{resp.text[:500]}")
+        time.sleep(self.delay)
+        return resp
+
+    def _get_text(self, url: str) -> tuple[str, str]:
+        resp = self._get_response(url)
+        return resp.text, resp.headers.get("Content-Type", "")
+
     def company_tickers(self) -> pd.DataFrame:
         data = self._get_json(SEC_TICKERS_URL)
         rows = list(data.values())
@@ -61,6 +74,63 @@ class SecClient:
     def submissions(self, ticker: str) -> dict:
         cik, _ = self.ticker_to_cik(ticker)
         return self._get_json(SEC_SUBMISSIONS_URL.format(cik10=f"{cik:010d}"))
+
+
+    @staticmethod
+    def filing_base_url(cik: int, accession: str) -> str:
+        accession_nodash = str(accession).replace("-", "")
+        return f"{SEC_ARCHIVES_BASE}/{int(cik)}/{accession_nodash}"
+
+    def filing_document_url(self, cik: int, accession: str, document_name: str) -> str:
+        return f"{self.filing_base_url(cik, accession)}/{document_name}"
+
+    def filing_index(self, cik: int, accession: str) -> dict:
+        return self._get_json(f"{self.filing_base_url(cik, accession)}/index.json")
+
+    def filing_documents(
+        self,
+        filing_row: pd.Series | dict,
+        *,
+        include_primary: bool = True,
+        include_exhibits: bool = True,
+        exhibit_pattern: str = r"(?i)(ex[-_]?99|exhibit[-_ ]?99|dex99|99[._-]?1|earnings|results|press[-_ ]?release)",
+    ) -> list[dict]:
+        """Return text-like documents for one filing row.
+
+        The SEC archive index usually exposes primary documents, XBRL files,
+        image files, and exhibits. This helper keeps the primary document plus
+        likely earnings-release exhibits by default.
+        """
+        cik = int(filing_row["cik"])
+        accession = str(filing_row["accessionNumber"])
+        primary = str(filing_row.get("primaryDocument", ""))
+        idx = self.filing_index(cik, accession)
+        items = idx.get("directory", {}).get("item", []) or []
+        pattern = re.compile(exhibit_pattern) if exhibit_pattern else None
+        out: list[dict] = []
+        for item in items:
+            name = str(item.get("name", ""))
+            if not name:
+                continue
+            lower = name.lower()
+            suffix = Path(lower).suffix
+            if suffix and suffix not in {".htm", ".html", ".txt", ".xml", ".xhtml"}:
+                continue
+            is_primary = name == primary
+            is_exhibit = bool(pattern.search(name)) if pattern else False
+            if (is_primary and include_primary) or (is_exhibit and include_exhibits):
+                row = dict(item)
+                row["name"] = name
+                row["url"] = self.filing_document_url(cik, accession, name)
+                row["is_primary"] = is_primary
+                row["is_exhibit"] = is_exhibit and not is_primary
+                out.append(row)
+        if include_primary and primary and not any(d.get("name") == primary for d in out):
+            out.insert(0, {"name": primary, "url": self.filing_document_url(cik, accession, primary), "is_primary": True, "is_exhibit": False})
+        return out
+
+    def fetch_document_text(self, url: str) -> tuple[str, str]:
+        return self._get_text(url)
 
     def recent_filings(self, ticker: str, forms: Iterable[str] | None = None) -> pd.DataFrame:
         forms_set = {f.upper() for f in forms} if forms else None
