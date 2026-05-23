@@ -13,7 +13,7 @@ from .source_docs import SourceDocument, load_source_documents
 
 
 AMOUNT_RE = re.compile(
-    r"\$?\s*(?P<num>-?\d+(?:\.\d+)?)\s*(?P<unit>billion|bn|b|million|mn|m)?",
+    r"\$?\s*(?P<num>-?\d{1,3}(?:,\d{3})*(?:\.\d+)?|-?\d+(?:\.\d+)?)\s*(?P<unit>billion|bn|b|million|mn|m)?",
     flags=re.IGNORECASE,
 )
 PCT_RE = re.compile(r"(?P<num>-?\d+(?:\.\d+)?)\s*(?:%|percent|percentage points?)", flags=re.IGNORECASE)
@@ -69,8 +69,19 @@ def _sentences(text: str) -> Iterable[tuple[str, int, int]]:
         yield seg, start + offset, len(text)
 
 
+def _line_segments(text: str) -> Iterable[tuple[str, int, int]]:
+    start = 0
+    for raw in str(text or "").splitlines(keepends=True):
+        end = start + len(raw)
+        seg = _norm_space(raw)
+        if 8 <= len(seg) <= 320:
+            offset = len(raw) - len(raw.lstrip())
+            yield seg, start + offset, end
+        start = end
+
+
 def normalize_money_to_usd(match: re.Match[str], default_unit: str = "") -> float:
-    num = float(match.group("num"))
+    num = float(match.group("num").replace(",", ""))
     unit = (match.group("unit") or default_unit or "").lower()
     if unit in {"billion", "bn", "b"}:
         return num * 1_000_000_000.0
@@ -251,16 +262,19 @@ def _parse_actuals(doc: SourceDocument, segment: str, start: int, end: int) -> l
     low = segment.lower()
     if _contains_any(low, ACTUAL_EXCLUDE_WORDS):
         return []
+    if re.search(r"\brevenue\s+of\s+(?:more than|over)\b", low):
+        return []
     flags: list[str] = []
     if any(w in low for w in SEGMENT_WORDS):
         flags.append("possible_segment_metric")
 
     out: list[ParsedExhibitFact] = []
     if "revenue" in low or "net sales" in low:
-        if not flags or "total revenue" in low or "quarterly revenue" in low or "generated revenue" in low or "net sales" in low:
+        starts_with_consolidated_revenue = low.strip().lstrip("•-* ").startswith(("revenue of", "revenues of"))
+        if not flags or starts_with_consolidated_revenue or "total revenue" in low or "quarterly revenue" in low or "generated revenue" in low or "net sales" in low:
             m = re.search(
                 r"(?:quarterly\s+)?(?:net\s+)?(?:revenue|revenues|net sales|sales|generated revenue)\s*(?:of|were|was|totaled|reached|:)?\s*"
-                r"(?P<amount>\$?\s*-?\d+(?:\.\d+)?\s*(?:billion|bn|b|million|mn|m))",
+                r"(?P<amount>\$?\s*-?(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?\s*(?:billion|bn|b|million|mn|m))",
                 segment,
                 flags=re.IGNORECASE,
             )
@@ -304,7 +318,12 @@ def _dedupe_facts(facts: list[ParsedExhibitFact]) -> list[ParsedExhibitFact]:
 
 def parse_exhibit99_document(doc: SourceDocument) -> list[ParsedExhibitFact]:
     facts: list[ParsedExhibitFact] = []
-    for segment, start, end in _sentences(doc.text):
+    seen_segments: set[tuple[int, int, str]] = set()
+    for segment, start, end in list(_sentences(doc.text)) + list(_line_segments(doc.text)):
+        key = (start, end, segment)
+        if key in seen_segments:
+            continue
+        seen_segments.add(key)
         facts.extend(_parse_guidance_revenue(doc, segment, start, end))
         facts.extend(_parse_guidance_eps(doc, segment, start, end))
         facts.extend(_parse_actuals(doc, segment, start, end))

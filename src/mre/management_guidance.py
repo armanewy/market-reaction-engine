@@ -594,7 +594,7 @@ def write_management_guidance_expansion_report(
 ) -> None:
     ready = bridge[bridge["bridge_status"] == READY_STATUS].copy() if not bridge.empty else bridge.copy()
     lines = [
-        "# Agent 1D3 Expansion Report - Management-Guidance Bridge",
+        "# Agent 1D4 Expansion Report - Management-Guidance Bridge",
         "",
         "## Decision",
         "",

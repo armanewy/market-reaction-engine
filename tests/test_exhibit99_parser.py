@@ -73,6 +73,35 @@ def test_actual_revenue_ignores_guidance_sentence():
     assert guidance[0].value == 4_600_000_000
 
 
+def test_bullet_line_actual_revenue_parses_when_document_has_guidance_later():
+    facts = parse_exhibit99_document(
+        _doc(
+            "Highlights\n"
+            "•Revenue of $3.25 billion with double-digit year-over-year growth\n"
+            "Business Outlook\n"
+            "For the second quarter of fiscal 2023, we are forecasting revenue of $3.20 billion, +/- $100 million."
+        )
+    )
+    actuals = [fact for fact in facts if fact.fact_name == "actual_revenue"]
+    guidance = [fact for fact in facts if fact.fact_name == "guidance_revenue_mid"]
+    assert len(actuals) == 1
+    assert actuals[0].value == 3_250_000_000
+    assert len(guidance) == 1
+    assert guidance[0].value == 3_200_000_000
+
+
+def test_comma_million_actual_revenue_parses():
+    facts = parse_exhibit99_document(_doc("•Revenue of $6,778 million for the third quarter, up 16 percent from the prior year period"))
+    actuals = [fact for fact in facts if fact.fact_name == "actual_revenue"]
+    assert len(actuals) == 1
+    assert actuals[0].value == 6_778_000_000
+
+
+def test_company_boilerplate_revenue_more_than_is_not_actual_revenue():
+    facts = parse_exhibit99_document(_doc("ADI is a global semiconductor leader with revenue of more than $12 billion in FY22."))
+    assert [fact for fact in facts if fact.fact_name == "actual_revenue"] == []
+
+
 def test_prior_guidance_comparison_is_not_next_quarter_guidance():
     facts = parse_exhibit99_document(_doc("Total revenues were $2.43 billion, above the midpoint of the guidance range of $2.20 to $2.50 billion."))
     assert [fact for fact in facts if fact.fact_name == "guidance_revenue_mid"] == []
