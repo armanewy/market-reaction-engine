@@ -73,6 +73,18 @@ def test_parser_does_not_use_warrant_exercise_price_as_offering_price():
     assert by_name["price_per_share"].value == 8.50
 
 
+def test_parser_does_not_treat_warrant_redemption_as_common_stock_offering():
+    facts = parse_capital_raise_document(
+        _doc(
+            "XYZ Announces Redemption of Public Warrants. The public warrants are exercisable for shares of XYZ's "
+            "common stock at a price of $11.50 per share. Any public warrants that remain unexercised will be void."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert by_name["financing_event_type"].value == "unknown"
+    assert "price_per_share" not in by_name
+
+
 def test_parse_atm_program_capacity():
     facts = parse_capital_raise_document(
         _doc(

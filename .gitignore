@@ -7,6 +7,7 @@ artifacts/*.csv
 artifacts/*.json
 artifacts/*.md
 !artifacts/.gitkeep
+artifacts/backtest/
 artifacts/corpus_demo_backtest/
 data/prices/*
 !data/prices/.gitkeep

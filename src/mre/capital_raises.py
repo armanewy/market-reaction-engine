@@ -145,6 +145,10 @@ def _price_match_is_bad_context(segment: str, match: re.Match[str]) -> bool:
     after = segment[match.end() : match.end() + 45].lower()
     if re.search(r"par\s+value\s*$", before) or re.search(r"par\s+value\s*\$?\s*$", before):
         return True
+    if "warrant" in around and any(w in around for w in ["exercisable", "exercise", "redemption", "redeem"]) and not any(
+        w in around for w in ["public offering", "registered direct", "price to the public", "gross proceeds from the offering"]
+    ):
+        return True
     if "exercise price" in before or "exercise price" in after:
         return True
     if "exercise price" in around and not any(w in before for w in ["public offering price", "price to the public", "purchase price per share"]):
@@ -242,9 +246,13 @@ def _fact_selection_priority(fact_or_row: CapitalRaiseFact | pd.Series | dict) -
         priority += 40
     if name == "price_per_share" and any(w in low for w in ["underwriters have agreed to purchase", "purchase price per share to be paid by the underwriters"]):
         priority -= 15
-    if name == "shares_offered" and any(w in low for w in ["public offering", "issuance and sale", "offering of", "priced its underwritten", "priced its public offering"]):
+    if name == "shares_offered" and any(
+        w in low for w in ["public offering", "issuance and sale", "aggregate sale", "offering of", "priced its underwritten", "priced its public offering"]
+    ):
         priority += 25
-    if name == "shares_offered" and any(w in low for w in ["up to", "option", "additional", "upon exercise", "warrant shares", "issuable upon"]):
+    if name == "shares_offered" and any(
+        w in low for w in ["up to", "option", "additional", "upon exercise", "warrant shares", "issuable upon", "convert into", "issued and outstanding"]
+    ):
         priority -= 35
     if "announced the pricing of its offering" in low or "priced $" in low:
         priority += 25
@@ -267,6 +275,8 @@ def _fact_selection_priority(fact_or_row: CapitalRaiseFact | pd.Series | dict) -
 
 def infer_financing_event_type(text: str) -> tuple[str, str, float]:
     low = text.lower()
+    if "redemption of public warrants" in low or "public warrants are exercisable" in low:
+        return "unknown", "warrant redemption/exercise language", 0.70
     if "registered direct offering" in low:
         return "registered_direct_offering", "registered direct offering language", 0.86
     if "private placement" in low:
@@ -310,6 +320,8 @@ def infer_security_type(text: str) -> tuple[str, str, float]:
 def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
     facts: list[CapitalRaiseFact] = []
     doc_text = _norm_space(doc.text)
+    doc_low = doc_text.lower()
+    doc_is_warrant_redemption = "redemption of public warrants" in doc_low or "public warrants are exercisable" in doc_low
     event_type, evidence, conf = infer_financing_event_type(doc_text[:5000])
     facts.append(_fact(doc, "financing_event_type", event_type, "category", evidence, conf, "document_keyword"))
     security_type, security_evidence, security_conf = infer_security_type(doc_text[:5000])
@@ -330,7 +342,7 @@ def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
         if "underwriter" in low or "placement agent" in low or "sales agent" in low:
             facts.append(_fact(doc, "underwriter_or_agent", seg[:300], "text", seg, 0.68, "agent_sentence"))
 
-        if ("gross proceeds" in low or "aggregate gross proceeds" in low) and not fee_table and not prior_dated_transaction:
+        if ("gross proceeds" in low or "aggregate gross proceeds" in low) and not fee_table and not prior_dated_transaction and not doc_is_warrant_redemption:
             val, money = _money_after_terms(seg, ["aggregate gross proceeds", "gross proceeds"])
             if money:
                 facts.append(_fact(doc, "gross_proceeds", val, "usd", seg, 0.88, "gross_proceeds_sentence"))
@@ -363,6 +375,7 @@ def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
             and "shares of our class a common stock to be outstanding" not in low
             and "shares of common stock to be outstanding" not in low
             and "number of shares" not in low
+            and not doc_is_warrant_redemption
         ):
             facts.append(_fact(doc, "shares_offered", _shares(share_match), "shares", seg, 0.84, "shares_offered_sentence"))
         price_matches = list(OFFERING_PRICE_RE.finditer(seg))
@@ -372,7 +385,12 @@ def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
             if fallback_match:
                 price_matches.append(fallback_match)
         for price_match in price_matches:
-            if fee_table or assumed_math or prior_dated_transaction:
+            warrant_exercise_segment = "warrant" in low and any(w in low for w in ["entitles", "exercisable", "exercise", "redemption", "redeemed", "whole share"]) and not any(
+                w in low for w in ["public offering", "registered direct", "price to the public", "gross proceeds from the offering"]
+            )
+            if fee_table or assumed_math or prior_dated_transaction or doc_is_warrant_redemption:
+                continue
+            elif warrant_exercise_segment:
                 continue
             elif _price_match_is_bad_context(seg, price_match):
                 continue
