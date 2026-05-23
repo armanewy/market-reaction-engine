@@ -47,10 +47,29 @@ def price_path(prices_dir: str | Path, ticker: str) -> Path:
     return Path(prices_dir) / f"{ticker.upper()}.csv"
 
 
+def price_file_candidates(prices_dir: str | Path, ticker: str) -> list[Path]:
+    base = Path(prices_dir)
+    raw = str(ticker).strip()
+    upper = raw.upper()
+    lower = raw.lower()
+    return [
+        base / f"{raw}.csv",
+        base / f"{upper}.csv",
+        base / f"{lower}.csv",
+        base / upper / "prices.csv",
+        base / lower / "prices.csv",
+    ]
+
+
+def resolve_price_csv(prices_dir: str | Path, ticker: str) -> Path:
+    for path in price_file_candidates(prices_dir, ticker):
+        if path.exists():
+            return path
+    raise FileNotFoundError(f"No price CSV found for {ticker!r} under {prices_dir}")
+
+
 def load_price_csv(prices_dir: str | Path, ticker: str) -> pd.DataFrame:
-    path = price_path(prices_dir, ticker)
-    if not path.exists():
-        raise FileNotFoundError(f"Missing price file for {ticker}: {path}")
+    path = resolve_price_csv(prices_dir, ticker)
     return normalize_price_frame(pd.read_csv(path))
 
 

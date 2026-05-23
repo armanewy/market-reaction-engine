@@ -76,6 +76,11 @@ from .event_study import run_event_study
 from .events import event_tickers, load_events, make_event_template
 from .exhibit99_parser import parse_exhibit99_manifest, pivot_parsed_facts, validate_parser_against_gold
 from .expectations import enrich_expectations, make_expectations_template, merge_external_expectations
+from .sec_context import add_sec_context
+from .sec_readiness import build_readiness, write_readiness_report
+from .sec_review import create_review_template
+from .sec_timestamps import audit_timestamps
+from .source_docs import SecClient as SecSourceClient, write_sec_source_documents
 from .management_guidance import (
     build_management_guidance_bridge,
     validate_management_guidance_bridge,
@@ -317,6 +322,60 @@ def cmd_sec_source_docs(args: argparse.Namespace) -> None:
         "docs_dir": str(args.docs_dir),
         "warning": "SEC source documents are primary-source downloads, but extraction labels should still be reviewed before modeling.",
     }, indent=2, default=str))
+
+
+def cmd_sec_domain_source_docs(args: argparse.Namespace) -> None:
+    client = SecSourceClient(user_agent=args.sec_user_agent)
+    rows = write_sec_source_documents(
+        args.out,
+        domain=args.domain,
+        tickers=args.tickers,
+        ticker_csv=args.ticker_csv,
+        forms=args.forms,
+        items=args.items,
+        start=args.start,
+        end=args.end,
+        docs_dir=args.docs_dir,
+        client=client,
+    )
+    print(json.dumps({"rows": len(rows), "out": str(args.out)}, indent=2))
+
+
+def cmd_sec_domain_review_template(args: argparse.Namespace) -> None:
+    rows = create_review_template(args.input, args.out)
+    print(json.dumps({"rows": len(rows), "out": str(args.out)}, indent=2))
+
+
+def cmd_sec_domain_context(args: argparse.Namespace) -> None:
+    rows = add_sec_context(
+        args.input,
+        args.out,
+        prices_dir=args.prices_dir,
+        benchmark_ticker=args.benchmark_ticker,
+        shares_outstanding_path=args.shares_outstanding,
+        market_cap_path=args.market_cap,
+    )
+    print(json.dumps({"rows": len(rows), "out": str(args.out)}, indent=2))
+
+
+def cmd_sec_domain_timestamp_audit(args: argparse.Namespace) -> None:
+    rows = audit_timestamps(args.input, args.out, has_intraday_prices=args.has_intraday_prices)
+    print(json.dumps({"rows": len(rows), "out": str(args.out)}, indent=2))
+
+
+def cmd_sec_domain_readiness_report(args: argparse.Namespace) -> None:
+    readiness = build_readiness(
+        domain=args.domain,
+        sources_path=args.sources,
+        parsed_path=args.parsed,
+        review_path=args.review,
+        parser_audit_path=args.parser_audit,
+        timestamp_audit_path=args.timestamp_audit,
+        context_path=args.context,
+        min_train=args.min_train,
+    )
+    write_readiness_report(args.out, readiness)
+    print(json.dumps(readiness, indent=2, default=str))
 
 
 
@@ -1716,6 +1775,52 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--overwrite", action="store_true")
     p.add_argument("--min-text-chars", type=int, default=40)
     p.set_defaults(func=cmd_sec_source_docs)
+
+    p = sub.add_parser("sec-domain-source-docs", help="Build a shared SEC source manifest for SEC-native domains.")
+    p.add_argument("--domain", required=True)
+    ticker_group = p.add_mutually_exclusive_group(required=True)
+    ticker_group.add_argument("--tickers")
+    ticker_group.add_argument("--ticker-csv")
+    p.add_argument("--forms", required=True)
+    p.add_argument("--items")
+    p.add_argument("--start", required=True)
+    p.add_argument("--end", required=True)
+    p.add_argument("--docs-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--sec-user-agent", default="MarketReactionEngine/0.8 sec-core-infrastructure")
+    p.set_defaults(func=cmd_sec_domain_source_docs)
+
+    p = sub.add_parser("sec-domain-review-template", help="Create a review template from a SEC source or event file.")
+    p.add_argument("--input", required=True)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_sec_domain_review_template)
+
+    p = sub.add_parser("sec-domain-context", help="Add common SEC-domain price and capitalization context.")
+    p.add_argument("--input", required=True)
+    p.add_argument("--prices-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--benchmark-ticker", default="SPY")
+    p.add_argument("--shares-outstanding")
+    p.add_argument("--market-cap")
+    p.set_defaults(func=cmd_sec_domain_context)
+
+    p = sub.add_parser("sec-domain-timestamp-audit", help="Audit SEC event timestamps and first tradable windows.")
+    p.add_argument("--input", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--has-intraday-prices", action="store_true")
+    p.set_defaults(func=cmd_sec_domain_timestamp_audit)
+
+    p = sub.add_parser("sec-domain-readiness-report", help="Create a common readiness report for a SEC-native domain.")
+    p.add_argument("--domain", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--sources")
+    p.add_argument("--parsed")
+    p.add_argument("--review")
+    p.add_argument("--parser-audit")
+    p.add_argument("--timestamp-audit")
+    p.add_argument("--context")
+    p.add_argument("--min-train", type=int, default=40)
+    p.set_defaults(func=cmd_sec_domain_readiness_report)
 
     p = sub.add_parser("extract-facts", help="Extract evidence-grounded earnings/guidance facts from a source-document manifest.")
     p.add_argument("--documents", required=True, help="CSV manifest with source_doc_id, ticker, event_time, and text/path.")
