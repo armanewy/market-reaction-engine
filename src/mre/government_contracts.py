@@ -43,8 +43,16 @@ RECIPIENT_TICKER_MAP_COLUMNS = [
     "subsidiary_name",
     "mapping_type",
     "confidence",
+    "source_url",
     "notes",
 ]
+
+MODEL_ELIGIBLE_MAPPING_TYPES = {"exact_public_company", "known_subsidiary", "division"}
+LEGACY_MAPPING_TYPE_ALIASES = {
+    "exact": "exact_public_company",
+    "subsidiary": "known_subsidiary",
+    "jv": "joint_venture",
+}
 
 GOVERNMENT_CONTRACT_EXTRA_SOURCE_COLUMNS = [
     "recipient_name",
@@ -104,32 +112,61 @@ MODIFICATION_RE = re.compile(r"\b(?:modification|mod)\s+(?:no\.?|number|#)?\s*(?
 
 DEFAULT_RECIPIENT_TICKER_MAP = [
     ("LOCKHEED MARTIN", "LMT", "Lockheed Martin Corporation", "", "exact", 0.95, "Large defense prime."),
+    ("LOCKHEED MARTIN CORPORATION", "LMT", "Lockheed Martin Corporation", "", "exact", 0.96, "Large defense prime."),
+    ("LOCKHEED MARTIN CORP", "LMT", "Lockheed Martin Corporation", "", "exact", 0.96, "Large defense prime."),
+    ("LOCKHEED MARTIN AERONAUTICS", "LMT", "Lockheed Martin Corporation", "Lockheed Martin Aeronautics", "subsidiary", 0.91, "Lockheed operating unit."),
+    ("LOCKHEED MARTIN MISSILES", "LMT", "Lockheed Martin Corporation", "Lockheed Martin Missiles and Fire Control", "subsidiary", 0.91, "Lockheed operating unit."),
+    ("LOCKHEED MARTIN ROTARY", "LMT", "Lockheed Martin Corporation", "Lockheed Martin Rotary and Mission Systems", "subsidiary", 0.91, "Lockheed operating unit."),
     ("SIKORSKY", "LMT", "Lockheed Martin Corporation", "Sikorsky", "subsidiary", 0.90, "Lockheed subsidiary."),
     ("RAYTHEON", "RTX", "RTX Corporation", "Raytheon", "subsidiary", 0.92, "RTX defense subsidiary."),
+    ("RAYTHEON COMPANY", "RTX", "RTX Corporation", "Raytheon Company", "subsidiary", 0.92, "RTX defense subsidiary."),
+    ("RAYTHEON MISSILES", "RTX", "RTX Corporation", "Raytheon Missiles & Defense", "subsidiary", 0.90, "RTX defense subsidiary."),
+    ("RAYTHEON TECHNOLOGIES", "RTX", "RTX Corporation", "", "exact", 0.90, "Legacy public-company name."),
     ("PRATT & WHITNEY", "RTX", "RTX Corporation", "Pratt & Whitney", "subsidiary", 0.90, "RTX aerospace subsidiary."),
     ("COLLINS AEROSPACE", "RTX", "RTX Corporation", "Collins Aerospace", "subsidiary", 0.90, "RTX aerospace subsidiary."),
     ("NORTHROP GRUMMAN", "NOC", "Northrop Grumman Corporation", "", "exact", 0.95, "Large defense prime."),
+    ("NORTHROP GRUMMAN SYSTEMS", "NOC", "Northrop Grumman Corporation", "Northrop Grumman Systems Corporation", "subsidiary", 0.92, "Northrop legal entity."),
     ("GENERAL DYNAMICS", "GD", "General Dynamics Corporation", "", "exact", 0.95, "Large defense prime."),
+    ("GENERAL DYNAMICS LAND SYSTEMS", "GD", "General Dynamics Corporation", "General Dynamics Land Systems", "subsidiary", 0.90, "General Dynamics subsidiary."),
+    ("ELECTRIC BOAT", "GD", "General Dynamics Corporation", "General Dynamics Electric Boat", "subsidiary", 0.90, "General Dynamics subsidiary."),
+    ("BATH IRON WORKS", "GD", "General Dynamics Corporation", "Bath Iron Works", "subsidiary", 0.90, "General Dynamics subsidiary."),
     ("GDIT", "GD", "General Dynamics Corporation", "General Dynamics Information Technology", "subsidiary", 0.88, "General Dynamics IT subsidiary."),
     ("BOEING", "BA", "The Boeing Company", "", "exact", 0.92, "Large aerospace prime."),
+    ("BOEING COMPANY", "BA", "The Boeing Company", "", "exact", 0.94, "Large aerospace prime."),
+    ("BOEING CO", "BA", "The Boeing Company", "", "exact", 0.94, "Large aerospace prime."),
     ("HUNTINGTON INGALLS", "HII", "Huntington Ingalls Industries, Inc.", "", "exact", 0.95, "Shipbuilding prime."),
     ("INGALLS SHIPBUILDING", "HII", "Huntington Ingalls Industries, Inc.", "Ingalls Shipbuilding", "subsidiary", 0.90, "HII subsidiary."),
+    ("NEWPORT NEWS SHIPBUILDING", "HII", "Huntington Ingalls Industries, Inc.", "Newport News Shipbuilding", "subsidiary", 0.90, "HII subsidiary."),
     ("L3HARRIS", "LHX", "L3Harris Technologies, Inc.", "", "exact", 0.95, "Defense electronics prime."),
+    ("L3HARRIS TECHNOLOGIES", "LHX", "L3Harris Technologies, Inc.", "", "exact", 0.96, "Defense electronics prime."),
+    ("HARRIS CORPORATION", "LHX", "L3Harris Technologies, Inc.", "Harris Corporation", "subsidiary", 0.88, "Legacy Harris name."),
     ("L3 TECHNOLOGIES", "LHX", "L3Harris Technologies, Inc.", "", "subsidiary", 0.88, "Legacy L3 name."),
     ("CACI", "CACI", "CACI International Inc", "", "exact", 0.94, "Government services/IT."),
+    ("CACI INC", "CACI", "CACI International Inc", "CACI Inc.", "subsidiary", 0.90, "CACI legal entity."),
     ("SCIENCE APPLICATIONS INTERNATIONAL", "SAIC", "Science Applications International Corporation", "", "exact", 0.94, "Government services/IT."),
     ("SAIC", "SAIC", "Science Applications International Corporation", "", "exact", 0.94, "Government services/IT."),
     ("LEIDOS", "LDOS", "Leidos Holdings, Inc.", "", "exact", 0.94, "Government services/IT."),
+    ("LEIDOS INC", "LDOS", "Leidos Holdings, Inc.", "Leidos, Inc.", "subsidiary", 0.90, "Leidos legal entity."),
     ("BOOZ ALLEN", "BAH", "Booz Allen Hamilton Holding Corporation", "", "exact", 0.94, "Government services/IT."),
+    ("BOOZ ALLEN HAMILTON", "BAH", "Booz Allen Hamilton Holding Corporation", "", "exact", 0.95, "Government services/IT."),
     ("PALANTIR", "PLTR", "Palantir Technologies Inc.", "", "exact", 0.95, "Government software."),
+    ("PALANTIR USG", "PLTR", "Palantir Technologies Inc.", "Palantir USG, Inc.", "subsidiary", 0.90, "Palantir government subsidiary."),
     ("KRATOS", "KTOS", "Kratos Defense & Security Solutions, Inc.", "", "exact", 0.94, "Defense technology."),
+    ("KRATOS DEFENSE", "KTOS", "Kratos Defense & Security Solutions, Inc.", "", "exact", 0.95, "Defense technology."),
+    ("KRATOS UNMANNED", "KTOS", "Kratos Defense & Security Solutions, Inc.", "Kratos Unmanned Aerial Systems", "subsidiary", 0.90, "Kratos subsidiary."),
     ("MERCURY SYSTEMS", "MRCY", "Mercury Systems, Inc.", "", "exact", 0.94, "Defense electronics."),
     ("AEROVIRONMENT", "AVAV", "AeroVironment, Inc.", "", "exact", 0.94, "Unmanned systems."),
+    ("AEROVIRONMENT INC", "AVAV", "AeroVironment, Inc.", "", "exact", 0.95, "Unmanned systems."),
     ("ROCKET LAB", "RKLB", "Rocket Lab USA, Inc.", "", "exact", 0.94, "Space launch and systems."),
+    ("ROCKET LAB USA", "RKLB", "Rocket Lab USA, Inc.", "", "exact", 0.95, "Space launch and systems."),
     ("INTUITIVE MACHINES", "LUNR", "Intuitive Machines, Inc.", "", "exact", 0.94, "Space systems."),
+    ("INTUITIVE MACHINES LLC", "LUNR", "Intuitive Machines, Inc.", "Intuitive Machines, LLC", "subsidiary", 0.88, "Operating company."),
     ("REDWIRE", "RDW", "Redwire Corporation", "", "exact", 0.94, "Space infrastructure."),
+    ("REDWIRE SPACE", "RDW", "Redwire Corporation", "Redwire Space", "subsidiary", 0.88, "Redwire operating entity."),
     ("BLACKSKY", "BKSY", "BlackSky Technology Inc.", "", "exact", 0.94, "Satellite imagery."),
+    ("BLACKSKY GEOSPATIAL", "BKSY", "BlackSky Technology Inc.", "BlackSky Geospatial Solutions", "subsidiary", 0.90, "BlackSky operating entity."),
     ("PLANET LABS", "PL", "Planet Labs PBC", "", "exact", 0.94, "Earth observation."),
+    ("PLANET LABS FEDERAL", "PL", "Planet Labs PBC", "Planet Labs Federal, Inc.", "subsidiary", 0.90, "Planet government subsidiary."),
     ("PALO ALTO NETWORKS", "PANW", "Palo Alto Networks, Inc.", "", "exact", 0.93, "Cybersecurity vendor."),
     ("CROWDSTRIKE", "CRWD", "CrowdStrike Holdings, Inc.", "", "exact", 0.93, "Cybersecurity vendor."),
     ("CLOUDFLARE", "NET", "Cloudflare, Inc.", "", "exact", 0.93, "Network/cybersecurity vendor."),
@@ -298,13 +335,21 @@ def write_government_contract_recipient_ticker_map(
     out = Path(out_path)
     if out.exists() and not overwrite:
         return pd.read_csv(out)
-    rows = [
-        dict(zip(RECIPIENT_TICKER_MAP_COLUMNS, values, strict=True))
-        for values in DEFAULT_RECIPIENT_TICKER_MAP
-    ]
+    legacy_cols = [c for c in RECIPIENT_TICKER_MAP_COLUMNS if c != "source_url"]
+    rows = []
+    for values in DEFAULT_RECIPIENT_TICKER_MAP:
+        row = dict(zip(legacy_cols, values, strict=True))
+        row["mapping_type"] = _normalize_mapping_type(row.get("mapping_type"))
+        row["source_url"] = ""
+        rows.append(row)
     df = pd.DataFrame(rows, columns=RECIPIENT_TICKER_MAP_COLUMNS)
     ensure_parent(out).write_text(df.to_csv(index=False), encoding="utf-8")
     return df
+
+
+def _normalize_mapping_type(value: object) -> str:
+    raw = _norm(value, "ambiguous").lower().strip()
+    return LEGACY_MAPPING_TYPE_ALIASES.get(raw, raw)
 
 
 def load_recipient_ticker_map(path: str | Path, *, create_if_missing: bool = True) -> pd.DataFrame:
@@ -317,6 +362,7 @@ def load_recipient_ticker_map(path: str | Path, *, create_if_missing: bool = Tru
     for col in RECIPIENT_TICKER_MAP_COLUMNS:
         if col not in df.columns:
             df[col] = ""
+    df["mapping_type"] = df["mapping_type"].map(_normalize_mapping_type)
     df["confidence"] = pd.to_numeric(df["confidence"], errors="coerce").fillna(0.0)
     return df[RECIPIENT_TICKER_MAP_COLUMNS]
 
@@ -344,9 +390,10 @@ def map_recipient_to_ticker(recipient_name: object, mapping: pd.DataFrame) -> di
                     "mapped_ticker": _norm(row.get("ticker")).upper(),
                     "parent_company_name": _norm(row.get("public_company_name")),
                     "subsidiary_name": _norm(row.get("subsidiary_name")),
-                    "mapping_type": _norm(row.get("mapping_type"), "ambiguous").lower(),
+                    "mapping_type": _normalize_mapping_type(row.get("mapping_type")),
                     "recipient_mapping_confidence": float(row.get("confidence", 0.0) or 0.0),
                     "mapping_notes": _norm(row.get("notes")),
+                    "mapping_source_url": _norm(row.get("source_url")),
                     "pattern_len": len(pattern),
                 }
             )
@@ -368,8 +415,8 @@ def map_recipient_to_ticker(recipient_name: object, mapping: pd.DataFrame) -> di
 def _mapping_is_high(mapping_type: object, confidence: object, ticker: object) -> bool:
     conf = _to_float(confidence)
     tick = _norm(ticker).upper()
-    mtype = _norm(mapping_type, "ambiguous").lower()
-    return bool(pd.notna(conf) and conf >= 0.80 and tick and ";" not in tick and mtype not in {"ambiguous", "unmapped"})
+    mtype = _normalize_mapping_type(mapping_type)
+    return bool(pd.notna(conf) and conf >= 0.80 and tick and ";" not in tick and mtype in MODEL_ELIGIBLE_MAPPING_TYPES)
 
 
 def _read_text_from_path(path_value: object, manifest_dir: Path) -> str:
@@ -520,7 +567,7 @@ def _usaspending_search_terms(mapping: pd.DataFrame, tickers: Iterable[str] | No
         selected = selected[selected["ticker"].astype(str).str.upper().isin({"PLTR", "KTOS", "RKLB", "LUNR", "RDW", "BKSY", "PL", "AVAV"})]
     terms = []
     for _, row in selected.iterrows():
-        if str(row.get("mapping_type", "")).lower() == "ambiguous":
+        if not _mapping_is_high(row.get("mapping_type"), row.get("confidence"), row.get("ticker")):
             continue
         terms.append(_norm(row.get("recipient_name_pattern")))
     return sorted(set(t for t in terms if t))
@@ -533,6 +580,7 @@ def _query_usaspending_group(
     start: str,
     end: str,
     limit: int,
+    page: int = 1,
     min_award_amount: float | None = None,
     timeout: float = 30.0,
 ) -> list[dict]:
@@ -546,7 +594,7 @@ def _query_usaspending_group(
     payload = {
         "subawards": False,
         "limit": int(limit),
-        "page": 1,
+        "page": int(page),
         "sort": "Award Amount",
         "order": "desc",
         "filters": filters,
@@ -573,6 +621,7 @@ def build_government_contract_source_documents(
     start: str = "2024-01-01",
     end: str = "2026-05-23",
     limit_per_recipient: int = 3,
+    pages_per_recipient: int = 1,
     min_award_amount: float | None = None,
     requests_per_second: float = 2.0,
 ) -> tuple[pd.DataFrame, dict[str, object]]:
@@ -583,6 +632,7 @@ def build_government_contract_source_documents(
         "manifest_rows": 0,
         "usaspending_rows": 0,
         "usaspending_rows_skipped_out_of_window": 0,
+        "usaspending_pages_requested": 0,
         "usaspending_errors": {},
     }
 
@@ -623,28 +673,35 @@ def build_government_contract_source_documents(
         end_ts = pd.to_datetime(end, errors="coerce")
         for term in _usaspending_search_terms(mapping, tickers, recipient_search):
             for codes in (USASPENDING_CONTRACT_CODES, USASPENDING_IDV_CODES):
-                try:
-                    results = _query_usaspending_group(
-                        term,
-                        codes,
-                        start=start,
-                        end=end,
-                        limit=limit_per_recipient,
-                        min_award_amount=min_award_amount,
-                    )
-                except Exception as exc:  # pragma: no cover - network/API failures vary
-                    errors = diagnostics["usaspending_errors"]
-                    if isinstance(errors, dict):
-                        errors[f"{term}:{codes[0]}"] = type(exc).__name__
-                    continue
-                for result in results:
-                    award_start = pd.to_datetime(result.get("Start Date"), errors="coerce")
-                    if (pd.notna(start_ts) and pd.notna(award_start) and award_start < start_ts) or (pd.notna(end_ts) and pd.notna(award_start) and award_start > end_ts):
-                        diagnostics["usaspending_rows_skipped_out_of_window"] = int(diagnostics["usaspending_rows_skipped_out_of_window"]) + 1
+                for page in range(1, max(1, int(pages_per_recipient)) + 1):
+                    try:
+                        diagnostics["usaspending_pages_requested"] = int(diagnostics["usaspending_pages_requested"]) + 1
+                        results = _query_usaspending_group(
+                            term,
+                            codes,
+                            start=start,
+                            end=end,
+                            limit=limit_per_recipient,
+                            page=page,
+                            min_award_amount=min_award_amount,
+                        )
+                    except Exception as exc:  # pragma: no cover - network/API failures vary
+                        errors = diagnostics["usaspending_errors"]
+                        if isinstance(errors, dict):
+                            errors[f"{term}:{codes[0]}:page{page}"] = type(exc).__name__
                         continue
-                    rows.append(_usaspending_result_to_source_row(result, mapping))
-                    diagnostics["usaspending_rows"] = int(diagnostics["usaspending_rows"]) + 1
-                time.sleep(delay)
+                    if not results:
+                        break
+                    for result in results:
+                        award_start = pd.to_datetime(result.get("Start Date"), errors="coerce")
+                        if (pd.notna(start_ts) and pd.notna(award_start) and award_start < start_ts) or (pd.notna(end_ts) and pd.notna(award_start) and award_start > end_ts):
+                            diagnostics["usaspending_rows_skipped_out_of_window"] = int(diagnostics["usaspending_rows_skipped_out_of_window"]) + 1
+                            continue
+                        rows.append(_usaspending_result_to_source_row(result, mapping))
+                        diagnostics["usaspending_rows"] = int(diagnostics["usaspending_rows"]) + 1
+                    if len(results) < int(limit_per_recipient):
+                        break
+                    time.sleep(delay)
 
     out = pd.DataFrame(rows)
     for col in GOVERNMENT_CONTRACT_SOURCE_COLUMNS:
@@ -961,7 +1018,7 @@ def _facts_to_one_row(facts: list[GovernmentContractFact], doc: GovernmentContra
 def derive_government_contract_fields(row: dict | pd.Series) -> dict[str, object]:
     event_type = _norm(row.get("government_contract_event_type"), "ambiguous_contract_event")
     award_type = _norm(row.get("award_type") or row.get("contract_type"))
-    mapping_type = _norm(row.get("mapping_type"), "unmapped").lower()
+    mapping_type = _normalize_mapping_type(row.get("mapping_type"))
     ticker = _norm(row.get("mapped_ticker") or row.get("ticker")).upper()
     recipient_mapping_confidence = _to_float(row.get("recipient_mapping_confidence"))
     award_amount = _to_float(row.get("award_amount"))
@@ -1149,6 +1206,98 @@ def government_contract_features_to_events(features: pd.DataFrame, out_path: str
     return pd.read_csv(out_path)
 
 
+def government_contract_mapping_audit(
+    source_documents: pd.DataFrame,
+    mapping: pd.DataFrame,
+) -> tuple[pd.DataFrame, dict[str, object]]:
+    df = source_documents.copy()
+    for col in ["recipient_name", "mapped_ticker", "mapping_type", "recipient_mapping_confidence", "ticker"]:
+        if col not in df.columns:
+            df[col] = ""
+    def first_nonblank(series: pd.Series, default: object = "") -> object:
+        for value in series.dropna():
+            if _norm(value):
+                return value
+        return default
+
+    rows = []
+    for recipient, group in df.groupby(df["recipient_name"].fillna("").astype(str), dropna=False):
+        recipient_text = _norm(recipient)
+        if not recipient_text:
+            continue
+        mapped = map_recipient_to_ticker(recipient_text, mapping)
+        mapped_ticker = _norm(first_nonblank(group["mapped_ticker"], mapped["mapped_ticker"])).upper()
+        mapping_type = _normalize_mapping_type(first_nonblank(group["mapping_type"], mapped["mapping_type"]))
+        confidence = _to_float(first_nonblank(group["recipient_mapping_confidence"], mapped["recipient_mapping_confidence"]))
+        model_eligible = _mapping_is_high(mapping_type, confidence, mapped_ticker)
+        rows.append(
+            {
+                "recipient_name": recipient_text,
+                "source_rows": int(len(group)),
+                "mapped_ticker": mapped_ticker,
+                "public_company_name": mapped.get("parent_company_name", ""),
+                "subsidiary_name": mapped.get("subsidiary_name", ""),
+                "mapping_type": mapping_type,
+                "confidence": confidence if pd.notna(confidence) else 0.0,
+                "model_eligible_mapping_flag": bool(model_eligible),
+                "source_types": ";".join(sorted(group.get("source_type", pd.Series(dtype=str)).fillna("").astype(str).unique())),
+                "sample_source_url": _norm(group.get("source_url", pd.Series(dtype=str)).dropna().astype(str).iloc[0] if group.get("source_url", pd.Series(dtype=str)).notna().any() else ""),
+                "review_notes": "" if model_eligible else "Mapping requires manual review before model eligibility.",
+            }
+        )
+    detail = pd.DataFrame(rows).sort_values(["model_eligible_mapping_flag", "source_rows", "recipient_name"], ascending=[True, False, True]).reset_index(drop=True)
+    summary = {
+        "source_rows": int(len(df)),
+        "unique_recipients": int(len(detail)),
+        "model_eligible_recipients": int(detail.get("model_eligible_mapping_flag", pd.Series(dtype=bool)).map(_bool_value).sum()) if not detail.empty else 0,
+        "model_eligible_source_rows": int(detail.loc[detail.get("model_eligible_mapping_flag", pd.Series(dtype=bool)).map(_bool_value), "source_rows"].sum()) if not detail.empty else 0,
+        "mapping_type_counts": detail.get("mapping_type", pd.Series(dtype=str)).value_counts(dropna=False).to_dict(),
+        "ticker_counts": df.get("ticker", pd.Series(dtype=str)).fillna("").astype(str).str.upper().replace("", np.nan).dropna().value_counts().head(20).to_dict(),
+        "top_unmapped_or_ineligible_recipients": detail[~detail.get("model_eligible_mapping_flag", pd.Series(dtype=bool)).map(_bool_value)].head(25).to_dict("records") if not detail.empty else [],
+    }
+    return detail, summary
+
+
+def write_government_contract_mapping_audit_report(
+    source_documents_path: str | Path,
+    mapping_path: str | Path,
+    report_out: str | Path,
+    detail_out: str | Path | None = None,
+) -> dict[str, object]:
+    source_documents = pd.read_csv(source_documents_path)
+    mapping = load_recipient_ticker_map(mapping_path)
+    detail, summary = government_contract_mapping_audit(source_documents, mapping)
+    if detail_out:
+        ensure_parent(detail_out)
+        detail.to_csv(detail_out, index=False)
+        summary["detail_out"] = str(detail_out)
+    out = ensure_parent(report_out)
+    lines = [
+        "# Government Contract Recipient Mapping Audit",
+        "",
+        "This is an entity-mapping audit for source candidates. It is not a model result.",
+        "",
+        "## Summary",
+        "",
+    ]
+    for key, value in summary.items():
+        if key in {"mapping_type_counts", "ticker_counts", "top_unmapped_or_ineligible_recipients"}:
+            continue
+        lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Mapping Types", ""])
+    for key, value in (summary.get("mapping_type_counts", {}) or {}).items():
+        lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Ticker Counts", ""])
+    for key, value in (summary.get("ticker_counts", {}) or {}).items():
+        lines.append(f"- {key}: {value}")
+    lines.extend(["", "## Top Ineligible / Unmapped Recipients", ""])
+    for row in summary.get("top_unmapped_or_ineligible_recipients", []) or []:
+        lines.append(f"- {row.get('recipient_name')}: rows={row.get('source_rows')} mapping_type={row.get('mapping_type')} ticker={row.get('mapped_ticker')} confidence={row.get('confidence')}")
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    summary["report_out"] = str(out)
+    return summary
+
+
 def parse_government_contract_manifest(
     documents_path: str | Path,
     facts_out: str | Path,
@@ -1172,6 +1321,101 @@ def parse_government_contract_manifest(
     features = pivot_government_contract_facts(facts, features_out, min_confidence=usable_confidence)
     events = government_contract_features_to_events(features, events_out)
     return facts, features, events
+
+
+def _gold_fact_unit(fact_name: str) -> str:
+    if fact_name in {"award_amount", "obligated_amount", "contract_ceiling"}:
+        return "usd"
+    if fact_name in {"actual_funded_award_flag", "ceiling_only_flag", "option_exercise_flag", "modification_flag"}:
+        return "boolean"
+    if fact_name == "recipient_mapping_confidence":
+        return "ratio"
+    return "category" if fact_name == "government_contract_event_type" else "text"
+
+
+def build_government_contract_parser_gold_template(
+    features: pd.DataFrame,
+    out_path: str | Path,
+    *,
+    target_events: int = 60,
+) -> pd.DataFrame:
+    if features.empty:
+        out = pd.DataFrame(columns=["event_id", "fact_name", "expected_value", "unit", "tolerance", "expected_present", "gold_review_status", "gold_bucket", "reviewer_notes"])
+        ensure_parent(out_path)
+        out.to_csv(out_path, index=False)
+        return out
+
+    pools = [
+        ("new_funded", features[features.get("actual_funded_award_flag", pd.Series(False, index=features.index)).map(_bool_value) & features.get("new_work_flag", pd.Series(False, index=features.index)).map(_bool_value)].head(15)),
+        ("task_orders", features[features.get("government_contract_event_type", pd.Series("", index=features.index)).astype(str).eq("task_order_award")].head(10)),
+        ("modifications_options", features[features.get("modification_flag", pd.Series(False, index=features.index)).map(_bool_value) | features.get("option_exercise_flag", pd.Series(False, index=features.index)).map(_bool_value)].head(10)),
+        ("idiq_ceiling", features[features.get("ceiling_only_flag", pd.Series(False, index=features.index)).map(_bool_value) | features.get("government_contract_event_type", pd.Series("", index=features.index)).astype(str).isin({"idiq_vehicle_award", "contract_ceiling_only"})].head(10)),
+        ("sbir_sttr_ota", features[features.get("government_contract_event_type", pd.Series("", index=features.index)).astype(str).isin({"sbir_award", "sttr_award", "ota_prototype_award"})].head(5)),
+        ("press_release", features[features.get("source_type", pd.Series("", index=features.index)).astype(str).str.contains("press", case=False, na=False)].head(5)),
+        ("ambiguous_mapping", features[pd.to_numeric(features.get("recipient_mapping_confidence", pd.Series(0.0, index=features.index)), errors="coerce").fillna(0.0).lt(0.80)].head(5)),
+    ]
+    selected: list[pd.DataFrame] = []
+    seen: set[str] = set()
+    for _, pool in pools:
+        if pool.empty:
+            continue
+        pool = pool[~pool["event_id"].astype(str).isin(seen)].copy()
+        seen.update(pool["event_id"].astype(str).tolist())
+        selected.append(pool)
+    chosen = pd.concat(selected, ignore_index=True, sort=False) if selected else pd.DataFrame()
+    if len(chosen) < target_events:
+        remainder = features[~features["event_id"].astype(str).isin(seen)].head(target_events - len(chosen))
+        chosen = pd.concat([chosen, remainder], ignore_index=True, sort=False)
+    chosen = chosen.head(target_events)
+
+    fact_names = [
+        "government_contract_event_type",
+        "mapped_ticker",
+        "recipient_mapping_confidence",
+        "award_amount",
+        "obligated_amount",
+        "contract_ceiling",
+        "actual_funded_award_flag",
+        "ceiling_only_flag",
+        "option_exercise_flag",
+        "modification_flag",
+    ]
+    rows = []
+    for _, row in chosen.iterrows():
+        bucket = "general"
+        event_type = _norm(row.get("government_contract_event_type"))
+        if event_type in {"idiq_vehicle_award", "contract_ceiling_only"}:
+            bucket = "idiq_ceiling"
+        elif event_type == "task_order_award":
+            bucket = "task_orders"
+        elif event_type in {"contract_modification", "option_exercise"}:
+            bucket = "modifications_options"
+        elif event_type in {"sbir_award", "sttr_award", "ota_prototype_award"}:
+            bucket = "sbir_sttr_ota"
+        elif pd.to_numeric(pd.Series([row.get("recipient_mapping_confidence")]), errors="coerce").fillna(0.0).iloc[0] < 0.80:
+            bucket = "ambiguous_mapping"
+        for fact_name in fact_names:
+            value = row.get(fact_name, np.nan)
+            expected_present = not (pd.isna(value) if not isinstance(value, (bool, list, dict, tuple)) else False)
+            if fact_name in {"award_amount", "obligated_amount", "contract_ceiling"} and not expected_present:
+                continue
+            rows.append(
+                {
+                    "event_id": row.get("event_id"),
+                    "fact_name": fact_name,
+                    "expected_value": value if expected_present else "",
+                    "unit": _gold_fact_unit(fact_name),
+                    "tolerance": 1_000_000.0 if fact_name in {"award_amount", "obligated_amount", "contract_ceiling"} else "",
+                    "expected_present": expected_present,
+                    "gold_review_status": "needs_human_review",
+                    "gold_bucket": bucket,
+                    "reviewer_notes": "Machine-proposed gold row; human review required before parser audit can pass.",
+                }
+            )
+    out = pd.DataFrame(rows)
+    ensure_parent(out_path)
+    out.to_csv(out_path, index=False)
+    return out
 
 
 def validate_government_contract_parser(
@@ -1198,12 +1442,50 @@ def validate_government_contract_parser(
             },
         }
 
+    if "gold_review_status" in gold.columns:
+        status = gold["gold_review_status"].fillna("").astype(str).str.lower().str.strip()
+        reviewed_gold = gold[status.isin({"reviewed", "approved", "human_reviewed"})].copy()
+        if reviewed_gold.empty:
+            errors = gold.copy()
+            errors["actual_value"] = ""
+            errors["abs_error"] = np.nan
+            errors["status"] = "gold_not_reviewed"
+            errors["confidence"] = np.nan
+            errors["evidence_text"] = ""
+            if out_errors:
+                ensure_parent(out_errors)
+                errors.to_csv(out_errors, index=False)
+            return errors, {
+                "gold_rows": int(len(gold)),
+                "gold_events": int(gold["event_id"].nunique()) if "event_id" in gold.columns else 0,
+                "reviewed_gold_rows": 0,
+                "reviewed_gold_events": 0,
+                "correct_rows": 0,
+                "row_accuracy": 0.0,
+                "status": "gold_set_requires_human_review",
+                "by_fact": {},
+                "audit_gate_results": {
+                    "gold_set_60_rows": False,
+                    "gold_set_human_reviewed": False,
+                    "event_type_precision_95": False,
+                    "recipient_ticker_mapping_precision_90": False,
+                    "award_and_obligated_amount_precision_95": False,
+                    "ceiling_vs_funded_distinction_precision_95": False,
+                    "option_modification_precision_90": False,
+                    "no_idiq_ceiling_mistaken_for_funded": False,
+                },
+                "parser_audit_pass": False,
+            }
+        gold_for_validation = reviewed_gold
+    else:
+        gold_for_validation = gold
+
     pred = facts.copy()
     pred["confidence"] = pd.to_numeric(pred.get("confidence"), errors="coerce")
     pred = pred.sort_values("confidence", ascending=False).drop_duplicates(["event_id", "fact_name"], keep="first")
 
     key_cols = ["event_id", "fact_name"]
-    merged = gold.merge(pred, on=key_cols, how="left", suffixes=("_gold", "_pred"))
+    merged = gold_for_validation.merge(pred, on=key_cols, how="left", suffixes=("_gold", "_pred"))
     tolerance_by_unit = {"usd": 1_000_000.0, "ratio": 0.001, "boolean": 0.0}
     rows: list[dict] = []
     for _, row in merged.iterrows():
@@ -1265,7 +1547,8 @@ def validate_government_contract_parser(
         & errors["event_id"].astype(str).str.contains("idiq|ceiling", case=False, regex=True)
     ]
     gates = {
-        "gold_set_60_rows": int(gold["event_id"].nunique()) >= 60,
+        "gold_set_60_rows": int(gold_for_validation["event_id"].nunique()) >= 60,
+        "gold_set_human_reviewed": True,
         "event_type_precision_95": fact_score({"government_contract_event_type"}) >= 0.95,
         "recipient_ticker_mapping_precision_90": fact_score({"mapped_ticker", "recipient_mapping_confidence"}) >= 0.90,
         "award_and_obligated_amount_precision_95": fact_score({"award_amount", "obligated_amount"}) >= 0.95,
@@ -1275,7 +1558,9 @@ def validate_government_contract_parser(
     }
     report = {
         "gold_rows": int(len(errors)),
-        "gold_events": int(gold["event_id"].nunique()) if "event_id" in gold.columns else 0,
+        "gold_events": int(gold_for_validation["event_id"].nunique()) if "event_id" in gold_for_validation.columns else 0,
+        "reviewed_gold_rows": int(len(gold_for_validation)),
+        "reviewed_gold_events": int(gold_for_validation["event_id"].nunique()) if "event_id" in gold_for_validation.columns else 0,
         "correct_rows": int((errors["status"] == "ok").sum()),
         "row_accuracy": float((errors["status"] == "ok").mean()) if len(errors) else 0.0,
         "by_fact": metrics,
@@ -1299,6 +1584,8 @@ def write_government_contract_parser_audit_report(report: dict[str, object], err
         "",
         f"- gold_rows: {report.get('gold_rows', 0)}",
         f"- gold_events: {report.get('gold_events', 0)}",
+        f"- reviewed_gold_rows: {report.get('reviewed_gold_rows', 0)}",
+        f"- reviewed_gold_events: {report.get('reviewed_gold_events', 0)}",
         f"- correct_rows: {report.get('correct_rows', 0)}",
         f"- row_accuracy: {report.get('row_accuracy', 0):.3f}" if "row_accuracy" in report else f"- status: {report.get('status', 'unknown')}",
         f"- parser_audit_pass: {report.get('parser_audit_pass', False)}",

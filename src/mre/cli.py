@@ -33,10 +33,12 @@ from .capital_raises import (
     write_capital_raise_parser_audit_report,
 )
 from .government_contracts import (
+    build_government_contract_parser_gold_template,
     build_government_contract_source_documents,
     enrich_government_contract_context,
     parse_government_contract_manifest,
     validate_government_contract_parser,
+    write_government_contract_mapping_audit_report,
     write_government_contract_parser_audit_report,
     write_government_contract_readiness_report,
 )
@@ -637,6 +639,7 @@ def cmd_government_contract_source_docs(args: argparse.Namespace) -> None:
         start=args.start,
         end=args.end,
         limit_per_recipient=args.limit_per_recipient,
+        pages_per_recipient=args.pages_per_recipient,
         min_award_amount=args.min_award_amount,
         requests_per_second=args.requests_per_second,
     )
@@ -676,6 +679,34 @@ def cmd_parse_government_contracts(args: argparse.Namespace) -> None:
         "warning": "Government-contract parser output is a review queue, not a model-ready corpus.",
     }
     print(json.dumps(payload, indent=2, default=str))
+
+
+def cmd_government_contract_mapping_audit(args: argparse.Namespace) -> None:
+    summary = write_government_contract_mapping_audit_report(
+        args.source_documents,
+        args.mapping,
+        args.report_out,
+        detail_out=args.detail_out,
+    )
+    print(json.dumps(summary, indent=2, default=str))
+
+
+def cmd_government_contract_gold_template(args: argparse.Namespace) -> None:
+    pd = __import__("pandas")
+    features = pd.read_csv(args.features)
+    gold = build_government_contract_parser_gold_template(features, args.out, target_events=args.target_events)
+    print(
+        json.dumps(
+            {
+                "rows": int(len(gold)),
+                "events": int(gold["event_id"].nunique()) if "event_id" in gold.columns and not gold.empty else 0,
+                "out": str(args.out),
+                "warning": "Gold rows are machine-proposed and must be human-reviewed before parser audit can pass.",
+            },
+            indent=2,
+            default=str,
+        )
+    )
 
 
 def cmd_validate_government_contract_parser(args: argparse.Namespace) -> None:
@@ -1572,6 +1603,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--start", default="2024-01-01")
     p.add_argument("--end", default="2026-05-23")
     p.add_argument("--limit-per-recipient", type=int, default=3)
+    p.add_argument("--pages-per-recipient", type=int, default=1)
     p.add_argument("--min-award-amount", type=float, default=None)
     p.add_argument("--requests-per-second", type=float, default=2.0)
     p.set_defaults(func=cmd_government_contract_source_docs)
@@ -1584,6 +1616,19 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--min-confidence", type=float, default=0.0)
     p.add_argument("--usable-confidence", type=float, default=0.70)
     p.set_defaults(func=cmd_parse_government_contracts)
+
+    p = sub.add_parser("government-contract-mapping-audit", help="Audit recipient-name-to-ticker mapping coverage for government-contract source rows.")
+    p.add_argument("--source-documents", required=True)
+    p.add_argument("--mapping", default="data/events/government_contract_recipient_ticker_map.csv")
+    p.add_argument("--report-out", required=True)
+    p.add_argument("--detail-out", default=None)
+    p.set_defaults(func=cmd_government_contract_mapping_audit)
+
+    p = sub.add_parser("government-contract-gold-template", help="Create a machine-proposed government-contract parser gold-set template requiring human review.")
+    p.add_argument("--features", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--target-events", type=int, default=60)
+    p.set_defaults(func=cmd_government_contract_gold_template)
 
     p = sub.add_parser("validate-government-contract-parser", help="Validate government-contract parser facts against a reviewed gold-set CSV.")
     p.add_argument("--facts", required=True)

@@ -83,10 +83,31 @@ public_company_name
 subsidiary_name
 mapping_type
 confidence
+source_url
 notes
 ```
 
 Rows with ambiguous or low-confidence mappings are preserved for review but are not emitted with a model-eligible ticker. Subsidiary and JV mappings require evidence; ambiguous JV rows such as United Launch Alliance must not be mapped to a parent ticker without event-specific support.
+
+Mapping types accepted as model-eligible are deliberately narrow:
+
+```text
+exact_public_company
+known_subsidiary
+division
+```
+
+Rows with `ambiguous`, `private_company`, `reject`, `joint_venture`, low confidence, blank ticker, or multi-ticker mappings remain review-only until a human adds evidence.
+
+Audit mapping coverage with:
+
+```bash
+mre government-contract-mapping-audit \
+  --source-documents data/events/government_contract_source_documents.csv \
+  --mapping data/events/government_contract_recipient_ticker_map.csv \
+  --report-out data/events/government_contract_mapping_audit_report.md \
+  --detail-out data/events/government_contract_mapping_audit.csv
+```
 
 ## Source Discovery
 
@@ -99,6 +120,7 @@ mre government-contract-source-docs \
   --start 2024-01-01 \
   --end 2026-05-23 \
   --limit-per-recipient 3 \
+  --pages-per-recipient 1 \
   --mapping data/events/government_contract_recipient_ticker_map.csv \
   --out data/events/government_contract_source_documents.csv
 ```
@@ -187,6 +209,17 @@ review_notes
 ```
 
 ## Parser Audit
+
+Create a machine-proposed 60-event gold-set template with:
+
+```bash
+mre government-contract-gold-template \
+  --features data/events/government_contract_features.csv \
+  --out data/events/government_contract_parser_gold_set.csv \
+  --target-events 60
+```
+
+The template is not a passing audit. Rows are marked `gold_review_status=needs_human_review`, and `validate-government-contract-parser` will fail with `gold_set_requires_human_review` until a reviewer confirms expected values.
 
 Validate against a reviewed gold set:
 
@@ -358,3 +391,98 @@ domain not promising
 ```
 
 At this milestone, the expected verdict is not model-ready until the source corpus, mapping audit, parser audit, review status, timestamp quality, and market-cap context gates pass.
+
+## Agent 4B Run
+
+Agent 4B executed a broad USAspending corpus and mapping/context stress test. No prediction model, event study, or backtest was run.
+
+Commands run:
+
+```bash
+mre parse-government-contracts \
+  --documents data/events/government_contract_source_documents.csv \
+  --facts-out data/events/government_contract_facts.csv \
+  --features-out data/events/government_contract_features.csv \
+  --events-out data/events/government_contract_review_queue.csv
+
+mre government-contract-mapping-audit \
+  --source-documents data/events/government_contract_source_documents.csv \
+  --mapping data/events/government_contract_recipient_ticker_map.csv \
+  --report-out data/events/government_contract_mapping_audit_report.md \
+  --detail-out data/events/government_contract_mapping_audit.csv
+
+mre government-contract-gold-template \
+  --features data/events/government_contract_features.csv \
+  --out data/events/government_contract_parser_gold_set.csv \
+  --target-events 60
+
+mre validate-government-contract-parser \
+  --facts data/events/government_contract_facts.csv \
+  --gold data/events/government_contract_parser_gold_set.csv \
+  --errors-out data/events/government_contract_parser_errors.csv \
+  --report-out data/events/government_contract_parser_audit_report.md
+
+mre enrich-government-contract-context \
+  --events data/events/government_contract_review_queue.csv \
+  --prices-dir data/prices/government_contracts \
+  --benchmark SPY \
+  --market-caps data/events/government_contract_market_caps.csv \
+  --out data/events/government_contract_enriched.csv
+
+mre government-contract-readiness-report \
+  --events data/events/government_contract_enriched.csv \
+  --source-documents data/events/government_contract_source_documents.csv \
+  --parser-errors data/events/government_contract_parser_errors.csv \
+  --out data/events/government_contract_readiness_report.md
+```
+
+4B output summary:
+
+```text
+source_documents_recovered: 1562
+parsed_event_rows: 1554
+reviewed_usable_rows: 0
+actual_funded_award_rows: 1545
+ceiling_only_rows: 9
+modification_or_option_rows: 30
+rows_with_recipient_mapping_confidence_high: 1388
+rows_with_award_amount_pct_market_cap: 1216
+rows_with_obligated_amount_pct_market_cap: 1208
+rows_with_contract_ceiling_pct_market_cap: 10
+rows_with_pre_event_market_adjusted_runup: 1385
+small_mid_cap_rows: 404
+likely_oos_predictions_min_train: 0
+parser_audit_rows: 540
+parser_audit_accuracy: 0.0
+```
+
+Mapping audit summary:
+
+```text
+source_rows: 1562
+unique_recipients: 84
+model_eligible_recipients: 70
+model_eligible_source_rows: 1396
+mapping_type_counts:
+  exact_public_company: 67
+  known_subsidiary: 3
+  unmapped: 14
+```
+
+The 4B verdict is:
+
+```text
+parser not trusted
+```
+
+Main blockers:
+
+```text
+reviewed_usable_events_80_min
+reviewed_usable_events_100_preferred
+clear_event_timestamps
+likely_oos_predictions_30
+parser_audit_pass
+```
+
+The corpus now has enough candidate volume and materiality context for a review pass, but not enough reviewed data. The next milestone is human review of the gold set, recipient/ticker edge cases, and timestamp supplementation from DoD daily announcements, SEC filings, and company press releases.

@@ -196,14 +196,17 @@ tests, and gated research reports.
 
 ## Government Contract Awards Domain
 
-Status: initial data-product milestone implemented.
+Status: real corpus and mapping/context stress test implemented; not model-ready.
 
 - Corpus domain: `government_contract_awards`
 - USAspending/manifest source discovery
 - Recipient-name-to-ticker mapping CSV
 - Parser facts, feature pivot, and review queue
 - Parser audit command and audit report scaffold
+- Machine-proposed gold-set template that requires human review
+- Recipient mapping audit command and report
 - Market context enrichment command
 - Readiness report with no-model gating
+- 4B verdict: parser not trusted; next blockers are human-reviewed parser audit, clear timestamps, and reviewed usable rows
 
 See `docs/GOVERNMENT_CONTRACT_AWARDS_MILESTONE.md`.

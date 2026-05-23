@@ -4,8 +4,10 @@ import pandas as pd
 
 from mre.corpus import normalize_domain
 from mre.government_contracts import (
+    build_government_contract_parser_gold_template,
     build_government_contract_source_documents,
     enrich_government_contract_context,
+    government_contract_mapping_audit,
     government_contract_readiness_summary,
     load_government_contract_documents,
     map_recipient_to_ticker,
@@ -68,9 +70,11 @@ def _source_row(**overrides):
 def test_corpus_domain_and_mapping_template(tmp_path):
     assert normalize_domain("government-contracts") == "government_contract_awards"
     mapping = write_government_contract_recipient_ticker_map(tmp_path / "map.csv")
-    mapped = map_recipient_to_ticker("PALANTIR USG INC", mapping)
-    assert mapped["mapped_ticker"] == "PLTR"
+    mapped = map_recipient_to_ticker("SIKORSKY AIRCRAFT CORP", mapping)
+    assert mapped["mapped_ticker"] == "LMT"
+    assert mapped["mapping_type"] == "known_subsidiary"
     assert mapped["recipient_mapping_confidence"] >= 0.9
+    assert "source_url" in mapping.columns
 
 
 def test_parse_task_order_distinguishes_funded_amount(tmp_path):
@@ -166,6 +170,56 @@ def test_ambiguous_jv_mapping_does_not_emit_model_ticker(tmp_path):
     assert pd.isna(events.loc[0, "ticker"]) or events.loc[0, "ticker"] == ""
 
 
+def test_high_confidence_ineligible_mapping_type_is_not_model_eligible(tmp_path):
+    manifest = tmp_path / "sources.csv"
+    pd.DataFrame(
+        [
+            _source_row(
+                source_doc_id="jv_doc",
+                ticker="LMT",
+                event_id="JV_award_2025",
+                text="Example Defense JV was awarded a $50 million contract.",
+                recipient_name="EXAMPLE DEFENSE JV",
+                mapped_ticker="LMT",
+                parent_company_name="Lockheed Martin Corporation",
+                mapping_type="joint_venture",
+                recipient_mapping_confidence=0.95,
+                award_amount=50_000_000,
+                obligated_amount=50_000_000,
+            )
+        ]
+    ).to_csv(manifest, index=False)
+
+    _, features, events = parse_government_contract_manifest(
+        manifest,
+        tmp_path / "facts.csv",
+        tmp_path / "features.csv",
+        tmp_path / "events.csv",
+    )
+    detail, summary = government_contract_mapping_audit(
+        pd.read_csv(manifest),
+        pd.DataFrame(
+            [
+                {
+                    "recipient_name_pattern": "EXAMPLE DEFENSE JV",
+                    "ticker": "LMT",
+                    "public_company_name": "Lockheed Martin Corporation",
+                    "subsidiary_name": "",
+                    "mapping_type": "joint_venture",
+                    "confidence": 0.95,
+                    "source_url": "",
+                    "notes": "JV needs event-specific support.",
+                }
+            ]
+        ),
+    )
+
+    assert features.loc[0, "model_eligible_candidate_flag"] == False
+    assert pd.isna(events.loc[0, "ticker"]) or events.loc[0, "ticker"] == ""
+    assert detail.loc[0, "model_eligible_mapping_flag"] == False
+    assert summary["model_eligible_recipients"] == 0
+
+
 def test_validate_government_contract_parser_scores_gold_rows():
     facts = pd.DataFrame(
         [
@@ -185,6 +239,41 @@ def test_validate_government_contract_parser_scores_gold_rows():
     assert report["correct_rows"] == 3
     assert set(errors["status"]) == {"ok"}
     assert report["audit_gate_results"]["gold_set_60_rows"] is False
+
+
+def test_validate_government_contract_parser_rejects_unreviewed_gold_template(tmp_path):
+    facts = pd.DataFrame(
+        [
+            {"event_id": "E1", "fact_name": "government_contract_event_type", "value": "task_order_award", "unit": "category", "confidence": 0.9, "evidence_text": "task order"},
+            {"event_id": "E1", "fact_name": "mapped_ticker", "value": "PLTR", "unit": "text", "confidence": 0.9, "evidence_text": "recipient"},
+        ]
+    )
+    features = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "government_contract_event_type": "task_order_award",
+                "mapped_ticker": "PLTR",
+                "recipient_mapping_confidence": 0.90,
+                "award_amount": 100_000_000,
+                "obligated_amount": 50_000_000,
+                "actual_funded_award_flag": True,
+                "ceiling_only_flag": False,
+                "option_exercise_flag": False,
+                "modification_flag": False,
+                "new_work_flag": True,
+                "source_type": "usaspending_api",
+            }
+        ]
+    )
+    gold = build_government_contract_parser_gold_template(features, tmp_path / "gold.csv", target_events=1)
+
+    errors, report = validate_government_contract_parser(facts, gold)
+
+    assert report["status"] == "gold_set_requires_human_review"
+    assert report["parser_audit_pass"] is False
+    assert report["audit_gate_results"]["gold_set_human_reviewed"] is False
+    assert set(errors["status"]) == {"gold_not_reviewed"}
 
 
 def test_enrich_government_contract_context_computes_ratios_and_runup(tmp_path):
@@ -269,27 +358,51 @@ def test_readiness_summary_can_be_model_ready_only_after_non_modeling_gates():
     assert summary["likely_oos_predictions_min_train"] == 60
 
 
-def test_source_builder_merges_usaspending_rows(monkeypatch, tmp_path):
+def test_source_builder_merges_paginated_usaspending_rows(monkeypatch, tmp_path):
+    seen_pages = []
+
     def fake_query(search_term, codes, **kwargs):
+        page = kwargs.get("page", 1)
+        seen_pages.append((search_term, codes[0], page))
         if search_term != "PALANTIR" or codes[0] != "A":
             return []
-        return [
-            {
-                "internal_id": 1,
-                "generated_internal_id": "CONT_AWD_W911QX24F0053_9700",
-                "Award ID": "W911QX24F0053",
-                "Recipient Name": "PALANTIR USG INC",
-                "Start Date": "2024-06-18",
-                "End Date": "2026-05-31",
-                "Award Amount": 292_700_000,
-                "Awarding Agency": "Department of Defense",
-                "Awarding Sub Agency": "Department of the Army",
-                "Contract Award Type": "DELIVERY ORDER",
-                "NAICS": {"code": "541715", "description": "R&D"},
-                "PSC": {"code": "AC35", "description": "R&D services"},
-                "Description": "TASK ORDER FOR MAVEN SMART SYSTEM",
-            }
-        ]
+        if page == 1:
+            return [
+                {
+                    "internal_id": 1,
+                    "generated_internal_id": "CONT_AWD_W911QX24F0053_9700",
+                    "Award ID": "W911QX24F0053",
+                    "Recipient Name": "PALANTIR USG INC",
+                    "Start Date": "2024-06-18",
+                    "End Date": "2026-05-31",
+                    "Award Amount": 292_700_000,
+                    "Awarding Agency": "Department of Defense",
+                    "Awarding Sub Agency": "Department of the Army",
+                    "Contract Award Type": "DELIVERY ORDER",
+                    "NAICS": {"code": "541715", "description": "R&D"},
+                    "PSC": {"code": "AC35", "description": "R&D services"},
+                    "Description": "TASK ORDER FOR MAVEN SMART SYSTEM",
+                }
+            ]
+        if page == 2:
+            return [
+                {
+                    "internal_id": 2,
+                    "generated_internal_id": "CONT_AWD_W911QX24F0054_9700",
+                    "Award ID": "W911QX24F0054",
+                    "Recipient Name": "PALANTIR USG INC",
+                    "Start Date": "2024-07-18",
+                    "End Date": "2026-07-31",
+                    "Award Amount": 42_000_000,
+                    "Awarding Agency": "Department of Defense",
+                    "Awarding Sub Agency": "Department of the Army",
+                    "Contract Award Type": "DELIVERY ORDER",
+                    "NAICS": {"code": "541715", "description": "R&D"},
+                    "PSC": {"code": "AC35", "description": "R&D services"},
+                    "Description": "TASK ORDER FOR DATA INTEGRATION",
+                }
+            ]
+        return []
 
     monkeypatch.setattr("mre.government_contracts._query_usaspending_group", fake_query)
     df, diag = build_government_contract_source_documents(
@@ -298,8 +411,10 @@ def test_source_builder_merges_usaspending_rows(monkeypatch, tmp_path):
         use_usaspending=True,
         tickers=["PLTR"],
         limit_per_recipient=1,
+        pages_per_recipient=2,
     )
-    assert diag["usaspending_rows"] == 1
+    assert diag["usaspending_rows"] == 2
     assert df.loc[0, "ticker"] == "PLTR"
     assert df.loc[0, "source_type"] == "usaspending_api"
     assert "TASK ORDER" in df.loc[0, "text"]
+    assert ("PALANTIR", "A", 2) in seen_pages
