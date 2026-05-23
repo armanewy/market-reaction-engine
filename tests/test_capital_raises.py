@@ -83,6 +83,83 @@ def test_parse_atm_program_capacity():
     assert by_name["atm_capacity"].value == 150_000_000
 
 
+def test_parser_ignores_fee_table_rule_457_amounts():
+    facts = parse_capital_raise_document(
+        _doc(
+            "Calculated pursuant to Rule 457(o) based on the proposed maximum aggregate offering price, "
+            "and Rule 457(r)."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert "gross_proceeds" not in by_name
+    assert "offering_amount" not in by_name
+    assert "atm_capacity" not in by_name
+    assert "shelf_capacity" not in by_name
+
+
+def test_parser_ignores_assumed_offering_price_math():
+    facts = parse_capital_raise_document(
+        _doc(
+            "Up to 504,859,164 shares, assuming the sale of $8,000,000 of shares of our Class A common stock "
+            "at an assumed offering price of $7.77 per share, which was the last reported sale price. "
+            "The actual number of shares issued will vary based on the calculations in this prospectus supplement."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert "price_per_share" not in by_name
+    assert "shares_offered" not in by_name
+
+
+def test_parser_ignores_prior_dated_gross_proceeds_in_later_document():
+    facts = parse_capital_raise_document(
+        _doc(
+            "On June 23, 2023, we issued 6,337,039 shares of Class A common stock and received "
+            "gross proceeds of $25,000,000.",
+            event_id="XYZ_2025_doc",
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert "gross_proceeds" not in by_name
+    assert "offering_amount" not in by_name
+
+
+def test_parser_ignores_atm_sales_agent_commission_percent_as_capacity():
+    facts = parse_capital_raise_document(
+        _doc(
+            "The Sales Agent will be entitled to compensation in an amount up to one and one-half percent "
+            "(1.5%) of the gross sales price of all Common Shares sold under the Sales Agreement."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert "atm_capacity" not in by_name
+    assert "offering_amount" not in by_name
+
+
+def test_parser_ignores_underwriter_option_shares_as_shelf_capacity():
+    facts = parse_capital_raise_document(
+        _doc(
+            "The Company granted to the underwriters of the offering to purchase up to an additional "
+            "1,249,999 Shares."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert "shelf_capacity" not in by_name
+    assert "offering_amount" not in by_name
+    assert "shares_offered" not in by_name
+
+
+def test_parser_ignores_convertible_exchange_as_new_principal():
+    facts = parse_capital_raise_document(
+        _doc(
+            "The Company entered into privately negotiated exchange agreements with holders to exchange "
+            "approximately $112.8 million in aggregate principal amount of existing notes for approximately "
+            "$115.7 million in aggregate principal amount of new convertible notes."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert "convertible_principal" not in by_name
+
+
 def test_parse_convertible_debt_terms():
     facts = parse_capital_raise_document(
         _doc(
@@ -195,6 +272,26 @@ def test_validate_capital_raise_parser_detects_false_positive():
     errors, report = validate_capital_raise_parser(facts, gold)
     assert report["correct_rows"] == 0
     assert errors.loc[0, "status"] == "false_positive"
+    assert errors.loc[0, "failure_reason"] == "gross_proceeds_wrong_amount"
+
+
+def test_validate_capital_raise_parser_reports_failure_taxonomy():
+    facts = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "fact_name": "price_per_share",
+                "value": 0.0001,
+                "unit": "usd_per_share",
+                "confidence": 0.9,
+                "evidence_text": "common stock, par value $0.0001 per share",
+            }
+        ]
+    )
+    gold = pd.DataFrame([{"event_id": "E1", "fact_name": "price_per_share", "expected_present": False, "expected_value": "", "unit": "usd_per_share"}])
+    errors, report = validate_capital_raise_parser(facts, gold)
+    assert errors.loc[0, "failure_reason"] == "par_value_false_price"
+    assert report["failure_reasons"] == {"par_value_false_price": 1}
 
 
 def test_enrich_capital_raise_context_computes_discount_and_dilution(tmp_path):

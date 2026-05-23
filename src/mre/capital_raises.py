@@ -26,6 +26,10 @@ OFFERING_PRICE_RE = re.compile(
 CAPITAL_RAISE_SEC_FORMS = ("8-K", "S-1", "S-3", "424B2", "424B3", "424B4", "424B5", "424B7")
 CAPITAL_RAISE_8K_ITEMS = "1.01,2.03,3.02,8.01"
 CAPITAL_RAISE_EXHIBIT_PATTERN = r"(?i)(ex[-_]?|exhibit|99|sales[-_ ]agreement|purchase[-_ ]agreement|securities[-_ ]purchase|placement|offering|atm|note|press)"
+MONTH_DATE_RE = re.compile(
+    r"\b(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\s+\d{1,2},\s+(?P<year>20\d{2}|19\d{2})\b",
+    re.I,
+)
 
 
 @dataclass(frozen=True)
@@ -60,6 +64,77 @@ def _segments(text: str) -> list[str]:
     return parts
 
 
+def _event_year(doc: SourceDocument) -> int | None:
+    ts = pd.to_datetime(doc.event_time, errors="coerce")
+    if pd.isna(ts):
+        return None
+    return int(ts.year)
+
+
+def _references_prior_dated_transaction(segment: str, doc: SourceDocument) -> bool:
+    """Reject historical background transactions inside later prospectuses.
+
+    Prospectus supplements often recap financings from prior years. Those
+    amounts are useful background, but they are not the current event payload.
+    """
+
+    year = _event_year(doc)
+    if year is None:
+        return False
+    years = [int(m.group("year")) for m in MONTH_DATE_RE.finditer(segment)]
+    if not years:
+        return False
+    low = segment.lower()
+    transaction_words = ("issued", "sold", "received gross proceeds", "completed", "entered into")
+    return min(years) < year and any(w in low for w in transaction_words)
+
+
+def _is_fee_table_segment(segment: str) -> bool:
+    low = segment.lower()
+    return any(
+        phrase in low
+        for phrase in (
+            "rule 457",
+            "registration fee",
+            "filing fee",
+            "fee table",
+            "proposed maximum aggregate offering price",
+            "calculated pursuant",
+            "estimated solely for the purpose of calculating",
+        )
+    )
+
+
+def _is_assumed_offering_math(segment: str) -> bool:
+    low = segment.lower()
+    return (
+        "assumed offering price" in low
+        or "last reported sale price" in low
+        or "actual number of shares" in low
+        or "will vary based" in low
+    )
+
+
+def _is_percentage_match(segment: str, match: re.Match[str]) -> bool:
+    tail = segment[match.end() : match.end() + 20].lower()
+    return tail.lstrip().startswith("%") or tail.lstrip().startswith("percent") or tail.lstrip().startswith("per cent")
+
+
+def _amount_match_has_money_context(segment: str, match: re.Match[str]) -> bool:
+    token = match.group(0)
+    if "$" in token or (match.group("unit") or "").strip():
+        return True
+    after = segment[match.end() : match.end() + 24].lower()
+    before = segment[max(0, match.start() - 12) : match.start()].lower()
+    return any(unit in after for unit in ("million", "billion", "mn", "bn")) or "$" in before
+
+
+def _valid_money_match(segment: str, match: re.Match[str]) -> bool:
+    if _is_percentage_match(segment, match):
+        return False
+    return _amount_match_has_money_context(segment, match)
+
+
 def _money(match: re.Match[str], default_unit: str = "") -> float:
     num = float(match.group("num").replace(",", ""))
     unit = (match.group("unit") or default_unit or "").lower()
@@ -83,6 +158,8 @@ def _money_after_terms(segment: str, terms: list[str]) -> tuple[float, re.Match[
     match = AMOUNT_RE.search(tail)
     if not match:
         return np.nan, None
+    if not _valid_money_match(tail, match):
+        return np.nan, None
     after = tail[match.end() : match.end() + 25].lower()
     default_unit = ""
     if not match.group("unit"):
@@ -101,7 +178,7 @@ def _convertible_principal_money(segment: str) -> tuple[float, re.Match[str] | N
     )
     if before:
         money = AMOUNT_RE.search(before.group("amount") + (" " + before.group("unit") if before.group("unit") else ""))
-        if money:
+        if money and _valid_money_match(before.group(0), money):
             return _money(money), money
     return _money_after_terms(segment, ["aggregate principal amount", "principal amount"])
 
@@ -129,6 +206,36 @@ def _fact(doc: SourceDocument, name: str, value: str | float | bool, unit: str, 
         source_type=doc.source_type,
         source_url=doc.source_url,
     )
+
+
+def _fact_selection_priority(fact_or_row: CapitalRaiseFact | pd.Series | dict) -> int:
+    if isinstance(fact_or_row, CapitalRaiseFact):
+        name = fact_or_row.fact_name
+        evidence = fact_or_row.evidence_text
+    else:
+        name = str(fact_or_row.get("fact_name", "") or "")
+        evidence = str(fact_or_row.get("evidence_text", "") or "")
+    low = evidence.lower()
+    priority = 0
+    if any(w in low for w in ["entered into securities purchase", "public offering price", "gross proceeds", "issued $", "issued and sold"]):
+        priority += 30
+    if "announced the pricing of its offering" in low or "priced $" in low:
+        priority += 25
+    if name == "convertible_principal" and "issued $" in low and "aggregate principal amount" in low:
+        priority += 35
+    if name == "convertible_principal" and "announced its intention to offer" in low:
+        priority -= 25
+    if any(w in low for w in ["authorized denomination", "minimum denomination", "per $1,000 principal", "per $1,000 principal amount"]):
+        priority -= 80
+    if any(w in low for w in ["assumed offering price", "last reported sale price", "actual number of shares", "will vary based"]):
+        priority -= 70
+    if any(w in low for w in ["net tangible book value", "immediate dilution"]):
+        priority -= 70
+    if _is_fee_table_segment(evidence):
+        priority -= 90
+    if "underwriters of the offering to purchase up to an additional" in low or "option stock" in low:
+        priority -= 60
+    return priority
 
 
 def infer_financing_event_type(text: str) -> tuple[str, str, float]:
@@ -188,21 +295,24 @@ def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
 
     for seg in _segments(doc.text):
         low = seg.lower()
+        fee_table = _is_fee_table_segment(seg)
+        assumed_math = _is_assumed_offering_math(seg)
+        prior_dated_transaction = _references_prior_dated_transaction(seg, doc)
         if "use of proceeds" in low or "use the net proceeds" in low or "use the proceeds" in low:
             facts.append(_fact(doc, "use_of_proceeds", seg[:500], "text", seg, 0.70, "use_of_proceeds_sentence"))
         if "underwriter" in low or "placement agent" in low or "sales agent" in low:
             facts.append(_fact(doc, "underwriter_or_agent", seg[:300], "text", seg, 0.68, "agent_sentence"))
 
-        if "gross proceeds" in low or "aggregate gross proceeds" in low:
+        if ("gross proceeds" in low or "aggregate gross proceeds" in low) and not fee_table and not prior_dated_transaction:
             val, money = _money_after_terms(seg, ["aggregate gross proceeds", "gross proceeds"])
             if money:
                 facts.append(_fact(doc, "gross_proceeds", val, "usd", seg, 0.88, "gross_proceeds_sentence"))
                 facts.append(_fact(doc, "offering_amount", val, "usd", seg, 0.84, "gross_proceeds_sentence"))
-        elif "net proceeds" in low:
+        elif "net proceeds" in low and not fee_table and not prior_dated_transaction:
             val, money = _money_after_terms(seg, ["net proceeds"])
             if money:
                 facts.append(_fact(doc, "net_proceeds", val, "usd", seg, 0.82, "net_proceeds_sentence"))
-        elif "aggregate offering price" in low or "aggregate purchase price" in low or "up to" in low:
+        elif ("aggregate offering price" in low or "aggregate purchase price" in low or "up to" in low) and not fee_table and not prior_dated_transaction:
             val, money = _money_after_terms(seg, ["aggregate offering price", "aggregate purchase price", "up to"])
             if money and any(w in low for w in ["offering", "program", "sale", "sell", "securities"]):
                 if event_type == "atm_program_created":
@@ -214,19 +324,41 @@ def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
                 facts.append(_fact(doc, name, val, "usd", seg, 0.80, "offering_amount_sentence"))
 
         share_match = SHARES_RE.search(seg)
-        if share_match and any(w in low for w in ["offer", "offering", "sale", "sell", "issued"]):
+        if (
+            share_match
+            and any(w in low for w in ["offer", "offering", "sale", "sell", "issued"])
+            and not fee_table
+            and not assumed_math
+            and not prior_dated_transaction
+            and "underwriters of the offering to purchase up to an additional" not in low
+            and "upon conversion" not in low
+            and "maximum conversion rate" not in low
+            and "shares of our class a common stock to be outstanding" not in low
+            and "shares of common stock to be outstanding" not in low
+            and "number of shares" not in low
+        ):
             facts.append(_fact(doc, "shares_offered", _shares(share_match), "shares", seg, 0.84, "shares_offered_sentence"))
         price_match = OFFERING_PRICE_RE.search(seg)
-        if not price_match and "par value" not in low and any(w in low for w in ["offering price", "purchase price", "priced at", "at a price"]):
+        if not price_match and "par value" not in low and not assumed_math and any(w in low for w in ["offering price", "purchase price", "priced at", "at a price"]):
             price_match = PRICE_RE.search(seg)
         if price_match:
-            if ("exercise price" in low or "warrant" in low) and not any(w in low for w in ["offering price", "purchase price", "at a price of", "gross proceeds"]):
+            if fee_table or assumed_math or prior_dated_transaction:
+                pass
+            elif "net tangible book value" in low or "immediate dilution" in low:
+                pass
+            elif ("exercise price" in low or "warrant" in low) and not any(w in low for w in ["offering price", "purchase price", "at a price of", "gross proceeds"]):
                 pass
             else:
                 confidence = 0.90 if "gross proceeds" in low else 0.86
                 facts.append(_fact(doc, "price_per_share", float(price_match.group("num")), "usd_per_share", seg, confidence, "price_per_share_sentence"))
 
-        if event_type == "convertible_note_offering" and ("principal amount" in low or "aggregate principal" in low):
+        if event_type == "convertible_note_offering" and ("principal amount" in low or "aggregate principal" in low) and not fee_table:
+            if any(w in low for w in ["authorized denomination", "minimum denomination", "per $1,000 principal", "per $1,000 principal amount"]):
+                continue
+            if any(w in low for w in ["exchange agreement", "exchange agreements", "exchange transaction", "exchanged for"]) and not any(
+                w in low for w in ["issued", "priced", "offering of"]
+            ):
+                continue
             val, money = _convertible_principal_money(seg)
             if money:
                 facts.append(_fact(doc, "convertible_principal", val, "usd", seg, 0.84, "convertible_principal_sentence"))
@@ -241,7 +373,7 @@ def _dedupe_facts(facts: list[CapitalRaiseFact]) -> list[CapitalRaiseFact]:
     best: dict[str, CapitalRaiseFact] = {}
     for fact in facts:
         current = best.get(fact.fact_name)
-        if current is None or fact.confidence > current.confidence:
+        if current is None or (fact.confidence, _fact_selection_priority(fact)) > (current.confidence, _fact_selection_priority(current)):
             best[fact.fact_name] = fact
     return sorted(best.values(), key=lambda f: f.fact_name)
 
@@ -464,7 +596,9 @@ def pivot_capital_raise_facts(facts: pd.DataFrame, out_path: str | Path | None =
                 "source_type": group["source_type"].iloc[0],
                 "source_url": group["source_url"].iloc[0],
             }
-            for _, fact in group.sort_values("confidence", ascending=False).drop_duplicates("fact_name").iterrows():
+            ranked = group.copy()
+            ranked["_selection_priority"] = ranked.apply(_fact_selection_priority, axis=1)
+            for _, fact in ranked.sort_values(["confidence", "_selection_priority"], ascending=[False, False]).drop_duplicates("fact_name").iterrows():
                 name = fact["fact_name"]
                 row[name] = fact["value"]
                 row[f"{name}_confidence"] = fact["confidence"]
@@ -518,6 +652,46 @@ def capital_raise_features_to_events(features: pd.DataFrame, out_path: str | Pat
     return pd.read_csv(out_path)
 
 
+def classify_capital_raise_audit_failure(row: dict | pd.Series) -> str:
+    if str(row.get("status", "ok")) == "ok":
+        return ""
+    fact = str(row.get("fact_name", "") or "").lower()
+    evidence = str(row.get("evidence_text", "") or "").lower()
+    if "par value" in evidence and fact == "price_per_share":
+        return "par_value_false_price"
+    if "exercise price" in evidence and fact == "price_per_share":
+        return "exercise_price_false_price"
+    if "conversion price" in evidence and fact == "price_per_share":
+        return "conversion_price_false_offering_price"
+    if "warrant" in evidence and fact == "price_per_share":
+        return "warrant_terms_false_common_stock_price"
+    if "rule 457" in evidence or "registration fee" in evidence or "filing fee" in evidence:
+        return "fee_table_amount_false_gross_proceeds"
+    if "assumed offering price" in evidence or "last reported sale price" in evidence:
+        return "estimated_maximum_offering_amount_false_completed_raise"
+    if "maximum aggregate offering price" in evidence or "proposed maximum" in evidence:
+        return "estimated_maximum_offering_amount_false_completed_raise"
+    if "one-half percent" in evidence or "percent" in evidence or "%" in evidence:
+        return "atm_commission_percent_false_capacity"
+    if "underwriters of the offering to purchase up to an additional" in evidence or "option stock" in evidence:
+        return "underwriter_option_false_shelf_capacity"
+    if "exchange agreement" in evidence or "exchange transaction" in evidence or "exchanged for" in evidence:
+        return "convertible_exchange_false_new_financing"
+    if MONTH_DATE_RE.search(evidence):
+        return "prior_transaction_reference"
+    if fact in {"atm_capacity", "shelf_capacity"} and "may offer" in evidence:
+        return "capacity_only_ambiguous_amount"
+    if fact == "convertible_principal":
+        return "convertible_principal_wrong"
+    if fact in {"gross_proceeds", "offering_amount", "net_proceeds"}:
+        return "gross_proceeds_wrong_amount"
+    if fact == "shares_offered":
+        return "shares_offered_wrong"
+    if fact == "price_per_share":
+        return "price_per_share_wrong"
+    return "ambiguous_event_type"
+
+
 def validate_capital_raise_parser(
     facts: pd.DataFrame,
     gold: pd.DataFrame,
@@ -529,7 +703,8 @@ def validate_capital_raise_parser(
 
     pred = facts.copy()
     pred["confidence"] = pd.to_numeric(pred.get("confidence"), errors="coerce")
-    pred = pred.sort_values("confidence", ascending=False).drop_duplicates(["event_id", "fact_name"], keep="first")
+    pred["_selection_priority"] = pred.apply(_fact_selection_priority, axis=1)
+    pred = pred.sort_values(["confidence", "_selection_priority"], ascending=[False, False]).drop_duplicates(["event_id", "fact_name"], keep="first")
 
     key_cols = ["event_id", "fact_name"]
     merged = gold.merge(pred, on=key_cols, how="left", suffixes=("_gold", "_pred"))
@@ -602,16 +777,23 @@ def validate_capital_raise_parser(
         )
 
     errors = pd.DataFrame(rows)
+    if not errors.empty:
+        errors["failure_reason"] = errors.apply(classify_capital_raise_audit_failure, axis=1)
     metrics = {}
     for fact_name, group in errors.groupby("fact_name"):
         total = int(len(group))
         ok = int((group["status"] == "ok").sum())
         metrics[fact_name] = {"gold_rows": total, "correct": ok, "recall_on_gold": ok / total if total else 0.0}
+    failure_reasons = {}
+    if not errors.empty and "failure_reason" in errors.columns:
+        non_ok = errors[errors["status"] != "ok"]
+        failure_reasons = {str(k): int(v) for k, v in non_ok["failure_reason"].value_counts().items()}
     report = {
         "gold_rows": int(len(errors)),
         "correct_rows": int((errors["status"] == "ok").sum()),
         "row_accuracy": float((errors["status"] == "ok").mean()) if len(errors) else 0.0,
         "by_fact": metrics,
+        "failure_reasons": failure_reasons,
     }
     if out_errors:
         ensure_parent(out_errors)
@@ -705,11 +887,17 @@ def write_capital_raise_parser_audit_report(report: dict[str, object], errors: p
     ]
     for fact_name, metrics in (report.get("by_fact", {}) or {}).items():
         lines.append(f"- {fact_name}: {metrics}")
+    failure_reasons = report.get("failure_reasons", {}) or {}
+    if failure_reasons:
+        lines.extend(["", "## Failure Reasons", ""])
+        for reason, count in failure_reasons.items():
+            lines.append(f"- {reason}: {count}")
     bad = errors[errors["status"] != "ok"] if not errors.empty and "status" in errors.columns else pd.DataFrame()
     if not bad.empty:
         lines.extend(["", "## Non-OK Rows", ""])
         for _, row in bad.head(75).iterrows():
-            lines.append(f"- {row['event_id']} / {row['fact_name']}: {row['status']} expected={row['expected_value']} actual={row['actual_value']}")
+            reason = row.get("failure_reason", "")
+            lines.append(f"- {row['event_id']} / {row['fact_name']}: {row['status']} reason={reason} expected={row['expected_value']} actual={row['actual_value']}")
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return out
 

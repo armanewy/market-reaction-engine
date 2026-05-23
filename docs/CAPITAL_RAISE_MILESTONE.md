@@ -128,6 +128,23 @@ fact_name
 expected_value
 unit
 tolerance
+expected_present
+```
+
+Use `expected_present=false` for explicit false-positive audit rows. The
+capital-raise parser must be tested on dangerous negatives, not only on known
+positive facts. High-priority false-positive classes:
+
+```text
+fee table / Rule 457 amount
+assumed offering price based on last sale price
+stale prior transaction in a later prospectus
+ATM sales-agent commission percentage
+underwriter option shares
+warrant exercise price
+convertible exchange denomination or redemption threshold
+shelf capacity treated as completed financing
+ATM capacity treated as completed sale
 ```
 
 Suggested audit gates:
@@ -141,6 +158,7 @@ convertible_principal precision >= 90%
 ATM capacity precision >= 90%
 no shelf-capacity mistaken for immediate offering amount
 no ATM capacity mistaken for completed sale
+no par value, exercise price, conversion price, or fee-table amount mistaken for offering terms
 ```
 
 ## Context Enrichment Command
