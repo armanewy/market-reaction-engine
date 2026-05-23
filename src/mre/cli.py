@@ -6,6 +6,8 @@ from pathlib import Path
 
 from .analyst_revisions import make_analyst_revisions_template, merge_analyst_revisions
 from .demo import generate_demo_data
+from .extraction import build_extraction_packets, run_document_extraction, validate_llm_facts_jsonl
+from .extraction_demo import generate_extraction_demo_data
 from .earnings import build_alpha_vantage_earnings_corpus, build_earnings_corpus_from_sec, build_yfinance_earnings_corpus, write_manual_earnings_template
 from .earnings_demo import generate_earnings_demo_data
 from .event_study import run_event_study
@@ -17,6 +19,7 @@ from .release_times import make_release_times_template, merge_release_times
 from .paths import ensure_parent
 from .prices import fetch_yfinance_prices
 from .reports import event_study_report
+from .source_docs import make_source_docs_template
 from .sec import SecClient, filings_to_event_template
 from .sectors import get_preset, list_presets, parse_ticker_list
 
@@ -148,6 +151,45 @@ def cmd_sec_earnings_corpus(args: argparse.Namespace) -> None:
         )
     )
 
+
+
+def cmd_source_docs_template(args: argparse.Namespace) -> None:
+    df = make_source_docs_template(args.out)
+    print(f"Wrote source-document manifest template with {len(df)} row(s): {args.out}")
+
+
+def cmd_extract_facts(args: argparse.Namespace) -> None:
+    facts, expectations, events, diag = run_document_extraction(
+        args.documents,
+        facts_out=args.facts_out,
+        expectations_out=args.expectations_out,
+        events_out=args.events_out,
+    )
+    print(json.dumps({
+        "documents": args.documents,
+        "facts_rows": int(len(facts)),
+        "expectation_rows": int(len(expectations)),
+        "event_rows": int(len(events)),
+        "facts_out": str(args.facts_out) if args.facts_out else "",
+        "expectations_out": str(args.expectations_out) if args.expectations_out else "",
+        "events_out": str(args.events_out) if args.events_out else "",
+        "diagnostics": diag.to_dict(),
+    }, indent=2, default=str))
+
+
+def cmd_extraction_packets(args: argparse.Namespace) -> None:
+    rows = build_extraction_packets(args.documents, args.out, max_chars=args.max_chars)
+    print(json.dumps({"packets": int(rows), "out": str(args.out)}, indent=2))
+
+
+def cmd_validate_llm_facts(args: argparse.Namespace) -> None:
+    df = validate_llm_facts_jsonl(
+        args.documents,
+        args.llm_jsonl,
+        args.out,
+        require_evidence_in_text=not args.allow_missing_evidence,
+    )
+    print(json.dumps({"fact_rows": int(len(df)), "out": str(args.out)}, indent=2))
 
 def cmd_enrich_expectations(args: argparse.Namespace) -> None:
     df = enrich_expectations(
@@ -436,6 +478,12 @@ def cmd_earnings_demo(args: argparse.Namespace) -> None:
     ))
 
 
+
+def cmd_extraction_demo(args: argparse.Namespace) -> None:
+    paths = generate_extraction_demo_data(Path(args.root) / "data" / "extraction_demo")
+    print("Extraction demo complete.")
+    print(json.dumps({k: str(v) for k, v in paths.items()}, indent=2))
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="mre",
@@ -499,6 +547,31 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--requests-per-second", type=float, default=5.0)
     p.add_argument("--out", default="data/events/sec_earnings_candidates.csv")
     p.set_defaults(func=cmd_sec_earnings_corpus)
+
+
+    p = sub.add_parser("source-docs-template", help="Create a raw source-document manifest template for extraction.")
+    p.add_argument("--out", default="data/events/source_documents.csv")
+    p.set_defaults(func=cmd_source_docs_template)
+
+    p = sub.add_parser("extract-facts", help="Extract evidence-grounded earnings/guidance facts from a source-document manifest.")
+    p.add_argument("--documents", required=True, help="CSV manifest with source_doc_id, ticker, event_time, and text/path.")
+    p.add_argument("--facts-out", required=True, help="Output extracted fact rows with evidence spans.")
+    p.add_argument("--expectations-out", required=True, help="Output pivoted expectation-feature rows.")
+    p.add_argument("--events-out", required=True, help="Output event rows generated from source documents.")
+    p.set_defaults(func=cmd_extract_facts)
+
+    p = sub.add_parser("extraction-packets", help="Create JSONL work packets for an external LLM extractor; does not call an LLM.")
+    p.add_argument("--documents", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--max-chars", type=int, default=12000)
+    p.set_defaults(func=cmd_extraction_packets)
+
+    p = sub.add_parser("validate-llm-facts", help="Validate JSONL LLM extraction output against source-document evidence.")
+    p.add_argument("--documents", required=True)
+    p.add_argument("--llm-jsonl", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--allow-missing-evidence", action="store_true")
+    p.set_defaults(func=cmd_validate_llm_facts)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")
     p.add_argument("--events", required=True)
@@ -633,6 +706,11 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--root", default=".")
     p.add_argument("--seed", type=int, default=42)
     p.set_defaults(func=cmd_demo)
+
+
+    p = sub.add_parser("extraction-demo", help="Run the offline source-document extraction demo.")
+    p.add_argument("--root", default=".")
+    p.set_defaults(func=cmd_extraction_demo)
 
     p = sub.add_parser("earnings-demo", help="Run the offline synthetic earnings/expectations demo pipeline.")
     p.add_argument("--root", default=".")

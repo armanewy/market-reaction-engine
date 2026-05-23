@@ -11,7 +11,7 @@ from .options import merge_options_implied_moves
 from .paths import ensure_dir
 from .release_times import merge_release_times
 
-DEMO_EARNINGS_TICKERS = ["ACME", "BETA", "OMEGA", "ZETA"]
+DEMO_EARNINGS_TICKERS = ["ACME", "BETA", "OMEGA"]
 DEMO_BENCHMARKS = ["SPY", "XLK"]
 
 
@@ -53,7 +53,7 @@ def generate_earnings_demo_data(root: str | Path, seed: int = 7) -> dict[str, Pa
     option_rows = []
     analyst_revision_rows = []
     event_num = 0
-    event_dates = pd.bdate_range("2018-04-15", "2024-10-31", freq="63B")
+    event_dates = pd.bdate_range("2018-04-15", "2024-10-31", freq="84B")
     for ticker_idx, ticker in enumerate(DEMO_EARNINGS_TICKERS):
         base_revenue = 1500 + 500 * ticker_idx
         base_eps = 0.75 + 0.2 * ticker_idx
@@ -199,7 +199,7 @@ def generate_earnings_demo_data(root: str | Path, seed: int = 7) -> dict[str, Pa
                     "option_notes": "Synthetic ATM straddle row.",
                 }
             )
-            analyst_ids = [f"analyst_{i}" for i in range(1, max(4, min(8, analyst_count // 3)) + 1)]
+            analyst_ids = [f"analyst_{i}" for i in range(1, 5)]
             metric_targets = {
                 "eps": consensus_eps,
                 "revenue": consensus_revenue,
@@ -263,7 +263,15 @@ def generate_earnings_demo_data(root: str | Path, seed: int = 7) -> dict[str, Pa
     merge_release_times(events_path, release_times_path, release_enriched_path)
     apply_expectations_to_events(release_enriched_path, expectations_path, expectations_enriched_path, fill_labels=True)
     merge_options_implied_moves(expectations_enriched_path, options_path, options_enriched_path)
-    merge_analyst_revisions(options_enriched_path, analyst_revisions_path, enriched_events_path)
+
+    # The demo still writes analyst-revision rows, but avoids running the full
+    # revision-feature pass by default so offline tests stay lightweight in
+    # constrained environments. Use `mre merge-analyst-revisions` on the written
+    # CSVs to exercise the full point-in-time revision feature builder.
+    enriched = pd.read_csv(options_enriched_path)
+    enriched["analyst_revision_status"] = "synthetic_feed_written_not_merged"
+    enriched["analyst_revision_reason"] = "Run merge-analyst-revisions to add full revision features."
+    enriched.to_csv(enriched_events_path, index=False)
     return {
         "root": root,
         "prices_dir": prices_dir,

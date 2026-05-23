@@ -79,11 +79,33 @@ Still missing:
 - Short interest
 - Peer-basket reaction context
 
-## M5: LLM extraction layer
+## M5: Richer point-in-time expectations
 
-Status: not implemented.
+Status: implemented in v0.4.0.
 
-Use LLMs only to convert documents into structured point-in-time facts. Do not let the LLM see the subsequent stock move.
+- Exact release timestamp merge flow
+- Revenue/EPS/gross-margin/guidance surprise fields
+- ATM-straddle implied-move ingestion from option snapshots
+- Analyst revision feature builder
+- Richer synthetic earnings demo
+
+See `docs/RICH_EXPECTATIONS_MILESTONE.md`.
+
+## M6: Source-document extraction/provenance layer
+
+Status: implemented in v0.5.0.
+
+Use extraction only to convert documents into structured point-in-time facts. Do not let extractors see subsequent stock moves.
+
+- Source-document manifest template
+- Deterministic regex baseline for earnings/guidance facts
+- Evidence text and character offsets for every fact
+- Fact rows pivoted into expectation rows
+- Source documents converted into event rows
+- JSONL packet builder for external LLM extraction
+- Validator for external LLM fact rows that checks evidence appears in the source text
+
+See `docs/EXTRACTION_MILESTONE.md`.
 
 ## M6: Narrow-domain corpora
 
@@ -118,14 +140,3 @@ Required before taking any trading signal seriously:
 - strict point-in-time data handling
 - pre-registered feature sets
 
-## M5 — richer point-in-time expectations
-
-Status: implemented in v0.4.0.
-
-- Exact release timestamp merge flow
-- Revenue/EPS/gross-margin/guidance surprise fields
-- ATM-straddle implied-move ingestion from option snapshots
-- Analyst revision feature builder
-- Richer synthetic earnings demo
-
-See `docs/RICH_EXPECTATIONS_MILESTONE.md`.

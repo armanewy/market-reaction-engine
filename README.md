@@ -1,6 +1,6 @@
 # Market Reaction Engine
 
-Version 0.4 extends the narrow earnings/guidance workflow with richer point-in-time expectation plumbing: exact release timestamps, revenue/margin/guidance surprise fields, option-implied move imports, and analyst revision features.
+Version 0.5 adds a source-document extraction/provenance layer: raw filing/transcript/article manifests, deterministic evidence-grounded fact extraction, LLM work-packet preparation, and validated LLM fact ingestion.
 
 This project is intentionally conservative. It is not a magic stock predictor. It is a point-in-time event-study workbench that helps answer:
 
@@ -9,7 +9,8 @@ This project is intentionally conservative. It is not a magic stock predictor. I
 The current pipeline is:
 
 ```text
-curated/ingested event rows
+curated/ingested event rows OR raw source-document manifests
+→ evidence-grounded extracted facts
 → optional point-in-time expectation fields
 → local daily price data
 → pre-event expectation/context enrichment
@@ -77,6 +78,16 @@ curated/ingested event rows
 - Modeling feature list extended for implied move, margins, guidance, release-time quality, and analyst revision features
 - Offline earnings demo now writes synthetic release-time, option-snapshot, and analyst-revision feeds
 
+### M6 — source-document extraction/provenance layer
+
+- Source-document manifest template with inline text or relative file paths
+- Deterministic earnings/guidance fact extractor with evidence text and character offsets
+- Extracted facts → expectation-feature rows
+- Source documents → event rows
+- JSONL extraction packets for external LLMs without calling an LLM
+- Validator for external LLM fact JSONL that checks evidence appears in the source text
+- Offline extraction demo
+
 ## Install
 
 ```bash
@@ -104,6 +115,24 @@ Earnings/expectations demo:
 ```bash
 mre earnings-demo --root .
 ```
+
+Source-document extraction demo:
+
+```bash
+mre extraction-demo --root .
+```
+
+The extraction demo writes:
+
+```text
+data/extraction_demo/source_documents.csv
+data/extraction_demo/docs/*.txt
+data/extraction_demo/extracted_facts.csv
+data/extraction_demo/extracted_expectations.csv
+data/extraction_demo/extracted_events.csv
+data/extraction_demo/extraction_diagnostics.json
+```
+
 
 The earnings demo writes:
 
@@ -216,6 +245,44 @@ mre report \
   --horizon 1 \
   --out artifacts/semis_earnings_report.md
 ```
+
+
+## Source-document extraction flow
+
+Create a manifest for source documents. Each row can include inline `text` or a relative `path` to a text file:
+
+```bash
+mre source-docs-template --out data/events/source_documents.csv
+```
+
+Extract supported earnings/guidance facts with evidence spans:
+
+```bash
+mre extract-facts \
+  --documents data/events/source_documents.csv \
+  --facts-out data/events/extracted_facts.csv \
+  --expectations-out data/events/extracted_expectations.csv \
+  --events-out data/events/extracted_events.csv
+```
+
+Prepare JSONL packets for an external LLM extractor. This does not call an LLM; it creates auditable work units with a strict schema:
+
+```bash
+mre extraction-packets \
+  --documents data/events/source_documents.csv \
+  --out data/events/extraction_packets.jsonl
+```
+
+Validate external LLM fact rows before using them:
+
+```bash
+mre validate-llm-facts \
+  --documents data/events/source_documents.csv \
+  --llm-jsonl data/events/llm_facts.jsonl \
+  --out data/events/validated_llm_facts.csv
+```
+
+The deterministic extractor is a transparent baseline, not a trading-grade parser. Treat extracted rows as reviewable candidates unless the source and evidence have been curated.
 
 ## External expectations flow
 

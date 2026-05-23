@@ -12,6 +12,7 @@ data/prices/*
 data/events/*
 !data/events/.gitkeep
 data/earnings_demo/
+data/extraction_demo/
 .DS_Store
 .pytest_cache/
 *.egg-info/
