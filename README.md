@@ -467,3 +467,32 @@ Useful optional columns:
 - Return-shuffle null distribution
 - Random/shifted placebo events and peer-control events
 - Offline `corpus-demo` pipeline
+
+## Automated research loop
+
+Create a JSON run config:
+
+```bash
+mre pipeline-template \
+  --run-id semis_earnings_v1 \
+  --domain earnings_guidance \
+  --preset semiconductors \
+  --source-mode yfinance_earnings \
+  --out research/semis_earnings_v1.json
+```
+
+Run it:
+
+```bash
+mre run-pipeline --config research/semis_earnings_v1.json
+```
+
+Or verify the full automation loop offline:
+
+```bash
+mre pipeline-demo --root .
+```
+
+The pipeline writes a review queue, curated corpus, event studies, placebo/peer
+controls, walk-forward backtests, calibration tables, strategy simulations with
+cost/slippage, null-shuffle diagnostics, and a gated `research_report.md`.

@@ -185,3 +185,11 @@ Backtest/falsification harness:
 - Full offline corpus + backtest demo
 
 See `docs/NARROW_CORPUS_AND_BACKTEST_MILESTONE.md`.
+
+## v0.8.0 Automation Pipeline
+
+Adds `pipeline-template`, `run-pipeline`, `review-queue`, and `pipeline-demo` commands.
+The pipeline automates candidate corpus creation, review queue generation, expectation
+merges, price fetching or reuse, event studies, placebo controls, peer controls,
+purged walk-forward backtests, calibration, cost/slippage simulation, null-shuffle
+tests, and gated research reports.

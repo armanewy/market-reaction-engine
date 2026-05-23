@@ -29,10 +29,13 @@ from .events import event_tickers, load_events, make_event_template
 from .expectations import enrich_expectations, make_expectations_template, merge_external_expectations
 from .modeling import find_analogs, predict_direction, train_direction_model, walk_forward_direction_model
 from .options import make_options_template, merge_options_implied_moves
+from .pipeline import run_pipeline, write_pipeline_template
+from .pipeline_demo import generate_pipeline_demo
 from .release_times import make_release_times_template, merge_release_times
 from .paths import ensure_parent
 from .prices import fetch_yfinance_prices
 from .reports import event_study_report
+from .review import make_review_queue
 from .source_docs import make_source_docs_template
 from .sec import SecClient, filings_to_event_template
 from .sectors import get_preset, list_presets, parse_ticker_list
@@ -60,6 +63,40 @@ def resolve_tickers_and_sector(args: argparse.Namespace) -> tuple[list[str], str
         benchmark = "SPY"
     return sorted(tickers), benchmark, sector_benchmark
 
+
+
+def cmd_pipeline_template(args: argparse.Namespace) -> None:
+    cfg = write_pipeline_template(
+        args.out,
+        run_id=args.run_id,
+        domain=args.domain,
+        preset=args.preset,
+        tickers=args.tickers,
+        source_mode=args.source_mode,
+    )
+    print(json.dumps({"out": str(args.out), "run_id": cfg["run_id"], "domain": cfg["domain"], "source_mode": cfg["source"]["mode"]}, indent=2))
+
+
+def cmd_run_pipeline(args: argparse.Namespace) -> None:
+    report = run_pipeline(args.config, dry_run=args.dry_run, stages=args.stages)
+    print(json.dumps(report, indent=2, default=str))
+
+
+def cmd_review_queue(args: argparse.Namespace) -> None:
+    df, diag = make_review_queue(
+        args.events,
+        args.out,
+        facts_path=args.facts,
+        auto_accept_min_confidence=args.auto_accept_min_confidence,
+        auto_accept_min_facts=args.auto_accept_min_facts,
+    )
+    print(json.dumps({"rows": int(len(df)), "diagnostics": diag.to_dict(), "out": str(args.out)}, indent=2, default=str))
+
+
+def cmd_pipeline_demo(args: argparse.Namespace) -> None:
+    paths = generate_pipeline_demo(Path(args.root), seed=args.seed)
+    print("Pipeline automation demo complete.")
+    print(json.dumps({k: str(v) for k, v in paths.items()}, indent=2))
 
 def cmd_sector_presets(args: argparse.Namespace) -> None:
     print(json.dumps(list_presets(), indent=2))
@@ -769,6 +806,34 @@ def build_parser() -> argparse.ArgumentParser:
         description="Market Reaction Engine: event-study workbench for abnormal market reactions.",
     )
     sub = parser.add_subparsers(dest="command", required=True)
+
+    p = sub.add_parser("pipeline-template", help="Create a JSON config for an automated corpus/falsification research run.")
+    p.add_argument("--run-id", default="semis_earnings_research_v1")
+    p.add_argument("--domain", default="earnings_guidance")
+    p.add_argument("--preset", default="semiconductors")
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--source-mode", default="yfinance_earnings", choices=["manual_events", "yfinance_earnings", "alpha_vantage_earnings", "sec_earnings", "sec_docs", "local_ingestion", "source_documents"])
+    p.add_argument("--out", default="research_pipeline.json")
+    p.set_defaults(func=cmd_pipeline_template)
+
+    p = sub.add_parser("run-pipeline", help="Run an automated research loop: source candidates, review queue, corpus, event study, controls, backtests, and gates.")
+    p.add_argument("--config", required=True)
+    p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--stages", nargs="*", default=[], help="Reserved for future partial execution; current implementation runs the full ordered loop.")
+    p.set_defaults(func=cmd_run_pipeline)
+
+    p = sub.add_parser("review-queue", help="Create a human-review queue from candidate events and optional extracted facts.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--facts", default=None)
+    p.add_argument("--out", required=True)
+    p.add_argument("--auto-accept-min-confidence", type=float, default=None, help="Prototype only: mark rows reviewed if evidence confidence exceeds this threshold.")
+    p.add_argument("--auto-accept-min-facts", type=int, default=1)
+    p.set_defaults(func=cmd_review_queue)
+
+    p = sub.add_parser("pipeline-demo", help="Run the offline automation pipeline demo.")
+    p.add_argument("--root", default=".")
+    p.add_argument("--seed", type=int, default=1)
+    p.set_defaults(func=cmd_pipeline_demo)
 
     p = sub.add_parser("corpus-domains", help="List supported narrow-domain corpus schemas.")
     p.set_defaults(func=cmd_corpus_domains)

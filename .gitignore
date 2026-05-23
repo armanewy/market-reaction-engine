@@ -16,6 +16,9 @@ data/earnings_demo/
 data/extraction_demo/
 data/source_ingestion_demo/
 data/corpus_demo/
+automation_demo_config.json
+automation_run/
+seed_data/
 .DS_Store
 .pytest_cache/
 *.egg-info/
