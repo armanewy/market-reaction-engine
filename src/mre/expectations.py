@@ -19,12 +19,22 @@ EXPECTATION_COLUMNS = [
     "asof_time",
     "consensus_eps",
     "actual_eps",
+    "consensus_forward_eps",
+    "guidance_eps_low",
+    "guidance_eps_high",
+    "guidance_eps_mid",
     "consensus_revenue",
     "actual_revenue",
     "consensus_forward_revenue",
     "guidance_revenue_low",
     "guidance_revenue_high",
     "guidance_revenue_mid",
+    "consensus_gross_margin",
+    "actual_gross_margin",
+    "consensus_forward_gross_margin",
+    "guidance_gross_margin_low",
+    "guidance_gross_margin_high",
+    "guidance_gross_margin_mid",
     "implied_move_pct",
     "analyst_count",
     "expectation_source_type",
@@ -35,12 +45,22 @@ EXPECTATION_COLUMNS = [
 NUMERIC_EXPECTATION_COLUMNS = [
     "consensus_eps",
     "actual_eps",
+    "consensus_forward_eps",
+    "guidance_eps_low",
+    "guidance_eps_high",
+    "guidance_eps_mid",
     "consensus_revenue",
     "actual_revenue",
     "consensus_forward_revenue",
     "guidance_revenue_low",
     "guidance_revenue_high",
     "guidance_revenue_mid",
+    "consensus_gross_margin",
+    "actual_gross_margin",
+    "consensus_forward_gross_margin",
+    "guidance_gross_margin_low",
+    "guidance_gross_margin_high",
+    "guidance_gross_margin_mid",
     "implied_move_pct",
     "analyst_count",
 ]
@@ -48,10 +68,16 @@ NUMERIC_EXPECTATION_COLUMNS = [
 DERIVED_EXPECTATION_COLUMNS = [
     "eps_surprise",
     "eps_surprise_pct",
+    "guidance_eps_surprise",
+    "guidance_eps_surprise_pct",
     "revenue_surprise",
     "revenue_surprise_pct",
     "guidance_revenue_surprise",
     "guidance_revenue_surprise_pct",
+    "gross_margin_surprise",
+    "gross_margin_surprise_pct",
+    "guidance_gross_margin_surprise",
+    "guidance_gross_margin_surprise_pct",
     "fundamental_surprise_score",
     "surprise_signal_count",
     "surprise_direction_inferred",
@@ -97,6 +123,13 @@ ALIAS_COLUMNS = {
     "reported_revenue": "actual_revenue",
     "estimated_revenue": "consensus_revenue",
     "revenue_estimate": "consensus_revenue",
+    "sales_estimate": "consensus_revenue",
+    "reported_gross_margin": "actual_gross_margin",
+    "estimated_gross_margin": "consensus_gross_margin",
+    "gross_margin_estimate": "consensus_gross_margin",
+    "forward_revenue_estimate": "consensus_forward_revenue",
+    "forward_eps_estimate": "consensus_forward_eps",
+    "forward_gross_margin_estimate": "consensus_forward_gross_margin",
     "expectations_timestamp": "asof_time",
 }
 
@@ -145,10 +178,25 @@ def _normalize_alias_columns(df: pd.DataFrame) -> pd.DataFrame:
 
 def coerce_numeric_columns(df: pd.DataFrame, columns: Iterable[str]) -> pd.DataFrame:
     out = df.copy()
+    pct_like = {
+        "implied_move_pct",
+        "eps_surprise_pct",
+        "guidance_eps_surprise_pct",
+        "revenue_surprise_pct",
+        "guidance_revenue_surprise_pct",
+        "gross_margin_surprise_pct",
+        "guidance_gross_margin_surprise_pct",
+        "consensus_gross_margin",
+        "actual_gross_margin",
+        "consensus_forward_gross_margin",
+        "guidance_gross_margin_low",
+        "guidance_gross_margin_high",
+        "guidance_gross_margin_mid",
+    }
     for col in columns:
         if col in out.columns:
             out[col] = out[col].map(_clean_numeric)
-            if col in {"implied_move_pct", "eps_surprise_pct", "revenue_surprise_pct", "guidance_revenue_surprise_pct"}:
+            if col in pct_like:
                 mask = out[col].abs() > 1.0
                 out.loc[mask, col] = out.loc[mask, col] / 100.0
     return out
@@ -159,17 +207,28 @@ def safe_pct_delta(actual: pd.Series, expected: pd.Series) -> pd.Series:
     return (pd.to_numeric(actual, errors="coerce") - pd.to_numeric(expected, errors="coerce")) / denom
 
 
-def _guidance_mid(df: pd.DataFrame) -> pd.Series:
-    existing = pd.to_numeric(df.get("guidance_revenue_mid", np.nan), errors="coerce")
-    low = pd.to_numeric(df.get("guidance_revenue_low", np.nan), errors="coerce")
-    high = pd.to_numeric(df.get("guidance_revenue_high", np.nan), errors="coerce")
+def _mid_from_low_high(df: pd.DataFrame, mid_col: str, low_col: str, high_col: str) -> pd.Series:
+    existing = pd.to_numeric(df.get(mid_col, np.nan), errors="coerce")
+    low = pd.to_numeric(df.get(low_col, np.nan), errors="coerce")
+    high = pd.to_numeric(df.get(high_col, np.nan), errors="coerce")
     computed = (low + high) / 2.0
     return existing.where(existing.notna(), computed)
 
 
+def _guidance_mid(df: pd.DataFrame) -> pd.Series:
+    return _mid_from_low_high(df, "guidance_revenue_mid", "guidance_revenue_low", "guidance_revenue_high")
+
+
 def _infer_direction(row: pd.Series) -> str:
     vals = []
-    for col in ["eps_surprise_pct", "revenue_surprise_pct", "guidance_revenue_surprise_pct"]:
+    for col in [
+        "eps_surprise_pct",
+        "guidance_eps_surprise_pct",
+        "revenue_surprise_pct",
+        "guidance_revenue_surprise_pct",
+        "gross_margin_surprise_pct",
+        "guidance_gross_margin_surprise_pct",
+    ]:
         val = row.get(col)
         if val is not None and not pd.isna(val):
             vals.append(float(val))
@@ -202,7 +261,18 @@ def compute_expectation_features(df: pd.DataFrame) -> pd.DataFrame:
     for col in EXPECTATION_COLUMNS:
         if col not in out.columns:
             out[col] = np.nan
-    out = coerce_numeric_columns(out, NUMERIC_EXPECTATION_COLUMNS + ["eps_surprise_pct", "revenue_surprise_pct", "guidance_revenue_surprise_pct"])
+    out = coerce_numeric_columns(
+        out,
+        NUMERIC_EXPECTATION_COLUMNS
+        + [
+            "eps_surprise_pct",
+            "guidance_eps_surprise_pct",
+            "revenue_surprise_pct",
+            "guidance_revenue_surprise_pct",
+            "gross_margin_surprise_pct",
+            "guidance_gross_margin_surprise_pct",
+        ],
+    )
 
     out["eps_surprise"] = pd.to_numeric(out["actual_eps"], errors="coerce") - pd.to_numeric(out["consensus_eps"], errors="coerce")
     computed_eps_pct = safe_pct_delta(out["actual_eps"], out["consensus_eps"])
@@ -211,13 +281,30 @@ def compute_expectation_features(df: pd.DataFrame) -> pd.DataFrame:
     else:
         out["eps_surprise_pct"] = computed_eps_pct
 
+    out["guidance_eps_mid"] = _mid_from_low_high(out, "guidance_eps_mid", "guidance_eps_low", "guidance_eps_high")
+    out["guidance_eps_surprise"] = out["guidance_eps_mid"] - pd.to_numeric(out["consensus_forward_eps"], errors="coerce")
+    out["guidance_eps_surprise_pct"] = safe_pct_delta(out["guidance_eps_mid"], out["consensus_forward_eps"])
+
     out["revenue_surprise"] = pd.to_numeric(out["actual_revenue"], errors="coerce") - pd.to_numeric(out["consensus_revenue"], errors="coerce")
     out["revenue_surprise_pct"] = safe_pct_delta(out["actual_revenue"], out["consensus_revenue"])
     out["guidance_revenue_mid"] = _guidance_mid(out)
     out["guidance_revenue_surprise"] = out["guidance_revenue_mid"] - pd.to_numeric(out["consensus_forward_revenue"], errors="coerce")
     out["guidance_revenue_surprise_pct"] = safe_pct_delta(out["guidance_revenue_mid"], out["consensus_forward_revenue"])
 
-    components = ["eps_surprise_pct", "revenue_surprise_pct", "guidance_revenue_surprise_pct"]
+    out["gross_margin_surprise"] = pd.to_numeric(out["actual_gross_margin"], errors="coerce") - pd.to_numeric(out["consensus_gross_margin"], errors="coerce")
+    out["gross_margin_surprise_pct"] = safe_pct_delta(out["actual_gross_margin"], out["consensus_gross_margin"])
+    out["guidance_gross_margin_mid"] = _mid_from_low_high(out, "guidance_gross_margin_mid", "guidance_gross_margin_low", "guidance_gross_margin_high")
+    out["guidance_gross_margin_surprise"] = out["guidance_gross_margin_mid"] - pd.to_numeric(out["consensus_forward_gross_margin"], errors="coerce")
+    out["guidance_gross_margin_surprise_pct"] = safe_pct_delta(out["guidance_gross_margin_mid"], out["consensus_forward_gross_margin"])
+
+    components = [
+        "eps_surprise_pct",
+        "guidance_eps_surprise_pct",
+        "revenue_surprise_pct",
+        "guidance_revenue_surprise_pct",
+        "gross_margin_surprise_pct",
+        "guidance_gross_margin_surprise_pct",
+    ]
     score_frame = pd.concat([np.tanh(pd.to_numeric(out[c], errors="coerce") / 0.05) for c in components], axis=1)
     out["fundamental_surprise_score"] = score_frame.mean(axis=1, skipna=True)
     out["surprise_signal_count"] = score_frame.notna().sum(axis=1).astype(float)
@@ -227,8 +314,11 @@ def compute_expectation_features(df: pd.DataFrame) -> pd.DataFrame:
     out["earnings_surprise_abs_max_pct"] = pd.concat(
         [
             pd.to_numeric(out["eps_surprise_pct"], errors="coerce").abs(),
+            pd.to_numeric(out["guidance_eps_surprise_pct"], errors="coerce").abs(),
             pd.to_numeric(out["revenue_surprise_pct"], errors="coerce").abs(),
             pd.to_numeric(out["guidance_revenue_surprise_pct"], errors="coerce").abs(),
+            pd.to_numeric(out["gross_margin_surprise_pct"], errors="coerce").abs(),
+            pd.to_numeric(out["guidance_gross_margin_surprise_pct"], errors="coerce").abs(),
         ],
         axis=1,
     ).max(axis=1, skipna=True)

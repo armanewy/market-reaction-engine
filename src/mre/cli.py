@@ -4,6 +4,7 @@ import argparse
 import json
 from pathlib import Path
 
+from .analyst_revisions import make_analyst_revisions_template, merge_analyst_revisions
 from .demo import generate_demo_data
 from .earnings import build_alpha_vantage_earnings_corpus, build_earnings_corpus_from_sec, build_yfinance_earnings_corpus, write_manual_earnings_template
 from .earnings_demo import generate_earnings_demo_data
@@ -11,6 +12,8 @@ from .event_study import run_event_study
 from .events import event_tickers, load_events, make_event_template
 from .expectations import enrich_expectations, make_expectations_template, merge_external_expectations
 from .modeling import find_analogs, predict_direction, train_direction_model, walk_forward_direction_model
+from .options import make_options_template, merge_options_implied_moves
+from .release_times import make_release_times_template, merge_release_times
 from .paths import ensure_parent
 from .prices import fetch_yfinance_prices
 from .reports import event_study_report
@@ -161,6 +164,49 @@ def cmd_enrich_expectations(args: argparse.Namespace) -> None:
 def cmd_merge_expectations(args: argparse.Namespace) -> None:
     df = merge_external_expectations(args.events, args.expectations, args.out, fill_labels=args.fill_labels)
     print(json.dumps({"rows": int(len(df)), "out": str(args.out)}, indent=2))
+
+
+def cmd_release_times_template(args: argparse.Namespace) -> None:
+    df = make_release_times_template(args.events, args.out)
+    print(f"Wrote release-time template with {len(df)} row(s): {args.out}")
+
+
+def cmd_merge_release_times(args: argparse.Namespace) -> None:
+    df = merge_release_times(args.events, args.release_times, args.out, key=args.key, require_all_events=args.require_all_events)
+    counts = df["release_time_status"].value_counts(dropna=False).to_dict() if "release_time_status" in df.columns else {}
+    print(json.dumps({"rows": int(len(df)), "status_counts": counts, "out": str(args.out)}, indent=2, default=str))
+
+
+def cmd_options_template(args: argparse.Namespace) -> None:
+    df = make_options_template(args.events, args.out)
+    print(f"Wrote options/implied-move template with {len(df)} row(s): {args.out}")
+
+
+def cmd_merge_options(args: argparse.Namespace) -> None:
+    df, diag = merge_options_implied_moves(
+        args.events,
+        args.options,
+        args.out,
+        max_quote_age_days=None if args.max_quote_age_days < 0 else args.max_quote_age_days,
+    )
+    print(json.dumps({"rows": int(len(df)), "diagnostics": diag.to_dict(), "out": str(args.out)}, indent=2, default=str))
+
+
+def cmd_analyst_revisions_template(args: argparse.Namespace) -> None:
+    df = make_analyst_revisions_template(args.events, args.out)
+    print(f"Wrote analyst-revisions template with {len(df)} row(s): {args.out}")
+
+
+def cmd_merge_analyst_revisions(args: argparse.Namespace) -> None:
+    metrics = tuple(m.strip() for m in args.metrics.split(",") if m.strip())
+    df, diag = merge_analyst_revisions(
+        args.events,
+        args.revisions,
+        args.out,
+        windows=comma_ints(args.windows),
+        metrics=metrics,
+    )
+    print(json.dumps({"rows": int(len(df)), "diagnostics": diag.to_dict(), "out": str(args.out)}, indent=2, default=str))
 
 
 def cmd_make_template(args: argparse.Namespace) -> None:
@@ -367,6 +413,9 @@ def cmd_earnings_demo(args: argparse.Namespace) -> None:
         {
             "events_raw": str(data_paths["events_raw"]),
             "expectations": str(data_paths["expectations"]),
+            "release_times": str(data_paths.get("release_times", "")),
+            "option_snapshots": str(data_paths.get("option_snapshots", "")),
+            "analyst_revisions": str(data_paths.get("analyst_revisions", "")),
             "events_enriched": str(data_paths["events_enriched"]),
             "prices_dir": str(data_paths["prices_dir"]),
             "event_study": str(event_study_out),
@@ -464,6 +513,44 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--out", required=True)
     p.add_argument("--fill-labels", action="store_true")
     p.set_defaults(func=cmd_merge_expectations)
+
+    p = sub.add_parser("release-times-template", help="Create a template for exact release timestamps.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_release_times_template)
+
+    p = sub.add_parser("merge-release-times", help="Merge exact release timestamps into events and update release_session.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--release-times", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--key", default="event_id")
+    p.add_argument("--require-all-events", action="store_true")
+    p.set_defaults(func=cmd_merge_release_times)
+
+    p = sub.add_parser("options-template", help="Create an option snapshot template for ATM-straddle implied moves.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_options_template)
+
+    p = sub.add_parser("merge-options", help="Estimate and merge pre-event implied move from option snapshot rows.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--options", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--max-quote-age-days", type=int, default=14, help="Use -1 to disable quote-age filtering.")
+    p.set_defaults(func=cmd_merge_options)
+
+    p = sub.add_parser("analyst-revisions-template", help="Create a template for point-in-time analyst estimate revisions.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_analyst_revisions_template)
+
+    p = sub.add_parser("merge-analyst-revisions", help="Compute and merge analyst revision features into events.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--revisions", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--windows", default="7,30")
+    p.add_argument("--metrics", default="eps,revenue,gross_margin,forward_revenue")
+    p.set_defaults(func=cmd_merge_analyst_revisions)
 
     p = sub.add_parser("make-template", help="Create an empty generic event CSV template.")
     p.add_argument("--out", default="data/events/events_template.csv")

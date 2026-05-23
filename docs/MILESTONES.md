@@ -117,3 +117,15 @@ Required before taking any trading signal seriously:
 - calibration/abstention
 - strict point-in-time data handling
 - pre-registered feature sets
+
+## M5 — richer point-in-time expectations
+
+Status: implemented in v0.4.0.
+
+- Exact release timestamp merge flow
+- Revenue/EPS/gross-margin/guidance surprise fields
+- ATM-straddle implied-move ingestion from option snapshots
+- Analyst revision feature builder
+- Richer synthetic earnings demo
+
+See `docs/RICH_EXPECTATIONS_MILESTONE.md`.

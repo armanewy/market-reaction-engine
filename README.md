@@ -1,6 +1,6 @@
 # Market Reaction Engine
 
-Version 0.2 starts the first narrow real-corpus workflow: **earnings/EPS-surprise events across comparable companies**, plus a pre-event expectations/context layer.
+Version 0.4 extends the narrow earnings/guidance workflow with richer point-in-time expectation plumbing: exact release timestamps, revenue/margin/guidance surprise fields, option-implied move imports, and analyst revision features.
 
 This project is intentionally conservative. It is not a magic stock predictor. It is a point-in-time event-study workbench that helps answer:
 
@@ -68,6 +68,15 @@ curated/ingested event rows
 - Volume z-score
 - Synthetic offline earnings demo
 
+### M5 — richer point-in-time expectations
+
+- Exact release-time template/merge flow that updates `event_time` and `release_session`
+- Revenue, EPS, forward guidance, gross-margin, and forward gross-margin surprise features
+- Option snapshot template and ATM-straddle implied-move estimator
+- Analyst revision template and point-in-time revision feature builder
+- Modeling feature list extended for implied move, margins, guidance, release-time quality, and analyst revision features
+- Offline earnings demo now writes synthetic release-time, option-snapshot, and analyst-revision feeds
+
 ## Install
 
 ```bash
@@ -101,6 +110,9 @@ The earnings demo writes:
 ```text
 data/earnings_demo/earnings_events_raw.csv
 data/earnings_demo/earnings_expectations.csv
+data/earnings_demo/earnings_release_times.csv
+data/earnings_demo/earnings_option_snapshots.csv
+data/earnings_demo/earnings_analyst_revisions.csv
 data/earnings_demo/earnings_events_enriched.csv
 artifacts/earnings_demo_event_study.csv
 artifacts/earnings_demo_model_report.json
@@ -226,6 +238,67 @@ mre merge-expectations \
 ```
 
 The merge command rejects expectation rows whose `asof_time` is after `event_time`.
+
+## Richer expectation feeds
+
+The new commands are intentionally vendor-neutral.  They let you ingest better paid/manual feeds without baking a questionable data vendor assumption into the model.
+
+Curate exact release timestamps:
+
+```bash
+mre release-times-template \
+  --events data/events/semis_earnings.csv \
+  --out data/events/semis_release_times_template.csv
+
+mre merge-release-times \
+  --events data/events/semis_earnings.csv \
+  --release-times data/events/semis_release_times_template.csv \
+  --out data/events/semis_earnings_exact_times.csv
+```
+
+Add richer fundamentals expectations.  The external expectations CSV supports EPS, revenue, forward revenue guidance, forward EPS guidance, gross margin, and forward gross-margin guidance fields:
+
+```bash
+mre expectations-template \
+  --events data/events/semis_earnings_exact_times.csv \
+  --out data/events/semis_expectations_template.csv
+
+mre merge-expectations \
+  --events data/events/semis_earnings_exact_times.csv \
+  --expectations data/events/semis_expectations_template.csv \
+  --fill-labels \
+  --out data/events/semis_earnings_fundamentals.csv
+```
+
+Estimate pre-event implied move from option snapshots.  Supply rows with `quote_time`, `expiration`, `underlying_price`, `strike`, and call/put mid or bid/ask columns.  The tool picks the nearest pre-event expiration/ATM strike and estimates implied move as `(call_mid + put_mid) / underlying_price`:
+
+```bash
+mre options-template \
+  --events data/events/semis_earnings_fundamentals.csv \
+  --out data/events/semis_options_template.csv
+
+mre merge-options \
+  --events data/events/semis_earnings_fundamentals.csv \
+  --options data/events/semis_options_template.csv \
+  --out data/events/semis_earnings_options.csv
+```
+
+Compute analyst revision features from point-in-time estimate rows:
+
+```bash
+mre analyst-revisions-template \
+  --events data/events/semis_earnings_options.csv \
+  --out data/events/semis_analyst_revisions_template.csv
+
+mre merge-analyst-revisions \
+  --events data/events/semis_earnings_options.csv \
+  --revisions data/events/semis_analyst_revisions_template.csv \
+  --windows 7,30 \
+  --metrics eps,revenue,gross_margin,forward_revenue \
+  --out data/events/semis_earnings_rich_expectations.csv
+```
+
+These commands still do not create trading-grade data by themselves.  They provide the ingestion and leakage-control plumbing for better point-in-time feeds.
 
 ## Generic event workflow
 
