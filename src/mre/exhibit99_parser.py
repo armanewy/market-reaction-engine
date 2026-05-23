@@ -19,6 +19,7 @@ AMOUNT_RE = re.compile(
 PCT_RE = re.compile(r"(?P<num>-?\d+(?:\.\d+)?)\s*(?:%|percent|percentage points?)", flags=re.IGNORECASE)
 
 GUIDANCE_WORDS = ("expect", "expects", "expected", "forecast", "forecasting", "outlook", "guidance", "project")
+FUTURE_GUIDANCE_WORDS = ("expect", "expects", "expected", "forecast", "forecasting", "outlook", "project", "planning")
 ACTUAL_EXCLUDE_WORDS = GUIDANCE_WORDS + ("range of", "plus or minus", "+/-", "±", "between")
 SEGMENT_WORDS = ("segment", "business group", "data center", "client", "gaming", "automotive", "industrial")
 
@@ -68,9 +69,9 @@ def _sentences(text: str) -> Iterable[tuple[str, int, int]]:
         yield seg, start + offset, len(text)
 
 
-def normalize_money_to_usd(match: re.Match[str]) -> float:
+def normalize_money_to_usd(match: re.Match[str], default_unit: str = "") -> float:
     num = float(match.group("num"))
-    unit = (match.group("unit") or "").lower()
+    unit = (match.group("unit") or default_unit or "").lower()
     if unit in {"billion", "bn", "b"}:
         return num * 1_000_000_000.0
     if unit in {"million", "mn", "m"}:
@@ -136,7 +137,7 @@ def _fact(
 
 def _parse_guidance_revenue(doc: SourceDocument, segment: str, start: int, end: int) -> list[ParsedExhibitFact]:
     low = segment.lower()
-    if not (("revenue" in low or "net sales" in low or "sales" in low) and _contains_any(low, GUIDANCE_WORDS)):
+    if not (("revenue" in low or "net sales" in low or "sales" in low) and _contains_any(low, FUTURE_GUIDANCE_WORDS)):
         return []
     if any(w in low for w in SEGMENT_WORDS) and not any(w in low for w in ["total revenue", "net sales", "revenue is expected"]):
         return []
@@ -179,7 +180,7 @@ def _parse_guidance_revenue(doc: SourceDocument, segment: str, start: int, end: 
 
     # "revenue ... range of $6.5 billion to $6.8 billion" or "between X and Y"
     range_match = re.search(
-        r"(?:revenue|net sales|sales).*?(?:range of|between)\s*"
+        r"(?:revenue|net sales|sales).*?(?:range of|between)\s*(?:approximately|about)?\s*"
         r"(?P<low>\$?\s*-?\d+(?:\.\d+)?\s*(?:billion|bn|b|million|mn|m)?)"
         r"\s*(?:to|and|-)\s*"
         r"(?P<high>\$?\s*-?\d+(?:\.\d+)?\s*(?:billion|bn|b|million|mn|m)?)",
@@ -190,8 +191,9 @@ def _parse_guidance_revenue(doc: SourceDocument, segment: str, start: int, end: 
         low_match = AMOUNT_RE.search(range_match.group("low"))
         high_match = AMOUNT_RE.search(range_match.group("high"))
         if low_match and high_match:
-            low_val = normalize_money_to_usd(low_match)
-            high_val = normalize_money_to_usd(high_match)
+            inferred_unit = (high_match.group("unit") or low_match.group("unit") or "").lower()
+            low_val = normalize_money_to_usd(low_match, default_unit=inferred_unit)
+            high_val = normalize_money_to_usd(high_match, default_unit=inferred_unit)
             if high_val < low_val:
                 low_val, high_val = high_val, low_val
             mid = (low_val + high_val) / 2.0
@@ -222,7 +224,7 @@ def _parse_guidance_eps(doc: SourceDocument, segment: str, start: int, end: int)
     low = segment.lower()
     if "eps" not in low and "earnings per share" not in low:
         return []
-    if not _contains_any(low, GUIDANCE_WORDS):
+    if not _contains_any(low, FUTURE_GUIDANCE_WORDS):
         return []
     role = _period_role(segment, "next_quarter_guidance")
     flags = ["full_year_guidance"] if role == "full_year_guidance" else []
@@ -273,8 +275,12 @@ def _parse_actuals(doc: SourceDocument, segment: str, start: int, end: int) -> l
             out.append(_fact(doc, "actual_gross_margin", float(m.group("num")) / 100.0, "fraction", "current_quarter_actual", segment, start, end, 0.82, "actual_gross_margin_sentence", flags))
 
     if "eps" in low or "earnings per share" in low:
+        if any(w in low for w in ["defined as", "excluding:", "described further below", "tax related items"]) and not any(
+            w in low for w in ["eps of $", "eps was", "earnings per share of", "diluted eps of"]
+        ):
+            return out
         # Prefer GAAP EPS when a sentence includes both GAAP and non-GAAP.
-        m = re.search(r"(?:gaap\s+)?(?:diluted\s+)?(?:eps|earnings per share).*?\$?\s*(?P<num>-?\d+(?:\.\d+)?)", segment, flags=re.IGNORECASE)
+        m = re.search(r"(?:gaap\s+)?(?:diluted\s+)?(?:eps|earnings per share).*?\$\s*(?P<num>-?\d+(?:\.\d+)?)", segment, flags=re.IGNORECASE)
         if m:
             out.append(_fact(doc, "actual_eps", float(m.group("num")), "usd_per_share", "current_quarter_actual", segment, start, end, 0.82, "actual_eps_sentence", flags))
     return out
@@ -403,4 +409,3 @@ def validate_parser_against_gold(facts: pd.DataFrame, gold: pd.DataFrame, out_er
         ensure_parent(out_errors)
         errors.to_csv(out_errors, index=False)
     return errors, report
-
