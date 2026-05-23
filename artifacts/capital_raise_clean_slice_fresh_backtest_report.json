@@ -1,0 +1,16 @@
+{
+  "status": "blocked_underpowered",
+  "reason": "Fresh data set has fewer than min_train=40 usable event-study rows; research-backtest refused to run.",
+  "event_study_path": "artifacts/capital_raise_clean_slice_fresh_event_study.csv",
+  "fresh_reviewed_rows": 32,
+  "fresh_completed_financing_rows": 32,
+  "fresh_market_cap_ratio_rows": 7,
+  "fresh_discount_rows": 13,
+  "fresh_event_study_ok_rows": 22,
+  "fresh_likely_oos_predictions_min_train_40": 0,
+  "fresh_tickers": 16,
+  "event_study_mean_h1": -0.02114234032290528,
+  "event_study_mean_h3": -0.016900014403469388,
+  "placebo_ok_rows": 64,
+  "peer_ok_rows": 9
+}

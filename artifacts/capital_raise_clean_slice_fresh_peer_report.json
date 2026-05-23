@@ -1,0 +1,6 @@
+{
+  "status": "blocked_underpowered",
+  "reason": "Fresh peer control event-study has fewer than min_train=40 usable rows; research-backtest refused to run.",
+  "event_study_path": "artifacts/capital_raise_clean_slice_fresh_peer_event_study.csv",
+  "peer_ok_rows": 9
+}
