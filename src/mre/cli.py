@@ -5,6 +5,14 @@ import json
 from pathlib import Path
 
 from .analyst_revisions import make_analyst_revisions_template, merge_analyst_revisions
+from .activist_13d import (
+    audit_activist_13d_timestamps_and_duplicates,
+    build_activist_13d_sec_source_documents,
+    enrich_activist_13d_context,
+    parse_activist_13d_manifest,
+    validate_activist_13d_parser,
+    write_activist_13d_readiness_report,
+)
 from .backtest import (
     calibration_table,
     make_peer_control_events,
@@ -937,6 +945,100 @@ def cmd_government_contract_readiness_report(args: argparse.Namespace) -> None:
         args.out,
         source_documents_path=args.source_documents,
         min_train=args.min_train,
+        parser_errors_path=args.parser_errors,
+    )
+    print(json.dumps({"report": str(args.out), **summary}, indent=2, default=str))
+
+
+def cmd_activist_13d_source_docs(args: argparse.Namespace) -> None:
+    tickers, benchmark, sector_benchmark = resolve_tickers_and_sector(args)
+    client = SecClient(user_agent=args.user_agent, requests_per_second=args.requests_per_second)
+    forms = [v.strip().upper() for v in args.forms.split(",") if v.strip()]
+    df, diag = build_activist_13d_sec_source_documents(
+        client,
+        tickers=tickers,
+        out_manifest=args.out,
+        docs_dir=args.docs_dir,
+        start=args.start,
+        end=args.end,
+        forms=forms,
+        limit_per_ticker=args.limit_per_ticker,
+        sector_benchmark=sector_benchmark,
+        overwrite=args.overwrite,
+        min_text_chars=args.min_text_chars,
+    )
+    print(json.dumps({"provider": "sec-edgar", "rows": int(len(df)), "tickers": tickers, "benchmark": benchmark, "sector_benchmark": sector_benchmark, "out": str(args.out), "docs_dir": str(args.docs_dir), "diagnostics": diag.to_dict()}, indent=2, default=str))
+
+
+def cmd_parse_activist_13d(args: argparse.Namespace) -> None:
+    facts, features, events = parse_activist_13d_manifest(
+        args.documents,
+        args.facts_out,
+        args.features_out,
+        args.events_out,
+        min_confidence=args.min_confidence,
+        usable_confidence=args.usable_confidence,
+    )
+    print(json.dumps({"fact_rows": int(len(facts)), "feature_rows": int(len(features)), "event_rows": int(len(events)), "events_out": str(args.events_out)}, indent=2))
+
+
+def cmd_validate_activist_13d_parser(args: argparse.Namespace) -> None:
+    pd = __import__("pandas")
+    errors, report = validate_activist_13d_parser(pd.read_csv(args.facts), pd.read_csv(args.gold), out_errors=args.errors_out)
+    out = ensure_parent(args.report_out)
+    lines = [
+        "# Activist 13D Parser Audit Report",
+        "",
+        "This validates parser facts against a reviewed gold set. It is a parser-quality report, not a model result.",
+        "",
+        "## Metrics",
+        "",
+        f"- gold_rows: {report.get('gold_rows', 0)}",
+        f"- correct_rows: {report.get('correct_rows', 0)}",
+        f"- row_accuracy: {report.get('row_accuracy', 0):.3f}",
+        f"- event_type_precision: {report.get('event_type_precision', 0):.3f}",
+        f"- parser_audit_pass: {report.get('parser_audit_pass', False)}",
+        f"- status: {report.get('status', 'unknown')}",
+        "",
+        "## Gates",
+        "",
+    ]
+    for gate, passed in (report.get("gates", {}) or {}).items():
+        lines.append(f"- {gate}: {'PASS' if passed else 'FAIL'}")
+    bad = errors[errors["status"] != "ok"] if not errors.empty and "status" in errors.columns else pd.DataFrame()
+    if not bad.empty:
+        lines.extend(["", "## Non-OK Rows", ""])
+        for _, row in bad.head(75).iterrows():
+            lines.append(f"- {row['event_id']} / {row['fact_name']}: {row['status']} expected={row['expected_value']} actual={row['actual_value']}")
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(json.dumps({"report": str(out), "errors": str(args.errors_out), **report}, indent=2, default=str))
+
+
+def cmd_activist_13d_timestamp_audit(args: argparse.Namespace) -> None:
+    pd = __import__("pandas")
+    audited, summary = audit_activist_13d_timestamps_and_duplicates(pd.read_csv(args.events), out_path=args.out)
+    print(json.dumps({"rows": int(len(audited)), "out": str(args.out), **summary}, indent=2, default=str))
+
+
+def cmd_enrich_activist_13d_context(args: argparse.Namespace) -> None:
+    enriched = enrich_activist_13d_context(
+        args.events,
+        args.prices_dir,
+        args.out,
+        benchmark_ticker=args.benchmark,
+        market_caps_path=args.market_caps,
+        prior_activity_path=args.prior_activity,
+        liquidity_path=args.liquidity,
+    )
+    print(json.dumps({"rows": int(len(enriched)), "out": str(args.out)}, indent=2, default=str))
+
+
+def cmd_activist_13d_readiness_report(args: argparse.Namespace) -> None:
+    summary = write_activist_13d_readiness_report(
+        args.events,
+        args.out,
+        min_train=args.min_train,
+        source_documents_path=args.source_documents,
         parser_errors_path=args.parser_errors,
     )
     print(json.dumps({"report": str(args.out), **summary}, indent=2, default=str))
@@ -1966,6 +2068,62 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--min-train", type=int, default=40)
     p.add_argument("--parser-errors", default=None, help="Optional parser validation errors CSV; if supplied, parser audit must pass.")
     p.set_defaults(func=cmd_government_contract_readiness_report)
+
+    p = sub.add_parser("activist-13d-source-docs", help="Build Schedule 13D/13G source-document candidates from SEC EDGAR.")
+    p.add_argument("--out", required=True)
+    p.add_argument("--docs-dir", required=True)
+    p.add_argument("--preset")
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--sector-benchmark", default="")
+    p.add_argument("--forms", default="SC 13D,SC 13D/A,SC 13G,SC 13G/A")
+    p.add_argument("--start", default="2015-01-01")
+    p.add_argument("--end", default=None)
+    p.add_argument("--limit-per-ticker", type=int, default=None)
+    p.add_argument("--user-agent", default=None)
+    p.add_argument("--requests-per-second", type=float, default=2.0)
+    p.add_argument("--overwrite", action="store_true")
+    p.add_argument("--min-text-chars", type=int, default=80)
+    p.set_defaults(func=cmd_activist_13d_source_docs)
+
+    p = sub.add_parser("parse-activist-13d", help="Parse activist/control-intent 13D source documents into facts, features, and a review queue.")
+    p.add_argument("--documents", required=True)
+    p.add_argument("--facts-out", required=True)
+    p.add_argument("--features-out", required=True)
+    p.add_argument("--events-out", required=True)
+    p.add_argument("--min-confidence", type=float, default=0.0)
+    p.add_argument("--usable-confidence", type=float, default=0.60)
+    p.set_defaults(func=cmd_parse_activist_13d)
+
+    p = sub.add_parser("validate-activist-13d-parser", help="Validate activist 13D parser facts against a reviewed gold-set CSV.")
+    p.add_argument("--facts", required=True)
+    p.add_argument("--gold", required=True)
+    p.add_argument("--errors-out", required=True)
+    p.add_argument("--report-out", required=True)
+    p.set_defaults(func=cmd_validate_activist_13d_parser)
+
+    p = sub.add_parser("activist-13d-timestamp-audit", help="Audit public timestamps and duplicate filings for activist 13D events.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd_activist_13d_timestamp_audit)
+
+    p = sub.add_parser("enrich-activist-13d-context", help="Add market-cap, pre-event run-up, prior-activity, and liquidity context to activist 13D events.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--prices-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--market-caps", default=None)
+    p.add_argument("--prior-activity", default=None)
+    p.add_argument("--liquidity", default=None)
+    p.set_defaults(func=cmd_enrich_activist_13d_context)
+
+    p = sub.add_parser("activist-13d-readiness-report", help="Summarize whether a reviewed/enriched activist 13D corpus is ready for modeling.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--source-documents", default=None)
+    p.add_argument("--parser-errors", default=None)
+    p.add_argument("--min-train", type=int, default=40)
+    p.set_defaults(func=cmd_activist_13d_readiness_report)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")
     p.add_argument("--events", required=True)
