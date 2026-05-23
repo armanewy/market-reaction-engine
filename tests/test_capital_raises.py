@@ -3,6 +3,7 @@ from __future__ import annotations
 import pandas as pd
 
 from mre.capital_raises import (
+    build_capital_raise_sec_source_documents,
     capital_raise_readiness_summary,
     enrich_capital_raise_context,
     parse_capital_raise_document,
@@ -43,6 +44,30 @@ def test_parse_common_stock_offering_terms():
     assert by_name["price_per_share"].value == 2.50
     assert by_name["gross_proceeds"].value == 25_000_000
     assert "working capital" in str(by_name["use_of_proceeds"].value)
+
+
+def test_parser_ignores_par_value_and_uses_gross_proceeds_amount():
+    facts = parse_capital_raise_document(
+        _doc(
+            "The Company entered into a registered direct offering of 35,500,000 shares of Class A common stock, "
+            "par value $0.0001 per share, at a price of $8.50 per Share, for gross proceeds of $301.75 million."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert by_name["financing_event_type"].value == "registered_direct_offering"
+    assert by_name["price_per_share"].value == 8.50
+    assert by_name["gross_proceeds"].value == 301_750_000
+
+
+def test_parser_does_not_use_warrant_exercise_price_as_offering_price():
+    facts = parse_capital_raise_document(
+        _doc(
+            "XYZ announced a public offering of 1,000,000 shares at a price of $8.50 per share for gross proceeds of $8.5 million. "
+            "Each warrant is exercisable for one share at an exercise price of $11.50 per share."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert by_name["price_per_share"].value == 8.50
 
 
 def test_parse_atm_program_capacity():
@@ -223,3 +248,51 @@ def test_capital_raise_readiness_summary_enforces_gates():
     assert summary["gates"]["reviewed_usable_events_80_min"] is True
     assert summary["gates"]["reviewed_usable_events_100_preferred"] is False
     assert summary["decision"] == "continue corpus buildout"
+
+
+def test_capital_raise_sec_source_builder_skips_bad_ticker(monkeypatch, tmp_path):
+    calls = []
+
+    def fake_build_manifest(client, tickers, out_manifest, docs_dir, **kwargs):
+        ticker = tickers[0]
+        calls.append((ticker, tuple(kwargs["forms"])))
+        if ticker == "BAD":
+            raise ValueError("missing ticker")
+        df = pd.DataFrame(
+            [
+                {
+                    "source_doc_id": f"{ticker}_doc",
+                    "ticker": ticker,
+                    "event_id": f"{ticker}_event",
+                    "event_time": "2024-01-01T16:05:00",
+                    "event_type": "filing",
+                    "event_subtype": "sec_8_k",
+                    "release_session": "after_close",
+                    "source_type": "sec_primary_filing",
+                    "source_url": "https://sec.test/doc.htm",
+                    "title": "doc",
+                    "path": "doc.txt",
+                    "text": "",
+                    "fiscal_period_end": "",
+                    "sector_benchmark": "",
+                    "notes": "{}",
+                }
+            ]
+        )
+        df.to_csv(out_manifest, index=False)
+        from mre.ingestion import IngestionDiagnostics
+
+        return df, IngestionDiagnostics(rows_total=1, rows_written=1)
+
+    monkeypatch.setattr("mre.capital_raises.build_sec_source_document_manifest", fake_build_manifest)
+    df, diag = build_capital_raise_sec_source_documents(
+        client=object(),
+        tickers=["GOOD", "BAD"],
+        out_manifest=tmp_path / "sources.csv",
+        docs_dir=tmp_path / "docs",
+        forms=["8-K"],
+    )
+    assert set(df["ticker"]) == {"GOOD"}
+    assert diag.rows_written == 1
+    assert diag.rows_skipped == 1
+    assert calls == [("GOOD", ("8-K",)), ("BAD", ("8-K",))]

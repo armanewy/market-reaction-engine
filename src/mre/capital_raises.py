@@ -18,6 +18,10 @@ from .source_docs import SourceDocument, load_source_documents
 AMOUNT_RE = re.compile(r"\$?\s*(?P<num>-?\d{1,3}(?:,\d{3})*(?:\.\d+)?|-?\d+(?:\.\d+)?)\s*(?P<unit>billion|bn|b|million|mn|m)?", re.I)
 SHARES_RE = re.compile(r"(?P<num>\d{1,3}(?:,\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)\s*(?P<unit>million|mn|m)?\s+shares", re.I)
 PRICE_RE = re.compile(r"\$\s*(?P<num>\d+(?:\.\d+)?)\s+per\s+share", re.I)
+OFFERING_PRICE_RE = re.compile(
+    r"(?:offering price|purchase price|sale price|priced at|at a price of|price of)\s*\$\s*(?P<num>\d+(?:\.\d+)?)\s+per\s+share",
+    re.I,
+)
 
 CAPITAL_RAISE_SEC_FORMS = ("8-K", "S-1", "S-3", "424B2", "424B3", "424B4", "424B5", "424B7")
 CAPITAL_RAISE_8K_ITEMS = "1.01,2.03,3.02,8.01"
@@ -66,6 +70,42 @@ def _money(match: re.Match[str], default_unit: str = "") -> float:
     return num
 
 
+def _money_after_terms(segment: str, terms: list[str]) -> tuple[float, re.Match[str] | None]:
+    low = segment.lower()
+    best_pos = None
+    for term in terms:
+        pos = low.find(term)
+        if pos >= 0 and (best_pos is None or pos < best_pos):
+            best_pos = pos
+    if best_pos is None:
+        return np.nan, None
+    tail = segment[best_pos:]
+    match = AMOUNT_RE.search(tail)
+    if not match:
+        return np.nan, None
+    after = tail[match.end() : match.end() + 25].lower()
+    default_unit = ""
+    if not match.group("unit"):
+        if "billion" in after or re.search(r"\bbn\b", after):
+            default_unit = "billion"
+        elif "million" in after or re.search(r"\bmn\b|\bm\b", after):
+            default_unit = "million"
+    return _money(match, default_unit=default_unit), match
+
+
+def _convertible_principal_money(segment: str) -> tuple[float, re.Match[str] | None]:
+    before = re.search(
+        r"(?P<amount>\$?\s*\d{1,3}(?:,\d{3})*(?:\.\d+)?|\$?\s*\d+(?:\.\d+)?)\s*(?P<unit>billion|bn|b|million|mn|m)?\s+(?:aggregate\s+)?principal amount",
+        segment,
+        flags=re.IGNORECASE,
+    )
+    if before:
+        money = AMOUNT_RE.search(before.group("amount") + (" " + before.group("unit") if before.group("unit") else ""))
+        if money:
+            return _money(money), money
+    return _money_after_terms(segment, ["aggregate principal amount", "principal amount"])
+
+
 def _shares(match: re.Match[str]) -> float:
     num = float(match.group("num").replace(",", ""))
     unit = (match.group("unit") or "").lower()
@@ -93,24 +133,24 @@ def _fact(doc: SourceDocument, name: str, value: str | float | bool, unit: str, 
 
 def infer_financing_event_type(text: str) -> tuple[str, str, float]:
     low = text.lower()
-    if "at-the-market" in low or "at the market" in low or re.search(r"\batm\b", low):
-        if any(w in low for w in ["sold", "sales under", "net proceeds from sales", "gross proceeds from sales"]) and "may sell" not in low:
-            return "atm_program_usage_reported", "at-the-market usage language", 0.86
-        return "atm_program_created", "at-the-market offering language", 0.88
-    if "convertible" in low and ("note" in low or "debenture" in low):
-        return "convertible_note_offering", "convertible note/debt language", 0.88
     if "registered direct offering" in low:
         return "registered_direct_offering", "registered direct offering language", 0.86
     if "private placement" in low:
         return "private_placement", "private placement language", 0.80
-    if "shelf registration" in low or "shelf offering" in low or "form s-3" in low:
-        return "shelf_registration", "shelf registration language", 0.82
-    if "prospectus supplement" in low:
-        return "prospectus_supplement", "prospectus supplement language", 0.76
     if "public offering" in low and ("common stock" in low or "ordinary shares" in low):
         if any(w in low for w in ["priced", "closed", "completed", "sold", "agreed to sell", "entered into a securities purchase agreement", "gross proceeds"]):
             return "completed_equity_offering", "public common-stock offering transaction language", 0.87
         return "announced_equity_offering", "public common-stock offering announcement language", 0.82
+    if "convertible" in low and ("note" in low or "debenture" in low):
+        return "convertible_note_offering", "convertible note/debt language", 0.88
+    if "at-the-market" in low or "at the market" in low or re.search(r"\batm\b", low):
+        if any(w in low for w in ["sold", "sales under", "net proceeds from sales", "gross proceeds from sales"]) and "may sell" not in low:
+            return "atm_program_usage_reported", "at-the-market usage language", 0.86
+        return "atm_program_created", "at-the-market offering language", 0.88
+    if "shelf registration" in low or "shelf offering" in low or "form s-3" in low:
+        return "shelf_registration", "shelf registration language", 0.82
+    if "prospectus supplement" in low:
+        return "prospectus_supplement", "prospectus supplement language", 0.76
     if "going concern" in low:
         return "going_concern_warning", "going concern language", 0.86
     if "liquidity" in low and any(w in low for w in ["substantial doubt", "cash runway", "working capital", "continue as a going concern"]):
@@ -154,17 +194,16 @@ def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
             facts.append(_fact(doc, "underwriter_or_agent", seg[:300], "text", seg, 0.68, "agent_sentence"))
 
         if "gross proceeds" in low or "aggregate gross proceeds" in low:
-            money = AMOUNT_RE.search(seg)
+            val, money = _money_after_terms(seg, ["aggregate gross proceeds", "gross proceeds"])
             if money:
-                val = _money(money)
                 facts.append(_fact(doc, "gross_proceeds", val, "usd", seg, 0.88, "gross_proceeds_sentence"))
                 facts.append(_fact(doc, "offering_amount", val, "usd", seg, 0.84, "gross_proceeds_sentence"))
         elif "net proceeds" in low:
-            money = AMOUNT_RE.search(seg)
+            val, money = _money_after_terms(seg, ["net proceeds"])
             if money:
-                facts.append(_fact(doc, "net_proceeds", _money(money), "usd", seg, 0.82, "net_proceeds_sentence"))
+                facts.append(_fact(doc, "net_proceeds", val, "usd", seg, 0.82, "net_proceeds_sentence"))
         elif "aggregate offering price" in low or "aggregate purchase price" in low or "up to" in low:
-            money = AMOUNT_RE.search(seg)
+            val, money = _money_after_terms(seg, ["aggregate offering price", "aggregate purchase price", "up to"])
             if money and any(w in low for w in ["offering", "program", "sale", "sell", "securities"]):
                 if event_type == "atm_program_created":
                     name = "atm_capacity"
@@ -172,19 +211,25 @@ def parse_capital_raise_document(doc: SourceDocument) -> list[CapitalRaiseFact]:
                     name = "shelf_capacity"
                 else:
                     name = "offering_amount"
-                facts.append(_fact(doc, name, _money(money), "usd", seg, 0.80, "offering_amount_sentence"))
+                facts.append(_fact(doc, name, val, "usd", seg, 0.80, "offering_amount_sentence"))
 
         share_match = SHARES_RE.search(seg)
         if share_match and any(w in low for w in ["offer", "offering", "sale", "sell", "issued"]):
             facts.append(_fact(doc, "shares_offered", _shares(share_match), "shares", seg, 0.84, "shares_offered_sentence"))
-        price_match = PRICE_RE.search(seg)
+        price_match = OFFERING_PRICE_RE.search(seg)
+        if not price_match and "par value" not in low and any(w in low for w in ["offering price", "purchase price", "priced at", "at a price"]):
+            price_match = PRICE_RE.search(seg)
         if price_match:
-            facts.append(_fact(doc, "price_per_share", float(price_match.group("num")), "usd_per_share", seg, 0.86, "price_per_share_sentence"))
+            if ("exercise price" in low or "warrant" in low) and not any(w in low for w in ["offering price", "purchase price", "at a price of", "gross proceeds"]):
+                pass
+            else:
+                confidence = 0.90 if "gross proceeds" in low else 0.86
+                facts.append(_fact(doc, "price_per_share", float(price_match.group("num")), "usd_per_share", seg, confidence, "price_per_share_sentence"))
 
         if event_type == "convertible_note_offering" and ("principal amount" in low or "aggregate principal" in low):
-            money = AMOUNT_RE.search(seg)
+            val, money = _convertible_principal_money(seg)
             if money:
-                facts.append(_fact(doc, "convertible_principal", _money(money), "usd", seg, 0.84, "convertible_principal_sentence"))
+                facts.append(_fact(doc, "convertible_principal", val, "usd", seg, 0.84, "convertible_principal_sentence"))
         if "conversion price" in low:
             price_match = PRICE_RE.search(seg) or re.search(r"\$\s*(?P<num>\d+(?:\.\d+)?)", seg)
             if price_match:
@@ -252,7 +297,14 @@ def derive_capital_raise_fields(row: dict | pd.Series) -> dict[str, object]:
     else:
         amount, source, confidence = _amount_from(row, ["gross_proceeds", "offering_amount", "net_proceeds"])
 
-    if pd.isna(amount) and pd.notna(implied_amount):
+    should_prefer_implied = (
+        pd.notna(amount)
+        and pd.notna(implied_amount)
+        and event_type in common_stock_dilution_types
+        and amount < 1_000_000
+        and implied_amount >= 1_000_000
+    )
+    if (pd.isna(amount) and pd.notna(implied_amount)) or should_prefer_implied:
         amount = implied_amount
         source = "shares_offered_x_price_per_share"
         share_conf = _to_float(row.get("shares_offered_confidence", np.nan))
@@ -343,52 +395,41 @@ def build_capital_raise_sec_source_documents(
         for reason, count in diag.skipped_reasons.items():
             combined.skipped_reasons[reason] = combined.skipped_reasons.get(reason, 0) + int(count)
 
-    if "8-K" in forms:
-        tmp = out_manifest.parent / f".{out_manifest.stem}_8k_tmp.csv"
+    def collect_for_ticker(ticker: str, *, selected_forms: tuple[str, ...], selected_item_filter: str | None, label: str, include_exhibits: bool) -> None:
+        tmp = out_manifest.parent / f".{out_manifest.stem}_{ticker}_{label}_tmp.csv"
         tmp_paths.append(tmp)
-        df, diag = build_sec_source_document_manifest(
-            client,
-            tickers=tickers,
-            out_manifest=tmp,
-            docs_dir=docs_dir,
-            forms=("8-K",),
-            start=start,
-            end=end,
-            item_filter=item_filter,
-            limit_per_ticker=limit_per_ticker,
-            include_primary=True,
-            include_exhibits=True,
-            exhibit_pattern=CAPITAL_RAISE_EXHIBIT_PATTERN,
-            sector_benchmark=sector_benchmark,
-            overwrite=overwrite,
-            min_text_chars=min_text_chars,
-        )
+        try:
+            df, diag = build_sec_source_document_manifest(
+                client,
+                tickers=[ticker],
+                out_manifest=tmp,
+                docs_dir=docs_dir,
+                forms=selected_forms,
+                start=start,
+                end=end,
+                item_filter=selected_item_filter,
+                limit_per_ticker=limit_per_ticker,
+                include_primary=True,
+                include_exhibits=include_exhibits,
+                exhibit_pattern=CAPITAL_RAISE_EXHIBIT_PATTERN,
+                sector_benchmark=sector_benchmark,
+                overwrite=overwrite,
+                min_text_chars=min_text_chars,
+            )
+        except Exception as exc:  # pragma: no cover - exact SEC/ticker failures vary
+            combined.add_skip(f"{label} ticker error: {type(exc).__name__}")
+            return
         frames.append(df)
         add_diag(diag)
 
+    if "8-K" in forms:
+        for ticker in tickers:
+            collect_for_ticker(ticker.upper(), selected_forms=("8-K",), selected_item_filter=item_filter, label="8k", include_exhibits=True)
+
     other_forms = [f for f in forms if f != "8-K"]
     if other_forms:
-        tmp = out_manifest.parent / f".{out_manifest.stem}_registration_tmp.csv"
-        tmp_paths.append(tmp)
-        df, diag = build_sec_source_document_manifest(
-            client,
-            tickers=tickers,
-            out_manifest=tmp,
-            docs_dir=docs_dir,
-            forms=other_forms,
-            start=start,
-            end=end,
-            item_filter=None,
-            limit_per_ticker=limit_per_ticker,
-            include_primary=True,
-            include_exhibits=False,
-            exhibit_pattern=CAPITAL_RAISE_EXHIBIT_PATTERN,
-            sector_benchmark=sector_benchmark,
-            overwrite=overwrite,
-            min_text_chars=min_text_chars,
-        )
-        frames.append(df)
-        add_diag(diag)
+        for ticker in tickers:
+            collect_for_ticker(ticker.upper(), selected_forms=tuple(other_forms), selected_item_filter=None, label="registration", include_exhibits=False)
 
     out = pd.concat([f for f in frames if not f.empty], ignore_index=True) if frames else pd.DataFrame()
     if not out.empty:
@@ -737,7 +778,8 @@ def capital_raise_readiness_summary(events: pd.DataFrame, *, min_train: int = 40
 
     review_status = events.get("review_status", pd.Series([""] * len(events), index=events.index)).fillna("").astype(str).str.lower()
     usable = events[~review_status.isin({"rejected", "drop", "dropped"})].copy()
-    reviewed = usable[review_status.eq("reviewed")].copy() if "review_status" in events.columns else usable
+    usable_status = usable.get("review_status", pd.Series([""] * len(usable), index=usable.index)).fillna("").astype(str).str.lower()
+    reviewed = usable[usable_status.eq("reviewed")].copy() if "review_status" in events.columns else usable
     if reviewed.empty:
         reviewed = usable
 
