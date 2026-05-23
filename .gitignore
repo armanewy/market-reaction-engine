@@ -15,6 +15,7 @@ data/events/*
 data/earnings_demo/
 data/extraction_demo/
 data/source_ingestion_demo/
+data/source_docs/
 data/corpus_demo/
 automation_demo_config.json
 automation_run/
