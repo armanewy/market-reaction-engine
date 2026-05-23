@@ -4,9 +4,11 @@ import pandas as pd
 
 from mre.biotech_negative_catalyst import (
     build_negative_catalyst_event_study,
+    build_negative_catalyst_timestamp_repair_audit,
     negative_binary_catalyst_mask,
     negative_catalyst_base_rates,
     run_biotech_negative_catalyst_confirmation,
+    run_biotech_negative_catalyst_timestamp_repair,
 )
 
 
@@ -153,3 +155,83 @@ def test_run_biotech_negative_catalyst_confirmation_writes_required_artifacts(tm
     assert (out / "biotech_negative_catalyst_outlier_report.md").exists()
     assert (out / "biotech_negative_catalyst_execution_stress.md").exists()
     assert (out / "biotech_negative_catalyst_agent_3g_report.md").exists()
+
+
+def test_timestamp_repair_shifts_after_close_to_next_trading_day(tmp_path):
+    dates = pd.bdate_range("2024-01-02", periods=10)
+    prices = tmp_path / "prices"
+    prices.mkdir()
+    _write_price(prices, "AAA", dates)
+    event = pd.DataFrame([_event_row("E1", "AAA", dates[2], "fda_complete_response_letter", -0.10, "fresh")])
+    sources = pd.DataFrame(
+        [
+            {
+                "event_id": "E1",
+                "ticker": "AAA",
+                "source_type": "sec_primary_filing",
+                "event_time": pd.Timestamp(dates[2]).replace(hour=22, minute=0).tz_localize("UTC").isoformat(),
+            }
+        ]
+    )
+
+    audit = build_negative_catalyst_timestamp_repair_audit(event, source_documents=sources, prices_dir=prices)
+
+    assert audit.loc[0, "release_session"] == "after_close"
+    assert audit.loc[0, "reaction_window_start"] == dates[3].date().isoformat()
+    assert bool(audit.loc[0, "original_reaction_window_before_first_tradable"]) is True
+    assert bool(audit.loc[0, "model_eligible"]) is True
+
+
+def test_run_timestamp_repair_writes_required_artifacts(tmp_path):
+    dates = pd.bdate_range("2024-01-02", periods=80)
+    prices = tmp_path / "prices"
+    prices.mkdir()
+    _write_price(prices, "SPY", dates)
+    _write_price(prices, "XBI", dates)
+    _write_price(prices, "AAA", dates)
+    _write_price(prices, "BBB", dates)
+
+    original = pd.DataFrame(
+        [
+            _event_row("O1", "AAA", dates[40], "trial_halt", -0.08, "original"),
+            _event_row("O2", "BBB", dates[42], "safety_signal", -0.05, "original"),
+        ]
+    )
+    fresh = pd.DataFrame(
+        [
+            _event_row("F1", "AAA", dates[44], "fda_complete_response_letter", -0.09, "fresh"),
+            _event_row("F2", "BBB", dates[46], "phase_3_readout", -0.07, "fresh"),
+        ]
+    )
+    original_path = tmp_path / "original.csv"
+    fresh_path = tmp_path / "fresh.csv"
+    original.to_csv(original_path, index=False)
+    fresh.to_csv(fresh_path, index=False)
+    source_rows = []
+    for row in pd.concat([original, fresh], ignore_index=True).itertuples(index=False):
+        ts = pd.Timestamp(row.event_time).normalize().replace(hour=12, minute=0).tz_localize("UTC")
+        source_rows.append({"event_id": row.event_id, "ticker": row.ticker, "source_type": "sec_primary_filing", "event_time": ts.isoformat()})
+    sources_path = tmp_path / "sources.csv"
+    pd.DataFrame(source_rows).to_csv(sources_path, index=False)
+
+    report = run_biotech_negative_catalyst_timestamp_repair(
+        original_event_study_path=original_path,
+        fresh_event_study_path=fresh_path,
+        original_source_documents_path=sources_path,
+        fresh_source_documents_path=None,
+        prices_dir=prices,
+        out_dir=tmp_path / "artifacts",
+        min_train=2,
+    )
+
+    assert report["decision"] in {
+        "timestamp repair passes, ready for corrected confirmation",
+        "underpowered after timestamp repair",
+        "timestamp issue invalidates negative catalyst slice",
+        "duplicate issue found",
+    }
+    out = tmp_path / "artifacts"
+    assert (out / "biotech_negative_catalyst_timestamp_repaired_events.csv").exists()
+    assert (out / "biotech_negative_catalyst_timestamp_audit.csv").exists()
+    assert (out / "biotech_negative_catalyst_duplicate_audit.csv").exists()
+    assert (out / "biotech_negative_catalyst_agent_3i_report.md").exists()

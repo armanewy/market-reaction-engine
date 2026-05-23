@@ -1,17 +1,19 @@
 from __future__ import annotations
 
 import json
-from math import exp
+from math import exp, log
 from pathlib import Path
 from typing import Iterable
+from zoneinfo import ZoneInfo
 
 import numpy as np
 import pandas as pd
 
 from .backtest import make_peer_control_events, make_placebo_events
-from .biotech_audit import build_execution_stress_report, build_timestamp_audit
+from .biotech_audit import build_duplicate_audit, build_execution_stress_report, build_timestamp_audit
 from .biotech_falsification import _control_event_study, _simple_from_log, _summarize_returns
 from .paths import ensure_dir, ensure_parent
+from .prices import load_price_csv
 
 
 NEGATIVE_CATALYST_DECISIONS = {
@@ -21,6 +23,13 @@ NEGATIVE_CATALYST_DECISIONS = {
     "execution unrealistic",
     "outlier-driven",
     "timestamp issue found",
+}
+
+TIMESTAMP_REPAIR_DECISIONS = {
+    "timestamp repair passes, ready for corrected confirmation",
+    "underpowered after timestamp repair",
+    "timestamp issue invalidates negative catalyst slice",
+    "duplicate issue found",
 }
 
 PRIMARY_NEGATIVE_EVENT_TYPES = {
@@ -111,6 +120,80 @@ def _write_json(path: str | Path, payload: dict[str, object]) -> Path:
     p = ensure_parent(path)
     p.write_text(json.dumps(_to_jsonable(payload), indent=2), encoding="utf-8")
     return p
+
+
+def _parse_utc(value: object) -> pd.Timestamp | pd.NaT:
+    text = _clean_text(value)
+    if not text:
+        return pd.NaT
+    return pd.to_datetime(text, errors="coerce", utc=True)
+
+
+def _session_from_eastern(ts: pd.Timestamp | pd.NaT) -> str:
+    if pd.isna(ts):
+        return "unknown"
+    eastern = pd.Timestamp(ts).tz_convert(ZoneInfo("America/New_York"))
+    minutes = eastern.hour * 60 + eastern.minute
+    if minutes < 9 * 60 + 30:
+        return "before_open"
+    if minutes < 16 * 60:
+        return "intraday"
+    return "after_close"
+
+
+def _eastern_iso(ts: pd.Timestamp | pd.NaT) -> str:
+    if pd.isna(ts):
+        return ""
+    return pd.Timestamp(ts).tz_convert(ZoneInfo("America/New_York")).isoformat()
+
+
+def _as_date(value: object) -> pd.Timestamp | pd.NaT:
+    ts = pd.to_datetime(value, errors="coerce")
+    if pd.isna(ts):
+        return pd.NaT
+    return pd.Timestamp(ts).tz_localize(None).normalize()
+
+
+def _first_on_or_after(dates: pd.Series | pd.DatetimeIndex, date: pd.Timestamp) -> pd.Timestamp | pd.NaT:
+    idx = pd.DatetimeIndex(pd.to_datetime(pd.Series(dates), errors="coerce").dropna()).tz_localize(None).normalize().sort_values()
+    if pd.isna(date) or idx.empty:
+        return pd.NaT
+    pos = idx.searchsorted(pd.Timestamp(date).tz_localize(None).normalize(), side="left")
+    if pos >= len(idx):
+        return pd.NaT
+    return pd.Timestamp(idx[pos])
+
+
+def _first_after(dates: pd.Series | pd.DatetimeIndex, date: pd.Timestamp) -> pd.Timestamp | pd.NaT:
+    idx = pd.DatetimeIndex(pd.to_datetime(pd.Series(dates), errors="coerce").dropna()).tz_localize(None).normalize().sort_values()
+    if pd.isna(date) or idx.empty:
+        return pd.NaT
+    pos = idx.searchsorted(pd.Timestamp(date).tz_localize(None).normalize(), side="right")
+    if pos >= len(idx):
+        return pd.NaT
+    return pd.Timestamp(idx[pos])
+
+
+def _trading_open_iso(date: pd.Timestamp | pd.NaT) -> str:
+    if pd.isna(date):
+        return ""
+    naive = pd.Timestamp(date).tz_localize(None).normalize() + pd.Timedelta(hours=9, minutes=30)
+    return naive.tz_localize(ZoneInfo("America/New_York")).isoformat()
+
+
+def _price_return_window(prices: pd.DataFrame, start: pd.Timestamp, horizon: int, *, column: str = "adj_close") -> float:
+    prices = prices.sort_values("date").reset_index(drop=True)
+    idx = prices.index[prices["date"].eq(pd.Timestamp(start).tz_localize(None).normalize())]
+    if len(idx) == 0:
+        return float("nan")
+    pos = int(idx[0])
+    if pos < 1 or pos + int(horizon) - 1 >= len(prices):
+        return float("nan")
+    prev = float(prices.loc[pos - 1, column])
+    end = float(prices.loc[pos + int(horizon) - 1, column])
+    if prev <= 0 or end <= 0:
+        return float("nan")
+    return float(log(end / prev))
 
 
 def _winsorized_mean(series: pd.Series, lower: float = 0.05, upper: float = 0.95) -> float | None:
@@ -606,6 +689,411 @@ def write_negative_catalyst_agent_report(path: str | Path, report: dict[str, obj
     p = ensure_parent(path)
     p.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return p
+
+
+def _source_repair_groups(source_documents: pd.DataFrame) -> dict[str, dict[str, object]]:
+    if source_documents.empty or "event_id" not in source_documents.columns:
+        return {}
+    groups: dict[str, dict[str, object]] = {}
+    for event_id, group in source_documents.groupby(source_documents["event_id"].astype(str), dropna=False):
+        times = [_parse_utc(v) for v in group.get("event_time", pd.Series(dtype=object))]
+        times = [t for t in times if not pd.isna(t)]
+        source_types = sorted({_clean_text(v) for v in group.get("source_type", pd.Series(dtype=object)) if _clean_text(v)})
+        exhibit_times = [
+            _parse_utc(row.get("event_time"))
+            for _, row in group.iterrows()
+            if _clean_text(row.get("source_type")) == "sec_exhibit"
+        ]
+        exhibit_times = [t for t in exhibit_times if not pd.isna(t)]
+        groups[str(event_id)] = {
+            "source_doc_count": int(len(group)),
+            "source_types": source_types,
+            "sec_acceptance_time": min(times) if times else pd.NaT,
+            "press_release_time": min(exhibit_times) if exhibit_times else pd.NaT,
+            "source_url_count": int(group.get("source_url", pd.Series(dtype=object)).dropna().nunique()),
+            "source_hash_count": int(group.get("source_hash", pd.Series(dtype=object)).dropna().nunique()),
+        }
+    return groups
+
+
+def _first_tradable_for_policy(
+    price_dates: pd.Series | pd.DatetimeIndex,
+    event_time_utc: pd.Timestamp | pd.NaT,
+    release_session: str,
+) -> tuple[pd.Timestamp | pd.NaT, list[str]]:
+    notes: list[str] = []
+    if pd.isna(event_time_utc):
+        return pd.NaT, ["missing_selected_event_time"]
+    event_date_et = pd.Timestamp(event_time_utc).tz_convert(ZoneInfo("America/New_York")).tz_localize(None).normalize()
+    session = _clean_text(release_session).lower()
+    if session == "before_open":
+        return _first_on_or_after(price_dates, event_date_et), notes
+    if session == "after_close":
+        return _first_after(price_dates, event_date_et), notes
+    if session == "intraday":
+        notes.append("intraday_without_intraday_prices_shifted_to_next_trading_day")
+        return _first_after(price_dates, event_date_et), notes
+    return pd.NaT, ["unknown_release_session"]
+
+
+def build_negative_catalyst_timestamp_repair_audit(
+    event_study: str | Path | pd.DataFrame,
+    *,
+    source_documents: str | Path | pd.DataFrame | None = None,
+    prices_dir: str | Path = "data/prices/biotech_catalysts",
+    out_path: str | Path | None = None,
+) -> pd.DataFrame:
+    """Build a strict timestamp repair audit for the frozen negative-catalyst slice."""
+    events = _read_csv(event_study)
+    sources = _read_csv(source_documents)
+    source_groups = _source_repair_groups(sources)
+    price_cache: dict[str, pd.DataFrame] = {}
+    rows: list[dict[str, object]] = []
+    for _, row in events.iterrows():
+        event_id = _clean_text(row.get("event_id"))
+        ticker = _clean_text(row.get("ticker")).upper()
+        source_info = source_groups.get(event_id, {})
+        sec_time = source_info.get("sec_acceptance_time", pd.NaT)
+        press_time = source_info.get("press_release_time", pd.NaT)
+        fallback_time = _parse_utc(row.get("event_time"))
+        selected_time = sec_time if not pd.isna(sec_time) else fallback_time
+        selected_source = "sec_acceptance_time" if not pd.isna(sec_time) else "event_time_original"
+        release_session = _session_from_eastern(selected_time)
+        timestamp_notes: list[str] = []
+        timestamp_confidence = "high" if not pd.isna(sec_time) else "low"
+        if not pd.isna(press_time):
+            timestamp_notes.append("press_release_time_not_separate_from_sec_exhibit_acceptance")
+        if selected_source == "event_time_original":
+            timestamp_notes.append("missing_sec_source_timestamp")
+
+        first_tradable = pd.NaT
+        price_status = "ok"
+        try:
+            prices = price_cache.setdefault(ticker, load_price_csv(prices_dir, ticker))
+            first_tradable, policy_notes = _first_tradable_for_policy(prices["date"], selected_time, release_session)
+            timestamp_notes.extend(policy_notes)
+            if release_session == "intraday" and timestamp_confidence == "high":
+                timestamp_confidence = "medium"
+        except Exception as exc:
+            price_status = f"price_lookup_failed:{exc}"
+            timestamp_notes.append(price_status)
+            timestamp_confidence = "low"
+
+        original_reaction_start = _as_date(row.get("reaction_start"))
+        original_before_first = bool(
+            not pd.isna(original_reaction_start)
+            and not pd.isna(first_tradable)
+            and original_reaction_start < first_tradable
+        )
+        if original_before_first:
+            timestamp_notes.append("original_reaction_window_started_before_first_tradable")
+
+        ambiguous = bool(pd.isna(selected_time) or pd.isna(first_tradable) or timestamp_confidence == "low")
+        model_eligible = not ambiguous
+        exclusion_reasons: list[str] = []
+        if ambiguous:
+            exclusion_reasons.append("timestamp_ambiguous")
+        if price_status != "ok":
+            exclusion_reasons.append("price_lookup_failed")
+
+        rows.append(
+            {
+                "event_id": event_id,
+                "ticker": ticker,
+                "dataset_split": _clean_text(row.get("dataset_split")),
+                "biotech_catalyst_event_type": _clean_text(row.get("biotech_catalyst_event_type", row.get("event_type"))),
+                "event_time_original": _clean_text(row.get("event_time")),
+                "original_reaction_window_start": "" if pd.isna(original_reaction_start) else original_reaction_start.date().isoformat(),
+                "sec_acceptance_time": "" if pd.isna(sec_time) else sec_time.isoformat(),
+                "press_release_time": "" if pd.isna(press_time) else press_time.isoformat(),
+                "source_publication_time": "" if pd.isna(sec_time) else sec_time.isoformat(),
+                "selected_event_time": "" if pd.isna(selected_time) else selected_time.isoformat(),
+                "selected_event_time_source": selected_source,
+                "release_session": release_session,
+                "first_tradable_timestamp": _trading_open_iso(first_tradable),
+                "reaction_window_start": "" if pd.isna(first_tradable) else first_tradable.date().isoformat(),
+                "timestamp_confidence": timestamp_confidence,
+                "timestamp_notes": ";".join(timestamp_notes) if timestamp_notes else "none",
+                "original_reaction_window_before_first_tradable": original_before_first,
+                "timestamp_ambiguous": ambiguous,
+                "model_eligible": model_eligible,
+                "model_exclusion_reason": ";".join(exclusion_reasons),
+                "source_doc_count": int(source_info.get("source_doc_count", 0) or 0),
+                "source_types": ";".join(source_info.get("source_types", [])) if source_info else "",
+                "source_url_count": int(source_info.get("source_url_count", 0) or 0),
+                "source_hash_count": int(source_info.get("source_hash_count", 0) or 0),
+            }
+        )
+    out = pd.DataFrame(rows)
+    if out_path:
+        p = ensure_parent(out_path)
+        out.to_csv(p, index=False)
+    return out
+
+
+def _duplicate_repair_flags(events: pd.DataFrame, duplicate_audit: pd.DataFrame) -> pd.DataFrame:
+    if duplicate_audit.empty:
+        out = events.copy()
+        out["duplicate_key"] = ""
+        out["duplicate_group_size"] = 1
+        out["duplicate_canonical_event_id"] = out.get("event_id", pd.Series("", index=out.index)).astype(str)
+        out["duplicate_model_exclusion_flag"] = False
+        out["duplicate_notes"] = "none"
+        return out
+
+    dup = duplicate_audit[["event_id", "duplicate_key", "same_key_event_count", "duplicate_risk_level", "duplicate_findings"]].copy()
+    out = events.merge(dup, on="event_id", how="left")
+    out["duplicate_key"] = out["duplicate_key"].fillna("")
+    out["duplicate_group_size"] = pd.to_numeric(out["same_key_event_count"], errors="coerce").fillna(1).astype(int)
+    out = out.drop(columns=["same_key_event_count"])
+    canonical: dict[str, str] = {}
+    for key, group in out.groupby(out["duplicate_key"].where(out["duplicate_key"].astype(str).ne(""), out["event_id"].astype(str)), dropna=False):
+        ordered = group.sort_values(["selected_event_time", "event_id"], kind="mergesort")
+        canonical[str(key)] = _clean_text(ordered.iloc[0]["event_id"])
+    out["duplicate_canonical_event_id"] = [
+        canonical.get(_clean_text(row.get("duplicate_key")) or _clean_text(row.get("event_id")), _clean_text(row.get("event_id")))
+        for _, row in out.iterrows()
+    ]
+    out["duplicate_model_exclusion_flag"] = (out["duplicate_group_size"] > 1) & (out["event_id"].astype(str) != out["duplicate_canonical_event_id"].astype(str))
+    out["duplicate_notes"] = out.get("duplicate_findings", pd.Series("none", index=out.index)).fillna("none").astype(str)
+    return out
+
+
+def build_negative_catalyst_repaired_events(
+    event_study: str | Path | pd.DataFrame,
+    timestamp_audit: str | Path | pd.DataFrame,
+    duplicate_audit: str | Path | pd.DataFrame,
+    *,
+    prices_dir: str | Path = "data/prices/biotech_catalysts",
+    horizons: Iterable[int] = (1, 3, 10),
+    sector_benchmark: str = "XBI",
+    out_path: str | Path | None = None,
+) -> pd.DataFrame:
+    events = _read_csv(event_study)
+    audit = _read_csv(timestamp_audit)
+    dup = _read_csv(duplicate_audit)
+    if events.empty or audit.empty:
+        out = pd.DataFrame()
+        if out_path:
+            ensure_parent(out_path).write_text("", encoding="utf-8")
+        return out
+
+    merged = events.merge(audit, on=["event_id", "ticker"], how="inner", suffixes=("", "_timestamp_audit"))
+    merged = _duplicate_repair_flags(merged, dup)
+    merged["model_eligible"] = merged["model_eligible"].map(_bool_value) & ~merged["duplicate_model_exclusion_flag"].map(_bool_value)
+    reasons = merged.get("model_exclusion_reason", pd.Series("", index=merged.index)).fillna("").astype(str)
+    duplicate_reason = np.where(merged["duplicate_model_exclusion_flag"].map(_bool_value), "duplicate_non_canonical", "")
+    merged["model_exclusion_reason"] = [
+        ";".join(part for part in [reason, dup_reason] if part)
+        for reason, dup_reason in zip(reasons, duplicate_reason, strict=False)
+    ]
+
+    eligible = merged[merged["model_eligible"].map(_bool_value)].copy()
+    price_cache: dict[str, pd.DataFrame] = {}
+    xbi = load_price_csv(prices_dir, sector_benchmark)
+    for h in horizons:
+        values = []
+        simple_values = []
+        sector_values = []
+        for _, row in eligible.iterrows():
+            start = _as_date(row.get("reaction_window_start"))
+            ticker = _clean_text(row.get("ticker")).upper()
+            try:
+                px = price_cache.setdefault(ticker, load_price_csv(prices_dir, ticker))
+                stock_ret = _price_return_window(px, start, int(h))
+                sector_ret = _price_return_window(xbi, start, int(h))
+                car = stock_ret - sector_ret if pd.notna(stock_ret) and pd.notna(sector_ret) else np.nan
+            except Exception:
+                stock_ret = np.nan
+                sector_ret = np.nan
+                car = np.nan
+            values.append(car)
+            simple_values.append(_simple_from_log(car))
+            sector_values.append(sector_ret)
+        eligible[f"timestamp_repaired_sector_return_h{h}"] = sector_values
+        eligible[f"timestamp_repaired_car_sector_adj_h{h}"] = values
+        eligible[f"timestamp_repaired_car_sector_adj_simple_h{h}"] = simple_values
+
+    if out_path:
+        p = ensure_parent(out_path)
+        eligible.to_csv(p, index=False)
+    return eligible
+
+
+def _descriptive_return_summary(events: pd.DataFrame, *, horizons: Iterable[int] = (1, 3, 10)) -> dict[str, object]:
+    out: dict[str, object] = {}
+    frames = [("combined", events)]
+    if "dataset_split" in events.columns:
+        frames.extend((str(split), group.copy()) for split, group in events.groupby(events["dataset_split"].fillna("unknown").astype(str), dropna=False))
+    for split, frame in frames:
+        item: dict[str, object] = {"rows": int(len(frame))}
+        for h in horizons:
+            col = f"timestamp_repaired_car_sector_adj_h{h}"
+            s = pd.to_numeric(frame.get(col, pd.Series(dtype=float)), errors="coerce").dropna()
+            item[f"h{h}"] = {
+                "n": int(len(s)),
+                "mean": float(s.mean()) if len(s) else None,
+                "median": float(s.median()) if len(s) else None,
+                "sign_accuracy": float((s < 0).mean()) if len(s) else None,
+                "winsorized_mean_5_95": _winsorized_mean(s),
+            }
+        out[split] = item
+    return out
+
+
+def _timestamp_repair_decision(report: dict[str, object]) -> str:
+    if int(report.get("duplicate_rows", 0) or 0) > 0:
+        return "duplicate issue found"
+    if int(report.get("repaired_eligible_rows", 0) or 0) < 45 or int(report.get("fresh_repaired_eligible_rows", 0) or 0) < 20:
+        return "underpowered after timestamp repair"
+    if int(report.get("likely_oos_predictions_after_repair", 0) or 0) < 20:
+        return "underpowered after timestamp repair"
+    if int(report.get("unrepaired_pre_window_leakage_rows", 0) or 0) > 0 or int(report.get("ambiguous_timestamp_rows", 0) or 0) > 0:
+        return "timestamp issue invalidates negative catalyst slice"
+    return "timestamp repair passes, ready for corrected confirmation"
+
+
+def write_negative_catalyst_timestamp_repair_report(path: str | Path, report: dict[str, object]) -> Path:
+    returns = report.get("descriptive_returns", {}) or {}
+    lines = [
+        "# Agent 3I Biotech Negative Catalyst Timestamp Repair",
+        "",
+        f"Decision: {report.get('decision')}.",
+        "",
+        "This is a timestamp repair and audit pass for the frozen negative binary biotech catalyst slice. It does not train a model, tune thresholds, or change parser labels.",
+        "",
+        "## Timestamp Repair",
+        "",
+        f"- total rows: {report.get('total_rows')}",
+        f"- repaired eligible rows: {report.get('repaired_eligible_rows')}",
+        f"- fresh repaired eligible rows: {report.get('fresh_repaired_eligible_rows')}",
+        f"- original repaired eligible rows: {report.get('original_repaired_eligible_rows')}",
+        f"- original pre-window leakage rows found: {report.get('original_pre_window_leakage_rows')}",
+        f"- rows repaired by shifting to first tradable window: {report.get('rows_repaired_by_window_shift')}",
+        f"- rows dropped for unrepaired pre-window leakage: {report.get('unrepaired_pre_window_leakage_rows')}",
+        f"- ambiguous timestamp rows: {report.get('ambiguous_timestamp_rows')}",
+        f"- duplicate rows: {report.get('duplicate_rows')}",
+        f"- likely OOS predictions after repair, min_train={report.get('min_train')}: {report.get('likely_oos_predictions_after_repair')}",
+        "",
+        "## Descriptive Returns",
+        "",
+    ]
+    for split in ("fresh", "original", "combined"):
+        item = returns.get(split, {}) or {}
+        for horizon in ("h1", "h3", "h10"):
+            row = item.get(horizon, {}) or {}
+            lines.append(
+                f"- {split} {horizon}: n={row.get('n')}, mean={row.get('mean')}, "
+                f"median={row.get('median')}, sign_accuracy={row.get('sign_accuracy')}, "
+                f"winsorized_mean={row.get('winsorized_mean_5_95')}"
+            )
+    lines.extend(
+        [
+            "",
+            "## Policy",
+            "",
+            "- before_open uses the same trading day when available.",
+            "- after_close uses the next trading day.",
+            "- intraday rows are conservatively shifted to the next trading day because local data is daily OHLC only.",
+            "- Rows with missing source timestamps or no first-tradable trading day are not model eligible.",
+            "- Duplicate non-canonical rows are not model eligible.",
+            "",
+            "No signal is graduated from this timestamp repair pass.",
+        ]
+    )
+    p = ensure_parent(path)
+    p.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return p
+
+
+def run_biotech_negative_catalyst_timestamp_repair(
+    *,
+    original_event_study_path: str | Path = "artifacts/biotech_catalyst_event_study.csv",
+    fresh_event_study_path: str | Path = "artifacts/biotech_catalyst_fresh_event_study.csv",
+    original_source_documents_path: str | Path | None = "data/events/biotech_catalyst_source_documents.csv",
+    fresh_source_documents_path: str | Path | None = "data/events/biotech_catalyst_fresh_source_documents.csv",
+    prices_dir: str | Path = "data/prices/biotech_catalysts",
+    out_dir: str | Path = "artifacts",
+    horizons: tuple[int, ...] = (1, 3, 10),
+    min_train: int = 40,
+    sector_benchmark: str = "XBI",
+) -> dict[str, object]:
+    out = ensure_dir(out_dir)
+    event_study_path = out / "biotech_negative_catalyst_event_study.csv"
+    repaired_events_path = out / "biotech_negative_catalyst_timestamp_repaired_events.csv"
+    timestamp_audit_path = out / "biotech_negative_catalyst_timestamp_audit.csv"
+    duplicate_audit_path = out / "biotech_negative_catalyst_duplicate_audit.csv"
+    report_path = out / "biotech_negative_catalyst_agent_3i_report.md"
+    json_path = out / "biotech_negative_catalyst_agent_3i_report.json"
+
+    event_study = build_negative_catalyst_event_study(
+        original_event_study_path,
+        fresh_event_study_path,
+        out_path=event_study_path,
+    )
+    if event_study.empty:
+        raise ValueError("No negative binary biotech catalyst rows found for timestamp repair")
+    sources = _concat_sources([original_source_documents_path, fresh_source_documents_path])
+    timestamp_audit = build_negative_catalyst_timestamp_repair_audit(
+        event_study,
+        source_documents=sources,
+        prices_dir=prices_dir,
+        out_path=timestamp_audit_path,
+    )
+    duplicate_audit = build_duplicate_audit(event_study, source_documents=sources, out_path=duplicate_audit_path)
+    repaired = build_negative_catalyst_repaired_events(
+        event_study,
+        timestamp_audit,
+        duplicate_audit,
+        prices_dir=prices_dir,
+        horizons=horizons,
+        sector_benchmark=sector_benchmark,
+        out_path=repaired_events_path,
+    )
+
+    audit_eligible = timestamp_audit[timestamp_audit["model_eligible"].map(_bool_value)].copy()
+    duplicate_rows = int(repaired.get("duplicate_model_exclusion_flag", pd.Series(dtype=bool)).map(_bool_value).sum()) if not repaired.empty else 0
+    unrepaired_pre_window = int(
+        timestamp_audit[
+            timestamp_audit["original_reaction_window_before_first_tradable"].map(_bool_value)
+            & ~timestamp_audit["model_eligible"].map(_bool_value)
+        ].shape[0]
+    )
+    report: dict[str, object] = {
+        "agent": "3I",
+        "domain": "biotech_fda_clinical_catalyst",
+        "total_rows": int(len(timestamp_audit)),
+        "repaired_eligible_rows": int(len(repaired)),
+        "fresh_repaired_eligible_rows": int((repaired.get("dataset_split", pd.Series(dtype=object)).astype(str) == "fresh").sum()) if not repaired.empty else 0,
+        "original_repaired_eligible_rows": int((repaired.get("dataset_split", pd.Series(dtype=object)).astype(str) == "original").sum()) if not repaired.empty else 0,
+        "original_pre_window_leakage_rows": int(timestamp_audit["original_reaction_window_before_first_tradable"].map(_bool_value).sum()),
+        "rows_repaired_by_window_shift": int(timestamp_audit["original_reaction_window_before_first_tradable"].map(_bool_value).sum()),
+        "unrepaired_pre_window_leakage_rows": unrepaired_pre_window,
+        "ambiguous_timestamp_rows": int(timestamp_audit["timestamp_ambiguous"].map(_bool_value).sum()),
+        "duplicate_rows": duplicate_rows,
+        "likely_oos_predictions_after_repair": max(0, int(len(repaired)) - int(min_train)),
+        "min_train": int(min_train),
+        "descriptive_returns": _descriptive_return_summary(repaired, horizons=horizons),
+        "artifacts": {
+            "repaired_events": str(repaired_events_path),
+            "timestamp_audit": str(timestamp_audit_path),
+            "duplicate_audit": str(duplicate_audit_path),
+            "agent_report": str(report_path),
+        },
+        "warnings": [
+            "Do not train a model from this timestamp repair pass.",
+            "No parser labels were changed.",
+            "Corrected confirmation must rerun placebo and peer controls on the repaired event set.",
+        ],
+    }
+    # Keep this for audit transparency even though it is not a gate.
+    report["timestamp_model_eligible_rows_before_duplicate_filter"] = int(len(audit_eligible))
+    report["decision"] = _timestamp_repair_decision(report)
+    if report["decision"] not in TIMESTAMP_REPAIR_DECISIONS:
+        report["decision"] = "timestamp issue invalidates negative catalyst slice"
+    write_negative_catalyst_timestamp_repair_report(report_path, report)
+    _write_json(json_path, report)
+    return report
 
 
 def run_biotech_negative_catalyst_confirmation(

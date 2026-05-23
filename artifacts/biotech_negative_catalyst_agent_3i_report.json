@@ -1,0 +1,102 @@
+{
+  "agent": "3I",
+  "domain": "biotech_fda_clinical_catalyst",
+  "total_rows": 61,
+  "repaired_eligible_rows": 61,
+  "fresh_repaired_eligible_rows": 27,
+  "original_repaired_eligible_rows": 34,
+  "original_pre_window_leakage_rows": 9,
+  "rows_repaired_by_window_shift": 9,
+  "unrepaired_pre_window_leakage_rows": 0,
+  "ambiguous_timestamp_rows": 0,
+  "duplicate_rows": 0,
+  "likely_oos_predictions_after_repair": 21,
+  "min_train": 40,
+  "descriptive_returns": {
+    "combined": {
+      "rows": 61,
+      "h1": {
+        "n": 61,
+        "mean": -0.1325223713181452,
+        "median": -0.04732221619697345,
+        "sign_accuracy": 0.7049180327868853,
+        "winsorized_mean_5_95": -0.129479194928868
+      },
+      "h3": {
+        "n": 61,
+        "mean": -0.12615987404971984,
+        "median": -0.05630417038588027,
+        "sign_accuracy": 0.7049180327868853,
+        "winsorized_mean_5_95": -0.12036235641513819
+      },
+      "h10": {
+        "n": 60,
+        "mean": -0.12117783953022387,
+        "median": -0.08710766371358167,
+        "sign_accuracy": 0.7,
+        "winsorized_mean_5_95": -0.12729250521754518
+      }
+    },
+    "fresh": {
+      "rows": 27,
+      "h1": {
+        "n": 27,
+        "mean": -0.17975140838829554,
+        "median": -0.028595494948143913,
+        "sign_accuracy": 0.6666666666666666,
+        "winsorized_mean_5_95": -0.18865844279342114
+      },
+      "h3": {
+        "n": 27,
+        "mean": -0.1731999196518235,
+        "median": -0.0752032415594843,
+        "sign_accuracy": 0.7407407407407407,
+        "winsorized_mean_5_95": -0.17317076454625582
+      },
+      "h10": {
+        "n": 27,
+        "mean": -0.12641369166200772,
+        "median": -0.04400319197289559,
+        "sign_accuracy": 0.5925925925925926,
+        "winsorized_mean_5_95": -0.13964637522099088
+      }
+    },
+    "original": {
+      "rows": 34,
+      "h1": {
+        "n": 34,
+        "mean": -0.09501695952714354,
+        "median": -0.0490817727537845,
+        "sign_accuracy": 0.7352941176470589,
+        "winsorized_mean_5_95": -0.07590291085274864
+      },
+      "h3": {
+        "n": 34,
+        "mean": -0.08880454371863755,
+        "median": -0.05332595407566789,
+        "sign_accuracy": 0.6764705882352942,
+        "winsorized_mean_5_95": -0.07488087204126334
+      },
+      "h10": {
+        "n": 33,
+        "mean": -0.1168939605133098,
+        "median": -0.09120988939134869,
+        "sign_accuracy": 0.7878787878787878,
+        "winsorized_mean_5_95": -0.11346847706473419
+      }
+    }
+  },
+  "artifacts": {
+    "repaired_events": "artifacts\\biotech_negative_catalyst_timestamp_repaired_events.csv",
+    "timestamp_audit": "artifacts\\biotech_negative_catalyst_timestamp_audit.csv",
+    "duplicate_audit": "artifacts\\biotech_negative_catalyst_duplicate_audit.csv",
+    "agent_report": "artifacts\\biotech_negative_catalyst_agent_3i_report.md"
+  },
+  "warnings": [
+    "Do not train a model from this timestamp repair pass.",
+    "No parser labels were changed.",
+    "Corrected confirmation must rerun placebo and peer controls on the repaired event set."
+  ],
+  "timestamp_model_eligible_rows_before_duplicate_filter": 61,
+  "decision": "timestamp repair passes, ready for corrected confirmation"
+}
