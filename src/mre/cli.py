@@ -15,7 +15,12 @@ from .backtest import (
     simulate_event_strategy,
 )
 from .base_rates import base_rate_table
-from .capital_raises import parse_capital_raise_manifest
+from .capital_raises import (
+    enrich_capital_raise_context,
+    parse_capital_raise_manifest,
+    validate_capital_raise_parser,
+    write_capital_raise_parser_audit_report,
+)
 from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
 from .corpus_demo import generate_corpus_demo_data
 from .demo import generate_demo_data
@@ -413,6 +418,35 @@ def cmd_parse_capital_raises(args: argparse.Namespace) -> None:
         "fact_counts": facts["fact_name"].value_counts(dropna=False).to_dict() if not facts.empty else {},
         "financing_event_type_counts": features["financing_event_type"].value_counts(dropna=False).to_dict() if "financing_event_type" in features.columns else {},
         "warning": "Capital-raise parser output is a review queue, not a model-ready corpus.",
+    }
+    print(json.dumps(payload, indent=2, default=str))
+
+
+def cmd_validate_capital_raise_parser(args: argparse.Namespace) -> None:
+    facts_df = __import__("pandas").read_csv(args.facts)
+    gold_df = __import__("pandas").read_csv(args.gold)
+    errors, report = validate_capital_raise_parser(facts_df, gold_df, out_errors=args.errors_out)
+    report_path = write_capital_raise_parser_audit_report(report, errors, args.report_out)
+    print(json.dumps({"report": str(report_path), "errors": str(args.errors_out), **report}, indent=2, default=str))
+
+
+def cmd_enrich_capital_raise_context(args: argparse.Namespace) -> None:
+    df = enrich_capital_raise_context(
+        args.events,
+        args.prices_dir,
+        args.out,
+        benchmark_ticker=args.benchmark,
+        market_caps_path=args.market_caps,
+        shares_outstanding_path=args.shares_outstanding,
+    )
+    status_counts = df["capital_raise_context_status"].value_counts(dropna=False).to_dict() if "capital_raise_context_status" in df.columns else {}
+    payload = {
+        "rows": int(len(df)),
+        "out": str(args.out),
+        "status_counts": status_counts,
+        "rows_with_discount": int(df["discount_to_last_close_pct"].notna().sum()) if "discount_to_last_close_pct" in df.columns else 0,
+        "rows_with_market_cap_ratio": int(df["financing_amount_pct_market_cap"].notna().sum()) if "financing_amount_pct_market_cap" in df.columns else 0,
+        "warning": "Capital-raise context enrichment is feature preparation only; review rows before modeling.",
     }
     print(json.dumps(payload, indent=2, default=str))
 
@@ -1167,6 +1201,22 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--min-confidence", type=float, default=0.0)
     p.add_argument("--usable-confidence", type=float, default=0.70)
     p.set_defaults(func=cmd_parse_capital_raises)
+
+    p = sub.add_parser("validate-capital-raise-parser", help="Validate capital-raise parser facts against a reviewed gold-set CSV.")
+    p.add_argument("--facts", required=True)
+    p.add_argument("--gold", required=True)
+    p.add_argument("--errors-out", required=True)
+    p.add_argument("--report-out", required=True)
+    p.set_defaults(func=cmd_validate_capital_raise_parser)
+
+    p = sub.add_parser("enrich-capital-raise-context", help="Add discount, dilution, market-cap, and pre-event run-up context to reviewed capital-raise events.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--prices-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--market-caps", default=None, help="Optional CSV with event_id or ticker/asof_date market_cap_before_event.")
+    p.add_argument("--shares-outstanding", default=None, help="Optional CSV with event_id or ticker/asof_date shares_outstanding_before_event.")
+    p.set_defaults(func=cmd_enrich_capital_raise_context)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")
     p.add_argument("--events", required=True)

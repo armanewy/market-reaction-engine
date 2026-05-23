@@ -30,14 +30,28 @@ capital_raise_dilution
 Supported event labels include:
 
 ```text
-equity_offering
+completed_equity_offering
+announced_equity_offering
 registered_direct_offering
-atm_program
-convertible_debt
-shelf_registration
 private_placement
+atm_program_created
+atm_program_usage_reported
+convertible_note_offering
+shelf_registration
+prospectus_supplement
 going_concern_warning
+liquidity_warning
 ```
+
+The important distinction is transaction versus capacity:
+
+```text
+completed_financing_flag
+immediate_dilution_flag
+capacity_only_flag
+```
+
+Shelf registrations and new ATM programs are capacity signals until reviewed evidence shows an actual sale.
 
 ## Parser Command
 
@@ -66,6 +80,76 @@ use_of_proceeds
 underwriter_or_agent
 going_concern_warning
 liquidity_warning
+financing_amount_best
+financing_amount_source
+financing_amount_confidence
+immediate_dilution_flag
+capacity_only_flag
+completed_financing_flag
+```
+
+## Parser Audit Command
+
+Validate against a reviewed gold set before modeling:
+
+```bash
+mre validate-capital-raise-parser \
+  --facts data/events/capital_raise_facts.csv \
+  --gold data/events/capital_raise_parser_gold_set.csv \
+  --errors-out data/events/capital_raise_parser_errors.csv \
+  --report-out data/events/capital_raise_parser_audit_report.md
+```
+
+Gold rows should include:
+
+```text
+event_id
+fact_name
+expected_value
+unit
+tolerance
+```
+
+Suggested audit gates:
+
+```text
+event_type precision >= 95%
+offering_amount/gross_proceeds precision >= 95%
+price_per_share precision >= 90%
+shares_offered precision >= 90%
+convertible_principal precision >= 90%
+ATM capacity precision >= 90%
+no shelf-capacity mistaken for immediate offering amount
+no ATM capacity mistaken for completed sale
+```
+
+## Context Enrichment Command
+
+After review, add economic severity context:
+
+```bash
+mre enrich-capital-raise-context \
+  --events data/events/capital_raise_reviewed_corpus.csv \
+  --prices-dir data/prices/capital_raises \
+  --benchmark SPY \
+  --shares-outstanding data/events/capital_raise_shares_outstanding.csv \
+  --market-caps data/events/capital_raise_market_caps.csv \
+  --out data/events/capital_raise_enriched.csv
+```
+
+This computes:
+
+```text
+last_close_before_event
+discount_to_last_close_pct
+market_cap_before_event
+financing_amount_pct_market_cap
+shares_outstanding_before_event
+estimated_dilution_pct
+atm_capacity_pct_market_cap
+convertible_principal_pct_market_cap
+pre_event_market_adjusted_return_20d
+pre_event_market_adjusted_return_60d
 ```
 
 ## Modeling Gate
@@ -73,7 +157,10 @@ liquidity_warning
 Do not model this domain until there is a reviewed corpus with:
 
 ```text
-80+ reviewed usable events
+100+ reviewed usable events preferred, 80+ minimum
+60+ completed financing events
+40+ rows with financing_amount_pct_market_cap
+40+ rows with discount_to_last_close_pct where applicable
 clear event timestamps
 offering amount or ATM/convertible principal coverage
 price/discount coverage where applicable
