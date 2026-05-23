@@ -24,6 +24,7 @@ from .biotech_catalysts import (
     write_biotech_catalyst_readiness_report,
 )
 from .biotech_falsification import run_biotech_catalyst_falsification_pass
+from .biotech_negative_catalyst import run_biotech_negative_catalyst_confirmation
 from .capital_raises import (
     build_capital_raise_sec_source_documents,
     build_sec_shares_outstanding_context,
@@ -550,6 +551,24 @@ def cmd_biotech_catalyst_falsification_pass(args: argparse.Namespace) -> None:
         cost_bps=args.cost_bps,
         slippage_bps=args.slippage_bps,
         null_iterations=args.null_iterations,
+        seed=args.seed,
+        estimation_window=args.estimation_window,
+        estimation_gap=args.estimation_gap,
+        min_estimation_observations=args.min_estimation_observations,
+    )
+    print(json.dumps(report, indent=2, default=str))
+
+
+def cmd_biotech_negative_catalyst_confirmation(args: argparse.Namespace) -> None:
+    report = run_biotech_negative_catalyst_confirmation(
+        original_event_study_path=args.original_event_study,
+        fresh_event_study_path=args.fresh_event_study,
+        original_source_documents_path=args.original_source_documents,
+        fresh_source_documents_path=args.fresh_source_documents,
+        prices_dir=args.prices_dir,
+        out_dir=args.out_dir,
+        benchmark=args.benchmark,
+        horizons=comma_ints(args.horizons),
         seed=args.seed,
         estimation_window=args.estimation_window,
         estimation_gap=args.estimation_gap,
@@ -1692,6 +1711,21 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--estimation-gap", type=int, default=5)
     p.add_argument("--min-estimation-observations", type=int, default=60)
     p.set_defaults(func=cmd_biotech_catalyst_falsification_pass)
+
+    p = sub.add_parser("biotech-negative-catalyst-confirmation", help="Run Agent 3G negative binary biotech catalyst narrow confirmation.")
+    p.add_argument("--original-event-study", default="artifacts/biotech_catalyst_event_study.csv")
+    p.add_argument("--fresh-event-study", default="artifacts/biotech_catalyst_fresh_event_study.csv")
+    p.add_argument("--original-source-documents", default="data/events/biotech_catalyst_source_documents.csv")
+    p.add_argument("--fresh-source-documents", default="data/events/biotech_catalyst_fresh_source_documents.csv")
+    p.add_argument("--prices-dir", default="data/prices/biotech_catalysts")
+    p.add_argument("--out-dir", default="artifacts")
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--horizons", default="1,3,10")
+    p.add_argument("--seed", type=int, default=777)
+    p.add_argument("--estimation-window", type=int, default=120)
+    p.add_argument("--estimation-gap", type=int, default=5)
+    p.add_argument("--min-estimation-observations", type=int, default=60)
+    p.set_defaults(func=cmd_biotech_negative_catalyst_confirmation)
 
     p = sub.add_parser("government-contract-falsification-pass", help="Run the first government-contract event-study and falsification pass.")
     p.add_argument("--events", default="data/events/government_contract_public_eligible_corpus.csv")

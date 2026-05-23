@@ -1,0 +1,149 @@
+{
+  "random_events": 61,
+  "shifted_events": 56,
+  "random_generation_diagnostics": {
+    "rows_total": 61,
+    "rows_used": 61,
+    "rows_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "shifted_generation_diagnostics": {
+    "rows_total": 61,
+    "rows_used": 56,
+    "rows_skipped": 5,
+    "skipped_reasons": {
+      "no_placebo_date_BEAM": 1,
+      "no_placebo_date_NVAX": 1,
+      "no_placebo_date_NTLA": 1,
+      "no_placebo_date_MIRM": 1,
+      "no_placebo_date_ZYME": 1
+    }
+  },
+  "random_event_study_diagnostics": {
+    "events_total": 61,
+    "events_ok": 55,
+    "events_skipped": 6,
+    "skipped_reasons": {
+      "not enough pre-event history": 6
+    }
+  },
+  "shifted_event_study_diagnostics": {
+    "events_total": 56,
+    "events_ok": 56,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "main_summary": {
+    "label": "negative_main",
+    "rows": 61,
+    "ok_rows": 61,
+    "h1": {
+      "n": 61,
+      "mean_log": -0.11940452729359727,
+      "median_log": -0.0508413293105955,
+      "mean_simple": -0.07897988111591325,
+      "positive_rate": 0.29508196721311475,
+      "mean_abs_log": 0.16654912335743854
+    },
+    "h3": {
+      "n": 61,
+      "mean_log": -0.13356779501094584,
+      "median_log": -0.0752032415594843,
+      "mean_simple": -0.09057611839733724,
+      "positive_rate": 0.29508196721311475,
+      "mean_abs_log": 0.18776680388495182
+    },
+    "h10": {
+      "n": 60,
+      "mean_log": -0.12835609776911994,
+      "median_log": -0.09331083967600201,
+      "mean_simple": -0.08920372977275695,
+      "positive_rate": 0.2833333333333333,
+      "mean_abs_log": 0.20279896932747246
+    }
+  },
+  "random_summary": {
+    "label": "negative_random_placebo",
+    "rows": 61,
+    "ok_rows": 55,
+    "h1": {
+      "n": 55,
+      "mean_log": -0.0022115743069801856,
+      "median_log": -0.0017272877170456998,
+      "mean_simple": -0.0014185334535171477,
+      "positive_rate": 0.41818181818181815,
+      "mean_abs_log": 0.02506843821959224
+    },
+    "h3": {
+      "n": 55,
+      "mean_log": -0.009697289856253651,
+      "median_log": 0.001036093015940917,
+      "mean_simple": -0.00830281867595637,
+      "positive_rate": 0.509090909090909,
+      "mean_abs_log": 0.034722663459853
+    },
+    "h10": {
+      "n": 55,
+      "mean_log": -0.011405676308892738,
+      "median_log": -0.011556869647324093,
+      "mean_simple": -0.0063599570587559925,
+      "positive_rate": 0.4,
+      "mean_abs_log": 0.07499211408611266
+    }
+  },
+  "shifted_summary": {
+    "label": "negative_shifted_placebo",
+    "rows": 56,
+    "ok_rows": 56,
+    "h1": {
+      "n": 56,
+      "mean_log": -0.0008186239409555272,
+      "median_log": 0.0030888501329184364,
+      "mean_simple": -0.0002477629848521924,
+      "positive_rate": 0.5357142857142857,
+      "mean_abs_log": 0.02436039250420551
+    },
+    "h3": {
+      "n": 56,
+      "mean_log": 0.0002123813067981621,
+      "median_log": 0.0006673516933975911,
+      "mean_simple": 0.0018122462065247136,
+      "positive_rate": 0.5,
+      "mean_abs_log": 0.03874617747981161
+    },
+    "h10": {
+      "n": 56,
+      "mean_log": -0.0016672033096302966,
+      "median_log": 0.0019118103367490574,
+      "mean_simple": 0.002431401879304962,
+      "positive_rate": 0.5357142857142857,
+      "mean_abs_log": 0.07107324476989084
+    }
+  },
+  "main_short_strategy": {
+    "n_trades": 61,
+    "mean_net_event_return": 0.07797988111591325,
+    "median_net_event_return": 0.048570536132868436,
+    "hit_rate": 0.7049180327868853,
+    "cumulative_net_return": 5.3652517996284494,
+    "max_drawdown": -0.9460162673205516
+  },
+  "random_short_strategy": {
+    "n_trades": 55,
+    "mean_net_event_return": 0.0004185334535171468,
+    "median_net_event_return": 0.0007257968141466406,
+    "hit_rate": 0.5454545454545454,
+    "cumulative_net_return": -0.018944105417517676,
+    "max_drawdown": -0.2868522515145877
+  },
+  "shifted_short_strategy": {
+    "n_trades": 56,
+    "mean_net_event_return": -0.0007522370151478085,
+    "median_net_event_return": -0.0040936283072069415,
+    "hit_rate": 0.44642857142857145,
+    "cumulative_net_return": -0.07218628852621412,
+    "max_drawdown": -0.40867069584771354
+  },
+  "random_weaker_than_main_h1": true,
+  "shifted_weaker_than_main_h1": true
+}
