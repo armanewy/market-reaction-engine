@@ -5,7 +5,9 @@ import pandas as pd
 from mre.capital_raises import (
     build_capital_raise_sec_source_documents,
     build_sec_shares_outstanding_context,
+    capital_raise_audit_triage_summary,
     capital_raise_readiness_summary,
+    classify_capital_raise_slice,
     enrich_capital_raise_context,
     parse_capital_raise_document,
     parse_capital_raise_manifest,
@@ -292,6 +294,48 @@ def test_validate_capital_raise_parser_reports_failure_taxonomy():
     errors, report = validate_capital_raise_parser(facts, gold)
     assert errors.loc[0, "failure_reason"] == "par_value_false_price"
     assert report["failure_reasons"] == {"par_value_false_price": 1}
+
+
+def test_capital_raise_slice_classifier():
+    assert classify_capital_raise_slice({"financing_event_type": "registered_direct_offering", "security_type": "common_stock"}) == "completed_common_stock"
+    assert classify_capital_raise_slice({"financing_event_type": "atm_program_created"}) == "atm_programs"
+    assert classify_capital_raise_slice({"fact_name": "convertible_principal"}) == "convertible_debt"
+    assert classify_capital_raise_slice({"financing_event_type": "shelf_registration"}) == "shelf_prospectus"
+    assert classify_capital_raise_slice({"financing_event_type": "going_concern_warning"}) == "liquidity_warnings"
+
+
+def test_capital_raise_audit_triage_recommends_selected_slice_hardening():
+    errors = pd.DataFrame(
+        [
+            {"event_id": "E1", "fact_name": "gross_proceeds", "status": "ok", "failure_reason": ""},
+            {"event_id": "E2", "fact_name": "price_per_share", "status": "false_positive", "failure_reason": "warrant_terms_false_common_stock_price"},
+            {"event_id": "E3", "fact_name": "atm_capacity", "status": "false_positive", "failure_reason": "atm_commission_percent_false_capacity"},
+        ]
+    )
+    features = pd.DataFrame(
+        [
+            {"event_id": "E1", "financing_event_type": "registered_direct_offering", "security_type": "common_stock"},
+            {"event_id": "E2", "financing_event_type": "registered_direct_offering", "security_type": "common_stock"},
+            {"event_id": "E3", "financing_event_type": "atm_program_created", "security_type": "common_stock"},
+        ]
+    )
+    enriched_rows = []
+    for i in range(100):
+        enriched_rows.append(
+            {
+                "event_id": f"C{i}",
+                "review_status": "reviewed",
+                "financing_event_type": "registered_direct_offering",
+                "security_type": "common_stock",
+                "completed_financing_flag": True,
+                "financing_amount_pct_market_cap": 0.1,
+                "discount_to_last_close_pct": -0.1,
+            }
+        )
+    summary = capital_raise_audit_triage_summary(errors, features, pd.DataFrame(enriched_rows), min_audit_accuracy=0.90)
+    assert summary["slices"]["completed_common_stock"]["audit_accuracy"] == 0.5
+    assert summary["slices"]["completed_common_stock"]["reviewed_usable_rows"] == 100
+    assert summary["decision"] == "harden selected slice"
 
 
 def test_enrich_capital_raise_context_computes_discount_and_dilution(tmp_path):

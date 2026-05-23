@@ -692,6 +692,219 @@ def classify_capital_raise_audit_failure(row: dict | pd.Series) -> str:
     return "ambiguous_event_type"
 
 
+CAPITAL_RAISE_SLICE_LABELS = {
+    "completed_common_stock": "A. completed common-stock offerings / registered directs",
+    "atm_programs": "B. ATM program creation / ATM usage",
+    "convertible_debt": "C. convertible debt",
+    "shelf_prospectus": "D. shelf registrations / prospectus supplements",
+    "liquidity_warnings": "E. going-concern / liquidity warnings",
+    "other": "Other / ambiguous",
+}
+
+
+def classify_capital_raise_slice(row: dict | pd.Series) -> str:
+    event_type = str(row.get("financing_event_type", row.get("event_subtype", "")) or "").strip()
+    security_type = str(row.get("security_type", "") or "").strip()
+    fact_name = str(row.get("fact_name", "") or "").strip()
+    if event_type in {"going_concern_warning", "liquidity_warning"} or fact_name in {"going_concern_warning", "liquidity_warning"}:
+        return "liquidity_warnings"
+    if event_type == "convertible_note_offering" or security_type == "convertible_notes" or fact_name in {"convertible_principal", "conversion_price"}:
+        return "convertible_debt"
+    if event_type in {"atm_program_created", "atm_program_usage_reported"} or fact_name == "atm_capacity":
+        return "atm_programs"
+    if event_type in {"shelf_registration", "prospectus_supplement"} or fact_name == "shelf_capacity":
+        return "shelf_prospectus"
+    if event_type in {"completed_equity_offering", "registered_direct_offering"} and security_type in {"", "common_stock", "ordinary_shares", "unknown"}:
+        return "completed_common_stock"
+    if event_type == "private_placement" and security_type == "common_stock":
+        return "completed_common_stock"
+    return "other"
+
+
+def _audit_events_with_features(errors: pd.DataFrame, features: pd.DataFrame) -> pd.DataFrame:
+    if errors.empty:
+        out = errors.copy()
+        out["slice"] = pd.Series(dtype=str)
+        return out
+    feature_cols = [
+        c
+        for c in [
+            "event_id",
+            "financing_event_type",
+            "security_type",
+            "completed_financing_flag",
+            "capacity_only_flag",
+            "immediate_dilution_flag",
+        ]
+        if c in features.columns
+    ]
+    merged = errors.merge(features[feature_cols].drop_duplicates("event_id"), on="event_id", how="left") if feature_cols else errors.copy()
+    merged["slice"] = merged.apply(classify_capital_raise_slice, axis=1)
+    return merged
+
+
+def capital_raise_audit_triage_summary(
+    errors: pd.DataFrame,
+    features: pd.DataFrame,
+    enriched: pd.DataFrame | None = None,
+    *,
+    min_audit_accuracy: float = 0.90,
+    min_selected_rows: int = 80,
+    preferred_selected_rows: int = 100,
+    min_completed_rows: int = 60,
+    min_market_cap_rows: int = 40,
+    min_discount_rows: int = 40,
+    min_oos_predictions: int = 30,
+    min_train: int = 40,
+) -> dict[str, object]:
+    audited = _audit_events_with_features(errors, features)
+    slice_rows: dict[str, dict[str, object]] = {}
+    for slice_name in CAPITAL_RAISE_SLICE_LABELS:
+        group = audited[audited["slice"] == slice_name] if "slice" in audited.columns else pd.DataFrame()
+        total = int(len(group))
+        ok = int((group.get("status", pd.Series(dtype=str)) == "ok").sum()) if total else 0
+        slice_rows[slice_name] = {
+            "label": CAPITAL_RAISE_SLICE_LABELS[slice_name],
+            "audit_rows": total,
+            "audit_correct": ok,
+            "audit_accuracy": float(ok / total) if total else 0.0,
+            "audit_pass": bool(total > 0 and ok / total >= min_audit_accuracy),
+            "failure_count": int(total - ok),
+        }
+
+    coverage_rows: dict[str, dict[str, object]] = {}
+    if enriched is not None and not enriched.empty:
+        frame = enriched.copy()
+        frame["slice"] = frame.apply(classify_capital_raise_slice, axis=1)
+        reviewed = frame[frame.get("review_status", pd.Series("", index=frame.index)).astype(str).eq("reviewed")]
+        for slice_name in CAPITAL_RAISE_SLICE_LABELS:
+            group = reviewed[reviewed["slice"] == slice_name]
+            completed = group[group.get("completed_financing_flag", pd.Series(False, index=group.index)).map(_bool_value)] if not group.empty else group
+            coverage_rows[slice_name] = {
+                "reviewed_usable_rows": int(len(group)),
+                "completed_financing_rows": int(len(completed)),
+                "financing_amount_pct_market_cap_rows": int(group.get("financing_amount_pct_market_cap", pd.Series(index=group.index, dtype=float)).notna().sum()) if not group.empty else 0,
+                "discount_to_last_close_pct_rows": int(group.get("discount_to_last_close_pct", pd.Series(index=group.index, dtype=float)).notna().sum()) if not group.empty else 0,
+                "likely_oos_predictions_min_train": max(0, int(len(group)) - int(min_train)),
+            }
+    else:
+        coverage_rows = {k: {} for k in CAPITAL_RAISE_SLICE_LABELS}
+
+    for slice_name, metrics in slice_rows.items():
+        coverage = coverage_rows.get(slice_name, {})
+        metrics.update(coverage)
+        coverage_pass = (
+            int(coverage.get("reviewed_usable_rows", 0)) >= min_selected_rows
+            and int(coverage.get("completed_financing_rows", 0)) >= min_completed_rows
+            and int(coverage.get("financing_amount_pct_market_cap_rows", 0)) >= min_market_cap_rows
+            and int(coverage.get("discount_to_last_close_pct_rows", 0)) >= min_discount_rows
+            and int(coverage.get("likely_oos_predictions_min_train", 0)) >= min_oos_predictions
+        )
+        metrics["model_slice_gate_pass"] = bool(metrics.get("audit_pass", False) and coverage_pass)
+
+    failures_by_reason = {}
+    failures_by_fact = {}
+    failures_by_subtype = {}
+    failures_by_slice = {}
+    if not audited.empty:
+        bad = audited[audited["status"] != "ok"]
+        failures_by_reason = {str(k): int(v) for k, v in bad.get("failure_reason", pd.Series(dtype=str)).value_counts(dropna=False).items()}
+        failures_by_fact = {str(k): int(v) for k, v in bad.get("fact_name", pd.Series(dtype=str)).value_counts(dropna=False).items()}
+        failures_by_subtype = {str(k): int(v) for k, v in bad.get("financing_event_type", pd.Series(dtype=str)).fillna("unknown").value_counts(dropna=False).items()}
+        failures_by_slice = {str(k): int(v) for k, v in bad.get("slice", pd.Series(dtype=str)).value_counts(dropna=False).items()}
+
+    passing_slices = [k for k, v in slice_rows.items() if v.get("model_slice_gate_pass")]
+    audit_passing_slices = [k for k, v in slice_rows.items() if v.get("audit_pass")]
+    if passing_slices:
+        decision = "model-ready slice found"
+        recommendation = f"narrow first model to {CAPITAL_RAISE_SLICE_LABELS[passing_slices[0]]}"
+    elif audit_passing_slices:
+        decision = "continue corpus buildout for clean slice"
+        recommendation = f"parser audit passes for {CAPITAL_RAISE_SLICE_LABELS[audit_passing_slices[0]]}, but model coverage gates are not fully met."
+    else:
+        completed = slice_rows.get("completed_common_stock", {})
+        if int(completed.get("reviewed_usable_rows", 0)) >= min_selected_rows:
+            decision = "harden selected slice"
+            recommendation = "No slice passes audit gates. Harden completed common-stock / registered-direct extraction first; it has the most model-relevant transaction payload."
+        else:
+            decision = "continue corpus buildout"
+            recommendation = "No slice passes audit gates or model coverage gates. Build or audit a narrower corpus before modeling."
+
+    return {
+        "gold_rows": int(len(audited)),
+        "correct_rows": int((audited.get("status", pd.Series(dtype=str)) == "ok").sum()) if not audited.empty else 0,
+        "overall_accuracy": float((audited.get("status", pd.Series(dtype=str)) == "ok").mean()) if not audited.empty else 0.0,
+        "failures_by_reason": failures_by_reason,
+        "failures_by_fact_type": failures_by_fact,
+        "failures_by_event_subtype": failures_by_subtype,
+        "failures_by_slice": failures_by_slice,
+        "slices": slice_rows,
+        "decision": decision,
+        "recommendation": recommendation,
+    }
+
+
+def write_capital_raise_audit_triage_report(
+    errors_path: str | Path,
+    features_path: str | Path,
+    enriched_path: str | Path | None,
+    out_path: str | Path,
+) -> dict[str, object]:
+    errors = pd.read_csv(errors_path)
+    features = pd.read_csv(features_path)
+    enriched = _load_optional_context(enriched_path) if enriched_path else pd.DataFrame()
+    summary = capital_raise_audit_triage_summary(errors, features, enriched)
+    out = ensure_parent(out_path)
+    lines = [
+        "# Capital Raise Audit Triage and Scope Narrowing",
+        "",
+        "This is a parser/data-readiness report, not a prediction result.",
+        "",
+        "## Decision",
+        "",
+        f"- decision: {summary['decision']}",
+        f"- recommendation: {summary['recommendation']}",
+        "",
+        "## Overall Audit",
+        "",
+        f"- gold_rows: {summary['gold_rows']}",
+        f"- correct_rows: {summary['correct_rows']}",
+        f"- overall_accuracy: {summary['overall_accuracy']:.3f}",
+        "",
+        "## Failure Counts By Class",
+        "",
+    ]
+    for key, val in summary["failures_by_reason"].items():
+        lines.append(f"- {key}: {val}")
+    lines.extend(["", "## Failure Counts By Fact Type", ""])
+    for key, val in summary["failures_by_fact_type"].items():
+        lines.append(f"- {key}: {val}")
+    lines.extend(["", "## Failure Counts By Event Subtype", ""])
+    for key, val in summary["failures_by_event_subtype"].items():
+        lines.append(f"- {key}: {val}")
+    lines.extend(["", "## Slice Audit And Coverage", ""])
+    for slice_name, metrics in summary["slices"].items():
+        lines.extend(
+            [
+                f"### {metrics['label']}",
+                "",
+                f"- audit_rows: {metrics.get('audit_rows', 0)}",
+                f"- audit_correct: {metrics.get('audit_correct', 0)}",
+                f"- audit_accuracy: {metrics.get('audit_accuracy', 0):.3f}",
+                f"- audit_pass: {'PASS' if metrics.get('audit_pass') else 'FAIL'}",
+                f"- reviewed_usable_rows: {metrics.get('reviewed_usable_rows', 0)}",
+                f"- completed_financing_rows: {metrics.get('completed_financing_rows', 0)}",
+                f"- financing_amount_pct_market_cap_rows: {metrics.get('financing_amount_pct_market_cap_rows', 0)}",
+                f"- discount_to_last_close_pct_rows: {metrics.get('discount_to_last_close_pct_rows', 0)}",
+                f"- likely_oos_predictions_min_train: {metrics.get('likely_oos_predictions_min_train', 0)}",
+                f"- model_slice_gate_pass: {'PASS' if metrics.get('model_slice_gate_pass') else 'FAIL'}",
+                "",
+            ]
+        )
+    out.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    return summary
+
+
 def validate_capital_raise_parser(
     facts: pd.DataFrame,
     gold: pd.DataFrame,
