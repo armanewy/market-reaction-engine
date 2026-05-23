@@ -28,6 +28,7 @@ from .event_study import run_event_study
 from .events import event_tickers, load_events, make_event_template
 from .exhibit99_parser import parse_exhibit99_manifest, pivot_parsed_facts, validate_parser_against_gold
 from .expectations import enrich_expectations, make_expectations_template, merge_external_expectations
+from .management_guidance import build_management_guidance_bridge, write_management_guidance_bridge_report
 from .modeling import find_analogs, predict_direction, train_direction_model, walk_forward_direction_model
 from .options import make_options_template, merge_options_implied_moves
 from .pipeline import run_pipeline, write_pipeline_template
@@ -345,6 +346,20 @@ def cmd_validate_exhibit99_parser(args: argparse.Namespace) -> None:
             lines.append(f"- {row['event_id']} / {row['fact_name']} / {row['period_role']}: {row['status']} expected={row['expected_value']} actual={row['actual_value']}")
     report_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(json.dumps({"report": str(report_path), "errors": str(args.errors_out), **report}, indent=2, default=str))
+
+
+def cmd_management_guidance_bridge(args: argparse.Namespace) -> None:
+    bridge, diag = build_management_guidance_bridge(
+        args.features,
+        args.out,
+        events_path=args.events,
+        min_confidence=args.min_confidence,
+        min_actual_to_prior_ratio=args.min_actual_to_prior_ratio,
+        max_actual_to_prior_ratio=args.max_actual_to_prior_ratio,
+    )
+    if args.report_out:
+        write_management_guidance_bridge_report(bridge, diag, args.report_out)
+    print(json.dumps({"rows": int(len(bridge)), "out": str(args.out), "report": str(args.report_out or ""), "diagnostics": diag.to_dict()}, indent=2, default=str))
 
 
 def cmd_enrich_expectations(args: argparse.Namespace) -> None:
@@ -1054,6 +1069,16 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--errors-out", required=True)
     p.add_argument("--report-out", required=True)
     p.set_defaults(func=cmd_validate_exhibit99_parser)
+
+    p = sub.add_parser("management-guidance-bridge", help="Build actual-vs-prior-management-guidance surprise rows from parsed Exhibit 99 features.")
+    p.add_argument("--features", required=True, help="Parsed Exhibit 99 feature CSV.")
+    p.add_argument("--events", default=None, help="Optional reviewed event CSV for release_session/source metadata.")
+    p.add_argument("--out", required=True)
+    p.add_argument("--report-out", default=None)
+    p.add_argument("--min-confidence", type=float, default=0.80)
+    p.add_argument("--min-actual-to-prior-ratio", type=float, default=0.50)
+    p.add_argument("--max-actual-to-prior-ratio", type=float, default=1.75)
+    p.set_defaults(func=cmd_management_guidance_bridge)
 
     p = sub.add_parser("enrich-expectations", help="Add pre-event price/expectation context features to an event CSV.")
     p.add_argument("--events", required=True)
