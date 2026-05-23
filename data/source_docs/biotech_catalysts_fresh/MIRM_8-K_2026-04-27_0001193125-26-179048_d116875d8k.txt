@@ -1,0 +1,667 @@
+8-K
+
+false 0001759425 0001759425 2026-04-27 2026-04-27
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 27, 2026
+
+ 
+
+ 
+
+Mirum Pharmaceuticals, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38981
+
+ 
+
+83-1281555
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+989 East Hillsdale Boulevard
+
+ 
+
+ 
+
+Suite 300
+
+ 
+
+ 
+
+Foster City, California
+
+ 
+
+ 
+
+94404
+
+(Address of principal executive offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (650) 667-4085
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.0001 per share
+
+ 
+
+MIRM
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On April 27, 2026, Mirum Pharmaceuticals, Inc. (the “Company”) announced the primary endpoint was met in the Phase 2b portion of the AZURE-1 study evaluating brelovitug, an investigational monoclonal antibody designed to bind hepatitis B surface antigen (HBsAg), for the treatment of chronic hepatitis delta virus (HDV).
+
+The Phase 2b portion of the AZURE-1 study included the first 53 patients evaluated at Week 24 of treatment.
+
+At Week 24, treatment with brelovitug demonstrated robust antiviral activity across both dose groups. 100% of patients in the 300 mg once weekly (QW) arm and 75% of patients in the 900 mg once every four weeks (Q4W) arm achieved virologic response (≥2 log10 reduction in HDV RNA from baseline or undetectable HDV RNA [<LLOQ, TND]), as compared to 0% in the delayed treatment arm.
+
+Consistent with these antiviral effects, the primary composite endpoint of virologic response and alanine aminotransferase (ALT) normalization was achieved in 45% and 35% of patients in the 300 mg QW and 900 mg Q4W arms, respectively, as compared to 0% of patients in the delayed treatment arm. After 24 weeks of treatment, further reductions in ALT and HDV RNA levels have been observed. These results support the potential of brelovitug as a single agent therapy to treat HDV.
+
+The efficacy results by treatment arm in the Phase 2b portion of AZURE-1 at Week 24 are presented below in Key Efficacy Endpoints.
+
+Treatment with brelovitug was well tolerated across dose groups. The safety profile summary is presented below in Summary of Safety.
+
+The full results from the Phase 2b portion of the AZURE-1 study will be presented in a late-breaking poster presentation at the European Association for the Study of the Liver (EASL) Congress, May 27-30, 2026. Topline data from the Phase 3 AZURE-1 and AZURE-4 studies are expected in H2 2026, with potential BLA submission and commercial launch in the U.S. in 2027.
+
+Key Efficacy Endpoints
+
+ 
+
+Endpoint
+
+  
+
+300 mg QW
+
+(n=20)
+
+ 
+
+900 mg Q4W
+
+(n=20)
+
+ 
+
+Delayed
+
+Treatment Arm
+
+(n=12)
+
+Virologic Response
+
+  
+
+ 
+
+ 
+
+(HDV RNA ≥2 log10 reduction or TND)
+
+  
+
+100%
+
+ 
+
+75%
+
+ 
+
+0%
+
+HDV RNA <LLOQ, TND
+
+  
+
+30%
+
+ 
+
+5%
+
+ 
+
+0%
+
+ALT Normalization
+
+  
+
+45%
+
+ 
+
+40%
+
+ 
+
+8%
+
+Primary Endpoint
+
+  
+
+ 
+
+ 
+
+(Virologic Response + ALT Normalization)
+
+  
+
+45%
+
+ 
+
+35%
+
+ 
+
+0%
+
+P-value*
+
+  
+
+0.003
+
+ 
+
+0.024
+
+ 
+
+Full analysis set, participants receiving at least one post baseline efficacy assessment
+
+*
+
+P-values compare each treatment group against delayed treatment using a stratum-adjusted Cochran-Mantel-Haenszel (CMH) test.
+
+ 
+
+2
+
+Summary of Safety
+
+ 
+
+Participants who experienced, n (%)
+
+  
+
+300 mg QW
+
+N=21
+
+ 
+
+ 
+
+900 mg Q4W
+
+N=20
+
+ 
+
+ 
+
+Delayed
+
+Treatment Arm
+
+N=12
+
+ 
+
+AEs
+
+  
+
+ 
+
+ 
+
+Any
+
+  
+
+ 
+
+11 (52)
+
+ 
+
+ 
+
+ 
+
+10 (50)
+
+ 
+
+ 
+
+ 
+
+3 (25)
+
+ 
+
+Related to treatment
+
+  
+
+ 
+
+7 (33)
+
+ 
+
+ 
+
+ 
+
+7 (35)
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Grade 3+
+
+  
+
+ 
+
+ 
+
+Any
+
+  
+
+ 
+
+1 (5)†
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Related to treatment
+
+  
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Serious
+
+  
+
+ 
+
+ 
+
+Any
+
+  
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+1 (5)#
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Related to treatment
+
+  
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+AE Leading to Discontinuation of study drug
+
+  
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Injection site reactions
+
+  
+
+ 
+
+3 (14)
+
+ 
+
+ 
+
+ 
+
+4 (20)
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Flu-like Symptoms
+
+  
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+1 (5)
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+† 
+
+Grade 3 AE of musculoskeletal pain, not related
+
+# 
+
+Hospitalization for liver cirrhosis, class B, in a patient with recent history of ascites and hypoalbuminemia, not related and resolved
+
+Forward-Looking Statements
+
+Certain statements contained in this report are forward-looking statements that involve a number of risks and uncertainties. Such forward-looking statements include, without limitation, statements regarding the potential benefits of brelovitug and the expected timing of topline data for the AZURE studies and potential BLA submission and commercial launch. The inclusion of forward-looking statements should not be regarded as a representation by the Company that any of these results will be achieved. Actual results may differ from those set forth in this report due to the risks and uncertainties associated with research and development of pharmaceutical product candidates, as well as risks and uncertainties inherent in the Company’s business, including those described in the Company’s other filings with the U.S. Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof, and the Company undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date hereof. All forward-looking statements are qualified in their entirety by this cautionary statement. This caution is made under the safe harbor provisions of Section 21E of the Private Securities Litigation Reform Act of 1995.
+
+ 
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Mirum Pharmaceuticals, Inc.
+
+Date: April 27, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+Chief Executive Officer
+
+ 
+
+4

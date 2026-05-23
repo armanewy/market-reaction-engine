@@ -1,0 +1,286 @@
+EX-99.2
+3
+tmb-20230621xex99d2.htm
+EX-99.2
+
+Exhibit 99.2
+
+Patient Living
+with HD
+Matthew Klein, M.D.
+CEO
+June 2023
+PIVOT
+-HD
+Interim Data
+Update
+
+2 PIVOT-HD Interim Data Update
+Forward-Looking Statements
+This presentation contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. All statements contained in this
+presentation, other than statements of historic fact, are forward-looking statements, including statements with respect to the future expectations, plans and prospects for
+PTC, PTC's strategy, including with respect to the expected timing of clinical trials and studies, availability of data, regulatory submissions and responses and other
+matters, future operations, future financial position, future revenues, projected costs; and the objectives of management. Other forward-looking statements may be
+identified by the words, "guidance", "plan," "anticipate," "believe," "estimate," "expect," "intend," "may," "target," "potential," "will," "would," "could," "should," "continue," and
+similar expressions.
+PTC's actual results, performance or achievements could differ materially from those expressed or implied by forward-looking statements it makes as a result of a variety
+of risks and uncertainties, including those related to: the outcome of pricing, coverage and reimbursement negotiations with third party payors for PTC's products or
+product candidates that PTC commercializes or may commercialize in the future; significant business effects, including the effects of industry, market, economic, political or
+regulatory conditions; changes in tax and other laws, regulations, rates and policies; the eligible patient base and commercial potential of PTC's products and product
+candidates; PTC's scientific approach and general development progress; the sufficiency of PTC's cash resources and its ability to obtain adequate financing in the future
+for its foreseeable and unforeseeable operating expenses and capital expenditures; and the factors discussed in the "Risk Factors" section of PTC's most recent Annual
+Report on Form 10-K, as well as any updates to these risk factors filed from time to time in PTC's other filings with the SEC. You are urged to carefully consider all such
+factors.
+As with any pharmaceutical under development, there are significant risks in the development, regulatory approval and commercialization of new products. There are no
+guarantees that any product will receive or maintain regulatory approval in any territory, or prove to be commercially successful.
+The forward-looking statements contained herein represent PTC's views only as of the date of this presentation and PTC does not undertake or plan to update or revise
+any such forward-looking statements to reflect actual results or changes in plans, prospects, assumptions, estimates or projections, or other circumstances occurring after
+the date of this presentation except as required by law.
+
+Novel Chemical
+Library
+HTSpliceseq
+Databases of
+Splicing Targets
+PTC518 developed from PTC's
+validated splicing platform
+PTC518 Program Developed from PTCs
+Validated Splicing Platform
+PTC518 Program Leveraged Learnings from
+Successful Development of Evrysdi
+3 PIVOT-HD Interim Data Update
+• Importance of molecule selectivity and specificity
+• CNS bioavailability with broad brain
+biodistribution
+• Leverage systemic exposure to confirm
+target engagement and splicing activity and
+inform dose selection
+Key learnings from successful
+development of Evrysdi
+Expert Team
+
+4 PIVOT-HD Interim Data Update
+Key Objectives for 12-Week Interim Data Readout
+Confirm the relationship of
+HTT mRNA to protein
+lowering at steady state
+Define CSF/plasma drug
+exposure in Huntington’s
+disease patients
+Determine HTT protein
+lowering after 12 weeks of
+treatment with PTC518 at
+5mg and 10mg
+Evaluate PTC518 safety
+and tolerability
+
+12-Week Interim Data Met Key Objectives
+5 PIVOT-HD Interim Data Update
+PTC518 treatment resulted
+in dose-dependent
+lowering of HTT mRNA and
+protein levels in blood cells
+PTC518 demonstrated
+desired CSF exposure
+with higher concentrations
+of free drug in the CSF than
+plasma
+PTC518 was well
+tolerated with no
+treatment-related serious
+adverse events and no
+reports of peripheral
+neuropathy
+CSF NfL levels remained
+stable after 12 weeks of
+treatment with no
+treatment-related spikes
+
+PIVOT-HD Study Design
+6 PIVOT-HD Interim Data Update
+12 weeks 9 months
+PTC518 5mg
+PTC518 10mg
+PTC518 20mg
+R
+Part 1 Part 2
+Placebo
+PTC518 5mg
+PTC518 10mg
+PTC518 20mg
+Primary Endpoints
+• Safety and tolerability of PTC518
+• Percent reduction in HTT mRNA
+and protein in blood
+Secondary Endpoints
+• Percent reduction in mHTT
+protein in CSF
+• Changes in neurofilament light
+chain (NfL) in plasma and CSF
+• Change in brain volume on
+volumetric MRI imaging
+Optional Dose Optional Dose
+
+PIVOT-HD Trial Populations
+7 PIVOT-HD Interim Data Update
+• Ambulatory Huntington’s patients
+age 25 and older
+• CAG repeats 40-50 inclusive
+• Motor and Cognitive Function:
+- UHDRS-IS score of 100
+- UHDRS TFC score of 13
+• PINHD score of 0.18 - 4.93
+- Multivariate calculation including
+SDMT, TMS, age, CAG
+Inclusion Criteria
+Stage 2
+Inclusion Criteria
+Early Stage 3
+• Ambulatory Huntington’s patients
+age 25 and older
+• CAG repeats 40-50 inclusive
+• Motor and Cognitive Function:
+- UHDRS-IS score of less than 100
+and/or
+- UHDRS TFC score of 11 or 12
+
+PIVOT-HD Interim Analysis Patient Characteristics
+8 PIVOT-HD Interim Data Update
+Category PTC518 5mg
+(N=13)
+PTC518 10mg
+(N=11)
+Placebo
+(N=9)
+Overall
+(N=33)
+Age (years) mean 46.2 47.4 46.9 46.8
+Gender, n (%)
+Male 5 (38.5%) 6 (54.5%) 6 (66.7%) 17 (51.5%)
+Female 8 (61.5%) 5 (45.5%) 3 (33.3%) 16 (48.5%)
+CAG length
+Mean (SD) 44.08 (1.9) 43.73 (2.4) 44.11 (2.0) 43.97 (2.1)
+Min – Max 42 - 49 42 - 50 42 - 47 42 – 50
+TFC (Total Functional Capacity) Score
+Mean 13 13 13 13
+
+PTC518 Treatment Resulted in Dose-Dependent
+Blood HTT Protein Lowering at Week 12
+9 PIVOT-HD Interim Data Update
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+Placebo PT518 5mg PTC518 10mg
+Mean % change from baseline blood
+mHTT
+(Week 12)
++12%
+Mean % change from baseline mRNA (Week 12)
+-27% -29%
+-21%
+-30%
+Dose-dependent
+lowering of
+HTT protein
+mRNA and protein
+lowering ~1:1
+PTC518 5mg
+Note: Error bars represent the standard error of the mean.
+
+PTC518 CSF Drug Levels Confirm Targeted
+CNS Exposure at Week 12
+10 PIVOT-HD Interim Data Update
+Ratio of CSF
+to Free Plasma
+Treatment Concentration
+Group
+Mean CSF
+Concentration
+(ng/mL)
+Mean Free Plasma
+Concentration
+(ng/mL)
+5mg 0.923 0.917
+10mg 2.037 1.402
+5mg 1.1 to 1
+10mg 1.5 to 1
+
+PTC518 Treatment Demonstrated
+to Be Well Tolerated
+11 PIVOT-HD Interim Data Update
+Most common adverse events were upper
+respiratory tract infection and headache
+PTC518 was well tolerated, with no treatment-related serious adverse events and no
+adverse events leading to discontinuation
+Similar adverse event profile across
+treatment groups, including placebo group
+
+PTC518 Treatment Demonstrated
+to Be Well Tolerated
+12 PIVOT-HD Interim Data Update
+Category PTC518 5mg
+(N = 13)
+PTC518 10mg
+(N=11)
+Placebo
+(N=9)
+Overall
+(N=33)
+Subjects with at least one TEAE 9 (69.2) 7 (63.6) 6 (66.7) 22 (66.7)
+Subjects with at least one serious TEAE 0 0 0 0
+Subjects with at least one TEAEs leading to study
+treatment discontinuation 0 0 0 0
+Subjects with at least one TEAE leading to death 0 0 0 0
+Subjects with at least one treatment related AE# 3 (23.1) 4 (36.4) 1 (11.1) 8 (24.2)
+Subjects with at least one TEAEs by
+maximum severity N (%) 9 (69.2) 7 (63.6) 6 (66.7) 22 (66.7)
+Grade 1 4 2 5 11
+Grade 2 4 5 1 10
+Grade 3 1* 0 0 1
+Grade 4/5 0 0 0 0
+* Unrelated to drug
+# Judged by the investigator to be probably or possibly related to treatment
+
+CSF NfL Levels Trended Lower in Subjects
+Treated with PTC518
+13 PIVOT-HD Interim Data Update
+Mean Change in CSF NfL Levels from Baseline to Week 12
+Note: One patient excluded due to non-treatment related viral syndrome. Note: Error bars represent the standard error of the mean.
+-20
+-15
+-10
+-5
+0
+5
+10
+Placebo PTC518 5mg PTC518 10mg
+CSF NfL % change from baseline (Week 12)
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+0
+Individual Subject CSF NfL Trajectories
+Baseline
+CSF NfL Levels (pg/ml)
+Week 12
+
+Summary and Next Steps
+14 PIVOT-HD Interim Data Update
+Dose-dependent lowering
+of HTT protein levels, safety,
+and CNS biodistribution
+objectives achieved
+Share safety data with
+FDA to support US
+enrollment in PIVOT-HD
+Continue enrollment
+in Stage 2 and
+early Stage 3
+patient cohorts

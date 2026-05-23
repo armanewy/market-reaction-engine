@@ -1,0 +1,230 @@
+EX-99.2
+3
+d96003dex992.htm
+EX-99.2
+
+EX-99.2
+
+Clinical Program Update: ARV-471 &
+ARV-110 14 December 2020 Exhibit 99.2
+
+Safe harbor and forward-looking
+statements This presentation contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995 that involve substantial risks and uncertainties, including statements regarding the development and
+regulatory status of our product candidates, such as statements with respect to our lead product candidates, ARV-110, ARV-471 and ARV-766 and other candidates in our pipeline, and the timing of clinical trials and data from those trials and
+plans for registration for our product candidates, and our discovery programs that may lead to our development of additional product candidates, the potential utility of our technology and therapeutic potential of our product candidates, and
+potential commercialization of any of our product candidates. All statements, other than statements of historical facts, contained in this presentation, including statements regarding our strategy, future operations, future financial position,
+future revenues, projected costs, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,”
+“may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,”
+“continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations
+disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking
+statements we make as a result of various risks and uncertainties, including but not limited to: whether we will be able to successfully conduct Phase 1/2 clinical trials for ARV-110 and ARV-471, complete other clinical trials for our product
+candidates, and receive results from our clinical trials on our expected timelines, or at all, whether our cash resources will be sufficient to fund our foreseeable and unforeseeable operating expenses and capital expenditure requirements, and other
+important factors, any of which could cause our actual results to differ from those contained in the forward-looking statements, discussed in the “Risk Factors” section of our quarterly and annual reports on file with the Securities and
+Exchange Commission. The forward-looking statements contained in this presentation reflect our current views as of the date of this presentation with respect to future events, and we assume no obligation to update any forward-looking statements
+except as required by applicable law. The Arvinas name and logo are our trademarks. We also own the service mark and the registered U.S. trademark for PROTAC®. The trademarks, trade names and service marks appearing in this presentation are the
+property of their respective owners. We have omitted the ® and ™ designations, as applicable, for the trademarks named in this presentation. This presentation also contains estimates and other statistical data made by independent parties
+and by us relating to market size and other data about our industry. This data involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such data and estimates. In addition, projections, assumptions and
+estimates of our future performance and the future performance of the markets in which we operate are necessarily subject to a high degree of uncertainty and risk.
+
+Introduction
+
+Agenda Topic Participant Introduction
+John G. Houston, Ph.D. President and Chief Executive Officer ARV-471 Clinical Data Update Ron Peck, M.D. Chief Medical Officer ARV-110 Clinical Data Update Ian Taylor, Ph.D. Chief Scientific Officer Conclusion John G. Houston, Ph.D. President and
+Chief Executive Officer Q&A ?
+
+ARV-471 and ARV-110: Opportunities to
+benefit patients in large areas of unmet need † US incidence data from SEER database AR, androgen receptor; ER, estrogen receptor ARV-471 Breast Cancer Estrogen receptor-degrading PROTAC® Initiated Phase 2 ARDENT trial; two potential
+paths to registration: 3L molecularly defined, and broader 1L/2L >250k patients† per year with high unmet need AR degradation and clear signals of efficacy observed in late-line mCRPC Extensive molecular profiling of tumors to understand
+drivers of resistance ARV-110 Prostate Cancer Androgen receptor-degrading PROTAC® Potential best profile of any ER-targeting therapy: Tolerability ER degradation Clinical benefit Phase 1 ongoing in a highly refractory patient population 1
+Potential future endocrine therapy of choice in both adjuvant and metastatic settings >200k patients† per year with high unmet need
+
+ARV-471 Clinical Data Update
+
+ARV-471: Potential best-in-class
+estrogen receptor-targeting therapy Potential endocrine therapy for ER+/HER2- breast cancer; >200k patients per year in the US alone† Outstanding tolerability profile observed, with potential for adjuvant and metastatic breast cancer
+settings Better ER degradation than fulvestrant and clinical-stage SERDs†† Robust signals of efficacy in a patient population expected to have highly ER-independent disease, due to 100% pretreatment with CDK4/6 inhibitors One confirmed
+partial response, and two unconfirmed partial responses 42% clinical benefit rate Phase 1 dose escalation continues † US incidence data from SEER database. †† As compared to previously reported data
+
+We are developing ARV-471 to be the
+endocrine backbone of choice for ER+/HER2- breast cancer treatment  US ER+/HER2- Breast Cancer Treatment Paradigm (# of US patients†) Adjuvant (Post-Surgical) Breast Cancer (~160K) Metastatic Breast Cancer (~50K) Second/Third Line First
+Line Clinical Limitations Endocrine Backbone Aromatase Inhibitors (AI) Fulvestrant or exemestane Add-on therapies CDK4/6 inhibitors mTOR inhibitors or Pi3K3 inhibitors Fulvestrant Opportunity for ARV-471 Expansion Near-term † US incidence from
+SEER Database CDK: cyclin-dependent kinases, Pi3K: phosphoinositide 3-kinase; mTOR: mammalian target of rapamycin Future state: ARV-471 Designed to be an oral, safe, and high-potency ER degrader
+
+ARV-471 First-in-Human study is a
+traditional “3+3” dose escalation study Design “3 + 3” dose escalation ARV-471 administered orally, once daily with food Starting dose: 30 mg Endpoints Primary: Maximum tolerated dose and recommended Phase 2 dose Key
+Secondary: Safety and tolerability Pharmacokinetics Pharmacodynamics: Quantify ER in paired biopsies (baseline and on-treatment)  Efficacy: RECIST, Clinical Benefit Rate (CBR) defined as confirmed PRs and CRs + ≥ 24-week
+SD
+
+All Phase 1 patients were post-
+CDK4/6 inhibitor treatment; high rate of ER-independent resistance Phase 1 Inclusion Criteria ER+/HER2- advanced breast cancer Disease progression on CDK4/6 inhibitor ≥ 2 prior endocrine therapies in any setting Up to 3 prior chemotherapy
+regimens in advanced breast cancer Believed to be the only trial of an ER-targeting therapy requiring prior CDK4/6 treatment After CDK4/6 inhibitor treatment, ~66% of breast cancers have ER-independent mechanisms of resistance† † Wander
+2020; †† Juric SABCS 2018 Subset Analysis of SOLAR1. CDK4/6i, cyclin-dependent kinase 4/6 inhibitor. PFS, progression-free survival; TTF, time to treatment failure; CBR, clinical benefit rate Outcomes are poor following CDK4/6 inhibitor
+therapy, e.g., for fulvestrant: Median PFS = 1.8 months†† CBR estimated ≤20%††
+
+ARV-471 Phase 1 patients received
+extensive prior therapy (N = 21) Patient Characteristics Parameter N (%) Median age (years) 64 ECOG performance status 0 1 10 11 (48) (52) Prior visceral disease (liver, lung) 10 (48) Median prior lines of therapy total (range 1-9) 5 (NA) Median
+number of prior endocrine regimens 3 (NA) Type of prior therapies in advanced settings CDK 4/6 inhibitor 21 (100) Fulvestrant 15 (71) Chemotherapy 8 (38) Investigational SERD 5 (24) Other therapies 14 (67) ECOG, Eastern Cooperative Oncology Group;
+CDK4/6, cyclin-dependent kinases; SERD, selective estrogen receptor degrader
+
+ARV-471 is well tolerated at all
+dose levels; no Grade 3 adverse events TRAE in ≥ 10% of Patients 30 mg (N=3) 60 mg (N=3) 120 mg (N=7) 180 mg (N=5) 360 mg (N=3) Total (N=21) Gr 1 Gr 2 Gr 1 Gr 2 Gr 1 Gr 2 Gr 1 Gr 2 Gr 1 Gr 2 N (%) Any - - 2 - 4 - 2 1 2 - 11 (52) Nausea - - 2 -
+1 - - 1 1 - 5 (24) Arthralgia - - 1 - 2 - 1 - - - 4 (19) Fatigue - - 1 - - - 1 - 2 - 4 (19) Decreased appetite - - - - 1 - - - 2 - 3 (14) Adverse events were primarily Grade 1; No dose limiting toxicities Data cut-off: November 11, 2020 TRAE,
+Treatment related adverse event
+
+ARV-471’s PK is dose
+proportional; exposures far exceed preclinical efficacy thresholds ~ ~ 28 hours Effective half-life (T1/2) The orange line represents the efficacious exposure for tumor regression in preclinical models † Mean ARV-471 AUC24 by Dose (C1D15)
+ARV-471 Mean Plasma Concentration-Time Profiles (C1D15) † AUC24=5717 ng*h/mL for preclinical effective exposure in preclinical model (mice@30mpk). AUC, area under the curve; SE, standard error
+
+ER degradation observed in patient
+tumor biopsies Baseline After treatment with 60 mg ARV-471 Red: Estrogen receptor Blue: Nuclei Green: Tumor (cytokeratin) Method: ER immunoreactivity analyzed by quantitative immunofluorescence (QIF) using the automated quantitative analysis
+(AQUA) method
+
+ARV-471 degraded ER up to 90%
+through the 120 mg dose level † ER immunoreactivity analyzed by quantitative immunofluorescence (QIF) using the automated quantitative analysis (AQUA) method. †† Derived by examining AQUA scores and visually inspecting all samples
+in the dataset to determine a cut-point for ER positivity. ††† Fulvestrant degradation reported as 40-50% in Robertson et al., Breast Cancer Research (2013) and Kuter et al., Breast Cancer Res Treat (2012). ESR1, Estrogen Receptor
+1 Degradation up to 90%; average of 62% Degradation superior to fulvestrant (previously reported: 40-50%)††† Degradation of wild type ER and ESR1 mutant proteins ER Expression in Paired Tumor Biopsies† †† 30 mg
+(D538G) 60 mg (Y537S) 120 mg (Y537S) 120 mg (wild type) 120 mg (Y537N) Dose (ESR1 status)
+
+Extensive prior therapy 
+Confirmed RECIST Partial Response (cPR) in a patient with extensive prior therapy and an ESR1 mutation at 120 mg Baseline CT Scan After 4 Cycles Target 2 Target 2 Target 1 Target 1 51% reduction in target lesions (RECIST partial response) CDK4/6
+inhibitor: Palbociclib Endocrine therapies: 6 Agents Aromatase inhibitors x 3 Tamoxifen Investigational SERDs X 2† Other targeted agents: Everolimus Chemotherapy: 2 Regimens 1 neoadjuvant + 1 metastatic ESR1 mutations D538G † Includes
+one selective ERα covalent antagonist. CDK: cyclin-dependent kinases; SERD, selective estrogen receptor degrader
+
+Regression in chest wall lesions in
+a patient with extensive prior therapy and multiple ESR1 mutations at 180 mg Baseline (Associated Bleeding) After 4 Cycles  (No  Bleeding) Extensive Prior therapy  CDK4/6 inhibitor: Palbociclib, Abemaciclib Endocrine therapies: 3
+Agents Aromatase inhibitors x 2 Fulvestrant Other targeted agents: Everolimus Chemotherapy: 4 Regimens 1 neoadjuvant + 3 metastatic ESR1 mutations D538G, E380Q, V422del, L536P CDK, cyclin-dependent kinases
+
+Best Percentage Target Lesion
+Diameter From Baseline SD SDSD SDSDPDSD (uPR)SD(uPR)PRSD CDK4/6 inhibitor Fulvestrant Investigational SERD Chemotherapy SD SD PD PD 30 mg QD 120 mg QD 180 mg QD 360 mg QD Antitumor Activity in Eligible Patients (N=14)† 0% ARV-471 demonstrates
+promising anti-tumor activity in late line patients † 7 patients out of 21 are excluded from graph due to no measurable disease at baseline (n=4), discontinuation of treatment without post-treatment target lesion measurements (n=2), and
+discontinuation after 2 doses due to non-compliance (n=1).
+
+Treatment Duration (weeks) Cut off
+for CBR CDK4/6 Inhibitor Fulvestrant Investigational SERD Chemo Prior Therapies CBR† = 42% (5/12) 30 mg QD 60 mg QD 120 mg QD 180 mg QD PD PD PD SD PD cPR SD PD SD PD SD SD (uPR) Treatment Duration (weeks) and Response in Eligible Patients
+(N=12)† † Excludes 8 patients enrolled < 24 weeks prior to the data cut-off of November 28, 2020 and 1 patient who received 2 doses of ARV-471 and discontinued due to non-compliance, †† CBR defined as SD persisting ≥
+24 weeks, or a best response of confirmed CR or PR. ARV-471 achieves a high clinical benefit rate (42%) in this heavily pretreated population through the 180 mg dose level
+
+Comparison of ARV-471 profile with
+Phase 1 data for preclinical SERDs Source: H3B-6545 SABCS 2020 Poster, ZN-C5 SABCS 2020 Poster, Rintodestrant SABCS 2020, SAR439859 SABCS 2020 Poster, AZD9833 SABCS 2020 and ASCO 2020 Posters, GDC-9545 SABCS 2019 Poster. This comparison utilizes
+data from different Phase 1 trials and presents a non-head-to-head summary comparison. † Reported AEs are from ASCO 2020 Poster; ††Visual estimation based on ER degradation data provided by each company. Drug Candidate CDK4/6i
+Pretreated Patients (0 – 100%) ARV-471 H3B-6545 ZN-C5 Rintodestrant SAR43989 AZD9833† GDC9545 Clinical Benefit Rate 42% 34% 40% 30% 34% 35% 41% Select TRAEs (> 5% of Patients) Other AEs Gastrointestinal (GI) AEs Visual disturbance
+Bradycardia Vomiting Nausea Diarrhea Mean ER Degradation in Patient Tumors 100% 87% 62% 70% 63% 87% 59% Not reported Not reported Not reported ARV-471 has the potential to be a best-in-class ER-directed therapy 62% 28% <50%†† Interim
+Phase 1 Data Comparison <50%††
+
+We aim to characterize the activity
+of ARV-471 across ER+/HER2- breast cancer treatment lines † SEER database; includes US patient population only, †† E.g., everolimus or alpelisib CDK, cyclin-dependent kinases Pi3Ki; phosphoinositide 3-kinase inhibitor; mTORi:
+mammalian target of rapamycin inhibitors US ER+/HER2- Breast Cancer Treatment Paradigm (# of US patients†) Window of Opportunity (Randomized vs Control) ARV-471, or ARV-471 + CDK4/6i Phase 1b Combo: ARV-471 + CDK4/6i (palbociclib) Phase 2
+Expansion: ARV-471 Aromatase Inhibitors (AI)1 or Fulvestrant Fulvestrant or exemestane Endocrine Backbone Phase 1b Combo: ARV-471 + Targeted Therapy†† ARV-471 Designed to be an oral, safe, and high-potency ER degrader 2H 2021 Dec 2020 1H
+2021 2H 2021 Adjuvant (Post-Surgical) Breast Cancer (~160K) Metastatic Breast Cancer (~50K) Second/Third Line First Line Supportive Trials to Define Registration Paths (planned initiation)
+
+ARV-471: Evidence for best-in-class
+potential in a large area of unmet need Strong Evidence for Best-in-Class Profile Superior degradation to fulvestrant and SERDs† Strong efficacy signal in a predominantly ER-independent population Well tolerated Clear Development Path
+Potential for 2L/3L approval as monotherapy or in combination Planned combinations with CDK4/6 inhibitors in adjuvant or early metastatic cancers Large Unmet Need and Opportunity In the US alone, ER+/HER2- breast cancer represents an addressable
+patient population of >200K†† per year and a market opportunity of >$15B † Fulvestrant degradation reported in Robertson et al., Breast Cancer Research (2013) and Kuter et al., Breast Cancer Res Treat (2012). ††
+US incidence from SEER Database.
+
+ARV-110 Clinical Data Update
+
+ARV-110: 40% PSA50 in a molecularly
+defined subgroup, and additional opportunity in early-line mCRPC Potential best-in-class therapy for prostate cancer, representing >250k patients per year in the US alone† The ongoing Phase 2 ARDENT trial is designed to confirm the
+potential for accelerated approval in a molecularly defined population, while also exploring the potential for approval in early-line mCRPC Building substantial learnings about our late-line patient population into our development strategy Well
+tolerated, escalating through the current dose of 700 mg Continued patient benefit: 40% PSA50 in T878/H875 patients, and additional activity in wild-type tumors † US incidence data from SEER database
+
+Novel therapies for 2L/3L patients
+Non-chemo therapies for 1L patients Key Unmet Needs: Migration of second-generation AR therapies to earlier settings has created substantial unmet need for new treatments in mCRPC Castrate Sensitive (~200k) US Prostate Cancer Treatment Paradigm (#
+of US patients†) Metastatic Castrate Resistant (~40k) Non-Metastatic Castrate Resistant (~9k) First Line Third Line Second Line Chemotherapy, PARP inhibitors†††, sipuleucel-T, Ra-223 ADT (Chemical Castration) 2nd generation
+AR-directed therapies†† 2nd generation AR therapies†† gaining approval in earlier lines of therapy † SEER database,†† Includes enzalutamide, abiraterone, darolutamide, apalutamide, †††
+Approved for BRCA mutant/DNA Deficient Repair (DDR) patients progressed on 2nd gen AR-directed therapies. ADT, androgen deprivation therapy; mCRPC, metastatic castrate resistant prostate cancer
+
+Castrate Sensitive (~200k)
+Metastatic Castrate Resistant (~40k) 1L2L3L Non-Metastatic Castrate Resistant (~9k) Our strategy is to develop ARV-110 across treatment settings of prostate cancer † SEER database; †† Tombal, Lancet Oncology 2014;
+††† de Wit R, N Engl J Med. 2019; Hussain, ESMO 2019. US Prostate Cancer Treatment Paradigm (# of US patients†) ARV-110’s Phase 1 trial is in late-line mCRPC patients: High tumor heterogeneity Resistance mechanisms
+Second-generation AR therapies decline in efficacy 90% PSA80†† 8-15% PSA50††† <10% Expansion opportunities for ARV-110 Near-term opportunities for ARV-110 In Phase 2, ARV-110 being evaluated in late-line molecularly
+defined and earlier-line patients
+
+ARV-110 is showing early clinical
+benefit in highly refractory patients Median prior therapies Patients treated with both abiraterone and enzalutamide 5 82% Patients with non-AR mutations 84% Patients treated with prior chemotherapy 76% Existing AR-directed therapies expected to be
+ineffective High tumor heterogeneity suggests low dependence on AR
+
+ARDENT Phase 2 has initiated with a
+once daily, oral dose of 420 mg Design informed by Phase 1 learnings Promising antitumor activity in heavily pre-treated patients with limited treatment options PSA reduction is associated with plasma exposure Activity in wild-type AR patients
+supports broader use ARV-110 is well tolerated†, allowing continued dose escalation up to current dose of 700 mg daily, and potentially supporting use in earlier lines of therapy AR molecular profiling identifies a molecularly defined, late
+line population that may have greatest response to ARV-110 † Safety cut-off date: October 2, 2020
+
+At 420 mg, exposures exceed the
+predicted efficacious threshold observed in a preclinical enzalutamide-resistant model Predicted efficacious threshold based on an enzalutamide-resistant prostate cancer model †† Predicted minimum efficacious threshold based on a
+standard prostate cancer model† Dose ARV-110 AUC24 Across Total Daily Doses (C1D15/21)††† † The minimum preclinical efficacious threshold represents the AUC associated with tumor growth inhibition in standard VCAP
+models, †† This efficacious threshold represents the AUC associated with tumor growth inhibition in a preclinical enzalutamide-resistant VCaP model, ††† Includes both qd and bid dosing for the 420 mg total daily
+dose
+
+This threshold is based on
+preclinical efficacy in an enzalutamide-resistant prostate cancer model This threshold is based on preclinical efficacy in a standard prostate cancer model Increased ARV-110 clinical activity at higher exposures Exposures at levels that
+overcame enzalutamide resistance††† Exposures below minimum efficacious threshold †† Best PSA Change By Preclinical Efficacious Threshold (N=37)† PSA50 PSA30 Above minimally efficacious exposure; below
+enzalutamide resistant threshold Exposure-activity relationship informs and supports Phase 2 dose selection † Data as of 30-Nov-2020, †† Exposures in this range did not show anti-tumor activity, ††† Preclinical
+exposures in this range were sufficient to overcome enzalutamide resistance in preclinical models.
+
+TUMOR VOLUME GENOMIC ALTERATIONS
+OVER TIME TREATMENT 1 TREATMENT 2 TREATMENT 3 Figure adapted from Cancers 2018, 10, 345 Treatment-refractory progression in mCRPC Genomic alterations are known to increase over time and with multiple treatments in mCRPC Genetic context, an important
+determinant of response, is the basis for our Phase 2 patient selection strategy The tumors of patients in our Phase 1 dose escalation are highly heterogeneous 84% have non-AR mutations Potential for high AR-independence <10% PSA response
+expected In our studies, we are testing for mutations using 70- and now 324 gene-panels† Treatment-naive progression † Genetic profiling for most Phase 1 patients was done using the FoundationOne®Liquid test (70-gene panel),
+additional Phase 1 and Phase 2 patients: FoundationOne®Liquid CDx (324-gene panel). We have identified ARV-110-sensitive populations despite significant tumor heterogeneity in our patient population
+
+In our late stage, genetically
+heterogeneous population, we have identified potential molecularly defined subgroups of patients sensitive to ARV-110 Best PSA Change In All Patients Above Minimum Exposure Threshold (N= 28) ††† PSA50 PSA30 AR Status Amp T878A,
+H875Y, L702H Amp WT WT Amp Amp WT Amp W742C L702H WT WT WT WT WT WT WT Amp WT WT T878A, T878S, L702H WT T878A, F877L, V716M, L702H WT WT T878A, H875Y T878A, H875Y AR-V7†† + + + + + + + Other Genes Altered (n) 1 2 1 2 2 0 2† 1 2 4
+3† 0 2 0 1 1† 0 2 1† 1 3 5† 0 6† 2 0 3 1 20/28 (71%) of patients have either T878/H875 or wild-type AR PSA50 14% (4/28) Each column represents one patient. † Includes genes with multiple alterations,
+†† Epic Sciences, Genetic profiling: FoundationOne®Liquid (70-gene panel), ††† Data as of 30-Nov-2020. AR Status Amp T878A, H875Y, L702H Amp WT WT Amp Amp WT Amp W742C L702H WT WT WT WT WT WT WT Amp WT WT T878A,
+T878S, L702H WT T878A, F877L, V716M, L702H WT WT T878A, H875Y T878A, H875Y AR-V7†† + + + + + + + Other Genes Altered (n) 1 2 1 2 2 0 2† 1 2 4 3† 0 2 0 1 1† 0 2 1† 1 3 5† 0 6† 2 0 3 1
+
+Multiple AR mutations could be a
+"signature" for continued AR dependence PSA levels declined even in the presence of significant tumor heterogeneity, AR-V7, and L702H T878/H875 patients are a molecularly defined population for enrichment in our ongoing Phase 2 dose expansion, and
+represent a potential path to accelerated approval Best PSA Change In Patients with AR T878/H875 mutations (N=5)†† PSA50 PSA30 AR Status T878A, H875Y, L702H T878A, T878S, L702H T878A, F877L, L702H, V716M T878A, H875Y T878A, H875Y
+AR-V7††† + Other Genes Altered (n) 2 5† 6† 3 1 Treatment Duration (months) 1.4à 1.8 6.2à 7.7 10.1 PSA50 40% (2/5) Each column represents one patient. † Includes genes with multiple alterations,
+†† Includes all patients dosed above the minimum efficacious threshold and with T878/H875 AR (may include other forms of AR), ††† Epic Sciences, Genetic profiling: FoundationOne®Liquid (70-gene panel),
+àPatient remained on treatment as of November 30 2020 Four of five (80%) patients with T878/H875 mutations had PSA reductions, representing a potential accelerated approval population
+
+34 Best PSA Change In Patients with
+Wild-Type AR (N=15)†† PSA50 PSA30 AR Status WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT AR-V7††† + + + + Other Genes Altered (n)† 2 2 1 0 2 0 1 1† 0 2 1 3 0 2 0 PSA50 13% (2/15) ARV-110 is also active in
+refractory mCRPC patients with tumors expressing wild-type AR Each column represents one patient. † Includes genes with multiple alterations, †† Includes all patients dosed above the minimum efficacious threshold and with wild type
+AR, ††† Epic Sciences, Genetic profiling: FoundationOne®Liquid (70-gene panel). Wild-type AR-containing tumors represent a broader population sensitive to ARV-110
+
+Strong profile for ARDENT Phase 2
+expansion trial at 420 mg, oral, once daily Parameter Phase 1 Results Safety Data† P (Well tolerated; no TRAEs Gr >2)  Dose Response and Exposure Threshold†† P Efficacy Data†† P Strong signal in
+molecularly defined patient populations P High potential for patient benefit in earlier-line, more AR-dependent patients P Opportunity to select a second dose in 2021 † Safety cut-off date: October 2, 2020 †† For patients
+with molecular profiling, PK and PSA data as of 30-Nov-2020.
+
+ARDENT will evaluate efficacy in
+both late-line, molecularly defined patients, and in a broader, early-line mCRPC population † Tumors are heterogeneous, so patients may fall into multiple subgroups for post-hoc analysis. Patient Subgroup† Tumor Characteristics T878/H875
+T878 and/or H875 AR mutated Less-pretreated patients Chemo-naïve, and progressed on abiraterone OR enzalutamide (not both) Other AR degradable by ARV-110 AR wild type, amplified, and resistance-driving point mutations AR not degradable by
+ARV-110 Tumors with L702H and AR-V7 Total N = ~100 Features of the ARDENT Phase 2 Design Enriches T878/H875 for exploration as a potential population for accelerated approval, and retains optionality for others Enrolls earlier, more AR-dependent
+populations Provides a subgroup for all screened patients Late-line (3L), molecularly defined mCRPC Earlier-line (1L/2L) mCRPC 1 2 Potential registrational paths Potential for accelerated approval Via confirmatory study
+
+Future migration to earlier lines of
+therapy, following the path of 2nd-generation AR therapies Castrate Sensitive (~200k) Metastatic Castrate Resistant (~40k) 1L2L3L Non-Metastatic Castrate Resistant (~9k) ARV-110’s planned registrational path aligns with unmet need in mCRPC,
+and offers potential label expansion into earlier settings  Evolving Prostate Cancer US Treatment Paradigm (# of US patients†) Late-line (3L), molecularly defined mCRPC 1 Pivotal Phase 2 for Accelerated Approval AR mutant patients
+Earlier-line (1L/2L) mCRPC 2 Confirmatory Phase 3 of ARV-110 vs SOC Irrespective of AR profile † SEER database SOC, standard of care; mCRPC, metastatic castrate resistant prostate cancer
+
+ARV-110: Potential to address unmet
+need across multiple stage of prostate cancer Clear Development Path Driving tumor responses and PSA reductions in a molecularly defined, late-line mCRPC population Late-line activity suggests strong potential in CSPC Well tolerated Two potential
+registrational paths Accelerated approval in molecularly defined mCRPC Broader 1L/2L mCRPC Large Unmet Need and Opportunity High unmet need across all stages of prostate cancer Including CSPC, addressable patient population of >250K† per
+year in the US alone translates into a >$8B market opportunity Potential for Best-in-Class Profile † US incidence from SEER Database CSPC, castrate sensitive prostate cancer
+
+Conclusion
+
+Arvinas’ current pipeline
+encompasses a range of validated and undruggable targets in oncology, I-O, and neuroscience Neuroscience Oncology / Immuno-oncology ARVN Program Research IND Enabling Phase 1 Phase 2 Exploratory Indication ARV-110mCRPC ARV-766Other AR indications
+AR-V7mCRPC ARV-471ER+/HER2- Breast Cancer BCL6B-cell Malignancies KRASNSCLC, CRC, Pancreatic UndisclosedSolid Malignancies MycSolid Malignancies HPK1 Solid Malignancies TauFTLD-TAU, PSP, AD Alpha Synuclein MSA, Parkinson’s
+mHTTHuntington’s Undisclosed Neurodegeneration Phase 3 IND 2021 IND 2022 IND 2022 IND 2022 IND 2023 Note: Pipeline is non-exhaustive and IND dates are anticipated. mCRPC, metastatic castration-resistant prostate cancer; ER+/HER2-, estrogen
+receptor+/human epidermal growth factor receptor 2-; NSCLC, non-small-cell lung carcinoma; CRC, colorectal cancer; FTLD-tau, frontotemporal lobar degeneration-tau; PSP, progressive supranuclear palsy; MSA, multiple systems atrophy
+
+Complete Phase 1 data ARDENT Phase 2
+interim data Initiation of combination study(s) Full ARDENT Phase 2 data Combination study data Initiation of combination study with CDK4/6i Complete Phase 1 data Initiation of Phase 2 CDK4/6i combination study data Interim Phase 2 data BCL6 Tau
+Undisclosed (oncology) ARV-110 (AR PROTAC®) ARV-471 (ER PROTAC®) INDs Initiate Phase 1 Phase 1 data Initiate Phase 2 ARV-766 (AR PROTAC®) ARV-110 and ARV-471 set up Arvinas for a remarkable 2021 2020 Q4 2022 2021 ARV-766 Anticipated
+Milestones
+
+We are well on our way to our 2024
+vision Built Arvinas’ Foundation as a Pioneer in Protein Degradation Proved the Concept of Our PROTAC Discovery Engine 2013-2018 2019-2020 Integrated biotech poised for launch Goal to have first PROTAC® degraders proven to benefit
+patients in registrational studies Sustainably nominating ≥1 clinical candidate per year PROTAC Discovery Engine delivering candidates with tissue- and disease-specific degradation Completing build-out of the resources and capabilities to
+bring PROTAC therapeutics to market 2024 Vision
+
+Thank You

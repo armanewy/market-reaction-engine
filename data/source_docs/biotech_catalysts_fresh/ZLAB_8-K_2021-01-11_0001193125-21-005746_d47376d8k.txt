@@ -1,0 +1,277 @@
+Form 8-K
+
+false 0001704292 0001704292 2021-01-11 2021-01-11
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 11, 2021
+
+ 
+
+ 
+
+Zai Lab Limited
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Cayman Islands
+
+ 
+
+001-38205
+
+ 
+
+98-1144595
+
+(state or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+4560 Jinke Road
+
+Bldg. 1, Fourth Floor, Pudong, Shanghai, China
+
+201210
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: +86 21 6163 2588
+
+Not applicable
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol
+
+ 
+
+Name of each exchange
+
+on which registered
+
+American Depositary Shares, each representing one Ordinary Shares, par value $0.00006 per share
+
+ 
+
+ZLAB
+
+ 
+
+The Nasdaq Global Market
+
+Ordinary shares, par value $0.00006 per share*
+
+ 
+
+9​688
+
+ 
+
+The Stock Exchange of Hong Kong Limited
+
+* Included in connection with the registration of the American Depositary Shares with the Securities and Exchange Commission. The ordinary shares are not registered or listed for trading in the United States but are listed for trading on The Stock Exchange of Hong Kong Limited.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement
+
+License Agreement
+
+On January 10, 2021 (U.S. time), Zai Lab (Shanghai) Co., Ltd., a wholly-owned subsidiary of Zai Lab Limited (“Zai Shanghai”), entered into a license agreement (the “License Agreement”) with Turning Point Therapeutics, Inc. (“Turning Point”) pursuant to which Zai Shanghai received an exclusive license to develop and commercialize products containing Turning Point’s drug candidate, TPX-0022, as an active ingredient (the “Licensed Product”) in mainland China, Hong Kong, Macau and Taiwan (the “Territory”). Pursuant to the License Agreement, Zai Shanghai will be responsible for conducting the development and commercialization activities in the Territory related to the Licensed Products. Zai Shanghai may, at its election and expense, subject to specified exceptions, participate in future global clinical studies of the Licensed Products through clinical trial sites in the Territory. In addition, Turning Point will also have a first right to negotiate a license outside the Territory to a potential drug candidate from one of Zai Shanghai’s pipeline programs if Zai Shanghai files an investigational new drug application for the drug candidate.
+
+Pursuant to the terms of the License Agreement, Zai Shanghai will pay to Turning Point a $25 million upfront payment, plus up to approximately $336 million in potential development, regulatory and sales-based milestone payments. Turning Point will also be eligible to receive tiered royalties (mid-teen to low-twenties on a percentage basis and subject to customary reductions) based on annual net sales of all Licensed Products in the Territory. Zai Shanghai’s royalty obligations will continue on a region-by-region and Licensed Product-by-Licensed Product basis until the last to occur of (i) the expiration of the last-to-expire licensed patent claims in such region, (ii) the expiry of the regulatory exclusivity for the Licensed Product in such region; or (iii) the close of business of the day that is exactly ten (10) years after the date of the first commercial sale of the Licensed Product in such region.
+
+The License Agreement contains customary representations, warranties and covenants by the parties. Unless terminated earlier pursuant to its terms, the License Agreement will continue in effect until expiration of the last royalty term with respect to any Licensed Product in any region in the Territory. The License Agreement may be terminated for customary reasons, including upon mutual written agreement and upon the other party’s uncured material breach, bankruptcy, insolvency or similar event. In addition, Zai Shanghai may terminate the License Agreement for any or no reason by providing written notice to Turning Point, which termination will be effective following a prescribed notice period.
+
+Subject to specified exceptions, during the term of the License Agreement, Zai Shanghai has agreed that neither it nor its affiliates, its licensees and its sublicensees will conduct any development, manufacturing and commercialization activities with specified products that would compete with the Licensed Products in or outside the Territory, and Turning Point has agreed that neither it nor its affiliates, its licensees and its sublicensees of Licensed Products will conduct any development, manufacturing and commercialization activities with such competing products in the Territory, other than manufacturing activities in support of activities outside the Territory.
+
+* * *
+
+The foregoing description of the terms of the License Agreement do not purport to be complete and are qualified in their entirety by reference to the full text of such agreement, which the Company intends to file as an exhibit to a subsequent periodic report or on an amendment to this Current Report on Form 8-K.
+
+* * *
+
+The representations and warranties and other statements in the agreements (1) speak only as to the date on which they were made, and may be modified or qualified by confidential schedules or other disclosures, agreements or understandings among the parties, which the parties believe are not required by the securities laws to be publicly disclosed, and (2) may be subject to a different materiality standard than the standard that is applicable to disclosures to investors. Moreover, it was advised that information concerning the subject matter of the representations and warranties and other statements made in the various agreements would likely change after the execution date of such agreements, and subsequent information may or may not be fully reflected in the Company’s public disclosures. Accordingly, investors should not rely upon representations and warranties and other statements in the various agreements as factual characterizations of the actual state of affairs of the Company. Investors should instead look to disclosures contained in the Company’s reports under the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On January 11, 2021 (U.S. time), the Company issued a press release announcing the above-described transactions. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and shall not be deemed to be “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except as expressly set forth by specific reference in such filing or this Current Report.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated January 11, 2021.
+
+104
+
+  
+
+The cover page of this Current Report on Form 8-K is formatted in Inline XBRL
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ZAI LAB LIMITED
+
+By:
+
+ 
+
+/s/ Billy Cho
+
+Name:
+
+ 
+
+Billy Cho
+
+Title:
+
+ 
+
+Chief Financial Officer
+
+Dated: January 11, 2021
+
+Exhibit Index
+
+ 
+
+Exhibit 99.1—
+
+  
+
+Press Release
+
+104
+
+  
+
+The cover page of this Current Report on Form 8-K is formatted in Inline XBRL

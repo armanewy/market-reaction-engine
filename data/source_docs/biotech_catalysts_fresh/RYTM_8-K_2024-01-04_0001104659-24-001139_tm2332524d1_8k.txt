@@ -1,0 +1,331 @@
+false
+0001649904
+
+0001649904
+
+2024-01-04
+2024-01-04
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C.
+20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+January 4, 2024
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+Delaware
+
+ 
+
+001-38223
+
+ 
+
+46-2159271
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+222 Berkeley Street
+
+12th Floor
+
+Boston, MA 02116
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (857) 264-4280
+
+ 
+
+N/A
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨  Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨  Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange on which registered
+
+Common Stock, $0.001 par value per share
+
+RYTM
+
+The Nasdaq Stock Market LLC (Nasdaq Global Market)
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+ 
+
+On January 4, 2024 (the “Effective Date”),
+Rhythm Pharmaceuticals, Inc., a Delaware corporation (the “Company,” “we” and “our”), entered
+into a License Agreement (the “License Agreement”) and Share Issuance Agreement (the “Share Issuance Agreement”)
+with LG Chem, Ltd., a corporation organized and existing under the laws of the Republic of Korea (“LGC”).
+
+ 
+
+Under the terms of the License Agreement, the Company will obtain worldwide rights to exploit LGC’s proprietary compound LB54640 and will assume sponsorship of two ongoing LGC Phase 2 studies designed
+to evaluate safety, tolerability, pharmacokinetics and weight loss efficacy of LB54640. The SIGNAL trial is a randomized, placebo-controlled,
+double-blind study designed to enroll and evaluate approximately 28 patients with acquired hypothalamic obesity. Participants will receive
+one of three doses of LB54640 by oral administration once daily for up to 52 weeks, and the primary endpoint of the study is the change
+from baseline in body mass index after 14 weeks of treatment. The open-label, single-arm, 16-week ROUTE trial is designed to enroll five
+patients with POMC or LEPR deficiency obesity.
+
+ 
+
+The Company has agreed to pay LGC a $40 million in cash and issue shares
+of its common stock, par value of $0.001, with an aggregate value of $20 million (the “Shares”) within fifteen business days
+from the Effective Date. The Shares will be issued at a per share price equal to the ten-day volume weighted average closing price for
+the Company’s common stock, calculated as of the trading day immediately prior to January 4, 2024. The Company has also agreed to
+make a $40 million payment in cash 18 months after the Effective Date.
+
+ 
+
+In addition, under the terms of the License Agreement, the
+Company has agreed to pay LGC up to $205 million in cash upon achieving various regulatory and sales milestones based on net sales
+of LB54640. In addition and subject to the completion of Phase 2 development of LB54640, the Company has agreed to pay LGC
+royalties of between low to mid single digit percent of net revenues from its MC4R portfolio, including LB54640,
+commencing in 2029 and dependent upon achievement of various regulatory and indication approvals, and subject to customary deductions and anti-stacking.
+
+ 
+
+The Company and LGC have made customary representations and warranties
+in the License Agreement and have agreed to certain other customary covenants, including confidentiality, cooperation, and indemnity provisions.
+
+ 
+
+The Share Issuance Agreement contains customary
+representations and warranties by the Company and LGC, and the issuance of the Shares is subject to certain customary closing conditions.
+
+ 
+
+The foregoing descriptions of the License
+Agreement and Share Issuance Agreement are only a summary of their respective material terms and do not purport to be complete.
+
+ 
+
+ 
+
+ 
+
+Item 3.02.
+
+Unregistered Sales of Equity Securities.
+
+ 
+
+The information included in Item 1.01 above
+regarding the Share Issuance Agreement is incorporated by reference under this Item 3.02. The Shares will be issued in reliance upon an
+exemption from the registration requirements of the Securities Act of 1933, as amended (the “Securities Act”), contained in
+Section 4(a)(2) of the Securities Act. LGC has represented that they are acquiring the securities for investment only and not
+with a view towards, or for resale in connection with, the public sale or distribution thereof, and appropriate legends have been or will
+be affixed to the securities.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+ 
+
+In
+light of the License Agreement, the Company is providing the following update to its cash guidance. Based on its current operating
+plans, the Company expects that its existing cash, cash equivalents and short-term investments, taking into account a total of $80 million
+in cash payments to LGC as fixed consideration pursuant to the License Agreement, as well as the incremental clinical development costs
+associated with the two Phase 2 studies that the Company will assume following the transfer of study sponsorship, will be sufficient to
+fund its operating expenses and capital expenditure requirements into the second half of 2025.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains
+forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements contained in
+this Current Report on Form 8-K that do not relate to matters of historical fact should be considered forward-looking statements,
+including without limitation statements regarding the regarding the potential, safety, efficacy, and regulatory and clinical
+progress of setmelanotide and LB54640, the potential timing, payments due, and benefits of the global licensing agreement for
+LB54640 including with respect to the consummation of the transaction, expectations regarding the design, enrollment, or outcome of
+clinical trials of LB54640, the ability to reach any net sales or revenue milestones, obtaining regulatory approvals in connection
+with the global licensing agreement, the price per Share to be paid by the Company pursuant to the Share Issuance Agreement and the
+sufficiency of the Company’s existing cash, cash equivalents and short-term investments to fund its current or future
+operating plans. Statements using word such as “expect”, “anticipate”, “believe”,
+“may”, “will”, “aim” and similar terms are also forward-looking statements. Such statements are
+subject to numerous risks and uncertainties, including, but not limited to, risks relating to the Company’s liquidity and
+expenses, the Company’s ability to enroll patients in clinical trials, the design and outcome of clinical trials, the ability
+to achieve necessary regulatory approvals, risks associated with data analysis and reporting, failure to identify and develop
+additional product candidates, unfavorable pricing regulations, third-party reimbursement practices or healthcare reform
+initiatives, risks associated with the laws and regulations governing our international operations and the costs of any related
+compliance programs, the impact of competition, risks relating to product liability lawsuits, inability to maintain collaborations,
+or the failure of these collaborations, the Company’s reliance on third parties, risks relating to intellectual property, the
+Company’s ability to hire and retain necessary personnel, the impact of the COVID-19 pandemic and general economic conditions
+on the Company’s business and operations, including its preclinical studies, clinical trials and commercialization prospects,
+failure to realize the anticipated benefits of the Company’s acquisition of Xinvento B.V. or significant integration
+difficulties related to the acquisition, and the other important factors discussed under the caption “Risk Factors” in
+the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2023 and its other filings with the Securities
+and Exchange Commission. Except as required by law, the Company undertakes no obligations to make any revisions to the
+forward-looking statements contained in this release or to update them to reflect events or circumstances occurring after the date
+of this release, whether as a result of new information, future developments or otherwise.
+
+  
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+Date: January 4, 2024
+
+By:
+
+/s/ Hunter Smith
+
+ 
+
+ 
+
+Hunter Smith
+
+ 
+
+ 
+
+Chief Financial Officer

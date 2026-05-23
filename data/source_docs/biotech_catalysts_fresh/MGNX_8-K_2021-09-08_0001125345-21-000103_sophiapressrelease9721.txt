@@ -1,0 +1,130 @@
+EX-99.1
+2
+sophiapressrelease9721.htm
+EX-99.1
+
+Document
+
+MacroGenics Announces Final Overall Survival Results from SOPHIA Study of MARGENZA™ in Patients with HER2-Positive Metastatic Breast Cancer
+
+•Final overall survival (OS) analysis did not demonstrate a statistically significant advantage for MARGENZA over trastuzumab
+
+•OS was greater with MARGENZA plus chemotherapy in exploratory subgroups of patients carrying a CD16A 158F allele compared to trastuzumab plus chemotherapy arm, while the OS for trastuzumab plus chemotherapy was greater than MARGENZA plus chemotherapy for the small exploratory subgroup of patients homozygous for the CD16A 158V allele
+
+•The safety profile remains similar to what has been reported previously
+
+ROCKVILLE, MD, Sept. 7, 2021 (GLOBE NEWSWIRE) – MacroGenics, Inc. (NASDAQ: MGNX), a biopharmaceutical company focused on developing and commercializing innovative monoclonal antibody-based therapeutics for the treatment of cancer, today announced the final overall survival (OS) results of the SOPHIA Phase 3 study in adult patients with metastatic HER2-positive breast cancer. In 2020, MARGENZA (margetuximab-cmkb) was approved by the U.S. Food and Drug Administration (FDA) in combination with chemotherapy for the treatment of adult patients with metastatic HER2-positive breast cancer who have received two or more prior anti-HER2 regimens, at least one of which was for metastatic disease. The basis for this full approval was the progression-free survival (PFS) results in the SOPHIA study, which compared MARGENZA plus chemotherapy to trastuzumab plus chemotherapy in patients with metastatic HER2-positive breast cancer.
+
+The final OS analysis of the SOPHIA study was performed after 385 OS events occurred in the intent-to-treat (ITT) population. As per the study protocol, OS was defined as the number of days from randomization to the date of death (from any cause). The final OS analysis for the ITT population did not demonstrate a statistically significant advantage for MARGENZA plus chemotherapy compared to that of patients who received trastuzumab plus chemotherapy (hazard ratio [HR]=0.95; 95% Confidence Interval [CI]: 0.77-1.17; P=0.62). In this overall ITT population, the median survival was 21.6 months in patients treated with MARGENZA plus chemotherapy (N=266) compared to 21.9 months in patients treated with trastuzumab plus chemotherapy (N=270).
+
+A pre-specified, non-alpha-allocated exploratory analysis evaluated the effect of CD16A allelic variation on MARGENZA activity. Among the patients in the trial carrying a CD16A 158F allele, representing approximately 82% of study patients (437 of 536 patients), the median OS was prolonged by 2.5 months in the MARGENZA arm compared to the trastuzumab arm (23.3 months versus 20.8 months; HR=0.86; 95% CI: 0.69-1.08; nominal P=0.19). The numerical OS advantage was observed in the subgroup of CD16A patients who were homozygous for the F-allele at position 158 (i.e., “F/F” patients) in favor of MARGENZA plus chemotherapy (HR=0.72; 95% CI: 0.52-1.00; nominal P=0.05). In this subgroup, the median OS was 23.6 months in patients treated with MARGENZA plus chemotherapy (102 of 266 patients) compared to 19.2 months in patients treated with trastuzumab plus chemotherapy (90 of 270 patients).
+
+In the subgroup of CD16A F/V patients, the median OS was 21.3 months in patients treated with MARGENZA plus chemotherapy (119 of 266 patients) compared to 22.0 months in patients treated with trastuzumab plus chemotherapy (126 of 270 patients) (HR=0.96; 95% CI: 0.71-1.30; nominal P=0.78).
+
+In a small subgroup of CD16A V/V patients, OS was greater for trastuzumab plus chemotherapy than MARGENZA plus chemotherapy (HR=1.77; 95% CI: 1.01-3.12; nominal P=0.04). In this subgroup, the
+
+median survival was 22.0 months in patients treated with MARGENZA plus chemotherapy (37 of 266 patients) compared to 31.1 months in patients treated with trastuzumab plus chemotherapy (32 of 270 patients).
+
+The safety profile at the time of the final OS analysis of SOPHIA was similar to what was previously reported and consistent with the product’s existing FDA-approved label. Adverse reactions occurring in greater than 20% of patients with MARGENZA in combination with chemotherapy were consistent with the existing product label. The MARGENZA U.S. Prescribing Information has a BOXED WARNING for left ventricular dysfunction and embryo-fetal toxicity. In addition, MARGENZA can cause infusion related reactions (IRRs). As stated in the U.S. Prescribing Information, IRRs occurred in 13% of patients treated with MARGENZA, with the majority reported as Grade 2 or less. Grade 3 IRRs occurred in 1.5% of patients. See below for Important Safety Information.
+
+“While the OS results in the SOPHIA ITT population are disappointing, the greater OS observed in the CD16A subgroup of patients with the lowest binding allelic variant of CD16 to the Fc region of IgG1 — namely, the F/F allele representing about 40% of all individuals (35.8% in this study) — is consistent with enhancements observed in MARGENZA’s engineered Fc region,” said Scott Koenig, M.D., Ph.D., President and CEO of MacroGenics. “Therefore, further studies are warranted to determine the impact of MARGENZA on HER2-positive breast cancer patients with different CD16A allelic variants, including the ongoing investigator-sponsored neoadjuvant study examining the effects of MARGENZA versus trastuzumab in patients expressing F-allelic variants of CD16A. We continue to believe MARGENZA may be the right choice for certain patients,” added Dr. Koenig.
+
+The data will be submitted to the FDA and presented at a future scientific meeting.
+
+IMPORTANT SAFETY INFORMATION
+
+WARNING: LEFT VENTRICULAR DYSFUNCTION AND EMBRYO-FETAL TOXICITY
+
+Left Ventricular Dysfunction: MARGENZA may lead to reductions in left ventricular ejection fraction (LVEF). Evaluate cardiac function prior to and during treatment. Discontinue MARGENZA treatment for a confirmed clinically significant decrease in left ventricular function.
+
+Embryo-Fetal Toxicity: Exposure to MARGENZA during pregnancy can cause embryo-fetal harm. Advise patients of the risk and need for effective contraception.
+
+WARNINGS & PRECAUTIONS:
+
+Left Ventricular Dysfunction
+
+•Left ventricular cardiac dysfunction can occur with MARGENZA.
+
+•In SOPHIA, left ventricular dysfunction occurred in 1.9% of patients treated with MARGENZA.
+
+•MARGENZA has not been studied in patients with a pretreatment LVEF value of <50%, a prior history of myocardial infarction or unstable angina within 6 months, or congestive heart failure NYHA class II-IV.
+
+•Withhold MARGENZA for ≥16% absolute decrease in LVEF from pretreatment values or LVEF below institutional limits of normal (or 50% if no limits available) and ≥10% absolute decrease in LVEF from pretreatment values.
+
+•Permanently discontinue MARGENZA if LVEF decline persists greater than 8 weeks, or dosing is interrupted more than 3 times due to LVEF decline.
+
+•Evaluate cardiac function within 4 weeks prior to and every 3 months during and upon completion of treatment. Conduct thorough cardiac assessment, including history, physical examination, and determination of LVEF by echocardiogram or MUGA scan.
+
+•Monitor cardiac function every 4 weeks if MARGENZA is withheld for significant left ventricular cardiac dysfunction.
+
+Embryo-Fetal Toxicity
+
+•Based on findings in animals and mechanism of action, MARGENZA can cause fetal harm when administered to a pregnant woman. Post-marketing studies of other HER2 directed antibodies during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
+
+•Verify pregnancy status of women of reproductive potential prior to initiation of MARGENZA.
+
+•Advise pregnant women and women of reproductive potential that exposure to MARGENZA during pregnancy or within 4 months prior to conception can result in fetal harm.
+
+•Advise women of reproductive potential to use effective contraception during treatment and for 4 months following the last dose of MARGENZA.
+
+Infusion-Related Reactions (IRRs)
+
+•MARGENZA can cause IRRs. Symptoms may include fever, chills, arthralgia, cough, dizziness, fatigue, nausea, vomiting, headache, diaphoresis, tachycardia, hypotension, pruritus, rash, urticaria, and dyspnea.
+
+•In SOPHIA, IRRs were reported by 13% of patients on MARGENZA plus chemotherapy. Most of the IRRs occur during Cycle 1. Grade 3 IRRs were reported in 1.5% of MARGENZA-treated patients.
+
+•Monitor patients during and after MARGENZA infusion. Have medications and emergency equipment to treat IRRs available for immediate use.
+
+•In patients experiencing mild or moderate IRRs, decrease rate of infusion and consider premedications, including antihistamines, corticosteroids, and antipyretics. Monitor patients until symptoms completely resolve.
+
+•Interrupt MARGENZA infusion in patients experiencing dyspnea or clinically significant hypotension and intervene with supportive medical therapy as needed. Permanently discontinue MARGENZA in all patients with severe or life-threatening IRRs.
+
+MOST COMMON ADVERSE REACTIONS:
+
+The most common adverse drug reactions (>10%) with MARGENZA in combination with chemotherapy are fatigue/asthenia (57%), nausea (33%), diarrhea (25%), vomiting (21%), constipation (19%), headache (19%), pyrexia (19%), alopecia (18%), abdominal pain (17%), peripheral neuropathy (16%), arthralgia/myalgia (14%), cough (14%), decreased appetite (14%), dyspnea (13%), infusion-related reactions (13%), palmar-plantar erythrodysesthesia (13%), and extremity pain (11%).
+
+You may report side effects to the FDA at (800) FDA-1088 or www.fda.gov/medwatch or to MacroGenics at (844)-MED-MGNX (844-633-6469).
+
+INDICATION
+
+MARGENZA is a HER2/neu receptor antagonist indicated, in combination with chemotherapy, for the treatment of adult patients with metastatic HER2-positive breast cancer who have received two or more prior anti-HER2 regimens, at least one of which was for metastatic disease.
+
+Please see full Prescribing Information, including Boxed Warning.
+
+About the SOPHIA Study
+
+The SOPHIA study (NCT02492711) is a randomized, open-label Phase 3 clinical trial evaluating MARGENZA plus chemotherapy compared to trastuzumab plus chemotherapy in patients with HER2-positive metastatic breast cancer, who have previously been treated with anti-HER2-targeted therapies. All study patients had previously received trastuzumab, all but one patient had previously received pertuzumab, and 91% had previously received ado-trastuzumab emtansine, or T-DM1.
+
+The study enrolled 536 patients who were randomized 1:1 to receive either MARGENZA (n=266) given intravenously at 15 mg/kg every three weeks or trastuzumab (n=270) given intravenously at 6 mg/kg (or 8 mg/kg for loading dose) every three weeks in combination with one of four chemotherapy agents (capecitabine, eribulin, gemcitabine or vinorelbine) given at the standard dose. Intent-to-treat PFS analysis occurred after 265 PFS events.
+
+The primary endpoints of the study were sequentially-assessed PFS, determined by blinded, centrally-reviewed radiological review, followed by OS. Additional key secondary endpoints are PFS by investigator assessment and ORR. Tertiary endpoints include ORR by investigator assessment and safety. PFS and ORR were assessed according to Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1).
+
+About HER2-positive Breast Cancer
+
+Human epidermal growth factor receptor 2 (HER2) is a protein found on the surface of some cancer cells that promotes growth and is associated with aggressive disease and poor prognosis. Approximately 15-20% of breast cancer cases are HER2-positive. Monoclonal antibodies targeting HER2 have greatly improved outcomes; however, a significant number of patients progress to later lines of therapy. Effective treatments for metastatic HER2-positive breast cancer continue to remain an unmet need.
+
+About MARGENZA
+
+MARGENZA (margetuximab-cmkb) is an Fc-engineered, monoclonal antibody that targets the HER2 oncoprotein. HER2 is expressed by tumor cells in breast, gastroesophageal and other solid tumors. Similar to trastuzumab, margetuximab-cmkb inhibits tumor cell proliferation, reduces shedding of the HER2 extracellular domain and mediates antibody-dependent cellular cytotoxicity (ADCC). However, through MacroGenics’ Fc Optimization technology, margetuximab-cmkb has been engineered to enhance the engagement of the immune system. In vitro, the modified Fc region of margetuximab-cmkb increases binding to the activating Fc receptor FCGR3A (CD16A) and decreases binding to inhibitor Fc receptor FCGR2B (CD32B).  These changes lead to greater in vitro ADCC and NK cell activation.  The clinical significance of in vitro data is unknown.
+
+MARGENZA is also being evaluated in combination with checkpoint blockade in the Phase 2/3 MAHOGANY trial for the treatment of patients with HER2-positive gastroesophageal cancer (NCT04082364), and in combination with tebotelimab (PD-1 × LAG-3 bispecific DART® molecule) in various HER2+ tumors (NCT03219268). In addition, MARGENZA is being evaluated in an investigator-sponsored, Phase 2 neoadjuvant study in patients with stage 2-3 HER2-positive breast cancer (NCT04425018). For more information, please visit www.clinicaltrials.gov.
+
+About MacroGenics, Inc.
+
+MacroGenics is a biopharmaceutical company focused on developing and commercializing innovative monoclonal antibody-based therapeutics for the treatment of cancer. The Company generates its pipeline of product candidates primarily from its proprietary suite of next-generation antibody-based
+
+technology platforms, which have applicability across broad therapeutic domains. The combination of MacroGenics' technology platforms and protein engineering expertise has allowed the Company to generate promising product candidates and enter into several strategic collaborations with global pharmaceutical and biotechnology companies. For more information, please see the Company's website at www.macrogenics.com. MacroGenics, the MacroGenics logo and MARGENZA are trademarks or registered trademarks of MacroGenics, Inc.
+
+Cautionary Note on Forward-Looking Statements
+
+Any statements in this press release about future expectations, plans and prospects for the Company, including statements about the Company's strategy, future operations, clinical development of the Company's therapeutic candidates, commercial prospects of or product revenues from MARGENZA, milestone or opt-in payments from the Company's collaborators, the Company's anticipated milestones and other statements containing the words "subject to", "believe", "anticipate", "plan", "expect", "intend", "estimate", "project", "may", "will", "should", "would", "could", "can", the negatives thereof, variations thereon and similar expressions, or by discussions of strategy constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: risks that MARGENZA revenue, expenses and costs may not be as expected, risks relating to MARGENZA’s market acceptance, competition, reimbursement and regulatory actions, the uncertainties inherent in the initiation and enrollment of future clinical trials, expectations of expanding ongoing clinical trials, availability and timing of data from ongoing clinical trials, expectations for regulatory approvals, other matters that could affect the availability or commercial potential of the Company's product candidates and other risks described in the Company's filings with the Securities and Exchange Commission. In addition, the forward-looking statements included in this press release represent the Company's views only as of the date hereof. The Company anticipates that subsequent events and developments will cause the Company's views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so, except as may be required by law. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to the date hereof.
+
+###
+
+CONTACTS:
+
+Chris James, M.D., Vice President, Investor Relations & Corporate Communications
+
+Jim Karrels, Senior Vice President, CFO
+
+1-301-251-5172, info@macrogenics.com

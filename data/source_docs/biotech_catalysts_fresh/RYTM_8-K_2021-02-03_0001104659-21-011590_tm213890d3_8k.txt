@@ -1,0 +1,1035 @@
+0001649904
+false
+
+0001649904
+
+2021-02-03
+2021-02-03
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of report (Date of earliest event
+reported): February 3, 2021
+
+ 
+
+ 
+
+ 
+
+RHYTHM
+PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified
+in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38223
+
+ 
+
+46-2159271
+
+(State or other jurisdiction
+
+of incorporation or organization)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+222
+Berkeley Street
+
+12th
+Floor
+
+Boston,
+MA 02116
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+(857)
+264-4280
+
+(Registrant’s telephone number, include
+area code)
+
+ 
+
+N/A
+
+(Former Name or Former
+Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨           
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨           
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨           
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨           
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act
+
+ 
+
+Title
+of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name
+of each exchange on which registered
+
+Common
+Stock, $0.001 par value per share
+
+ 
+
+RYTM
+
+ 
+
+The
+Nasdaq Stock Market LLC (Nasdaq Global Market)
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 2.02 Results of Operations and Financial Condition. 
+
+ 
+
+The information under the heading
+“Preliminary Financial Information” set forth under Item 8.01 of this Current Report on Form 8-K (the “Current
+Report”) is incorporated by reference into this Item 2.02.
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+Rhythm Pharmaceuticals, Inc. (“we”, “our”
+and “us”) is providing the following business update:
+
+ 
+
+Recent Developments
+
+ 
+
+Phase 2 Basket Study
+
+ 
+
+On January 26, 2021, we announced new
+proof-of-concept interim data from our ongoing Phase 2 Basket Study across individuals with one of three distinct rare
+genetic diseases of obesity: HET obesity due to a genetic variant in one of the two alleles of the POMC, PCSK1
+or LEPR gene, or HETs; obesity due to SRC1 deficiency; and obesity due to SH2B1 deficiency. Across five
+cohorts, 65 patients with severe obesity were eligible for analysis as of a cutoff date of December 17, 2020. Twelve of these
+patients had failed bariatric surgery. The primary endpoint of the study is the percent of patients in each subgroup
+showing at least a 5 percent loss of body weight over three months.
+
+ 
+
+HET obesity (POMC, PCSK1, LEPR) highlights include,
+as of the cutoff date:
+
+ 
+
+ 
+
+·
+
+Overall, 12 of 35 patients (34.3 percent) achieved the primary endpoint; this full analysis includes six patients who
+withdrew early;
+
+ 
+
+·
+
+Mean reduction from baseline in body weight across all 35 patients was -3.7 percent, which includes both clinical responders
+and non-responders;
+
+ 
+
+·
+
+Among the 12 patients who achieved the primary endpoint (responder group), the mean reduction from baseline in body weight
+was -10.1 percent;
+
+ 
+
+·
+
+Patients with HET obesity were stratified into three pre-specified cohorts by classification of their genetic variants
+according to American College of Medical Genetics guidelines:
+
+ 
+
+ 
+
+o
+
+Four of eight patients (50.0 percent) with a pathogenic or likely pathogenic variant achieved greater than 5 percent weight
+loss;
+
+ 
+
+o
+
+Four of eight patients (50.0 percent) with the N221D variant of the PCSK1 gene achieved greater than 5 percent
+weight loss;
+
+ 
+
+o
+
+Four of 19 patients (21.1 percent) with a variant of unknown significance achieved greater than 5 percent weight loss.
+
+ 
+
+Data from the SRC1 and SH2B1 cohorts were based on an interim
+analysis of patients who completed 12 weeks of therapy. This analysis did not include 15 patients who withdrew early due to COVID-related
+issues, adverse events or were lost to follow-up. Also not included were data from 12 patients who remain ongoing but have not
+yet reached 12 weeks of therapy. A majority of the patients who withdrew early experienced weight loss.
+
+ 
+
+Obesity due to SRC1 deficiency highlights include, as of the
+cutoff date:
+
+ 
+
+ 
+
+·
+
+Four of 13 patients (30.8 percent) achieved the primary endpoint;
+
+ 
+
+·
+
+Mean reduction from baseline in body weight across all 13 patients was -3.7 percent, which included both clinical responders
+and non-responders;
+
+ 
+
+·
+
+Among the four patients who achieved the primary endpoint (responder group) the mean reduction from baseline in body weight
+was -8.4 percent.
+
+ 
+
+Obesity due to SH2B1 deficiency highlights include, as of the
+cutoff date:
+
+ 
+
+ 
+
+·
+
+Nine of 17 patients (52.9 percent) achieved greater than 5 percent weight loss over 12 weeks of therapy;
+
+ 
+
+·
+
+Mean reduction from baseline in body weight across all 17 patients was -3.9 percent, which included clinical responders
+and non-responders;
+
+ 
+
+·
+
+Among the nine patients who achieved the primary endpoint (responder group), the mean reduction from baseline in body
+weight was -7.1 percent.
+
+ 
+
+Consistent with prior clinical experience,
+setmelanotide was generally well tolerated in each of these rare genetic diseases of obesity. The most common treatment-emergent
+adverse events included mild injection site reactions, hyperpigmentation, and nausea and vomiting, which occurred early in the
+treatment course. There were no serious adverse events related to treatment with setmelanotide.
+
+ 
+
+ 
+
+ 
+
+ 
+
+We are in discussions with the FDA to define
+a potential path for setmelanotide towards registration for these indications. Pending the outcome of these discussions, we plan
+to initiate a pivotal Phase 3 trial evaluating setmelanotide in patients with HET obesity and SRC1 and SH2B1 deficiency
+obesities in the second half of 2021.
+
+ 
+
+Pivotal Phase 3 Clinical Trial in Bardet-Biedl Syndrome
+and Alström Syndrome
+
+ 
+
+In December 2020, we announced positive
+topline results from a pivotal Phase 3 clinical trial evaluating setmelanotide for the treatment of insatiable hunger and severe obesity
+in individuals with Bardet-Biedl syndrome, or BBS, or Alström syndrome. The trial met its primary and all key secondary endpoints,
+showing statistically significant and clinically meaningful reductions in weight and hunger scores. All primary endpoint responders
+were patients with BBS. There were three evaluable patients with Alström syndrome and none of them met the primary endpoint.
+
+ 
+
+Thirty-two individuals with BBS and six
+individuals with Alström syndrome were enrolled in the pivotal cohort for this Phase 3 trial. The primary analysis was conducted
+on 31 evaluable participants (28 with BBS and three with Alström syndrome) 12 years old and older. Five study participants
+(three with BBS and two with Alström syndrome) were younger than 12 years old at enrollment.
+
+ 
+
+Eleven of 31, or 34.5 percent, of participants
+achieved the primary endpoint of at least 10 percent reduction in body weight from baseline at approximately 52 weeks of therapy
+(p=0.0024). Eleven of 28 patients with BBS achieved 10 percent reduction in body weight and no patients with Alström syndrome
+achieved 10 percent reduction in body weight.
+
+ 
+
+Key secondary endpoints included additional
+weight loss and hunger reduction analyses. Mean reduction from baseline in body weight was -6.2 percent (p<0.0001). Mean reduction
+from baseline in most hunger rating was -30.8 percent (p<0.0001) and 60.2 percent of participants achieved at least 25 percent
+reduction in most hunger scores from baseline at approximately 52 weeks of therapy (p<0.0001).
+
+ 
+
+Consistent with prior clinical experience,
+setmelanotide was observed to be generally well tolerated. Treatment-emergent adverse events included mild injection site reactions
+and nausea with infrequent vomiting. There were no serious adverse events related to treatment with setmelanotide. Eight patients discontinued
+from study drug treatment during the trial, five due to adverse events (one on placebo at the time), and three for other reasons
+(one on placebo at the time).
+
+ 
+
+We plan to complete regulatory submissions
+to both the FDA and the European Medicines Association for BBS in the second half of 2021. We expect to determine the next steps
+for Alström syndrome upon completing a full analysis of the final data from this trial in the first half of 2021. We anticipate
+sharing the full data from this Phase 3 clinical trial in a forthcoming publication or in a presentation at an upcoming medical
+meeting.
+
+ 
+
+BMI-Z Data from Phase 3 Clinical Trials
+
+ 
+
+On January 26, 2021, we presented new,
+predefined, exploratory endpoint data from our Phase 3 clinical trial in patients with BBS and AS, showing the results of setmelanotide
+on BMI-Z scores for patients younger than 18 years old with BBS. The BMI-Z score, or BMI standard deviation score, represents
+the number of standard deviations from median BMI by child age and sex, and measures relative weight adjusted for a child’s
+age and sex.
+
+ 
+
+In 16 patients younger than 18 with BBS,
+setmelanotide was associated with statistically significant and clinically meaningful reductions in BMI-Z scores. In these patients,
+the mean BMI-Z score was reduced from 3.74 at baseline to 2.98 for a reduction of -0.76, or -24.5 percent (p=0.0006).
+
+ 
+
+We had also evaluated BMI Z-scores in
+our previous pivotal trials as a predefined, exploratory endpoint. In six patients younger than 19 with POMC
+deficiency obesity, the mean BMI-Z score was reduced from 3.35 at baseline to 1.73 for a reduction of -1.6, or -49.2%
+(p=0.007). In three patients younger than 19 with LEPR deficiency obesity, the mean BMI-Z score was reduced from 3.52
+at baseline to 3.03 for a reduction of -0.49, or -13.4% (p=0.012).
+
+ 
+
+ 
+
+ 
+
+ 
+
+Updated U.S. Prevalence Estimates for Basket Study Indications
+
+ 
+
+We have increased our internal database
+of sequencing samples to approximately 37,500. We are using these data to support our research, patient finding and community
+building efforts in order to better understand rare genetic diseases of obesity. Our genetic sequencing results demonstrated that
+approximately 10 to 15 percent of obese individuals sampled as of September 30, 2020, showed a relevant MC4R pathway genotype
+in the POMC, PCSK1, and LEPR HETs and SRC1 or SH2B1 genes. We estimate, based on a combination of
+these sequencing yields, as well as clinical data on setmelanotide response rates among patients with variants in these genes,
+that there are 100,000 to 200,000 potentially setmelanotide-responsive patients in the United States.
+
+ 
+
+Exploratory Basket Study in an Additional 31 MC4R Pathway
+Genes
+
+ 
+
+On January 26, 2021, we presented new data
+generated from our proprietary gene curation and selection strategy, which is designed to evaluate a gene’s relevance to
+the MC4R pathway with the goal of identifying genetic patient populations with the potential to benefit from setmelanotide therapy.
+Using this proprietary approach, we identified an additional 31 MC4R pathway genes with strong or very strong pathway relevance.
+Pending discussions with the FDA, we plan to initiate a new exploratory MC4R pathway basket trial in patients with these 31 new
+genes in the second half of 2021.
+
+ 
+
+Other Clinical Updates
+
+ 
+
+In the first half of 2021, we plan to initiate
+a Phase 2 clinical trial in hypothalamic obesity, initiate a potentially registrational clinical trial of the weekly formulation
+of setmelanotide, and announce data from a Phase 2 basket study in MC4R-recusable patients. In the second half of 2021, we plan to initiate
+a clinical trial of setmelanotide in pediatric patients aged two to six and expect to receive a decision from the EMA on our MAA
+for setmelanotide to treat individuals living with POMC or LEPR deficiency obesities.
+
+ 
+
+PRV Transfer
+
+ 
+
+On January 5, 2021, we entered into an
+asset purchase agreement with Alexion Pharmaceuticals, Inc., or Alexion, pursuant to which we agreed to sell our Rare Pediatric
+Disease Priority Review Voucher, PRV, to Alexion, or the PRV Transfer. We were awarded the voucher under a FDA program intended
+to encourage the development of certain rare pediatric disease product applications. We received the PRV when IMCIVREE was approved
+by the FDA. Pursuant to the transfer agreement, Alexion agreed to pay us $100 million in cash upon the closing of the sale. The
+transaction remains subject to customary closing conditions, including the expiration or termination of the applicable waiting
+period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976.
+
+ 
+
+Preliminary Financial Information
+
+ 
+
+Our audited financial statements for the
+year ended December 31, 2020 will not be available until after this offering is completed and consequently will not be available
+to you prior to investing in this offering. Based upon preliminary estimates and information available to us as of the date of
+this prospectus supplement, we expect to report that we had approximately $173.0 million of cash, cash equivalents and short-term
+investments as of December 31, 2020. Based on our current plans, we believe our existing cash, cash equivalents and short term-investments
+and the expected proceeds from the PRV Transfer will be sufficient to fund our operations into the second half of 2022.
+
+ 
+
+We have not yet completed our financial
+close process for the year ended December 31, 2020. This estimate of our cash, cash equivalents and short-term investments as
+of December 31, 2020 is preliminary and is subject to change upon completion of our financial statement closing procedures. There
+can be no assurance that our final cash position as of December 31, 2020 will not differ from these estimates, including as a
+result of review adjustments and any such changes could be material. Our independent registered public accountants have not audited,
+reviewed or performed any procedures with respect to such preliminary financial data and accordingly do not express an opinion
+or any other form of assurance with respect thereto. These results could change as a result of further review. Complete
+results will be included in our Annual Report on Form 10-K for the year ended December 31, 2020.
+
+ 
+
+Risks Related to the Development of Setmelanotide
+
+ 
+
+The number of patients suffering from each of the MC4R
+pathway deficiencies we are targeting is small and has not been established with precision. If the actual number of patients is
+smaller than we estimate, our revenue and ability to achieve profitability may be materially adversely affected.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Due to the rarity of our target indications,
+there is no comprehensive patient registry or other method of establishing with precision the actual number of patients with MC4R
+pathway deficiencies. As a result, we have had to rely on other available sources to derive clinical prevalence estimates for
+our target indications. In addition, we have internal genetic sequencing results from approximately 37,500 patients, as of September
+30, 2020, with severe obesity that provide another approach to estimating prevalence. Since the published epidemiology studies
+for these genetic deficiencies are based on relatively small population samples, and are not amenable to robust statistical analyses,
+it is possible that these projections may significantly exceed the addressable population, particularly given the need to genotype
+patients to definitively confirm a diagnosis.
+
+ 
+
+Based on multiple epidemiological methods, we have
+estimated the potential addressable patient populations with these MC4R pathway deficiencies based on the following sources and
+assumptions:
+
+ 
+
+ 
+
+·
+
+POMC Deficiency Obesity. POMC Deficiency Obesity is defined by the presence of biallelic variants in the POMC or
+PCSK1 genes that are interpreted as pathogenic, likely pathogenic, or of uncertain significance (VOUS). Our addressable
+patient population estimate for POMC deficiency obesity is approximately 100 to 500 patients in the United States, with a
+comparable addressable patient population in Europe. Our estimates are based on:
+
+ 
+
+ 
+
+·
+
+approximately 50 patients with POMC deficiency obesity noted in a series of published case reports, each mostly reporting
+a single or small number of patients. However, we believe our addressable patient population for this deficiency may be approximately
+100 to 500 patients in the United States, and a comparable addressable patient population in Europe, as most of the reported
+cases are from a small number of academic research centers, and because genetic testing for POMC deficiency obesity is often
+unavailable and currently is rarely performed;
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+our belief, based on discussions with experts in rare diseases, that the number of diagnosed cases could increase several-fold
+with increased awareness of this deficiency and the availability of new treatments;
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+U.S. Census Bureau figures for adults and children, and Centers for Disease Control and Prevention, or CDC, prevalence
+numbers for severe adult obese patients (body mass index, or BMI, greater than 40 kg/m2) and for severe early onset
+obese children (99th percentile at ages two to 17 years old); and
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+our internal sequencing yield for POMC deficiency obesity patients (including both POMC and PCSK1 gene disorders), defined as patients having biallelic variants in the POMC or PCSK1 genes that are interpreted
+as pathogenic, likely pathogenic, or of uncertain significance (VOUS), of approximately 0.05%.
+
+ 
+
+ 
+
+·
+
+LEPR Deficiency Obesity. LEPR Deficiency Obesity is defined by the presence of biallelic variants in the LEPR gene
+that are interpreted as pathogenic, likely pathogenic, or of uncertain significance (VOUS). Our addressable patient
+population estimate for LEPR deficiency obesity is approximately 500 to 2,000 patients in the United States, with a
+comparable addressable patient population in Europe. Our estimates are based on:
+
+ 
+
+ 
+
+·
+
+epidemiology studies on LEPR deficiency obesity in small cohorts of patients comprised of children with severe obesity
+and adults with severe obesity who have a history of early onset obesity;
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+U.S. Census Bureau figures for adults and children and CDC prevalence numbers for severe adult obese patients (BMI, greater
+than 40 kg/m2) and for severe early onset obese children (99th percentile at ages two to 17 years old);
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+with wider availability of genetic testing expected for LEPR deficiency obesity and increased awareness of new treatments,
+our belief that up to 40% of patients with these disorders may eventually be diagnosed; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+our internal sequencing yield for LEPR deficiency obesity patients, defined as patients having biallelic variants in the
+LEPR gene that are interpreted as pathogenic, likely pathogenic, or of uncertain significance (VOUS), of approximately 0.09%.
+
+ 
+
+ 
+
+·
+
+Bardet-Biedl Syndrome. Our addressable patient population estimate for BBS is approximately 1,500 to 2,500
+patients in the United States based on:
+
+ 
+
+ 
+
+·
+
+published prevalence estimates of one in 100,000 in North America, which projects to approximately 3,250 people in the
+United States. We believe the majority of these patients are addressable patients; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+our belief that with wider availability of genetic testing expected for BBS and increased awareness of new treatments,
+the number of patients diagnosed with this disorder will increase.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+Alström Syndrome. Our addressable patient population estimate for Alström syndrome is approximately
+1,000 patients worldwide and approximately 500 patients in the United States. This estimate is based on:
+
+ 
+
+ 
+
+·
+
+published prevalence estimates of one in 1,000,000 in North America, which projects to approximately 325 people in the
+United States. We believe the majority of these patients are addressable patients; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+our belief that with wider availability of genetic testing expected for Alström syndrome and increased awareness
+of new treatments, the number of patients diagnosed with this disorder will increase.
+
+ 
+
+ 
+
+·
+
+POMC, PCSK1, or LEPR Heterozygous Deficiency Obesities; SRC1 and SH2B1 Deficiency Obesities. Our potential setmelanotide-responsive
+patient population estimate for POMC, PCSK1, or LEPR heterozygous, SRC1 and SH2B1 deficiency obesity patients with at least
+one variant interpreted as pathogenic, likely pathogenic, or of uncertain significance (VOUS) is 100,000 to 200,000 patients
+in the United States. Our estimates are
+based on:
+
+ 
+
+ 
+
+·
+
+U.S. Census Bureau figures for adults and children and CDC prevalence numbers for severe adult obese patients (BMI greater
+than 40 kg/m2) and for severe early onset obese children (99th percentile at ages two to 17 years old);
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+our internal sequencing yield of patients with POMC, PCSK1, or LEPR heterozygous, SRC1 or SH2B1 variants interpreted as
+pathogenic, likely pathogenic, or of uncertain significance (VOUS)of approximately 10-15%; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+a clinical response rate of 40% for patients carrying pathogenic or likely pathogenic variants, and 20% for patients carrying
+a variant of uncertain significance (VOUS).
+
+ 
+
+The clinical response rate used in this
+calculation is based on the clinical data currently available to us from our trials and may change as more data become available.
+
+ 
+
+ 
+
+·
+
+MC4R Deficiency Obesity. Our addressable patient population estimate for MC4R deficiency obesity is approximately
+greater than 10,000 patients in the United States. This estimate is based on:
+
+ 
+
+ 
+
+·
+
+U.S. Census Bureau figures for adults and children and CDC prevalence numbers for severe adult obese patients (BMI, greater
+than 40 kg/m2) and for severe early onset obese children (99th percentile at ages two to 17 years old); and
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+our internal sequencing yield for MC4R deficiency obesity patients of approximately 2.0% prior to application of functional
+filters.
+
+ 
+
+ 
+
+·
+
+Smith-Magenis Syndrome. Our addressable patient population estimate for Smith-Magenis syndrome is approximately
+greater than 2,400 patients in the United States. This estimate is based on:
+
+ 
+
+ 
+
+·
+
+published prevalence estimates of one in 25,000 in the United States, which projects to approximately 13,000 people in
+the United States;
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+published prevalence estimates that approximately 10% of patients with Smith-Magenis syndrome have RAI1 variants that
+may affect the MC4R pathway and 90% of patients with Smith-Magenis syndrome have 17p11.2 chromosomal deletions which also
+may affect the MC4R pathway, of which approximately 67% and 13%, respectively, live with obesity; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+·
+
+U.S. Census Bureau figures for total population of adults and children.
+
+ 
+
+We believe that the patient populations
+in the European Union, or EU, are at least as large as those in the United States. However, we do not have comparable epidemiological
+data from the EU and these estimates are therefore based solely on applying relative population percentages to the company-derived
+estimates described above.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Defining the exact genetic variants that
+result in MC4R pathway disorders is complex, so if any approval that we obtain is based on a narrower definition of these patient
+populations than we had anticipated, then the potential market for setmelanotide for these indications will be smaller than we
+originally believed. In either case, a smaller patient population in our target indications would have a materially adverse effect
+on our ability to achieve commercialization and generate revenues.
+
+ 
+
+Our approach to treating patients with MC4R pathway
+deficiencies requires the identification of patients with unique genetic subtypes, for example, POMC genetic deficiency. The
+FDA or other equivalent competent authorities in foreign jurisdictions could require the clearance, approval or CE marking of
+an in vitro companion diagnostic device to ensure appropriate selection of patients as a condition of approving setmelanotide
+in additional indications. The requirement that we obtain clearance, approval or CE mark of an in vitro companion diagnostic device will require
+substantial financial resources, and could delay or prevent the receipt of additional regulatory approvals for setmelanotide,
+or adversely affect those we have already obtained.
+
+ 
+
+We have focused our development of
+setmelanotide as a treatment for obesity caused by certain genetic deficiencies affecting the MC4R pathway. To date, we have
+employed in vitro genetic diagnostic testing to select patients for enrollment in our clinical trials, including our
+clinical trials for IMCIVREE and for other potential indications for setmelanotide. If the safe and effective use of any of
+our product candidates depends on an in vitro diagnostic that is not otherwise commercially available, then the FDA
+may require approval or clearance of that diagnostic, known as a companion diagnostic, at the same time as, or in connection
+with, the FDA approval of such product candidates.
+
+ 
+
+If the FDA or a comparable regulatory
+authority requires clearance or approval of a companion diagnostic for setmelanotide, any delay or failure by us or our
+current and future collaborators to develop or obtain regulatory clearance or approval of, or to CE mark, such tests, if
+necessary, could delay or prevent us from obtaining additional approvals for setmelanotide, or adversely affect the approvals
+we have already obtained. For example, in November 2020, FDA approved IMCIVREE for chronic weight management in adult and
+pediatric patients 6 years of age and older with obesity due to POMC, PCSK1, or LEPR deficiencies confirmed by genetic
+testing demonstrating variants in POMC, PCSK1, or LEPR genes that are interpreted as pathogenic, likely pathogenic, or of
+uncertain significance. Although the FDA did not require that we obtain approval of a companion diagnostic prior to approving
+the New Drug Application, or NDA, for IMCIVREE, in connection with the NDA approval we agreed as a post-marketing commitment
+to conduct adequate analytical and clinical validation testing to develop and establish an in-vitro companion
+diagnostic device to accurately and reliably detect patients with variants in the POMC, PCSK1, and LEPR genes that may
+benefit from setmelanotide therapy. In September 2020, our collaboration partner, Prevention Genetics, submitted a de novo
+request seeking FDA authorization to market such an in-vitro companion diagnostic device for IMCIVREE as a Class II
+medical device. In December 2020, the FDA sent Prevention Genetics a major deficiency letter in response to the de novo
+request, which among other things, placed the review on hold and requested additional information needed to support the
+requested device classification. Although we believe that Prevention Genetics will be able to resolve the issues identified
+in the major deficiency letter, they may be unsuccessful in doing so, and Prevention Genetics may be required to submit and
+obtain approval of a PMA application for the in-vitro companion diagnostic device before we are able to fulfill our
+post-marketing commitment to FDA, which would lead to further delay and could entail significant additional expense. If we
+are unable to fulfill our postmarket commitments for IMCIVREE in a timely manner, the FDA could take enforcement action
+against us, which could adversely affect our prospects. Further, if the FDA or a comparable regulatory authority requires clearance or approval of a companion diagnostic when we seek additional
+approvals for setmelanotide, any delay or failure by us or our current and future collaborators to develop or obtain regulatory clearance
+or approval of, or to CE mark, such tests, if necessary, could delay or prevent us from obtaining such additional approvals for setmelanotide,
+or adversely affect the approvals we have already obtained.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report contains forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements contained in this Current
+Report that do not relate to matters of historical fact should be considered forward-looking statements, including without limitation
+statements regarding the sufficiency of our existing cash, cash equivalents and short term-investments and the expected proceeds
+from the PRV Transfer, timing and expansion of clinical trials, the number of U.S. patients with HET obesity or SRC1 or SH2B1
+deficiency obesity who may be responsive to setmelanotide, prevalence estimates, regulatory plans, and future development for
+the treatment of Alström syndrome. Statements using words such as “expect”, “anticipate”, “believe”,
+“may”, “will” and similar terms are also forward-looking statements. Such statements are subject to numerous
+risks and uncertainties, including, but not limited to, the impact of our ability to enroll patients in clinical trials, the design
+and outcome of clinical trials, the impact of competition, the ability to achieve or obtain necessary regulatory approvals, risks
+associated with data analysis and reporting, our liquidity and expenses, the impact of the COVID-19 pandemic on our business and
+operations, including our preclinical studies, clinical trials and commercialization prospects, and general economic conditions,
+and the other important factors discussed under the caption “Risk Factors” in our Quarterly Report on Form 10-Q for
+the quarterly period ended September 30, 2020 and our other filings with the Securities and Exchange Commission. Except as required
+by law, we undertake no obligations to make any revisions to the forward-looking statements contained in this Current Report or
+to update them to reflect events or circumstances occurring after the date of this Current Report, whether as a result of new
+information, future developments or otherwise.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+Date: February 3, 2021
+
+By:
+
+/s/ Hunter Smith  
+
+ 
+
+Name:    
+
+Hunter
+Smith
+
+ 
+
+Title:
+
+Chief
+Financial Officer

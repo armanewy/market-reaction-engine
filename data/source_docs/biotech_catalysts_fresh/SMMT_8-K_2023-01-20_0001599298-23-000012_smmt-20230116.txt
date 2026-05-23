@@ -1,0 +1,222 @@
+smmt-20230116
+0001599298FALSEDecember 3100015992982023-01-162023-01-16
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of Earliest Event Reported): January 16, 2023
+
+ 
+
+Summit Therapeutics Inc.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+001-36866
+
+37-1979717
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+2882 Sand Hill Road, Suite 106, Menlo Park, CA
+
+94025
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 617-514-7149
+
+ 
+
+Not applicable
+
+(Former Name or Former Address, If Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common stock, $0.01 par value per share
+
+SMMT
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Common Stock Issuance Agreement
+
+As previously disclosed, on December 5, 2022, we entered into a Collaboration and License Agreement (the “License Agreement”) with Akeso, Inc. and its affiliates (“Akeso”) and certain ancillary transaction documents as set forth in the License Agreement. The License Agreement closed on January 17, 2023, and both Akeso and Summit entered into the Common Stock Issuance Agreement (“Issuance Agreement”). Pursuant to the License Agreement and Issuance Agreement, Akeso elected to receive 10 million shares of Company common stock in lieu of cash and was paid $274.9 million dollars in cash as the initial upfront payment. The $200 million remaining amount of the $500 million upfront payment is payable March 5, 2023.
+
+The Company and Akeso also entered into Amendment No. 1 to the License Agreement, dated January 16, 2023 (the “License Agreement Amendment”), to modify the Akeso party receiving payments under the License Agreement from Akeso Biopharma Co., Ltd. to Akeso, Inc.
+
+The foregoing descriptions of the License Agreement Amendment and Issuance Agreement do not purport to be complete and are qualified their entirety by reference to their full text, filed as Exhibits 10.1 and 10.2, respectively to this Current Report on Form 8-K and incorporated herein by reference.
+
+A copy of the press release related to the matters set forth herein is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Rectification of Notes Issued Pursuant to the Note Purchase Agreement
+
+As previously disclosed, On December 6, 2022, Summit and Robert W. Duggan (“Mr. Duggan”) entered into those certain Promissory Notes pursuant to which the Company promised to pay to Mr. Duggan or his successors or assigns, four hundred million dollars (“Original Note 1”) and one hundred million dollars (“Original Note 2”, and collectively with Original Note 1, the “Original Notes”), along with any interest, fees, charges, and late fees on their respective maturity dates. Summit and Mr. Duggan have rectified the Original Notes in order to correctly reflect the parties’ intent in the Original Notes that Summit may only prepay (i) Original Note 1 following the completion of a public rights offering to be conducted by Summit in the approximate amount of five hundred million dollars (the “Rights Offering”), or a similar capital raise, in an amount equal to the lesser of (x) the net proceeds of the Rights Offering or such capital raise or (y) the full amount outstanding of the respective Note, and (ii) Original Note 2 following the completion of a capital raising transaction subsequent to the Rights Offering in an amount equal to the lesser of (i) the net proceeds of such capital raise or (ii) the full amount outstanding of the respective Note. Following the issuance of the two new Promissory Notes (the “Promissory Notes”), the Original Notes were marked as “cancelled” on their face and replaced in their entirety by the Promissory Notes.
+
+The foregoing descriptions of the Promissory Notes do not purport to be complete and are qualified in their entirety by reference to their full text, filed as Exhibits 10.3 respectively to this Current Report on Form 8-K and incorporated herein by reference.
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+
+Upon the closing of the License Agreement, the Board of Directors (the “Board”) of the Company appointed Dr. Yu (Michelle) Xia to serve as a member of the Board pursuant to the terms of the License Agreement.
+
+Item 5.03
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+On January 19, 2023, Summit filed Amendment No. 2 to the Restated Certificate of Incorporation (the “Amendment No. 2”) with the Secretary of State of the State of Delaware to increase the number of authorized shares of our common stock by 650,000,000 (from 350,000,000 to 1,000,000,000), which became effective on such date. A copy of Amendment No. 2 is included as Exhibit 5.1 and is incorporated herein by reference.
+
+Item 8.01
+
+Other Events.
+
+Given the Company’s recent collaboration and license agreement with Akeso and shift in focus to oncology, the Company will cease further investments in the Discuva platform and evaluate further options for the use of the Discuva Platform. Based on the evaluation of further options for the use of the Discuva Platform, the Company will assess the carrying value of the acquired Discuva Platform intangible asset.
+
+Since December 2017, we have used our Discuva Platform to identify our DDS-04 series, a novel chemotype active against a clinically unexploited bacterial target that has the potential to treat Enterobacteriaceae infections. Our lead preclinical candidate for the Enterobacteriaceae program from the DDS-04 series is SMT-738. SMT-738 is a novel small molecule inhibitor of the essential bacterial lipoprotein transport system (LolCDE) in Gram-negative bacteria, which displays a narrow spectrum of activity towards Enterobacteriaceae. We have been and plan to continue to perform IND-enabling activities for SMT-738. We have been and will continue to pursue partnership discussions to continue the development of SMT-738.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit Number
+
+Description
+
+5.1
+
+Amendment No. 2 to the Restated Certificate of Incorporation
+
+10.1
+
+Amendment No. 1 to Collaboration and License Agreement Amendment, dated January 16, 2023, by and among Summit Therapeutics Inc. and Akeso, Inc.
+
+10.2
+
+Common Stock Issuance Agreement, dated January 17, 2023, by and among Summit Therapeutics Inc. and Akeso, Inc.
+
+10.3
+
+Promissory Notes, dated January 19, 2023, by and among Summit Therapeutics Inc. and Robert W. Duggan
+
+99.1
+
+Press Release, dated January 20, 2023
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+SUMMIT THERAPEUTICS INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: January 20, 2023
+
+By:
+
+/s/ Ankur Dhingra
+
+ 
+
+ 
+
+Chief Financial Officer
+
+ 
+
+ 
+
+(Principal Financial Officer)

@@ -1,0 +1,373 @@
+false
+0001604821
+
+0001604821
+
+2025-12-04
+2025-12-04
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+December 4, 2025
+
+ 
+
+ 
+
+ 
+
+Natera, Inc.
+
+(Exact name of registrant as specified
+in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37478
+
+ 
+
+01-0894487
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+13011 McCallen Pass
+
+Building A Suite 100
+
+Austin, TX 78753
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+(650)
+980-9190
+
+(Registrant’s telephone number,
+including area code)
+
+ 
+
+N/A
+
+(Former name or
+former address, if changed since last report)
+
+ 
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the
+Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+NTRA
+
+ 
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 3.02.
+
+Unregistered Sales of Equity Securities.
+
+ 
+
+On December 4, 2025, Natera, Inc. (the “Company”)
+acquired Foresight Diagnostics Inc. (“Foresight”), a privately held cancer diagnostics company and Clinical Laboratory Improvement
+Amendments-registered laboratory that specializes in molecular residual disease detection in B-cell lymphomas, pursuant to that certain
+Agreement and Plan of Merger, dated as of October 10, 2025, by and among the Company, Falcon Acquisition Sub, Inc., a wholly owned subsidiary
+of the Company, Foresight and Fortis Advisors, LLC (the “Merger Agreement”). As consideration for the acquisition, the Company
+agreed to issue to the stockholders of Foresight: (i) 1,127,982 shares of common stock, par value $0.0001 per share (the “Common
+Stock”), of the Company (the “Consideration Shares”); and (ii) an estimated 824,583 additional shares that may become
+issuable to the stockholders of Foresight after the closing of the transactions pursuant to the Merger Agreement (the “Potentially
+Issuable Shares”), consisting of (a) shares held in an escrow account that may be released to the stockholders of Foresight pursuant
+to the terms of the Merger Agreement, (b) shares that may become issuable to the stockholders of Foresight as milestone payments pursuant
+to the terms of the Merger Agreement, contingent upon the achievement of milestones specified in the Merger Agreement, (c) shares that
+may become issuable to the stockholders of Foresight pursuant to certain post-closing purchase price adjustments pursuant to the terms
+of the Merger Agreement and (d) shares that may become issuable to the stockholders of Foresight in accordance with a formula set forth
+in the Merger Agreement (the “Price Protection Shares”).
+
+ 
+
+The number of Potentially Issuable Shares is based on a
+good faith estimate of the number of shares issuable to the stockholders of Foresight pursuant to the Merger Agreement within the next
+three years, and such amount is not an indication or prediction of how many of such shares will ultimately be issued, because the actual
+number of shares issuable depends on a variety of factors, including whether there are any post-closing adjustments to the purchase price,
+the actual number of shares released from escrow, the future trading price of the Common Stock, the prices and volumes at which shares
+may be resold by the stockholders of Foresight within the specified price protection period and whether certain milestones are achieved,
+among other things.
+
+ 
+
+The issuance of the Consideration Shares and the Potentially Issuable
+Shares that the Company elects to issue will not be initially registered under the Securities Act of 1933, as amended (the “Securities
+Act”), or any state securities laws. Based in part upon the representations of the stockholders of Foresight in the Merger Agreement,
+the Company has relied on the exemption from the registration requirements of the Securities Act under Section 4(a)(2) thereof for a transaction
+by an issuer not involving any public offering. In connection with the closing of the transaction, the Company also intends to file an
+automatically effective registration statement on Form S-3, registering for re-sale the Consideration Shares and the Potentially Issuable
+Shares.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+ 
+
+On December 5, 2025, the Company issued a press release announcing
+its acquisition of Foresight. A copy of the press release is filed herewith as Exhibit 99.1 to this Current Report on Form 8-K and incorporated
+herein by reference.
+
+ 
+
+Forward-Looking Statements 
+
+ 
+
+All statements other than statements of historical facts contained
+in this Current Report on Form 8-K are forward-looking statements and are not a representation that the Company’s plans, estimates,
+or expectations will be achieved. These forward-looking statements, including those regarding the issuance of the Potentially Issuable
+Shares, represent the Company’s expectations as of the date of this Current Report on Form 8-K, and are based on current expectations
+and are subject to risks and uncertainties that could cause actual results to differ materially, including whether there are any post-closing
+adjustments to the purchase price, the actual number of shares released from escrow, the future trading price of the Common Stock, the
+prices and volumes at which shares may be resold by the stockholders of Foresight within the specified price protection period and whether
+certain milestones are achieved. Additional risks and uncertainties are discussed in greater detail in “Risk Factors” in the
+Company’s recent filings on Forms 10-K and 10-Q and in other filings the Company makes with the U.S. Securities and Exchange Commission
+from time to time.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+99.1
+
+ 
+
+Press Release dated December 5, 2025.
+
+104
+
+ 
+
+Cover Page Interactive Data File (formatted as inline XBRL).
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+ 
+
+ 
+
+Natera, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Michael Brophy
+
+ 
+
+ 
+
+Michael Brophy
+
+ 
+
+ 
+
+Chief Financial Officer (Principal Financial and Accounting Officer)
+
+ 
+
+Dated: December 5, 2025

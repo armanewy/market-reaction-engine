@@ -1,0 +1,62 @@
+EX-99.1
+2
+exhibit991asco.htm
+EX-99.1
+
+Document
+
+MacroGenics Announces Preliminary Clinical Results from MGD013 and MGC018 to be Presented at the ASCO Annual Meeting
+
+Rockville, MD, May 13, 2020 (GLOBE NEWSWIRE) – MacroGenics, Inc. (NASDAQ: MGNX), a clinical-stage biopharmaceutical company focused on discovering and developing innovative monoclonal antibody-based therapeutics for the treatment of cancer, today announced preliminary results from two of its investigational pipeline molecules. Data covering safety and preliminary anti-tumor activity from the Phase 1 dose escalation and expansion clinical trial of MGD013, a bispecific, tetravalent DART® molecule binding PD-1 and LAG-3, and the Phase 1 dose expansion study of MGC018, an antibody-drug conjugate (ADC) targeting B7-H3, will be presented at the American Society of Clinical Oncology (ASCO) upcoming ASCO20 Virtual Scientific Program to be held May 29-31, 2020.
+
+“We are encouraged by the early demonstration of activity of MGD013, our PD-1 x LAG-3 DART molecule, particularly in combination with margetuximab, our investigational Fc-engineered monoclonal antibody targeting HER-2, where preliminary observations in a Phase 1 trial suggest a response in approximately 40% of late-stage HER-2-positive tumors that compares favorably to low response rates for HER-2-directed agents and checkpoint blockade reported historically. Our rationale for combining MGD013 and margetuximab is based on early scientific insights that antibody Fc-engineering could potentially activate immune effector cells, resulting in upregulation of checkpoint molecules, such as LAG-3, PD-1 and PD-L1, which could be targeted for blockade by bispecific DART molecules like MGD013,” said Scott Koenig, M.D., Ph.D., President and CEO of MacroGenics. “Separately, we are also very encouraged by early results from an ongoing Phase 1 study of MGC018, an ADC directed against B7-H3, a molecule highly expressed on solid tumors and associated with poor clinical outcome. In this dose-escalation study, we have observed preliminary signals of anti-tumor effects, including prostate-specific antigen, or PSA, reductions of 50% or more in five of seven patients with late-stage prostate cancer.”
+
+Summary of Selected ASCO Presentations
+
+“A phase I, first-in-human, open-label, dose-escalation study of MGD013, a bispecific DART molecule binding PD-1 and LAG-3, in patients with unresectable or metastatic neoplasms” (Abstract #3004)
+
+MGD013 is designed to independently or coordinately block PD-1 and LAG-3 checkpoint molecules to sustain or restore the function of exhausted T cells for the treatment of cancer. In the dose-escalation part of the study, 53 patients with advanced tumors were treated with MGD013 given intravenously in cohorts of escalating flat doses of 1-1200 mg every two weeks. A maximum tolerated dose was not identified. A flat dose of 600 mg every two weeks was selected for tumor-specific expansion cohorts. At the April 25, 2020 data cut-off, 205 patients with advanced solid and hematologic neoplasms have been treated with MGD013 monotherapy in the ongoing dose-expansion part of the study, of which 152 were evaluable for response. An additional 21 patients with advanced HER2-positive tumors, including 14 who were evaluable for response, were treated with the combination of margetuximab, an investigational Fc-
+
+engineered monoclonal antibody targeting HER-2, at 15 mg/kg and MGD013 at flat doses of 300 mg or 600 mg, both given every three weeks. Anti-tumor activity was assessed by Response Evaluation Criteria in Solid Tumors (RECIST). For more information about the study design, please visit ClinicalTrials.gov (NCT03219268).
+
+The overall safety profile of MGD013 in the Phase 1 study, including the incidence of immune-mediated adverse events, appears generally consistent with anti-PD-1 antibody monotherapy with respect to event type and frequency. Anti-tumor activity of MGD013 as monotherapy has been observed in evaluable patients across several of the tumor types in the selected dose expansion cohorts. Objective response rates (ORR), including both confirmed and unconfirmed responses, and disease control rates (DCR), comprising both confirmed objective responses and stable disease, were observed as follows: triple negative breast cancer (17% ORR, 4 of 23 patients; 39% DCR, 9 of 23 patients), epithelial ovarian cancer (9% ORR, 2 of 23 patients; 52% DCR, 12 of 23 patients) and non-small cell lung cancer (checkpoint inhibitor naïve: 21% ORR, 3 of 14 patients; 64% DCR, 9 of 14 patients; and post anti-PD-1: 13% ORR, 2 of 15 patients; 53% DCR, 8 of 15 patients). Response to MGD013 monotherapy was associated with LAG-3 expression and an IFN-γ gene signature at baseline.
+
+Immune effector cell activation and LAG-3, PD-1 and PD-L1 expression are enhanced in vitro by Fc-engineered margetuximab. An expansion cohort of patients with advanced HER2-positive tumors is being treated with margetuximab plus MGD013 to evaluate whether Fc-engineering can enhance tumor responsiveness to checkpoint blockade and improve clinical outcomes in patients. Objective responses were observed in 6 of 14 (43%) evaluable patients treated with margetuximab and MGD013, of which four have been confirmed, with tumor-shrinkage observed in other patients. Responses were observed in patients with a range of relapsed or refractory HER2-positive tumor types. In contrast with the monotherapy finding, in the combination cohort, the majority of responders whose baseline tumors were evaluated were negative for (or expressed low levels of) LAG-3 or PD-L1. All responders remain on therapy.
+
+These results and additional details will be presented during an oral session titled: Developmental Therapeutics—Immunotherapy.
+
+“Preliminary dose escalation results from a phase I/II, first-in-human study of MGC018 (anti-B7-H3 antibody-drug conjugate) in patients with advanced solid tumors” (Abstract #3071, Poster #135)
+
+MGC018 is designed to deliver a DNA alkylating duocarmycin payload to dividing and non-dividing cells that express B7-H3, a ligand that is highly expressed on many solid tumors and is associated with a poor clinical outcome. At the May 6, 2020 data cut-off, 23 patients with advanced solid tumors had been enrolled in four dose escalation cohorts of 0.5 mg/kg to 3 mg/kg given intravenously every three weeks. Enrollment is ongoing in a fifth cohort at 4 mg/kg every three weeks. For information about the study design, please visit ClinicalTrials.gov (NCT03729596).
+
+The safety profile of MGC018, which includes hematologic and skin toxicities, has been generally manageable to date. At least one treatment related adverse event occurred in 22 of 24 patients (92%), including Grade ≥3 reported in 14 of 24 patients (58%). Three treatment-related serious adverse events occurred in one patient each: pneumonitis in a patient with concurrent bacterial pneumonia; non-infectious gastroenteritis; and stasis dermatitis in a patient with chronic venous insufficiency. One dose-
+
+limiting toxicity of Grade 4 neutropenia that resolved to baseline was reported. No febrile neutropenia was observed.
+
+Preliminary evidence of anti-tumor activity by MGC018 has been observed, particularly in patients with advanced metastatic castration-resistant prostate cancer (mCRPC). Reductions in PSA levels of ≥50% were observed in five of seven mCRPC patients treated, including one with substantial regression of bone disease. Six mCRPC patients had bone only disease, and one patient with measurable peripheral disease had a 29% reduction in target lesions that did not qualify as a response per RECIST. Four PSA responders remain on therapy. Patients with mCRPC had received a median of four therapies prior to MGC018, including taxane chemotherapy (six patients) and next generation hormonal agents (six patients were treated with both abiraterone and enzalutamide, and one with abiraterone only).
+
+These results and additional details will be presented during a poster session titled: Developmental Therapeutics—Immunotherapy.
+
+ASCO Virtual Presentations
+
+Abstracts for these presentations submitted in February 2020 are available on the ASCO website at www.asco.org. Presentations will be available for on-demand viewing online at https://meetings.asco.org/am/virtual-program beginning on May 29, 2020 at 8:00 a.m. ET.
+
+The static slides and poster will be available on the Events & Presentations page on MacroGenics’ website at http://ir.macrogenics.com/events.cfm.
+
+About MacroGenics, Inc.
+
+MacroGenics is a clinical-stage biopharmaceutical company focused on discovering and developing innovative monoclonal antibody-based therapeutics for the treatment of cancer. The Company generates its pipeline of product candidates primarily from its proprietary suite of next-generation antibody-based technology platforms, which have applicability across broad therapeutic domains. The combination of MacroGenics' technology platforms and protein engineering expertise has allowed the Company to generate promising product candidates and enter into several strategic collaborations with global pharmaceutical and biotechnology companies. For more information, please see the Company's website at www.macrogenics.com. MacroGenics, the MacroGenics logo and DART are trademarks or registered trademarks of MacroGenics, Inc.
+
+Cautionary Note on Forward-Looking Statements
+
+Any statements in this press release about future expectations, plans and prospects for the Company, including statements about the Company's strategy, future operations, clinical development of the Company's therapeutic candidates, milestone or opt-in payments from the Company's collaborators, the Company's anticipated milestones and future expectations and plans and prospects for the Company and other statements containing the words "subject to", "believe", "anticipate", "plan", "expect", "intend", "estimate", "project", "may", "will", "should", "would", "could", "can", the negatives thereof, variations thereon and similar expressions, or by discussions of strategy constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Actual results may differ materially from those indicated by such
+
+forward-looking statements as a result of various important factors, including: the uncertainties inherent in the initiation and enrollment of future clinical trials, expectations of expanding ongoing clinical trials, availability and timing of data from ongoing clinical trials, expectations for the timing and steps required in the regulatory review process, expectations for regulatory approvals, the impact of competitive products, our ability to enter into agreements with strategic partners and other matters that could affect the availability or commercial potential of the Company's product candidates, business or economic disruptions due to catastrophes or other events, including natural disasters or public health crises such as the novel coronavirus (referred to as COVID-19), and other risks described in the Company's filings with the Securities and Exchange Commission. In addition, the forward-looking statements included in this press release represent the Company's views only as of the date hereof. The Company anticipates that subsequent events and developments will cause the Company's views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so, except as may be required by law. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to the date hereof.
+
+Contacts:
+
+Anna Krassowska, Ph.D., Vice President, Investor Relations & Corporate Communications
+
+Jim Karrels, Senior Vice President, CFO
+
+1-301-251-5172, info@macrogenics.com

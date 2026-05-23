@@ -1,0 +1,154 @@
+EX-99.2
+3
+d296665dex992.htm
+EX-99.2
+
+EX-99.2
+
+Bavdegalutamide (ARV-110): Phase 1 Dose
+Escalation and Interim ARDENT Phase 2 Dose Expansion Trial Results February 17, 2022 ASCO Genitourinary Cancers Symposium, 2022 Exhibit 99.2
+
+This presentation contains
+forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995 that involve substantial risks and uncertainties, including statements regarding the potential advantages and therapeutic benefits of
+bavdegalutamide (ARV-110), the development and regulatory status of bavdegalutamide and our other product candidates, and the timing of clinical trials and data from those trials and plans for registration for our product candidates, and the
+potential commercialization of any of our product candidates. All statements, other than statements of historical facts, contained in this presentation, including statements regarding our strategy, future operations, future financial position,
+future revenues, projected costs, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,”
+“may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,”
+“continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations
+disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking
+statements we make as a result of various risks and uncertainties, including but not limited to: whether we will be able to successfully conduct and complete development for bavdegalutamide and our other product candidates, including whether we
+initiate and complete clinical trials for our product candidates, and receive results from our clinical trials on our expected timelines, or at all, and other important factors, any of which could cause our actual results to differ from those
+contained in the forward-looking statements, discussed in the “Risk Factors” section of our quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this presentation
+reflect our current views as of the date of this presentation with respect to future events, and we assume no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be
+relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K. The Arvinas name and logo are our trademarks. We also own the service mark and the registered U.S. trademark
+for PROTAC®. The trademarks, trade names and service marks appearing in this presentation are the property of their respective owners. We have omitted the ® and ™ designations, as applicable, for the trademarks named in this
+presentation. This presentation also contains estimates and other statistical data made by independent parties and by us relating to market size and other data about our industry. This data involves a number of assumptions and limitations, and you
+are cautioned not to give undue weight to such data and estimates. In addition, projections, assumptions and estimates of our future performance and the future performance of the markets in which we operate are necessarily subject to a high degree
+of uncertainty and risk. Safe Harbor and Forward-looking Statement
+
+The Phase 1 trial for bavdegalutamide
+(ARV-110) has completed and nearly all patients in the Phase 2 ARDENT trial have enrolled Data to date demonstrated AR T878X/H875Y mutations correlated with high tumor responsiveness to bavdegalutamide  46% PSA50 in all patients with AR
+T878X/H875Y tumor mutations 2 of 7 RECIST evaluable patients with durable confirmed partial responses; 6 of 7 patients with tumor reductions PSA declines and RECIST responses in tumors without AR T878X/H875Y mutations suggest an opportunity to
+develop bavdegalutamide more broadly in prostate cancer Bavdegalutamide has a manageable tolerability profile The majority of TRAEs are Grade 1 or 2; no Grade ≥4 TRAEs Low rates of discontinuation or dose reduction from the RP2D due to TRAEs
+Potential accelerated path to market via companion diagnostic approach in post-NHA patients; goal of initiating pivotal trial by year end 2022 Robust signals of efficacy and manageable tolerability of bavdegalutamide support a potential path to
+accelerated approval AR=androgen receptor; NHA=novel hormonal agent; PSA=prostate-specific antigen; PSA50=best PSA declines ≥50%; RECIST=Response Evaluation Criteria in Solid Tumors; RP2D=recommended phase 2 dose; TRAEs=treatment-related
+adverse events; T878X=T878A or T878S
+
+Novel therapies for 2L/3L patients
+Post-NHA treatment in earlier-line settings Key Unmet Needs: Migration of novel hormonal agents to earlier settings has created substantial unmet need for new treatments in mCRPC Castration Sensitive (~200k) US Prostate Cancer Treatment Paradigm (#
+of US patients†) Metastatic Castration Resistant (~40k) Non-Metastatic Castration Resistant (~9k) Chemo/Novel Hormonal Agents (NHA) Post-NHA Chemotherapy, PARP inhibitors†††, sipuleucel-T, Ra-223 ADT (Chemical Castration) 2nd
+generation AR-directed therapies†† Novel hormonal agents†† gaining approval in earlier lines of therapy † SEER database, †† Includes enzalutamide, abiraterone, darolutamide, apalutamide,
+††† Approved for BRCA mutant/DNA Deficient Repair (DDR) patients progressed on 2nd gen AR-directed therapies. ADT=androgen deprivation therapy; mCRPC=metastatic castration resistant prostate cancer; NHA=novel hormonal agent;
+PARP=poly (ADP-ribose) polymerase; 2L=second-line; 3L=third-line
+
+Interim results from the Phase 1 dose
+escalation trial (n=37; presented December 2020)* Heavily pretreated patient population, with a median of 5 prior lines of therapy 76% of patients received prior chemotherapy 82% received both abiraterone and enzalutamide 84% had non-AR gene
+mutations Two of five patients (40%) with tumors exhibiting AR T878X/H875Y mutations had PSA reductions >50% One patient with confirmed partial response PSA reductions in patients with non-AR T878X/H875Y tumors RP2D identified (420 mg oral, once
+daily) Previously released interim Phase 1 data for bavdegalutamide suggested a promising efficacy profile Potential first-in-class, oral PROTAC® that degrades wild-type AR and clinically relevant mutants *Data cutoff of Nov. 30, 2020 . **
+Includes all patients dosed above the minimum efficacious threshold and with T878/H875 AR (may include other forms of AR) AR=androgen receptor; PROTAC=PROteolysis TArgeting Chimera; PSA=prostate-specific antigen; PSA50=best PSA declines ≥50%;
+RP2D=recommended phase 2 dose; TRAEs=treatment-related adverse events; T878X=T878A or T878S Phase 2 ARDENT trial initiated 4Q2020
+
+The ARDENT Phase 2 trial was designed
+to answer 3 key questions The ARDENT trial was designed to answer 3 key questions: Are the safety and tolerability of bavdegalutamide acceptable for use in a post-NHA mCRPC patient population? Is efficacy signal sufficiently robust (>25% PSA50)
+in tumors with AR T878X/H875Y mutations to support potential for accelerated approval? Does a less pretreated, post-NHA patient population have more AR-driven disease leading to a higher PSA response rate for bavdegalutamide? Biomarker Defined*
+Subgroups 1-2 prior NHA < 1 prior chemotherapy regimen each for CSPC and CRPC T878X/H875Y WT/Other L702H/AR-V7 † Less Pretreated AR T878X and/or H875Y (excluding AR-V7 or L702H) Wild-type AR or AR alterations other than T878X, H875Y, L702H,
+AR-V7 AR L702H or AR-V7 (co-occurring T878X/H875Y included) Clinically Defined, Biomarker Agnostic Subgroup (≤1 prior line for CRPC) 1 prior NHA No prior chemotherapy *Based on tumor DNA sequencing using circulating tumor DNA or tumor
+biopsies; †AR variants not degraded by bavdegalutamide AR=androgen receptor; CRPC=castration-resistant prostate cancer; CSPC=castration-sensitive prostate cancer; WT=wild-type; NHA=novel hormonal agent; T878X=T878A or T878S
+
+Parameter Phase 1 (n=71) Phase 2*
+(n=124) Median age (range), yrs 70 (51–85) 74 (48–91) ECOG performance status,† n (%) 0 46 (65) 61 (49) 1 25 (35) 62 (50) Visceral disease,‡ n (%) 31 (44) 38 (31) Median no. lines of prior therapy (range) 6 (2–14) 4
+(1–11) Type of prior therapy, n (%) Novel hormonal agent (NHA) 71 (100) 124 (100) Abiraterone 63 (89) 79 (64) Enzalutamide§ 57 (80) 93 (75) Abiraterone and enzalutamide§ 49 (69) 48 (39) Chemotherapy 53 (75) 39 (31) Both the Phase 1
+and Phase 2 trials for bavdegalutamide enrolled post-NHA patient populations, including heavily pretreated patients (N=195) *Phase 2 enrollment ongoing (December 20, 2021 data cutoff date); †1 patient in phase 2 expansion had ECOG performance
+status of 2; ‡ Soft tissue disease other than lymph node, including liver or lung; §Or other AR blocker (apalutamide or darolutamide) AR=androgen receptor; ECOG=Eastern Cooperative Oncology Group
+
+The ARDENT Phase 2 trial was designed
+to answer 3 key questions Are the safety and tolerability of bavdegalutamide acceptable for use in a post-NHA mCRPC patient population? Is efficacy signal sufficiently robust (>25% PSA50) in tumors with AR T878X/H875Y mutations to support
+potential for accelerated approval? Does a less pretreated, post-NHA patient population have more AR-driven disease leading to a higher PSA response rate for bavdegalutamide? AR=androgen receptor; mCRPC=metastatic castration resistant prostate
+cancer; NHA=novel hormonal agent; T878X=T878A or T878S
+
+Bavdegalutamide had a manageable
+tolerability profile at the RP2D (420 mg, oral, once daily) Low dose reduction and discontinuation rates due to TRAEs Dose reduction rate: 8% Discontinuation rate: 9% No grade ≥4 TRAEs at the RP2D *Includes 14 phase 1 patients (9 treated at
+420 mg QD and 5 treated at 210 mg BID) and 124 phase 2 patients **Reported in ≥10% of patients treated at the RP2D †Additional grade 3 TRAEs were neutrophil count decreased (n=3); lymphocyte count decreased, blood creatinine increased
+(n=2 each); and platelet count decreased, asthenia, dyspepsia, fall, hyperkalemia, abdominal discomfort, hypertension, blood bilirubin increased, and myocarditis (n=1 each) ‡Limited to grade 1 or 2 per CTCAE grading; AST=aspartate
+aminotransferase; BID=twice daily; CTCAE=common terminology criteria for adverse events; NA=not applicable; QD=once daily; RP2D=recommended phase 2 dose; TRAE=treatment-related adverse event TRAE**, n (%) Total at RP2D (n=138)* Grade 1 Grade 2
+Grade 3† Total Any TRAE 39 (28) 53 (38) 23 (17) 115 (83) Nausea 42 (30) 22 (16) 2 (1) 66 (48) Fatigue 32 (23) 16 (12) 1 (1) 49 (36) Vomiting 28 (20) 7 (5) 1 (1) 36 (26) Decreased appetite 19 (14) 15 (11) 1 (1) 35 (25) Diarrhea 19 (14) 6 (4) 3
+(2) 28 (20) Alopecia 18 (13) 2 (1) NA‡ 20 (14) AST increased 12 (9) 4 (3) 1 (1) 17 (12) Weight decreased 9 (7) 7 (5) 0 16 (12) Anemia 6 (4) 2 (1) 7 (5) 15 (11) Phase 1 and Phase 2 patients
+
+The ARDENT Phase 2 trial was
+designed to answer 3 key questions AR=androgen receptor; mCRPC=metastatic castration resistant prostate cancer; NHA=novel hormonal agent; T878X=T878A or T878S Are the safety and tolerability of bavdegalutamide acceptable for use in a post-NHA mCRPC
+patient population? Is efficacy signal sufficiently robust (>25% PSA50) in tumors with AR T878X/H875Y mutations to support potential for accelerated approval? Does a less pretreated, post-NHA patient population have more AR-driven disease leading
+to a higher PSA response rate for bavdegalutamide?
+
+L702H/AR-V7† (n=25)* PSA50=4%
+T878X/H875Y (n=8)* PSA50=75% PSA reductions were seen across all subgroups in the ARDENT trial, most notably in patients with AR T878X/H875Y mutant tumors WT/Other (n=44)* PSA50=11% Less Pretreated‡ (n=27)* PSA50=22% Phase 2 patients only
+*Includes biomarker-evaluable patients with ≥4 weeks of PSA follow-up; †Co-occurring T878X/H875Y included; ‡All forms of AR; Phase 2 enrollment ongoing (December 20, 2021 data cutoff date) AR=androgen receptor;
+PSA=prostate-specific antigen; PSA30=best PSA declines ≥30%; PSA50=best PSA declines ≥50%; T878X=T878A or T878S; WT=wild-type
+
+46% PSA50 in all patients with AR
+T878X/H875Y tumor mutations in Ph 1 and across all ARDENT subgroups supports the potential for accelerated approval Best % PSA Change From Baseline PSA50 PSA30 AR T878X/H875Y (n=28)* PSA50=46% PSA30=57% *Includes biomarker-evaluable patients treated
+at or above the RP2D (phase 1 and 2) or with exposure above the minimum efficacious threshold in nonclinical xenograft tumor models (phase 1) and with ≥4 weeks of PSA follow-up; Phase 2 enrollment ongoing (December 20, 2021 data cutoff date)
+AR=androgen receptor; PSA=prostate-specific antigen; PSA30=best PSA declines ≥30%; PSA50=best PSA declines ≥50%; T878X=T878A or T878S Phase 1 Phase 2 Phase 1 and Phase 2 patients
+
+Bavdegalutamide showed robust
+duration of treatment in Phase 1 and ARDENT trial patients with AR T878X/H875Y mutant tumors Time on Treatment, Weeks AR T878X/H875Y (n=28*) Continuing on treatment 12 (43%) patients received bavdegalutamide for ≥24 weeks 9 patients remaining
+on treatment at data cutoff Phase 1 Phase 2 *Includes biomarker-evaluable patients treated at or above the recommended phase 2 dose (phase 1 and 2) or with exposure above the minimum efficacious threshold in nonclinical xenograft tumor models (phase
+1); Phase 2 enrollment ongoing (December 20, 2021 data cutoff date) AR=androgen receptor; T878X=T878A or T878S Phase 1 and Phase 2 patients
+
+Durable partial responses in 2 of 7
+RECIST-evaluable patients with AR T878X/H875Y mutant tumors Best % Target Lesion Diameter Change From Baseline PD PD SD SD SD PR PR AR T878X/H875Y (RECIST evaluable, n=7)*,† Continuing on treatment *Includes biomarker-evaluable patients
+treated at or above the recommended phase 2 dose (phase 1 and 2) or with exposure above the minimum efficacious threshold in nonclinical xenograft tumor models (phase 1); †Includes patients with measurable disease at baseline and ≥1
+on-treatment scan; patients with SD as best response and <12 weeks follow-up were excluded; Phase 2 enrollment ongoing (December 20, 2021 data cutoff date) PD=progressive disease; PR=confirmed partial response; RECIST=Response Evaluation Criteria
+in Solid Tumors; SD=stable disease; T878X=T878A or T878S Phase 1 Phase 2 Phase 1 and Phase 2 patients Activity was durable; patients with confirmed partial responses (PR) remained on treatment for approximately 9 (ongoing) and 10 months 6 of 7
+patients had tumor reductions SD SD PD PD SD PR
+
+Data support a potential path to
+accelerated approval in molecularly defined mCRPC Phase 2 enrollment ongoing (December 20, 2021 data cutoff date) AR=androgen receptor; mCRPC=metastatic castration resistant prostate cancer; NHA=novel hormonal agent; PSA50=best PSA declines
+≥50%; T878X=T878A or T878S Clear Development Path Anticipated Near-term regulatory interaction to discuss potential accelerated approval trial design Finalize partnership for companion diagnostic Begin pivotal trial by year end 2022 46% 2 of 7
+PSA50 rate Durable partial responses In patients with AR T878X/875Y-mutant tumors: Tumor regression 6 of 7 Anticipated Milestones
+
+Potential opportunity for
+bavdegalutamide as a precision medicine for patients with prostate cancer * Ledet et al., The Oncologist 2019;24 AR=androgen receptor; mCRPC=metastatic castration resistant prostate cancer; CSPC-castration sensitive prostate cancer; NHA=novel
+hormonal agent; ctDNA=circulating tumor DNA Selecting patients with AR T878/H875 tumor mutations offers "right drug for the right patient" Blood-based testing (ctDNA) enables ease of patient identification AR T878/875 represents ≥10% of mCRPC
+patients* Use of ctDNA testing is increasing for patients with prostate cancer As more newly diagnosed (CSPC) patients receive NHAs, increasing need and potential opportunity for bavdegalutamide as a post-NHA therapy
+
+The ARDENT Phase 2 trial was
+designed to answer 3 key questions AR=androgen receptor; mCRPC=metastatic castration resistant prostate cancer; NHA=novel hormonal agent; T878X=T878A or T878S Are the safety and tolerability of bavdegalutamide acceptable for use in a post-NHA mCRPC
+patient population? Is efficacy signal sufficiently robust (>25% PSA50) in tumors with AR T878X/H875Y mutations to support potential for accelerated approval? Does a less pretreated, post-NHA patient population have more AR-driven disease leading
+to a higher PSA response rate for bavdegalutamide?
+
+Rates of genetic mutations are known
+to increase over time and with multiple treatments, leading to the potential for high AR-independence The ARDENT trial is evaluating the efficacy of bavdegalutamide in a subgroup of “less pretreated” patients*, hypothesizing that this
+population would have fewer AR-independent alterations and be more responsive to bavdegalutamide TUMOR VOLUME GENOMIC ALTERATIONS OVER TIME TREATMENT 1 TREATMENT 2 TREATMENT 3 Figure adapted from Cancers 2018, 10, 345 Treatment-refractory
+progression in mCRPC Treatment-naive progression Rationale for “less-pretreated” subgroup: Successive treatments in prostate cancer may lead to increased genetic alterations over time *The “less pretreated” subgroup of ARDENT
+allowed 1 prior novel hormonal agent and no prior chemotherapy AR=androgen receptor; mCRPC=metastatic castration resistant prostate cancer
+
+Molecular profiles were similar
+between patients in the “less pretreated” and “more pretreated” subgroups of ARDENT *Includes biomarker-evaluable patients (those with circulating tumor DNA or tumor samples evaluable by DNA sequencing and, where applicable,
+blood samples evaluable for AR-V7) treated at or above the recommended phase 2 dose (phase 1 and 2) or with exposure above the minimum efficacious threshold in nonclinical xenograft tumor models (phase 1) and with ≥4 weeks of PSA follow-up; 2
+biomarker-evaluable phase 2 patients with limited sequencing data could not be assigned to a subgroup; non-AR molecular profile analyses are preliminary and exploratory; **Includes patients in phase 2 biomarker-defined subgroups (T878XH875Y,
+WT/Other, and L702H/AR-V7); † All AR forms; ††AR variants not degraded by bavdegalutamide; Phase 2 enrollment ongoing (December 20, 2021 data cutoff date) AR=androgen receptor; PSA=prostate-specific antigen; T878X=T878A or T878S
+More pretreated** (n=77) Less pretreated† (n=27) Non-AR alterations AR alterations Molecular profiles: similar between “less pretreated” and “more pretreated” subgroups* More pretreated** T878X/H875Y WT/Other
+L702H/AR-V7†† Biomarker agnostic Less pretreated† 1 prior NHA No prior chemotherapy 1-2 prior NHA < 1 prior chemotherapy regimen each for CSPC and CRPC
+
+PSA response rates were similar
+between the “less pretreated” and “more pretreated” subgroups in ARDENT *Includes biomarker-evaluable patients (those with circulating tumor DNA or tumor samples evaluable by DNA sequencing and, where applicable, blood
+samples evaluable for AR-V7) treated at or above the recommended phase 2 dose (phase 1 and 2) or with exposure above the minimum efficacious threshold in nonclinical xenograft tumor models (phase 1) and with ≥4 weeks of PSA follow-up; 2
+biomarker-evaluable phase 2 patients with limited sequencing data could not be assigned to a subgroup; non-AR molecular profile analyses are preliminary and exploratory; **Includes patients in phase 2 biomarker-defined subgroups (T878XH875Y,
+WT/Other, and L702H/AR-V7); ‡ All AR forms; Phase 2 enrollment ongoing (December 20, 2021 data cutoff date); AR=androgen receptor; CRPC=-resistant prostate cancer; CSPC=castration-sensitive prostate cancer; NHA=novel hormonal agent;
+PSA=prostate-specific antigen Similar PSA reductions in the “less pretreated” and “more pretreated” subgroups Likely reflects the similar molecular profiles of tumors in each subgroup Future trials are planned in earlier
+treatment settings to explore activity in patients with more AR-driven tumors: NHA-naïve patients (CRPC and CSPC) PSA50 PSA30
+
+1H 2022: Discuss the potential
+accelerated approval path with the FDA Finalize partnership for companion diagnostic 2H 2022 Initiate pivotal trial for patients with AR T878/H875 tumor mutations Profile of bavdegalutamide potentially supports clear precision medicine opportunity
+in mCRPC AR=androgen receptor; FDA= Food and Drug Administration; CSPC=castration-sensitive prostate cancer; mCRPC=metastatic castration resistant prostate cancer; NHA=novel hormonal agents Anticipated Milestones in 2022 Concurrently, explore the
+opportunity in a broader patient population: Monotherapy or in combination (e.g., abiraterone) Pre- and post-NHA Potential in both CRPC and CSPC Potential path to accelerated approval Unmet need expected to increase as NHAs move earlier Near-term,
+precision opportunity in T878/H875-positive mCRPC
+
+Robust signals of clinical activity
+in heavily pretreated patients with mCRPC who received 1–2 prior novel hormonal agents; supports potential path to accelerated approval In patients with AR T878X/H875Y mutant tumors: 46% PSA50 rate 2 of 7 RECIST-evaluable patients with durable
+partial responses; 6 of 7 patients with tumor reductions 43% of patients remained on treatment for 24 weeks or more PSA reductions and RECIST responses in patients with tumors harboring a range of genetic alterations that are believed to reduce
+responsiveness to AR therapies Manageable tolerability profile Plans to explore bavdegalutamide in an earlier-stage, broader patient population Anticipate initiating a pivotal trial in patients with T878/H875 mutant tumors by year end 2022, and to
+explore Conclusion mCRPC=metastatic castration resistant prostate cancer; PSA50=best PSA declines ≥50%; RECIST=Response Evaluation Criteria in Solid Tumors; TRAEs=treatment-related adverse events; T878X=T878A or T878S; Phase 2 enrollment
+ongoing (December 20, 2021 data cutoff date)
+
+Appendix

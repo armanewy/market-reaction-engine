@@ -1,0 +1,661 @@
+EX-99.1
+2
+tm242298d1_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+Safe harbor
+Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements within the
+meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended,
+including statements regarding the advancement, timing and sufficiency of our clinical trials, patient enrollments in our existing and
+planned clinical trials and the timing thereof, the results of our clinical trials, the timing and release of our clinical data, statements
+regarding our expectations about our cash runway, our goals to develop and commercialize our product candidates, our expectations
+regarding the size of the patient populations for our product candidates if approved for commercial use and other statements identified
+by words such as “could,” “expects,” “intends,” “may,” “plans,” “potential,” “should,” “will,” “would,” or similar expressions and the negatives
+of those terms. Forward-looking statements are not promises or guarantees of future performance, and are subject to a variety of risks
+and uncertainties, many of which are beyond our control, and which could cause actual results to differ materially from those
+contemplated in such forward-looking statements. These factors include risks related to our limited operating history, our ability to
+generate positive clinical trial results for our product candidates, the costs and timing of operating our in-house manufacturing facility,
+the timing and scope of regulatory approvals, changes in laws and regulations to which we are subject, competitive pressures, our ability
+to identify additional product candidates, political and global macro factors including the impact of the SARS-COV-2 coronavirus as a
+global pandemic and related public health issues, and other risks as may be detailed from time to time in our Annual Reports on Form
+10-K, Quarterly Reports on Form 10-Q, and other reports we file with the Securities and Exchange Commission. Our actual results could
+differ materially from the results described in or implied by such forward-looking statements. Forward-looking statements speak only as
+of the date hereof, and, except as required by law, we undertake no obligation to update or revise these forward-looking statements.
+Igniting a Systemic Immune
+Response to Cancer
+JP Morgan
+January 2024
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 2
+Safe harbor
+Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements within the
+meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended,
+including statements regarding the advancement, timing and sufficiency of our clinical trials, patient enrollments in our existing and
+planned clinical trials and the timing thereof, the results of our clinical trials, the timing and release of our clinical data, statements
+regarding our expectations about our cash runway, our goals to develop and commercialize our product candidates, our expectations
+regarding the size of the patient populations for our product candidates if approved for commercial use and other statements identified
+by words such as “could,” “expects,” “intends,” “may,” “plans,” “potential,” “should,” “will,” “would,” or similar expressions and the
+negatives of those terms. Forward-looking statements are not promises or guarantees of future performance, and are subject to a
+variety of risks and uncertainties, many of which are beyond our control, and which could cause actual results to differ materially from
+those contemplated in such forward-looking statements. These factors include risks related to our limited operating history, our ability
+to generate positive clinical trial results for our product candidates, the costs and timing of operating our in-house manufacturing
+facility, the timing and scope of regulatory approvals, changes in laws and regulations to which we are subject, competitive pressures,
+our ability to identify additional product candidates, political and global macro factors including the impact of the SARS-COV-2
+coronavirus as a global pandemic and related public health issues, the ongoing military conflict between Russia and Ukraine and the
+impact on the global economy and related governmental imposed sanctions, and other risks as may be detailed from time to time in
+our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and other reports we file with the Securities and Exchange
+Commission. Our actual results could differ materially from the results described in or implied by such forward-looking statements.
+Forward-looking statements speak only as of the date hereof, and, except as required by law, we undertake no obligation to update or
+revise these forward-looking statements.
+
+© 2022 Replimune Group Inc. 3 3
+• RP1 – activity across multiple skin cancers supports broad skin cancer strategy
+• 140 patient registrational IGNYTE study in anti-PD1 failed melanoma
+• ~ 1 in 3 patients demonstrating durable response
+• 100% of responses >6 months with median DOR >24 months
+• BLA filing planned 2H 2024
+• 211 patient 1L CSCC randomized controlled CERPASS study; primary analysis reported December 2023
+• Missed significance at P<0.025 for dual endpoints (ORR/CRR)
+• However, clear clinical benefit for RP1+cemiplimab was demonstrated
+• CRR vs. cemplimab alone (38.1% vs 25.0%, p=0.0401)
+• Duration of response increased
+• Strong data in hard-to-treat solid organ transplant patients as monotherapy
+• Potential for the portfolio to deliver commercial revenues beginning in late 2025
+• RP2 has shown compelling monotherapy and combination activity
+• Uveal melanoma RCT study in planning -> potential for a rare cancer franchise
+• Strong balance sheet ~ $466m (1) as of 31 December 2023; runway into H2 2026
+Replimune; Industry Leader in Oncolytic Immunotherapy
+1Per the protocol p<0.025 is required for formal statistical success in CERPASS for CRR or ORR alone. *SOT=solid organ transplant
+(1) Unaudited estimate
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 4
+Oncolytic immunotherapy - mechanism of action
+Injected
+tumor
+Distant
+tumors
+Bommareddy PK et al AJCD. 2016
+Healthy
+tissue
+Tumor tissue
+Oncolytic immunotherapy
+Intact host antiviral
+response: Normal tissue
+remains undamaged
+Dysregulated host antiviral
+response allows robust virus
+replication and tumor lysis
+Attenuated potent new
+clinical isolate of HSV-1
+modified to express a
+fusogenic glycoprotein
+and immune stimulating
+proteins
+Injected tumor 1
+MECHANISM 2
+MECHANISM
+Altering of tumor
+microenvironment
+Infection of more
+tumor cells
+Release
+of virus progeny
+Local
+Inflammation
+T cell infiltration and killing of
+distant, uninjected tumors
+Dendritic cell
+T cell
+Generating a strong and
+durable systemic anti-tumor immune response
+Immune response
+Tumor cell death and
+release of tumor antigens
+Enhanced T cell
+priming and activation
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 5
+RPx positioning: Platform designed to address a range of
+tumor types with an optimal balance of potency &
+tolerability
+Payloads GALV-GP R-, GM-CSF GALV-GP R-, anti-CTLA-4, GM-CSF
+Target Immunologically responsive tumor types, including anti-PD1 failed Less immunologically responsive tumor types
+Intended indication(s) Skin cancers (CSCC inc. SOT*, anti-PD1 failed melanoma,
+anti-PD1 failed CSCC, other NMSCs, etc)
+Rare cancers and neo adjuvant ; uveal melanoma
+registration study planned
+Clinical activity in anti-PD1 failed
+patients demonstrated
+Good tolerability and Safety
+profile demonstrated
+Injection location Superficial, nodal & visceral Superficial, nodal & visceral
+Systemic activity Clear systemic effects seen in responding patients (un-injected tumor responses,
+responses are generally highly durable)
+Other design considerations Designed for more I-O sensitive tumor types with excellent
+safety profile alone & in combination
+Increased I-O systemic activity, also with excellent
+safety profile alone & in combination
+*SOT=solid organ transplant
+
+© 2022 Replimune Group Inc. 6
+AGENDA
+© 2023 Replimune Group Inc.
+RP1: Establishing a major
+skin cancer franchise
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 7
+IGNYTE RP1 + nivolumab in anti-PD1 failed melanoma
+registrational study data
+Consistent ORR benefit across all subgroups
+Includes 1 patient with a unconfirmed PR (uPR). There are 5 patients still on study with the opportunity for response.
+Response data presented is by investigator assessment; the primary analysis from the study will be by blinded, independent central review. BOR=best overall response
+• 1 in 3 patients experienced a response
+• 26.4% ORR in hard-to-treat Ipi+Nivo failed patients (approx. 50% of the overall study population)
+• 100% of responses lasted >6 months, with median DOR >24 months
+BOR
+n (%)
+All patients (n=156)
+Prior
+cohort
+(n=16)
+Anti-PD1
+failed cohort
+(n=140)
+All patients
+(n=156)
+Prior single
+agent anti-PD1
+(n=84)
+Prior combination
+anti–PD-1 & anti–
+CTLA-4*
+(n=72)
+Stage
+IIIb/IIIc/IVa
+(n=76)
+Stage IVb/c/d
+(n=80)
+Primary
+resistance to
+anti-PD1
+(n=91)
+Secondary
+resistance to
+anti-PD1
+(n=63)
+CR 2 (12.5) 17 (12.1) 19 (12.2) 14 (16.7) 5 (6.9) 15 (19.7) 4 (5.0) 12 (13.2) 6 (9.5)
+PR 4 (25.0) 26 (18.6) 30 (19.2) 16 (19.0) 14 (19.4) 14 (18.4) 16 (20.0) 19 (20.9) 11 (17.5)
+SD 2 (12.5) 29 (20.7) 31 (19.9) 21 (25.0) 10 (13.9) 18 (23.7) 13 (16.3) 15 (16.5) 16 (25.4)
+PD 8 (50.0) 68 (48.6) 76 (48.7) 33 (39.3) 43 (59.7) 29 (38.2) 47 (58.8) 45 (49.5) 30 (47.6)
+ORR 6 (37.5) 43 (30.7) 49 (31.4) 30 (35.7) 19 (26.4) 29 (38.2) 20 (25.0) 31 (34.1) 17 (27.0)
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 8
+Depth of response n=156
+Maximum change in target lesions; patients with at least one follow up assessment
+Patients with at least one post baseline assessment – target lesion response for each patient
+Key Takeaways
+• Target tumor
+reduction is seen in
+>50% of patients
+• Responses were
+seen across disease
+stages, including
+complete responses
+in patients with stage
+IVM1b/c disease
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 9
+Duration of response
+(time from baseline to end of response for responders) Probability (%)
+Key Takeaway
+Responses are highly
+durable, with median
+DOR >24 months
+>6 months >12 months >18 months >24 months
+100% 90.5% 84.7% 79.7%
+All patients have at least 6 months follow up, median follow up is 88.21 weeks
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 10
+Promising OS is seen across disease subsets, including
+those with the greatest unmet need
+Stage IIIb/IIIc/IVM1a vs Stage IV M1b/c/d Prior anti-CTLA-4+anti-PD1 vs prior anti-PD1 alone
+All patients have at least 6 months follow up, median follow up is 88.21 weeks
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 11
+Patient 4401-2021: Prior Tafinlar/Mekinist, Keytruda Prior BRAF/MEK as well as progressed on anti-PD1 Stage IVM1c
+12JAN2021/Baseline 15FEB2022/Day 368
+12JAN2021/Baseline 15FEB2022/Day 368
+Data snapshot date: 3 Nov 2022
+Injected Un-injected
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 12
+Patient 1121-2011:
+Prior Opdivo (adjuvant) and Keytruda (first line for metastatic disease), Stage IVM1c
+29 JUL 2021 / Screening 20 APRIL 2022
+Injected Un-injected
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 13
+22 Jul 2021/
+Baseline
+22 Sep 2021/
+Day 57
+29 Dec 2021/
+Day 155
+Injected Un-injected
+Patient 1121-2011 Cont’d:
+Prior Opdivo (adjuvant) and Keytruda (first line for metastatic disease), Stage IVM1c
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 14
+IGNYTE - Regulatory summary/next steps
+IGNYTE
+IGNYTE FDA Type C meeting on anti-PD1 failed melanoma
+• The FDA acknowledged that the IGNYTE population is one of unmet need
+• The FDA agreed with a 2-arm randomized trial design in anti-PD1 failed melanoma with physician’s choice
+as a comparator arm in the study population
+• The study should be underway at time of BLA submission
+• A BLA submission for anti-PD1 failed melanoma is planned for 2H 2024 pending
+• Centrally reviewed data by RECIST v 1.1
+• All patients followed for at least 12 months (which is the per protocol primary analysis timepoint)
+• All responding patients followed for at least 6 months from response initiation
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 15
+CSCC disease characteristics and typical patient
+presentation
+• Second most common skin cancer with ≈700,000 patients annually in
+the U.S.1
+• Approximately 7,000-15,000 US deaths annually1-3
+• 80% of patients die from locoregional progression, not metastatic
+disease4,5
+• Usually develops from precursor lesions (actinic keratosis) but may be
+de novo; majority (80–90%) occur on the head and neck
+• CSCC is a predominately outward growing disease with large, painful,
+superficial tumors which can impact quality of life and contribute to
+social isolation
+• Disfiguring, painful
+• Foul smelling drainage
+• Delay in seeking medical care
+• Anti-Pd1 SOC ~ 50% ORR, ~ 15-25% CRR.
+1Rogers et al JAMA Dermatol 10 2015;
+2Clayman et al JCO 23 2005;
+3Mansouri et al J Am Acad Dermatol 153 2017;
+4Schmults et al JAMA Dermatol 149 2013; 5Motaparthi et al Adv Anat Pathol 24 2017
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 16
+CERPASS registration-directed
+Ph2 study in CSCC
+Key Eligibility Criteria:
+• Locally-advanced/metastatic CSCC
+• ECOG PS 0 or 1
+• No active autoimmune disease
+• No prior treatment with a PD-1/PD-L1
+inhibitor
+• No untreated brain metastases
+57 weeks treatment‡
+3-year
+survival
+follow up
+†First dose of RP1 to be given as monotherapy with cemiplimab to be given with second dose of RP1 ‡57 weeks treatment for the combination arm; treatment duration for cemiplimab-only arm is 54 weeks
+Key Endpoints
+• Dual independent primary endpoints: Complete Response Rate & Overall Response Rate*
+• Approx. 15% absolute difference in CRR and/or ORR required
+• Secondary endpoints: DOR, PFS, OS, disease-specific survival, safety/tolerability
+2:1
+N=211
+RP1 IT Q3W x 8 doses†
+(1x106 PFU/mL for one dose followed by 1x107
+PFU/mL for 7 doses)
++
+Cemiplimab 350mg Q3W IV
+Cemiplimab 350mg Q3W IV
+*Note p≤0.05 is required if both dual
+primary endpoints hit for statistical
+success, if only one of the dual
+endpoint hits need a p≤0.025 is needed
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 17
+Confirmed ORR & CRR (ITT population)
+Key Takeaways
+• While ORR was similar
+between the arms, the
+number of patients
+who achieved a CRR
+was substantially
+increased with
+RP1+cemiplimab
+(P=0.04)
+• In LA CSCC, there was a
+more than doubling of
+the CR rate for
+RP1+cemiplimab vs
+cemiplimab alone
+(48.1% vs 22.6%)
+• CRs are the key driver
+of long-term clinical
+benefit in CSCC
+BOR (confirmed response) All
+N=211
+n/% Cemiplimab
+n=72
+RP1+ cemiplimab
+n=139
+PR 19 (26.4) 20 (14.4)
+SD 14 (19.4) 18* (12.9)
+PD 12 (16.7) 27 (19.4)
+OR 37 (51.4%) 73 (52.5%)
+P=0.6921
+CR 18 (25.0%) 53 (38.1%)
+P=0.0401
+*One patient shown as SD was a CR due to the confirmatory assessment happening 21 days rather than later 28 days
+as required per protocol (CRR if included = 38.8%; p=0.031); **&Nominal p value 0.013
+BOR=best overall response
+1Per the protocol p≤0.025 is required for formal statistical success in CERPASS for CRR or ORR alone and p≤0.05 if both endpoints were met
+BOR (confirmed
+response)
+Locally advanced CSCC
+n=83
+Metastatic CSCC
+n=128
+n/% Cemiplimab
+n=31
+RP1+ cemiplimab
+n=52
+Cemiplimab
+n=41
+RP1+ cemiplimab
+n=87
+OR 18 (58.1%) 33 (63.3%) 19 (46.3%) 40 (46.0%)
+CR 7 (22.6%) 25 (48.1%) 11 (26.6%) 28 (32.2%)
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 18
+Five of the most visually impactful CRs with
+RP1+cemiplimab
+Baseline 81 weeks
+4805-0002
+Baseline 81 weeks
+1140-0002
+Baseline 63 weeks
+3311-0002
+Baseline 63 weeks
+3002-0008
+Baseline 54 weeks
+1141-0009
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 19
+Duration of response (immature data)
+Time from baseline to end of response for responders
+All responding patients
+Key Takeaway
+Duration of response was improved with RP1+cemiplimab as compared to cemiplimab
+alone (HR 0.45 immature data). While the improvement is clear in metastatic disease,
+locally advanced patient data is currently too immature to draw conclusions. The
+study will continue to allow all endpoints to further mature, in particular for DOR, PFS
+& OS
+Metastatic patients
+Locally advanced patients
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 20
+CERPASS - next steps
+CERPASS
+• CERPASS missed its primary endpoints while demonstrating treatment effects suggesting clinical benefit
+• CR rate
+• Duration of response
+• All time-based endpoints are immature (DOR, PFS and OS) and will be followed to maturity
+• Mature data required to determine whether any filing or compendia listing strategy is warranted
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 21
+Additional unmet needs in CSCC/NMSC
+ARTACUS STUDY
+• Treatment of high risk immune compromised populations who develop skin cancers
+• Anti-PD1 use can lead to loss of graft
+• RP1 monotherapy; 35% ORR (N=23)
+IGNYTE anti-PD1 failed NMSC
+• No FDA approved options for anti-PD1-failed CSCC/NMSC; ~ 70% of treated patients still ultimately progress
+• RP1 + nivo 30% ORR (N=30)
+1Lam JKS, et al. Head Neck. 2018;40:985-992. 2Friman T, et al. Int J Cancer. 2022;150(11):1779-91. 3Marin-Acevedo et al Cancers 2023, 15(12), 3180
+
+AGENDA
+© 2023 Replimune Group Inc.
+RP1 Commercial Opportunity
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 23
+Significant opportunity to establish a broad skin cancer
+franchise built upon strong foundation in melanoma
+Future growth driver
+~11K patients2 ~13K patients1
+Ability to improve the SOC either
+as combo or as monotherapy
+Address high unmet need in
+anG-PD-1 failed seKngs
+Poten0al NMSC* access
+via compendia+
+1L prior adjuvant
+2L+ BRAF WT
+2L+ BRAF MT
+~45K patients
+Improving cure rates in
+early-stage paGents
+Earlier stage
+skin cancers**
+Anti-PD1-failed
+melanoma
+1L CSCC
+SOT NMSC
+Anti-PD1 failed
+Immuno-compromised (other)
+Neoadjuvant CSCC
+Neoadjuvant melanoma
+RP1 near-term opportunity is significant
+Source: 1Melanoma US treated patient population for 2030 based on CancerMPact® Patient Metrics, Cerner Enviza (available from www.cancermpact.com Accessed 15 Oct 2023), with adjustments
+to future 2L+ treatment rates based on primary market research. 2CSCC US treated patient population for 2030 based IQVIA claims, primary market research, and company data. *NMSC (non-melanoma skin cancers); RP1+cemiplimab or RP1+nivolumab or RP1 mono **Neoadjuvant CSCC (est. 30K patients) and melanoma (est. 15K patients). SOT=solid organ transplant
+“Opportunity to change the treatment paradigm and ensure all appropriate patients can benefit from RP1”
+~70,000
+treatable
+pa;ents in
+the US
++Spontaneous use will not be promoted
+
+© 2023 Replimune Group Inc. 24
+Investment in manufacturing to support full
+commercialization
+• 63,000 square foot state-of-the-art facility for GMP manufacturing
+• RP1-2 technology transfer from CMO successfully completed
+• RP1 released to clinic post comparability analysis
+• RP1 BLA consistency lot runs complete
+• Scale expected to be sufficient to cover global commercialization
+of all Replimune’s product candidates at full capacity
+• Commercially attractive cost of goods & ‘off the shelf’ product
+practicality
+Commercial
+scale in-house
+manufacturing
+established
+
+© 2022 Replimune Group Inc. 25
+AGENDA
+© 2023 Replimune Group Inc.
+RP2 update
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 26
+RP2 leverages Replimune’s platform to express
+anti-CTLA-4
+• Anti-CTLA-4 prevents immune blockade at the APC / T cell interface
+§ Anti-CTLA-4 is clinically validated; Ipilimumab, tremelimumab
+• RP2 has shown durable mono-therapy responses in multiple immune insensitive tumor types
+§ Salivary gland cancer
+§ Chordoma
+§ Uveal melanoma
+§ Esophogeal cancer
+• 30% ORR (N=17) in 2L uveal melanoma with impressive duration
+§ Randomized control trial planned ; foundation of rare disease strategy
+• Rare head and neck cancers
+• Sarcomas
+• HPV associated ; vulvar, anal
+
+© 2022 Replimune Group Inc. Confiden'al 272 7
+"It’s a true miracle, there is no other word
+to describe it. I’ve been able to work as a
+builder again and spend time with my
+family, there’s nothing I can’t do.”
+“My final lifeline”
+Mucoepidermoid carcinoma pa.ent featured in BBC news
+Prior carbopla+n/paclitaxel, bicalutamide, ceralaser+b - ongoing CR>2 years (RP2 monotherapy)
+1 month 4 months
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 28
+Patient 4401-0029: Chordoma
+Prior imatinib - ongoing PR at over 8 months (RP2 monotherapy)
+Pt 4401-0029 -
+ongoing PR
+• Left gluteal
+muscle injected
+• Liver & >50 small lung
+lesions also
+disappeared during
+treatment
+Screening 3 months 6 months
+Injected Un-injected
+
+© 2022 Replimune Group Inc. Confiden'al 292 9
+Pa.ent 4401-0029: Chordoma
+Prior ima+nib - ongoing PR at over 8 months (RP2 monotherapy)
+Pt 4401-0029 -
+ongoing PR
+• Left gluteal muscle
+lesion injected
+• Liver & >50 small lung
+lesions also
+disappeared during
+treatment
+Injected Un-injected
+Baseline 3 months 6 months
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 30
+RP2 in uveal melanoma
+1Carvajal RD et al. Br J Ophthalmol 2017; 2Nathan P et al. N Engl J Med. 2021;385(13):1196-1206; 3PelsterMS et al. J Clin Oncol. 2021;39(6):599-607; 4Lukzky J et al SMR 2022;
+* Versus investigator’s choice, pembrolizumab, ipilimumab, or dacarbazine
+• Ocular or “uveal” melanoma is a rare cancer with approx. 1,000
+cases in the US per year1
+• Originates from melanocytes and can occur in several eye locations
+• The historic median OS is approx. 12 months1
+• Uveal melanoma behaves quite differently from skin
+melanoma
+• Mostly metastasizes to the liver (approx. 70-90% of cases) and once this
+occurs only about 10% of these patients survive beyond a year
+• A difficult to treat tumor where CPIs have previously demonstrated limited
+activity2,3,4
+• Kimmtrak (tebentafusp) is the 1st approved agent in uveal melanoma in
+HLA-A-02:01-positive adult patients (approx. 50% of the total population)*
+• Unmet need for uveal melanoma patients remains high,
+including improved efficacy/tolerability, effective options for
+HLA negative patients, and options for Kimmtrak and anti-PD1
+failed patients
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 31
+RP2 Uveal melanoma: Duration of response
+Durable responses in small initial dataset, both monotherapy RP2 and RP2 + nivo
+.
+0 60 120 180 240 300 360 420 480 540 600 660 720 780 840 900 960 1020 1080
+Duration of Study (Days)
+4401-0007
+4402-0019
+4401-0022
+4401-0026
+4401-0002
+4402-0018
+4403-0014
+4401-0021
+3412-0001
+4403-0019
+4401-0014
+4401-0003
+4403-0018
+4403-0015
+4403-0017
+4402-0014
+4402-0007
+Subjects
+Death
+PR
+SD
+PD
+Best Overall Response NE PD SD PR CR
+Replimune
+Study No. RP2-001-18
+Figure: Duration of Study (Ocular Melanoma: Uveal)
+Key Takeaways
+• 5/14 (29.4%) evaluable
+patient responders
+• Heavily pre-treated
+population, with all
+responders having failed
+prior CPI
+Durable responses represent
+compelling initial signal
+• Longest ongoing response
+over 24 months
+CR, complete response; NE, not evaluable; PD, progressive disease; PR, parEal response; SD, stable disease Data
+from SMR 2023
+
+© 2022 Replimune Group Inc. Confiden'al 323 2
+Screening
+19
+months
+Pt 201-4403-0017 –
+ongoing PR
+• Liver
+metastases
+• PaNent
+has ongoing PR
+at 19 months
+Uveal melanoma patient featured in ITV news Prior nivolumab+ ipilimumab – PR (RP2+nivolumab)
+"This trial has given me hope in the
+treatment, the trial, my care, and I'm
+happy.
+I don't think about dying anymore at
+all"
+ITV, 03 November 2023
+Injected Un-injected
+
+©© 2022 Replimune Group Inc. 2023 Replimune Group Inc. 33
+RP1 in skin cancer Mid-stage pipeline Strong cash position
+• Strong balance sheet; $466m (1) as
+of 31 December 2023
+• Cash Runway into H2 2026
+• Initial snapshot of data from all 156
+anti-PD1 failed melanoma patients
+demonstrate that RP1+nivolumab
+maintains transformative potential in
+this high unmet need setting
+• BLA submission planned for 2H
+2024
+• While CERPASSS missed its primary
+endpoints at P>0.025, a clinically
+meaningful benefit in CRR (P=0.04) and
+DOR in CSCC was demonstrated
+• Other skin cancer data in hard-to-treat
+settings such as solid organ transplant
+recipients & anti-PD1 failed melanoma
+& NMSC demonstrate compelling
+clinical activity
+• Strong data with RP2 in uveal
+melanoma
+• Planning for a randomized controlled
+pivotal study in uveal melanoma
+underway
+• Plan to investigate other rare
+cancer opportunities
+(1) Unaudited es,mate
+
+MISSION
+To enable tumor directed oncolytic
+immunotherapy (TDOI) to become a
+cornerstone in the treatment of cancer
+VISION
+To deliver transformational results for patients across
+cancers using tumor directed oncolytic
+immunotherapy to induce a powerful and durable
+systemic anti-tumor immune response resulting in
+quality survival and a chance for a cure
+THANK YOU

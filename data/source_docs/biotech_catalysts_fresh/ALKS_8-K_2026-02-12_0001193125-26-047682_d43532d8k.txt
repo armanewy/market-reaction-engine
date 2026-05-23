@@ -1,0 +1,323 @@
+8-K
+
+Alkermes plc. 0001520262 false 0001520262 2026-02-12 2026-02-12
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): February 12, 2026
+
+ALKERMES PUBLIC LIMITED COMPANY
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+Ireland
+
+ 
+
+001-35299
+
+ 
+
+98-1007018
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+Connaught House, 1 Burlington Road
+
+Dublin 4, Ireland D04 C5Y6
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code: + 353-1-772-8000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which
+
+registered
+
+Ordinary shares, $0.01 par value
+
+ 
+
+ALKS
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Term Loan Credit Facilities
+
+On February 12, 2026, in connection with the Acquisition (as defined below), Alkermes plc (the “Company”) entered into a credit agreement (the “Credit Agreement”), by and among Alkermes plc, as the TopCo Borrower, Alkermes, Inc., as the U.S. Borrower, Alkermes Finance LLC, as the U.S. Co-Borrower, JPMorgan Chase Bank, N.A., as Administrative Agent, Joint Lead Arranger and Joint Bookrunner, BofA Securities, Inc., as Joint Lead Arranger and Joint Bookrunner, and the lenders party thereto. The Credit Agreement provides for (i) a senior secured term loan A facility in an aggregate principal amount of up to $750 million (the “TLA Facility”) and (ii) a senior secured term loan B facility in an aggregate principal amount of up to $775 million (the “TLB Facility” and together with the TLA Facility, the “Facilities”). The TLA Facility matures on February 12, 2031, and the TLB Facility matures on August 12, 2031. On the closing date of the Facilities (the “Closing Date”), we borrowed the full $1.525 billion available under the Facilities.
+
+Borrowings under the TLA Facility will bear interest at an annual rate of, at our option, either (i) the Term SOFR Rate (as defined in the Credit Agreement) plus a Secured Net Leverage Ratio (as defined in the Credit Agreement)-based margin, which will initially be 2.75% per annum or (ii) the Alternate Base Rate (as defined in the Credit Agreement) plus a Secured Net Leverage Ratio-based margin, which will initially be 1.75% per annum. Borrowings under the TLB Facility will bear interest at an annual rate of, at our option, either (i) the Term SOFR Rate plus a margin of 2.75% per annum or (ii) the Alternate Base Rate plus a margin of 1.75% per annum. We have agreed to pay certain fees and expenses in connection with the Facilities, as set forth in the Credit Agreement and certain related fee letters.
+
+The Credit Agreement (other than with respect to the TLB Facility) requires the maintenance of a maximum Secured Net Leverage Ratio and a minimum Consolidated Interest Coverage Ratio (as defined in the Credit Agreement), in each case, with the levels set forth in the Credit Agreement, as of the last day of any of our fiscal quarters ending after the Closing Date. In addition, the Credit Agreement contains customary affirmative and negative covenants, including limitations on indebtedness, liens, mergers, consolidations, sales of assets, investments, transactions with affiliates, restricted payments and sales and leasebacks. The Credit Agreement also contains certain customary events of default, including upon a change of control.
+
+The Credit Agreement is guaranteed by subsidiary guarantors and secured by a lien on substantially all of the assets of the borrowers and the subsidiary guarantors, whether owned as of the Closing Date or thereafter acquired.
+
+The foregoing description of the Credit Agreement does not purport to be complete, provides only a summary of the material terms of the Credit Agreement, and is subject to, and qualified in its entirety by reference to, the full text of the Credit Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated by reference into this Item 1.01.
+
+ 
+
+Item 1.02
+
+Termination of a Material Definitive Agreement.
+
+On February 12, 2026, in connection with completion of the Acquisition (as described in Item 2.01 below) and the Company’s entry into the Credit Agreement (as described in Item 1.01 above), the Company terminated the previously disclosed amended and restated bridge term loan credit agreement by and among the Company, as the TopCo Borrower, Alkermes, Inc., as the U.S. Borrower, JPMorgan Chase Bank, N.A., as Administrative Agent, Sole Lead Arranger and Sole Bookrunner, and the lenders party thereto (the “Bridge Credit Agreement”) entered into on November 18, 2025, which provided for a senior secured bridge term loan facility in an aggregate amount of up to approximately $1.5 billion to fund the Acquisition. The Bridge Credit Agreement was terminated as the commitments under the Credit Agreement, together with the Company’s cash on hand, were sufficient to fund the Acquisition.
+
+ 
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+On February 12, 2026, the Company and Avadel Pharmaceuticals plc (“Avadel”), completed the transactions contemplated by the previously announced Transaction Agreement (the “Original Transaction Agreement”) dated October 22, 2025, as amended by Amendment No.1 to the Transaction Agreement (the “Amendment”) dated November 18, 2025, by and between the Company and Avadel (as amended, the “Transaction Agreement”). Pursuant to a court-sanctioned scheme of arrangement under Chapter 1 of Part 9 of the Irish Companies Act 2014 (the “Scheme”), the Company acquired the entire issued and outstanding ordinary share capital of Avadel (the “Acquisition”) and Avadel became a wholly owned subsidiary of the Company. Capitalized terms used herein but not otherwise defined herein shall have the meanings assigned to them in the Transaction Agreement.
+
+The Acquisition was conditioned on, among other things, the sanction of the Scheme by the High Court of Ireland (the “High Court”) and the delivery of the order of the High Court sanctioning the Scheme (the “Court Order”) to the Registrar of Companies in Dublin, Ireland. On February 10, 2026, the High Court sanctioned the Scheme. On February 12, 2026, the Court Order was delivered to the Registrar of Companies, at which time the Scheme became effective (the “Effective Time”).
+
+At the Effective Time, the Company acquired all of the issued and outstanding ordinary shares of Avadel, nominal value $0.01 per share (the “Avadel Shares”), other than Avadel Shares held by Alkermes or any of its concert parties (if any), and each holder of Avadel Shares outstanding as of 11:59 p.m., New York City time, on February 11, 2026, the business day prior to the occurrence of the Effective Time, became entitled to receive (i) $21.00 in cash (the “Cash Consideration”) for each Avadel Share and (ii) one non-transferable contingent value right (a “CVR”) for each Avadel Share, in each case in accordance with the terms of the Scheme and the Contingent Value Rights Agreement entered into at or prior to the Effective Time (the “CVR Agreement”), substantially in the form attached as Exhibit A to the Original Transaction Agreement. Each CVR represents a contractual right to receive a potential additional cash payment of $1.50 per Avadel Share upon the achievement of the milestone set forth in the CVR Agreement prior to the milestone expiration set forth in the CVR Agreement, subject to the terms and conditions thereof.
+
+Pursuant to the Transaction Agreement, at the Effective Time:
+
+ 
+
+ 
+
+(i)
+
+each option to purchase Avadel Shares granted under any Avadel equity incentive plan, program or arrangement under which equity awards were outstanding (the “Avadel Share Plans”) (each, an “Avadel Option”) having an exercise price less than the Cash Consideration (each such option, an “Avadel Cash-Out Option”) that was outstanding immediately prior to the Effective Time, whether or not vested, was cancelled and converted into the right to receive (without interest), in consideration of the cancellation
+
+ 
+
+ 
+
+of such Avadel Cash-Out Option, (A) an amount in cash (less applicable tax and any other mandatory withholdings), equal to the product of (x) the total number of Avadel Shares subject to such Avadel Cash-Out Option immediately prior to the Effective Time multiplied by (y) the excess of the Cash Consideration over the applicable exercise price per Avadel Share under such Avadel Cash-Out Option, and (B) one (1) CVR for each Avadel Share subject to such Avadel Cash-Out Option immediately prior to the Effective Time (without regard to vesting);
+
+ 
+
+ 
+
+(ii)
+
+each Avadel Option that is not an Avadel Cash-Out Option and any Avadel Option with an exercise price equal to or greater than the Cash Consideration that was outstanding immediately prior to the Effective Time, whether or not vested, was cancelled for no consideration;
+
+ 
+
+ 
+
+(iii)
+
+each award of restricted share units representing the right to receive one or more Avadel Shares or the cash value thereof upon vesting and settlement whether granted pursuant to the Company Share Plans or otherwise (each, an “Avadel RSU Award”) that was outstanding was cancelled and, in exchange therefor, the holder of such cancelled Avadel RSU Award was entitled to receive (without interest), in consideration of the cancellation of such Avadel RSU Award, (A) an amount in cash (less applicable tax or any other mandatory withholdings) equal to the product of (x) the total number of Avadel Shares subject to such Avadel RSU Award immediately prior to the Effective Time multiplied by (y) the Cash Consideration and (B) one (1) CVR for each Avadel Share subject to such Avadel RSU Award immediately prior to the Effective Time (without regard to vesting); and
+
+ 
+
+ 
+
+(iv)
+
+each award of Avadel Shares subject to vesting restrictions or forfeiture back to Avadel (each, an “Avadel Restricted Stock Award”), whether granted pursuant to the Avadel Share Plans or otherwise that was outstanding immediately prior to the Effective Time vested in full as of immediately prior to the Effective Time and was treated in the same manner as all other Avadel Shares.
+
+In connection with the completion of the Acquisition, trading of the Avadel Shares on The Nasdaq Global Market (“Nasdaq”) was halted and the Avadel Shares will be delisted from Nasdaq. Pursuant to the terms of the Transaction Agreement, the Company and Avadel will take steps to cause the Avadel Shares to be deregistered under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as promptly as practicable following the Effective Time.
+
+The foregoing descriptions of the Original Transaction Agreement, the Amendment, and Appendix III to the Rule 2.7 Announcement (the “Conditions Appendix”) do not purport to be complete and are subject to, and qualified in their entireties by, the full text of the Original Transaction Agreement, the Amendment and the Conditions Appendix, copies of which are incorporated by reference as Exhibits 2.1, 2.2 and 2.3 to this Current Report on Form 8-K and incorporated by reference into this Item 2.01. References to the Transaction Agreement or the Original Transaction Agreement from and after the entry into the Amendment on November 18, 2025 refer to the Original Transaction Agreement as amended by the Amendment.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+On February 12, 2026, the Company entered into the Credit Agreement as described under Item 1.01 above. The foregoing description of the Credit Agreement set forth in Item 1.01 and the full text of the Credit Agreement, a copy of which is filed herewith as Exhibit 10.1, are incorporated by reference into this Item 2.03.
+
+On February 12, 2026, we terminated the previously disclosed Bridge Credit Agreement entered into in order to fund the Acquisition, as described in Item 1.02 above.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On February 12, 2026, the Company and Avadel issued a joint press release announcing the successful completion of the Acquisition. A copy of the press release is furnished herewith as Exhibit 99.1 and incorporated by reference into this Item 7.01.
+
+The information in this Item 7.01, and in Exhibit 99.1 furnished herewith, shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(a) Financial statements of business acquired.
+
+The financial statements required by this Item 9.01(a) are not included in this Current Report on Form 8-K. The Company intends to file such financial statements by amendment to this Current Report on Form 8-K not later than 71 calendar days after the date this Current Report on Form 8-K is required to be filed.
+
+(b) Pro forma financial information.
+
+The pro forma financial information required by this Item 9.01(b) is not included in this Current Report on Form 8-K. The Company intends to file such pro forma financial information by amendment to this Current Report on Form 8-K not later than 71 calendar days after the date this Current Report on Form 8-K is required to be filed.
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+  
+
+Description
+
+2.1
+
+  
+
+Transaction Agreement, dated as of October 22, 2025, by and between Alkermes plc and Avadel Pharmaceuticals plc, incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the SEC on October 22, 2025.*
+
+2.2
+
+  
+
+Amendment No. 1 to the Transaction Agreement, dated as of November 18, 2025, by and between Alkermes plc and Avadel Pharmaceuticals plc, incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the SEC on November 19, 2025.
+
+2.3
+
+  
+
+Appendix III to the Rule 2.7 Announcement, dated as of October 22, 2025 (Conditions Appendix), incorporated by reference to Exhibit 2.2 to the Current Report on Form 8-K filed by the Company with the SEC on October 22, 2025.
+
+10.1
+
+  
+
+Credit Agreement, dated as of February 12, 2026 by and among Alkermes plc, as the TopCo Borrower, Alkermes, Inc., as the U.S. Borrower, Alkermes Finance LLC, as the U.S. Co-Borrower, JPMorgan Chase Bank, N.A., as administrative agent, and the arrangers, agents and lenders party thereto.*
+
+99.1
+
+  
+
+Press release issued by Alkermes plc and Avadel Pharmaceuticals plc dated February 12, 2026.
+
+104
+
+  
+
+Cover page interactive data file (embedded within the Inline XBRL document)
+
+* Certain schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The registrant agrees to furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon request.
+
+ 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ALKERMES PLC
+
+Date: February 12, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ David J. Gaffin
+
+ 
+
+ 
+
+ 
+
+Name: David J. Gaffin
+
+ 
+
+ 
+
+ 
+
+Title:  Secretary

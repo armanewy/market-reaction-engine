@@ -1,0 +1,317 @@
+8-K
+
+false 0001759425 0001759425 2023-07-16 2023-07-16
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 16, 2023
+
+ 
+
+ 
+
+MIRUM PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38981
+
+ 
+
+83-1281555
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+950 Tower Lane, Suite 150, Foster City, California 94404
+
+(Address of principal executive offices, including zip code)
+
+(650) 667-4085
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of Each Class
+
+ 
+
+Trading
+
+Symbol
+
+ 
+
+Name of Each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+MIRM
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☒
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Asset Purchase Agreement
+
+On July 16, 2023, Mirum Pharmaceuticals, Inc. (the “Company”) executed an Asset Purchase Agreement (the “Purchase Agreement”) with Travere Therapeutics, Inc., a Delaware corporation (“Travere”).
+
+Subject to the terms and conditions of the Purchase Agreement, at the closing (the “Closing”) of the transactions contemplated by the Purchase Agreement (the “Asset Purchase”), the Company will purchase from Travere substantially all of the assets of Travere that are primarily related to its business of development, manufacture (including synthesis, formulation, finishing or packaging) and commercialization of Chenodal and Cholbam (also known as Kolbam, and together with Chenodal, the “Products”) (the “Specified Business”) for an aggregate purchase price, subject to certain adjustments pursuant to the terms of the Purchase Agreement, of up to $445,000,000 in cash, with $210,000,000 due at Closing and up to $235,000,000 after the Closing, upon the achievement of certain milestones based on specified amounts of annual net sales (tiered from $125,000,000 to $500,000,000) of the Products (the “Milestone Events”).
+
+The Company additionally agreed to use certain specified resources and efforts during stipulated time-periods to obtain regulatory approval and to cause the Milestone Events to be achieved. The Company and Travere have also entered into a transitional services agreement pursuant to which Travere has agreed to perform certain services for a period of time following the consummation of the Asset Purchase with respect to the Company’s use and operation of the assets purchased in the Asset Purchase.
+
+The Purchase Agreement contains customary representations, warranties and covenants of the parties. The Company, on the one hand, and Travere, on the other hand, have agreed to indemnify each other from and against losses the respective parties may incur arising out of breaches of the other party’s representations, warranties and covenants contained in the Purchase Agreement and for certain other liabilities, subject to specified survival limitations and other customary exceptions and limitations.
+
+Consummation of the Asset Purchase is subject to customary closing conditions, including, among others, (i) obtaining certain material consents, (ii) the expiration or termination of the applicable waiting period (and any extension thereof) under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended,, (iii) the absence of any law, order or legal proceeding prohibiting the Asset Purchase, (iv) the accuracy of representations and warranties set forth in the Agreement (subject to customary materiality qualifiers) and material compliance with covenants set forth in the Agreement and (v) the execution and delivery of certain related ancillary documents. The Company expects the Closing to occur in the third quarter of 2023.
+
+The Company and Travere are permitted under certain circumstances to terminate the Agreement, including in the event that, subject to an automatic extension through April 16, 2024 to satisfy antitrust conditions, the Asset Purchase is not consummated by October 16, 2023.
+
+The foregoing description of the Purchase Agreement and the Asset Purchase does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Purchase Agreement, which is filed as Exhibit 2.1 to this Current Report on Form 8-K (this “Form 8-K”) and is incorporated herein by reference. The Purchase Agreement is not intended to provide any other factual information about the Company, Travere, or their respective owners, subsidiaries and affiliates. The representations, warranties and covenants contained in the Purchase Agreement (i) were made solely for purposes of the Purchase Agreement and as of the date of the Purchase Agreement, (ii) were solely for the benefit of the parties to the Purchase Agreement, (iii) may be subject to qualifications and limitations agreed upon by the parties to the Purchase Agreement, including being qualified by confidential disclosures made for the purposes of allocating contractual risk among the parties to the Purchase Agreement instead of establishing these matters as facts and (iv) may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to security holders of the Company. Investors and security holders of the Company should not rely on the representations, warranties and covenants or any description thereof as characterizations of the actual state of facts or condition of the Company. Moreover, information concerning the subject matter of the representations, warranties and covenants may change after the date of the Purchase Agreement, which subsequent information may or may not be fully reflected in public disclosures by the Company.
+
+Private Placement
+
+Concurrently with the execution and delivery of the Purchase Agreement, certain parties (the “PIPE Investors”) have entered into subscription agreements (the “Subscription Agreements”) with the Company, pursuant to which they have agreed, subject to the terms and conditions of the Subscription Agreements, to purchase immediately prior to, but subject to, the consummation of the Asset Purchase, shares of the Company’s common stock, par value $0.0001 per share (the “PIPE Shares”) for an aggregate purchase price of approximately $210,000,000 at a price per share equal to $26.25, the closing price of the Company’s common stock on July 14, 2023 (the “Private Placement”).
+
+The Subscription Agreements contain customary representations and warranties of the Company, on the one hand, and the PIPE Investors, on the other hand, and customary conditions to closing, including the consummation of the Asset Purchase. The PIPE Shares to be issued and sold to the PIPE Investors pursuant to the Subscription Agreements will not be registered under the Securities Act of 1933, as amended (the “Securities Act”) in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act and/or Regulation D promulgated thereunder. The PIPE Investors will be entitled to the registration rights set forth in the form Registration Rights Agreement attached to the Subscription Agreements as Exhibit A thereto.
+
+The foregoing descriptions of the form of Subscription Agreement and the form of Registration Rights Agreement do not purport to be complete and are subject to, and qualified in their entirety by, the full text of the form of Subscription Agreement and the form of Registration Rights Agreement, which are filed as Exhibit 10.1 and Exhibit 10.2, respectively, to this Form 8-K and are incorporated herein by reference.
+
+ 
+
+Item 3.02
+
+Unregistered Sales of Equity Securities.
+
+To the extent required by Form 8-K, the disclosures in “Private Placement” in Item 1.01 above are incorporated herein by reference.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On July 17, 2023, the Company issued a press release announcing its entry into the Purchase Agreement, a copy of which is furnished as Exhibit 99.1 to this Form 8-K and incorporated herein by reference. In connection with the Private Placement, the Company presented a presentation to the PIPE Investors and other potential investors, a copy of which is furnished as Exhibit 99.2 to this Form 8-K and incorporated herein by reference.
+
+As provided in General Instruction B.2 of Form 8-K, the information in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, nor shall such information or Exhibits 99.1 and 99.2 be deemed to be incorporated by reference in any filing under the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such a filing.
+
+Forward-Looking Statements
+
+This Form 8-K contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Generally, the words “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “contemplate,” “predict,” “forecast,” “likely,” “believe,” “target,” “will,” “could,” “would,” “should,” “potential,” “may” and similar expressions or their negative, may, but are not necessary to, identify forward-looking statements. Such forward-looking statements, including those regarding the timing, and consummation and anticipated benefits of, the transactions described herein involve risks and uncertainties. The Company’s experience and results may differ materially from the experience and results anticipated in such statements. The accuracy of such statements is subject to a number of risks, uncertainties and assumptions including, but are not limited to, the following factors: litigation relating to the transactions discussed in this Form 8-K; risks that the Asset Purchase disrupts the current plans or operations of the Company; the ability of the Company to retain and hire key personnel; competitive responses to the Asset Purchase; unexpected costs, charges or expenses resulting from the Asset Purchase; potential adverse reactions or changes to relationships with customers, suppliers, distributors and other business partners resulting from the announcement or completion of the Asset Purchase; the Company’s ability to achieve the synergies expected from the Asset Purchase, as well as delays, challenges and expenses associated with integrating the Specified Business; the impact of overall industry and general economic conditions, including
+
+inflation, interest rates and related monetary policy by governments in response to inflation; geopolitical events, and regulatory, economic and other risks associated therewith; and continued uncertainty resulting from broader macroeconomic conditions. Other factors that might cause such a difference include those discussed in the Company’s filings with the SEC, which include its Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K.
+
+All forward-looking statements made herein are based on information currently available to the Company as of the date of this Report. The Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+EXHIBIT INDEX
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+  2.1*
+
+  
+
+Asset Purchase Agreement, dated July 16, 2023, by and between Mirum Pharmaceuticals, Inc. and Travere Therapeutics, Inc.
+
+10.1
+
+  
+
+Form of Subscription Agreement
+
+10.2
+
+  
+
+Form of Registration Rights Agreement
+
+99.1
+
+  
+
+Press Release, dated July 17, 2023
+
+99.2
+
+  
+
+Mirum Corporate Presentation Deck on Bile Acid Portfolio Acquisition
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+*
+
+Certain confidential information contained in this Exhibit, marked in brackets, has been omitted, because it is both not material and of the type of information that the registrant treats as private or confidential.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+MIRUM PHARMACEUTICALS, INC.
+
+Date: July 17, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

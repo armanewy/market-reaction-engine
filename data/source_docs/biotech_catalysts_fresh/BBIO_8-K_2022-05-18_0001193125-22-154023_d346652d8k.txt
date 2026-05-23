@@ -1,0 +1,359 @@
+8-K
+
+false 0001743881 0001743881 2022-05-12 2022-05-12
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 12, 2022
+
+ 
+
+ 
+
+BridgeBio Pharma, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38959
+
+ 
+
+84-1850815
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+421 Kipling Street
+
+Palo Alto, CA
+
+ 
+
+94301
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(650) 391-9740
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock
+
+ 
+
+BBIO
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+On May 12, 2022, BridgeBio Pharma, Inc. (“BridgeBio” or the “Company”) entered into a First Amendment to Loan and Security Agreement (the “First Amendment”), by and among (i) U.S. Bank National Association, in its capacity as administrative agent (in such capacity, the “Administrative Agent”) and collateral agent (in such capacity, the “Collateral Agent”), (ii) the certain lenders party thereto (the “Lenders”), (iii) the Company, as a borrower, and (iv) certain subsidiaries of the Company, as guarantors (the “Guarantors”), pursuant to which the parties thereto have agreed to amend the Loan and Security Agreement, dated as of November 17, 2021 (the “Original Loan Agreement”, and as amended by the First Amendment, the “Amended Loan Agreement”), by and among the Company, Guarantors, Lenders, the Administrative Agent and the Collateral Agent.
+
+Pursuant to the terms and conditions of the First Amendment, the parties thereto have agreed to, among other things: (1) permit the sale of a certain priority review voucher issued by the U.S. Food and Drug Administration (“FDA”); (2) permit generally future disposition of other priority review vouchers; (3) reduce the aggregate amount of tranche 2 advances (the “Tranche 2 Advance”) that may be made available to the Company from $300,000,000 to $100,000,000 and modify certain conditions to the availability thereof; (4) amend the amortization payments such that the entire principal balance of the term loan advances is due and payable at maturity or early termination; and (5) modify the terms and conditions governing as to when certain entities into which the Company or the Guarantor has made investments will be required to become guarantors under the Amended Loan Agreement.
+
+Other terms of the Amended Loan Agreement remain generally identical to those under the Original Loan Agreement.
+
+The above description of the material terms of the First Amendment does not purport to be complete and is qualified in its entirety by reference to the full text of the First Amendment, which will be filed, with confidential terms redacted, as an exhibit to the Company’s Quarterly Report on Form 10-Q for the period ending on June 30, 2022.
+
+On May 13, 2022, the Company issued a press release regarding the above transactions, which is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth above in Item 1.01 of this Current Report on Form 8-K regarding the Company financial obligations under the First Amendment and the Amended Loan Agreement is incorporated into this Item 2.03 by reference.
+
+Item 8.01. Other Events.
+
+Pediatric Review Voucher Sale
+
+On May 13, 2022, the Company announced that it has entered into a definitive agreement to sell the rare disease pediatric review voucher to an undisclosed buyer for $110.0 million. The Company received the voucher in February 2021 under an FDA program intended to encourage the development of treatments for rare pediatric diseases. BridgeBio was awarded the voucher when its affiliate, Origin Biosciences, Inc., received approval of NULIBRY™ (fosdenopterin) for injection as the first therapy to reduce the risk of mortality in patients with molybdenum cofactor deficiency Type A. The sale is subject to customary closing conditions and is expected to occur following the expiration of applicable U.S. antitrust clearance requirements.
+
+On May 13, 2022, the Company issued a press release regarding the above transaction, which is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Recent Developments
+
+Updated Results from Phase 2 Open-label Extension Study of Acoramidis in Transthyretin Amyloid Cardiomyopathy
+
+On April 3, 2022, the Company announced updated data from its ongoing Phase 2 open-label extension (OLE) study of acoramidis (AG10) in patients with symptomatic transthyretin (TTR) amyloid cardiomyopathy (ATTR-CM). An interim analysis of the ongoing Phase 2 OLE study was completed based on available data through August 31, 2021. This corresponds to a median of 38 months since Phase 2 enrollment in the first half of 2018 and 35 months of continuous acoramidis treatment in the OLE. The data demonstrated:
+
+ 
+
+ 
+
+•
+
+ 
+
+31 of 47 participants remained in the OLE study; of the 16 discontinuations, adverse events (AEs) with an outcome of death, cardiac transplant or transition to hospice were reported for 11 participants
+
+ 
+
+ 
+
+•
+
+ 
+
+Acoramidis remained generally well-tolerated with a pattern of AEs consistent with underlying disease, progression of disease, concurrent illnesses, and age of participants. No safety signals of clinical concern were identified
+
+ 
+
+ 
+
+•
+
+ 
+
+Acoramidis demonstrated near-complete TTR stabilization. Serum TTR levels were sustainably increased from baseline, with mean concentration rising from 21.55 mg/dL at baseline to 30.06 mg/dL at Month 30 (+41%). Near-complete stabilization was verified using established ex vivo assays with mean stabilization of 102.5 ± 8.9% at Month 30
+
+ 
+
+ 
+
+•
+
+ 
+
+Median N-terminal Pro-brain natriuretic peptide (NT-ProBNP) were stable or improving in study participants. At Month 30, median change from baseline in NT-proBNP was -437 pg/mL (interquartile range: -950, 316). 68% of participants with available samples at Month 30 (15/22) had NT-proBNP levels below their baseline, suggesting an improvement in their heart failure severity
+
+The Phase 2 OLE data continue to suggest long-term tolerability of acoramidis in ATTR-CM patients and a stabilization of disease progression in treated participants.
+
+Phase 2 Data for Limb-girdle Muscular Dystrophy Type 2i
+
+On March 14, 2022, the Company announced positive data from the Phase 2 study of BBP-418 in patients with limb-girdle muscular dystrophy type 2i (LGMD2i). Based on the data observed after 90 and 180 days of treatment, BridgeBio observed:
+
+ 
+
+ 
+
+•
+
+ 
+
+Participants showed an average 0.21 or 43% increase in the ratio of glycosylated αDG to total αDG, signifying that the oral therapy has the potential to address both the root cause of LGMD2i and drive functional improvements for patients
+
+ 
+
+ 
+
+•
+
+ 
+
+Participants showed statistically significant declines in all cohorts for CK, of 70% at day 90 for all cohorts and 77% at day 180 for cohorts 1 and 2. 11 of 12 participants received at least 50% reduction in CK with 75% of participants reaching 2x the normal range, suggesting a reduction in muscle breakdown
+
+ 
+
+ 
+
+•
+
+ 
+
+All cohorts demonstrated a 0.08 m/sec (3%) increase in 10MWT velocity at day 90 and 0.12 m/sec (4%) increase at day 180 for cohorts 1 and 2. This result is encouraging in correlating the positive biomarker changes to potential clinical outcomes
+
+ 
+
+ 
+
+•
+
+ 
+
+The 10MWTs were measured at six months and compare favorably to natural history data where the same patients demonstrated a decline of 0.12 m/sec in the 10MWT in the 6-months prior to enrollment in the Phase 2 study
+
+ 
+
+ 
+
+•
+
+ 
+
+BBP-418 was well-tolerated across a wide range of dose levels with no treatment-related serious adverse events, dose limiting toxicities or discontinuations observed
+
+BridgeBio plans to engage with regulatory health bodies in 2022 to discuss potential paths to approval and subsequently intends to initiate a Phase 3 clinical trial.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release dated May 13, 2022, furnished herewith
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BridgeBio Pharma, Inc.
+
+Date: May 18, 2022
+
+ 
+
+ 
+
+ 
+
+/s/ Brian C. Stephenson
+
+ 
+
+ 
+
+ 
+
+Brian C. Stephenson
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

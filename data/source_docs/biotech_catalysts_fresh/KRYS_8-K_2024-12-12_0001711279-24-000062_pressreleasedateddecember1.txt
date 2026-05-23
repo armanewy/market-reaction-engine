@@ -1,0 +1,86 @@
+EX-99.1
+2
+pressreleasedateddecember1.htm
+EX-99.1
+
+Document
+
+Krystal Biotech Announces Initial Clinical Update for Rare Respiratory Disease Programs KB408 and KB407 Including Early Clinical Evidence of Gene Delivery to the Lung of AATD Patients and Increase in Lung AAT to Therapeutic Levels
+
+Clear evidence of SERPINA1 gene delivery and AAT expression following KB408 administration in AATD patients
+
+Both KB408 for AATD patients and KB407 for patients with cystic fibrosis were safe and well tolerated at all dosing regimens evaluated to date
+
+Conditional sanctioning of the KB407 Phase 1 CF Study CORAL-1 protocol by CFF TDN
+
+Investor call and webcast to be held December 12 at 8:30 am ET to discuss data update
+
+PITTSBURGH, December 12, 2024 (GLOBE NEWSWIRE) – Krystal Biotech, Inc. (the “Company”) (NASDAQ: KRYS), a commercial-stage biotechnology company, announced today clinical data updates for both KB408 and KB407, the Company’s clinical-stage, inhaled genetic medicine programs in Phase 1 for the treatment of rare respiratory diseases. Today’s updates include molecular data from multiple patients demonstrating SERPINA1 delivery and alpha-1 antitrypsin (AAT) expression within the respiratory tract following KB408 administration as well as safety and tolerability data for both KB407 and KB408 that, taken together, highlight the potential of the Company’s platform to safely deliver genetic cargo to the lung.
+
+“To achieve meaningful AAT expression levels and functionality with the first dose of KB408 is a very exciting development for this program and for our alpha-1 antitrypsin deficiency (AATD) patients,” said Robert A. Sandhaus, MD, PhD, FCCP, Professor of Medicine at the National Jewish Health in Denver, Executive Vice President and Senior Medical Director of AlphaNet, as well as Clinical Director of the Alpha-1 Foundation. “Even though the first intravenous augmentation therapy was approved decades ago, we still don’t have a good understanding of the impact these therapies are having on lung disease. A safe, effective, non-invasive therapy that is less burdensome on patients and supported by molecular evidence of function in the lung is needed, and we look forward to additional clinical updates on KB408 in the months to come.”
+
+The Company will host an investor conference call and webcast today, Thursday, December 12, 2024, at 8:30 am ET, to discuss the clinical data updates. Investors and the general public can access the live webcast at: https://www.webcaster4.com/Webcast/Page/3018/51767. For
+
+those unable to listen to the live webcast, an archived version will also be available on the Investors section of the Company’s website for at least 30 days.
+
+KB408 for the treatment of alpha-1 antitrypsin deficiency (AATD) lung disease 
+
+KB408 is being evaluated in the Company’s Phase 1 SERPENTINE-1 study. SERPENTINE-1 is an open label, single dose escalation study in adult patients with AATD with a Pi*ZZ or a Pi*ZNull genotype. SERPENTINE-1 is designed to include up to three dose escalation cohorts evaluating single administrations of 109, 1010, and 1011 PFU of KB408 via inhalation. Additional details of the SERPENTINE-1 study can be found at www.clinicaltrials.gov under NCT identifier NCT06049082. 
+
+ 
+
+As of the December 6, 2024 data cut-off, a total of seven (7) patients had been enrolled in SERPENTINE-1, including 3 patients in Cohort 1 who had received the 109 PFU KB408 dose and 4 patients in Cohort 2 who had received the 1010 PFU KB408 dose. One patient in each of Cohort 1 and Cohort 2 were receiving background intravenous (IV) augmentation therapy.
+
+Two patients in Cohort 2 also received bronchoscopies to assess SERPINA1 delivery and AAT levels in the lung. Both a baseline bronchoscopy and a post-dose bronchoscopy, conducted 24 to 48 hours after KB408 dosing, were completed. One of the two patients who received bronchoscopies was receiving background IV augmentation therapy. 
+
+Clear evidence of successful gene delivery was observed in both patients, including high rates of transduction and AAT expression in the conducting airways of both patients as assessed via bronchoscopy. Key molecular findings for each patient are summarized below:
+
+Patient Not on Background IV Augmentation
+
+•A clinically meaningful proportion of conducting airway epithelial cells were transduced following administration of a single dose of KB408, with the percentage of cells positive for AAT expression increasing from 0% at baseline to 39% after KB408 dosing.
+
+•Free AAT levels in lung epithelial lining fluid increased over 8-fold, rising from 85 nM at baseline to 729 nM after KB408 dosing.
+
+•AAT functionality was also confirmed by detection of AAT-NE binding, with the percentage of active, unbound neutrophil elastase in epithelial lining fluid dropping from 97.2% at baseline to 40.2% – an over 50% absolute reduction achieved within 48 hours after dosing.
+
+Patient on Background IV Augmentation
+
+•Again, a clinically meaningful proportion of conducting airway epithelial cells were transduced following administration of a single dose of KB408, with the percentage of cells positive for AAT expression increasing from 3% at baseline to 35% after KB408 dosing.
+
+•Lavage samples could not be successfully collected from this patient, preventing accurate quantification of AAT and neutrophil elastase binding in lung epithelial lining fluid. However, both KB408 genomes and SERPINA1 RNA transcripts were detected in multiple bronchial brushing samples, with an average of 4 x 103 genome copies and 4 x 102 transcript copies detected, providing further support of successful gene delivery and expression in the KB408 treated lung.
+
+In addition to evidence of KB408 transduction and AAT expression in the lungs of these two patients, increases in serum AAT levels were also detected in all four Cohort 2 patients after KB408 dosing, suggestive of broad dissemination of KB408-encoded AAT following expression in the lung. Increases in serum AAT relative to baseline ranged from 270 nM to 5.3 µM in the three patients that were not on confounding background IV augmentation, including in one case increases in serum AAT from 4.4 µM at baseline to 9.7 µM after KB408 dosing.
+
+KB408-related adverse events for all seven patients treated in Cohort 1 and Cohort 2 were mild to moderate and transient. No serious adverse events have been reported.
+
+“With clear evidence of gene delivery, including detection of high nanomolar concentrations of AAT in lung epithelial lining fluid, as well as corresponding reductions in the percentage of unbound, active neutrophil elastase by over 50%, today’s initial clinical data is a major step forward towards our goal of developing a safe, effective, and non-invasive therapy for AATD patients to maintain therapeutic AAT levels in the lung,” said Suma Krishnan, President, Research & Development, Krystal Biotech, Inc. “These data, together with the attractive tolerability profile observed to date, also reinforce our conviction in HSV-1 based gene delivery to the lung and our entire inhaled genetic medicines pipeline. We look forward to sharing additional updates on our respiratory programs in 2025.”
+
+The Company will enroll two additional patients in Cohort 2 of SERPENTINE-1 and expects to provide additional data updates in 2025. In parallel, the Company will open Cohort 3 to explore safety and gene delivery at the highest dose of KB408.
+
+KB407 for the treatment of cystic fibrosis (CF)  
+
+Based on preclinical data submitted to date by the Company, the Cystic Fibrosis Foundation (CFF) Therapeutic Development Network (TDN) Clinical Research Executive Committee has granted conditional sanctioning of the Company’s KB407 Phase 1 CORAL-1 study protocol subject to review of the data monitoring committee charter, if required, to align with CFF TDN standards. No additional preclinical updates for KB407 are required, and the Company expects to be fully sanctioned and open sites within the CFF TDN shortly.
+
+KB407 is being evaluated in the Phase 1 CORAL-1 study. CORAL-1 is an open label, dose escalation study in adult patients with CF. CORAL-1 is designed to include up to three dose escalation cohorts evaluating either one, two, or four daily administrations of 109 PFU of KB407 via inhalation. Additional details of the CORAL-1 study can be found at www.clinicaltrials.gov under NCT identifier NCT05504837. 
+
+As of the December 6, 2024 data cut-off, a total of five (5) patients had been enrolled in CORAL-1. Three patients received a single 109 PFU KB407 dose in Cohort 1 and three patients, including one roll-over from Cohort 1, received two daily 109 PFU KB407 doses in Cohort 2. All but one patient was on background modulator therapy.
+
+The initial focus of Cohorts 1 and 2 was safety of single and repeat inhaled administration of KB407 in patients with CF. As observed with KB408, KB407 has been well tolerated in all patients dosed to date. KB407-related adverse events for all five patients treated in Cohort 1 and Cohort 2 were mild to moderate and transient. No serious adverse events have been reported. The Company expects to report data from Cohort 3 in 1H 2025, including data on CFTR gene delivery and expression in patients with cystic fibrosis.
+
+About Krystal Biotech, Inc.
+
+Krystal Biotech, Inc. (NASDAQ: KRYS) is a commercial-stage biotechnology company focused on the discovery, development and commercialization of genetic medicines to treat diseases with high unmet medical needs. VYJUVEK® is the Company’s first commercial product, the first-ever redosable gene therapy, and the first medicine approved by the FDA for the treatment of dystrophic epidermolysis bullosa. The Company is rapidly advancing a robust preclinical and clinical pipeline of investigational genetic medicines in respiratory, oncology, dermatology, ophthalmology, and aesthetics. Krystal Biotech is headquartered in Pittsburgh, Pennsylvania. For more information, please visit http://www.krystalbio.com, and follow @KrystalBiotech on LinkedIn and X (formerly Twitter).
+
+Forward-Looking Statements
+
+Any statements in this press release about future expectations, plans and prospects for Krystal Biotech, Inc., including statements about the potential of the Company’s platform to safely deliver genetic cargo to the lung; the Company’s clinical-stage, inhaled genetic medicines programs in Phase 1 for the treatment of rare respiratory diseases; the Company’s plans to enroll two additional patients in Cohort 2 of its SERPENTINE-1 study and provide additional data updates in 2025; the Company’s plans to open Cohort 3 of its SERPENTINE-1 study to explore safety and gene delivery at the highest dose of KB408; the Company’s expectation to be fully sanctioned and open sites within the CFF TDN shortly; the Company’s expectation that it will report data from Cohort 3 of its CORAL-1 study in 1H 2025, including data on CFTR gene delivery and expression in cystic fibrosis patients; and other statements containing the words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “plan,” “predict,” “project,” “target,” “potential,” “likely,” “will,” “would,” “could,” “should,” “continue,” and similar expressions, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including uncertainties inherent in the initiation and conduct of clinical trials, as well as regulatory review of clinical trials and applications for marketing approvals; and such other important factors as are set forth under the caption “Risk Factors” in the Company’s annual and quarterly reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements included in this press release represent the Company’s views as of the date of this press release. The Company anticipates that subsequent events and developments will cause its views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this press release.
+
+CONTACT
+
+Investors and Media:
+
+Stéphane Paquette, PhD
+
+Krystal Biotech
+
+spaquette@krystalbio.com

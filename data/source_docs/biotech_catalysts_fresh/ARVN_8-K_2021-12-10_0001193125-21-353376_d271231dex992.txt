@@ -1,0 +1,109 @@
+EX-99.2
+3
+d271231dex992.htm
+EX-99.2
+
+EX-99.2
+
+ARV-471: Phase 1 Dose Escalation
+Clinical Trial Results San Antonio Breast Cancer Symposium December 10, 2021 Exhibit 99.2
+
+Safe harbor and forward-looking
+statements This presentation contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995 that involve substantial risks and uncertainties, including statements regarding the development and
+regulatory status of ARV-471 and other candidates in our pipeline, and the timing of clinical trials and data from those trials and plans for registration for our product candidates, the therapeutic potential of our product candidates and the
+potential commercialization of any of our product candidates. All statements, other than statements of historical facts, contained in this presentation, including statements regarding our strategy, future operations, future financial position,
+future revenues, projected costs, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,”
+“may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,”
+“continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations
+disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking
+statements we make as a result of various risks and uncertainties, including but not limited to: whether we and Pfizer will be able to successfully conduct clinical development for ARV-471, initiate and complete other clinical trials for our product
+candidates, and receive results from our clinical trials on our expected timelines, or at all, and other important factors, any of which could cause our actual results to differ from those contained in the forward-looking statements, discussed in
+the “Risk Factors” section of our quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this presentation reflect our current views as of the date of this
+presentation with respect to future events, and we assume no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing our views as of any
+date subsequent to the date of this presentation. The Arvinas name and logo are our trademarks. We also own the service mark and the registered U.S. trademark for PROTAC®. The trademarks, trade names and service marks appearing in this
+presentation are the property of their respective owners. We have omitted the ® and ™ designations, as applicable, for the trademarks named in this presentation. This presentation also contains estimates and other statistical data made by
+independent parties and by us relating to market size and other data about our industry. This data involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such data and estimates. In addition, projections,
+assumptions and estimates of our future performance and the future performance of the markets in which we operate are necessarily subject to a high degree of uncertainty and risk.
+
+Agenda Topic Participant Introduction
+John G. Houston, Ph.D. President and Chief Executive Officer, Arvinas ARV-471 Clinical Data Update Ron Peck, M.D. Chris Boshoff, M.D., Ph.D. Chief Medical Officer, Arvinas Chief Development Officer, Pfizer Oncology ? Q&A
+
+ARV-471: Potential to be the endocrine
+backbone of choice for ER+/HER2- breast cancer treatment  Potential Future US ER+/HER2- Breast Cancer Treatment Paradigm with ARV-471 Adjuvant (Post-Surgical) Breast Cancer (~160K) Metastatic Breast Cancer (~50K) Second/Third Line First Line
+Clinical Limitations Endocrine Backbone Aromatase Inhibitors (AI) Fulvestrant or exemestane Add-on therapies CDK4/6 inhibitors mTOR inhibitors or Pi3K3 inhibitors Fulvestrant Opportunity for ARV-471 Expansion Near-term CDK: cyclin-dependent kinases,
+Pi3K: phosphoinositide 3-kinase; mTOR: mammalian target of rapamycin Potential future state: ARV-471 Designed to be an oral, high-potency ER degrader with favorable safety profile *US incident population per year from SEER database
+
+ARV-471: Potential best-in-class
+estrogen receptor-targeting therapy December 2020: 21 patients, clinical benefit rate of 42% (5 of 12 evaluable patients) December 2021: 60 patients, clinical benefit rate of 40% (19 of 47 evaluable patients) Continued robust signals of efficacy in
+a patient population expected to have highly ER-independent disease, due to 100% pretreatment with CDK4/6 inhibitors Well-tolerated across all dose levels with no dose limiting toxicities up to 700mg Majority (89%) of AEs reported were grade 1/2 ER
+degradation up to 89% continues to exceed reported degradation in fulvestrant and clinical-stage SERDs† † When compared to published data with fulvestrant and the clinical-stage SERDs. ARV-471 has not been studied in clinical trials
+against fulvestrant and/or clinical stage SERDs. CDK4/6, cyclin-dependent kinases; SERD, selective estrogen receptor degrader
+
+Design “3 + 3” dose
+escalation with backfill ARV-471 orally administered with food Starting dose: 30 mg administered orally once daily Maximum administered daily dose: 700 mg ARV-471: First-in-Human study “3+3” dose escalation study Endpoints Primary:
+Maximum tolerated dose and recommended Phase 2 dose Key Secondary: Safety Pharmacokinetics Pharmacodynamics: Quantify ER in paired biopsies (baseline and on-treatment)  Efficacy: RECIST, Clinical Benefit Rate (CBR) defined as confirmed PRs and
+CRs + ≥ 24-week SD
+
+After CDK4/6 inhibitor treatment, ~66%
+of breast cancers have ER-independent mechanisms of resistance† Previously disclosed data demonstrate poor outcomes following CDK4/6 inhibitor therapy, e.g., fulvestrant: Median PFS = 1.9 months†† CBR = 13.7%†† 100% of
+patients in Phase 1 study were post- CDK4/6 inhibitor; high rate of potential ER-independent resistance mechanisms Phase 1 Inclusion Criteria ER+/HER2- advanced breast cancer Disease progression on CDK4/6 inhibitor ≥ 2 prior endocrine
+therapies in any setting Up to 3 prior chemotherapy regimens in advanced breast cancer Believed to be the only trial of an ER-targeting therapy requiring prior CDK4/6 treatment for all patients † Wander 2020; †† Lindeman ASCO 2021
+results from VERONICA trial. CDK4/6i, cyclin-dependent kinase 4/6 inhibitor. PFS, progression-free survival; TTF, time to treatment failure; CBR, clinical benefit rate
+
+ARV-471 Phase 1 patients received
+extensive prior therapy (N = 60) Patient Characteristics Parameter N (%) Median age (years) 65.5 (38-80) ECOG performance status* 0 1 29 30 (48) (50) Sites of metastases Bone Liver Lung Other 33 23 13 13 (55) (38) (22) (22) Median prior lines of
+therapy total (range 1-9) † 4 (NA) Median number of prior endocrine regimens 3 (NA) Type of prior therapies in any setting CDK 4/6 inhibitor 60 (100) Fulvestrant 48 (80) Chemotherapy 47 (78) Investigational SERD 6 (10) Aromatase inhibitors 52
+(87) *baseline value missing for 1 patient †Median of 3 prior lines in the metastatic setting. ECOG, Eastern Cooperative Oncology Group; CDK4/6, cyclin-dependent kinases; SERD, selective estrogen receptor degrader
+
+ARV-471 was well tolerated at all dose
+levels; no dose limiting toxicities and MTD not reached Discontinuation rate <2% (1 out of 60) Dose reductions <2% (1 out of 60) *Advanced breast cancer is highly associated with venous embolisms. Event was included as potentially treatment
+related, so treatment with ARV-471 was stopped. Data cut-off: 09/30/21; TRAE, Treatment related adverse event TRAE in > 10% of patients 30 mg (n=3) 60 mg (n=3) 120 mg (n=7) 180/200 mg (n=11) 360 mg (n=15) 500 mg (n=17) 700 mg (n=4) Total (N=60)
+Gr 1/2 Gr 3 Gr 1/2 Gr 3 Gr 1/2 Gr 3 Gr 1/2 Gr 3 Gr 1/2 Gr 3 Gr 1/2 Gr 3 Gr 1/2 Gr 3 Gr 1/2 Gr 3 Any TRAE 0 0 3 (50%) 0 6 (86%) 0 6 (55%) 1 (9%) 10 (67%) 1 (7%) 7 (41%) 2 (12%) 2 (50%) 0 34 (57%) 4 (7%) Nausea 0 0 2 (33%) 0 2 (29%) 0 4 (36%) 0 3
+(20%) 0 4 (24%) 1 (6%) 1 (25%) 0 16 (27%) 1 (2%) Fatigue 0 0 1 (17%) 0 0 0 1 (9%) 0 3 (20%) 0 5 (29%) 0 2 (50%) 0 12 (20%) 0 Vomiting 0 0 0 0 2 (29%) 0 1 (9%) 0 2 (13%) 0 1 (6%) 0 0 0 6 (10%) 0 AST increased 0 0 0 0 1 (14%) 0 2 (18%) 0 0 0 1 (6%) 0
+2 (50%) 0 6 (10%) 0 Four patients experienced Gr 3 events potentially related to ARV-471 (headache lasting 1-day, single occurrence of asymptomatic increased amylase and lipase, nausea and asymptomatic QTc prolongation, and venous embolism after a
+minor procedure*)
+
+40% clinical benefit rate (CBR) in
+47 evaluable patients* CBR = rate of confirmed CR or PR or SD ≥24 weeks 3 patients had confirmed PRs 14 patients were ongoing at the time of data cutoff, including 2 who have been on treatment for >18 months AVR-471: High CBR (40%) in
+heavily pretreated population *Excludes patients unable to complete cycle 1 due to reasons other than PD, toxicity, or death **Patient discontinued treatment due to venous embolism before first on-study scan ***Patient discontinued treatment due to
+clinical progression before first on-study scan †Patient had dose escalation from starting dose ‡Week 24 imaging assessment performed at 23.4 weeks (within the window allowed per protocol) §Patient had disease progression on
+subsequent scan and discontinued treatment CBR=clinical benefit rate; CDK=cyclin-dependent kinase; PD=progressive disease; PR=confirmed partial response; SD=stable disease; SERD=selective estrogen receptor degrader; uPR=unconfirmed partial response
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+Investigational SERD ** *** CDK4/6 inhibitor Fulvestrant Chemotherapy Time on treatment, weeks SD† PD SD† SD† SD SD SD SD† SD SD† SD SD SD SD SD† PR PR SD† SD SD‡ SD SD SD SD SD PR SD PD PD PD PD PD PD
+PD PD PD PD PD PD PD PD PD PD SD 700 mg QD 120 mg QD 180/200 mg QD 360 mg QD 500 mg QD 30 mg QD Continuing on treatment 60 mg QD Starting dose SD (uPR§) CBR: 40%
+
+Antitumor activity in
+response-evaluable patients (n=38)* *Patients with measurable disease at baseline who had a baseline and ≥1 on-treatment scan †Patient had disease progression on subsequent scan and discontinued treatment PD=progressive disease;
+PR=confirmed partial response; SD=stable disease; uPR=unconfirmed partial response PD PD PD PD PD PD PD PD PD PD SD SD PD SD SD SD PD PD PD PD SD SD SD SD SD SD SD PD SD SD SD SD PD PR PR SD (uPR†) SD PR ARV-471 demonstrates promising
+anti-tumor activity in late-line patients 700 mg 120 mg 180/200 mg 360 mg 500 mg 30 mg 60 mg
+
+ARV-471 degraded ER up to 89%
+through the 500 mg dose level * Data available as of September 3, 2021; median time on treatment at biopsy: 31 days (range: 16–77). ER immunoreactivity analyzed by QIF using the AQUA method, and ER positivity threshold derived by examining
+AQUA scores and visually inspecting all samples in the dataset to determine a cut-point for ER positivity ** Fulvestrant degradation reported as 40-50% in Robertson et al., Breast Cancer Research (2013) and Kuter et al., Breast Cancer Res Treat
+(2012). AQUA=automated quantitative analysis; ER=estrogen receptor; QIF=quantitative immunofluorescence Degradation up to 89%; median 67%; mean of 64% Degradation exceeds reported data for fulvestrant (previously reported: 40-50%)** Degradation of
+wild type ER and ESR1 mutant proteins ESR1 mutant: solid line ESR1 wild-type: dashed line Predose On-treatment 0 2500 5000 7500 10000 12500 ER AQUA Score ER positivity threshold 30 mg (n=1) 180 mg (n=1) 360 mg (n=5) 60 mg (n=1) 120 mg (n=3) 500 mg
+(n=2) 200 mg (n=1) ER degradation in paired tumor biopsies* (n=14)
+
+Summary: ARV-471 has shown robust
+signals of efficacy in a challenging patient population † Wander 2020; ††CBR defined as SD persisting ≥ 24 weeks, or a best response of confirmed CR or PR. Patients expected to have ER-independent disease† Of patients
+with prior fulvestrant treatment 80% Of patients treated with CDK4/6 inhibitors 100% 66% Heavily pretreated patient population Early clinical benefit Phase 1 Data as presented 12/10/2021 ARV-471 Designed to be an oral, high-potency ER degrader with
+favorable safety profile …with potential to become endocrine backbone of choice for ER+/HER2- breast cancer treatment Maximum ER degradation (mean, 64%) in first 3 dose levels 89% Confirmed partial responses (PR); tumor shrinkage in other
+patients 3 Clinical benefit rate (CBR)††; 14 patients ongoing at cutoff 40% Of TRAEs were grade 1/2 in severity with no DLTs 89% Median lines of prior therapies 4
+
+Arvinas and Pfizer aim to
+characterize the activity of ARV-471 across ER+/HER2- breast cancer treatment lines † SEER database; includes US patient population only, †† E.g., everolimus or as part of umbrella study with multiple combination agents CDK,
+cyclin-dependent kinases Pi3Ki; phosphoinositide 3-kinase inhibitor; mTORi: mammalian target of rapamycin inhibitors US ER+/HER2- Breast Cancer Treatment Paradigm (>200,000 US patients†) Neoadjuvant (Randomized vs Control) ARV-471, or
+ARV-471 + CDK4/6i Phase 1b (enabling trial): Combo: ARV-471 + IBRANCE® (palbociclib) Phase 2: VERITAC Expansion: ARV-471 Phase 1b Combo: ARV-471 + Next Gen CDKi or other Targeted Therapies†† Initiate in 2022 Initiated Dec 2020
+Initiated 1Q 21 Initiate in 2022 Adjuvant (Post-Surgical) Breast Cancer (~160K) Metastatic Breast Cancer (~50K) Second/Third Line First Line Supportive Trials to Define Registration Paths Phase 3 registrational: Multiple Phase 3 trials: ARV-471 as
+monotherapy and combo Initiate 2022 and beyond Pivotal Trials
+
+Potential for 1L/2L/3L approval as
+monotherapy or in combination Planned combinations with CDK inhibitors and other targeted therapies in adjuvant or early metastatic cancers LARGE UNMET NEED AND OPPORTUNITY In the US alone, ER+/HER2- breast cancer represents an addressable patient
+population of >200K† per year and a market opportunity of >$15B Superior degradation to published fulvestrant and SERD data† Strong efficacy signal in a predominantly ER-independent population Well tolerated CLEAR DEVELOPMENT PATH
+STRONG EVIDENCE FOR BEST-IN-CLASS PROFILE ARV-471: Evidence for best-in-class potential in a large area of unmet need † US incidence from SEER Database. †† Fulvestrant degradation reported in Robertson et al., Breast Cancer
+Research (2013) and Kuter et al., Breast Cancer Res Treat (2012)
+
+Thank You

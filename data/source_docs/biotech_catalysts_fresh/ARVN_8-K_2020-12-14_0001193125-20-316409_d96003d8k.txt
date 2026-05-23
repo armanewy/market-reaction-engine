@@ -1,0 +1,307 @@
+8-K
+
+false 0001655759 0001655759 2020-12-14 2020-12-14
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 14, 2020
+
+ 
+
+ 
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38672
+
+ 
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+ 
+
+06511
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ 
+
+ARVN
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☒
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On December 14, 2020, Arvinas, Inc. (the “Company”) issued a press release announcing clinical program updates for its PROTAC® protein degraders ARV-471 and ARV-110, including updated data. The Company will present the updates on a conference call and webcast on December 14, 2020. Copies of the press release and presentation are attached as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+The information in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+ARV-471 Clinical Update
+
+On December 14, 2020, the Company announced updated interim data from the dose escalation portion of its ongoing Phase 1/2 clinical trial of ARV-471 in patients with locally advanced or metastatic ER+/HER2- breast cancer. The dose escalation portion of the Company’s Phase 1/2 clinical trial of ARV-471 is designed to assess the safety, tolerability and pharmacokinetics (“PK”) of ARV-471 and also includes measures of anti-tumor activity as secondary endpoints.
+
+As of the data cut-off date of November 11, 2020, 21 adult patients with locally advanced or metastatic ER+/HER2- breast cancer were dosed with ARV-471 (orally, once-daily) in the Phase 1 clinical trial. 100% of these patients were previously treated with a cyclin-dependent kinase (CDK) 4/6 inhibitor, 71% of patients also received prior fulvestrant, and 23% of patients were also pretreated with investigational selective estrogen receptor degraders (“SERDs”). Overall, patients had a median of five prior therapies.
+
+One patient in the ARV-471 trial had a confirmed partial response, with a 51% reduction in target lesion size as assessed by Response Evaluation Criteria in Solid Tumors (RECIST), a standardized set of rules for response assessment based on tumor shrinkage. In addition to the confirmed partial response, two additional patients had unconfirmed partial responses and one additional patient demonstrated stable disease with greater than 50% target lesion shrinkage. For a clinical benefit rate (“CBR”) evaluation, 12 patients had sufficient follow-up to be included. Five of 12 patients (42%) achieved CBR. CBR is defined to include partial responses, complete responses and stable disease at 6 months. Three of these five patients had previously received fulvestrant, and another was treated with two investigational SERDs.
+
+ARV-471 has also been well tolerated at all dose levels, as of the data cut-off date. The most common treatment-related Grade 1-2 adverse events were nausea (24%), arthralgia (19%), fatigue (19%), and decreased appetite (14%). None of these led to discontinuation or dose reduction of ARV-471. No patients reported treatment-related Grade 3 of 4 adverse events, and no dose-limiting toxicities have been reported. A maximum tolerated dose has not been reached and dose escalation continues.
+
+The plasma exposures of ARV-471 have been dose proportional up to and including 360 mg orally once daily and have substantially exceeded the Company’s predicted thresholds of efficacy based on preclinical studies. The estimated half-life of ARV-471 is 28 hours, supporting a once-daily schedule of administration. Analysis of five paired tumor biopsies at doses up to 120 mg provide compelling proof of mechanism for ARV-471. At those doses, the Company has observed ER degradation up to 90% (average of 62%).
+
+The Company believes that the interim data from its ongoing clinical trial compares favorably to previously reported Phase 1 clinical trial results of other SERDs with respect to tolerability, ER degradation and efficacy signals.
+
+The Company expects to complete the dose escalation portion of the trial and initiate the dose expansion portion of the Phase 1/2 clinical trial of ARV-471 in the first half of 2021 and anticipates sharing interim data from the dose expansion portion in 2022.
+
+The Company also expects to initiate a Phase 1b cohort expansion of ARV-471 in combination with Ibrance® (palbociclib) in December 2020. This trial will evaluate the safety and tolerability of ARV-471 in combination with palbociclib and seek to identify a recommended combination dose.
+
+The Company expects to begin two additional studies of ARV-471 in the second half of 2021: a combination trial of ARV-471 and another targeted therapy in second line and/or third line metastatic breast cancer, and a window of opportunity study in adjuvant breast cancer.
+
+The combined data from these studies will inform the Company’s global development strategy and path forward toward the goal for ARV-471 to become the leading endocrine therapy in ER+/HER2- breast cancer.
+
+ARV-110 Clinical Update
+
+On December 14, 2020, the Company also announced updated interim data from the dose escalation portion of its ongoing Phase 1/2 clinical trial of ARV-110 in men with metastatic castrate resistant prostate cancer (“mCRPC”). The dose escalation portion of the Company’s Phase 1/2 clinical trial of ARV-110 is designed to assess safety, tolerability and PK of ARV-110 in men with mCRPC who have progressed on standard of care therapies, as well as to identify a recommended Phase 2 dose.
+
+The Company believes that ARV-110 continues to show promising activity in a very late-line population, with prostate specific antigen (“PSA”) reductions equal to or greater than 50% (a “PSA50 response”) observed at doses greater than 280 mg, the last cohort for which the Company had previously disclosed data.
+
+ARV-110 exposures have risen dose proportionally, and at 420 mg oral daily dosing, exposures in nearly all patients have surpassed a threshold the Company associated with tumor responses with ARV-110 in enzalutamide-resistant preclinical models of prostate cancer.
+
+In the dose escalation portion of the trial, 76% of patients had been treated with prior chemotherapy, and 82% previously received both abiraterone and enzalutamide. Patients had a median of five prior lines of therapy. Multiple lines of therapy in nonmetastatic and metastatic castrate resistant prostate cancer are associated with a decreased responsiveness to androgen receptor (“AR”)-directed therapies and an increase in tumor heterogeneity, including in genetic mutations, which reduce the tumor’s dependence on the AR signaling axis. Genetic profiling of trial patient tumors showed genetic variability, with 84% of patients in the trial having non-AR gene mutations. As such, these patients would not be expected to respond to AR-directed agents such as ARV-110. In addition, the Company found that rates of specific AR mutations have been found to be higher than the Company anticipated based on previously published studies of men with mCRPC.
+
+The Company has identified a molecularly defined, late-line population with a particularly strong response to ARV-110. Two of five patients (40%) with T878 or H875 mutations in AR had a PSA50 response, including one patient with a tumor size reduction of 80%.
+
+In addition, two of 15 patients (13%) with wild-type AR also had a PSA50 response, representing activity in a broader patient population. In the full group of patients with exposures above the minimum threshold the Company predicted to be efficacious by preclinical studies, four of 28 (14%) had PSA reductions greater than 50%. The Company believes that this PSA50 response rate is substantially higher than would be expected from approved AR-directed therapies in such late line patients. Specifically, PSA50 response rates from standard-of-care AR-directed therapies generally decrease to 8%—15% in mCRPC patients with fewer prior therapies.
+
+The dual signals of ARV-110 activity in a molecularly defined population (T878/H875) and in wild-type patients support the Company’s two-pronged strategy for ARV-110 development and suggest a robust opportunity to address unmet need in patients with mCRPC.
+
+In October 2020, the Company initiated the ARDENT Phase 2 expansion portion of the trial comprising patient subgroups. T878/H875 patients will be enriched in a subgroup to ensure sufficient patient numbers in an effort to confirm the potential for accelerated regulatory approval for ARV-110 in this population. A separate subgroup will enrich for less-pretreated patients (i.e., no prior chemotherapy and with only one previous second-generation AR-directed therapy, such as enzalutamide or abiraterone), to ensure sufficient numbers of patients whose tumors are expected to be more AR-dependent, less genetically complex, and potentially more responsive to ARV-110.
+
+The Company expects to provide complete data from the dose escalation portion of the Phase 1/2 trial in 2021 and provide interim data from the ARDENT Phase 2 expansion portion of the Phase 1/2 trial in the second half of 2021, with full data following in 2022. In 2021, the Company also expects to begin at least one Phase 1b combination trial with a standard-of-care prostate cancer therapy and provide data in 2022.
+
+Other Anticipated Milestones
+
+In addition, the Company expects to file an investigational new drug (“IND”) application for ARV-766, an AR degrader with a different profile from ARV-110, and initiate a Phase 1 trial in the first half of 2021, and if ARV-766 progresses as planned, the Company expects to provide data from the Phase 1 trial and transition to Phase 2 in 2022. The Company anticipates filing IND applications for its B-cell lymphoma 6 protein (BCL6) and tau programs as well as a further undisclosed oncology program in 2022.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated December 14, 2020
+
+99.2
+
+  
+
+Company Presentation, dated December 14, 2020
+
+104
+
+  
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K, including the documents furnished as Exhibits 99.1 and 99.2 hereto, contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the development and regulatory status of the Company’s product candidates, such as statements with respect to the Company’s lead product candidates, ARV-110, ARV-471 and ARV-766 and other candidates in the Company’s pipeline, and the timing of clinical trials and data from those trials and plans for registration for the Company’s product candidates, and the Company’s development programs that may lead to the Company’s development of additional product candidates, the potential utility of the Company’s technology and therapeutic potential of the Company’s product candidates and the potential commercialization of any of the Company’s product candidates. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on such forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including but not limited to: whether the Company will be able to successfully conduct Phase 1/2 clinical trials for ARV-110 and ARV-471, complete its clinical trials for its product candidates, and receive results from its clinical trials on the Company’s expected timelines, or at all, whether the Company’s cash resources will be sufficient to fund its foreseeable and unforeseeable operating expenses and capital expenditure requirements, the Company’s expected timeline and other important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Date: December 14, 2020
+
+ 
+
+ 
+
+ARVINAS, INC.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Sean Cassidy
+
+ 
+
+ 
+
+ 
+
+Sean Cassidy
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

@@ -1,0 +1,46 @@
+{
+  "peer_events": 67,
+  "generation_diagnostics": {
+    "rows_total": 67,
+    "rows_used": 67,
+    "rows_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "event_study_diagnostics": {
+    "events_total": 67,
+    "events_ok": 67,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "summary": {
+    "label": "fresh_peer_control",
+    "rows": 67,
+    "ok_rows": 67,
+    "h1": {
+      "n": 67,
+      "mean_log": -0.011147885819801558,
+      "median_log": 0.0022704520795821595,
+      "mean_simple": -0.009526056811952753,
+      "positive_rate": 0.5223880597014925,
+      "mean_abs_log": 0.03171503940376965
+    },
+    "h3": {
+      "n": 67,
+      "mean_log": -0.018684320737371703,
+      "median_log": -0.015326370502457463,
+      "mean_simple": -0.01497663990704835,
+      "positive_rate": 0.40298507462686567,
+      "mean_abs_log": 0.06014146247900681
+    },
+    "h10": {
+      "n": 66,
+      "mean_log": -0.022057802040420016,
+      "median_log": -0.014389086876269674,
+      "mean_simple": -0.013733201531493017,
+      "positive_rate": 0.4696969696969697,
+      "mean_abs_log": 0.08841506781896592
+    }
+  },
+  "weaker_than_main_h1": true,
+  "warning": "Peer controls rotate to another ticker in the fresh biotech universe; not a hand-built mechanism peer basket."
+}

@@ -1,0 +1,132 @@
+EX-99.1
+2
+xncr-20250429xexx991.htm
+EX-99.1
+
+xncr-20250429xexx991
+
+® Interim Results from First-in-Human Study of XmAb942 & TL1A Pipeline Update April 29, 2025
+
+ 
+
+2 Forward-Looking Statements Certain statements contained in this presentation, other than statements of historical fact, may constitute forward- looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements include, but are not limited to, statements regarding Xencor's development plans and timelines; potential regulatory actions; expected use of cash resources; the timing and results of clinical trials; the plans and objectives of management for future operations; and the potential markets for Xencor's product and development candidates. Forward-looking statements are based on the current expectations of management and upon what management believes to be reasonable assumptions based on information currently available to it, and involve numerous risks and uncertainties, many of which are beyond Xencor's control. These risks and uncertainties could cause future results, performance or achievements to differ significantly from the results, performance or achievements expressed or implied by such forward-looking statements. Such risks include, but are not limited to, potential delays in development timelines or negative preclinical or clinical trial results, reliance on third parties for development efforts and changes in the competitive landscape including changes in the standard of care for treatment of diseases for which we are developing product candidates, as well as other risks described in Xencor's filings with the Securities and Exchange Commission. Xencor expressly disclaims any duty, obligation or undertaking to update or revise any forward-looking statements contained herein to reflect any change in Xencor's expectations with regard thereto of any subsequent change in events, conditions or circumstances on which any such statements are based, except in accordance with applicable securities laws. For all forward-looking statements, we claim the protection of the safe harbor for forward looking statements contained in the Private Securities Litigation Reform Act of 1995.
+
+ 
+
+3 • XmAb Fc Domains augment native immune functions in molecules and/or control their structure, while preserving desired attributes • XmAb engineered antibodies are designed to solve complex biologic problems • Strong patent portfolio • Oncology: 2 novel CD3 TCEs advancing in Phase 1 studies • Autoimmune: Study initiations and plans • 4Q’24: XmAb942 (Xtend TL1A) • 1H’25: Plamotamab (CD20xCD3) in RA • 2H’25: XmAb657 (CD19xCD3) • More than 15 technology license partnerships greatly broadens scope with little-to-no effort • Multiple commercialized XmAb antibodies ULTOMIRIS® MONJUVI®/MINJUVI® Proven Power of XmAb® Engineering: Proteins By Design® AstraZeneca Rare Disease Small changes, big functional impacts Advancing an optimized portfolio of XmAb drug candidates Partnerships leverage modular XmAb technology Registered trademarks: Ultomiris® (Alexion Pharmaceuticals, Inc.), Monjuvi® & Minjuvi® (Incyte Holdings Corp.) COLLABORATION PORTFOLIO INCLUDES XmAb Bispecific T-cell Engagers (TCEs) Xtend Antibodies With Potential Best-in-Class Half-Life Extension PLUG & PLAY TOOLKITS FOR RAPID PROTOTYPING RATIONALLY ENGINEERED XMAB DRUG CANDIDATES
+
+ 
+
+4 Program Targets XmAb® Platforms Indications Discovery Preclinical Phase 1 Phase 2 Phase 3 Solid Tumor Oncology: T-cell Engagers (CD3 & CD28) XmAb819 ENPP3 x CD3 2+1 Bispecific ccRCC XmAb541 CLDN6 x CD3 2+1 Bispecific, Xtend Ovarian cancer, oncology XmAb808 B7-H3 x CD28 2+1 Bispecific, Xtend Prostate cancer, oncology XmAb Program Undisclosed TCE Bispecific, Xtend Solid tumor oncology Immunology Programs (TL1A & CD3) XmAb942 TL1A Xtend, FcKO IBD XENP53*** TL1A x IL23p19 Bispecific, Xtend IBD Plamotamab CD20 x CD3 Bispecific Rheumatoid Arthritis XmAb657 CD19 x CD3 2+1 Bispecific, Xtend Autoimmune Diseases Solid tumors ImmunologyKey ccRCC clear cell renal cell carcinoma FcKO Fc knock out IBD Inflammatory bowel disease 1H’25 2H’25 Planned Study Initiation Next-Gen XmAb® Drug Design in Oncology & Autoimmune Diseases Pipeline focus on T-cell engagers and bispecific mechanisms 2H’25
+
+ 
+
+5 Potential Inflection Points for Xencor’s Clinical Portfolio in 2025 XmAb Drug Candidate Indication Oncology Portfolio CLDN6+ tumor types, including ovarianXmAb541 CLDN6 x CD3 Characterization of target dose levels XmAb942 Xtend TL1A IBD+ Initial SAD & MAD readout Phase 2 start in UC Plamotamab CD20 x CD3 Rheumatoid arthritis Initiate Phase 1/2 study XmAb657 CD19 x CD3 Autoimmune Initiate FIH study 1H’25 2H’25 Immunology Portfolio As of 29-Apr-2025 SAD Single ascending dose MAD multiple ascending dose FIH first-in-human XmAb819 ENPP3 x CD3 ccRCC Present initial Phase 1 data at a medical meeting XENP53*** TL1A x IL23p19 IBD+ Lead candidate selection; prepare to initiate FIH study in 2026
+
+ 
+
+6 IBD Remains a Significant Opportunity for Novel Therapy ✓Abdominal pain ✓Diarrhea ✓Rectal bleeding ✓Weight loss 1 GlobalData, EU5: France, Germany, Italy, Spain, UK 2 GlobalData 3 Drug Labels Global IBD drug spend projected to be $23bn+ by 20302 Two common forms: Crohn’s disease Ulcerative colitis +3.3m Estimated diagnoses in the U.S. and EU51 Chronic High-Burden Disease Severe Symptoms • Diarrhea and rectal bleeding • Fever and fatigue • Reduced appetite and weight loss • Mental health burden Significant Health Burden • Impaired quality of life • Lower life expectancy • Surgeries, hospitalization • Increased risk for intestinal resection • Increased risk for colorectal cancer Current Standards of Care S1P modulator 5-ASA Cortico- steroid α-TNF α-IL23 α-integrin JAK inhibitor Patients cycle through multiple treatments • Suboptimal efficacy: ~10-20% disease remission3 • Adverse events: Infection, malignancy, thromboembolism, cardiac • Burdensome regimens: Poor patient compliance
+
+ 
+
+7 TL1A Has Emerged As a Critical Node in IBD Pathophysiology TL1A is expressed primarily by monocytes, macrophages, and dendritic cells. TL1A amplifies innate and adaptive immune signaling and fibrogenesis through ILC, Th1, Th2, and Th17 cells, and myofibroblasts. TL1A risk SNPs are associated with UC and CD disease severity, such as fibrostenosis. TL1A, DR3, and DcR3 are elevated at sites of disease activity. Murine TL1A models recapitulate IBD phenotypes, including fibrostenotic disease. Neutralization of TL1A reverses disease phenotype, including fibrostenosis. Th1 IFNγ, TNFα Th17 IL17, IL22 Th2 IL13 Th9 IL9 ILC2 IL13 secretion ILC3 Proliferation IL22 secretion ILC1 expansion Treg Proliferation, suppressive activity CD8+ IL2 secretion cytotoxicity NK-T NK IFNγ, IL4, IL13 IL4, IL13 IL1β + IL23 IL2 DC Endothelial Macrophage Plasma cell Lymphocyte Fibroblast Lymphocyte NK NK-T ILC Epithelial Helminthic infections Allergic lung disease Colitis Ileitis Crohn’s disease Rheumatoid arthritis Psoriasis Ulcerative colitis Allergic lung disease Mucosal inflammation Anti-tumor immunity Mucosal inflammation DR3 TL1A Image adapted from Valatas, et al. Front. Immunol., 2019. TL1A and DR3 receptors via BioRender.
+
+ 
+
+8 XmAb® Protein Engineering for Differentiated, Potentially Best-in-Class Treatment Options for IBD XmAb942 Design for a Novel Next-Gen Anti-TL1A XENP53*** Design for TL1A x IL-23p19 Bispecific Xtend + FcKO Bispecific Fc Domain anti-TL1A 2 Fabs anti-TL1A 1 Fab anti-IL23 1 Fab Objectives • Class-leading potency for superior inhibition of TL1A within the GI tract • XmAb stability and solubility engineering for high concentration formulation and lower immunogenicity risk • Long half-life from Xtend Fc domain designed to enable extended subcutaneous dosing intervals in maintenance Objectives • Highly stable monovalent format to allow subcutaneous formulation and avoid large immune complexes • Very high affinity TL1A and IL23p19 binders to deliver equivalent target inhibition as monospecific antibodies • Long half-life from Xtend Fc domain Xtend + FcKO Blocking IL23p19 gives consistently superior clinical outcomes across indications versus IL23p401,2 1 Week 47 Efficacy of Guselkumab and Ustekinumab in Crohn’s Disease Based on Prior Response/Exposure to Biologic Therapy: Results from the GALAXI 2 & 3 Phase 3 Studies; Danese and Rubin et al; JNJ Presentation. 2 Comparing Efficacy of Guselkumab versus Ustekinumab in Patients with Psoriatic Arthritis: An Adjusted Comparison Using Individual Patient Data from the DISCOVER and PSUMMIT Trial; Thilakarathne and Hassan et al.; Rheumatol Ther. 2024 Feb 28.
+
+ 
+
+9 XmAb942: Novel High-Affinity Anti-TL1A mAb Designed for Extended Half-Life, Under Development for the Treatment of IBD Class Leading Target Inhibition XmAb942 utilizes Xtend Fc domain technology with potentially class- leading target neutralization Class Leading Clinical Convenience High concentration formulation for subcutaneous dosing with +71 day estimated half-life in humans supporting Q12W maintenance dosing frequency Execution of Efficient Clinical Development Plan First-in-human clinical study in healthy volunteers initiated 4Q’24 with planned Phase 2 study start during 2H’25 Program1 Potent TL1A Suppression2 Convenient SC Dosing Q12W Dosing Half-Life Extension Low Immunogenicity XmAb942 Tulisokibart3,4 Afimkibart5,6 Duvakitug7 1 No head-to-head trial has been conducted evaluating XmAb942 against other data included herein. Differences exist between clinical trial design, patient populations and the product candidates themselves, and caution should be exercised when comparing data across trials 2 As predicted by quantitative systems pharmacology (QSP) modeling based on human and non-human primate (NHP) pharmacokinetic (PK)/ pharmacodynamic (PD) data 3 PRA023 Progress Update (Prometheus presentation) 4 Feagan et al. Journal of Crohn's and Colitis, 2023;17:Supplement_1, i162-i164 5 Banfield et al. Br J Clin Pharmacol. 2020;86:812–824 6 Clarke et al. mAbs. 2018;10:4, 664-677 7 Danese et al. Clin Gastroenterology and Hepatology. 2021;19:11, 2324-32.e6 8 Preliminary prediction based on no apparent impact of immunogenicity on pharmacokinetics or pharmacodynamics in initial single-ascending dose (SAD) and multiple-ascending dose (MAD) data in healthy volunteers and pre-clinical assays ─ ─ ─ Predicted8
+
+ 
+
+10 ® XmAb942 Phase 1 Study in Healthy Volunteers Interim Results
+
+ 
+
+11 Single Ascending Dose 6 active:2 placebo per cohort Interim Results From Phase 1 Study Multiple Ascending Dose 6 active:2 placebo per cohort Highly efficient study design leverages known safety profile of anti-TL1A class Study Design Elements • Double-blind, placebo-controlled, first-in-human • SAD and MAD cohorts • SC and IV administration in SAD cohorts Population • Healthy volunteers Endpoints • Primary: Safety • Secondary: Pharmacokinetics • Exploratory: Immunogenicity, PD profile SC subcutaneous administration IV intravenous administration SC Medium x1 dose A3 IV Medium x1 dose A4 SC Low x1 dose A1 IV Low x1 dose A2 SC High x1 dose A5 IV High x1 dose A6 IV Low Day 1, 29, 57 B1 IV Medium Day 1, 29, 57 B2 Multiple Ascending Dose 6 active:2 placebo per cohort
+
+ 
+
+12 Baseline Characteristics Single Dose Multiple Dose Blinded Interim Data (XmAb942 + Placebo) Cohort A1 SC, Low Cohort A2 IV, Low Cohort A3 SC, Med Cohort A4 IV, Med Cohort A5 SC, High Cohort A6 IV, High Cohort B1 IV, Low Cohort B2 IV, Med N 8 8 8 8 8 8 8 8 Age in years (Mean, SD) 39, 9 32.5, 6 39.7, 11 36, 12 36.5, 13 26, 2 31, 10 34.5, 7 Female (Percent) 50% 62.5% 37.5% 37.5% 75% 37.5% 62.5% 50% BMI in kg/m2 (Mean, SD) 24.8, 4 26.2, 4 26.0, 4 26.3, 3 25.6, 5 26.8, 4 26.4, 5 23.3, 3 SD standard deviation BMI body mass index
+
+ 
+
+13 Blinded Interim Safety Analysis from Healthy Volunteers In-Line With Expectations for Anti-TL1A Class Single Dose Multiple Dose Blinded Interim Data (XmAb942 + Placebo) Cohort A1 SC, Low Cohort A2 IV, Low Cohort A3 SC, Med Cohort A4 IV, Med Cohort A5 SC, High Cohort A6 IV, High Cohort B1 IV, Low Cohort B2 IV, Med N 8 8 8 8 8 8 8 8 Participants with TEAE 3 3 5 2 3 4 3 6 Participants with TEAE Probably/Definitely Related* 1 - - - 2 - - - Participants with SAE - - - - - - - - Participants discontinued due to TEAE - - - - - - - - Participants with dose decreased - - * Treatment Emergent Adverse Event (TEAE) Probably/Definitely Related: Probably related to administration: Headache (Gr 2, Cohort A1); Definitely related to administration: Injection Site Bruise (Gr 1, Cohort A5); Injection Site Reaction (Gr 1, Cohort A5)
+
+ 
+
+14 XmAb942 Has Prolonged Serum Exposure in Humans • Estimated terminal half-life is +71 days from pooled analysis of single-dose cohorts • No apparent impact of ADA on PK profile up to 16 weeks after single dose or 10 weeks after multiple Q4W dosing • Early multiple dose PK data consistent with single dose Mean Drug Concentration vs. Nominal Time Single dose IV Single dose SC Multiple dose IV
+
+ 
+
+15 XmAb942 Increases Total TL1A as Expected With Long Durability • Dose-dependent and durable increases in total TL1A , at least 16 weeks after a single dose of XmAb942, are consistent with high binding potency and extended serum exposure • Interim results support lower frequency of dosing compared to first-generation TL1As Total TL1A Concentration vs. Days Since Treatment Start Single dose IV Single dose SC
+
+ 
+
+16 Free sTL1A in Serum Drops and Stays Below Quantitative Thresholds in Healthy Participants for At Least 16 Weeks • All IV and SC dose levels had rapid and sustained reduction of free sTL1A below LLOQ for at least 16 weeks from a single dose • All data points were below LLOQ of 20 pg/mL (plotted at one-half LLOQ value per PD plotting convention) • Interim results support lower dosing frequency than first-generation TL1As LLOQ lower limit of quantification (values plotted as LLOQ/2 per convention) High Dose Medium Dose Low Dose Placebo Mean Free sTL1A Concentration vs. Nominal Time (SAD IV & SC)
+
+ 
+
+17 XmAb942 Model Predicts Sustained Effective Suppression of TL1A in the Gut in the Planned Phase 2 Dose Regimen • Phase 2 program is designed to maximize potential for greater efficacy than other anti-TL1A drugs in the clinic • Model predicts >90-95% inhibition at the lowest Phase 2 dose, >98-99% inhibition at medium dose and >99% inhibition at all time points for the high dose during the induction phase
+
+ 
+
+18 Higher consistency of adequate drug exposure for better clinical outcomes in both induction and maintenance Single subcutaneous injection maintenance dose Maintenance period dosing every 12 weeks No apparent impact of immunogenicity on PK or PD1 Interim SAD/MAD Data for XmAb942 Support Key Objectives for a Potential Best-in-Class Anti-TL1A Antibody 1 Preliminary prediction based on no apparent impact of immunogenicity on pharmacokinetics or pharmacodynamics in initial single-ascending dose (SAD) and multiple-ascending dose (MAD) data in healthy volunteers
+
+ 
+
+19 ® XmAb942 Phase 2 Study in Ulcerative Colitis
+
+ 
+
+20 XmAb942 Clinical Development Plan – XENITH Phase 1a Healthy Participants Phase 2b Ulcerative Colitis Phase 2b/3 Crohn’s Disease Phase 3 Ulcerative Colitis Phase 2a Fibrostenotic Crohn’s Disease Phase 1/2b Expansion Opportunities May Include Atopic Dermatitis Primary Biliary Cholangitis Primary Sclerosing Cholangitis Rheumatoid Arthritis Systemic Sclerosis/Interstitial Lung Disease
+
+ 
+
+21 XmAb942 Predicted to Maintain Higher Exposure Than Tulisokibart at Phase 2 Target Dose Levels During Both Induction and Maintenance Tulisokibart 1000 mg IV at 0 weeks 500 mg IV at 2, 6 and 10 weeks 240 mg SC at 12 - 52 weeks (Q4W) XmAb942 Target Phase 2 dose level Q12W at 12 - 52 weeks
+
+ 
+
+22 XENITH-UC Study: Phase 2b Design High dose IV N= ~67 Medium dose IV N= ~51 Low dose IV N= ~51 Placebo N= ~51 Medium dose SC q12w Induction (12 weeks) R a n d o m iz a ti o n 4 :3 :3 :3 Maintenance (40 weeks) N = completers Study Design Elements • Double-blind, placebo-controlled • IV administration in induction • SC administration in maintenance Population • Moderate to severely active ulcerative colitis • Failed ≥1 conventional or advanced therapy • N=~220, randomized 4:3:3:3 active:placebo Primary Endpoint • Remission at Week 12 per modified Mayo score • Drug exposure maximized to potentially achieve greater induction efficacy than observed in competitor trials • Long half-life supports every 12-week dosing (q12w) during maintenance • Asymmetric randomization ratio will minimize number of participants receiving induction placebo • All induction placebo participants will receive active treatment during maintenance
+
+ 
+
+23 Summary of XENITH Program Strategy • Well-powered with achievable enrollment goals to support differentiated clinical outcomes • Thorough Phase 2 dose characterization supports efficient pivotal design • Rational program gating to XENITH expansion into Crohn’s disease and other disease indications beyond IBD
+
+ 
+
+24 ® TL1A x IL23p19 Lead Candidate Update
+
+ 
+
+25 XmAb TL1A x IL23p19 Bispecific Leads Have Competitive Functional Potency for TL1A and IL23 Inhibition XENP53*** (shown above) is one of several XmAb TL1A x IL23 candidates currently undergoing lead selection studies & GMP production in parallel to prepare for first-in-human study planned in 2026 0. 1 1 10 10 0 0 3 6 Test article (nM) F o ld C h a n g e Xencor TL1a x IL23 Roche/Roivant Merck/Prometheus 0. 00 00 1 0. 00 01 0. 00 1 0. 01 0. 1 1 10 10 0 0 10,000 20,000 30,000 40,000 Test article (nM) R L U Xencor TL1a x IL23 Risankizumab Mirikizumab Guselkumab DR3-mediated apoptosis IL23 reporter assay GMP Good manufacturing process FcKO Fc knock out RLU relative light unit Full length bispecific antibody αTL1A αIL23 Xtend + FcKO ENP53*** Tulisokibart Afimkibart ENP53*** i i iri i l
+
+ 
+
+26 ®XmAb942 Potential to Address Unmet Needs in Current Care for Patients With IBD
+
+ 
+
+27 1 Xencor-sponsored survey of 27 U.S.-based gastroenterologists covering treatment of >6000 patients with ulcerative colitis annually. 2 GlobalData. 56% 33% 11% 0% 10% 20% 30% 40% 50% 60% First-Line or Second-Line Second-Line only Neither; Third-Line or later 66% 34% 0% 10% 20% 30% 40% 50% 60% 70% % Mod/Severe UC patients Eligible for Biologic Therapy (Survey Average) % Mod/Severe UC patients Eligible for anti- TL1A Therapy (Survey Average, Based on Phase 2 Data) Survey of Gastroenterologists1 Supports High Expected Utilization of Anti-TL1A Class for IBD Treatment in the United States (>$17bn Market by 2030E2) Anti-TL1A class could capture ~1/3 of total market for advanced therapy in IBD ~9 out of 10 gastroenterologists surveyed expect to use anti-TL1A drugs as the first or second line of advanced therapy
+
+ 
+
+28 52% 44% 4% 0% 10% 20% 30% 40% 50% 60% Very Meaningful Meaningful Somewhat Meaningful >70% of gastroenterologists surveyed recognize that inadequate drug exposure negatively impacts clinical outcomes of induction, maintenance or both in UC patient. >90% of gastroenterologists surveyed rate Q12W dosing as a meaningful improvement in convenience versus Q2-4W Drug Exposure Matters Dosing Frequency MattersInjection Burden Matters >80% of gastroenterologists surveyed consider 2-3+ subcutaneous injections per visit as a burden 48% 15% 11% 15% 0% 10% 20% 30% 40% 50% 60% Yes, impact for both induction and maintenance phases Yes, for induction phase only Yes, for maintenance only No, for neither induction nor maintenance 30% 56% 0% 10% 20% 30% 40% 50% 60% 2 or more injections 3 or more injections 1 Xencor-sponsored survey of 27 U.S.-based gastroenterologists covering treatment of >6000 patients with ulcerative colitis annually. Opportunity for Next-Gen Best-in-Class Anti-TL1A Xmab942 to Differentiate on What Matters Most to Clinicians and Patients1
+
+ 
+
+29 1 Takeda FY2024 20-F: ENTYVIO, will face loss of regulatory exclusivity in the latter half of this decade and certain patents covering various aspects of this product are expected to expire in 2032; AbbVie FY2024 10-K: The United States composition of matter patents covering risankizumab (SKYRIZI) are expected to expire in 2033. 2 Xencor-sponsored survey of 27 U.S.-based gastroenterologists covering treatment of >6000 patients with ulcerative colitis annually. Future of Anti-TL1As in IBD Is Combination With Current SOC Therapy & Dual MoAs With Bispecifics (e.g., TL1A x IL23p19) CLINICAL RATIONALE Synergistic potential with established targets (IL23, α4β7), and existing MoAs: TL1A is a differentiated inflammatory axis High unmet need in induction and refractory settings: Anti-TL1A safety profile enables combination flexibility Early 2030s patent expiry of current standard-of-care biologics: Provides pathway for affordable combination therapy1 COMMERCIAL STRATEGY Bispecifics leverage existing biologic infrastructure with efficient single molecule manufacturing processes Dual-agent monospecific combos offer modular clinical development and co-positioning with biosimilar or branded standard-of-care Flexible opportunities across payer segments and formulary access PHYSICIANS’ SENTIMENT2 ~90% of gastroenterologists surveyed find TL1A combos promising “Dual therapy with advanced agents is the future for refractory patients. Especially in the induction phase, combining two different mechanisms of action is very important, as your first shot is your best shot.” “Combination of biologics can significantly increase efficacy without necessarily increasing side effects.”
+
+ 
+
+30 Xencor’s Roadmap for Innovation in IBD and TL1A Program Expansion XmAb942 Interim SAD & MAD data with expected XENITH-UC study start XmAb TL1A x IL23 Lead candidate selection 2025 XmAb942 First-in-human study XmAb TL1A x IL23 Lead candidate development 2024 XmAb942 Potential indication expansion XmAb TL1A x IL23 First-in-human study initiation 2026 2027+ XmAb942 XENITH-UC readout XmAb TL1A x IL23 Phase 2 study start(s) Current cash runway supports TL1A program development and expansion $706.7 million in cash, cash equivalents and marketable debt securities as of December 31, 2024, which does not include $34 million in milestone revenue earned in Q4 2024.
+
+ 
+
+31 XmAb942 interim SAD/MAD results support the thesis of delivering effective drug exposure with convenient maintenance dosing TL1A and IL23p19 binder potency used for XENP53*** program supports effective bispecific target engagement XmAb942 and XENP53*** program timelines are on-track with roadmap to efficient and differentiated Phase 2 clinical development Strong cash position supports the next milestones in clinical development without the requirement for additional capital Xencor Programs Targeting TL1A Have Achieved Key Milestones
+
+ 
+
+® Interim Results from First-in-Human Study of XmAb942 & TL1A Pipeline Update April 29, 2025

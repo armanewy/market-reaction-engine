@@ -1,0 +1,325 @@
+false
+--12-31
+0001649904
+
+0001649904
+
+2024-04-15
+2024-04-15
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C.
+20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of
+1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+April 15, 2024
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+Delaware
+
+ 
+
+001-38223
+
+ 
+
+46-2159271
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+222 Berkeley Street
+
+12th Floor
+
+Boston, MA 02116
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (857) 264-4280
+
+ 
+
+N/A
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨  Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨  Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange on which registered
+
+Common Stock, $0.001 par value per share
+
+RYTM
+
+The Nasdaq Stock Market LLC (Nasdaq Global Market)
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+As previously disclosed in a Current Report on
+Form 8-K filed by Rhythm Pharmaceuticals, Inc. (the “Company”) with the Securities and Exchange Commission on April 1, 2024
+(the “Original 8-K”), on April 1, 2024, the Company entered into an Investment Agreement (the “Investment Agreement”)
+with certain affiliates of Perceptive Advisors LLC (“Perceptive”) and certain other investors (each, an “Investor”
+and collectively, the “Investors”), relating to the issuance and sale of 150,000 shares of a new series of the Company’s
+Series A Convertible Preferred Stock, par value $0.001 per share, titled the “Series A Convertible Preferred Stock” (the “Convertible
+Preferred Stock”), for an aggregate purchase price of $150,000,000, or $1,000 per share (the “Issuance”).
+
+ 
+
+On April 15, 2024, the closing of the Issuance
+(the “Initial Issue Date”) took place, and the Company entered into that certain Registration Rights Agreement with the
+Investors, pursuant to which the Company granted the Investors certain customary registration rights with respect to the shares of the
+Company’s common stock, par value $0.001 per share (the “Common Stock”), issuable upon conversion of Convertible Preferred
+Stock.
+
+ 
+
+The foregoing description of the Registration
+Rights Agreement is not complete and is qualified in its entirety by reference to the form of Registration Rights Agreement, which is
+which is attached as Exhibit B to Exhibit 10.1 to the Original 8-K, and is incorporated herein by reference.
+
+ 
+
+Item 3.03. Material Modification to Rights of Security Holders.
+
+ 
+
+The information contained below in Item 5.03 regarding the Certificate
+of Designations is incorporated into this Item 3.03 by reference.
+
+ 
+
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change
+in Fiscal Year.
+
+ 
+
+In connection with the Initial Issue Date, on April 15, 2024, the Company
+filed the Certificate of Designations with the Secretary of State of the State of Delaware, effective the same day. As previously disclosed,
+the Convertible Preferred Stock will rank senior to the shares of the Company’s Common Stock, with respect to the payment of dividends
+and the distribution of assets upon a liquidation, dissolution or winding up of the Company. The Convertible Preferred Stock will initially
+have a liquidation preference of $1,000 per share; provided that the liquidation preference in dissolution or upon a change of control
+shall be increased to be 175% of the then applicable liquidation preference, as described in the Certificate of Designations. Holders
+of the Convertible Preferred Stock will be entitled to a regular dividend (the “Dividend”), at the rate of, (a) for the period
+beginning on, and including, the Initial Issue Date and ending on, but excluding, the second anniversary of the Initial Issue Date, 0.00%
+per annum and (b) for the period beginning on, and including, the second anniversary of the Initial Issue Date, six percent 6.00% per
+annum, compounding quarterly, paid-in-kind or paid in cash, at the Company’s election. For any quarter in which the Company elects
+not to pay the Dividend in cash with respect to a share of Convertible Preferred Stock, such Dividend will become part of the liquidation
+preference of such share, as set forth in the Certificate of Designations. In addition, no dividend or other distribution on the Common
+Stock will be declared or paid on the Common Stock unless, at the time of such declaration and payment, an equivalent dividend or distribution
+is declared and paid on the Convertible Preferred Stock.
+
+ 
+
+The foregoing description Certificate of
+Designations is not complete and is qualified in its entirety by reference to the full text of such document, a copy of which is
+filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+The information contained in Items 1.01 and 5.03
+regarding the Initial Issue Date is incorporated into this Item 8.01 by reference.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+3.1
+
+ 
+
+Certificate of Designations
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the inline XBRL document)
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+Date: April 16, 2024
+
+By:
+
+/s/ Hunter Smith
+
+ 
+
+ 
+
+Hunter Smith
+
+ 
+
+ 
+
+Chief Financial Officer

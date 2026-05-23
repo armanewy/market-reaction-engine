@@ -1,0 +1,368 @@
+EX-99.1
+2
+d296665dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+Arvinas PROTAC® Protein Degrader Bavdegalutamide
+(ARV-110) Continues to Demonstrate
+
+Clinical Benefit in Men with Metastatic
+Castration-Resistant Prostate Cancer
+
+– Bavdegalutamide treatment demonstrated robust activity in molecularly defined tumors
+(androgen receptor T878X/H875Y), with a 46% PSA50 rate and durable RECIST responses –
+
+– Data support the potential for an accelerated approval pathway in a molecularly defined patient population, and the Company intends
+to initiate a pivotal trial by year end 2022 –
+
+– Anti-tumor activity seen across all subgroups of the ongoing Phase 2
+ARDENT trial in patients who had progressed after treatment with novel hormonal agents –
+
+NEW HAVEN, Conn., Feb. 17, 2022 — Arvinas, Inc.
+(Nasdaq: ARVN), a clinical-stage biotechnology company creating a new class of drugs based on targeted protein degradation, today announced completed Phase 1 and interim Phase 2 ARDENT data for bavdegalutamide
+(ARV-110), a novel PROTAC® degrader targeting the androgen receptor (AR). These data continue to provide evidence of anti-tumor activity and clinical
+benefit in patients with metastatic castration-resistant prostate cancer (mCRPC). Bavdegalutamide reduced prostate-specific antigen (PSA) levels greater than or equal to 50% (PSA50) in 46% of
+patients with tumors harboring AR T878X and/ or H875Y (T878X = T878A or T878S) mutations, and two of the seven Response Evaluation Criteria in Solid Tumors (RECIST)-evaluable patients in this group also had confirmed tumor responses. These results
+also demonstrated PSA declines and tumor regressions in patients without tumors harboring AR T878X/H875Y mutations, suggesting an opportunity to develop bavdegalutamide more broadly in prostate cancer. Data from these trials will be presented in
+both a rapid abstract session and a poster session on February 17, 2022, at the 2022 American Society of Clinical Oncology Genitourinary (ASCO GU) Cancers Symposium.
+
+“These results reinforce our belief that bavdegalutamide has the potential to provide meaningful clinical benefits to a patient population for which few
+options exist after progression of their mCRPC,” said John Houston, Ph.D., president and chief executive officer of Arvinas. “In addition to a PSA50 response rate of 46% in tumors
+harboring T875X and/or H878Y mutations, we also saw durable confirmed responses in 2 of the 7 evaluable patients in this group. Overall, these data give us confidence that there is a clear path forward to accelerating the potential development of
+this novel treatment as a precision medicine option for patients.”
+
+Highlights from the Phase 1 and interim Phase 2 ARDENT data (data cut-off date, December 20, 2021):
+
+ 
+
+ 
+
+•
+
+ 
+
+PSA50 rate of 46% in patients with AR T878X/H875Y tumor
+mutations (n=28)
+
+ 
+
+ 
+
+•
+
+ 
+
+Two durable confirmed RECIST (Response Evaluation Criteria in Solid Tumors) partial responses out of seven
+RECIST-evaluable patients with AR T878X/H875Y tumor mutations
+
+ 
+
+ 
+
+•
+
+ 
+
+PSA reductions and evidence of anti-tumor activity as measured by RECIST were observed across all subgroups
+regardless of mutation status, including in patients with tumors not harboring AR T878X/875Y mutations
+
+ 
+
+•
+
+ 
+
+PSA50 rate of 22% (six of 27) in evaluable patients
+in the subgroup defined as “less pretreated” (having received only one prior novel hormonal agent and no prior chemotherapy). A majority of patients with PSA50 declines in this group
+had tumors with the AR T878X/H875Y mutations.
+
+ 
+
+ 
+
+•
+
+ 
+
+Bavdegalutamide had a manageable tolerability profile at the recommended Phase 2 dose (RP2D) of 420 mg oral, once
+daily. Most treatment-related adverse events (TRAEs) were Grade 1/2 and there were no Grade ≥4 TRAEs in the 138 patients treated at the RP2D
+
+Arvinas intends to initiate discussions with the U.S. Food and Drug Administration (FDA) about the potential for an accelerated approval pathway with
+bavdegalutamide in a molecularly defined mCRPC population. The Company also plans to initiate a pivotal trial by year end. Future studies will be planned to explore the potential to treat earlier-line patients who may benefit from bavdegalutamide
+therapy.     
+
+Bavdegalutamide Clinical Update
+
+Enrollment
+
+As of the data cut-off date of December 20, 2021, 195 patients were enrolled across the Phase 1/2 clinical trial (71 in Phase 1; 124 in Phase 2).
+
+The Phase 1 dose escalation trial evaluated bavdegalutamide at doses ranging from 35–700 mg, orally, once-daily (QD), or 210–420 mg twice-daily
+(BID) in patients with mCRPC and ≥2 prior therapies (including abiraterone and/or enzalutamide or other AR antagonist).
+
+The ARDENT Phase 2 dose
+expansion trial was administered at a starting dose of 420 mg QD. Patients in the ARDENT trial received a median of four prior lines of therapy with 100% receiving at least one novel hormonal therapy (NHA; 64% abiraterone, 75% enzalutamide or other
+AR inhibitor, 39% both abiraterone and an AR inhibitor) and 31% receiving at least one chemotherapy regimen.
+
+Patients in ARDENT were enrolled in one of
+four subgroups:
+
+ 
+
+ 
+
+•
+
+ 
+
+Tumors with AR T878X and/or H875Y mutations and excluding AR L702H mutations and
+AR-V7 splice variants
+
+ 
+
+ 
+
+•
+
+ 
+
+Tumors with wild-type AR or AR alterations other than T878X, H875Y, L702H,
+AR-V7
+
+ 
+
+ 
+
+•
+
+ 
+
+Tumors with AR L702H mutations or AR-V7 splice variants, which are
+variants of AR that bavdegalutamide does not degrade preclinically
+
+ 
+
+ 
+
+•
+
+ 
+
+Biomarker agnostic tumors with only one prior NHA and no prior chemotherapy
+
+The biomarker-agnostic subgroup is referred to as “less pretreated;” the three biomarker-defined subgroups are referred to collectively as
+“more pretreated” and received 1-2 prior NHA and no more than two regimens of chemotherapy.
+
+Efficacy Measures
+
+Efficacy measures are
+presented on a combined basis for patients in both the completed Phase 1 dose escalation trial and the interim analysis from the ongoing ARDENT Phase 2 dose expansion trial.
+
+Biomarker defined (“more pretreated”):
+
+In
+patients with:
+
+ 
+
+ 
+
+•
+
+ 
+
+Tumors with AR T878X and/or H875Y mutations but excluding L702H and AR-V7
+(n=8)
+
+ 
+
+ 
+
+•
+
+ 
+
+PSA50=75%; PSA30=75%
+
+ 
+
+•
+
+ 
+
+Tumors with wild-type AR or AR alterations other than T878X, H875Y, L702H, or
+AR-V7 (n=44)
+
+ 
+
+ 
+
+•
+
+ 
+
+PSA50=11%; PSA30=20%
+
+ 
+
+ 
+
+•
+
+ 
+
+Tumors with AR L702H or AR-V7 (n=25)
+
+ 
+
+ 
+
+•
+
+ 
+
+PSA50=4%; PSA30=20%
+
+Biomarker agnostic (“less pretreated”):
+
+ 
+
+ 
+
+•
+
+ 
+
+No more than one prior NHA and no prior chemotherapy (n=27)
+
+ 
+
+ 
+
+•
+
+ 
+
+PSA50=22%; PSA30=26%
+
+In biomarker-evaluable patients treated at or above the RP2D and with tumors
+harboring AR T878X/H875Y mutations (across all subgroups and thus regardless of prior therapy regimens or other mutations; n=28), the PSA50 response rate was 46% and the PSA decline of more
+than 30% (PSA30) response rate was 57%.
+
+Of seven RECIST-evaluable patients across the Phase
+1/Phase 2 trial having tumors harboring AR T878X/H875Y mutations, two had confirmed durable confirmed partial responses. These patients were on treatment for approximately nine months (ongoing as of the data
+cut-off) and 10 months; the duration of treatment ranged from eight weeks to 44 weeks, with three of the seven patients continuing on treatment as of the data cutoff of December 20, 2021.
+
+Twelve (43%) of the 28 patients with AR T878X/H875Y-positive tumors received bavdegalutamide for ≥24 weeks, with nine patients ongoing as of the data
+cutoff.
+
+One confirmed and three unconfirmed RECIST responses were seen in patients with tumors lacking AR T878X/H875Y mutations. The “less
+pretreated” subgroup (n=27) had a similar molecular profile – as assessed by circulating tumor DNA analysis – to the more pretreated, biomarker-defined subgroups in the ARDENT trial. These similarities included both AR
+variations (point mutations and AR-V7 splice variants) and non-AR mutations frequently associated with poor outcomes (e.g., TP53, BRCA1). Six of the 27 patients (22%)
+had PSA50 reductions, and this PSA50 rate was similar to that observed collectively in the “more pretreated” subgroups (16%;
+n=77). Four of the six “less pretreated” patients with PSA50 declines had tumors with AR T878X/H875Y mutations.
+
+Safety
+
+Bavdegalutamide had a manageable
+tolerability profile at the RP2D of 420 mg QD. The majority of treatment-related adverse events (TRAEs) were Grade 1/2 and there were no Grade ≥4 TRAEs in the 138 patients treated at the RP2D.
+
+TRAEs that occurred in ≥10% of patients treated at the RP2D were nausea (Gr 1: 30%; Gr 2: 16%; Gr 3: 1%), fatigue (Gr 1: 23%; Gr 2: 12%; Gr 3: 1%),
+vomiting (Gr 1: 20%; Gr 2: 5%; Gr 3: 1%), decreased appetite (Gr 1: 14%; Gr 2: 11%; Gr 3: 1%), diarrhea (Gr 1: 14%; Gr 2: 4%; Gr 3: 2%), alopecia (Gr 1: 13%; Gr 2: 1%; Gr 3: N/A), AST increased (Gr 1: 9%; Gr 2: 3%; Gr 3: 1%), weight decreased (Gr 1:
+7%; Gr 2: 5%; Gr 3: 0%), and anemia (Gr 1: 4%; Gr 2: 1%; Gr 3: 5%).
+
+TRAEs at the RP2D led to dose reduction in 11 (8%) patients and discontinuation in 12
+(9%) patients.
+
+Anticipated 2022 Milestones for Bavdegalutamide
+
+ 
+
+ 
+
+•
+
+ 
+
+Discuss the potential accelerated approval path with the FDA (1H 2022)
+
+ 
+
+ 
+
+•
+
+ 
+
+Finalize partnership for companion diagnostic (1H 2022)
+
+ 
+
+ 
+
+•
+
+ 
+
+Initiate planned pivotal trial for patients with AR T878/H875 tumor mutations (2H 2022)
+
+About Bavdegalutamide (ARV-110)
+
+Bavdegalutamide is an investigational orally bioavailable PROTAC® protein degrader designed to
+selectively target and degrade the androgen receptor (AR). Bavdegalutamide is being developed as a potential treatment for men with metastatic castration-resistant prostate cancer.
+
+Bavdegalutamide has demonstrated activity in preclinical models of AR mutation or overexpression, both common mechanisms of resistance to currently available AR-targeted therapies.
+
+About Arvinas
+
+Arvinas is a clinical-stage biopharmaceutical company dedicated to improving the lives of patients suffering from debilitating and life-threatening diseases
+through the discovery, development, and commercialization of therapies that degrade disease-causing proteins. Arvinas uses its proprietary PROTAC® Discovery Engine platform to engineer
+proteolysis targeting chimeras, or PROTAC® targeted protein degraders, that are designed to harness the body’s own natural protein disposal system to selectively and efficiently degrade
+and remove disease-causing proteins. In addition to its robust preclinical pipeline of PROTAC® protein degraders against validated and “undruggable” targets, the company has three
+clinical-stage programs: bavdegalutamide and ARV-766 for the treatment of men with metastatic castration-resistant prostate cancer; and ARV-471 for the treatment of
+patients with locally advanced or metastatic ER+/HER2- breast cancer. For more information, visit www.arvinas.com.
+
+Arvinas Forward-Looking
+Statements
+
+This press release contains forward-looking statements that involve substantial risks and uncertainties, including statements
+regarding the potential advantages and therapeutic benefits of bavdegalutamide, the development and regulatory status of bavdegalutamide and our other product candidates, and the timing of clinical trials and data from those trials and plans for
+registration for our product candidates, and the potential commercialization of any of our product candidates and companion diagnostic partnering. All statements, other than statements of historical facts, contained in this press release, including
+statements regarding our strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,”
+“may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar
+expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+We may not
+actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans,
+intentions and expectations disclosed in the forward-looking statements we make as a result of various risks and uncertainties, including but not limited to: whether we and, as applicable Pfizer, will be able to successfully conduct and complete
+clinical development for ARV-471, bavdegalutamide, ARV-766 and our other product candidates, including whether we initiate and receive results from our clinical trials
+on our expected timelines or at all, obtain marketing approval for and commercialized ARV-471, bavdegalutamide, ARV-766 and our other product
+
+candidates on our current timelines or at all, and other important factors discussed in the “Risk Factors” sections contained in our quarterly and annual reports on file with the
+Securities and Exchange Commission. The forward-looking statements contained in this press release reflect our current views with respect to future events, and we assume no obligation to update any forward-looking statements except as required by
+applicable law. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this release.
+
+Arvinas Contacts
+
+Investors:
+
+Jeff Boyle
+
++1 (347)
+247-5089
+
+Jeff.Boyle@arvinas.com
+
+Media:
+
+Kirsten Owens
+
++1 (203) 584-0307
+
+Kirsten.Owens@arvinas.com

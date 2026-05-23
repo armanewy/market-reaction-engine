@@ -1,0 +1,294 @@
+sgmo-20260203
+February 3, 2026Nasdaq0001001233false00010012332026-02-032026-02-03
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 3, 2026
+
+ 
+
+ SANGAMO THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+  
+
+Delaware
+
+ 
+
+000-30171
+
+ 
+
+68-0359556
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+ID Number)
+
+501 Canal Blvd., Richmond, California 94804
+
+(Address of principal executive offices) (Zip Code)
+
+(510) 970-6000
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report) 
+
+ 
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share
+
+ 
+
+SGMO
+
+ 
+
+Nasdaq Capital Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01 Other Events.
+
+On February 3, 2026, Sangamo Therapeutics, Inc. (“Sangamo” or the “Company”) announced the presentation of clinical data from its registrational Phase 1/2 STAAR study evaluating isaralgagene civaparvovec, or ST-920, a wholly owned gene therapy product candidate for the treatment of Fabry disease, in four clinical and nonclinical platform and poster presentations at the 22nd Annual WORLDSymposiumTM taking place in San Diego, CA, February 2-6, 2026. A summary of the data is below. This announcement included data on the 33 patients treated with isaralgagene civaparvovec as of the data cutoff date of April 10, 2025.
+
+The Phase 1/2 STAAR study of isaralgagene civaparvovec is complete, and all 32 patients with 52 weeks follow-up have successfully rolled into the long-term follow-up study. The U.S. Food and Drug Administration (“FDA”) has provided a clear regulatory pathway for isaralgagene civaparvovec, agreeing that data from the ongoing Phase 1/2 STAAR study can serve as the primary basis for approval under the Accelerated Approval Program, using mean annualized estimated glomerular filtration rate (“eGFR”) slope at 52 weeks as an intermediate clinical endpoint.
+
+In December 2025, Sangamo initiated a rolling submission of a Biologics License Application (“BLA”) to the FDA seeking approval of isaralgagene civaparvovec under an Accelerated Approval pathway.
+
+Summary of Clinical Data from Registrational Phase 1/2 STAAR Study of Isaralgagene Civaparvovec Announced on February 3, 2026 in Advance of Presentation at 22nd Annual WORLDSymposiumTM, February 2-6, 2026
+
+•The STAAR study was a Phase 1/2 multicenter, open-label, dose-ranging clinical study designed to assess a single infusion of isaralgagene civaparvovec in Fabry disease patients ≥ 18 years of age. Patients were infused intravenously with a single dose and followed for 52 weeks. A separate long-term follow-up study is underway to monitor the patients treated in this study for up to five years following treatment. Patients who are on stable enzyme replacement therapy (“ERT”) may withdraw from ERT after treatment in a controlled and monitored fashion at the discretion of the patient and the investigator.
+
+•The dose escalation phase included males with classic Fabry disease. The subsequent dose expansion phase treated females, as well as patients with more severe Fabry-associated cardiac or renal disease. The study’s primary endpoint was the incidence of treatment-emergent adverse events (“AEs”). Additional safety evaluations include routine hematology, chemistry, and liver tests; vital sign monitoring; electrocardiogram; cardiac magnetic resonance imaging (“MRI”); serial alpha-fetoprotein testing and MRI of the liver to monitor for potential formation of any liver mass. Secondary endpoints include change from baseline at specific time points in alpha‑galactosidase A (“α‑Gal A”) activity, globotriaosylceramide (“Gb3”) and globotriaosylsphingosine (“lyso‑Gb3”) levels in plasma; frequency of ERT infusion; and changes in renal function and cardiac function (left ventricular mass) measured by cardiac MRI, and rAAV2/6 vector clearance. Key exploratory endpoints include quality of life, Fabry symptoms and neuropathic pain scores; gastrointestinal (“GI”) symptoms, and immune response to AAV6 capsid and α‑Gal A.
+
+•In October 2025, the FDA agreed in a Type B meeting that data from the Phase 1/2 STAAR study can serve as the primary basis for approval under the Accelerated Approval Program, using eGFR slope at 52 weeks as an intermediate clinical endpoint.
+
+•As of the April 10, 2025 data cutoff date, 33 patients ranging in age from 18 to 67 years were treated with isaralgagene civaparvovec, nine in the dose escalation phase and 24 in the dose expansion phase of the study. Baseline characteristics of these 33 dosed patients are shown in Table 1 below. In the dose escalation phase, two patients were dosed in Cohort 1 at the dose of 0.26x1013 vg/kg, two patients were dosed in Cohort 2 at the dose of 0.53x1013 vg/kg, three patients were dosed in Cohort 3 at the dose of 1.58x1013 vg/kg, and two patients were dosed in Cohort 4 at the dose of 2.63x1013 vg/kg. In the dose expansion phase, 24 patients were dosed at the dose of 2.63x1013 vg/kg. As of the April 10, 2025 data cutoff date, the median duration of follow-up was 24 months, with the first dosed patient having been followed for at least 54.3 months. 32 dosed patients in the study had achieved at least 52 weeks follow-up as of the April 10, 2025 data cutoff date. Patient 14 withdrew from the study at Week 21 due to personal reasons unrelated to the study.
+
+•As of the April 10, 2025 data cutoff date, isaralgagene civaparvovec continued to be generally well-tolerated across all the dose cohorts, without the need for preconditioning and with the majority of adverse events (“AEs”) being graded as mild (Grade 1) or moderate (Grade 2) in nature. A summary of the treatment-related AEs reported as of the April 10, 2025 cutoff date is shown in Table 2 below. Treatment-emergent serious AEs (“TESAEs”) were reported in four patients, all Grade 2 or Grade 3: left arm pain, non-cardiac chest pain, sepsis, stroke and shoulder enthesopathy. The event of shoulder enthesopathy was the only serious adverse event (“SAE”) deemed related to treatment. Any liver function test (“LFT”) elevation events were Grade 1 and all resolved without clinical sequalae. No Thrombotic Microangiopathy (“TMA”) or complement activation events were observed. No AEs led to study discontinuation. No deaths were reported.
+
+•As of the April 10, 2025 data cutoff date, all 15 ERT naïve or pseudo-naïve patients showed normal to supraphysiological levels of α-Gal A activity up to 54 months for the longest treated patient, as shown in Figure 3a. Sustained normal to
+
+supraphysiological expression of α-Gal A activity was accompanied by the reduction and/or long-term stabilization of lyso-Gb3 levels, with the largest reductions in plasma lyso-Gb3 seen in patients with the highest levels at baseline, as shown in Figure 3b.
+
+•For patients who began the study on ERT, sustained elevated levels of α-Gal A activity were observed for 17 of the 18 On ERT patients, as shown in Figure 4a. Plasma lyso-Gb3 activity levels remained generally stable following ERT withdrawal, as shown in Figure 4b. Following dosing with isaralgagene civaparvovec, all 18 patients who came into the study on ERT were able to safely withdraw from ERT, with one patient now off ERT for more than four years. Since the data cutoff date, a physician decided to resume ERT for one of their treated patients who had withdrawn from ERT. This patient, who received isaralgagene civaparvovec more than three years ago, maintained supraphysiological levels of a-Gal A activity, and their lyso-Gb3 levels were generally stable as of the April 10, 2025 data cutoff date.
+
+•Two methods were employed to estimate the mean annualized eGFR slope and its 95% confidence interval (“CI”). First, individual eGFR slopes at Weeks 52 and 104 were estimated using a linear regression model in a two-step process. Additionally, a mixed model with Random Intercept and Random Slope (“RIRS”) was used for estimation. As of the April 10, 2025 data cutoff date, a positive mean annualized eGFR slope of 1.965 mL/min/1.73m2/year (95% CI: -0.153, 4.083) and a positive mean annualized RIRS eGFR slope of 2.020 mL/min/1.73m2/year (95% CI: -0.055, 4.095) at 52-weeks were observed across all 32 dosed patients with 52 week eGFR data. Furthermore, a mean annualized eGFR slope at Week 104 of 1.747 mL/min/1.73m2/year (95% CI: -0.106, 3.601) and a positive mean annualized RIRS eGFR slope of 1.751 mL/min/1.73m2/year (95% CI: -0.053, 3.555) were observed for the 19 patients who have achieved 104-weeks of follow-up, as shown in Figure 5 below. These slopes compare favorably to a meta-analysis of publications of approved Fabry treatments (Fabrazyme, Replagal and Galafold). The mean and 95% CI were calculated with adjustments to age, gender, and baseline eGFR. The upper confidence limit (“UCL”) of the 95% CI, -1.055 mL/min/1.73m2/year, was used to rule out variability in data and serves as a conservative historical comparator for Fabry patients treated with approved therapies.
+
+•A subgroup analysis of mean annualized eGFR slopes was performed at Week 52, showing supportive mean annualized eGFR slopes across subgroups such as gender, baseline ERT status, disease type and baseline eGFR compared to the meta-analysis of approved Fabry treatments, and as shown in Figure 6 below, demonstrating consistency in effect across Fabry patients in the study.
+
+•Figure 7 below illustrates the evolution in mean annualized eGFR slopes over time, for 32 patients up to Week 52, 22 patients at 18 months and 19 patients at Week 104. At Week 16, the earliest measurement timepoint, mean eGFR slope across all 32 patients was -3.634 mL/min/1.73m2/year. Improvements in eGFR slope were seen as early as Week 24 following isaralgagene civaparvovec administration, with the mean eGFR slope increasing over time and becoming positive at Week 36. A maximum mean eGFR slope of 3.016 mL/min/1.73m2/year was achieved at 18-months post isaralgagene civaparvovec administration, for 22 patients who had reached this duration of follow-up as of the data cutoff date.
+
+•As of the April 10, 2025 data cutoff date, stable cardiac function was observed. Electrocardiogram (“ECG”) and echocardiogram (“ECHO”) findings demonstrated stability over 52 weeks, with mean P wave to R wave (“PR”) interval, Mean Ventricular Rate, Q wave R wave S wave (“QRS”) Interval, Baseline Q wave T wave (“QT”) interval, Baseline rate-corrected QT (“QTc”) mean interval, Left Ventricular Mass Index (“LVMI”) and Ejection Fraction (“EF”) indicating clinical stability across the various subgroups, as shown in Table 8 below. QTc interval slightly improved and ventricular wall thickness remained stable. Cardiac structure and function also remained stable over 52 weeks.
+
+•Cardiac MRI also demonstrated preservation of left ventricular structure and systolic function. As of the April 10, 2025 cutoff date, ejection fraction and global longitudinal strain were preserved over 52 weeks, as shown in Table 9 below. Stable Troponin T levels indicated stable myocardial disease and stable N-Terminal ProB-type Natriuretic Peptide levels indicated overall stable cardiorenal function.
+
+•Significant improvements in disease severity, quality of life (“QoL”), and GI symptoms were observed. As of the April 10, 2025 data cutoff date, nine patients, including five on ERT, improved their total Fabry Outcome Survey adaptation of the Mainz Severity Score Index (“FOS-MSSI”) score at 12 months and nine patients improved their FOS-MSSI category compared to baseline at the last assessment. Statistically significant and clinically meaningful improvements in the short form-36 (“SF-36”) QoL scores were reported for general health, physical component, bodily pain, role-physical, vitality and social functioning scores, as shown in Figure 10 below. The GI symptom rating scale (“GSRS”) also demonstrated statistically significant improvements in GSRS and Diarrhea scores at Week 52 compared to baseline.
+
+•Immunogenicity remains an issue with ERT, leading to continued organ impairment. 10 patients had measurable titers of total antibodies (“TAbs”) or neutralizing antibodies (“NAbs”) against α-Gal A associated with ERT at baseline. As shown in Table 11, following dosing, total TAb or NAb titers decreased markedly in nine patients and became undetectable in eight, or 80% of patients. Treatment did not induce anti-α-Gal A antibodies in baseline seronegative patients.
+
+Table 1: Baseline characteristics: Dose escalation and dose expansion phases
+
+Data cutoff date: April 10, 2025
+
+eGFR, estimated glomerular filtration rate (mL/min/1.73m2); ERT, enzyme replacement therapy; n, number, M, male; F, female
+
+Table 2: Summary of treatment-emergent AEs in >10% of patients
+
+Data cutoff date: April 10, 2025
+
+AE, adverse event; G, grade; n, number
+
+Figure 3a: Plasma α-Gal A in ERT naïve/pseudo-naïve patients (n=15)
+
+Data cut-off date: April 10, 2025
+
+α-Gal A activity measured using 3-hour reaction time. Normal range determined in healthy males and females. Long Term Follow-up Data: Data points > Study Day 365.
+
+α-Gal A, alpha-galactosidase A; ERT, enzyme replacement therapy; vg/kg, vector genomes per kilogram of total body weight (as assessed by droplet polymerase chain reaction (“ddPCR”)); n, number
+
+Figure 3b: Lyso-Gb3 in ERT naïve/pseudo-naïve patients (n=15)
+
+Data cut-off date: April 10, 2025
+
+Lyso-Gb3, globotriaosylceramide; ERT, enzyme replacement therapy; vg/kg, vector genomes per kilogram of total body weight (as assessed by ddPCR); n, number
+
+Figure 4a: Plasma α-Gal A in ERT-treated patients (n=18)
+
+Data cut-off date: April 10, 2025
+
+α-Gal A activity measured using 3-hour reaction time. Normal range determined in healthy males and females.
+
+α-Gal A, alpha-galactosidase A; ERT, enzyme replacement therapy; vg/kg, vector genomes per kilogram of total body weight (as assessed by ddPCR); n, number
+
+Figure 4b: Lyso-Gb3 in ERT-treated patients (n=18)
+
+Data cut-off date: April 10, 2025
+
+ERT, enzyme replacement therapy; lyso-Gb3, globotriaosylsphingosine; vg/kg, vector genomes per kilogram of total body weight (as assessed by ddPCR); n, number
+
+Figure 5: Positive mean eGFR slopes were observed at weeks 52 and 104
+
+Data cutoff date: April 10, 2025
+
+eGFR, estimated glomerular filtration rate (mL/min/1.73m2); n, number; CI, confidence interval; RIRS, random intercept and random slope; UCL, upper confidence limit
+
+A meta-analysis of publications of approved Fabry treatments (Fabrazyme, Galafold, Replagal) was conducted (Feriozzi 2012, Hughes 2016). The mean and 95% CI were calculated with adjustments to age, gender, and baseline eGFR. The upper confidence limit (UCL) of the 95% CI, -1.055 mL/min/1.73m2/year, was used to rule out variability in data and serves as a conservative historical comparator for Fabry patients treated with approved therapies. One participant discontinued the study with 12 weeks eGFR data, thus not included in the analysis.
+
+Figure 6: Subgroup analysis – mean annualized eGFR slope at week 52
+
+Data cutoff date: April 10, 2025
+
+eGFR, estimated glomerular filtration rate (mL/min/1.73m2); n, number; UCL, upper confidence limit; CI, confidence interval
+
+Figure 7: Evolution in mean eGFR slope over 24 months
+
+Data cutoff date: April 10, 2025
+
+eGFR, estimated glomerular filtration rate (mL/min/1.73m2); n, number; m, months
+
+Table 8: ECG and ECHO findings over 52 weeks
+
+Data cut-off date: April 10, 2025
+
+EF, ejection fraction; LVMI, left ventricular mass index; QRS, Q wave R wave S wave interval; QT, Q wave T wave interval; QTc, rate-corrected QT interval; PR, P wave to R wave interval; ECG, electrocardiogram; n, number; MM, millimeter; MS, milli second; SD, standard deviation; * p-value > 0.05 for all parameters above
+
+Table 9: Cardiac MRI results over 52 weeks
+
+Data cut-off date: April 10, 2025
+
+LVEF, left ventricular ejection fraction; LVGLMS, left ventricular global longitudinal myocardial strain; n, number; MRI, magnetic resonance imaging; ML, milli liter; NG/L, nanogram per liter; PG/ML, picogram per milliliter; CI, confidence interval
+
+Table 10: SF-36 scores over 52 weeks
+
+Data cut-off date: April 10, 2025
+
+Analysis of ST-920 treated subjects with ≥12 m follow-up (n=32). “Month 12” is Week 52 study timepoint. All p-values are unadjusted nominal p-values. FOS-MSSI, Fabry outcome survey-mains severity score; SF-36. 36-item short form health survey; GI, gastrointestinal. Best score from up to 4.5 years follow up data.
+
+Table 11: Reduction or elimination of antibodies against α-Gal A
+
+Data cut-off date: April 10, 2025
+
+α-Gal A, alpha-galactosidase A; TAb, total antibody; NAb, neutralizing antibody; W, week;
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements regarding Sangamo’s current expectations. These forward-looking statements include, without limitation: the safety and efficacy and therapeutic and commercial potential of isaralgagene civaparvovec; the presentation of clinical data from the Phase 1/2 STAAR study; the potential for isaralgagene civaparvovec to qualify for the FDA’s Accelerated Approval program, including the adequacy of data generated in the Phase 1/2 STAAR study to support any such approval; expectations concerning the availability of additional data to support a potential BLA submission for isaralgagene civaparvovec; the potential to accelerate the expected timeline to approval of isaralgagene civaparvovec; and other statements that are not historical fact. These statements are not guarantees of future performance and are subject to certain risks and uncertainties that are difficult to predict. Factors that could cause actual results to differ include, but are not limited to, risks and uncertainties related to Sangamo’s lack of capital resources to obtain regulatory approval for and commercialize its product candidates in a timeline manner or at all; the uncertain timing and unpredictable nature of clinical trial results, including the risk that the therapeutic effects observed in the Phase 1/2 STAAR study will not be durable in patients and that final clinical trial data from the study will not validate the safety and efficacy of isaralgagene civaparvovec, including that the 52 week data from the Phase 1/2 STAAR study will not support a BLA submission and/or that the 104-week data from such study will not verify the clinical benefit of isaralgagene civaparvovec or support FDA approval, and that the patients withdrawn from ERT will remain off ERT; Sangamo’s need for substantial additional funding to execute its operating plan and to continue to operate as a going concern; the effects of macroeconomic factors or financial challenges, including as a result of the ongoing overseas conflicts, tariffs, geopolitical instability, inflation and fluctuations in interest rates, on the global business environment, healthcare systems and business and operations of Sangamo and its collaborators; the research and development process; the unpredictable regulatory approval process for product candidates across multiple regulatory authorities; reliance on results of early clinical trials, which results are not necessarily predictive of future clinical trial results, including the results of any registrational trial of Sangamo’s product candidates; the potential for technological developments that obviate technologies used by Sangamo; Sangamo’s reliance on collaborators and the potential inability to secure additional collaborations; Sangamo’s ability to achieve expected future financial performance; and other risks and uncertainties described in Sangamo’s filings with the U.S. Securities and Exchange Commission (“SEC”), including its Annual Report on Form 10-K for the year ended December 31, 2024, as supplemented by Sangamo’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2025, as well as subsequent filings and reports that Sangamo makes from time to time with the SEC. The information contained in this Current Report on Form 8-K is as of February 3, 2026, and Sangamo undertakes no duty to update forward-looking statements contained in this Current Report on Form 8-K except as required by applicable laws.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+SANGAMO THERAPEUTICS, INC.
+
+Dated: February 3, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ SCOTT B. WILLOUGHBY
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Scott B. Willoughby
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Legal Officer and Corporate Secretary

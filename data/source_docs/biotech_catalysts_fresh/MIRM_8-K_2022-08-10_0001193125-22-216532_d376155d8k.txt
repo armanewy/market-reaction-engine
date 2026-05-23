@@ -1,0 +1,279 @@
+8-K
+
+false 0001759425 0001759425 2022-08-09 2022-08-09
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): August 9, 2022
+
+ 
+
+ 
+
+Mirum Pharmaceuticals, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38981
+
+ 
+
+83-1281555
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+950 Tower Lane, Suite 1050
+
+Foster City, California
+
+ 
+
+94404
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (650) 667-4085
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.0001 per share
+
+ 
+
+MIRM
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+Follow-On Public Offering
+
+On August 9, 2022, Mirum Pharmaceuticals, Inc. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with J.P. Morgan Securities LLC, SVB Securities LLC and Evercore Group L.L.C., as representatives of the several underwriters named therein (collectively, the “Underwriters”), relating to the issuance and sale in a public offering of 3,478,261 shares of the Company’s common stock, par value $0.0001 per share (the “Common Stock”). The price to the public in the offering was $23.00 per share. The gross proceeds to the Company from the offering are expected to be $80.0 million, before deducting underwriting discounts and commissions and estimated offering expenses payable by the Company. The closing of the offering is expected to occur on August 12, 2022, subject to the satisfaction of customary closing conditions. In addition, the Company granted the Underwriters an option, exercisable for 30 days, to purchase up to 521,739 additional shares of Common Stock at the public offering price, less the underwriting discounts and commissions.
+
+The Underwriting Agreement contains customary representations, warranties and agreements by the Company, customary conditions to closing, indemnification obligations of the Company and the Underwriters, including for liabilities under the Securities Act of 1933, as amended, other obligations of the parties and termination provisions. The representations, warranties and covenants contained in the Underwriting Agreement were made only for purposes of such agreement and as of specific dates, were solely for the benefit of the parties to such agreement and may be subject to limitations agreed upon by such parties.
+
+The offering is being made pursuant to an effective registration statement on Form S-3 and accompanying prospectus (File No. 333-240290), previously filed with the Securities and Exchange Commission (the “SEC”), and a prospectus supplement thereunder. A copy of the Underwriting Agreement is filed as Exhibit 1.1 to this report, and the foregoing description of the terms of the Underwriting Agreement does not purport to be complete and is qualified in its entirety by reference to such exhibit. A copy of the opinion of Cooley LLP relating to the legality of the issuance and sale of the shares in the offering is attached as Exhibit 5.1 hereto.
+
+Company Overview
+
+In connection with the offering described above, the Company provided the following updated overview.
+
+The Company is a biopharmaceutical company focused on the identification, acquisition, development and commercialization of novel therapies for debilitating rare and orphan diseases. It focuses on diseases for which the unmet medical need is high and the biology for treatment is clear.
+
+The Company’s lead product LIVMARLI® (maralixibat) oral solution (“Livmarli”), a novel, oral, minimally-absorbed agent designed to selectively inhibit apical sodium bile acid transporter (“ASBT”), also known as the ileal bile acid transporter (“IBAT”), is approved for the treatment of cholestatic pruritus in patients with Alagille syndrome (“ALGS”) one year of age and older in the United States. The Company markets and commercializes Livmarli in the United States through its specialized and focused commercial team. The Company believes the initial addressable patient population in the United States is approximately 2,000 to 2,500 pediatric ALGS patients, which, based on its current expectations and beliefs, represents a greater than $500.0 million market opportunity. The Company has also filed for approval in Europe of Livmarli for the treatment of cholestatic liver disease in patients with ALGS and plans to commercialize Livmarli in Western Europe with its international team based in Switzerland. The Company has entered into license and distribution agreements with several rare disease companies for the commercialization of Livmarli in additional countries.
+
+The Company is also developing Livmarli for progressive familial intrahepatic cholestasis (“PFIC”) and biliary atresia (“BA”). Livmarli has been granted breakthrough designation for ALGS and PFIC type 2. It expects to report topline data from its MARCH-PFIC Phase 3 clinical trial in the fourth quarter of 2022 and topline data from its EMABARK Phase 2b clinical trial in BA in the second half of 2023.
+
+The Company is advancing its second product candidate, volixibat, a novel, oral, minimally-absorbed agent designed to inhibit IBAT, for the treatment of adult patients with cholestatic liver diseases. It is developing volixibat for the treatment of intrahepatic cholestasis of pregnancy (“ICP”), primary sclerosing cholangitis (“PSC”) and
+
+primary biliary cholangitis (“PBC”). Volixibat has been studied in over 400 adults for up to 48 weeks. Clinical trials of volixibat have shown significant activity on ASBT and bile acid markers such as 7αC4, fecal bile acids and cholesterol, demonstrating potent biological activity. The Company expects to report interim data from its VISTAS Phase 2b clinical trial in PSC in mid-2023, interim data from its OHANA Phase 2b clinical trial in the first half of 2023 and interim data from its VANTAGE Phase 2b clinical trial in PBC in the second half of 2023.
+
+Forward-Looking Statements
+
+Certain statements contained in this report are forward-looking statements that involve a number of risks and uncertainties. Such forward-looking statements include, without limitation, statements about the Company’s expectations with respect to the completion of the offering and the expected gross proceeds from the offering. Words such as “expect”, “may,” and similar expressions are intended to identify forward-looking statements, though not all forward-looking statements necessarily contain these identifying words. For such statements, the Company claims the protection of the Private Securities Litigation Reform Act of 1995. Actual events or results may differ materially from the Company’s expectations. Factors that could cause actual results to differ materially from the forward-looking statements include, but are not limited to, risks and uncertainties associated with market conditions, the satisfaction of customary closing conditions related to the offering, the COVID-19 global pandemic and other macroeconomic and geopolitical events, such as the ongoing military conflict between Ukraine and Russia and related sanctions. Additional factors that could cause actual results to differ materially from those stated or implied by the Company’s forward-looking statements are disclosed in the Company’s filings with the SEC, including in the section captioned “Risk Factors” in the Company’s most recent Annual Report on Form 10-K and subsequently filed Quarter Reports on Form 10-Q and the prospectus supplement relating to the offering. These forward-looking statements represent the Company’s judgment as of the time of this report. The Company disclaims any intent or obligation to update these forward-looking statements, other than as may be required under applicable law.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+  
+
+Description
+
+1.1
+
+  
+
+Underwriting Agreement by and among the Company, J.P. Morgan Securities LLC, SVB Securities LLC and Evercore Group L.L.C., dated August 9, 2022.
+
+5.1
+
+  
+
+Opinion of Cooley LLP.
+
+23.1
+
+  
+
+Consent of Cooley LLP (included in Exhibit 5.1).
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Mirum Pharmaceuticals, Inc.
+
+Date: August 9, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+President and Chief Executive Officer

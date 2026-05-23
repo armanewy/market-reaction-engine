@@ -1,0 +1,367 @@
+8-K
+
+false000186156000018615602025-06-242025-06-24
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 24, 2025
+
+ 
+
+ 
+
+NUVALENT, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+Delaware
+
+001-40671
+
+81-5112298
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+One Broadway
+
+14th Floor
+
+ 
+
+Cambridge, Massachusetts
+
+ 
+
+02142
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (857) 357-7000
+
+ 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Class A Common Stock, par value $0.0001 per share
+
+ 
+
+NUVL
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Item 8.01 Other Events.
+
+On June 24, 2025, Nuvalent, Inc. (the “Company”) announced positive pivotal data for zidesamtinib, a novel ROS1-selective inhibitor, in tyrosine kinase inhibitor (“TKI”) pre-treated patients with advanced ROS1-positive non-small cell lung cancer (“NSCLC”) from the global ARROS-1 Phase 1/2 clinical trial.
+
+In addition, Nuvalent announced progress on the front-line development strategies for its parallel lead programs in ROS1-positive and ALK-positive NSCLC, including:
+
+•
+The first report of preliminary data from the Phase 2 TKI-naïve cohort in its ARROS-1 clinical trial, in which global enrollment is ongoing; and,
+
+•
+The advancement of clinical startup activities to support the global initiation of the ALKAZAR Phase 3, randomized, controlled trial. The trial is designed to evaluate neladalkib, a novel ALK-selective inhibitor, versus alectinib, a front-line standard of care, for the treatment of patients with TKI-naïve ALK-positive NSCLC, and the Company expects to begin enrollment early in the second half of 2025.
+
+The Company completed a pre-New Drug Application (“NDA”) meeting with the U.S. Food and Drug Administration (“FDA”) and aligned on its plans to move forward with an NDA submission seeking an indication for the treatment of zidesamtinib for TKI pre-treated patients with locally advanced or metastatic ROS1-positive NSCLC. The FDA agreed to accept the NDA for participation in the Real-Time Oncology Review (“RTOR”) pilot program, which facilitates earlier submission of topline data to support an earlier start to the FDA’s evaluation of the application. The Company plans to initiate a rolling NDA submission in July 2025 with completion targeted for the third quarter of 2025, and continues to engage with the FDA on potential opportunities for line-agnostic expansion.
+
+Summary of Pivotal Data
+
+Zidesamtinib is being evaluated in ARROS-1, a first-in-human Phase 1/2 clinical trial for patients with advanced ROS1-positive NSCLC and other solid tumors. The recommended phase 2 dose (“RP2D”) for zidesamtinib of 100 mg once daily (“QD”) was determined during the Phase 1 dose-escalation portion of the trial. The ongoing global, single arm, multi-cohort, open label Phase 2 portion is designed to evaluate zidesamtinib at the RP2D with registrational intent for both TKI-naïve and TKI pre-treated patients with advanced ROS1-positive NSCLC.
+
+In this pivotal dataset for the TKI pre-treated ROS1-positive NSCLC population, data are pooled across Phase 1 and 2 and reported for the primary objective of objective response rate (“ORR”, RECIST 1.1) by blinded independent central review (“BICR”). Key secondary objectives include duration of response (“DOR”), intracranial ORR (“IC-ORR”), and safety.
+
+As of the data cut-off date of March 21, 2025, 514 patients with ROS1-positive solid tumors had received zidesamtinib at any starting dose across the Phase 1 and Phase 2 portions of the ARROS-1 clinical trial. Of these, 432 patients with advanced ROS1-positive NSCLC were treated with zidesamtinib at the RP2D.
+
+Efficacy Analysis in TKI Pre-treated Advanced ROS1-positive NSCLC
+
+The primary analysis population consisted of 117 TKI pre-treated patients with advanced ROS1-positive NSCLC with measurable disease who received zidesamtinib at the RP2D by May 31, 2024 with DOR follow-up of at least 6 months available for nearly all responders.
+
+The primary analysis population was distinct from the ROS1 TKI pre-treated populations that have been reported for the current available and investigational ROS1 TKIs:
+
+Patients received a median of 2 prior lines of therapy (range, 1 – 11) and 53% had received prior chemotherapy.
+
+•
+47% of patients received crizotinib or entrectinib, the most commonly used front-line TKIs, as their only ROS1 TKI ± prior chemotherapy. Within this subset, 51% of patients received prior crizotinib and 49% of patients received prior entrectinib; 47% of patients received prior chemotherapy.
+
+•
+50% of patients had received 2 or more prior ROS1 TKIs ± prior chemotherapy, of which 93% had received prior lorlatinib, repotrectinib, or taletrectinib.
+
+•
+36% of patients had a secondary ROS1 resistance mutation, a key driver of disease progression.
+
+•
+49% of patients had active CNS disease by BICR, including cases of disease progression following treatment with the brain-penetrant TKIs lorlatinib, repotrectinib, and/or taletrectinib.
+
+Activity was observed across subsets of TKI pre-treated patients, and durability of response was assessed as the probability of patients remaining in response for at least 6, 12 and 18 months by Kaplan-Meier estimate (Table 1). Median duration of response (“mDOR”) continues to mature.
+
+Table 1.
+
+All TKI Pre-treated a
+
+1 prior ROS1 TKI
+
+(crizotinib or entrectinib)
+
+± chemotherapy b
+
+n
+
+117
+
+55
+
+ORR, % (n/N)
+
+(95% CI)
+
+44% (51/117) c
+
+(34, 53)
+
+51% (28/55) d
+
+(37, 65)
+
+% DOR ≥ 6 months e
+
+(95% CI)
+
+84%
+
+(71, 92)
+
+93%
+
+(74, 98)
+
+% DOR ≥ 12 months e
+
+(95% CI)
+
+78%
+
+(62, 88)
+
+93%
+
+(74, 98)
+
+% DOR ≥ 18 months e
+
+(95% CI)
+
+62%
+
+(28, 84)
+
+93%
+
+(74, 98)
+
+G2032R mutation f
+
+n
+
+26
+
+6
+
+ORR, % (n/N)
+
+(95% CI)
+
+54% (14/26)
+
+(33, 73)
+
+83% (5/6)
+
+(36, 100)
+
+% DOR ≥ 6 months e
+
+(95% CI)
+
+79%
+
+(47, 93)
+
+80%
+
+(20, 97)
+
+% DOR ≥ 12 months e
+
+(95% CI)
+
+60%
+
+(28, 81)
+
+80%
+
+(20, 97)
+
+NE = not estimable.
+
+a The median duration of follow-up was 11.1 months (range 0.2 – 25.6) and mDOR continue to mature. For responders, the emerging mDOR was 22.0 months (95% CI: 17.2, NE) overall and 17.2 months (95% CI: 3.7, NE) for the subset with G2032R.
+
+b The median duration of follow-up was 11.8 months (range 1.2 – 25.6) and mDOR continue to mature. For responders, the emerging mDOR was 22.0 months (95% CI: 22.0, NE) overall and NE (95% CI: 1.9, NE) for the subset with G2032R.
+
+c Includes responses observed in patients previously treated with at least 2 prior ROS1 TKIs ± chemotherapy (22/58, ORR = 38%), and in patients previously treated with repotrectinib (8/17, ORR = 47%) or taletrectinib (3/7, ORR = 43%).
+
+d For patients receiving crizotinib only ± chemotherapy, ORR was 68% (19/28) with no progression events among responders. For patients receiving entrectinib only ± chemotherapy, ORR was 33% (9/27) with three progression events among responders.
+
+e Estimated for responders by Kaplan-Meier analysis.
+
+f ROS1 G2032R mutation identified in local or central testing of blood (“ctDNA”) or tissue.
+
+In patients that had measurable CNS lesions by BICR at baseline (n = 56), the IC-ORR was 48% with 20% (11/56) intracranial complete responses (“CR”) and 2 unconfirmed partial responses (“PR”), and IC-DOR ≥ 12 months of 71% (95% CI: 46, 87).
+
+•
+In patients that had only received prior crizotinib, which has limited brain penetrance, ± chemotherapy (n = 13), the IC-ORR was 85% with 54% (7/13) intracranial CRs. There was only one CNS progression event among CNS responders.
+
+•
+Intracranial responses were also observed in patients previously treated with the brain-penetrant TKIs entrectinib, lorlatinib, repotrectinib or taletrectinib.
+
+Safety Analyses in Advanced ROS1-positive NSCLC
+
+Zidesamtinib demonstrated a well-tolerated safety profile consistent with its ROS1-selective, TRK-sparing design.
+
+In the 432 patients with advanced ROS1-positive NSCLC treated at RP2D as of the data cut-off date, the median duration of exposure was 5 months (range, 0, 32). The most frequent treatment-emergent adverse events (“TEAEs”) occurring in ≥ 15% of patients were peripheral edema (36%), constipation (17%), blood CPK increase (16%), fatigue (16%), and dyspnea (15%).
+
+Dose reductions due to TEAEs occurred in 10% of patients and 2% of patients discontinued treatment due to TEAEs.
+
+Preliminary Data for TKI-Naïve Patients with Advanced ROS1-positive NSCLC
+
+Encouraging preliminary data were available for 35 TKI-naïve patients with advanced ROS1-positive NSCLC treated with zidesamtinib at RP2D as of August 31, 2024. Patients may have received up to one prior line of chemotherapy.
+
+The preliminary ORR was 89% (31/35) and DOR ranged from 1.9+ to 13.9+ months with DOR ≥ 6 months and 12 months of 96% (95% CI: 76, 99). In 6 patients with measurable intracranial lesions, the IC-ORR was 83% (5/6) and the intracranial CR rate was 67% (4/6). The IC-DOR ranged from 4.6+ to 11.1+ months with no CNS progression among responders.
+
+As of June 16, 2025, a total of 104 patients had been enrolled in the ongoing TKI-naïve cohort of the ARROS-1 trial.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, implied and express statements regarding the Company's strategy, business plans, and focus; the expected timing of data announcements, clinical trial initiations, FDA submissions and potential product approval; the clinical development programs for zidesamtinib and neladalkib; the potential clinical effects of zidesamtinib and neladalkib; the design and enrollment of the Company's clinical trials, including for the ARROS-1 and ALKAZAR trials their intended pivotal registration-directed design; the potential of the Company's pipeline programs, including zidesamtinib and neladalkib; the implications of data readouts and presentations; timing and content of potential discussions with FDA regarding potential accelerated approval pathways; the Company's research and development programs for the treatment of cancer; and risks and uncertainties associated with drug development. The words "may," "might," "will," "could," "would," "should," "expect," "plan," "anticipate," "aim," "goal," "intend," "believe," "expect," "estimate," "seek," "predict," "future," "project," "potential," "continue," "target" or the negative of these terms and similar words or expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in commercialization of a product. You should not place undue reliance on these statements or the scientific data presented.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management's current expectations and beliefs and are subject to a number of risks, uncertainties, and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this Current Report on Form 8-K, including, without limitation: risks that the Company may not fully enroll its clinical trials or that enrollment will take longer than expected; unexpected concerns that may arise from additional data, analysis, or results obtained during preclinical studies and clinical trials; the risk that preliminary results of clinical trials may not be predictive of future results from the same or other trials; the risk that results of earlier clinical trials may not be predictive of the results of later-stage clinical trials; the risk that data from our clinical trials may not be sufficient to support registration and that the Company may be required to conduct one or more additional studies or trials prior to seeking registration of zidesamtinib and neladalkib; the occurrence of adverse safety events; risks that the FDA may not approve the Company's potential products on the timelines the Company expects, or at all; risks of unexpected costs, delays, or other unexpected hurdles; risks that the Company may not be able to nominate drug candidates from its discovery programs; the direct or indirect impact of public health emergencies or global geopolitical circumstances on the timing and anticipated timing and results of the Company's clinical trials, strategy, and future operations, including the ARROS-1 trial and the ALKAZAR trial; the timing and outcome of the Company's planned interactions with regulatory authorities; and risks related to obtaining, maintaining, and protecting the Company's intellectual property. These and other risks and uncertainties are described in greater detail in the section entitled "Risk Factors" in the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2025, as well as any prior and subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent the Company's views only as of today and should not be relied upon as representing its views as of any subsequent date. The Company explicitly disclaims any obligation to update any forward-looking statements.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Nuvalent, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+June 24, 2025
+
+By:
+
+/s/ Deborah A. Miller
+
+ 
+
+ 
+
+ 
+
+Deborah A. Miller, Ph.D.
+
+Chief Legal Officer and Secretary

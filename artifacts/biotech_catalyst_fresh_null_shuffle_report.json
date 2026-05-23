@@ -1,0 +1,31 @@
+{
+  "n_iter": 500,
+  "seed": 314,
+  "actual_strategy_report": {
+    "horizon": 1,
+    "n_predictions": 27,
+    "n_trades": 24,
+    "n_long": 9,
+    "n_short": 15,
+    "long_threshold": 0.6,
+    "short_threshold": 0.4,
+    "allow_short": true,
+    "cost_bps": 5.0,
+    "slippage_bps": 5.0,
+    "mean_gross_event_return": -0.014007452231177839,
+    "mean_net_event_return": 0.12343383021896552,
+    "median_net_event_return": 0.03521799262357056,
+    "hit_rate": 0.6666666666666666,
+    "event_sharpe": 2.179780404351687,
+    "cumulative_net_return": 8.094021027745404,
+    "max_drawdown": -0.337769022543556,
+    "avg_trade_cost": 0.001
+  },
+  "null_metric": "mean_net_event_return",
+  "actual_metric": 0.12343383021896552,
+  "null_mean": 0.006405078004575949,
+  "null_std": 0.0581392456055985,
+  "one_sided_p_value_actual_ge_null": 0.023952095808383235,
+  "z_score_vs_null": 2.0129045534625982,
+  "null_distribution_path": "artifacts\\biotech_catalyst_fresh_null_shuffle_distribution.csv"
+}

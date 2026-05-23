@@ -1,0 +1,162 @@
+rytm-20260316
+0001649904false00016499042026-03-162026-03-16
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 16, 2026
+
+RHYTHM PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-38223
+
+46-2159271
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification Number)
+
+222 Berkeley Street
+
+12th Floor
+
+Boston, MA 02116
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code: (857) 264-4280
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value per share
+
+RYTM
+
+The Nasdaq Stock Market LLC (Nasdaq Global Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01. Regulation FD Disclosure.
+
+On March 16, 2026, Rhythm Pharmaceuticals, Inc. (“Rhythm”) issued a press release and published a presentation announcing topline results from its EMANATE trial, which are summarized under Item 8.01 below. The presentation is available in the “Events and Presentations” portion of the Company’s website at ir.rhythmtx.com. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K.
+
+The information contained in Item 7.01 of this Current Report on Form 8-K (including Exhibits 99.1 and 99.2 attached hereto) shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, except as expressly provided by specific reference in such a filing.
+
+Item 8.01. Other Events.
+
+On March 16, 2026, Rhythm announced the topline results from its EMANATE trial, which are summarized below.
+
+The primary endpoint was the difference in mean percent change in BMI from baseline to Week 52 versus placebo, analyzed in the modified intent-to-treat (ITT) population using prespecified multiple imputation to account for missing values and discontinuations. Topline results include:
+
+•POMC / PCSK1 Hets (N=78): –4.3% placebo-adjusted reduction in BMI (p=0.15);
+
+•LEPR Hets (N=23): –3.6% placebo-adjusted reduction in BMI (p=0.94);
+
+•SRC1 (NCOA1) (N=73): –4.0% placebo-adjusted reduction in BMI (p=0.12); and
+
+•SH2B1 (N=121): –1.7% placebo-adjusted reduction in BMI (p=0.43).
+
+According to post hoc analyses based on last observation carried forward (LOCF) for missing values, setmelanotide achieved statistically significant and clinically meaningful BMI reductions at Week 52 in the modified intent-to-treat patient populations in the POMC/PCSK1 Hets and SRC1 substudies:
+
+•–5.5% least-squares mean difference in BMI in POMC/PCSK1 Hets patients (n=78; p=0.0010); and
+
+•–6.2% least-squares mean difference in BMI in SRC1 (NCOA1) patients (n=73; p<0.0001).
+
+According to post hoc analyses of genetically confirmed patients who reached Week 52 of treatment, setmelanotide achieved statistically significant and clinically meaningful BMI reductions in patients who completed the 52-week trial in the POMC/PCSK1 Hets and SRC1 substudies:
+
+•–9.7% placebo-adjusted reduction in BMI in POMC/PCSK1 Hets patients (n=41; p=0.0002); and
+
+•–8.0% placebo-adjusted reduction in BMI in SRC1 (NCOA1) patients (n=29; p=0.0158).
+
+No new safety signals were observed with setmelanotide in the EMANATE trial, and the safety profile was consistent with prior clinical studies and commercial experience. The most common treatment-emergent adverse events included skin hyperpigmentation, injection site reactions, nausea, vomiting, and headache.
+
+Rhythm plans to continue the analysis of the EMANATE dataset and evaluate potential clinical development paths forward with SRC1 (NCOA1) and POMC with its next-generation MC4R agonists bivamelagon and RM-718. In addition, the Company will continue to evaluate the potential for MC4R agonism in the genes and gene families previously identified through the exploratory Phase 2 DAYBREAK trial, including the SEMA3 family, PHIP, TBX3 or PLXNA family.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+The following Exhibits 99.1 and 99.2 shall be deemed to be furnished and not filed.
+
+Exhibit
+
+No.
+
+Description
+
+99.1
+
+Press release dated March 16, 2026
+
+99.2
+
+Presentation dated March 16, 2026
+
+104
+
+Cover Page Interactive Data File (embedded within the inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+RHYTHM PHARMACEUTICALS, INC.
+
+Date: March 16, 2026
+
+By:
+
+/s/ Hunter Smith
+
+Hunter Smith
+
+Chief Financial Officer

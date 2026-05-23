@@ -1,0 +1,188 @@
+smmt-20240524
+0001599298FALSE00015992982024-05-242024-05-24
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of Earliest Event Reported): May 24, 2024
+
+ 
+
+Summit Therapeutics Inc.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+001-36866
+
+37-1979717
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+601 Brickell Key Drive, Suite 1000, Miami, FL
+
+33131
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: (305) 203-2034
+
+ 
+
+Not applicable
+
+(Former Name or Former Address, If Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common stock, $0.01 par value per share
+
+SMMT
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On May 24, 2024, the National Medical Products Administration (NMPA), the regulatory authority in China responsible for providing marketing authorization for clinical drug candidates, has approved ivonescimab in combination with chemotherapy for use in patients with epidermal growth factor receptor (EGFR) mutated, locally advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) who have progressed after treatment with an EGFR tyrosine kinase inhibitor (TKI).
+
+This is the first approval for ivonescimab by any regulatory authority. The approval for ivonescimab was based on the trial called HARMONi-A (AK112-301), a single region Phase III clinical trial conducted in China comparing ivonescimab plus chemotherapy vs. placebo plus chemotherapy in the aforementioned setting. The trial was sponsored by our partner, Akeso, Inc. (Akeso). Data for this trial was generated and analyzed by Akeso. This data is planned to be released at the 2024 American Society of Clinical Oncology (ASCO) Annual Meeting during an oral presentation on Friday, May 31, 2024, scheduled for 4:57pm CT.
+
+On May 23, 2024, ASCO released abstracts for presentations to take place during the Annual Meeting. Included in these abstracts, was topline data associated with HARMONi-A. Notably, patients receiving ivonescimab plus chemotherapy experienced a median progression free survival (PFS) by independent radiology review committee (IRRC) of 7.06 months (95% CI: 5.85 – 8.74) as compared to 4.80 months (95% CI: 4.21 – 5.55) for those patients receiving chemotherapy alone (hazard ratio: 0.46; 95% CI: 0.34 – 0.62).
+
+Grade ≥3 treatment emergent adverse events (TEAEs) occurred in 61.5% patients receiving ivonescimab plus chemotherapy as compared to 49.1% patients receiving chemotherapy; the most common grade ≥3 TEAEs were chemotherapy related adverse events.
+
+Additional data and context including, but not limited to, response rates, stable disease rates, progression free survival, overall survival, and safety is expected to be made available during ASCO’s Annual Meeting.
+
+The abstract can be found here (Abstract 8508): https://meetings.asco.org/2024-asco-annual-meeting/15779?presentation=232409#232409
+
+Ivonescimab is not approved by any regulatory authority in Summit’s license territories, which includes the United States, as well as, Canada, Europe, and Japan.
+
+The approval in China by the NMPA does not change Summit’s current clinical development plan. Summit continues to enroll patients in its two multi-regional Phase III clinical trials in the following indications:
+
+a.ivonescimab combined with chemotherapy in patients with EGFR-mutated, locally advanced or metastatic non-squamous NSCLC who have progressed after treatment with a third-generation EGFR TKI (“HARMONi”); and
+
+b.ivonescimab combined with chemotherapy in first-line metastatic squamous NSCLC patients (“HARMONi-3”).
+
+The approval by the NMPA approval does not affect our ongoing development of the HARMONi and HARMONi-3 trials, nor does it change the timing or requirements of the trial process, or likelihood of approval, for ivonescimab in the United States, or Summit’s other license territories.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit Number
+
+Description
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+SUMMIT THERAPEUTICS INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: May 24, 2024
+
+By:
+
+/s/ Manmeet S. Soni
+
+ 
+
+ 
+
+Chief Operating Officer and Chief Financial Officer
+
+ 
+
+ 
+
+(Principal Financial Officer)

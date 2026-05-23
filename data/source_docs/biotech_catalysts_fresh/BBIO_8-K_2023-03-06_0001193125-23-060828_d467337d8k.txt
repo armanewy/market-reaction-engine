@@ -1,0 +1,323 @@
+8-K
+
+false 0001743881 0001743881 2023-03-06 2023-03-06
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):March 6, 2023
+
+ 
+
+ 
+
+BridgeBio Pharma, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38959
+
+ 
+
+84-1850815
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+3160 Porter Dr., Suite 250
+
+Palo Alto, CA
+
+ 
+
+ 
+
+94304
+
+(Address of principal executive offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (650) 391-9740
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.001 per share
+
+ 
+
+BBIO
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On March 6, 2023, BridgeBio Pharma, Inc. (the “Company”) issued a press release announcing positive topline Phase 2 Cohort 5 data from its PROPEL2 clinical trial of the investigational therapy infigratinib in children with achondroplasia, a copy of which is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K. The Company intends to host a conference call and live webcast to discuss the interim clinical data on March 6, 2023 at 7:30 a.m. E.T. The Company has made available a slide presentation to accompany the call, a copy of which is being furnished as Exhibit 99.2 to this Current Report on Form 8-K. The Company undertakes no obligation to update, supplement or amend the materials attached hereto as Exhibit 99.2.
+
+The information in this Item 7.01, including Exhibit 99.1 and Exhibit 99.2 attached hereto, is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On March 6, 2023, the Company announced positive topline results from PROPEL2, its Phase 2 clinical trial of infigratinib in children with achondroplasia. In the highest dose level (Cohort 5, 0.25mg/kg once daily), the mean change from baseline in annualized height velocity (“AHV”) at six months was +3.03 cm/yr (p = 0.0022) for the first ten children with at least six months of follow-up in Cohort 5 as of the data cutoff date. The two remaining children who did not yet have six months of follow-up had a mean change from baseline in AHV of +8.8 cm/yr at three months. Infigratinib demonstrated clear dose-responsiveness when given as a single daily oral dose and was well-tolerated with no treatment-related adverse events (AEs) assessed in Cohort 5.
+
+Key results from the clinical trial include:
+
+ 
+
+ 
+
+•
+
+ 
+
+At the highest dose level evaluated to date (Cohort 5, 0.25 mg/kg once daily), the mean increase from baseline in AHV for the ten children that had six-month visits was +3.03 cm/yr (p = 0.0022). Individual data can be found in Figure 1 below.
+
+ 
+
+ 
+
+•
+
+ 
+
+The baseline AHV for the ten children with six-month visits was in the expected range for children with achondroplasia at 3.73 cm/yr, increasing to 6.77 cm/yr after treatment.
+
+ 
+
+ 
+
+•
+
+ 
+
+The two remaining children who did not yet have six months of follow-up had a mean change from baseline in AHV of +8.8 cm/yr at three months. The mean age for Cohort 5 was 7.24 years.
+
+ 
+
+ 
+
+•
+
+ 
+
+80% of the 10 children with six-month visits were responders, with an observed change from baseline AHV of at least 25%. Among the responders, the average change from baseline in AHV was +3.81 cm/yr.
+
+ 
+
+ 
+
+•
+
+ 
+
+Preliminary analysis of Collagen X (CXM) levels also showed a statistically significant increase from baseline in Cohort 5 (p=.03). CXM is a widely accepted biomarker of chondrocyte-driven growth and further validates the response to infigratinib.
+
+ 
+
+ 
+
+•
+
+ 
+
+Combined with the previously reported Cohort 4 change from baseline in AHV value of +1.52 cm/yr, the Cohort 5 data demonstrated a strong dose response for infigratinib.
+
+ 
+
+ 
+
+•
+
+ 
+
+Median follow-up across all cohorts was 71.1 weeks. As of the cutoff date, infigratinib has shown a well-tolerated safety profile, with no study drug-related treatment emergent adverse events (TEAEs) in Cohort 5. No serious adverse events (SAEs) or discontinuations due to AEs were reported in any cohort.
+
+Figure 1
+
+ 
+
+Based on the positive results to date, the Company has started enrolling children in the run-in for a Phase 3 trial. Additionally, the Company expects to initiate clinical development for infigratinib in hypochondroplasia, a skeletal dysplasia closely related to achondroplasia and similarly driven by FGFR3 gain-of-function variants. The Company previously presented preclinical data for hypochondroplasia at the ENDO 2022 Annual Conference and the American Society of Human Genetics 2022 Annual Meeting.
+
+Cautionary Note Regarding Forward Looking Statements
+
+This Current Report on Form 8-K and certain of the materials filed herewith contain forward-looking statements. Statements in this Current Report on Form 8-K or the materials furnished or filed herewith may include statements that are not historical facts and are considered forward-looking within the meaning of Section 27A of the Securities Act, and Section 21E of the Exchange Act, which are usually identified by the use of words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “may,” “plans,” “projects,” “seeks,” “should,” “will,” and variations of such words or similar expressions. The Company intends these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act and Section 21E of the Exchange Act. These forward-looking statements, including statements relating to the clinical, therapeutic and market potential of the Company’s programs and product candidates, including its clinical development program for infigratinib in achondroplasia, the timing and success of its clinical development programs, the progress of its ongoing and planned clinical trials of infigratinib in achondroplasia and in hypochondroplasia, including its enrollment of patients in, and plans to initiate conduct, a Phase 3 trial for infigratinib in achondroplasia and to initiate clinical development of infigratinib in hypochondroplasia, its planned interactions with regulatory authorities, the availability of data from its clinical trials of infigratinib, the duration of the intellectual property protection available for infigratinib, and the timing of these events, reflect the Company’s current views about its plans, intentions, expectations and strategies, which are based on the information currently available to the Company and on assumptions it has made. Although the Company believes that its plans, intentions, expectations and strategies as reflected in or suggested by those forward-looking statements are reasonable, it can give no assurance that the plans, intentions, expectations or strategies will be attained or achieved. Furthermore, actual results may differ materially from those described in the forward-looking statements and will be affected by a number of risks, uncertainties and assumptions, including, but not limited to, initial and ongoing data from the Company’s clinical trials not being indicative of final data, the design and success of ongoing and planned clinical trials, difficulties with enrollment in its clinical trials, adverse events that may be encountered in its clinical trials, the FDA or other regulatory agencies not agreeing with its regulatory approval strategies, components of its filings, such as clinical trial designs, conduct and methodologies, or the sufficiency of data submitted, potential adverse impacts due to the global COVID-19 pandemic such as delays in regulatory review, manufacturing and supply chain interruptions, adverse effects on healthcare systems and disruption of the global economy, the impacts of current macroeconomic and geopolitical events, including changing conditions from the COVID-19 pandemic, hostilities in Ukraine, increasing rates of inflation and rising interest rates, on its overall business operations and expectations, as well as those risks set forth in the Risk Factors section of its Annual Report on Form 10-K for the year ended December 31, 2022 and its other filings with the U.S. Securities and Exchange Commission. Moreover, the Company operates in a very competitive and rapidly changing environment in which new risks emerge from time to time. These forward-looking statements are based upon the current expectations and beliefs of the Company’s management as of the date of this Current Report on Form 8-K, and are subject to certain risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Except as required by applicable law, the Company assumes no obligation to update publicly any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+ 
+
+99.1
+
+  
+
+Press release issued by BridgeBio Pharma, Inc. on March 6, 2023, furnished herewith.
+
+99.2
+
+  
+
+Corporate presentation, dated March 6, 2023, furnished herewith.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BRIDGEBIO PHARMA, INC.
+
+Date: March 6, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Brian C. Stephenson
+
+ 
+
+ 
+
+ 
+
+Brian C. Stephenson
+
+Chief Financial Officer

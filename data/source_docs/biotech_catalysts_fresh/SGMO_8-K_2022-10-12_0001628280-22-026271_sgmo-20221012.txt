@@ -1,0 +1,256 @@
+sgmo-20221012
+October 12, 20220001001233false00010012332022-10-122022-10-12
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 12, 2022
+
+ 
+
+ SANGAMO THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+  
+
+Delaware
+
+ 
+
+000-30171
+
+ 
+
+68-0359556
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+ID Number)
+
+7000 Marina Blvd., Brisbane, California 94005
+
+(Address of principal executive offices) (Zip Code)
+
+(510) 970-6000
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report) 
+
+ 
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share
+
+ 
+
+SGMO
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01 Other Events.
+
+Update Regarding Isaralgagene Civaparvovec (Fabry Disease)
+
+On October 12, 2022, Sangamo Therapeutics, Inc. (“Sangamo”) announced updated preliminary clinical data from the Phase 1/2 STAAR study evaluating isaralgagene civaparvovec, or ST-920, a wholly owned gene therapy product candidate for the treatment of Fabry disease, in advance of its presentation at the European Society of Gene and Cell Therapy (ESGCT) Annual Congress on October 12, 2022. A summary of the data is below.
+
+Summary of Updated Preliminary Results from the Phase 1/2 STAAR Study of Isaralgagene Civaparvovec
+
+•STAAR is an ongoing Phase 1/2 multicenter, open-label, dose-ranging clinical study designed to assess the safety and tolerability of a single infusion of isaralgagene civaparvovec in Fabry disease patients over 18 years of age. Patients are infused intravenously with a single dose of ST-920 and then are followed for 52 weeks. A separate long-term follow-up study is underway to monitor the patients treated in this study for up to five years following treatment. The study design provides for at least two patients to be dosed in each dose cohort before dose escalation, and also allows potential expansion in each cohort. Patients who are on stable enzyme replacement therapy, or ERT, may withdraw from ERT after treatment in a controlled and monitored fashion at the discretion of the patient and the investigator.
+
+•The dose escalation phase includes males with classic Fabry disease. During the dose expansion phase, patients who share the following characteristics may be enrolled into 1 of 5 cohorts according to such characteristic: females, Fabry-associated cardiac disease, Fabry-associated renal disease, positive for anti-α-Gal A antibodies, and negative for anti-α-Gal A antibodies. The study’s primary endpoint is incidence of treatment-emergent adverse events. Additional safety evaluations include routine hematology, chemistry and liver tests; vital signs; electrocardiogram; echocardiogram; serial alpha-fetoprotein testing and magnetic resonance imaging, or MRI, of liver to monitor for potential formation of any liver mass. Secondary endpoints include change from baseline at specific time points over the one-year study period in alpha-galactosidase A, or α-Gal A, activity, globotriaosylceramide, or Gb3, and lyso-Gb3 levels in plasma; frequency of ERT infusion; changes in renal function, cardiac function and left ventricular mass, measured by cardiac MRI and rAAV2/6 vector clearance. Key exploratory endpoints include quality of life, Fabry symptoms and neuropathic pain scores; and immune response to AAV6 capsid and α-Gal A.
+
+•As of the July 21, 2022 cutoff date, nine patients, ranging in age from 22 to 51 years, were treated with isaralgagene civaparvovec. Baseline characteristics of these nine patients are shown in the figure below. Two patients were dosed in Cohort 1 at the dose of 0.5e13 vg/kg, two patients were dosed in Cohort 2 at the dose of 1e13 vg/kg, three patients were dosed in Cohort 3 at the dose of 3e13 vg/kg, and two patients were dosed in Cohort 4 at the dose of 5e13 vg/kg. As of the cutoff date, the first treated patients had been followed for at least 23 months post dosing, and the most recently treated patient had been followed for 14 weeks post dosing.
+
+•As of the July 21, 2022 cutoff date, isaralgagene civaparvovec continued to be generally well tolerated across the four dose cohorts in the nine treated patients. A summary of the treatment-related adverse events reported as of the cutoff date is shown in the figure below. One patient each in Cohorts 1, 2 and 3 and two patients in Cohort 4 exhibited treatment-related adverse events for a total of 17 events, which were all graded as mild (Grade 1) except for one instance of Grade 2 (moderate) pyrexia. No treatment-related serious adverse events were reported. Prophylactic steroids were not required per the study protocol and, as of the cutoff date, no patients had exhibited liver enzyme elevations necessitating steroid treatment, and no prophylactic steroids had been used.
+
+•Results of plasma a-Gal A activity as of the cutoff date for the nine treated patients are shown in the figure below and described in further detail below. The five longest treated patients continued to exhibit elevated α-Gal A activity, sustained up to 23 months as of the last date of measurement for the longest treated patient. As of the cutoff date, the nine patients treated across the four dose cohorts sustained elevated α-Gal A activity ranging from nearly 2-fold to 30-fold of mean normal at the last date of measurement.
+
+Cohort 1
+
+•Patient 1 [began the study on ERT and was subsequently withdrawn from ERT at month 19]: α-Gal A activity was 30.4-fold of mean normal at Month 23.
+
+•Patient 2 [ERT pseudo-naïve]: α-Gal A activity was 1.9-fold of mean normal at Month 18.
+
+Cohort 2
+
+•Patient 3 [ERT pseudo-naïve]: α-Gal A activity was 3.7-fold of mean normal at Month 16.
+
+•Patient 4 [began the study on ERT and was subsequently withdrawn from ERT at week 24]: α-Gal A activity was 7.9-fold of mean normal at Month 12.
+
+Cohort 3
+
+•Patient 5 [began the study on ERT and was subsequently withdrawn from ERT at week 29]: α-Gal A activity was 14.7-fold of mean normal at Week 35.
+
+•Patient 6 [began the study on ERT and was subsequently withdrawn from ERT at week 20]: α-Gal A activity was 4.8-fold of mean normal at Week 26.
+
+•Patient 7 [on ERT]: α-Gal A activity measured at ERT trough was 8.4-fold of mean normal at Week 12.
+
+Cohort 4
+
+•Patient 8 [ERT naïve]: α-Gal A activity was 5.4-fold of mean normal at Week 16.
+
+•Patient 9 [ERT naïve]: α-Gal A activity was 9.0-fold of mean normal at Week 14.
+
+•As of July 21, 2022 cutoff date, four patients in the dose escalation phase that started the study on ERT were withdrawn from ERT. After the cutoff date, one additional patient was withdrawn from ERT, resulting in a total of five patients withdrawn from ERT. All five treated patients in the dose escalation phase who began the STAAR study on ERT have now been withdrawn from ERT. No patients have resumed ERT to date.
+
+•Results of lyso-Gb3 levels as of the cutoff date for the nine treated patients are shown in the figure below. The first patient in Cohort 2 and the second patient in Cohort 4, each with a significant elevation in plasma lyso-Gb3 levels pre-treatment, showed a reduction as of the cutoff date of approximately 40% from baseline levels of lyso-Gb3 within ten weeks after dosing and a reduction of approximately 55% from baseline levels of lyso-Gb3 within 14 weeks after dosing, respectively, which was maintained through Month 15 and Week 2, respectively. Several patients experienced some increases in plasma lyso-Gb3 levels after ERT withdrawal. In these patients, α-Gal A activity remained elevated, and no patient has resumed ERT.
+
+•Since the cutoff date, an additional four patients have been dosed in the Phase 1/2 STAAR study, resulting in a total of 13 patients dosed to date, including the first four patients in the expansion phase at the 5e13vg/kg dose level. Dosing has been completed for the first female Fabry patient in this study. There are also multiple additional patients in screening, including both male and female candidates. Sangamo is currently planning for a potential Phase 3 clinical trial.
+
+Baseline Patient Characteristics
+
+(*) The time point immediately preceding ST-920 administration was presented as the baseline value.
+
+(†) Burning, tingling, or numbness in the extremities.
+
+(‡) eGFR (mL/min/1.73 m2) was calculated using the CKD-EPI.
+
+Ab, antibody; CKD-EPI, Chronic Kidney Disease Epidemiology Collaboration; eGFR, estimated glomerular filtration rate; LOQ, limit of quantitation; lyso-Gb3, globotriaosylsphingosine.
+
+Treatment-Related Adverse Events
+
+As of the cutoff date of July 21, 2022, length of follow-up ranged from 14.1 weeks to 23 months.
+
+(*) Grade 2 pyrexia in Subject 8
+
+MedDRA, Medical Dictionary for Regulatory Activities; LTFU, long-term follow-up; vg/kg, vector genomes per kilogram of body weight
+
+Elevated Plasma α-Gal A Activity Reported Across All Nine Subjects in Dose Escalation, Including LTFU
+
+Data presented as of the cutoff date of July 21, 2022. Fold change was calculated at last measured time point. α-Gal A activity was measured using a 3-hour reaction time and is presented in nmol/h/mL. For Subject 7, sampling was at ERT trough. Normal range and mean normal were determined based on healthy male individuals.
+
+α-Gal A, alpha galactosidase A; ERT, enzyme replacement therapy; LTFU, long-term follow-up
+
+STAAR & LTFU: Plasma α-Gal A Activity Sustained Over Time in Each Cohort
+
+Data presented as of the cutoff date of July 21, 2022. α-Gal A activity was measured using a 3-hour reaction time and is presented in nmol/h/mL. For Subjects on ERT, sampling was at ERT trough. Normal range and mean were determined based on healthy male individuals.
+
+α-Gal A, alpha galactosidase A; ERT, enzyme replacement therapy; LTFU, long-term follow-up
+
+STAAR and LTFU: Lyso-Gb3 Concentration in Plasma
+
+Data presented as of the cutoff date of July 21, 2022. Lyso-Gb3 was measured in plasma and is presented in concentrations (ng/mL). Normal range and mean were determined based on healthy male individuals.
+
+Lyso-Gb3, globotriaosylsphingosine; approx., approximate; α-Gal A, alpha galactosidase A; ERT, enzyme replacement therapy; LTFU, long-term follow-up
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements regarding Sangamo's current expectations. These forward-looking statements include, without limitation: the therapeutic potential of isaralgagene civaparvovec; the Phase 1/2 STAAR study design and Sangamo’s expectations and plans related thereto, including the potential to include additional male and female patients in the study and patients with Fabry-associated cardiac or renal disease; plans for conducting a Phase 3 clinical trial of isaralgagene civaparvovec, and other statements that are not historical fact. These statements are not guarantees of future performance and are subject to certain risks and uncertainties that are difficult to predict. Sangamo’s actual results may differ materially and adversely from those expressed in these forward-looking statements. Factors that could cause actual results to differ include, but are not limited to, risks and uncertainties related to: the evolving COVID-19 pandemic and its impact on the global business environment, healthcare systems and the business and operations of Sangamo, including the enrollment of patients in and operation of clinical trials; the research and development process; the uncertain timing and unpredictable nature of clinical trial results, including the risk that the therapeutic effects observed in the updated preliminary clinical data from the Phase 1/2 STAAR study will not be durable in patients, that final clinical trial data from the study will not validate the safety and efficacy of isaralgagene civaparvovec, and that the patients withdrawn from ERT will remain off ERT; the unpredictable regulatory approval process for product candidates across multiple regulatory authorities; Sangamo’s lack of resources to fully develop, obtain regulatory approval for and commercialize its product candidates, including isaralgagene civaparvovec; the potential for technological developments that obviate technologies used by Sangamo in isaralgagene civaparvovec; Sangamo’s lack of resources to fully develop, obtain regulatory approval for and commercialize its product candidates; and other risks and uncertainties described in Sangamo’s filings with the U.S. Securities and Exchange Commission, including its Annual Report on Form 10-K for the year ended December 31, 2021, as supplemented by Sangamo’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2022. The information contained in this Current Report on Form 8-K is as of October 12, 2022, and Sangamo undertakes no duty to update forward-looking statements contained in this Current Report on Form 8-K except as required by applicable laws.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+SANGAMO THERAPEUTICS, INC.
+
+Dated: October 12, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ SCOTT B. WILLOUGHBY
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Scott B. Willoughby
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President, General Counsel and Corporate Secretary

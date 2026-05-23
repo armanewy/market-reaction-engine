@@ -1,0 +1,813 @@
+EX-99.1
+2
+d190161dex991.htm
+EX-99.1
+
+EX-99.1
+
+Roivant R&D Day September 28, 2021
+Exhibit 99.1
+
+Statement of Limitations (1/2) The
+following is a series of presentations (the “Presentation”) prepared by Roivant Sciences Ltd. and certain of its subsidiaries and affiliates (the “Company”). This Presentation is only for its intended investor audience, and
+for informational purposes only, and it is not intended for reproduction or any further dissemination without the Company’s consent. This Presentation does not constitute an offer to sell or solicitation of an offer to buy securities of any
+nature whatsoever, in any jurisdiction, and it may not be relied upon in connection with the purchase of securities.   This Presentation It is not intended to form the basis of any investment decision or any other decisions with respect of the
+proposed transactions (the “Business Combination”) contemplated by the Business Combination Agreement, by and among Montes Archimedes Acquisition Corp. (the “SPAC”), and the Company and should not be relied upon in connection
+with any investment decision. The information contained herein does not purport to be all-inclusive and none of the SPAC, the Company or any of their respective affiliates, directors or officers makes any representation or warranty, express or
+implied, as to the accuracy, completeness or reliability of the information contained in this Presentation.   Forward Looking Statements   This Presentation may contain forward-looking statements for the purposes of the safe harbor
+provisions under The Private Securities Litigation Reform Act of 1995 and other federal securities laws.  Forward-looking statements include, without limitation, statements regarding the estimated future financial performance, financial
+position and financial impacts of the Business Combination, the satisfaction of closing conditions to the Business Combination and any related financing, the level of redemption by the SPAC’s public stockholders, the timing of the completion
+of the Business Combination, anticipated ownership percentages of the combined company’s stockholders following the potential transaction, and the business strategy, plans and objectives of management for future operations, including as they
+relate to the potential Business Combination. Future results are not possible to predict. Opinions and estimates offered in this Presentation constitute the Company’s judgment and are subject to change without notice, as are statements about
+market trends, which are based on current market conditions. This Presentation contains forward-looking statements, including without limitation, forward-looking statements that represent opinions, expectations, beliefs, intentions, estimates or
+strategies regarding the future of the SPAC and the Company and its affiliates, which may not be realized. Forward-looking statements can be identified by the words, including, without limitation, “believe,” “anticipate,”
+“continue,” “estimate,” “may,” “project,” “expect,” “plan,” “potential,” “target,” “intend,” “seek,” “will,”
+“would,” “could,” “should,” or the negative or plural of these words, or other similar expressions that are predictions or indicate future events, trends or prospects but the absence of these words does not
+necessarily mean that a statement is not forward-looking. Any statements that refer to expectations, projections or other characterizations of future events or circumstances, including strategies or plans as they relate to the Business Combination,
+are also forward-looking statements. In addition, promising interim results or other preliminary analyses do not in any way ensure that later or final results in a clinical trial or in related or similar clinical trials will replicate those interim
+results. The product candidates discussed herein are investigational and not approved and there is no assurance regarding any possible progress in the clinical trials, timing and results of the clinical trials, potential drug profile and points of
+differentiation for the potential drug candidates, the safety and efficacy of the potential drug candidates, the timing and commercial success of the product candidates, strategies for completion and likelihood of success for our business and
+activities, development plans, target product profiles, regulatory activities, competitive position, market opportunity, potential pricing and reimbursement claims, potential growth opportunities or that any product candidates will ever receive
+regulatory approval or be successfully commercialized.   All forward-looking statements are based on estimates and assumptions that are inherently uncertain and that could cause actual results to differ materially from expected results. Many of
+these factors are beyond the SPAC’s and the Company’s ability to control or predict.   These risks include, but are not limited to: (1) the occurrence of any event, change or other circumstances that could result in the failure
+to consummate the Business Combination; (2) the outcome of any legal proceedings that may be instituted against the SPAC and the Company regarding the Business Combination; (3) the inability to complete the Business Combination due to the failure to
+obtain approval of the stockholders of the SPAC or to satisfy other conditions to closing in the definitive agreements with respect to the Business Combination; (4) changes to the proposed structure of the Business Combination that may be required
+or appropriate as a result of applicable laws or regulations or as a condition to obtaining regulatory approval of the Business Combination; (5) the ability to meet and maintain Nasdaq’s listing standards following the consummation of the
+Business Combination; (6) the risk that the Business Combination disrupts current plans and operations of the Company as a result of the announcement and consummation of the Business Combination; (7) costs related to the Business Combination; (8)
+changes in applicable laws or regulations; (9) the possibility that the Company may be adversely affected by other economic, business, and/or competitive factors, including risks related to (i) the Company’s limited operating history and the
+inherent uncertainties and risks involved in biopharmaceutical product development, (ii) the outbreak of the novel strain of coronavirus, SARS-CoV-2, which causes COVID-19, and could adversely impact the Company’s business, including its
+clinical trials and pre-clinical studies. (iii) the Company’s ability to successfully identify new product candidates to develop, acquire or in-license and its drug discovery efforts, which may not be successful, (iv) the regulatory approval
+process for new drugs, and ongoing regulatory obligations for approved product candidates, (v) regulatory and legislative developments in the healthcare industry, (vi) the Company’s ability to attract and retain key personnel, (vii) the
+Company’s international operations and (viii) the Company’s ability to obtain and maintain intellectual property protection for its technology and product candidates; (10) the risk that we may not be able to raise financing in the
+future; (11) the risk that we may not be able to retain or recruit necessary officers, key employees or directors following the Business Combination; (12) the risk that our public securities will be illiquid; (13) the effect of COVID-19 on the
+foregoing, including the SPAC’s ability to consummate the Business Combination due to the uncertainty resulting from the COVID-19 pandemic; and (14) other risks and uncertainties indicated from time to time in filings made with the SEC,
+including those risk factors described under “Risk Factors” of the Form S-4/A filed with the SEC on August 9, 2021, under “Item 1A. – Risk Factors” of the Company’s Quarterly Report on Form 10-Q filed with the SEC
+on September 21, 2021 and, where applicable, the most recent Annual or Quarterly Reports on Form 10-K or 10-Q, as applicable, filed with the SEC by our SEC registered affiliates, including Arbutus Biopharma Corp., Sio Gene Therapies Inc. and
+Immunovant, Inc. Should one or more of these risks or uncertainties materialize, they could cause our actual results to differ materially from the forward-looking statements. We are not undertaking any obligation to update or revise any
+forward-looking statements whether as a result of new information, future events or otherwise. You should not take any statement regarding past trends or activities as a representation that the trends or activities will continue in the future.
+Accordingly, you should not put undue reliance on these statements in deciding how to make any investment decisions. You are cautioned not to place undue reliance upon any forward-looking statements. Any forward-looking statement speaks only as of
+the date on which it was made, based on information available as of the date of this Presentation, and such information may be inaccurate or incomplete. The Company undertakes no obligation to publicly update or revise any such statements, whether
+as a result of new information, future events or otherwise, except as required by law.  
+
+Statement of Limitations (2/2) Key
+Performance Indicators This Presentation may include certain key performance indicators (“KPIs”). Management regularly reviews these and other KPIs to assess the Company’s operating results. Realized return on our investments in
+Vants and technology sold to Sumitomo Dainippon Pharma Co., Ltd. (“DSP”) reflect the value realized directly from the DSP transaction. The Company measures its return on publicly traded Vants by comparing the value of its ownership stake
+in the public Vants against its aggregate investment in those entities. The Company believes these KPIs are useful to investors in assessing operating results and returns on historical investments. These KPIs should not be considered in isolation
+from, or as an alternative to, financial measures determined in accordance with GAAP. There is no assurance the future investments will achieve similar results   Use of Projections This Presentation may contain financial forecasts or
+projections with respect to the SPAC, the Company and their respective affiliates.  No representation or warranty, express or implied, is made by the SPAC, the Company or their respective affiliates, or the SPAC’s or the Company’s
+or such affiliates’ respective directors, officers, employees or advisers or any other person as to the accuracy or completeness of the information contained herein, or any other written, oral or other communications transmitted or otherwise
+made available to any party in the course of its evaluation of the Business Combination, and no responsibility or liability whatsoever is accepted for the accuracy or sufficiency thereof or for any errors, omissions or misstatements or otherwise,
+relating thereto. Without limiting the generality of the foregoing, no audit or review has been undertaken by an independent third party of the financial assumptions, data, results, calculations and forecasts contained, presented or referred to in
+this Presentation. You should conduct your own independent investigation and assessment as to the validity of the information contained in this Presentation and the economic, financial, regulatory, legal, taxation, stamp duty and accounting
+implications of that information. This Presentation does not purport to contain all of the information that may be required to evaluate a possible investment decision, and does not constitute investment, tax or legal advice. The recipient also
+acknowledges and agrees that the information contained in this Presentation is preliminary in nature and is subject to change, and any such changes may be material. The SPAC and the Company disclaim any duty to update the information contained in
+this Presentation. Any and all trademarks and trade names referred to in this Presentation are the property of their respective owners. The SPAC and the Company do not intend the use or display of other companies’ trademarks or trade names to
+imply a relationship with, or endorsement or sponsorship of the SPAC or the Company by, any other companies.   Industry and Market Data In this Presentation, the Company may rely on and refer to certain information and statistics obtained from
+third-party sources which they believe to be reliable. The Company has not independently verified the accuracy or completeness of any such third-party information. No representation is made as to the reasonableness of the assumptions made within or
+the accuracy or completeness of any such third-party information.   Additional Information The Company has filed a proxy statement / prospectus on Form S-4/A with the SEC relating to the proposed Business Combination, which has been mailed to
+the SPAC’s stockholders. This Presentation does not contain all the information that may be considered concerning the proposed Business Combination and is not intended to form the basis of any investment decision or any other decision in
+respect of the Business Combination. The SPAC's stockholders and other interested persons are advised to read the proxy statement / prospectus and the amendments thereto and other documents filed in connection with the proposed Business Combination,
+as these materials contain important information about the Company, the SPAC and the Business Combination.  Stockholders are able to obtain copies of the definitive proxy statement / prospectus and other documents filed with the SEC,
+without charge at the SEC’s website at www.sec.gov.      
+
+Table of Contents Roivant Overview 5
+Roivant Discovery 19 Proteovant 35 Genevant 45 Dermavant 61 Immunovant 98 Aruvant 105 Kinevant 123
+
+Roivant: Redefining “Big
+Pharma” from End to End Roivant in 2014 Roivant Today Discover Develop Commercialize 1. Create Value 2. Be Contrarian 3. Climb the Wall 4. Sweat the Details 5. Evolve or Die Our Principles 5
+
+How We’ve Executed on Our Vision
+Cited figures and associated investment multiples are Key Performance Indicators. Please refer to the information included on Slide 3 with respect to our KPIs. 1. Medicine, Vant launch, and approval figures include Alliance Vants transferred to
+Sumitovant, a wholly-owned subsidiary of Sumitomo Dainippon Pharma (“Sumitomo”), in December 2019. SPIRIT 1 and SPIRIT 2 were completed subsequent to Myovant’s transfer to Sumitovant. 2. Based on aggregate Roivant investments in
+tech assets and in the five transferred Vants from Vant inception to transaction close, and aggregate proceeds received at closing of the Sumitomo Transaction, excluding (i) a $1BN allocation to Sumitomo’s purchase of Roivant equity and (ii)
+$99.1M initial liability related to Option Vants. Excludes investment in Sinovant and proceeds received from the termination of Sumitomo’s options to purchase Roivant’s ownership interests in the Option Vants. 3. The implied enterprise
+value of the combined company at the conversion price cap of the new preferred equity investment made concurrently with the merger was $7.0 billion. This enterprise value implies an equity value of $6.1 billion (after netting out approximately $900
+million of debt and other adjustments). No assurance can be given that the implied enterprise or equity value is an accurate reflection of the value of the combined business at closing or in the future. At closing of the merger and assuming a $7.0
+billion enterprise value, Roivant’s ongoing, fully diluted equity ownership in the combined entity was approximately 12% (without giving effect to certain liquidation preferences held by the preferred equity shareholders). Clinical
+Achievements 8 positive Phase 3 trials of 9 total1 3 FDA approvals from Vants launched by Roivant and owned by Sumitovant1 >40 medicines brought into development1 NDA for tapinarof accepted for filing; first expected Roivant product launch Small
+Molecule Discovery Engine Leading computational drug discovery platform, with proprietary tools for atom-by-atom simulations and a team to continue to push the frontier Broad discovery pipeline of programs designed or optimized in silico to address
+challenging, high-value targets Strong Financial Track Record $3BN upfront transaction with Sumitomo Dainippon Pharma (DSP), yielding 4.3x return on Vants and technology sold2 $2BN consolidated cash balance as of June 30 $320M in cash and minority
+equity stake in Datavant, following merger with Ciox Health3
+
+8 Consecutive Positive Phase 3 Studies
+Note: The FDA has approved relugolix for the treatment of adult patients with advanced prostate cancer and for the management of heavy menstrual bleeding associated with uterine leiomyomas (fibroids) in premenopausal women. The FDA has approved
+vibegron for the treatment of adult patients with overactive bladder. Otherwise, the drugs noted above in current pipeline are investigational and subject to health authority approval. Topline results dates are based on corresponding Vant press
+releases. Relugolix and vibegron are being developed by Myovant and Urovant, two Vants that were transferred to Sumitovant, a wholly-owned subsidiary of Sumitomo Dainippon Pharma, in December 2019. *SPIRIT 1 and SPIRIT 2 were completed subsequent to
+Myovant’s transfer to Sumitovant. Trial geography maps indicate continents with trial sites and do not represent all countries within a given continent. Study Drug Indication Patients Enrolled Geography Topline Results Primary p-value PSOARING
+1 Tapinarof Psoriasis 510 August 2020 ✔ P < 0.0001 PSOARING 2 Tapinarof Psoriasis 515 August 2020 ✔ P < 0.0001 SPIRIT 1* Relugolix Endometriosis 638 June 2020 ✔ P < 0.0001 SPIRIT 2* Relugolix Endometriosis 623 April
+2020 ✔ P < 0.0001 HERO Relugolix Prostate Cancer 934 November 2019 ✔ P < 0.0001 LIBERTY 2 Relugolix Uterine Fibroids 382 July 2019 ✔ P < 0.0001 LIBERTY 1 Relugolix Uterine Fibroids 388 May 2019 ✔ P < 0.0001
+EMPOWUR Vibegron Overactive Bladder 1,530 March 2019 ✔ P < 0.001 MINDSET Intepirdine Alzheimer’s Disease 1,315 September 2017 ✖ P > 0.05
+
+Gene Therapy Cell Therapy Topical
+Biologic Small Molecule Preclinical Phase 1 Phase 2 Phase 3 Registration Note: All drugs in current pipeline are investigational and subject to health authority approval. Development Pipeline Modality TAPINAROF Psoriasis | Dermavant ►
+TAPINAROF Atopic Dermatitis | Dermavant ► CERDULATINIB Vitiligo | Dermavant ► IMVT-1401 Myasthenia Gravis | Immunovant ► IMVT-1401 Warm Autoimmune Hemolytic Anemia | Immunovant ► IMVT-1401 Thyroid Eye Disease | Immunovant
+► ARU-1801 Sickle Cell Disease | Aruvant ► NAMILUMAB Sarcoidosis | Kinevant ► LSVT-1701 Staph Aureus Bacteremia | Lysovant ► CERDULATINIB Atopic Dermatitis | Dermavant ► DMVT-504 Hyperhidrosis | Dermavant ►
+DMVT-503 Acne | Dermavant ► ARU-2801 Hypophosphatasia | Aruvant ► AFM32 Solid Tumors | Affivant ► CVT-TCR-01 Oncologic Malignancies | Cytovant ►
+
+Leveraged platform expertise to expand
+IP with multiple patents expected to provide protection until at least 2036 Hired leadership and provided investment that together delivered Phase 3 success Value Added by Roivant Platform Psoriasis Phase 3: Statistically significant improvement in
+PGA score of clear or almost clear with a minimum 2-grade improvement compared to vehicle from baseline (p<0.0001)1 Once-daily, cosmetically elegant, non-steroidal cream that, if approved, could offer a favorable combination of treatment effect,
+safety, durability on therapy, and remittive effect Psoriasis and atopic dermatitis affect an estimated 8M and 26M patients in the US, respectively Potential to be used across mild, moderate & severe plaque psoriasis, including sensitive areas
+Potential To Transform the Treatment of Psoriasis and Atopic Dermatitis Novel steroid-free topical tapinarof, if approved, could be uniquely positioned to transform two of the largest global immuno-dermatology markets Note: All drugs in current
+pipeline are investigational and subject to health authority approval. 1. In both PSOARING 1 and PSOARING 2, adult patients with plaque psoriasis were randomized in a 2:1 ratio to receive once daily (QD) treatment with tapinarof cream, 1% or vehicle
+cream. 2. Proportion of subjects who achieved a Physician Global Assessment (PGA) score of clear (0) or almost clear (1) with a minimum 2-grade improvement from Baseline at Week 12. 3. Proportion of subjects with ≥75% improvement in Psoriasis
+Area and Severity Index (PASI) from Baseline at Week 12. 4. Proportion of subjects with ≥90% improvement in Psoriasis Area and Severity Index (PASI) from Baseline at any time point. 5. For subjects entering the extension study with a PGA score
+of 0, median time to disease worsening (PGA score ≥2). Mean Treatment Success, % (SEM) Tapinarof 1% QD (n=340) Vehicle QD (n=170) Tapinarof 1% QD (n=343) Vehicle QD (n=172) PSOARING 1 PSOARING 2 Δ 25.9% p<0.0001 Δ 40.7%
+p<0.0001 Δ 29.4% p<0.0001 Δ 33.9% p<0.0001 Mean Treatment Success, % (SEM) Tapinarof 1% QD (n=340) Vehicle QD (n=170) Tapinarof 1% QD (n=343) Vehicle QD (n=172) PSOARING 1 PSOARING 2 Primary Endpoint: PGA Response2 Key Secondary
+Endpoint: PASI753 Positive Data from Long-Term Extension Study: 39.2% (299/763) of subjects included in interim analysis achieved complete disease clearance (PGA=0) In an integrated analysis including the pivotal trials and extension, 63.5% of
+subjects achieved PASI75 and 44.2% achieved PASI904 Remittive benefit of approximately four months observed following treatment discontinuation5
+
+Well-Positioned Against Competitors1
+Longstanding Roivant relationship with CCHMC enabled initial asset license and strong academic-industry partnership Manufacturing process improvements have enabled increased hemoglobin F expression and vaso-occlusive event (VOE) reduction Value
+Added by Roivant Platform Preliminary clinical data from ongoing Phase 1/2 trial of ARU-1801 demonstrate potential to deliver durable, meaningful VOE reductions to patients with sickle cell disease2 Developing LentiGlobin Requires myeloablation
+Developing CTX001 Requires myeloablation Oxbryta approved Chronic therapy ARU-1801 is only product candidate clinically shown to engraft with only an RIC regimen ~$1BN market cap ~$10BN market cap ~$2BN market cap Only one-time potentially curative
+gene therapy for sickle cell disease with demonstrated ability to engraft with reduced intensity conditioning (RIC) Note: All drugs in current pipeline are investigational and subject to health authority approval. All trademarks are property of
+their respective owners. VCN = vector copy number. 1. Approximate market capitalizations as of August 31, 2021. There is no guarantee that Aruvant will achieve a valuation in line with these companies. 2. ASH 2020. Hospitalized VOEs Total VOEs
+Pre-treatment (24 mo) Post-treatment (24 mo) Reduction (%) Pre-treatment (24 mo) Post-treatment (24 mo) Reduction (%) Patient 1 7 1 86% 41 3 93% Patient 2 1 0 100% 20 3 85% Patient 3 6 0 at 18 mos 100% 12 0 at 18 mos 100% Patient 4 8 0 at 12 mos
+100% 12 0 at 12 mos 100% Durable engraftment to 36+ months in Patients 1 and 2 No VOEs to date in most recent patients Updated manufacturing
+
+Rapidly initiated multiple Phase 2
+trials to develop anti-FcRn antibody IMVT-1401 as a best-in-class or first-in-class subcutaneous injection Note: All drugs in current pipeline are investigational and subject to health authority approval. All trademarks are property of their
+respective owners. Based on interim analysis of 15 trial participants. After the interim analysis, an additional two patients enrolled and were randomized. MG-ADL responders defined as patients showing ≥ 2-point improvement. *Proptosis
+responders improved ≥ 2mm in study eye without significant deterioration in fellow eye. **CAS responders achieved a total CAS score of 0 or 1. Source: Immunovant 10-K filed June 1, 2021. MG = Myasthenia Gravis. TED = Thyroid Eye Disease. WAIHA
+= Warm Autoimmune Hemolytic Anemia. Identified and licensed drug from HanAll Biopharma and expanded potential patient reach by selecting three initial indications with first- or best-in-class potential Funded and ran key Phase 1 pharmacodynamic
+trial, positioning for successful public listing via reverse merger Recruited key executive leadership, and board of directors led from inception by Roivant employee Value Added by Roivant Platform In February 2021, Immunovant voluntarily paused
+dosing in ongoing clinical studies to investigate observed elevated cholesterol levels Program-wide data review suggests that lipid elevations are predictable, manageable, and appear to be driven by reductions in albumin, with the 255 mg dose
+resulting in modest changes to LDL and albumin with potent knockdown in IgG The increases in LDL and reductions in albumin were reversible upon cessation of dosing, and no major adverse cardiovascular events have been reported to date ~364k patients
+Expanded opportunity ≥ 758k patients Resuming Clinical Development Following Observed Increases in Cholesterol and LDL Myasthenia Gravis : 60% responder rate on the MG-ADL vs 20% for placebo, and 3.8-point mean improvement on myasthenia gravis
+activities of daily living (MG-ADL, p=0.039) Warm Autoimmune Hemolytic Anemia: 1 of 3 patients dosed ≥ 11 weeks achieved an increase in hemoglobin well over 2 g/dL from baseline, which was maintained during treatment Thyroid Eye Disease: In
+Phase 2a, 57% of patients improved by ≥ 2 points on clinical activity score (CAS), and 43% of patients were both proptosis responders* and CAS responders**; efficacy results in Phase 2b, which was terminated early, were inconclusive Clinical
+Results to Date
+
+Vant Model Enables Rapid Scaling
+Alyvant Lokavant Datavant Proteovant Affivant Sio Arbutus New Vants from Additional In-Licensing Immunovant Dermavant Aruvant Genevant Cytovant Lysovant Kinevant New Vants from
+
+The Roivant Model for Drug Discovery
+and Development Find assets externally and in-license Discover drugs internally and advance into the clinic Plan to in-license multiple potentially category-leading drugs per year Develop drugs at Vants Identify drug targets and biological pathways
+Plan to submit multiple INDs for novel drug candidates each year, starting with our first in 2022
+
+Entering the Era of Predictive,
+High-Precision Molecular Medicine 1980 2000 2021 2010 2016 SBDD DOCKING WATERS DYNAMICS INTEGRATED BIOPHYSICS, DYNAMICS, AND AI/ML We are positioned to realize the promise of rational drug design by treating drug discovery as engineering Ability to
+run atom-by-atom simulations that accurately model complex biological systems as they function in nature
+
+TPD: targeted protein degradation.
+The Roivant Vision in Drug Discovery: Small Molecule Drug Design as Engineering Inputs “Investment lens” for target identification, powered by interdisciplinary team of R&D experts, investors and data scientists Outputs Drug
+candidates paired with Roivant’s extensive track record of success in clinical trial design and execution Accurate force field and quantum mechanics to solve molecular energies Biophysical data, including conformational genetics and protein
+science Ability to generate precise simulations to predict biologically relevant conformational behavior and drug properties of interest Identify novel allosteric binding sites Simulate conformations for biased signaling Predict ternary structure
+formation for TPD Examples
+
+What’s Really
+“Inside” Our Engine? PROPRIETARY TOOLS EXPERTISE Conformational Genetics Analyze genomic variants to define disease targets and map mutations to 3-D structures to predict novel MOA and conformational mechanism Druggability Assessment
+Predict high-energy water hotspots and druggable pockets using water thermodynamics and mixed-solvent molecular dynamics (MD) Accurate Structures for Protein Complexes Integrate molecular dynamics with biophysical data Binding Energies  Ability
+to conduct >1,000 in silico binding affinity predictions/day Beyond Binding (Dynamics and Kinetics) Model complex biological motions, including agonism, allostery, biased signaling, and ternary structures Atom-by-Atom Design Visualize
+atom-by-atom free energy contributions of a ligand binding to a protein Machine Learning and Generative Models Predict ADMET properties, use of data-driven models to identify novel molecules Our engine is powered by a supercomputing cluster with
+over 600 GPUs, allowing us to run thousands of molecular simulations in parallel Expertise Across All Areas of Molecular Simulations Software engineering, high-performance computing, methods development, applications, and experienced drug designers
+Software Engineering and Methods Development Own software stack, facilitating the most accurate, fast, and scalable target-specific simulations Hardware Development Maximize throughput, minimize bottlenecks, and tune hardware to optimize performance
+for bespoke predictive sciences methods Experienced Drug Designers Leverage medicinal chemistry, modeling, simulation, and biophysics to lead the new era of predictive, high-precision molecular medicines Laboratory Facilities Evaluate highest value
+candidates with in-house labs, enabling highest quality and rapid turnaround Leaders in Computational Drug Discovery Senior scientific leadership team with authorship of over 200 peer-reviewed articles and over 20,000 citations In-house expertise
+across critical discovery capabilities can expand our engineering toolset as we pursue different types of hard biological problems
+
+1. The implied enterprise value of
+the combined company at the conversion price cap of the new preferred equity investment made concurrently with the merger was $7.0 billion. This enterprise value implies an equity value of $6.1 billion (after netting out approximately $900 million
+of debt and other adjustments). No assurance can be given that the implied enterprise or equity value is an accurate reflection of the value of the combined business at closing or in the future. At closing of the merger and assuming a $7.0 billion
+enterprise value, Roivant’s ongoing, fully diluted equity ownership in the combined entity was approximately 12% (without giving effect to certain liquidation preferences held by the preferred equity shareholders). Roivant Builds Technologies
+to Transform Biopharma Development and Commercialization Merged with Ciox Health, providing Roivant with $320MM in cash and minority equity stake in combined entity1 Datavant seeks to power every exchange of health data, unlocking a massive
+ecosystem of companies using linked, longitudinal data to improve patient outcomes Continued growth across health data network, including >400 organizations and >100 subscription customers Powers the advanced use of real-world evidence,
+patient finding, outcomes research, and commercial analytics Customers and partners include Janssen/J&J and other top 20 pharmas, ZS, Medidata, Cigna, Parexel, Symphony Health, Komodo Health, and the NIH Deployed as Parexel’s next
+generation remote monitoring platform Lokavant offers software that integrates real-time data from ongoing clinical trials and monitors risks related to time, cost, and quality Proprietary data model serves as a “common language” for
+trial operational data and enables real-time data integration AI trained on proprietary dataset of 1,300+ trials designed to identify the most important risks quickly, when there is still time to mitigate them Expanded international footprint
+through partnership with leading Japanese CRO CMIC
+
+All catalyst timings are based on
+current expectations but may be subject to change. All trademarks are property of their respective owners. Drugs are investigational and subject to regulatory approval. Key Near-Term Potential Catalysts Tapinarof NDA Filing in Psoriasis Mid-2021
+Tapinarof Phase 3 Initiation in Atopic Dermatitis 2H 2021 FDA Approval Decision on Tapinarof for Psoriasis 2Q 2022 Topline Date from Tapinarof Phase 3 Trials in Atopic Dermatitis 1H 2023 IMVT-1401 Phase 3 Initiation in Myasthenia Gravis Early 2022
+Two New Indications for IMVT-1401 to be Announced By August 2022 Initiate Pivotal Trial for IMVT-1401 in Second Indication 2022 First Patient Dosed with Updated ARU-1801 Manufacturing Process 2H 2021 Additional Clinical Data from ARU-1801 Phase 1/2
+2H 2021 ARU-1801 Phase 3 Initiation 1H 2023 Namilumab Phase 2 Initiation in Sarcoidosis 1H 2022 LSVT-1701 MAD Initiation 1H 2022 Phase 1 Initiation for First Degrader Candidate 2022 Multiple Additional Degrader Candidates Entering IND-Enabling
+Studies Each Year Starting 2022
+
+From Chip to Clinic Integrating
+Advanced Simulation and AI Approaches to Design Novel Medicines for Challenging Disease Targets
+
+Integrated Drug Discovery at Roivant
+– From Chip to Clinic >600 GPUs >6000 CPUs Cloud for bursts Custom FPGA research SUPERCOMPUTER Experienced drug designers Unique ability to combine experimental & computational data 10,000 sq. ft. in-house laboratory FULLY INTEGRATED
+SCIENTIFIC EXPERTISE ~90 PhD scientists, both experimental and computational Roivant pipeline informs discovery process Differentiated pipeline with multiple assets in Phase I-III trials PIPELINE INTEGRATION Quantum mechanics for the most accuracy
+Molecular dynamics to simulate biological motions Advanced AI/ML capabilities SIMULATION PLATFORM
+
+Leading Computational Discovery
+Capabilities in Physics and AI/ML Sample in silico Assays Identify novel binding sites on a protein and assess druggability Predict binding affinity and selectivity of a ligand to a protein, including ternary complexes Simulate conformational
+dynamics of a protein as it shifts between active and inactive states Computational Physics Machine learning using known protein-protein interactions to design new degraders that can effectively stabilize target-E3 interfaces Hit finding for induced
+proximity modulators (molecular glues and heterobifunctional molecules) Ubiquitin proteasome system map to identify degron motifs Machine Learning
+
+Improvements from Combining AI and
+Physics Approaches χ: atomic electronegativity that characterizes how strongly an electron is associated with an atom J(0): atomic hardness that characterizes how much the atomic charge varies under a external field E: electrostatic potential
+energy q: atomic charges ML-Enhanced Force Field Improved pKa Predictions QM Model QM+ML Model Acidic Molecules Basic   Physics – Captures the distribution of charge within the molecule and interactions with the environment Machine
+Learning – Assigns atomic parameters so that electrostatic potential matches quantum mechanical calculations   Improved Electrostatic Potential QM on >40,000 molecules ML charge
+
+Roivant Biophysics and Structural
+Biology Advantage Generated hundreds of protein samples using 3 expression systems (mammalian, insect, and bacterial) Protein labeling for NMR Protein Science X-ray Crystallography Detect buried protein regions in binary and ternary complexes
+Augment simulations to generate atomic-resolution models in days (X-ray or CryoEM take months or longer) Hydrogen-Deuterium Exchange (HDX) Nuclear Magnetic Resonance (NMR) Enhance Simulations with Biologically Relevant Data Structural Biology
+Fragment screening Binding affinity in solution without protein labels, tags, or attachments Ligand-observed techniques Protein-observed NMR to characterize interactions with specific pockets Biophysics Solved high-resolution crystal structures for
+challenging targets KRAS G12D HIF-2a SMARCA2/VHL Complementary to simulations Electron density can be used as a collective variable in MD simulations
+
+Conformational Modulation Assays
+with Integrated MD + Biophysics x: atomic coordinates Er: restrained potential energy function E0: unbiased potential energy function R: experimental restraining energy De: experimental data   conformation expt. bias experimental data
+simulation data Protein Protein+inhibitor STD NMR Coarse grained information from experimental measurements SAXS TROSY-HSQC NMR HDX-MS Experimental Biophysical Data Structural model with atomistic resolution Accurate Force Field
+https://aip.scitation.org/doi/abs/10.1063/1.5089924
+
+Witnessing Relevant Biological
+Timescales with Atomic Resolution Protein Folding Water reorganization Allosteric binding Agonism and conformational related events Loop dynamics and domain breathing Protein folding Timescale Relevant biological event Critical timescale to make
+project-driving predictions for drug design Relative binding free energy pico micro milli sec minute nano
+
+Peer to Schrödinger’s
+FEP+ for speed and accuracy of binding free energy calculations. Novel atomic decomposition of binding free energy lets our drug designers “see” areas for improvement. Free Energy Calculations and Atomic Decomposition for Better Designs
+
+The era of predictive,
+high-precision molecular medicines across multiple modalities What Does The Predictive Sciences Platform Enable? Target ID Relating genetics to protein conformations Identification of novel MOAs Druggability and Novel Binding Sites Detection of
+cryptic/dynamic pockets Fragment soaking crystallography Computational mixed-solvent MD Competitive Binders Agonists Antagonists Allosteric Modulators Distal dynamic modulation Conformational stabilization Induced Proximity Modulators
+Heterobifunctional degraders Molecular glue degraders Phosphorylation-inducing molecules Free energy surfaces provide the roadmap for engineering novel drugs, atom-by-atom
+
+Design Cycle – Ideate, Design,
+Predict, Make, Test, Analyze, Iterate Explore billions of new molecule designs Binding Free Energies Conformational Energies Off-target Selectivity ADME/Tox Models AI/ML Models   Atomic Decomposition Proprietary method Answers “why”
+for good/bad binders Conformational Modulation Protein motion Structure-biology relationship Predictive Simulations Drug Candidate Platform team develops bespoke methods to solve target-specific problems Experimental Data Design Team Med. Chem.
+Modeling Simulation Biophysics Predictive Sciences Platform Medicinal Chemistry Water Thermodynamics Atomic Energy Decomposition Conformational Modulation Generative Models ANALYZE & ITERATE IDEATE DESIGN PREDICT MAKE/TEST
+
+Beyond Binding: Conformational
+Modulation and Induced Proximity
+
+Advanced Simulation Approach Bespoke
+Force Field All ligands are parameterized from scratch with QM Advanced Simulations Long timescale Biophysics constraints Conformational free energies Protein-Protein Interactions Docking Refinement Analysis Binding Free Energies Relative Absolute
+Energy decomposition HPC >600 GPUs >6000 CPUs Cloud for burst computing Folding@Home National Labs Exploratory Sampling: Weighted Ensemble Simulations (WES) Path Sampling: Metadynamics + Extended ABF (Meta-eABF) Biological motions are captured
+with Collective Variables (CVs) CV elucidation is unique to each biological system, but once determined it can accelerate simulations on system of interest Adaptive path allows refinement of CV to specific target class for increased speed and
+accuracy Discretize conformational space according to Collective Variables (CVs) related to relevant biology Replicate trajectories that cross conformational “bins” and spend more time on reactive trajectories Elucidate free energy
+surfaces Discovery biologically relevant conformational states, pathways, rates, and free energies
+
+Example of How We Develop Methods to
+Overcome Critical Bottlenecks: Heterobifunctional Molecules for Protein Degradation E3 POI E3 ligand Protein of Interest (POI) POI Ub POI Ub Ub Ub Ub Proteasome Catalytic Cycle POI E2 Ub E3 POI E3 LYS Heterobifunctional molecule POI warhead E3
+ligase Linker Free Molecules in a Cell Induced Proximity Ubiquitination Degradation Ternary Complex
+
+Modeling the Ternary Structure is
+Critical to a Predictive TPD Platform Binding Kinetics Binding Affinity Structure Dynamics Off-the-shelf computational methods are not suited to accurately predict the dynamic solution-state ternary complex
+
+Fully Integrated Binding Simulation
+with Hydrogen-Deuterium Exchange Data Most Accurate Ternary Structure Prediction Known Integration of experimental hydrogen-deuterium exchange mass spectrometry (HDX-MS) data offers unique advantage Final Statistics: Warhead-interface RMSD = 0.40
+Å Ligand-interface RMSD = 0.65 Å Protein-protein interface RMSD = 1.3 Å Fraction of native contacts = 90% Computational Details: Simulation times:  4 µs for formation of encounter complex 4 µs for re-arrangement
+GPUs and time to solution:  64 GPUs x 1 day System size: 125K atoms Weighted Ensemble Collective Variables (CVs):  CV1: Minimum distance CV2: Number of native contacts CV3: HDX-MS protection VHL SMARCA2 Degrader molecule
+
+Conclusions Roivant is a fully
+integrated drug discovery company – “From Chip to Clinic” We have built an industry-leading computational platform for molecular simulations and AI/ML to overcome critical bottlenecks in drug discovery The development of custom
+apps is key for drugging challenging targets Integration of experimental data enables more accurate and biologically relevant simulations Pipeline expansion into induced proximity and selective cooperativity opens new opportunities for predictive
+computational platform
+
+Degrading Proteins, Defeating
+Disease
+
+Degrading Proteins, Defeating
+Disease By harnessing the human body’s innate cellular machinery to selectively ‘delete’ proteins, we aim to create new medicines to treat patients with debilitating diseases We are pursuing this expansive field with the scientific
+knowledge, proprietary technologies, business acumen, and risk tolerance required to succeed The power of protein degradation is now being realized!
+
+2015 Crews et al. Nature Chemical
+Biology; 2017 Crews et al. Cell Chemical Biology; 2019 Chamberlain et al. Cell Chemical Biology; 2019 Sun et al. Signal Transduction and Targeted Therapy Why Targeted Protein Degradation? Demonstrated efficacy, as a function of protein depletion, in
+tumors that are resistant to inhibitors/antagonists Demonstrated Efficacy in Drug Resistant Disease 3 Highly selective degradation of target protein vs. isozymes or paralog proteins with high homology Selective Degradation of Target Proteins 2
+Targeted Protein Degradation Catalytic mechanism of degraders potentially enables therapeutic activity at lower doses Catalytic Action Enabling Activity at Lower Doses 4 Target historically “undruggable” proteins, including transcription
+factors and scaffolding proteins that lack a catalytic pocket Unconstrained by Active Site Requirements 1 Protein degradation offers distinct advantages over other drug modalities including inhibitors
+
+Graphic: Adapted from Advances in
+targeting ‘undruggable’ transcription factors with small molecules. Henley M.J. Nature Reviews (2021). Unlocking The Vast Opportunity To Expand The Druggable Proteome By Exploiting the Ubiquitin-Proteasome System (UPS) Protein
+degradation via the UPS is a multiple step process: The degrader simultaneously engages the target protein and E3 ligase complex Optimal orientation of the new ternary complex ensures optimal proximity of the two proteins such that ubiquitin is
+transferred from the E3 ligase complex to the target protein Successful ubiquitination marks the target protein for destruction, resulting in degradation by the proteosome Monovalent Degraders Heterobifunctional Degraders Potential Future Modalities
+Proteovant Degrader Design Capabilities Span an Array of E3 Ligase Modulation Modalities Proteasomal degradation Ubiquitin chain transfer Protein tagged for degradation Catalytic degrader activity Target Protein E3 Ligase 1 2 3
+
+Proteovant – Positioned As A
+Leading Pioneer In Protein Degrader Discovery and Development Formed new Vant focused on the discovery and development of novel targeted protein degraders Assembled a world-class team of discovery scientists, drug developers and business
+professionals Acquired Oncopia Therapeutics Cofounded by Dr. Wang, a world-renowned scientist focused on protein degradation at the University of Michigan. Over 15 years, Dr. Wang and his team have developed a deep degrader pipeline and generated a
+large global IP estate Broad initial pipeline of degraders to more than 10 targets - oncology and immunology Established long-term, exclusive discovery partnership with Dr. Wang and his lab for targeted protein degradation Closed initial $200
+million equity investment with SK Holdings Leveraging Roivant’s investments in computational sciences through close collaborations with VantAI (machine learning and focus on protein degrader discovery and development)
+
+World-Class Executive Team
+Positioned to Execute on Our Vision Drew Fromkin Chief Executive Officer 30+ years leadership in healthcare co’s, serves as Vant Portfolio Operating Partner. Previously CEO Tarveda Therapeutics; CEO of Clinical Data (CLDA – $1.5 Billion
+Sale); Head Corp Dev. Merck- Medco Chief Strategy Officer Ruby Holder, MBA 30+ years in healthcare, majority spent as a long-short healthcare portfolio manager. Previously VP of Roivant Governance, Managing Partner & Portfolio Manager at
+Greywall Asset Management Chief Financial Officer Tiago Girao, CPA 20+ years leading teams in accounting, finance, treasury, IR and other corporate operations functions. Previously CFO of Respivant, CFO of Cytori, and 10+ years of experience in
+public accounting Chief Scientific Officer Zhihua Sui, PhD 30+ years in drug discovery and advancement of >20 compounds to the clinic in multiple therapeutic areas. Previously VP of Chemistry and Strategic Outsourcing at Agios, and various
+leadership roles at Janssen VP, R&D Operations John Athanasopoulos, MBA 20+ years in various research and operational roles in biotech, pharma, and academic settings. Previously held leadership roles at Jnana Therapeutics, C-4 Therapeutics and
+the Broad Institute VP, Program Management Christine Stuhlmiller, MBA 17+ years of experience in healthcare, most recently as Executive Director, Global Product Development and Supply Program Management BMS/Celgene. VP, Molecular Technology Corey
+Strickland, PhD 25+ years in building structural biology drug discovery platforms across multiple disease areas. Previously Senior Principal Scientist at Merck VP, Discovery Chemistry Scott Priestley, PhD 23+ years leading drug hunting chemistry
+teams, delivering numerous compounds across various disease areas. Previously Director of Discovery Chemistry at BMS Helai Mohammad, PhD VP, Cancer Biology 15+ years of experience in oncology research with emphasis on epigenetics. Previously Senior
+Scientific Director at GlaxoSmithKline Winston Wu, PhD VP, CMC 27+ years of experience in chemistry process development and manufacturing. Previously VP of Chemical Research, Development and Manufacturing at Lexicon Pharmaceuticals
+
+Proteovant’s Leading Protein
+Degrader Discovery and Development Engine Is Fueled By Differentiated Capabilities Target Selection and Validation Driven by seasoned team of R&D, structural biology, and strategy experts Degrader Expertise Multi-year, exclusive partnership with
+the University of Michigan lab of Dr. Wang & internal R&D leadership Wet Labs In-house and academic facilities equipped for biology, chemistry, and biophysics Machine Learning Leading machine learning platform for in silico target ID,
+degrader design, ligase optimization Machine Learning Infused Across The Continuum Of Proteovant Capabilities All trademarks are property of their respective owners
+
+Selected Pipeline Programs *
+Multiple programs For Investor Audiences Only Drugs are investigational and subject to regulatory approval. Balanced pipeline of protein degrader targets spanning Oncology and Immunology Advancing initial protein degrader programs from the Oncopia
+acquisition Enhancing pipeline with degraders to new targets and novel E3 ligase discovery work through our internal R&D capabilities as well as our collaborations with Dr. Wang and VantAI
+
+1 Restrained Protein Docking using
+LightDock 2 Enrichment: % of predicted ternary complexes within 10A Ligand RMSD (based on CAPRI) of crystalized ground truth glue ternary complexes reported in PDB (Benchmark structures: 6HOF, 6HOG, 6UML, 5HXB, 5FQD, 6UE5, 6UD7, 6PAI, 6SJ7, 6QOR,
+6QOV, 6QOW, 6TD3, 6M90, 6M91, 6M92, 6M93, 6IQN) 3 Prior VantAI project 4 >30% degradation vs control VantAI: A Novel Paradigm For Rational Degrader Discovery Classical small molecule machine learning starts chemistry first - VantAI flips this
+script Validated In Extensive Benchmarking Enrichment: for each benchmark structure, percent of predicted ternary complexes alike2 to real, crystalized glue system >11x accuracy increase, allowing rational molecule design to fill the gap
+Enrichment 72.9% 6.4% Without VantAI method1 method >11x With Protein-Contacts First, Learning From Evolution 0.7 Evo-Score I) Look at every possible interface -score III) Chemistry to fill the gap DL model II) Evolutionary scoring
+Protein-Contacts First: VantAI starts with protein-protein interfaces, independent of specific protein (E3 or POI) Value of Evolution: possible protein interfaces are highly conserved, providing learnings from millions of examples in nature
+Leveraging Deep Learning: training models on evolutionary information to learn differences in interfaces Models produce VantAI score - scoring similarity of E3-POI interfaces to naturally occurring interfaces Close The Gap: optimize towards small,
+drug-like chemistry de-novo designed to mimic most favorable natural interfaces POI K K S H R D K A E3 POI K K S H R D K A E3 0.98 DL model -score Degrader Real World Discovery Impact Increase Hit Rate: impact from example3 project: 6/8 initial
+compound designs showed >50% degradation for target without previous recorded degradation Faster Pipeline Progress: 5 targets with PoC degradation4 in <1 year Interface For Investor Audiences Only
+
+Well-financed to advance pipeline of
+protein degraders to the next level of value creation World-class team assembled to drive discovery and development of optimized protein degraders Advancing broad pipeline of protein degraders Long-term, exclusive discovery research partnership in
+protein degradation established with Dr. Wang Investing in internal discovery to expedite current programs and further expand the pipeline with novel degraders Exclusive partnership with VantAI to access unique and proprietary, degrader-optimized
+machine learning and systems biology Proteovant – Positioned To Lead In Protein Degrader Discovery and Development
+
+Business and Technology
+
+Genevant Overview World-class
+delivery platforms to enable delivery of mRNA, siRNA, gene editing constructs, and other nucleic acids Best-in-class proprietary lipid nanoparticle (LNP) platform and proprietary ligand conjugate platform Focused business of collaboration around
+delivery expertise and technology platforms Offers partners attractive potential to deliver payloads to traditionally hard-to-reach tissues/cell types, plus NA design capability More than 600 LNP-related issued patents and pending patent
+applications, directed to individual lipid structure, particle composition, particle morphology, manufacturing and mRNA-LNP formulations Industry-Leading Nucleic Acid Delivery Company Genevant uses its expertise in the delivery of nucleic acid
+therapeutics to develop optimal delivery systems for its collaborators’ identified payloads or target tissues Genevant provides collaborators access to validated technology to deliver nucleic acid therapeutics, eliminating the need to build
+internal delivery expertise or build IP estate from scratch in complex field Genevant typically retains ownership or certain rights to delivery-related IP developed in context of collaboration, which can be leveraged for other out-licenses and to
+build on developments for future deals Business Model Designed to be Profitable While Building Further Advances in Nucleic Acid Delivery Technology Business model exemplified by numerous recent collaborations and licensing deals
+
+Decades of Experience in Nucleic
+Acid Delivery, Creative Corporate Partnering Peter Lutwyche, PhD Chief Executive Officer and President, GSC Former CTO, Arbutus Biopharma; Head of Pharmaceutical Development, QLT Developed and commercialized VISUDYNE® at QLT Over 20 years
+experience in nucleic acid-based products Pete Zorn President and Chief Legal Officer, GSI Former COO, Genevant, Chief Corporate Officer and General Counsel, Albireo Pharma; General Counsel and VP, Communications, Santaris Pharma; General Counsel
+and SVP, Targacept James Heyes, PhD Chief Scientific Officer Former VP, Drug Delivery, Arbutus Biopharma Over 17 years experience in lipid chemistry and nucleic acid drug delivery Over 20 issued and published US patents in lipid nanoparticle and
+ligand conjugate technology Tracy Meffen VP Quality & Regulatory Former Head Quality, Arbutus Biopharma Over 25 years experience in QA and RA management roles at various organizations including Lungpacer, INEX, Lilly and Genzyme Ed Yaworski VP
+Pharmaceutical Development Head of CMC, Arbutus Biopharma Over 30 years experience in pharma including 18 years nucleic acid drug delivery Inventor of leading nucleic acid delivery technology used in more than a dozen clinical trials All trademarks
+are property of their respective owners
+
+Industry-Leading Delivery
+Capabilities Enable Diverse NA Therapeutics LNP Ligand Conjugates mRNA vaccines Infectious Disease Personalized Oncology siRNA/ASO hepatocyte delivery siRNA/ASO other cell types Gene Editing hepatocyte/ other cell types mRNA/DNA (Hepatocyte/other
+cell types) Therapeutic Proteins/mAbs Proven, best-in-class LNP technology First and only FDA-approved systemically administered RNA-LNP (Alnylams’s ONPATTRO®) Clinically validated for hepatocyte and vaccine applications; ongoing
+development for lung, eye, stellate and immune cells 600+ issued patents and pending applications Novel GalNAc ligands for hepatocyte delivery administered subcutaneously Equal or better potency/ safety to industry benchmark in preclinical models
+Next gen in development with best-in-class potential Ongoing research for novel extrahepatic ligands All trademarks are property of their respective owners
+
+LNP Platform
+
+Genevant’s Lipid Nanoparticle
+(LNP) Delivery Platform Multi-component lipid formulations encapsulating nucleic acid payload(s) within a lipid core Limited constraints on NA payload composition, structure or size Stable uniform dispersion of colloidal nanoparticles Efficient
+intracellular delivery to cytoplasm via receptor-mediated endocytosis PEG Lipid Ionizable Lipid Structural Lipid Cholesterol Nucleic Acid 100 nm
+
+Genevant has Unparalleled Experience
+Designing Ionizable Lipids In a head-to-head study comparing multiple LNP formulations varying only the ionizable lipid, a newer Genevant formulation outperformed third party formulations Superior potency and avoidance of immune stimulation relative
+to others, including the formulation used in Alnylam’s Onpattro® Greater Potency Greater Immune Stimulation Balb/C, n=4, 0.5 mg/kg mRNA, 4 h Key: Genevant Company A Company B Company C All trademarks are property of their respective
+owners
+
+Genevant LNP Technology has Entered
+the Clinic in More than a Dozen Product Candidates Representing Hundreds of Subjects Company Product Indication Activity Latest Phase ONPATTRO (patisiran) ATTR Amyloidosis Safely dosed for up to 25 months in some patients Efficacy of up to 94% TTR
+knockdown with physiological effect Approved by the FDA August 2018 Approved ARB-1467 (TKM-HBV) Hepatitis B Completed Phase 2b trial in HBV patients Clear PD effect (knock down of surface antigen) Phase 2 TKM-PLK1 Oncology Safely dosed for up to 18
+months Evidence of anti-tumor activity based on a decrease in tumor size and a decrease in tumor density consistent with necrosis Phase 2 TKM-Ebola (three LNP products) Ebola Infection 100% protection in lethal primate model of EVD Compassionate use
+in 2014 Ebola outbreak Phase 2 Four Prophylactic mRNA Vaccines Various infectious diseases Successful completion of first in human mRNA vaccine trial Met primary endpoint of neutralizing Ab titers in healthy subjects Phase I GRANITE-001 Oncology
+Personalized oncology vaccine; self replicating RNA payload encoding tumor neoantigens Promising immunogenicity activity and safety data released Phase 2 PTX-COVID19-B SARS-CoV-2 Promising immunogenicity data released Phase 1 Clinical Highlights
+(non-exhaustive) Favorable safety data in a variety of repeat-dosing schedules
+
+Collaborator Providence Therapeutics
+Reported Favorable Interim Phase 1 Antibody Data for mRNA-LNP COVID-19 Vaccine* Data from 60 subjects; two doses, 28 days apart Compelling safety data also reported Both expts: (2 IM doses, 3-week interval). Measurements 14 days post boost. Robust
+Anti-spike Ab Titers Dotted line represents convalescent sera average
+*https://providencetherapeutics.com/article-details/providence-therapeutics-announces-very-favorable-interim-phase-1-trial-data-for-ptx-covid19-b-its-mrna-vaccine-against-covid-19.html Drugs are investigational and subject to regulatory
+approval.
+
+Hepatic Stellate Cell (HSC)-Directed
+LNP: Strong Target-Specific Knockdown Building on track record of success, focusing on access to historically challenging tissues and cell types Hepatic stellate cells well established as central driver of fibrosis In preclinical studies, delivery
+of siRNA to HSCs via Genevant’s LNP demonstrated selective knockdown of mRNA in mice with minimal activity in hepatocytes Additional research in lung, muscle, CNS, eye Drugs are investigational and subject to regulatory approval.
+
+Genevant LNP Manufacturing
+Technology Controlled mixing process (not microfluidic or extrusion based) Broadly applicable to nucleic acids including plasmid DNA, siRNA, and mRNA High encapsulation efficiency Rapid, reproducible and robust Easily scalable Modular design is
+transferable GMP compliant
+
+Ligand Conjugate Platform
+
+Genevant’s siRNA-Ligand
+Conjugate Delivery Platform siRNA design stabilizes the conjugate and enhances cellular delivery Linker chemistry increases the Stability, potency, and duration of activity Ligand-targeting moiety mediates binding and internalization of conjugate:
+5’ or 3’ coupled e.g., GalNAc
+
+siRNA-GalNAc Conjugates Mechanism of
+Action GalNAc-conjugated ligand mediates siRNA delivery GalNAc binds & internalized by ASGPR (Asialoglycoprotein Receptor); Clears serum glycoproteins via clathrin-mediated endocytosis High capacity uptake system Highly expressed and conserved
+across species siRNA passively released from endosome and engages RISC Results in mRNA cleavage and inhibition of translation
+
+First Generation Compared Favorably
+to Benchmark, RNAi 2.0 Provided Enhanced Potency and Duration of Effect in NHP RNAi 2.0 contains intrinsic endosomolytic properties Single subcutaneous dose NHP study; all groups used same TTR sequence to allow direct comparison Marked enhancement
+in potency Compatible with GalNAc or other ligand types
+
+Representative Corporate Partnering
+Co-develop + co-commercialize specified mRNA-LNP rare disease programs; 50-50 profit/cost share; additional LNP licenses for specified oncology target License to LNP for SAM RNA vaccine products for COVID-19 License to LNP for SAM RNA vaccine
+products for specified undisclosed indication Collaboration for LNP-based gene editing therapeutics for specified rare diseases Collaboration for LNP access to specified targets in hep. stellate cells for liver fibrosis Collaboration for LNP
+delivery for nonviral gene therapy for specified rare liver diseases License to LNP for vaccine containing mRNA encoding for antigen for SARS-CoV-2 License to LNP for vaccine containing mRNA encoding for antigen for SARS-CoV-2 Other Recent
+Transactions (undisclosed) Collaboration for LNP-based gene editing therapeutics for specified rare disease Licenses to LNP for mRNA COVID-19 vaccines or therapeutics to universities in the U.S. and abroad All trademarks are property of their
+respective owners
+
+| Confidential. For Internal Review
+Purposes Only. WE WILL DERMATOLOGY Dermavant Sciences
+
+Investment Summary Poised to
+TRANSFORM Immuno-Dermatology | For Investor Audiences Only. Transformational 2 in 1 Lead Product Candidate Tapinarof, a novel chemical entity, was shown to have rapid onset and efficacy with clinically meaningful and statistically significant
+differences observed for all primary and secondary endpoints in pivotal studies. ~40% of tapinarof treated patients achieved complete disease clearance (PGA=0) in the long-term extension trial with treatment effect consistent regardless of baseline
+disease characteristics, severity, and patient demographics. Uniquely positioned to potentially transform the two largest global immuno-dermatology markets: psoriasis ($16.5B in 2019) and atopic dermatitis ($2.3B in 2019) NDA filed; FDA PDUFA action
+expected in 2Q 2022 Comprehensive commercial planning underway for 2H 2022 Tapinarof: Phase 3 Program Points to Five Key Attributes Treatment Effect – Primary efficacy endpoints met in PSOARING 1 and PSOARING 2 (p-values <0.0001); all
+secondary endpoints achieved including PASI75 Durability (On Therapy) – No evidence of tachyphylaxis observed, suggesting treatment durability during the trials Remittive Effect (Off Therapy) – PSOARING 3 interim analysis showed median
+remittive effect of ~4 months (defined as off-therapy maintenance of PGA score of 0 or 1) for some patients during the trials Safety – No Tapinarof SAEs reported in Phase 3 program; majority of AEs localized, mild to moderate in nature
+Tolerability – Well tolerated by patients; discontinuation rates due to AEs of 5.6-5.8% across studies; potential to be used across mild, moderate, & severe plaque psoriasis, including sensitive areas Growing Development Pipeline Tapinarof
+in atopic dermatitis – Phase 3 Program initiated 3Q 2021; topline results anticipated 1H 2023 Development pipeline addressing additional disease states & indications
+
+Tapinarof Targets the Two Largest
+Markets in Immuno-Dermatology Psoriasis & atopic dermatitis markets projected to reach ~$31B in the US and ~$44B globally by 2026 | For Investor Audiences Only. Evaluate Pharma Data: Global Psoriasis and Atopic Dermatitis Prescription Drugs
+Market and Forecast 2019 – 2026 (excluding aesthetic indications); Psoriasis Indication Profile, USA Market Analysis; Atopic Dermatitis Indication Profile, USA Market Analysis (extracted September 2021). U.S. Sales Psoriasis: $12.0B (~73% of
+Global Sales) Atopic Dermatitis: $1.9B (~82% of Global Sales) U.S. Sales Psoriasis: $21.6B (~69% of Global Sales) Atopic Dermatitis: $9.0B (~70% of Global Sales) 10% ‘19-‘26 CAGR 28% ‘19-‘26 CAGR $52.2B Globally $21.1B
+Globally
+
+Tapinarof Offers a Transformational
+2-in-1 Lead Product Candidate Novel MOA delivering a unique & differentiated target product profile Chronic, inflammatory disease characterized by red patches & plaques with silvery scales on skin Large, mostly adult population (~8M people
+in U.S.)1 1 2 Limited topical options for long-term use prior to orals and biologics2,3 3 Long-term steroid use carries risk of significant side effects (e.g., skin atrophy)4,5,6 Psoriasis Overview Chronic, itchy, inflammatory skin disease Atopic
+Dermatitis Overview Large, mostly pediatric population (~26M in United States)7,8 1 Safety concerns limit TCS long-term use, particularly for children4,5 2 Recent launches have not addressed unmet needs either due to tolerability issues or biologics
+that are not appropriate for patients with mild disease9,10 3 | For Investor Audiences Only. Sources: 1. Armstrong, AW., et al., JAMA Dermatol. 2021;157(8):940-946. doi:10.1001/jamadermatol.2021.2007. 2. Lebwohl, M. A clinician’s paradigm in
+the treatment of psoriasis. Journal of the American Academy of Dermatology, 53, S59-69, 2005. 3. Kerdel, F., & Zaiac, M. An evolution in switching therapy for psoriasis patients who fail to meet treatment goals. Dermatologic Therapy 28, 390-403,
+2015. 4. Draelos, ZD (2008) Current Medical Research and Opinion 24(4): 985-994. 5. Coondoo, A. et al. Side-effects of topical steroids: A long overdue revisit. Indian Dermatology Online Journal. V.5(4); 2014. 6. Alexander T. et al.
+(2018) Prescriptions for atopic dermatitis: oral corticosteroids remain commonplace. Journal of Dermatological Treatment, 29:3, 238-240. 7. National Eczema Association. (November 2020). Retrieved from
+https://nationaleczema.org/research/eczema-facts/. 8. Bieber T. Atopic dermatitis. New England Journal of Medicine. 2008;358(14):1483-1494. 9. Lin CP-L, Gordon S, Her MJ, Rosmarin D, A Retrospective Study: Application Site Pain with the
+Use of Crisaborole, a Topical PDE4 Inhibitor, Journal of the American Academy of Dermatology (2018), doi:https://doi.org/10.1016/j.jaad.2018.10.054. 10. DUPIXENT Package Insert.
+
+Track Record of Success in
+Developing & Commercializing Innovative Dermatology Products at Multiple Companies | For Investor Audiences Only. All trademarks are property of their respective owners. Todd Zavodnick Chief Executive Officer Phil Brown MD, JD Chief Medical
+Officer Chris Chapman Chief Commercial Officer David Rubenstein MD, PhD Chief Scientific Officer Chris Van Tuyl Esq General Counsel Michael Swartzburg Chief Financial Officer Paul Seaback SVP, Technical Operations Anna Tallman VP, Medical Affairs
+Diana Villalobos VP, Clinical Elaine Clark VP, Global Regulatory Affairs, QA & PV Peter Nicholson SVP, Business Development
+
+Innovative Immuno-Dermatology
+Pipeline with Global Rights1 | For Investor Audiences Only. 1. Excludes certain Asian territories. Product candidate indication STAGE OF DEVELOPMENT Key milestone Preclinical Phase 1 Phase 2 Phase 3 Clinical Stage Development Programs TAPINAROF
+(DMVT-505) A topical therapeutic AhR modulating agent inhibiting several proinflammatory factors Psoriasis NDA submitted; FDA PDUFA action expected in 2Q 2022 Atopic Dermatitis Phase 3 Program initiated 3Q 2021; topline results anticipated 1H 2023
+CERDULATINIB (DMVT-502) A topical dual JAK/Syk inhibitor Vitiligo Phase 2a completed 1H 2021 Atopic Dermatitis Phase 2a protocol in development OXYBUTYNIN/PILOCARPINE (DMVT-504) Oral combination of immediate-release muscarinic antagonist and
+delayed-release muscarinic agonist Hyperhidrosis Phase 2b protocol in development Early-Stage Development Programs DMVT-503 A novel mechanism of action for the topical treatment of acne vulgaris Acne Vulgaris Preclinical studies ongoing
+
+1For Internal Discussion Purposes
+Only TAPINAROF CREAM PSORIASIS PROGRAM Phil Brown MD, JD, Chief Medical Officer
+
+Tapinarof: Novel Multi-Modal
+Mechanism of Action Inhibits inflammatory cytokines, promotes epidermal barrier restoration & decreases oxidative stress | For Investor Audiences Only. *Demonstrated in vitro. †Demonstrated ex vivo. ‡Demonstrated in mice models. AhR,
+aryl hydrocarbon receptor; Nrf2, nuclear factor erythroid 2-related factor 2; TAMA, therapeutic AhR modulating agent; Th, T helper cell. 1. Smith SH et al. J Inv Dermatol 2017;137:2110–2119. 2. Furue M et al. J Dermatological Sci.
+2015;80:83–88. 3. Tsuji G et al. J Invest Dermatol. 2012;132:59–68. 4. Dermavant DOF [DMVT-505 Th2 Polarization; Apr 2015]. 5. Dermavant DOF [DMVT-505 AD Mouse Model; Oct 2016]. Tapinarof AhR Decreased inflammation in psoriasis 1
+Decreased oxidative stress 2 Skin barrier restoration 3 Decreased inflammation in atopic dermatitis 4 Th17 cytokines*†‡1 Antioxidant activity via Nrf2 pathway*†1-3 Filaggrin, loricrin, and involucrin*1,2 Th2 cytokines*‡4,5
+TAMA is designed to inhibit two pro-inflammatory pathways implicated in psoriasis & atopic dermatitis. AhR modulation by tapinarof also increases antioxidant activity & promotes skin barrier restoration.1-5
+
+PSOARING Program – Executive
+Summary Novel & differentiated attributes observed – NDA filed; PDUFA action expected in 2Q 2022 PSOARING 1 and PSOARING 2 PGA primary endpoints met (P<0.0001) and PASI75 secondary endpoint met In interim analysis (IA) of PSOARING 3 LTE
+data, 57.3% of patients achieved PGA = 0 / 1 and 39.2% achieved PGA = 0 Treatment Effect Improvement in treatment effect observed with continued use beyond 12 weeks No evidence of tachyphylaxis, suggesting durability with continued use during the
+trial Durability (On-Therapy) Approximately 4-month median remittive effect observed among patients entering PSOARING 3 with PGA = 0 (n=78) Other anti-inflammatory compounds demonstrate rapid loss of clinical benefit after drug withdrawal Remittive
+Effect (Off-Therapy) AEs consistent with previous studies, no new safety signals identified No treatment-related serious adverse events reported in PSOARING 1, 2 or PSOARING 3 IA Over 2,200 patients have enrolled in 18 clinical trials (phase III
+trials included all disease severities) Safety Consistent safety and tolerability observed for all skin locations and durations of treatment studied Discontinuation rate due to AEs was 5.6% - 5.8% across studies Greater than 90% of eligible patients
+from PSOARING 1 and PSOARING 2 enrolled in PSOARING 3 Tolerability | For Investor Audiences Only.
+
+Phase 3 PSOARING Program –
+Study Design Over 1,000 patients enrolled in two identically-designed pivotal trials followed by long-term open-label extension study | For Investor Audiences Only. *Patients with PGA of 2 (mild) and PGA of 4 (severe) limited to ~10% each of the
+total randomized population; ~80% of the total randomized population with PGA of 3 (moderate); †Patients electing not to participate in LTE had follow-up visit 4 weeks after completion of treatment period. BSA, body surface area; LTE,
+long-term extension; PASI75, ≥75% improvement in Psoriasis Area and Severity Index; PASI90, ≥90% improvement in Psoriasis Area and Severity Index; PGA, Physician Global Assessment; QD, once daily. 1. Clinicaltrials.gov; NCT03956355. 2.
+Clinicaltrials.gov; NCT03983980. 3. Clinicaltrials.gov; NCT04053387. Open Label Extension: Patients entering open label extension remain on treatment with tapinarof 1% QD until a PGA score of 0 is achieved Re-treatment criteria: Patients with
+psoriasis disease worsening, defined as PGA score ≥2, enter re-treatment with tapinarof 1% QD until a PGA of 0 is achieved Primary endpoint: PGA score of 0 (clear) or 1 (almost clear) & ≥2-grade improvement from baseline at Week 12
+Secondary endpoints: Proportion of patients achieving PASI75 from baseline at Week 12 Proportion of patients achieving PASI90 from baseline at Week 12 PGA score 0 or 1 at Week 12 Mean % change in total BSA from baseline at Week 12 R 2:1 R 2:1
+Patients with Plaque Psoriasis Aged 18–75 years old PGA score ≥2* BSA ≥3% – ≤20% Tapinarof 1% QD Tapinarof 1% QD Vehicle QD Double-blind Treatment (12 weeks) Vehicle QD Long-term Open Label Extension† (40 weeks)
+Off-Treatment Follow-Up (4 weeks) (DMVT-3001) N= 5101 (DMVT-3002) N= 5152 Long-term Extension (LTE) (DMVT-3003) N=7633 Withdrawal & Re-treatment
+
+PSOARING 1 & 2 Pivotal Program
+– Primary & Secondary Efficacy Results Primary efficacy endpoint met, as demonstrated by magnitude of PGA treatment success* & †PASI75 | For Investor Audiences Only. *PGA score of 0 (clear) or 1 (almost clear) and ≥2-grade
+improvement from baseline. †PASI75 response: ≥75% improvement in PASI from baseline. ITT, intention-to-treat; MI, multiple imputation; NDA, new drug application; PGA, Physician Global Assessment; PASI, Psoriasis Area and Severity Index;
+QD, once daily; SEM, standard error of mean. P-value based upon Cochran-Mantel-Haenszel analysis stratified by baseline PGA score. Key Safety Highlights AEs consistent with previous studies, no new safety signals identified, highlights
+predictability of drug safety profile Folliculitis, nasopharyngitis, contact dermatitis, headache, pruritis and dermatitis most common TEAEs Low study discontinuation rate due to folliculitis (1.8% in PSOARING 1 and 0.9% in PSOARING 2) Favorable
+tolerability on sensitive sites including face, neck, axillae, inframammary, skin folds, genitalia, and anal crux
+
+PSOARING 3 LTE Study – ~40% of
+Tapinarof Treated Patients Achieved PGA 0 PGA of 0 corresponds to complete disease clearance | For Investor Audiences Only. Overall (n=763) Patients who Entered LTE Trial on Tapinarof 1% QD & Continued on Tapinarof 1% QD (n=508) Patients who
+Entered LTE Trial on Vehicle QD & Started on Tapinarof 1% QD (n=255) Number of Patients Who Entered the Study with PGA ≥ 1 221 139 82 Number of Patients Who Entered the Study with PGA=0 78 73 5 Overall achievement of a PGA=0 during the
+study, n (%) 299/763 (39.2%) 212/508 (41.7%) 87/255 (34.1%) % Patients Achieving PGA of 0 (ITT, OC) ITT, intention-to-treat, OC, observed cases; PGA, Physician Global Assessment; QD, once daily. PGA Score of 0 from Baseline (n=763) PSOARING 3 (ITT,
+OC) Data from Interim Analysis, 11/25/20
+
+| For Investor Audiences Only. Mean
+Change in PASI from Baseline to Week 12 (ITT, MI)* Phase 3 PSOARING Program – Rapid Onset of Action Statistically significant PASI improvement as early as Week 2 Exploratory Endpoint Achieved Rapid onset of activity with 20% reduction in
+disease activity by Week 2 and difference versus vehicle continues to increase over time PASI, a quantitative measure, showed earlier separation than PGA global measures demonstrating reduction in disease activity *Least squares mean. †Denotes
+statistical significance. ITT, intention-to-treat; MI, multiple imputation; PASI, Psoriasis Area and Severity Index; PGA, Physician Global Assessment; QD, once daily; SEM, standard error of mean. PSOARING 2 PSOARING 1 2 4 8 12 WEEK
+†P<0.0001 †P<0.0001 †P<0.0001 †P<0.0001 †P<0.0001 †P<0.0001 †P<0.0001 †P<0.0001 2 4 8 12 WEEK Tapinarof 1% QD (n=340) Vehicle QD (n=170) Tapinarof 1% QD (n=343) Vehicle QD
+(n=172)
+
+| For Investor Audiences Only.
+Minimum 4-point Improvement in Peak Pruritus NRS from Baseline to Week 12 (ITT, OC)* Phase 3 PSOARING Program – Rapid Peak Pruritis Improvement NRS of at least a 4-point reduction achieved as early as Week 2 Exploratory Endpoint Achieved Mean
+baseline peak NRS was 5.7 for tapinarof and 6.1 for vehicle in PSOARING 1 and 5.9 and 6.1, respectively in PSOARING 2 Clinically meaningful improvement in itch for tapinarof using the gold standard of a minimum 4-point improvement on the NRS
+scale1,2 2 4 8 12 WEEK Tapinarof 1% QD Vehicle QD †P=0.0016 †P=0.0002 †P=0.0004 †P=0.0282 2 4 8 12 WEEK Tapinarof 1% QD Vehicle QD †P<0.0001 †P<0.0001 †P<0.0001 †P=0.0152 PSOARING 2 PSOARING 1
+*Least squares mean. Peak Pruritus NRS 11-point scale from ‘no itch’ (0) to ‘worst itch possible’ (10) over 24-hour period. In those patients with at least a 4-point peak pruritus NRS at baseline. †Denotes statistical
+significance. ITT, intention-to-treat; NRS, numeric rating scale; OC, observed cases; QD, once daily; SEM, standard error of mean. 1. Lebwohl M et al. Am J Clin Dermatol. 2016;17:87–97; 2. Kimball AB et al. Br J Dermatol.
+2016;175:157–162.
+
+Phase 3 PSOARING Program –
+Tapinarof Achieves Primary Endpoint Rapid & complete clearance of psoriasis in patient achieving primary endpoint | For Investor Audiences Only. BASELINE PGA = 3 PASI = 17.6 PGA = 0 PASI = 0 WEEK 4 WEEK 12 PGA = 2 PASI = 4 Results shown for one
+patient are not necessarily indicative of results for other patients, additional trials or other uses PGA and PASI are global efficacy assessments. Example of one representative target lesion of one tapinarof treated patient from the PSOARING 1
+clinical trial. PASI, Psoriasis Area and Severity Index; PGA, Physician Global Assessment.
+
+Phase 3 PSOARING Program –
+Tapinarof Achieves Primary Endpoint Lower extremity disease: rapid response in patient achieving primary endpoint | For Investor Audiences Only. Results shown for one patient are not necessarily indicative of results for other patients, additional
+trials or other uses BASELINE PGA = 3 PASI = 16.0 PGA = 1 PASI = 2.4 WEEK 4 WEEK 12 PGA = 2 PASI = 5.5 PGA and PASI are global efficacy assessments. Example of one representative target lesion of one tapinarof treated patient from the PSOARING 1
+clinical trial. PASI, Psoriasis Area and Severity Index; PGA, Physician Global Assessment.
+
+Phase 3 PSOARING Program –
+Tapinarof Clinical Improvement Clinical improvement in a patient not achieving regulatory endpoint | For Investor Audiences Only. Results shown for one patient are not necessarily indicative of results for other patients, additional trials or other
+uses BASELINE PGA = 3 PASI = 12.0 PGA = 3 PASI = 12.0 PGA = 2 PASI = 8.4 WEEK 4 WEEK 12 PGA and PASI are global efficacy assessments. Example of one representative target lesion of one tapinarof treated patient from the PSOARING 1 clinical trial.
+PASI, Psoriasis Area and Severity Index; PGA, Physician Global Assessment.
+
+PSOARING 3 – Clear or Almost
+Clear for ~4 months Off Treatment Remittive (off-therapy) effect observed among patients entering with PGA=0 | For Investor Audiences Only. Key Points Overall, median time to PGA ≥ 2 was 115 days (95% CI = 85 to 162 days, approximately 3 to 5
+months) CI, confidence interval; ITT, intention-to-treat, LTFU, lost to follow-up; OC, observed cases; PGA, Physician Global Assessment. Time to First PGA ≥2 (ITT, OC) 0 25 75 50 100 125 150 175 200 225 250 275 300 325 TIME (DAYS) Overall (N =
+78) 1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 PROBABILITY OF EXPERIENCING DISEASE WORSENING Median time to PGA≥2 115 days Data from Interim Analysis
+
+Phase 3 PSOARING Studies: Most
+Common Treatment-Related TEAEs ≥ 1% Consistent & predictable safety profile observed | For Investor Audiences Only. Count reflects numbers of patients reporting one or more AEs that map to grouped MedDRA preferred term. A patient is
+counted once only for each type of AE but could experience ≥1 event of the AE. QD, once daily; TEAE, treatment-emergent adverse event. 1. Robbins K, et al. J Am Acad Dermatol. 2019;80:714–721; 2. Stein Gold L, et al. J Am Acad Dermatol.
+2020; doi: 10.1016/j.jaad.2020.04.181. 3. Dermavant Data on File, Dec 2020. PSOARING 1 PSOARING 2 Patients, n (%) Tapinarof 1% QD (n=340) Vehicle QD (n=170) Tapinarof 1% QD (n=343) Vehicle QD (n=172) Folliculitis 70 (20.6%) 2 (1.2%) 54 (15.7%) 1
+(0.6%) Contact dermatitis 13 (3.8%) 1 (0.6%) 16 (4.7%) 0 (0%) Headache 5 (1.5%) 1 (0.6%) 1 (0.3%) 0 (0%) Pruritus 4 (1.2%) 0 (0%) 2 (0.6%) 0 (0%) Dermatitis 1 (0.3%) 0 (0%) 4 (1.2%) 0 (0%) Favorable safety profile observed over 52 weeks, AEs
+consistent with previous studies1,2, no tapinarof-related SAEs Most treatment-related events are localized to site of application & mild to moderate in nature Low overall AE discontinuation rate for patients on tapinarof: <5.8%
+Discontinuation due to folliculitis: 1.8% / 0.9% (PSOARING 1 / PSOARING 2); 1.2% (PSOARING 3) Consistent & predictable safety profile - over 2,200 patients have enrolled in 18 clinical trials3 Key Points
+
+PSOARING 3 LTE Study –
+Investigator-Assessed Irritation Favorable tolerability without regard to site of application or duration of use | For Investor Audiences Only. Investigator Assessed Irritation Scores* Across All Application Sites (Safety population) Tapinarof 1% QD
+(Pivotal) (n=508) Overall (n=763) Vehicle QD (Pivotal) (n=255) WEEK 4 8 12 16 20 24 28 32 36 40 *Investigator assessed irritation scores (0–4) assess the presence and overall degree of irritation at the application sites according to the Local
+Tolerability Scale (dryness, erythema, and peeling) – no irritation (0), mild (1), moderate (2), severe (3), very severe (4). The score ideally represents an ‘average’ across all application sites. QD, once daily. 4 8 12 16 20 24
+28 32 36 40 4 8 12 16 20 24 28 32 36 40 4 8 12 16 20 24 28 32 36 40 4 8 12 16 20 24 28 32 36 40 No irritation (0) Mild (1) Moderate (2) Severe (3) Very severe (4) Key Points Investigators assessed that ≥ 90% of patients had no irritation
+(score of 0) over 40 weeks of treatment Favorable tolerability on sensitive sites including face, neck, axillae, inframammary, skin folds, genitalia, & anal crux Data from Interim Analysis
+
+1For Internal Discussion Purposes
+Only TAPINAROF CREAM ATOPIC DERMATITIS PROGRAM
+
+Tapinarof Atopic Dermatitis Phase 2b
+Trial – Efficacy Results Response rates: 49% of patients achieved IGA clear or almost clear and ≥2-grade improvement and 51% of patients achieved EASI75 after 8 weeks of treatment with tapinarof 1% QD | For Investor Audiences Only. Week
+8 IGA score 0 or 1 and ≥2-grade improvement at week 8 Primary Endpoint was at 12 Weeks: Assessed in ITT Population (NRI Analysis) EASI75 at Week 8 Secondary Endpoint was at 12 Weeks: Assessed in ITT Population (NRI Analysis) Week 8 Week 8 *
+*Difference vs vehicle is statistically significant at p-value of 0.05 or lower. NRI analysis to account for higher dropout rates in vehicle group. BID, twice daily; IGA, Investigator Global Assessment; EASI, Eczema Area and Severity Index; ITT,
+intention to treat; NRI, non-responder imputation; QD, once daily. 1. Peppers J, et al. J Am Acad Dermatol. 2019;80:89-98 and Dermavant DOF [CSR 203121; 16Jun2017]. 2. Paller AS, et al. SKIN The Journal of Cutaneous Medicine. 2018;2:S60.
+
+Phase 3 ADORING Program –
+Study Design Two identically-designed pivotal trials followed by long-term, open-label extension | For Investor Audiences Only. Primary endpoint: Proportion of subjects who have a vIGA-ADTM 0 or 1 Baseline at Week 8 Secondary endpoints: Proportion
+of subjects with EASI 75 @ week 8 Mean change in %BSA from Baseline at Week 8 Proportion of subjects with EASI 90 @ Week 8 Proportion of subjects with > 4-pt reduction in PP-NRS @ Week 8 PROs: LTE DLQI/CLDQI/IDQOL EQ-5D-5L/EQ-5D-Y POEM DFI PP-NRS
+Study Objective: To demonstrate statistically significant treatment effect of tapinarof as compared with vehicle and an acceptable safety profile in moderate to severe atopic dermatitis patients R 2:1 R 2:1 Patients with AD Ages 2 years & above
+(max 20% > 18 years) IGA score ≥ 3 BSA ≥ 5% – ≤ 35% EASI score > 6 (N=400 per pivotal study) Tapinarof 1% QD Tapinarof 1% QD Vehicle QD Double-blind Treatment (8 weeks) Vehicle QD Long-term Open Label Extension (48
+weeks) Off-Treatment Follow-Up (7 Days) (DMVT 3101) (DMVT 3102) Long-term Extension (LTE) (DMVT 3103) Withdrawal & Re-treatment 1 2 3
+
+1For Internal Discussion Purposes
+Only COMMERCIAL OVERVIEW Chris Chapman, Chief Commercial Officer
+
+Lack of Topical Innovation Offers
+Tapinarof Unprecedented Opportunity Establishing a potential new topical benchmark in psoriasis & atopic dermatitis | For Investor Audiences Only. Systemic Innovation Late-Stage Pipeline 2 topicals 4 targeted systemics Late-Stage Pipeline 3
+topicals 7 targeted systemics Systemic Innovation Low Topical Innovation Standard of Care Topical Steroids Treatment Effect Durability Remittive Effect Safety Tolerability Psoriasis Market Atopic Dermatitis Market After two decades of commercial
+success, nearly all PsO innovation due to systemic biologic therapies AD category parallels PsO nearly ~20 years ago Robust late-stage AD pipeline Sources: 1. PsO Market - Clinicaltrials.gov. (NCT03556202, NCT03598790, NCT03624127, NCT03611751,
+NCT03895372, NCT03431974, NCT02969018, NCT02776033, NCT02888236, NCT03308799, NCT03956355, NCT03983980, NCT04211389, NCT04211363). 2. AD Market - Clinicaltrials.gov. (NCT03308799, NCT03956355, NCT03983980, NCT04211389, NCT04211363, NCT03334396,
+NCT03334422, NCT03349060, NCT03575871, NCT03569293, NCT03568318, NCT03607422, NCT03568331, NCT03531957, NCT03911401, NCT03745638, NCT03745651, NCT02564055, NCT03916081, NCT03903822). Accessed August 28, 2021. Tapinarof has the potential to address
+the shared topical innovation gaps within the PsO & AD markets Benchmark Attributes
+
+U.S. Psoriasis Market Highly
+Concentrated & Readily Accessible 80% of market value concentrated in tight payer, prescriber & geographic clusters | For Investor Audiences Only. National Payers Geography Prescribers 80% of TRx claims are processed by 4 national
+PBMS/Plans* 80% of Derm Commercial TRx volume made up by 20 states 80% of Derm Commercial TRx volume made up by 5,649 HCPs High Value Targets & Investment Sources: 1. Symphony Prescriber Source (November 2019 – October 2020). 2. Drug Store
+Channels: The Top PBMs of 2020: Vertical Integration drives Consolidation. April 6, 2021. *Top 4 PBMS/Plans represent 85% of processed claims: CVS Health (Caremark): 32% Cigna (ESI & Ascent Health): 24% UnitedHealth (Optum): 21% Humana Pharmacy
+Solution: 8%
+
+Extensive Market Research Supports
+Early Access & Adoption More than 500 HCPs, >300 patients, & 65 payer interviews (~200M+ covered lives) | For Investor Audiences Only. *Due to the anonymity of participants across payer organizations, there is likely overlap of
+participants and plans (i.e., these are not all “unique” payers/ plans) **Example plans included in prior research, not exhaustive Sources: Phase 2b Qualitative research conducted by Triangle Insights, November 2018. Phase 3 Price
+Sensitivity Quantitative research conducted by Triangle Insights, July 2020. Qualitative research conducted by Triangle Insights, June 2020. Phase 3 HCP Value Prop Qualitative research conducted by Triangle Insights, November/December 2020 &
+January 2021. Dermatology HCPs KOLs, High Decile Dermatologists & NPs/PAs Payers National & Regional PBMs & MCOs**: Patients Psoriasis sufferers currently on prescription treatment STAKEHOLDER Specialty/ Role Cohort Size 60-min web
+survey Incl. 8-hour Focus Group 60-min web survey HCP Research respondents averaged ~260 psoriasis patients on average with ~66% of patients covered under commercial insurance 60-min Video Interviews 30-min web survey 60-min Video
+Interviews
+
+94% of HCPs Believe Tapinarof Can
+Address an Unmet Need in Psoriasis Prescribers have a CLEAR & PRESENT understanding of the limitations of the current standard of care, TCS | For Investor Audiences Only. Source: Interviews conducted by Triangle Insights, November/December 2020
+& January 2021 with dermatologists (n = 50) 1. What aspect of this product do you find most attractive? How would you rate a product with the profile of tapinarof overall? Not at All Favorable Very Favorable March 2021 TPP (N=50, “HCP
+Value Prop Research”) Phase 3 HCP Qualitative Value Prop Research Rating of HCPs believe tapinarof has the potential to address the psoriasis unmet need as a novel topical treatment option that is safe for chronic use Addressing the Unmet Need
+94% 01 02 TCS/Combination Steroid Products ~75% physicians are optimistic that tapinarof could replace TCS or combination products for first line use in mild-to-moderate patients Biologics / Otezla Many physicians are optimistic that tapinarof can
+be a step before Otezla & delay the use of biologics HCP Value Prop Research Key Insights “Tapinarof has the potential to replace steroids for first line use” -Dermatologist Tapinarof has not been studied in combination with other
+drugs No head-to-head trials of tapinarof have been conducted against other psoriasis treatments
+
+Payer & Prescriber Interests
+Aligned in the Need for Topical Innovation Tapinarof could offer payers the opportunity to manage spend with INNOVATION vs. RESTRICTION | For Investor Audiences Only. Source: N=17 payer interviews conducted by Triangle Insights Group, March &
+April 2021 Quotes from Payers “The value is that it has a durable effect on a significant portion of the treated population.” -Regional MCO “If you can show clearance for 3 months, you may see a significant cost saving.”
+-National PBM “I think the remittive effect is a very attractive aspect.” -Regional PBM National Plan Average (N=8) Not at All Favorable Very Favorable “How would you rate Product X overall? (1-7 scale where 1 is not at all
+favorable and 7 is very favorable)” Phase 3 Payer Qualitative Value Prop Research: National Plan Ratings Delay Progression to Expensive Systemics Payers acknowledge the potential for tapinarof to delay the progression to expensive biologics
+that are driving spend in the psoriasis category Innovative Contracting Several large national organizations indicated an interest in innovative risk-based contracting due to the potential treatment and remittive effect seen with tapinarof Payer Key
+Insights
+
+Key Attributes Have Potential To Set
+New Benchmark for Topical Innovation | For Investor Audiences Only. Source: Qualitative market research conducted by Triangle Insights, January 2021 with dermatologists (n = 50) 1. What aspect of this product do you find most attractive? Overall
+Efficacy 1 7 Not at all Favorable Very Favorable Remittive Effect Time to Clearance Fewer Flares Long Term Safety Tolerability Ability to use without regard to duration or location Tapinarof Attribute Ratings: Phase 3 HCP Value Prop Market Research
+
+Tapinarof’s Prescriber, Payer
+& Patient Benefits are Uniquely Aligned Versatility may fundamentally change the psoriasis treatment paradigm | For Investor Audiences Only. Mild Disease <3% BSA Moderate Disease 3-10% BSA Severe Disease >10% BSA Chronic Monotherapy
+“Breaking The TCS Flare Cycle/ Changing The Paradigm” Chronic Concomitant “A Partner with Biologics” Rationale: A retrospective study found that in patients prescribed a biologic therapy, almost two thirds received a new
+topical prescription4 Topical medications were most often steroids, rather than Vitamin D Tapinarof’s profile may enable it to be used in place of topical steroids & may offer a long-term solution to a chronic condition3 Tapinarof may
+delay the path to biologics, like the delay achieved by using oral agents5, therefore reducing reliance on expensive biologic therapies Current PsO Treatment Paradigm1 1st Line Treatment2 2nd Line Treatment2 3rd Line Treatment2 Potential to use
+without regard to location or duration could enable long-term monotherapy and concomitant use 1 2 Sources: 1. National Psoriasis Foundation (October 2020), retrieved from https://www.psoriasis.org/psoriasis-statistics/; 2. Takeshita, J., et al.
+Journal of Investigative Dermatology. 2015. 135. 2955-2963; 3. Interviews conducted by Triangle Insights, July 2020 with dermatologists (n = 19), NP/Pas (n = 7), & patients (n = 10). 4. Noe, M., et al. J Drugs Dermatol. 2019. 18(8): 745-750; 5.
+Wu, et al., Journal of Dermatological Treatment. 2019. 30 (5): 446-453 Tapinarof has not been studied in combination with other drugs No head-to-head trials of tapinarof have been conducted against other psoriasis treatments
+
+1For Internal Discussion Purposes
+Only FINANCE, IP AND SUMMARY
+
+Strategic Partnerships with GSK
+& Thermo Fisher Support Global Supply Agreements ensure a high quality & predictable supply of drug substance and drug product | For Investor Audiences Only. Drug Product Manufacturing Barnard Castle, UK Drug Substance Manufacturing Cork,
+Ireland Clinical Manufacturing: Thermo Fisher: Phase 3 clinical & registration batches GSK: Phase 3 clinical, registration batches, additional clinical & non-clinical studies Raw Material Sourcing: Leverage global procurement & sourcing
+network at each site Experience with Tapinarof: Thermo Fisher: since 2016 GSK: since 2015 Commercial Production Readiness: Significant experience manufacturing at commercial scale Commercial sites with worldwide capabilities to support global
+registrations In good standing with global health agencies Commercial launch & supply sites for both drug substance & drug product Capacity: Sites capacity sufficient to support tapinarof commercial demand Governance: Structured metrics
+driven collaboration, solid compliance history, & quality management systems Business Continuity: Robust site level business continuity programs & risk management planning
+
+Tapinarof IP Summary: Patent
+Protection Until at Least 2036 | For Investor Audiences Only. * The remittive effect encourages payers to consider innovative contracts that cap annual refills or involve risk-sharing for the patient outcomes. Source: N=17 payer interviews conducted
+by Triangle Insights Group, March and April 2021 US Patent 10,195,160 expires 2036 (Formulation): covers all the viable emulsion/cream formulations that were studied by GSK, its predecessor & their CROs over many years of development Claims have
+very broad ranges regarding the critical components of the formulation Claims cover the commercial formulation and variations thereof Foreign counterpart applications to the ‘160 Formulation and ‘649 API Synthesis Patent Applications are
+issued or pending in other major market countries The Japanese formulation patent has issued and the European Examination Report indicated the claimed formulation subject matter is novel and inventive Once issued, natural expiration dates will be in
+2036 for the formulation patents and in 2038 for the API synthesis patents The ’160, ’743, & ’649 Patents may be eligible for listing in FDA’s Orange Book ANDA filers would have to invalidate or design-around these
+patents in order to obtain approval before the patents expire US Patent 10,647,649 expires in 2038: covers the commercial API synthesis, novel intermediates and high purity API crystal form produced by the synthesis US Patent 10,426,743 also expires
+2036 (Method of Use): covers treating inflammatory diseases, including specifically PsO & AD, using the formulations covered in the ‘160 patent
+
+Summary | For Investor Audiences
+Only. Dermavant PSOARING Phase 3 psoriasis program completed; PDUFA action expected 2Q 2022; Comprehensive commercial launch planning underway Dermavant poised to TRANSFORM Immuno-Dermatology $44.3B global opportunity across the two largest
+immuno-dermatology segments: psoriasis & atopic dermatitis (2026 forecast*) Tapinarof is a potentially transformational novel chemical entity that if approved may provide a combination of treatment effect, durability (on therapy), remittive
+effect (off therapy), safety & tolerability, in a once daily, cosmetically elegant non-steroidal cream ADORING Phase 3 Program initiated 3Q 2021; topline results anticipated 1H 2023 Development pipeline addressing additional disease states &
+indications *Evaluate Pharma Data: Global Psoriasis and Atopic Dermatitis Prescription Drugs Market and Forecast 2019 – 2026 (excluding aesthetic indications); Psoriasis Indication Profile, USA Market Analysis; Atopic Dermatitis Indication
+Profile, USA Market Analysis (extracted September 2021).
+
+1For Internal Discussion Purposes
+Only Appendix
+
+Folliculitis Examples From PSOARING
+1 & 2 Most treatment-related events are localized to site of application & mild to moderate in nature | For Investor Audiences Only. Examples of two representative target lesions of two tapinarof treated patients from the PSOARING 1 and 2
+clinical trials. DMVT-505-3001_AE_1906_1906-007 CTCAE Grade 1 = Mild DMVT-505-3002_AE_2016_2016_012 CTCAE Grade 2 = Moderate Results shown for two patients are not necessarily indicative of results for other patients, additional trials or other
+uses
+
+Roivant R&D Day Investor
+Presentation September 28, 2021 
+
+Forward-looking statements This
+presentation contains forward-looking statements for the purposes of the safe harbor provisions under The Private Securities Litigation Reform Act of 1995 and other federal securities laws. The use of words such as “may,”
+“might,” “will,” “expect,” “plan,” “anticipate,” “believe,” “estimate,” “intend,” “future,” “potential,” “continue”
+and other similar expressions (as well as other words or expressions referencing future events, conditions, or circumstances) are intended to identify forward-looking statements. For example, forward-looking statements include statements Immunovant
+makes regarding its business strategy, its plans to develop and commercialize its product candidates, the potential safety and efficacy of Immunovant’s current or future product candidates, including batoclimab for Myasthenia Gravis, Thyroid
+Eye Disease and Warm Autoimmune Hemolytic Anemia, its expectations regarding timing, the design and results of clinical trials of its product candidates, Immunovant’s plans and expected timing with respect to regulatory filings and approvals,
+the size and growth potential of the markets for Immunovant’s product candidates, and its ability to serve those markets. All forward-looking statements are based on estimates and assumptions by Immunovant’s management that, although
+Immunovant believes to be reasonable, are inherently uncertain. All forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those expressed or implied by such forward-looking
+statements. Such risks and uncertainties include, among others: initial results or other preliminary analyses or results of early clinical trials may not be predictive final trial results or of the results of later clinical trials; the timing and
+availability of data from clinical trials; the timing of discussions with regulatory agencies, as well as regulatory submissions and potential approvals; the continued development of Immunovant’s product candidates, including the timing of the
+commencement of additional clinical trials and resumption of current trials; Immunovant’s scientific approach, clinical trial design, indication selection and general development progress; future clinical trials may not confirm any safety,
+potency or other product characteristics described or assumed in this presentation; any product candidates that Immunovant develops may not progress through clinical development or receive required regulatory approvals within expected timelines or
+at all; Immunovant’s product candidates may not be beneficial to patients, or even if approved by regulatory authorities, successfully commercialized; the potential impact of the ongoing COVID-19 pandemic on Immunovant’s clinical
+development plans and timelines; Immunovant’s business is heavily dependent on the successful development, regulatory approval and commercialization of its sole product candidate, IMVT-1401; Immunovant is at an early stage in development of
+IMVT-1401; and Immunovant will require additional capital to fund its operations and advance IMVT-1401 through clinical development. These and other risks and uncertainties are more fully described in Immunovant’s periodic and other reports
+filed with the Securities and Exchange Commission (SEC), including in the section titled “Risk Factors” in Immunovant’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2021 filed with the SEC on August 9, 2021. Any
+forward-looking statement speaks only as of the date on which it was made. Immunovant undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+Rethinking possibilities in
+autoimmune disease Love Trailblazing All Voices Bolder Faster Our vision: Normal lives for people with autoimmune diseases
+
+Anti-FcRn Market: Potential
+therapeutic benefit across wide range of indications Fifteen indications announced by at least one anti-FcRn program ENDOCRINOLOGY Thyroid eye disease RHEUMATOLOGY Primary Sjögrens Syndrome  Lupus Nephritis Systemic lupus erythematosus
+Rheumatoid arthritis DERMATOLOGY Bullous pemphigoid Pemphigus foliaceus/ Pemphigus vulgaris NEUROLOGY Myasthenia Gravis Chronic inflammatory demyelinating polyneuropathy Myositis Autoimmune encephalitis Myelin oligodendrocyte glycoprotein antibody
+disorders (MOG-antibody disorder) HEMATOLOGY Warm autoimmune hemolytic anemia Hemolytic disease of the fetus and newborn Idiopathic thrombocytopenic purpura Source: https://www.clinicaltrials.gov/
+
+Source: Analysis – Social
+Media Review MG n=975 / Qualitative research – MG patient journey n=28 / MG Patient Advisory Council n=6 / MG Patient Quantitative Survey (n=50) Even well controlled patients report lifestyle accommodations Anxiety around response and
+duration Significant impact on quality of life Variable time to response for existing treatments (e.g. steroids, immunosuppressants, IVIg) Trade-offs between safety risks and therapeutic benefit with some therapies Reliable treatment options
+Most patients feel that their condition is uncontrolled Different patients need more or less intensive therapy Flexible treatment options Desire to feel like a person not a patient Considerations for chronic disease management (i.e., simple, at-home
+self-administration) People-centered treatment delivery Despite available treatment options, people with Myasthenia Gravis report significant unmet needs
+
+Dosing approach preferences
+Source: Analysis – MG Patient Quantitative Survey (n=50) 94% of respondents with Myasthenia Gravis prefer chronic versus intermittent dosing Patient Survey Feedback: Preferred Treatment Approach
+
+Batoclimab’s (IMVT-1401)
+differentiated attributes provide a unique opportunity to address patients’ unmet needs Subcutaneous route of administration: Designed and developed for simple subcutaneous injection to provide human-centric, give and go dosing experience
+Significant impact on quality of life Reliable treatment options Flexible treatment options People-centered delivery of treatment Flexible dosing potential: Deep, rapid IgG suppression in the short-term; adjustable IgG suppression in the long-term
+Batoclimab Batoclimab
+
+Developing Gene Therapies for
+Rare Diseases
+
+Aruvant represents a growth
+opportunity developing potentially curative gene therapies for rare diseases All product candidates are investigational and subject to regulatory approval. Ongoing Phase 1/2 trial Clinical data demonstrating curative potential Up to 100% reduction
+in vaso-occlusive events (VOEs) Durable responses for more than three years Toxicity advantage vs other gene therapies: Requires non-myeloablative chemotherapy Preclinical data: durable increases in tissue non-specific alklaline phosphatase (ALP)
+levels through 18 months Potential one time Rx to replace chronic ERT standard of care ARU-1801 Lentiviral gene therapy for sickle cell disease ARU-2801 AAV gene therapy for hypophosphatasia
+
+Experienced team in gene therapy,
+clinical development and manufacturing All trademarks are the property of their respective owners. Global Technical Operations Head 25 years technical ops leadership Multiple gene therapy development programs Successful rare disease approvals Novel
+assay development, CMO management Palani Palaniappan, PhD Chief Technology Officer SVP, Communications 20+ years communications leadership (public relations, investor relations, patient advocacy & government affairs) Multiple rare disease
+programs (Friedreich's Ataxia, Hereditary Angioedema, Huntington’s Disease) E. Blair Clark-Schoeb SVP, Communications Meghan Kelton Executive Director, Human Resources Head, People, Organization & HR Site, Novartis Gene Therapies 15 years
+HR experience Senior Professional HR and Society or HR Management Senior certifications Chief Business Officer and Chief Financial Officer Financial executive with 25+ years experience CFO of multiple privately-held and publicly-held biotechnology
+companies Commercial launch and execution Stan Musial, MBA Chief Financial Officer Will Chou, MD, MBA Chief Executive Officer Global Commercial Head Kymriah Head Lymphoma Clinical Development Kymriah Clinical, CMC, regulatory and commercial
+leadership for first approved CAR-T
+
+The major complication of sickle
+cell disease are vaso-occlusive events (VOEs) which are painful and costly 1. Ballas SK, Lusardi M. Am J Hematol. 2005;79(1):17-25; 2. Piel FB, Steinberg MH, Rees DC. N Engl J Med. 2017;376(16):1561-1573; 3. Elmariah H, Garrett ME, De Castro LM, et
+al. Am J Hematol. 2014;89(5):530-535 VOEs are episodes of extreme pain caused by vaso-occlusion that can last several days 95% of hospitalizations for SCD are due to VOEs1 VOEs can lead to severe complications and progressive organ damage2 Increased
+frequency of pain crises is associated with decreased survival3 Life expectancy of SCD remains in mid 40s
+
+ARU-1801 is a one-time
+potentially curative therapy for SCD with a differentiated toxicity profile. Uses self-inactivating lentiviral vector that contains a proprietary γ-globin gene for a novel, highly potent variant of fetal hemoglobin (HbF): HbFG16D Unique potency
+allows ARU-1801 to engraft with only reduced intensity conditioning (RIC). Potential for curative reduction in disease burden. VOE reduction up to 100% Durable engraftment over three years All product candidates are investigational and subject to
+regulatory approval.
+
+ARU-1801 uses a patient’s
+own stem cells to make a unique fetal hemoglobin Produce Lentiviral Vector Collect CD34+ Stem Cells Transduce CD34+ Cells Ex Vivo Infuse Cells after a Single Dose of RIC 01 02 03 04
+
+ARU-1801’s unique
+attributes enable a potential differentiated product profile All product candidates are investigational and subject to regulatory approval. More hemoglobin F per vector copy Proprietary G16D point mutation drives higher HbF payload per vector copy
+High HbFG16D potency HbFG16D may have a more potent anti-sickling effect than endogenous HbF Preserved stemness Proprietary manufacturing component enables more true stem cells in each dose Engraftment with RIC Potential for clinical efficacy at
+lower VCN
+
+RIC has potential benefits for
+patients, providers, and payors Table reflects combination of gene therapy protocols, reported results from gene therapy trials, and literature on the use of these conditioning agents in other settings. *Dose adjusted to a targeted AUC for busulfan
+of 4200 μM*min. 1. bluebird bio ASGCT 2020. Resolution of Sickle Cell Disease (SCD) Manifestations in Patients Treated with LentiGlobin Gene Therapy: Updated Results of Phase 1/2 HGB-206 Group C Study. 2. Based on data from 3 ARU-1801 patients.
+3. Busulfan label; seizure prophylaxis required but not with phenytoin due to PK interaction with busulfan. 4. ALKERAN label. 5. Estimated based on Kaplan-Meier plot in post-pubescent female children based on time to elevated FSH level with up to 8
+years follow up (Panasuik et al. BJH 2015). 6. ZYNTEGLO EPAR. 7. Boston Medical Center. B Freeman et al. (2014) Bone Marrow Transplantation and Guru Murthy GS et al. (2019) Biol. Blood Marrow Transplant; outpatient autologous HSCT are already
+performed for multiple myeloma and AL amyloidosis 8. Rescue cell collection required per bluebird bio protocol. 9. Based on Aruvant protocol. Drugs are investigational and subject to regulatory approval. Reduced intensity conditioning (RIC) with
+melphalan 140mg/m2 may provide significant clinical benefit compared to the busulfan-based regimen used by the other leading SCD gene therapy candidates, including the potential for lower risk of secondary malignancy Busulfan 3.2 mg/kg/day* (Used by
+myeloablative gene therapies) Melphalan 140 mg/m2 (Used by ARU-1801) Neutropenia Recovery Time  20 days1  7 days2  Platelet Recovery Time 28 days1 8 days2 Neurotoxicity Seizure prophylaxis required3 No seizure prophylaxis required4
+Ovarian Failure 70 - 80%5 30 - 40%5 Chemo Administration 4 days6 daily PK monitoring 1-hour infusion4 Days in Hospital (Median) 44 days6 0-5 days7 Potential for Outpatient Administration Low3 (longer cytopenias, multiple infusions) High7 (common in
+multiple myeloma) Backup Collection Required8 Not required9 Risk if No Engraftment Rescue transplant required8 No rescue required9  Note: no head-to-head studies of these products have been conducted
+
+Recent events in 2021 reinforce
+importance of safety in GTx, an area where ARU-1801 is uniquely differentiated Vector was very unlikely a factor in either AML/MDS case1,2 Busulfan conditioning and baseline risk identified as possible causes1,2 Tisdale Blood Advances 2020 Bluebird
+bio press release and conference call March 2021 Bluebird bio Q2 earnings call, 8/9/2021 Eichler et alt. New England J of Medicine 2017 ARU-1801 IND Greene MH et al. Ann Intern Med. 1986 Sep;105(3):360-7. Tucker MA et al.
+J Natl Cancer Inst. 1987 Mar;78(3):459-64. Cuzick J et al. Br J Cancer. 1987 May;55(5):523-9. Tucci et al, poster presentation, EHA 2020 2nd AML case in SCD study MDS case in CALD study Known risk of specific retroviral promoter
+sequence in Skysona vector3,4 BLUE events and findings ARU-1801 uses RIC melphalan5 Lower exposure to alkylating chemotherapy associated with lower risk of oncogenesis6-8 ARU-1801 does not use retroviral promoter sequences5 Prior to CALD case,
+>250 patients treated with lentiviral gene therapies in autologous stem cells with no insertional oncogenic events9 Drugs are investigational and subject to regulatory approval.
+
+Before treatment with ARU-1801,
+patients had numerous VOEs despite SOC treatment -24 -12 0 +12 +24 Pt 1 Pt 2 Pt 3 Pt 4 Pre-treatment VOEs Pre-treatment Patient Management No VOEs observed 12 mo f/u Months before treatment Vaso-occlusive event Begin process development All product
+candidates are investigational and subject to regulatory approval. failed hydroxyurea; frequent supportive care hydroxyurea chronic RBC transfusions hydroxyurea Academic manufacturing Improved manufacturing
+
+Significant improvement to date
+in VOEs including 100% resolution in recently treated patients -24 -12 0 +12 +24 Pt 1 Pt 2 Pt 3 Pt 4 93% 100% 100% 85% VOE Reduction Pre-treatment VOEs Post-treatment VOEs No VOEs observed 18 mo f/u No VOEs observed 12 mo f/u Months before/after
+treatment Vaso-occlusive event Begin process development Academic manufacturing Improved manufacturing All product candidates are investigational and subject to regulatory approval.
+
+Market research showed GTx with
+RIC grows addressable population and is favored choice vs myeloablative options Entry of ARU-1801 increases patients eligible for GTx Pts eligible for GTx Pts eligible for GTx Myeloablative GTx only market Myeloablative GTx + ARU-1801 market Results
+from market research of 75 physicians. Drugs are investigational and subject to regulatory approval. 225K SCD Population (US & EU) 47% have severe SCD
+
+ARU-1801 Path Forward First
+patient dosed with updated manufacturing process ARU-1801 Ph 1/2 data Initiate ARU-1801 pivotal study H2 H2 H1:23 ü ü
+
+ARU-2801 for Hypophosphatasia
+Data presented in All trademarks are the property of their respective owners.
+
+ARU-2801 is a one-time gene
+therapy for hypophosphatasia (HPP) that could replace a potential blockbuster enzyme replacement therapy (ERT) SOC and deliver potentially curative efficacy, without the limitations of chronic administration ARU-2801 is an adeno-associated virus
+gene therapy designed to treat hypophosphatasia, a devastating, ultra-orphan disorder that affects multiple organ systems and leads to high mortality Durable and sustainable increases in tissue non-specific alklaline phosphatase (ALP) levels through
+18 months Potential for reduction in disease burden Significant increase in survival and lifespan (18 months vs 3 weeks) Amelioration of bone defects with development of mature bone Normalization of body weight and bone density All product
+candidates are investigational and subject to regulatory approval.
+
+J Pediatr. 2019
+Jun;209:116-124.e4. doi: 10.1016/j.jpeds.2019.01.049. Epub 2019 Apr 9. Fraser D: Hypophosphatasia. Am J Med. 1957, 22: 730-46. 10.1016/0002-9343(57)90124-9. Ann Hum Genet . 2011 May;75(3):439-45. doi: 10.1111/j.1469-1809.2011.00642.x. Epub 2011 Mar
+24 Hypophosphatasia (HPP) is a devastating and potentially fatal orphan disorder with no gene therapy treatments available HPP is caused by mutation in the ALPL gene and is characterized by low or no expression of tissue non-specific alkaline
+phosphatase (TNS-ALP) In HPP, TNS-ALP, is mutated and cannot convert pyrophosphate (PPi) to phosphate (Pi) This results in limited hydroxyapatite formation, and therefore limited bone mineralization Mutant TNSALP impairs bone mineralization…
+…leading to severe musculoskeletal compromise Severe forms result in respiratory failure from chest hypoplasia, seizures, and limb deformity Left untreated, 50% of severe perinatal / infantile-onset patients die within first year of life
+Normal HPP Osteoblast Chondrocyte
+
+1. Strensiq FDA Label 2. Strensiq
+EPAR Product Information Drugs are investigational and subject to regulatory approval. SOC ERT for HPP, Strensiq, requires chronic administration and patients experience injection site reactions leaving high unmet need ARU-2801 can potentially
+eliminate these inherent chronic injection issues Up to 6x SC injections/week for a lifetime1 Doses need to be matched with patient weight1 74% injection site reactions2 Lipodystrophy shown in 28% of patients, including 70% of juvenile-onset
+patients1 Chronic, frequent injections AEs at injection site “Every injection is the most dreaded experience. It’s like asking to inject fire into your body.” – HPP patient “I wouldn’t hesitate with something new
+if it meant less injections.” – HPP patient
+
+In HPP murine models, ARU-2801
+treatment results in high, durable ALP levels and survival to 18 months (vs 3 weeks untreated) All drugs are investigational and subject to health authority approval. Matsumoto T et alt Molecular Therapy Methods and Clinical Development 2021 High
+ALP levels in HPP model (Akp2-/- mice) Durable 18-month OS of 70% ARU-2801 3e11 ARU-2801 1e12 ARU-2801 3e11 ARU-2801 1e11 HPP disease model (Akp2-/-) HPP model <1 mo survival No evidence of ectopic calcifications at these therapeutic doses
+ARU-2801 1e11 HPP disease model (Akp2-/-) WT ARU-2801 1e12
+
+Targeting Rare Autoimmune
+Diseases For Investor Audiences Only
+
+Introduction We are developing an
+anti-GM-CSF monoclonal antibody (namilumab) for sarcoidosis and potentially other autoimmune rare diseases Sarcoidosis is a systemic, multi-organ disease that results from a dysregulated immune response, with poor treatment options Our goal is to
+significantly improve the treatment of sarcoidosis with a convenient and well-tolerated 1x monthly injection We expect to initiate a Phase 2 clinical trial for pulmonary sarcoidosis in the first half of 2022 For Investor Audiences Only
+
+Baughman, et al. Annals ATS 2016
+Denning, et al. European Respiratory Journal 2013 3. Sauer, et al. Annals ATS 2017; Baughman, et al. Sarcoidosis Vasculitis and Diffuse Lung Diseases 1997 Characterized by the accumulation of granulomas in organs and lymph nodes, believed to be due
+to an exaggerated antigen-driven immune response The resulting inflammation leads to organ dysfunction, irreversible scarring, and overall poor quality of life1 ~200k have sarcoidosis in the US2 Pulmonary sarcoidosis is the most common clinical
+manifestation (>90% of cases) and the most common cause of death3 Declining pulmonary function Breathlessness, fatigue, cough, and pain Sarcoidosis – Rare Autoimmune Disease For Investor Audiences Only
+
+Goal of therapy is to prevent or
+control organ damage, relieve symptoms and improve patients’ quality of life Corticosteroids are first-line therapy, but have significant side effects with long-term dosing Immunosuppressive therapy (methotrexate, azathioprine) and biologics
+(TNF inhibitors) are steroid-sparing 2L and 3L options, but slow onset, poor tolerability, safety risks, inconsistent effectiveness, and/or reimbursement challenges limit their use None are FDA approved for use in sarcoidosis1,2 Inadequate Treatment
+Options for Sarcoidosis Oral Corticosteroids Immunosuppressants (off-label) Biologics (off-label) First Line Second Line Third Line Korsten, et. al Current Opinion in Pulmonary Medicine 2013 Foundation for Sarcoidosis Research: “Sarcoidosis
+Treatment Guidelines” For Investor Audiences Only
+
+GM-CSF is a pro-inflammatory
+cytokine that plays a key role in the promotion and maintenance of sarcoid granuloma inflammation1 GM-CSF activates macrophages and other immune cells, which drive inflammation and tissue damage2 Upregulated GM-CSF forms granulomas in sarcoidosis in
+vitro models3 GM-CSF knockout mice unable to form granulomas in response to tuberculosis and succumbed to the disease4 GM-CSF over-expression in rat lung promotes macrophage granuloma formation, fibrosis, and tissue damage5 GM-CSF is significantly
+elevated in patients’ bronchoalveolar lavage fluid and lung tissue, and correlated with disease severity6 GM-CSF is a Key Pathogenic Cytokine in Sarcoidosis 1. Ishioka S, et al. Sarcoidosis, Vasculitis, and Diffuse Lung Diseases 1996. 2. Itoh
+A, et al. Respirology 1998. 3. Crouser ED, et al. Am J Respir Cell Mol Biol 2017. 4. Szeliga J, Daniel DS, Yang CH, et al. Tuberculosis 2008; Beecher et al. Immunity 2016. 5. Xing Z, et al. J. Clin. Invest 1996. 6. Itoh A, Yamaguchi E, Furuya K, et
+al. Thorax 1993; Crouser ED, et al. Am J Respir Crit Care Med 2009; Itoh A, et al. Respirology 2008 For Investor Audiences Only
+
+Namilumab is a fully human
+anti-GM-CSF monoclonal antibody with broad potential in autoimmune diseases In multiple Phase 2 studies, anti-GM-CSFs have been well-tolerated and have demonstrated the potential to improve symptoms in autoimmune diseases including rheumatoid
+arthritis and giant cell arteritis1 Namilumab has been studied in ~300 patients to date and was demonstrated to be well-tolerated with decreased disease activity compared to placebo in rheumatoid arthritis2 Namilumab has been studied using the least
+frequent subcutaneous dosing in the anti-GM-CSF class (Q4W) Namilumab has the potential to be the preferred option for pulmonary sarcoidosis Kinevant has completed a robust planning campaign for a Phase 2 trial of namilumab in pulmonary sarcoidosis
+expected to be initiated in the first half of 2022 Namilumab Drugs are investigational and subject to regulatory approval. 1. Kiniksa Announces Positive Data from Phase 2 Trial of Mavrilimumab in Giant Cell Arteritis, October 2020. GSK Presents New
+Efficacy and Safety Data of an Anti GM-CSF Antibody in Patients with Rheumatoid Arthritis, October 2018. 2. Taylor P, et al. Arthritis Res Therapy 2019; Tanaka S et al. International J Pharmacol Therapy 2018; Papp KA et al. J Dermatol 2019; Huizinga
+TW et al. Arthritis Res Ther. 2017; Unpublished Ph 2 results ankylosing spondylitis For Investor Audiences Only
+
+Limited Pipeline Competition for
+Pulmonary Sarcoidosis Candidate Sponsor Mechanism of Action Development Phase Phase 1/2 Phase 2 ATYR1923 aTyr NRP2 modulator Completed CMK389 Novartis IL-18 Antibody Initiated Inhaled VIP Relief Immunosuppressant Announced Sources:
+clinicaltrials.gov; aTyr Pharma press release dated September 13, 2021; Relief Therapeutics press release dated September 2, 2021 For Investor Audiences Only
+
+Summary Sarcoidosis is a
+significant unmet clinical need Preclinical studies and patient samples indicate GM-CSF likely contributes to the pathogenesis of sarcoidosis Namilumab has the potential to significantly improve the treatment of sarcoidosis We are building a world
+class team with drug development expertise in respiratory and autoimmune diseases A well-tolerated and effective, steroid-sparing, therapy for sarcoidosis has blockbuster commercial potential1 We plan to initiate a Phase 2 study in pulmonary
+sarcoidosis in first half of 2022 We plan to evaluate indication expansion opportunities for namilumab beyond pulmonary sarcoidosis Add an image Drugs are investigational and subject to regulatory approval. 1. Market research. For Investor Audiences
+Only

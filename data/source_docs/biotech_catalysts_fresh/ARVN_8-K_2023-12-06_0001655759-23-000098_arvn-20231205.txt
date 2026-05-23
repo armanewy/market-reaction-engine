@@ -1,0 +1,218 @@
+arvn-20231205
+0001655759FALSE00016557592023-12-052023-12-05
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 5, 2023
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01 Regulation FD Disclosure.
+
+On December 5, 2023, Arvinas, Inc. (the “Company”) issued a press release with Pfizer Inc. (“Pfizer”) announcing interim data from the Company’s and Pfizer’s Phase 1b clinical trial for vepdegestrant (ARV-471) in combination with palbociclib (IBRANCE®) in patients with a median of four lines of therapy across disease settings with locally advanced or metastatic estrogen receptor (“ER”) positive/human epidermal growth factor 2 (“HER2”) negative (“ER+/HER2-“) breast cancer. These data will be presented in a spotlight presentation at the 2023 San Antonio Breast Cancer Symposium (“SABCS”) on December 7, 2023. In addition, spokespersons of the Company plan to present the information in the presentation attached hereto as Exhibit 99.1 (the “Presentation”) at various meetings beginning on December 6, 2023, including investor and analyst meetings in connection with SABCS.
+
+Copies of the press release and presentation are attached as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01. Other Events.
+
+Vepdegestrant + Palbociclib Phase 1b Trial
+
+On December 5, 2023, the Company issued a press release with Pfizer announcing interim data from the Company’s and Pfizer’s Phase 1b clinical trial for vepdegestrant (ARV-471) in combination with palbociclib (IBRANCE®) in patients with a median of four lines of therapy across disease settings with locally advanced or metastatic ER+/HER2- breast cancer. These data will be presented in a spotlight presentation at SABCS on December 7, 2023.   In addition, spokespersons of the Company plan to present these data in the presentation attached hereto as Exhibit 99.1 (the “Presentation”) at various meetings beginning on December 6, 2023, including investor and analyst meetings in connection with SABCS.
+
+The Company is using its PROteolysis TArgeting Chimera (PROTAC®) Discovery Engine to build an extensive pipeline of protein degradation product candidates to target diseases in areas of unmet need, including oncology (including immuno-oncology), neuroscience and other therapeutic areas. The Company’s clinical development programs include vepdegestrant (ARV-471), ARV-766 and bavdegalutamide (ARV-110). The Company, as part of its overall business strategy, also selectively assesses opportunities for potential collaboration, license, marketing and royalty arrangements, and similar transactions, to advance and accelerate the development and enhance the commercial potential of its product candidates.
+
+Vepdegestrant is an investigational orally bioavailable PROTAC® ER degrader designed to directly harness one of the cell’s natural protein disposal processes to specifically target and degrade the ER for the treatment of patients with ER+/HER2- breast cancer. Vepdegestrant is being co-developed by Arvinas and Pfizer and is currently being evaluated as a monotherapy in the second-line setting in the ongoing Phase 3 VERITAC-2 trial and in the first-line setting in combination with palbociclib in the ongoing study lead-in cohort of the Phase 3 VERITAC-3 trial. Pending additional data and agreement with regulatory authorities, Arvinas and Pfizer plan to broaden development of vepdegestrant to include new combinations with cyclin-dependent kinase (CDK) inhibitors in both the first- and second-line settings. The companies plan to initiate a new second-line Phase 3 trial of vepdegestrant in combination with palbociclib and potentially other CDK4/6 inhibitors, and a new first-line Phase 3 trial of vepdegestrant plus Pfizer’s novel CDK4 inhibitor (PF-07220060), following health authority feedback expected in the second half of 2024 on these potential pivotal trials.
+
+Interim data from the Phase 1b cohort of the first-in-human ARV-471-mBC-101 trial evaluating vepdegestrant in combination with palbociclib (NCT04072952) assessed the safety, tolerability and anti-tumor activity of the combination among 46 patients with heavily pre-treated locally advanced or metastatic ER+/HER2- breast cancer. At the time of data cutoff (June 6, 2023), patients had received a median of four prior therapies across all lines (median of three in the metastatic setting); 87% were previously treated with a cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitor; 80% were previously treated with fulvestrant; and 76% were previously treated with chemotherapy, including 46% in the metastatic setting.
+
+Patients were treated once daily with oral doses of vepdegestrant at 180 mg (n=2), the recommended Phase 3 dose (RP3D) of 200 mg (n=21), 400 mg (n=3) or 500 mg (n=20), plus 125 mg of palbociclib given orally once daily for 21 days, followed by seven days off treatment in 28-day cycles.
+
+Vepdegestrant in combination with palbociclib demonstrated:
+
+•A clinical benefit rate (“CBR”, defined as the rate of confirmed complete response, partial response, or stable disease ≥ 24 weeks) of 63% (95% CI: 47.5–76.8), or 29 of 46 patients; at the RP3D of 200 mg (n=21), the CBR was 67% (95% CI: 43.0 – 85.4), or 14 of 21 patients
+
+◦CBR in patients with mutant ESR1: 72% (95% CI: 52.8-87.3), or 21 of 29 patients; at the RP3D of 200 mg (n=14), the CBR was 79% (95% CI: 49.2 – 95.3), or 11 of 14 patients
+
+◦CBR in patients with wild-type ESR1: 53% (95% CI: 26.6-78.7), or 8 of 15 patients; at the RP3D of 200 mg (n=7), the CBR was 43% (95% CI: 9.9 – 81.6), or 3 of 7 patients
+
+•An objective response rate (ORR) in evaluable patients with measurable disease at baseline (n=31) of 42% (95% CI: 24.5–60.9), or 13 of 31 patients; at the RP3D of 200 mg (n=15), the ORR was 53% (95% CI: 26.6 – 78.7)
+
+◦ORR in patients with mutant ESR1: 47% (95% CI: 23.0-72.2), or 8 of 17 patients
+
+▪ORR at the RP3D of 200 mg (n=10): 60% (95% CI: 26.2 – 87.8)
+
+◦ORR in patients with wild-type ESR1: 42% (95% CI: 15.2-72.3), or 5 of 12 patients
+
+▪ORR at the RP3D of 200 mg (n=5): 40% (95% CI: 26.6 – 78.7)
+
+◦Median duration of response: 10.2 months
+
+•Median progression free survival (PFS) of 11.1 months (95% CI: 8.2 – NE); 22 of 46 patients across all doses had progression events by time of data cutoff
+
+◦PFS in patients with mutant ESR1: 11.0 months (95% CI: 8.2-NE), 13 of 29 patients had progression events by data cutoff
+
+◦PFS in patients with wild-type ESR1: 11.1 months (95% CI: 2.8-NE), 8 of 15 patients had progression events by data cutoff
+
+In an assay of circulating tumor DNA (“ctDNA”), patients with ESR1 mutations (n=22 evaluable for ctDNA analysis after 1 cycle of treatment) demonstrated a -96.8% mean decrease (range: -75.6% to -100%) in ESR1 mutant allele fraction after 1 cycle of treatment.
+
+The safety profile of vepdegestrant plus palbociclib was manageable with palbociclib dose reductions and/or interruptions per protocol which are consistent with those described in the prescribing label. The primary toxicity associated with the vepdegestrant plus palbociclib combination was neutropenia. Grade 4 neutropenia occurred in 8 of 21 patients (38%) treated at the RP3D of vepdegestrant (200 mg) plus palbociclib 125 mg. Grade 3/4 neutropenia occurred in 89% of all patients. There was a higher occurrence of Grade 4 neutropenia, although discontinuation rates of palbociclib and rates of infection were in line with historical palbociclib data.
+
+No cases of febrile neutropenia were reported in any of the 46 patients treated with the combination. Three of 46 patients discontinued palbociclib due to neutropenia including one out of 21 treated with the RP3D of vepdegestrant (200 mg) plus palbociclib 125 mg.
+
+The majority of Grade 4 neutropenia events occurred in the first cycle of treatment and occurrences of Grade 3/4 neutropenia decreased with palbociclib dose reductions as described in the prescribing label. The safety profile was otherwise consistent with the profile of palbociclib and what has been observed in other clinical trials for vepdegestrant.
+
+An increase in palbociclib exposure (46% - 58%) was observed compared to historical pharmacokinetic (PK) data, with similar increases observed with vepdegestrant 200 mg and 500 mg QD.
+
+Additional Abstracts Presented at SABCS
+
+Together, the Company and Pfizer will share five additional abstracts at SABCS, including a vepdegestrant monotherapy VERITAC Phase 2 dose expansion update, a pharmacokinetic/pharmacodynamic (PK/PD) model evaluating the optimal dosing of palbociclib in combination with vepdegestrant, and three additional Trial in Progress abstracts. The VERITAC Phase 2 monotherapy dose expansion of the ARV-471-mBC-101 study analyzed the safety, efficacy, and tolerability of vepdegestrant amongst 35 heavily pre-treated patients with locally advanced or metastatic ER+/HER2- breast cancer. This update includes 12 months of additional follow-up data, and the tolerability and efficacy profile remained largely consistent with previous data disclosures. In addition, in post-hoc analysis, of the eight patients in the Phase 2 VERITAC trial who would meet eligibility criteria for Phase 3 VERITAC-2 trial (no prior fulvestrant, no prior chemotherapy for locally
+
+advanced or metastatic disease), CBR was 62.5% or 5 of 8 patients, PFS was 19 months or four of eight events and the ORR was 29% or two confirmed responses in seven evaluable patients. The Company and Pfizer expect a readout of VERITAC-2 in the second half of 2024. In the PK/PD model simulation, a 100 mg dose of palbociclib in combination with vepdegestrant produced similar incidence of Grade 4 neutropenia and comparable average palbociclib exposure compared to historical reference.
+
+Forward-Looking Statements.
+
+This Current Report on Form 8-K, including the documents furnished as Exhibit 99.1 and 99.2 hereto, contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the potential advantages and therapeutic benefits of vepdegestrant (ARV-471) and the timing of any future clinical trials of vepdegestrant alone or in combination with other therapies, and the timing and preparation of data. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “expect,” “intend,” “may,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in the Company’s forward-looking statements, and you should not place undue reliance on the Company’s forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including but not limited to: the Company’s and Pfizer’s performance of their respective obligations with respect to the Company’s collaboration with Pfizer; whether the Company and Pfizer will be able to successfully conduct and complete clinical development for ARV-471; whether the Company obtains marketing approval for and commercialize ARV-471 on its current timelines or at all; whether the Company’s cash and cash equivalent resources will be sufficient to fund its foreseeable and unforeseeable operating expenses and capital expenditure requirements; and other important factors discussed in the “Risk Factors” section of the Company’s Annual Report on Form 10-K for the year ended December 31, 2022 and subsequent other reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated December 5, 2023
+
+99.2
+
+Company Presentation, dated December 6, 2023
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: December 6, 2023
+
+By:
+
+/s/ Sean Cassidy
+
+Sean Cassidy
+
+Chief Financial Officer

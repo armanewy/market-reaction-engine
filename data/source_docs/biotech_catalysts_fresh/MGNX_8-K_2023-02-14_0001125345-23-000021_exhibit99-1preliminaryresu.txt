@@ -1,0 +1,72 @@
+EX-99.1
+2
+exhibit99-1preliminaryresu.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+MacroGenics Announces Preliminary Clinical Results from Single Arm Study of Lorigerlimab in Patients with Metastatic Castration-Resistant Prostate Cancer to be Presented at ASCO Genitourinary Cancers Symposium
+
+•Twelve of 42 patients (28.6%) in metastatic castration-resistant prostate cancer (mCRPC) cohort achieved ≥ 50% prostate-specific antigen (PSA) reduction (PSA50), including 9 (21.4%) who achieved ≥ 90% PSA reduction (PSA90)
+
+•Nine of 35 patients (25.7%) with measurable mCRPC achieved confirmed partial responses
+
+•Manageable overall safety profile observed across multiple expansion cohorts
+
+•Company plans to initiate Phase 2 study in mCRPC in 2023
+
+ROCKVILLE, MD, February 13, 2023 (GLOBE NEWSWIRE) -- MacroGenics, Inc. (NASDAQ: MGNX), a biopharmaceutical company focused on developing and commercializing innovative monoclonal antibody-based therapeutics for the treatment of cancer, today announced preliminary safety and anti-tumor activity data from the dose expansion phase of the Company’s ongoing Phase 1 clinical trial of lorigerlimab, a bispecific, tetravalent PD-1 × CTLA-4 DART® molecule. This investigational molecule was designed to block PD-1 with enhanced CTLA-4 blockade on dual PD-1/CTLA-4-expressing cells, such as tumor-infiltrating lymphocytes (TILs), while maintaining maximal PD-1 blockade on all PD-1-expressing cells. The preliminary data is being presented in a poster titled “Lorigerlimab, a Bispecific PD-1 × CTLA-4 DART Molecule in Patients with Metastatic Castration-Resistant Prostate Cancer: A Phase 1 Expansion Cohort” (Poster #155) at the American Society of Clinical Oncology Genitourinary (ASCO-GU) Cancers Symposium taking place February 16-18, 2023, in San Francisco, CA.
+
+Cohort Expansion Results Update
+
+The ASCO-GU abstract included data as of September 10, 2022; updated data as of a December 12, 2022 cut-off are included below and will be presented at ASCO-GU
+
+As of the December 12, 2022 data cut-off, 118 patients with mCRPC, melanoma, non-small cell lung cancer or microsatellite-stable colorectal cancer were enrolled in the cohort expansion phase of the lorigerlimab Phase 1 study at the dose of 6.0 mg/kg, administered intravenously every three weeks (Q3W). Confirmed objective responses were observed across the histology-specific cohorts; preliminary efficacy results for mCRPC are presented in the poster and below.
+
+Preliminary Safety Results
+
+The safety analysis is based on 127 patients who received lorigerlimab at a dose of 6 mg/kg Q3W, including 118 enrolled in the four dose expansion cohorts plus nine patients from dose escalation. Median exposure was 14.4 weeks (range: 1.9 - 100.1 weeks) with a median of four infusions administered per patient. Twenty-four patients remained on lorigerlimab as of the December 12, 2022 data cut-off; 103 discontinued for the following reasons: progressive
+
+disease (PD) (n=66), adverse events (AE) (n=31), patient/physician decision (n=5), or death due to PD (n=1).
+
+The results demonstrated a manageable overall safety profile. Treatment-related AEs (TRAEs) occurred in 86.6% of patients, with the most common among them (≥15%) being fatigue, rash, pruritus, hypothyroidism, and pyrexia. Rates of grade ≥3 TRAEs and immune-related AEs were 34.6% and 7.9%, respectively. AEs resulted in treatment discontinuation in 24.4% of patients. There were no fatal AEs related to lorigerlimab.
+
+Preliminary Anti-tumor Activity in mCRPC Cohort
+
+As of the December 12, 2022 data cut-off, 42 patients had been enrolled in the mCRPC expansion cohort. Patients had previously received a median of two prior therapies (range: 1 – 9) for advanced disease, with 35 patients (83.3%) having received docetaxel and 34 patients (81.0%) having received androgen receptor antagonist therapy. The median exposure to lorigerlimab was 19.2 weeks (range: 3.3 - 55.1 weeks), with a median of five infusions administered per patient.
+
+A total of 35 patients with mCRPC had measurable soft tissue disease per RECIST v1.1 at study entry. Nine of the 35 patients (25.7%) achieved confirmed partial responses (cPR). The median duration of response for these nine patients was 4.6 months (range: 2.8 – 8.6+ months), with four patients remaining on lorigerlimab as of data cut-off. Among the other five patients who had achieved cPR, four discontinued due to unrelated adverse events, and one patient discontinued due to physician decision.
+
+Reductions in PSA levels of ≥ 50% were observed in 12 of 42 patients (28.6%), and 9 of the 12 maintained PSA50 response ≥ 3 months. Nine of 42 patients (21.4%), including the nine who achieved cPR, had reductions in their PSA levels of ≥ 90% as of the data cut-off.
+
+“To date, checkpoint inhibition has not fared well in the treatment of patients with late-stage mCRPC. Previously, anti-CTLA-4 therapy, whether alone or in combination with an anti-PD-1 agent, resulted in increased risk for immune-related toxicity with very modest anti-tumor activity,” said Scott Koenig, M.D., Ph.D., President and CEO of MacroGenics. “We designed lorigerlimab to have preferential blockade on dual PD-1/CTLA-4-expressing cells such as TILs, which are most abundant in the tumor microenvironment. As part of this study, biomarker analyses indicated that lorigerlimab was shown to induce T-cell activation as evidenced by an increased frequency of circulating Ki67+ and ICOS+ T cells. We believe we are seeing the benefit of lorigerlimab’s design and are very encouraged by this latest data set from our ongoing Phase 1 study. Looking forward, we plan to initiate a Phase 2 study of lorigerlimab in patients with mCRPC later this year and anticipate providing an update on the proposed study later this quarter.”
+
+ASCO-GU Poster Presentation
+
+MacroGenics’ lorigerlimab poster presentation will be available for on-demand viewing on the ASCO-GU website and on the “Events & Presentations” page on MacroGenics’ website at http://ir.macrogenics.com/events.cfm.
+
+About Lorigerlimab
+
+Lorigerlimab (previously known as MGD019) is an investigational, bispecific IgG4-based, Fc-bearing DART molecule that was designed to enhance blockade on PD-1 and CTLA-4 dual-expressing, tumor-infiltrating lymphocytes, while maintaining maximal PD-1 blockade on all circulating PD-1-expressing cells. In addition to the study described above and presented in the poster, MacroGenics is also evaluating the activity of lorigerlimab in combination with vobramitamab duocarmazine (previously known as MGC018, an investigational B7-H3-directed antibody-drug conjugate) in a study in patients with advanced solid tumors.
+
+About MacroGenics, Inc.
+
+MacroGenics (the Company) is a biopharmaceutical company focused on developing and commercializing innovative monoclonal antibody-based therapeutics for the treatment of cancer. The Company generates its pipeline of product candidates primarily from its proprietary suite of next-generation antibody-based technology platforms, which have applicability across broad therapeutic domains. The combination of MacroGenics' technology platforms and protein engineering expertise has allowed the Company to generate promising product candidates and enter into several strategic collaborations with global pharmaceutical and biotechnology companies. For more information, please see the Company's website at www.macrogenics.com. MacroGenics and the MacroGenics logo are trademarks or registered trademarks of MacroGenics, Inc.
+
+Cautionary Note on Forward-Looking Statements
+
+Any statements in this press release about future expectations, plans and prospects for MacroGenics (“Company”), including statements about the Company’s strategy, future operations, clinical development of the Company’s therapeutic candidates, including initiation and enrollment in clinical trials, expected timing of results from clinical trials, discussions with regulatory agencies, commercial prospects of or product revenues from MARGENZA and the Company’s product candidates, if approved, milestone or opt-in payments from the Company’s collaborators, the Company’s anticipated milestones and future expectations and plans and prospects for the Company and other statements containing the words “subject to”, "believe", “anticipate”, “plan”, “expect”, “intend”, “estimate”, “potential,” “project”, “may”, “will”, “should”, “would”, “could”, “can”, the negatives thereof, variations thereon and similar expressions, or by discussions of strategy constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: risks that MGC018, MARGENZA or any other product candidate’s revenue, expenses and costs may not be as expected, risks relating to MGC018, MARGENZA or any other product candidate’s market acceptance, competition, reimbursement and regulatory actions, the uncertainties inherent in the initiation and enrollment of future clinical trials, the availability of financing to fund the development of our product candidates, expectations of expanding ongoing clinical trials, availability and timing of data from ongoing clinical trials, expectations for the timing and steps required in the regulatory review process, expectations for regulatory approvals, expectations of future milestone payments, the impact of competitive products, our ability to enter into agreements with strategic partners and other matters that could affect the availability or commercial potential of the Company's product candidates, business, or economic or political disruptions due to catastrophes or other events, including natural disasters, terrorist attacks, civil unrest and actual or threatened armed conflict, or public health crises such as the novel coronavirus (referred to as COVID-19 pandemic), and other risks described in the Company's filings with the Securities and Exchange Commission. In addition, the forward-looking statements included in
+
+this press release represent the Company's views only as of the date hereof. The Company anticipates that subsequent events and developments will cause the Company's views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so, except as may be required by law. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to the date hereof.
+
+###
+
+CONTACT:
+
+Jim Karrels, Senior Vice President, CFO
+
+1-301-251-5172, info@macrogenics.com
+
+MacroGenics, Inc.

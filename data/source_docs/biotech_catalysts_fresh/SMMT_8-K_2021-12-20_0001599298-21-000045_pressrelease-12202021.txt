@@ -1,0 +1,160 @@
+EX-99.1
+2
+pressrelease-12202021.htm
+EX-99.1
+
+Document
+
+Summit Therapeutics Announces Topline Results for Phase III Ri-CoDIFy Study for C. Difficile Infection
+
+Cambridge, MA, December 20, 2021 - Summit Therapeutics Inc. (NASDAQ: SMMT) (“Summit” or the “Company”) today announced topline results for the Phase III Ri-CoDIFy study evaluating its investigational drug, ridinilazole, for the treatment of and Sustained Clinical Response (SCR) for patients suffering from C. difficile infection (C. diff. infection or CDI). The study showed that ridinilazole resulted in a higher observed SCR rate than vancomycin but did not meet the study’s primary endpoint for superiority. SCR is defined as Clinical Response of the treated episode of CDI and no recurrence of the infection through 30 days after the end of treatment.
+
+Patients treated with ridinilazole, a precision antibiotic, experienced substantially less recurrence of C. diff. infection as compared to patients administered vancomycin (nominal p-value = 0.0002). Recurrence, for purposes of the Ri-CoDIFy study, is defined as a new episode of diarrhea (≥3 unformed bowel movements) in a 1-day period with a positive C. difficile test that requires CDI antimicrobial treatment in subjects who achieved Clinical Response. Particularly promising results were identified in patients who were considered high-risk, including those considered immunocompromised or with a history of COVID-19 infection.
+
+“Reduced recurrence rates are very consistent with our Phase II data and the mechanism of action of this drug,” said Dr. Fong Clow, Head of Biometrics at Summit. “Although Ri-CoDIFy did not meet the primary endpoint for the design of this study, we did see a meaningful reduction in recurrence in the ridinilazole arm, which we believe is tied to the precision properties of ridinilazole and its associated relative sparing of the gut microbiome. We believe this is a viable measurement of the effect of this drug and has biological significance as to the potential value of the drug. It is essential that we consider the value of recurrence, the impact on the microbiome, and the measurement of this biological outcome when considering the value of a drug like ridinilazole and its potential benefits to the patient and human health.”
+
+“We believe this study was indicative of worthwhile work, as the knowledge that we have acquired as a team over the past 18 months is priceless,” said Robert W. Duggan, Chairman and Chief Executive Officer of Summit. “The differences between episodes of recurrence experienced by patients in the two arms of this study may be indicative as to the significance of precision medicinal therapies that spare the microbiome from damage. A balanced microbiome is critical to human health and protecting it must be a focus going forward for medicinal therapies whose desire is to maximize patient safety and optimize human health: I believe the impact on a balanced microbiome is a critical component of the evaluation of any drug and will become an essential part of evaluating drug safety and efficacy as we move forward in time. Dysbiosis of the microbiome can lead to recurrence when treating CDI, as we believe the differences in recurrence rates between the two arms of the study indicate, but also may increase the risk of other immune-mediated and infectious diseases, such as COVID-19.1 The opportunity for medicinal therapies to leverage the microbiome to improve the quality of life from newborns to the last days of life is an opportunity worth taking seriously. Team Summit fully anticipates playing a meaningful role in this opportunity to improve the quality of human life.”
+
+“I am excited to continue to learn more about ridinilazole’s potential merits for its treatment of CDI patients,” added Dr. Danelle James, Head of Clinical Development and Medical Affairs at Summit. “The recurrence rates, a clinically meaningful outcome, with ridinilazole was substantially lower than vancomycin – a likely outcome of ridinilazole’s highly-selective nature. We believe that high-risk patient populations – those considered immunocompromised and those with a history of COVID-19 – are more likely to be harmed by an
+
+1 Giovanni, Schneider, Calder, and Fauci. Refocusing Human Microbiota Research in Infectious and Immune-Mediated Diseases: Advancing to the Next Stage. The Journal of Infectious Diseases, Vol. 224, Issue 1: 5-8, Jul 2021.
+
+1
+
+increased level of dysbiosis of the gut microbiome, and dysbiosis has a greater impact to their overall health. Innovating the way in which we treat C. difficile infection via new mechanism, precision antibiotics could add value to not only patients suffering from CDI by reducing disease recurrence, but also help in the fight against antimicrobial resistance, a paradigm that is foundational for antibiotic drug stewardship.”
+
+“We would like to extend our true gratitude to all of those who supported our efforts in the discovery, research, and clinical development of ridinilazole, helping show the potential value of ridinilazole to patients, providers, and the healthcare ecosystem,” added Dr. Maky Zanganeh, Chief Operating Officer, and a member of Summit’s Board of Directors. “The patients who participated in our clinical trials, along with their families and caregivers, are an integral part of the journey towards achieving our goal of improving overall human health. To our study investigators, we are truly appreciative of your trust in Team Summit and ridinilazole, as well as your unparalleled care of the patients in our trial and your drive to resolve serious unmet medical needs. Finally, we would like to extend a sincere appreciation to those organizations, including BARDA, who continue to provide invaluable support in developing ridinilazole.”
+
+Full results from the Ri-CoDIFy study will be presented at upcoming medical conferences and published in a peer-reviewed medical journal. We will continue to evaluate the underlying data and perform additional analyses, including analyses specific to the microbiome, in order to discuss our complete package with the regulatory agencies. The use of ridinilazole is not approved and its safety and efficacy have not been evaluated by regulatory authorities, including the FDA.
+
+Update Regarding Corporate Funding Initiatives
+
+The Company is also announcing that it anticipates commencing a rights offering to be available to all holders of record of the Company’s common stock in January 2022. It is anticipated that the record date for the distribution of rights to all holders of Common Stock will be in mid-January, at a date to be announced, with share price, gross proceeds, timing, and other terms also anticipated to be announced in January. Mr. Duggan, who is the beneficial shareholder of approximately 71% of our outstanding common stock prior to this rights offering in addition to his executive leadership responsibilities, has indicated that he intends to participate in the rights offering and subscribe for the full amount of his basic subscription rights, but has not made any formal binding commitment to do so.
+
+The Company intends to register the rights offering with the Securities and Exchange Commission (the “SEC”) by filing a prospectus supplement to the Company’s effective shelf registration statement on Form S-3. When available, a copy of the prospectus supplement may be obtained at the website maintained by the SEC at www.sec.gov.
+
+This press release does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor will there be any sale of these securities in any state or other jurisdiction in which such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction. The rights offering will be made pursuant to the Company’s shelf registration statement on Form S-3, which became effective on October 15, 2020, and a prospectus supplement containing the detailed terms of the rights offering to be filed with the SEC. Any offer will be made only by means of a prospectus forming part of the registration statement.
+
+2
+
+About the Ri-CoDIFy Study
+
+The Ri-CoDIFy Phase III trial, combining Ri-CoDIFy 1 (ClinicalTrials.gov NCT: 03595553) and Ri-CoDIFy 2 (ClinicalTrials.gov NCT: 03595566), is a multi-center, international, double-blinded active-controlled randomized clinical trial comparing ridinilazole, an investigative drug, against vancomycin that randomized 759 patients with C. diff. infection. Patients were randomized 1:1 to receive either ridinilazole or vancomycin. Ridinilazole was administered twice daily for ten days; vancomycin was administered four times daily for ten days. Patients receiving ridinilazole were provided with two placebo pills per day to maintain consistency of administration between the two arms. For inclusion within the study, each patient was required to have a positive C. difficile free toxin test and require antimicrobial treatment for CDI.
+
+The Ri-CoDIFy Phase III study was funded in part with federal funds from the Biomedical Advanced Research and Development Authority (BARDA), part of the Office of the Assistant Secretary for Preparedness and Response at the U.S. Department of Health and Human Services, under contract number HHSO100201700014C.
+
+About C. difficile Infection
+
+Clostridioides difficile, or C. difficile, infection (CDI) is a bacterial infection of the colon that produces toxins causing inflammation of the colon, severe watery diarrhea, painful abdominal cramping, nausea, fever, and dehydration. CDI can also result in more serious disease complications, including bowel perforation, sepsis, and death. CDI is a contagious infectious disease that represents a serious healthcare issue in hospitals, long- term care facilities, and the wider community. Summit estimates that there are approximately 500,000 cases of CDI each year across the United States with acute care costs exceeding $5.4 billion in the US based on a meta-analysis published in the Journal of Global Health, June 2019. CDI is considered an urgent threat by the United States Centers for Disease Control and Prevention (CDC).
+
+About Summit Therapeutics
+
+The overriding objective of Summit Therapeutics is to create value for patients, hospital caregivers, and community-based healthcare providers, as well as healthcare payers around the world. We seek to create value by developing drugs with high therapeutic efficacy - curing the cause or effect of the patient's condition with minimal or zero disease recurrence or antimicrobial resistance, for the longest extent possible - and minimizing the trauma caused to the patient and healthcare ecosystem by minimizing serious side effects, disease recurrence, and inaccessibility to our treatments as a result of financial or other barriers. Summit Therapeutics, empowered by its Discuva Platform, the Company’s innovative antibiotic discovery engine, and supported by BARDA and CARB-X funding, intends to be the leader in patient-friendly and paradigm-shifting treatments for infectious diseases and other significant unmet medical needs while being an ally to physicians. Our new mechanism pipeline product candidates are designed with the goal to become the patient-friendly, new-era standard of care, by working in harmony with the human microbiome to treat prospective patients suffering from infectious diseases, initially focusing on Clostridioides difficile infection (CDI). Currently, Summit’s lead product candidate, ridinilazole, is a novel, first-in-class drug engaged in a global Phase III trial program versus vancomycin, for use as first-line therapy for the treatment of initial and recurrent Clostridioides difficile infection, and to show superiority in sustained clinical response. Commercialization of ridinilazole is subject to regulatory approvals. SMT-738, the second candidate within Summit’s portfolio, is currently in the IND-enabling phase for the treatment of multidrug resistant infections, specifically those caused by carbapenem-resistant Enterobacteriaceae (CRE).
+
+For more information, please visit https://www.summittxinc.com and follow us on Twitter @summitplc. For more information on the Company’s Discuva Platform, please visit https://www.summittxinc.com/our- science/discuva-platform.
+
+3
+
+Contact Summit Investor Relations:
+
+Dave Gancarz
+
+Head of Stakeholder Relations & Corporate Strategy david.gancarz@summitplc.com
+
+General Inquiries:
+
+investors@summitplc.com
+
+Summit Forward-looking Statements
+
+Any statements in this press release about the Company’s future expectations, plans and prospects, including but not limited to, statements about the clinical and preclinical development of the Company’s product candidates, the therapeutic potential of the Company’s product candidates, the potential commercialization of the Company’s product candidates, the timing of initiation, completion and availability of data from clinical trials, the potential submission of applications for marketing approvals, the impact of the COVID-19 pandemic on the Company’s operations and clinical trials and other statements containing the words "anticipate," "believe," "continue," "could," "estimate," "expect," "intend," "may," "plan," "potential," "predict," "project," "should," "target," "would," and similar expressions, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: the uncertainties inherent in the initiation of future clinical trials, availability and timing of data from ongoing and future clinical trials and the results of such trials, global public health crises, including the coronavirus COVID-19 outbreak, that may affect timing and status of our clinical trials and operations, whether preliminary results from a clinical trial will be predictive of the final results of that trial or whether results of early clinical trials or preclinical studies will be indicative of the results of later clinical trials, expectations for regulatory approvals, laws and regulations affecting government contracts and funding awards, availability of funding sufficient for the Company’s foreseeable and unforeseeable operating expenses and capital expenditure requirements and other factors discussed in the "Risk Factors" section of filings that the Company makes with the Securities and Exchange Commission. Any change to our ongoing trials could cause delays, affect our future expenses, and add uncertainty to our commercialization efforts, as well as to affect the likelihood of the successful completion of clinical development of ridinilazole. Accordingly, readers should not place undue reliance on forward-looking statements or information. In addition, any forward-looking statements included in this press release represent the Company’s views only as of the date of this release and should not be relied upon as representing the Company’s views as of any subsequent date. The Company specifically disclaims any obligation to update any forward-looking statements included in this press release.
+
+4
+
+Appendix: Glossary of Critical Terms Contained Herein & Other Summit Press Releases
+
+Antibiotic resistance genes – Genes known to be involved in bacterial resistance; such genes may include for example beta-lactamases which can inactivate various beta-lactam antibiotics.
+
+Bile acids – a collection of steroid-based gut metabolites, the balance of the amount of and types of bile acids in the gut microbiome are believed to play an important role in the development of or prevention of an initial and potential recurrent instance of C. difficile infection.i
+
+Bloodstream infections – an infectious disease defined by the presence of viable bacterial or fungal microorganisms in the bloodstream that elicit or have elicited an inflammatory response.ii
+
+Carbapenem-Resistant Enterobacteriaceae (CRE) – Enterobacteriaceae that are resistant to carbapenems, a type of antibiotic used to treat some of the most resistant forms of gram-negative bacteria. This resistance means that there are fewer options available to treat infections caused by these bacteria, as CRE do not respond to commonly used antibiotics. In many cases, including infections such as urinary tract infections caused by CRE germs, more complex treatments are required. Instead of taking oral antibiotics at home, patients with these infections might require hospitalization and intravenous (IV) antibiotics. Occasionally CRE are resistant to all available antibiotics. CRE are a threat to public health.iii
+
+Clostridia – a class of bacteria that exist within a healthy gut microbiome that likely plays a largely crucial role in microbiome homeostasis by interacting with the other resident microbe populations and providing specific and essential functions to the overall microbiome. While most groups of Clostridia have a commensal, or co- existing, relationship with the rest of the gut microbiome, some Clostridia can be pathogenic, when larger concentrations of the bacteria exist, such as Clostridioides difficile bacteria.iv
+
+Clostridioides difficile (C. difficile or C. diff.) – a germ (bacterium) that can cause severe diarrhea and colitis (an inflammation of the colon). C. difficile can live naturally in the intestines (gut) of humans and not cause any problem. Sometimes changes in the gut microbiome lead the bacteria to grow and produce toxins from which illness can develop.v
+
+C. diff. Infection (CDI) – a bacterial infection of the colon that produces toxins causing inflammation of the colon and severe watery diarrhea, very painful and persistent abdominal cramping, nausea, fever, and dehydration. CDI can also result in more serious disease complications, including bowel perforation (a tear in the gastrointestinal tract), sepsis, and death. Most cases of C. diff. infection occur while a person is taking antibiotics or not long after a person has finished taking antibiotics. CDI is an insidious and debilitating disease that necessitates patient isolation because of its contagious nature, making it able to be passed from one person to another either in a hospital or long-term care facility setting or in the community.vi
+
+DDS-04 – a series of new mechanism antibiotics targeting Enterobacteriaceae. DDS-04 acts via LolCDE, an essential bacterial complex responsible for the transport of lipoproteins from the inner to outer membrane in gram-negative bacteria. Because this complex has not been a previous target of existing antimicrobials, bacterial resistance does not yet exist to this targeted approach, potentially allowing for the treatment of highly- resistant Enterobacteriaceae-caused infections. Some of these infections, particularly in a subset of CRE- caused infections, do not have effective treatments through currently available antibiotics.vii
+
+5
+
+Discuva Platform – Summit Therapeutics’ proprietary platform that enables the identification of novel antimicrobials to expand Summit’s pipeline of investigational drugs. The Discuva Platform focuses on identifying new antibiotics against bacteria where increasing resistance has limited treatment via existing antibiotics currently on the market.viii
+
+Enterobacteriaceae – a large family of different types of bacteria (germs) that commonly cause infections both in healthcare settings, such as hospitals and long-term care facilities, and in communities. Examples of germs in the Enterobacteriaceae family include Escherichia coli (commonly known as E. coli) and Klebsiella pneumoniae. Enterobacteriaceae are frequent carriers of resistance genes to many of the currently available antibiotics used to treat bacterial infections. Because they are bacteria, Enterobacteriaceae can be passed from person to person.ix
+
+Escherichia coli (E. coli) – a type of Enterobacteriaceae found in the environment, foods, and intestines of people and animals. E. coli are a large and diverse group of bacteria. Although most strains of E. coli are harmless, others can make a person sick. Some kinds of E. coli can cause diarrhea, while others cause urinary tract infections, bloodstream infections, respiratory illness and pneumonia, and other illnesses.x
+
+Gastrointestinal tract – a series of hollow organs joined in a long, twisting tube from the mouth to the anus. These organs also include the esophagus, stomach, small intestine, and large intestine.xi
+
+Gut microbiome – within the human gastrointestinal tract, the gut microbiome is a collection of microbiota, consisting of trillions of microorganisms that inhabit the gut. The gut microbiota is considered an important partner to human cell systems, interacting extensively with other organs in the body to influence a wide range of functions from digestion to immunity. The balance of the different types of cells and microorganisms within the microbiome is considered to be important in the microbiome's ability to properly play its role within the human body. Disruption in the balance of microorganisms within the gut microbiome (known as dysbiosis) is believed to impact the gut microbiome's role in keeping a person healthy and free of certain conditions or diseases.xii xiii
+
+Gut microbiota – the trillions of microorganisms, including symbiotic and pathogenic microorganisms, that inhabit the gut. Examples of these microorganisms include bacteria, fungi, viruses, protists, and archaea.
+
+Gut resistome – within the human gastrointestinal tract, the diversity and dynamics of the antibiotic resistance genes that are harbored by the gut microbiota. Examples of the gut resistome include genes associated with resistance to carbapenem antibiotics.xiv
+
+Hospital-acquired pneumonia (HAP) – pneumonia that occurs 48 hours or more after a patient has been admitted to a hospital and was not present and incubating at the time of admission. Ventilator-associated pneumonia (VAP) is a significant sub-set of HAP, often occurring in intensive care units (ICUs) with a patient on a ventilator. Common pathogens of HAP and VAP include Enterobacteriaceae and Pseudomonas species. Due to the presence of the bacteria in a hospital, these bacteria may be resistant to different antibiotics, potentially causing the resulting infection to be more difficult to treat.xv
+
+6
+
+Klebsiella pneumoniae – a type of Enterobacteriaceae that can cause different types of healthcare- associated infections, including pneumonia, bloodstream infections, wound or surgical site infections, and meningitis. Increasingly, Klebsiella bacteria have developed resistance to antibiotics, most recently to the class of antibiotics known as carbapenems. Klebsiella bacteria are normally found in the human intestines (where they do not cause disease). In healthcare settings, Klebsiella infections commonly occur among sick patients who are receiving treatment for other conditions. Patients whose care requires devices like ventilators (breathing machines) or intravenous (vein) catheters, and patients who are receiving long courses of certain antibiotics are most at risk for Klebsiella infections. Healthy people typically do not develop Klebsiella infections.xvi
+
+Sepsis – the body’s extreme response to an infection and a life-threatening medical emergency. Sepsis occurs when an existing infection triggers a chain reaction throughout a person’s body via the bloodstream. Without timely treatment, sepsis can rapidly lead to tissue damage, multi-organ failure, and death. Almost any type of infection can lead to sepsis. Infections that lead to sepsis most often start in the lung, urinary tract, skin, or gastrointestinal tract. Sepsis is a condition and is not contagious; however, the underlying cause of the infection (e.g., bacteria) can be spread from person to person. Bacterial infections cause most cases of sepsis.xvii
+
+Shotgun metagenomic analysis – shotgun metagenomic sequencing sequences all genomic DNA present in a sample. This allows a more accurate taxonomic annotation of the microbiota compared to other techniques such as 16S rRNA amplicon sequencing as well as antibiotic resistance gene profiling and metabolic function profiling.
+
+Urinary tract infections (UTI) – common infections that happen when bacteria, often from the skin or rectum, enter the urethra, and infect the urinary tract. The infections can affect several parts of the urinary tract, but the most common type is a bladder infection. Kidney infections are another type of UTI and can be more serious than bladder infections. UTIs are usually caused by bacteria and are treated with antibiotics. People who have had multiple UTIs requiring multiple courses of antibiotics are at increased risk of developing antibiotic-resistant infections that can become increasing complex to treat.xviii
+
+Vancomycin – an antibiotic that is used to treat CDI
+
+7
+
+i Qian, X, et. al. Ridinilazole, a narrow spectrum antibiotic for treatment of Clostridioides difficile infection, enhances preservation of microbiota-dependent bile acids. Am J Physiol Gasterintest Liver Physiol 319: G227-G237, 2020.
+
+ii Viscoli C. Bloodstream Infections: The peak of the iceberg. Virulence. 7(3):248-251, 2016.
+
+iii United States Centers for Disease Control and Prevention. https://www.cdc.gov/hai/organisms/cre/index.html. Accessed February 2021.
+
+iv Lopetuso, L.R., et al. Commensal Clostridia: leading players in the maintenance of gut homeostasis. Gut Pathog 5, 23, 2013.
+
+v Virginia Department of Health. https://www.vdh.virginia.gov/epidemiology/epidemiology-fact-sheets/clostridiodes- difficile/. Accessed February 2021.
+
+vi United States Centers for Disease Control and Prevention. https://www.cdc.gov/cdiff/what-is.html. Accessed February 2021.
+
+vii Summit Therapeutics, Inc. https://www.summittxinc.com/our-programmes/enterobacteriaceae/. Accessed February 2021.
+
+viii Summit Therapeutics, Inc. https://www.summittxinc.com/our-science/discuva-platform/. Accessed February 2021.
+
+ix United States Centers for Disease Control and Prevention. https://www.cdc.gov/hai/organisms/ESBL.html. Accessed February 2021.
+
+x United States Centers for Disease Control and Prevention. https://www.cdc.gov/ecoli/index.html. Accessed February 2021.
+
+xi US National Institute of Health, National Institute of Diabetes and Digestive and Kidney Diseases. https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works. Accessed February 2021.
+
+xii Cani PD. Human gut microbiome: hopes, threats and promises. British Medical Journal (BMJ) Gut 67:1716-1725, 2018.
+
+xiii Qian, X, et. al. Ridinilazole, a narrow spectrum antibiotic for treatment of Clostridioides difficile infection, enhances preservation of microbiota-dependent bile acids. Am J Physiol Gasterintest Liver Physiol 319: G227-G237, 2020.
+
+xiv van Schaik, W. The human gut resistome. Philos Trans R Soc Lond B Biol Sci. 370(1670):20140087, 2015.
+
+xv Shebl E, Gulick PG. Nosocomial Pneumonia. StatPearls. Updated 2020 Jul 21.
+
+xvi United States Centers for Disease Control and Prevention. https://www.cdc.gov/hai/organisms/klebsiella/klebsiella.html. Accessed February 2021.
+
+xvii United States Centers for Disease Control and Prevention. https://www.cdc.gov/sepsis/index.html. Accessed February 2021.
+
+xviii United States Centers for Disease Control and Prevention. https://www.cdc.gov/antibiotic-use/community/for- patients/common-illnesses/uti.html. Accessed February 2021.
+
+8

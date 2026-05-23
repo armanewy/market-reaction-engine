@@ -1,0 +1,166 @@
+arvn-20260511
+0001655759FALSE00016557592026-05-112026-05-11
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 11, 2026
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 1.01    Entry into a Material Definitive Agreement.
+
+Rigel License Agreement
+
+On May 11, 2026, Arvinas, Inc., a Delaware corporation (“Arvinas”), and Arvinas’ direct subsidiaries, Arvinas Operations, Inc. (“Operations”) and Arvinas Estrogen Receptor, Inc. (“Arvinas ER,” together with Arvinas and Operations, the “Company”), together with Pfizer Inc. (“Pfizer”), entered into a license agreement (the “License Agreement”) with Rigel Pharmaceuticals, Inc. (“Rigel”). Pursuant to the License Agreement, the Company and Pfizer will grant to Rigel a license for the exclusive global development, manufacturing and commercialization rights for VEPPANU™ (vepdegestrant), an orally bioavailable PROteolysis TArgeting Chimera (PROTAC), estrogen receptor degrader approved in the U.S. for use as a monotherapy in the treatment of adults with estrogen receptor–positive (ER+), human epidermal growth factor receptor 2–negative (HER2-), ESR1-mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test, with disease progression following at least one line of endocrine therapy.
+
+Under the terms of the License Agreement, Rigel will be responsible for the launch and commercialization of VEPPANU in the U.S. and will own global rights with the ability to sublicense to potential partners to further develop and commercialize VEPPANU outside of the U.S. The Company and Pfizer will be entitled to a percentage of sublicensing revenue generated outside the U.S. The Company and Pfizer will continue to be responsible for current ongoing development activities and Rigel will contribute up to $40.0 million towards these activities.
+
+Under the terms of and as consideration for entering into the License Agreement, Rigel will pay to the Company and Pfizer a one-time, upfront payment in the aggregate amount of $70.0 million. In addition, the Company and Pfizer will receive an additional payment in the amount of $15.0 million from Rigel upon successful completion of select development and manufacturing transition activities. The Company and Pfizer will also be eligible to receive up to an additional $320.0 million as contingent payments based on future development, regulatory and commercial milestones being met, as well as tiered royalties in the mid-teens to mid-20s based upon worldwide net sales of VEPPANU, subject to reduction under certain circumstances as provided in the License Agreement. All payments under the License Agreement will be distributed evenly between the Company and Pfizer. The milestones and royalty payments under the License Agreement replace any unearned future amounts that may be owed by Pfizer to the Company under the collaboration agreement, dated as of July 21, 2021, by and between the Company, certain of the Company’s subsidiaries and Pfizer.
+
+Closing of the License Agreement transaction is subject to customary closing conditions, including the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.
+
+The License Agreement will become effective upon satisfaction of such closing conditions and will expire on a country-by-country and licensed product-by-licensed product basis until the expiration of the applicable royalty term. The License Agreement contains customary termination provisions, including that Rigel may terminate the License Agreement upon the material breach of the Company and/or Pfizer and the Company and Pfizer may terminate the License Agreement upon the material breach of Rigel. Additionally, Rigel may terminate the License Agreement for convenience subject to a written notice period, following a pre-defined period of time.
+
+The foregoing summary of the License Agreement is not complete and is qualified in its entirety by reference to the full text of the License Agreement, a copy of which the Company expects to file with the U.S. Securities and Exchange Commission as an exhibit to its Quarterly Report on Form 10-Q for the quarter ending June 30, 2026.
+
+Item 7.01    Regulation FD Disclosure.
+
+On May 12, 2026, the Company issued a press release in connection with its entry into the License Agreement. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+Item 9.01 Financial Statements and Exhibits.
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated May 12, 2026
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the closing of the transaction with Rigel, the receipt of transition, development, regulatory, and commercial payments under the License Agreement and the future commercialization of  VEPPANU, the receipt of any payments related to sublicensing revenue generated outside the U.S., and any arrangements regarding ongoing development activities. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements made by the Company as a result of various risks and uncertainties, including but not limited to: the satisfaction or waiver of the conditions to the closing of the License Agreement, each party’s performance of its obligations under the License Agreement, whether Rigel will successfully commercialize VEPPANU on the current timeline expectations or at all and other important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements contained in this filing reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: May 12, 2026
+
+By:
+
+/s/ Jared Freedberg
+
+Jared Freedberg
+
+General Counsel

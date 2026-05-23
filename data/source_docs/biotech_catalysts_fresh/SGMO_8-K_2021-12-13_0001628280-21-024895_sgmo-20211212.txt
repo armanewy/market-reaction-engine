@@ -1,0 +1,238 @@
+sgmo-20211212
+December 12, 20210001001233false00010012332021-12-122021-12-12
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 12, 2021
+
+ 
+
+ SANGAMO THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+  
+
+Delaware
+
+ 
+
+000-30171
+
+ 
+
+68-0359556
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+ID Number)
+
+7000 Marina Blvd., Brisbane, California 94005
+
+(Address of principal executive offices) (Zip Code)
+
+(510) 970-6000
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report) 
+
+ 
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share
+
+ 
+
+SGMO
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01 Other Events.
+
+December 12, 2021, Sangamo Therapeutics, Inc. (the “Company”) presented updated preliminary proof-of-concept clinical data at the 63rd American Society for Hematology Annual Meeting and Exposition (“ASH”) from the Phase 1/2 PRECIZN-1 study of SAR445136, a zinc finger nuclease gene-edited cell therapy candidate in development with Sanofi S.A. for the treatment of sickle cell disease, or SCD. Also on December 12, 2021, the Company presented updated follow-up data at ASH from the Phase 1/2 Alta study of giroctocogene fitelparvovec, an investigational gene therapy for patients with moderately severe to severe hemophilia A in development with Pfizer Inc. Summaries of the data presented are below.
+
+Summary of Updated Preliminary Safety, Tolerability and Efficacy Results from the Phase 1/2 PRECIZN-1 Study of SAR415536 Presented at ASH
+
+•PRECIZN-1 is an ongoing, first-in-human, open label, single arm, multi-site study evaluating the safety, tolerability and efficacy of SAR445136 in patients with severe SCD (n=8; aged 18-40 years).
+
+•Eligible patients underwent mobilization and apheresis with plerixafor. Autologous hematopoietic stem and progenitor cells, or HSPCs, were transfected ex vivo with zinc finger nuclease messenger ribonucleic acid to manufacture SAR445136. A single intravenous infusion was administered at least 72 hours after pre-conditioning with busulfan.
+
+•Patients were monitored for stem cell engraftment and hematopoietic recovery, adverse events, clinical and laboratory hemolysis markers, total hemoglobin and fetal hemoglobin, percentage of F cells and sickle-cell related events post‑SAR445136 infusion.
+
+•Nine patients were enrolled as of the data cutoff date of September 22, 2021. Of the eight patients who completed mobilization and apheresis as of the cutoff date, five achieved successful target yields of HSPCs whereas two patients failed to mobilize and one patient discontinued due to intercurrent cholangitis. Four of the five patients achieving successful target yields of HSPCs had been infused with SAR445136 as of the cutoff date. Baseline patient characteristics of these four patients are in Table 1 below. As of the cutoff date, the most recently treated patient had been followed for 26 weeks and the longest treated patient had been followed for 91 weeks.
+
+•All four patients improved clinically since SAR445136 infusion through the September 22, 2021 cutoff date. None of the four patients required blood transfusions post-engraftment. Total hemoglobin stabilized at 9-10 g/dL by week 26 post‑SAR445136 infusion along with improvements in the clinical markers of hemolysis in all four patients. Percent fetal hemoglobin levels were 0.1–11% at screening, increasing to 15–29% by week 13 in all four patients, to 14–39% by week 26 in all four patients, and persisting at 38% in the longest treated patient with 91 weeks of follow up (see Figure 1 below). Percent F cells increased to 49–94% by week 26 in all four patients, persisting at 99% in the longest treated patient with 91 weeks of follow up. SAR445136 had on-target BCL11A gene modification (61-78%) in all four patients.
+
+•As of the September 22, 2021 cutoff date, SAR445136 was generally well tolerated, and most adverse events reported in the screening, mobilization, apheresis and conditioning periods were SCD-related events. The investigator reported two serious adverse events of sickle cell anemia with a vaso-occlusive crisis, or VOC, as related to plerixafor, and one serious adverse event of nausea as related to busulfan. Most adverse events reported after infusion of SAR445136 were related to busulfan. The investigator reported one serious adverse event of sickle cell anemia with a VOC nine months after infusion in one patient. No other SCD-related events were reported after infusion. No adverse events related to SAR445136 were reported by the investigator or sponsor. See Figure 2 below for VOCs reported before and after infusion of SAR445136.
+
+Table 1: Baseline Characteristics and Clinical History
+
+(*) Hydroxyurea
+
+RBC = Red Blood Cell
+
+Figure 1: Total Hb and Hb Fractionation in All Patients After SAR445136 Infusion
+
+HbA = Adult hemoglobin, HbA2 = Variant adult hemoglobin, HbF = Fetal hemoglobin, HbS = Sickle hemoglobin
+
+Figure 2: Number of VOCs Reported Pre- and Post- SAR445136 Infusion
+
+VOC = Vaso-Occlusive Crisis
+
+Summary of Updated Follow-up Data from the Phase 1/2 Alta Study of Giroctocogene Fitelparvovec Presented at ASH
+
+•Alta is a Phase 1/2 single-dose multicenter dose-ranging study to assess the safety and tolerability of giroctocogene fitelparvovec in adults with severe hemophilia A.
+
+•Patients were monitored for adverse events, change in circulating Factor VIII, or FVIII, activity, change from baseline in use of FVIII replacement therapy, change in frequency and severity of bleeding episodes, measurement of FVIII inhibitor levels and vector shedding in bodily fluids.
+
+•Maintenance of FVIII activity in the mild range (>5%) or greater improves outcomes for patients with severe hemophilia A.
+
+•Eleven male patients participated in the study overall, with five patients in the 3e13-vg/kg highest dose cohort. See Table 1 below for baseline patient demographics. As of the October 1, 2021 data cutoff date, all five patients in the highest dose cohort had completed at least two years (104 weeks) of follow up.
+
+•As of the October 1, 2021 cutoff date, six of the eleven patients had experienced treatment-related adverse events, including four of the five patients in the highest dose cohort. The most commonly reported treatment-related adverse events included elevated liver enzymes and infusion-related reactions: increased alanine aminotransferase, or ALT (5/11 (45.5%) overall; 3/5 (60.0%) in the highest dose cohort), increased aspartate aminotransferase, or AST (3/11 (27.3%) overall; 2/5 (40.0%) in the highest dose cohort), pyrexia (3/11 (27.3%) overall; 3/5 (60.0%) in the highest dose cohort), and tachycardia (2/11 (18.2%) overall; 2/5 (40.0%) in the highest dose cohort).
+
+•Treatment-related serious adverse events were reported in one patient in the highest dose cohort who experienced grade 3 hypotension and fever with onset approximately six hours after giroctocogene fitelparvovec infusion; the events fully resolved with treatment and did not delay post-infusion discharge the next day. See Table 2 below for more details on treatment-related adverse events.
+
+•As of the October 1, 2021 cutoff date, no confirmed FVIII inhibitor development occurred, and no thrombotic events, neoplastic events, abnormal alfa-fetoprotein and/or liver masses were reported.
+
+•Patients in the highest dose cohort demonstrated FVIII activity as shown in Table 3 below through week 130. Mean FVIII activity at week 104 was 25.4% of normal as measured by chromogenic clotting assay at the central laboratory. In this highest dose cohort, the annualized bleeding rate, meaning the number of all bleeding episodes starting three weeks after infusion divided by the observation period in years, was zero for the first year post-infusion and the mean overall annual bleeding rate throughout the total duration of follow-up was 1.4 as of the October 1, 2021 cutoff date. In this highest dose cohort, two patients experienced bleeding events necessitating treatment with exogenous FVIII, all occurring after week 69 post-infusion: one patient experienced 8 bleeding events (5 traumatic, 2 spontaneous, 1 unknown) and one patient experienced one bleeding event in a target joint, circumstances unknown. No participants in this highest dose cohort have resumed prophylaxis as of the cutoff date.
+
+•Additional follow-up is required to assess durability of therapeutic effect and other long-term effects of giroctocogene fitelparvovec, such as impact on overall patient liver health.
+
+Table 1: Baseline Participant Demographics
+
+Data cut: October 1, 2021
+
+Max = Maximum, Min = Minimum, SD = Standard Deviation, vg = vector genomes
+
+Table 2: Treatment-Related Adverse Events
+
+Data cut: October 1, 2021
+
+(a) One patient experienced grade 3 hypotension that was considered related to study drug and resolved with treatment
+
+AE = Adverse Event, ALT = Alanine Transaminase, AST = Aspartate Aminotransferase, vg = vector genomes
+
+Table 3: FVIII Activity in Cohort 4 (3e13 vg/kg)
+
+Latest available FVIII values from October 1, 2021 data cut
+
+FVIII = Factor VIII, vg = vector genomes
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+SANGAMO THERAPEUTICS, INC.
+
+Dated: December 13, 2021
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Scott Willoughby
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Scott Willoughby
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President, General Counsel and Corporate Secretary

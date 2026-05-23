@@ -1,0 +1,323 @@
+8-K
+
+false 0001759425 0001759425 2026-05-12 2026-05-12
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 12, 2026
+
+ 
+
+ 
+
+Mirum Pharmaceuticals, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38981
+
+ 
+
+83-1281555
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+989 East Hillsdale Boulevard
+
+ 
+
+ 
+
+Suite 300
+
+ 
+
+ 
+
+Foster City, California
+
+ 
+
+ 
+
+94404
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (650) 667-4085
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.0001 per share
+
+ 
+
+MIRM
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry Into a Material Definitive Agreement.
+
+Indenture and Notes
+
+On May 15, 2026, Mirum Pharmaceuticals, Inc. (the “Company”) issued $690.0 million aggregate principal amount of its 0.00% Convertible Senior Notes due 2032 (the “Notes”), which includes the full exercise of the initial purchasers’ option to purchase up to an additional $90.0 million aggregate principal amount of Notes. The Notes were issued pursuant to, and are governed by, an indenture (the “Indenture”), dated as of May 15, 2026, between the Company and U.S. Bank Trust Company, National Association, as trustee (the “Trustee”).
+
+The Notes are the Company’s senior, unsecured obligations. The Notes will not bear regular interest, and the principal amount of the notes will not accrete. The Notes will mature on June 1, 2032, unless earlier converted, redeemed or repurchased.
+
+Noteholders may convert all or any portion of their Notes at their option only in the following circumstances: (i) during any calendar quarter (and only during such calendar quarter) commencing after the calendar quarter ending on September 30, 2026, if the last reported sale price per share of the Company’s common stock, $0.0001 par value per share (the “common stock”), exceeds 130% of the conversion price for each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter; (ii) during the five consecutive business days immediately after any 10 consecutive trading day period (such 10 consecutive trading day period, the “measurement period”) if the trading price per $1,000 principal amount of Notes for each trading day of the measurement period was less than 98% of the product of the last reported sale price per share of the Company’s common stock on such trading day and the conversion rate on such trading day; (iii) upon the occurrence of certain corporate events or distributions on the Company’s common stock, as described in the Indenture; (iv) if the Company calls such Notes for redemption; and (v) at any time from, and including, March 1, 2032 until the close of business on the second scheduled trading day immediately before the maturity date. The Company will settle conversions by paying or delivering, as applicable, cash, shares of the Company’s common stock or a combination of cash and shares of the Company’s common stock, at its election, based on the applicable conversion rate(s).
+
+The initial conversion rate is 7.1971 shares of common stock per $1,000 principal amount of Notes, which represents an initial conversion price of approximately $138.94 per share, and is subject to adjustment upon the occurrence of certain events as described in the Indenture. If a “Make-Whole Fundamental Change” (as defined in the Indenture) occurs, then the Company will in certain circumstances increase the conversion rate for a specified period of time.
+
+The Company may not redeem the Notes at its option at any time before June 6, 2029. The Notes will be redeemable, in whole or in part (subject to the “Partial Redemption Limitation” (as defined in the Indenture)), at the Company’s option at any time, and from time to time, on a redemption date on or after June 6, 2029 and, in the case of any partial redemption, on or before the 30th scheduled trading day immediately before the maturity date, at a cash redemption price equal to the principal amount of the Notes to be redeemed, plus accrued and unpaid special interest and additional interest, if any, to, but excluding, the redemption date, but only if (i) the Notes are “Freely Tradeable” (as defined in the Indenture) as of the date the Company sends the related redemption notice and all accrued and unpaid additional interest, if any, has been paid in full as of the first interest payment date occurring on or before the date the Company sends such notice; and (ii) the last reported sale price per share of the Company’s common stock exceeds 130% of the conversion price on (1) each of at least 20 trading days, whether or not consecutive, during the 30 consecutive trading days ending on, and including, the trading day immediately before the date the Company sends such redemption notice; and (2) the trading day immediately before the date the Company sends such notice. In addition, calling any Note for redemption will constitute a Make-Whole Fundamental Change with respect to that Note, in which case the conversion rate applicable to the conversion of that Note will be increased in certain circumstances if it is converted after it is called for redemption and on or before the second business day immediately before the related redemption date. Pursuant to the Partial Redemption Limitation, the Company may not elect to redeem less than all of the outstanding Notes unless at least $75.0 million aggregate principal amount of Notes are outstanding and not subject to redemption as of the time the Company sends the related redemption notice.
+
+If a “Fundamental Change” (as defined in the Indenture) occurs, then, subject to limited exceptions as described in the Indenture, noteholders may require the Company to repurchase their Notes at a cash repurchase price equal to the principal amount of the Notes to be repurchased, plus accrued and unpaid special interest and additional interest, if any, to, but excluding, the fundamental change repurchase date. The definition of Fundamental Change includes certain business combination transactions involving the Company and certain de-listing events with respect to the Company’s common stock.
+
+The Notes have customary provisions relating to the occurrence of “Events of Default” (as defined in the Indenture), which include the following: (i) certain payment defaults on the Notes (which, in the case of a default in the payment of interest, if any, on the Notes, will be subject to a 30-day cure period); (ii) the Company’s failure to send certain notices under the Indenture within specified periods of time; (iii) the Company’s failure to comply with certain covenants in the Indenture relating to the Company’s ability to consolidate with or merge with or into, or sell, lease or otherwise transfer, in one transaction or a series of transactions, all or substantially all of the assets of the Company and its subsidiaries, taken as a whole, to another person; (iv) the Company’s failure to convert a Note in accordance with the Indenture upon the exercise of the conversion right with respect thereto, if such default is not cured within five business days after its occurrence; (v) a default by the Company in its other obligations or agreements under the Indenture or the Notes if such default is not cured or waived within 60 days after notice is given in accordance with the Indenture; (vi) certain defaults by the Company or any of its “significant subsidiaries” (as defined in the Indenture) with respect to indebtedness for borrowed money with a principal amount of at least $75,000,000; and (vii) certain events of bankruptcy, insolvency and reorganization involving the Company or any of its significant subsidiaries.
+
+If an Event of Default involving bankruptcy, insolvency or reorganization events with respect to the Company (and not solely with respect to a significant subsidiary of the Company) occurs, then the principal amount of, and all accrued and unpaid interest, if any, on, all of the Notes then outstanding will immediately become due and payable without any further action or notice by any person. If any other Event of Default occurs and is continuing, then, the Trustee, by notice to the Company, or noteholders of at least 25% of the aggregate principal amount of Notes then outstanding, by notice to the Company and the Trustee, may declare the principal amount of, and all accrued and unpaid interest, if any, on, all of the Notes then outstanding to become due and payable immediately. However, notwithstanding the foregoing, the Company may elect, at its option, that the sole remedy for an Event of Default relating to certain failures by the Company to comply with certain reporting covenants in the Indenture consists exclusively of the right of the noteholders to receive special interest on the Notes for up to 365 days at a specified rate per annum not exceeding 0.50% on the principal amount of the Notes.
+
+The Company estimates that the net proceeds from the offering of the Notes will be approximately $671.6 million after deducting the initial purchasers’ discounts and commissions and estimated offering expenses payable by the Company. The Company expects to use a portion of the net proceeds from the offering of the Notes to pay the cash portion of the consideration in the Note Exchange Transactions as described below. The Company expects to use the remainder of the net proceeds of this offering for general corporate purposes, which may include the acquisition of complementary products, technologies, intellectual property or businesses as part of its growth strategy.
+
+The Company expects to use approximately $475.0 million of the net proceeds from the offering of the Notes and expects to issue 3,220,529 shares of its common stock in exchange for approximately $237.2 million aggregate principal amount of the Company’s 4.00% Convertible Senior Notes due 2029 in privately negotiated transactions (the “Note Exchange Transactions”) entered into concurrently with the pricing of the offering of the Notes.
+
+The above description of the Indenture and the Notes is a summary and is not complete. A copy of the Indenture and the form of the certificate representing the Notes are filed as Exhibits 4.1 and 4.2, respectively, to this Current Report on Form 8-K, and the above summary is qualified by reference to the terms of the Indenture and the Notes set forth in such Exhibits.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Off-Balance Sheet Arrangement.
+
+The disclosure set forth in Item 1.01 above is incorporated by reference into this Item 2.03.
+
+Item 3.02
+
+Unregistered Sales of Equity Securities.
+
+The disclosure set forth in Item 1.01 above is incorporated by reference into this Item 3.02. The Notes were issued to the initial purchasers in reliance upon Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”), in transactions not involving any public offering. The Notes were resold by the initial purchasers to persons whom the initial purchasers reasonably believe are “qualified institutional buyers,” as defined in, and in accordance with, Rule 144A under the Securities Act. The Company relied on these exemptions from registration based in part on representations made by the initial purchasers in the purchase agreement dated May 12, 2026 by and among the Company and the initial purchasers.
+
+The Notes and the shares of common stock issuable upon conversion of the Notes, if any, have not been registered under the Securities Act and may not be offered or sold in the United States absent registration or an applicable exemption from registration requirements.
+
+To the extent that any shares of common stock are issued upon conversion of the Notes, they will be issued in transactions anticipated to be exempt from registration under the Securities Act by virtue of Section 3(a)(9) thereof because no commission or other remuneration is expected to be paid in connection with conversion of the Notes and any resulting issuance of shares of common stock. Initially, a maximum of 6,455,778 shares of the Company’s common stock may be issued upon conversion of the Notes and based on the initial maximum conversion rate of 9.3562 shares of common stock per $1,000 principal amount of Notes, which is subject to customary anti-dilution adjustment provisions.
+
+The 3,220,529 shares of the common stock being issued in connection with the Note Exchange Transactions are being issued in reliance on the exemption from the registration requirements provided by Section 4(a)(2) of the Securities Act.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On May 12, 2026, the Company issued a press release announcing the launch of the offering of the Notes. On May 12, 2026, the Company issued a press release announcing the pricing of the offering of the Notes. Copies of the press releases are filed as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated by reference herein.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K includes forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Securities Exchange Act of 1934, as amended, including statements concerning the use of proceeds from the offering of the Notes. Forward-looking statements represent the Company’s current expectations regarding future events and are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those implied by the forward-looking statements. Among those risks and uncertainties are market conditions, the risks relating to the Company’s business, and the risks described in the Company’s Annual Report on Form 10-K for the period ended December 31, 2025, filed with the SEC on February 25, 2026 and Quarterly Report on Form 10-Q for the period ended March 31, 2026, filed with the SEC on May 6, 2026, and the future quarterly and current reports that the Company files with the SEC. The forward-looking statements included in this Current Report on Form 8-K speak only as of the date of this Current Report on Form 8-K, and the Company does not undertake to update the statements included in this Current Report on Form 8-K for subsequent developments, except as may be required by law.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+ 4.1
+
+  
+
+Indenture, dated as of May 15, 2026, between Mirum Pharmaceuticals, Inc. and U.S. Bank Trust Company, National Association, as trustee.
+
+ 4.2
+
+  
+
+Form of Note, representing the Company’s 0.00% Convertible Senior Notes due 2032 (included as Exhibit A to the Indenture filed as Exhibit 4.1).
+
+99.1
+
+  
+
+Press Release issued by the Company on May 12, 2026.
+
+99.2
+
+  
+
+Press Release issued by the Company on May 12, 2026.
+
+104
+
+  
+
+Cover page interactive data file (embedded within the inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Mirum Pharmaceuticals, Inc.
+
+Date: May 18, 2026
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+Chief Executive Officer

@@ -1,0 +1,202 @@
+sgmo-20250624
+June 24, 20250001001233false00010012332025-06-242025-06-24
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 24, 2025
+
+ 
+
+ SANGAMO THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+  
+
+Delaware
+
+ 
+
+000-30171
+
+ 
+
+68-0359556
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+501 Canal Blvd., Richmond, California 94804
+
+(Address of principal executive offices) (Zip Code)
+
+(510) 970-6000
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report) 
+
+ 
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share
+
+ 
+
+SGMO
+
+ 
+
+Nasdaq Capital Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01 Other Events.
+
+On June 24, 2025, Sangamo Therapeutics, Inc. (“Sangamo” or the “Company”) announced positive topline results from the registrational Phase 1/2 STAAR study evaluating isaralgagene civaparvovec, or ST-920, a wholly owned investigational gene therapy for the treatment of adults with Fabry disease.
+
+Summary of Topline Results from the Registrational Phase 1/2 STAAR Study Evaluating Isaralgagene Civaparvovec
+
+•Following a single dose of isaralgagene civoparvovec, a positive mean annualized eGFR slope of 1.965 mL/min/1.73m2/year (95% confidence interval (CI): -0.153, 4.083) at 52-weeks was observed across all 32 dosed patients in the study, which the FDA has agreed will serve as an intermediate clinical endpoint under the Accelerated Approval pathway. Furthermore, a mean annualized eGFR slope of 1.747 mL/min/1.73m2/year (95% CI: -0.106, 3.601) was observed for the 19 patients who have achieved 104-weeks of follow-up.
+
+•As recommended by the FDA, Sangamo intends to compare the annualized mean eGFR slope of isaralgagene civaparvovec with approved treatments for Fabry disease by performing a meta-analysis of published studies. According to observational studies, estimated mean annualized eGFR slopes for other marketed treatment options range from -2.2 to -0.4 mL/min/1.73m2/year for treatments such as Replagal (agalsidase alfa)1, Fabrazyme (agalsidase beta)2 and Galafold (migalastat)3.
+
+•The STAAR study enrolled male and female patients who were either on enzyme replacement therapy (ERT), were ERT pseudo-naïve (defined as having been off ERT for six or more months), or were ERT-naïve. The median age of patients enrolled in the study was 42, with a median duration of follow-up of 24 months and the longest treated patient having achieved 4.5 years of follow-up.
+
+•Key secondary endpoints in the study were also positive. Elevated expression of alpha-galactosidase A (α-Gal A) activity was maintained for up to 4.5 years for the longest treated patient. All 18 patients who began the study on ERT have been withdrawn from ERT and all remain off ERT as of today. Plasma lyso-Gb3 levels in these patients remained generally stable following ERT withdrawal. A stabilization in cardiac endpoints was also observed.
+
+•Patients demonstrated a range of other clinical benefits, including improvements in disease severity reported in the Fabry Outcome Survey adaptation of the Mainz Severity Score Index (FOS-MSSI) age-adjusted score and statistically and clinically significant improvements in the short form-36 (SF-36) quality of life scores, including role-physical +14.8 (95% CI: 7.3, 22.4, p=0.0003), vitality +9.6 (95% CI: 3.9, 15.2, p=0.0017), bodily pain +9.0 (95% CI: 2.3, 15.7, p=0.0104), social functioning +7.8 (95% CI: 2.0, 13.6, p=0.0100), general health +7.4 (95% CI: 2.0, 12.8, p=0.0091), and physical component scores +4.2 (95% CI: 1.8, 6.6, p=0.0014), at week 52 compared to baseline.
+
+•Statistically significant improvements in the gastrointestinal symptoms rating scale (GSRS) compared to baseline were also observed.
+
+•Furthermore, following a single administration of isaralgagene civaparvovec, additional clinical benefits were observed in some patients, such as the reduction or elimination in pain medication usage and the resumption of sweating, that has enabled these patients to perform physical tasks and exercise.
+
+•Isaralgagene civaparvovec demonstrated a favorable safety and tolerability profile in the study, without the requirement for preconditioning. The majority of adverse events were grade 1-2 in nature. The most common treatment-emergent adverse events (TEAEs) were pyrexia (60.6% of participants), COVID-19 (36.4%), headache (33.3%) and nasopharyngitis (33.3%). All TEAEs resolved in response to clinical management and there were no safety-related study discontinuations.
+
+Collectively, Sangamo believes the totality of these data supports the potential for isaralgagene civaparvovec as a one-time, durable treatment for Fabry disease that can improve patient outcomes and will form the basis for an anticipated Biologics Licensing Application (BLA) submission under the Accelerated Approval pathway as early as the first quarter of 2026.
+
+Isaralgagene civaparvovec has been granted Orphan Drug, Fast Track and RMAT designations from the FDA, Orphan Medicinal Product designation and PRIME eligibility from the European Medicines Agency and Innovative Licensing and Access Pathway from U.K. Medicines and Healthcare products Regulatory Agency. Analyses of the full dataset from the STAAR study are ongoing and additional data will be presented at an upcoming medical meeting. Sangamo is advancing BLA preparation activities for isaralgagene civaparvovec, while continuing to engage in business development negotiations for a potential Fabry commercialization agreement.
+
+1 Replagal (agalsidase alfa) estimated mean annualized eGFR slope: -2.2 mL/min/1.73m2/year (95% CI: -2.8, -1.7) in male patients and -0.7 mL/min/1.73m2/year (95% CI: -1.4, 0) in female patients (Source: Feriozzi, 2012: The effectiveness of long-term agalsidase alfa therapy in the treatment of Fabry nephropathy)
+
+2 Fabrazyme (agalsidase beta) estimated mean annualized eGFR slope: -1.5 mL/min/1.73m2/year (Source: Fabrazyme Package Insert: https://products.sanofi.us/fabrazyme/fabrazyme.pdf)
+
+3 Galafold (migalastat) estimated mean annualized eGFR slope: -0.4 mL/min/1.73m2/year (95% CI: -2.27, 1.48) (Source: Hughes, 2016: Oral pharmacological chaperone migalastat compared with enzyme replacement therapy in Fabry disease: 18-month results from the randomized phase III ATTRACT study)
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements regarding Sangamo’s current expectations. These forward-looking statements include, without limitation: the safety and efficacy and therapeutic and commercial potential of isaralgagene civaparvovec, including the potential for it to be a one-time, durable treatment option for Fabry disease that can improve patient outcomes; the potential for isaralgagene civaparvovec to qualify for the FDA’s Accelerated Approval program, including the adequacy of data generated in the Phase 1/2 STAAR study to support any such approval; expectations concerning the availability of additional data to support a potential BLA submission for isaralgagene civaparvovec, and the timing of such submission; Sangamo’s plans to present additional data at an upcoming medical meeting; Sangamo’s plans to engage in business development negotiations for a potential Fabry commercialization agreement; and other statements that are not historical fact. These statements are not guarantees of future performance and are subject to certain risks and uncertainties that are difficult to predict. Factors that could cause actual results to differ include, but are not limited to, risks and uncertainties related to Sangamo’s lack of capital resources to obtain regulatory approval for and commercialize its product candidates in a timely manner or at all, including the ability to secure a collaboration partner for ST-920; the uncertain timing and unpredictable nature of clinical trial results, including the risk that preliminary or topline data is not indicative of final results,that the therapeutic effects observed in the latest preliminary clinical data from the Phase 1/2 STAAR study will not be durable in patients and that final clinical trial data from the study will not validate the safety and efficacy of isaralgagene civaparvovec, including that the 52-week data from the Phase 1/2 STAAR study will not support a BLA submission and/or that the 104-week data from such study will not verify the clinical benefit of isaralgagene civaparvovec or support FDA approval, and that the patients withdrawn from ERT will remain off ERT; Sangamo’s need for substantial additional funding to execute its operating plan and to continue to operate as a going concern; the effects of macroeconomic factors or financial challenges on the global business environment, healthcare systems and Sangamo’s business and operations; the research and development process; the unpredictable regulatory approval process for product candidates across multiple regulatory authorities; the potential for technological developments that obviate technologies used by Sangamo; Sangamo’s reliance on collaborators and Sangamo’s potential inability to secure additional collaborations; Sangamo’s ability to achieve expected future financial performance; and other risks and uncertainties described in Sangamo’s filings with the U.S. Securities and Exchange Commission, including its Annual Report on Form 10-K for the year ended December 31, 2024, as supplemented by Sangamo’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2025. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this report. Sangamo undertakes no duty to update such information except as required under applicable law.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+SANGAMO THERAPEUTICS, INC.
+
+Dated: June 24, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ SCOTT B. WILLOUGHBY
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Scott B. Willoughby
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Legal Officer and Corporate Secretary

@@ -1,0 +1,186 @@
+EX-99.1
+2
+tm262890d1_ex99-1.htm
+EXHIBIT 99.1
+
+ 
+
+Exhibit 99.1
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 1 Click to edit Master text styles Igniting a systemic immune response to cancer with oncolytic immunotherapy January 14, 2026 JPM Healthcare Conference
+
+ 
+
+ 
+
+© 2025 Replimune Group Inc. © 2026 Replimune Group Inc. 2 Safe harbor Any statements contained herein that are not statements of historical facts may be deemed to be forward - looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, including statements regarding the advancement, timing and sufficiency of our clinical trials or financial status, patient enrollments in our existing and planned clinical trials and the timing thereof, the results of our clinical trials, the timing and release of our clinical data, statements regarding our expectations about our cash runway, our goals to develop and commercialize our product candidates, our expectations regarding the size of the patient populations for our product candidates if approved for commercial use and other statements identified by words such as “could,” “expects,” “intends,” “may,” “plans,” “potential,” “should,” “will,” “would,” or similar expressions and the negatives of those terms. Forward - looking statements are not promises or guarantees of future performance, and are subject to a variety of risks and uncertainties, many of which are beyond our control, and which could cause actual results to differ materially from those contemplated in such forward - looking statements. These factors include risks related to our limited operating history, our ability to generate positive clinical trial results for our product candidates, the costs and timing of operating our in - house manufacturing facility, the timing and scope of regulatory approvals, changes in laws and regulations to which we are subject, competitive pressures, our ability to identify additional product candidates, political and global macro factors including the impact of global pandemics and related public health issues, the ongoing military conflicts between Russia - Ukraine and Israel - Hamas and the impact on the global economy and related governmental imposed sanctions, and other risks as may be detailed from time to time in our Annual Reports on Form 10 - K, Quarterly Reports on Form 10 - Q, and other reports we file with the Securities and Exchange Commission. Our actual results could differ materially from the results described in or implied by such forward - looking statements. Forward - looking statements speak only as of the date hereof, and, except as required by law, we undertake no obligation to update or revise these forward - looking statements.
+
+ 
+
+ 
+
+© 2025 Replimune Group Inc. © 2026 Replimune Group Inc. 3 Poised to Deliver on the Promise of Oncolytic Immunotherapy Sushil Patel, PhD CEO, Replimune
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 4 Click to edit Master text styles 4 RPx Oncolytic Immunotherapy Overcoming Historical Hurdles Near - term PDUFA date of April 10, 2026 for melanoma with commercial team “launch ready” Go - to market model optimized to enable oncologist/interventional radiologist (IR) coordination Other logistics addressed to enable operational efficiency ~150 Accounts Ready on Day 1 Ability to inject RPx into deep lesions safely and repeatedly Liver & lung injections successfully completed using image guidance IRs excited to enable a new treatment paradigm ~1,200 Deep Injections Administered Durable and systemic activity seen in difficult to treat settings Randomized trials well underway for RP1 & RP2 (in uveal) Expansion beyond skin cancer into HCC and BTC ~1,000 Patients Treated Across the RPx Platform
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 5 Click to edit Master text styles 5 RPx Platform Intended to Activate Systemic Immune Response Superficial Only Injection Deep/Visceral Injection Injection Based on Lesion Location Deep/Visceral + / - Superficial RPx engineering and the administration approach aims to drive both robust local and distant / systemic anti - tumor response to drive better patient outcomes Anti - CTLA - 4 GM - CSF GALV - GP R - RPx Immune Activating Pay Loads Anti - PD - 1 Therapy
+
+ 
+
+ 
+
+© 2025 Replimune Group Inc. © 2026 Replimune Group Inc. 6 Anti - PD - 1 Failed Melanoma (IGNYTE)
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 7 Click to edit Master text styles 7 IGNYTE Study in Anti - PD - 1 Failed Melanoma: Rigorous Criteria for Anti - PD - 1 failure Criteria for prior anti – PD - 1 failure • Disease progression confirmed by 2 assessments at least 4 weeks apart • Confirmed progression while on anti - PD1 treatment • Anti - PD1 treatment continued for at least 8 consecutive weeks • Anti - PD1 - containing therapy must be the immediate prior line of treatment before enrollment Primary objectives • Safety and tolerability • ORR Secondary objectives • DOR • CR rate • DCR • PFS • 1 - year and 2 - year OS Anti - PD - 1 failed melanoma cohort (140 pts) Screening RP1 1 × 10 6 pfu/mL RP1+nivolumab 1 × 10 7 pfu/mL, 240 mg Nivolumab 480 mg (Q4W) 28 days 2 weeks Cycle 1 Cycles 2 – 8 Cycle 9 Cycles 10 – 30 a 2 weeks 2 weeks 28 days 2 weeks 2 weeks 2 weeks Nivolumab 240 mg a RP1 can be reinitiated beyond 8 cycles if protocol - specified criteria are met.
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 8 Click to edit Master text styles 8 Clinically Meaningful ORR in Resistant Subgroups Secondary resistance (n = 48) b,c Primary resistance (n = 92) a Stage IVb – IVd (n = 68) Prior anti - PD - 1 with anti - CTLA - 4 (n = 65) All patients (N = 140) BOR n (%) 7 (14.6) 16 (17.4) 4 (5.9) 6 (9.2) 23 (16.4) CR 8 (16.7) 16 (17.4) 13 (19.1) 11 (16.9) 24 (17.1) PR 15 (31.3) 15 (16.3) 14 (20.6) 15 (23.1) 30 (21.4) SD 15 (31.3) 39 (42.4) 29 (42.6) 26 (40.0) 54 (38.6) PD 15 (31.3) 32 (34.8) 17 (25.0) 17 (26.2) 47 (33.6) ORR 25.6 (14.8, NR) 22.6 (9.5, NR) 14.8 (7.9, 22.6) 16.5 (7.9, 25.6) 24.8 (14.1, NR) DOR , median (95% CI), months Consistent response rates were also seen across clinical patient subgroups, including the following: • 26.2% ORR in patients who had prior anti - PD - 1 and anti - CTLA - 4 • 25.0% ORR in patients who had stage IVb - IVd visceral disease Wise - Draper, T. (2025, Nov. 7). Biomarker and updated clinical data for RP1 plus nivolumab in anti – PD - 1 – failed melanoma from the IGNYTE trial demonstrate revers al of mechanisms of resistance to immune checkpoint blockade. Society for Immunotherapy of Cancer Annual Meeting, National Harbor, MD, USA. IGNYTE study: RP1+Nivo in anti - PD1 failed melanoma . Centrally reviewed RECIST 1.1 responses; all patients have ≥12 months follow - up. Data cutoff: October 15, 2024 (7 months post the primary analysis). a Primary resistance: progressed within 6 months of starting the immediate prior course of anti – PD - 1 therapy. b Secondary resistance: progressed after 6 months of treatment on the immediate prior course of anti – PD - 1 therapy. c Includes 1 patient with unknown resistance status.
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 9 Click to edit Master text styles 9 Responses with RP1 plus Nivolumab in the IGNYTE Study vs. Immediate Prior Anti - PD - 1 Regimen Summary of Response on Immediate Prior Anti - PD - 1 and in the IGNYTE Study (N=104) ORR during IGNYTE (n; 95% CI) ORR on prior PD - 1 based therapy (n; 95% CI) Time on Prior Treatment months (Range) IGNYTE Non - Adjuvant Patient Population 29.8% 11.5% 5.6 All Patients (N=104) 100% 12.9% 5.6 Responders Only (N=31) 28.1% 0% 4.0 Primary Resistance (N=64) 32.5% 30.0% 14.0 Secondary Resistance (N=40) Replimune data on file.
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 10 Click to edit Master text styles 10 Time to Progression with RP1 plus Nivolumab vs. Immediate Prior Anti - PD - 1 Regimen Pre versus post Therapy Time to Progression (all IGNYTE patients ) 140 72 51 45 40 36 31 24 19 17 14 12 7 5 4 3 2 1 0 140 91 49 35 21 13 10 9 9 8 6 4 3 3 3 3 3 1 1 Number of subjects at risk: 0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51 54 57 Time (Months) 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 P r o b a b i l i t y o f P r o g r e s s i o n 0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51 54 57 Time (Months) 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 P r o b a b i l i t y o f P r o g r e s s i o n Post Therapy Pre Therapy Censored + Median (95% CI) Post Therapy: 3.58 [2.04, 4.96] Pre Therapy: 3.75 [3.29, 5.36] Post Therapy Pre Therapy 47 47 47 42 40 36 31 24 19 17 14 12 7 5 4 3 2 1 47 31 14 9 6 3 3 2 2 2 0 Number of subjects at risk: 0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51 54 57 Time (Months) 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 P r o b a b i l i t y o f P r o g r e s s i o n 0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51 54 57 Time (Months) 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 P r o b a b i l i t y o f P r o g r e s s i o n Post Therapy Pre Therapy Censored + Post Median (95% CI) 30.62 [21.62, NR] Pre Median (95% CI) 4.40 [3.25, 5.36] Post Pre Pre versus post Therapy Time to Progression (responders only ) Replimune data on file. Key: Post Therapy (blue line)=PFS of VO in combination with nivolumab in the IGNYTE study, Pre Therapy (red line)=time to progression on immediate prior anti - PD - 1 containing regimen
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 11 Click to edit Master text styles 11 Confirmatory IGNYTE - 3 Study: Enrollment on Track *Nivolumab - Relatlimab ( Opdualag ), Chemotherapy (DTIC, TMZ, paclitaxel/nab - paclitaxel), Rechallenge with anti - PD1 monotherapy ( nivo or pembro ); NCT6264180 Randomized 1:1 Treatment of Physician’s Choice (TPC*) (n=200) Advanced cutaneous melanoma Progressed on anti - PD - 1 AND anti - CTLA - 4 OR not candidates for anti - CTLA - 4 N=~400 Interim Analysis – OS Primary Analysis – OS Secondary Endpoints – PFS/ORR • Global trial with ~110 sites - > ex - US expansion initiated • EMA engagement completed • Interim OS analysis planned for 2H 2027 >60 patients enrolled RP1 + Nivolumab (n=200)
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 12 Click to edit Master text styles © 2025 Replimune Group Inc. 12 Prepared for Commercial Launch Success in Melanoma
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 13 Click to edit Master text styles 13 ~10K Addressable Patients Across Lines of Therapy 3L+ 2L Early Stage 1L US Melanoma Patient Treatment Funnel 80% of patients who progress on PD - 1 across lines of therapy are injectable (~10K addressable patients) RP1 potential patients PD - 1 Containing Regimens Surgery Only BRAF/ MEK PD - 1 Containing Regimens 1 ~2K Adj refractory ~7K No SOC * ~4K No SOC * 1De - novo metastatic or recurrent from surgery. *Therapy is dependent on prior exposure (e.g. PD - 1 regimen, BRAF+MEK, TIL, or ch emo), 80% of patients are injectable Source: Quotes from primary market research with HCPs; Epi data for year 2030 from CancerMPact ® Patient Metrics, Cerner Enviza (available from www.cancermpact.com Accessed 15 Oct 2025), with adjustments to future 2L+ treatment rates based on primary market research.
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 14 Click to edit Master text styles 14 Image Guidance Will Enable Broader Usage of RP1 through Interventional Radiology Injection In - Office Injection via Image Guidance for Deep Lesions* ~20% of pts require only superficial injections ~20% of pts have superficial and deep lesions ~60% of pts only have deep lesions (e.g., lymph, liver, lung etc.) Medical Oncology (Med Onc , APP) Interventional Radiology Image guided injections conducted by Interventional Radiology using ultra - sound, CT, or MRI. Source: Melanoma US treated patient population for 2030 based on CancerMPact Patient Metrics, Oct 2023 ; Injectability based on primary market research with IRs, Medical Oncologists and Surgical Oncologists *B rai n and Bone not considered injectable “If we can biopsy the tumor, we can inject it” - Interve ntional Radiologist
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 15 Click to edit Master text styles 15 Interventional Radiologists Excited to Play a New Role in Immunotherapy Treatment “There is a rising interest in intra - tumoral therapies with IRs” - Interventional Radiologist “ Seeing this level of RP1 activity in visceral un - injected lesions is very motivating for IRs. This is not something we have seen with other intra - tumoral agents to date” - Rahul Sheth, M.D., F.S.I.R. Source: Symphony Health Claims data, full year 2024. Biopsy and IO Procedures performed by Interventional Radiologists, Vasc ula r & Interventional Radiologists, Radiologists, or Diagnostic Radiologists. IO Procedures include Ablation, Embolization, and Radiotherapy. >520K US interventional oncology procedures performed in 2024 1 ; expected to increase Diagnostics Therapeutics Biopsies TACE TARE/Y - 90 Ablations RPx Potential New Option
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 16 Click to edit Master text styles 16 Initial U.S. Melanoma Launch Focus: 150 Accounts Expansion into 350 additional accounts within 6 to 9 months Source: Patient volume based on systemically treated melanoma patients (Symphony Claims) and Onekey affiliations ~70 patients have received RP1 via Compassionate Use or Expanded Access
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 17 Click to edit Master text styles 17 U.S. Manufacturing Ready for Commercialization Fill - finish Drug substance production Packaging & labeling State - of - the - art facility for end - to - end GMP manufacturing Commercial supply ready for market
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 18 Click to edit Master text styles © 2025 Replimune Group Inc. 18 Opportunities in Skin Cancers Beyond Melanoma
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 19 Click to edit Master text styles 19 Expanding into Other Skin Cancers with a Novel Approach Melanoma & Skin Cancers • PD1 - failed Melanoma (PDUFA pending) • NMSC including PD - 1 failed (e.g., CSCC, MCC, BCC) • Angiosarcoma • Solid Organ Transplant Skin Cancer (ARTACUS study) • Neoadjuvant Skin Cancers (e.g., CSCC) Source: CancerMPact® Patient Metrics, Oracle (formerly known as Kantar Health; available from www.cancermpact.com ) and Replimune analysis. Note: all epi numbers are for the year 2030 Addressable defined as treated U.S. patients. Monotherapy in Patients Unable to Receive Checkpoint Inhibitors • Immunocompromised solid organ transplant (SOT) patients (ARTACUS study) • Patients' ineligible for Immunotherapy or discontinue due to AE’s (~8 - 13%) 1,2,3 Early Disease and/or Surgery Sparing • Neoadjuvant settings • Includes resectable & surgically ineligible due to tumor location (impact to QoL) e.g., low - risk CSCC • High - risk patients for cancer prevention Activity already demonstrated
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 20 Click to edit Master text styles 20 Deep and Durable RP1 Monotherapy Responses in Locally Advanced CSCC in Solid Organ Transplant (SOT) Patients ​ Intend To Treat Population (n=26) Confirmed Best overall response, n (%) 9 (34.6%) ORR (CR + PR) 17 (65.4%) DCR (CR + PR + SD) Intend To Treat Population (n=26) Duration of Response Rate, % (95% CI) 76.2% (33.2, 93.5) 6 mos 61% (20.2, 85.8) 12 mos 61% (20.2, 85.8) 24 mos • Optimal management of CSCC in SOT is not well established and significant unmet need remains 1,2 Heart Transplant Patient Example Baseline (C1) Week 30 (C16) Migden, M. (2025, October 26) RP1 monotherapy in solid organ transplant recipients with locally advanced cutaneous squamous c ell carcinoma (ARTACUS), Society for Melanoma Research 22 nd International Congress, Amsterdam, Netherlands. 1 Struckmeier AK, et al. Transplant Rev (Orlando). 2024;38:100882. 2 National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®). Squamous cell skin cancer. Version 1.2026. Accessed September 11, 202 https:// www.nccn.org /professionals/ physician_gls /pdf/ squamous.pdf . Results from the ARTACUS Study
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 21 Click to edit Master text styles 21 Complete Responses Observed in RP1 Monotherapy in Low Risk, Resectable Neoadjuvant cSCC Pathological Response (n=12) Clinical Response (n=12) Confirmed BOR, n (%) 12 (100) 12 (100) ORR 10 (83)* 8 (67) No surgery needed CR 2 (17) 4 (33) PR "It’s incredibly exciting, all but 2 lesions were composite CRs! Nobody had any AEs of any kind other than some local erythema or itching. A well tolerated, effective alternative to surgery for small SCCs!!!” Principal Investigator, Dr Sherrif Ibrahim (Rochester) CR/ cPR Patient Example Baseline Pre Surgery 12 weeks Replimune data on file. Investigator supported trial: A Phase 1b, single - center, open - label study, evaluating efficacy and safety of RP1 for the treatment of resectable cutaneous Squamous Cell Carcinoma; * pCRs were confirmed by biopsy in 8 patients that did not undergo Surgery
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 22 Click to edit Master text styles © 2025 Replimune Group Inc. 22 Expanding the RPx Opportunity via Deep Injections
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 23 Click to edit Master text styles 23 ~800 lung & liver RPx injections completed Broad Tumor Injectability with ~1,200 Deep RPx Injections Successfully Conducted RPx ORR benefit observed & acceptable safety profile with RPx deep/ visceral injections Deep/visceral injections allow RPx expansion RP2 HCC/BTC Ph1 cohort enrolling RP2 Uveal study (REVEAL) enrolling with injection of liver mets Metastases in the liver/lung is common and difficult to treat* * SEER 2021 Estimated Deaths. From SEER Cancer Stat Facts by indication; Riihimaki et al Cancer Med 2018; Yu et al Nat Med Jan 202 1
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 24 Click to edit Master text styles 24 Enhanced ORR with Deep/Visceral ( + superficial) Injections with Acceptable Safety Demonstrated in the IGNYTE study Deep/visceral ± superficial (n = 36) Superficial only (n = 104) Preferred term (%) Grades 3/4 All grades Grades 3/4 All grades 8.3 91.7 14.4 89.4 Total 0 36.1 1.0 31.7 Fatigue 0 33.3 0 29.8 Pyrexia 0 41.7 0 28.8 Chills 0 25.0 0 21.2 Nausea 0 16.7 1.0 13.5 Diarrhea 0 13.9 0 13.5 Vomiting 0 13.9 0 12.5 Headache 0 33.3 0 12.5 Influenza - like illness 0 22.2 0 12.5 Injection - site pain Safety by Injection Location (most common TRAEs) Deep/visceral only (n=22) Deep/visceral ± superficial (n=14) Superficial only (n=104) Confirmed BOR, (%) 40.9 42.9 29.8 ORR Efficacy by Injection Type by BICR using RECIST 1.1 (patient - level data) In GK et al. ASCO 2025. Abstract 9547. Poster 20. Analysis from IGNYTE RP1 + Nivo (Anti - PD - 1 failed melanoma)
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 25 Click to edit Master text styles 25 Liver and Lung are the Most Common Sites of Metastasis for Cancer Tsilimigras DI Nat Rev Dis Primers. 2021 Apr 15;7(1):27 . Yu et al Nat Med Jan 2021; Lung - specific metastasis: the coevolution of tumor cells and lung microenvironment | Molecular Cancer | Full Text Cancers Metastasizing to Liver • Uveal melanoma (70%+) • Colorectal cancer (30 - 50%) • Neuroendocrine tumor (20 - 46%) • Pancreatic cancer (30 - 40%) • Gastric cancer (5 - 40%) • Breast cancer (6 - 38%) • Small cell lung cancer (17%) • Non - small cell lung cancer (4%) • Osteosarcoma (75 - 85%) • Prostate cancer (46%) • Renal cell carcinoma (45.2%) • Hepatocellular carcinoma (39.5%) • Breast cancer (21 - 32%) • Colorectal cancer (31.7%) Cancers Metastasizing to Lung
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 26 Click to edit Master text styles 26 Metastatic Uveal Melanoma: ~70% of Patients Have Liver Metastases • Total of 47 liver lesion injections ( 12/17 pts) • 3 prior LOT* • mDOR 11.5 months • Responses observed regardless of HLA • Most common Grade 1 or 2 TRAEs (≥20%) were pyrexia, chills, fatigue, hypotension, and pruritus • No Grade 4 or 5 TRAEs Total (N = 17) RP2 + nivolumab (n = 14) RP2 monotherapy (n = 3) Phase 1 Study Confirmed BOR, n (%) 5 (29.4) 4 (28.6) 1 (33.3) ORR (CR + PR) 10 (58.8) 9 (64.3) 1 (33.3) DCR (CR + PR + SD) *70.6% [12/17] patients received prior anti – PD - 1 and anti – CTLA - 4 therapy; Sacco J. et al. ASCO 2024. Screening 20 months Patient 4403 - 0017 : PR Injected Non - injected
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 27 Click to edit Master text styles 27 RP2 Liver Mets /Liver - focused Studies are Well Underway Registrational Phase 2/3 REVEAL Study Ongoing in Metastatic Uveal Melanoma 1:1 randomization with PFS/OS endpoints n=280 RP2 + Nivolumab (n=140) Ipilimumab + Nivolumab (Control) (n=140) • Global trial with ~50 sites, ex - US expansion initiated • Phase 2/3 transition at 90 patients with 6 - month follow - up expected in Q1 2027 • PFS analysis basis for potential accelerated approval Signal seeking study in: 2L PD - (L)1 Failed HCC and Biliary Tract Cancer (BTC) Maintenance HCC Cohort: RP2 +/ - Bevacizumab + Atezolizumab (n=30) BTC Cohort: RP2 + Durvalumab (n=30) • First patients enrolled in BTC cohort in Q4 2025 • Preliminary HCC data expected 2H 2026 ~50 patients enrolled
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 28 Click to edit Master text styles 28 RPx Beyond Skin Cancers: Potential to Reach Up to ~130K Patients in the U.S. Source: CancerMPact ® Patient Metrics, Oracle (formerly known as Kantar Health ; available from www.cancermpact.com , accessed on 9/9/25) and Replimune analysis Note : all epi numbers are for the year 2030 Addressable defined as treated U.S. patients. • PD - 1 failed NSCLC Basket • PD - 1 failed Esophagogastric Basket • PD - 1 failed Renal Cell • PD - 1 failed Sarcoma Basket, rare & prevalent subtypes • PD - 1 naïve Uveal melanoma • PD - 1 failed HCC • Biliary Tract Cancer Maintenance • PD1 - failed Melanoma (PDUFA pending) • NMSC including PD - 1 failed (CSCC, MCC, BCC) • Angiosarcoma • Solid Organ Transplant Skin Cancer (ARTACUS) • Neoadjuvant Skin Cancers (e.g. CSCC) RPx RP2 RP1
+
+ 
+
+ 
+
+© 2026 Replimune Group Inc. JPM 2026 Presentation Click to edit Master title style 29 Click to edit Master text styles 29 Corporate Highlights Near - term PDUFA Date for RP1 in Anti - PD - 1 Failed Melanoma 7 Ongoing Clinical Trials with RP1 and RP2 to Support RPx Expansion Poised for Commercial Launch Success – >150 Accounts Ready on Day 1 Cash of $269.2M as of 12/31/25 (unaudited) In - house U.S. based Manufacturing Facility with RP1 Launch Supply Produced Broad Market Opportunity in High Unmet Need Cancers
+
+ 
+
+ 
+
+© 2025 Replimune Group Inc. Thank You

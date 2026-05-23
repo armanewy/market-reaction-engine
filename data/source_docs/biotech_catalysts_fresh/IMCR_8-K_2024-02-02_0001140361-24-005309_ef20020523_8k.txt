@@ -1,0 +1,420 @@
+false000167192700-000000092 PARK DRIVEMILTON PARK, ABINGDONOXFORDSHIRE00016719272024-01-302024-01-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported): January 30, 2024
+
+ 
+
+Immunocore Holdings plc
+
+(Exact name of registrant as specified in its Charter)
+
+ 
+
+ 
+
+England and Wales
+
+001-39992
+
+Not Applicable
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+ 
+
+92 Park Drive,
+Milton Park Abingdon,
+
+Oxfordshire,
+
+United Kingdom
+
+ 
+
+OX14 4RY
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
++44 1235 438600
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions
+(see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+American Depositary Shares, each representing one ordinary share, nominal value
+£0.002 per share
+
+ 
+
+IMCR
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Ordinary share, nominal value £0.002 per share*
+
+ 
+
+*
+
+ 
+
+The Nasdaq Stock Market LLC
+
+ 
+
+* Not for trading, but only in connection with the listing of the American Depositary Shares on The Nasdaq Stock Market LLC.
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Item 1.01
+
+Entry into a Material Agreement.
+
+ 
+
+On February 2, 2024, Immunocore Holdings plc (the “Company”) completed its previously announced private offering (the “Offering”) of
+$402.5 million aggregate principal amount of 2.50% Convertible Senior Notes due 2030 (the “Notes”), including the exercise in full of the initial purchasers’ option to purchase up to an additional $52.5 million principal amount of Notes. The Notes
+were issued pursuant to an indenture, dated February 2, 2024 (the “Indenture”), between the Company and U.S. Bank Trust Company, National Association, as trustee.
+
+The Company’s net proceeds from the Offering were approximately $389.3 million, after deducting the initial purchasers’ discounts
+and commissions and the estimated Offering expenses payable by the Company. The Company intends to use the net proceeds from the Offering, together with its existing cash and cash equivalents, to accelerate its clinical pipeline and for ongoing
+commercial expansion. In addition, the Company intends to repay in full loans outstanding under its loan agreement with investment funds managed by Pharmakon Advisors, LP. The Company intends to use any remaining proceeds for other working
+capital and general corporate purposes.
+
+ 
+
+The Notes are senior, unsecured obligations of the Company and will mature on February 1, 2030, unless earlier
+converted, redeemed or repurchased. The Notes will accrue interest payable semiannually in arrears on February 1 and August 1 of each year, beginning on August 1, 2024, at a rate of 2.50% per year. Holders may convert all or any portion of their
+Notes at their option at any time prior to the close of business on the business day immediately preceding the maturity date. Upon conversion, the Company will deliver for each $1,000 principal amount of converted Notes a number of its American
+Depositary Shares (the “ADSs”) (each representing as of the date hereof one of the Company’s ordinary shares, nominal value £0.002 per share (the “Ordinary Shares”)) equal to the conversion rate (together with a cash payment in lieu of delivering
+any fractional ADS) on the third business day following the relevant conversion date, unless a conversion of Notes would exceed the allotment share cap (as defined in the Indenture) and require the Company to pay cash in lieu of delivering ADSs
+as described in the Indenture.
+
+ 
+
+The conversion rate for the Notes will initially be 10.5601 ADSs per $1,000 principal amount of Notes (equivalent to
+an initial conversion price of approximately $94.70 per ADS). The initial conversion price of the Notes represents a premium of approximately 40.0% to the last reported sale price of $67.64 per ADS on the Nasdaq Global Select Market on January
+30, 2024. The conversion rate for the Notes will be subject to adjustment in some events in accordance with the terms of the Indenture but will not be adjusted for any accrued and unpaid interest. In addition, following certain corporate events
+that occur prior to the maturity date of the Notes or if the Company delivers a notice of optional redemption or a notice of tax redemption, the Company will, in certain circumstances, increase the conversion rate of the Notes for a holder who
+elects to convert its Notes in connection with such a corporate event or convert its Notes called (or deemed called) for redemption in connection with such notice of optional redemption or notice of tax redemption, as the case may be.
+
+ 
+
+The Company may not redeem the Notes prior to February 5, 2027, except in the event of certain tax law changes as described below and
+in the Indenture. The Company may redeem for cash all or any portion of the Notes (subject to the partial redemption limitation described in the Indenture), at its option, on or after February 5, 2027 if the last reported sale price of the ADSs has
+been at least 130% of the conversion price for the Notes then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and including,
+the trading day immediately preceding the date on which the Company provides notice of optional redemption, at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest to, but excluding,
+the optional redemption date. No sinking fund is provided for the Notes.
+
+ 
+
+If, as a result of certain changes in the law of any relevant tax jurisdiction (as defined in the Indenture) the Company would be
+required to pay additional amounts (as defined in the Indenture) on the Notes, the Company may redeem the Notes in whole, but not in part, at a tax redemption price of 100% of the aggregate principal amount thereof, plus accrued and unpaid interest
+to, but excluding, the tax redemption date and all additional amounts, if any, which otherwise would be payable to the date of tax redemption. Upon the Company giving notice of a tax redemption, a holder may elect not to have its Notes redeemed, in
+which case the holder would not be entitled to receive any additional amounts with respect to its Notes after the tax redemption date.
+
+ 
+
+If the Company undergoes a fundamental change (as defined in the Indenture), then, subject to certain conditions and except as
+described in the Indenture, holders may require the Company to repurchase for cash all or any portion of their Notes at a fundamental change repurchase price equal to 100% of the principal amount of the Notes to be repurchased, plus accrued and
+unpaid interest to, but excluding, the fundamental change repurchase date.
+
+ 
+
+The Indenture includes customary covenants and sets forth certain events of default after which the Notes may be declared immediately
+due and payable and sets forth certain types of bankruptcy or insolvency events of default involving the Company after which the Notes become automatically due and payable. The following events are considered “events of default” under the
+Indenture:
+
+ 
+
+•
+
+default in any payment of interest on any Note when due and payable and the default continues for a period of 30 days;
+
+ 
+
+•
+
+default in the payment of principal of any Note when due and payable at its stated maturity, upon any optional redemption, upon any required repurchase, upon declaration of acceleration or otherwise;
+
+ 
+
+•
+
+the Company’s failure to comply with its obligation to convert the Notes in accordance with the Indenture upon exercise of a holder’s conversion right and such failure continues for three business days;
+
+ 
+
+•
+
+the Company’s failure to give a fundamental change notice or notice of a make-whole fundamental change, in each case when due and such failure continues for four business days;
+
+ 
+
+•
+
+the Company’s failure to comply with its obligations in respect of any consolidation, merger or sale of assets;
+
+ 
+
+•
+
+the Company’s failure to comply with any of the Company’s other agreements contained in the Notes or the Indenture for 60 days after its receipt of written notice of such failure from the trustee or the
+holders of at least 25% in principal amount of the Notes then outstanding;
+
+ 
+
+•
+
+default by the Company or any of the Company’s significant subsidiaries (as defined in the Indenture) with respect to any mortgage, agreement or other instrument under which there may be outstanding, or by
+which there may be secured or evidenced, any indebtedness for money borrowed with a principal amount in excess of $35.0 million (or its foreign currency equivalent) in the aggregate of the Company and/or any such significant subsidiary,
+whether such indebtedness now exists or shall hereafter be created (i) resulting in such indebtedness becoming or being declared due and payable prior to its stated maturity date or (ii) constituting a failure to pay the principal of any
+such debt when due and payable (after the expiration of all applicable grace periods) at its stated maturity, upon required repurchase, upon declaration of acceleration or otherwise, and in the cases of clauses (i) and (ii), such
+acceleration shall not have been rescinded or annulled or such failure to pay or default shall not have been cured or waived, or such indebtedness is not paid or discharged, as the case may be, within 30 days after written notice to the
+Company by the trustee or to the Company and the trustee by holders of at least 25% in aggregate principal amount of the Notes then outstanding in accordance with the Indenture;
+
+ 
+
+•
+
+a final judgment or judgments for the payment of $35.0 million (or its foreign currency equivalent) or more (excluding any amounts covered by insurance) in the aggregate rendered against the Company or any
+of the Company’s significant subsidiaries, which judgment is not discharged, bonded, paid, waived or stayed within 60 days after (i) the date on which the right to appeal thereof has expired if no such appeal has commenced, or (ii) the date
+on which all rights to appeal have been extinguished; or
+
+ 
+
+•
+
+certain events of bankruptcy, insolvency, or reorganization of the Company or any of the Company’s significant subsidiaries.
+
+ 
+
+If certain bankruptcy and insolvency-related events of default involving the Company (and not just any of its significant
+subsidiaries) occur, 100% of the principal of and accrued and unpaid interest on the Notes will automatically become due and payable. If an event of default other than certain bankruptcy and insolvency-related events of default involving the
+Company occurs and is continuing, the trustee, by notice to the Company, or the holders of at least 25% in principal amount of the outstanding Notes by notice to the Company and the trustee, may, and the trustee at the request of such holders
+shall, declare 100% of the principal of and accrued and unpaid interest, if any, on all the Notes to be due and payable. Notwithstanding the foregoing, the Indenture provides that, to the extent the Company so elects, the sole remedy for an event
+of default relating to certain failures by the Company to comply with certain reporting covenants in the Indenture will, for the first 365 days after the occurrence of such an event of default, consist exclusively of the right to receive additional
+interest on the Notes as set forth in the Indenture.
+
+ The Indenture provides that the Company shall not consolidate with or merge with or into, or sell, convey, transfer or lease the
+consolidated properties and assets of the Company and its subsidiaries substantially as an entirety to another person (other than any such sale, conveyance, transfer or lease to one or more of the Company’s direct or indirect wholly owned
+subsidiaries), unless: (i) the resulting, surviving or transferee person (if not the Company) is a “qualified successor entity” (as defined in the Indenture) organized and existing under the laws of the United Kingdom (including England and Wales),
+Bermuda, the Cayman Islands, the British Virgin Islands, United States of America, any State thereof or the District of Columbia, and such successor entity (if not the Company) expressly assumes by supplemental indenture all of the Company’s
+obligations under the Notes and the Indenture; and (ii) immediately after giving effect to such transaction, no default or event of default has occurred and is continuing under the Indenture.
+
+ 
+
+A copy of the Indenture is attached hereto as Exhibit 4.1 (including the global form of the Notes attached hereto as
+Exhibit 4.2) and this description is qualified in its entirety by reference to such document.
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+ 
+
+Item 3.02
+
+Unregistered Sale of Equity Securities.
+
+ 
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+The Notes, the ADSs deliverable upon conversion of the Notes and the Ordinary Shares represented thereby have not been
+registered under the Securities Act and may not be offered or sold in the United States absent registration or an applicable exemption from registration requirements.
+
+The Company offered and sold the Notes to the initial purchasers in reliance on the exemption from registration
+provided by Section 4(a)(2) under the Securities Act, and for resale by the initial purchasers to persons reasonably believed to be qualified institutional buyers pursuant to the exemption from registration provided by Rule 144A under the
+Securities Act. The Company relied on these exemptions from registration based in part on representations made by the initial purchasers in the purchase agreement dated January 30, 2024 by and among the Company and the initial purchasers.
+
+The ADSs (or the Ordinary Shares represented thereby) that are delivered upon any conversion of the Notes will be
+delivered in transactions anticipated to be exempt from registration under the Securities Act by virtue of Section 3(a)(9) thereof because no commission or other remuneration is expected to be paid in connection with any conversion of the Notes and
+resulting delivery of ADSs (or the Ordinary Shares represented thereby).
+
+Item 8.01
+
+Other Events.
+
+ 
+
+On January 30, 2024, the Company issued a press release announcing the pricing of the Offering. A copy of the press release is
+attached hereto as Exhibit 99.1.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform
+Act of 1995 that involve risks and uncertainties. All forward-looking statements included in this report, including statements regarding the Company’s expected uses of the net proceeds from the Offering, are based upon information available to the
+Company as of the date of this report, which may change, and the Company assumes no obligation to update any such forward-looking statements. Although the Company’s forward-looking statements reflect the good faith judgment of its management, these
+statements are based only on facts and factors currently known by the Company. These statements are not guarantees of future performance and actual results could differ materially from the Company’s current expectations. As a result, you are
+cautioned not to rely on these forward-looking statements. Factors that could cause or contribute to such differences include the risks and uncertainties discussed in the “Risk Factors” section of the Company’s Annual Report on Form 20-F for the
+fiscal year ended December 31, 2022 filed with the Securities and Exchange Commission on March 1, 2023, and other subsequent filings the Company makes with the Securities and Exchange Commission from time to time, as well as market risks, trends
+and conditions, and unanticipated uses of the net proceeds from the Offering. The Company assumes no obligation and does not intend to update the forward-looking statements provided, whether as a result of new information, future events or
+otherwise.
+
+Item 9.01.
+
+Financial Statements and Exhibits
+
+ 
+
+Exhibit No.
+
+Description
+
+4.1
+
+Indenture, dated as of February 2, 2024, by and between the Company and U.S. Bank Trust Company, National Association, as Trustee.
+
+4.2
+
+Form of Global Note, representing the Company’s 2.50% Convertible Senior Notes due 2030 (included as Exhibit A to the Indenture filed as Exhibit 4.1).
+
+99.1
+
+Press Release dated January 30, 2024.
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+IMMUNOCORE HOLDINGS PLC
+
+ 
+
+ 
+
+ 
+
+Dated: February 2, 2024
+
+By:
+
+/s/ Bahija Jallal, Ph.D.
+
+ 
+
+ 
+
+Name:
+
+Bahija Jallal, Ph.D.
+
+ 
+
+ 
+
+Title:
+
+Chief Executive Officer

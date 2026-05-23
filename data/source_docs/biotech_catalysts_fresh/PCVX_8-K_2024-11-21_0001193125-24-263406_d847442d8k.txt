@@ -1,0 +1,247 @@
+8-K
+
+false 0001649094 0001649094 2024-11-15 2024-11-15
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 15, 2024
+
+ 
+
+ 
+
+VAXCYTE, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-39323
+
+ 
+
+46-4233385
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+825 Industrial Road
+
+ 
+
+Suite 300
+
+ 
+
+San Carlos, California
+
+ 
+
+94070
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (650) 837-0111
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, $0.001 par value per share
+
+ 
+
+PCVX
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+As previously disclosed, Vaxcyte, Inc. (the “Company”) entered into (i) a lease agreement (the “Original Lease”), dated January 21, 2021, as amended on October 17, 2023, with ARE-San Francisco No. 63, LLC (the “Landlord”) for the purpose of establishing the Company’s corporate headquarters at 825 Industrial Road in San Carlos, California (the “Building”), and (ii) an assignment and assumption of lease agreement (the “Assumed Lease”), dated September 1, 2023, with Codexis, Inc. (the “Assignor”) for the purpose of expanding the Company’s headquarters located at the Building. Under the Assumed Lease, the Company assumed all of the Assignor’s rights, title and interest as “Tenant” under that certain lease agreement dated January 29, 2021, by and between the Assignor and the Landlord.
+
+Pursuant to the Original Lease and Assumed Lease, the Company leased from the Landlord approximately 113,066 rentable square feet (“RSF”) of the Building comprised of (i) Suite 100A, containing approximately 17,840 RSF (“Suite 100A”), (ii) the entire second floor, known as (x) Suite 200A, containing approximately 27,691 RSF (“Suite 200A”), and (y) Suite 200B, containing approximately 17,728 RSF (“Suite 200B” and collectively with Suite 200A, “Suite 200”), and (iii) the entire third floor, containing approximately 49,807 RSF (“Suite 300”, and collectively with Suite 100A and Suite 200, the “Existing Premises”).
+
+On November 15, 2024 (the “Effective Date”), the Company and the Landlord amended and restated the Original Lease (the “Amended and Restated Lease”) for the purpose of expanding the Company’s headquarters located at the Building and consolidating the Assumed Lease into the Amended and Restated Lease such that the Company shall lease all of its space at the Building from the Landlord pursuant to a single, unified lease. For avoidance of doubt, the Assumed Lease was terminated as of the Effective Date.
+
+Under the Amended and Restated Lease, the Company will lease a total of 258,581 RSF of the Building comprised of (i) the Existing Premises (a portion of which the Company has sublet, as indicated under Item 8.01 below), (ii) the entire fourth floor, known as (x) Suite 400A, containing approximately 29,249 RSF (“Suite 400A”), and (y) Suite 400B, containing approximately 20,575 RSF (“Suite 400B” and collectively with Suite 400A, “Suite 400”), (iii) the entire fifth floor, containing approximately 49,474 RSF (“Suite 500”), and (iv) the entire sixth floor, containing approximately 46,217 RSF (“Suite 600”, and collectively with Suite 400 and Suite 500, the “Additional Premises”), with the Additional Premises being leased pursuant to a phased approach as described below. The Existing Premises and the Additional Premises shall collectively be referred to as the “Premises.”
+
+The lease term for the Existing Premises commenced on the Effective Date, and the commencement dates for the Additional Premises are triggered by the completion of various obligations of the parties which are customary for lease transactions of this nature. The target commencement dates for the Additional Premises are as follows: (i) on or before February 10, 2025 for Suite 400A, (ii) on or before November 17, 2025 for Suite 400B, (iii) on or before December 16, 2025 for Suite 500; and (iv) on or before June 1, 2026 for Suite 600. The lease term for the Premises will expire 120 months from the first day of the first full month following the first to occur of the Additional Premises’ commencement dates. Following the expiration of the initial term of the lease, the Company has two options to extend the term of the lease for a period of five years each.
+
+The Company will pay a monthly base rent for the Premises at an initial monthly rate of (i) $6.026 per RSF for each of Suite 100A and Suite 200B (which shall increase by 3% per year on each December 1st of the initial term of the lease), (ii) $5.941 per RSF for each of Suite 200A and Suite 300 (which shall increase by 3% per year on each January 1st of the initial term of the lease), and (iii) $6.00 per RSF for each of the Additional Premises (which shall increase by 3% per year on each annual anniversary of the first to occur of the Additional Premises commencement dates). For each of the Additional Premises, the base rent is abated for eight full calendar months following each Additional Premises’ commencement date. Throughout the term of the Amended and Restated Lease, the Company is responsible for paying certain costs and expenses, in addition to the rent, as specified in the Amended and Restated Lease, including maintenance costs, taxes and operating expenses. The Amended and Restated Lease includes various covenants, indemnities, defaults, termination rights, and other provisions customary for lease transactions of this nature. The Amended and Restated Lease also contains an option for the Company to expand its leased space in the Building from the Landlord, under certain conditions. The Company previously provided the Landlord with two security deposits pursuant to the Original Lease and the Assumed Lease totaling $1,091,276.59 in the form of letters of credit (the “Security Deposit”), which Security Deposit will now be used to secure the performance of the Company’s obligations under the Amended and Restated Lease.
+
+ 
+
+The foregoing is a summary description of certain terms of the Amended and Restated Lease and does not purport to be complete, and it is qualified in its entirety by reference to the full text of the Amended and Restated Lease to be filed as an exhibit to the Company’s Annual Report on Form 10-K for the year ended December 31, 2024.
+
+Item 8.01. Other Events.
+
+On the Effective Date, the Company and Iovance Biotherapeutics, Inc. (the “Sublessee”) entered into a Sublease Agreement pursuant to which the Company subleased a portion of Suite 100A consisting of 16,731 RSF (the “Subleased Premises”) to Sublessee. The term for the Subleased Premises shall be for the period commencing upon the delivery of the Subleased Premises to Sublessee (the “Sublease Commencement Date”), which shall be no later than December 15, 2024, and ending on the last day of the calendar month in which the second anniversary of the Sublease Commencement Date occurs. Following the expiration of the initial term of the sublease, the Sublessee has two conditional options to extend the term of the sublease for a period of twelve months, to each which the Company must consent.
+
+The Sublessee will pay a monthly base rent for the Subleased Premises at an initial monthly rate of $5.95 per RSF, which amount shall increase to $6.1285 per RSF on the first day of the calendar month after the first anniversary of the Sublease Commencement Date.
+
+ 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+VAXCYTE, INC.
+
+Date: November 21, 2024
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Andrew Guggenhime
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Andrew Guggenhime
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+President and Chief Financial Officer

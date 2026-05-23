@@ -1,0 +1,882 @@
+EX-99.2
+3
+xncr-20221107xex99d2.htm
+EX-99.2
+
+Exhibit 99.2
+
+®
+Xencor Q3 2022 Financial Results
+XmAb®564 Data Presentation
+November 7, 2022
+
+2
+Speakers
+Bassil Dahiyat, Ph.D.
+President
+Chief Executive Officer
+Director
+John Kuch
+Senior Vice President &
+Chief Financial Officer
+John Desjarlais, Ph.D.
+Senior Vice President
+Chief Scientific Officer
+Allen Yang, M.D., Ph.D.
+Senior Vice President
+Chief Medical Officer
+Ralph Zitnik, M.D.
+Executive Medical Director
+
+3
+Forward
+-
+Looking Statements
+Certain statements contained in this presentation, other than statements of historical fact, may constitute forward
+-
+looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements
+include, but are not limited to, statements regarding Xencor's development plans and timelines; potential regulatory
+actions; expected use of cash resources; the timing and results of clinical trials; the plans and objectives of
+management for future operations; and the potential markets for Xencor's product and development candidates.
+Forward
+-
+looking statements are based on the current expectations of management and upon what management
+believes to be reasonable assumptions based on information currently available to it, and involve numerous risks
+and uncertainties, many of which are beyond Xencor's control. These risks and uncertainties could cause future
+results, performance or achievements to differ significantly from the results, performance or achievements
+expressed or implied by such forward
+-
+looking statements. Such risks include, but are not limited to, potential delays
+in development timelines or negative preclinical or clinical trial results, reliance on third parties for development
+efforts and changes in the competitive landscape including changes in the standard of care, as well as other risks
+described in Xencor's filings with the Securities and Exchange Commission (SEC). Xencor expressly disclaims any
+duty, obligation or undertaking to update or revise any forward
+-
+looking statements contained herein to reflect any
+change in Xencor's expectations with regard thereto of any subsequent change in events, conditions or
+circumstances on which any such statements are based, except in accordance with applicable securities laws. For
+all forward
+-
+looking statements, we claim the protection of the safe harbor for forward looking statements contained
+in the Private Securities Litigation Reform Act of 1995.
+
+4
+Agenda for Today’s Call
+2
+1
+3
+Recent Business Updates and Financial Results
+XmAb
+®
+564 Data Presentation
+Q&A
+
+®
+XmAb®564 Single Dose
+Phase 1a Data Presentation
+Reduced potency IL2
+-
+Fc
+For selective expansion of regulatory T cells
+In development for patients with autoimmune diseases
+
+6
+XmAb® Cytokines: Potency
+-
+tuned to Enhance Half
+-
+life and Tolerability
+Native cytokine
+XmAb
+potency
+-
+optimized
+cytokine
+-
+Fc
+Toxicity
+Activity
+Time
+→
+Xencor’s
+general approach for creating cytokine therapies
+•
+Overcomes native cytokine short half
+-
+life and high toxicity
+•
+Systematically engineer a broad portfolio of cytokines
+Reduced affinity
+•
+Receptor selectivity
+•
+↑Half
+-
+life
+XmAb
+Fc
+•
+↑Half
+-
+life
+•
+↑Stability
+•
+Modular
+Potency reduced for optimal PK/PD
+Potency
+
+7
+XmAb®564 Phase 1a Clinical Trial Top
+-
+line Data Summary
+•
+Single ascending dose of subcutaneously administered XmAb564 in healthy volunteers
+•
+Well tolerated; no serious adverse events or dose limiting toxicities observed
+•
+Selective expansion of CD25
+bright
+regulatory T cells (Tregs) of 10x and higher beginning at 3
+rd
+dose level and reaching 117x increase over baseline at highest dose
+•
+Exceptional durability of Treg expansion relative to reported third
+-
+party data
+•
+Provides opportunity to explore differentiated multi
+-
+week dosing schedules
+•
+Minimal increases in natural killer (NK) cells and conventional T cells (
+Tcons
+)
+Second potency
+-
+tuned
+XmAb
+Cytokine program showing marked target cell expansion
+and good tolerability in human clinical trials
+•
+XmAb306, an IL15
+-
+IL15R
+a
+-
+Fc fusion in oncology, showed consistent and robust
+dose
+-
+dependent NK cell expansion and accumulation upon repeat dosing,
+reaching 40
+-
+100x higher than baseline in higher dose cohorts (Nov. 2021)
+
+8
+Tregs Important Role in Homeostasis and in Autoimmune Disease
+•
+Regulatory T cells (Tregs) are CD4
++
+FoxP3
++
+cells
+expressing CD25 (IL
+-
+2R
+α
+) that maintain immune
+tolerance in tissues by suppressing the function of
+both CD4 and CD8 effector T cells
+•
+Tregs are dysfunctional in most autoimmune diseases
+•
+A therapeutic approach has been to restore Treg
+numbers and function via a low
+-
+dose IL
+-
+2 regimen
+•
+Treg homeostasis depends on IL
+-
+2
+•
+IL
+-
+2 as a drug suffers from fast
+in vivo
+clearance and a
+narrow therapeutic index
+APCs
+Teffs
+Tregs
+B cells
+NK cells
+
+9
+IL
+-
+2 Activates Multiple T Cell Types
+XmAb564 is Engineered to Improve for Treg Selectivity
+Overall 400
+-
+1000x
+reduced potency
+2x increase to
+CD25
+(IL2R
+α
+)
+binding and
+reduced affinity for IL2R
+β
+Heterodimeric
+Fc with
+Xtend
+™
+No effector
+function
+IL2
+Monovalent to
+avoid undesired
+activation
+Tcon
+= conventional T cell
+Tcons
+IL2R
+β
+CD25
+(IL2R
+α
+)
+IL2R
+γ
+Tregs
+NK cells
+WT = wild
+-
+type
+
+10
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+5
+10
+6
+10
+7
+0
+1000
+2000
+3000
+Concentration (pM)
+pSTAT5 MFI
+CD4+CD45RA+
+CD4+CD45RA-
+Tregs
+CD8+CD45RA+
+CD8+CD45RA-
+Gamma Delta Cells
+CD56+ NK cells
+XmAb564 Design Reduces Potency and Improves Treg Selectivity
+XmAb564 exhibits extended half
+-
+life and good
+tolerability in NHPs (not shown)
+Drug conc. (ng/mL)
+Days
+Sustained PK up to Several Days
+in Non
+-
+Human Primates
+Recombinant human WT IL
+-
+2
+XmAb564 w/o Xtend
+™
+XmAb564 Selectively Promotes
+Treg Signaling in Human T Cells
+XmAb564 selectively promotes Tregs and has
+extended half
+-
+life due to low potency and
+Xtend
+™
+Fc domain
+10
+-4
+10
+-3
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+0
+1000
+2000
+3000
+4000
+Concentration (pM)
+pSTAT5 MFI
+CD4+CD45RA+
+CD4+CD45RA-
+Tregs
+CD8+CD45RA+
+CD8+CD45RA-
+Gamma Delta Cells
+CD56+ NK cells
+
+11
+XmAb564 Phase 1a Healthy Volunteer Study Design
+Phase 1a single
+-
+ascending dose (SAD) study
+•
+Randomized and double
+-
+blinded
+•
+Subcutaneous administration of XmAb564
+•
+Heathy volunteers (n=48)
+•
+6 dose level cohorts
+•
+Randomized 6:2 (XmAb564:placebo)
+Outcome measures
+•
+Safety and tolerability
+•
+Pharmacokinetics and
+activity biomarkers
+(e.g., T
+-
+cell populations)
+0.003
+mg/kg
+n=6
+0.007
+mg/kg
+n=6
+0.015
+mg/kg
+n=6
+0.025
+mg/kg
+n=6
+0.04
+mg/kg
+n=6
+0.065
+mg/kg
+n=6
+Cohort 1
+Cohort 2
+Cohort 3
+Cohort 4
+Cohort 5
+Cohort 6
+P
+n=2
+P
+n=2
+P
+n=2
+P
+n=2
+P
+n=2
+P
+n=2
+Placebo
+n=12
+XmAb564
+n=36
+
+12
+XmAb564 Was Well Tolerated
+Well tolerated including at the highest dose evaluated (0.065 mg/kg)
+•
+All adverse events (AEs) were grade 1 or 2 (mild
+-
+to
+-
+moderate) and self
+-
+limited
+•
+Injection site reaction was the most reported AE
+•
+No serious AEs, dose
+-
+limiting toxicities or early discontinuations due to AEs
+•
+No clinically significant abnormalities in laboratory values, vital signs and ECGs
+Laboratory findings and pharmacokinetics
+•
+Some subjects had transient, reversible elevations in blood eosinophils
+•
+No eosinophil
+-
+related AEs were observed
+•
+Possibly related to mechanism
+-
+of
+-
+action, reported in other third
+-
+party CD25
+-
+targeting IL
+-
+2 programs
+•
+No other clinically significant abnormalities in safety laboratory studies were observed
+•
+Terminal half
+-
+life is estimated to be 9
+-
+10 days at lower doses and 6
+-
+7 days at the highest dose,
+consistent with an increase in CD25 target
+-
+mediated clearance on the expanding Treg population
+Study remains blinded
+
+13
+117x
+10x
+32x
+2x
+**
+**
+**
+**
+**
+*
+21x
+6x
+6x
+XmAb564 Promotes Robust & Durable Expansion of CD25
+bright
+Tregs
+Numeric values in “Peak Fold Change” plot are Mean
+1
+Peak fold change: Peak CD25
+bright
+FoxP3
++
+CD4 Treg cell absolute count at a post
+-
+treatment time point divided by absolute count at baseline
+NS: p>0.05, *: p≤0.05, **: p≤0.01, ***:p≤0.001 compared with placebo treated cohort, Wilcoxon test
+Durable, dose
+-
+dependent
+increases in CD25
+bright
+Tregs
+Highest reported CD25
+bright
+Treg expansion
+Peak Fold Change
+1
+Time Course
+Absolute Counts (per
+μ
+l)
+Treg baseline counts are low
+integer values, leading to
+between group variability in
+fold change calculations
+117
+-
+fold mean peak
+expansion over
+baseline in Cohort 6
+
+14
+0.14
+0.04
+0.03
+0.02
+0.01
+0.01
+0
+***
+***
+***
+***
+**
+*
+XmAb564 Promotes Robust & Durable Increases in CD25
+bright
+Treg/
+Tcon
+ratio
+Treg baseline counts
+are not used in
+Treg/
+Tcon
+ratio
+calculations, leading
+to less variability in
+ratio values
+Time Course
+Peak Ratio
+Numeric values in “Peak Fold Change” plot are Mean
+Dashed horizontal blue line represents the average of pre
+-
+dose values from all 48 subjects with
+±
+2SD shown in grey lines
+NS: p>0.05, *: p≤0.05, **: p≤0.01, ***:p≤0.001 compared with placebo treated cohort, Wilcoxon test
+
+15
+8x
+2x
+4x
+3x
+**
+*
+5x
+2x
+3x
+XmAb564 Promotes Robust & Durable Expansion of Total Tregs
+Numeric values in “Peak Fold Change” plot are Mean
+1
+Peak fold change: Peak CD25
++
+FoxP3
++
+CD4 Treg cell absolute count at a post
+-
+treatment time point divided by absolute count at baseline
+NS: p>0.05, *: p≤0.05, **: p≤0.01, ***:p≤0.001 compared with placebo treated cohort, Wilcoxon test
+Treg baseline counts
+are low integer values,
+leading to between
+group variability in fold
+change calculations
+Time Course
+Peak Fold Change
+1
+
+16
+145
+26
+16
+24
+33
+11
+11
+***
+65
+8
+6
+**
+**
+10
+3
+3
+2
+CD25
+bright
+and Total Treg Remain Elevated for at Least 3 Weeks
+Day 21 CD25
+bright
+Treg Cell Count
+CD25
+hi
+FoxP3
++
+CD4
++
+Numeric values in plots are Mean
+NS: p>0.05, *: p≤0.05, **: p≤0.01, ***:p≤0.001 compared with placebo treated cohort, Wilcoxon test
+Day 21 Total Treg Cell Count
+CD25
++
+FoxP3
++
+CD4
++
+**
+
+17
+XmAb564 Induces Minimal Increases in Conventional T cells and NK Cells
+CD56
++
+NK Cell Count
+CD8
++
+Tcon
+Cell Count
+CD4
++
+Tcon
+Cell Count
+Dashed horizontal blue line represent the average of pre
+-
+dose values from all 48 subjects with
+±
+2SD shown in grey lines
+
+18
+XmAb564 Phase 1a Topline Summary
+XmAb564 is well tolerated and generates a durable, dose
+-
+dependent and selective expansion
+of Tregs with a single dose
+•
+117
+-
+fold mean peak expansion over baseline in CD25
+bright
+Tregs and 8
+-
+fold mean peak expansion
+in total Tregs at highest dose
+•
+Marked elevation of Tregs sustained through at least day 21: CD25
+bright
+and total Tregs increased
+44
+-
+fold and 4.5
+-
+fold at highest dose, respectively
+•
+Treg/
+Tcon
+ratio increased significantly in a dose
+-
+dependent manner
+•
+All AEs Grade 1/2 and resolved without intervention
+Phase 1b study in patients
+•
+First patient dosed in a newly initiated Phase 1b, multiple
+-
+ascending dose (MAD) study of
+XmAb564 in patients with atopic dermatitis and psoriasis
+•
+Multiple dosing schedules to be explored based on pharmacodynamic data
+
+19
+Xencor’s Growing Portfolio of Potency
+-
+Optimized XmAb® Cytokines
+Second validation of Xencor’s approach to cytokine therapeutics
+•
+XmAb306 (IL
+-
+15) Phase 1 demonstrated 40
+-
+to 100
+-
+fold increases in
+activated NK cells and accumulation upon multiple doses
+•
+In two first
+-
+in
+-
+human studies, reduced potency and long half
+-
+life has
+translated to improved tolerability compared to the high toxicities
+generated by native cytokines
+XmAb Cytokines
+•
+Engineered to expand select immune cell populations
+•
+Designed to be tolerable, active and easy to use
+IL
+-
+15/IL
+-
+15R
+a
+XmAb306
+Phase 1
+IL
+-
+2 (Treg selective)
+XmAb564
+Phase 1b
+IL12
+-
+p40/IL12
+-
+p35
+XmAb662
+Phase 1 in 2023
+Decoy resistant IL
+-
+18
+Preclinical stages
+LAG3
+-
+targeted IL
+-
+15
+Preclinical stages
+Native cytokine
+XmAb
+potency
+-
+optimized
+cytokine
+-
+Fc
+Toxicity
+Activity
+Time
+→
+WHOLLY OWNED
+GENENTECH COLLABORATION
+45% Xencor economics
+
+®
+Q&A
+
+®
+Data Appendix
+
+22
+***
+82.3x
+16.7x
+16.7x
+***
+**
+8.5x
+5.7x
+5.1x
+2.1x
+***
+**
+Peak Fold Induction of CD25
+bright
+and Total Treg Cells Shows Consistent
+Dose Response of Treg Populations to XmAb564
+Total Treg Peak Fold Induction
+1
+CD25
++
+FoxP3
++
+CD4
++
+Numeric value in “Peak Fold Change” plot is Mean
+1
+Peak fold induction: Peak CD25
+bright
+Treg or total Treg cell absolute counts of each subject divided by the average of all pre
+-
+dose values from all subjects (n=48)
+NS: p>0.05, *: p≤0.05, **: p≤0.01, ***:p≤0.001 compared with placebo treated cohort, Wilcoxon test
+10.7x
+3.2x
+2.9x
+2.0x
+***
+2.4x
+1.7x
+1.7x
+Treg Peak Fold Induction
+1
+CD25
+hi
+FoxP3
++
+CD4
++
+
+23
+Ratio of CD25
+bright
+/
+Tcon
+and Total Treg/
+Tcon
+Peak Fold Induction Shows
+Consistent Dose Response of Treg Populations to XmAb564
+Numeric value in “Peak Fold Change” plot is Mean
+Peak fold induction: Peak CD25
+bright
+Treg/
+Tcon
+or total Treg/
+Tcon
+ratios of each subject divided by the average of all pre
+-
+dose values from all subjects (n=48)
+NS: p>0.05, *: p≤0.05, **: p≤0.01, ***:p≤0.001 compared with placebo treated cohort, Wilcoxon test
+7.3x
+3.7x
+2.5x
+2.0x
+1.6x
+1.9x
+1.8x
+***
+***
+***
+***
+56.9x
+17.5x
+14.1x
+6.7x
+4.4x
+5.4x
+1.9x
+***
+***
+**
+*
+CD25
+bright
+Treg/
+Tcon
+Peak Fold Induction
+CD25
+hi
+FoxP3
++
+CD4
++
+Total Treg/
+Tcon
+Peak Fold Induction
+CD25
++
+FoxP3
++
+CD4
++

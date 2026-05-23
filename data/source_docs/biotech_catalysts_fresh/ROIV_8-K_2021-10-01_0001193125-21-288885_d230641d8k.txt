@@ -1,0 +1,319 @@
+Form 8-K
+
+false 0001635088 --03-31 0001635088 2021-09-28 2021-09-28 0001635088 us-gaap:CommonStockMember 2021-09-28 2021-09-28 0001635088 us-gaap:WarrantMember 2021-09-28 2021-09-28
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): September 28, 2021
+
+ 
+
+ 
+
+Roivant Sciences Ltd.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+ 
+
+ 
+
+Bermuda
+
+ 
+
+001-40782
+
+ 
+
+98-1173944
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Suite 1, 3rd Floor
+
+11-12 St. James’s Square
+
+London SW1Y 4LB
+
+United Kingdom
+
+(Address of Principal Executive Offices, and Zip Code)
+
++44 207 400 3347
+
+Registrant’s Telephone Number, Including Area Code
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+ 
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Shares, $0.0000000341740141 par value per share
+
+ 
+
+ROIV
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Redeemable warrants, each whole warrant exercisable for one Common Share
+
+ 
+
+ROIVW
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☒
+
+ 
+
+ 
+
+ 
+
+INTRODUCTORY NOTE
+
+On September 30, 2021, Roivant Sciences Ltd. (“Roivant” or the “Company”) completed its previously announced business combination (the “Business Combination”) with Montes Archimedes Acquisition Corp. (“MAAC”), through the merger of Roivant’s wholly-owned subsidiary, Rhine Merger Sub, Inc. with MAAC, with MAAC surviving the Business Combination as a wholly owned subsidiary of Roivant. On October 1, 2021, Roivant’s common shares, $0.0000000341740141 par value per share (the “Common Shares”), and warrants are expected to commence trading on The Nasdaq Global Market under the symbols “ROIV” and “ROIVW,” respectively.
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On September 30, 2021, Roivant, MAAC, Patient Square Capital LLC, a Delaware limited liability company (“MAAC Sponsor”) and the other parties thereto entered into an amendment (“Amendment No. 2”) to the Sponsor Support Agreement, dated as of May 1, 2021, as amended by Amendment No. 1 thereto, dated as of June 9, 2021 (as amended, the “Sponsor Support Agreement”), to (i) amend and specify the number of Common Shares that constitute “20% Earn-Out Shares,” “10% Earn-Out Shares” and “Retained Shares” for purposes of the Sponsor Support Agreement and (ii) amend the commencement date of the time period during which the Earn-Out Shares (as defined in the Sponsor Support Agreement) may vest and become free of the restrictions set forth in Section 2(b) of the Sponsor Support Agreement.
+
+The foregoing description is qualified in its entirety by the text of Amendment No. 2, which is included as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+Item 3.02.
+
+Unregistered Sales of Equity Securities
+
+Prior to the consummation of the Business Combination, MAAC and Roivant entered into subscription agreements (collectively, the “Subscription Agreements”) with certain institutional and accredited investors, pursuant to which such investors agreed to subscribe for and purchase, and MAAC agreed to issue and sell to such investors, prior to and substantially concurrently with the closing of the Business Combination, an aggregate of 22,000,000 shares of MAAC Class A common stock at a purchase price of $10.00 per share, for aggregate gross proceeds of $220,000,000 (the “PIPE Financing”). The PIPE Financing was consummated substantially concurrently with the closing of the Business Combination. Each share of MAAC Class A common stock issued in the PIPE Financing was converted into one Common Share in connection with the closing of the Business Combination. The issuance of the Common Shares pursuant to the PIPE Financing was not registered under the Securities Act of 1933, as amended (the “Securities Act”), and the Common Shares were issued in reliance upon the exemption provided in Section 4(a)(2) of the Securities Act.
+
+The foregoing description is qualified in its entirety by reference to the Subscription Agreements, the form of which is included as Exhibit 10.2 to this Current Report and is incorporated herein by reference.
+
+ 
+
+Item 3.03.
+
+Material Modification to Rights of Security Holders.
+
+The information set forth in Item 5.03 is incorporated herein by reference.
+
+ 
+
+Item 5.02.
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On September 28, 2021 (the “Effective Date”), the Company appointed Richard Pulik as Principal Financial Officer of the Company and as Chief Financial Officer of the Company’s subsidiary, Roivant Sciences, Inc. (“RSI”). Matthew Gline, who has been serving as Principal Financial Officer of the Company and Chief Financial Officer of RSI, will step down from those positions as of the Effective Date. Mr. Gline will continue to serve as Principal Executive Officer of the Company and Chief Executive Officer of RSI.
+
+Mr. Pulik brings over twenty years of experience in the biopharmaceutical industry and finance. Prior to joining the Company, Mr. Pulik was the Global Head of Business Development & Licensing and Portfolio Management, Oncology at Novartis and a member of Novartis’s Innovation Management Board and the Novartis Oncology Leadership Team, from August 2019 to September 2021. Mr. Pulik joined Novartis in 2012 as a Senior Director, Mergers & Acquisitions based in Basel, Switzerland working on the strategy and execution of the deals that shaped Novartis. In 2015, Mr. Pulik was appointed as Vice President, Head of North America Investor Relations for Novartis. Prior to these roles at Novartis, Mr. Pulik worked at Bank of America Merrill Lynch, Monitor Group and UBS Investment Bank, focusing on mergers and acquisitions and strategy in the healthcare sector. Mr. Pulik received a B.S. in Finance from The Wharton School and a B.A. in Economics and International Relations at the University of Pennsylvania in 2001.
+
+In connection with Mr. Pulik’s appointment as Chief Financial Officer of RSI, the parties entered into an employment agreement (the “Employment Agreement”). Pursuant to the terms of the Employment Agreement, Mr. Pulik will receive an annual base salary of $400,000, which is subject to adjustment at the discretion of the compensation committee (the “Compensation Committee”) of the Company’s board of directors, and is eligible to receive a discretionary annual performance bonus, with a target annual value equal to 100% of his base salary based on an assessment by the Compensation Committee of his performance, as well as business conditions at the Company. Mr. Pulik received a grant (the “RSU Grant”) of 75,188 restricted stock units (“RSUs”) under the Roivant Sciences Ltd. Amended and Restated 2015 Equity Incentive Plan (the “2015 Plan”) on the Effective Date. At closing of the business combination between the Company and Montes Archimedes Acquisition Corp., the number of RSUs subject to the RSU Grant was adjusted to 220,015 RSUs, as part of the share subdivision applied to all pre-closing Company common shares and equity incentive awards. Mr. Pulik will also receive a grant of stock options (the “Option Grant”) to purchase 313,419 shares of the Company’s common stock under the Roivant Sciences Ltd. 2021 Equity Incentive Plan (the “2021 Plan”). The equity awards underlying the RSU Grant and the Option Grant will vest (i) 25% on the first anniversary of the Effective Date and (ii) 75% in equal quarterly installments thereafter over a three-year period, unless Mr. Pulik is terminated without “cause” (as defined in the Employment Agreement) within 12 months following a “change in control” (as defined in the 2015 Plan with respect to the RSU Grant and the 2021 Plan with respect to the Option Grant), in which case the RSU Grant and the Option Grant will immediately become fully vested. The Employment Agreement also provides for Mr. Pulik’s eligibility to receive additional discretionary periodic or annual equity incentive awards and participation in the Company’s employee benefits plans and programs and his execution of the Company’s standard Employee Non-Disclosure, Invention Assignment and Restrictive Covenant Agreement.
+
+Pursuant to the Employment Agreement, in the event Mr. Pulik’s employment is terminated without “cause” (other than due to Mr. Pulik’s death or “disability”) or Mr. Pulik resigns for “good reason” (each as defined in the Employment Agreement), then, subject to Mr. Pulik’s timely execution and non-revocation of a release of claims and continued compliance with applicable restrictive covenants, Mr. Pulik will be entitled to receive (i) continued payment of his base salary for six months following the date of his termination, payable in accordance with customary payroll procedures, (ii) an amount equal to 50% of his target annual bonus for the year of termination, payable in six equal monthly installments following the date of his termination and (iii) monthly reimbursement of COBRA premiums (less active employee rates) for 6 months following the date of his termination (or, if earlier, until the date Mr. Pulik becomes eligible for coverage under a subsequent employer’s group health insurance plan).
+
+The foregoing description of the Employment Agreement is a summary only and is qualified in its entirety by reference to the full text of the Employment Agreement. A copy of the Employment Agreement will be filed as an exhibit to the Company’s quarterly report on Form 10-Q for the fiscal quarter ending September 30, 2021.
+
+There are no family relationships between Mr. Pulik and any director or executive officer of the Company or its subsidiaries.
+
+ 
+
+Item 5.03.
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+On September 30, 2021, Roivant amended and restated its bye-laws (the “A&R Bye-laws”) in connection with the closing of the Business Combination. The A&R Bye-laws are included as Exhibit 3.1 to this Current Report on Form 8-K and are incorporated herein by reference. The terms of the A&R Bye-laws are substantially the same as the terms set forth in the form previously filed as Exhibit 3.2 to Roivant’s Registration Statement on Form S-4, initially filed on May 14, 2021.
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+On October 1, 2021, Roivant and MAAC issued a press release relating to the completion of the Business Combination and the expected commencement of trading of Roivant’s securities on The Nasdaq Global Market. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description of Exhibit
+
+  3.1
+
+  
+
+Amended and Restated Bye-laws of Roivant Sciences Ltd.
+
+10.1
+
+  
+
+Amendment No. 2 to the Sponsor Support Agreement, dated as of September 30, 2021, among Roivant, MAAC, MAAC Sponsor and the other parties thereto
+
+10.2
+
+  
+
+Form of Subscription Agreement (incorporated by reference to Annex B of the joint proxy statement/prospectus which is part of Roivant’s registration statement on Form S-4, initially filed on May 14, 2021)
+
+99.1
+
+  
+
+Roivant Sciences Ltd. Press Release, dated October 1, 2021
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded with Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ROIVANT SCIENCES LTD.
+
+By:
+
+ 
+
+/s/ Marianne Romeo
+
+Name:
+
+ 
+
+Marianne Romeo
+
+Title:
+
+ 
+
+Head, Global Transactions & Risk Management
+
+Dated: October 1, 2021

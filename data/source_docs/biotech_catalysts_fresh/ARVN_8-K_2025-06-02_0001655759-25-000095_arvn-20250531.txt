@@ -1,0 +1,194 @@
+arvn-20250531
+0001655759FALSE00016557592025-05-312025-05-31
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 31, 2025
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01 Regulation FD Disclosure.
+
+On May 31, 2025, Arvinas, Inc. (the “Company”), along with Pfizer, Inc. ("Pfizer"), announced detailed results from the Phase 3 VERITAC-2 clinical trial evaluating vepdegestrant (ARV-471) monotherapy versus fulvestrant in adults with estrogen receptor (“ER”)-positive (“ER+”), human epidermal growth factor receptor 2-negative (“HER2-”) (“ER+/HER2-”) advanced or metastatic breast cancer whose disease progressed following prior treatment with cyclin-dependent kinase (“CDK”) 4/6 inhibitors and endocrine therapy. These detailed results, which follow the March 11, 2025 announcement of the topline results from the Phase 3 VERITAC-2 clinical trial, were highlighted in the American Society of Clinical Oncology (ASCO®) press briefing and selected for Best of ASCO, and were presented in a late-breaking oral presentation and were simultaneously published in the New England Journal of Medicine on May 31, 2025. The Company also plans to host a conference call and webcast on June 2, 2025 to review these detailed data.
+
+The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibit 99.1 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01 Other Events.
+
+On May 31, 2025, the Company, along with Pfizer, announced detailed results from the Phase 3 VERITAC-2 clinical trial evaluating vepdegestrant as a monotherapy versus fulvestrant in adults with ER+/HER2- advanced or metastatic breast cancer whose disease progressed following prior treatment with CDK4/6 inhibitors and endocrine therapy. Vepdegestrant is an investigational PROTAC ER degrader for ER+/HER2- breast cancer being jointly developed by the Company and Pfizer and is designed to harness the body’s natural protein disposal system to specifically target and degrade the ER. These detailed results, which follow the March 11, 2025 announcement of the topline results from the Phase 3 VERITAC-2 clinical trial, were highlighted in the ASCO® press briefing and selected for Best of ASCO, and were presented in a late-breaking oral presentation and were simultaneously published in the New England Journal of Medicine on May 31, 2025. The Company and Pfizer plan to engage with regulatory authorities on next steps to potentially bring vepdegestrant to healthcare providers and their patients, and also plan to submit a New Drug Application (“NDA”) for vepdegestrant to the U.S. Food & Drug Administration (“FDA”) in the second half of 2025.
+
+Clinical Trial Design
+
+The Phase 3 VERITAC-2 clinical trial is a global randomized study evaluating the efficacy and safety of vepdegestrant as a monotherapy compared to fulvestrant in patients with ER+/HER2- advanced or metastatic breast cancer. The trial enrolled 624 patients at sites in 26 countries who had previously received treatment with a CDK4/6 inhibitor plus endocrine therapy.  Patients were randomized to receive either vepdegestrant once daily, orally on a 28-day continuous dosing schedule, or fulvestrant, administered intramuscularly on Days 1 and 15 of Cycle 1 and then on Day 1 of each 28-day cycle starting from Day 1 of Cycle 2. The primary endpoint was progression-free survival (“PFS”) in the intent-to-treat (“ITT”) and estrogen receptor 1 mutation (“ESR1m”) populations as determined by blinded independent central review (“BICR”). Overall survival (“OS”) is the key secondary endpoint.
+
+Detailed Clinical Trial Results
+
+Detailed results from the Phase 3 VERITAC-2 clinical trial included the following:
+
+•PFS
+
+◦Vepdegestrant demonstrated a statistically significant and clinically meaningful improvement in PFS among ESR1m patients, reducing the risk of disease progression or death by 43% compared to fulvestrant [Hazard Ratio (“HR”)=0.57 (95% CI 0.42–0.77); 2-sided P<0.001].
+
+◦The median PFS, as assessed by BICR, was 5.0 months with vepdegestrant versus 2.1 months with fulvestrant.
+
+◦Investigator-assessed PFS was consistent with the BICR-assessed PFS;
+
+◦In ESR1m patients, vepdegestrant demonstrated a consistent PFS benefit over fulvestrant across all pre-specified subgroups.
+
+◦The trial did not reach statistical significance in improvement in PFS in the ITT population, with a median PFS of 3.7 months for vepdegestrant versus 3.6 for fulvestrant [HR=0.83 (95% CI 0.68–1.02); 2-sided P=0.07].
+
+•Tolerability and Safety Profile
+
+◦Vepdegestrant was generally well tolerated in the clinical trial, with a safety profile consistent with what has been observed in previous studies, and mostly low-grade treatment-emergent adverse events (“TEAEs”) were reported.
+
+◦Rates and severity of gastrointestinal adverse events were low with vepdegestrant (nausea, 13.5%; vomiting, 6.4%; diarrhea, 6.4%). Grade 4 TEAEs were reported in five patients (1.6%) in the vepdegestrant arm versus nine patients (2.9%) in the fulvestrant arm.
+
+◦The three most common TEAEs observed with vepdegestrant were fatigue (26.6%), increased alanine transaminase (ALT) (14.4%) and increased aspartate aminotransferase (AST) (14.4%); and
+
+◦TEAEs leading to treatment discontinuation occurred in 2.9% of patients taking vepdegestrant versus 0.7% of patients taking fulvestrant.
+
+•Other Data Points
+
+◦OS was immature at the time of the analysis, with less than a quarter of the required number of events having occurred.
+
+◦Additional secondary endpoints include clinical benefit rate (“CBR”) and objective response rate (“ORR”) and duration of response by BICR. In patients with an ESR1 mutation, CBR was 42.1% with vepdegestrant versus 20.2% with fulvestrant [odds ratio 2.88 (95% CI: 1.57–5.39); nominal P<0.001] and ORR was 18.6% with vepdegestrant versus 4.0% with fulvestrant [odds ratio 5.45 (95% CI: 1.69–22.73); nominal P=0.001]. The median duration of response was not reached.
+
+The Company believes that based on these strong data from VERITAC-2, vepdegestrant has the potential to be a best-in-class monotherapy treatment for patients in the second-line ESR1m setting.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the Company’s future plans with respect to vepdegestrant, including planned engagement with regulatory authorities on next steps to potentially bring vepdegestrant to healthcare providers and their patients, planned submission of an NDA for vepdegestrant to the FDA, and the potential for vepdegestrant to be a best-in class monotherapy treatment for patients in the second-line ESR1m setting. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The word “plan,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on such forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including the important factors discussed the important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+Item 9.01 Financial Statements and Exhibits.
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated May 31, 2025
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: June 2, 2025
+
+By:
+
+/s/ Andrew Saik
+
+Andrew Saik
+
+Chief Financial Officer

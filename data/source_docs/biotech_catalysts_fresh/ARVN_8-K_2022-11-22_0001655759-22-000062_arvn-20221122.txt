@@ -1,0 +1,180 @@
+arvn-20221122
+0001655759FALSE00016557592022-11-222022-11-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 22, 2022
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On November 22, 2022, Arvinas, Inc. (the “Company”) issued a press release announcing initial results from the Phase 2 cohort expansion portion (VERITAC) of a phase 1/2 study with ARV-471, a novel PROTAC® estrogen receptor (ER) protein degrader. The Company will present the updated data on a conference call and webcast on November 22, 2022. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The information in this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01
+
+Other Events.
+
+On November 22, 2022, the announced initial results from the Phase 2 cohort expansion portion (VERITAC) of a phase 1/2 study with ARV-471, a novel PROTAC® estrogen receptor (ER) protein degrader. ARV-471 is being co-developed with Pfizer Inc. (Pfizer) for the treatment of patients with locally advanced or metastatic ER positive / human epidermal growth factor receptor 2 (HER2) negative (ER+/HER2-) breast cancer.
+
+These full data are scheduled to be presented on December 8, 2022 at 9:00 a.m. CT in an oral presentation at the 2022 San Antonio Breast Cancer Symposium (SABCS) titled “ARV-471, a PROTAC® estrogen receptor (ER) degrader in advanced ER-positive/human epidermal growth factor receptor 2 (HER2)-negative breast cancer: phase 2 expansion (VERITAC) of a phase 1/2 study.”
+
+VERITAC is the Phase 2 cohort expansion portion of a Phase 1/2 single-arm trial of ARV-471 alone and in combination with palbociclib in patients with ER+/HER2- locally advanced or metastatic breast cancer (mBC) (NCT04072952). In VERITAC, patients were treated with either 200 mg or 500 mg ARV-471 with a primary endpoint of clinical benefit rate (CBR: rate of confirmed complete response, confirmed partial response, or stable disease ≥ 24 weeks). Secondary endpoints include overall response rate (ORR), duration of response (DOR), progression free survival (PFS) and overall survival (OS) as well as safety (Adverse Events) and pharmacokinetics.
+
+As of the data cut-off date of June 6, 2022, 71 patients with locally advanced or metastatic ER+/HER2- breast cancer in the VERITAC expansion cohort were treated once-daily with oral doses of ARV-471 at 200 mg (n=35) or 500 mg (n=36). 100% of patients were previously treated with CDK 4/6 inhibitors; 79% of patients were previously treated with fulvestrant; 73% of patients were previously treated with chemotherapy; and 45% received chemotherapy in the metastatic setting. Patients in VERITAC had a median of four lines of prior therapies.
+
+At the time of data cutoff, ARV-471 administered at 200 mg (n=35) and 500 mg (n=36) demonstrated antitumor activity in 100% CDK4/6 inhibitor-pretreated patients, as measured by a CBR of 38% (total n=71) in all patients, 51.2% in patients with mutant ESR1 tumors (n=41), and 20% in patients with ESR1 wild-type tumors (n=25). At 200 mg, ARV-471 achieved a CBR of 37.1% (n=35) in all patients and 47% in patients with mutant ESR1 tumors (n=19); and at 500 mg, a CBR of 39% (n=36) in all patients and 55% in patients with mutant ESR1 tumors (n=22).
+
+ARV-471 also demonstrated preliminary median progression-free survival (mPFS) of 3.7 months, a secondary endpoint, in all evaluable patients (n=71) and 5.7 months in patients with mutant ESR1 tumors (n=41) For the 200 mg cohort, ARV-471 demonstrated mPFS of 3.5 months in all evaluable patients (n=35) and 5.5 months in patients with mutant ESR1 tumors (n=19). At the time of the data cutoff, data for the 500 mg cohort were immature and therefore not included in a separate analysis.
+
+ARV-471 was well tolerated across both dose levels. Treatment related adverse events (TRAEs) were primarily Grade 1 and 2, with five patients experiencing Grade 3/4 TRAEs. In the 200 mg cohort, TRAEs were: Grade 1 (n=13): 37%; Grade 2 (n=13): 37%; and Grade 3 or 4 (n=2): 6%. Grade 3/4 TRAEs in the 200 mg cohort were Grade 3 QT prolonged (n=1) and Grade 3 thrombocytopenia and Grade 4 hyperbilirubinemia (n=1). In the 500 mg cohort, TRAEs were: Grade 1 (n=11): 31%; Grade 2 (n=9): 25%; and Grade 3 or 4 (n=3): 8%. Grade 3/4 TRAEs in the 500 mg cohort were Grade 3 fatigue (n=1), Grade 3 decreased appetite (n=1), and Grade 3 neutropenia (n=1).
+
+There was one discontinuation due to a treatment-emergent adverse event (TEAE) and no dose reductions in the 200 mg cohort. There were two discontinuations and three dose reductions in the 500 mg cohort.
+
+In the fourth quarter of 2022, the Company expects to initiate the VERITAC-2 Phase 3 trial (First Subject First Visit) with ARV-471 as a second-line treatment in patients with ER+/HER2- metastatic breast cancer. In the first quarter of 2023, the Company expects to initiate the VERITAC-3 Phase 3 trial (First Subject First Visit) with ARV-471 in combination with palbociclib as a first-line treatment in patients with ER+/HER2- metastatic breast cancer. Also in the fourth quarter of 2022, the Company expects to initiate the first two cohorts (First Subject First Visit) and in 2023 and initiate additional arms with other targeted therapies in the ongoing Phase 1b combination trial (TACTIVE-U). The Company expects to present data from the Phase 1b combination trial with palbociclib (Part C of the Phase 1/2 trial) at a medical conference in the first half of 2023.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K, including the document furnished as Exhibit 99.1 hereto, contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the potential for ARV-471 to become a new standard of care for patients with ER+/HER-2 breast cancer; the timing of the Company’s and Pfizer Inc.’s (“Pfizer”) plans to initiate two Phase 3 trials with ARV-471, one in combination with palbociclib, and additional arms with other targeted therapies in the ongoing Phase 1b combination trial (TACTIVE-U); and the timing of the Company’s and Pfizer’s plans to present data from the Phase 1b combination trial with palbociclib. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in the Company’s forward-looking statements, and you should not place undue reliance on the Company’s forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including but not limited to: the Company’s and Pfizer’s performance of their respective obligations with respect to the Company[s collaboration with Pfizer; whether the Company and Pfizer will be able to successfully conduct and complete clinical development for ARV-471; whether the Company obtains marketing approval for and commercialize ARV-471 on its current timelines or at all; whether the Company’s cash and cash equivalent resources will be sufficient to fund its foreseeable and unforeseeable operating expenses and capital expenditure requirements; and other important factors discussed in the “Risk Factors” section of the Company’s Annual Report on Form 10-K for the year ended December 31, 2021 and subsequent other reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press Release, dated November 22, 2022
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: November 22, 2022
+
+By:
+
+/s/ Sean Cassidy
+
+Sean Cassidy
+
+Chief Financial Officer

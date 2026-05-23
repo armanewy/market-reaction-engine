@@ -1,0 +1,95 @@
+{
+  "random_events": 67,
+  "shifted_events": 63,
+  "random_generation_diagnostics": {
+    "rows_total": 67,
+    "rows_used": 67,
+    "rows_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "shifted_generation_diagnostics": {
+    "rows_total": 67,
+    "rows_used": 63,
+    "rows_skipped": 4,
+    "skipped_reasons": {
+      "no_placebo_date_ZLAB": 1,
+      "no_placebo_date_SMMT": 1,
+      "no_placebo_date_MIRM": 1,
+      "no_placebo_date_BBIO": 1
+    }
+  },
+  "random_event_study_diagnostics": {
+    "events_total": 67,
+    "events_ok": 66,
+    "events_skipped": 1,
+    "skipped_reasons": {
+      "not enough pre-event history": 1
+    }
+  },
+  "shifted_event_study_diagnostics": {
+    "events_total": 63,
+    "events_ok": 63,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "random_summary": {
+    "label": "fresh_random_placebo",
+    "rows": 67,
+    "ok_rows": 66,
+    "h1": {
+      "n": 66,
+      "mean_log": 0.004383587927187723,
+      "median_log": -0.00242736826112125,
+      "mean_simple": 0.006730523679824079,
+      "positive_rate": 0.42424242424242425,
+      "mean_abs_log": 0.03493415708233654
+    },
+    "h3": {
+      "n": 66,
+      "mean_log": -0.0036368224073014335,
+      "median_log": -0.00045620302110828664,
+      "mean_simple": -0.0007175301345472688,
+      "positive_rate": 0.5,
+      "mean_abs_log": 0.048034565001560524
+    },
+    "h10": {
+      "n": 66,
+      "mean_log": -0.008054081123287142,
+      "median_log": -0.0026582994410360456,
+      "mean_simple": -0.0017512496735319408,
+      "positive_rate": 0.48484848484848486,
+      "mean_abs_log": 0.08003588461970089
+    }
+  },
+  "shifted_summary": {
+    "label": "fresh_shifted_placebo",
+    "rows": 63,
+    "ok_rows": 63,
+    "h1": {
+      "n": 63,
+      "mean_log": -0.0004181712558991243,
+      "median_log": 0.0030146528043264974,
+      "mean_simple": 0.0002098080010906902,
+      "positive_rate": 0.5396825396825397,
+      "mean_abs_log": 0.024926616664122013
+    },
+    "h3": {
+      "n": 63,
+      "mean_log": 0.004531713153392628,
+      "median_log": 0.007867418475332367,
+      "mean_simple": 0.006638067719419406,
+      "positive_rate": 0.5873015873015873,
+      "mean_abs_log": 0.04535668030675618
+    },
+    "h10": {
+      "n": 63,
+      "mean_log": 0.009521425053434854,
+      "median_log": 0.006070370672675084,
+      "mean_simple": 0.013273847575677105,
+      "positive_rate": 0.5238095238095238,
+      "mean_abs_log": 0.06435476748204727
+    }
+  },
+  "random_weaker_than_main_h1": true,
+  "shifted_weaker_than_main_h1": true
+}

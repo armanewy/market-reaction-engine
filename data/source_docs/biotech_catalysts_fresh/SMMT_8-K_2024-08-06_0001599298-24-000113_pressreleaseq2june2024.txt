@@ -1,0 +1,923 @@
+EX-99.1
+2
+pressreleaseq2june2024.htm
+EX-99.1
+
+Document
+
+Summit Therapeutics Reports Financial Results and Operational Progress
+
+for the Second Quarter and Six Months Ended June 30, 2024
+
+Ivonescimab Monotherapy Achieved Statistically Significant & Clinically Meaningful Improvement over Pembrolizumab Monotherapy Head-to-Head in HARMONi-2 Phase III Trial in 1L Advanced NSCLC
+
+Positive HARMONi-A Data Featured at ASCO and Published in JAMA Supporting Ivonescimab's First Regulatory Approval in China for 2L+ EGFRm Advanced NSCLC
+
+HARMONi and HARMONi-3 Enrollment Continues with HARMONi Planned to Complete Enrollment in Second Half of This Year
+
+Raised $200 Million in Net Proceeds Supporting Updated Cash Guidance for Operations into Q4 2025
+
+Five-Year Strategic Collaboration with MD Anderson to Accelerate Development of Ivonescimab in Several Solid Tumors across Multiple Clinical Trials
+
+Miami, Florida, August 6, 2024 - Summit Therapeutics Inc. (NASDAQ: SMMT) ("Summit," "we," or the "Company") today reports its financial results and provides an update on its operational progress for the second quarter and six months ended June 30, 2024.
+
+Operational & Corporate Updates
+
+•Our operational progress continues with ivonescimab (SMT112), an investigational, potentially first-in-class bispecific antibody combining the effects of immunotherapy via a blockade of PD-1 with the anti-angiogenesis effects associated with blocking VEGF into a single molecule:
+
+◦In January 2023, we closed our Collaboration and License Agreement with Akeso Inc. (Akeso, HKEX Code: 9926.HK) for ivonescimab (SMT112), with which over 1,800 patients have now been treated in clinical studies globally. At the initial time of the deal, Summit received rights to develop and commercialize ivonescimab in the United States, Canada, Europe, and Japan.
+
+▪In June 2024, the agreement was amended and, as a result, expanded to also include Latin America, including Mexico and all countries in Central America, South America, and the Caribbean, the Middle East, and Africa to Summit's license territories for ivonescimab. Akeso retains development and commercialization rights for the rest of the world, including China.
+
+◦Since in-licensing ivonescimab, we have launched a late-stage clinical development program in non-small cell lung cancer (NSCLC) and are actively enrolling two registrational Phase III trials in the following proposed indications:
+
+•HARMONi: Ivonescimab combined with chemotherapy in patients with epidermal growth factor receptor (EGFR)-mutated, locally advanced or metastatic non-squamous NSCLC who have progressed after treatment with a third-generation EGFR tyrosine kinase inhibitor (TKI), with enrollment completion expected in the second half of 2024, and
+
+•HARMONi-3: Ivonescimab combined with chemotherapy in first-line metastatic squamous NSCLC patients, with the first patient having been treated in the fourth quarter of 2023.
+
+◦In late May 2024, positive results were announced from the Phase III HARMONi-A trial which were subsequently presented at the 2024 Annual Meeting of the American Society of Clinical Oncology (ASCO 2024) and published in the Journal of the American Medical Association (JAMA). HARMONi-A, a single-region, randomized, double-blinded Phase III study in patients with NSCLC who have progressed following an EGFR-TKI, achieved its primary endpoint of progression-free survival (PFS) for patients receiving ivonescimab in combination with doublet chemotherapy (pemetrexed and
+
+carboplatin). The HARMONi-A trial was conducted in China and sponsored by Akeso with data generated and analyzed by Akeso. This is a clinical setting where PD-1 monoclonal antibodies have previously been unsuccessful in Phase III global clinical trials.
+
+▪Patients (n=322) experienced a 54% reduction in disease progression or death as compared to placebo plus doublet-chemotherapy (HR: 0.46, 95% CI: 0.34 - 0.62; p<0.001). In a pre-specified subgroup PFS analysis of patients who received a previous third-generation TKI, a hazard ratio of 0.48 was observed. The Phase III study was considered to have demonstrated a tolerable safety profile and a low discontinuation rate of ivonescimab for adverse events.
+
+◦Additionally, on May 30, 2024, Akeso announced that HARMONi-2, in which ivonescimab was administered as a monotherapy, resulted in a statistically significant improvement in PFS when compared to monotherapy pembrolizumab in patients with previously untreated advanced or metastatic NSCLC whose tumors had positive PD-L1 expression (PD-L1 tumor proportion score, or TPS, ≥1%). The PFS benefit was demonstrated across clinical subgroups, including those with PD-L1 low expression (PD-L1 TPS 1-49%), PD-L1 high expression (PD-L1 TPS ≥ 50%), squamous and non-squamous histologies, as well as other high-risk patients.
+
+▪These results are unprecedented as ivonescimab is the first known drug to achieve clinically meaningful efficacy benefit over pembrolizumab in a randomized Phase III clinical trial in NSCLC. The HARMONi-2 trial was conducted in China and sponsored by Akeso with data generated and analyzed by Akeso. Previously, Akeso announced that it intends to release the results from this study at an upcoming medical conference later in the year.
+
+◦In July 2024, we announced a five-year strategic collaboration with The University of Texas MD Anderson Cancer Center (MD Anderson) to accelerate the development of ivonescimab in several solid tumors across multiple clinical trials. Under the agreement, MD Anderson will lead multiple clinical trials to evaluate the safety and potential clinical benefit of ivonescimab, including the possibility of identifying biomarkers through additional research activities. Leveraging the clinical infrastructure and research expertise of MD Anderson, the collaboration is designed to quickly discover opportunities for ivonescimab, including several tumors outside of the current development plan. Early work may include certain types of renal cell carcinoma, colorectal cancer, skin cancer, and breast cancer, as well as glioblastoma.
+
+◦During the quarter ended June 30, 2024, we also strengthened our Board of Directors with the appointment of two new members:
+
+▪In April 2024, the Company appointed Mostafa Ronaghi, PhD, to its Board of Directors. Dr. Ronaghi is the Co-Founder and Executive Board Member of Cellanome. He was previously the Chief Technology Officer at Illumina, Inc. from 2008 to 2021. While at Illumina, in 2016, Dr. Ronaghi co-founded GRAIL, a next-gen liquid biopsy platform for cancer detection. Dr. Ronaghi holds a Ph.D. in Biotechnology from Royal Institute of Technology in Stockholm, Sweden.
+
+▪In June 2024, the Company appointed Jeff Huber to its Board of Directors. Mr. Huber is the Co-Founder and General Partner of Triatomic Capital Private LP, a venture capital firm. Prior to founding Triatomic, Mr. Huber was the Founding CEO and Vice Chairman of GRAIL, Inc. Prior to GRAIL, he was a Senior Vice President at Alphabet Inc. (formerly Google Inc.). Mr. Huber holds a B.S. in Computer Engineering from the University of Illinois and an M.B.A. from Harvard Business School.
+
+Financial Highlights
+
+Cash and Cash Equivalents, Restricted Cash, & Short-term Investments
+
+•In June 2024, we received and accepted an unsolicited offer from an institutional investor to purchase 22,222,222 shares of the Company’s common stock at $9.00 per share, a premium to the closing price on Friday, May, 31, 2024, for aggregate gross and net proceeds to the Company of approximately $200.0 million.
+
+•On August 6, 2024, we intend to file a Form S-3 in order to register the above referenced 22.2 million shares that were purchased in June 2024.
+
+•Aggregate cash and cash equivalents, restricted cash, and short-term investments were $325.8 million and $186.2 million at June 30, 2024 and December 31, 2023, respectively. Research and development tax credits were $1.3 million and $1.8 million at June 30, 2024 and December 31, 2023, respectively.
+
+Updated Cash Guidance
+
+•Based on the Company’s current operating plans and its existing cash, cash equivalents, and short-term investments, we updated our cash guidance. We believe we have sufficient cash to fund operations into the fourth quarter of 2025.
+
+GAAP and Non-GAAP Research and Development (R&D) Expenses
+
+•GAAP R&D expenses according to generally accepted accounting principles in the U.S. (“GAAP”) were $30.8 million for the second quarter of 2024, compared to $9.5 million for the same period of the prior year.
+
+•Non-GAAP R&D expenses were $27.3 million for the second quarter of 2024, compared to $8.8 million for the same period of the prior year.
+
+GAAP Acquired In-Process Research and Development (Acquired IPR&D) Expenses
+
+•GAAP Acquired IPR&D expenses were $15.0 million for the second quarter of 2024, compared to zero for the same period of the prior year. Second quarter 2024 GAAP Acquired IPR&D expenses of $15.0 million related to our upfront consideration pursuant to the June 2024 license agreement amendment with Akeso.
+
+GAAP and Non-GAAP General and Administrative (G&A) Expenses
+
+•GAAP G&A expenses were $14.0 million for the second quarter of 2024, compared to $6.3 million for the same period of the prior year.
+
+•Non-GAAP G&A expenses were $6.4 million for the second quarter of 2024, compared to $5.2 million for the same period of the prior year.
+
+GAAP and Non-GAAP Operating Expenses
+
+•GAAP operating expenses were $59.8 million for the second quarter of 2024, compared to $15.8 million for the same period of the prior year. Second quarter 2024 GAAP R&D expenses included $15.0 million acquired in-process research and development expense related to our upfront consideration pursuant to the June 2024 license agreement amendment with Akeso.
+
+•Non-GAAP operating expenses were $33.7 million for the second quarter of 2024, compared to $13.9 million for the same period of the prior year. The increase is primarily due to expansion of clinical study and development costs related to ivonescimab and increases in people cost as we continue to build out our R&D team.
+
+GAAP and Non-GAAP Net Loss
+
+•GAAP net loss in the second quarter of 2024 and 2023 was $60.4 million or $(0.09) per basic and diluted share, and $14.7 million or $(0.02) per basic and diluted share, respectively.
+
+•Non-GAAP net loss in the second quarter of 2024 and 2023 was $34.3 million or $(0.05) per basic and diluted share, and $12.8 million or $(0.02) per basic and diluted share, respectively.
+
+Use of Non-GAAP Financial Measures
+
+This release includes measures that are not in accordance with U.S. generally accepted accounting principles (“Non-GAAP measures”). These Non-GAAP measures should be viewed in addition to, and not as a substitute for, Summit's reported GAAP results, and may be different from Non-GAAP measures used by other companies. In addition, these Non-GAAP measures are not based on any comprehensive set of accounting rules or principles. Summit management uses these non-GAAP measures for internal budgeting and forecasting purposes and to evaluate Summit’s financial performance. Summit management believes the presentation of these Non-GAAP measures is useful to investors for comparing prior periods and analyzing ongoing business trends and operating results. For further information regarding these Non-GAAP measures, please refer to the tables presenting reconciliations of our Non-GAAP results to our U.S. GAAP results and the “Notes on our Non-GAAP Financial Information” that accompany this press release.
+
+Second Quarter 2024 Earnings Call
+
+Summit will host an earnings call this morning, Tuesday, August 6, 2024, at 9:00am ET. The conference call will be accessible by dialing (888) 210-3702 (toll-free domestic) or (646) 960-0191 (international) using conference code 5785899. A live webcast and instructions for joining the call are accessible through Summit’s website www.smmttx.com. An archived edition of the webcast will be available on our website after the call.
+
+About Ivonescimab
+
+Ivonescimab, known as SMT112 in Summit’s license territories, the United States, Canada, Europe, Japan, Latin America, including Mexico and all countries in Central America, South America, and the Caribbean, the Middle East, and Africa, and as AK112 in China and Australia, is a novel, potential first-in-class investigational bispecific antibody combining the effects of immunotherapy via a blockade of PD-1 with the anti-angiogenesis effects associated with blocking VEGF into a single molecule. Ivonescimab displays unique cooperative binding to each of its intended targets with multifold higher affinity when in the presence of both PD-1 and VEGF.
+
+This could differentiate ivonescimab as there is potentially higher expression (presence) of both PD-1 and VEGF in tumor tissue and the tumor microenvironment (TME) as compared to normal tissue in the body. Ivonescimab’s tetravalent structure (four binding sites) enables higher avidity (accumulated strength of multiple binding interactions) in the TME with over 18-fold increased binding affinity to PD-1 in the presence of VEGF in vitro, and over 4-times increased binding affinity to VEGF in the presence of PD-1 in vitro (Zhong, et al, SITC, 2023). This tetravalent structure, the intentional novel design of the molecule, and bringing these two targets into a single bispecific antibody with cooperative binding qualities have the potential to direct ivonescimab to the tumor tissue versus healthy tissue. The intent of this design, together with a half-life of 6 to 7 days (Zhong, et. al., SITC, 2023), is to improve upon previously established efficacy thresholds, in addition to side effects and safety profiles associated with these targets.
+
+Ivonescimab was engineered by Akeso Inc. (HKEX Code: 9926.HK) and is currently engaged in multiple Phase III clinical trials. Over 1,800 patients have been treated with ivonescimab in clinical studies globally.
+
+Summit has begun its clinical development of ivonescimab in non-small cell lung cancer (NSCLC), commencing enrollment in 2023 in two multi-regional Phase III clinical trials, HARMONi and HARMONi-3.
+
+HARMONi is a Phase III clinical trial which intends to evaluate ivonescimab combined with chemotherapy compared to placebo plus chemotherapy in patients with EGFR-mutated, locally advanced or metastatic non-squamous NSCLC who have progressed after treatment with a 3rd generation EGFR TKI (e.g., osimertinib).
+
+HARMONi-3 is a Phase III clinical trial which is designed to evaluate ivonescimab combined with chemotherapy compared to pembrolizumab combined with chemotherapy in patients with first-line metastatic squamous NSCLC.
+
+In addition, Akeso has recently had positive read-outs in two single-region (China), randomized Phase III clinical trials for ivonescimab in NSCLC, HARMONi-A and HARMONi-2.
+
+HARMONi-A was a Phase III clinical trial which evaluated ivonescimab combined with chemotherapy compared to placebo plus chemotherapy in patients with EGFR-mutated, locally advanced or metastatic non-squamous NSCLC who have progressed after treatment with an EGFR TKI.
+
+HARMONi-2 is a Phase III clinical trial HARMONi-2 evaluating monotherapy ivonescimab against monotherapy pembrolizumab in patients with locally advanced or metastatic NSCLC whose tumors have positive PD-L1 expression (PD-L1 TPS >1%).
+
+Ivonescimab is an investigational therapy that is not approved by any regulatory authority in Summit’s license territories, including the United States and Europe. Ivonescimab was approved for marketing authorization in China in May 2024.
+
+About Lung Cancer
+
+Lung cancer is believed to impact approximately 600,000 people across the United States, United Kingdom, Spain, France, Italy, Germany, and Japan.1 NSCLC is the most prevalent type of lung cancer and represents approximately 80% to 85% of all incidences.2 Among patients with non-squamous NSCLC, approximately 15% have EGFR-sensitizing mutations in the United States and Europe.3 Patients with squamous histology represent approximately 25% to 30% of NSCLC patients.4
+
+About Summit Therapeutics
+
+Summit Therapeutics Inc. is a biopharmaceutical oncology company focused on the discovery, development, and commercialization of patient-, physician-, caregiver- and societal-friendly medicinal therapies intended to improve quality of life, increase potential duration of life, and resolve serious unmet medical needs.
+
+Summit was founded in 2003 and our shares are listed on the Nasdaq Global Market (symbol "SMMT"). We are headquartered in Miami, Florida, and we have additional offices in Menlo Park, California, and Oxford, UK.
+
+For more information, please visit https://www.smmttx.com and follow us on X @summitplc.
+
+Contact Summit Investor Relations:
+
+Dave Gancarz
+
+Chief Business & Strategy Officer
+
+1American Cancer Society: www.cancer.org/cancer/types/lung-cancer/about/key-statistics.html. Accessed April 2024; World Health Organization: International Agency for Research on Cancer, Globocan data by country (UK, Spain, France, Italy, Germany); Japan National Cancer Registry.
+
+2Schabath MB, Cote ML. Cancer Progress and Priorities: Lung Cancer. Cancer Epidemiology, Biomarkers & Prevention. (2019).
+
+3 About EGFR-Positive Lung Cancer | Navigating EGFR (lungevity.org).
+
+4Schabath MB, Cote ML. Cancer Progress and Priorities: Lung Cancer. Cancer Epidemiology, Biomarkers & Prevention. (2019).
+
+Nathan LiaBraaten
+
+Senior Director, Investor Relations
+
+investors@smmttx.com
+
+Summit Forward-looking Statements
+
+Any statements in this press release about the Company’s future expectations, plans and prospects, including but not limited to, statements about the clinical and preclinical development of the Company’s product candidates, entry into and actions related to the Company’s partnership with Akeso Inc., the Company's anticipated spending and cash runway, the therapeutic potential of the Company’s product candidates, the potential commercialization of the Company’s product candidates, the timing of initiation, completion and availability of data from clinical trials, the potential submission of applications for marketing approvals, potential acquisitions, and other statements containing the words "anticipate," "believe," "continue," "could," "estimate," "expect," "intend," "may," "plan," "potential," "predict," "project," "should," "target," "would," and similar expressions, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including the results of our evaluation of the underlying data in connection with the development and commercialization activities for ivonescimab, the outcome of discussions with regulatory authorities, including the Food and Drug Administration, the uncertainties inherent in the initiation of future clinical trials, availability and timing of data from ongoing and future clinical trials, the results of such trials, and their success, and global public health crises, that may affect timing and status of our clinical trials and operations, whether preliminary results from a clinical trial will be predictive of the final results of that trial or whether results of early clinical trials or preclinical studies will be indicative of the results of later clinical trials, whether business development opportunities to expand the Company’s pipeline of drug candidates, including without limitation, through potential acquisitions of, and/or collaborations with, other entities occur, expectations for regulatory approvals, laws and regulations affecting government contracts and funding awards, availability of funding sufficient for the Company’s foreseeable and unforeseeable operating expenses and capital expenditure requirements and other factors discussed in the "Risk Factors" section of filings that the Company makes with the Securities and Exchange Commission. Any change to our ongoing trials could cause delays, affect our future expenses, and add uncertainty to our commercialization efforts, as well as to affect the likelihood of the successful completion of clinical development of ivonescimab. Accordingly, readers should not place undue reliance on forward-looking statements or information. In addition, any forward-looking statements included in this press release represent the Company’s views only as of the date of this release and should not be relied upon as representing the Company’s views as of any subsequent date. The Company specifically disclaims any obligation to update any forward-looking statements included in this press release. 
+
+Summit Therapeutics Inc.
+
+GAAP Condensed Consolidated Statements of Operations
+
+(Unaudited)
+
+(in millions, except per share data)
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2024
+
+2023
+
+2024
+
+2023
+
+Operating expenses:
+
+Research and development
+
+$
+
+30.8 
+
+$
+
+9.5 
+
+$
+
+61.7 
+
+$
+
+19.3 
+
+Acquired in-process research and development
+
+15.0 
+
+— 
+
+15.0 
+
+520.9 
+
+General and administrative
+
+14.0 
+
+6.3 
+
+25.7 
+
+13.3 
+
+Total operating expenses
+
+59.8 
+
+15.8 
+
+102.4 
+
+553.5 
+
+Other operating income, net
+
+0.2 
+
+0.0 
+
+0.4 
+
+0.6 
+
+Operating loss
+
+(59.6)
+
+(15.8)
+
+(102.0)
+
+(552.9)
+
+Other (expense) income, net
+
+(0.8)
+
+1.1 
+
+(1.9)
+
+(4.1)
+
+Net loss
+
+$
+
+(60.4)
+
+$
+
+(14.7)
+
+$
+
+(103.9)
+
+$
+
+(557.0)
+
+Net loss per share attributable to common shareholders per share, basic and diluted
+
+$
+
+(0.09)
+
+$
+
+(0.02)
+
+$
+
+(0.15)
+
+$
+
+(1.03)
+
+Summit Therapeutics Inc.
+
+GAAP Condensed Consolidated Balance Sheet Information
+
+(in millions)
+
+Unaudited
+
+June 30, 2024
+
+December 31, 2023
+
+Cash and cash equivalents, restricted cash, and short-term investments
+
+$
+
+325.8 
+
+$
+
+186.2 
+
+Total assets
+
+$
+
+341.9 
+
+$
+
+202.9 
+
+Total liabilities
+
+$
+
+146.8 
+
+$
+
+125.3 
+
+Total stockholders' equity
+
+$
+
+195.1 
+
+$
+
+77.7 
+
+Summit Therapeutics Inc.
+
+GAAP Condensed Consolidated Statement of Cash Flows Information
+
+(in millions)
+
+Unaudited
+
+Six Months Ended June 30,
+
+2024
+
+2023
+
+Net cash used in operating activities
+
+$
+
+(63.1)
+
+$
+
+(42.4)
+
+Net cash used in investing activities
+
+(180.2)
+
+(644.9)
+
+Net cash provided by financing activities
+
+200.7 
+
+80.0 
+
+Effect of exchange rate changes on cash
+
+— 
+
+0.7
+
+Decrease in cash and cash equivalents
+
+$
+
+(42.6)
+
+$
+
+(606.6)
+
+Summit Therapeutics Inc.
+
+Schedule Reconciling Selected Non-GAAP Financial Measures
+
+(Unaudited)
+
+(in millions, except per share data)
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2024
+
+2023
+
+2024
+
+2023
+
+Reconciliation of GAAP to Non-GAAP Research and Development Expense
+
+GAAP Research and development
+
+$
+
+30.8 
+
+$
+
+9.5 
+
+$
+
+61.7 
+
+$
+
+19.3 
+
+  Stock-based compensation (Note 1)
+
+(3.5)
+
+(0.7)
+
+(5.9)
+
+(1.8)
+
+Non-GAAP Research and development
+
+$
+
+27.3 
+
+$
+
+8.8 
+
+$
+
+55.8 
+
+$
+
+17.5 
+
+Reconciliation of GAAP to Non-GAAP General and Administrative Expenses
+
+GAAP General and administrative
+
+$
+
+14.0 
+
+$
+
+6.3 
+
+$
+
+25.7 
+
+$
+
+13.3 
+
+  Stock-based compensation (Note 1)
+
+(7.6)
+
+(1.1)
+
+(14.7)
+
+(2.8)
+
+Non-GAAP General and administrative
+
+$
+
+6.4 
+
+$
+
+5.2 
+
+$
+
+11.0 
+
+$
+
+10.5 
+
+Reconciliation of GAAP to Non-GAAP Acquired In-Process Research and Development Expenses
+
+GAAP Acquired In-process research and development
+
+$
+
+15.0 
+
+$
+
+— 
+
+$
+
+15.0 
+
+$
+
+520.9 
+
+  Acquired In-process research and development (Note 2)
+
+(15.0)
+
+— 
+
+(15.0)
+
+(520.9)
+
+Non-GAAP Acquired In-process research and development
+
+$
+
+— 
+
+$
+
+— 
+
+$
+
+— 
+
+$
+
+— 
+
+Reconciliation of GAAP Net Loss to Non-GAAP Net Loss
+
+GAAP Net Loss
+
+$
+
+(60.4)
+
+$
+
+(14.7)
+
+$
+
+(103.9)
+
+$
+
+(557.0)
+
+  Stock-based compensation (Note 1)
+
+11.1 
+
+1.9 
+
+20.6 
+
+4.6 
+
+  Acquired In-process research and development (Note 2)
+
+15.0 
+
+— 
+
+15.0 
+
+520.9 
+
+Non-GAAP Net Loss
+
+$
+
+(34.3)
+
+$
+
+(12.8)
+
+$
+
+(68.3)
+
+$
+
+(31.5)
+
+Reconciliation of GAAP Net Loss to Non-GAAP Net Loss Per Common Share
+
+GAAP Net Loss Per Basic and Diluted Common Share
+
+$
+
+(0.09)
+
+$
+
+(0.02)
+
+$
+
+(0.15)
+
+$
+
+(1.03)
+
+  Stock-based compensation (Note 1)
+
+0.02 
+
+— 
+
+0.03 
+
+0.01 
+
+  Acquired In-process research and development (Note 2)
+
+0.02 
+
+— 
+
+0.02 
+
+0.97 
+
+Non-GAAP Net loss Per Basic and Diluted Common Share
+
+$
+
+(0.05)
+
+$
+
+(0.02)
+
+$
+
+(0.10)
+
+$
+
+(0.05)
+
+Basic and Diluted Common Shares
+
+707.9 
+
+697.7 
+
+704.8 
+
+538.8 
+
+Summit Therapeutics Inc.
+
+Schedule Reconciling Selected Non-GAAP Financial Measures
+
+(in millions)
+
+Unaudited
+
+Three Months Ended
+
+June 30,
+2024
+
+March 31, 2024
+
+December 31, 2023
+
+September 31, 2023
+
+June 30,
+
+ 2023
+
+Reconciliation of GAAP to Non-GAAP Operating Expenses
+
+GAAP Operating expenses
+
+$
+
+59.8 
+
+$
+
+42.6 
+
+$
+
+36.4 
+
+$
+
+20.8 
+
+$
+
+15.8 
+
+  Stock-based compensation (Note 1)
+
+(11.1)
+
+(9.5)
+
+— 
+
+(8.7)
+
+— 
+
+(0.7)
+
+— 
+
+(1.9)
+
+  Acquired In-process research and development (Note 2)
+
+(15.0)
+
+— 
+
+— 
+
+— 
+
+— 
+
+Non-GAAP Operating Expense
+
+$
+
+33.7 
+
+$
+
+33.1 
+
+$
+
+27.7 
+
+$
+
+20.1 
+
+$
+
+13.9 
+
+Reconciliation of GAAP Net Loss to Non-GAAP Net Loss
+
+GAAP Net Loss
+
+$
+
+(60.4)
+
+$
+
+(43.5)
+
+$
+
+(36.6)
+
+$
+
+(21.3)
+
+$
+
+(14.7)
+
+  Stock-based compensation (Note 1)
+
+11.1 
+
+9.5 
+
+8.7 
+
+0.7 
+
+1.9 
+
+  Acquired In-process research and development (Note 2)
+
+15.0 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Non-GAAP Net Loss
+
+$
+
+(34.3)
+
+$
+
+(34.0)
+
+$
+
+(27.9)
+
+$
+
+(20.6)
+
+$
+
+(12.8)
+
+Summit Therapeutics Inc.
+
+Notes on our Non-GAAP Financial Information
+
+Non-GAAP financial measures adjust GAAP financial measures for the items listed below. These Non-GAAP measures should be viewed in addition to, and not as a substitute for Summit's reported GAAP results, and may be different from Non-GAAP measures used by other companies. In addition, these Non-GAAP measures are not based on any comprehensive set of accounting rules or principles. Summit management uses these non-GAAP measures for internal budgeting and forecasting purposes and to evaluate Summit’s financial performance. Summit management believes the presentation of these Non-GAAP measures is useful to investors for comparing prior periods and analyzing ongoing business trends and operating results.
+
+Each of non-GAAP Research and Development Expense, non-GAAP General and Administrative Expenses, non-GAAP Operating Expenses, Non-GAAP Net Loss and Non-GAAP EPS differ from GAAP in that such measures exclude the non-cash charges and costs associated with stock-based compensation. In addition, non-GAAP Acquired In-Process Research and Development Expenses, non-GAAP Operating Expenses, non-GAAP Net Loss and non-GAAP EPS each exclude certain one-time charges associated with acquired in-process research and development, in each case as described further in the notes below and as expressed in the tabular reconciliation presented above.
+
+Note 1: Stock-based compensation is a non-cash charge and costs calculated for this expense can vary year-over-year depending on the stock price of awards on the date of grant as well as the timing of compensation award arrangements.
+
+Note 2: Acquired in-process research and development represents a one-time charge associated with the Company's in-licensing of ivonescimab from Akeso.
+
+Appendix: Glossary of Critical Terms Contained Herein
+
+Affinity – Affinity is the strength of binding of a molecule, such as a protein or antibody, to another molecule, such as a ligand.
+
+Avidity – Avidity is the accumulated strength of multiple binding interactions.
+
+Angiogenesis – Angiogenesis is the development, formation, and maintenance of blood vessel structures. Without sufficient blood flow, tissue may experience hypoxia (insufficient oxygen) or lack of nutrition, which may cause cell death.5
+
+Cooperative binding – Cooperative binding occurs when the number of binding sites on the molecule that can be occupied by a specific ligand (e.g., protein) is impacted by the ligand’s concentration. For example, this can be due to an affinity for the ligand that depends on the amount of ligand bound or the binding strength of the molecule to one ligand based on the concentration of another ligand, increasing the chance of another ligand binding to the compound.6
+
+Immunotherapy – Immunotherapy is a type of treatment, including cancer treatments, that help a person’s immune system fight cancer. Examples include anti-PD-1 therapies.7
+
+Intracranial - Within the cranium or skull.
+
+PD-1 – Programmed cell Death protein 1 is a protein on the surface of T cells and other cells. PD-1 plays a key role in reducing the regulation of ineffective or harmful immune responses and maintaining immune tolerance. However, with respect to cancer tumor cells, PD-1 can act as a stopping mechanism (a brake or checkpoint) by binding to PD-L1 ligands that exist on tumor cells and preventing the T cells from targeting cancerous tumor cells.8
+
+PD-L1 – Programmed cell Death Ligand 1 is expressed by cancerous tumor cells as an adaptive immune mechanism to escape anti-tumor responses, thus believed to suppress the immune system’s response to the presence of cancer cells.9
+
+PD-L1 TPS – PD-L1 Tumor Proportion Score represents the percentage of tumor cells that express PD-L1 proteins.
+
+PFS – Progression-Free Survival.
+
+RANO – Response Assessment in Neuro-Oncology, the standard for assessing the response of a brain or spinal cord tumor to therapy.
+
+SQ-NSCLC – Non-small cell lung cancer tumors of squamous histology.
+
+T Cells – T cells are a type of white blood cell that is a component of the immune system that, in general, fights against infection and harmful cells like tumor cells.10
+
+Tetravalent – A tetravalent molecule has four binding sites or regions.
+
+Tumor Microenvironment – The tumor microenvironment is the ecosystem that surrounds a tumor inside the body. It includes immune cells, the extracellular matrix, blood vessels and other cells, like fibroblasts. A tumor and its microenvironment constantly interact and influence each other, either positively or negatively.11
+
+5Shibuya M. Vascular Endothelial Growth Factor (VEGF) and Its Receptor (VEGFR) Signaling in Angiogenesis: A Crucial Target for Anti- and Pro-Angiogenic Therapies. Genes Cancer. 2011 Dec;2(12):1097-105
+
+6Stefan MI, Le Novère N. Cooperative binding. PLoS Comput Biol. 2013;9(6)
+
+7US National Cancer Institute, a part of the National Institute of Health (NIH). https://www.cancer.gov/about-cancer/treatment/types/immunotherapy. Accessed April 2024.
+
+8Han Y, et al. PD-1/PD-L1 Pathway: Current Researches in Cancer. Am J Cancer Res. 2020 Mar 1;10(3):727-742.
+
+9Han Y, et al. PD-1/PD-L1 Pathway: Current Researches in Cancer. Am J Cancer Res. 2020 Mar 1;10(3):727-742.
+
+10Cleveland Clinic. https://my.clevelandclinic.org/health/body/24630-t-cells. Accessed April 2024.
+
+11MD Anderson Cancer Center. https://www.mdanderson.org/cancerwise/what-is-the-tumor-microenvironment-3-things-to-know.h00-159460056.html. Accessed April 2024.
+
+VEGF – Vascular Endothelial Growth Factor is a signaling protein that promotes angiogenesis.12
+
+12Shibuya M. Vascular Endothelial Growth Factor (VEGF) and Its Receptor (VEGFR) Signaling in Angiogenesis: A Crucial Target for Anti- and Pro-Angiogenic Therapies. Genes Cancer. 2011 Dec;2(12):1097-105.

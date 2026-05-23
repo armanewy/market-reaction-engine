@@ -1,0 +1,133 @@
+EX-99.1
+2
+ef20045169_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+Immunocore presents initial multiple ascending dose data for HIV functional cure candidate in an oral presentation at CROI 2025
+
+IMC-M113V was well tolerated, with no dose-limiting toxicities
+
+ 
+
+Signals of dose-dependent reduction in active reservoir, and viral control after complete antiretroviral treatment interruption in some PLWH
+
+ 
+
+Enrollment in MAD portion of the trial continues with higher doses being evaluated
+
+ 
+
+(OXFORDSHIRE, England & CONSHOHOCKEN, Penn. & GAITHERSBURG, Md., US,  10 March 2025) Immunocore Holdings plc (Nasdaq: IMCR) (“Immunocore” or the “Company”), a commercial-stage biotechnology company pioneering and delivering transformative immunomodulating medicines to radically
+improve outcomes for patients with cancer, infectious diseases and autoimmune diseases, has today shared initial data from the multiple ascending dose (MAD) portion of its Phase 1/2 STRIVE trial of IMC-M113V, its functional cure candidate for human
+immunodeficiency virus (HIV).
+
+The data, presented in an oral session at the Conference on Retroviruses and Opportunistic Infections (CROI) 2025, in San Francisco, shows that
+IMC-M113V – the first T cell receptor bispecific therapy to target HIV in the clinic – is well tolerated and shows signals of dose-dependent viral control after antiretroviral treatment (ART) is interrupted. The MAD portion of the trial continues and
+is evaluating higher doses, to be followed by expansion cohorts at one or more doses.
+
+“I am encouraged by the safety profile and initial signals of anti-viral activity of IMC-M113V in the Phase 1/2 trial. It is uncommon to be able to
+interrupt ART for 12 weeks or longer, with the vast majority of people showing viral rebound by 4 weeks,” said Dr. Beatriz Mothe, Associate Investigator, HIV Unit, Infectious Diseases Department, IrsiCaixa, Hospital Germans Trias i Pujol, Barcelona.
+“I look forward to further data from the trial at higher doses, as part of wider efforts to find solutions that could enable people with HIV to remain healthy without lifelong antiretroviral treatment.”
+
+Initial MAD data
+
+The MAD portion of the Phase 1/2 dose escalation trial, reported at CROI, included 16 people living with HIV (PLWH) who were stable on ART.
+Enrollment excluded individuals who had started ART less than 12 weeks after acquiring HIV. While continuing ART, three sequential cohorts evaluated weekly IV infusions of IMC-M113V up to doses of 60 mcg (n=5), 120 mcg (n=5), and 300 mcg (n=6)
+administered over 12 weeks, followed by analytical treatment interruption (ATI) for up to 12 weeks, after which participants resumed their prior ART regimen.
+
+All doses were well tolerated and no serious adverse events (AEs) or dose limiting toxicities were observed. Mild (Grade 1) cytokine release
+syndrome, consisting of fever alone that resolved within 4 hours, was observed in five of the six PLWH in the 300 mcg cohort when receiving their first 300 mcg dose. There were no discontinuations due to AEs. One person withdrew prior to completing
+the dose schedule in the 300 mcg cohort for reasons unrelated to IMC-M113V.
+
+Dose-dependent increases in serum cytokines were observed, consistent with the mechanism of action, with the highest levels of T cell-derived
+cytokines at 300 mcg.
+
+In the 15 evaluable PLWH, delayed viral rebound and/or viremia control at any point during ATI was observed in 0 of 5 PLWH at 60 mcg, 1 of 5 at 120
+mcg, and 2 of 5 at 300 mcg. The 3 PLWH with evidence of viral control had a viral load of approximately 200 c/mL at week 8. The historical rate for this observation is 5%1. Furthermore, 2 of these 3 PLWH remained off ART for the entire 12
+week ATI period that was pre-specified in the protocol.
+
+In the 3 PLWH with evidence of viral control, the pattern consisted of initial viral rebound followed by viral reduction to approximately 200 c/mL,
+including 1 PLWH at 300 mcg who had initial viremia to >104 c/mL before subsequent decrease to <50 c/mL at week 12. This observation of initial viremia followed by control at week 12 is typically observed in <1% of all PLWH1.
+Such ‘regained’ post-treatment control may be associated with an immune response to the virus.
+
+There was also a reduction in CD4+ T cell-associated HIV Gag RNA in some PLWH during treatment, indicating a reduction in the active virus
+reservoir, which was quantified at weeks 1, 7 and 13. A trend of reduction in intact HIV DNA was also observed post-treatment in a preliminary analysis of 6 people treated at the two highest doses.
+
+1 Gunst, J.D., Gohil, J., Li, J.Z. et al. Time to HIV viral rebound and frequency of
+post-treatment control after analytical interruption of antiretroviral therapy: an individual data-based meta-analysis of 24 prospective studies. Nat Commun 16, 906 (2025).
+
+IMC-M113V and the STRIVE trial
+
+IMC-M113V utilizes a T cell receptor that binds to an HLA-A*02:01-Gag complex on HIV-infected immune cells. An anti-CD3 effector arm of the molecule
+then recruits T cells to destroy CD4+ cells containing integrated HIV DNA, known as the reservoir.
+
+The objectives of the first-in-human Soluble T cell Receptors in Viral Eradication (STRIVE) Phase 1/2 trial are to establish safe dose regimens
+administered alongside ART​ and to quantify antiviral activity, measured through post-treatment viral control (<200 c/ml) after ART withdrawal.
+
+The Company presented initial Phase 1 safety and pharmacodynamic activity data from the single-ascending dose portion of the trial in February 2023.
+The data demonstrated IMC-M113V was well tolerated with no serious adverse events. Expected markers of T cell activation were observed in half of people (n=10) who received a maximum dose of 15 mcg.
+
+###
+
+About
+ImmTAV® molecules for infectious diseases
+
+ImmTAV (Immune mobilizing monoclonal TCRs Against Virus) molecules are novel bispecifics that are designed to enable the immune system to recognize
+and eliminate virally infected cells.
+
+Immunocore is advancing clinical candidates to achieve functional cure for patients with HIV and hepatitis B virus (HBV). The Company aims to
+achieve sustained control of HIV after patients stop anti-retroviral therapy (ART), without the risk of virological relapse or onward transmission. This is known as ‘functional cure’. For the treatment of HBV, the Company aims to achieve sustained
+loss of circulating viral antigens and markers of viral replication after stopping medication for people living with chronic HBV.
+
+About
+Immunocore
+
+Immunocore is a commercial-stage biotechnology company pioneering the development of a novel class of TCR bispecific immunotherapies called ImmTAX –
+Immune mobilizing monoclonal TCRs Against X disease – designed to treat a broad range of diseases, including cancer, autoimmune diseases and infectious diseases. Leveraging its proprietary, flexible, off-the-shelf ImmTAX platform, Immunocore is
+developing a deep pipeline in multiple therapeutic areas, including numerous active clinical and pre-clinical programs​ in oncology, infectious diseases, and autoimmune diseases. The Company’s most advanced oncology TCR therapeutic, KIMMTRAK, has
+been approved for the treatment of HLA-A*02:01-positive adult patients with unresectable or metastatic uveal melanoma in the United States, European Union, Canada, Australia, and the United Kingdom.
+
+Forward
+Looking Statements
+
+This press release contains “forward-looking statements” within the meaning of the safe harbor provisions of the Private Securities Litigation
+Reform Act of 1995. Words such as “may”, “will”, “believe”, “expect”, “plan”, “anticipate”, “aim”, “continue”, “target” and similar expressions (as well as other words or expressions referencing future events or circumstances) are intended to
+identify forward-looking statements. All statements, other than statements of historical facts, included in this press release are forward-looking statements. These statements include, but are not limited to, statements regarding the therapeutic
+potential of Immunocore’s product candidates, including IMC-M113V; and expectations regarding the design, progress, timing, enrollment, randomization, scope, expansion, funding, and results of Immunocore’s existing and planned clinical trials,
+including the IMC-M113V STRIVE Phase 1/2 clinical trial and expansions into additional cohorts. Any forward-looking statements are based on management’s current expectations and beliefs of future events and are subject to a number of risks and
+uncertainties that could cause actual events or results to differ materially and adversely from those set forth in or implied by such forward-looking statements, many of which are beyond the Company’s control. These risks and uncertainties include,
+but are not limited to, the impact of worsening macroeconomic conditions on the Company’s business, financial position, strategy and anticipated milestones, including Immunocore’s ability to conduct ongoing and planned clinical trials; Immunocore’s
+ability to obtain a clinical supply of current or future product candidates or commercial supply of KIMMTRAK or any future approved products; Immunocore’s ability to obtain and maintain regulatory approval of its product candidates, including
+KIMMTRAK; Immunocore’s ability and plans in continuing to establish and expand a commercial infrastructure and to successfully launch, market and sell KIMMTRAK and any future approved products; Immunocore’s ability to successfully expand the approved
+indications for KIMMTRAK or obtain marketing approval for KIMMTRAK in additional geographies in the future; the delay of any current or planned clinical trials, whether due to patient enrollment delays or otherwise; Immunocore’s ability to
+successfully demonstrate the safety and efficacy of its product candidates and gain approval of its product candidates on a timely basis, if at all; competition with respect to market opportunities; unexpected safety or efficacy data observed during
+preclinical studies or clinical trials; actions of regulatory agencies, which may affect the initiation, timing and progress of clinical trials or future regulatory approval; Immunocore’s need for and ability to obtain additional funding, on
+favorable terms or at all, including as a result of worsening macroeconomic conditions, including changes in inflation and interest rates and unfavorable general market conditions, and the impacts thereon of the war in Ukraine, the conflict in the
+Middle East, and global geopolitical tension; Immunocore’s ability to obtain, maintain and enforce intellectual property protection for KIMMTRAK or any of its product candidates it or its collaborators are developing; and the success of Immunocore’s
+current and future collaborations, partnerships or licensing arrangements. These and other risks and uncertainties are described in greater detail in the section titled "Risk Factors" in Immunocore’s filings with the Securities and Exchange
+Commission, including Immunocore’s most recent Annual Report on Form 10-K for the year ended December 31, 2024 filed with the Securities and Exchange Commission on February 26, 2025, as well as discussions of potential risks, uncertainties, and other
+important factors in the Company’s subsequent filings with the SEC. All information in this press release is as of the date of the release, and the Company undertakes no duty to update this information, except as required by law.
+
+Contact
+Information
+
+Immunocore
+
+Sébastien Desprez, Head of Communications
+
+T: +44 (0) 7458030732
+
+E: sebastien.desprez@immunocore.com
+
+Follow on LinkedIn: @Immunocore
+
+Investor
+Relations
+
+Clayton Robertson / Morgan Warenius
+
+T: +1 (215) 384-4781
+
+E: ir@immunocore.com

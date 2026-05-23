@@ -1,0 +1,61 @@
+{
+  "agent": "3F",
+  "domain": "biotech_fda_clinical_catalyst",
+  "decision": "result weakened but still promising",
+  "timestamp_audit_path": "artifacts\\biotech_catalyst_timestamp_audit.csv",
+  "duplicate_audit_path": "artifacts\\biotech_catalyst_duplicate_audit.csv",
+  "outlier_audit_path": "artifacts\\biotech_catalyst_outlier_audit.md",
+  "liquidity_risk_audit_path": "artifacts\\biotech_catalyst_liquidity_risk_audit.csv",
+  "matched_peer_audit_path": "artifacts\\biotech_catalyst_matched_peer_audit.csv",
+  "execution_stress_report_path": "artifacts\\biotech_catalyst_execution_stress_report.md",
+  "next_open_execution_stress_path": "artifacts\\biotech_catalyst_next_open_execution_stress.csv",
+  "timestamp_summary": {
+    "rows": 97,
+    "high_risk_rows": 0,
+    "medium_risk_rows": 5,
+    "session_mismatch_rows": 58,
+    "reaction_start_before_expected_rows": 0
+  },
+  "duplicate_summary": {
+    "rows": 97,
+    "high_risk_rows": 0,
+    "source_mirror_rows": 86,
+    "prior_announcement_language_rows": 0,
+    "conference_publication_language_rows": 39
+  },
+  "outlier_summary": {
+    "event_rows": 97,
+    "top_1_abs_h1_share": 0.09654858870425914,
+    "top_3_abs_h1_share": 0.2234687954593378,
+    "top_5_abs_h1_share": 0.29259242070732283,
+    "top_ticker_abs_h1_share": 0.13071537561116328,
+    "top_ticker": "XENE",
+    "crl_halt_failure_abs_h1_share": 0.39619758004027705,
+    "crl_halt_failure_mean_h1": -0.10327288375928939
+  },
+  "liquidity_summary": {
+    "rows": 97,
+    "high_risk_rows": 0,
+    "medium_or_high_risk_rows": 36,
+    "price_under_5_rows": 3,
+    "gap_abs_ge_20pct_rows": 15
+  },
+  "execution_summary": {
+    "close_to_close_100bps_mean_net": 0.07119081968753466,
+    "next_open_25bps_mean_net": 0.007094561343886414,
+    "next_open_trades": 50
+  },
+  "matched_peer_summary": {
+    "rows": 97,
+    "main_h1_mean": -0.01929923292494176,
+    "matched_peer_h1_mean": -0.00032923296285220356,
+    "main_h1_mean_abs": 0.10605122273877503,
+    "matched_peer_h1_mean_abs": 0.023446332372214967
+  },
+  "warnings": [
+    "Daily OHLC cannot prove intraday executable prices or exchange trading halt status.",
+    "SEC exhibit acceptance is used as the best available press-release timestamp when a separate wire timestamp is absent.",
+    "Matched peer control is approximate: market-cap/stage/XBI-beta matching uses available local event and price data, not a hand-curated mechanism peer basket.",
+    "This is not a graduated signal."
+  ]
+}

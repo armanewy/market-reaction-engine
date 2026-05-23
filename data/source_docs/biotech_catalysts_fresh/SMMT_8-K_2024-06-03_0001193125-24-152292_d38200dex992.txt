@@ -1,0 +1,651 @@
+EX-99.2
+3
+d38200dex992.htm
+EX-99.2
+
+EX-99.2
+
+Exhibit 99.2
+
+ 
+
+Ivonescimab in Combination with Chemotherapy Approved in China by NMPA
+
+for 2L+ EGFRm NSCLC based on HARMONi-A Clinical Trial: Positive Trend Observed in Overall Survival towards Ivonescimab Plus Chemotherapy
+
+Separate & Distinct from HARMONi-2 Announcement, HARMONi-A Showed Clinically Meaningful and
+Statistically Significant Benefit: PFS Hazard Ratio of 0.46
+
+For Subset of Patients Previously Receiving 3rd Generation EGFR-TKI: PFS Hazard Ratio of 0.48
+
+5.6%
+Treatment Discontinuation of Ivonescimab due to Adverse Events vs.
+
+2.5% Treatment Discontinuation of Placebo
+
+HARMONi-A to be Featured in Oral Presentation at ASCO 2024 Today, May 31, 2024 at 4:57pm CT
+
+Conference Call to be Held at 8:00am ET on Monday, June 3, 2024
+
+Miami, Florida, May 31, 2024 – Summit Therapeutics Inc. (NASDAQ: SMMT) (“Summit,” “we,” or the
+“Company”) announced that, on May 24, 2024, our partner, Akeso Inc. (Akeso, HKEX Code: 9926.HK), received marketing authorization in China from the National Medical Products Administration (NMPA). The approval is based on the positive
+dataset associated with HARMONi-A, a single region, multi-center, Phase III study conducted in China sponsored by Akeso with data generated and analyzed by Akeso.
+
+HARMONi-A evaluated ivonescimab combined with platinum-doublet chemotherapy in patients with epidermal growth factor receptor (EGFR)-mutated, locally
+advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) who have progressed after treatment with an EGFR tyrosine kinase inhibitor (TKI) against placebo
+plus platinum-doublet chemotherapy. This is a clinical setting with a patient population where PD-1 monoclonal antibodies have previously been unsuccessful in Phase III global clinical trials. The Phase III
+HARMONi-A study provides further evidence supporting the differentiated mechanism of action of ivonescimab, a PD-1 / VEGF bispecific antibody evidencing cooperative binding characteristics.
+
+This data and trial are separate and distinct from the Phase III HARMONi-2 trial in locally advanced or
+metastatic NSCLC whose tumors have positive PD-L1 expression (PD-L1 TPS >1%), which was covered in a separate announcement. For clarity, the data in this release is
+with respect to the HARMONi-A trial.
+
+Clinically Meaningful Efficacy
+
+Progression free survival (PFS), the primary endpoint of the study, was significantly improved in the ivonescimab plus chemotherapy arm (HR 0.46; 95%
+CI: 0.34 – 0.62; p<0.001), representing a 54% reduction in the risk of disease progression compared to chemotherapy. Median PFS for ivonescimab plus chemotherapy was 7.1 months (95% CI: 5.9 – 8.7), as compared to 4.8 months (95% CI: 4.2
+– 5.6) for placebo plus chemotherapy. In addition, for the subgroup of patients receiving a 3rd generation TKI (e.g., osimertinib or other locally approved 3rd generation TKIs), patients experienced a reduced risk of disease progression of 52% (HR: 0.48; 95% CI: 0.35 – 0.66). The PFS benefit was demonstrated across all clinical subgroups.
+
+While not yet mature, overall survival (OS) analyses performed on request of the NMPA trended positively for ivonescimab plus chemotherapy vs.
+chemotherapy alone: after 10.2 months of median follow-up, the hazard ratio (HR) was 0.72 (95% CI: 0.48 – 1.09). An additional analysis performed after approximately 17.6 months of median follow-up showed a hazard ratio of 0.80 (95% CI: 0.59 – 1.08). Both overall survival curves appear to demonstrate clear separation between the two arms of the trial and show a trend in improvement of survival
+towards ivonescimab plus chemotherapy.
+
+ 
+
+1
+
+ 
+
+Overall response rate (ORR) was 50.6% (95% CI: 42.6% – 58.6%) for those receiving ivonescimab plus
+chemotherapy vs. 35.4% (95% CI: 28.0% - 43.3%) for those receiving chemotherapy alone. Ivonescimab plus chemotherapy usage resulted in a disease control rate (DCR) – those who either responded or were considered to have stable disease under
+RECIST 1.1 criteria – of 93.1% (95% CI: 88.0% - 96.5%) vs. 83.2% (95% CI: 76.5% - 88.6%) for those receiving placebo plus chemotherapy.
+
+ 
+
+ 
+
+ 
+
+ 
+
+HARMONi-A (n=322)
+
+  
+
+Ivonescimab + Chemo (n=161)
+
+  
+
+Placebo + Chemo (n=161)
+
+ 
+
+ 
+
+ 
+
+Median PFS
+
+  
+
+7.1 months
+
+(95% CI: 5.9 – 8.7)
+
+  
+
+4.8
+months
+
+(95% CI: 4.2 – 5.6)
+
+ 
+
+ 
+
+PFS HR
+
+  
+
+0.46
+
+(95% CI: 0.34 – 0.62)
+
+ 
+
+ 
+
+ 
+
+ORR
+
+  
+
+50.6%
+
+(95% CI: 42.6% – 58.6%)
+
+  
+
+35.4%
+
+(95% CI: 28.0% – 43.3%)
+
+ 
+
+ 
+
+ 
+
+DCR
+
+  
+
+93.1%
+
+(95% CI: 88.0% – 96.5%)
+
+  
+
+83.2%
+
+(95% CI: 76.5% – 88.6%)
+
+ 
+
+ 
+
+ 
+
+Median OS (at 10.2 months mFU)
+
+  
+
+Not reached
+
+(95% CI: 14.3 – NE)
+
+  
+
+14.3 months
+
+(95% CI: 11.2 – NE)
+
+ 
+
+ 
+
+OS HR (10.2 months mFU)
+
+  
+
+0.72
+
+(95% CI: 0.48 – 1.09)
+
+ 
+
+ 
+
+ 
+
+Median OS (at 17.6 months mFU)
+
+  
+
+17.1 months
+
+(95% CI: 14.6 – NE)
+
+  
+
+14.5 months
+
+(95% CI: 12.8 – 18.1)
+
+ 
+
+ 
+
+OS HR (17.6 months mFU)
+
+  
+
+0.80
+
+(95% CI: 0.59 – 1.08)
+
+mFU = median follow-up; NE = not estimable; mFU is 7.89 months unless otherwise
+noted above
+
+Manageable Safety Profile
+
+Ivonescimab
+demonstrated an acceptable and manageable safety profile. The most common treatment related adverse events (TRAEs), both all grades and Grade 3 or higher, were hematological, laboratory count-based events: white blood cell count decreases, anemia,
+neutrophil count decreases, and platelet count decreases. There were nine patients (5.6%) who discontinued ivonescimab due to TRAEs compared to four patients (2.5%) who discontinued placebo due to TRAEs. Grade 3 or higher immune-related adverse
+events occurred in 6.2% of patients receiving ivonescimab plus chemotherapy and 2.5% of patients receiving placebo plus chemotherapy. Grade 3 or higher VEGF-related adverse events between the two arms were similar (3.1% vs. 2.5%, respectively);
+there were no Grade 3 bleeding or arterial thrombotic events in the ivonescimab plus chemotherapy arm. No TRAEs resulted in the death of a patient in either arm in this Phase III study.
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+HARMONi-A (n=322)
+
+  
+
+Ivonescimab + Chemo (n=161)
+
+  
+
+Placebo + Chemo (n=161)
+
+ 
+
+ 
+
+ 
+
+TRAE Gr 3+
+
+  
+
+54.0%
+
+  
+
+42.9%
+
+ 
+
+ 
+
+ 
+
+TRAE Gr 3+ Immune-related
+
+  
+
+6.2%
+
+  
+
+2.5%
+
+ 
+
+ 
+
+ 
+
+TRAE Gr 3+ VEGF-related
+
+  
+
+3.1%
+
+  
+
+2.5%
+
+ 
+
+ 
+
+Gr 3+ TRAEs with ≥10% Incidence:
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gr 3+ WBC Count Decrease
+
+  
+
+19.9%
+
+  
+
+16.8%
+
+ 
+
+ 
+
+ 
+
+Gr 3+ Anemia
+
+  
+
+13.7%
+
+  
+
+12.4%
+
+ 
+
+ 
+
+ 
+
+Gr 3+ Neutrophil Count Decrease
+
+  
+
+29.8%
+
+  
+
+19.3%
+
+ 
+
+ 
+
+ 
+
+Gr 3+ Platelet Count Decrease
+
+  
+
+16.1%
+
+  
+
+11.8%
+
+“After yesterday’s announcement regarding the HARMONi-2 trial, these
+results from HARMONi-A – including its strong efficacy, across subgroups, and its differentiated, manageable safety profile – and the associated approval of ivonescimab in China further validates the benefits that ivonescimab has the
+potential to bring to patients around the globe,” stated Robert W. Duggan, Chairman and Chief Executive Officer of Summit.
+
+“We are
+excited to continue to develop ivonescimab with appropriate, accelerated pace and with the intent to make a significant difference for those patients who may benefit most from new, innovative therapies in lung cancer and other solid tumors,”
+added Dr. Maky Zanganeh, Chief Executive Officer and President of Summit.
+
+Summit Therapeutics continues to enroll in the HARMONi clinical
+trial, a multi-regional Phase III study evaluating ivonescimab plus platinum-doublet chemotherapy vs. placebo plus platinum-doublet chemotherapy with EGFR-mutated, locally advanced or metastatic non-squamous
+NSCLC who have progressed after treatment with a 3rd generation EGFR TKI. HARMONi will analyze patients enrolled in North America, China, and Europe. HARMONi intends to include all patients from
+the HARMONi-A trial who previously received a 3rd generation TKI – representing approximately 276 patients (85%) of the HARMONi-A trial. The planned total enrollment for the Phase III
+multi-regional HARMONi trial is approximately 420 patients, which Summit intends to complete enrolling during the second half of 2024.
+
+HARMONi-A
+data will be presented by Dr. Li Zhang, Sun Yat-Sen University Cancer Center, at the 2024 American Society of Clinical Oncology (ASCO) Annual Meeting in Chicago, IL today at 4:57pm CT.
+
+In addition to the HARMONi-A oral presentation, there will be a poster featuring Phase II clinical trial data for ivonescimab in combination with
+chemotherapy in front-line biliary tract cancer presented on Saturday, June 1, 2024.
+
+Conference Call
+
+Summit Therapeutics Inc. will host a conference call to discuss recent updates related to ivonescimab, including data released at ASCO, on Monday
+June 3, 2024, before the market opens.
+
+Summit will host a live webcast of the conference call at 8:00am ET, which will be accessible through
+our website www.smmttx.com, and can also be accessed via the following link: https://events.q4inc.com/attendee/130822402.
+
+ 
+
+3
+
+ 
+
+The dial-in information for US attendees is toll-free at (800) 715-9871. Additionally, all attendees may access through the toll number, (646) 307-1963. The Conference ID is 4259251.
+
+An archived edition of the webcast will be available on our website later in the day on Monday.
+
+About the ASCO 2024 Data
+
+Presentation Title:
+Ivonescimab combined with chemotherapy in patients with EGFR-mutant non-squamous NSCLC who progressed on EGFR TKI treatment (HARMONi-A): A randomized, double-blind, multi-center, phase 3 trial
+
+ASCO Abstract No.: 8508
+
+Session Date & Time:
+Friday, May 31 at 4:57pm CT
+
+Poster Title: The safety and efficacy of ivonescimab in combination with chemotherapy as first-line
+treatment for advanced biliary tract cancer
+
+ASCO Abstract No.: 4095
+
+Session Date & Time: Saturday, June 1 at 1:30PM CT
+
+About Ivonescimab
+
+Ivonescimab, known as SMT112 in
+Summit’s license territories, the United States, Canada, Europe, and Japan, and as AK112 in China and Australia, is a novel, potential first-in-class
+investigational bispecific antibody combining the effects of immunotherapy via a blockade of PD-1 with the anti-angiogenesis effects associated with blocking VEGF into a single molecule. Ivonescimab displays
+unique cooperative binding to each of its intended targets with higher affinity when in the presence of both PD-1 and VEGF.
+
+This could differentiate ivonescimab as there is potentially higher expression (presence) of both PD-1 and VEGF
+in tumor tissue and the tumor microenvironment (TME) as compared to normal tissue in the body. Ivonescimab’s tetravalent structure (four binding sites) enables higher avidity (accumulated strength of multiple binding interactions) in the tumor
+microenvironment with over 18-fold increased binding affinity to PD-1 in the presence of VEGF in vitro, and over 4-times
+increased binding affinity to VEGF in the presence of PD-1 in vitro.1 This tetravalent structure, the intentional novel design of the molecule, and
+bringing these two targets into a single bispecific antibody with cooperative binding qualities have the potential to direct ivonescimab to the tumor tissue versus healthy tissue. The intent of this design, together with a half-life of 6 to 7 days,1 is to improve upon previously established efficacy thresholds, in addition to side effects and safety profiles associated with these targets.
+
+Ivonescimab was discovered by Akeso Inc. (HKEX Code: 9926.HK) and is currently engaged in multiple Phase III clinical trials. Over 1,600 patients have
+been treated with ivonescimab in clinical studies globally. Summit has begun its clinical development of ivonescimab in non-small cell lung cancer (NSCLC), commencing enrollment in 2023 in two Phase III
+clinical trials, HARMONi and HARMONi-3.
+
+ 
+
+ 
+
+ 
+
+1
+Zhong, et al, SITC 2023
+
+ 
+
+4
+
+ 
+
+HARMONi is a Phase III clinical trial which intends to evaluate ivonescimab combined with chemotherapy
+compared to placebo plus chemotherapy in patients with EGFR-mutated, locally advanced or metastatic non-squamous NSCLC who have progressed after treatment with a
+3rd generation EGFR TKI (e.g., osimertinib).
+
+HARMONi-3
+is a Phase III clinical trial which is designed to evaluate ivonescimab combined with chemotherapy compared to pembrolizumab combined with chemotherapy in patients with first-line metastatic squamous NSCLC.
+
+Ivonescimab is an investigational therapy that is not approved by any regulatory authority in Summit’s license territories, including the United
+States and Europe. Ivonescimab was approved for marketing authorization in China in May 2024.
+
+About Lung Cancer
+
+Lung cancer is believed to impact approximately 600,000 people across the United States, United Kingdom, Spain, France, Italy, Germany, and Japan.2 NSCLC is the most prevalent type of lung cancer and represents approximately 80% to 85% of all incidences.3 Among patients with non-squamous NSCLC, approximately 15% have EGFR-sensitizing mutations in the United States and Europe.4 Patients with squamous histology represent approximately 25% to 30% of NSCLC patients.5
+
+About Summit Therapeutics
+
+Summit Therapeutics Inc. is a
+biopharmaceutical oncology company focused on the discovery, development, and commercialization of patient-, physician-, caregiver- and societal-friendly medicinal therapies intended to improve quality of life, increase potential duration of life,
+and resolve serious unmet medical needs.
+
+Summit was founded in 2003 and our shares are listed on the Nasdaq Global Market (symbol
+“SMMT”). We are headquartered in Miami, Florida, and we have additional offices in Menlo Park, California, and Oxford, UK.
+
+For more
+information, please visit https://www.smmttx.com and follow us on X @summitplc.
+
+Contact Summit Investor Relations:
+
+Dave Gancarz
+
+Chief Business & Strategy Officer
+
+Nathan LiaBraaten
+
+Senior Director, Investor Relations
+
+investors@smmttx.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+American Cancer Society: www.cancer.org/cancer/types/lung-cancer/about/key-statistics.html. Accessed April 2024; World Health Organization: International Agency for Research on Cancer, Globocan data
+by country (UK, Spain, France, Italy, Germany); Japan National Cancer Registry.
+
+3 Schabath MB, Cote ML.
+Cancer Progress and Priorities: Lung Cancer. Cancer Epidemiology, Biomarkers & Prevention. (2019).
+
+4
+About EGFR-Positive Lung Cancer | Navigating EGFR (lungevity.org).
+
+5 Schabath MB, Cote ML. Cancer Progress
+and Priorities: Lung Cancer. Cancer Epidemiology, Biomarkers & Prevention. (2019).
+
+ 
+
+5
+
+ 
+
+Summit Forward-looking Statements
+
+Any statements in this press release about the Company’s future expectations, plans and prospects, including but not limited to, statements about
+the clinical and preclinical development of the Company’s product candidates, entry into and actions related to the Company’s partnership with Akeso Inc., the Company’s anticipated spending and cash runway, the therapeutic potential
+of the Company’s product candidates, the potential commercialization of the Company’s product candidates, the timing of initiation, completion and availability of data from clinical trials, the potential submission of applications for
+marketing approvals, potential acquisitions, statements about the previously disclosed At-The-Market equity offering program (“ATM Program”), the expected use
+proceeds and uses thereof, and other statements containing the words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,”
+“plan,” “potential,” “predict,” “project,” “should,” “target,” “would,” and similar expressions, constitute forward-looking statements within the meaning of The Private Securities
+Litigation Reform Act of 1995. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including the Company’s ability to sell shares of our common stock under the
+ATM Program, the conditions affecting the capital markets, general economic, industry, or political conditions, including the results of our evaluation of the underlying data in connection with the development and commercialization activities for
+ivonescimab, the outcome of discussions with regulatory authorities, including the Food and Drug Administration, the uncertainties inherent in the initiation of future clinical trials, availability and timing of data from ongoing and future clinical
+trials, the results of such trials, and their success, and global public health crises, that may affect timing and status of our clinical trials and operations, whether preliminary results from a clinical trial will be predictive of the final
+results of that trial or whether results of early clinical trials or preclinical studies will be indicative of the results of later clinical trials, whether business development opportunities to expand the Company’s pipeline of drug candidates,
+including without limitation, through potential acquisitions of, and/or collaborations with, other entities occur, expectations for regulatory approvals, laws and regulations affecting government contracts and funding awards, availability of funding
+sufficient for the Company’s foreseeable and unforeseeable operating expenses and capital expenditure requirements and other factors discussed in the “Risk Factors” section of filings that the Company makes with the Securities and
+Exchange Commission. Any change to our ongoing trials could cause delays, affect our future expenses, and add uncertainty to our commercialization efforts, as well as to affect the likelihood of the successful completion of clinical development of
+ivonescimab. Accordingly, readers should not place undue reliance on forward-looking statements or information. In addition, any forward-looking statements included in this press release represent the Company’s views only as of the date of this
+release and should not be relied upon as representing the Company’s views as of any subsequent date. The Company specifically disclaims any obligation to update any forward-looking statements included in this press release.
+
+ 
+
+6
+
+ 
+
+Appendix: Glossary of Critical Terms Contained Herein
+
+Affinity – Affinity is the strength of binding of a molecule, such as a protein or antibody, to another molecule, such as a ligand.
+
+Avidity – Avidity is the accumulated strength of multiple binding interactions.
+
+Angiogenesis – Angiogenesis is the development, formation, and maintenance of blood vessel structures. Without sufficient blood flow, tissue
+may experience hypoxia (insufficient oxygen) or lack of nutrition, which may cause cell death.6
+
+Cooperative binding – Cooperative binding occurs when the number of binding sites on the molecule that can be occupied by a specific ligand
+(e.g., protein) is impacted by the ligand’s concentration. For example, this can be due to an affinity for the ligand that depends on the amount of ligand bound or the binding strength of the molecule to one ligand based on the concentration of
+another ligand, increasing the chance of another ligand binding to the compound.7
+
+Immunotherapy – Immunotherapy is a type of treatment, including cancer treatments, that help a person’s immune system fight cancer.
+Examples include anti-PD-1 therapies.8
+
+Intracranial - Within the cranium or skull.
+
+PD-1 – Programmed cell Death protein 1 is a protein on the surface of T cells and other cells. PD-1 plays a key role in reducing the regulation of ineffective or harmful immune responses and maintaining immune tolerance. However, with respect to cancer tumor cells, PD-1
+can act as a stopping mechanism (a brake or checkpoint) by binding to PD-L1 ligands that exist on tumor cells and preventing the T cells from targeting cancerous tumor cells.9
+
+PD-L1 – Programmed cell Death Ligand 1 is
+expressed by cancerous tumor cells as an adaptive immune mechanism to escape anti-tumor responses, thus believed to suppress the immune system’s response to the presence of cancer cells.10
+
+PD-L1 TPS – PD-L1 Tumor Proportion Score represents the
+percentage of tumor cells that express PD-L1 proteins.
+
+PFS – Progression-Free Survival.
+
+RANO – Response Assessment in Neuro-Oncology, the standard for assessing the response of a brain or
+spinal cord tumor to therapy.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6
+Shibuya M. Vascular Endothelial Growth Factor (VEGF) and Its Receptor (VEGFR) Signaling in Angiogenesis: A Crucial Target for Anti- and Pro-Angiogenic Therapies. Genes Cancer. 2011 Dec;2(12):1097-105
+
+7 Stefan MI, Le Novère N. Cooperative binding. PLoS Comput Biol. 2013;9(6)
+
+8 US National Cancer Institute, a part of the National Institute of Health (NIH).
+https://www.cancer.gov/about-cancer/treatment/types/immunotherapy. Accessed April 2024.
+
+9 Han
+Y, et al. PD-1/PD-L1 Pathway: Current Researches in Cancer. Am J Cancer Res. 2020 Mar
+1;10(3):727-742.
+
+10 Han Y, et al. PD-1/PD-L1 Pathway: Current Researches in Cancer. Am J Cancer Res. 2020 Mar 1;10(3):727-742.
+
+ 
+
+7
+
+ 
+
+SQ-NSCLC –
+Non-small cell lung cancer tumors of squamous histology.
+
+T Cells – T cells are a type of white
+blood cell that is a component of the immune system that, in general, fights against infection and harmful cells like tumor cells.11
+
+Tetravalent – A tetravalent molecule has four binding sites or regions.
+
+Tumor Microenvironment – The tumor microenvironment is the ecosystem that surrounds a tumor inside the body. It includes immune cells, the
+extracellular matrix, blood vessels and other cells, like fibroblasts. A tumor and its microenvironment constantly interact and influence each other, either positively or negatively.12
+
+VEGF – Vascular Endothelial Growth Factor is a signaling protein that promotes
+angiogenesis.13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11
+Cleveland Clinic. https://my.clevelandclinic.org/health/body/24630-t-cells. Accessed April 2024.
+
+12 MD Anderson Cancer Center. https://www.mdanderson.org/cancerwise/what-is-the-tumor-microenvironment-3-things-to-know.h00-159460056.html.
+Accessed April 2024.
+
+13 Shibuya M. Vascular Endothelial
+Growth Factor (VEGF) and Its Receptor (VEGFR) Signaling in Angiogenesis: A Crucial Target for Anti- and Pro-Angiogenic Therapies. Genes Cancer. 2011 Dec;2(12):1097-105.
+
+ 
+
+8

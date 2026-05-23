@@ -1,0 +1,329 @@
+0001070081false00010700812023-10-182023-10-18
+
+​
+
+​
+
+UNITED STATES
+
+​
+
+SECURITIES AND EXCHANGE COMMISSION
+
+​
+
+WASHINGTON, D.C. 20549
+
+​
+
+FORM 8-K
+
+​
+
+CURRENT REPORT
+
+​
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+​
+
+Date of Report (Date of earliest event reported): October 18, 2023
+
+​
+
+PTC THERAPEUTICS, INC.
+
+​
+
+(Exact Name of Company as Specified in Charter)
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Delaware
+
+    
+
+001-35969
+
+    
+
+04-3416587
+
+(State or Other Jurisdiction
+
+​
+
+(Commission
+
+​
+
+(IRS Employer
+
+of Incorporation)
+
+​
+
+File Number)
+
+​
+
+Identification No.)
+
+​
+
+​
+
+​
+
+​
+
+​
+
+100 Corporate Court
+
+    
+
+​
+
+South Plainfield, NJ
+
+​
+
+07080
+
+(Address of Principal Executive Offices)
+
+​
+
+(Zip Code)
+
+​
+
+Registrant’s telephone number, including area code: (908) 222-7000
+
+​
+
+Not applicable
+
+​
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+​
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+​
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+​
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+​
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+​
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+​
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Title of each class
+
+    
+
+Trading Symbol(s)
+
+    
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value per share
+
+​
+
+PTCT
+
+​
+
+Nasdaq Global Select Market
+
+​
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+​
+
+Emerging growth company ☐
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+​
+
+On October 18, 2023, PTC Therapeutics, Inc. (the “Company”), Royalty Pharma Investments 2019 ICAV (“RPI”), and, for the limited purposes set forth in the agreement, Royalty Pharma plc, entered into an Amended and Restated Royalty Purchase Agreement (the “A&R Royalty Purchase Agreement”), which amends and restates in its entirety that certain Royalty Purchase Agreement dated as of July 17, 2020 (the “Original Royalty Purchase Agreement”). Pursuant to the A&R Royalty Purchase Agreement, the Company has sold or agreed to sell to RPI certain portions of the Company’s remaining retained right, title and interest in and to the Company’s right to receive sales-based royalty payments (the “Royalty”) on worldwide net sales of Roche’s Evrysdi® (risdiplam) product and any other product (the “Products”) developed pursuant to the License and Collaboration Agreement (the “License Agreement”), dated as of November 23, 2011, by and among the Company, F. Hoffman-La Roche Ltd., Hoffman-La Roche Inc. (together with F. Hoffman-La Roche Ltd, “Roche”), and, for the limited purposes set forth therein, the Spinal Muscular Atrophy Foundation (the “SMA Foundation”) under the SMA program, which is a collaboration among the Company, Roche and the SMA Foundation (all such retained Royalty rights of the Company, the “Retained Royalty Rights,” and all such Royalty rights that are sold to RPI pursuant to the A&R Royalty Purchase Agreement, the “Assigned Royalty Rights”). As of the initial closing, RPI has agreed to pay the Company $1.0 billion in cash consideration for 38.0447% of the Company’s Retained Royalty Rights (which is in addition to the 42.9330% assigned to RPI in connection with the Original Royalty Purchase Agreement, for a total of 80.9777% of the total Royalty) until such time as RPI has received payments in respect of the Assigned Royalty Rights equal to $1.3 billion in the aggregate, and thereafter 66.6667% of the total Royalty. In addition, the Company may sell to RPI the remainder of the Company’s Retained Royalty Rights in exchange for an aggregate of $500.0 million in additional cash consideration after the closing of the A&R Royalty Purchase Agreement, less royalties received in respect of the Retained Royalty Rights put to RPI, which will be payable by RPI pursuant to five put options held by the Company that are exercisable at the Company’s option between January 1, 2024 and December 31, 2025. If the Company exercises two or fewer of the put options, RPI may exercise a call option during the period from and after January 1, 2026 until and including March 31, 2026 for up to 50% of the remainder of the Company’s Retained Royalty Rights less amounts exercised by the Company via their put options at a purchase price that is proportional to the purchase price of the Company’s unexercised put options. RPI’s exercise of the call option would result in RPI owning 90.4888% of the total Royalty until such time as RPI has received payments in respect of the Assigned Royalty Rights equal to $1.3 billion in the aggregate, and thereafter 83.3333% of the total Royalty.
+
+​
+
+Under the A&R Royalty Purchase Agreement, and in connection with its sale of the Assigned Royalty Rights, the Company has agreed to specified negative and affirmative covenants with respect to the exercise of its rights under the License Agreement, including the Company’s right to amend, modify, assign or terminate the License Agreement. The Company has agreed not to exercise its rights under the License Agreement in any manner that would be expected to adversely impact the Royalty or the Products. The Company must also enforce the terms of the License Agreement as RPI reasonably requests in the event of a breach of the License Agreement by Roche or the SMA Foundation. Subject to the satisfaction of certain conditions, the Company has also agreed to consult with RPI or act at RPI’s direction with respect to the Company’s exercise of its rights to the enforce, defend, prosecute and maintain intellectual property rights under the License Agreement. Subject to certain customary exceptions, the Company has agreed not to grant a security interest in its interest in the License Agreement, the Products or the patent rights that cover the Products. The A&R Royalty Purchase Agreement also contains representations and warranties, covenants and other provisions, including information rights and confidentiality obligations, customary for transactions of this nature.
+
+​
+
+The A&R Royalty Purchase Agreement will terminate 60 days following the date on which Roche is no longer obligated to make any payments of the Royalty pursuant to the License Agreement. Upon termination of the License Agreement by Roche for convenience or by the Company for Roche’s material breach or patent challenge, (1) the Company will have the first right to continue to commercialize the Products pursuant to the rights provided to the Company upon such termination of the License Agreement and (2) if the Company does not elect to continue to commercialize the Products, RPI will have the right to direct the Company to continue to commercialize the Products pursuant to the rights provided to the Company upon such termination of the License Agreement, including by negotiating a license or sublicense with one or more third parties to commercialize a Product that has obtained regulatory approval.
+
+The foregoing description of the A&R Royalty Purchase Agreement does not purport to be complete and is qualified in its entirety by reference to the complete text of the A&R Royalty Purchase Agreement, which will be filed as an exhibit to the Company’s annual report on Form 10-K for the fiscal year ending December 31, 2023.
+
+​
+
+Item 7.01. Regulation FD Disclosure.
+
+​
+
+On October 19, 2023, the Company issued a press release in which it announced the closing of the A&R Royalty Purchase Agreement and its intention to pay off all obligations under the Credit Agreement (as defined below). A copy of the press release is attached to this Current Report on Form 8-K (this “Report”) as Exhibit 99.1 and is incorporated by reference into this Item 7.01.
+
+​
+
+The information set forth in or incorporated by reference into this Item 7.01, including Exhibit 99.1, shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+​
+
+Item 8.01. Other Events.
+
+​
+
+The Company has provided a Notice of Loan Prepayment to Wilmington Trust, National Association (“Wilmington Trust”), notifying Wilmington Trust, in its capacity as administrative agent, of the Company’s intention to pay off all obligations, including any prepayment fees or expenses, under the Credit Agreement, dated October 27, 2022, by and among the Company, as the borrower, each subsidiary of the Company from time to time party thereto, as guarantors, the lenders from time to time party thereto and Wilmington Trust, as administrative agent (the "Credit Agreement"), and to terminate the Credit Agreement on October 19, 2023.
+
+​
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+​
+
+​
+
+​
+
+Exhibit No.
+
+    
+
+Description
+
+99.1
+
+​
+
+Press Release, dated October 19, 2023 issued by PTC Therapeutics, Inc.
+
+104
+
+​
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+
+​
+
+​
+
+Cautionary Statement Concerning Forward Looking Statements
+
+This Report contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. All statements contained in this Report, other than those of historical fact, are forward-looking statements, including statements regarding: the future expectations, plans and prospects for PTC; advancement of the Company's joint collaboration program in SMA, including the commercialization of any products therein or royalty or milestone payments; the Company's strategy, future operations, future financial position, future revenues and projected costs; the Company’s expected use of proceeds from the A&R Royalty Purchase Agreement, including the Company’s intention to pay off all obligations under and to terminate the Credit Agreement; potential royalties and potential regulatory and sales milestone payments; and the objectives of management.  Other forward-looking statements may be identified by the words “guidance”, “plan,” “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions.  The Company’s actual results, performance or achievements could differ materially from those expressed or implied by forward-looking statements it makes as a result of a variety of risks and uncertainties, including those related to: the enrollment, conduct, and results of studies under the SMA program and events during, or as a result of, the studies that could delay or prevent further development under the SMA program, including any potential regulatory submissions and potential commercialization with regard to Evrysdi; the eligible patient base and commercial potential of Evrysdi or any of the Company’s other product candidates; and the factors discussed in the “Risk Factors” section of the Company’s most recent Quarterly Report on Form 10-Q and Annual Report on Form 10-K as well as any updates to these risk factors filed from time to time in the Company’s other filings with the Securities and Exchange Commission. You are urged to carefully consider all such factors. As with any pharmaceutical under development, there are significant risks in the development, regulatory approval and
+
+commercialization of new products. There are no guarantees that any product candidate or product will receive or maintain regulatory approval in any territory, or prove to be commercially successful, including Evrysdi. The forward-looking statements contained herein represent the Company’s views only as of the date of this Report and the Company does not undertake or plan to update or revise any such forward-looking statements to reflect actual results or changes in plans, prospects, assumptions, estimates or projections, or other circumstances occurring after the date of this Report except as required by law. All website addresses given in this Report or incorporated herein by reference are for information only and are not intended to be an active link or to incorporate any website information into this Report.
+
+​
+
+​
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+​
+
+​
+
+​
+
+​
+
+PTC Therapeutics, Inc.
+
+​
+
+​
+
+Date: October 19, 2023
+
+By:
+
+/s/ Pierre Gravier
+
+​
+
+Name:
+
+Pierre Gravier
+
+​
+
+Title:
+
+Chief Financial Officer
+
+​
+
+​
+
+​
+
+​

@@ -1,0 +1,292 @@
+0001070081
+false
+
+0001070081
+
+2023-09-22
+2023-09-22
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+FORM 8-K 
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13
+or 15(d) of the Securities Exchange Act of 1934
+
+  
+
+Date of Report (Date of
+earliest event reported): September 22, 2023
+
+ 
+
+PTC
+THERAPEUTICS, INC.
+
+(Exact Name of Company as Specified in Charter)
+
+ 
+
+Delaware
+
+ 
+
+001-35969
+
+ 
+
+04-3416587
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+100 Corporate Court
+
+ 
+
+ 
+
+South Plainfield, NJ
+
+ 
+
+07080
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (908) 222-7000
+
+ 
+
+Not applicable
+
+(Former Name or Former
+Address, if Changed Since Last Report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+¨     Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨     Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨     Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨     Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant
+to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name
+of each exchange on which registered
+
+Common Stock, $0.001 par value per share
+
+ 
+
+PTCT
+
+ 
+
+Nasdaq Global Select Market
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company    ¨
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+8.01. Other Events.
+
+ 
+
+A
+copy of that certain Credit Agreement dated as of October 27, 2022 (the “Credit Agreement”) among PTC Therapeutics, Inc.
+(the “Company”), as the borrower, each subsidiary of the Company from time to time party thereto, as guarantors, the lenders
+from time to time party thereto and Wilmington Trust, National Association, as administrative agent is attached to this Current Report
+on Form 8-K as Exhibit 10.1 and is incorporated by reference into this Item 8.01. The Credit Agreement was originally
+filed as Exhibit 10.55 to the Company’s Annual Report on Form 10-K for the fiscal year ending December 31, 2022.
+The Company is no longer seeking confidential treatment for certain provisions of the Credit Agreement, including certain provisions within
+Section 8.01 “Events of Default,” and has removed the redactions for those provisions in the attached Exhibit 10.1.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+10.1*
+
+ 
+
+Credit Agreement dated as of October 27, 2022, among PTC Therapeutics, Inc., as the Borrower, each subsidiary of the Borrower from time to time party thereto, as Guarantors, the Lenders from time to time party thereto and Wilmington Trust, National Association, as Administrative Agent
+
+104
+
+ 
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+
+ 
+
+*
+
+Portions of this exhibit have been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+PTC Therapeutics, Inc.
+
+ 
+
+ 
+
+Date: September 22, 2023
+
+By:
+
+/s/ Mark E. Boulding
+
+ 
+
+Name:
+
+Mark E. Boulding
+
+ 
+
+Title:
+
+Executive Vice President and Chief Legal Officer

@@ -1,0 +1,152 @@
+EX-99.1
+2
+xncr-2025x1024xexx991.htm
+EX-99.1
+
+xncr-2025x1024xexx991
+
+® Initial Results from Ongoing Dose-Escalation Study of XmAb819 & Oncology Pipeline Update October 24, 2025
+
+ 
+
+2 Today’s Speakers Bassil Dahiyat, Ph.D. President & Chief Executive Officer Xencor Management Guest Speaker Sumanta Pal, M.D., F.A.S.C.O. Professor, Department of Medical Oncology & Therapeutics Research Co-director, Kidney Cancer Program City of Hope Comprehensive Cancer Center Dane Leone Executive Vice President & Chief Strategy Officer John Desjarlais, Ph.D. Executive Vice President & Chief Scientific Officer
+
+ 
+
+3 Initial Results from Ongoing Dose-Escalation Study of XmAb819 (ENPP3 x CD3) in Advanced Clear Cell Renal Cell Carcinoma Summary and Q&A Overview & Xencor’s Oncology Portfolio Today’s Agenda Competitive Position and Commercial Opportunity for XmAb819 Early Look at XmAb514 (CLDN6 x CD3) in Advanced Ovarian Cancer, Endometrial Cancer and Germ Cell Tumors
+
+ 
+
+4 Forward-Looking Statements Certain statements contained in this presentation, other than statements of historical fact, may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements include, but are not limited to, statements regarding Xencor's development plans and timelines; potential regulatory actions; expected use of cash resources; the timing and results of clinical trials; the plans and objectives of management for future operations; and the potential markets for Xencor's product and development candidates. Forward-looking statements are based on the current expectations of management and upon what management believes to be reasonable assumptions based on information currently available to it, and involve numerous risks and uncertainties, many of which are beyond Xencor's control. These risks and uncertainties could cause future results, performance or achievements to differ significantly from the results, performance or achievements expressed or implied by such forward-looking statements. Such risks include, but are not limited to, potential delays in development timelines or negative preclinical or clinical trial results, reliance on third parties for development efforts and changes in the competitive landscape including changes in the standard of care for treatment of diseases for which we are developing product candidates, as well as other risks described in Xencor's f ilings with the Securities and Exchange Commission. Xencor expressly disclaims any duty, obligation or undertaking to update or revise any forward-looking statements contained herein to reflect any change in Xencor's expectations with regard thereto of any subsequent change in events, conditions or circumstances on which any such statements are based, except in accordance with applicable securities laws. For all forward-looking statements, we claim the protection of the safe harbor for forward looking statements contained in the Private Securities Litigation Reform Act of 1995. Disclaimer: We use our trademarks and our logo in this presentation. This presentation also includes trademarks, tradenames and service marks that are the property of other organizations. Solely for convenience, trademarks and tradenames referred to in this presentation appear without the “®” and “TM” symbols, but those references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or that the applicable owner will not assert its rights, to these trademarks and tradenames.
+
+ 
+
+5 • XmAb Fc Domains augment native immune functions in molecules and/or control their structure, while preserving desired attributes • XmAb engineered antibodies are designed to solve complex biologic problems • Strong patent portfolio Oncology: Advancing a portfolio novel TCEs • XmAb819 (ENPP3xCD3) in advanced ccRCC: enrolling first Phase 1 dose expansion cohort • XmAb541 (CLDN6xCD3) in ovarian cancer and GCTs: ongoing Phase 1 dose escalation Autoimmune: anti-TL1A and CD3 B-cell depletion • XmAb942 (TL1A): XENITH-UC 2b study ongoing • XmAb412 (TL1A x IL23p19): Ph1 to initiate in 2026 • Plamotamab (CD20xCD3): Ph1 RA study ongoing • XmAb657 (CD19xCD3): Ph 1 to initiate in 4Q’25 • More than 15 technology license partnerships greatly broadens scope with little-to-no effort • Multiple commercialized XmAb antibodies ULTOMIRIS® MONJUVI®/MINJUVI® Proven Power of XmAb® Engineering: Proteins By Design® AstraZeneca Rare Disease Small changes, big functional impacts Advancing an optimized portfolio of XmAb drug candidates Partnerships leverage modular XmAb technology Registered trademarks: Ultomiris® (Alexion Pharmaceuticals, Inc.), Monjuvi® & Minjuvi® (Incyte Holdings Corp.) COLLABORATION PORTFOLIO INCLUDES XmAb Bispecific TCEs Xtend Antibodies with Potential Best-in-class Half-life Extension PLUG & PLAY TOOLKITS FOR RAPID PROTOTYPING RATIONALLY ENGINEERED XMAB DRUG CANDIDATES TCE T-cell engager ccRCC clear cell renal cell carcinoma GCT germ cell tumor RA rheumatoid arthritis UC ulcerative colitis
+
+ 
+
+6 Program Targets XmAb® Platforms Indications Discovery Preclinical Phase 1 Phase 2 Phase 3 Solid Tumor Oncology: T-cell Engagers (CD3 & CD28) XmAb819 ENPP3 x CD3 2+1 Bispecific ccRCC XmAb541 CLDN6 x CD3 2+1 Bispecific, Xtend Ovarian cancer, GCT, oncology XmAb808 B7-H3 x CD28 2+1 Bispecific, Xtend Prostate cancer, oncology XmAb Program Undisclosed TCE Bispecific, Xtend Solid tumor oncology Immunology Programs (TL1A & CD3 B-Cell Depletion) XmAb942 TL1A Xtend, FcKO IBD (Ulcerative colitis) XmAb412 TL1A x IL23p19 Bispecific, Xtend IBD Plamotamab CD20 x CD3 Bispecific Rheumatoid Arthritis XmAb657 CD19 x CD3 2+1 Bispecific, Xtend Autoimmune Diseases Solid tumors ImmunologyKey ccRCC clear cell renal cell carcinoma GCT germ cell tumors FcKO Fc knock out IBD Inflammatory bowel disease Phase 1b 2H’25 Planned Study Initiation Next-Gen XmAb® Drug Design in Oncology & Autoimmune Diseases Pipeline focus on T-cell engagers and bispecific mechanisms Phase 2b XENITH-UC 2026
+
+ 
+
+7 XmAb819: ENPP3 x CD3 T-cell Engager in Development for ccRCC A differentially expressed target, with high level expression in renal cell carcinoma and low-level expression on normal tissues1 Bispecific Fc Domain anti-ENPP3 2 Fabs anti-CD3 1 scFv High ENPP3 Low ENPP3 Selective T-cell directed cytotoxicity for cells with ENPP3 expression 1 Doñate, Fernando, et al. Clinical Cancer Research 22.8 (2016) XmAb819 engages the immune system and activates T cells for highly potent and targeted lysis of tumor cells expressing ENPP3 ENPP3 Ectonucleotide pyrophosphatase / phosphodiesterase family member 3 Enables antibodies to bind more avidly and selectively kill tumor cells with higher antigen density, potentially sparing normal cells XmAb® 2+1
+
+ 
+
+8 2+1 Bispecifics: XmAb® T Cell Engagers Use Multiple Formats and Affinity Designs to Customize for Each Tumor Target -1 0 1 2 3 4 5 0 20 40 60 Log10 [Concentration (pM)] R T C C A c ti v it y ( % ) High density Low density EC50 = 9.4 pM EC50 > 10 5 pM Low expressing normal cell High expressing tumor cell XmAb® 2+1 Format = High Selectivity Examples of XmAb 2+1 TCEs: xaluritamig (STEAP1), ASP2138 (CLDN18.2), XmAb819 (ENPP3), XmAb541 (CLDN6)
+
+ 
+
+9 ® Ongoing Phase 1 Dose-Escalation of XmAb819 in ccRCC Initial Results Data Cut-off: September 19, 2025
+
+ 
+
+10 TD Target Dose CPI checkpoint inhibitor Key Eligibility Criteria • ≥ 18 years • R/R ccRCC – prior CPI & VEGF TKI • Measurable disease by RECIST v1.1 • No prior anti-ENPP3 therapy Objectives • Safety and tolerability • Identify recommended dose • Pharmacokinetics • Anti-tumor activity XmAb819 Phase 1 Dose Escalation: Parallel IV and SC Design IV Cohort 1 IV Cohort 2 IV Cohort 3 IV Cohort 4 IV Cohort 10 IV Cohort 6 IV Cohort 5 IV Cohort 9 IV Cohort 8 IV Cohort 7 SC Cohort 1 SC Cohort 2 SC Cohort 3 SC Cohort 4 SC Cohort 5 Low Dose Cohorts Below Target Dose Range High Dose Cohorts Target Dose Range Study Schema and Dosing Schedule SC Cohort 6 IV Cohort 11 Enrolling Enrolling Screening Priming Step-Up or TD Step-Up or TD TD Cycle 2Cycle 1 Cycle 3 Day 1 8 15 22 29 36 43 57 71 85 99 TD TD TD TD TD TD TD 3+3+3 dose-escalation design NCT05433142 NCT05433142
+
+ 
+
+11 Steady state drug concentrations attained in Cohorts 9 and 10 fall within the PK target dose range expected to achieve anti-tumor activity​ Pharmacokinetic Profile of XmAb819 Supports QW - Q2W Dosing Parameter Value Half-life 8.7 Days Subcutaneous Administration Tmax 5.5 Days Absolute Bioavailability 55-70% PK pharmacokinetics
+
+ 
+
+12 Heavily Pre-treated Patient Population in Ongoing Dose Escalation Baseline Characteristics N 69 Median age, Years (Min, Max) 60 (34, 77) Male, n (%) 55 (80) Race, n (%) White Other 61 (88) 8 (12) Time since initial diagnosis, Months (Min, Max) 53.6 (8, 259) IDMC risk score at initial diagnosis, n (%) Favorable Intermediate Poor Not Available 22 (32) 19 (28) 9 (13) 19 (28) Sarcomatoid features, n (%) 7 (10) IDMC International Metastatic RCC Database Consortium VEGF vascular endothelial growth factor TKI tyrosine kinase inhibitor HIF2a hypoxia-inducible factor 2-alpha Prior Therapy N 69 # Prior regimens, Median (Min, Max) 1, n (%) 2 3 4 ≥5 4 (1, 8) 5 (7) 16 (23) 13 (19) 9 (13) 26 (38) Prior treatments, n (%) Checkpoint inhibitor VEGF TKI 2 or more TKI HIF2α inhibitor 69 (100) 69 (100) 42 (61) 25 (36) Prior Nephrectomy, n (%) 47 (68)
+
+ 
+
+13 Low Rate of Discontinuations Due to Adverse Events Patient Disposition N 69 Treatment Status, n (%) Ongoing Discontinued 17 (25) 52 (75) Reason for Treatment Discontinuation, n (%) Adverse event* Physician decision Subject declines further treatment Progressive disease Clinical progression 3 (4) 3 (4) 2 (3) 38 (55) 6 (9) * Elevated liver enzymes (n=1), non-fatal myocardial infarction in the presence of hypotension and CRS (n=1), AST/ALT increased (n=1) CRS cytokine release syndrome AST aspartate aminotransferase ALT alanine aminotransferase
+
+ 
+
+14 Safety Summary – Well-tolerated Treatment With >90% of Patients Reaching Target Dose; Low Rate of Discontinuation Treatment Emergent Adverse Events (TEAE), n (%) N 68 (99) Grade ≥3 48 (70) Related Grade ≥3 31 (45) Serious TEAE 35 (51) Related Serious TEAE 28 (41) Lead to Dose Reduction 4 (6) Did Not Reach Target Dose 6 (9) Lead to Treatment Discontinuation 3 (4) Lead to Death 0
+
+ 
+
+15 CRS Profile Primarily Low Grade and Occurs in Initial Priming Doses Correct dose preparation resulted in 4% Grade 3 CRS (2/51), whereas dose preparation errors resulted in 28% Grade 3 CRS (5/18) In the target dose range, correct dose preparation resulted in 6% Grade 3 CRS (1/18), whereas dose preparation errors resulted in 50% Grade 3 CRS (3/6) Grade 3, 28% Grade 3, 4% 0% 20% 40% 60% 80% 100% Dose prep errors (n=18) Correct dose (n=51) Rate and Severity of CRS Overall Population (n=69) Grade 1 Grade 2 Grade 3 • Port and syringe errors diluting XmAb819 drug product during the priming dose preparation led to higher drug exposure (3-8x) in some patients after the priming dose • Errors correlated to Grade 3 CRS and step-up dosing delays • Mitigation through site retraining completed Eliminating root cause of multiple dilution steps with low concentration drug product rollout in 1H 2026 CRS cytokine release syndrome Grade 3, 50% Grade 3, 6% 0% 20% 40% 60% 80% 100% Dose prep errors (n=6) Correct dose (n=18) Rate and Severity of CRS Target Dose Range (n=24)
+
+ 
+
+16 AEs Primarily During the Priming Period and Well Managed With Low Overall Rate at Target Doses Overall TEAE and Related TEAE by Maximum Severity Grade (N=69) >Day 29 to End of Study TEAE and Related TEAE by Maximum Severity Grade (N=69) Most common AEs are CRS and rash • Majority of CRS events are Grade 1/2 and occur during priming • Rash events are mostly Grade 1/2; responsive to antihistamines and steroids (topical/oral)
+
+ 
+
+17 Clear Evidence of XmAb819 Dose Response in Ongoing Dose Escalation of Heavily Pre-Treated Patients Best Percent Change from Baseline in Tumor Lesion (RECIST 1.1) Target Dose Cohorts (N=20)†Low Dose Cohorts (N=38)* * Excludes 4 patients without post-baseline scans and 3 patients with non-evaluable post-baseline measurements † Excludes 3 patients without post-baseline scans and 1 patient with non-evaluable post-baseline measurements ‡ PD at first scan (D48) prior to receiving target dose on D50. Continued treatment post-progression resulted in 47% tumor reduction. Continues on study at week 30. ‡
+
+ 
+
+18 Best Overall Response Supports Monotherapy Development All Responders Treatment Ongoing Percent Change from Baseline in Tumor Lesion Responders in Target Dose RangeBest Overall Response in the Efficacy Evaluable Target Dose Range N 20* Objective Response Rate (ORR), % (95% CI) 25% (9, 49) Complete Response (CR) 0 Unconfirmed Partial Response (uPR) / Confirmed Partial Response (cPR)†, n (%) 5 (25) Stable Disease (SD), n (%) 9 (45) Disease Control Rate (DCR), % (95% CI) 70% (46, 88) * Excludes 3 patients without post-baseline scans and 1 patient with non-evaluable post-baseline measurements. † 4 cPR. 1 uPR deemed not evaluable after PR (54% reduction in target lesions at week 12) due to subsequent radiation to symptomatic non-target lesion with target lesion in field. The patient continues on treatment with stable scan at week 36.
+
+ 
+
+19 Majority of Patients Experience Reduction in Tumor Lesions Percent Change from Baseline, Target Dose Range (N=20) Excludes 3 patients without post-baseline scans and 1 patient with non-evaluable post-baseline measurements
+
+ 
+
+20 XmAb819 Treatment Has Resulted in Sustained Disease Control Response by Subject, Efficacy Evaluable (RECIST 1.1) Target Dose Range (N=20) † PD at first scan (D48) prior to receiving target dose on D50. Continued treatment post-progression resulted in a 47% tumor reduction. †
+
+ 
+
+21 Sumanta (Monty) Kumar Pal, M.D., F.A.S.C.O., is an internationally recognized leader in kidney cancer. Dr. Pal maintains one of the largest portfolios of clinical trials for kidney cancer on the West Coast. He developed an integrated program that focuses heavily on collaborations with basic science researchers at the Beckman Research Institute of City of Hope and urologists in the Department of Surgery. He is well known for his practice-defining work in rare types of kidney cancer (such as papillary kidney cancer) and is a pioneer in techniques to modulate the gut microbiome to enhance the impact of cancer treatment. Ultimately, Dr. Pal’s goal is to stimulate collaborative research across multiple departments in order to discover novel therapeutic approaches for currently incurable diseases. He is the lead investigator on multiple trials, ranging from early phase 1 experiences to late-stage phase 3 studies. Dr. Pal received his M.D. from the University of California Los Angeles, which he began at age 17. After completing his residency training at UCLA, Dr. Pal completed a fellowship program in medical oncology at City of Hope's comprehensive cancer center where he has remained on faculty since 2009. Over that span of time, he has published more than 550 PubMed cited articles that have been featured in prominent journals including The Lancet, Cancer Cell and Nature Medicine. Dr. Pal sits on the editorial board for CA: A Journal for Clinicians and European Urology and is the host of the City of Hope podcast, “On the Edge of Breakthrough: Voices of Cancer Research.” Dr. Pal has received grants from the National Institute of Health, the Comprehensive Cancer Network, SWOG Cancer Research Network and multiple other leading entities in support of his formidable research. Sumanta Pal, M.D., F.A.S.C.O. Co-Director, Kidney Cancer Program, City of Hope Comprehensive Cancer Center Source: City of Hope
+
+ 
+
+22 Case Example: ~63% Target Lesion Reduction Despite Membrane TPS<25% Indicates Potential Bystander Effect • 56-year-old male diagnosed ~10 years ago; metastatic disease less than 5 years ago • 2 prior lines of therapy: cabozantinib/nivolumab (1 month), lenvatinib/everolimus (3 years) Decrease in target lesion (11 x 8) Baseline target lesion (28 x 26cm) Baseline CT Scan Post-treatment CT Scan • Membrane ENPP3+ in <25% tumor • Diffuse cytoplasmic staining TPS Tumor Proportion Score
+
+ 
+
+23 ® Competitive Positioning & Commercial Opportunity
+
+ 
+
+24 XmAb819 On-track for ccRCC Pivotal Study Start During 2027 Achieved 25% ORR in unselected, heavily pretreated ccRCC patients, meeting internal criteria for progression to dose-expansion phase Well-tolerated safety profile observed with mainly Grade 1/2 CRS, transient rash and liver enzyme elevations, no ICANS; patients beyond Day 29 show low incidence of mild AEs Enrollment at IV Expansion Dose 1 has initiated; dose escalation continues to identify IV Expansion Dose 2 2026 Determination of optimal IV or SC administration route and RP3D decision 2026 Expansion into additional tumor types and combination studies with existing SoC in ccRCC, following establishment of the monotherapy RP3D 2026 2027
+
+ 
+
+25 Size of Global RCC Market Expected to Reach ~$12B in 2030 With Limited 2L+ Treatment Options Beyond VEGF-TKI1 1 GlobalData 2 Company earnings reports Registered trademarks: Cabometyx (Exelixis, Inc.), Lenvima (Eisai R&D Management Co., Ltd.), Keytruda & Welireg (Merck Sharp & Dohme LLC), Opdivo (Bristol-Myers Squibb Company) U.S. Total Addressable Market (TAM) in RCC in 2025 Aggregate U.S. Net Sales of Cabometyx® + Lenvima® + Welireg® in RCC1,2 VEGF-TKI HIF2α inhibitor Checkpoint inhibitors RCC U.S. Net Sales ($M)1,2 72%
+
+ 
+
+26 Opportunity for a Novel First-in-class T-cell Engager to Improve SoC for Patients With Advanced ccRCC ~ 20k addressable U.S. patients ~ 10k addressable U.S. patients ~ 5k addressable U.S. patients VEGF-TKI HIF2α inhibitor post IO + VEGF-TKI (LITESPARK-005) US ccRCC incidence ~ 60k1 new cases per year IO + IO IO + VEGF-TKI Cabozantinib Tivozanib Lenvatinib ± everolimus BelzutifanNivo+Ipi 1 SEER 2 GLOBOCAN 2022 3 Ozay ZI et al. Treatment and Attrition Trends for Metastatic Clear Cell Renal Cell Carcinoma in the US. JAMA Netw Open. SoC standard of care Nivo nivolumab Ipi ipilimumab Prembro pembrolizumab Lenva lenvatinib 50%3 50%3 Nivo+Cabo Pembro+Lenva Pembro+Axitinib Avelumab+Axitinib 1st Line 2nd Line 3rd Line
+
+ 
+
+27 Evolving ccRCC Landscape Has Opportunity to Redefine SoC with XmAb819 in 2L+ Post IO and VEGF-TKI Treatment VEGF-TKIIO + IO 1L 2L+ Today’s Landscape Tomorrow’s Landscape IO + VEGF-TKI HIF2α LITESPARK-012 VEGF-TKI ± HIF-2α IO + IO IO + VEGF-TKI ± HIF-2α XmAb819 LITESPARK-011 1 Choueiri, et al. Nature medicine 27.5 (2021): 802-805. 2 ESMO 2023 Presentation from Dr. Albiges. 3 Rini, et al. The Lancet Oncology 21.1 (2020): 95-104.
+
+ 
+
+28 XmAb819 Preliminary Efficacy Demonstrates Potential to Advance SoC for Patients That Have Progressed After CPI and VEGF-TKI Treatment Drug XmAb819 Belzutifan Belzutifan Tivozanib Study Preliminary Dose Escalation Phase 1 Dose Expansion (ccRCC)1 IA1 & IA2 for LITESPARK-0052 TIVO-3 Study3 Efficacy Evaluable, N 20 55 374 175 Overall Response Rate (ORR), % (95% CI) Complete Response (CR) Partial Response (PR) Stable Disease (SD) Disease Control Rate (DCR) 25% (9-49) 0% 25% 45% 70% 25% (15-39) 0% 25% 54% 80% 23% (19-27) 4% 19% 38% 61% 18% (12-24) 0% 18% 55% 73% Baseline Characteristics, N 69 55 374 175 Prior Regimens, Median (Range) 1, % 2 ≥3 prior regimens 3 4 ≥5 4 (1-8) 7% 23% 70% 19% 13% 38% 3 (1-9) 15% 24% 62% ≥3 prior 62% NA NA 2 (1-4) 12% 42% 45% 45% 1% 0% 2 (2-3) 0% 62% 38% 38% 0% 0% Prior treatments, % Checkpoint inhibitor VEGF TKI 2 or more TKI HIF2α inhibitor 100% 100% 61% 36% 80% 91% NA 0% 100% 100% 50% 0% 27% 100% 45% 0% 1 Choueiri, et al. Nature medicine 27.5 (2021): 802-805. 2 ESMO 2023 Presentation from Dr. Albiges. 3 Rini, et al. The Lancet Oncology 21.1 (2020): 95-104.
+
+ 
+
+29 Standard of care Cabozantinib Standard of care Regorafenib or Fruquitinib or FTD/TPI + Bevacizumab Standard of care Docetaxel 1 Estimates for U.S. 2025 ENPP3 population based upon H-Score of ≥1 ~60K Papillary RCC NSCLC Adenocarcinoma MSS Colorectal Cancer ENPP3+ patients in 2L/3L+ setting1 of pRCC, CRC & NSCLC Treatable patients ~6K Treatable patients ~13K Treatable patients ~40K MSS microsatellite stable NSCLC non-small cell lung cancer Strategic Expansion Opportunities for XmAb819 Beyond ccRCC
+
+ 
+
+30 ®Early Look at XmAb541 in Advanced Ovarian Cancer, Endometrial Cancer and Germ Cell Tumors
+
+ 
+
+31 XmAb®541: CD3 T-cell Engager for Ovarian Cancer & Solid Tumors XmAb541 (CLDN6 x CD3) Phase 1 Dose Escalation StudyXmAb 2+1 Design Highly selective for CLDN6 over CLDN9 • Differential expression in cancerous tissue presents CLDN6 as an intriguing target • CLDN family members, which are small membrane proteins, have high sequence identity, complicating antibody design • XmAb541 engineered for CLDN6 selectivity over similar CLDN9, CLDN3 and CLDN4 anti-CD3 1 scFv Bispecific Fc Domain anti-CLDN6 2 Fabs NCT06276491 NCT06276491 Xtend GCT Endometrial Ovarian Representative IHC from enrollment • Ongoing Phase 1 study, initiated in 1H24 • Enrolling patients with ovarian, endometrial and germ cell tumors • CLDN6 CDx pre-screening for patients with ovarian and endometrial cancers, but not required for GCT 0. 1 1 10 10 0 10 00 10 00 0 10 00 00 10 00 00 0 0 5000 10000 Conc. (ng/mL) M F I (A F 6 4 7 ) 0. 1 1 10 10 0 10 00 10 00 0 10 00 00 10 00 00 0 0 5000 10000 15000 Xencor lead Conc. (ng/mL) M F I (A F 6 4 7 ) 0. 1 1 10 10 0 10 00 10 00 0 10 00 00 10 00 00 0 0 5000 10000 15000 20000 AMG794 Conc. (ng/mL) M F I (A F 6 4 7 ) 0. 1 1 10 10 0 10 00 10 00 0 10 00 00 10 00 00 0 0 5000 10000 15000 20000 TORL-1-23 Conc. (ng/mL) M F I (A F 6 4 7 ) 0. 1 1 10 10 0 10 00 10 00 0 10 00 00 10 00 00 0 0 5000 10000 15000 20000 SC-004 Conc. (ng/mL) M F I (A F 6 4 7 ) 0. 1 1 10 10 0 10 00 10 00 0 10 00 00 10 00 00 0 0 5000 10000 15000 20000 SAIL66 Conc. (ng/mL) M F I (A F 6 4 7 ) CLDN17 CLDN8 CLDN4 CLDN3 CLDN9 CLDN6 GCT germ cell tumor MFI mean fluorescence intensity CDx companion diagnostic IHC immunohistochemistry
+
+ 
+
+32 -100% -80% -60% -40% -20% 0% 20% 40% 60% B e s t % C h a n g e f ro m B a s e lin e XmAb541 Best Overall Response at Most Recently Evaluated IV Dose Level PR SD PD Includes patients with CLDN6 tumor cell positivity ≥ 30% GCT Ova/Per GCT GCTOva GCT GCTEndOva Data cut-off: October 1, 2025 Ova ovarian cancer End endometrial cancer GCT germ cell tumor Per peritoneal cancer PR partial response SD stable disease PD progressive disease
+
+ 
+
+33 Commercial OpportunitySoC Per Line of TherapyEpidemiology Ovarian Cancer Endometrial Cancer Germ Cell Tumors Total sales in 1H25: $338 million2 Platinum-based chemo Total sales in 1H25: $196 million2 Market Opportunity for Xmab541 in CLDN6+ Gynecological Tumors Approved drugs CLDN6 positivity: ~50-60%1 CLDN6 positivity: ~13-20%1 CLDN6 positivity: ~80-90%4 20k New U.S. cases/yr 1 LoT: 15k 2 LoT: 12k Chemo ± bev ± PARPi Chemo ± bev, mirv (FRα+) 65k New U.S. cases/yr 1 LoT: 15k 2 LoT: 7k 10k New U.S. cases/yr 1 LoT: 3k 2 LoT: 1k Chemo ± autologous transplant Chemo + PD-1 therapies Chemo + PD-1 therapies Global TAM by 2030: ~4.5 $bn3 Global TAM by 2030: ~4.5 $bn3 Global TAM by 2035: ~4.2 $bn5 1 Xencor internal data 2 Q2 2025 Company earnings 3 GlobalData 4 Clin Cancer Res (2023) 29 (11): 2131–2143 5 IMARC Group LoT line of therapy TAM total addressable market
+
+ 
+
+34 ® Closing Remarks
+
+ 
+
+35 Building a Fully Integrated Oncology Company on Novel TCEs XmAb819 2025 XmAb541 2035+2030 xCD3 Partnered Program (Amgen, MSD - HSD Royalty) xCD3 Partnered Program (Astellas, HSD - Low DD Royalty) xCD28 Partnered Program (Janssen, HSD - Low DD Royalty) Undisclosed TCE TCE Partnerships are Potentially Significant Sources of Future Milestone and Royalty Funding for Wholly Owned Program Development 2026 RP3D 2027 Start of Pivotal Study as Monotherapy in Advanced ccRCC 2025 PoC DE Data Regulatory Approval and Commercial Launch Regulatory Approval and Commercial Launch 2026 RP3D 2025 PoC DE Data 2027 Start of Pivotal Study as Monotherapy in Advanced Solid Tumors 2027 FIH PoC Combination Studies Pivotal Study in Prostate Cancer Advancing Development in Gastric/GEJ Cancer Advancing Development in Prostate Cancer TCE T-cell engager PoC Proof of concept DE dose escalation RP3D recommended Phase 3 dose ccRCC clear cell renal cell carcinoma FIH first-in-human MSD mid-single digit HSD high-single digit DD double digit GEJ gastroesophageal junction
+
+ 
+
+36 ® Q&A
+
+ 
+
+® Initial Results from Ongoing Dose-Escalation Study of XmAb819 & Oncology Pipeline Update October 24, 2025

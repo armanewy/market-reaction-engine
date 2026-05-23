@@ -1,0 +1,712 @@
+{
+  "agent": "3E",
+  "domain": "biotech_fda_clinical_catalyst",
+  "benchmark": "SPY",
+  "sector_benchmark": "XBI",
+  "horizons": [
+    1,
+    3,
+    10
+  ],
+  "fresh_source_rule": "new tickers outside Agent 3D, parsed by fixed 3C parser and strict 3E rule review",
+  "event_counts": {
+    "fresh_reviewed_events": 67,
+    "fresh_event_study_rows": 67,
+    "fresh_event_study_ok_rows": 67,
+    "fresh_binary_catalysts": 47,
+    "fresh_positive_catalysts": 23,
+    "fresh_negative_catalysts": 27
+  },
+  "event_study_diagnostics": {
+    "events_total": 67,
+    "events_ok": 67,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "event_study_summary": {
+    "label": "fresh_main",
+    "rows": 67,
+    "ok_rows": 67,
+    "h1": {
+      "n": 67,
+      "mean_log": -0.06848756700456653,
+      "median_log": -0.012823256547424926,
+      "mean_simple": -0.032872068356866804,
+      "positive_rate": 0.417910447761194,
+      "mean_abs_log": 0.15139597578856964
+    },
+    "h3": {
+      "n": 67,
+      "mean_log": -0.08283480443601152,
+      "median_log": -0.026192381290824393,
+      "mean_simple": -0.04210002003793743,
+      "positive_rate": 0.3582089552238806,
+      "mean_abs_log": 0.18472655843773905
+    },
+    "h10": {
+      "n": 66,
+      "mean_log": -0.05565877772792429,
+      "median_log": -0.013421063444696672,
+      "mean_simple": -0.020819969702522683,
+      "positive_rate": 0.4393939393939394,
+      "mean_abs_log": 0.18305180448470232
+    }
+  },
+  "base_rate_rows": 105,
+  "hypotheses": {
+    "h1_negative_binary_catalyst": {
+      "definition": "binary_catalyst_flag=true and event_direction_pre_price=negative",
+      "expected": "negative",
+      "n": 27,
+      "h1": {
+        "n": 27,
+        "mean_log": -0.15011479781431677,
+        "median_log": -0.06216973776430177,
+        "mean_simple": -0.08333742530987215,
+        "positive_rate": 0.3333333333333333,
+        "negative_rate": 0.6666666666666666,
+        "alignment_rate": 0.6666666666666666,
+        "mean_abs_log": 0.2126702026800412
+      },
+      "h3": {
+        "n": 27,
+        "mean_log": -0.18993633367533405,
+        "median_log": -0.09638326698712146,
+        "mean_simple": -0.1160218174556326,
+        "positive_rate": 0.25925925925925924,
+        "negative_rate": 0.7407407407407407,
+        "alignment_rate": 0.7407407407407407,
+        "mean_abs_log": 0.2544425260165483
+      },
+      "h10": {
+        "n": 27,
+        "mean_log": -0.1423653766373324,
+        "median_log": -0.09508509681182174,
+        "mean_simple": -0.08641799683736101,
+        "positive_rate": 0.37037037037037035,
+        "negative_rate": 0.6296296296296297,
+        "alignment_rate": 0.6296296296296297,
+        "mean_abs_log": 0.23695830417089797
+      }
+    },
+    "h2_positive_clinical_readout": {
+      "definition": "clinical_trial_readout_flag=true, endpoint_met=true, safety_negative_flag=false",
+      "expected": "positive",
+      "n": 7,
+      "h1": {
+        "n": 7,
+        "mean_log": -0.14639887084718245,
+        "median_log": -0.04380693019054266,
+        "mean_simple": -0.10585400659171021,
+        "positive_rate": 0.2857142857142857,
+        "negative_rate": 0.7142857142857143,
+        "alignment_rate": 0.2857142857142857,
+        "mean_abs_log": 0.20061059388610739
+      },
+      "h3": {
+        "n": 7,
+        "mean_log": -0.16859850884446548,
+        "median_log": -0.08937276795303502,
+        "mean_simple": -0.12236327544155975,
+        "positive_rate": 0.14285714285714285,
+        "negative_rate": 0.8571428571428571,
+        "alignment_rate": 0.14285714285714285,
+        "mean_abs_log": 0.23507291341872597
+      },
+      "h10": {
+        "n": 7,
+        "mean_log": -0.14914595493783483,
+        "median_log": -0.07587984785889774,
+        "mean_simple": -0.10566142728503067,
+        "positive_rate": 0.2857142857142857,
+        "negative_rate": 0.7142857142857143,
+        "alignment_rate": 0.2857142857142857,
+        "mean_abs_log": 0.23119827102431836
+      }
+    },
+    "h3_crl_halt_endpoint_failure": {
+      "definition": "CRL, trial halt, endpoint failure, or trial_failure_flag=true",
+      "expected": "negative",
+      "n": 18,
+      "h1": {
+        "n": 18,
+        "mean_log": -0.1899232477593471,
+        "median_log": -0.06506945012282112,
+        "mean_simple": -0.09406950877033546,
+        "positive_rate": 0.3333333333333333,
+        "negative_rate": 0.6666666666666666,
+        "alignment_rate": 0.6666666666666666,
+        "mean_abs_log": 0.26880840490113816
+      },
+      "h3": {
+        "n": 18,
+        "mean_log": -0.2291207162466895,
+        "median_log": -0.0931761594587723,
+        "mean_simple": -0.12418728008608279,
+        "positive_rate": 0.3333333333333333,
+        "negative_rate": 0.6666666666666666,
+        "alignment_rate": 0.6666666666666666,
+        "mean_abs_log": 0.31730428677809897
+      },
+      "h10": {
+        "n": 18,
+        "mean_log": -0.1440502196087894,
+        "median_log": -0.05692530456389819,
+        "mean_simple": -0.06844719350185108,
+        "positive_rate": 0.3888888888888889,
+        "negative_rate": 0.6111111111111112,
+        "alignment_rate": 0.6111111111111112,
+        "mean_abs_log": 0.2776085176429174
+      }
+    },
+    "h4_designation_only": {
+      "definition": "designation_only_flag=true",
+      "expected": "weaker_noisier",
+      "n": 7,
+      "h1": {
+        "n": 7,
+        "mean_log": -0.0051736655018822806,
+        "median_log": 0.011458742339103024,
+        "mean_simple": -0.003790391160671734,
+        "positive_rate": 0.5714285714285714,
+        "negative_rate": 0.42857142857142855,
+        "alignment_rate": null,
+        "mean_abs_log": 0.04110246086866912
+      },
+      "h3": {
+        "n": 7,
+        "mean_log": 0.023237516257510523,
+        "median_log": 0.018916284737074136,
+        "mean_simple": 0.02629206292277237,
+        "positive_rate": 0.5714285714285714,
+        "negative_rate": 0.42857142857142855,
+        "alignment_rate": null,
+        "mean_abs_log": 0.059435989593546915
+      },
+      "h10": {
+        "n": 7,
+        "mean_log": 0.03821802940104898,
+        "median_log": 0.02852672757692177,
+        "mean_simple": 0.041961508332672474,
+        "positive_rate": 0.7142857142857143,
+        "negative_rate": 0.2857142857142857,
+        "alignment_rate": null,
+        "mean_abs_log": 0.07249205199805218
+      }
+    },
+    "h5_positive_after_runup": {
+      "definition": "event_direction_pre_price=positive and pre_event_market_adjusted_return_20d>0",
+      "expected": "weaker_or_sell_the_news",
+      "n": 9,
+      "h1": {
+        "n": 9,
+        "mean_log": 0.06718032417170527,
+        "median_log": 0.08638054717320912,
+        "mean_simple": 0.07258909377855285,
+        "positive_rate": 0.7777777777777778,
+        "negative_rate": 0.2222222222222222,
+        "alignment_rate": null,
+        "mean_abs_log": 0.08174429194419092
+      },
+      "h3": {
+        "n": 9,
+        "mean_log": 0.11202759217319619,
+        "median_log": 0.1156905137575921,
+        "mean_simple": 0.12702197299934584,
+        "positive_rate": 0.6666666666666666,
+        "negative_rate": 0.3333333333333333,
+        "alignment_rate": null,
+        "mean_abs_log": 0.12538682743784266
+      },
+      "h10": {
+        "n": 9,
+        "mean_log": 0.11469869004923655,
+        "median_log": 0.02852672757692177,
+        "mean_simple": 0.13263562795104708,
+        "positive_rate": 0.7777777777777778,
+        "negative_rate": 0.2222222222222222,
+        "alignment_rate": null,
+        "mean_abs_log": 0.12694963172929896
+      }
+    }
+  },
+  "walk_forward": {
+    "horizon": 1,
+    "target": "car_sector_adj_h1",
+    "min_train": 40,
+    "purge_days": 3,
+    "n_events": 67,
+    "n_predictions": 27,
+    "n_skipped": 0,
+    "categorical_features": [
+      "ticker",
+      "event_type",
+      "event_subtype",
+      "event_family",
+      "source_type",
+      "release_session",
+      "expectedness",
+      "surprise_direction",
+      "surprise_magnitude",
+      "review_status",
+      "label_quality",
+      "evidence_status",
+      "indication",
+      "trial_phase",
+      "primary_endpoint_met",
+      "safety_signal",
+      "approval_status"
+    ],
+    "numeric_features": [
+      "materiality",
+      "pre_return_5d",
+      "pre_return_20d",
+      "benchmark_pre_return_20d",
+      "pre_vol_20d",
+      "benchmark_pre_vol_20d",
+      "alpha",
+      "beta",
+      "residual_vol",
+      "market_cap_before_event",
+      "pre_event_return_20d",
+      "pre_event_return_60d",
+      "pre_event_benchmark_return_20d",
+      "pre_event_benchmark_return_60d",
+      "pre_event_market_adjusted_return_20d",
+      "pre_event_market_adjusted_return_60d"
+    ],
+    "warnings": [
+      "First biotech falsification pass only; do not treat walk-forward metrics as a graduated signal."
+    ],
+    "metrics": {
+      "accuracy": 0.7037037037037037,
+      "brier_score": 0.24245323402683672,
+      "balanced_accuracy": 0.6978021978021978,
+      "roc_auc": 0.6813186813186813,
+      "log_loss": 0.7586635507286994
+    },
+    "predictions_path": "artifacts\\biotech_catalyst_fresh_walk_forward_predictions.csv"
+  },
+  "calibration": {
+    "n_predictions": 27,
+    "bins": 10,
+    "expected_calibration_error": 0.28245316582993396,
+    "mean_probability": 0.41818729743311717,
+    "observed_rate": 0.48148148148148145
+  },
+  "strategy": {
+    "horizon": 1,
+    "n_predictions": 27,
+    "n_trades": 24,
+    "n_long": 9,
+    "n_short": 15,
+    "long_threshold": 0.6,
+    "short_threshold": 0.4,
+    "allow_short": true,
+    "cost_bps": 5.0,
+    "slippage_bps": 5.0,
+    "mean_gross_event_return": -0.014007452231177839,
+    "mean_net_event_return": 0.12343383021896552,
+    "median_net_event_return": 0.03521799262357056,
+    "hit_rate": 0.6666666666666666,
+    "event_sharpe": 2.179780404351687,
+    "cumulative_net_return": 8.094021027745404,
+    "max_drawdown": -0.337769022543556,
+    "avg_trade_cost": 0.001,
+    "trades_path": "artifacts\\biotech_catalyst_fresh_strategy_trades.csv"
+  },
+  "source_direction_strategy": {
+    "h1": {
+      "horizon": 1,
+      "return_column": "car_sector_adj_h1",
+      "n_trades": 50,
+      "n_long": 23,
+      "n_short": 27,
+      "cost_bps": 5.0,
+      "slippage_bps": 5.0,
+      "mean_net_event_return": 0.03640312603250076,
+      "median_net_event_return": 0.012176567595943044,
+      "hit_rate": 0.58,
+      "cumulative_net_return": -0.6425060788517567,
+      "max_drawdown": -0.9533846698012504,
+      "long_mean_net_event_return": -0.01751974703223957,
+      "short_mean_net_event_return": 0.08233742530987215
+    },
+    "h3": {
+      "horizon": 3,
+      "return_column": "car_sector_adj_h3",
+      "n_trades": 50,
+      "n_long": 23,
+      "n_short": 27,
+      "cost_bps": 5.0,
+      "slippage_bps": 5.0,
+      "mean_net_event_return": 0.06538546724476277,
+      "median_net_event_return": 0.02729242828286227,
+      "hit_rate": 0.62,
+      "cumulative_net_return": 1.8518049523211522,
+      "max_drawdown": -0.8941026556284162,
+      "long_mean_net_event_return": 0.007116708301567767,
+      "short_mean_net_event_return": 0.11502181745563261
+    },
+    "h10": {
+      "horizon": 10,
+      "return_column": "car_sector_adj_h10",
+      "n_trades": 50,
+      "n_long": 23,
+      "n_short": 27,
+      "cost_bps": 5.0,
+      "slippage_bps": 5.0,
+      "mean_net_event_return": 0.06126602615863835,
+      "median_net_event_return": 0.03538679623226104,
+      "hit_rate": 0.6,
+      "cumulative_net_return": -2.361902448015881,
+      "max_drawdown": -1.0573585301242834,
+      "long_mean_net_event_return": 0.032913712753181286,
+      "short_mean_net_event_return": 0.08541799683736102
+    }
+  },
+  "null_shuffle": {
+    "n_iter": 500,
+    "seed": 314,
+    "actual_strategy_report": {
+      "horizon": 1,
+      "n_predictions": 27,
+      "n_trades": 24,
+      "n_long": 9,
+      "n_short": 15,
+      "long_threshold": 0.6,
+      "short_threshold": 0.4,
+      "allow_short": true,
+      "cost_bps": 5.0,
+      "slippage_bps": 5.0,
+      "mean_gross_event_return": -0.014007452231177839,
+      "mean_net_event_return": 0.12343383021896552,
+      "median_net_event_return": 0.03521799262357056,
+      "hit_rate": 0.6666666666666666,
+      "event_sharpe": 2.179780404351687,
+      "cumulative_net_return": 8.094021027745404,
+      "max_drawdown": -0.337769022543556,
+      "avg_trade_cost": 0.001
+    },
+    "null_metric": "mean_net_event_return",
+    "actual_metric": 0.12343383021896552,
+    "null_mean": 0.006405078004575949,
+    "null_std": 0.0581392456055985,
+    "one_sided_p_value_actual_ge_null": 0.023952095808383235,
+    "z_score_vs_null": 2.0129045534625982,
+    "null_distribution_path": "artifacts\\biotech_catalyst_fresh_null_shuffle_distribution.csv"
+  },
+  "placebo_controls": {
+    "random_events": 67,
+    "shifted_events": 63,
+    "random_generation_diagnostics": {
+      "rows_total": 67,
+      "rows_used": 67,
+      "rows_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "shifted_generation_diagnostics": {
+      "rows_total": 67,
+      "rows_used": 63,
+      "rows_skipped": 4,
+      "skipped_reasons": {
+        "no_placebo_date_ZLAB": 1,
+        "no_placebo_date_SMMT": 1,
+        "no_placebo_date_MIRM": 1,
+        "no_placebo_date_BBIO": 1
+      }
+    },
+    "random_event_study_diagnostics": {
+      "events_total": 67,
+      "events_ok": 66,
+      "events_skipped": 1,
+      "skipped_reasons": {
+        "not enough pre-event history": 1
+      }
+    },
+    "shifted_event_study_diagnostics": {
+      "events_total": 63,
+      "events_ok": 63,
+      "events_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "random_summary": {
+      "label": "fresh_random_placebo",
+      "rows": 67,
+      "ok_rows": 66,
+      "h1": {
+        "n": 66,
+        "mean_log": 0.004383587927187723,
+        "median_log": -0.00242736826112125,
+        "mean_simple": 0.006730523679824079,
+        "positive_rate": 0.42424242424242425,
+        "mean_abs_log": 0.03493415708233654
+      },
+      "h3": {
+        "n": 66,
+        "mean_log": -0.0036368224073014335,
+        "median_log": -0.00045620302110828664,
+        "mean_simple": -0.0007175301345472688,
+        "positive_rate": 0.5,
+        "mean_abs_log": 0.048034565001560524
+      },
+      "h10": {
+        "n": 66,
+        "mean_log": -0.008054081123287142,
+        "median_log": -0.0026582994410360456,
+        "mean_simple": -0.0017512496735319408,
+        "positive_rate": 0.48484848484848486,
+        "mean_abs_log": 0.08003588461970089
+      }
+    },
+    "shifted_summary": {
+      "label": "fresh_shifted_placebo",
+      "rows": 63,
+      "ok_rows": 63,
+      "h1": {
+        "n": 63,
+        "mean_log": -0.0004181712558991243,
+        "median_log": 0.0030146528043264974,
+        "mean_simple": 0.0002098080010906902,
+        "positive_rate": 0.5396825396825397,
+        "mean_abs_log": 0.024926616664122013
+      },
+      "h3": {
+        "n": 63,
+        "mean_log": 0.004531713153392628,
+        "median_log": 0.007867418475332367,
+        "mean_simple": 0.006638067719419406,
+        "positive_rate": 0.5873015873015873,
+        "mean_abs_log": 0.04535668030675618
+      },
+      "h10": {
+        "n": 63,
+        "mean_log": 0.009521425053434854,
+        "median_log": 0.006070370672675084,
+        "mean_simple": 0.013273847575677105,
+        "positive_rate": 0.5238095238095238,
+        "mean_abs_log": 0.06435476748204727
+      }
+    },
+    "random_weaker_than_main_h1": true,
+    "shifted_weaker_than_main_h1": true
+  },
+  "peer_controls": {
+    "peer_events": 67,
+    "generation_diagnostics": {
+      "rows_total": 67,
+      "rows_used": 67,
+      "rows_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "event_study_diagnostics": {
+      "events_total": 67,
+      "events_ok": 67,
+      "events_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "summary": {
+      "label": "fresh_peer_control",
+      "rows": 67,
+      "ok_rows": 67,
+      "h1": {
+        "n": 67,
+        "mean_log": -0.011147885819801558,
+        "median_log": 0.0022704520795821595,
+        "mean_simple": -0.009526056811952753,
+        "positive_rate": 0.5223880597014925,
+        "mean_abs_log": 0.03171503940376965
+      },
+      "h3": {
+        "n": 67,
+        "mean_log": -0.018684320737371703,
+        "median_log": -0.015326370502457463,
+        "mean_simple": -0.01497663990704835,
+        "positive_rate": 0.40298507462686567,
+        "mean_abs_log": 0.06014146247900681
+      },
+      "h10": {
+        "n": 66,
+        "mean_log": -0.022057802040420016,
+        "median_log": -0.014389086876269674,
+        "mean_simple": -0.013733201531493017,
+        "positive_rate": 0.4696969696969697,
+        "mean_abs_log": 0.08841506781896592
+      }
+    },
+    "weaker_than_main_h1": true,
+    "warning": "Peer controls rotate to another ticker in the fresh biotech universe; not a hand-built mechanism peer basket."
+  },
+  "outlier_robustness": {
+    "rows": 67,
+    "horizons": {
+      "h1": {
+        "n": 67,
+        "mean": -0.06848756700456651,
+        "median": -0.012823256547424926,
+        "winsorized_mean_5_95": -0.04748365941989503,
+        "sign_accuracy_directional_only": 0.58,
+        "exclude_top_1_abs_mean": -0.046946598239503895,
+        "exclude_top_1_abs_median": -0.012397817003584184,
+        "top_1_abs_share": 0.14691053804650636,
+        "exclude_top_3_abs_mean": -0.017244600595639342,
+        "exclude_top_3_abs_median": -0.011845317971709728,
+        "top_3_abs_share": 0.3435699821829837,
+        "exclude_top_5_abs_mean": -0.018906135185554396,
+        "exclude_top_5_abs_median": -0.011845317971709728,
+        "top_5_abs_share": 0.4679857123085716,
+        "largest_abs_events": [
+          {
+            "event_id": "REPL_8-K_2025-07-22_0001104659-25-069489",
+            "ticker": "REPL",
+            "event_type": "fda_complete_response_letter",
+            "direction": "negative",
+            "car_sector_adj": -1.4901915054986992,
+            "abs_car_sector_adj": 1.4901915054986992
+          },
+          {
+            "event_id": "BBIO_8-K_2021-12-27_0001193125-21-366669",
+            "ticker": "BBIO",
+            "event_type": "phase_3_readout",
+            "direction": "negative",
+            "car_sector_adj": -1.246264963443067,
+            "abs_car_sector_adj": 1.246264963443067
+          },
+          {
+            "event_id": "ARVN_8-K_2025-03-11_0001655759-25-000057",
+            "ticker": "ARVN",
+            "event_type": "phase_3_readout",
+            "direction": "positive",
+            "car_sector_adj": -0.748556082243272,
+            "abs_car_sector_adj": 0.748556082243272
+          },
+          {
+            "event_id": "REPL_8-K_2025-10-20_0001104659-25-100605",
+            "ticker": "REPL",
+            "event_type": "fda_complete_response_letter",
+            "direction": "negative",
+            "car_sector_adj": 0.6652703406963864,
+            "abs_car_sector_adj": 0.6652703406963864
+          },
+          {
+            "event_id": "REPL_8-K_2023-12-05_0001104659-23-123459",
+            "ticker": "REPL",
+            "event_type": "endpoint_failure",
+            "direction": "negative",
+            "car_sector_adj": -0.5967443973129318,
+            "abs_car_sector_adj": 0.5967443973129318
+          }
+        ]
+      },
+      "h3": {
+        "n": 67,
+        "mean": -0.0828348044360115,
+        "median": -0.026192381290824393,
+        "winsorized_mean_5_95": -0.06505405578351404,
+        "sign_accuracy_directional_only": 0.62,
+        "exclude_top_1_abs_mean": -0.0628941556399435,
+        "exclude_top_1_abs_median": -0.022017758248071024,
+        "top_1_abs_share": 0.11302850934669453,
+        "exclude_top_3_abs_mean": -0.031387209303012004,
+        "exclude_top_3_abs_median": -0.01773302180757041,
+        "top_3_abs_share": 0.2861147471780104,
+        "exclude_top_5_abs_mean": -0.030788154033894267,
+        "exclude_top_5_abs_median": -0.01773302180757041,
+        "top_5_abs_share": 0.3938332501147917,
+        "largest_abs_events": [
+          {
+            "event_id": "REPL_8-K_2025-07-22_0001104659-25-069489",
+            "ticker": "REPL",
+            "event_type": "fda_complete_response_letter",
+            "direction": "negative",
+            "car_sector_adj": -1.3989176249765007,
+            "abs_car_sector_adj": 1.3989176249765007
+          },
+          {
+            "event_id": "REPL_8-K_2026-04-13_0001104659-26-042141",
+            "ticker": "REPL",
+            "event_type": "fda_complete_response_letter",
+            "direction": "negative",
+            "car_sector_adj": -1.1379729462940302,
+            "abs_car_sector_adj": 1.1379729462940302
+          },
+          {
+            "event_id": "BBIO_8-K_2021-12-27_0001193125-21-366669",
+            "ticker": "BBIO",
+            "event_type": "phase_3_readout",
+            "direction": "negative",
+            "car_sector_adj": -1.0042599305494724,
+            "abs_car_sector_adj": 1.0042599305494724
+          },
+          {
+            "event_id": "ARVN_8-K_2025-03-11_0001655759-25-000057",
+            "ticker": "ARVN",
+            "event_type": "phase_3_readout",
+            "direction": "positive",
+            "car_sector_adj": -0.7165566116194947,
+            "abs_car_sector_adj": 0.7165566116194947
+          },
+          {
+            "event_id": "REPL_8-K_2025-10-20_0001104659-25-100605",
+            "ticker": "REPL",
+            "event_type": "fda_complete_response_letter",
+            "direction": "negative",
+            "car_sector_adj": 0.6166407663281707,
+            "abs_car_sector_adj": 0.6166407663281707
+          }
+        ]
+      }
+    }
+  },
+  "fresh_minimum_gates": {
+    "gates": {
+      "fresh_reviewed_usable_rows_40": true,
+      "fresh_binary_catalyst_rows_25": true,
+      "fresh_negative_catalyst_rows_15": true,
+      "fresh_positive_or_contrast_rows_15": true,
+      "fresh_market_cap_context_rows_25": true,
+      "fresh_xbi_runup_context_rows_25": true,
+      "fresh_likely_oos_predictions_20": true,
+      "parser_audit_remains_passing": true,
+      "timestamps_reviewed": true
+    },
+    "all_minimum_gates_pass": true,
+    "fresh_reviewed_usable_rows": 67,
+    "fresh_binary_catalyst_rows": 47,
+    "fresh_negative_catalyst_rows": 27,
+    "fresh_positive_or_contrast_rows": 40,
+    "rows_with_market_cap_context": 66,
+    "rows_with_xbi_runup_context": 67,
+    "likely_oos_predictions": 27,
+    "rows_with_clear_timestamps": 67
+  },
+  "base_rate_contrasts": {
+    "binary_n": 47,
+    "designation_n": 7,
+    "binary_mean_abs_h1": 0.17024462389932107,
+    "designation_mean_abs_h1": 0.04110246086866912
+  },
+  "artifacts": {
+    "fresh_events": "data/events/biotech_catalyst_fresh_reviewed_events.csv",
+    "analysis_events": "artifacts\\biotech_catalyst_fresh_analysis_events.csv",
+    "event_study": "artifacts\\biotech_catalyst_fresh_event_study.csv",
+    "base_rates": "artifacts\\biotech_catalyst_fresh_base_rates.csv",
+    "walk_forward_predictions": "artifacts\\biotech_catalyst_fresh_walk_forward_predictions.csv",
+    "calibration": "artifacts\\biotech_catalyst_fresh_calibration.csv",
+    "strategy_trades": "artifacts\\biotech_catalyst_fresh_strategy_trades.csv",
+    "null_shuffle_distribution": "artifacts\\biotech_catalyst_fresh_null_shuffle_distribution.csv",
+    "null_shuffle_report": "artifacts\\biotech_catalyst_fresh_null_shuffle_report.json",
+    "placebo_report": "artifacts\\biotech_catalyst_fresh_placebo_report.json",
+    "peer_report": "artifacts\\biotech_catalyst_fresh_peer_report.json",
+    "outlier_robustness": "artifacts\\biotech_catalyst_fresh_outlier_robustness.md",
+    "backtest_report": "artifacts\\biotech_catalyst_fresh_backtest_report.json",
+    "agent_report": "artifacts\\biotech_catalyst_agent_3e_report.md"
+  },
+  "warnings": [
+    "Do not call the signal graduated from this fresh-data confirmation pass.",
+    "No parser labels were changed by this run.",
+    "The walk-forward classifier uses the same h1 XBI-adjusted target and fixed feature setup as Agent 3D.",
+    "Fresh rows are rule-reviewed SEC 8-K/exhibit events from new tickers, not a fully human-reviewed corpus."
+  ],
+  "decision": "failed fresh confirmation"
+}

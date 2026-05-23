@@ -1,0 +1,347 @@
+8-K
+
+MA false 0001861560 0001861560 2022-10-28 2022-10-28
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 28, 2022
+
+ 
+
+ 
+
+NUVALENT, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-40671
+
+ 
+
+81-5112298
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Nuvalent, Inc.
+
+One Broadway, 14th Floor, Cambridge, Massachusetts 02142
+
+(Address of principal executive offices, including zip code)
+
+(857) 357-7000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Class A Common Stock, $0.0001 par value per share
+
+ 
+
+NUVL
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+On October 28, 2022, Nuvalent, Inc. (the “Company”) issued a press release announcing initial data from the Phase 1 dose-escalation portion of its ongoing ARROS-1 Phase 1/2 clinical trial of NVL-520 for patients with advanced ROS1-positive non-small cell lung cancer (NSCLC) and other solid tumors. A copy of the press release is filed as Exhibit 99.1 hereto and incorporated herein by reference.
+
+The preliminary dose-escalation data were based on an enrollment cut-off date of September 1, 2022, and a data cut-off date of September 13, 2022. Thirty-five patients were enrolled, of which 34 patients had confirmed ROS1-positive NSCLC and 51% (18/35) had a history of central nervous system (CNS) metastases.
+
+The patient population was heavily pre-treated:
+
+ 
+
+ 
+
+•
+
+ 
+
+77% (27/35) had received three or more prior lines of anti-cancer therapy;
+
+ 
+
+ 
+
+•
+
+ 
+
+71% (25/35) had two or more prior ROS1 tyrosine kinase inhibitors (TKIs) and one or more lines of chemotherapy; and
+
+ 
+
+ 
+
+•
+
+ 
+
+80% (28/35) had received a ROS1 TKI other than crizotinib or entrectinib, including lorlatinib (57%, 20/35) or repotrectinib (34%, 12/35).
+
+Patients were treated with NVL-520 across five evaluated dose levels ranging from 25 mg once daily (QD) to 125 mg QD, and preliminary safety and pharmacokinetics of NVL-520 were evaluated as of the data cut-off date. Key findings as of the data cut-off date include:
+
+ 
+
+ 
+
+•
+
+ 
+
+NVL-520 demonstrated exposure above all target efficacy thresholds (ROS1 wild type and ROS1 G2032R in both the periphery and in the CNS).
+
+ 
+
+ 
+
+•
+
+ 
+
+Favorable pharmacokinetics and low intra-cohort patient pharmacokinetic variability were observed, with exposure increasing with increasing dose level and half-life supportive of once daily dosing.
+
+ 
+
+ 
+
+•
+
+ 
+
+No dose-limiting toxicities, treatment-related serious adverse events, treatment-related dizziness, or adverse events leading to dose reduction or discontinuation were observed as of the data cut-off date in the 35 patients enrolled.
+
+ 
+
+ 
+
+•
+
+ 
+
+Most treatment-related adverse events (TRAEs) were low-grade and manageable, with the most frequent TRAE being grade 1 fatigue reported in 11% (4/35) of patients.
+
+As of the data cut-off date, 21 patients with NSCLC were response-evaluable by investigator assessment with duration of treatment ranging from one to more than eight months (median 3.6 months). Objective responses (RECIST 1.1) were observed across all dose levels evaluated, including in:
+
+ 
+
+ 
+
+•
+
+ 
+
+Heavily pre-treated patients: Partial Responses (PRs) were observed in 48% (10/21) of all response-evaluable patients, with 76% (16/21) continuing on treatment. Responses were observed in 53% (9/17) of patients who received two or more prior TKIs and one or more prior lines of chemotherapy, in 50% (9/18) of patients previously treated with lorlatinib or repotrectinib, and across all dose levels evaluated.
+
+ 
+
+ 
+
+•
+
+ 
+
+Patients with ROS1 G2032R resistance mutation: Of nine patients with known ROS1 G2032R resistance mutation, responses were observed in 78% (7/9), including in two of three patients previously treated with repotrectinib, and tumor shrinkage was observed in 100% (9/9). Notably, complete clearance of G2032R allele was observed in all seven patients with G2032R detected on central ctDNA analysis.
+
+ 
+
+ 
+
+•
+
+ 
+
+Patients with CNS metastases: Intracranial PRs were observed in 100% (3/3) patients with measurable (>10 mm) CNS metastases. Responses were observed in 73% (8/11) of patients with a history of CNS metastases, and no CNS progression was observed in any of the 35 treated patients.
+
+As of the data cut-off date, 76% (16/21) of response-evaluable patients continued on NVL-520 treatment. Enrollment in the Phase 1 portion of the trial is ongoing.
+
+These data will also be presented today in the “New Drugs on the Horizon” oral plenary session at the 34th EORTC-NCI-AACR (ENA) Symposium in Barcelona, Spain.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release issued by Nuvalent, Inc. on October 28, 2022
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+Cautionary Note regarding Forward-Looking Statements
+
+This Current Report on Form 8-K, including Exhibit 99.1 hereto, contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, implied and express statements regarding the Company’s strategy, business plans, and focus; the preclinical and clinical development programs for NVL-520, NVL-655 and NVL-330; the potential clinical effect of NVL-520 and NVL-655; the design and enrollment of the ARROS-1 and ALKOVE-1 trials; the potential of the Company’s pipeline programs, including NVL-520, NVL-655 and NVL-330; data readouts and presentations; the Company’s research and development programs for the treatment of cancer; and risks and uncertainties associated with drug development. The words “may,” “might,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “aim,” “goal,” “intend,” “believe,” “expect,” “estimate,” “seek,” “predict,” “future,” “project,” “potential,” “continue,” “target” or the negative of these terms and similar words or expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in commercialization of a product. You should not place undue reliance on these statements or the scientific data presented.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties, and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this Current Report on Form 8-K, including, without limitation: risks that the Company may not fully enroll the ARROS-1 or ALKOVE-1 studies or that enrollment will take longer than expected; unexpected concerns that may arise from additional data, analysis, or results obtained during preclinical studies or clinical trials; the occurrence of adverse safety events; risks of unexpected costs, delays, or other unexpected hurdles; risks that the Company may not be able to nominate drug candidates from its ALK IXDN and other discovery programs; the direct or indirect impact of COVID-19 or other global geopolitical circumstances on the timing and anticipated timing and results of the Company’s clinical trials, strategy, and future operations, including the ARROS-1 and ALKOVE-1 trials; the timing and outcome of the Company’s planned interactions with regulatory authorities; and obtaining, maintaining, and protecting its intellectual property. These and other risks and uncertainties are described in greater detail in the section entitled “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2022, as well as any prior and subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent the Company’s views only as of today and should not be relied upon as representing its views as of any subsequent date. The Company explicitly disclaims any obligation to update any forward-looking statements.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Nuvalent, Inc.
+
+Date: October 28, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Deborah Miller
+
+ 
+
+ 
+
+ 
+
+Deborah Miller, Ph.D.
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer and Secretary

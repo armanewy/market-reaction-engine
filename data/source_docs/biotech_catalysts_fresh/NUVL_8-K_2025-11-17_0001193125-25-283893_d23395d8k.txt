@@ -1,0 +1,617 @@
+8-K
+
+false 0001861560 0001861560 2025-11-17 2025-11-17
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 17, 2025
+
+ 
+
+ 
+
+NUVALENT, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-40671
+
+ 
+
+81-5112298
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+Nuvalent, Inc.
+
+One Broadway, 14th Floor, Cambridge, Massachusetts 02142
+
+(Address of principal executive offices, including zip code)
+
+(857) 357-7000
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trade
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Class A Common Stock, $0.0001 par value per share
+
+ 
+
+NUVL
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On November 17, 2025, Nuvalent, Inc. (the “Company”) announced positive topline pivotal data for neladalkib, an investigational ALK-selective inhibitor, in tyrosine kinase inhibitor (“TKI”) pre-treated patients with advanced ALK-positive non-small cell lung cancer (“NSCLC”) from the global ALKOVE-1 Phase 1/2 clinical trial. Additionally, the Company shared the first report of preliminary data from the Phase 2 exploratory cohort for TKI-naïve patients with advanced ALK-positive NSCLC from the ALKOVE-1 study.
+
+Summary of Topline Pivotal Data
+
+Neladalkib is being evaluated in ALKOVE-1, a first-in-human Phase 1/2 clinical trial for patients with advanced ALK-positive NSCLC and other solid tumors. The recommended Phase 2 dose (“RP2D”) for neladalkib of 150 mg once daily (“QD”) was determined during the Phase 1 dose-escalation portion of the trial. The global, single-arm, multi-cohort, open-label Phase 2 portion is designed to evaluate neladalkib at the RP2D with registrational intent for TKI pre-treated patients with advanced ALK-positive NSCLC. Global enrollment in ALKOVE-1 remains ongoing for adult and adolescent patients with ALK-positive solid tumors other than NSCLC, and for adolescent patients with ALK-positive NSCLC.
+
+In this topline pivotal dataset for the TKI pre-treated ALK-positive NSCLC population, data are pooled across Phase 1 and 2 and reported for the primary objective of objective response rate (ORR, RECIST 1.1) by blinded independent central review (“BICR”). Key secondary objectives include duration of response (“DOR”), intracranial ORR (“IC-ORR”), and safety.
+
+As of the data cut-off date of August 29, 2025, 781 patients with ALK-positive solid tumors had received neladalkib at any starting dose across the Phase 1 and Phase 2 portions of the ALKOVE-1 clinical trial. Of these, 656 patients with advanced ALK-positive NSCLC were treated with neladalkib at the RP2D.
+
+Efficacy Analysis in TKI Pre-treated Advanced ALK-positive NSCLC
+
+The pivotal primary analysis population consisted of 253 TKI pre-treated patients with advanced ALK-positive NSCLC with measurable disease by BICR who received neladalkib at the RP2D by September 30, 2024, with DOR follow-up of at least 6 months available for nearly all responders.
+
+The pivotal primary analysis population was distinct from the ALK TKI pre-treated populations that have been reported for the currently available ALK TKIs:
+
+ 
+
+ 
+
+•
+
+ 
+
+Patients received a median of 3 prior lines of therapy (range, 1 – 11) and 51% had received prior chemotherapy.
+
+ 
+
+ 
+
+•
+
+ 
+
+78% of patients had received 2 or more prior ALK TKIs ± prior chemotherapy, of which 91% had received prior lorlatinib. No approved therapies have demonstrated activity after lorlatinib.
+
+ 
+
+ 
+
+•
+
+ 
+
+19% of patients had a secondary ALK G1202R resistance mutation, and 17% had a compound ALK resistance mutation, which are key drivers of disease progression.
+
+ 
+
+ 
+
+•
+
+ 
+
+40% of patients had active CNS disease by BICR at baseline.
+
+Of the overall TKI pre-treated population, 25% (63/253) of patients were lorlatinib-naïve. Within this subpopulation:
+
+ 
+
+ 
+
+•
+
+ 
+
+25% received prior chemotherapy.
+
+ 
+
+ 
+
+•
+
+ 
+
+100% had received ≥ 1 prior 2G ALK TKI ± prior chemotherapy, of which 70% received prior alectinib only. No patients received crizotinib as their only ALK TKI.
+
+ 
+
+ 
+
+•
+
+ 
+
+19% of patients had a secondary ALK G1202R mutation.
+
+ 
+
+ 
+
+•
+
+ 
+
+35% had active CNS disease by BICR at baseline.
+
+Activity was observed across subsets of TKI pre-treated patients, and durability of response was assessed as the probability of patients remaining in response for at least 6, 12, and 18 months by Kaplan-Meier estimate (Table 1).
+
+ 
+
+Table 1.
+
+  
+
+Any prior ALK TKI
+
+± chemotherapy a
+
+  
+
+TKI Pre-treated,
+
+Lorlatinib-naïve b
+
+n
+
+  
+
+253
+
+  
+
+63
+
+ORR, % (n/N)
+
+(95% CI)
+
+  
+
+31% (79/253) c, d
+
+(26, 37)
+
+  
+
+46% (29/63) e
+
+(33, 59)
+
+% DOR ≥ 6 months f
+
+(95% CI)
+
+  
+
+76%
+
+(64, 84)
+
+  
+
+89%
+
+(69, 96)
+
+% DOR ≥ 12 months f
+
+(95% CI)
+
+  
+
+64%
+
+(51, 75)
+
+  
+
+80%
+
+(58, 91)
+
+% DOR ≥ 18 months f
+
+(95% CI)
+
+  
+
+53%
+
+(34, 68)
+
+  
+
+60%
+
+(19, 85)
+
+G1202R mutation g
+
+n
+
+  
+
+47
+
+  
+
+12
+
+ORR, % (n/N)
+
+(95% CI)
+
+  
+
+68% (32/47) h, i
+
+(53, 81)
+
+  
+
+83% (10/12)
+
+(52, 98)
+
+% DOR ≥ 6 months f
+
+(95% CI)
+
+  
+
+84%
+
+(65, 93)
+
+  
+
+90%
+
+(47, 99)
+
+% DOR ≥ 12 months f
+
+(95% CI)
+
+  
+
+80%
+
+(61, 91)
+
+  
+
+77%
+
+(34, 94)
+
+% DOR ≥ 18 months f
+
+(95% CI)
+
+  
+
+70%
+
+(42, 86)
+
+  
+
+77%
+
+(34, 94)
+
+Measurable CNS lesions
+
+n
+
+  
+
+92 j
+
+  
+
+24 k
+
+IC-ORR, % (n/N)
+
+(95% CI)
+
+  
+
+32% (29/92) l, m
+
+(22, 42)
+
+  
+
+63% (15/24) l
+
+(41, 81)
+
+IC-CR, % (n/N)
+
+  
+
+13% (12/92) n
+
+  
+
+21% (5/24) n
+
+% IC-DOR ≥ 6 months f
+
+(95% CI)
+
+  
+
+81%
+
+(59, 91)
+
+  
+
+92%
+
+(57, 99)
+
+% IC-DOR ≥ 12 months f
+
+(95% CI)
+
+  
+
+71%
+
+(48, 85)
+
+  
+
+92%
+
+(57, 99)
+
+% IC-DOR ≥ 18 months f
+
+(95% CI)
+
+  
+
+71%
+
+(48, 85)
+
+  
+
+92%
+
+(57, 99)
+
+a Median DOR (“mDOR”) not reached with median follow-up of 11.3 months.
+
+b mDOR not reached.
+
+c Includes 2 unconfirmed partial responses (“uPRs”).
+
+d Includes responses in patients previously treated with lorlatinib (ORR = 26% [50/190 including 2 uPRs] with mDOR = 17.6 months [95% CI: 6.9, NE]).
+
+e For patients receiving only 1 prior 2nd generation ALK TKI (alectinib [n = 44] or brigatinib [n = 2]) ± chemotherapy, ORR was 48% (22/46) with mDOR not reached, and DOR ≥ 12 and 18 months of 74% (95% CI: 48, 88).
+
+f Estimated for responders by Kaplan-Meier analysis.
+
+g ALK G1202R mutation identified in local or central testing of blood (“ctDNA”) or tissue. Patients may have had other mutations in addition to ALK G1202R.
+
+h Includes responses in patients with compound ALK mutations (≥2 ALK mutations, cis allelic configuration not determined in all cases) after ≥ 2 prior ALK TKIs (ORR = 58% [25/43, including 1 uPR] with DOR ≥ 12 months of 69% [95% CI: 45, 84]) and in patients with ALK resistance mutations other than G1202R, including C1156Y, I1171N, I1171T, F1174C, F1174L, V1180L, L1196M, L1198F, D1203N, E1210K, and G1269A.
+
+i Includes 1 uPR.
+
+j For intracranial (“IC”) responders, the emerging IC-mDOR was 21.6 months (95% CI: 10.1, NE) and continues to mature.
+
+k For IC-responders, the emerging IC-mDOR was 21.6 months (95% CI: 21.6, NE) and continues to mature.
+
+l Includes 2 IC-uPRs.
+
+m IC responses were also observed in lorlatinib-experienced patients with measurable CNS lesions at baseline (IC-ORR = 21%, 14/68) with IC-mDOR not reached, IC-DOR ≥ 6 months of 71% (95% CI: 41, 88), and IC-DOR ≥ 12 and 18 months of 55% (95% CI: 26, 77).
+
+n Includes 1 IC-uCR with prior confirmed IC-PR.
+
+  
+
+ 
+
+Preliminary Data from Exploratory Cohort for TKI-Naïve Patients with Advanced ALK-positive NSCLC
+
+Encouraging preliminary data were available for 44 TKI-naïve patients with advanced ALK-positive NSCLC and measurable disease by BICR. These patients were treated with neladalkib at RP2D in an exploratory cohort of ALKOVE-1, with data cut-off of August 29, 2025. Patients may have received up to one prior line of chemotherapy.
+
+The preliminary ORR was 86% (38/44; 2 uPRs) and a CR rate of 9% (4/44; 1 uCR with prior confirmed PR) was observed. DOR ranged from 1.7+ to 14.8+ months with DOR ≥ 6 and 12 months of 91% (95% CI: 70, 98) and only two progression events among responders. In 9 patients with measurable intracranial lesions, the IC-ORR was 78% (7/9) and the intracranial CR rate was 44% (4/9; 1 IC-uCR with prior confirmed IC-PR). The IC-DOR ranged from 3.1+ to 7.0+ months with no CNS progression among responders.
+
+Global enrollment of TKI-naïve patients is ongoing in ALKAZAR, the Company’s Phase 3 randomized controlled trial of neladalkib versus alectinib.
+
+Safety Analyses in Advanced ALK-positive NSCLC
+
+Neladalkib demonstrated a generally well-tolerated safety profile consistent with its ALK-selective, TRK-sparing design.
+
+In the 656 patients with advanced ALK-positive NSCLC treated at RP2D as of the data cut-off date, the median duration of exposure was 6.0 months (range, 0.1, 28.4). The most frequent treatment-emergent adverse events (“TEAEs”) occurring in ≥ 15% of patients were alanine aminotransferase increased (47%), aspartate aminotransferase increased (44%), constipation (28%), dysgeusia (23%), peripheral edema (18%), cough and nausea (16% each).
+
+ 
+
+The most common TEAE of transaminase elevations were generally observed to be asymptomatic lab abnormalities that were low-grade, transient, and reversible with dose interruptions or reductions. Preliminary data suggest increased incidence in less heavily pre-treated patients. Enhanced monitoring for transaminase elevations and prompt dose interventions have been implemented in the protocol for the ALKAZAR Phase 3 randomized, controlled trial.
+
+Across the 656 patients treated in ALKOVE-1 at RP2D, dose reductions due to TEAEs occurred in 17% of patients and 5% of patients discontinued treatment due to TEAEs.
+
+The Company plans to discuss the topline pivotal data for TKI pre-treated ALK-positive NSCLC with the U.S. Food and Drug Administration (the “FDA”) at a pre-New Drug Application (“NDA”) meeting. Additionally, the Company plans to present detailed study results at a future medical meeting.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, implied and express statements regarding the Company’s strategy, business plans, and focus; the expected timing of data announcements; the clinical development programs for the Company’s investigational product candidates, including neladalkib; the potential clinical effects of the Company’s investigational product candidates, including neladalkib; the design and enrollment of the Company’s clinical trials, including for the ALKOVE-1 and ALKAZAR trials their intended pivotal registration-directed design; the potential of the Company’s pipeline programs, including neladalkib, zidesamtinib and NVL-330; the implications of data readouts and presentations; timing and content of FDA submissions and interactions; the Company’s research and development programs for the treatment of cancer; and risks and uncertainties associated with drug development. The words “may,” “might,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “aim,” “goal,” “intend,” “believe,” “estimate,” “seek,” “predict,” “future,” “project,” “potential,” “continue,” “target” or the negative of these terms and similar words or expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in commercialization of a product. You should not place undue reliance on these statements or the scientific data presented.
+
+Any forward-looking statements in this Current Report on Form 8-K are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties, and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this Current Report on Form 8-K, including, without limitation: risks that the Company may not fully enroll its clinical trials or that enrollment will take longer than expected; unexpected concerns that may arise from additional data, analysis, or results obtained during preclinical studies and clinical trials; the risk that preliminary results of clinical trials may not be predictive of future results from the same or other trials; the risk that results of earlier clinical trials may not be predictive of the results of later-stage clinical trials; the risk that data from the Company’s clinical trials may not be sufficient to support registration and that the Company may be required to conduct one or more additional studies or trials prior to seeking registration of zidesamtinib and neladalkib; the occurrence of adverse safety events; risks that the FDA may not approve the Company’s potential products on the timelines the Company expects, or at all; risks of unexpected costs, delays, or other unexpected hurdles; risks that the Company may not be able to nominate drug candidates from its discovery programs; the direct or indirect impact of public health emergencies or global geopolitical circumstances on the timing and anticipated timing and results of the Company’s clinical trials, strategy, and future operations, including the ALKOVE-1 and ALKAZAR trials; the timing and outcome of the Company’s planned interactions with regulatory authorities and the ability of the Company to interact with such officials as a result of
+
+ 
+
+government shutdowns or other political circumstances; and risks related to obtaining, maintaining, and protecting the Company’s intellectual property. These and other risks and uncertainties are described in greater detail in the section entitled “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2025, as well as any prior and subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent the Company’s views only as of today and should not be relied upon as representing its views as of any subsequent date. the Company explicitly disclaims any obligation to update any forward-looking statements.
+
+ 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Nuvalent, Inc.
+
+Date: November 17, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Deborah Miller
+
+ 
+
+ 
+
+ 
+
+Deborah Miller, Ph.D.
+
+ 
+
+ 
+
+ 
+
+Chief Legal Officer and Secretary

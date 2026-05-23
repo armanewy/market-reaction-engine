@@ -1,0 +1,120 @@
+EX-99.2
+3
+ex992rytm20260313emanate.htm
+EX-99.2
+
+ex992rytm20260313emanate
+
+© Rhythm® Pharmaceuticals, Inc. All rights reserved. ® Rhythm Pharmaceuticals Phase 3 EMANATE Trial Topline Results March 16, 2026 EXHIBIT 99.2
+
+ 
+
+® 2 On Today’s Call • David Connolly, Executive Director of Investor Relations and Corporate Communications • David Meeker, MD, Chair, President and Chief Executive Officer • Alastair Garfield, Chief Scientific Officer • Hunter Smith, Chief Financial Officer
+
+ 
+
+® 3 This presentation and the accompanying oral presentation contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements contained in this presentation that do not relate to matters of historical fact should be considered forward-looking statements, including without limitation statements regarding the potential safety, efficacy, potential benefits of, and clinical design or progress of any of our products or product candidates at any dosage or in any indication; clinical design, enrollment, or progress, and preliminary, interim and final data readouts; potential benefits from our EMANATE topline results, including our ability to identify true loss-of-function variants and develop our next-generation MC4R agonists; potential regulatory submissions, approvals and timing thereof of setmelanotide, bivamelagon, or RM-718; the potential benefits of any of the Company’s products or product candidates for any specific disease indication or at any dosage, including the potential benefits of setmelanotide, bivamelagon or RM-718 for patients with MC4R pathway diseases; expectations surrounding pending and potential regulatory submissions and approvals, including within the United States, the EU and other regions; business strategy and plans, including regarding commercialization of setmelanotide in the United States, the EU and other regions; our participation in upcoming events and presentations; and the timing of any of the foregoing. Statements using words such as “expect”, “anticipate”, “believe”, “may”, “will” and similar terms are also forward-looking statements. Such statements are subject to numerous risks and uncertainties, including, but not limited to, our ability to enroll patients in clinical trials, the design and outcome of clinical trials, the impact of competition, the ability to achieve or obtain necessary regulatory approvals, risks associated with data analysis and reporting, our ability to successfully commercialize setmelanotide, our liquidity and expenses, our ability to retain our key employees and consultants, and to attract, retain and motivate qualified personnel, and general economic conditions, and the other important factors discussed under the caption “Risk Factors” in Rhythm’s Annual Report on Form 10-K for the year ended December 31, 2025 and other filings with the Securities and Exchange Commission. Except as required by law, we undertake no obligations to make any revisions to the forward-looking statements contained in this release or to update them to reflect events or circumstances occurring after the date of this release, whether as a result of new information, future developments or otherwise. Forward-Looking Statements
+
+ 
+
+® 4 David Meeker, MD Chair, President and CEO
+
+ 
+
+® 5 Phase 3 EMANATE Topline Results Encouraging signals seen in POMC Hets and SRC1 substudies to inform development of next- generation MC4R agonists • Post hoc LOCF analyses demonstrated setmelanotide achieved statistically significant BMI reduction in POMC Hets and SRC1 substudies Deepened understanding across MC4R pathway genetics and variant classification Placebo effect potentially confounded analysis of intent-to-treat (ITT) population High discontinuation rate across all four substudies negatively affected topline results • Multiple imputation statistical analysis for calculating missing values and discontinued patients confounded primary endpoint analysis
+
+ 
+
+® 6 PRIMARY ENDPOINT: Difference in mean percent change in BMI from baseline to 52 weeks vs. placebo analyzed with pre-specified multiple imputation analysis of mITT population1 Topline Results from Phase 3 EMANATE Trial of Setmelanotide LEPR Hets -3.6% (N=23) p-value = 0.94 SRC1 (NCOA1) -4.0% (N=73) p-value = 0.12 SH2B1 -1.7% (N=121) p-value = 0.43 POMC/PCSK1 Hets -4.3% (N=78*) p-value = 0.15 MITT, modified intent-to-treat 1. ANCOVA least-squares mean (LSM) difference in mean percent change in BMI from baseline to 52 weeks in setmelanotide arm compared to placebo arm using multiple imputation to replace missing values using placebo data for modified intent-to-treat analysis set; *One randomized patient discontinued before initial dose.
+
+ 
+
+® 7 MC4R Pathway Impairment May Lead to Increased Hunger, Decreased Energy Expenditure and Early-onset Obesity AgRP, agouti-related peptide; LEPR, leptin receptor; MC4R, melanocortin-4 receptor; MSH, melanocyte-stimulating hormone; NPY, neuropeptide Y; PCSK1, proprotein convertase subtilisin/kexin type 1; POMC, proopiomelanocortin; SH2B1, SH2B adaptor protein 1; SRC1, steroid receptor coactivator 1. 1. Farooqi et al. Nat Clin Pract Endocrinol Metab. 2008;4:569-577. 2. Yazdi et al. PeerJ. 2015;3:e856. 3. Yang et al. Nat Commun. 2019;10:1718. 2. Jiang L, Su H, Wu X, Shen H, Kim MH, Li Y, Myers MG Jr, Owyang C, Rui L. Leptin receptor-expressing neuron Sh2b1 supports sympathetic nervous system and protects against obesity and metabolic disease. Nat Commun. 2020 Mar 23;11(1):1517. doi: 10.1038/s41467-020-15328-3. Erratum in: Nat Commun. 2020 Oct 15;11(1):5310. PMID: 32251290; PMCID: PMC7089966. UPSTREAM DOWNSTREAM MC4R- Expressing Neuron PCSK1 MC4R LEPR POMC LEPR POMC Neuron Hypothalamus AgRP/NPY Neuron AgRP α-MSH ADIPOSE TISSUE LEPTIN BLOOD-BRAIN BARRIER SRC1 SH2B1 SH2B1 Increased body weight+ Energy expenditure Food intake
+
+ 
+
+® 8 Variant Pathogenicity Defines MC4R Pathway Dysfunction and Is Subject to Reclassification Pathogenic (P) Likely Pathogenic (LP) VUS Likely Benign Benign N um be r o f v ar ia nt s Pathway impact*ACMG Guidelines Richards et al, 2015 Suspected Pathogenic (SP) ACMG Classification entry criteria EMANATE Sub- study • P/LP • VUS-SP POMC/ PCSK1 Hets • P/LP • VUS-SPLEPR Hets • All VUSSRC1 (NCOA1) • P/LP • VUSSH2B1
+
+ 
+
+® 9 Each sub-study: Patients randomized 1:1 Phase 3 EMANATE Trial Comprised of Four Independent Sub-studies Enrolled patientsGenetic sub-study N=79* POMC/ PCSK1 Hets N=23LEPR Hets N=73SRC1 (NCOA1) N=121SH2B1 Setmelanotide Placebo 52 weeks Open-label extension Primary Endpoint: Difference in mean percent change in BMI from baseline to 52 weeks in setmelanotide arm compared to placebo arm VUS, Variant of uncertain significance *One randomized patient discontinued before initial dose.
+
+ 
+
+® 10 SH2B1 (N=121) SRC1 (NCOA1) (N=73) LEPR hets (N=23) POMC / PCSK1 hets (N=79)Baseline Demographics 27.2 (17.98)29.0 (18.16)23.0 (13.94)25.3 (17.09) Mean (SD) (Range) Age, years 29 (24.0)11 (15.1)7 (30.4)20 (25.3)<12 years old, n 28 (23.1)23 (31.5)5 (21.7)22 (27.8)>12 years and <18, n 64 (52.9)39 (53.4)11 (47.8)37 (46.8)≥18 years old, n 70 (57.9) / 51 (42.1)49 (67.1) / 24 (32.9)13 (56.5) / 10 (43.5)44 (55.7) / 35 (44.3) Female / MaleSex, n (%) 92 (76.0)56 (76.7)18 (78.3)71 (89.9)White Race, n (%) 15 (12.4)7 (9.6)2 (8.7)3 (3.8)Black or African American 5 (4.1)6 (8.2)03 (3.8)Other 6 (5.0)02 (8.7)2 (2.5)Not Reported 28 (23.1)22 (30.1)3 (13.0)8 (10.1)Hispanic or Latino Ethnicity, n (%)* 87 (71.9)51 (69.9)17 (73.9)69 (87.3)Not Hispanic or Latino 119.94 (40.478)119.93 (40.909)127.64 (46.200)110.88 (35.330)Mean (SD) Weight, kg 35.8, 236.038.3, 284.735.1, 224.340.4, 193.6Range 43.51 (11.118)44.12 (11.461)45.40 (13.120)41.03 (9.104)Mean (SD) BMI, kg/m2 21.5, 75.324.5, 85.920.1, 69.222.8, 76.2Range 3.41 (1.309) (n= 57)3.28 (1.214) (n= 34)3.78 (1.491) (n=12)3.41 (1.384) (n=42)Mean (SD) BMI z-score 1.80, 7.701.66, 6.201.66, 6.101.85, 8.01Range *Not reported: POMC/PCSK1 hets, n=2; LEPR hets, n=3; SH2B1, n=28.
+
+ 
+
+® 11 Common Adverse Events with Setmelanotide SH2B1SRC1 (NCOA1)LEPR HetsPOMC/PCSK1 HetsAdverse Event Events with ≥30% incidence in a setmelanotide (Set) arm in any substudy are shown SET N=61 n (%) PBO N=60 n (%) SET N=36 n (%) PBO N=37 n (%) SET N=11 n (%) PBO N=12 n (%) SET N=39* n (%) PBO N=39 n (%) 25 (41.0)30 (50.0)14 (38.9)20 (54.1)6 (54.5)4 (33.3)14 (35.9)17 (43.6)Injection site erythema 20 (32.8)12 (20.0)9 (25.0)13 (35.1)3 (27.3)2 (16.7)13 (33.3)12 (30.8)Injection site induration 17 (27.9)19 (31.7)14 (38.9)14 (37.8)4 (36.4)3 (25.0)13 (33.3)14 (35.9)Injection site pain 21 (34.4)13 (21.7)16 (44.4)16 (43.2)3 (27.3)1 (8.3)9 (23.1)8 (20.5)Injection site pruritus 52 (85.2)23 (38.3)30 (83.3)10 (27.0)10 (90.9)3 (25.0)32 (82.1)7 (17.9)Skin hyperpigmentation 26 (42.6)15 (25.0)17 (47.2)6 (16.2)1 (9.1)2 (16.7)17 (43.6)11 (28.2)Nausea 13 (21.3)7 (11.7)11 (30.6)3 (8.1)1 (9.1)1 (8.3)12 (30.8)7 (17.9)Vomiting 20 (32.8)6 (10.0)6 (16.7)7 (18.9)3 (27.3)3 (25.0)9 (23.1)8 (20.5)Headache 25 (41.0)6 (10.0)15 (41.7)2 (5.4)6 (54.5)1 (8.3)20 (51.3)5 (12.8)Melanocytic nevus *One patient transitioned from placebo to setmelanotide/rescue therapy during the study due to weight gain. This patient was included in the placebo arm for efficacy analysis due to their initial randomization, but have been included in the active arm for safety analysis due to setmelanotide exposure.
+
+ 
+
+® 12 High Discontinuation Rate across All Cohorts 46.2% 27.3% 58.3% 47.5% 40.0% 50.0% 59.5% 48.3% 0% 10% 20% 30% 40% 50% 60% 70% POMC /PCSK1 Hets LEPR Hets SRC1 (NCOA1) SH2B1 Setmelanotide Placebo 18/39 16/40 3/11 6/12 21/36 22/37 29/61 29/60
+
+ 
+
+® 13 Discontinuations – Placebo (All Substudies) Discontinuation Rates Driven by Multiple Factors in Placebo and Active Arms 48% 21% 11% 10% 5% 5% Subject Decision Withdrawal of Consent Subject Non-Compliance / Protocol Violation(s) Adverse Event Lost to Follow-Up Physician Decision Discontinuations – Setmelanotide (All Substudies)* 42% 35% 15% 4% 1% 1% Adverse Event Subject Decision Withdrawal of Consent Subject Non-Compliance / Protocol Violation(s) Lost to Follow-Up Physician Decision *Across the four substudies, 29 patients in the active (setmelanotide arm) discontinued treatment before week 52. The most common AEs leading to discontinuation included hyperpigmentation, nausea and vomiting.
+
+ 
+
+® 14 POMC / PCSK1 Hets
+
+ 
+
+® 15 POMC/PCSK1 Hets: Setmelanotide Achieved Statistically Significant BMI Reduction in mITT Patients Based on LOCF Analysis Post hoc analysis of mITT cohort based on last observation carried forward (LOCF) Setmelanotide (N=38) Placebo (N=40) -4.65 (1.106)0.98 (1.151)% change BMI baseline to week 52: Mean (SE) -4.79 (1.367) [-7.51, -2.06] 0.75 (1.329) [-1.90, +3.39] ANCOVA LSM (SE) [95% CI] -5.53 (1.612) [-8.75, -2.32] LSM difference (SE) [95% CI], setmelanotide-placebo 0.0010P-Value for LSM difference mITT, modified intent-to-treat
+
+ 
+
+® 16 POMC/PCSK1 Hets: Setmelanotide Achieved Statistically Significant BMI Reduction in Genetically Confirmed Patients Based on LOCF Analysis Post hoc analysis of genetically confirmed patients based on last observation carried forward (LOCF) Setmelanotide (N=32) Placebo (N=35) -5.04 (1.171)2.20 (1.290)% change BMI baseline to week 52: Mean (SE) -4.17 (1.511) [-7.19, -1.15] 2.61 (1.628) [-0.64, 5.87] ANCOVA LSM (SE) [95% CI] -6.78 (1.775) [-10.33, -3.23] LSM difference (SE) [95% CI], setmelanotide-placebo 0.0003P-Value for LSM difference
+
+ 
+
+® 17 POMC/PCSK1 Hets: Setmelanotide Achieved Statistically Significant BMI Reduction in Genetically Confirmed Patients who Reached Week 52 -9.7% Week 52 placebo-adjusted difference (PBO n=21; SET n=20) p=0.0002 Placebo, N 21 21 21 20 20 21 Setmelanotide, N 20 20 20 19 20 20 NOTE: Post hoc analysis of genetically confirmed completers using a student’s T-test.
+
+ 
+
+® 18 LEPR Hets
+
+ 
+
+® 19 Highlights from the LEPR Hets Substudy *Patient with -7.2% BMI reduction at Week 28 subsequently discontinued treatment. Eligible LEPR Hets patients were rare and hard to recruit Eight (8) of 11 setmelanotide-assigned patients were down classified (predominantly one variant) Positive response in 3 setmelanotide-assigned patients who had a pathogenic variant achieved BMI reductions of: -4.3%, -7.2%*, -13.3%
+
+ 
+
+® 20 SRC1 (NCOA1)
+
+ 
+
+® 21 SRC1 (NCOA1): Setmelanotide Achieved Statistically Significant BMI Reduction in mITT Patients Based on LOCF Analysis Post hoc analysis of mITT cohort based on last observation carried forward (LOCF) Setmelanotide (N=36) Placebo (N=37) -4.87 (1.192)1.44 (0.837)% change BMI baseline to week 52: Mean (SE) -4.51 (1.68) [-6.84, -2.18] 1.73 (1.115) [-0.50, +3.95] ANCOVA LSM (SE) [95% CI] -6.24 (1.499) [-9.33, -3.25] LSM difference (SE) [95% CI], setmelanotide-placebo <0.0001P-Value for LSM difference mITT, modified intent-to-treat
+
+ 
+
+® 22 SRC1 (NCOA1): Setmelanotide Achieved Statistically Significant BMI Reduction in Genetically Confirmed Patients who Reached Week 52 -8.0% Week 52 placebo-adjusted difference (PBO N=15; SET N=14) p=0.0158 Placebo, N 15 15 15 13 15 15 Setmelanotide, N 14 14 14 12 14 14 NOTE: Post hoc analysis of genetically confirmed completers using a student’s T-test.
+
+ 
+
+® 23 SRC1 (NCOA1): Analysis of Genetically Confirmed Patients with Variants in Critical Protein Binding Domain Demonstrate Compelling Response -12.7% Week 52 placebo-adjusted difference (PBO N=6; SET N=6) p=0.055 Placebo, N 9 9 8 7 6 6 Setmelanotide, N 10 9 8 5 6 6 NOTE: Post hoc analysis of genetically confirmed completers using a student’s T-test.
+
+ 
+
+® 24 SH2B1
+
+ 
+
+® 25 SH2B1/16p11.2: Analysis of Genetically Confirmed Completers Shows No Significant Difference in BMI Reduction at Week 52 -3.0% Week 52 Placebo-adjusted difference (PBO N=30; SET N=32) p=0.1772 Placebo, N 30 30 29 25 29 30 Setmelanotide, N 32 32 32 30 32 32 NOTE: Post hoc analysis of genetically confirmed completers using a student’s T-test.
+
+ 
+
+® 26 16p11.2 Subgroup Analysis Shows No Significant Difference in BMI Reduction at Week 52 Placebo, N 8 8 8 7 8 8 Setmelanotide, N 13 13 13 12 13 13 -3.4% Week 52 Placebo-adjusted difference (PBO n=8; SET n=13) p=0.3006 NOTE: Post hoc analysis of genetically confirmed completers using a student’s T-test.
+
+ 
+
+® 27 Encouraging Results Leading to Next Steps Encouraged by positive analyses of POMC/PCSK1 and SRC1 substudies Continue to interrogate POMC/PCSKI, SRC1 plus DAYBREAK genes to improve LOF determination Advance next- generation MC4R agonists in genetic indications LOF, loss of function
+
+ 
+
+® 28 MC4R Agonism Development Across Three Pillars Hypothalamic Obesity • U.S. launch* • EMA authorization** • Ongoing Ph2 trial with RM-718 • Ph3 trial with bivamelagon by YE 2026 Prader-Willi Syndrome • Ongoing Ph2 trial with setmelanotide • Ph1/2 trial with RM-718 initiated Genetic MC4R Pathway Diseases • Promising signals in POMC Hets and SRC1 • Additional DAYBREAK genes • Next-generation assets *Pending FDA approval; the FDA’s assigned PDUFA goal date is March 20, 2026; **pending regulatory feedback
+
+ 
+
+® 29 Questions

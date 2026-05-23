@@ -1,0 +1,329 @@
+8-K
+
+false 0001655759 0001655759 2022-02-17 2022-02-17
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 17, 2022
+
+ 
+
+ 
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38672
+
+ 
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+ 
+
+06511
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ 
+
+ARVN
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On February 17, 2022, Arvinas, Inc. (the “Company”) issued a press release announcing completed data from the dose escalation portion of the Phase 1 clinical trial and interim data from the ARDENT Phase 2 dose expansion of its PROTAC® protein degrader bavdegalutamide (ARV-110) in men with metastatic castration-resistant prostate cancer (“mCRPC”), as of the data cut-off date of December 20, 2021. The Company will present the updated data on a conference call and webcast on February 17, 2022. Copies of the press release and presentation are attached as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+The information in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On February 17, 2022, the Company announced completed Phase 1 and interim Phase 2 ARDENT data for bavdegalutamide with a data cut-off date of December 20, 2021 to be presented in both a rapid abstract session and a poster session at the 2022 American Society of Clinical Oncology Genitourinary (ASCO GU) Cancers Symposium.
+
+The Company reported that bavdegalutamide showed reduced prostate-specific antigen (“PSA”) levels of greater than or equal to than 50% (“PSA50”) in 46% of the 28 patients with tumors harboring AR T878X/H875Y (T878X = T878A or T878S) mutations. These results also demonstrated PSA declines and tumor regressions in patients without tumors harboring AR T878X/H875Y mutations, suggesting an opportunity to develop bavdegalutamide more broadly in prostate cancer.
+
+As of the data cut-off date, 195 patients were enrolled across the Phase 1/2 clinical trial (71 in Phase 1; 124 in Phase 2).
+
+The Phase 1 dose escalation trial evaluated bavdegalutamide at doses ranging from 35–700 mg, once-daily, or 210–420 mg twice-daily, in patients with mCRPC and ≥2 prior therapies (including abiraterone and/or enzalutamide).
+
+Patients in ARDENT were enrolled in one of four subgroups: patients with tumors with AR T878X and/or H875Y mutations and excluding AR L702H mutations and AR-V7 splice variants; patients with tumors with wild-type AR or AR alterations other than T878X, H875Y, L702H, AR-V7; patients with tumors with AR L702H mutations or AR-V7 splice variants, which are variants of AR that bavdegalutamide did not degrade preclinically; and patients with biomarker agnostic tumors with only one prior novel hormonal agent (“NHA”) and no prior chemotherapy.
+
+The ARDENT Phase 2 dose expansion trial was administered at a starting dose of 420 mg, once-daily (the “recommended Phase 2 dose” or “RP2D”). Patients in the ARDENT trial received a median of four prior lines of therapy with 100% receiving at least one NHA (64% abiraterone, 75% enzalutamide or other AR inhibitor, 39% both abiraterone and an AR inhibitor) and 31% receiving at least one chemotherapy regimen.
+
+Efficacy Measures
+
+The Company presented efficacy measures on a combined basis for patients in both the completed Phase 1 dose escalation trial and the interim analysis from the ongoing ARDENT Phase 2 dose expansion trial. In the biomarker defined (“more pretreated”) subgroups, the Company observed the following:
+
+ 
+
+ 
+
+•
+
+ 
+
+In eight patients with tumors with AR T878X and/or H875Y mutations but excluding other AR variants, PSA50=75%; PSA decline of more than 30% (“PSA30”)=75%
+
+ 
+
+ 
+
+•
+
+ 
+
+In 44 patients with tumors with wild-type AR or AR alterations other than T878X, H875Y, L702H, or AR-V7, PSA50=11%; PSA30=20%
+
+ 
+
+ 
+
+•
+
+ 
+
+In 25 patients with tumors with AR L702H or AR-V7, PSA50=4%; PSA30=20%
+
+In the biomarker agnostic (“less pretreated”) subgroup comprising 27 patients with no more than one prior NHA and no prior chemotherapy, the PSA50 response rate was 22% and the PSA30 response rate was 26%.
+
+In biomarker-evaluable patients treated at or above the RP2D and with tumors harboring AR T878X/H875Y mutations (across all subgroups and thus regardless of prior therapy regimens or other mutations; n=28), the PSA50 response rate was 46% and the PSA30 response rate was 57%.
+
+Of seven RECIST-evaluable patients across the Phase 1 and Phase 2 trials with tumors harboring AR T878X/H875Y mutations, two had confirmed durable partial responses. These patients were on treatment for approximately nine months (ongoing as of the data cut-off) and ten months; the duration of treatment ranged from eight weeks to 44 weeks, with three of the seven patients continuing on treatment as of the data cutoff of December 20, 2021.
+
+Twelve (43%) of the 28 patients with AR T878X/H875Y-positive mutations received bavdegalutamide for ≥24 weeks, with nine patients ongoing as of the data cutoff.
+
+PSA reductions and evidence of anti-tumor activity as measured by RECIST were observed across all subgroups regardless of mutation status, including tumors not harboring AR T878X/875Y mutations.
+
+RECIST responses were seen in patients with tumors lacking AR T878X/H875Y mutations (one confirmed and three unconfirmed RECIST responses).
+
+The “less pretreated” subgroup (n=27) had a similar molecular profile—as assessed by circulating tumor DNA analysis—to the more pretreated, biomarker-defined subgroups in the ARDENT trial. These similarities included both AR variations (point mutations and AR-V7 splice variants) and non-AR mutations frequently associated with poor outcomes (e.g., TP53, BRCA1). Six of the 27 patients (22%) had PSA50 reductions, and this PSA50 rate was similar to that observed collectively in the “more pretreated” subgroups (16%; n=77). Four of the six “less pretreated” patients with PSA50 declines had tumors with AR T878X/H875Y mutations.
+
+Safety and Tolerability
+
+Bavdegalutamide had a manageable tolerability profile at the RP2D. The majority of treatment-related adverse events (“TRAEs”) were Grade 1/2 and there were no Grade ≥4 TRAEs in the 138 patients treated at the RP2D.
+
+TRAEs that occurred in ≥10% of patients treated at the RP2D were nausea (Gr 1: 30%; Gr 2: 16%; Gr 3: 1%), fatigue (Gr 1: 23%; Gr 2: 12%; Gr 3: 1%), vomiting (Gr 1: 20%; Gr 2: 5%; Gr 3: 1%), decreased appetite (Gr 1: 14%; Gr 2: 11%; Gr 3: 1%), diarrhea (Gr 1: 14%; Gr 2: 4%; Gr 3: 2%), alopecia (Gr 1: 13%; Gr 2: 1%; Gr 3: N/A) AST increased (Gr 1: 9%; Gr 2: 3%; Gr 3: 1%), weight decreased (Gr 1: 7%; Gr 2: 5%; Gr 3: 0%), and anemia (Gr 1: 4%; Gr 2: 1%; Gr 3: 5%).
+
+TRAEs at the RP2D led to dose reduction in 11 (8%) patients and discontinuation in 12 (9%) patients.
+
+In the first half of 2022, the Company intends to initiate discussions with the U.S. Food and Drug Administration about the potential for an accelerated approval pathway with bavdegalutamide in molecularly defined mCRPC and finalize a partnership for a companion diagnostic. In the second half of 2022, the Company plans to initiate a pivotal trial for patients with AR T878/H875 tumor mutations. The Company anticipates that future studies will be planned to explore the potential to treat earlier-line patients with AR-dependent tumors who may benefit from bavdegalutamide therapy.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+    No.    
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated February 17, 2022
+
+99.2
+
+  
+
+Company Presentation, dated February 17, 2022
+
+104
+
+  
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K, including the documents furnished as Exhibit 99.1 and 99.2 hereto, contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the potential advantages and therapeutic benefits of bavdegalutamide, the development and regulatory status of bavdegalutamide and the Company’s other product candidates, and the timing of clinical trials and data from those trials and plans for registration for the Company’s product candidates, and the potential commercialization of any of the Company’s product candidates and companion diagnostic partnering. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on such forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including but not limited to: whether the Company and Pfizer, as applicable, will be able to successfully conduct and complete clinical development for ARV-471, bavdegalutamide, ARV-766 and the Company’s other product candidates, including whether the Company initiates and completes clinical trials for the Company’s product candidates, and receives results from the Company’s clinical trials on the Company’s expected timelines, or at all, and other important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Date: February 17, 2022
+
+ 
+
+ 
+
+ARVINAS, INC.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Sean Cassidy
+
+ 
+
+ 
+
+ 
+
+Sean Cassidy
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

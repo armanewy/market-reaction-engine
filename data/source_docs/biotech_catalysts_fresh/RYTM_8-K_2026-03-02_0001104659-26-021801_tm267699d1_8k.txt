@@ -1,0 +1,335 @@
+false
+0001649904
+
+0001649904
+
+2026-03-02
+2026-03-02
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+March 2, 2026
+
+ 
+
+RHYTHM
+PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in its
+charter)
+
+ 
+
+Delaware
+
+ 
+
+001-38223
+
+ 
+
+46-2159271
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+222
+Berkeley Street
+
+12th
+Floor
+
+Boston,
+MA 02116
+
+(Address of principal executive offices) (Zip
+Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (857) 264-4280
+
+ 
+
+N/A
+
+(Former name or former address,
+if changed since last report) 
+
+ 
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨           
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨           
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨           
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨           
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange on which registered
+
+Common
+Stock, $0.001 par value per share
+
+RYTM
+
+The
+Nasdaq Stock Market LLC (Nasdaq Global Market)
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 7.01. Regulation FD Disclosure.
+
+ 
+
+On March 1, 2026, Rhythm Pharmaceuticals, Inc. (“Rhythm”)
+issued a press release announcing additional data from its global Phase 3 TRANSCEND trial of setmelanotide in patients with acquired
+hypothalamic obesity, summarized under Item 8.01 below. A copy of the press release is furnished as Exhibit 99.1 to this Current Report
+on Form 8-K.
+
+ 
+
+The information contained in Item 7.01 of this Current Report on Form
+8-K (including Exhibit 99.1 attached hereto) shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed
+incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange
+Act, except as expressly provided by specific reference in such a filing.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+On March 1, 2026, Rhythm announced additional data from its global
+Phase 3 TRANSCEND trial of setmelanotide in patients with acquired hypothalamic obesity, which are summarized below.
+
+ 
+
+This new data set includes 12 patients from a Japanese cohort and
+10 supplemental patients who were enrolled in addition to the primary 120-patient pivotal cohort.
+
+ 
+
+Highlights from these 52-week data include:
+
+ 
+
+-
+
+-18.8% placebo-adjusted difference1
+in BMI reduction (N=142);
+
+ 
+
+-
+
+Primary endpoint of mean BMI reduction of -16.4% from baseline for
+all patients on setmelanotide therapy (n=94) compared with +2.4% BMI change for patients
+on placebo (n=48) at 52 weeks (95% CI; p<0.0001); and
+
+ 
+
+-
+
+Among patients aged 12 and older (n=98), the setmelanotide group (n=66)
+showed an average weekly reduction of 2.5 points in the weekly average most hunger score,
+compared with a 1.3 point reduction in the placebo group (n=32) (p=0.0015).
+
+ 
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+The following Exhibit 99.1 shall be deemed to be furnished and not
+filed.
+
+ 
+
+Exhibit
+
+ 
+
+ 
+
+No.
+
+ 
+
+Description
+
+99.1
+
+ 
+
+Press release dated
+March 1, 2026
+
+104
+
+ 
+
+Cover Page Interactive
+Data File (embedded within the inline XBRL document)
+
+ 
+
+ 
+
+1
+ANCOVA model with unequal variance to account for possible unequal residual variances was used to estimate the difference between treatment
+groups. Rubin’s Rule was used to provide the overall estimates of differences in least square (LS) means, corresponding CI and
+p-value.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+Date: March 2, 2026
+
+By:
+
+/s/ Hunter Smith                 
+
+ 
+
+ 
+
+Hunter Smith
+
+ 
+
+ 
+
+Chief Financial Officer

@@ -1,0 +1,170 @@
+arvn-20251206
+0001655759FALSE00016557592025-12-062025-12-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 6, 2025
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01 Regulation FD Disclosure
+
+On December 6, 2025, Arvinas, Inc. (the "Company") issued a press release announcing preclinical data for ARV-393, a PROteolysis TArgeting Chimera ("PROTAC") B-cell lymphoma 6 protein ("BCL6") degrader, in combination with glofitamab, a CD20×CD3 bispecific antibody. These preclinical data were presented in a poster at the 67th American Society of Hematology ("ASH®") Annual Meeting and Exposition in Orlando, Florida.
+
+The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibit 99.1 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01 Other Events.
+
+On December 6, 2025, the Company issued a press release announcing preclinical data for ARV-393, a PROTAC BCL6 degrader, in combination with glofitamab, a CD20×CD3 bispecific antibody. These preclinical data were presented in a poster at the 67th ASH® Annual Meeting and Exposition in Orlando, Florida.
+
+These preclinical data showed that in a humanized high-grade B-cell lymphoma ("HGBCL") cell line–derived xenograft ("CDX") model, the combination of ARV-393 and glofitamab resulted in significantly enhanced tumor growth inhibition ("TGI") and increased rates of tumor regression compared with either agent alone. These preclinical data suggest mechanistic synergies between BCL6 degradation with ARV-393 and T-cell engagement.
+
+Specifically, key highlights from the poster presentation included the following:
+
+•In a humanized HGBCL CDX model, ARV-393 (3 mg/kg) combined with glofitamab (0.15 mg/kg) achieved 81 percent TGI with concomitant dosing and 91 percent TGI with sequential dosing (ARV-393 followed by glofitamab), versus 38 percent for single-agent ARV-393 and 36 percent for glofitamab alone.
+
+•At a higher ARV-393 dose (6 mg/kg) combined with glofitamab (0.15 mg/kg), an increase in tumor regressions was observed with concomitant (10 of 10 mice) and sequential dosing (7 of 8 mice) versus single-agent ARV-393 (5 of 11 mice) or glofitamab (0 of 11 mice).
+
+•RNA sequencing and biomarker analyses revealed that ARV-393 upregulated CD20 expression and genes that promote interferon signaling and antigen presentation, while downregulating proliferation-associated gene sets. These collective effects likely contributed to the observed synergistic antitumor activity.
+
+ARV-393 is currently being evaluated in a Phase 1 clinical trial in patients with relapsed/refractory non-Hodgkin lymphoma and the Company plans to share clinical data from this trial at a medical congress in 2026. Additionally, the Company plans to add a glofitamab combination cohort in patients with diffuse large B-cell lymphoma in the ongoing Phase 1 clinical trial of ARV-393 in 2026.
+
+Item 9.01 Financial Statements and Exhibits.
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated December 6, 2025
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the plans for ARV-393 and the timing of any clinical trial initiation or data presentation. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s belief in the potential of its product candidates, strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words "believe," "intends," "plans," "potential,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements
+
+contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on such forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including the important factors discussed the important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: December 8, 2025
+
+By:
+
+/s/ Andrew Saik
+
+Andrew Saik
+
+Chief Financial Officer

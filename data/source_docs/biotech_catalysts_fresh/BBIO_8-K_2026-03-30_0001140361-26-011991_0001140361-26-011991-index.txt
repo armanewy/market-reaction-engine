@@ -1,0 +1,165 @@
+EDGAR Filing Documents for 0001140361-26-011991
+
+SEC.gov
+
+EDGAR
+
+Latest Filings
+
+Filings search tools
+
+Filing Detail
+
+SEC Home »
+
+Company Search »
+
+Current Page
+
+Form 8-K - Current report:
+
+SEC Accession No. 0001140361-26-011991
+
+Filing Date
+
+2026-03-30
+
+Accepted
+
+2026-03-30 17:30:36
+
+Documents
+
+12
+
+Period of Report
+
+2026-03-30
+
+Items
+
+Item 8.01: Other Events
+
+Item 9.01: Financial Statements and Exhibits
+
+ Interactive Data
+
+Document Format Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+1
+
+8-K
+
+ef20069329_8k.htm   iXBRL
+
+8-K
+
+30607
+
+2
+
+EXHIBIT 99.1
+
+ef20069329_ex99-1.htm
+
+EX-99.1
+
+17529
+
+ 
+
+Complete submission text file
+
+0001140361-26-011991.txt
+
+ 
+
+182268
+
+Data Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+3
+
+XBRL TAXONOMY EXTENSION SCHEMA
+
+bbio-20260330.xsd
+
+EX-101.SCH
+
+3868
+
+4
+
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+bbio-20260330_lab.xml
+
+EX-101.LAB
+
+21966
+
+5
+
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+bbio-20260330_pre.xml
+
+EX-101.PRE
+
+16046
+
+15
+
+EXTRACTED XBRL INSTANCE DOCUMENT
+
+ef20069329_8k_htm.xml
+
+XML
+
+4225
+
+Mailing Address
+3160 PORTER DR.
+SUITE 250
+
+PALO ALTO CA
+94304
+
+Business Address
+3160 PORTER DR.
+SUITE 250
+
+PALO ALTO CA
+94304
+(650) 391-9740
+
+BridgeBio Pharma, Inc. (Filer)
+CIK: 0001743881 (see all company filings)
+
+EIN.: 000000000 | State of Incorp.: DE | Fiscal Year End: 1231
+
+Type: 8-K | Act: 34 | File No.: 001-38959 | Film No.: 26813212
+
+SIC: 2834 Pharmaceutical Preparations
+
+(CF Office: 03 Life Sciences)

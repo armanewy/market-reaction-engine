@@ -1,0 +1,182 @@
+sgmo-20220322
+March 22, 20220001001233false00010012332022-03-222022-03-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 22, 2022
+
+ 
+
+ SANGAMO THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+  
+
+Delaware
+
+ 
+
+000-30171
+
+ 
+
+68-0359556
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+ID Number)
+
+7000 Marina Blvd., Brisbane, California 94005
+
+(Address of principal executive offices) (Zip Code)
+
+(510) 970-6000
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report) 
+
+ 
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share
+
+ 
+
+SGMO
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01 Other Events.
+
+Update Regarding TX200 (Kidney Transplant Rejection)
+
+On March 22, 2022, Sangamo Therapeutics, Inc. (“Sangamo”) dosed the first patient in its Phase 1/2 STEADFAST clinical study evaluating TX200, a wholly-owned autologous Chimeric Antigen Receptor, or CAR, engineered regulatory T cell, or CAR-Treg, cell therapy product candidate for the prevention of immune-mediated rejection in HLA-A2 mismatched kidney transplantation from a living donor. An autologous cell therapy is made using cells from the same person as the recipient of the cells.
+
+Sangamo designed TX200 with the potential to prevent kidney rejection by reducing local inflammation and promoting immunological tolerance to the graft. TX200 is composed of autologous Treg cells engineered to express an HLA-A2 CAR. TX200 cells are expected to localize to the graft and activate upon binding to the HLA-A2 antigen. Through their ability to regulate the immune system, TX200 cells may protect the graft from immune-mediated rejection and reduce or eliminate the need for lifelong treatment with immunosuppressants.
+
+In the STEADFAST clinical study design, each patient undergoes a leukapheresis procedure to collect the patient’s white blood cells, after which the patient’s Treg cells are isolated and engineered and then cryopreserved. The patient subsequently undergoes transplantation surgery to receive a kidney from a living donor. Following a recovery period, the patient receives a personalized TX200 investigational cell therapy; dosing of patients occurs several months after patient enrollment.
+
+Sangamo expects to dose a second patient in the STEADFAST study in the middle of 2022. In addition to TX200, Sangamo is developing CAR-Treg cell therapy candidates in preclinical studies, including for potential use in treating multiple sclerosis and inflammatory bowel disorders.
+
+Forward Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements regarding Sangamo’s current expectations. These forward-looking statements include, without limitation: the therapeutic potential of TX200; the Phase 1/2 STEADFAST study design and Sangamo’s expectations and plans related thereto; plans and timing regarding the dosing of additional patients in the STEADFAST study; and other statements that are not historical fact. These statements are not guarantees of future performance and are subject to certain risks and uncertainties that are difficult to predict. Sangamo’s actual results may differ materially and adversely from those expressed in these forward-looking statements. Factors that could cause actual results to differ include, but are not limited to, risks and uncertainties related to: the evolving COVID-19 pandemic and its impact on the global business environment, healthcare systems and the business and operations of Sangamo, including the enrollment of patients in and operation of clinical trials; the research and development process; the manufacturing of TX200 doses and challenges related thereto; the uncertain timing and unpredictable nature of clinical trial results; Sangamo’s lack of resources to fully develop, obtain regulatory approval for and commercialize its product candidates, including TX200; and other risks and uncertainties described in Sangamo’s filings with the U.S. Securities and Exchange Commission, including its Annual Report on Form 10-K for the year ended December 31, 2021. The information contained in this Current Report on Form 8-K is as of March 28, 2022, and Sangamo undertakes no duty to update forward-looking statements contained in this Current Report on Form 8-K except as required by applicable laws.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+SANGAMO THERAPEUTICS, INC.
+
+Dated: March 28, 2022
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Scott B. Willoughby
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Scott B. Willoughby
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President, General Counsel and Corporate Secretary

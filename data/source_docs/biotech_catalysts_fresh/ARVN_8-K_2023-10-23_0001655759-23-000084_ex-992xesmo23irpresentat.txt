@@ -1,0 +1,100 @@
+EX-99.2
+3
+ex-992xesmo23irpresentat.htm
+EX-99.2
+
+ex-992xesmo23irpresentat
+
+AR Franchise Update Bavdegalutamide and ARV-766 October 22, 2023 Exhibit 99.2
+
+ 
+
+Safe harbor and forward-looking statements 2 This presentation contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995 that involve substantial risks and uncertainties, including statements regarding the potential advantages, therapeutic benefits and development of bavdegalutamide and ARV-766; the potential for ARV- 766 to be first- and best-in class PROTAC® AR degrader in mCRPC; whether bavdegalutamide will be a better choice than bavdegalutamide for patients with both early- and late-line prostate cancer; the market opportunity for ARV-766 in prostate cancer (mCRPC + mCSPC), including when compared with bavdegalutamide; the timing of data progression free survival data for ARV-766. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward- looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements we make as a result of various risks and uncertainties, including but not limited to: whether we will be able to successfully conduct and complete development for ARV-766 and bavdegalutamide; whether we initiate and complete clinical trials for our product candidates and receive results from our clinical trials on our expected timelines or at all; our ability to obtain marketing approval for and commercialize our androgen receptor program product candidates on our current timelines or at all; our ability to maintain, expand and protect our intellectual property portfolio; whether our cash and cash equivalent resources will be sufficient to fund our foreseeable and unforeseeable operating expenses and capital expenditure requirements; and other important factors, any of which could cause our actual results to differ from those contained in the forward-looking statements, discussed in the “Risk Factors” section of our Annual Report on Form 10-K for the year ended December 31, 2022 and subsequent other reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements contained in this presentation reflect our current views as of the date of this presentation with respect to future events, and we assume no obligation to update any forward-looking statements, except as required by applicable law. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this presentation. The Arvinas name and logo are our trademarks. We also own the service mark and the registered U.S. trademark for PROTAC®. The trademarks, trade names and service marks appearing in this presentation are the property of their respective owners. We have omitted the ® and ™ designations, as applicable, for the trademarks named in this presentation. This presentation also contains estimates and other statistical data made by independent parties and by us relating to market size and other data about our industry. This data involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such data and estimates. In addition, projections, assumptions and estimates of our future performance and the future performance of the markets in which we operate are necessarily subject to a high degree of uncertainty and risk. This presentation is intended for the investor community only. It is not intended to promote the products referenced herein or otherwise influence healthcare prescribing decisions. Cross-trial comparisons are not based on head-to-head studies and no direct comparisons can be made.
+
+ 
+
+In the clinic, bavdegalutamide and ARV-766 both show strong profiles in mCRPC; ARV-766 has shown broader efficacy and superior tolerability 3 • Bavdegalutamide has proven the concept for a PROTAC® AR degrader in prostate cancer • Updated Phase 2 data demonstrate 11.1 months rPFS in patients with AR 878/875 mutations • Manageable tolerability suitable for patients with mCRPC • However, bavdegalutamide’s potential in late-line settings may be limited • In clinical settings, efficacy was reduced in patients with tumors harboring AR L702H mutations • Our next generation pan-AR degrader, ARV-766, has shown to have an expanded efficacy profile and improved tolerability profile versus bavdegalutamide, suggesting that it could impact 3x more patients in mCRPC • Early signals of efficacy: 41% PSA50 in all patients with AR LBD mutations; 50% PSA50 in patients with AR L702H • Superior tolerability versus bavdegalutamide • We will prioritize a Phase 3 trial for ARV-766 in mCRPC • ARV-766 could potentially benefit ~120,000 patients with prostate cancer (mCRPC + mCSPC) AR = androgen receptor; rPFS = radiographic progression-free survival; mCRPC = metastatic castrate-resistant prostate cancer; LBD = ligand binding domain; mCSPC = metastatic sensitive-resistant prostate cancer; PSA = prostate-specific antigen
+
+ 
+
+4 European Society for Medical Oncology (ESMO) 2023 Phase 1/2 trial with bavdegalutamide, an oral PROTAC® AR degrader
+
+ 
+
+Bavdegalutamide has proven the concept of a PROTAC® AR degrader in mCRPC Existing options leave unmet need in post-NHA mCRPC • NHA retreatment is associated with limited benefit (e.g., rPFS ~ 4 months)(1-4) • Emerging non-AR agents have better outcomes (e.g., rPFS 7-9 months post-taxane therapy), but are limited due to tolerability challenges, IV route of administration, or patient selection considerations5 Bavdegalutamide is a PROTAC® AR degrader that degrades all AR LBD mutations except L702H Bavdegalutamide demonstrates strong antitumor activity in post-NHA patients • 11.1 months rPFS in patients with 878/875 AR LBD mutations, which are associated with worse survival in mCRPC6 NHA = novel hormonal agent; rPFS = radiographic progression-free survival; AR = androgen receptor; LBD = ligand binding domain; mCRPC = metastatic castrate-resistant prostate cancer; 1. de Bono et al. N Engl J Med. 2020 and prescribing information; 2. Fizazi et al. N Engl J Med. 2023. 3. de Wit et al. N Engl J Med. 2019; 4. Sartor et al. N Engl J Med. 2021 5. CARD, PROFOUND, VISION studies. 6. Stewart et al Abstract 1407P ESMO 2022 5
+
+ 
+
+6 Part A: Phase 1 Dose Escalation Sc re en in g Part B: Phase 2 Dose Expansion (ARDENT) R P 2D = 4 20 m g o n ce d ai ly AR = androgen receptor; LBD = ligand-binding domain; RP2D = recommended phase 2 dose; ctDNA = circulating tumor DNA AR LBD Biomarker Defined Groups (n=~140) Stratified by AR molecular profile (ctDNA) Bavdegalutamide’s ARDENT Phase 2 trial has explored efficacy in patients with tumors that retain AR dependency Dose Escalation (n=71) 35 mg to 840 mg oral daily Sc re en in g
+
+ 
+
+Patients enrolled in the Phase 1/2 trial were NHA-experienced and included heavily pretreated patients (median prior therapies = 4) 7 Table 1: Baseline characteristics Parameter Total at 420 mg QD (n=153) AR LBD patients1 (n=45) Age, median (range), y 73 (48–91) 72 (51–83) ECOG PS, n (%)2 0 81 (53) 25 (56) 1 71 (46) 20 (44) Visceral disease 49 (32) 14 (31) Prior lines of treatment, median (range) 4 (1–11) 4 (2–8) Prior treatment, n (%) NHA 153 (100) 45 (100) 1 NHA 83 (54) 21 (47) ≥2 NHA 70 (46) 24 (53) Abiraterone 105 (69) 36 (80) Enzalutamide or other AR blocker 111 (73) 29 (64) Taxane chemotherapy 51 (33) 16 (36) AR = androgen receptor; ECOG PS = Eastern Cooperative Oncology Group performance status; LBD = ligand-binding domain; NHA = novel hormonal agent; QD = once daily 1. AR LBD patients: any AR ligand-binding domain (LBD) missense mutation except AR L702H alone 2 .1 patient who received bavdegalutamide 420 mf QD had ECOG status of 2
+
+ 
+
+Bavdegalutamide’s tolerability has been shown to be manageable in patients with mCRPC 8 • The most common treatment-related adverse events (TRAEs) with bavdegalutamide 420 mg QD were nausea, vomiting, and fatigue • No grade ≥4 TRAEs • 17 (11%) patients had a dose reduction due to an adverse event (AE) and 19 (12%) discontinued treatment due to any AE TRAEs reported in ≥10% of patients treated with bavdegalutamide 420 mg QD in the Phase 1/2 trial (n=153) Total n (%) Grade 1 Grade 2 Grade 3 Any TRAE 135 (88) 45 (29) 66 (43) 24 (16) Nausea 85 (56) 59 (39) 24 (16) 2 (1) Fatigue 53 (35) 36 (24) 16 (10) 1 (1) Vomiting 50 (33) 38 (25) 11 (7) 1 (1) Decreased appetite 39 (25) 21 (14) 18 (12) 0 Diarrhea 37 (24) 27 (18) 7 (5) 3 (2) Alopecia 28 (18) 24 (16) 4 (3) NA Anemia 23 (15) 10 (7) 6 (4) 7 (5) Weight decreased 19 (12) 10 (7) 9 (6) 0 AST increased 18 (12) 13 (8) 4 (3) 1 (1) AST = aspartate aminotransferase; NA = not applicable; QD = once daily; TRAE = treatment-related adverse event; AE = adverse event
+
+ 
+
+In clinical settings, bavdegalutamide has demonstrated a robust rPFS of 11.1 months in an NHA-experienced mCRPC patient population 9 Population Median PFS PSA50 AR 878/875† (n=26) 11.1 months (95% CI: 7.1–NR) 10 events in 26 patients 14/26 (54%) No. at risk AR 878/875 26 25 17 16 13 13 11 11 9 6 6 6 3 3 3 3 3 1 1 1 0 AR = androgen receptor; NHA = novel hormonal agent; LBD = ligand binding domain; NR = not reached; rPFS = radiographic progression-free survival; PFS = progression-free survival; PSA=prostate-specific antigen; mCRPC = metastatic castrate-resistant prostate cancer † 878/875 without co-occurring L702H
+
+ 
+
+Bavdegalutamide’s efficacy profile is differentiated from those of non- AR agents 10 Drug Trial Name Prior taxane status Route of Administration Addressable Patient Segment Clinical Activity Safety Profile Median rPFS (months) % PSA50 Grade ≥3 TEAE (%) Discontinuation rate from TEAEs (%) Bavdegalutamide Phase 1/2 clinical data (all post-NHA) Bavdegalutamide ARDENT Pre- or post- taxane Oral AR 878/8755 11.1 54% 31 12AR LBD w/o L702H alone 8.2 36% Clinical data from currently approved non-AR targeted therapies used post-NHA Cabazitaxel (Jevtana®) CARD1 Post-taxane IV Post docetaxel 8.0 36% 56.3 19.8 Lu-177 RLT (Pluvicto®) + SoC VISION2 Post-taxane IV PSMA+ by PET-CT scan 8.7 46% 52.7 11.9 Olaparib (Lynparza®) PROFOUND3 Pre- or post- taxane Oral BRCA 1/2, ATM 7.5 43% 51 18 Rucaparib (Rubraca®) TRITON-34 Pre-taxane Oral BRCA 1/2 , ATM 10.2 55% 60 15 NHA = novel hormonal agents; SoC = Standard of Care; IV = intravenous; PET-CT = Positron Emission Tomography and Computed Tomography; TEAE = treatment emergent adverse event; AR LBD = androgen receptor ligand binding domain; rPFS = radiographic progression-free survival; AR = androgen receptor; ATM = ataxia telangiectasia mutated; PSMA = prostate-specific membrane antigen BRCA = BReast CAncer gene Cross-trial benchmarks are not based on head-to-head studies Post-NHA, AR therapies historically achieve 3.5-4.5 months PFS6 1. de Wit R, NEJM 2019. 2. Sartor, O, NEJM 2021; 3. de Bono, J, NEJM 2020. 4. Fizazi, K, NEJM 2023. 5. 878/875 without co-occurring L702H. 6. Control arms of the CARD, VISION, and PROFOUND trials
+
+ 
+
+The presence of AR L702H mutations diminishes the efficacy of bavdegalutamide 11 Mutation status PSA50 rate AR 878/875 alone (n=26) 54% AR 878/875 with co-occurring L702H (n=11) 9% Any tumor with AR L702H (n=24) 8% Bavdegalutamide’s diminished efficacy in patients harboring tumors with AR L702H may limit its ability to benefit a broad mCRPC patient population AR = androgen receptor; PSA=prostate-specific antigen; mCRPC = metastatic castrate-resistant prostate cancer
+
+ 
+
+Bavdegalutamide has proven the concept for a PROTAC® AR degrader in AR LBD mCRPC 12 • In clinical settings, bavdegalutamide achieved a robust efficacy in post-NHA patients with most AR LBD mutations, with particularly strong responses in patients with tumors harboring AR 878/875 mutations alone • Bavdegalutamide’s suboptimal ability to degrade L702H will limit its addressable population (6-9% of mCRPC patients) When compared with bavdegalutamide, our second-generation PROTAC AR degrader, ARV-766, has been shown in clinical settings to have better tolerability and a broader efficacy profile that could potentially reach 3x more patients in mCRPC AR = androgen receptor; mCRPC = metastatic castrate-resistant prostate cancer; NHA = novel hormonal agent; LBD = ligand binding domain
+
+ 
+
+Arvinas Confidential and Proprietary 13 ARV-766 Clinical Update
+
+ 
+
+ARV-766 is a pan-AR PROTAC® degrader designed to degrade wild- type AR and all clinically relevant AR mutations, including L702H 14 AR = androgen receptor; mCRPC = metastatic castrate-resistant prostate cancer; LBD = ligand binding domain 1. Coutinho et al 2016 DOI: 10.1530/ERC-16-0422. 2. Ledet et al 2020 DOI: 10.1634/theoncologist.2019-0115. 3. Antonarakis et al, Abstract 395182, ASCO/GU 2023. 4. Beltran H. Eur Urol. 2013;63(5):920-926. 5. Wyatt AW. JAMA Oncol.2016;2(12):1598-1606. 6. Bernard-Tessier et al, Abstract 39698, ASCO/GU 2023. 7. T878X = T878A or T878S • The prevalence of AR LBD mutations is increasing, especially L702H • L702H is estimated at ~11% of mCRPC in 20233 • In total, the prevalence of AR LBD mutations in mCRPC is 20-25%4,5,6 AR LBD mutation 20161 20202 20233 L702H ~2% ~9% ~11% T878X7 ~6% ~6% ~8% H875Y ~4% ~4% ~5% Estimates of AR LBD mutation prevalence ARV-766 degrades all clinically relevant AR mutations
+
+ 
+
+ARV-766 has the potential to be first- and best-in-class PROTAC® AR degrader in mCRPC 15 AR = androgen receptor; PSA50 = best PSA declines ≥50%; LBD = ligand binding domain; TRAE = treatment-related adverse event; mCRPC = metastatic castrate-resistant prostate cancer; † Data as of April 15, 2023 (ARV-766 Phase 1/2 dose escalation and expansion trial) ‡ Data as of August 23, 2023 (ARV-766 Phase 1/2 dose escalation and expansion trial) • Strong activity (42% PSA50) in post-NHA patients across all LBD (including L702H) mutations • Low rates of Grade 2 and 3 TRAEs; 1 discontinuation, 2 dose reductions June 2023† disclosure (N=47) Data available today (N=84)‡ • Activity remains robust (41% PSA50) across all LBD, including in patients with L702H (50% PSA50) • Highly differentiated tolerability appears superior versus bavdegalutamide
+
+ 
+
+TRAE ≥10% n (%)1 Bavdeg (n=1532) Any Grade ARV-766 (n=84†) Any Grade Bavdeg (n=1532) Grade 3+ ARV-766 (n=84†) Grade 3+ Any TRAE 135 (88) 55 (66) 24 (16) 7 (8) Fatigue 53 (35) 24 (29) 1 (1) 2 (2) Nausea 85 (56) 12 (14) 2 (1) 0 (0) Diarrhea 37 (24) 9 (11) 3 (2) 1 (1) Vomiting 50 (33) 9 (11) 1 (1) 0 (0) Decreased appetite 39 (25) 9 (11) 0 (0) 0 (0) Alopecia 28 (18) 8 (10) 0 (0) 0 (0) Anemia 23 (15) 3 (4) 7 (5) 0 (0) Weight decrease 19 (12) 1 (1) 0 0 (0) AST increase 18 (12) 6 (7) 1 (1) 1 (1) Any TRAE leading to discontinuation 16 (10) 3 (4) ARV-766’s excellent tolerability profile surpasses that of bavdegalutamide in the clinical setting 16 TRAE = treatment related adverse events; AST = aspartate aminotransferase † As of August 23, 2023 1 .Table includes TRAEs (Treatment Related Adverse Events) greater than 10% for either bavdegalutamide or ARV-766. 2. Includes all patients treated at the RP3D of 400mg QD in Ph 1/2 trial
+
+ 
+
+ARV-766: 41% of patients with AR LBD mutations achieve PSA50 (n=17†) 17 AR = androgen receptor; LBD = ligand-binding domain; PSA = prostate-specific antigen; QD = once daily; PSA30 = best PSA declines ≥30%; PSA50 = best PSA declines ≥50% †Includes biomarker-evaluable patients with ≥4 weeks of PSA follow-up. Data from the ARV-766 Phase 1/2 dose escalation and expansion trial; data cut-off, August 23, 2023 -100 -75 -50 -25 0 25 50 75 100 B es t % P SA C h an g e Fr om B as el in e PSA50 PSA30 PSA50=41% Continuing treatment
+
+ 
+
+ARV-766 is demonstrating improved signals of efficacy in patients with tumors harboring AR L702H mutations compared to bavdegalutamide in the clinical setting 18 AR = androgen receptor; LBD = ligand-binding domain; PSA = prostate-specific antigen; PFS = progression-free survival; PSA50 = best PSA declines ≥50% † Includes patients treated at the RP2D ‡ Data as of August 23, 2023 • 41% PSA50 (7 of 17) in patients with any AR LBD mutation • Early durability data for ARV-766 are encouraging and provide additional support for prioritizing ARV-766 over bavdegalutamide • PFS data anticipated in 2024 PSA50 rates (%) Bavdegalutamide† ARV-766‡ Patients with tumors with L702H 8% (2 of 24) 50% (4 of 8)
+
+ 
+
+Deep PSA decline in patient with mCRPC with wild-type AR supports development in pre-NHA settings, including mCSPC 19AR = androgen receptor; PSA = prostate-specific antigen; mCSPC = metastatic castrate-sensitive prostate cancer; mCRPC = metastatic castrate-resistant prostate cancer; NHA = novel hormonal agent
+
+ 
+
+ARV-766 has the potential to reach 3X more patients in mCRPC than bavdegalutamide, with additional opportunity in mCSPC 20 Potential addressable patient populations in mCRPC† Bavdegalutamide ARV-766 ~11,000 ~35,000 T878/H875 alone (8%) All LBD (25%) ARV-766: • Strong signals of efficacy and excellent tolerability in a population representing ~25% of mCRPC • Plus an additional ~87,000† potentially addressable patients in mCSPC mCSPC = metastatic castrate-sensitive prostate cancer; mCRPC = metastatic castrate-resistant prostate cancer; † Kantar 2023 Epidemiology Database; includes US, EU4, UK, and Japan
+
+ 
+
+Potential for PROTAC® AR degrader to improve outcomes in patients with prostate cancer Bavdegalutamide ARV-766 Degrades wild type and amplified AR   Targets all AR LBD mutations No L702H  Tolerability suitable for mCRPC   Tolerability suitable for mCSPC  Phase 3 ease of enrollment  PSA50 in patients with tumors harboring L702H mutation 7% (2 of 24) 50% (4 of 8) Addressable mCRPC patient population† ~11,000 (6-9%) ~35,000 (~25%) Based on current clinical data, Arvinas believes ARV-766 will be a better choice than bavdegalutamide for patients with both early- and late-line prostate cancer 21 † Kantar 20AR = androgen receptor; LBD = ligand-binding domain; mCSPC = metastatic castrate-sensitive prostate cancer; mCRPC = metastatic castrate-resistant prostate cancer; PSA50 = best PSA declines ≥50% 23 Epidemiology Database; includes US, EU4, UK, and Japan
+
+ 
+
+Arvinas Confidential and Proprietary 22 Path Forward for PROTAC® AR Degraders in mCSPC and mCRPC
+
+ 
+
+23 • Arvinas is committed to advancing the best treatment for patients in both early- (mCSPC) and late-line (mCRPC) disease • Based on our current clinical data, we believe that ARV-766 will be superior to bavdegalutamide in each setting, and can enroll and target a larger patient population • Arvinas will prioritize the initiation of an ARV-766 Ph 3 trial in mCRPC instead of the planned Phase 3 for bavdegalutamide • Initiate discussions with regulatory authorities by 2Q 2024 to align on Phase 3 program Arvinas will prioritize ARV-766 in mCSPC and mCRPC mCSPC = metastatic castrate-sensitive prostate cancer; mCRPC = metastatic castrate-resistant prostate cancer; PSA50 = best PSA declines ≥50%
+
+ 
+
+Q&A 24 • John Houston, Ph.D, President and Chief Executive Officer, Arvinas • Ron Peck, M.D., Chief Medical Officer, Arvinas • Daniel P. Petrylak, M.D., Professor of Medicine (Medical Oncology) and of Urology; Chief, Genitourinary Oncology; at Yale School of Medicine • Investigator: bavdegalutamide Phase 1 dose escalation and Phase 2 ARDENT dose expansion • Investigator: ARV-766 Phase 1/2 trial

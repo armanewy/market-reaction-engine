@@ -1,0 +1,279 @@
+8-K
+
+false 0001743881 0001743881 2022-07-26 2022-07-26
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 26, 2022
+
+ 
+
+ 
+
+BridgeBio Pharma, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38959
+
+ 
+
+84-1850815
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+421 Kipling Street
+
+Palo Alto, CA
+
+ 
+
+94301
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(650) 391-9740
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock
+
+ 
+
+BBIO
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 8.01.
+
+Other Events.
+
+Recent Developments
+
+Interim Results from Phase 2 Trial of Infigratinib in Achondroplasia
+
+On July 26, 2022, BridgeBio Pharma, Inc. (“BridgeBio”) announced positive interim results from PROPEL 2, a Phase 2 trial of infigratinib in children with achondroplasia. This corresponds to a median of 48.1 weeks for the 62 participants included in the safety population at the time of the interim analysis. The data demonstrated:
+
+ 
+
+ 
+
+•
+
+ 
+
+At the highest dose level evaluated to date (Cohort 4, 0.128 mg/kg once daily), the mean increase in annualized height velocity (“AHV”) was +1.52 cm/yr over baseline (p = 0.02, n=11) in children 5 years of age and older based on the longest available follow-up data at time of interim analysis, 64% of whom were responders (defined as >25% increase in AHV from baseline); the average percent change from baseline in AHV was 60%
+
+ 
+
+ 
+
+•
+
+ 
+
+In children age 3 to <5 years old, the increase in ACH height Z-score, which controls for age and gender differences seen in height changes, at 6 months was 0.21 Standard Deviation Score. This group also demonstrated an increase in AHV of +0.61 cm/yr over baseline (n=5)
+
+ 
+
+ 
+
+•
+
+ 
+
+Across Cohort 4, the median duration of follow-up was 26.9 weeks at time of interim analysis
+
+ 
+
+ 
+
+•
+
+ 
+
+No serious adverse events and discontinuations due to adverse events have been reported to date in any cohort, including Cohort 5, which has not yet completed enrollment. The majority of adverse events (“AEs”) observed were Grade 1, unrelated to study drug, and consistent with a pediatric achondroplasia population. Only 9.7% of subjects had a treatment-emergent AE assessed as related to study drug, all of which were Grade 1, and only one treatment-related dose reduction has been made to date
+
+BridgeBio, after discussions with regulatory agencies, has begun enrolling Cohort 5. Cohort 5 is receiving approximately twice the dose of Cohort 4 (0.25 mg/kg once daily vs 0.128 mg/kg once daily in Cohort 4). At the conclusion of the ongoing trial, BridgeBio intends to present full data at a medical conference in the first half of 2023.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BridgeBio Pharma, Inc.
+
+Date: July 26, 2022
+
+ 
+
+ 
+
+ 
+
+/s/ Brian C. Stephenson
+
+ 
+
+ 
+
+ 
+
+Brian C. Stephenson
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

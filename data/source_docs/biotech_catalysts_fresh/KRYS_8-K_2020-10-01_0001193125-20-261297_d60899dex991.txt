@@ -1,0 +1,144 @@
+EX-99.1
+2
+d60899dex991.htm
+EX-99.1
+
+EX-99.1
+
+Topical gene therapy - A new direction
+in the management of dystrophic epidermolysis bullosa Suma Krishnan – Chief Operating Officer, Krystal Biotech Peter Marinkovich – Assoc Professor of Dermatology, Head of Bullous Disease Clinic, Stanford October 1st, 2020 Exhibit
+99.1
+
+Forward-looking statements This
+presentation contains forward-looking statements that involve substantial risks and uncertainties. Any statements in this presentation about future expectations, plans and prospects for Krystal Biotech, Inc. (the “Company”), including
+but not limited to statements about the development of the Company’s product candidates, such as the future development or commercialization of beremagene geperpavec (“B-VEC”), KB105, KB104, KB301 and KB407 and the Company’s
+other product candidates; conduct and timelines of clinical trials, the clinical utility of B-VEC, KB105, KB104, KB301 and KB407 and the Company’s other product candidates; plans for and timing of the review of regulatory filings, efforts to
+bring B-VEC, KB105, KB104, KB301 and KB407 and the Company’s other product candidates to market; the market opportunity for and the potential market acceptance of B-VEC”, KB105, KB104, KB301 and KB407 and the Company’s other
+product candidates, the development of B-VEC, KB105, KB104, KB301 and KB407 and the Company’s other product candidates for additional indications; the development of additional formulations of B-VEC, KB105, KB104, KB301 and KB407 and the
+Company’s other product candidates; plans to pursue research and development of other product candidates, the sufficiency of the Company’s existing cash resources; and other statements containing the words “anticipate”,
+“believe”, “estimate”, “expect”, “intend”, “may”, “plan”, “predict”, “project”, “target”, “potential”, “likely”,
+“will”, “would”, “could”, “should”, “continue” and similar expressions, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995.
+Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: the content and timing of decisions made by the U.S. Food and Drug Administration, European Medicines
+Agency and other regulatory authorities; the uncertainties inherent in the initiation and conduct of clinical trials, availability and timing of data from clinical trials; whether results of early clinical trials or studies in different disease
+indications will be indicative of the results of ongoing or future trials; uncertainties associated with regulatory review of clinical trials and applications for marketing approvals; the availability or commercial potential of product candidates;
+the ability to retain and hire key personnel; the sufficiency of cash resources and need for additional financing; and such other important factors as are set forth in the Company’s annual and quarterly reports and other filings on file with
+the U.S. Securities and Exchange Commission. In addition, the forward-looking statements included in this presentation represent the Company’s views as of the date of this presentation. The Company anticipates that subsequent events and
+developments will cause its views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not
+be relied upon as representing the Company’s views as of any date subsequent to the date of this presentation. This presentation also contains estimates and other statistical data made by independent parties and by us relating to market size
+and growth and other data about our industry. This data involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. Neither we nor any other person makes any representation as to the accuracy
+or completeness of such data or undertakes any obligation to update such data after the date of this presentation. In addition, projections, assumptions and estimates of our future performance and the future performance of the markets in which we
+operate are necessarily subject to a high degree of uncertainty and risk.
+
+There are four types of Epidermolysis
+Bullosa (EB)1,2 Type Point of tissue separation Gene mutations Proteins involved in pathogenesis EB simplex (EBS) Epidermis KRT5 KRT14 Desmoplakin Plakophilin 1 Plakoglobin Transglutaminase 5 Keratin 5/14 Plectin Exophilin 5 Junctional EB (JEB)
+Lamina lucida LAMA3, LAMB3, or LAMC2 Integrin α6ß4 Integrin α3 Collagen XVII Laminin 332 Dystrophic EB (DEB) Sublamina densa COL7A1 Collagen VII Kindler syndrome Mixed type, exhibits multiple cleavage planes FERMT-1 Kindlin-1 1.
+Shinkuma S. Clin Cosmet Investig Dermatol 2015; 8:275–284. 2. De Rosa L et al. Cold Spring Harb Perspect Biol 2020; 12:a035667 EBS JEB DEB
+
+Normal skin Affected skin Mutations in
+the COL7A1 gene cause DEB1,2 DEB is a rare genetic disease caused by a mutation in the COL7A1 gene that codes for Type VII collagen (COL7) COL7 plays an important role in strengthening and stabilizing the skin The diagnosed prevalence of DEB is
+estimated to be 3.3 per million people 1. US National Library of Medicine. Your guide to understanding genetic conditions. Dystrophic epidermolysis bullosa. Available at: https://ghr.nlm.nih.gov/condition/dystrophic-epidermolysis-bullosa#genes
+(Accessed September 2020). 2. Fine JD. JAMA Dermatol 2016; 152:1231–1238. Anchoring fibrils anchor the top layer of skin, called the epidermis, to an underlying layer called the dermis Without COL7 the epidermis does not anchor to the dermis
+The result is skin blistering and tears with minor trauma COL7 is the main component of structures called anchoring fibrils
+
+Autosomal Dominant DEB – DDEB
+Reduced COL7 Symptoms begin at birth Severe cases of DDEB can be as debilitating as RDEB There are two forms of DEB with overlapping severity1,2 Images taken from: Shinkuma S 20151 and Fine JD 20102 1. Shinkuma S. Clin Cosmet Investig Dermatol 2015;
+8:275–284. 2. Fine JD. Orphanet J. Rare Dis.2010; 5:12. Nail dystrophy of the toenails in DDEB Dystrophy of all twenty nails in a patient with DDEB Scarring and post-inflammatory hypopigmentation in a patient with DDEB Autosomal Recessive DEB
+– RDEB A severe form of DEB Caused by an absence or marked reduction in COL7 Symptoms begin at birth Increased risk of developing early aggressive skin cancer Poor prognosis Mitten deformity in a patient with RDEB Erosions and scarring on the
+back of a patient with RDEB Partial mitten deformity in a child with severe generalized RDEB Squamous cell carcinoma in a patient with RDEB
+
+There is currently no treatment to
+address the underlying cause of DEB1 There are currently no approved treatments to address skin manifestations of patients with DEB and care is currently restricted to: Wound care – by meticulous bandaging of the skin Pain management
+Management of infections Preventing new injuries – prevention of secondary infection by careful wound care, facilitated by the use of sterile synthetic non-adhesive hydrocolloid dressings Watching for and treating complications Several
+experimental approaches are now being explored for possible therapeutic use in patients with DEB including in vivo and ex vivo gene therapies 1. Eichstadt et al. JCI Insight. 2019; 4(19): e130554.
+
+About Krystal Biotech, Inc. Founded in
+2016 to find an innovative way to treat patients with Dystrophic Epidermolysis Bullosa Investigational treatment (presently known as B-VEC) is designed to be: “Off-the-shelf” topical gel to deliver the missing or mutated COL7A1 gene to
+the skin wounds Modified HSV-1 vector carries two copies of the COL7A1 gene to both fibroblasts and keratinocytes Treatment does not require hospitalization or anesthesia Administration is out-patient (at-home administration anticipated when
+approved) Development Status: Principal Investigator – Dr. Peter Marinkovich Completed Phase 1 and Phase 2 clinical studies in 2019 at Stanford University In these studies a total of 9 RDEB subjects (adult and pediatric) were enrolled in the
+study; 3 subjects enrolled early and completed the study were subsequently re-enrolled (for a total of 12 participants) and new wounds were randomized Promising results were seen which will be further evaluated in a Phase 3 trial Currently enrolling
+patients in a Phase 3 study across 6 sites in the US Details of the sites and how to enroll provided in last slide of this presentation
+
+Krystal’s in vivo approach vs.
+other ex vivo approaches1,2 Transporting to manufacturing facility Viral gene integration GMP graft production Transport back to clinical site Ex vivo skin correction Graft placement under general anesthesia in operating room with 1 week
+hospitalization Skin harvesting Krystal’s In vivo skin correction Transport topical gel to clinic (or home) Place topical gel directly on multiple wounds Syringe preparation intradermal injections administered under conscious sedation
+Transport back to clinical site 1. Lwin et al. JCI Insight. 2019. 4(11):e126243. 2. Eichstadt et al. JCI Insight. 2019; 4(19): e130554.
+
+Krystal: Topical gel gene therapy In
+vivo gene therapy Vector Modified herpes simplex virus 1 (HSV-1) Skin cells targeted Fibroblast and keratinocytes Time taken Immediate use Administration method Topical Need for hospitalization? No – out-patient or home application Need for
+anaesthesia? No B-VEC is an investigational therapy being studied in clinical trials. Targeted engineered HSV-1 resulting in a platform that is well suited for localized delivery of genes to patients Insertion of COL7A1 gene into the vector
+Wild-type HSV-1 Krystal’s platform Therapeutic vector Topical application
+
+As new genetic based therapies emerge,
+early genetic diagnosis will become important1 1. Has C et al. Br J Dermatol 2020; 182:574–592. 2. Feinstein JA. JAMA Dermatol 2019; 155:196–203. 3. DEBRA International. Laboratory diagnosis for people living with epidermolysis bullosa
+(EB). Available at: https://www.debra-international.org/eb-health-care-patient-guides (Accessed September 2020). Genetic testing (DNA)1,3 IFM and EM (microscopy)1,3 A large published study has shown that almost 50% of EBS patients have not had
+confirmatory testing to characterize their EB type2
+
+For treatment of dystrophic
+epidermolysis bullosa (DEB) B-VEC Ph 1/2 Data (previously KB103)* USAN & INN: beremagene geperpavec * RMAT designation PRIME eligibility Fast track designation granted Orphan Drug Designation in US and EU Rare Pediatric Disease Designation in US
+Eligible for Priority Review Voucher B-VEC is an investigational therapy being studied in clinical trials.
+
+Topical B-VEC was evaluated in a
+Phase 1/2 study at Stanford1 GEM1/2 (NCT03536143) was an intra-patient comparison of wounds randomized to receive either topical B-VEC or placebo Each patient on-study for ~6 months; 3 months of on-site visits followed by 3-month at-home imaging
+period Study PI: Dr. Peter Marinkovich Design Enrollment Key Endpoints A total of 9 RDEB subjects (adult and pediatric) were enrolled in the study; 3 subjects enrolled early and completed the study were subsequently re-enrolled (for a total of 12
+participants) and new wounds were randomized Safety measures AEs, including clinically significant changes in laboratory results, vitals, and physical exam findings Viral shedding was analyzed through the collection of blood, urine and skin swabs,
+and antibodies to HSV and COL7 were analyzed through collection of serum Efficacy measures Level of collagen VII (COL7) in B-VEC-administered skin as measured by immunofluorescence; presence of anchoring fibrils as measured by immunoelectron
+microscopy Wound closure (change in wound surface area relative to baseline), time to wound closure, and duration of wound closure, all relative to placebo B-VEC is an investigational therapy being studied in clinical trials ClinicalTrials.gov.
+Topical Beremagene Geperpavec (KB103) Gene Therapy to Restore Functional Collagen VII for the Treatment of Dystrophic Epidermolysis Bullosa (GEM-1). Available at: https://clinicaltrials.gov/ct2/show/NCT03536143 (Accessed September 2020).
+
+In Phase 1/2, Topical B-VEC was
+safe; COL7 expression and molecular correction observed No treatment-related serious AEs were reported; AEs deemed possibly related were mild (n=7) or moderate (n=1) and self limiting No immune response or blistering observed around the sites of
+administration following first and repeat doses Blood and urine samples collected throughout the study revealed: No systemic viral shedding No adverse events associated with routine labs (chemistry and hematology) Some patients had baseline COL7 and
+HSV-1 antibodies which did not impair efficacy or tolerance of therapy B-VEC was well tolerated following first and repeat dosing Molecular correction observed and correlated with wound healing Expression and correct localization of full-length COL7
+following B-VEC therapy, which promoted the formation of mature anchoring fibrils in all biopsy samples Baseline, Days 15 and 97 collagen VII expression using NC1 and NC2 specific antibodies (patient 10) Immunoelectron microscopy shows mature
+anchoring fibrils at day 97 (patient 10) Day 0 Day 15 Day 97 NC1 NC2 Arrows indicate basement membrane zone Increased expression of NC1 (arrow) Increased expression of NC2 (black dots) Robust, mature anchoring fibrils (arrows) B-VEC is an
+investigational therapy being studied in clinical trials
+
+Statistically significant reduction
+in wound area achieved in Weeks 8,10 and 12 Median change in wound area across Phase 1/2 study (efficacy observed in both recurring and chronic wounds) B-VEC is an investigational therapy being studied in clinical trials Median change from Baseline
+in wound area 150,0% 100,0% 50,0% 0,0% -50,0% -100,0% PLACEBO B-VEC Time from Baseline (Weeks) 0 2 4 6 8 10 12 PLACEBO 0,0% -69,7% 118.3% -64,7% 140,7% -19,9% 27.8% B-VEC 0.0% -74.9% -82.3% -94.4% -82.8% -91.8% -94.1% p-value ** 0,298 0,004 0,071
+0,002 0,015 0,020
+
+B-VEC: Sustained closure in a
+recurring wound in Ph 1/2 B-VEC is an investigational therapy being studied in clinical trials
+
+B-VEC: wound healing observed in a
+large chronic wound treated in Ph 1/2 Large chronic wound (>60 cm2) present for >5 years covering the left side of patient’s torso B-VEC is an investigational therapy being studied in clinical trials
+
+Before Following B-VEC treatment
+B-VEC: Long term durability of healing observed in chronic wounds Illustrative Durability: ~ 18 months (chronic wounds) Long term durability observed anecdotally on a majority of chronic wounds treated in Phase 1/2 clinical study B-VEC is an
+investigational therapy being studied in clinical trials
+
+Gem-3: B-vec phase iii TRIAL
+INFORMATION B-VEC is an investigational therapy being studied in clinical trials
+
+The Pivotal GEM-3 study is currently
+enrolling1 GEM-3 (NCT04491604) is a randomized, double-blind, intra-patient comparison of wounds randomized to receive either topical B-VEC or placebo Each patient on-study for approximately 7 months: the 6-month dosing period followed by a 30-day
+safety follow up Design Enrollment Key Efficacy Endpoints Approximately 30 DEB subjects (adult and pediatric) will be enrolled across 6 trial sites in the US Each subject provides at least 1 pair (up to 3) of primary target wounds, 1 randomized to
+B-VEC and the other to placebo In addition to the primary target wound pair(s), additional wounds (secondary wounds) may be selected to be treated with B-VEC in an open-label manner Primary Complete wound healing, determined by the investigator, as
+compared to baseline in B-VEC treated wounds vs. placebo treated at weeks 20, 22 and 24 Secondary Complete wound healing, determined by the investigator, as compared to baseline in B-VEC treated wounds versus placebo at weeks 8, 10 and 12 Mean
+change in pain severity (using either a VAS or FLACC-R Scale) per primary wound site associated with wound dressing changes The proportion of primary wound sites with ≥75% would healing as compared to baseline at Week 24 using Canfield
+photography quantitation B-VEC is an investigational therapy being studied in clinical trials 1. ClinicalTrials.gov. The Objective of This Study is to Compare the Efficacy and Safety of Beremagene Geperpavec (B-VEC) Topical Gel With That of Placebo
+for the Treatment of Dystrophic Epidermolysis Bullosa (DEB). Available at https://clinicaltrials.gov/ct2/show/NCT04491604 (Accessed September 2020).
+
+Key inclusion/exclusion criteria1
+B-VEC is an investigational therapy being studied in clinical trials Clinical diagnosis of DEB Confirmation of DEB diagnosis (DDEB or RDEB) by genetic testing including COL7A1 Age ≥6 months and older At least two cutaneous wounds (recurrent or
+chronic) that are: Location: similar in size, located in similar anatomical regions, and have similar appearance Appearance: clean with adequate granulation tissue, excellent vascularization and do not appear infected INCLUSION Full
+inclusion/exclusion criteria listed on ClinicalTrials.gov Participation in an interventional clinical trial within the past 3 months Current evidence or a history of squamous cell carcinoma in the area that will undergo treatment Actively receiving
+chemotherapy or immunotherapy at Visit 1 Receipt of a skin graft in the past three months Unable to travel to the study site EXCLUSION 1. ClinicalTrials.gov. The Objective of This Study is to Compare the Efficacy and Safety of Beremagene Geperpavec
+(B-VEC) Topical Gel With That of Placebo for the Treatment of Dystrophic Epidermolysis Bullosa (DEB). Available at https://clinicaltrials.gov/ct2/show/NCT04491604 (Accessed September 2020).
+
+Phase 3 design Screening 6-month
+Treatment Period 30-day Safety OLE Dosing: Primary wounds will be treated once weekly with a fixed dose until wound closure; should a wound re-open, weekly dosing will resume at the assigned dose until wound closure The fixed dose per wound is
+dependent on the size of the wound at baseline Each patient is allowed a maximum weekly dose of B-VEC; if that maximum is not reached in dosing primary wounds, additional secondary wounds may be chosen and treated with B-VEC in an open label manner
+The maximum weekly dose, administered once weekly per patient, is defined by patient age Wk 20 Wk 22 Wk 24 Wk 8 Wk 10 Wk 12 … The trial design is inclusive of chronic and recurring wounds of any size in RDEB or DDEB patients Key design
+elements: No restriction on chronic or recurring wounds Maximum weekly dose allows for flexibility to treat multiple and/or larger wounds Inclusive of RDEB and DDEB patients B-VEC is an investigational therapy being studied in clinical
+trials
+
+Enroll in our Phase III multicenter
+B-VEC clinical trial1 Brittani Agostini Clinical Operations Manager bagostini@krystalbio.com 412-586-5830 Suma Krishnan Founder and Chief Operations Officer skrishnan@krystalbio.com 415-310-7747 Phase 3 Clinical Trial Site Locations United states,
+California Stanford University Stanford, California, United States, 94305 Principal investigator: Peter Marinkovich, MD Contact: Sinem Bagci, MD 650-484-6878, isbagci@Stanford.edu Recruiting Mission Dermatology Rancho Santa Margarita, California,
+United states, 92688 Principal investigator: Shireen Guide, MD Recruiting United states, Florida Pediatric Skin Research, LLC Coral Gables, Florida, United States, 33146 Principal investigator: Mercedes Gonzalez, MD Recruiting United States,
+Illinois Northwestern University Chicago, Illinois, United States, 60611 Principal investigator: Amy Paller, MD Recruiting United States, Ohio Cincinnati Children’s Hospital Medical Centre Cincinnati, Ohio, United States, 45229 Not yet
+recruiting United States, Texas Ascension Seton Austin, Texas, United States, 7823 Not yet recruiting For more information about enrollment in our Phase III trial contact: Peter Marinkovich, MD Principal Investigator Contact Sinem Bagci MD:
+isbagci@Stanford.edu 650-484-6878 https://clinicaltrials.gov/ct2/show/NCT04491604 Or go to: 1. ClinicalTrials.gov. The Objective of This Study is to Compare the Efficacy and Safety of Beremagene Geperpavec (B-VEC) Topical Gel With That of Placebo
+for the Treatment of Dystrophic Epidermolysis Bullosa (DEB). Available at https://clinicaltrials.gov/ct2/show/NCT04491604 (Accessed September 2020). B-VEC is an investigational therapy being studied in clinical trials

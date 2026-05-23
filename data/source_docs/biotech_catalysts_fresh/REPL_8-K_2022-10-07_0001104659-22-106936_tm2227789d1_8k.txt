@@ -1,0 +1,372 @@
+0001737953
+false
+
+0001737953
+
+2022-10-06
+2022-10-06
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported):  October 6, 2022
+
+ 
+
+ 
+
+ 
+
+REPLIMUNE GROUP, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38596
+
+ 
+
+82-2082553
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+500 Unicorn Park Drive
+
+Woburn,
+MA 01801
+
+(Address of principal executive offices, including
+Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (781) 222-9600
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share
+
+ 
+
+REPL
+
+ 
+
+The Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this
+chapter). Emerging growth company x
+
+ 
+
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+ 
+
+On
+October 6, 2022 (the “Closing Date”), Replimune Group, Inc. (the “Company”) and certain subsidiaries of the Company
+(collectively, the “Borrowers”) entered into a Loan and Security Agreement (the “Loan Agreement”) with Hercules
+Capital, Inc. (“Hercules”), in its capacity as administrative agent and collateral agent (the “Agent”) and as
+a lender, and certain other financial institutions that from time to time may become parties to the Loan Agreement as lenders (collectively,
+the “Lenders”). The Loan Agreement provides for term loans in an aggregate principal amount of up to $200.0 million under
+multiple tranches (the “Term Loan Facility”), available to be drawn during the specified time period at the Borrowers’
+option, which includes (i) an initial term loan advance of $30.0 million on the Closing Date with an additional $30.0 million available
+to be drawn on or prior to September 30, 2023, (ii) subject to the Borrower achieving certain performance milestones, additional term
+loan advances in an aggregate principal amount of up to $115.0 million during the term of the Term Loan Facility, and (iii) subject to
+approval by the applicable Lenders’ investment committees in their discretion, up to two term loan advances in an aggregate principal
+amount of up to $25.0 million, on or prior to the end of the interest-only period referred to below. The Borrowers have agreed to use
+the proceeds of the Term Loan Facility for working capital and general corporate purposes.
+
+ 
+
+The
+Term Loan Facility will mature on October 1, 2027 (the “Maturity Date”). The outstanding principal balance of the Term Loan
+Facility bears interest payable in cash at a floating rate per annum equal to the greater of (i) 7.25% and (ii) the sum of the Prime Rate
+(which is capped at 7.25%) and 1.75%. In addition, the principal balance of the Term Loan Facility will bear “payment-in-kind”
+interest at the rate of 1.50% (“PIK Interest”), which PIK Interest will be added to the outstanding principal balance of the
+Term Loan Facility on each interest payment date. Accrued interest is payable monthly following the funding of each term loan advance.
+
+ 
+
+The
+Borrowers may make payments of interest only, without any loan amortization payments, for a period of forty-eight (48) months
+following the Closing Date, which interest-only period may be extended to (i) the date which is fifty-four (54) months following the
+Closing Date if certain performance milestones have been achieved, and (ii) the Maturity Date if certain additional performance
+milestones have been achieved. At the end of the interest-only period, the Borrowers are required to begin repayment of the
+outstanding principal of the Term Loan Facility in equal monthly installments (or, in a single installment, if the interest-only
+period has been extended to the Maturity Date).
+
+ 
+
+The
+Loan Agreement contains customary facility fees, events of default and representations, warranties and affirmative and negative covenants,
+including a financial covenant requiring the Borrowers to maintain certain levels of cash in accounts subject to a control agreement in
+favor of the Agent (the “Unrestricted Cash”) at all times commencing on January 1, 2024. In addition, the Loan Agreement also
+contains a financial covenant that beginning on the later of (i) July 1, 2024 and (ii) the date on which the aggregate outstanding principal
+amount of the Term Loan Facility is equal to or greater than $100.0 million, the Borrowers are required to satisfy one of the following
+requirements: (1) achieve a minimum amount of trailing three-month net product revenue tested on a monthly basis, (2) maintain a market
+capitalization in excess of $1.2 billion and Unrestricted Cash in an amount no less than 50% of the outstanding amount under the Term
+Loan Facility, or (3) maintain Unrestricted Cash in an amount no less than 85% of the outstanding amount under the Term Loan Facility.
+
+ 
+
+The
+Company plans to file the Loan Agreement as an exhibit to its Quarterly Report on Form 10-Q for the quarter ended on September 30, 2022,
+and intends to seek confidential treatment for the Loan Agreement. The foregoing description of the Loan Agreement is qualified in its
+entirety by reference to the complete text of the Loan Agreement when filed.
+
+ 
+
+Item
+2.03
+
+Creation of a Direct Financial Obligation or an Obligation Under an Off-Balance
+Sheet Arrangement of the Registrant.
+
+ 
+
+The
+information set forth in Item 1.01 of this report is incorporated herein by reference.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+ 
+
+On October 7, 2022, the Company
+issued a press release regarding the Loan Agreement, a copy of which is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The information contained
+in this Item 7.01 and in the accompanying Exhibit 99.1 shall not be incorporated by reference into any filing of the Company, whether
+made before or after the date hereof, regardless of any general incorporation language in such filing, unless expressly incorporated by
+specific reference to such filing. The information in this Item 7.01 and the accompanying Exhibit 99.1 shall not be deemed to be “filed”
+for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section
+or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+News Release dated October 7, 2022
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+ 
+
+ 
+
+REPLIMUNE GROUP, INC.
+
+ 
+
+ 
+
+ 
+
+Date: October 7, 2022
+
+By:
+
+/s/ Jean Franchi
+
+ 
+
+ 
+
+Jean Franchi
+
+ 
+
+ 
+
+Chief Financial Officer

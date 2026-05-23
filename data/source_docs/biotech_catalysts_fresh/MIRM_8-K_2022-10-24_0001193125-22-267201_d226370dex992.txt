@@ -1,0 +1,58 @@
+EX-99.2
+3
+d226370dex992.htm
+EX-99.2
+
+EX-99.2
+
+MARCH-PFIC Phase 3 Topline Results
+October 24, 2022 Exhibit 99.2
+
+Forward-Looking Statements This
+presentation contains "forward-looking" statements that are based on our management’s beliefs and assumptions and on information currently available to management. Forward-looking statements include all statements other than statements of
+historical fact contained in this presentation, including information concerning our business strategy, objectives and opportunities. Forward-looking statements are subject to known and unknown risks, uncertainties, assumptions and other factors
+that may cause our actual results, performance or achievements to differ materially and adversely from those anticipated or implied by our forward-looking statements, including, but not limited to, those related to our continued commercialization
+efforts; our ability to obtain and maintain necessary regulatory approvals for our product and product candidates, if and when approved; estimates of the number of patients impacted by PFIC and related diseases and who are appropriate for treatment
+with LIVMARLI; the potential real-world benefits of LIVMARLI; the impact of competitive products and therapies and development programs; the design, implementation and outcomes of our clinical trials; and our ability to continue to stay in
+compliance with applicable laws and regulations.  You should refer to the section entitled “Risk Factors” set forth in our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and other filings we make with the Securities and
+Exchange Commission (SEC) from time to time for a discussion of important factors that may cause our actual results to differ materially from those expressed or implied by our forward-looking statements. You should not rely upon forward-looking
+statements as predictions of future events. Neither we nor any other person assumes responsibility for the accuracy and completeness of the forward-looking statements. We undertake no obligation to update any forward-looking statements after the
+date of this presentation except as may be required by law. This presentation also contains estimates and other statistical data made by independent parties and by us relating to market size and growth and other data about our industry. These data
+involve a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. Projections, assumptions and estimates of the future performance of the markets in which we operate are necessarily subject to a high
+degree of uncertainty and risk. The trademarks included herein are the property of the owners thereof and are used for reference purposes only. This presentation discusses a product candidate that is under clinical study and which has not yet been
+approved for marketing by the U.S. Food and Drug Administration for the PFIC indication. No representation is made as to the safety or effectiveness of this product candidate for the use for which such product candidate is being studied.
+
+PFIC: Progressive Diseases of
+Bile-Related Transporters Progressive Familial Intrahepatic Cholestasis (PFIC) Genetic disease of bile transporters, resulting in cholestasis Severe pruritus, common indication for surgery or liver transplant ~20% transplant-free survival at 18
+years of age Incidence of 1:50,000 to 1:100,000 births FIC1 BSEP MDR3 PFIC1 PFIC2 PFIC3 Hepatocyte Canalicular membrane Cholesterol Bile acid PFIC sub-types impact different transporters. PFIC2 is the most common. Englert et al, Transplantation
+2007, Davit-Spraul et al, Orphanet J of Rare Diseases 2009, Strautnieks et al, Gastroenterology 2008
+
+LIVMARLI 570 µg/kg BID* Placebo R
+1:1 MARCH-PFIC: Phase 3 Study Design *LIVMARLI 570 µg/kg is equivalent to 600 µg/kg maralixibat chloride. BID, twice daily; BSEP, bile salt export pump; PFIC, progressive familial intrahepatic cholestasis; QOL, quality of life; sBA, serum
+bile acid; https://clinicaltrials.gov/ct2/show/NCT03905330. Primary Endpoint Improvement in pruritus in PFIC2 Secondary Endpoints  Additional pruritus and sBA assessments in PFIC2 and All-PFIC Additional Endpoints Safety, QOL, exploratory
+endpoints 6mo Enrolled All Genetic PFIC Types; n=93 PFIC2: n=31 n=31 PFIC21 All-PFIC: n=64 n=31 PFIC21 n=33 PFIC1, 3, 4, 6 Full-Study: n=93 n=64 All-PFIC n=29 prior surgery, truncating mutations, other BL 1BSEP1, BSEP2
+
+Key Demographics and Baseline
+Characteristics PFIC2 All-PFIC Full-Study Variable LIVMARLI (n=14) Placebo (n=17) Overall (n=31) LIVMARLI (n=33) Placebo (n=31) Overall (n=64) LIVMARLI (n=47) Placebo (n=46) Overall (n=93) Age (years); mean (SD) 6.3 (5.24) 4.2 (3.56) 5.1 (4.45) 4.9
+(4.10) 4.4 (3.61) 4.6 (3.85) 4.8 (4.15) 4.7 (3.57) 4.7 (3.85) Sex (male); % 50% 35% 42% 52% 42% 47% 43% 48% 45% Pruritus (ItchRO[Obs]); mean (SD) 2.9 (0.91) 2.6 (0.89) 2.7 (0.90) 2.9 (0.88) 2.7 (0.88) 2.8 (0.87) 2.8 (0.83) 2.9 (0.84) 2.9 (0.83)
+Total sBA (umol/L); mean (SD) 312 (157.6) 312 (152.0) 312 (151.5) 254 (139.5) 272 (147.4) 263 (142.6) 263 (150.7) 243 (152.9) 253 (151.3) ItchRO(Obs), Itch Reported Outcome (Observer);  sBA, serum bile acid; SD, standard deviation
+Note: Percentages are 100*n/N.
+
+Statistically Significant Improvement
+in Pruritus Data are LS Mean with standard error bars. Effect size compared the difference between LIVMARLI and placebo, averaged over the last 3 time periods using a repeated measures mixed effect model. * LIVMARLI LS Mean = Placebo LS Mean; #LS
+Mean Delta with 95% CI PFIC2 (n=31) Improvement Δ: -1.04 (-1.807, -0.272)# All-PFIC (n=64) Δ: -1.17 (-1.705, -0.642)# LIVMARLI (n=14) Placebo (n=17) LIVMARLI (n=33) Placebo (n=31) p = 0.0098* p < 0.0001* Primary endpoint
+
+Statistically Significant Improvement
+in Serum Bile Acids PFIC2 (n=31) Improvement Δ: -187 µmol/L (-293.45, -79.99)# Δ: -160 µmol/L (-220.84, -99.97)# LIVMARLI (n=14) Placebo (n=17) LIVMARLI (n=33) Placebo (n=31) p = 0.0013* p < 0.0001* Data are LS Mean with
+standard error bars. Effect size compared the difference between LIVMARLI and placebo, averaged over the last 3 time periods using a repeated measures mixed effect model. * LIVMARLI LS Mean = Placebo LS Mean; # LS Mean Delta with 95% CI 11 3
+All-PFIC (n=64)
+
+Summary of Treatment Emergent Adverse
+Events Diarrhea was predominantly mild with no severe events, and transient with a median duration of 5.5 days One patient had a treatment emergent adverse event of mild diarrhea that led to discontinuation Treatment Emergent Adverse Event (TEAE)
+LIVMARLI (n=47) Placebo (n=46) Any TEAE, n (%) 47 (100%) 43 (93.5%) Severe TEAE, n (%) 3 (6.4%) 3 (6.5%) Serious TEAE, n (%) 5 (10.6%) 3 (6.5%) TEAE leading to discontinuation, n (%) 1 (2.1%) 0 TEAE leading to death, n (%) 0 0 Most common TEAE
+Diarrhea, n (%) 27 (57.4%) 9 (19.6%)
+
+Broad Effects Observed in All-PFIC
+Proportion of pruritus score assessments < 1 point was 62% for LIVMARLI versus 28% for placebo (p<0.0001) Responses in sBA and pruritus were rapid NAPPED sBA response criteria met in 51.5% of patients* Pruritus and sBA effects have been
+sustained into the open-label extension study Significant improvements in bilirubin and growth were observed Pruritus and sBA effects were consistent in the full-study population of 93 patients *NAPPED criteria (van Wessel et al, 2021): sBA
+responders defined as having an average sBA of <102 μmol/L (if baseline sBA ≥102 μmol/L), OR a ≤-75% average percent change from baseline

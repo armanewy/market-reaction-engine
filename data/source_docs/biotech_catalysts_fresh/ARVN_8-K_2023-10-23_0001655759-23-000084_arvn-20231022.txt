@@ -1,0 +1,176 @@
+arvn-20231022
+0001655759FALSE00016557592023-10-222023-10-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 22, 2023
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01 Regulation FD Disclosure.
+
+On October 22, 2023, Arvinas, Inc. (the “Company”) issued a press release announcing the presentation of interim data from the Company’s Phase 1/2 clinical trial for bavdegalutamide (ARV-110) in men with metastatic castration-resistant prostate cancer (“mCRPC”) in a poster session at the European Society for Medical Oncology Congress being held in Madrid from October 20 – 24, 2023. The Company hosted a conference call to discuss these data and present new data from an updated analysis of its ongoing Phase 1/2 clinical trial with ARV-766 in men with mCRPC.
+
+Copies of the press release and presentation are attached as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+The Second Amended and Restated Bylaws also include certain technical, conforming and clarifying changes. The foregoing description of the Second and Amended Restated Bylaws is qualified in its entirety by reference to the full text of the Second Amended and Restated Bylaws, which is attached hereto as Exhibit 3.1 and incorporated herein by reference.
+
+Item 8.01. Other Events.
+
+On October 22, 2023, the Company announced interim data from the Company’s Phase 1/2 clinical trial for bavdegalutamide (ARV-110) in men with mCRPC in a poster session at the European Society for Medical Oncology Congress being held in Madrid from October 20 – 24, 2023. Bavdegalutamide is an investigational, once-daily, orally bioavailable PROTAC® protein degrader designed to selectively target and degrade the androgen receptor (“AR”), and degrades wild type and all clinically relevant AR ligand binding domain (“LBD”) mutations except AR L702H, a mutation associated with resistance to abiraterone and other AR-pathway novel hormonal agents (“NHA”).
+
+Data from the Phase 1/2 clinical trial with bavdegalutamide (data cut-off date Aug. 11, 2023) in a post-NHA (median prior therapies = 4) mCRPC population and at the recommend Phase 2 dose (420 mg, oral, once-daily), showed median radiographic progression free survival (“rPFS”) of 11.1 months in a subgroup of patients harboring AR 878/875 mutations (AR 878/875; T878X=T878A or T878S) and without co-occurring AR L702H mutations (n=26) and median rPFS of 8.2 months in patients with tumors harboring any AR LBD mutation except L702H alone (n=45). The data also showed that 54% of patients with tumors harboring AR 878/875 mutations and without co-occurring AR L702H achieved reductions in prostate specific antigen (“PSA”) levels of greater than or equal to than 50% or (“PSA50”), and 36% of patients with tumors harboring any AR LBD mutation except L702H alone achieved PSA50. The presence of AR L702H mutations greatly diminished the signals of efficacy of bavdegalutamide; in patients with any tumor harboring an AR L702H mutation, the PSA50 was 8%. Bavdegalutamide showed a manageable tolerability profile with no grade > 4 treatment-related adverse events (“TRAEs”). The most common TRAEs were grade 1 and 2 and included nausea (56%), fatigue (35%), vomiting (33%), decreased appetite (25%) and diarrhea (24%). The discontinuation rate due to TRAEs was 10%.
+
+Also on October 22, 2023, the Company presented interim data from an updated analysis of its ongoing Phase 1/2 clinical trial with its second-generation PROTAC AR degrader, ARV 766 (data cut-off date Aug. 23, 2023), demonstrating broad signals of efficacy and excellent tolerability in mCRPC patients with tumors harboring any AR LBD mutations, including AR L702H. ARV-766 is an investigational orally bioavailable PROTAC® protein degrader designed to degrade all clinically relevant resistance-driving point mutations of the AR, including L702H, which improves upon the degradation profile of bavdegalutamide. The data showed a PSA50 of 41% in patients with tumors harboring any AR LBD mutation and a PSA50 of 50% in patients with any tumor harboring an AR L702H mutation. ARV-766 was well-tolerated, with no grade > 4 TRAEs. The most common TRAEs were grade 1 or 2 and included fatigue (29%), nausea (14%), vomiting (11%), and diarrhea (11%). The discontinuation rate due to TRAEs was 4%.
+
+Based on signs of superior tolerability and efficacy in clinical settings to date, Arvinas believes that ARV-766 will be a superior PROTAC® AR degrader versus bavdegalutamide for both metastatic castration-sensitive prostate cancer “(mCSPC”) and mCRPC. Arvinas will prioritize the initiation of a Phase 3 clinical trial with ARV-766 in mCRPC instead of the previously planned Phase 3 clinical trial for bavdegalutamide. The Company plans to initiate discussions with regulatory authorities to align on the Phase 3 program by 2Q 2024. Ongoing trial activities with bavdegalutamide
+
+(ARV-110-101 and ARV-110-103) are not expected to be impacted and are expected to continue as planned. Arvinas also expects to advance ARV-766 to treat patients with mCSPC in the future.
+
+Forward-Looking Statements.
+
+This Current Report on Form 8-K, including the documents furnished as Exhibit 99.1 and 99.2 hereto, contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the potential advantages and therapeutic benefits of bavdegalutamide and ARV-766, Arvinas’ plans to prioritize Phase 3 plans for ARV-766 over bavdegalutamide, the Company’s expectations for ARV-766 to treat patients with mCRPC and mCSPC, the Company’s expectations with respect to continuing ARV-110 activity, and plans for discussions with regulatory authorities. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “expect,” “intend,” “may,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on such forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including but not limited to: [whether the Company will be able to successfully conduct and complete clinical development for bavdegalutamide and ARV-766, including whether the Company initiates and completes clinical trials for the Company’s product candidates, and receives results from the Company’s clinical trials on the Company’s expected timelines, or at all,] and other important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated October 22, 2023
+
+99.2
+
+Company Presentation, dated October 22, 2023
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: October 23, 2023
+
+By:
+
+/s/ Sean Cassidy
+
+Sean Cassidy
+
+Chief Financial Officer

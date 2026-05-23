@@ -1,0 +1,1475 @@
+EX-99.1
+2
+tmb-20210415xex99d1.htm
+EX-99.1
+
+Exhibit 99.1
+
+PTC518 Huntington’s
+Disease Deep Dive
+April 15th, 2021
+
+Forward Looking Statements:
+This presentation contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of
+1995. All statements contained in this release, other than statements of historic fact, are forward -looking statements, including
+statements with respect to the future expectations, plans and prospects for PTC, PTC's strategy, including with respect to th e
+expected timing of clinical trials and studies, availability of data, regulatory submissions and responses and other matters,
+future operations, future financial position, future revenues, projected costs; and the objectives of management. Other forwa rd-
+looking statements may be identified by the words "guidance", "plan," "anticipate," "believe," "estimate," "expect," "intend, "
+"may," "target," "potential," "will," "would," "could," "should," "continue," and similar expressions.
+PTC's actual results, performance or achievements could differ materially from those expressed or implied by forward -looking
+statements it makes as a result of a variety of risks and uncertainties, including those related to: the outcome of pricing,
+coverage and reimbursement negotiations with third party payors for PTC's products or product candidates that PTC
+commercializes or may commercialize in the future; the enrollment, conduct, and results of ongoing studies under the SMA
+collaboration and events during, or as a result of, the studies that could delay or prevent further development under the
+program, including any regulatory submissions and commercialization with respect to Evrysdi; significant business effects,
+including the effects of industry, market, economic, political or regulatory conditions; changes in tax and other laws,
+regulations, rates and policies; the eligible patient base and commercial potential of PTC's products and product candidates;
+PTC's scientific approach and general development progress; and the factors discussed in the "Risk Factors" section of PTC's
+most recent Annual Report on Form 10-K, as well as any updates to these risk factors filed from time to time in PTC's other
+filings with the SEC. You are urged to carefully consider all such factors.
+As with any pharmaceutical under development, there are significant risks in the development, regulatory approval and
+commercialization of new products. There are no guarantees that any product will receive or maintain regulatory approval in
+any territory, or prove to be commercially successful.
+The forward-looking statements contained herein represent PTC's views only as of the date of this presentation and PTC does
+not undertake or plan to update or revise any such forward-looking statements to reflect actual results or changes in plans,
+prospects, assumptions, estimates or projections, or other circumstances occurring after the date of this presentation except as
+required by law.
+2
+
+Diversified Platform Drives Strong Portfolio
+3
+Clinical
+Commercial
+Research
+Nonsense
+Mutation
+LatAm
+Commercial Deflazacort
+Gene
+Therapy Bio-e Metabolic Oncology
+US Dystrophin
+PTC-AADC
+PTC299 AML
+PTC596 DIPG
+PTC596 LMS
+Vatiquinone
+ME
+Vatiquinone
+FA
+PTC923 PKU PTC299
+COVID-19
+SCA-3 Undisclosed
+MAP-Tau
+PTC857
+GBA-PD
+PTC518 HD
+Splicing Virology
+• AADC, aromatic L-amino acid decarboxylase deficiency; AML; acute myeloid leukemia; COVID-19, coronavirus disease 2019; DIPG, diffuse intrinsic pontine glioma; FA, Friedreich’s ataxia; GBA, glucocerebrosidase; HD, Huntington‘s disease; IRD, inherited retinal dystrophy;
+LMS, leiomyosarcoma; ME, Mitochondrial Epilepsy; PD, Parkinson’s disease; PKU, phenylketonuria; SCA-3, spinocerebellar ataxia type 3.
+SCIENTIFIC PLATFORMS and RESEARCH
+Potential registrational studies
+Angelman
+IRDs
+Cog Disorders
+FA
+
+PTC518 Huntington’s Disease Deep Dive Agenda
+4
+Preclinical Development of PTC518
+Anu Bhattacharyya,
+Exec. Director, Biology
+PTC518
+Huntington
+Deep Dive
+Splicing Platform and
+Huntington’s Disease
+Stuart Peltz, CEO
+PTC518 Phase 1 Study
+Matthew Klein, CDO
+
+PTC is the Leader in Splicing With 20 Years of Expertise and
+Proven Track Record
+5
+Spinal muscular atrophy
+Huntington’s disease
+Exploiting splicing
+Proprietary
+systems and
+specialty
+libraries
+Isoform plex
+HTSpliceseq
+Many additional targets
+Databases of
+Splicing Targets
+Familial dysautonomia
+
+6
+Recognition of Pre-mRNA is Mediated by U-snRNP
+Complexes U1 and U2
+5’ Splice
+Site
+3’ Splice
+Site
+5’ Splice
+Site
+3’ Splice
+Site
+U1 recognizes
+the 5’ splice site
+at each exon
+U2 recognizes the
+branch site near
+the 3’ splice site
+
+FL mRNA
+Functional
+SMN protein
+Targeting Alternative Splicing of SMN2 in SMA by
+Targeting the U1 Site
+SMN1
+6 8 7
+mRNA 6 8 7
+6 8 7
+SMN2
+6 8 7 6 8
+CT
+Truncated
+unstable
+SMN protein
+ESE ESS U1
+GA
+U1
+GA
+Risdiplam
+stabilizes U1
+Functional
+SMN protein
+FL mRNA Δ7 mRNA
+Activation Inhibition
+7
+
+The SMN2 5’-Splice Site Presents a Unique Structural
+Interface for Small Molecule
+Risdiplam
+Canonical Duplex SMN2 Exon 7
+8
+
+Risdiplam SMN2 Improves the Ability of the 5’-Splice
+Site to Promote Splicing
+Risdiplam
+Canonical Duplex SMN2 Exon 7
+9
+
+Risdiplam Increases SMN Protein in Multiple Tissues to
+Near or Above Heterozygous Levels
+Brain Peripheral Blood Mononuclear Cells
+• SMN protein levels in peripheral blood cells correlate to those in brain
+• Similar increases in SMN observed in spinal cord, muscle, heart, liver, skin
+0
+1 0 0
+2 0 0
+3 0 0
+4 0 0
+5 0 0
+V ehicle
+H e te ro z y g o u s (n o
+d ise a se p h e n o ty p e )
+* * *
+* * *
+* * *
+S
+M
+N
+
+p
+r
+o
+t
+e
+i
+n
+%
+
+i
+n
+c
+r
+e
+a
+s
+e
+
+
+S
+E
+M
+2 6 10
+D o s e (m g /k g )
+0
+1 0 0
+2 0 0
+3 0 0
+4 0 0
+5 0 0
+V ehicle
+H e te ro zyg o u s (n o
+d ise a se p h e n o ty p e )
+* *
+* * *
+* * *
+S
+M
+N
+
+p
+r
+o
+t
+e
+i
+n
+%
+
+i
+n
+c
+r
+e
+a
+s
+e
+
+
+S
+E
+M
+2 6 10
+D o s e (m g /k g )
+10 Naryshkin et al. Science 2014
+Oral dosing for 10 days in mild SMA mouse model
+
+8
+6
+4
+2
+0
+SMN Protein (ng/mL)
+Baseline Week 4
+Firefish Sunfish =<11yrs Sunfish >11yrs Jewelfish Healthy Volunteers
+Risdiplam Increases SMN Protein Levels in All SMA
+Types to the Level in Adult Healthy Subjects
+Healthy subjects: n=49, age 18-60 years. Patients with SMA: n=84, age 3.3 months to 52 years. FIREFISH part 1 (n=21), SUNFISH part 1 (n=51), JEWELFISH (n=12). Patients on all dose levels of risdiplam have been included
+SMA, spinal muscular atrophy; SMN, spinal motor neuron.
+Kletzl H, et al. 23rd International Annual Congress of World Muscle Society; October 2-6, 2018; Mendoza, Argentina.
+11
+
+Evrysdi™ Roadmap to Success
+12
+Highly
+selective
+Orally
+bioavailable and
+penetrates blood
+brain barrier
+Broad tissue
+distribution in
+animal models
+1:1 ratio
+between
+blood and
+brain
+Proof of
+splicing
+mechanism
+demonstrated
+in P1 HV
+Evrysdi™
+clinical
+benefit
+established
+
+PTC518 Huntington’s Disease Deep Dive Agenda
+13
+Preclinical Development of PTC518
+Anu Bhattacharyya,
+Exec. Director, Biology
+PTC518
+Huntington
+Deep Dive
+Splicing Platform and
+Huntington’s Disease
+Stuart Peltz, CEO
+PTC518 Phase 1 Study
+Matthew Klein, CDO
+
+PTC518 Huntington’s Disease Key Focus Areas
+14
+Overview of Huntington’s Disease
+Different treatment modalities
+Why is the blood a good marker
+that correlates with the CNS?
+Can mHTT in CSF accurately verify
+target engagement in brain?
+Huntington’s
+Disease
+What evidence supports partial lowering of wild type
+HTT?
+What evidence supports partial lowering of mutant
+HTT?
+
+PTC518 Huntington’s Disease Key Focus Areas
+15
+Overview of Huntington’s Disease
+Different treatment modalities
+Why is the blood a good marker
+that correlates with the CNS?
+Can mHTT in CSF accurately verify
+target engagement in brain?
+Huntington’s
+Disease
+What evidence supports partial lowering of wild type
+HTT?
+What evidence supports partial lowering of mutant
+HTT?
+
+Huntington’s Disease is a Debilitating Neurodegenerative
+Disorder with No Available Disease Modifying Treatments
+Huntington’s Disease
+• Caused by a monogenic defect; autosomal dominant inheritance
+• Expansion of CAG trinucleotide repeat in the huntingtin (HTT) gene
+• Leads to movement, psychiatric and cognitive disorders
+Current Treatments
+• No approved disease modifying therapies
+~135,000
+Global
+prevalence
+
+Molecular Basis of Huntington’s Disease is Well
+Understood
+Modified from T a b r i z i , S . C e l l . 2019. 17
+Repeat
+Count
+Classification Disease
+Status
+<28 Normal Unaffected
+28–35 Intermediate Unaffected
+36–39 Reduced
+Penetrance
++/- Affected
+40-above Full Penetrance Affected
+
+18
+Globus
+Pallidus
+Striatum
+Cortex
+Progressive Neuronal Degeneration Occurs Throughout
+the Brain
+HD Healthy
+Goh et al. Aus Psychiatry. 2018
+
+HTT is Ubiquitously Expressed and Involved in Many
+Cellular Processes
+• Predominantly an intra-
+cellular protein
+• Required during embryonic
+development
+• Ubiquitously expressed
+throughout development
+and in all adult tissues
+U h l é n M e t a l . , S c i e n c e ( 2 0 1 5 ) ; www.proteinatlas.org 19
+
+PTC518 Huntington’s Disease Key Focus Areas
+20
+Overview of Huntington’s Disease
+What evidence supports partial lowering of wild type
+HTT?
+What evidence supports partial lowering of mutant
+HTT?
+Different treatment modalities
+Why is the blood a good marker
+that correlates with the CNS?
+Can mHTT in CSF accurately verify
+target engagement in brain?
+Huntington’s
+Disease
+
+21
+Toxic gain of function mutation
+Huntington’s disease
+Whole brain atrophy
+HTT protein aggregates
+Make less HTT
+Lowering mHTT Expression to Target Root Cause of
+Pathogenesis
+
+Oral Treatment has Uniform Lowering Across the Key
+Regions of the Brain
+22
+Property Small molecules
+Delivery Oral
+CNS lowering Equal across the key
+areas of the brain
+Peripheral lowering Yes
+Reversible Yes
+
+23
+Property ASOs
+Delivery Intrathecal
+CNS lowering
+Less reduction in the
+striatum compared to
+cortex
+Peripheral lowering No
+Reversible Yes
+Antisense Oligonucleotide Treatment has More Lowering
+in the Cortex Compared to the Striatum
+
+24
+Property RNAi
+Delivery Striatum/Thalamus
+CNS lowering
+Less reduction in the
+cortex compared to
+striatum
+Peripheral lowering No
+Reversible No
+Gene Therapy Treatment has More Lowering in the
+Striatum Compared to the Cortex
+
+PTC518 Drug Development Objectives
+25
+What is the
+Dose?
+01
+What is the
+Exposure?
+02
+What is the
+Level of HTT
+Reduction?
+03
+
+PTC518 Huntington’s Disease Key Focus Areas
+26
+Overview of Huntington’s Disease
+What evidence supports partial lowering of wild type
+HTT?
+What evidence supports partial lowering of mutant
+HTT?
+Different treatment modalities
+Why is the blood a good marker
+that correlates with the CNS?
+Can mHTT in CSF accurately verify
+target engagement in brain?
+Huntington’s
+Disease
+
+27 Purves D, Augustine GJ, et al., editors. Sunderland (MA): Sinauer Associates; 2001.
+Distribution Through the Blood Effectively Targets the
+Whole Brain
+
+PTC518 Huntington’s Disease Key Focus Areas
+28
+Overview of Huntington’s Disease
+Different treatment modalities
+Why is the blood a good marker
+that correlates with the CNS?
+Can mHTT in CSF accurately verify
+target engagement in brain?
+Huntington’s
+Disease
+What evidence supports partial lowering of wild type
+HTT?
+What evidence supports partial lowering of mutant
+HTT?
+
+29
+In healthy people, the cerebrospinal fluid (CSF):
+Does
+• Cushion the brain
+• Provide immune surveillance
+• Remove metabolic waste
+Does not
+• Interact with most neurons directly
+• Contain very much protein (35 mg/dL,
+compared to 7000 mg/dL in serum)
+The Cerebrospinal Fluid Cushions the Brain
+Subarachnoid Space
+with Cerebrospinal
+Fluid (CSF)
+
+Limitations of CSF HTT Measurement as a
+Pharmacodynamic Marker for HTT lowering
+30
+What We Know Unknowns
+The origin of CSF mHTT
+Specific contributions of
+brain regions to CSF mHTT
+levels
+Not enough data to
+understand a meaningful
+treatment related change in
+levels over assay variability
+Brain mHTT levels >100X
+CSF mHTT levels
+Very low levels of CSF
+mHTT – an ultra sensitive
+assay (low fM) required for
+measurement
+Assay inconsistency and
+variability
+Lack of strong correlation
+between brain and CSF
+lowering with different
+modalities
+
+PTC518 Huntington’s Disease Key Focus Areas
+31
+Overview of Huntington’s Disease
+Different treatment modalities
+Why is the blood a good marker
+that correlates with the CNS?
+Can mHTT in CSF accurately verify
+target engagement in brain?
+Huntington’s
+Disease
+What evidence supports partial lowering of wild type
+HTT?
+What evidence supports partial lowering of mutant
+HTT?
+
+Multiple Models Demonstrate Partial Reduction of Wild
+Type HTT Is Well Tolerated
+32
+Species Magnitude of wild type HTT
+change Phenotype
+Human Loss of one normal HTT
+allele ~50% No detectable abnormal phenotype
+Adult Nonhuman Primates ~50% No alterations in motor function; No
+abnormal histopathologic findings
+Adult Rodents ~50% No alterations in motor performance
+or activity
+Leavitt et. al. JAMA Neurology 2020 doi:10.1001/jamaneurol.2020.0299
+
+HTT Reduction Correlates with Clinical Benefit
+33
+Human data: ~50% reduction in HTT transcriptional activity results in
+mean delay of age of onset by 9.3 years
+Mouse data: 30-40% reduction in mHTT expression translates to beneficial effects
+Becanovic et. al. Nat Neurosci. 2015. doi:10.1038/nn.4014
+Garriga-Canut et. al. PNAS 2012 doi.org/10.1073/pnas.1206506109
+HD phenotype
+
+PTC518 Huntington’s Disease Deep Dive Agenda
+34
+Preclinical Development of PTC518
+Anu Bhattacharyya,
+Exec. Director, Biology
+PTC518
+Huntington
+Deep Dive
+Splicing Platform and
+Huntington’s Disease
+Stuart Peltz, CEO
+PTC518 Phase 1 Study
+Matthew Klein, CDO
+
+What are the Characteristics of a Promising HD
+Therapeutic?
+. 35
+Orally bioavailable and
+penetrates blood brain barrier
+Reversible and titratable
+Reduces HTT mRNA and protein
+in the CNS and periphery
+Uniform lowering in key regions
+of the brain
+Highly selective
+Not effluxed
+
+Identification of a Novel Splicing Mechanism that Leads to
+Degradation of Mutant HTT mRNA
+36
+With PTC518
+Pseudoexon is spliced in;
+Nonsense mutation leads
+to mRNA degradation
+No compound
+Pseudoexon is not spliced in;
+full length HTT protein is produced
+Exon 49 Exon 50 psi Exon
+5’ss 3’ss
+Exon 49 Exon 50
+Exon 49 Exon 50 psiExon
+Nonsense-mediated HTT mRNA decay
+STOP
+
+Key Preclinical Proof Points
+CONFIDENTIAL. NOT FOR PROMOTIONAL USE. 37
+Do the molecules lower
+HTT levels in cells?
+Do the molecules lower
+both HTT mRNA and
+protein levels?
+Cellular Activity
+Reduce cellular toxicity, mutagenicity, and
+key off target activity
+Monitor short and long-term safety in animals
+Toxicology
+Reduce metabolism
+Maximize oral
+bioavailability and
+exposure in vivo
+DMPK
+Assess protein expression in
+vivo
+Establish PK/PD correlation
+Pharmacology
+
+Animal Models Were Selected to Best Show PK and PD
+38
+Model Purpose Pros Cons
+BACHD mouse PK-PD-distribution/
+HTT lowering biomarker
+Human Genomic Locus
+Full-length HTT/PsiExon target
+Subtle & late onset phenotype/
+Increased body weight
+WT Mouse PK-distribution Availability; commonly used; quick PK NO PsiExon target
+WT NHP PK-distribution Large brain; study efflux (CSF PK) NO PsiExon target
+
+PTC518 is Orally Bioavailable and Crosses the Blood Brain
+Barrier
+After swallowing, it
+makes its way to the
+stomach
+Broken down in the
+stomach, small intestine,
+and liver
+Circulates through the
+bloodstream
+Crosses blood brain barrier
+to access neurons
+Distributed through the
+body
+39
+
+What are the Characteristics of PTC518?
+40
+Orally bioavailable and
+penetrates blood brain barrier
+Reversible and titratable
+Reduces HTT mRNA and protein
+in the CNS and periphery
+Uniform lowering in key regions
+of the brain
+Highly selective
+Not effluxed
+
+Dose Dependent HTT Lowering in the Brain of BACHD
+Mice
+41
+120
+100
+80
+60
+40
+20
+0
+Vehicle 1 3 7 21 63
+HTT Protein Levels in Brain
+% of baseline
+H
+TT protein
+Dose (mg/kg)
+
+What are the Characteristics of PTC518?
+42
+Orally bioavailable and
+penetrates blood brain barrier
+Reversible and titratable
+Reduces HTT mRNA and protein
+in the CNS and periphery
+Uniform lowering in key regions
+of the brain
+Highly selective
+Not effluxed
+
+PTC518 is Highly Potent in Promoting Splicing of HTT Pre-
+mRNA and Lowering HTT Protein Levels in Human Cells
+43
+HTT protein lowering HTT pre-mRNA splicing
+RNA
+0.001 0.01 0.1 1
+0
+20
+40
+60
+80
+100
+Cpd, (M)
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+Protein
+0.001 0.01 0.1 1
+0
+20
+40
+60
+80
+100
+Cpd, (M)
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+p
+r
+o
+t
+e
+i
+n
+Data on file, human cells expressing endogenous HTT.
+
+44
+PTC518 Promotes Splicing of HTT Pre-mRNA in BACHD
+Mouse Whole Blood
+0 6 12 18 24
+10
+20
+30
+40
+PK Profile (Plasma_PTC518))
+Time (hours)
+P
+l
+a
+s
+m
+a
+
+f
+r
+e
+e
+
+c
+o
+n
+c
+.
+
+(
+n
+g
+/
+m
+L
+)
+HTT IC50
+0 1 2 4 8 16 24
+0
+20
+40
+60
+80
+100
+120
+HTT RNA Levels in Blood
+Time (hrs)
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+Data on file
+
+45
+PTC518 Showed a Strong Correlation Between HTT mRNA
+Splicing and Protein Lowering in Blood of BACHD Mice
+➢ HTT protein lowering in BACHD white blood cells
+➢ Time – 21 days; multiple doses; PD evaluated 2h post
+last dose
+Vehicle PTC518
+0
+20
+40
+60
+80
+100
+120
+HTT Protein Levels in Blood
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+p
+r
+o
+t
+e
+i
+n
+Data on file
+
+Vehicle PTC518
+0
+20
+40
+60
+80
+100
+120
+HTT Protein Levels in Brain
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+p
+r
+o
+t
+e
+i
+n
+PTC518 Uniformly Lowers HTT Protein Levels in BACHD
+Mouse Brain and White Blood Cells
+46 Data on file
+Vehicle PTC518
+0
+20
+40
+60
+80
+100
+120
+HTT Protein Levels in Blood
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+p
+r
+o
+t
+e
+i
+n
+
+What are the Characteristics of PTC518?
+47
+Orally bioavailable and
+penetrates blood brain barrier
+Reversible and titratable
+Reduces HTT mRNA and protein
+in the CNS and periphery
+Uniform lowering in key regions
+of the brain
+Highly selective
+Not effluxed
+
+HD Splicing Small Molecules Demonstrate Robust HTT
+Reduction in BACHD Mouse Brain
+48 Data on file from multiple studies
+Brain and blood HTT lowering
+Measurements demonstrate uniform HTT lowering across brain regions with ~1:1 brain and blood lowering effect
+120
+100
+80
+60
+40
+20
+0
+Vehicle 7 mg/kg
+120
+100
+80
+60
+40
+20
+0
+Vehicle 7 mg/kg
+120
+100
+80
+60
+40
+20
+0
+Vehicle 7 mg/kg
+Striatum Cortex Cerebellum
+% of baseline
+H
+TT protein
+% of baseline
+H
+TT protein
+% of baseline
+H
+TT protein
+Treated
+Vehicle Brain WBC
+0
+20
+40
+60
+80
+100
+120
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+p
+r
+o
+t
+e
+i
+n
+
+PTC518 Crosses the Blood Brain Barrier in Non-Human
+Primates
+49 Data on file
+0 5 10 15 20 25
+0
+5
+10
+15
+20
+25
+Monkey plasma CSF correlation
+Calculated plasma free (ng/mL)
+C
+S
+F
+
+(
+n
+g
+/
+g
+)
+R squared 0.779
+P value <0.0001
+
+What are the Characteristics of PTC518?
+50
+Orally bioavailable and
+penetrates blood brain barrier
+Reversible and titratable
+Reduces HTT mRNA and protein
+in the CNS and periphery
+Uniform lowering in key regions
+of the brain
+Highly selective
+Not effluxed
+
+What are the Characteristics of PTC518?
+. 51
+Orally bioavailable and
+penetrates blood brain barrier
+Reversible and titratable
+Reduces HTT mRNA and protein
+in the CNS and periphery
+Uniform lowering in key regions
+of the brain
+Highly selective
+Not effluxed
+
+Why is it Important to Reduce Efflux?
+52
+• Reducing efflux has several advantages:
+− Balancing the extent of peripheral vs brain lowering is critical
+− Increases the therapeutic window versus non target-related splicing in the periphery
+− Stronger correlation between blood (peripheral) and brain lowering
+
+PTC518 is Not Effluxed Resulting In ~1:1 Brain and Blood
+Lowering Effect In BACHD Mice
+53 Data on file
+PTC518 Effluxed Molecule
+Peripheral ≈ Brain Peripheral >> Brain
+Vehicle Brain WBC
+0
+20
+40
+60
+80
+100
+120
+Effluxed molecule
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+p
+r
+o
+t
+e
+i
+n
+Vehicle Brain WBC
+0
+20
+40
+60
+80
+100
+120
+PTC518
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+p
+r
+o
+t
+e
+i
+n
+Vehicle Brain WBC
+0
+20
+40
+60
+80
+100
+120
+Effluxed molecule (simulation)
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+p
+r
+o
+t
+e
+i
+n
+
+What are the Characteristics of PTC518?
+54
+Orally bioavailable and
+penetrates blood brain barrier
+Reversible and titratable
+Reduces HTT mRNA and protein
+in the CNS and periphery
+Uniform lowering in key regions
+of the brain
+Highly selective
+Not effluxed
+
+PTC518 Huntington’s Disease Deep Dive Agenda
+55
+Preclinical Development of PTC518
+Anu Bhattacharyya,
+Exec. Director, Biology
+PTC518
+Huntington
+Deep Dive
+Splicing Platform and
+Huntington’s Disease
+Stuart Peltz, CEO
+PTC518 Phase 1 Study
+Matthew Klein, CDO
+
+The Phase 1 Trial is a 4-Part Study
+56
+Phase 1 trial
+in healthy
+volunteers is
+ongoing
+Multiple ascending dose
+• Up to 5 cohorts of 8 healthy volunteers (6 active and 2 placebo)
+• Evaluate safety & tolerability; HTT mRNA splicing & protein
+lowering
+Food effect
+• Crossover design
+• Evaluate the effects of food on PTC518 pharmacokinetics
+CSF sampling
+• Evaluate pharmacokinetics of PTC518 in the CSF
+• Compare drug levels in CSF with plasma compartment
+Single ascending dose
+• Five cohorts of 8 healthy volunteers (6 active and 2 placebo)
+• Evaluate safety & tolerability; HTT mRNA splicing
+
+Phase 1 Objective: Establish Dose Dependent HTT
+Lowering Similar to the BACHD Mouse
+Data on file 57
+120
+100
+80
+60
+40
+20
+0
+Vehicle 1 3 7 21 63
+HTT Protein Levels in Brain
+% of baseline
+H
+TT protein
+Dose (mg/kg)
+
+58
+SAD Study: Proof of Mechanism of PTC518 Demonstrated
+By Dose-Dependent HTT Splicing
+Placebo
+PTC518_45 m
+g
+PTC518_90 m
+g
+PTC518_135 m
+g
+0
+20
+40
+60
+80
+100
+120
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+➢ Whole blood HTT splicing in humans
+➢ Doses evaluated = 45 mg, 90 mg, and 135 mg
+➢ Time – one day; single dose; splicing evaluated 24h post dose
+Data on file PTC518 -CNS- 001- HD
+
+SAD PK Demonstrates Dose Predictable Drug Exposure
+Data on file PTC518 -CNS- 001- HD 59
+mg
+135
+90
+45
+15
+5
+PTC518 concentration (ng/mL)
+Time (hr)
+
+Phase 1 SAD Interim Results Summary
+60
+Target splicing reduction achieved with single dose
+Well-tolerated with no safety-related findings
+Predictable pharmacology
+Dose-dependent splicing of HTT mRNA
+
+61
+MAD Study: Proof of Mechanism of PTC518 Confirmed By
+Dose-Dependent HTT Splicing
+➢ Whole blood HTT splicing in humans
+➢ Doses evaluated = 15 mg and 30 mg
+➢ Time – Day 14; multiple doses; splicing evaluated 6h post dose on day 14
+Placebo
+PTC518_15 m
+g
+PTC518_30 m
+g
+0
+20
+40
+60
+80
+100
+120
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+Data on file PTC518 -CNS- 001- HD
+
+Durability of Response: Splicing Activity Persists 72 hrs
+Post Cessation
+62
+0 12 24 36 48 60 72
+0
+20
+40
+60
+80
+100
+120
+140
+Time (hours following final dose)
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+Placebo
+PTC518_15 mg_QD14
+PTC518_30 mg_QD14
+HTT splicing monitored after the final dose at day 14 (calculated % HTT remaining from baseline (pre-dose_Day0))
+Data on file PTC518 -CNS- 001- HD
+
+Phase 1 MAD Interim Results Summary
+63
+Two cohorts completed; two to three additional planned
+Well-tolerated with no safety-related findings
+Dose dependent splicing of HTT mRNA
+Long-half life with maintenance of splicing up to 72 hours following last dose
+
+Phase 1 Trial Next Steps
+. 64
+1 Complete Additional MAD Cohorts
+2 Complete CSF Cohort
+3 Complete Food Effect Cohort
+4 Finalize Clinical Development Plan
+
+Defining Clinical Next Steps
+65
+Natural History
+1
+Endpoints
+2
+Patient
+Population
+3
+
+Summary
+
+Preclinical Studies Show PTC518 Has all the Characteristics Of a
+Promising HD Therapeutic
+. 67
+Orally bioavailable and
+penetrates blood brain barrier
+Reversible and titratable
+Reduces HTT mRNA and protein
+in the CNS and periphery
+Uniform lowering in key regions
+of the brain
+Highly selective
+Not effluxed
+
+PTC518 Drug Development Objectives
+68
+What is the
+Dose?
+01
+What is the
+Exposure?
+02
+What is the
+Level of HTT
+Reduction?
+03
+How to
+Demonstrate
+Clinical
+Benefit?
+04
+
+Risdiplam PTC518 PTC-XXX
+69
+Molecules are designed to match a unique pre-mRNA/U1 interface
+and serve as molecular glue to help initiate splicing events
+Canonical duplex SMN2 HTT And the next one….
+The Splicing Platform Has Proven to be a Robust Engine
+to Identify Development Candidates
+
+Questions?
+70

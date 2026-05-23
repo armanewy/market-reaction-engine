@@ -1,0 +1,193 @@
+EX-99.1
+2
+ex991pressrelease1102022.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Denali Therapeutics Announces Progression and Expansion of Broad Therapeutic Portfolio for Neurodegeneration and Expected Key Milestones in 2022
+
+•Key data readouts to include additional Phase 1/2 data on DNL310 (ETV:IDS) in MPS II (Hunter syndrome) and the first clinical data on DNL919 (ATV:TREM2), both potentially further validating Denali’s Transport Vehicle (TV) platform; in addition, first Phase 1b data in ALS on DNL343, Denali’s small molecule eIF2B activator
+
+•Commencing late-stage clinical trials designed to potentially support registration for DNL310 (ETV:IDS) in MPS II and LRRK2 inhibitor BIIB122 (DNL151) in Parkinson’s disease
+
+•RIPK1 inhibitors partnered with Sanofi advancing with multiple Phase 2 clinical trials, including SAR443820 (DNL788) in ALS and SAR443122 (DNL758) in cutaneous lupus erythematosus (CLE), with additional indications planned
+
+•Announcing Takeda has exercised its option to co-develop and co-commercialize DNL919 (ATV:TREM2) in Alzheimer’s disease making this the second TV-enabled program partnered with Takeda in addition to DNL593 (PTV:PGRN) in frontotemporal dementia-granulin (FTD-GRN)
+
+•Announcing new data that further expands the scope of the TV platform, including the first nonhuman primate data with Oligonucleotide Transport Vehicle (OTV), preclinical biomarker data with the second Enzyme Transport Vehicle (ETV) program, DNL126 (ETV:SGSH), and bispecific ATV:HER2 with improved preclinical efficacy and brain uptake as compared to non-ATV HER2 antibodies
+
+SOUTH SAN FRANCISCO, Calif., Jan. 10, 2022 -- Denali Therapeutics Inc. (NASDAQ: DNLI), a biopharmaceutical company developing a broad portfolio of product candidates engineered to cross the blood-brain barrier (BBB) for neurodegenerative diseases, today announced program progress and expected milestones for 2022, which Chief Executive Officer, Ryan Watts, Ph.D., will highlight during a corporate presentation at the 40th Annual J.P. Morgan Healthcare Conference on Tuesday, January 11, at 11:15 a.m. Eastern Time.
+
+“We are looking forward to a high impact year in 2022, having accomplished several clinical and regulatory milestones in 2021 as well as further validation of our TV platform for delivery of biotherapeutics to the brain,” said Dr. Watts. “We are well positioned to deliver in 2022 with our dedicated team, our BBB-crossing platforms and our diversified portfolio of Denali owned and strategically partnered assets. We continue to build our clinical manufacturing and commercial capabilities as well as expand our global footprint. This is an exciting time at Denali as we make progress towards our goal of delivering life-changing medicines to people living with neurodegenerative diseases.”
+
+Denali’s 2022 Outlook
+
+Denali’s therapeutic portfolio includes small molecules designed to cross the BBB and biotherapeutics that are enabled to cross the BBB using Denali’s TV technology. Expected progress and key milestones in 2022 across Denali’s therapeutic portfolio are summarized below.
+
+1
+
+DNL310 (ETV:IDS): Phase 2/3 trial for MPS II (Hunter syndrome) to begin patient dosing in 1H 2022
+
+Denali’s lead TV-enabled program is DNL310 (ETV:IDS) in MPS II (Hunter syndrome), a rare lysosomal storage disease caused by deficient or missing activity of the lysosomal enzyme iduronate-2-sulfatase (IDS). Current enzyme replacement therapy (ERT) partially addresses physical manifestations of MPS II but does not address neurocognitive manifestations of the disease. As previously announced, data from an ongoing Phase 1/2 trial of DNL310 demonstrated normalization of heparan sulfate levels in cerebrospinal fluid, improved peripheral activity after switching from standard of care, and a safety profile consistent with standard of care ERT. Based on the strength of the Phase 1/2 data, Denali plans to begin dosing of MPS II patients in a potentially registrational Phase 2/3 trial in the first half of 2022. Denali will present more details on the Phase 2/3 trial design and additional data from the ongoing Phase 1/2 trial at the upcoming WORLDSymposiumTM on lysosomal diseases, February 7-11, 2022. Phase 1/2 data to be presented will include safety data of up to 56 and 39 weeks in Cohorts A (n=5) and B (n=12) and biomarker data of up to 12 and 6 months in Cohorts A and B, respectively, with a focus on durability of heparan sulfate and lysosomal biomarker response. In addition, 6-month global impression of change clinical data across Cohorts A and B (n=17) will be presented.
+
+BIIB122/DNL151 (LRRK2 inhibitor): Late-stage trials in Parkinson’s disease
+
+Denali and Biogen are collaborating to co-develop and co-commercialize Denali’s small molecule inhibitors of leucine-rich repeat kinase 2 (LRRK2) for Parkinson’s disease (PD). Inhibition of LRRK2 may have the ability to restore impaired lysosomal function, which is implicated in PD pathology and disease progression. BIIB122 (DNL151) is the most clinically advanced small molecule inhibitor of LRRK2 currently in clinical testing for PD. As previously announced, results from Phase 1 and Phase 1b trials of BIIB122 in healthy volunteers and patients with PD, respectively, showed robust target and pathway engagement as measured by pS935 LRRK2 and pT73 Rab10 (pRab10), respectively. In addition, a dose-dependent reduction in urine of the lysosomal lipid 22:6-bis[monoacylglycerol] phosphate (BMP), a biomarker of lysosomal function, was achieved with BIIB122 treatment, providing peripheral evidence supporting improvement of lysosomal function. BIIB122 was generally well tolerated across a broad range of doses for up to 28 days, the longest treatment duration in both studies.
+
+Based on the strength of the Phase 1/1b data, start-up activities are ongoing for two late-stage trials of BIIB122 in PD for which Biogen will lead operational execution. The LIGHTHOUSE Study is a global Phase 3 trial expected to enroll approximately 400 PD participants with LRRK2 mutations. The LUMA Study is a global Phase 2b trial expected to enroll approximately 640 participants with PD who do not carry a LRRK2 mutation and is designed to potentially support registration of BIIB122. Minimum treatment periods are 96 weeks and 48 weeks in the LIGHTHOUSE and LUMA studies, respectively, and the primary endpoint of both trials will be assessed using the Movement Disorder Society-Sponsored Revision of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS). In collaboration with Centogene, progress in identification of PD patients who carry a mutation in LRRK2 include patients from The Rostock International Parkinson's Disease (ROPAD) Study, which was extended after having reached a significant milestone of 10,000 participants in May 2021.
+
+SAR443820/DNL788 and SAR443122/DNL758 (RIPK1 inhibitors): Phase 2 trials in neurodegenerative and peripheral inflammatory diseases
+
+Denali and Sanofi are collaborating on the development of small molecules that inhibit receptor interacting serine/threonine protein kinase 1 (RIPK1). RIPK1 is a critical signaling protein in the tumor necrosis factor (TNF) receptor pathway and is a regulator of inflammation and cell death. In 2021, Sanofi completed a Phase 1 trial of the brain-penetrant RIPK1 inhibitor SAR443820 (DNL788) in which robust target engagement was demonstrated at doses that were generally well tolerated. Based on these results, Sanofi decided to initiate a Phase 2 trial named HIMALAYA, in participants with amyotrophic lateral sclerosis (ALS). HIMALAYA is a multi-center, randomized, double-blind, placebo-controlled trial, followed by an open-label long-term extension, to evaluate the efficacy and safety of SAR443820. Sanofi also plans to initiate a Phase 2 trial of SAR443820 in multiple sclerosis. In addition, Denali is leading preclinical exploration of SAR443820 as a potential treatment for Alzheimer’s disease (AD). The collaboration with Sanofi also includes the peripherally-restricted RIPK1 inhibitor SAR443122 (DNL758), which is currently being evaluated in a Phase 2 trial in patients with cutaneous lupus erythematosus (CLE). Furthermore, Sanofi plans to initiate a Phase 2 trial of SAR443122 in patients with ulcerative colitis.
+
+2
+
+DNL343 (eIF2B activator): Phase 1b safety and biomarker data in ALS expected in mid 2022
+
+Denali is developing DNL343 as a novel eIF2B activator with first-in-class potential for the treatment of ALS. DNL343 is designed to inhibit the cellular integrated stress response (ISR) to prevent or slow disease progression that is associated with stress granule formation and TDP-43 aggregation, a hallmark pathology present in nearly all individuals with ALS. As previously announced, results from a Phase 1 study in healthy volunteers showed that DNL343 was generally well tolerated for up to 14 days of dosing, with robust distribution in the central nervous system. Furthermore, biomarker assessments of DNL343 treatment confirmed ISR pathway engagement, demonstrating modulation of ISR-dependent genes and proteins in a dose-dependent manner. A Phase 1b multicenter, randomized, placebo-controlled, double-blind, 28-day trial followed by an 18-month open-label extension, designed to evaluate the safety, pharmacokinetics and pharmacodynamics of DNL343 in approximately 30 participants with ALS commenced dosing in the third quarter of 2021. Denali expects that safety and biomarker results from the Phase 1b trial will be available in mid 2022, which will enable a decision to advance to late-stage development of DNL343 in ALS.
+
+DNL919 (ATV:TREM2): Advancing into first-in-human trials with safety and biomarker data expected in 2H 2022
+
+DNL919 (ATV:TREM2) is an Antibody Transport Vehicle (ATV) designed to activate TREM2 (ATV:TREM2) and improve microglial function. TREM2 is a receptor expressed on microglia, the resident immune cells of the brain. Loss of function TREM2 genetic mutations are strongly associated with an increased risk for AD. Animal model data demonstrate enhanced brain uptake with DNL919 as compared to a non-ATV TREM2 antibody and improved pharmacodynamic response. Today, Denali announced that Takeda exercised its option in December 2021 to co-develop and co-commercialize DNL919 for the treatment of AD. Denali submitted an investigational new drug (IND) application for DNL919 with the U.S. Food and Drug Administration (FDA) and, pending its acceptance, will initiate first-in-human clinical trials of DNL919 in the first half of 2022. Denali expects that human safety and biomarker data will be available in the second half of 2022, including the effects of DNL919 treatment on colony stimulating factor 1 receptor (CSF1R) in cerebrospinal fluid, a key indicator of TREM2 pathway engagement in the brain.
+
+DNL593 (PTV:PGRN): Advancing into first-in-human trials
+
+DNL593 (PTV:PGRN) is an intravenously administered, Protein Transport Vehicle (PTV)-enabled recombinant progranulin (PTV:PGRN) protein designed to restore normal levels of progranulin (PGRN) in the brain without interfering with normal PGRN transport and processing. Mutations in the granulin (GRN) gene, which encodes the PGRN protein, result in reduced levels of PGRN and are a major cause of frontotemporal dementia (FTD). In November 2021, Denali announced that Takeda exercised its option to co-develop and co-commercialize DNL593 for the potential treatment of frontotemporal dementia-granulin (FTD-GRN). Denali submitted a clinical trial application (CTA) in the United Kingdom and, pending its acceptance, will initiate first-in-human clinical trials of DNL593 in mid-2022. Preclinical proof of concept was published in Cell, demonstrating that PTV enhances brain uptake of recombinant PGRN as well as uptake by multiple cell types in the brain, including neurons and microglia, as compared to non-TV PGRN. In addition, DNL593 rescued both neurodegeneration and microglial dysfunction in PGRN-deficient mice. This research supports the potential utility of DNL593 in treating certain types of FTD, especially FTD-GRN caused by PGRN deficiency.
+
+Oligonucleotide TV (OTV): First nonhuman primate data further validates TV platform for brain delivery of oligonucleotides
+
+Today, Denali announced the first nonhuman primate data with its Oligonucleotide Transport Vehicle (OTV) demonstrating intravenous delivery of an antisense oligonucleotide (ASO) enabled by OTV technology resulted in broad brain biodistribution of the ASO and knockdown of target gene expression in all brain cell types. Oligonucleotides, such as ASOs, are a novel class of biotherapeutics that has been limited in its potential for treatments for neurodegenerative diseases due to the challenge of delivering effective amounts to relevant brain regions. Even direct injection into the cerebrospinal fluid (e.g., intrathecal injection) or certain brain regions has not achieved the robust biodistribution into deep brain tissue, which may be necessary for effective therapeutic activity. The nonhuman primate data also demonstrates superior brain biodistribution and knockdown of target gene expression after intravenous administration of an ASO using OTV as compared to intrathecal administration of the ASO. These data support the potential of the OTV platform to enable peripheral administration of oligonucleotide therapeutics and address a wide range of neurodegenerative diseases.
+
+3
+
+DNL126 (ETV:SGSH): Announcing first preclinical biomarker data supporting development in MPS IIIA and further validating the Enzyme Transport Vehicle (ETV)
+
+DNL126 (ETV:SGSH) is Denali’s second most advanced Enzyme Transport Vehicle (ETV) program following DNL310 (ETV:IDS). DNL126 is in development for the potential treatment of MPS IIIA (Sanfilippo syndrome A), a rare lysosomal storage disease that causes fatal brain damage. MPS IIIA is caused by genetic defects that result in a reduction in the lysosomal activity of N-sulfoglucosamine sulfohydrolase (SGSH), an enzyme responsible for degrading heparan sulfates in the lysosome. There are no approved treatments for MPS IIIA. Today, Denali announced new preclinical data demonstrating that DNL126 reduces heparan sulfate in a dose-dependent manner in brain and cerebrospinal fluid in an MPS IIIA model. Submission of an IND application is planned for the first half of 2023.
+
+Bispecific ATV:HER2: Expanding the TV platform with potential applications in oncology
+
+HER2 is a growth factor receptor that is over-expressed in multiple cancers, including breast, colorectal, and gastric cancer. Up to half of patients diagnosed with metastatic HER2-positive breast cancer have brain metastases for which limited treatment options exist. Using its Antibody Transport Vehicle (ATV), Denali has engineered mono- and bispecific formats of HER2 antibodies (ATV:HER2). Denali previously presented data demonstrating improved anti-tumor activity of ATV-enabled HER2 antibodies in a HER2-positive peripheral tumor model. Today, Denali announced new preclinical data with a bispecific ATV:HER2 antibody demonstrating improved peripheral anti-tumor activity as compared to non-ATV HER2 antibodies as well as enhanced brain uptake of the bispecific ATV:HER2 as compared to a non-ATV HER2 antibody. The data support the potential for ATV:HER2 to treat HER2-positive peripheral tumors and brain metastases and further validate the potential for TV applications in oncology.
+
+Expected 2022 Key Milestones for Denali-Led Programs
+
+Program
+
+Milestone
+
+Timing
+
+DNL310 (ETV:IDS)
+
+•Additional Phase 1/2 data in MPS II
+
+•Initiate dosing in Phase 2/3 trial in MPS II
+
+Q1 2022
+
+1H 2022
+
+DNL343 (eIF2B activator)
+
+•Phase 1b 28-day safety/biomarker data in ALS
+
+Mid 2022
+
+DNL919 (ATV:TREM2)
+
+•Initiate dosing in first-in-human trials
+
+•Safety/biomarker data
+
+1H 2022
+
+2H 2022
+
+DNL593 (PTV:PGRN)
+
+•Initiate dosing in first-in-human trials
+
+Mid 2022
+
+Expected 2022 Key Milestones for Partner-Led Programs
+
+Program
+
+Milestone
+
+Strategic Partner
+
+BIIB122/DNL151
+(LRRK2 inhibitor)
+
+•Initiate dosing in Phase 3 LIGHTHOUSE Study in LRRK2-positive PD
+
+•Initiate dosing in Phase 2b LUMA Study in idiopathic PD
+
+Biogen
+
+SAR443820/DNL788
+(brain-penetrant RIPK1 inhibitor)
+
+•Initiate dosing in Phase 2 HIMALAYA trial in ALS
+
+Sanofi
+
+SAR443122/DNL758
+(peripherally-restricted RIPK1 inhibitor)
+
+•Continue enrollment in Phase 2 trial in CLE
+
+Sanofi
+
+Webcast and slide deck for Denali’s corporate presentation at the J.P. Morgan Healthcare Conference
+
+A webcast of Dr. Watts’ presentation during the J.P. Morgan Conference as well as a PDF of the related slide deck will be available on the Events page under the Investor section of the Denali’s website at https://www.denalitherapeutics.com/investors/events. An archived replay of the presentation will be available for approximately 30 days following the event.
+
+4
+
+About Denali’s TV Platform
+
+The BBB is essential in maintaining the brain’s microenvironment and protecting it from harmful substances and pathogens circulating in the bloodstream. Historically, the BBB has posed significant challenges to drug development for CNS diseases by preventing most drugs from reaching the brain in therapeutically relevant concentrations. Denali’s Transport Vehicle (TV) platform is a proprietary technology designed to effectively deliver large therapeutic molecules such as antibodies, enzymes, proteins, and oligonucleotides across the BBB after intravenous administration. The TV technology is based on engineered Fc fragments that bind to specific natural transport receptors, such as transferrin receptor, which are expressed at the BBB and deliver TV and its therapeutic cargo to the brain through receptor-mediated transcytosis. In animal models, antibodies and enzymes engineered to the TV technology demonstrate more than 10- to 30-fold greater brain exposure than similar antibodies and enzymes without this technology. Improved exposure and broad distribution in the brain may increase therapeutic efficacy by enabling widespread achievement of therapeutically relevant concentrations of product candidates.
+
+About Denali Therapeutics
+
+Denali Therapeutics is a biopharmaceutical company developing a broad portfolio of product candidates engineered to cross the blood-brain barrier (BBB) for neurodegenerative diseases. Denali pursues new treatments by rigorously assessing genetically validated targets, engineering delivery across the BBB and guiding development through biomarkers that demonstrate target and pathway engagement. Denali is based in South San Francisco. For additional information, please visit www.denalitherapeutics.com.
+
+5
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements expressed or implied in this press release include, but are not limited to, statements regarding Denali's business strategy, business plans, expected progress and key milestones for Denali’s therapeutic portfolio in 2022; expectations relating to the potential for Denali’s product candidates to treat various neurodegenerative diseases including MPS II (Hunter Syndrome), ALS, PD, AD, FTD-GRN, MPS IIIA (Sanfilippo syndrome A) and related peripheral inflammatory diseases; planned preclinical studies and clinical trials relating to the pipeline of product candidates; expectations regarding the timing of results and data from such studies and trials; timelines and expectations relating to Denali’s Transport Vehicle (TV) platform, including its Antibody Transport Vehicle (ATV), Protein Transport Vehicle (PTV), Oligonucleotide TV (OTV) and Enzyme Transport Vehicle (ETV) technologies; plans, timelines and expectations relating to the Phase 1/2 and future Phase 2/3 trials of DNL310; plans, timelines and expectations regarding the Phase 1b trial of DNL343; plans, timelines and expectations relating to the Biogen-led development of LRRK2 inhibitor DNL151, including start-up activities relating to a global Phase 2b trial and global Phase 3 trial; plans, timelines and expectations relating to the Sanofi-led development of DNL788, including Phase 2 trials in ALS and multiple sclerosis and preclinical exploration of potential treatment of AD; plans, timelines and expectations relating to the Sanofi-led development of DNL758, including current and expected Phase 2 trials in CLE and ulcerative colitis, respectively; plans, timelines and expectations relating to the development of DNL919, including plans to initiate first in-human trials; plans, timelines and expectations relating to the development of DNL593, including plans to initiate first in-human trials; plans, timelines and expectations relating to DNL126 and its potential to treat MPS IIIA; plans, timelines and expectations relating to ATV:HER2 and its potential to treat HER2-positive peripheral tumors and brain metastases in multiple cancer types; plans and expectations with respect to Denali’s collaborations with Biogen, Sanofi and Takeda; and statements made by Denali’s Chief Executive Officer. Actual results are subject to risks and uncertainties and may differ materially from those indicated by these forward-looking statements as a result of these risks and uncertainties, including but not limited to, risks related to: any and all risks to Denali’s business and operations caused directly or indirectly by the evolving COVID-19 pandemic; risk of the occurrence of any event, change or other circumstance that could give rise to the termination of Denali’s agreements with its collaborators; Denali’s early stages of clinical drug development; Denali’s and its collaborators’ ability to complete the development and, if approved, commercialization of its product candidates; Denali’s and its collaborators’ ability to enroll patients in its ongoing and future clinical trials; Denali’s reliance on third parties for the manufacture and supply of its product candidates for clinical trials; Denali’s dependence on successful development of its blood-brain barrier platform technology and its programs and product candidates; Denali’s and its collaborators’ ability to conduct or complete clinical trials on expected timelines; the risk of significant adverse events, toxicities or other undesirable side effects; the risk that preclinical profiles of Denali’s product candidates may not translate in clinical trials; the potential for clinical trials of Denali’s product candidates to differ from preclinical, early clinical, preliminary or expected results; the uncertainty that product candidates will receive regulatory approval necessary to be commercialized; Denali’s ability to continue to create a pipeline of product candidates or develop commercially successful products; Denali's ability to attract, motivate and retain qualified managerial, scientific and medical personnel; developments relating to Denali’s competitors and its industry, including competing product candidates and therapies; Denali’s ability to obtain, maintain, or protect intellectual property rights related to its product candidates; implementation of Denali’s strategic plans for its business, product candidates and blood-brain barrier platform technology; Denali’s ability to obtain additional capital to finance its operations, as needed; Denali’s ability to accurately forecast future financial results in the current environment; general economic and market conditions; and other risks and uncertainties. In light of these risks, uncertainties and assumptions, the forward-looking statements in this press release are inherently uncertain and may not occur, and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. Accordingly, you should not rely upon forward-looking statements as predictions of future events. Information regarding risks and uncertainties may be found in Denali’s Annual and Quarterly Reports filed on Forms 10-K and 10-Q filed with the Securities and Exchange Commission (SEC) on February 26, 2021, and November 4, 2021, respectively, and Denali’s future reports to be filed with the SEC. Denali does not undertake any obligation to update or revise any forward-looking statements, to conform these statements to actual results or to make changes in Denali’s expectations, except as required by law.
+
+6
+
+Investor Relations Contact:
+
+Laura Hansen, Ph.D.
+
+Vice President, Investor Relations
+
+(650) 452-2747
+
+hansen@dnli.com
+
+Media Contacts:
+
+Lizzie Hyland
+
+(646) 495-2706
+
+lhyland@gpg.com
+
+or
+
+Morgan Warners
+
+(202) 295-0124
+
+mwarners@gpg.com
+
+7

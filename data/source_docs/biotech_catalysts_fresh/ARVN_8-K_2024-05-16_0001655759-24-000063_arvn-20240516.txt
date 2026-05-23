@@ -1,0 +1,204 @@
+arvn-20240516
+0001655759FALSE00016557592024-05-162024-05-16
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 16, 2024
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01 Regulation FD Disclosure.
+
+On May 16, 2024, Arvinas, Inc. (the “Company”), along with Pfizer, Inc. ("Pfizer"), announced updated clinical data from a Phase 1b clinical trial combination cohort evaluating vepdegestrant in combination with palbociclib (IBRANCE®). Vepdegestrant is an investigational oral PROteolysis TArgeting Chimera ("PROTAC®") estrogen receptor ("ER") degrader designed to harness the body’s natural protein disposal system to specifically target and degrade the ER and is being co-developed by the Company and Pfizer.
+
+These updated data (data cutoff of December 18, 2023) were presented at the 2024 European Society for Medical Oncology ("ESMO") Breast Cancer Annual Congress and represent six months of additional follow-up from data (data cutoff of June 6, 2023) presented in December 2023 at the San Antonio Breast Cancer Symposium ("SABCS"). After six months of additional follow-up, these data presented at the 2024 ESMO Breast Cancer Annual Congress are consistent with data presented at SABCS and show that vepdegestrant in combination with palbociclib continue to demonstrate encouraging clinical activity in heavily pre-treated patients with a median of four lines of prior therapy with locally advanced or metastatic ER positive ("ER+")/human epidermal growth factor 2 ("HER2") negative ("ER+/HER2-") breast cancer. Specifically, after six months of additional follow-up, clinical benefit rate (63%), overall response rate (41.9%), median progression-free survival (11.2 months), and safety profile of vepdegestrant in combination with palbociclib were consistent with data previously reported at SABCS in December 2023.
+
+A copy of the press release is attached as Exhibits 99.1 to this Current Report on Form 8-K and is incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibit 99.1 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01. Other Events.
+
+On May 16, 2024, the Company along with Pfizer announced updated clinical data from a Phase 1b clinical trial combination cohort evaluating vepdegestrant in combination with palbociclib (IBRANCE®). Vepdegestrant is an investigational PROTAC ER degrader designed to harness the body’s natural protein disposal system to specifically target and degrade the ER and is being co-developed by the Company and Pfizer.
+
+These updated data (data cutoff of December 18, 2023) were presented at the 2024 ESMO Breast Cancer Annual Congress and represent six months of additional follow-up from data (data cutoff of June 6, 2023) presented in December 2023 at SABCS. After six months of additional follow-up, updated data presented at the 2024 ESMO Breast Cancer Annual Congress are consistent with data presented at SABCS and show that vepdegestrant in combination with palbociclib continue to demonstrate encouraging clinical activity in heavily pre-treated patients with a median of four lines of prior therapy with locally advanced or metastatic ER+/HER2- breast cancer. Specifically, after six months of additional follow-up, clinical benefit rate (63%), overall response rate (41.9%), median progression-free survival (11.2 months), and safety profile of vepdegestrant in combination with palbociclib were consistent with data previously reported at SABCS in December 2023. In addition, at the recommended Phase 3 dose of 200 mg vepdegestrant in combination with palbociclib, patients achieved a median progression-free survival of 13.9 months (95% CI: 8.1-NR). Further, across all vepdegestrant dose groups, circulating tumor DNA analyses showed marked reduction in tumor fraction after one treatment cycle, regardless of ESR1 gene mutation status, and at the 200 mg vepdegestrant dose, robust on-treatment decreases in mutant ESR1 circulating tumor DNA were sustained through multiple treatment cycles.
+
+The Phase 1b cohort of the ARV-471-mBC-101 study (NCT04072952) is designed to assess the safety, tolerability, and anti-tumor activity of vepdegestrant in combination with palbociclib among 46 patients with heavily pre-treated locally advanced or metastatic ER+/HER2- breast cancer. Patients in the study received a median of four prior therapies (median of three in the metastatic setting); 87% were previously treated with a cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitor; 80% were previously treated with fulvestrant; and 78% were previously treated with chemotherapy, including 48% in the metastatic setting.
+
+Patients were treated once daily with oral doses of vepdegestrant at 180 mg (n=2), the recommended Phase 3 dose (RP3D) of 200 mg (n=21), 400 mg (n=3) or 500 mg (n=20), plus 125 mg of palbociclib given orally once daily for 21 days, followed by seven days off treatment in 28-day cycles. Initial data were presented at SABCS 2023 based on a data cutoff of June 6, 2023.
+
+Detailed data presented at the 2024 ESMO Breast Cancer Annual Congress included:
+
+Clinical Benefit Rate ("CBR"):
+
+•CBR, defined as the rate of confirmed complete response, partial response, or stable disease ≥24 weeks across all dose levels (n = 46) was 63% (95% CI: 47.5 - 76.8), with a CBR of 72% in patients with mutant ESR1 (n=29; 95% CI: 52.8 - 87.3) and a CBR of 53% in patients with wild-type ESR1 (n=15; 95% CI: 26.6 – 78.7).
+
+•CBR in patients dosed at the RP3D of 200 mg (n=21) was 67% (95% CI: 43.0 - 85.4) with a CBR of 79% in patients with mutant ESR1 (n=14; 95% CI: 49.2 - 95.3) and a CBR of 43% in patients with wild-type ESR1 (n=7; 95% CI: 9.9 - 81.6).
+
+Objective Response Rate ("ORR") and Duration of Response ("DOR"):
+
+•The ORR in evaluable patients with measurable disease at baseline (n=31) was 42% (95% CI: 24.5 - 60.9) with a median DOR in 13 responders of 14.6 months (95% CI: 9.5 – not reached). At the RP3D of 200 mg (n=15), the ORR was 53% (95% CI: 25.6 – 78.7).
+
+◦ORR in patients with mutant ESR1 (n=17): 47% (95% CI: 23.0 - 72.2).
+
+▪ORR at the RP3D of 200 mg (n=10): 60% (95% CI: 26.2 - 87.8).
+
+◦ORR in patients with wild-type ESR1 (n=12): 42% (95% CI: 15.2 - 72.3).
+
+▪ORR at the RP3D of 200 mg (n=5): 40% (95% CI: 5.3 - 85.3).
+
+Progression-free Survival ("PFS"):
+
+•Median PFS (mPFS) based on 27 (59%) events across all dose levels was 11.2 months (95% CI: 8.2 – 16.5) with a mPFS of 13.7 months (95% CI: 8.2 - NR) in patients with ESR1 mutation (n=29) and mPFS of 11.1 months (95% CI: 2.8 - 19.3) in patients with wild-type ESR1 (n=15).
+
+•mPFS in patients dosed at the RP3D of 200 mg (n=21) based on 12 events (57%) was 13.9 months (95% CI: 8.1 - NR) with a mPFS of 13.9 months (95% CI: 8.1 - NR) in patients with ESR1 mutation (n=14) and mPFS of 11.2 months (95% CI: 1.8 - NR) in patients with wild-type ESR1 (n=7).
+
+Circulating Tumor DNA ("ctDNA"):
+
+•Exploratory ctDNA analyses found marked reduction (median change, −98.9%) in tumor fraction after one treatment cycle (all dose groups) regardless of ESR1 mutant status and robust on-treatment decreases in mutant ESR1 ctDNA levels sustained through cycle 7 (evaluated in patients in 200 mg dose cohort), as presented in the poster session.
+
+Safety Profile:
+
+•The safety profile of vepdegestrant plus palbociclib was consistent with what was previously reported with Grade 3/4 treatment-related adverse events (TRAEs) ≥10% of neutropenia (91%) and decreased white blood cell count (15%); no grade 5 TRAEs or febrile neutropenia were reported.
+
+•The majority of Grade 4 neutropenia events occurred in the first cycle of treatment and occurrences of Grade 3/4 neutropenia decreased following palbociclib dose reductions as described in the prescribing label.
+
+•The safety profile of vepdegestrant in combination with palbociclib was otherwise consistent with the profile of palbociclib and what has been observed in other clinical trials for vepdegestrant. Three of 46 patients discontinued palbociclib due to neutropenia including one out of 21 patients treated with the RP3D of vepdegestrant (200 mg) plus palbociclib 125 mg.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated May 16, 2024
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: May 16, 2024
+
+By:
+
+/s/ Randy Teel
+
+Randy Teel
+
+Interim Chief Financial Officer

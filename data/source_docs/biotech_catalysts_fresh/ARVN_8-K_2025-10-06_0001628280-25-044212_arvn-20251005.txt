@@ -1,0 +1,180 @@
+arvn-20251005
+0001655759FALSE00016557592025-10-052025-10-05
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 5, 2025
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01 Regulation FD Disclosure
+
+On October 5, 2025, Arvinas, Inc. (the “Company”) announced the presentation of late breaking, positive Phase 1 clinical trial data for ARV-102, a PROteolysis TArgeting Chimera ("PROTAC") leucine-rich repeat kinase 2 ("LRRK2") degrader at at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.
+
+The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibit 99.1 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01 Other Events.
+
+On October 5, 2025, the Company announced the presentation of late breaking, positive Phase 1 clinical trial data for ARV-102, a PROTAC LRRK2 degrader at at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®. The Company presented data from two clinical trials: ARV-102-101, a first-in-human trial of ARV-102 in healthy volunteers, and ARV-102-103, a trial in patients with Parkinson’s disease. Key findings from the clinical trials include:
+
+Data from a Phase 1 Single Ascending Dose and Multiple Ascending Dose Clinical Trial in Healthy Volunteers
+
+•Safety: ARV-102 was generally well tolerated at single doses up to 200 mg and multiple daily doses up to 80 mg, with no discontinuations due to adverse events ("AEs") or serious adverse events ("SAEs") observed in the study population.
+
+•Pharmacokinetics: ARV-102 exposure increased in a dose-dependent manner in plasma and cerebrospinal fluid ("CSF"), the latter indicating brain penetration.
+
+•Pharmacodynamics: Repeated daily doses ≥20 mg resulted in >90% reductions of LRRK2 protein in peripheral blood mononuclear cells ("PBMCs") and >50% reductions in CSF.
+
+•Pathway Biomarkers: Repeated daily doses of ARV-102 resulted in reduced plasma concentrations of phospho-Rab10T73 and urine concentrations of bis(monoacylglycerol)phosphate ("BMP"), a sensitive biomarker for modulation of the lysosomal pathway downstream of LRRK2.
+
+Interim Single Ascending Dose Data from a Phase 1 Clinical Trial in Patients with Parkinson’s Disease and CSF Proteomic Data from a Phase 1 Trial in Healthy Volunteers
+
+•Safety: The Phase 1 clinical trial in patients with Parkinson’s included 15 patients treated with ARV-102 and 4 patients treated with placebo. In the trial, single doses of ARV-102 (50 mg or 200 mg) were well tolerated with only mild treatment-related AEs including headache, diarrhea, and nausea; no SAEs occurred.
+
+•Pharmacokinetics: In patients with Parkinson’s disease, ARV-102 exposure increased in a dose-dependent manner in both plasma and CSF, the latter indicating brain penetration.
+
+•Pharmacodynamics: In patients with Parkinson’s disease, treatment with ARV-102 resulted in median PBMC LRRK2 protein reductions of 86% with the 50 mg dose and 97% with the 200 mg dose.
+
+•CSF Proteomics: In healthy volunteers treated with ARV-102 80 mg once daily for 14 days, unbiased proteomic analyses of CSF showed significant decreases in lysosomal pathway markers and neuroinflammatory microglial markers previously shown to be elevated in patients with Parkinson's disease harboring LRRK2 variants.
+
+The Company believes these data highlight the potential PROTAC-mediated LRRK2 degradation, which supports the intensified development of ARV-102 in ongoing studies of patients with Parkinson’s disease, and future studies of patients with progressive supranuclear palsy. The Company plans to present initial data from a multiple dose cohort of the Phase 1 clinical trial of ARV-102 in patients with Parkinson’s disease (ARV-102-103) in 2026. Pending data from the multiple
+
+dose cohort and investigational new drug clearance, the Company intends to initiate a Phase 1b clinical trial of ARV-102 in patients with progressive supranuclear palsy in the first half of 2026.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the Company's belief that these data highlight the potential PROTAC-mediated LRRK2 degradation, which supports the intensified development of ARV-102 in ongoing studies of patients with Parkinson’s disease, and future studies of patients with progressive supranuclear palsy; the Company's plans to present initial data from a multiple dose cohort of the Phase 1 clinical trial of trial in patients with Parkinson’s disease (ARV-102-103), and the timing thereof; and the Company's intention, pending data from the multiple dose cohort and investigational new drug clearance, to initiate a Phase 1b trial in patients with progressive supranuclear palsy, and the timing thereof. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words "believe," "intends," "plans," "potential,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on such forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including the important factors discussed the important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+Item 9.01 Financial Statements and Exhibits.
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated October 5, 2025
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: October 6, 2025
+
+By:
+
+/s/ Andrew Saik
+
+Andrew Saik
+
+Chief Financial Officer

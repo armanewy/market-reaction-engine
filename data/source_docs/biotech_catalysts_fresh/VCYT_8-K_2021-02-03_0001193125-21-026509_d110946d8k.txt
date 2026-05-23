@@ -1,0 +1,321 @@
+8-K
+
+false 0001384101 0001384101 2021-02-02 2021-02-02
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 2, 2021
+
+ 
+
+ 
+
+VERACYTE, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-36156
+
+ 
+
+20-5455398
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+Commission
+
+File Number
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+6000 Shoreline Court, Suite 300, South San Francisco, California
+
+ 
+
+94080
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (650) 243-6300
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☒
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value, $0.001 per share
+
+ 
+
+VCYT
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+Merger Agreement
+
+On February 2, 2021, Veracyte, Inc., a Delaware corporation (“Veracyte”), entered into an Agreement and Plan of Merger (“Merger Agreement”) with Delight Merger Sub I, Inc., a Delaware corporation and wholly owned subsidiary of Veracyte (“Delight Merger Sub I”), Delight Merger Sub II, LLC, a Delaware limited liability company and wholly owned subsidiary of Veracyte (“Delight Merger Sub II”), Decipher Biosciences, Inc., a Delaware corporation (“Decipher”), and Fortis Advisors LLC, solely in its capacity as the stockholders’ agent. Decipher is a commercial-stage precision oncology company, with a focus in urologic oncology specific to prostate and bladder cancers.
+
+Pursuant to the terms of the Merger Agreement, Delight Merger Sub I will merge with and into Decipher and Decipher shall survive and become a wholly owned subsidiary of Veracyte (the “First Merger”). Promptly following consummation of the First Merger, Decipher will merge with and into Delight Merger Sub II, with Merger Sub II surviving as a wholly owned subsidiary of Veracyte (together, the “Merger”).
+
+Under terms of the Merger Agreement, Decipher Biosciences will become a wholly owned subsidiary of Veracyte. At the effective time of the Merger (the “Closing”), Veracyte will pay $600 million to Decipher security holders, consisting of $250 million in cash and $350 million in stock consideration, subject to customary purchase price adjustments for cash, unpaid indebtedness, unpaid transaction expenses and the aggregate exercise prices of all Decipher options. The number of Veracyte shares issued at the Closing shall be based on an agreed price of $54.30 per share, resulting in a maximum issuance of 6.4 million common shares. However, without changing the total consideration paid at the Closing, Veracyte has the option, at its sole discretion, until no later than the earlier of March 15, 2021 and the fourth business day following the closing of any potential equity financing, to substitute cash in lieu of shares in any amount up to the entire stock portion of the consideration, or $350 million. Veracyte has agreed to register the stock consideration, if any, on a Registration Statement on Form S-4 to be filed by March 1, 2021
+
+The Merger Agreement contains customary representations, warranties, covenants and agreements of Decipher and Veracyte. The Closing is anticipated to occur by May 2021 and is subject to customary closing conditions, including approval by the Decipher stockholders and the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended. The Merger Agreement also provides customary termination rights to each of the parties.
+
+Tina S. Nova, Ph.D., the President and Chief Executive Officer of Decipher, was previously a member of Veracyte’s board of directors. In addition, Robert S. Epstein, MD MS is a member of each of the Veracyte and Decipher board of directors. In connection with Veracyte submitting a proposal to acquire Decipher, Dr. Nova and Dr. Epstein recused themselves from participating in the process for considering the proposal and all negotiations as directors of Veracyte, and in Dr. Epstein’s case, as a director of, Decipher, in order to avoid any appearance of a conflict of interest.
+
+The foregoing description of the Merger Agreement is included to provide you with information regarding its terms. It does not purport to be a complete description of the terms of the Merger Agreement and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which will be filed with Veracyte’s Quarterly Report on Form 10-Q for the fiscal quarter ending March 31, 2021, and as an exhibit to the Registration Statement on Form S-4 to be filed by Veracyte in connection with the Merger, if applicable.
+
+Stockholder Agreements
+
+Concurrently with the execution and delivery of the Merger Agreement, certain stockholders of Decipher, and certain of their affiliates have entered into stockholder agreements with Veracyte (the “Stockholder Agreements”), pursuant to which such persons and entities have agreed to vote their respective shares of capital stock of Decipher for the approval and adoption of the Merger Agreement, the Merger and the other transactions contemplated thereby, and against any alternative transactions.
+
+The persons and entities signing the Stockholder Agreements currently beneficially own an aggregate of approximately 73% of the outstanding Decipher capital stock, on an as-converted to common stock basis. A copy of the form of Stockholder Agreement will be filed as an exhibit to the Registration Statement on Form S-4 if filed by Veracyte in connection with the Merger.
+
+Press Release
+
+On February 3, 2021, Veracyte issued a press release announcing the execution of the Merger Agreement (the “Merger Press Release”). The Merger Press Release is being filed as Exhibit 99.1 to this Current Report on Form 8-K.
+
+ 
+
+Item 2.02.
+
+Results of Operations and Financial Condition.
+
+On February 3, 2021, Veracyte issued a press release furnished as Exhibit 99.2 to this Current Report on Form 8-K (the “Financial Announcement Press Release” and, together with the Merger Press Release, the “Press Releases”) that, among other things, announced certain preliminary financial and operating results for the fourth quarter and year ended December 31, 2020, including that Veracyte expects to report that it generated total revenue of between $34.0 million and $35.0 million, and that its product and testing volume was between 13,000 and 13,200 tests, in each case for the fourth quarter of 2020. Veracyte also expects to report total revenue of between $117.0 million and $118.0 million and product and testing volume of between 44,400 and 44,600 tests for the full year ended December 31, 2020. In addition, Veracyte expects to report cash and cash equivalents of between $345.0 million and $350.0 million as of December 31, 2020.
+
+Veracyte’s audited financial statements for the three months and year ended December 31, 2020 are not yet available. Accordingly, Veracyte’s preliminary revenue and cash information in the Financial Announcement Press Release is an estimate and subject to the completion of Veracyte’s financial closing procedures and any adjustments that may result from the completion of the audit of Veracyte’s financial statements. The preliminary revenue and cash information in the Financial Announcement Press Release may differ materially from the actual results that will be reflected in Veracyte’s audited financial statements when they are completed and publicly disclosed.
+
+The information in this Item 2.02 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(b)
+
+On February 2, 2021, and prior to the execution of the Merger Agreement, Dr. Nova resigned as a member of Veracyte’s board of directors, and any committees thereof. Dr. Nova’s resignation is not the result of any disagreement with Veracyte on any matter relating to its operations, policies or practices. Upon the closing of the Merger, Veracyte anticipates that Dr. Nova will serve as the general manger for its urologic cancers business unit.
+
+ 
+
+Item 7.01.
+
+Regulation FD.
+
+In the Merger Press Release, on February 3, 2021, Veracyte also announced certain financial and operating information for Decipher, including that Decipher generated total revenue of $12.1 million and $16.5 million for the years ended December 31, 2018 and 2019, respectively, and that its genomic testing volume was 10,655 and 11,538 for such periods, respectively.
+
+In addition, based on information provided by Decipher, Veracyte announced that for the three months ended December 31, 2020, on a preliminary, unaudited basis, Decipher’s total revenue was between $39.0 million and $40.0 million, including between $11.75 million and $12.25 million in the three months ended December 31, 2020 and its overall genomic testing volume for 2020 was between 15,500 and 16,500. Decipher’s revenue for the three months and year ended December 31, 2020, have not been audited and are subject to change in connection with the completion of Decipher’s financial statements for the year ended December 31, 2020.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K, including the Press Releases, contains “forward-looking” statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act which involve risks and uncertainties. These forward-looking statements include, but are not limited to, statements regarding the anticipated acquisition of Decipher; statements regarding the expected timing for completion of the transaction; statements related to the expected benefits of the proposed transaction, including but not limited to, the acceleration of Veracyte’s revenue and path to profitability, the accretiveness to Veracyte’s gross margin, and the expansion of Veracyte’s total addressable market opportunity; statements regarding Veracyte and Decipher’s total revenue and genomic test volume for 2020; and statements regarding the commercial launch of the Decipher Bladder test and Decipher’s kidney cancer test, the breadth and depth of Veracyte’s product offerings in cancer diagnostic testing, and the ability of Decipher GRID to augment Veracyte’s biorepositories. You can identify these statements by the use of terminology such as “believe”, “expect”, “will”, “should,” “could”, “estimate”, “anticipate” or similar forward-looking terms. You should not rely on these forward-looking statements as they involve risks and uncertainties that may cause actual results to vary materially from the forward-looking statements. Factors that might contribute to such differences include, among others, the possibility that the closing conditions to the proposed transaction may not be satisfied or waived, including that a governmental entity may not grant a required regulatory approval; delay in closing the transaction or the possibility of non-consummation of the transaction; the risk of stockholder litigation in connection with the contemplated transaction; the retention of Decipher employees and Veracyte’s ability to successfully integrate the Decipher business; risks inherent in the achievement of anticipated synergies and the timing thereof; and the finalization of Veracyte’s and Decipher’s financial results for the fourth quarter and full year 2020 and the audit of their respective 2020 financial statements. For more information regarding the risks and uncertainties that could cause actual results to differ materially from those expressed or implied in these forward-looking statements, as well as risks relating to Veracyte’s business in general, Veracyte refers you to the “Risk Factors” section of Veracyte’s Securities and Exchange Commission (“SEC”) filings, including Veracyte’s most recent Form 10-K and 10-Q, which are available on the Investor Relations page of Veracyte’s website at https://investor.veracyte.com/ and on the SEC website at www.sec.gov. The risks and uncertainties may be amplified by the COVID-19 pandemic, which has caused significant economic uncertainty. The extent to which the COVID-19 pandemic impacts Veracyte’s and Decipher Biosciences businesses, operations, and financial results, including the duration and magnitude of such effects, will depend on numerous factors, which are unpredictable, including, but not limited to, the duration and spread of the outbreak, its severity, the actions to contain the virus or treat its impact, and how quickly and to what extent normal economic and operating conditions can resume. Veracyte undertakes no obligation to update any of these forward-looking statements for any reason after the date of this communication or to conform these statements to actual results or revised expectations, except as required by law.
+
+No Offer or Solicitation
+
+This communication shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended.
+
+Important Additional Information May be Filed with the SEC
+
+Veracyte may file with the SEC a registration statement on Form S-4, which, if filed, will include a prospectus of Veracyte. INVESTORS ARE URGED TO CAREFULLY READ THE REGISTRATION STATEMENT AND OTHER RELEVANT DOCUMENTS IF FILED WITH THE SEC IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT VERACYTE, DECIPHER, THE PROPOSED TRANSACTION AND RELATED MATTERS. If filed, investors will be able to obtain free copies of the registration statement and other documents filed with the SEC through the website maintained by the SEC at www.sec.gov and on Veracyte’s website at https://investor.veracyte.com.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Exhibit Title or Description
+
+99.1
+
+  
+
+Press Release issued by Veracyte, dated February 3, 2021.
+
+99.2
+
+  
+
+Press Release issued by Veracyte, dated February 3, 2021.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: February 3, 2021
+
+ 
+
+ 
+
+ 
+
+VERACYTE, INC.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Keith Kennedy
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Keith Kennedy
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Financial Officer and Chief Operating Officer
+
+ 
+
+ 
+
+ 
+
+(Principal Financial Officer)

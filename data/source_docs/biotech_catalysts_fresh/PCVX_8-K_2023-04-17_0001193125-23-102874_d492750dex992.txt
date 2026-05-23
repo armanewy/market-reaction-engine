@@ -1,0 +1,193 @@
+EX-99.2
+3
+d492750dex992.htm
+EX-99.2
+
+EX-99.2
+
+VAX-24 Phase 2 Program Results,
+Including Adult 65+ Data and Full Six-Month Safety Data from Both Studies April 17, 2023 Exhibit 99.2
+
+April 2023 Forward-Looking Statements
+This presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements related to the potential benefits of Vaxcyte’s
+vaccine candidates, including breadth of coverage and the ability to deliver a potentially best-in-class pneumococcal conjugate vaccine; demand for Vaxcyte’s vaccine candidates; the process and timing of anticipated future development and
+manufacture of Vaxcyte’s vaccine candidates; the growth and expansion of the pneumococcal vaccine market; the market opportunity for Vaxcyte’s vaccines; Vaxcyte’s expectations regarding the spectrum coverage, regulatory pathway,
+adoption speed and immunogenicity of its vaccine candidates; the timing of the initiation, progress and expected results of Vaxcyte’s preclinical studies, clinical trials and research and development plans (including the submission of the IND
+application for VAX-31 and regulatory interactions and the availability of data for the VAX-24 adult, VAX-24 infant and VAX-31 studies); and other statements that are not historical fact. The words “anticipate,” “believe,”
+“continue,” “could,” “designed,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,”
+“should,” “target,” “will,” “would” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. These
+forward-looking statements are based on Vaxcyte’s current expectations and actual results and timing of events could differ materially from those anticipated in such forward-looking statements as a result of risks and uncertainties, including,
+without limitation, risks related to Vaxcyte’s product development programs, including development timelines, success and timing of chemistry, manufacturing and controls and related manufacturing activities; potential delays or inability to
+obtain and maintain required regulatory approvals for its vaccine candidates; the risks and uncertainties inherent with preclinical and clinical development processes; the success, cost and timing of all development activities and clinical trials;
+and the sufficiency of cash and other funding to support Vaxcyte’s development programs and other operating expenses, any of which could materially and adversely affect Vaxcyte’s business and operations. These and other risks are
+described more fully in Vaxcyte’s filings with the Securities and Exchange Commission (SEC), including its Annual Report on Form 10-K filed with the SEC on February 27, 2023 or in other documents Vaxcyte subsequently files with or furnishes to
+the SEC. Vaxcyte undertakes no duty or obligation to update any forward-looking statements contained in this release as a result of new information, future events or changes in its expectations.
+
+Introduction and vax-24 Results
+Overview VAX-24 Phase 2 Study results in Adults Aged 65 and Older (65+) Disposition and Demographics Safety and Tolerability Data Immunogenicity Data Prespecified Pooled Immunogenicity Analyses of both Phase 2 Adult Studies Full Six-Month Safety
+Data from both Adult Studies Program Conclusions, Status and Next Steps Agenda April 2023
+
+Introduction and VAX-24 Results
+Overview April 2023
+
+Summary: VAX-24 Adult 65+ Study Results
+Confirm Prior Phase 2 Results Positive Results Support Best-in-Class Potential for VAX-24 and Set Stage for Phase 3 Design and Advancement April 2023 SAFETY: Full six-month safety data from Phase 2 study in adults aged 65+ and prior Phase 1/2 study
+in adults aged 18-64 demonstrate VAX-24 safety and tolerability results similar to Prevnar 20® (PCV20) at all doses studied IMMUNOGENICITY: 65+ study achieved target responses for all 24 serotypes at 2.2mcg dose, demonstrating potential of
+VAX-24 to expand coverage and improve immunogenicity over standard-of-care Phase 2 65+ study results (n~45/arm): VAX-24 met OPA response non-inferiority criteria for 18/20 STs common with PCV20 and met the superiority criteria for all four
+additional STs unique to VAX-24 VAX-24 showed overall improvement in immune responses vs. PCV20 relative to results from Phase 2 in adults aged 50-64 and higher GMRs for 16/20 STs common with PCV20 ANTICIPATED PCV FRANCHISE MILESTONES: VAX-24
+Adults: End-of-Phase 2 meeting with FDA 2H:23; Phase 3 pivotal immunogenicity data in 2025 VAX-24 Infants: Phase 2 study enrolling subjects, topline data from the primary three-dose immunization series by 2025 VAX-31 Adults: IND application
+submission 2H:23; topline data from Phase 1/2 study in 2024 PLATFORM: New data further support potential of our carrier-sparing PCV franchise and cell-free platform VAX-24 WELL-POSITIONED FOR ADULT PHASE 3 PIVOTAL PROGRAM 2.2mcg confirmed as optimal
+VAX-24 dose to advance to Phase 3 pivotal study, which will include adults 50+ or 60+ Prespecified pooled analyses of both Phase 2 adult studies for adults 50+ (n~225/group) and 60+ (n~100/group) met OPA response non-inferiority criteria for all 20
+common STs and met superiority criteria for four additional STs unique to VAX-24 End-of-Phase 2 meeting with FDA to confirm study size and population (anticipate n~750/arm) OPA = Opsonophagocytic Activity; STs = serotypes; GMR = Geometric Mean Ratio
+
+April 2023 Streptococcus pneumoniae is
+the most common pathogen causing pneumococcal disease (PD). In the U.S. alone, there are ~320K pneumococcal pneumonia cases per year resulting in ~150K hospitalizations. Invasive pneumococcal disease (IPD) is a leading cause of invasive disease in
+children two years of age and under. Circulating strains of PD in the U.S. and globally are associated with high case-fatality rates, antibiotic resistance and/or meningitis. Global Impact of Pneumococcal Disease Remains Significant Circulating
+Disease Driven by Serotypes Outside of Current PCVs Gierke 2015 https://www.cdc.gov/pneumococcal/clinicians/clinical-features.html
+
+April 2023 Spectrum of Coverage Drives
+Adoption in PCV Segment Significant Unmet Needs Remain Despite Available Vaccines Data in the US is for 2017, inclusive of those > 5 yrs of age. Varghese et al. Clin Micro and Infect (2020) 26(4): 512.e1-512.e10. PCV20 PCV15 PCV13 Designed to
+provide broadest coverage of any currently approved PCV, including an incremental 10-28% coverage of IPD in U.S. adults vs. the SOC PCVs (PCV20/PCV15) today. Designed to provide the benefits of a conjugate vaccine while surpassing the coverage of
+Pneumovax 23. VAX-24 TARGET PRODUCT PROFILE 10% 28% PCV13 = Prevnar 13®, PCV15 = VAXNEUVANCE™ 
+
+April 2023 Carrier-Sparing Approach for
+PCV Franchise Validated By Phase 2 Program Site-Specific Conjugation Using Cell-Free Platform to Go Beyond Limits of Conventional Chemistry Random conjugation masks “on-target” T-cell epitopes on the protein carrier Higher ratio of
+protein carrier to polysaccharide required Overabundance of protein carrier and its “off-target” effects exacerbates competition for CD4+ T-cell leading to carrier suppression LIMITATIONS OF CONVENTIONAL conjugation CHEMISTRY
+Site-specifically attach conventional antigens and protein carriers designed to: Enable consistent exposure of T-cell epitopes (and/or B-cell epitopes) on protein carrier to drive class-defining CD4+ help Avoid “off-target” effects from
+protein carrier that compete for the CD4+ help Enable use of less protein carrier per conjugate without sacrificing immunogenicity Enable broader-spectrum carrier-sparing conjugate vaccines VAXCYTE’s UNIQUE carrier-sparing CONJUGATE
+VACCINES
+
+April 2023 ~$13B ~$7B Market Growth
+Pfizer (Prevnar Family – PCV13 & PCV20) Merck (PPV23 & PCV15) GSK (Synflorix) Billions Other Sources: Company websites; includes Merck’s PCV15 sales disclosed for Q4 2022. Global Pneumococcal Vaccine Market (2022-2027), Infogence
+Global Research. Shea KM, Edelsberg J, Weycker D et al. (2014), Open Forum Infect Dis 1(1): ofu024. ACIP recently voted to support PCV20 “catch-up” for adults who previously received PCV13 and Pneumovax 23 “At risk” adults
+recently added to U.S. universal PCV vaccination recommendation, which includes >25% of 50-64 year olds3 1 PCV Market Growth Drivers Strong ACIP consideration to expand U.S. universal adult vaccination to >50 years from >65 would
+significantly expand market Would necessitate prime-boost for effective long-term protection, which has been limited by continued availability of Pneumovax 23 Premium price for PCV20 and PCV15 shows value of additional serotype coverage 2027E 2
+Global Pneumococcal Vaccine Market PCV Market Growth Pneumococcal Vaccine Market Poised for Significant Growth Expected to Reach ~$13B by 2027 Driven Primarily by Growth in Adult Market ACIP = Advisory Committee on Immunization Practices
+
+VAX-24 Phase 2 Study in Adults 65+
+April 2023
+
+Study Design April 2023
+
+Overview of VAX-24 Phase 2 Clinical
+Study in Adults 65+ April 2023 Design: Randomized, Observer-Blind, Dose-Finding, Controlled Clinical Study to Evaluate Safety, Tolerability & Immunogenicity of VAX-24 vs. Standard-of-Care (PCV20) in Healthy Adults Aged 65 and Older Day 1 Dose
+Blood Sample Phase 2 Study Adults Aged 65 and Older (n=207) Prevnar 20 (PCV20) VAX-24 Low Dose 1.1mcg VAX-24 Middle Dose 2.2mcg VAX-24 Mixed Dose 2.2mcg/4.4mcg* OPA & IgG VAX-24 vs PCV20 Final Safety Assessment Safety Follow-Up Day 29 Month 6
+Immunogenicity Assessment Randomize (1:1:1:1) Screen * For the VAX-24 Mixed Dose, a 4.4mcg dose is used for serotypes 3, 6B, 7F, 9V, 18C, 19A and 19F; a 2.2mcg dose is used for the remaining serotypes. .
+
+Study Evaluated Three VAX-24 Doses
+Consistent with Prior Phase 2 Study April 2023 1 3 4 5 6A 6B 7F 8 9V 10A 11A 12F 14 15B 18C 19A 19F 22F 23F 33F 2 9N 17F 20 4.4 mcg 4.4 mcg 4.4 mcg 4.4 mcg 4.4 mcg 4.4 mcg 4.4 mcg 4.4 mcg Low Dose (1.1mcg) Middle Dose (2.2mcg) Mixed Dose (2.2mcg/
+4.4mcg) PCV20 VAX-24 (2.2mcg) Mixed Dose includes seven serotypes at 4.4mcg strategically chosen based on epidemiological relevance or prior evidence of dose-dependent immune responses to increase the probability of generating non-inferior immune
+responses for those serotypes.
+
+Study Safety, Tolerability and
+Immunogenicity Key Outcome Measures April 2023 Safety and Tolerability Outcome Measures  Immunogenicity Outcome Measures DAY 7 DAY 29 DAY 180 Solicited local reactions Solicited systemic events Unsolicited adverse events (AE) Serious adverse
+events (SAE) SAE, new onset of chronic illnesses (NOCI) and medically attended adverse events (MAAE) Opsonophagocytic assay (OPA) geometric mean titer (GMT) IgG geometric mean concentration (GMC) % of subjects achieving a 4-fold rise in OPA
+Geometric Mean Ratios (GMR) in serotype-specific OPA
+
+Disposition and Demographics April
+2023
+
+Study Disposition Overall High
+Proportion of Subjects with Safety and Immunogenicity Follow-Up April 2023 Phase 2 Study in Adults 65+ 7 Subjects (3.4%) Discontinued Enrolled N = 207 Included in Safety Population N = 50 (98.0%) Included in Safety Population N = 53 (100.0%)
+Included in Safety Population N = 51 (100.0%) Included in Safety Population N = 52 (100.0%) Vaccinated PCV20 N = 51 Vaccinated VAX-24 Low Dose (1.1mcg) N = 52 Vaccinated VAX-24 Middle Dose (2.2mcg) N = 51 Vaccinated VAX-24 Mixed Dose (2.2/4.4mcg) N
+= 53 Included in Immunogenicity Population N = 48 (92.3%) Included in Immunogenicity Population N = 47 (92.2%) Included in Immunogenicity Population N = 48 (90.6%) Included in Immunogenicity Population N = 45 (88.2%)
+
+Demographic Population Generally
+Balanced Across Cohorts and Similar for the Safety and Immunogenicity Populations April 2023 VAX-24 Low Dose (1.1mcg) VAX-24 Middle Dose (2.2mcg) VAX-24 Mixed Dose (2.2mcg/4.4mcg) PCV20 Safety Immunogenicity Safety Immunogenicity Safety
+Immunogenicity Safety Immunogenicity Number of Subjects 52 48 51 47 53 48 50 45 Median Age, Years (range) 67.5 (65-80) 67.5 (65-80) 66.0 (65-79) 66.0 (65-79) 67.0 (65-88) 67.0 (65-88) 67.0 (65-80) 67.0 (65-80) Sex, n (%) Female 38 (73.1) 35 (72.9)
+34 (66.7) 32 (68.1) 37 (69.8) 33 (68.8) 30 (60.0) 27 (60.0) Male 14 (26.9) 13 (27.1) 17 (33.3) 15 (31.9) 16 (30.2) 15 (31.3) 20 (40.0) 18 (40.0) Race, n (%) White 44 (84.6) 40 (83.3) 40 (78.4) 37 (78.7) 38 (71.7) 33 (68.8) 35 (70.0) 31 (68.9) Black
+7 (13.5) 7 (14.6) 10 (19.6) 9 (19.1) 14 (26.4) 14 (29.2) 14 (28.0) 13 (28.9) Asian 0 (0) 0 (0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) Native Hawaiian 0 (0) 0 (0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) American Indian or Native
+Alaskan 1 (1.9) 1 (2.1) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) Other 0 (0) 0 (0) 1 (2.0) 1 (2.1) 1 (1.9) 1 (2.1) 0 (0.0) 0 (0.0) Multiracial 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 1 (2.0) 1 (2.2) Median Height, cm (range) 165.5
+(146-183) 165.5 (146-183) 166.6 (151-194) 166.6 (151-194) 167.6 (145-188) 167.6 (145-188) 166.5 (150-185) 166.6 (150-185) Median Weight, kg (range) 75.05 (50.6-161.9) 74.91 (50.6-161.9) 80.01 (48.5-150.0) 80.70 (48.5-150.0) 86.32 (53.5-130.2) 85.35
+(53.5-130.2) 81.33 (47.7-147.4) 81.65 (47.7-147.4) Median BMI, kg/m2 (range) 27.42 (20.4-50.7) 27.36 (20.4-50.7) 28.92 (19.9-49.2) 29.04 (19.9-49.1) 29.64 (20.1-44.9) 28.99 (20.1-44.9) 29.38 (17.6-52.5) 29.77 (17.6-52.5)
+
+Safety and Tolerability Data April
+2023
+
+Local Solicited AEs Similar to PCV20
+and Across Cohorts Through Day 7 April 2023
+
+Systemic Solicited AEs Similar to
+PCV20 and Across Cohorts Through Day 7 April 2023 .
+
+Immunogenicity Data April
+2023
+
+Criteria for FOUR Incremental
+Serotypes in VAX-24:   Superiority: Lower bound of the 2-sided 95% CI of the difference in the proportions of participants with a ≥4-fold increase from Day 1 to Day 29 is greater than 10% Lower bound of the 2-sided 95% CI of the OPA GMR
+is greater than 2.0     Criteria for 20 Serotypes Common to VAX-24 and PCV20:   Non-inferiority: Lower bound of the 2-sided 95% CI of the OPA GMR is greater than 0.5 Superiority: Lower bound of 2-sided 95% CI of the OPA GMR is greater
+than 1.2 Lower bound of the 2-sided 95% CI of the difference in proportions of participants with a ≥4-fold increase from Day 1 to Day 29 is greater than 0 Precedent Regulatory Criteria for Phase 2/3 PCV Immunogenicity Studies April 2023 CI =
+confidence interval .
+
+VAX-24 2.2mcg Dose Showed Robust
+Immune Responses for All 24 Serotypes April 2023 Met non-inferiority criteria for 18 of 20 common STs for the OPA GMR of VAX-24 : PCV20 (n~45) Met superiority criteria for all four incremental STs in VAX-24 based on 4-fold rise vs. PCV20 (n~45)
+Non-inferiority Criteria: LL 95% CI GMR ≥ 0.5 Threshold for Superiority (LL95%CI > 10%) * * Upper Limit = 4.93; sample size of 45 calculated as median between immunogenicity evaluable VAX-24 n=47 and PCV20 n=45 rounded to nearest 5.
+GMR:
+
+65+ Study Results Confirm 2.2mcg is
+Optimal Dose to Advance to Phase 3 Consistent with Prior Phase 2 Study, 2.2mcg Dose Demonstrated Higher OPA GMR for 16/20 Shared STs April 2023 X = 7 VAX-24 serotypes at the 4.4mcg dose; GMR = Geometric Mean Ratio; GMFR = Geometric Mean Fold Ratio
+GMR: GMFR:
+
+All 24 Serotypes in VAX-24
+Demonstrated Robust OPA GMT Immune Responses Serotypes Contained in PCV20 April 2023 Non-PCV20 Serotypes OPA = Opsonophagocytic Activity; GMT = Geometric Mean Titer
+
+All 24 Serotypes in VAX-24
+Demonstrated Robust IgG GMC Responses Non-PCV20 Serotypes Serotypes Contained in PCV20 April 2023 0.1 1 10 IgG GMCs mcg/mLs (95% CI) IgG = Immunoglobulin G; GMC = Geometric Mean Concentration
+
+Prespecified Pooled Immunogenicity
+Analyses of Both VAX-24 Phase 2 Adult Studies April 2023
+
+ST GMR 95%CI 1 1.56 3.33 0.73 3 0.91
+1.47 0.56 4 1.33 2.55 0.70 5 1.18 2.49 0.55 6A 1.96 4.93 0.78 6B 1.28 2.99 0.55 7F 0.90 1.60 0.51 8 1.32 2.34 0.74 9V 1.65 3.59 0.76 10A 1.17 2.39 0.58 11A 1.31 1.89 0.91 12F 1.6 3.77 0.68 14 1.31 2.42 0.70 15B 0.86 1.88 0.39 18C 1.69 3.20 0.89 19A
+1.52 2.53 0.92 19F 1.53 2.69 0.87 22F 0.71 1.40 0.36 23F 1.31 3.24 0.53 33F 1.19 2.18 0.65 Phase 2 Program Confirms 2.2mcg as Optimal Dose in Adult Population 65+ Study Data Show Further Improvement in Overall Immune Response vs. PCV20 April 2023 *
+Upper Limit = 4.93; sample size of 180 calculated as median between immunogenicity evaluable VAX-24 n=179 and PCV20 n=181 rounded to nearest 10. * ST GMR 95%CI 1 0.89 1.23 0.64 3 1.19 1.51 0.93 4 1.21 1.55 0.95 5 0.79 1.13 0.55 6A 0.92 1.32 0.64 6B
+1.23 1.68 0.89 7F 1.1 1.39 0.87 8 1.1 1.38 0.87 9V 1.75 2.42 1.26 10A 1.05 1.37 0.8 11A 1.04 1.13 0.95 12F 1.21 1.69 0.86 14 1.18 1.59 0.87 15B 1.03 1.42 0.75 18C 1.75 2.31 1.33 19A 1.17 1.51 0.92 19F 1.65 1.98 1.38 22F 0.94 1.25 0.71 23F 1.42 2.08
+0.97 33F 1.55 1.99 1.21 GMR: GMFR: GMR: GMFR:
+
+Met Standard OPA Response
+Non-Inferiority Criteria for All 20 Common STs Prespecified Pooled Analyses Support Advancement of VAX-24 to Phase 3 April 2023 Sample size of ~225 calculated as median between immunogenicity evaluable VAX-24 n=228 and PCV20 n=224 rounded to nearest
+5 for 50+ and ~100 calculated as median between immunogenicity evaluable VAX-24 n=101 and PCV20 n=104 rounded to nearest 5 for 60+. GMR: GMFR: GMR: GMFR:
+
+Full Six-Month Safety and
+Tolerability Data from Both VAX-24 Adult Studies April 2023
+
+Six-Month Safety Data from VAX-24
+Phase 2 Study in Adults Aged 65+ Safety Results Similar to PCV20 and Across Cohorts April 2023 VAX-24 – Low Dose (1.1mcg) VAX-24 – Middle Dose (2.2mcg) VAX-24 – Mixed Dose (2.2mcg/4.4mcg) PCV20 Number of Subjects with 52 51 53 50
+Unsolicited TEAE, n (%) 6 (11.5) 4 (7.8) 4 (7.5) 8 (16.0) Related Unsolicited TEAE, n (%) 1 (1.9) 4 (7.8) 2 (3.7) 5 (10.0) MAAE, n (%)  5 (9.6) 3 (5.9) 3 (5.7) 6 (12.0) Related MAAE, n (%)  0 0 1 (1.9) 0 NOCI, n (%)  1 (1.9)
+1 (2.0) 1 (1.9) 0 Related NOCI, n (%)  0 0 0 0 SAE, n (%) 1 (1.9) 1 (2.0) 1 (1.9) 0 Related SAE, n (%)  0 0 0 0 Death, n (%)  0 1 (2.0)1 0 0 Related Death, n (%)  0 0 0 0 66-year-old white, obese male (BMI:47.4) with
+hypertension. No solicited AEs were reported after vaccination. Participant suffered sudden cardiac death six months post-vaccination determined by Principal Investigator to be not related to study product due to participant’s history of
+hypertensive cardiovascular disease. TEAE = Treatment emergent adverse events Excludes Solicited AEs
+
+Six-Month Safety Data from VAX-24
+Phase 1/2 Study in Adults Aged 18-64 Safety Results Similar to PCV20 and Across Cohorts April 2023 VAX-24 – Low Dose (1.1mcg) VAX-24 – Middle Dose (2.2mcg) VAX-24 – Mixed Dose (2.2mcg/4.4mcg) PCV20 Number of Subjects with 209 207
+207 212 Unsolicited TEAE, n (%) 32 (15.3) 24 (11.6) 26 (12.6) 34 (16.0) Related Unsolicited TEAE, n (%) 4 (1.9) 9 (4.3) 5 (2.4) 8 (3.8) MAAE, n (%)  27 (12.9) 26 (12.6) 24 (11.6) 31 (14.6) Related MAAE, n (%)  0 0 0 0 NOCI, n
+(%)  3 (1.4) 3 (1.4) 6 (2.9) 5 (2.4) Related NOCI, n (%)  0 0 0 0 SAE, n (%) 2 (1.0) 3 (1.4) 1 (0.5) 4 (1.9) Related SAE, n (%)  0 0 0 0 Death, n (%)  0 0 0 0 Related Death, n (%)  0 0 0 0 TEAE = Treatment emergent
+adverse events Excludes Solicited AEs
+
+Combined Six-Month Safety Data from
+Both Adult VAX-24 Studies Safety Results Similar to PCV20 and Across Cohorts April 2023 VAX-24 – Low Dose (1.1mcg) VAX-24 – Middle Dose (2.2mcg) VAX-24 – Mixed Dose (2.2mcg/4.4mcg) PCV20 Number of Subjects with 261 258 260 262
+Unsolicited TEAE, n (%) 38 (14.6) 28 (10.9) 30 (11.5) 42 (16.0) Related Unsolicited TEAE, n (%) 5 (1.9) 13 (5.0) 7 (2.7) 13 (5.0) MAAE, n (%)  32 (12.2) 29 (11.2) 27 (10.4) 37 (14.1) Related MAAE, n (%)  0 0 1 (0.4) 0 NOCI, n (%)  4
+(1.5) 4 (1.6) 7 (2.7) 5 (1.9) Related NOCI, n (%)  0 0 0 0 SAE, n (%) 3 (1.1) 4 (1.6) 2 (0.77) 4 (1.5) Related SAE, n (%)  0 0 0 0 Death, n (%)  0 1 (0.39)1 0 0 Related Death, n (%)  0 0 0 0 66-year-old white, obese male
+(BMI:47.4) with hypertension. No solicited AEs were reported after vaccination. Participant suffered sudden cardiac death six months post-vaccination determined by Principal Investigator to be not related to study product due to participant’s
+history of hypertensive cardiovascular disease. TEAE = Treatment emergent adverse events Excludes Solicited AEs
+
+Phase 2 Program Conclusions, Status
+& Next Steps April 2023
+
+Full six-month VAX-24 data (n=779)
+showed safety and tolerability results similar to PCV20 Improved immunogenicity vs. PCV20 with no evidence of dose-dependent safety and tolerability issues Confirmed 2.2mcg as optimal dose to advance to Phase 3 pivotal study Achieved target immune
+responses for all 24 serotypes in both Phase 2 studies Met non-inferiority criteria for all 24 STs in prespecified pooled analyses, with sample sizes expected to increase in Phase 3 program (n~750/arm) Well-established regulatory pathway, with
+multiple precedents of approval based on surrogate immune endpoints Historically, consistent study design and endpoints across Phase 2 and pivotal Phase 3 programs Precedent Phase 3 programs and VAX-24 Phase 2 data support flexibility of choice in
+ultimate adult age range for pivotal study With positive Phase 2 data, Vaxcyte is excited to advance VAX-24 into Phase 3 Positive Phase 2 Program Results Support Best-in-Class Potential for VAX-24 and Set Stage for Phase 3 Program April 2023
+SUCCESSFUL VAX-24 PHASE 2 PROGRAM MET ALL KEY OBJECTIVES WELL-POSITIONED FOR PHASE 3 PIVOTAL PROGRAM
+
+Anticipated PCV Franchise Milestones
+for 2023-20251 Vaxcyte is Advancing Clinical Development of VAX-24 and VAX-31 with Several Key Upcoming Milestones April 2023 Conduct FDA End-of-Phase 2 meeting to finalize adult Phase 3 program in 2H:23 Announce topline safety, tolerability and
+immunogenicity data from the Phase 3 pivotal non-inferiority study in adults in 2025 Submit adult IND application to FDA in 2H:23 Announce topline safety, tolerability and immunogenicity data from adult Phase 1/2 study in 2024 VAX-24 Adult VAX-24
+Infant VAX-31 Adult Announce topline safety, tolerability and immunogenicity data from the primary three-dose immunization series of the Phase 2 study by 2025 Guidance provided as of April 17, 2023.
+
+April 2023 VAXCYTE MISSION STATEMENT
+We are on a global mission to engineer high-fidelity vaccines that protect humankind from the consequences of bacterial diseases.
+
+April 2023 Q&A with Management
+Grant Pickering Chief Executive Officer, Director and Founder Jim Wassil Executive Vice President and Chief Operating Officer Andrew Guggenhime President and Chief Financial Officer

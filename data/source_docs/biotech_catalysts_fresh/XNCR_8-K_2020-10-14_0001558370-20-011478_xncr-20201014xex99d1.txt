@@ -1,0 +1,148 @@
+EX-99.1
+2
+xncr-20201014xex99d1.htm
+EX-99.1
+
+Exhibit 99.1
+
+​
+
+Preliminary safety, pharmacokinetics/pharmacodynamics, and antitumor activity of XmAb20717, a PD-1 x CTLA-4 bispecific antibody, in patients with advanced solid tumors
+
+​
+
+Background
+
+XmAb20717 is a humanized bispecific monoclonal antibody that simultaneously targets PD-1 and CTLA-4. We report preliminary data from an ongoing, multicenter, Phase 1 study investigating the safety/tolerability, pharmacokinetics/pharmacodynamics, and clinical activity (RECIST 1.1) of XmAb20717 in patients with selected advanced solid tumors.
+
+​
+
+Methods
+
+A 3+3 dose-escalation design was used to establish a maximum tolerated (MTD)/recommended dose for evaluation in parallel expansion cohorts, including melanoma, renal cell carcinoma, non-small cell lung cancer (NSCLC), prostate cancer, and a basket of tumor types without an FDA-approved checkpoint inhibitor (CI; n≤20 each). XmAb20717 was administered as an infusion on Days 1 and 15 of each 28-day cycle.
+
+Results
+
+As of 08Jul2020, 109 patients had been treated (Table 1), and 30 were continuing treatment. In escalation, 6 dose levels (0.15-10.0 mg/kg) were evaluated (n=34); an MTD was not established. Expansion cohorts were initiated at 10 mg/kg (n=72), and a 15 mg/kg escalation cohort was added (n=3). T-cell proliferation was noted in peripheral blood at doses as low as 3 mg/kg and was highest at 10 mg/kg. At this dose, consistent proliferation of CD8+ and CD4+ T cells was observed, indicative of dual PD-1 and CTLA-4 checkpoint blockade (Figure 1). Paired pre- and post-dosing biopsies showed increased intratumoral T-cell infiltration and IFN-response signatures following treatment. Grade 3/4 treatment-related adverse events (TRAEs) reported for ≥3 patients included rash (13%), transaminase elevations (7%), lipase increased (4% [2% with amylase increased]), and acute kidney injury (3%), all considered immune-related. There were 2 Grade 5 TRAEs: immune-mediated pancreatitis (in the presence of pancreatic metastases) and immune-mediated myocarditis (Grade 4) that contributed to respiratory failure. A complete response was reported as the best overall response for 1 patient (melanoma); partial responses were reported for 5 patients (2 melanoma, 2 NSCLC, 1 ovarian). The objective response rate was 13% overall and 21% at 10 mg/kg (6/46 and 6/29 evaluable patients, respectively). All responders had prior CI exposure. Responses were observed only at 10 mg/kg and, within the 10 mg/kg group, appeared to correlate with higher peak serum concentration and area under the curve.
+
+Conclusions
+
+XmAb20717 induced T-cell proliferation in peripheral blood consistent with dual-checkpoint blockade. Preliminary data indicate XmAb20717 was generally well-tolerated and associated with evidence of antitumor activity in CI-pretreated patients with various types of advanced solid tumors.
+
+Trial Registration
+
+NCT03517488
+
+Ethics Approval
+
+The study was approved by each institution’s IRB.
+
+​
+
+​
+
+Table 1. Demographics and Baseline Characteristics
+
+​
+
+Characteristic
+
+Escalation
+
+(n = 37)
+
+Expansion Cohorts
+
+Melanoma
+
+(n = 20)
+
+RCC
+
+(n = 8)
+
+NSCLC
+
+(n = 20)
+
+Prostate
+
+(n = 7)
+
+Basket
+
+(n = 17)
+
+Age, median (range)
+
+56 (32-81)
+
+67 (45-82)
+
+64 (55-85)
+
+72 (49-81)
+
+69 (63-74)
+
+61 (41-78)
+
+Male
+
+60%
+
+60%
+
+75%
+
+75%
+
+100%
+
+24%
+
+Months since initial diagnosis, median (range)
+
+43 (3-313)
+
+58 (6-511)
+
+74 (52-249)
+
+38 (8-113)
+
+85 (1-110)
+
+30 (1-165)
+
+Lines of prior systemic therapy, median (range)
+
+4 (0-9)
+
+3 (0-9)
+
+4 (0-6)
+
+3 (0-9)
+
+0 (0-11)
+
+5 (0-8)
+
+Prior checkpoint inhibitor therapy
+
+76%
+
+80%
+
+63%
+
+70%
+
+14%
+
+35%
+
+​
+
+​

@@ -1,0 +1,170 @@
+arvn-20240410
+0001655759FALSE00016557592024-04-102024-04-10
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 10, 2024
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 1.01    Entry into a Material Definitive Agreement.
+
+On April 10, 2024, Arvinas, Inc., a Delaware corporation (the “Company”), entered into a transaction (the “Transaction”), including both a license agreement (the “License Agreement”) and an asset purchase agreement (the “Asset Agreement”), with Novartis Pharma AG (“Novartis”). Pursuant to the License Agreement, the Company will grant to Novartis an exclusive worldwide license for the development, manufacture and commercialization of ARV-766, the Company’s second generation PROTAC® androgen receptor (“AR”) degrader for patients with prostate cancer. Pursuant to the Asset Agreement, the Company will sell to Novartis all of its rights, title and interest in the Company’s PROTAC® protein degrader targeting AR-V7, a splice variant of the AR.
+
+Under the terms of and as consideration for entering into the Transaction, Novartis will pay to the Company a one-time, upfront payment in the aggregate amount of $150.0 million. Under the License Agreement, the Company is also eligible to receive up to an additional $1.01 billion as contingent payments based on specified development, regulatory, and commercial milestones for ARV-766 being met, as well as tiered royalties based upon worldwide net sales of ARV-766, subject to reduction under certain circumstances as provided in the License Agreement.
+
+Closing of the Transaction is subject to customary closing conditions, including the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976.
+
+The License Agreement and the Asset Agreement will become effective upon the closing of the transaction. The License Agreement will expire on a country-by-country basis (or, in certain cases, a region-by-region basis) until the expiration of the applicable royalty term for such country (or region, as applicable). The License Agreement contains customary termination provisions, including that either party may terminate the License Agreement (a) upon the material breach of the other party or (b) in the event the other party experiences an insolvency event. Additionally, Novartis may terminate the License Agreement for convenience or upon a safety or regulatory issue.
+
+The foregoing summaries of the License Agreement and the Asset Agreement are not complete and are qualified in their entirety by reference to the full text of the License Agreement and the Asset Agreement, copies of which the Company expects to file with the U.S. Securities and Exchange Commission as exhibits to its Quarterly Report on Form 10-Q for the quarter ending June 30, 2024.
+
+Item 7.01    Regulation FD Disclosure.
+
+On April 11, 2024, the Company issued a press release in connection with its entry into the License Agreement, Asset Agreement and related transactions. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+Forward-Looking Statements.
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the closing of the transaction with Novartis, the receipt of upfront, milestone and other payments under the License Agreement, the future development and potential marketing approval and commercialization of ARV-766. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements made by the Company as a result of various risks and uncertainties, including but not limited to: the satisfaction or waiver of the conditions to the closing of the License Agreement and the Asset Agreement, each party’s performance of its obligations under the License Agreement and the Asset Agreement, whether Novartis will be able to successfully conduct and complete clinical development, obtain marketing approval for and commercialize ARV-766 on the current timeline expectations or at all and other important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this filing reflect the
+
+Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press release issued by Arvinas, Inc. on April 11, 2024
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: April 11, 2024
+
+By:
+
+/s/ Randy Teel
+
+Randy Teel
+
+Interim Chief Financial Officer

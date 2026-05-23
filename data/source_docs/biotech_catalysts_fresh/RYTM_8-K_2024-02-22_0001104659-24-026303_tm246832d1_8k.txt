@@ -1,0 +1,294 @@
+false
+0001649904
+
+0001649904
+
+2024-02-22
+2024-02-22
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C.
+20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+February 22, 2024
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+Delaware
+
+ 
+
+001-38223
+
+ 
+
+46-2159271
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+222 Berkeley Street
+
+12th Floor
+
+Boston, MA 02116
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (857) 264-4280
+
+ 
+
+N/A
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨  Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨  Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange on which registered
+
+Common Stock, $0.001 par value per share
+
+RYTM
+
+The Nasdaq Stock Market LLC (Nasdaq Global Market)
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 2.02. Results of Operations and Financial Condition.
+
+ 
+
+On February 22, 2024, Rhythm Pharmaceuticals,
+Inc. (the “Company”, “we” and “our”) announced its financial results for the fourth quarter and full
+year ended December 31, 2023. The full text of the press release issued by the Company in connection with the announcement is furnished
+as Exhibit 99.1 to this Current Report on Form 8-K (the “Current Report”).
+
+ 
+
+The information contained in Item 2.02 of this
+Current Report (including Exhibit 99.1 attached hereto) shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall
+it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”),
+or the Exchange Act, except as expressly provided by specific reference in such a filing.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+We expect to report a material weakness in our internal control over financial reporting in our annual report on Form 10-K for the year
+ended December 31, 2023 (the “Annual Report”). We have not yet completed our assessment of our internal control over financial
+reporting and the following material weakness is subject to change upon completion of such assessment, which may also result in additional
+or different material weaknesses. Our independent registered public accounting firm has not completed its audit of our internal control
+over financial reporting and, accordingly, does not express an opinion or any other assessment about it.
+
+ 
+
+In the Annual Report, we expect to report a material weakness in internal control related to ineffective information technology general
+controls (“ITGCs”) in the areas of user access and program change management over our key accounting and reporting information
+technology (“IT”) system. As a result, the related process controls (IT application controls and IT-dependent manual controls)
+that are dependent on the ineffective ITGCs, or that use data produced from the system impacted by the ineffective ITGCs, were also ineffective.
+Our management, under the oversight of the Audit Committee of our Board of Directors and in consultation with outside advisors, has begun
+evaluating and implementing measures designed to ensure that the control deficiencies contributing to the material weakness are remediated.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+The following exhibit relates to Items 2.02 and shall be deemed to
+be furnished, and not filed:
+
+ 
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+99.1
+
+ 
+
+Press release dated February 22, 2024
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the inline XBRL document)
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+ 
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+Date: February 22, 2024
+
+By:
+
+/s/ Hunter Smith
+
+ 
+
+ 
+
+Hunter Smith
+
+ 
+
+ 
+
+Chief Financial Officer

@@ -1,0 +1,116 @@
+EX-99.2
+3
+d793293dex992.htm
+EX-99.2
+
+EX-99.2
+
+KB407 for the treatment of cystic
+fibrosis November 2020 Exhibit 99.2
+
+Forward-Looking Statements This
+presentation contains forward-looking statements that involve substantial risks and uncertainties. Any statements in this presentation about future expectations, plans and prospects for Krystal Biotech, Inc. (the “Company”), including
+but not limited to statements about the development of the Company’s product candidates, such as the future development or commercialization of B-VEC, KB105, KB301, KB407 and the Company’s other product candidates; conduct and timelines
+of clinical trials, the clinical utility of B-VEC, KB105, KB301, KB407 and the Company’s other product candidates; plans for and timing of the review of regulatory filings, efforts to bring B-VEC, KB105, KB301, KB407 and the Company’s
+other product candidates to market; the market opportunity for and the potential market acceptance of B-VEC, KB105, KB301, KB407 and the Company’s other product candidates, the development of B-VEC, KB105, KB301, KB407 and the Company’s
+other product candidates for additional indications; the development of additional formulations of B-VEC, KB105, KB301, KB407 and the Company’s other product candidates; plans to pursue research and development of other product candidates, the
+sufficiency of the Company’s existing cash resources; the unanticipated impact of COVID-19 on the Company’s business operations, preclinical activities and clinical trials; and other statements containing the words
+“anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “plan,” “predict,” “project,” “target,” “potential,”
+“likely,” “will,” “would,” “could,” “should,” “continue,” and similar expressions, constitute forward-looking statements within the meaning of The Private Securities Litigation
+Reform Act of 1995. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: the content and timing of decisions made by the U.S. Food and Drug Administration,
+European Medicines Agency and other regulatory authorities; the uncertainties inherent in the initiation and conduct of clinical trials, availability and timing of data from clinical trials; whether results of early clinical trials or studies in
+different disease indications will be indicative of the results of ongoing or future trials; uncertainties associated with regulatory review of clinical trials and applications for marketing approvals; the availability or commercial potential of
+product candidates; the ability to retain and hire key personnel; the sufficiency of cash resources and need for additional financing; and such other important factors as are set forth in the Company’s annual and quarterly reports and other
+filings on file with the U.S. Securities and Exchange Commission. In addition, the forward-looking statements included in this presentation represent the Company’s views as of the date of this presentation. The Company anticipates that
+subsequent events and developments will cause its views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking
+statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this presentation. This presentation also contains estimates and other statistical data made by independent parties and by us
+relating to market size and growth and other data about our industry. This data involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. Neither we nor any other person makes any
+representation as to the accuracy or completeness of such data or undertakes any obligation to update such data after the date of this presentation. In addition, projections, assumptions and estimates of our future performance and the future
+performance of the markets in which we operate are necessarily subject to a high degree of uncertainty and risk.
+
+Despite recent approvals, there remains
+significant unmet need in CF Epidemiology of cystic fibrosis1 CF Prevalence & Incidence2 >70,000 patients with CF worldwide >30,000 patients in US CF registry2 ~1,000 new cases of CF diagnosed each year in the US 1: World Health
+Organization (2004). “The molecular genetic epidemiology of cystic fibrosis”. 2: US Cystic Fibrosis Foundation. Cystic fibrosis (CF) is the most common fatal inherited disease in the United States It is autosomal recessive, caused by
+mutations in the cystic fibrosis transmembrane conductance regulator (CFTR), a transmembrane anion channel expressed on the surface of epithelial cell responsible for maintaining proper fluid transport Loss of CFTR function causes acidification and
+mucus accumulation in the lungs, provoking recurrent lung infections, uncontrolled inflammation, and bronchiectasis Currently therapies are not completely corrective, and 10% of patients are ineligible for any therapy at all Small molecule
+correctors work by improving trafficking and processing of the mutated CFTR, though only restore ~50% of protein function in patients with certain amenable mutations In the ~10% patients with mutations that do not produce any CFTR protein (null
+mutations) current therapies are ineffective Even in patients who are amenable to therapy, suboptimal efficacy or tolerability issues can limit benefit derived from treatment Approximately 10% of CF patients have mutations that are not amenable to
+current small molecule approaches
+
+Gene therapy is an attractive approach;
+our vector is uniquely positioned to overcome prior limitations CF is a monogenic disease; replacing the missing or dysfunctional protein could fundamentally correct the defect Various gene therapy approaches have been tried and ultimately failed in
+their attempts to replace CFTR protein Viral (adenovirus and AAV) and non-viral (DNA plasmids and stabilized mRNA) approaches have been tested in more than 25 clinical trials enrolling >470 patients Past approaches suffer from some combination of
+physical limitations for large cargo, low efficiency of gene transfer, toxicity, immune intolerance, product instability, and burdensome delivery Our HSV-1 vector has potential to overcome prior limitations of CF gene therapy Accommodates large
+genes and necessary regulatory elements Is amenable to rapid, non-invasive inhaled administration Natural tropism to epithelial cells, e.g., those lining the airways Non-cytotoxic Non-immune stimulating Well suited for repeated administration in
+highly inflammatory environments LV AAV HSV-1 LNP In Vivo Dosing? No Yes Yes Yes Baseline antibody exclusion criteria? No (ex-vivo) Yes No No Repeat-dose capabilities? No No Yes Yes Carrying Capacity? 8 kb1 <4 kb1 >30 kb ~12 kb2 Integrates
+payload into host cell DNA? Yes No No No Regulatory Precedent? Yes Yes Yes Yes Lundstrom, K. Viral Vectors in Gene Therapy. Diseases 2018, 6, 42. Generation Bio (GBIO) Prospectus. (2020, June 11). Retrieved September 4, 202020,
+https://www.sec.gov/Archives/edgar/data/1733294/000119312520167812/d924849d424b4.htm LV = lentivirus AAV = adeno-associated virus LNP = lipid nanoparticle
+
+KB407 is an inhaled gene therapy for
+the treatment of CF Nebulizer KB407 product characteristics: Replication incompetent HSV-1 Delivers two copies of full length, human CFTR protein (mutation agnostic approach) Duration of nebulization expected to be under 30 minutes, using a
+commercially available nebulizer Episomal delivery of CFTR gene does not disrupt cell DNA Ability to re-dose and/or adjust dose over time as lung cells turnover KB407 is an investigational therapy being studied in preclinical trials
+
+In vitro data shows KB407 can be
+nebulized, successfully transduce target lung cells and induce expression of fully functional and properly localized CFTR
+
+KB407 is amenable to aerosolization
+without loss of titer ns ns ns: not significant ns Our vector can be formulated and delivered via nebulizer with no significant change in activity KB407 is an investigational therapy being studied in preclinical trials
+
+Dose dependent expression observed in
+CF patient derived airway epithelial cells Protein activity determined using a CFTR-dependent fluorescent dye uptake assay. KB407 infects primary CF cells in a dose-dependent manner, resulting in robust expression of human CFTR at the transcript and
+protein levels KB407-expressed human CFTR properly localized to the plasma membrane of transduced cells KB407 is an investigational therapy being studied in preclinical trials
+
+KB407-Expressed CFTR is Properly
+Glycosylated in Mammalian Cells Proper glycosylation indicates the protein has been produced and processed correctly into mature CFTR CFTR protein is assembled on the endoplasmic reticulum-associated ribosome and is eventually trafficked to the cell
+membrane where it resides As the protein moves from one place to the other, various post-translational modifications are made which ultimately produce the complex glycosylated fully mature form of the protein Western blot analysis shows that CFTR
+produced from our backbone is fully glycosylated and would therefore be expected to be properly trafficked and fully functional KB407 is an investigational therapy being studied in preclinical trials
+
+Preliminary in vitro data supports
+KB407 ability to penetrate CF mucus Collaboration with Epithelix using MucilAirTM system derived from F508del CF patient biopsy The MucilAirTM system provides an in vitro replication of the CF airway, including active mucus production After 7 days
+of mucus production, KB407 (in solution) was applied to the apical surface at increasing MOI and compared to control viruses as well as a high MOI applied to washed cells (no mucus). KB407 transduction and subsequent CFTR increased in a dose
+dependent manner in the setting of CFTR mucus; CFTR expression no different in the absence of mucus suggesting KB407 penetrates CF mucus KB407 is an investigational therapy being studied in preclinical trials
+
+KB407 corrects CF phenotype in
+clinically translatable organoid model
+
+Efficacy in patient derived
+organoids correlates with clinical efficacy Van Mourik et al. (2019). “Intestinal organoids to model cystic fibrosis”. Berkers et al. (2019). “Rectal Organoids Enable Personalized Treatment of Cystic Fibrosis”. Organoids have
+proven to be valuable disease models in CF They enable high-throughput screening and validation of medicines preclinically Patient derived organoids (PDOs) are 3D models that retain the specific genetic and phenotypic characteristics of diseased
+tissue KB407 was evaluated in organoids derived from CF patients with class I mutations PDOs sourced from Hubrecht Organoid Technology (HUB) provide mutation specific assays for preclinical efficacy assessment Cells derived from patients with class
+I mutations do not create any functional CFTR, thus currently approved CFTR correctors are ineffective In vitro drug responses in rectal organoids1 have been shown to correlate with clinical changes in FEV1 and Sweat Chloride Concentration2
+
+Treatment with KB407 corrected PDO
+morphology within 24 hours CF PDOs Healthy PDOs In healthy patient derived organoids (left), CFTR protein functions properly and enables water transport across the membrane leading to plump, round appearing PDOs In PDOs derived from CF patients
+(right), CFTR does not work properly and water is not transported causing PDOs to appear shrunken or shriveled Reference Images Class I PDOs Before and After KB407 Treatment Patient 1 Patient 2 KB407 is an investigational therapy being studied in
+preclinical trials
+
+In vivo studies (mice and nonhuman
+primate) demonstrate successful nebulization of KB407 with broad distribution throughout the lung; no toxicity or significant safety findings were observed
+
+KB407 is effectively delivered to
+the lungs of healthy and CFTR-/- mice Group No. Mouse Strain Test Article Route of Administration Termination 1 C57BL/6J Vehicle Nebulization 48h 2 C57BL/6J KB407 Nebulization 48h 3 Cftrtm1UncTg(FABPCFTR)1 Jaw/J KB407 Nebulization 48h 3 groups of 4
+mice were simultaneously dosed with a single, low dose of KB407 Mice were observed and vitals were monitored for 2 days with no adverse findings After 2 days, whole blood and lung tissue were analyzed for presence of KB407 vector. All blood samples
+below the limit of detection suggesting no systemic exposure qPCR analysis shows vector transduction and CFTR expression evenly throughout the lung KB407 is an investigational therapy being studied in preclinical trials
+
+Nebulized KB407 does not induce
+inflammation or cell infiltration Qualitative (right) and quantitative (below) analysis shows no evidence of local immune activation Certified pathologist found no adverse safety findings (fibrosis, necrosis, immune cell infiltration or immune
+activation) in any examined lung tissues There were no significant changes in cell infiltration between placebo or KB407 exposed animals KB407 is an investigational therapy being studied in preclinical trials
+
+KB407 was safe and well tolerated a
+nonhuman primate A single cynomolgus macaque received 2 doses of KB407 two weeks apart A single monkey received 3 serial doses of vehicle alone, KB407 low dose and KB407 high dose over 19 days At day 19 (2 days following high dose KB407) animals
+were sacrificed and fill body bioanalysis was conducted The left lung was used for microscopic analysis, the right lung was evaluated via qPCR and qRT-PCR KB407 was safe and well tolerated No abnormal cage-side/clinical observations throughout study
+All blood samples below the limit of detection for KB407 No gross findings noted at time of necropsy Hematology and clinical chemistry testing showed no significant changes before vs after any dose administered Day 0 Day 19 Blood Collections Vehicle
+KB407 (low dose) KB407 (high dose) Tissue Harvest KB407 and CFTR was detected throughout lung tissue KB407 is an investigational therapy being studied in preclinical trials
+
+KB407 Program Summary KB407 infects
+cells derived from CF patient airways in a dose-dependent manner, resulting in robust expression of human CFTR at the transcript and protein levels The vector efficiently produces functional, full-length CFTR protein that properly traffics to the
+cell membrane KB407 transduction leads to a striking alteration of organoid morphology, from a compact budding CF phenotype to a wild-type phenotype, irrespective of the underlying CFTR mutation, within 24 hours of infection at MOIs ranging from 1
+to 40 The corrected cystic morphology of multiple CF PDOs exposed to low doses of KB407 suggests that high levels of exogenous CFTR expressed in a minority of cells is sufficient to establish disease correction When delivered via nebulization, KB407
+was distributed broadly throughout the lung of mice and a nonhuman primate, resulting in robust human CFTR expression Nebulized KB407 was safe and well tolerated, with no toxicity or significant adverse findings after the initial or repeat dose of
+vector
+
+KB407 Next Steps GLP toxicity study
+in 40 nonhuman primates ongoing Clinical trial initiation anticipated in 2021
+
+KB407 for the treatment of cystic
+fibrosis November 2020

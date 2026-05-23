@@ -1,0 +1,439 @@
+8-K
+
+Alkermes plc. false 0001520262 0001520262 2025-10-22 2025-10-22
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): October 22, 2025
+
+ 
+
+ 
+
+ALKERMES PUBLIC LIMITED COMPANY
+
+ 
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Ireland
+
+ 
+
+001-35299
+
+ 
+
+98-1007018
+
+(State or other jurisdiction
+
+ 
+
+(Commission
+
+ 
+
+(IRS Employer
+
+of incorporation)
+
+ 
+
+File Number)
+
+ 
+
+Identification No.)
+
+ 
+
+Connaught House, 1 Burlington Road
+
+Dublin 4, Ireland D04 C5Y6
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code: + 353-1-772-8000
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Ordinary shares, $0.01 par value
+
+ 
+
+ALKS
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Transaction Agreement
+
+On October 22, 2025 (the “Agreement Date”), Alkermes plc (“Alkermes”), issued an announcement (the “Rule 2.7 Announcement”) pursuant to Rule 2.7 of the Irish Takeover Panel Act 1997, Takeover Rules, 2022 (the “Irish Takeover Rules”) disclosing that the respective boards of directors of Alkermes and Avadel Pharmaceuticals plc, an Irish public limited company (“Avadel”), had reached an agreement on the terms of a cash and contingent value right offer for Avadel by Alkermes, pursuant to which Alkermes will acquire the entire issued and to be issued ordinary share capital of Avadel (such proposed offer, the “Acquisition”), for $18.50 per ordinary share, nominal value $0.01 per share, of Avadel (each, an “Avadel Share”), payable in cash at closing (the “Cash Consideration”). In addition, Alkermes will provide Avadel shareholders a non-transferable contingent value right entitling holders to a potential additional cash payment of $1.50 per Avadel Share, contingent upon achievement of the specified milestones set forth in the CVR Agreement (as defined below) (such contingent value rights, the “CVRs”). The Acquisition has been recommended by the boards of directors of Alkermes and Avadel.
+
+In connection with the Acquisition, Alkermes and Avadel entered into a transaction agreement, dated as of October 22, 2025 (the “Transaction Agreement”), pursuant to which the Acquisition is expected to be effected by means of a court-sanctioned scheme of arrangement (the “Scheme”) under Irish law. As a result of the Scheme, Avadel will become a wholly owned subsidiary of Alkermes. Alkermes reserves the right, subject to the terms of the Transaction Agreement, to elect to implement the Acquisition by way of a takeover offer (as such term is defined in the Irish Takeover Rules) rather than the Scheme.
+
+The Transaction Agreement provides for the following treatment of Avadel’s outstanding equity awards at the Effective Time (as defined in the Transaction Agreement):
+
+ 
+
+ 
+
+•
+
+ 
+
+each option to purchase Avadel Shares granted under any Avadel equity incentive plan, program or arrangement under which equity awards are outstanding (the “Avadel Share Plans”) (each, an “Avadel Stock Option”) having an exercise price less than the Cash Consideration (each such option, an “Avadel Cash-Out Stock Option”) that is outstanding immediately prior to the Effective Time, whether or not vested, will be cancelled and converted into the right to receive (without interest), in consideration of the cancellation of such Avadel Cash-Out Stock Option, (i) an amount in cash, without interest and less any applicable tax and any other mandatory withholdings, equal to the product of (x) the total number of Avadel Shares subject to such Avadel Cash-Out Stock Option immediately prior to the Effective Time multiplied by (y) the excess of the Cash Consideration over the applicable exercise price per Avadel Share under such Avadel Cash-Out Stock Option and (ii) one CVR for each Avadel Share subject to such Avadel Cash-Out Stock Option immediately prior to the Effective Time (without regard to vesting);
+
+ 
+
+ 
+
+•
+
+ 
+
+each Avadel Stock Option that is not an Avadel Cash-Out Stock Option and any Avadel Stock Option having an exercise price equal to or greater than the Cash Consideration that is outstanding immediately prior to the Effective Time, whether or not vested, will be cancelled for no consideration;
+
+ 
+
+ 
+
+•
+
+ 
+
+each award of restricted stock units representing the right to receive one or more Avadel Shares or the cash value thereof upon vesting and settlement, whether granted pursuant to the Avadel Share Plans or otherwise (“Avadel RSU Awards”) that is outstanding will be cancelled and, in exchange therefor, the holder of such cancelled Avadel RSU Award will be entitled to receive (without interest), in consideration of the cancellation of such Avadel RSU Award, (A) an amount in cash (less applicable tax and any other mandatory withholdings) equal to the product of (1) the total number of Avadel Shares subject to such Avadel RSU Award immediately prior to the Effective Time multiplied by (2) the Cash Consideration and (B) one CVR for each Avadel Share subject to such Avadel RSU Award immediately prior to the Effective Time (without regard to vesting); and
+
+ 
+
+ 
+
+•
+
+ 
+
+each award of Avadel Shares subject to vesting restrictions or forfeiture back to Avadel (each, an “Avadel Restricted Stock Award”), whether granted pursuant to the Avadel Share Plans or otherwise that is outstanding immediately prior to the Effective Time will vest in full as of immediately prior to the Effective Time and will be treated in the same manner as all other Avadel Shares.
+
+ 
+
+Conditions to Completion of the Acquisition
+
+The completion of the Acquisition is subject to customary conditions, including, among other things, the approval of the Scheme by Avadel’s shareholders, the sanction of the Scheme by the Irish High Court (the “High Court”), the registration of the Court Order (as defined in the Transaction Agreement) with the Registrar of Companies in Dublin, Ireland and the receipt of required antitrust clearances in the United States. The conditions to the completion of the Acquisition are set out in full in Appendix III to the Rule 2.7 Announcement (the “Conditions Appendix”). Alkermes expects that, subject to the satisfaction or waiver of all conditions set forth in the Conditions Appendix, the Acquisition will be completed in the first quarter of 2026.
+
+Representations and Warranties; Covenants
+
+The Transaction Agreement contains customary representations and warranties with respect to Alkermes and Avadel. The Transaction Agreement also contains customary covenants, including, among others, covenants requiring Avadel to conduct its business in the ordinary course during the period between execution of the Transaction Agreement and the completion of the Acquisition.
+
+The Transaction Agreement also requires Avadel not to, directly or indirectly, among other things, (i) initiate or solicit, or take any action to facilitate or knowingly encourage (including by way of furnishing information to any person in connection with) the submission or announcement of any Company Alternative Proposal (as defined in the Transaction Agreement) or any indication, proposal or inquiry that would reasonably be expected to lead to a Company Alternative Proposal, (ii) enter into, continue or otherwise participate in any discussions or negotiations with, furnish any non-public information relating to Avadel or any of its subsidiaries to, or afford access to the business, properties, assets, books, or records of Avadel or any of its subsidiaries to, otherwise cooperate in any way with, or assist, participate in, facilitate or knowingly encourage any effect by, any third party that would reasonably be expected to seek to make, or has made, a Company Alternative Proposal, (iii) effect a Company Board Change of Recommendation (as defined in the Transaction Agreement), (iv) take any action to make anti-takeover laws and regulations inapplicable to any third party or any Company Alternative Proposal, (v) waive, terminate, modify or fail to enforce any standstill or similar obligations of any person with respect to Avadel or any of its subsidiaries or (vi) enter into any agreement that would reasonably be expected to lead to, a Company Alternative Proposal (other than a Company Alternative Proposal NDA (as defined in the Transaction Agreement)). The Transaction Agreement contains a customary “fiduciary out” provision that allows Avadel, under certain specified circumstances, to furnish information to, or engage in negotiations or discussions with, third parties with respect to a Company Alternative Proposal if Avadel complies with certain notice and other requirements (including affording Alkermes certain matching rights) and the board of directors of Avadel (the “Avadel Board”) determines in good faith (after consultation with its outside legal counsel and financial advisor) that (x) such Company Alternative Proposal is a Company Superior Proposal (as defined in the Transaction Agreement) and (y) its failure to take such actions would be inconsistent with its fiduciary duties under applicable law. Subject to certain exceptions, the Transaction Agreement also requires Avadel to hold an extraordinary general meeting of Avadel shareholders and requires the Avadel Board to recommend approval of the Acquisition to Avadel shareholders at such extraordinary general meeting.
+
+Termination and Expense Reimbursement
+
+The Transaction Agreement may be terminated and the transactions contemplated by the Transaction Agreement, including the Acquisition, may be abandoned at any time prior to the Effective Time by mutual written consent of Alkermes and Avadel, subject to the consent of the Irish Takeover Panel. The Transaction Agreement also contains certain customary termination rights, including, among others and subject to certain conditions, the right of either party to terminate the Transaction Agreement if (i) the requisite Avadel shareholder approvals are not obtained at the Court Meeting (as defined in the Transaction Agreement) and/or at the extraordinary general meeting of Avadel’s shareholders, (ii) the Scheme has not become effective by 5:00 p.m., New York City time, on the date that is 9 months following the date of the Agreement (which date is subject to automatic extension to the date that is 12 months following the date of the Agreement if regulatory approvals have not yet been obtained), (iii) the other party breaches or fails to perform in any material respect any of its covenants or other agreements or any of the other party’s representations or warranties are inaccurate, and such breach, failure to perform or inaccuracy would result in certain of the conditions set forth in the Conditions Appendix not being satisfied, subject to a cure period, (iv) there is in effect any applicable law or final and non-appealable order by any governmental entity of competent jurisdiction that permanently restrains, enjoins, makes
+
+ 
+
+illegal or otherwise prohibits the consummation of the Acquisition or (v) the High Court declines or refuses to sanction the Scheme, unless Alkermes and Avadel agree in writing to appeal the decision of the High Court. Avadel also has the right, prior to the receipt of the requisite Avadel shareholder approvals, to terminate the Transaction Agreement to accept a Company Superior Proposal in certain circumstances, and Alkermes also has the right, prior to receipt of the requisite Avadel shareholder approvals, to terminate the Transaction Agreement if a Company Board Change of Recommendation occurs.
+
+Avadel has agreed to pay to Alkermes, in certain circumstances, an amount equal to the documented, specific and quantifiable third-party costs and expenses incurred, directly or indirectly, by Alkermes or its subsidiaries, or on their behalf, for the purposes of, in preparation for, or in connection with the Acquisition, including third party costs and expenses incurred in connection with exploratory work carried out in contemplation of and in connection with the Acquisition, legal, financial and commercial due diligence, the arrangement of financing and the engagement of third party representatives to assist in the process (together with any applicable Irrecoverable VAT (as defined in the Transaction Agreement) thereon). The maximum amount payable by Avadel to Alkermes in such circumstances is an amount equal to one percent (1%) of the aggregate value of the total Cash Consideration payable in connection with the Acquisition.
+
+The foregoing descriptions of the Transaction Agreement and the Conditions Appendix do not purport to be complete and are subject to, and qualified in their entireties by, the full text of the Transaction Agreement and the Conditions Appendix, copies of which are filed herewith as Exhibit 2.1 and Exhibit 2.2, respectively, and are incorporated into this Item 1.01 by reference.
+
+The Transaction Agreement has been filed as an exhibit herewith pursuant to the applicable rules and regulations of the U.S. Securities and Exchange Commission the (“SEC”) to provide investors with information regarding its terms. It is not intended to provide any other factual information about Alkermes, Avadel or their respective subsidiaries or affiliates or to modify or supplement any factual disclosures about Alkermes or Avadel included in their respective public reports filed with the SEC. The representations, warranties and covenants contained in the Transaction Agreement were made only for purposes of the Transaction Agreement and as of the specific dates therein, were solely for the benefit of the parties to the Transaction Agreement, may be subject to limitations, qualifications or other particulars agreed upon by the contracting parties, including being qualified by confidential disclosures, and were made for the purposes of allocating contractual risk among the parties to the Transaction Agreement instead of establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Investors are not third-party beneficiaries under the Transaction Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of representations and warranties may change after the date of the Transaction Agreement, which subsequent information may or may not be fully reflected in public disclosures. The Transaction Agreement should not be read alone, but should instead be read in conjunction with the other information regarding Alkermes and Avadel and the transactions contemplated by the Transaction Agreement that will be contained in, incorporated by reference into or attached as an annex to the definitive proxy statement (the “Proxy Statement”) that Avadel will file in connection with the transactions contemplated by the Transaction Agreement as well as in the other filings that each of Alkermes and Avadel will make with the SEC.
+
+Contingent Value Rights Agreement
+
+At or prior to the Effective Time, Alkermes and a duly qualified rights agent (the “Rights Agent”) will enter into a contingent value rights agreement, substantially in the form attached as Exhibit A to the Transaction Agreement (the “CVR Agreement”). Pursuant to the Transaction Agreement, Alkermes will issue CVRs entitling the holder to receive the Milestone Payment (as defined in the CVR Agreement) upon the achievement of the Milestone (as defined in the CVR Agreement) to the record holders of (i) outstanding Avadel Shares, (ii) Avadel Cash-Out Stock Options and (iii) Avadel RSU Awards.
+
+Each CVR represents a non-transferable contractual right to receive $1.50 per Avadel Share, settleable in cash, with settlement conditioned upon the occurrence of each of: (1) approval by the United States Food and Drug Administration (the “FDA”) of an application submitted to the FDA for the commercial marketing and sale of the
+
+ 
+
+CVR Product (as defined in the CVR Agreement) in the United States of America for the Indication (as defined in the CVR Agreement); provided, that, such approval shall be deemed achieved upon receipt of written notice from the FDA that the CVR Product has been approved for commercial marketing and sale for the Indication in the United States and which is not blocked by any third party orphan-drug exclusivity, regardless of whether any risk evaluation and mitigation strategies, or other conditions are imposed by the FDA (“LUMRYZ Approval”); and (2) the dismissal of the Claims (as defined in the CVR Agreement) with prejudice by the United States District Court for the District of Delaware pursuant to the Settlement and License Agreement, by and between Jazz Pharmaceuticals, Inc. and Jazz Pharmaceuticals Ireland Limited, on the one hand, and Avadel CNS Pharmaceuticals and Flamel Ireland Limited, on the other hand, dated October 21, 2025 (such occurrence, the “Legal Event,” and together with the LUMRYZ Approval, the “Milestone”) prior to December 31, 2028 (the “Milestone Expiration”). If the FDA has issued one or more orders that impose a clinical hold on the investigation of the CVR Product, the Milestone shall not be deemed achieved unless or until no such order is in effect.
+
+The CVR will be subject to the terms and subject to the conditions set forth in a CVR Agreement to be entered into by and between Alkermes and the Rights Agent.
+
+The CVRs are contractual rights only and not transferable except under certain limited circumstances, will not be certificated or evidenced by any instrument and will not be registered with the SEC or listed for trading. The CVRs will not have any voting or dividend rights and will not represent any equity or ownership interest in Alkermes, Avadel or any of their affiliates.
+
+Any potential payout of the CVR is subject to various risks and uncertainties related to the development of LUMRYZ and FDA clearances as more fully described in Avadel’s periodic reports filed with the SEC.
+
+There can be no assurance that the Milestone will be achieved prior to the Milestone Expiration or termination of the CVR Agreement, or that any payment will be required of Alkermes with respect to the Milestone.
+
+The foregoing description of the CVR Agreement does not purport to be complete and is subject to, and is qualified in its entirety by, the full text of the form of the CVR Agreement, a copy of which is attached as Exhibit A to the Transaction Agreement filed as Exhibit 2.1 herewith, and is incorporated into this Item 1.01 by reference.
+
+Bridge Term Loan Credit Facility
+
+On the Agreement Date, Alkermes, as the TopCo Borrower, Alkermes, Inc., as the U.S. Borrower, JPMorgan Chase Bank, N.A., as Administrative Agent, Sole Lead Arranger and Sole Bookrunner, and the lenders party thereto entered into a Bridge Term Loan Credit Agreement (the “Bridge Credit Agreement”). The Bridge Credit Agreement provides for a senior secured bridge term loan facility (the “Bridge Credit Facility”) in an aggregate principal amount of up to $1,231,459,813.22 that is available to finance the payment of Cash Consideration and fees and expenses related to the Acquisition. The commitments under the Bridge Credit Facility will be reduced by the net cash proceeds received by Alkermes or its subsidiaries in connection with debt and equity issuances and non-ordinary course asset dispositions, with certain exceptions specified in the Bridge Credit Agreement. Loans under the Bridge Credit Facility will be available after the Agreement Date, subject to the satisfaction of certain conditions set forth in the Bridge Credit Agreement, and will mature on the date that is 364 days after the date on which the loans are funded under the Bridge Credit Facility. The commitments under the Bridge Credit Facility, unless previously terminated, terminate on the earlier of (i) the date on which all of the consideration payable in respect of the Acquisition has been paid in full without the making of any loans under the Bridge Credit Facility and (ii) the date on which a Mandatory Cancellation Event (as defined in the Bridge Credit Agreement) occurs or exists.
+
+To the extent borrowings under the Bridge Credit Facility are made, loans will bear interest at an annual rate of, at Alkermes’ option, either (i) the Term SOFR Rate (as defined in the Bridge Credit Agreement) plus a margin of 3.00% per annum or (ii) the Alternate Base Rate (as defined in the Bridge Credit Agreement) plus a margin of 2.00% per annum; provided that, in each case, the margin shall increase 0.25% on the date occurring 91 days after the date on which the loans under the Bridge Credit Facility are funded and on each date occurring 90 days thereafter. Alkermes has agreed to pay certain fees and expenses in connection with the Bridge Credit Facility, as set forth in the Bridge Credit Facility and certain related fee letters.
+
+The Bridge Credit Agreement requires the maintenance of a maximum Secured Net Leverage Ratio (as defined in the Bridge Credit Agreement) and a minimum Consolidated Interest Coverage Ratio (as defined in the Bridge Credit Agreement), in each case, with the levels set forth in the Bridge Credit Agreement, as of the last day of any fiscal quarter of Alkermes ending after the date on which the loans under the Bridge Credit Facility are funded. In addition, the Bridge Credit Agreement contains customary affirmative and negative covenants that apply after the Agreement Date, including limitations on indebtedness, liens, mergers, consolidations, sales of assets, investments, transactions with affiliates, restricted payments and sales and leasebacks.
+
+The Bridge Credit Agreement is guaranteed by subsidiary guarantors and secured by a lien on substantially all of the assets of the borrowers and the subsidiary guarantors.
+
+The receipt of financing by Alkermes is not a condition to Alkermes’ obligation to consummate the Acquisition.
+
+The Bridge Credit Agreement is designed to ensure compliance with the cash confirmation requirements from the announcement of the Acquisition under the Irish Takeover Code and, accordingly, includes customary Irish certain funds provisions.
+
+J.P. Morgan Securities LLC, financial advisor to Alkermes is satisfied that sufficient resources are available to satisfy in full the Cash Consideration payable to Avadel shareholders under the terms of the Acquisition.
+
+The foregoing description of the Bridge Credit Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Bridge Credit Agreement, a copy of which is filed as Exhibit 10.1 hereto and incorporated herein by reference into this Item 1.01.
+
+ 
+
+Item 2.02
+
+Results of Operations and Financial Condition.
+
+On October 22, 2025, Alkermes hosted an investor webcast to discuss the Acquisition and made available a copy of the related presentation, which includes information about Alkermes’ cash and total investments as of September 30, 2025. A copy of the presentation is furnished herewith as Exhibit 99.2.
+
+The information in this Item 2.02 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor incorporated by reference in any filing under the Securities Act of 1933, as amended (the “Securities Act”), or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 2.03
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+On the Agreement Date, Alkermes entered into the Bridge Credit Agreement as described under Item 1.01 above. The foregoing description of the Bridge Credit Agreement set forth in Item 1.01 and the full text of the Bridge Credit Agreement, a copy of which is filed herewith as Exhibit 10.1, is incorporated into this Item 2.03 by reference.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On October 22, 2025, Alkermes (a) issued the Rule 2.7 Announcement disclosing that the boards of directors of Alkermes and Avadel had reached agreement on the terms of the Acquisition and providing information about such terms and (b) hosted an investor webcast to discuss the Acquisition. Copies of the Rule 2.7 Announcement and of the presentation are furnished herewith as Exhibit 99.1 and Exhibit 99.2, respectively, and are incorporated by reference into this Item 7.01.
+
+The information in this Item 7.01, and in Exhibits 99.1 and 99.2 furnished herewith, shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor incorporated by reference in any filing under the Securities Act, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+EXHIBIT INDEX
+
+ 
+
+Exhibit No.
+
+  
+
+Description
+
+2.1
+
+  
+
+Transaction Agreement, dated as of October 22, 2025 by and among Alkermes plc and Avadel Pharmaceuticals plc.*
+
+2.2
+
+  
+
+Appendix III to the Rule 2.7 Announcement, dated as of October 22, 2025 (Conditions Appendix).
+
+10.1
+
+  
+
+Bridge Credit Agreement, dated as of October 22, 2025 by and among Alkermes plc, Alkermes, Inc. and JPMorgan Chase Bank, N.A.*
+
+99.1
+
+  
+
+Rule 2.7 Announcement, dated as of October 22, 2025.
+
+99.2
+
+  
+
+Alkermes plc Investor presentation dated October 22, 2025.
+
+104
+
+  
+
+Cover page interactive data file (embedded within the Inline XBRL document).
+
+ 
+
+*
+
+Certain schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The registrant agrees to furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon request.
+
+Responsibility Statement Required by the Takeover Rules
+
+The members of Alkermes’ board of directors accept responsibility for the information contained in this Current Report on Form 8-K other than that relating to Avadel, its Subsidiaries and Avadel’s board of directors and members of their immediate families, related trusts and persons connected with them. To the best of the knowledge and belief of the members of Alkermes’ board of directors (who have taken all reasonable care to ensure that such is the case), the information contained in this Current Report on Form 8-K for which they accept responsibility is in accordance with the facts and does not omit anything likely to affect the import of such information.
+
+No Offer or Solicitation
+
+This Current Report on Form 8-K is for information purposes only and is not intended to and does not constitute, or form part of, an offer, invitation or the solicitation of an offer or invitation to purchase, otherwise acquire, subscribe for, sell or otherwise dispose of any securities, or the solicitation of any vote or approval in any jurisdiction, pursuant to the transaction or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable Law.
+
+The planned Acquisition will be implemented by means of a High Court sanctioned scheme of arrangement on the terms provided for in the scheme document (or, if the transaction is implemented by way of a takeover offer, the takeover offer document), which will contain the full terms and conditions of the Acquisition, including details of how Avadel’s shareholders may vote in respect of the transactions contemplated by the Transaction Agreement, including the Acquisition. Any decision in respect of, or other response to, the proposed transaction, should be made only on the basis of the information contained in the scheme document (or if the transaction is implemented by way of a takeover offer, the takeover offer document).
+
+Note Regarding Forward-Looking Statements
+
+Certain statements set forth in this Current Report on Form 8-K constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, including, but not limited to, statements concerning the Acquisition and the terms, structure and timing for expected completion of the Acquisition. Alkermes cautions that forward-looking statements are inherently uncertain. The forward-looking statements are neither promises nor guarantees and
+
+ 
+
+they are necessarily subject to a high degree of uncertainty and risk. Actual performance and results may differ materially from those expressed or implied in the forward-looking statements due to various risks and uncertainties. These risks and uncertainties include, among others: whether the Acquisition will be pursued or consummated on the anticipated timelines or at all; whether the regulatory approvals, shareholder approvals or other conditions necessary for consummation of the Acquisition will be obtained, satisfied or waived, as applicable, on the anticipated timelines or at all; even if the acquisition is consummated, the expected benefits and synergies of the acquisition may not be achieved and the businesses of Alkermes and Avadel may not be effectively integrated; there may be significant changes in transaction costs and/or unknown or inestimable liabilities and potential litigation associated with the Acquisition; the possibility that competing offers may be made for Avadel; clinical development activities may not be initiated or completed on expected timelines or at all; and those risks and uncertainties described under the heading “Risk Factors” in Alkermes’ Annual Report on Form 10-K for the year ended Dec. 31, 2024 and in subsequent filings made by Alkermes with the U.S. Securities and Exchange Commission (SEC), which are available on the SEC’s website at www.sec.gov. Existing and prospective investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. Except as required by law, Alkermes disclaims any intention or responsibility for updating or revising any forward-looking statements contained in this Current Report on Form 8-K.
+
+Disclosure Requirements of the Takeover Rules
+
+Under the provisions of Rule 8.3(a) of the Takeover Rules, any person who is ‘interested’ in 1% or more of any class of ‘relevant securities’ of Avadel must make an ‘opening position disclosure’ following the commencement of the ‘offer period’. An ‘opening position disclosure’ must contain the details contained in Rule 8.6(a) of the Takeover Rules, including, among other things, details of the person’s ‘interests’ and ‘short positions’ in any ‘relevant securities’ of Avadel. An ‘opening position disclosure’ by a person to whom Rule 8.3(a) applies must be made by no later than 3:30 pm (E.T.) on the day falling ten ‘business days’ following the commencement of the ‘offer period’. Relevant persons who deal in any ‘relevant securities’ prior to the deadline for making an ‘opening position disclosure’ must instead make a ‘dealing’ disclosure as described below.
+
+Under the provisions of Rule 8.3(b) of the Takeover Rules, if any person is, or becomes, ‘interested’ in 1% or more of any class of ‘relevant securities’ of Avadel, that person must publicly disclose all ‘dealings’ in any ‘relevant securities’ of Avadel during the ‘offer period’, by no later than 3:30 p.m. (E.T.) on the ‘business day’ following the date of the relevant transaction.
+
+If two or more persons cooperate on the basis of any agreement either express or tacit, either oral or written, to acquire an ‘interest’ in ‘relevant securities’ of Avadel or any securities exchange offeror, they will be deemed to be a single person for the purpose of Rule 8.3 of the Takeover Rules.
+
+In addition, each of Avadel and any offeror must make an ‘opening position disclosure’ by no later than 12:00 noon (E.T.) on the date falling ten ‘business days’ following the commencement of the ‘offer period’ or the announcement that first identifies a securities exchange offeror, as applicable, and disclose details of any ‘dealings’ by it or any person ‘acting in concert’ with it in ‘relevant securities’ during the ‘offer period’, by no later than 12:00 noon (E.T.) on the business day following the date of the transaction (see Rules 8.1, 8.2 and 8.4).
+
+ 
+
+A disclosure table, giving details of the companies in whose ‘relevant securities’ ‘opening position’ and ‘dealings’ should be disclosed can be found on the Irish Takeover Panel’s website at www.irishtakeoverpanel.ie.
+
+“Interests” in securities arise, in summary, when a person has long economic exposure, whether conditional or absolute, to changes in the price of securities. In particular, a person will be treated as having an ‘interest’ by virtue of the ownership or control of securities, or by virtue of any option in respect of, or derivative referenced to, securities.
+
+Terms in quotation marks are defined in the Takeover Rules, which can be found on the Irish Takeover Panel’s website. If you are in any doubt as to whether or not you are required to disclose an ‘opening position’ or ‘dealing’ under Rule 8, please consult the Irish Takeover Panel’s website at www.irishtakeoverpanel.ie or contact the Irish Takeover Panel on telephone number +353 1 678 9020.
+
+ 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ALKERMES PLC
+
+Date: October 22 , 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ David J. Gaffin
+
+ 
+
+ 
+
+ 
+
+David J. Gaffin
+
+ 
+
+ 
+
+ 
+
+Secretary

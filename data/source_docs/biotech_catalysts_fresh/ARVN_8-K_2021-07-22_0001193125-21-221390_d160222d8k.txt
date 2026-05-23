@@ -1,0 +1,311 @@
+8-K
+
+false 0001655759 0001655759 2021-07-21 2021-07-21
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 21, 2021
+
+ 
+
+ 
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38672
+
+ 
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+ 
+
+06511
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ 
+
+ARVN
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+Collaboration Agreement
+
+On July 21, 2021, Arvinas, Inc. (the “Company”) entered into a Collaboration Agreement (the “Collaboration Agreement”) with Pfizer Inc. (“Pfizer”), pursuant to which the Company granted Pfizer worldwide co-exclusive rights to develop and commercialize products containing the Company’s proprietary compound ARV-471 (each, a “Licensed Product”).
+
+Under the Collaboration Agreement, Pfizer will make an upfront payment of $650 million to the Company. As discussed further below, pursuant to the terms of the Equity Transaction (as defined below), Pfizer will also purchase $350 million of the Company’s common stock on the closing of the Equity Transaction, which is subject to customary closing conditions and clearances, including clearance under the Hart-Scott Rodino Antitrust Improvements Act of 1976, as amended (“HSR”). In addition, the Company will be eligible to receive up to an additional $1.4 billion in contingent payments based on specified regulatory and sales-based milestones for the Licensed Products. Of the total contingent payments, $400 million in regulatory milestones are related to marketing approvals.
+
+The parties will share equally (50/50) all development costs (including costs for conducting any clinical trials) for the Licensed Products, subject to certain exceptions. Except for certain regions described below, the parties will also share equally (50/50) all profits and losses in commercialization and medical affairs activities for the Licensed Products in all other countries, subject to certain exceptions.
+
+The Company will be the marketing authorization holder and, subject to marketing approval, book sales in the United States, while Pfizer will hold marketing authorizations outside the United States. The parties will determine which, if any, regions within the world will be solely commercialized by one party, and in such region the parties will adjust their share of all profits and losses for the Licensed Products based on the role each party will be performing.
+
+Unless earlier terminated in accordance with its terms, the Collaboration Agreement will expire on a Licensed Product-by-Licensed Product and country-by-country basis when such Licensed Product is no longer commercialized or developed for commercialization in such country. Pfizer may terminate the Collaboration Agreement for convenience in its entirety or on a region-by-region basis subject to certain notice periods. Either party may terminate the Collaboration Agreement for the other party’s uncured material breach or insolvency. Subject to applicable terms of the Collaboration Agreement, including certain payments to Pfizer upon termination for the Company’s uncured material breach, effective upon termination of the Collaboration Agreement, the Company is entitled to retain specified licenses to be able to continue to exploit the Licensed Products.
+
+Subject to specified exceptions, the Company and Pfizer have each agreed not to directly or indirectly research, develop, or commercialize any competing products outside of the Collaboration Agreement anywhere in the world during the term of the Collaboration Agreement.
+
+The foregoing description of the material terms of the Collaboration Agreement is qualified in its entirety by reference to the complete text of the Collaboration Agreement, which is filed as Exhibit 10.1 hereto and incorporated by reference herein.
+
+Stock Purchase Agreement
+
+In connection with the execution of the Collaboration Agreement, on July 21, 2021 (the “Signing Date”), Pfizer and the Company also entered into a stock purchase agreement (the “Stock Purchase Agreement”) for the sale and issuance of 3,457,815 shares of the Company’s common stock (the “Shares”) to Pfizer at a price of $101.22 per share, for an aggregate purchase price of approximately $350 million (the “Equity Transaction”). The consummation of the Equity Transaction is subject to certain conditions, including the receipt of clearance under HSR and the satisfaction or waiver of other customary closing conditions. The parties have agreed to hold the closing of the purchase and sale of the Shares on the second business day after the satisfaction or waiver of such closing conditions. The Stock Purchase Agreement terminates on the date that is one year from the signing date (the “Termination Date”) if the Equity Transaction has not closed by such date.
+
+Pursuant to the terms of the Stock Purchase Agreement, Pfizer has agreed not to, and to cause its affiliates not to, sell or transfer the Shares without the prior written approval of the Company, subject to specified conditions (the “Lock-Up Restrictions”). The Lock-Up Restrictions terminate upon the earliest to occur of one year from the closing of the Equity Transaction, the date upon which Pfizer holds less than 5% of the outstanding common stock of the Company, the occurrence of a change of control, liquidation or dissolution of the Company or the deregistration of the Company’s
+
+common stock. The Stock Purchase Agreement may be terminated upon the mutual consent of the parties. Either party may terminate the Stock Purchase Agreement upon written notice to the other party if certain closing conditions are unable to be met. Subject to specified exceptions, either party also may terminate the Stock Purchase Agreement prior to the closing of the Equity Transaction upon material breach of certain covenants or agreements by the other party or upon certain representations and warranties of such other party becoming untrue. In the event the Stock Purchase Agreement is terminated because the condition related to receipt of HSR clearance has not been met by the Termination Date, Pfizer has agreed to pay a termination fee to the Company in the amount of $40 million.
+
+The foregoing description of the terms of the Stock Purchase Agreement is qualified in its entirety by reference to the full text of the Stock Purchase Agreement, which is filed as Exhibit 10.2 hereto and incorporated by reference herein.
+
+Investor Agreement
+
+In connection with the execution of the Collaboration Agreement and the Stock Purchase Agreement, on July 21, 2021, Pfizer and the Company entered into an investor agreement (the “Investor Agreement”) providing for certain standstill restrictions. Pursuant to the terms of the Investor Agreement, Pfizer may not, for a period beginning on the Signing Date and ending on the two year anniversary of the Signing Date, without the prior approval of the Company and subject to specified conditions, directly or indirectly acquire shares of the Company’s outstanding common stock, solicit proxies or consents with respect to any matter, propose a merger, tender or exchange offer or purchase of the Company’s assets or businesses, or undertake other specified actions related to the potential acquisition of additional equity interests in the Company (the “Standstill Restrictions”). The Standstill Restrictions terminate upon the occurrence of certain trigger events involving a change of control of the Company.
+
+The foregoing description of the terms of the Investor Agreement is qualified in its entirety by reference to the full text of the Investor Agreement, which is filed as Exhibit 10.3 hereto and incorporated by reference herein.
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On July 22, 2021, in connection with its announcement of the Collaboration Agreement and related transactions, the Company plans to provide certain financial information for the quarter ended June 30, 2021. The Company estimates that, on a preliminary and unaudited pro forma basis, and subject to the consummation of the collaboration with Pfizer and the related transactions described herein, it had cash, cash equivalents and marketable securities of approximately $1.6 billion as of June 30, 2021. This estimate is based on the Company’s expectation that it will report actual cash, cash equivalents and marketable securities of approximately $605 million as of June 30, 2021. This estimate of the Company’s cash, cash equivalents and marketable securities and pro forma cash, cash equivalents and marketable securities as of June 30, 2021 is preliminary and is subject to change upon completion of the Company’s financial statement closing procedures. It is possible that the Company may identify items that require the Company to make adjustments to the estimate of the Company’s actual or pro forma cash, cash equivalents and marketable securities as set forth above, and those changes could be material. Accordingly, undue reliance should not be placed on this preliminary estimate. The preliminary estimate is not necessarily indicative of any future period and should be read together with the section of the Company’s Annual Report on Form 10-K for the year ended December 31, 2020 (the “2020 Annual Report”) titled “Risk Factors” and the Company’s financial statements and the notes to those financial statements contained in the 2020 Annual Report.
+
+The information in this Item 2.02 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+The information set forth in Item 1.01 above under the caption “Stock Purchase Agreement” is incorporated herein by reference. The Company expects the shares to be issued in reliance on the exemption from registration under Section 4(a)(2) of the Securities Act of 1933, as amended, for a transaction by an issuer not involving any public offering within the meaning of Section 4(a)(2) thereunder, and/or Regulation D promulgated thereunder.
+
+Item 7.01 Regulation FD Disclosure.
+
+On July 22, 2021, the Company issued a press release in connection with its entry into the Collaboration Agreement and related transactions. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+Item 8.01 Other Items.
+
+On July 22, 2021, the Company plans to announce certain updates regarding its development plan for the Company’s proprietary compound ARV-471 and other clinical programs. The portion of the presentation regarding the Company’s pipeline updates and anticipated milestones is attached hereto as Exhibit 99.2 and is incorporated by reference herein.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the closing of the collaboration with Pfizer, the receipt of upfront, milestone and other payments under the Pfizer collaboration, the investment by Pfizer in the Company’s common stock in connection with the collaboration, the future development and potential marketing approval and commercialization of ARV-471, the potential benefits of the collaboration, the potential advantages and therapeutic benefits of ARV-471 and the Company’s other product candidates, the development and regulatory status of the Company’s product candidates, such as statements with respect to the Company’s lead product candidates, ARV-110, ARV-471 and ARV-766 and other candidates in the Company’s pipeline, the timing of clinical trials and data from those trials and plans for registration for the Company’s product candidates, the Company’s development programs that may lead to the Company’s development of additional product candidates, the potential utility of the Company’s technology and the potential commercialization of any of the Company’s product candidates. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements made by the Company as a result of various risks and uncertainties, including but not limited to: the satisfaction or waiver of the conditions to the closing of the Pfizer collaboration and equity investment, each party’s performance of its obligations under the collaboration, whether the Company and Pfizer will be able to successfully conduct and complete clinical development, obtain marketing approval for and commercialize ARV-471 on the Company’s current timelines or at all and other important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this filing reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+10.1†
+
+  
+
+Collaboration Agreement, dated July 21, 2021, by and between Arvinas, Inc., Arvinas Operations, Inc., Arvinas Estrogen Receptor, Inc. and Pfizer, Inc.
+
+10.2
+
+  
+
+Stock Purchase Agreement, dated July 21, 2021, by and between Arvinas, Inc. and Pfizer, Inc.
+
+10.3†
+
+  
+
+Investor Agreement, dated July 21, 2021, by and between Arvinas, Inc. and Pfizer, Inc.
+
+99.1
+
+  
+
+Press release issued by Arvinas, Inc. on July 22, 2021.
+
+99.2
+
+  
+
+Excerpts from Arvinas, Inc. presentation, dated July 22, 2021.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+†
+
+Portions of this exhibit have been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Date: July 22, 2021
+
+ 
+
+ 
+
+ARVINAS, INC.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Sean Cassidy
+
+ 
+
+ 
+
+ 
+
+Sean Cassidy
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

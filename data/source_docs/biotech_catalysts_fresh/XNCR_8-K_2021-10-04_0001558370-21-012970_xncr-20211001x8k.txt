@@ -1,0 +1,325 @@
+0001326732false00013267322021-10-012021-10-01
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+​
+
+FORM 8-K
+
+ 
+
+​
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+​
+
+Date of Report (Date of earliest event reported):  October 1, 2021
+
+ 
+
+ 
+
+XENCOR, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+​
+
+Delaware
+
+ 
+
+001-36182
+
+ 
+
+20-1622502
+
+(State or other jurisdiction of incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer Identification No.)
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+111 West Lemon Avenue
+
+​
+
+​
+
+​
+
+111 West Lemon Avenue
+
+Monrovia, California
+
+91016
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+​
+
+(626) 305-5900
+
+(Registrant’s telephone number, including area code)
+
+​
+
+N/A
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+​
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+​
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+​
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+​
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+​
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+​
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+ 
+
+XNCR
+
+ 
+
+Nasdaq Global Market
+
+​
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+​
+
+Emerging growth company ☐
+
+​
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+​
+
+​
+
+​
+
+​
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+​
+
+On October 1, 2021, Xencor, Inc. (“Xencor”) entered into a Collaboration and License Agreement (the “Agreement”) with Janssen Biotech, Inc. (“Janssen”) pursuant to which Xencor granted Janssen an exclusive worldwide license to develop, manufacture and commercialize plamotamab and pursuant to which Xencor and Janssen will conduct research and development activities to discover novel CD28 bispecific antibodies. The parties will conduct joint research activities for up to a two-year period to discover XmAb® bispecific antibodies against CD28 and undisclosed B cell tumor-targets with Janssen receiving exclusive worldwide rights, subject to certain Xencor opt-in rights, to develop, manufacture and commercialize pharmaceutical products that contain one or more of such discovered antibodies (“CD28 Licensed Antibodies”).
+
+​
+
+Under the terms of the Agreement, Xencor will receive a $100 million upfront payment. Johnson & Johnson Innovation-JJDC, Inc., will also purchase $25 million of newly issued unregistered shares of Xencor common stock, priced at a 30-day volume-weighted average price of $33.4197 per share. The 748,062 shares of common stock will be subject to customary resale restrictions pursuant to Rule 144 of the Securities Act of 1933. In addition, Xencor is eligible to receive milestone payments and royalties on net sales as follows:
+
+​
+
+●
+
+Plamotamab. Xencor is eligible to receive up to $517.5 million in milestone payments, including $257.5 million in development and regulatory milestones and $260 million in sales milestones, as well as tiered royalties in the mid-teen to low-twenties percent range on net sales of products containing plamotamab, including CD28/plamotamab combination products developed under the agreement.
+
+​
+
+●
+
+CD28 Licensed Antibodies. Xencor is eligible to receive up to $670 in milestone payments, including $410 million in development and regulatory milestones. For any products containing CD28 Licensed Antibodies, but excluding CD28/plamotamab combination products, Xencor is eligible to receive up to a total of $260 million in sales milestones, as well as tiered royalties in the high-single digit to low-double digit percent range on net sales.
+
+​
+
+Xencor will collaborate with Janssen on further clinical development of plamotamab with Janssen paying 80% and Xencor paying 20% of costs, including those for a subcutaneous formulation. Xencor will continue, at its own expense, the previously announced clinical collaboration to evaluate the combination of plamotamab, tafasitamab and lenalidomide in patients with B-cell lymphoma, after which Janssen may opt into cost sharing to further develop the combination after establishing proof-of-concept. Xencor has the right to perform additional clinical studies of plamotamab/tafasitamab combinations.
+
+​
+
+Xencor is generally responsible for conducting research activities under the Agreement, and Janssen is generally responsible for all development, manufacturing and commercialization activities for CD28 Licensed Antibodies that are advanced. Independent of plamotamab development activities, upon clinical proof-of-concept for a CD28 Licensed Antibody that is being developed outside of a plamotamab combination, Xencor has the right to opt-in to fund 15% of development costs and, if it opts-in to fund such development costs, to perform up to 30% of the detailing efforts in the United States. Xencor would then be instead eligible for low-double digit to mid-teen percent royalties on net sales of those products.
+
+​
+
+The term of the Agreement will continue on a country-by-country basis and a product-by-product basis until there are no remaining royalty payment obligations from Janssen to Xencor. Janssen may terminate the Agreement in its entirety or solely with respect to plamotamab by providing prior written notice. Xencor may terminate the Agreement solely with respect to plamotamab if Janssen materially breaches 1) the diligence requirements for the development of plamotamab, or 2) if following receipt of commercial approval, commercially reasonable efforts to commercialize plamotamab products developed under the Agreement, if such material breach has not been cured within a defined period. Xencor may terminate the Agreement solely with respect to Licensed CD28 Products if Janssen permanently discontinues all development activities prior to marketing approval. Either party may also terminate the Agreement with written notice upon a bankruptcy of the other party or for a material breach by the other party if such breach has not been cured within a defined period of receiving such notice. In the event of a termination of any individual collaboration product or the Agreement in its entirety, certain rights revert to Xencor.
+
+​
+
+2
+
+The Agreement contains customary closing conditions, including clearance under the Hart-Scott-Rodino Antitrust Improvements Act, and customary indemnification obligations by each of Xencor and Janssen against certain losses.
+
+​
+
+The foregoing description of the Agreement does not purport to be complete and is subject to, and is qualified in its entirety by, the full text of the Agreement, a copy of which will be filed as an exhibit to Xencor’s Annual Report on Form 10-K for its fiscal year ending December 31, 2021, portions of which may be subject to FOIA Confidential Treatment.
+
+​
+
+Item 8.01 Other Events.
+
+​
+
+On October 4, 2021, Xencor issued a press release announcing the Agreement, a copy of which is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+​
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+99.1
+
+ 
+
+Press release issued by Xencor, Inc. on October 4, 2021.
+
+104
+
+Cover Page Interactive Data File, formatting Inline Extensible Business Reporting Language (iXBRL).
+
+​
+
+​
+
+3
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+Date: October 4, 2021
+
+ 
+
+XENCOR, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Celia Eckert
+
+ 
+
+ 
+
+ 
+
+Celia Eckert
+
+ 
+
+ 
+
+ 
+
+General Counsel & Corporate Secretary
+
+​
+
+​
+
+4

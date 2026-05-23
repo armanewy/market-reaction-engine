@@ -1,0 +1,338 @@
+false000174388100017438812025-02-242025-02-24
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 24, 2025
+
+BridgeBio Pharma, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-38959
+
+84-1850815
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+3160 Porter Dr., Suite 250
+
+ 
+
+ 
+
+Palo Alto, CA
+
+ 
+
+94304
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (650) 391-9740
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share
+
+ 
+
+BBIO
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+ 
+
+Indenture and Notes
+
+ 
+
+On February 28, 2025, BridgeBio Pharma, Inc. (“BridgeBio”) issued an aggregate of $575.0 million aggregate principal amount of its 1.75% Convertible Senior Notes due 2031
+(the “Notes”), pursuant to an Indenture dated February 28, 2025 (the “Indenture”), between BridgeBio and U.S. Bank Trust Company, National Association, as trustee (the “Trustee”), in a private offering to qualified institutional buyers (the “Note
+Offering”) pursuant to Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”). The Notes issued in the Note Offering include $75.0 million aggregate principal amount of Notes sold to the initial purchasers (the “Initial
+Purchasers”) pursuant to the exercise in full of the Initial Purchasers’ option to purchase  additional Notes.
+
+ 
+
+The Notes are senior, unsecured obligations of BridgeBio and will accrue interest payable semiannually in arrears on March 1 and September 1 of each year, beginning on
+September 1, 2025, at a rate of 1.75% per year. The Notes will mature on March 1, 2031, unless earlier converted, redeemed or repurchased. The Notes are convertible into cash, shares of BridgeBio’s common stock or a combination of cash and shares
+of BridgeBio’s common stock, at BridgeBio’s election.
+
+ 
+
+The net proceeds BridgeBio received from the Note Offering are equal to approximately $563.0 million, after deducting the Initial Purchasers’ discount and estimated
+offering expenses payable by BridgeBio. BridgeBio used approximately $48.3 million to pay the cost of Repurchases (as defined below) of shares of its common stock described below. BridgeBio also used a portion of the net proceeds from the Note
+Offering to repay all outstanding borrowings under, and terminate, the Financing Agreement, dated as of January 17, 2024, with the lenders party thereto and Blue Owl Corporation, as administrative agent, as amended on February 12, 2024 and June 20,
+2024 (the “Financing Agreement”), and pay any fees related thereto. BridgeBio expects to use any remaining net proceeds from the offering for general corporate purposes.
+
+A holder of Notes may convert all or any portion of its Notes at its option at any time prior to the close of business on the business day immediately preceding December
+2, 2030 only under the following circumstances: (1) during any calendar quarter commencing after the calendar quarter ending on June 30, 2025 (and only during such calendar quarter), if the last reported sale price of BridgeBio’s common stock for
+at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to 130% of the conversion
+price on each applicable trading day; (2) during the five business day period after any five consecutive trading day period (the “measurement period”) in which the “trading price” (as defined in the Indenture) per $1,000 principal amount of Notes
+for each trading day of the measurement period was less than 98% of the product of the last reported sale price of BridgeBio’s common stock and the conversion rate on each such trading day; (3) if BridgeBio calls such notes for redemption, at any
+time prior to the close of business on the second business day immediately preceding the redemption date; or (4) upon the occurrence of specified BridgeBio corporate events. On or after December 2, 2030 until the close of business on the second
+scheduled trading day immediately preceding the maturity date, a holder may convert all or any portion of its Notes at any time, regardless of the foregoing circumstances.
+
+The conversion rate will initially be 20.0773 shares of BridgeBio’s common stock per $1,000 principal amount of Notes (equivalent to an initial conversion price of
+approximately $49.81 per share of BridgeBio’s common stock). The conversion rate is subject to adjustment in some events but will not be adjusted for any accrued and unpaid interest. In addition, following certain corporate events that occur prior
+to the maturity date, BridgeBio will, in certain circumstances, increase the conversion rate for a holder who elects to convert its Notes in connection with such a corporate event.
+
+ 
+
+BridgeBio may not redeem the Notes prior to March 6, 2028. BridgeBio may redeem for cash all or any portion of the Notes, at its option, on a redemption date occurring on
+or after March 6, 2028 and on or before the 41st scheduled trading day immediately before the maturity date, if (i) the Notes are “freely tradable” (as defined in the Indenture) as of the date BridgeBio sends the related redemption notice and all
+accrued and unpaid additional interest, if any, has been paid in full as of the first interest payment date occurring on or before the date BridgeBio sends such notice; and (ii) the last reported sale price of BridgeBio’s common stock has been at
+least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive), including the trading day immediately preceding the date on which BridgeBio provides notice of redemption, during any 30 consecutive
+trading day period ending on, and including, the trading day immediately preceding the date on which BridgeBio provides notice of redemption at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and
+unpaid interest to, but excluding, the redemption date. If BridgeBio undergoes a fundamental change (as defined in the Indenture), holders may require BridgeBio to repurchase for cash all or any portion of their Notes at a fundamental change
+repurchase price equal to 100% of the principal amount of the Notes to be repurchased, plus any accrued and unpaid interest to, but excluding, the fundamental change repurchase date.
+
+ 
+
+The Indenture contains customary terms and covenants, including that upon certain events of default occurring and continuing, either the Trustee or the holders of not
+less than 25% in aggregate principal amount of the Notes then outstanding may declare the entire principal amount of all the Notes plus accrued special interest, if any, to be immediately due and payable.
+
+ 
+
+The Notes are BridgeBio’s general unsecured obligations and rank senior in right of payment to all of BridgeBio’s indebtedness that is expressly subordinated in right of
+payment to the Notes; equal in right of payment with all of BridgeBio’s liabilities that are not so subordinated, including BridgeBio’s 2.50% Convertible Senior Notes due 2027 and 2.25% Convertible Senior Notes due 2029; effectively junior to any
+of BridgeBio’s secured indebtedness and obligations, including its obligations under the Funding Agreement, dated as of January 17, 2024, with the purchasers and collateral agent party thereto, to the extent of the value of the assets securing such
+indebtedness; and structurally junior to all indebtedness and other liabilities (including trade payables) of BridgeBio’s subsidiaries.
+
+ 
+
+A copy of the Indenture and form of Note are filed as Exhibit 4.1 and Exhibit 4.2, respectively, to this Current Report on Form 8-K and are incorporated by reference
+herein. The foregoing description of the Indenture and Notes does not purport to be complete and is qualified in its entirety by reference to such exhibits.
+
+ 
+
+Item 1.02.
+
+Termination of a Material Definitive Agreement.
+
+ 
+
+The information provided in Item 1.01 of this Report is hereby incorporated by reference into this Item 1.02.
+
+ 
+
+BridgeBio used a portion of the net proceeds from the Note Offering to repay all outstanding borrowings under the Financing Agreement and pay any related fees thereto. 
+The Financing Agreement was terminated on February 28, 2025.
+
+Item 2.03.
+
+Creation of a Direct Financial Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+ 
+
+The information provided in Item 1.01 of this Report is hereby incorporated by reference into this Item 2.03.
+
+Item 3.02.
+
+Unregistered Sale of Equity Securities.
+
+ 
+
+The information provided in Item 1.01 of this Report is hereby incorporated by reference into this Item 3.02.
+
+ 
+
+BridgeBio’s offering and sale of the Notes to the Initial Purchasers was made in reliance on the exemption from registration provided by Section 4(a)(2) of the
+Securities Act. BridgeBio relied on this exemption from registration based in part on representations made by the Initial Purchasers in the purchase agreement for the Notes, including that the Initial Purchasers would only offer, sell or deliver
+the Notes to persons whom they believed to be qualified institutional buyers within the meaning of Rule 144A under the Securities Act. Any shares of the Company’s common stock that may be issued upon conversion of the Notes will be issued in
+reliance upon Section 3(a)(9) of the Securities Act as involving an exchange by the Company exclusively with its security holders. Initially, a maximum of 16,739,400 shares of BridgeBio’s common stock may be issued upon conversion of the Notes,
+based on the initial maximum conversion rate of 29.1120 shares of common stock per $1,000 principal amount of Notes, which is subject to customary anti-dilution adjustment provisions.
+
+ 
+
+The Notes and BridgeBio’s common stock issuable upon conversion of the Notes, if any, have not been registered under the Securities Act and may not be offered or sold in
+the United States absent registration or applicable exemption from registration requirements.
+
+Item 8.01
+
+Other Events.
+
+ 
+
+On February 24, 2025, BridgeBio issued a press release announcing its intention to offer the Notes. A copy of the press release is attached hereto as Exhibit 99.1 and
+incorporated herein by reference.
+
+ 
+
+On February 25, 2025, BridgeBio issued a press release announcing the pricing of the Notes . A copy of the press release is attached hereto as Exhibit 99.2 and
+incorporated herein by reference.
+
+ 
+
+Share Repurchases
+
+ 
+
+BridgeBio used approximately $48.3 million of the net proceeds from the Note Offering to repurchase shares of its common stock concurrently with the closing of the Note
+Offering on February 28, 2025 from certain purchasers of the Notes in privately negotiated transactions effected through one of the Initial Purchasers or an affiliate thereof concurrently with the pricing of the Notes (the “Repurchases”). The
+agreed to purchase price per share of common stock in the Repurchases is equal to $34.35, which was the last reported sale price per share of BridgeBio’s common stock on the Nasdaq Global Select Market on February 25, 2025. The Repurchases could
+have increased (or reduced the size of any decrease in) the market price of BridgeBio’s common stock or the Notes.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Securities Exchange Act
+of 1934, as amended (the “Exchange Act”). Forward-looking statements are usually identified by the use of words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “may,” “plans,” “projects,” “seeks,” “should,” “will,” and
+variations of such words or similar expressions. BridgeBio intends these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act and Section 21E of the
+Exchange Act and are making this statement for purposes of complying with those safe harbor provisions. These forward-looking statements, including statements relating to the anticipated use of the net proceeds of the Note Offering and BridgeBio’s
+expectations regarding the effect of the Repurchases, reflect BridgeBio’s current views about its plans, intentions, expectations, strategies and prospects, which are based on the information currently available to BridgeBio and on assumptions it
+has made. Although BridgeBio believes that its plans, intentions, expectations, strategies and prospects as reflected in or suggested by those forward-looking statements are reasonable, BridgeBio can give no assurance that the plans, intentions,
+expectations or strategies will be attained or achieved. Furthermore, actual results may differ materially from those described in the forward-looking statements and will be affected by a number of risks, uncertainties and assumptions, including,
+but not limited to, those risks set forth in the Risk Factors section of BridgeBio’s most recent Annual Report on Form 10-K and its other SEC filings. Moreover, BridgeBio operates in a very competitive and rapidly changing environment in which new
+risks emerge from time to time. These forward-looking statements are based upon the current expectations and beliefs of BridgeBio’s management as of the date of this Current Report on Form 8-K, and are subject to certain risks and uncertainties
+that could cause actual results to differ materially from those described in the forward-looking statements. Except as required by applicable law, BridgeBio assumes no obligation to update publicly any forward-looking statements, whether as a
+result of new information, future events or otherwise.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+Exhibit
+
+Number
+
+ 
+
+Description of Exhibit
+
+ 
+
+ 
+
+4.1
+
+ 
+
+Indenture, dated as of February 28, 2025, by and between BridgeBio Pharma, Inc. and U.S. Bank Trust Company, National Association, as Trustee.
+
+4.2
+
+ 
+
+Form of Global Note, representing BridgeBio Pharma, Inc.’s 1.75% Convertible Senior Notes due 2031 (included as Exhibit A to the Indenture filed as Exhibit
+4.1).
+
+99.1
+
+ 
+
+Press Release dated February 24, 2025.
+
+99.2
+
+ 
+
+Press Release dated February 25, 2025.
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+ 
+
+BridgeBio Pharma, Inc.
+
+ 
+
+ 
+
+Date: February 28, 2025
+
+/s/ Neil Kumar, Ph.D.
+
+ 
+
+Neil Kumar, Ph.D.
+
+ 
+
+Chief Executive Officer

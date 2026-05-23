@@ -1,0 +1,80 @@
+EX-99.2
+3
+esmomgc018pressrelease.htm
+EX-99.2
+
+Document
+
+Exhibit 99.2
+
+MacroGenics Announces Preliminary Clinical Results from Phase 1 Cohort Expansion of the Ongoing MGC018 Study Presented at ESMO 2021 Virtual Annual Congress
+
+•Metastatic castration-resistant prostate cancer (mCRPC): 21 of 39 patients (54%) achieved ≥ 50% prostate-specific antigen (PSA) reduction; 10 of 16 (63%) RECIST-evaluable patients had anti-tumor activity; 4 of 16 (25%) achieved partial responses (two confirmed and two unconfirmed)
+
+•Non-small cell lung cancer (NSCLC): 13 of 16 (81%) evaluable patients had anti-tumor activity; 4 of 16 (25%) achieved unconfirmed partial responses
+
+•Manageable safety profile overall, with low rate (7%) of discontinuation due to treatment-related adverse events (TRAEs)
+
+ROCKVILLE, MD, Sept 16, 2021 (GLOBE NEWSWIRE)—MacroGenics, Inc. (NASDAQ: MGNX), a biopharmaceutical company focused on developing and commercializing innovative monoclonal antibody-based therapeutics for the treatment of cancer, today announced preliminary safety and anti-tumor activity data from dose expansion cohorts of the Company’s ongoing Phase 1 clinical trial of MGC018. This investigational antibody-drug conjugate (ADC) was designed to deliver a DNA-alkylating duocarmycin payload to both dividing and non-dividing cells in a B7-H3-dependent manner. The dataset is being presented in a poster titled “MGC018, an Anti-B7-H3 Antibody-Drug Conjugate (ADC), in Patients with Advanced Solid Tumors: Preliminary Results of Phase 1 Cohort Expansion” (Poster #620P) at the 2021 European Society for Medical Oncology (ESMO) Virtual Conference taking place September 16-21, 2021.
+
+Cohort Expansion Results Update
+
+As of the August 16, 2021 data cut-off, a total of 86 patients with advanced solid tumors were enrolled in the cohort expansion of MGC018 at the recommended Phase 2 dose (RP2D) of 3.0 mg/kg, administered intravenously every three weeks. The enrollment includes 40 patients with mCRPC, 21 patients with NSCLC, 16 patients with triple negative breast cancer (TNBC) and nine patients with melanoma. In addition, enrollment of patients with squamous cell carcinoma of the head and neck (SCCHN) was recently initiated. The safety analysis both in the poster and below includes all enrolled patients, whereas the efficacy analysis was limited to mCRPC and NSCLC patients, as enrollment continues in the other tumor cohorts.
+
+In the cohort expansion, tumor response by investigator per Response Evaluation Criteria in Solid Tumors (RECIST v1.1) was evaluated every nine weeks for all patients and PSA was assessed every three weeks in mCRPC.
+
+Preliminary Anti-tumor Results for mCRPC Cohort Expansion
+
+As of the August 16, 2021 data cut-off, all 40 patients in the mCRPC cohort expansion had been enrolled. Patients had previously received a median of three prior therapies for advanced disease, with all 40 patients having received both chemotherapy and next-generation hormonal therapy. The median B7-H3 H-score for all mCRPC patients was 223.
+
+A total of 39 mCRPC patients were evaluable for PSA response. Reductions in PSA levels of ≥ 50% were observed in 21 of 39 patients (54%). Twenty-four of the 39 patients (62%) remained on treatment as of the data cut-off.
+
+Exhibit 99.2
+
+Of the 40 patients in the mCRPC cohort, 16 of the 23 patients with measurable disease were evaluable for tumor response by RECIST as of the data cut-off. Ten of these 16 patients (63%) had reductions in their target lesion sums from baseline. Four patients (25%) demonstrated a partial response (PR), consisting of two confirmed and two unconfirmed PRs. Treatment was ongoing in six of 16 patients with evaluable tumor response as of the data cut-off.
+
+Preliminary Anti-tumor Results for NSCLC Cohort Expansion
+
+As of the August 16, 2021 data cut-off, the NSCLC cohort expansion had been fully enrolled with 21 patients. Patients had previously received a median of two prior therapies for advanced disease, with 15 (71%) having previously received anti-PD-1/PD-L1 therapy. The median B7-H3 H-score for these patients was 139.
+
+A total of 16 NSCLC patients were evaluable for tumor response by RECIST. Thirteen of 16 (81%) patients had reductions in their target lesion sums from baseline. Four of these 16 patients (25%) experienced unconfirmed partial responses. Another one of these 16 patients experienced a 30% reduction in target lesions; however, the patient’s non-target lesions were not evaluated due to an obstruction of the bronchus and overall response was not evaluable. Treatment was ongoing in seven of 16 patients as of the data cut-off.
+
+Preliminary Safety Results
+
+The safety analysis includes all 86 patients enrolled in the cohort expansion as of the August 16, 2021 data cut-off. The median number of doses received by mCRPC patients was 3.5 (range: 1-8); those with NSCLC received 3.0 (range: 1-7). Adverse events for the dose expansion cohorts of 3 mg/kg were generally consistent with those previously reported at ASCO 2021. TRAEs included hematologic and skin toxicities that have been clinically manageable to date. In the cohort expansion study overall, at least one TRAE of any grade was experienced by 78 of 86 patients (91%), with 43 of 86 patients (50%) experiencing a Grade ≥3 TRAE. There were two Grade 5 fatal events: one from an unknown cause and one due to SARS-CoV-2.
+
+The most common TRAEs were fatigue (37% all grades; 1% Grade ≥3), neutropenia (34% all grades; 22% Grade ≥3), palmar plantar erythrodysesthesia syndrome (31% all grades; 4% Grade ≥3), pleural effusion (23% all grades; 1% Grade ≥3), nausea (22% all grades; 1% Grade ≥3), asthenia (20% all grades; 5% Grade ≥3) and thrombocytopenia (14% all grades; 7% Grade ≥3). The overall results have demonstrated a manageable safety profile with a low rate of treatment discontinuation due to TRAEs: only six of 86 (7%) patients had discontinued therapy in the cohort expansion as of the data cut-off date due to TRAEs.
+
+“We are highly encouraged by the growing data from our ongoing Phase 1 study of MGC018,” said Scott Koenig, M.D., Ph.D., President and CEO of MacroGenics. “Consistent with previously presented data, we observed PSA reductions of 50% or greater in 54% of patients with metastatic castration-resistant prostate cancer. And now, we are particularly pleased to see partial responses emerge – both confirmed and unconfirmed – in mCRPC and NSCLC patients, with encouraging anti-tumor activity observed in the majority of patients for both tumor types. Also, we are very pleased with the evolving safety profile of MGC018, which showed neutropenia as the only Grade 3 or higher TRAE that exceeded a rate of 10% in this trial. Finally, further optimization of patient management has resulted in a low rate of MGC018 discontinuation due to TRAEs as of the data cutoff. Enrollment is ongoing in the TNBC, SCCHN, and melanoma cohorts and we look forward to providing further updates on patients in these cohorts, as well as patients in the mCRPC and NSCLC cohorts, at subsequent scientific conferences.”
+
+Exhibit 99.2
+
+ESMO Presentation
+
+MacroGenics’ MGC018 poster presentation is available for on-demand viewing on the ESMO website and on the “Events & Presentations” page on MacroGenics’ website at http://ir.macrogenics.com/events.cfm.
+
+About MGC018
+
+MGC018 is an ADC comprised of an anti-B7-H3 humanized IgG1/kappa monoclonal antibody conjugated via a cleavable linker to the prodrug seco-DUocarmycin hydroxyBenzamide Azaindole (DUBA; licensed from Byondis, B.V.), with an average drug-to-antibody ratio (DAR) of ~2.7. DUBA is an alkylating agent that can damage DNA in both dividing and non-dividing cells, causing cell death. B7-H3 is a molecule highly expressed on many solid tumors and associated with a poor clinical outcome. MGC018 is being evaluated in a Phase 1 study (NCT03729596). MacroGenics retains worldwide rights to MGC018.
+
+About MacroGenics, Inc.
+
+MacroGenics is a biopharmaceutical company focused on developing and commercializing innovative monoclonal antibody-based therapeutics for the treatment of cancer. The Company generates its pipeline of product candidates primarily from its proprietary suite of next-generation antibody-based technology platforms, which have applicability across broad therapeutic domains. The combination of MacroGenics' technology platforms and protein engineering expertise has allowed the Company to generate promising product candidates and enter into several strategic collaborations with global pharmaceutical and biotechnology companies. For more information, please see the Company's website at www.macrogenics.com. MacroGenics, the MacroGenics logo and MARGENZA are trademarks or registered trademarks of MacroGenics, Inc.
+
+Cautionary Note on Forward-Looking Statements
+
+Any statements in this press release about future expectations, plans and prospects for the Company, including statements about the Company's strategy, future operations, clinical development of the Company's therapeutic candidates, including enrollment in clinical trials, commercial prospects of or product revenues from MARGENZA®, milestone or opt-in payments from the Company's collaborators, the Company's anticipated milestones and other statements containing the words "subject to", "believe", "anticipate", "plan", "expect", "intend", "estimate", “potential,” "project", "may", "will", "should", "would", "could", "can", the negatives thereof, variations thereon and similar expressions, or by discussions of strategy constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: risks that MARGENZA revenue, expenses and costs may not be as expected, risks relating to MARGENZA’s market acceptance, competition, reimbursement and regulatory actions, the uncertainties inherent in the initiation and enrollment of future clinical trials, expectations of expanding ongoing clinical trials, availability and timing of data from ongoing clinical trials, expectations for regulatory approvals, other matters that could affect the availability or commercial potential of the Company's product candidates and other risks described in the Company's filings with the Securities and Exchange Commission. In addition, the forward-looking statements included in this press release represent the Company's views only as of the date hereof. The Company anticipates that subsequent events and developments will cause the Company's views to change. However, while the Company may
+
+Exhibit 99.2
+
+elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so, except as may be required by law. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to the date hereof.
+
+###
+
+CONTACTS:
+
+Chris James, M.D., Vice President, Investor Relations & Corporate Communications
+
+Jim Karrels, Senior Vice President, CFO
+
+1-301-251-5172, info@macrogenics.com

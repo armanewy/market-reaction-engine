@@ -1,0 +1,391 @@
+false
+0001649904
+
+0001649904
+
+2023-12-06
+2023-12-06
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C.
+20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+ 
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+December 6, 2023
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in
+its charter)
+
+ 
+
+Delaware
+
+ 
+
+001-38223
+
+ 
+
+46-2159271
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+222 Berkeley Street
+
+12th Floor
+
+Boston, MA 02116
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (857) 264-4280
+
+ 
+
+N/A
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨  Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨  Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+Trading
+
+Symbol(s)
+
+Name
+of each exchange on which registered
+
+Common Stock, $0.001 par value per share
+
+RYTM
+
+The Nasdaq Stock Market LLC (Nasdaq Global Market)
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.  ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 8.01
+
+Other Events.
+
+ 
+
+Phase 3 Pediatrics Trial
+
+ 
+
+On December 6, 2023, Rhythm Pharmaceuticals, Inc.
+(the “Company”) presented new data from its 52-week, Phase 3 pediatrics trial in patients between 2 and younger than 6 years
+old. The trial is a multi-center, one-year, open-label trial in pediatric patients with obesity due to biallelic proopiomelanocortin (POMC),
+proprotein convertase subtilisin/kexin type 1 (PCSK1) or leptin receptor (LEPR) deficiency or a clinical diagnosis of Bardet-Biedl syndrome
+(BBS) with genetic confirmation. The primary efficacy endpoint is a responder analysis, based on the proportion of patients who experience
+a decrease from baseline in BMI-Z score of ≥0.2.
+
+ 
+
+Highlights from the data include:
+
+ 
+
+•
+
+83.3% of all patients (10 of 12) achieved ≥ 0.2 reduction in BMI-Z score from baseline to week 52;
+
+•
+
+18.4 percent mean reduction from baseline in BMI at week 52 (N=12);
+
+•
+
+3.04 mean reduction from baseline in BMI-Z score at week 52 (N=12);
+
+•
+
+11 patients completed the trial, and all remain on therapy, as of Dec. 5, 2023; one patient discontinued and was lost to follow-up;
+and
+
+•
+
+The safety profile is consistent with past trials evaluating setmelanotide.
+
+ 
+
+The Company also announced it has submitted a Type
+II variation application to the European Medicines Agency seeking regulatory approval and authorization for setmelanotide to treat obesity
+and control of hunger in pediatric patients between 2 and younger than 6 years old with BBS or POMC, PCSK1 or LEPR deficiency in the European
+Union. The Company anticipates submitting a supplementary New Drug Application (sNDA) to the U.S. Food and Drug Administration (FDA) in
+the first half of 2024 seeking a similar label expansion.
+
+ 
+
+Phase 2 DAYBREAK Trial
+
+ 
+
+Also on December 6, 2023, the Company announced
+data from the open-label part of its exploratory Phase 2 DAYBREAK trial. The Company presented data from the full analysis set for DAYBREAK,
+which includes 164 patients. A total of 112 patients completed the 16-week Stage 1 of the Phase 2 trial, with 52 patients who discontinued.
+
+ 
+
+The primary endpoint of the trial is the proportion
+of patients by genotype who achieve a BMI reduction of ≥5% from baseline in response to setmelanotide at the end of Stage 1. The rates
+of response from Stage 1 of the trial were:
+
+ 
+
+•
+
+30% of patients (12 of 40) with variants in the SEMA3 gene cohort;
+
+•
+
+35.6% of patients (16 of 45) with variants in the PLXNs gene cohort;
+
+•
+
+56.3% of patients (9 of 16) with variants in the PHIP gene cohort;
+
+•
+
+40% of patients (2 of 5) with variants in the TBX3 gene cohort;
+
+•
+
+30% of patients (3 of 10) with variants in the MAGEL2 gene cohort; and
+
+•
+
+25% of patients (5 of 20) with variants in the SIM1 gene cohort.
+
+ 
+
+For those who completed Stage 1, the rates of response
+of patients who achieved a BMI reduction of greater than 5% from a post-hoc analysis were:
+
+ 
+
+•
+
+44.4% of patients (12 of 27) with variants in the PLXNs gene cohort;
+
+•
+
+61.5% of patients (16 of 26) with variants in the SEMA3 gene cohort than 5%; and
+
+•
+
+69.2% of patients (9 of 13) with variants in the PHIP gene cohort.
+
+ 
+
+A total of 49 patients who completed Stage 1 with
+a response to setmelanotide were randomized into Stage 2 of the trial. Stage 2 is a 24-week, double-blind, placebo-controlled withdrawal
+study. These patients were stratified into genetically defined cohorts and randomized 2:1 to receive setmelanotide or placebo.
+
+ 
+
+The Company anticipates announcing DAYBREAK Stage
+2 data in the second half of 2024.
+
+ 
+
+ 
+
+ 
+
+ 
+
+RM-718
+
+ 
+
+Also on December 6, 2023, the Company announced
+that it completed submission of a new investigational drug application for RM-718, a new, weekly, MC4R-specific agonist, to the FDA. The
+Company anticipates beginning Phase 1 in-human trials in the first half of 2024, including a multiple-ascending dose study in patients
+with hypothalamic obesity.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements contained in this Current Report
+on Form 8-K that do not relate to matters of historical fact should be considered forward-looking statements, including without limitation
+statements regarding the potential, safety, efficacy, and regulatory and clinical progress of setmelanotide, including the anticipated
+timing for initiation of clinical trials and release of clinical trial data and the Company’s expectations surrounding potential
+regulatory submissions. Statements using word such as “expect”, “anticipate”, “believe”, “may”,
+“will”, “aim” and similar terms are also forward-looking statements. Such statements are subject to numerous risks
+and uncertainties, including, but not limited to, risks relating to the Company’s liquidity and expenses, the Company’s ability
+to enroll patients in clinical trials, the design and outcome of clinical trials, the ability to achieve necessary regulatory approvals,
+risks associated with data analysis and reporting, failure to identify and develop additional product candidates, unfavorable pricing
+regulations, third-party reimbursement practices or healthcare reform initiatives, risks associated with the laws and regulations governing
+the Company’s international operations and the costs of any related compliance programs, the impact of competition, risks relating
+to product liability lawsuits, inability to maintain collaborations, or the failure of these collaborations, the Company’s reliance
+on third parties, risks relating to intellectual property, the Company’s ability to hire and retain necessary personnel, the impact
+of the COVID-19 pandemic and general economic conditions on the Company’s business and operations, including its preclinical studies,
+clinical trials and commercialization prospects, failure to realize the anticipated benefits of the Company’s acquisition of Xinvento
+B.V. or significant integration difficulties related to the acquisition, and the other important factors discussed under the caption “Risk
+Factors” in the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2023 and its other filings
+with the Securities and Exchange Commission. Except as required by law, the Company undertakes no obligations to make any revisions to
+the forward-looking statements contained in this release or to update them to reflect events or circumstances occurring after the date
+of this release, whether as a result of new information, future developments or otherwise.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+RHYTHM PHARMACEUTICALS, INC.
+
+ 
+
+ 
+
+ 
+
+Date: December 6, 2023
+
+By:
+
+/s/ Hunter Smith
+
+ 
+
+ 
+
+Hunter Smith
+
+ 
+
+ 
+
+Chief Financial Officer

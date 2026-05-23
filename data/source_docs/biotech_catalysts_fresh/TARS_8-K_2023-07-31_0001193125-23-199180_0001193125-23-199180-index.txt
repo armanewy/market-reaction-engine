@@ -1,0 +1,149 @@
+EDGAR Filing Documents for 0001193125-23-199180
+
+SEC.gov
+
+EDGAR
+
+Latest Filings
+
+Filings search tools
+
+Filing Detail
+
+SEC Home »
+
+Company Search »
+
+Current Page
+
+Form 8-K - Current report:
+
+SEC Accession No. 0001193125-23-199180
+
+Filing Date
+
+2023-07-31
+
+Accepted
+
+2023-07-31 16:38:58
+
+Documents
+
+12
+
+Period of Report
+
+2023-07-31
+
+Items
+
+Item 8.01: Other Events
+
+ Interactive Data
+
+Document Format Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+1
+
+8-K
+
+d473618d8k.htm   iXBRL
+
+8-K
+
+23907
+
+ 
+
+Complete submission text file
+
+0001193125-23-199180.txt
+
+ 
+
+148892
+
+Data Files
+
+Seq
+
+Description
+
+Document
+
+Type
+
+Size
+
+2
+
+XBRL TAXONOMY EXTENSION SCHEMA
+
+tars-20230731.xsd
+
+EX-101.SCH
+
+2842
+
+3
+
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+tars-20230731_lab.xml
+
+EX-101.LAB
+
+18738
+
+4
+
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+tars-20230731_pre.xml
+
+EX-101.PRE
+
+11702
+
+6
+
+EXTRACTED XBRL INSTANCE DOCUMENT
+
+d473618d8k_htm.xml
+
+XML
+
+3477
+
+Mailing Address
+15440 LAGUNA CANYON ROAD
+
+IRVINE CA
+92618
+
+Business Address
+15440 LAGUNA CANYON ROAD
+
+IRVINE CA
+92618
+(949) 409-9820
+
+Tarsus Pharmaceuticals, Inc. (Filer)
+CIK: 0001819790 (see all company filings)
+
+EIN.: 814717861 | State of Incorp.: DE | Fiscal Year End: 1231
+
+Type: 8-K | Act: 34 | File No.: 001-39614 | Film No.: 231127861
+
+SIC: 2836 Biological Products, (No Diagnostic Substances)

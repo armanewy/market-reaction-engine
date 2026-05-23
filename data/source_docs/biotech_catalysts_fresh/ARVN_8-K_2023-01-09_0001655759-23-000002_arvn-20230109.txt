@@ -1,0 +1,206 @@
+arvn-20230109
+0001655759FALSE00016557592023-01-092023-01-09
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 9, 2023
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+Spokespersons of Arvinas, Inc. (the “Company”) plan to present the information in the presentation attached hereto as Exhibit 99.1 (the “Presentation”) at various meetings beginning on January 9, 2023, including investor and analyst meetings in connection with the J.P. Morgan 41st Annual Healthcare Conference.
+
+A copy of the presentation is attached as Exhibit 99.1 to this Current Report on Form 8-K (this “Current Report”) and is incorporated herein by reference.
+
+The information in this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+By providing the information in Item 7.01 of this Current Report, including Exhibit 99.1 hereto, the Company is not making an admission as to the materiality of any information herein. The information contained in this Current Report is intended to be considered in the context of more complete information included in the Company’s filings with the U.S. Securities and Exchange Commission (the “SEC”) and other public announcements that the Company has made and may make from time to time by press release or otherwise. The Company undertakes no duty or obligation to update or revise the information contained in this Current Report, except as may be required by law, although it may do so from time to time as its management believes is appropriate. Any such updating may be made through the filing of other reports or documents with the SEC, through press releases or through other public disclosures.
+
+Item 8.01
+
+Other Events
+
+On January 9, 2023, the Company and Pfizer Inc. (“Pfizer”) provided updated guidance related to the anticipated initiation of the VERITAC-3 first-line, metastatic estrogen receptor positive/HER2 negative (ER+/HER2-) breast cancer Phase 3 study of ARV-471 in combination with IBRANCE® (palbociclib).
+
+In the most recent analysis of data from the ongoing Phase 1b combination study of ARV-471 with palbociclib, an increase in palbociclib exposure was observed relative to historical palbociclib pharmacokinetic data.
+
+In light of the recent data analysis, the Company and Pfizer have proposed a modification to the planned VERITAC-3 Phase 3 study and requested a meeting with the U.S. Food and Drug Administration (the “FDA”) to review the proposed update to the VERITAC-3 Phase 3 study protocol for ARV-471 in combination with palbociclib to determine the optimal dose of palbociclib as part of the trial design. In the event that the FDA agrees with the proposed amendment, the Company and Pfizer expect to initiate enrollment of the VERITAC-3 Phase 3 study in the second half of 2023. The Company and Pfizer expect to provide a regulatory update after meeting with the FDA.
+
+In the most recent analysis of data from the ongoing Phase 1b study of ARV-471 in combination with palbociclib, the following were observed:
+
+•An approximate increase of 50% in mean palbociclib exposure (i.e., pharmacokinetic area under the curve and Cmax) in the fed state was observed relative to historical palbociclib pharmacokinetic data in the fasted state.
+
+•Grade 3/4 neutropenia, a known dose-related adverse reaction associated with palbociclib, was 76% for 200 mg ARV-471 with 125 mg palbociclib (n=21).
+
+◦As per the U.S. Package Insert, (USPI) the starting dose of palbociclib for patients with HR+/HER2- metastatic breast cancer is 125 mg. As per the palbociclib USPI, a Grade ≥3 decrease in neutrophil counts was reported in 66% of patients receiving IBRANCE plus letrozole in Study 1 (PALOMA-2) and 66% of patients receiving IBRANCE plus fulvestrant in Study 2 (PALOMA-3).
+
+◦There was no increase in the rate of infection reported in the ARV-471 with palbociclib Phase 1b investigation relative to the rates reported in the registrational Phase 3 studies of palbociclib.
+
+•The neutropenia events in the ARV-471 Phase 1b study were manageable with standard dose reductions of palbociclib.
+
+•In the arm combining palbociclib with 200 mg ARV-471, one of 21 patients discontinued.
+
+In addition to the above, the Company also provided the updated guidance set forth below related to its other programs.
+
+•VERITAC-2, a Phase 3 pivotal trial (First Subject First Visit) with ARV-471 as a second-line treatment in patients with ER+/HER2- metastatic breast cancer, is actively recruiting.
+
+•The Company initiated the TACTIVE-U, the Phase 1b trial with ARV-471 in combination with ribociclib and abemaciclib, in two of the combination arms in the fourth quarter of 2022.
+
+•The Company expects to present data from the Phase 1b combination trial of ARV-471 with palbociclib in the second quarter of 2023.
+
+•The Company expects to initiate a Phase 3 trial with ARV-471 in the adjuvant setting.
+
+•The Company expects to initiate a pivotal trial for bavdegalutamide (ARV-110) for the treatment of men with metastatic castration-resistant prostate cancer in the second half of 2023.
+
+•The Company expects to report data from the Phase 1 dose escalation trial of ARV-766 for the treatment of men with metastatic castration-resistant prostate cancer in the second quarter of 2023.
+
+•The Company expects to submit an investigational new drug (“IND”) application or clinical trial application (“CTA”) for its BCL6 PROTAC® degrader in the second half of 2023.
+
+•The Company expects to submit an IND or CTA for its PROTAC® LRRK2 degrader in the second half of 2023.
+
+•The Company expects to have two additional programs in IND-enabling studies by the end of 2023.
+
+Forward-Looking Statements
+
+This Current Report contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the proposed amendment to the VERITAC-3 Phase 3 study protocol, the timelines related to the initiation of such study; the anticipated initiation, data read out and/or IND/CTA filing timelines associated with monotherapy and combination studies of ARV-471, the bavdegalutamide (ARV-110) pivotal trial, ARV-766 Phase 1 trial, and LRRK2 and BCL6 clinical candidates. All statements, other than statements of historical facts, contained in this Current Report, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in the Company’s forward-looking statements, and you should not place undue reliance on the Company’s forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including but not limited to: the Company’s and Pfizer’s performance of their respective obligations with respect to the Company’s collaboration with Pfizer; whether the Company and Pfizer will be able to successfully conduct and complete clinical development for ARV-471; whether the Company obtains marketing approval for and commercialize ARV-471 on its current timelines or at all; whether the Company’s cash and cash equivalent resources will be sufficient to fund its foreseeable and unforeseeable operating expenses and capital expenditure requirements; and other important factors discussed in the “Risk Factors” section of the Company’s Annual Report on Form 10-K for the year ended December 31, 2021 and subsequent other reports on file with the U.S. Securities and Exchange Commission. The forward-looking statements contained in this Current Report reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements, except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description
+
+99.1
+
+Company Presentation, dated January 9, 2023.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: January 9, 2023
+
+By:
+
+/s/ Sean Cassidy
+
+Sean Cassidy
+
+Chief Financial Officer

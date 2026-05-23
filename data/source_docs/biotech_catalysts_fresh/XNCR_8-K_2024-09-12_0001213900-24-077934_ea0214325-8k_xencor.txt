@@ -1,0 +1,412 @@
+false
+0001326732
+
+0001326732
+
+2024-09-10
+2024-09-10
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+September 10, 2024
+
+ 
+
+Xencor, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+ 
+
+Delaware
+
+ 
+
+001-36182
+
+ 
+
+20-1622502
+
+(State or Other Jurisdiction of
+
+Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+465 North Halstead Street, Suite 200
+
+Pasadena, California
+
+ 
+
+91107
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+(626) 305-5900
+
+Registrant’s telephone number, including
+area code
+
+ 
+
+N/A
+
+(Former Name, or Former Address, if Changed Since
+Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act
+
+ 
+
+Title of Each Class
+
+ 
+
+Trading Symbol
+
+ 
+
+Name of Each Exchange on Which Registered
+
+Common Stock, par value $0.01 per share
+
+ 
+
+XNCR
+
+ 
+
+Nasdaq Global Market
+
+ 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☐
+
+ 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On September 10, 2024, Xencor, Inc. (the “Company”)
+entered into an underwriting agreement (the “Underwriting Agreement”) with Leerink Partners LLC, Raymond James & Associates,
+Inc. and RBC Capital Markets, LLC, as the representatives of the underwriters named therein (the “Underwriters”), relating
+to an underwritten public offering (the “Offering”) of an aggregate of 6,635,112 shares of the Company’s common stock,
+par value $0.01 per share (“Common Stock”) and pre-funded warrants to purchase up an aggregate of 3,088,888 shares of Common
+Stock (the “Pre-Funded Warrants”). The public offering price is $18.00 per share of Common Stock and the Underwriters have
+agreed to purchase the Common Stock pursuant to the Underwriting Agreement at a price of $16.92 per share. The public offering price is
+$17.99 per Pre-Funded Warrant, which represents the per share public offering price per share of Common Stock, less the $0.01 exercise
+price for each Pre-Funded Warrant, and the Underwriters have agreed to purchase the Pre-Funded Warrants pursuant to the Underwriting Agreement
+at a price of $16.91 per share.
+
+ 
+
+Under the terms of the Underwriting Agreement,
+the Company also granted to the Underwriters an option, exercisable in whole or in part at any time for a period of 30 days from the date
+of the Underwriting Agreement, to purchase up to an additional 1,458,600 shares of Common Stock at the public offering price. 
+
+ 
+
+The Offering is being made pursuant to the Company’s
+automatic shelf registration statement on Form S-3ASR (File No. 333-270030), previously filed with the Securities and Exchange Commission
+(the “SEC”) on February 27, 2023 and which automatically became effective upon filing, a base prospectus dated February 27,
+2023 and a prospectus supplement dated September 10, 2024.
+
+ 
+
+Each Pre-Funded Warrant is exercisable at any
+time after the date of issuance and will expire on the date it is exercised in full. However, a holder will not be entitled to exercise
+any portion of any Pre-Funded Warrant that, upon giving effect to such exercise, would cause: (i) the aggregate number of shares of Common
+Stock beneficially owned by such holder (together with its affiliates) to exceed 9.99% (or, at the election of the holder, 4.99%) of the
+number of issued and outstanding shares of Common Stock following such exercise; or (ii) the combined voting power of the Company’s
+securities beneficially owned by such holder (together with its affiliates) to exceed 9.99% (or, at the election of the holder, 4.99%)
+of the combined voting power of all of the Company’s securities outstanding following such exercise, as such percentage ownership
+is determined in accordance with the terms of the Pre-Funded Warrants. However, any holder of a Pre-Funded Warrant may increase or decrease
+such percentage to any other percentage not in excess of 9.99% upon at least 61 days’ prior notice from the holder to the Company.
+
+ 
+
+Gross proceeds from the Offering will be approximately
+$175 million (excluding any sale of shares of Common Stock pursuant to the Underwriters’ option to purchase additional shares of
+Common Stock), before deducting underwriting discounts and commissions and Offering expenses payable by the Company. The Company currently
+intends to use the net proceeds from the Offering for general corporate purposes, which may include research and development, capital
+expenditures, working capital and general and administrative expenses. The purchase and sale of the Common Stock and Pre-Funded Warrants,
+and the closing of the Offering, is expected to take place on or about September 12, 2024, subject to the satisfaction of customary closing
+conditions.
+
+ 
+
+The Underwriting Agreement contains customary
+representations, warranties and covenants made by the Company. It also provides for customary indemnification by each of the Company and
+the Underwriters, severally and not jointly, for losses or damages arising out of or in connection with the Offering, including for liabilities
+under the Securities Act of 1933, as amended, other obligations of the parties and termination provisions. In addition, pursuant to the
+terms of the Underwriting Agreement, each of the Company’s directors and executive officers have entered into “lock-up”
+agreements with Leerink Partners LLC and Raymond James & Associates, Inc. which generally prohibit, without the prior written consent
+of Leerink Partners LLC and Raymond James & Associates, Inc., the sale, transfer or other disposition of securities of the Company
+prior to November 9, 2024.
+
+ 
+
+1
+
+ 
+
+ 
+
+The representations, warranties and covenants
+contained in the Underwriting Agreement were made only for purposes of such agreement and as of specific dates, were solely for the benefit
+of the parties to the Underwriting Agreement, and may be subject to limitations agreed upon by the contracting parties. Accordingly, the
+Underwriting Agreement is incorporated herein by reference only to provide investors with information regarding the terms of the Underwriting
+Agreement, and not to provide investors with any other factual information regarding the Company or its business, and should be read in
+conjunction with the disclosures in the Company’s periodic reports and other filings with the SEC.
+
+ 
+
+The foregoing descriptions of the Underwriting
+Agreement and the Pre-Funded Warrants does not purport to be complete and are qualified in their entirety by reference to the copies of
+the Underwriting Agreement and form of Pre-Funded Warrant, which are filed as Exhibit 1.1 and 4.1, respectively, to this Current Report
+on Form 8-K. A copy of the opinion of Paul Hastings LLP, counsel to the Company, relating to the validity of the shares of Common Stock
+and the Pre-Funded Warrants to be issued in the Offering and the shares of Common Stock issuable upon exercise of the Pre-Funded Warrants
+is filed as Exhibit 5.1 to this Current Report on Form 8-K.
+
+ 
+
+Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains forward-looking
+statements that involve risks and uncertainties, such as statements related to the anticipated closing of the Offering and the anticipated
+use of proceeds from the Offering. The risks and uncertainties involved include the Company’s ability to satisfy certain conditions
+to closing the Offering on a timely basis or at all, market and other conditions, and other risks detailed from time to time in the Company’s
+periodic reports and other filings with the SEC. You are cautioned not to place undue reliance on forward-looking statements, which are
+based on the Company’s current expectations and assumptions and speak only as of the date of this Current Report on Form 8-K. The
+Company does not intend to revise or update any forward-looking statement in this Current Report on Form 8-K as a result of new information,
+future events or otherwise, except as required by law.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+On September 10, 2024, the Company issued a press release announcing
+the proposed Offering. On September 11, 2024, the Company issued a press release announcing the pricing of the Offering. Copies of the
+press release are attached as Exhibit 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+ 
+
+Description
+
+1.1
+
+ 
+
+Underwriting Agreement, dated September 10, 2024, by and among Xencor, Inc. and Leerink Partners LLC, Raymond James & Associates, Inc. and RBC Capital Markets, LLC, as representatives of the underwriters named therein.
+
+4.1
+
+ 
+
+Form of Pre-Funded Warrant to Purchase Common Stock.
+
+5.1
+
+ 
+
+Opinion of Paul Hastings LLP.
+
+23.1
+
+ 
+
+Consent of Paul Hastings LLP (included in Exhibit 5.1).
+
+99.1
+
+ 
+
+Press Release, dated September 10, 2024.
+
+99.2
+
+ 
+
+Press Release, dated September 11, 2024.
+
+104
+
+ 
+
+Cover Page Interactive Data File, formatted in Inline Extensible Business Reporting Language (iXBRL).
+
+ 
+
+2
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+XENCOR, INC.
+
+ 
+
+ 
+
+ 
+
+Date:  September 12, 2024
+
+By:
+
+/s/ Celia Eckert
+
+ 
+
+ 
+
+Celia Eckert
+
+ 
+
+ 
+
+General Counsel & Corporate Secretary
+
+ 
+
+ 
+
+3

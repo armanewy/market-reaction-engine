@@ -1,0 +1,192 @@
+arvn-20230608
+0001655759FALSE00016557592023-06-082023-06-08
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 8, 2023
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On June 8, 2023, Arvinas, Inc. (the “Company”) issued a press release announcing interim data from the Company’s Phase 1/2 dose escalation and expansion trial of ARV-766 in men with metastatic castration-resistant prostate cancer (“mCRPC”). The Company will provide an overview of these data during a fireside chat at the Jefferies Healthcare Conference on June 8, 2023. Copies of the press release and presentation are attached as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+A copy of the presentation is attached as Exhibit 99.1 to this Current Report on Form 8-K (this “Current Report”) and is incorporated herein by reference.
+
+Item 8.01
+
+Other Events
+
+On June 8, 2023, the Company announced interim data from the Company’s Phase 1/2 dose escalation and expansion trial of ARV-766 in men with mCRPC. ARV-766 is an investigational orally bioavailable PROTAC® protein degrader designed to degrade all clinically relevant resistance-driving point mutations of the androgen receptor (“AR”), including L702H, a mutation associated with resistance to abiraterone and other AR-pathway novel hormonal agents (“NHA”).
+
+The Phase 1 dose escalation portion of the ARV-766 trial was designed to assess its safety, tolerability, and pharmacokinetics in men with mCRPC who have progressed on standard of care therapies, as well as to identify recommended Phase 2 doses for further dose optimization. The Phase 2 expansion cohort is designed to evaluate the antitumor activity of ARV-766 at the two recommended doses (100 mg and 300 mg) and determine the appropriate dose for future development.
+
+Data from the Phase 1/2 dose escalation and expansion trial (data cut off April 2023) show that ARV-766 was well-tolerated and demonstrated promising activity in a heavily pre-treated, post-NHA, all-comers patient population. In both the Phase 1 dose escalation and Phase 2 dose expansion, 100% of patients were previously treated with at least one or more NHAs. Patients had a median of 4 prior lines of therapy in the Phase 1 trial and 5 prior lines of therapy in the Phase 2 trial. Multiple prior therapies have been associated with a decreased responsiveness to AR-directed therapies and an increase in tumor heterogeneity. AR ligand binding domain (“LBD”) mutations were present in 28% (13 of 47) of patients’ tumors in the Phase 1/2 trial as determined by plasma DNA analysis.
+
+Overall, 42% of patients with AR LBD mutations achieved reductions in prostate specific antigen (“PSA”) levels of greater than or equal to than 50% or (“PSA50”). Three of five patients with L702H mutations achieved PSA50, and three of three patients with co-occurring T878/H875/L702 mutations achieved PSA50. Of four patients with AR LBD mutations where Response Evaluation Criteria in Solid Tumors was evaluable, one achieved a confirmed partial response, and one achieved an unconfirmed partial response.
+
+ARV-766 has been well tolerated and the majority of treatment related adverse events (“TRAEs”) have been Grade 1 or 2, with no Grade ≥4 TRAEs. None of the 34 patients treated in the Phase 1 dose escalation portion experienced a dose limiting toxicity. The most frequent TRAEs (>10%) in Phase 1 have been fatigue, nausea, and diarrhea. At the time of data cutoff, no TRAE of >10% frequency was observed Phase 2.
+
+47 patients across the Phase 1 and 2 trials were evaluable for safety. No patients discontinued treatment of ARV-766 due to TRAE in Phase 1, and one patient discontinued treatment due to a TRAE in Phase 2. Two of 47 patients (both in Phase 1) were dose reduced due to TRAE.
+
+Based on pharmacokinetics, tolerability, and signals of activity in the Phase 1 dose escalation trial, 100 mg and 300 mg, once daily, were selected as the recommended Phase 2 expansion doses. The Phase 2 expansion (N = ~80) began enrolling in October 2022.
+
+As previously reported, with respect to its AR franchise, including bavdegalutamide and ARV-766, each an investigational orally bioavailable PROTAC® protein degrader designed to selectively target and degrade the AR being developed as a potential treatment for men with prostate cancer, the Company anticipates achievement of the following milestones in the second half of 2023:
+
+•Submission and presentation of updated data, including radiographic progression free survival, from the ongoing Phase 1/2 trial with bavdegalutamide at a medical congress;
+
+•Initiation of a global Phase 3 trial with bavdegalutamide in mCRPC;
+
+•Completion of enrollment in the Phase 1b combination study with bavdegalutamide plus abiraterone; and
+
+•Initiation of a Phase 1b/2 trial with ARV-766 in combination with abiraterone in patients who have not previously received NHAs.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K, including the documents furnished as Exhibit 99.1 and 99.2 hereto, contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the potential advantages and therapeutic benefits of ARV-766 and any anticipated milestones with respect to bavdegalutamide and ARV-766 in 2023. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on such forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including but not limited to: whether the Company will be able to successfully conduct and complete clinical development for bavdegalutamide and ARV-766, including whether the Company initiates and completes clinical trials for the Company’s product candidates, and receives results from the Company’s clinical trials on the Company’s expected timelines, or at all, and other important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press Release, dated June 8, 2023.
+
+99.2
+
+Company Presentation, dated June 8, 2023.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: June 8, 2023
+
+By:
+
+/s/ Sean Cassidy
+
+Sean Cassidy
+
+Chief Financial Officer

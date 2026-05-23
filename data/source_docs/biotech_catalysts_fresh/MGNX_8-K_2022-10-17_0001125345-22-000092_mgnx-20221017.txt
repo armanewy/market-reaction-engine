@@ -1,0 +1,166 @@
+mgnx-20221017
+0001125345FALSE00011253452022-10-172022-10-17
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+____________________
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+ 
+
+Date of report (Date of earliest event reported):  October 17, 2022
+
+ 
+
+MACROGENICS, INC.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+Delaware
+
+001-36112
+
+06-1591613
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+ File Number)
+
+(IRS Employer
+
+ Identification No.)
+
+9704 Medical Center Drive
+
+Rockville,
+
+Maryland
+
+20850
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+Registrant's telephone number, including area code:  (301) 251-5172
+
+ 
+
+Not applicable 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+MGNX
+
+Nasdaq Global Select Market
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+On October 14, 2022, MacroGenics, Inc. (the “Company”) and Gilead Sciences, Inc. (“Gilead”) entered into exclusive option and collaboration agreement (the “Agreement”) to develop MGD024, an investigational, bispecific antibody that binds CD123 and CD3 using the Company’s DART® platform, and two additional bispecific research programs. The agreement grants Gilead the option to license MGD024, a potential treatment for certain blood cancers, including acute myeloid leukemia (AML) and myelodysplastic syndromes (MDS).
+
+As part of the Agreement, Gilead will pay the Company an upfront payment of $60 million and the Company will be eligible to receive up to $1.7 billion in target nomination, option fees, and development, regulatory and commercial milestones. The Company will also be eligible to receive tiered, low double-digit royalties on worldwide net sales of MGD024 and a flat royalty on worldwide net sales of products resulting from two research programs.
+
+The Company will be responsible for the ongoing Phase 1 study during which Gilead may elect to exercise its option to license the program at predefined decision points. The Phase 1 study will include a dose escalation segment and an expansion segment that is intended to evaluate MGD024 as monotherapy and in combination with other therapies across multiple indications.
+
+The Agreement will continue in full force and effect on a product-by-product and country-by-country basis until expiration of the last royalty term for a product in such country. No sooner than 18 months after the effective date of the Agreement, Gilead may terminate the Agreement for convenience either in its entirety, or on a product-by-product basis, with specified notice requirements which vary depending on whether said termination for convenience is before or after the option exercise. In addition, Gilead may terminate the Agreement on a product-by-product basis for safety reasons and for other specified reasons with certain notice and other requirements. Either party may terminate the Agreement upon a material breach by the other party that remains uncured or upon certain bankruptcy events or for a force majeure event.
+
+The foregoing description of the Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Agreement, a copy of which will be filed in redacted form as an exhibit to the Company’s Annual Report on Form 10-K for the fiscal year ending December 31, 2022.
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On October 17, 2022, the Company and Gilead issued a joint press release announcing the Agreement (the “Press Release”). The full text of the Press Release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+
+The information in this Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1, is being furnished pursuant to Item 7.01 and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof, except as expressly set forth by specific reference in such filing to this item of this report.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. These include statements about future expectations, plans and prospects for the Company, including statements about the Company’s strategy, future operations, clinical development of its therapeutic candidates, milestone, target nomination, option or royalty payments from the Company’s collaborators, the Company’s anticipated milestones and future expectations and plans and prospects for the Company. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors. In addition, the forward-looking statements included in this Current Report on Form 8-K represent the Company's views only as of the date hereof. The Company anticipates that subsequent
+
+events and developments will cause the Company's views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so, except as may be required by law. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to the date hereof.
+
+Item 9.01
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release dated October 17, 2022
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Date: October 17, 2022
+
+MACROGENICS, INC.
+
+By:
+
+/s/ Jeffrey Peters
+
+Jeffrey Peters
+
+Senior Vice President and General Counsel

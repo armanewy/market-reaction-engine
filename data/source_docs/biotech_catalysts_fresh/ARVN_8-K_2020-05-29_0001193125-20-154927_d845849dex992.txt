@@ -1,0 +1,151 @@
+EX-99.2
+3
+d845849dex992.htm
+EX-99.2
+
+EX-99.2
+
+ARV-110 Phase 1/2 Dose Escalation:
+Interim Update 29 May 2020 Exhibit 99.2
+
+Safe harbor and forward-looking
+statements This presentation contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995 that involve substantial risks and uncertainties, including statements regarding the development and
+regulatory status of our product candidates, such as statements with respect to our lead product candidates, ARV-110 and ARV-471, and the timing of clinical trials and data from those trials for our product candidates, and our discovery programs
+that may lead to our development of additional product candidates, the potential utility of our technology and therapeutic potential of our product candidates, the potential commercialization of any of our product candidates, and the
+sufficiency of our cash resources. All statements, other than statements of historical facts, contained in this presentation, including statements regarding our strategy, future operations, future financial position, future revenues, projected
+costs, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,”
+“might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and
+similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking
+statements, and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements we make as a result of
+various risks and uncertainties, including but not limited to: whether we will be able to successfully conduct Phase 1/2 clinical trials for ARV-110 and ARV-471, complete other clinical trials for our product candidates, and receive results from our
+clinical trials on our expected timelines, or at all, whether our cash resources will be sufficient to fund our foreseeable and unforeseeable operating expenses and capital expenditure requirements, and other important factors, any of which could
+cause our actual results to differ from those contained in the forward-looking statements, discussed in the “Risk Factors” section of our quarterly and annual reports on file with the Securities and Exchange Commission. The
+forward-looking statements contained in this presentation reflect our current views as of the date of this presentation with respect to future events, and we assume no obligation to update any forward-looking statements except as required by
+applicable law. The Arvinas name and logo are our trademarks. We also own the service mark and the registered U.S. trademark for PROTAC®. The trademarks, trade names and service marks appearing in this presentation are the property of their
+respective owners. We have omitted the ® and ™ designations, as applicable, for the trademarks named in this presentation.
+
+ARV-110 data validates the potential of
+our PROTAC® platform, a completely novel therapeutic modality Preclinical profile translating to patient benefit Potential for genetically defined development pathway Efficacy signal in humans ARV-110 is the first PROTAC degrader with an
+efficacy signal in humans, in a heavily pretreated patient population where standard of care inhibitors have failed Evidence for proof-of-mechanism The first evidence for androgen receptor degradation in patients, showing that the PROTAC platform is
+working as intended ARV-110 has been generally well tolerated, and dose escalation continues Safety data in humans
+
+Today’s presentation Preclinical
+Profile of ARV-110 ARV-110 Clinical Data Update Pipeline Update
+
+Today is a significant milestone for
+PROTAC® protein degraders First proof of concept for PROTAC® protein degraders Benefitting patients where traditional inhibitors have failed Validates our confidence in this novel therapeutic modality and our pipeline
+
+Preclinical Profile of
+ARV-110
+
+New approaches are needed to target the
+androgen receptor, a critical driver of mCRPC Androgen Receptor (AR) activity drives prostate cancer Prostate cancer is the second leading cause of cancer death in men in the US1 Current agents work by decreasing androgen levels (abiraterone) or
+blocking androgen binding to AR (enzalutamide) 15-25% of patients never respond to abiraterone or enzalutamide (intrinsic resistance) Acquired resistance mechanisms to abiraterone and enzalutamide include: AR gene amplification (40-60% of patients)
+AR gene enhancer amplification (>70% of patients) AR point mutations (up to 25% of patients) Intra-tumoral androgen production Despite rapid and dramatic responses to standards of care, all patients progress to the castration resistant state and
+their tumors continue to be dependent on the AR signaling axis2 1American Cancer Society; 2Cancers 2017, 9, 67; doi:10.3390/cancers9060067
+
+ARV-110 is a PROTAC® protein
+degrader that targets AR in multiple preclinical models of prostate cancer mCRPC, metastatic castration-resistant prostate cancer 1Ledet E, The Oncologist 2019 AR MitoC 1 2 3 5 4 6 7 1 2 4 3 5 ARV-110, 10 mpk Vehicle 6 2 4 3 5 ARV-110, 3 mpk 1 6
+ARV-110 targets wildtype and altered androgen receptor (AR) protein AR is a critical driver of prostate cancer In vivo activity in multiple xenograft models with: AR gene amplification AR mutation Enzalutamide resistance and insensitivity
+Preclinical studies suggest settings where ARV-110 may be more active Degrades T878A, H875Y, F877L, and M895V point mutations Does not degrade L702H or AR-V7 L702H: Point mutation present in 3-10% of mCRPC patients1 AR-V7: Splice variant lacking the
+ligand binding domain of AR; ARV-110 may impact signaling via AR-V7 if heterodimerization with full length AR is required ARV-110 is not blood-brain barrier penetrant ARV-110 degrades >90% AR protein in vivo
+
+In October, we showed that ARV-110 was
+well-tolerated and had reached exposures consistent with preclinical efficacy †Orally, once daily ‡Not including 1 non-evaluable patient (discontinued on day 1; patient’s condition had worsened in the interval from screening to the
+morning of treatment initiation consistent with rapid progression) ◊Upper line based on enzalutamide-resistant vertebral cancer of the prostate (VCaP) models. Lower line based on castrated and non-castrated VCaP model AUC, area under the curve
+Day 15 AUC The orange lines represent the minimum efficacious exposures for tumor growth inhibition in various preclinical models◊ Dose level† Key safety findings 35 mg (N = 3) No dose limiting toxicities (DLTs) No treatment related
+Adverse Events (AEs) 70 mg (N = 4) No DLTs No grade 2/3/4 treatment related AEs 140 mg (N = 3‡)
+
+THREE QUESTIONS Today, we will
+address the third critical question facing PROTAC® protein degraders as a new therapeutic modality First addressed in October 2019 Will a PROTAC be safe in humans? Will a PROTAC be efficacious in humans? Will a PROTAC have drug-like properties
+in humans? To be initially addressed today
+
+ARV-110 Clinical Data
+Update
+
+Our study of ARV-110 is a
+traditional “3+3” dose escalation study in patients that have received ≥2 prior systemic therapies for mCRPC Design “3 + 3” dose escalation; starting dose = 35 mg, orally, once daily with food Dose increases dependent
+on toxicities Range 25% to 100% based on severity of AEs Endpoints Primary: Define the maximum tolerated dose and recommended phase 2 dose Secondary: Pharmacokinetics Anti-tumor activity (PSA50, RECIST criteria) Exploratory: Biomarkers ctDNA
+mutational profiling AR levels in optional paired biopsies AR and AR-V7 levels in circulating tumor cells (CTCs) Inclusion criteria Men with mCRPC, regardless of AR status At least two prior systemic therapies, at least one of which was abiraterone
+or enzalutamide Disease progression on most recent therapy Rising PSA or 2+ new lesions upon bone scan mCRPC= metastatic castration-resistant prostate cancer. RECIST= Response Evaluation Criteria in Solid Tumors. ctDNA, circulating tumor DNA. PSA,
+prostate-specific antigen
+
+Enrolled patients (N=22) have been
+highly pretreated at baseline Patient characteristics Parameter N (%) Median age (years) 67.5 ECOG Performance Status  0 1 15   7  (68) (32) Number of prior regimens in mCRPC ≥2  Mean Median (range, 2-9) 22 5  6 
+(100) (NA) (NA) Prior 2nd generation AR treatment Abiraterone acetate (ABI) Enzalutamide (ENZA) BOTH 22 17 17 (100) (77) (77) Prior chemotherapy Any Chemotherapy Docetaxel Cabazitaxel Docetaxel and Cabazitaxel 17 13 9  5  (77) (59) (41)
+(23) Other agents Lutetium Radium RA 223 Sipuleucel-T PARP inhibitor 2  5  5  5  (9) (23) (23) (23)
+
+ARV-110 has been generally well
+tolerated; potential drug-drug interaction in the two patients taking concomitant rosuvastatin †Patients on rosuvastatin (N=2) Related TEAE in ≥ 10% of patients (N=22) 1 of 22 patients had a DLT with ALT/AST Grade 3/4 and renal failure
+(280 mg)  Related TEAE 35 mg (N=3) 70 mg (N=4) 140 mg (N=8) 280 mg (N=7) Total (N=22) Gr ≤2 Gr ≥3 Gr ≤2 Gr ≥3 Gr ≤2 Gr ≥3 Gr ≤2 Gr ≥3 N (%) Any - - 1  1 4  1 5 1 13 (59) Nausea - - - -
+2  - 4 - 6 (27) Diarrhea - - 1  - 3  - 2 - 6 (27) Fatigue - - 1  - 2  - 2 - 5 (23) ALT increased - - - 1 - 1 4 (18) AST increased - - -   2  - - 4 (18) Lymphocyte count decreased - - - - - 1 3 - 4 (18) Vomiting - -
+1 - 1 - 2 - 4 (18) 1† 1† 1† 1†
+
+Clinical observations 2 of 22
+patients received concomitant rosuvastatin First patient with DLT: Grade 3/4 ALT/AST and renal failure Second patient with Grade 3 ALT/AST; re-challenge off rosuvastatin supported contribution of rosuvastatin. Patient continues on ARV-110 with no
+further toxicity Pharmacologic data supporting rosuvastatin interaction1 Rosuvastatin concentrations increased in both patients with LFT rise compared to baseline Subsequent in vitro transport pump studies indicate BCRP transporter inhibition by
+ARV-1102 Following introduction of rosuvastatin restriction, no further elevation in LFTs observed 6 patients on other statins, including 3 on atorvastatin (Lipitor®) and no ALT/AST adverse events Evidence supporting potential interaction with
+rosuvastatin (Crestor®) FT= liver function tests; DLT= dose-limiting toxicity; BCRP= breast cancer resistance protein; 1Analyses are exploratory (validated but not GLP compliant) 2Following new in vitro BCRP data, restriction has been broadened
+to include substrates with high risk of clinically significant interactions
+
+ARV-110’s exposures are
+dose-proportional and continue to demonstrate drug-like pharmacokinetics; half-life supports QD dosing 1Upper line based on enzalutamide-resistant vertebral cancer of the prostate (VCaP) models. Lower line based on castrated and non-castrated VCaP
+model QD, once per day. AUC, area under the curve. Cmax, maximum serum concentration. SD, standard deviation. SE, standard error. T1/2 ~ 110 hours ~ Cycle 1 day 15 total ARV-110 mean plasma concentration-time profile (±1 SE) 35 mg 70 mg 140 mg
+280 mg 500 400 300 200 100 0 Conc. (ng/mL) Time (hours) 0 2 4 6 8 10 12 14 16 18 20 22 24 26 0 35 70 105 140 175 210 245 280 315 Dose (mg) 14000 12000 10000 8000 6000 4000 2000 0 Mean AUCO-24 (ng*h/mL) Day 15 AUC (±1 SD) The orange lines
+represent the minimum efficacious exposures for tumor growth inhibition in various preclinical models1
+
+ARV-110 degrades AR in tumor tissue,
+demonstrating the first proof of mechanism for PROTAC® protein degraders 2.5X 10X BASELINE ON-TREATMENT Decreased AR protein levels in an AR wildtype/amplified tumor from a patient following 6 weeks of ARV-110 dosing (280 mg)
+
+Best percent change of PSA from
+baseline in all patients evaluable for safety (N=20)1 1Two of 22 patients were not evaluable: 1 patient had 1 dose and discontinued trial, and 1 patient had PSA less than 1 ng/ml and eligibility by radiographic progression; 2Treatment discontinued
+after 2 weeks due to DLT. ◊Patient dose escalated to 140 mg 174 DLT2 35 mg 70 mg 140 mg 280 mg Confirmed PSA50 responses Confirmed RECIST response Not expected to reach efficacious exposure, based on preclinical models ◊
+
+Duration of therapy ABI ENZA Chemo
+(any) ‡ DLT PCWG3 minimum PSA follow-up (Scher JCO 2016)† Prior therapies Data as of April 20, 2020 †PCWG3, Prostate Cancer Working Group 3; ‡Dose reduced for non-safety reasons; ◊PSA50 responder;
+◊◊PSA50/RECIST responder Duration of therapy increases in patients at higher doses of ARV-110 >1/3 of patients across all dose levels remained on therapy longer than 3 months Limited follow-up on most recent cohort at 280 mg 35 mg 70
+mg 140 mg 280 mg Ongoing Therapy ◊ ◊◊
+
+AR biomarker status and best % PSA
+change in patients at ≥140 mg (N=12)1 AR-V7 L702H Wild-type or with point mutations known to be degraded by ARV-1102 Confirmed PSA50 responses Confirmed RECIST response T878A H875Y T878A H875Y In patients without L702H or AR-V7, 2 of 7 had PSA
+decreases >50% 1Excluding one patient with DLT associated with rosuvastatin 2 Based on preclinical studies 140 mg 280 mg T878A T878A T878S W742C
+
+Confirmed PSA responder;
+non-evaluable by RECIST 1Jernberg E, Endocrine Connections, 2017 Response PSA: 74% decline No radiographic progression Duration of ARV-110: 30 weeks and ongoing Patient history 69 y.o. male Extensive bone metastases including the sternum, left first
+rib, T3, T10 vertebral bodies No measurable disease to evaluate Prior therapy included Biomarker status AR H875Y and T878A mutations (associated with resistance to abiraterone or enzalutamide)1 Bicalutamide (HSPC) Docetaxel (HSPC) Abiraterone Radium
+Enzalutamide
+
+Response RECIST: 80% reduction in
+tumor measurements Duration of ARV-110: 18 weeks and ongoing PSA: 97% decline Patient history 72 y.o. male Extensive disease involving adrenal gland, aortocaval nodes, multiple cone metastases Prior therapy included Bicalutamide Enzalutamide
+Provenge Abiraterone Cabazitaxel Biomarker status AR H875Y and T878A mutations (associated with resistance to abiraterone or enzalutamide)1 Confirmed RECIST partial response in a patient with a PCWG3 PSA response BASELINE CT SCAN AFTER 4 CYCLES
+Inferior vena cava Inferior vena cava 1Jernberg E, Endocrine Connections, 2017 Extensive retroperitoneal adenopathy compressing the inferior vena cava Near complete regression of adenopathy
+
+Exciting path forward Unequivocal
+efficacy signal in first-in-human dose escalation study Deep, durable, and ongoing responses Heavily pretreated population Patients resistant to standard of care Clear path ahead 420 mg cohort dosed Backfilling patients at 280 mg while dose
+escalating Adding new sites for Phase 2 expansion Favorable safety profile Tolerability consistent with 2nd generation AR therapies Manageable drug-drug interaction with breast cancer resistant pump substrates AR mutational profile of
+responders suggests a potential patient selection strategy and accelerated approval path
+
+Pipeline Update
+
+Our high potential PROTAC®
+pipeline is focused on cancer and neuroscience ARV-110  Androgen Receptor ARV-766 (AR Backup) Androgen Receptor AR Variant Degrader AR-V7 ARV-471 Estrogen Receptor Multiple Indications Undisclosed Targets CENTRAL NERVOUS SYSTEM Prostate Cancer
+Breast Cancer Additional I-O and Oncology Programs FTLD-Tau1, PSP2, Alzheimer’s MSA3, Parkinson’s Additional Neurology Programs ONCOLOGY Program Lead Optimization IND Enabling Phase 1 Phase 2/3 Discovery 1FTLD-tau, frontotemporal lobar
+degeneration-tau; 2PSP, progressive supranuclear palsy; 3MSA, multiple systems atrophy Tau a-synuclein Undisclosed Targets
+
+Preclinical profile translating into
+clinical benefit Signals of efficacy in a heavily pretreated patient population with high unmet need, where traditional inhibitors have failed Proves the concept of PROTAC targeted protein degradation, validating our confidence in our pipeline of
+degraders Arvinas is strongly positioned to deliver on milestones in 2020 and beyond ARV-110: Proving the concept of PROTAC® protein degradation THANK YOU to our patients, their families, and caregivers!
+
+For More Information PRESS/MEDIA
+pr@arvinas.com INVESTORS ir@arvinas.com BUSINESS DEVELOPMENT bd@arvinas.com CAREERS careers@arvinas.com
+
+Appendix
+
+PROTAC protein degraders function
+inside cells Formation of trimer complex and ubiquitination of target protein Multiple ubiquitin molecules “tag” target protein for degradation Targeted protein is degraded by the proteasome Iterative PROTAC degrader activity
+PROTAC® E3 Ligase Target Protein Ubiquitination Proteasome 1 2 3 4 PROTAC® protein degraders harness the ubiquitin-proteasome system to induce the degradation of disease-causing proteins
+
+AR biomarker status and best % PSA
+change in patients at ≥140 mg (excludes DLT patient; N=12)1 1One patient discontinued after 2 weeks due to DLT associated with rosuvastatin; AR status based on assays from Epic Sciences, Foundation Medicine (RUO), and OHSU/KDL AR Status: AR-V7
+Wildtype Amplif. Wildtype Wildtype Amplif. AR-V7 L702H T878S W742C L702H Wildtype Wildtype T878A Amplif. AR-V7 T878A H875Y T878A H875Y Confirmed PSA50 responses Confirmed RECIST response In patients without L702H or AR-V7, 2 of 7 had PSA decreases
+>50% AR-V7 Wildtype Wildtype Wildtype Wildtype Wildtype AR-V7 AR-V7 L702H L702H Mutations Mutations

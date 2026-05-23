@@ -1,0 +1,40 @@
+EX-99.1
+2
+d902742dex991.htm
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1
+
+ 
+
+ 
+
+In Vitro
+Pharmacology of KB407, an HSV-1-Based Gene Therapy Vector, for the Treatment of Cystic Fibrosis ASGCT 2020 Court Freedman, Trevor Parry, Pooja Agarwal, Alexandra Collin
+de l’Hortet, and Suma Krishnan May 12, 2020 Krystal Biotech, Inc. Pittsburgh, PA, 15203 INTRODUCTION RESULTS (CONTINUED) Cystic fibrosis (CF), the most common inherited genetic disorder in the In Vitro CFTR Protein Analysis in
+KB407-Transduced CF Patient-Derived SAECs United States, is caused by mutations in the gene encoding cystic fibrosis transmembrane conductance regulator (CFTR). Lack of functional CFTR in KB407 CFTR DAPI Merge secretory airway epithelia results in
+defective Cl-, bicarbonate, and 3 . 0 13 thiocyanate secretion, coupled with enhanced Na+ absorption and mucus production, leading to dehydration and acidification of the airway surface Mock Mock MOI MOI MOI liquid1-3. CF is characterized by recurrent chest infections, increased airway Appearance of a high molecular weight CFTR- doublet is suggestive of proper post- secretions, and eventually, respiratory failure4.
+translational modification, maturation, and trafficking of the exogenous protein8. While FDA approval of four small molecule modulator therapies has been a GAPDH-boon to CF patients harboring the specific mutations responsive to these MOI 0.3 drugs,
+these modulators only treat a subset of the CF population. In Figure 3. Intracellular CFTR protein expression upon KB407 particular need for effective drug intervention are the ~10% of CF patients infection of CF patient-derived SAECs. harboring
+CFTR mutations that result in severely reduced or absent CFTR expression (class I mutations), as these patients suffer from the harshest CFTR Protein Functionality MOI 1 and deadliest forms of CF5. Regrettably, no suitable therapies are approved
+5.00E+05 for treating this most sensitive patient population. To this end, Krystal has KB407 developed KB407, a replication-defective herpes simplex virus type 1 (HSV-1) gene therapy vector encoding human
+CFTR, for molecular protein 4.00E+05 correction of CF. MOI 3 units/µg 3.00E+05 MATERIALS & METHODS 2.00E+05 Test Article KB407: Krystal Biotech, Inc.’s propriety replication-incompetent,
+non- Fluorescence 1.00E+05 integrating HSV-1 vector expressing human CFTR. Table 1. Critical Reagents 0.00E+00 Mock MOI 0.3 MOI 1 MOI 3 Reagent Application Source Small
+airway epithelial cells In vitro dose-ranging Lonza (cat. no. CC-2933) Control KB407 Mock MOI 3 Organoid cultures Ex vivo pharmacology6 Hubrecht Organoid Technology Figure 4. Dose-depend increase in
+CFTR-mediated R6G uptake Rhodamine 6G R6G uptake assay7 Sigma (cat. no. 252433) Figure 2. CFTR protein expression and relative cellular localization upon KB407 infection in CF patient-derived SAECs. Data is Anti-human CFTR IF/western blot R&D
+Systems (cat. no 25031) upon KB407 infection of CF patient-derived SAECs. presented as the average of three replicates ± SEM. Anti-human GAPDH Western blot Abcam (cat. no. ab9485) Ex Vivo KB407 Dose-Ranging and Pharmacodynamics in 3D
+Organotypic Cultures RESULTS G542X/G542X (class I mutation) F508del/F508del (class II mutation) Vehicle KB407 Vehicle KB407 In Vitro KB407 Dose-Ranging in CF Patient-Derived Small Airway Epithelial Cells (SAECs) Human CFTR DNA Copies 3.75E+05 DNA
+2600µm 2600µm 2600µm 2600µm 3.00E+05 total W1282X/W1282X (class I mutation) F508del/F508del (class II mutation) Vehicle KB407 Vehicle KB407 2.25E+05 DNA/25ng 1.50E+05 CFTR 7.50E+04 0.00E+00 2600µm 2600µm
+2600µm 2600µm Mock MOI 0.3 MOI 1 MOI 3 Control KB407 Figure 5. KB407-mediated functional correction to cystic phenotype of CF patient-derived intestinal organoids (PDOs) 48 hours post-infection, as assessed by a forskolin-induced
+swelling (FIS) assay. Organoids were strained with calcein green and imaged before and every 10 minutes after 2µM forskolin (Frsk) addition for 60 minutes. G418 or Orkambi were used as positive controls where appropriate; vehicle alone or
+HSV-m Cherry were used as Human CFTR Transcripts negative controls. Representative brightfield images show PDO morphology 24 hours after vehicle or KB407 treatment. *p<0.05; **p<0.01; ***p<0.001; 3.75E+06 ****p<0.0001 RNA 3.00E+06 total
+CONCLUSIONS ACKNOWLEDGEMENTS 2.25E+06 KB407 infects primary CF SAECs in a dose-dependent manner, resulting We kindly thank Hubrecht Organoid Technology (HUB) for all of their work on in robust expression of human CFTR at the transcript and protein
+levels. our collaboration utilizing KB407 in the CF patient–derived organoid model. RNA/25ng 1.50E+06 The vector efficiently produces functional, full-length CFTR protein that 100µm properly traffics to the cell membrane. CFTR 7.50E+05
+REFERENCES KB407 transduction leads to a striking alteration of organoid morphology 1: Tarran et al. 2001. Mol Cell, 8(1): 149-58. 0.00E+00 from a compact budding CF phenotype to a cystic organoid phenotype ,
+25(7): 2325- . Mock MOI 0.3 MOI 1 MOI 3 exhibiting wild-type characteristics, irrespective of the underlying CFTR 2: Derichs et al. 2011. FASEB J 32 Control KB407 mutation, within 24 hours of infection at MOIs ranging from 1 to 40. 3: Pezzulo et al.
+2012. Nature, 487(7405): 109-13. The corrected cystic morphology of multiple CF PDOs exposed to low 4: Pilewski et al. 1999. Physiol Rev, 79(1 Suppl): S2015-55. Figure
+1. Dose-dependent increases in CFTR DNA and transcript levels doses of KB407 suggests that high levels of exogenous CFTR expressed 5: Wilschanksi. 2012. Front Pharmacol, 20(3): 1-3. upon KB407 infection of CF
+patient-derived SAECs. Data is presented as in a minority of cells is sufficient to establish disease correction. 6: Boj et al. 2017. J Vis Exp, 120(1): e55159. the average of three replicates ± standard error of the mean (SEM). These data
+support KB407 as a novel gene therapy for the treatment of 7: Wersto et al. 1996. Proc Natl Acad Sci USA, 93(3): 1167-72. cystic fibrosis. 8: Scanlin et al. 2001. Respir Res, 2(5): 276-9

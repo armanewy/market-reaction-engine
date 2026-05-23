@@ -1,0 +1,704 @@
+EX-99.1
+2
+tmb-20210923xex99d1.htm
+EX-99.1
+
+Exhibit 99.1
+
+PTC518 Huntington’s
+Disease Program
+Update
+September 23, 2021
+
+Forward Looking Statements:
+This press release contains forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. All statements
+contained in this release, other than statements of historic fact, are forward-looking statements, including statements regarding: the future
+expectations, plans and prospects for PTC, including with respect to the expected timing of clinical trials and studies, availability of data and other
+matters; PTC's strategy, future operations, future financial position, future revenues, projected costs; and the objectives of management. Other
+forward-looking statements may be identified by the words "guidance", "plan," "anticipate," "believe," "estimate," "expect," "intend," "may," "target,"
+"potential," "will," "would," "could," "should," "continue," and similar expressions.
+PTC's actual results, performance or achievements could differ materially from those expressed or implied by forward-looking statements it makes
+as a result of a variety of risks and uncertainties, including those related to: the outcome of pricing, coverage and reimbursement negotiations with
+third party payors for PTC's products or product candidates that PTC commercializes or may commercialize in the future; the enrollment, conduct,
+and results of PTC518 clinical studies for HD; significant business effects, including the effects of industry, market, economic, political or regulatory
+conditions; changes in tax and other laws, regulations, rates and policies; the eligible patient base and commercial potential of PTC's products and
+product candidates; PTC's scientific approach and general development progress; and the factors discussed in the "Risk Factors" section of PTC's
+most recent Annual Report on Form 10-K, as well as any updates to these risk factors filed from time to time in PTC's other filings with the SEC. You
+are urged to carefully consider all such factors.
+As with any pharmaceutical under development, there are significant risks in the development, regulatory approval and commercialization of new
+products. There are no guarantees that any product will receive or maintain regulatory approval in any territory, or prove to be commercially
+successful.
+The forward-looking statements contained herein represent PTC's views only as of the date of this presentation and PTC does not undertake or plan
+to update or revise any such forward-looking statements to reflect actual results or changes in plans, prospects, assumptions, estimates or
+projections, or other circumstances occurring after the date of this presentation except as required by law.
+2
+
+MAPT-Tauopathies
+ATXN3-SCA3
+Undisclosed target 1
+Undisclosed target 2
+Undisclosed target 3
+Undisclosed target 4
+Undisclosed target 5
+5’ Splice Site
+3’ Splice Site
+3
+HTrnaSeq
+HTSpliceoseq
+Nanostring Plex Screen
+Identify Splice
+Site targets
+Identification of
+splicing compounds Preclinical Pipeline Clinical Target
+Pipeline
+Approved
+Drug
+Familial Dysautonomia
+IKBKAP
+Huntington’s Disease
+HTT
+Spinal Muscular
+Atrophy - SMN
+Small Molecule Splicing Modulation Platform
+
+Evrysdi™ (risdiplam) Roadmap to Success
+4
+Highly selective
+Orally bioavailable
+and penetrates
+blood brain barrier
+Broad tissue
+distribution in
+animal models
+Defined blood
+to brain
+exposure ratio
+Proof of splicing
+mechanism
+demonstrated
+in P1 HV
+Evrysdi™
+clinical benefit
+established
+
+PTC518 Huntington’s Disease Program Update Agenda
+5
+Huntington’s
+Disease
+Program
+PTC518 Phase 2 Study Design
+Splicing and Huntington’s
+Disease
+PTC518 Phase 1 Study Results
+
+Huntington’s Disease Is a Debilitating Neurodegenerative
+Disorder with No Available Disease Modifying Treatments
+Huntington’s Disease
+• Caused by a monogenic defect;
+autosomal dominant inheritance
+• Leads to movement, psychiatric
+and cognitive disorders
+• 135,000 patients worldwide
+Current Treatments
+• No approved disease
+modifying therapies
+
+HD Is a Monogenic Gain of Function Disorder and
+Lowering HTT Targets The Root Cause of Pathogenesis
+Modified from Tabrizi,S. Cell.2019. 7
+Toxic gain of function mutation
+Expansion of CAG repeat in
+huntingtin (HTT) gene
+Huntington’s disease
+Whole brain atrophy
+HTT protein aggregates
+Therapeutic approach:
+Make less HTT
+NUCLEUS CYTOSOL
+HTT
+DNA
+HTT
+mRNA
+HTT
+pre-mRNA
+Transcription Splicing Nuclear
+export
+Translation
+mHTT
+protein
+
+Multiple models demonstrate
+partial reduction of wild type
+HTT is well tolerated
+HTT reduction correlates with
+clinical benefit
+Modified from Tabrizi,S. Cell.2019. 8
+Toxic gain of function mutation
+Expansion of CAG repeat in
+huntingtin (HTT) gene
+Huntington’s disease
+Whole brain atrophy
+HTT protein aggregates
+Therapeutic approach:
+Make less HTT
+HD Is a Monogenic Gain of Function Disorder and
+Lowering HTT Targets The Root Cause of Pathogenesis
+
+Identification of a Novel Splicing Mechanism that Leads to
+Degradation of Mutant HTT mRNA
+9
+With PTC518
+Pseudoexon is spliced in;
+Nonsense mutation leads
+to mRNA degradation
+No compound
+Pseudoexon is not spliced in;
+full length HTT protein is produced
+Exon 49 Exon 50 psiExon
+5’ss 3’ss
+Exon 49 Exon 50
+STOP
+Exon 49 Exon 50 psiExon
+Nonsense-mediated HTT mRNA decay
+
+Characteristics of PTC518 Were Demonstrated in
+Preclinical Studies
+10
+Orally bioavailable and
+penetrates blood brain barrier
+Reduces HTT mRNA and
+protein in the CNS and periphery
+Reversible and titratable
+Uniform lowering in key
+regions of the brain
+Not effluxed
+Highly selective
+
+PTC518 Phase 1
+Healthy
+Volunteer Study
+
+The PTC518 Phase 1 Trial Was a 4-Part Study
+12
+Phase 1 trial
+in healthy
+volunteers
+Multiple ascending dose longer duration:
+HTT mRNA splicing & protein lowering
+CSF sampling:
+Evaluate pharmacokinetics of PTC518 in the CSF
+Compare drug levels in CSF with plasma compartment
+Food effect:
+Evaluate the effects of food on PTC518 pharmacokinetics
+Preliminary Results:
+Single and multiple ascending dose:
+Evaluate safety & tolerability; HTT mRNA splicing
+
+Data on file PTC518- CNS- 001- HD 13
+Proof of Mechanism of PTC518 Was Confirmed By Dose-
+Dependent HTT mRNA Splicing in Healthy Volunteers
+• Whole blood HTT splicing in humans
+• Doses evaluated = 15 mg and 30 mg
+• Time – Day 14; multiple doses;
+splicing evaluated 6h post dose on day 14
+MAD Study
+Placebo
+PTC518_15 m
+g
+PTC518_30 m
+g
+0
+20
+40
+60
+80
+100
+120
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+• Whole blood HTT splicing in humans
+• Doses evaluated = 5mg, 15mg, 45 mg, 90 mg, and 135 mg
+• Time – one day; single dose; splicing evaluated 24h post dose
+SAD Study
+Placebo
+PTC518_45 m
+g
+PTC518_90 m
+g
+PTC518_135 m
+g
+0
+20
+40
+60
+80
+100
+120
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+
+MAD showed long
+drug half-life with
+maintenance of
+splicing up to 72 hours
+following last dose
+Dose-dependent
+splicing of
+HTT mRNA
+Predictable
+pharmacology
+Well tolerated
+Phase 1 SAD & MAD Interim Results Showed That PTC518
+Reduced HTT mRNA in a Dose-Dependent Manner
+14
+
+Decay Rates Can Be Modeled To Predict Drug-Dependent
+Decrease in mRNA and Protein Concentration Over Time
+15
+time
+concentration
+1 Initial steady state:
+100% HTT mRNA & protein
+4 New steady state reached:
+50% HTT mRNA & protein
+3 50% HTT protein produced:
+HTT protein T½ is longer
+than T½ HTT mRNA
+2 Add splicing
+drug [PTC518]:
+target dose where 50% of new
+mRNA will contain STOP-exon
+50% HTT mRNA
++
+50% STOP-exon (degraded)
+
+PTC518 Is Predicted to Achieve Equivalent HTT mRNA and Protein
+Reduction at Steady-State
+16
+0 2 4 6 8 10 12 14 16 18 20 22
+0
+20
+40
+60
+80
+100
+HTT mRNA abundance
+Steady state lowering should reach within 1 week
+Days
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+0 7 14 21 28 35 42
+0
+20
+40
+60
+80
+100
+HTT protein abundance
+Steady state lowering should take ≥6 weeks
+Days
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+P
+r
+o
+t
+e
+i
+n
+Data on file
+
+0 7 14 21 28 35 42
+0
+20
+40
+60
+80
+100
+HTT protein abundance
+Steady state lowering should take ≥6 weeks
+Days
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+P
+r
+o
+t
+e
+i
+n
+PTC518
+Simulation
+PTC518 Is Predicted to Achieve Equivalent HTT mRNA and Protein
+Reduction at Steady-State
+Data on file 17
+0 2 4 6 8 10 12 14 16 18 20 22
+0
+20
+40
+60
+80
+100
+HTT mRNA abundance
+Steady state lowering reached within 1 week
+Days
+%
+
+o
+f
+
+b
+a
+s
+e
+l
+i
+n
+e
+
+H
+T
+T
+
+R
+N
+A
+PTC518
+Simulation
+
+The PTC518 Phase 1 Trial Was a 4-Part Study
+18
+Phase 1 trial
+in healthy
+volunteers
+Multiple ascending dose longer duration:
+HTT mRNA splicing & protein lowering
+CSF sampling:
+Evaluate pharmacokinetics of PTC518 in the CSF
+Compare drug levels in CSF with plasma compartment
+Food effect:
+Evaluate the effects of food on PTC518 pharmacokinetics
+Preliminary Results:
+Single and multiple ascending dose:
+Evaluate safety & tolerability; HTT mRNA splicing
+
+PTC518 Crosses the Blood Brain Barrier in
+Non-Human Primates and Humans
+Data on file 19
+1.0 1.5 2.0 2.5
+2
+4
+6
+8
+10
+Human plasma-CSF correlation
+Free drug plasma concentration (ng/mL)
+C
+S
+F
+
+(
+n
+g
+/
+m
+L
+)
+0 5 10 15 20 25
+0
+5
+10
+15
+20
+25
+Monkey plasma-CSF correlation
+Free drug plasma concentration (ng/mL)
+C
+S
+F
+
+(
+n
+g
+/
+m
+L
+)
+
+The PTC518 Phase 1 Trial Was a 4-Part Study
+20
+Phase 1 trial
+in healthy
+volunteers
+Multiple ascending dose longer duration:
+HTT mRNA splicing & protein lowering
+CSF sampling:
+Evaluate pharmacokinetics of PTC518 in the CSF
+Compare drug levels in CSF with plasma compartment
+Food effect:
+Evaluate the effects of food on PTC518 pharmacokinetics
+Preliminary Results:
+Single and multiple ascending dose:
+Evaluate safety & tolerability; HTT mRNA splicing
+
+The PTC518 Phase 1 Trial Was a 4-Part Study
+21
+Phase 1 trial
+in healthy
+volunteers
+Multiple ascending dose longer duration:
+HTT mRNA splicing & protein lowering
+CSF sampling:
+Evaluate pharmacokinetics of PTC518 in the CSF
+Compare drug levels in CSF with plasma compartment
+Food effect:
+Evaluate the effects of food on PTC518 pharmacokinetics
+Preliminary Results:
+Single and multiple ascending dose:
+Evaluate safety & tolerability; HTT mRNA splicing
+
+PTC518 levels in the
+CSF are equal to or
+greater than levels
+observed in blood
+Dose-dependent
+reduction of
+HTT mRNA
+and Protein
+Phase 1 Results Showed That PTC518 Reduced HTT mRNA
+and Protein in a Dose-Dependent Manner and Passed
+the Blood Brain Barrier
+22
+Predictable
+pharmacology
+Well tolerated
+
+Results Confirm Exposure of PTC518 Can Lead to
+Clinically Meaningful HTT Reduction mRNA and Protein
+23
+What is the Dose? What is the
+Exposure?
+What is the
+Level of HTT
+Reduction?
+Demonstrate
+Clinical Benefit
+
+PTC518
+Phase 2 Study
+Design
+
+Phase 2 study objectives
+25
+Demonstrate safety, tolerability
+and pharmacology of PTC518
+and HTT mRNA and protein
+reduction in HD patients
+Demonstrate PTC518 effect on blood
+based, CSF-based and radiographic
+biomarkers of Huntington’s disease to
+support potential accelerated approval
+
+Strategies For Potential FDA Approval
+26
+Sub Part H
+Part D
+Biomarker Path
+Clinical Data Path
+
+27
+PTC518 Phase 2 Study –
+PIVOT HD Planned Study Design
+12 weeks 1 year Open
+Label Extension
+• Double blind, multiple
+dose, 12-week placebo-
+controlled study with a
+long-term open label
+extension
+• Global clinical trial
+• N~100-150 patients
+• Trial to initiate by
+YE2021
+Placebo
+Dose Level 1
+Dose Level 2
+Dose Level 1
+Dose Level 2
+Randomized
+to PTC518
+Alternative Dose Level
+R
+R
+
+PIVOT HD Endpoint Strategy
+28
+• Safety and tolerability of
+PTC518 in Huntington’s
+disease patients
+• Percent reduction in HTT
+mRNA and protein in blood
+Primary endpoints
+• Percent reduction in HTT
+protein in CSF
+• Changes in neurofilament
+light chain (NfL) in plasma
+and CSF
+• Change in caudate,
+putamenal, ventricular
+volume on volumetric
+MRI imaging
+Biomarker endpoints
+• Changes in clinical
+scales of motor and
+cognitive function
+Clinical endpoints
+
+Identifying Optimal Clinical Trial Population
+Finding the Goldilocks Population
+29
+• Use natural history to analyze
+markers of disease progression
+• Identify best indicators of earlier
+stage/modifiable disease
+• Determine target patient population
+• Select endpoints to capture
+meaningful clinical benefit
+
+30
+Optimal Endpoints Vary by Disease Stage
+Percentile of measurement relative to controls
+TFC
+Stage 1
+0
+50
+100
+5
+SDMT
+TMS
+Stage 3 Stage 2
+Schematic adapted from Natural History Analyses
+Brain Volume
+Target
+Population
+Too
+Advanced
+
+31
+PIVOT HD Inclusion Criteria
+Age 25 years and older
+Ambulatory
+CAG repeat 42-50 inclusive
+Specific clinical and radiographic parameters
+o Brain volumetric MRI values
+o Total motor score (TMS)
+o Cognitive score
+o Prognostic index of Huntington’s disease
+(PINHD)
+
+32
+Summary
+Phase 1 completed with
+achievement of all study
+objectives including
+protein reduction and
+projected CSF exposure
+Phase 2 trial to be initiated by YE 2021
+• Multiple dose placebo-controlled trial of
+PTC518 in HD patients
+• Study designed to capture biomarker
+effects that could potentially support
+accelerated approval
+• Inclusion criteria optimized based on
+extensive natural history data analyses
+
+Questions

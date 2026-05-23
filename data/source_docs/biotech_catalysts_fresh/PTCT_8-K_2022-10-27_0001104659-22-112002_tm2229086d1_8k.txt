@@ -1,0 +1,488 @@
+0001070081
+false
+
+0001070081
+
+2022-10-27
+2022-10-27
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K 
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13
+OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of Earliest Event Reported): October 27, 2022
+
+ 
+
+PTC
+THERAPEUTICS, INC.
+
+(Exact name of registrant
+as specified in charter)
+
+ 
+
+Delaware
+
+ 
+
+001-35969
+
+ 
+
+04-3416587
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(IRS Employer Identification
+
+No.)
+
+ 
+
+100 Corporate Court
+
+ 
+
+ 
+
+South Plainfield, NJ
+
+ 
+
+07080
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: (908) 222-7000
+
+ 
+
+Not Applicable
+
+ 
+
+(Former Name or Former
+Address, if Changed Since Last Report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+¨ Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨ Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨ Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨ Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant
+to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name
+of each exchange on which
+
+registered
+
+Common Stock, $0.001 par value per share
+
+ 
+
+PTCT
+
+ 
+
+The Nasdaq Global Select Market
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company    ¨
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry Into a Material Definitive Agreement.
+
+ 
+
+Blackstone Transactions
+
+ 
+
+Debt Facility
+
+ 
+
+On October 27, 2022 (the “Closing Date”),
+PTC Therapeutics, Inc. (the “Company”) entered into a credit agreement (the “Credit Agreement”) for fundings of
+up to $950.0 million consisting of a committed loan facility of $450.0 million and further contemplating the potential for up to $500.0
+million of additional financing, to the extent that the Company requests such additional financing and subject to the Lenders’ agreement
+to provide such additional financing and to mutual agreement on terms, among the Company, certain subsidiaries of the Company (together
+with the Company, the “Loan Parties”) and funds and other affiliated entities advised or managed by Blackstone Life Sciences
+Advisors L.L.C. and Blackstone Alternative Credit Advisors LP (collectively, “Blackstone”, and such lenders, together with
+their permitted assignees, the “Lenders” and each a “Lender”) and Wilmington Trust, National Association, as the
+administrative agent for the Lenders (“Administrative Agent”).
+
+ 
+
+The Credit Agreement provides for a senior secured
+term loan facility funded on the Closing Date in the aggregate principal amount of $300.0 million (the “Initial Loans”) and
+a committed delayed draw term loan facility of up to $150.0 million (the “Delayed Draw Loans” and, together with the Initial
+Loans, the “Loans”) to be funded at the Company’s request within 18 months of the Closing Date subject to specified
+conditions. In addition, the Credit Agreement contemplates the potential for further financings by Blackstone, by providing for incremental
+discretionary uncommitted further financings of up to $500.0 million.
+
+ 
+
+The Term Loans mature on the date that is seven
+years from the Closing Date (the “Maturity Date”). Borrowings under the Credit Agreement bear interest at a variable rate
+equal to, at the Company’s option, either an adjusted Term SOFR rate plus seven and a quarter percent (7.25%) or the Base Rate plus
+six and a quarter percent (6.25%), subject to a floor of one percent (1%) and two percent (2%) with respect to Term SOFR rate and Base
+Rate (each as defined in the Credit Agreement), respectively.
+
+ 
+
+Payments of the Loans will be subject to the following
+premiums, in each case, from the date the applicable Loan is funded (such date, the “Funding Date”).
+
+ 
+
+Prepayment Date
+
+Premium
+
+Prior to the third anniversary of the Funding Date
+
+Make-whole
+
+On and after the third anniversary of the Funding Date but less than 4 years from the Funding Date
+
+3.00%
+
+On and after the fourth anniversary of the Funding Date but less than 5 years from the Funding Date
+
+2.00%
+
+On and after the fifth anniversary of the Funding Date but less than 6 years from the Funding Date
+
+1.00%
+
+On and after the sixth anniversary of the Funding Date
+
+Par
+
+ 
+
+All
+obligations under the Credit Agreement will be secured, subject to certain exceptions and specified inclusions, by security interests
+in certain assets of the Loan Parties, including (1) intellectual property and other assets related to TranslarnaTM (ataluren),
+Emflaza® (deflazacort), UpstazaTM (eladocagene exuparvovec), PTC923 and,
+until certain release conditions are met, Vatiquinone, in each case, together with any other forms, formulations, or methods of delivery
+of any such products, and regardless of trade or brand name, (2) future acquired intellectual property (but not internally developed intellectual
+property unrelated to other intellectual property collateral) and other related assets, and (3) the equity interests held by the Loan
+Parties in certain of their subsidiaries.
+
+ 
+
+ 
+
+ 
+
+The Credit Agreement contains negative covenants
+that, among other things and subject to certain exceptions, could restrict the Company’s ability to, incur additional liens; incur
+additional indebtedness; make investments, including acquisitions; engage in fundamental changes; sell or dispose of assets that constitute
+collateral; pay dividends or make any distribution or payment on or redeem, retire or purchase any equity interests; amend, modify or
+waive certain material agreements and key contracts or organizational documents; and make payments of certain subordinated indebtedness.
+In addition, the Company will be required under conditions specified in the Credit Agreement to fund a reserve account up to certain amounts
+specified therein. The funds in the reserve account are available to prepay the Loans at any time at the Company’s option, and are,
+if funded, subject to release upon certain further conditions. Upon any such release, such funds are freely available for use by the Company
+subject to the generally applicable terms and conditions of the Credit Agreement.
+
+ 
+
+The Credit Agreement also requires the Company
+to have consolidated liquidity of at least $100.0 million as of the last day of each fiscal quarter, which shall be increased to $200.0
+million upon the Company consummating acquisitions meeting certain consideration thresholds described in the Credit Agreement. Additionally,
+the Credit Agreement contains certain customary representations and warranties, affirmative covenants and provisions relating to events
+of default, including nonpayment of principal, interest and other amounts; failure to comply with covenants; the rendering of judgments
+or orders or default by the Company in respect of other material indebtedness; certain insolvency and ERISA events; and certain events
+related to specified key contracts and key permits and other and regulatory matters.
+
+ 
+
+The foregoing summary of the Credit Agreement is
+qualified in its entirety by reference to the complete text of the Credit Agreement, a copy of which the Company intends to file as an
+exhibit to its Annual Report on Form 10-K for the fiscal year ending December 31, 2022.
+
+ 
+
+Stock Purchase Agreement
+
+ 
+
+In connection with the execution of the Credit
+Agreement, the Company and certain entities affiliated with the Lenders (the “Purchasers”) also entered into a stock purchase
+agreement on the Closing Date (the “Stock Purchase Agreement”) for the sale and issuance of 1,095,290 shares of common stock
+(the “Shares”) to the Purchasers at a price of $45.65 per share, for an aggregate purchase price of approximately $50.0 million.
+The per share price represents the closing price of the Company’s common stock on the Nasdaq Global Select Market on October 26,
+2022.
+
+ 
+
+Under the Stock Purchase Agreement, the Company
+agreed to register the resale of the Shares on a registration statement to be filed with the Securities and Exchange Commission within
+60 days of the Closing Date. The Company has agreed to keep such registration statement effective for a period of six months following
+the Closing Date. In addition, subject to certain conditions, the Purchasers will be entitled to participate in registered underwritten
+public offerings by the Company during such period.
+
+ 
+
+Pursuant to the terms of the Stock Purchase Agreement,
+the Purchasers and certain of their controlled affiliates have agreed not to, without the prior written approval of the Company and subject
+to specified conditions, directly or indirectly acquire shares of the Company’s outstanding common stock in excess of specified
+thresholds, seek or propose any acquisition of all or substantially all of the assets of the Company, seek or propose a merger or other
+business combination involving the Company, solicit proxies or consents with respect to any securities of the Company, seek to influence
+the management, board of directors or policies of the Company, or undertake other specified actions related to the potential acquisition
+of additional equity interests in the Company, or to encourage others to do any of the above (the “Standstill Restrictions”).
+The Standstill Restrictions terminate on the earliest of (i) the commencement of a tender offer or exchange offer by a third party unaffiliated
+with the Purchasers for more than 50% of the Company’s outstanding common stock, (ii) the public announcement by the Company of
+a written agreement to consummate a change of control of the Company, (iii) the public announcement of the Company’s voluntary or
+involuntary bankruptcy and (iv) the termination of the Credit Agreement.
+
+ 
+
+The Purchasers have also agreed not to sell or
+transfer the Shares without the prior written approval of the Company for a period of 90 days following the Closing Date, subject to certain
+exceptions.
+
+ 
+
+ 
+
+ 
+
+The foregoing summary of the Stock Purchase Agreement
+is qualified in its entirety by reference to the complete text of the Stock Purchase Agreement, a copy of which the Company intends to
+file as an exhibit to its Annual Report on Form 10-K for the fiscal year ending December 31, 2022.
+
+ 
+
+Item 2.03. 
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance
+Sheet Arrangement of a Registrant.
+
+ 
+
+The information set forth under the heading “Debt
+Facility” in Item 1.01 above is incorporated herein by reference.
+
+ 
+
+Item 3.02. 
+
+Unregistered Sales of Equity Securities.
+
+ 
+
+The information set forth under the heading “Stock
+Purchase Agreement” in Item 1.01 above is incorporated herein by reference. The Shares were issued in reliance on the exemption
+from registration under Section 4(a)(2) of the Securities Act of 1933, as amended, for a transaction by an issuer not involving any public
+offering within the meaning of Section 4(a)(2) thereunder.
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+ 
+
+On October 27, 2022, the Company issued a press
+release in which it announced that it entered into the Credit Agreement and the Stock Purchase Agreement. A copy of the press release
+is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated by reference into this Item 7.01.
+
+ 
+
+The information set forth in or incorporated by
+reference into this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall
+it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly
+set forth by specific reference in such a filing.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit No.
+
+Description
+
+ 
+
+ 
+
+99.1
+
+Press release issued by PTC Therapeutics, Inc. on October 27, 2022
+
+ 
+
+ 
+
+104
+
+The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+
+ 
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+PTC THERAPEUTICS, INC.
+
+ 
+
+ 
+
+ 
+
+Date: October 27, 2022
+
+By:
+
+/s/ Emily Hill  
+
+ 
+
+ 
+
+Emily Hill
+
+ 
+
+ 
+
+Chief Financial Officer

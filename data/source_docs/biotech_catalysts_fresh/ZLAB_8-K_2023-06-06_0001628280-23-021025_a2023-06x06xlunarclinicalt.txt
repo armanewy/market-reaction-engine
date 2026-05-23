@@ -1,0 +1,183 @@
+EX-99
+2
+a2023-06x06xlunarclinicalt.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+Zai Lab and Novocure Announce LUNAR Phase 3 Clinical Trial Demonstrates Statistically Significant and Clinically Meaningful Extension in Overall Survival for Patients with Metastatic Non-Small Cell Lung Cancer After Platinum-Based Therapies
+
+Tumor Treating Fields therapy together with standard of care provided a statistically significant and clinically meaningful 3-month improvement in median overall survival versus standard of care with no added systemic toxicities
+
+Tumor Treating Fields therapy together with immune checkpoint inhibitors resulted in an unprecedented 8-month improvement in median overall survival
+
+LUNAR is the first phase 3 clinical trial in more than seven years to show a significant extension in overall survival in metastatic non-small cell lung cancer post-platinum therapy
+
+Data from the LUNAR trial to be presented today during the 2023 ASCO Annual Meeting
+
+SHANGHAI, CAMBRIDGE, Mass., and ROOT, Switzerland – Zai Lab Limited (NASDAQ: ZLAB; HKEX: 9688) and Novocure (NASDAQ: NVCR) today are presenting positive results from the phase 3 LUNAR clinical trial evaluating the use of Tumor Treating Fields (TTFields) therapy together with standard therapies for the treatment of non-small cell lung cancer (NSCLC) at the 2023 American Society of Clinical Oncology (ASCO) Annual Meeting. The LUNAR trial met its primary endpoint with a statistically significant and clinically meaningful 3-month improvement in median overall survival (OS) when TTFields therapy was added to standard therapies (HR: 0.74, P=0.035).
+
+Patients randomized to receive TTFields therapy together with standard therapies (n=137) demonstrated median OS of 13.2 months compared to 9.9 months in patients treated with standard therapies alone (n=139). A profound OS benefit from TTFields therapy was demonstrated in the immune checkpoint inhibitor (ICI) subgroup. Patients randomized to receive TTFields therapy and physician’s choice ICI (n=66) demonstrated a median OS of 18.5 months versus a median OS of 10.8 months in patients treated with ICIs alone (n=68; HR=0.63; P=0.03). Patients randomized to receive TTFields therapy and docetaxel (n=71) had a positive survival trend with a median OS of 11.1 months vs 8.7 months in patients treated with docetaxel alone (n=71). TTFields therapy was well-tolerated with no added systemic toxicities and few grade 3 (no grade 4 or 5) device-related adverse events.
+
+“The results of the LUNAR study are highly encouraging,” said primary investigator Ticiana Leal, M.D., a researcher and medical oncologist at Winship Cancer Institute of Emory University and associate professor and director of the Thoracic Medical Oncology Program in the Department of Hematology and Medical Oncology at Emory University School of Medicine in Atlanta. “The LUNAR trial is the first study in more than seven years to show a significant improvement in overall survival in metastatic non-small cell lung cancer post-platinum chemotherapy. I am heartened by this progress and the potential of this innovative therapy to help many metastatic lung cancer patients in need of new treatment choices following platinum therapy, without added systemic toxicity.”  
+
+“The significant improvement in overall survival as demonstrated in the LUNAR study is groundbreaking. Lung cancer is the leading cause of cancer-related death in China, and non-small cell lung cancer is the most common form of this disease. The prognosis is often very poor for patients who progress after treatment with a platinum-containing regimen in the front-line setting,” said professor Li Zhang, M.D., Sun Yat-sen University Cancer Center. “I am very excited that this novel, non-invasive device can bring significant benefit to patients living with metastatic NSCLC in China.”
+
+Baseline characteristics were well balanced between cohorts: median age was 64 years (range, 22-86); 65% male; 96% of patients had an ECOG performance status of 0-1. Patients were enrolled at sites in North America (30%), Western Europe (30%), Eastern Europe (30%) and East Asia (9%). One-year survival rates for patients treated with TTFields therapy together with standard therapies was 53% versus 42% for patients treated with standard therapies alone (P=0.04). A landmark three-year survival analysis for patients treated with TTFields therapy together with standard therapies demonstrated a nearly threefold improvement, extending to 18% versus 7% for patients treated with standard therapies alone (P=0.015). Median progression-free survival (PFS) for patients treated with TTFields therapy together with standard therapies was 4.8 months versus 4.1 months in patients treated with standard therapies alone.
+
+Of patients randomized, 89% had one prior line of systemic therapy and 31% of patients randomized had been treated with an ICI (58% of patients randomized to the docetaxel cohort and 2% of patients randomized to the ICI cohort). ICIs were approved for first-line NSCLC in 2017 during the conduct of the LUNAR study, and PD-L1 expression data were collected thereafter in geographic regions where ICIs had been adopted. Tumor Proportion Scores were available for 151 patients globally (55%) and were well balanced across the cohorts. In all patients treated with ICI and with measured Tumor Proportion Scores, 63% had PD-L1 expression >1%, which is in-line with real-world data. PD-L1 expression data were collected from 83% of patients (69 of 83 patients) enrolled at U.S. sites and were well balanced across the four cohorts.
+
+1
+
+PD-L1 Status:
+
+PD-L1 Expression
+
+TTFields + SOC (n=137)
+
+SOC
+(n=139)
+
+TTFields + ICI (n=66)
+
+ICI
+(n=68)
+
+TTFields + DTX (n=71)
+
+DTX
+(n=71)
+
+<1%
+
+17%
+
+17%
+
+18%
+
+24%
+
+16%
+
+10%
+
+1-49%
+
+27%
+
+29%
+
+26%
+
+27%
+
+28%
+
+31%
+
+>50%
+
+7%
+
+13%
+
+8%
+
+12%
+
+7%
+
+14%
+
+DTX = docetaxel; ICI = immune checkpoint inhibitor; SOC = standard of care
+
+Novocure has submitted the LUNAR clinical trial results for publication in a leading, peer-reviewed medical journal. The LUNAR clinical trial data are expected to serve as the basis for a Premarket Approval (PMA) submission to the U.S. Food and Drug Administration in the second half of 2023. Zai Lab contributed to the China portion of the LUNAR study and plans to submit a Marketing Authorization Application (MAA) to China’s National Medical Products Administration (NMPA) following Novocure’s submission to the FDA.
+
+“I would like to thank our patients, their families and caregivers for participating in the LUNAR trial,” said William Doyle, Novocure’s Executive Chairman. “I would also like to thank Dr. Leal and all of our investigators for their expertise and dedication to advancing the care of patients. The LUNAR trial results represent tremendous progress for the treatment of metastatic non-small cell lung cancer, and the LUNAR trial demonstrates the broad and versatile potential of TTFields therapy in improving the survival of cancer patients with high unmet needs. We are energized by the LUNAR results and are moving forward quickly to make TTFields therapy available to patients with metastatic non-small cell lung cancer.”
+
+“Each year in China, approximately 740,000 patients are newly diagnosed with non-small cell lung cancer, and most patients are diagnosed at an advanced stage. The LUNAR trial results demonstrate the potential of TTFields to meaningfully extend survival for many patients with advanced, platinum-resistant NSCLC,” said Dr. Samantha Du, Founder, Chairperson, and Chief Executive Officer of Zai Lab. “We are pleased to have been able to contribute to the LUNAR study, and we look forward to working with Novocure to bring TTFields to patients with metastatic NSCLC as soon as possible.”
+
+Novocure is dedicated to advancing TTFields therapy for patients with solid tumors. The LUNAR clinical trial is the first of four phase 3 clinical trials expected to readout by the end of 2024 studying the use of TTFields therapy for the treatment of solid tumors of the brain, torso and abdomen. Based on the strength of the LUNAR data, Novocure intends to launch additional phase 3 trials evaluating TTFields therapy in earlier lines of treatment and together with ICIs and other standards of care.
+
+In addition to LUNAR, Zai Lab participated in two of Novocure’s ongoing phase 3 clinical trials - the METIS trial (brain metastases resulting from NSCLC) and the PANOVA-3 trial (pancreatic cancer). Zai Lab also conducted the EF-31 phase 2 trial, in collaboration with Novocure, studying the use of TTFields in the treatment of gastric cancer in China.
+
+Investor Event details
+
+Novocure will host an investor event at 2 p.m. CDT on Tuesday, June 6, 2023. The event will include a presentation and discussion of the LUNAR clinical trial data, featuring leading thoracic oncologists, investigators, and Novocure leadership. A live webcast of the event will be available on the investor relations page of www.novocure.com. For more information or to request in-person attendance, please contact Novocure investor relations (investorinfo@novocure.com).
+
+About LUNAR
+
+LUNAR is a phase 3 trial testing the safety and effectiveness of TTFields therapy when used together with ICI or docetaxel (experimental arm) versus ICI or docetaxel alone (control arm) for patients with metastatic NSCLC who progressed during or after platinum-based therapy. The primary endpoint is superior overall survival of patients treated with TTFields therapy plus ICI or docetaxel versus ICI or docetaxel alone. The powered secondary endpoints are superior overall survival of patients treated with TTFields therapy plus ICI versus ICI cohort and superior overall survival of patients treated with TTFields therapy plus docetaxel versus docetaxel alone. TTFields therapy is intended principally for use with other concomitant standard of care treatments, and LUNAR was designed to generate data that contemplates multiple outcomes, all of which Novocure believes will be clinically meaningful.
+
+About NSCLC in China
+
+Lung cancer is the most commonly diagnosed cancer type and the leading cause of cancer death in China. There were approximately 871,000 new cases and 767,000 deaths of lung cancer in China in 2022, respectively.1 NSCLC accounts for approximately 85% of lung cancer, and approximately 70% of NSCLC is locally advanced or metastatic at initial diagnosis. Similar to the global clinical practice, physicians use different combinations of surgery, radiation and pharmacological therapies
+
+2
+
+to treat NSCLC, depending on the stage of the disease. Surgery, which may be curative in a subset of patients, is usually used in early stages of the disease. Since 1991, radiation with a combination of platinum-based chemotherapy drugs has been the first-line standard of care for locally advanced or metastatic NSCLC. Certain immune checkpoint inhibitors have been approved for the first-line treatment of NSCLC and the standard of care in this setting appears to be evolving rapidly. The standard of care for second-line treatment is also evolving and may include platinum-based chemotherapy for patients who received immune checkpoint inhibitors as their first-line regimen, pemetrexed, docetaxel or immune checkpoint inhibitors.
+
+Source: (1) Changfa Xia, et al. Cancer statistics in China and United States, 2022: profiles, trends, and determinants.
+
+About Novocure
+
+Novocure is a global oncology company working to extend survival in some of the most aggressive forms of cancer through the development and commercialization of its innovative therapy, Tumor Treating Fields. Novocure’s commercialized products are approved in certain countries for the treatment of adult patients with glioblastoma, malignant pleural mesothelioma and pleural mesothelioma. Novocure has ongoing or completed clinical trials investigating Tumor Treating Fields in brain metastases, gastric cancer, glioblastoma, liver cancer, non-small cell lung cancer, pancreatic cancer and ovarian cancer.
+
+Headquartered in Root, Switzerland and with a growing global footprint, Novocure has regional operating centers in Portsmouth, New Hampshire and Tokyo, as well as a research center in Haifa, Israel. For additional information about the company, please visit Novocure.com and follow @Novocure on LinkedIn and Twitter.
+
+Novocure Forward-Looking Statements
+
+In addition to historical facts or statements of current condition, this press release may contain forward-looking statements. Forward-looking statements provide Novocure’s current expectations or forecasts of future events. These may include statements regarding anticipated scientific progress on its research programs, clinical trial progress, development of potential products, interpretation of clinical results, prospects for regulatory approval, manufacturing development and capabilities, market prospects for its products, coverage, collections from third-party payers and other statements regarding matters that are not historical facts. You may identify some of these forward-looking statements by the use of words in the statements such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe” or other words and terms of similar meaning. Novocure’s performance and financial results could differ materially from those reflected in these forward-looking statements due to general financial, economic, environmental, regulatory and political conditions as well as issues arising from the COVID-19 pandemic and other more specific risks and uncertainties facing Novocure such as those set forth in its Annual Report on Form 10-K filed on February 23, 2023, and subsequent filings with the U.S. Securities and Exchange Commission. Given these risks and uncertainties, any or all of these forward-looking statements may prove to be incorrect. Therefore, you should not rely on any such factors or forward-looking statements. Furthermore, Novocure does not intend to update publicly any forward-looking statement, except as required by law. Any forward-looking statements herein speak only as of the date hereof. The Private Securities Litigation Reform Act of 1995 permits this discussion.
+
+Investors:
+
+Ingrid Goldberg
+
+investorinfo@novocure.com
+
+610-723-7427
+
+Media:
+
+Leigh Labrie
+
+media@novocure.com
+
+610-723-7428
+
+About Zai Lab
+
+Zai Lab (NASDAQ: ZLAB; HKEX: 9688) is an innovative, research-based, commercial-stage biopharmaceutical company based in China and the United States. We are focused on discovering, developing, and commercializing innovative products that address medical conditions with significant unmet needs in the areas of oncology, autoimmune disorders, infectious diseases, and neuroscience. Our goal is to leverage our competencies and resources to positively impact human health in China and worldwide.
+
+For additional information about Zai Lab, including our products, business activities and partnerships, research, and other events or developments, please visit www.zailaboratory.com or follow us at www.twitter.com/ZaiLab_Global.
+
+Zai Lab Forward-Looking Statements
+
+This press release contains forward-looking statements about future expectations, plans, and prospects, including, without limitation, statements relating to Tumor Treating Fields, the LUNAR study, and the potential treatment of patients with non-small cell lung cancer. All statements, other than statements of historical fact, included in this press release are forward-looking statements, and can be identified by words such as “aim,” “anticipate,” “believe,” “could,” “estimate,” “expect,” “forecast,” “goal,” “intend,” “may,” “plan,” “possible,” “potential,” “will,” “would,” and other similar expressions. Such statements constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are not guarantees or assurances of future performance. Forward-looking statements are based on our expectations and assumptions as of the date of this press release and are subject to inherent uncertainties, risks, and changes in circumstances that may differ materially from those contemplated by the forward-looking statements. We may not actually
+
+3
+
+achieve the plans, carry out the intentions, or meet the expectations or projections disclosed in our forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results may differ materially from those indicated by forward-looking statements as a result of various important factors, including but not limited to (1) our ability to successfully commercialize and generate revenue from our approved products, (2) our ability to obtain funding for our operations and business initiatives, (3) the results of our clinical and pre-clinical development of our product candidates, (4) the content and timing of decisions made by the relevant regulatory authorities regarding regulatory approvals of our product candidates, (5) the effects of the novel coronavirus (COVID-19) pandemic on our business and results of operations, (6) risks related to doing business in China, and (7) other factors identified in our most recent annual and quarterly reports and in other reports we have filed with the U.S. Securities and Exchange Commission (SEC). We anticipate that subsequent events and developments will cause our expectations and assumptions to change, and we undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required by law. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this press release.
+
+Our SEC filings can be found on our website at www.zailaboratory.com and on the SEC’s website at www.sec.gov.
+
+For more information, please contact:
+
+Investor Relations:
+
+Christine Chiou / Lina Zhang
++1 (917) 886-6929 / +86 136 8257 6943
+christine.chiou1@zailaboratory.com / lina.zhang@zailaboratory.com
+
+Media: 
+
+Shaun Maccoun / Xiaoyu Chen
++1 (415) 317-7255 / +86 185 0015 5011
+shaun.maccoun@zailaboratory.com / xiaoyu.chen@zailaboratory.com
+
+Zai Lab Limited
+
+4

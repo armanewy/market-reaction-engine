@@ -1,0 +1,388 @@
+0001070081
+false
+
+0001070081
+
+2023-03-22
+2023-03-22
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13
+OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date
+of earliest event reported): March 22, 2023
+
+ 
+
+ 
+
+PTC
+THERAPEUTICS, INC.
+
+(Exact name of registrant
+as specified in charter)
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-35969
+
+ 
+
+04-3416587
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+100 Corporate Court
+
+South
+Plainfield, NJ 07080
+
+(Address of Principal Executive Offices, including Zip Code)
+
+ 
+
+(908) 222-7000
+
+(Registrant’s telephone
+number, including area code) 
+
+ 
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+¨ Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+¨ Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨ Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨ Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant
+to Section 12(b) of the Act:
+
+ 
+
+Title
+of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name
+of each exchange on which
+
+registered
+
+Common Stock, $0.001 par value per share
+
+ 
+
+PTCT
+
+ 
+
+Nasdaq Global Select Market
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging
+growth company    ¨
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 5.02. Departure of Directors or Certain Officers;
+Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+Chief Executive Officer
+Succession
+
+ 
+
+On March 22, 2023, the Board of Directors
+(the “Board”) of PTC Therapeutics, Inc. (the “Company”) appointed Dr. Matthew B. Klein, age 51, as Chief
+Executive Officer and President and a member of the Board, effective as of March 22, 2023. Dr. Klein succeeds Dr. Stuart
+W. Peltz, who provided the Board with notice on March 22, 2023 of his decision to retire as Chief Executive Officer and as a member
+of the Board, in each case, effective as of March 22, 2023. Dr. Klein is a Class I director with an initial term expiring
+at the Company’s 2023 annual meeting of stockholders. In order to provide an orderly transition, Dr. Peltz will serve as a
+Senior Advisor to the Company and join its Scientific Advisory Board, as further described below.
+
+ 
+
+Dr. Klein has served as the Company’s
+Chief Operating Officer since January 2022. Dr. Klein joined the Company in October 2019 as Global Head Gene and Mitochondrial
+Therapies and became Global Head Clinical Development in March 2020 and Chief Development Officer in April 2020. Prior to joining
+the Company, Dr. Klein was Chief Executive Officer of BioElectron Technology Corporation, or BioElectron, from 2018 to 2019, and
+served as a member of the board of directors of BioElectron from 2018 to 2020. Dr. Klein served as the Chief Medical Officer of BioElectron
+from 2013 to 2019 and was Senior Vice President, Clinical Science at BioElectron from 2012 to 2013. Dr. Klein has also served as
+a member of the board of directors of ClearPoint Neuro, Inc., a Nasdaq-listed company, since 2020 as the Company’s designee.
+Dr. Klein received a BA from the University of Pennsylvania, an MD from Yale University School of Medicine and an MS in epidemiology
+from the University of Washington School of Public Health.
+
+ 
+
+No arrangement or understanding exists between
+Dr. Klein and any other person pursuant to which Dr. Klein was appointed as an officer or director of the Company. No family
+relationships exist between Dr. Klein and any director or officer of the Company. At the time of the acquisition of substantially
+all of the assets of BioElectron pursuant to an Asset Purchase Agreement by and between the Company and BioElectron, dated October 1,
+2019, Dr. Klein was the Chief Executive Officer and director of BioElectron, and was a shareholder of BioElectron, owning approximately
+six percent of its outstanding shares. As a shareholder of BioElectron, Dr. Klein is entitled to receive a portion of any post-closing
+payments made to BioElectron pursuant to the Asset Purchase Agreement. No such payments have been made to BioElectron since the acquisition.
+Dr. Klein was not a related party at the time of the acquisition.
+
+ 
+
+In connection with his
+retirement, the Company and Dr. Peltz entered into a consulting agreement (the “Consulting Agreement”) pursuant to
+which Dr. Peltz will serve as a Senior Advisor to the Company and will provide consulting services to the Company from
+March 24, 2023, the date he terminates employment, until April 11, 2025 (subject to earlier termination, the “consulting
+period”). The Consulting Agreement provides that Dr. Peltz will receive a consulting fee of $600,000 in respect of his
+consulting services for the first twelve months of the consulting period and $400,000 in respect of his consulting services for the
+next twelve months of the consulting period (through March 24, 2025). Dr. Peltz and his eligible dependents will continue to receive
+group health insurance benefits until he becomes eligible for Medicare, subject to applicable law and the terms of the applicable
+policies and subject to a maximum amount of expenses. In addition, Dr. Peltz will continue to be eligible to receive a prorated
+2023 annual bonus. The amount of such prorated 2023 annual bonus will be equal to 25% of Dr. Peltz’s 2022 annual bonus
+and will be payable at the time bonuses are paid to the Company’s executive officers. While Dr. Peltz serves on the
+Company’s Scientific Advisory Board, he will be compensated for such services in accordance with the Company’s policies.
+Unvested equity awards previously granted to Dr. Peltz will continue to be eligible to vest based on his continued service
+during the consulting period in accordance with their existing terms. Dr. Peltz also agreed to a release of claims relating to
+the end of his service as Chief Executive Officer and remains subject to certain continuing obligations in favor of the Company.
+
+ 
+
+The
+foregoing descriptions of the material terms of the Consulting Agreement for Dr. Peltz do not purport to be complete and are qualified
+in their entirety by reference to the full text of the Consulting Agreement, a copy of which is attached as Exhibit 10.1 to
+this Current Report on Form 8-K and incorporated herein by reference.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 7.01. Regulation FD Disclosure.
+
+ 
+
+On March 24, 2023, the Company issued a press release regarding the Chief Executive Officer succession. The Company will host a conference
+call on March 24, 2023 at 8:30 AM eastern time. Directions on how to access the conference call are included in the press release furnished
+as Exhibit 99.1 to this Current Report on Form 8-K. 
+
+ 
+
+The information
+in this Item 7.01, including Exhibit 99.1, is being furnished and shall not be deemed to be “filed” for purposes of Section 18
+of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that Section and shall not be deemed
+incorporated by reference into any registration statement or other document filed pursuant to the Securities Act of 1933, as amended,
+or the Securities Exchange Act of 1934, as amended, except as shall be expressly set forth by specific reference in such filing.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+10.1
+
+ 
+
+Consulting Agreement between PTC Therapeutics, Inc. and Stuart W. Peltz
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press release of the Company, dated March 24, 2023.
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+ 
+
+ 
+
+PTC Therapeutics, inc.
+
+ 
+
+ 
+
+ 
+
+Date: March 24, 2023
+
+By:
+
+/s/ Mark E. Boulding
+
+ 
+
+Name:
+
+Mark E. Boulding
+
+ 
+
+Title:
+
+Executive Vice President and Chief Legal Officer

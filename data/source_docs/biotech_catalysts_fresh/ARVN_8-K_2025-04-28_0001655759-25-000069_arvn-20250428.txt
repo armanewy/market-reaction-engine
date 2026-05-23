@@ -1,0 +1,162 @@
+arvn-20250428
+0001655759FALSE00016557592025-04-282025-04-28
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 28, 2025
+
+__________________
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware
+
+001-38672
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+06511
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ARVN
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01 Regulation FD Disclosure.
+
+On April 28, 2025, Arvinas, Inc. (the “Company”), presented data from preclinical combination studies of ARV-393, the Company’s investigational PROteolysis TArgeting Chimera (“PROTAC”) B-cell lymphoma 6 protein (“BCL6”) degrader. The results from these preclinical studies were shared in a poster presentation at the 2025 American Association for Cancer Research (“AACR”) annual meeting in Chicago, Illinois.
+
+The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated into this Item 7.01 by reference.
+
+The information in this Item 7.01, including Exhibit 99.1 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01 Other Events.
+
+On April 28, 2025, the Company presented data from preclinical combination studies of ARV-393, the Company’s investigational PROTAC BCL6 degrader. The results from these preclinical studies were shared in a poster presentation at the AACR annual meeting in Chicago, Illinois.
+
+Preclinical data demonstrated synergistic antitumor activity, including complete regressions, in combination with standard of care (“SOC”) chemotherapy, SOC biologics, and investigational oral small molecule inhibitors (“SMIs”) in high grade B-cell lymphoma (“HGBCL”) and aggressive diffuse large B-cell lymphoma (“DLBCL”) models. Key findings from the studies, as presented at the AACR annual meeting, are outlined below.
+
+•ARV-393 in combination with SOC chemotherapy (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (“R-CHOP”), induced significantly greater tumor growth inhibition compared with rituximab, CHOP, R-CHOP, or ARV-393 alone, with complete tumor regressions in all mice treated with the ARV-393 and R-CHOP combination.
+
+•ARV-393 in combination with SOC biologics targeting CD20 (rituximab), CD19 (tafasitamab), or CD79b (polatuzumab vedotin) resulted in tumor regressions and demonstrated significantly stronger tumor growth inhibition compared with each agent alone.
+
+•In preclinical models, ARV-393 increased CD20 expression, providing additional support for the exploration of combinations with CD20-targeted agents and in the context of low or loss of CD20 expression.
+
+•ARV-393 in combination with investigational small molecule inhibitors targeting clinically validated oncogenic drivers of lymphoma, such as BTK (acalabrutinib), BCL2 (venetoclax), or EZH2 (tazemetostat), resulted in superior tumor growth inhibition compared with each agent alone, with tumor regressions in all mice treated with the combinations.
+
+Item 9.01 Financial Statements and Exhibits.
+
+Exhibit Number
+
+Description of Exhibit
+
+99.1
+
+Press Release, dated April 28, 2025
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ARVINAS, INC.
+
+Date: April 28, 2025
+
+By:
+
+/s/ Andrew Saik
+
+Andrew Saik
+
+Chief Financial Officer

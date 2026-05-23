@@ -1,0 +1,194 @@
+sgmo-20231102
+November 2, 20230001001233false00010012332023-11-022023-11-02
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 2, 2023
+
+ 
+
+ SANGAMO THERAPEUTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+  
+
+Delaware
+
+ 
+
+000-30171
+
+ 
+
+68-0359556
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+ID Number)
+
+7000 Marina Blvd., Brisbane, California 94005
+
+(Address of principal executive offices) (Zip Code)
+
+(510) 970-6000
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report) 
+
+ 
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share
+
+ 
+
+SGMO
+
+ 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01 Other Events.
+
+Giroctocogene fitelparvovec, also known as SB-525, is a gene therapy product candidate for the treatment of moderately severe to severe hemophilia A and is the subject of our Phase 1/2 Alta study and the registrational Phase 3 AFFINE clinical trial. We are developing giroctocogene fitelparvovec with our collaborator Pfizer Inc., or Pfizer. We and Pfizer plan to present updated data, of which a summary of the accepted abstract is located below, from the Phase 1/2 Alta study in a platform presentation at the 65th American Society of Hematology Annual Meeting & Exposition on December 11, 2023. Pfizer expects a pivotal readout in the Phase 3 AFFINE trial evaluating giroctocogene fitelparvovec in the middle of 2024.
+
+Summary of Updated Preliminary Results from the Phase 1/2 Alta Study of Giroctocogene Fitelparvovec
+
+•Alta is a Phase 1/2 single-dose multicenter dose-ranging study to assess the safety and tolerability of giroctocogene fitelparvovec in adults with severe hemophilia A.
+
+•Four ascending doses of giroctocogene fitelparvovec (9e11, 2e12, 1e13, and 3e13 vg/kg) were infused into adults aged ≥18 years with severe hemophilia A across 4 cohorts (n=2 each). The high-dose (3e13vg/kg) cohort was expanded to 5 participants.
+
+•Key endpoints included safety, circulating Factor VIII, or FVIII, activity, use of FVIII replacement therapy, and frequency of bleeding events.
+
+•Eleven male participants participated in the study overall, with five participants in the 3e13-vg/kg highest dose cohort. As of the May 19, 2023 cutoff date, all participants had been followed for 153 to 290 weeks. Two participants left the study after Week 156. Of the remaining, 1 participant had not yet completed 4 years (208 weeks). The most common treatment-related adverse events, or AEs, reported in the high-dose cohort (n=5) were elevated liver enzymes and infusion-related reactions: increased alanine aminotransferase (ALT; n=3 [60.0%]), increased aspartate aminotransferase (AST; n=2 [40.0%]), pyrexia (n=3 [60.0%]), and tachycardia (n=2 [40.0%]).
+
+•Treatment-related serious adverse events were reported in one participant in the highest dose cohort who experienced hypotension and fever with onset approximately six hours after giroctocogene fitelparvovec infusion; the events fully resolved with treatment and did not delay post-infusion discharge the next day.
+
+•Adverse events of ALT increases requiring ≥7 days of corticosteroids were observed in 4 of 5 participants in the high-dose cohort. ALT elevations were managed with tapering courses of corticosteroids (median duration: 56 days; range: 7–135 days), with maintenance of efficacious levels of FVIII activity. Participants in the high dose cohort have not required steroids since Week 65, have had ALT values in the normal range (follow-up: 156–208 weeks) and normal findings via liver MRI (follow-up: 104–208 weeks).
+
+•As of the May 19, 2023 cutoff date, no confirmed FVIII inhibitor development occurred, and no thrombotic events or liver masses were reported.
+
+•Of the 5 participants in the high-dose cohort, 2 had data available through Week 208 and FVIII activity was maintained in the mild to normal range (see Table 1 below), consistent with Week 156 results. Of those without Week 208 data, 2 had data through Week 182. One participant maintained FVIII activity in the mild range (14.1% and 24.1% of normal, measured with a chromogenic and 1-stage assay, respectively); the other had FVIII activity of 3.1% and 7.2%. The remaining participant left the study after Week 156, with FVIII activity maintained in the mild range (11.8% and 22.9%).
+
+•In the high-dose cohort, the mean annualized total bleeding rate [(number of all bleeding episodes starting 3 weeks after study drug infusion) / (observation period in years)] was 0 for the first year post-infusion and 1.2 (SD 2.58) throughout the total duration of follow-up. In this cohort, the participant with the lowest FVIII activity level experienced a total of 22 bleeds, with 21 necessitating treatment (8 traumatic; 7 spontaneous; 6 unknown). The other 4 participants had no or very minimal bleeds, including 1 who experienced a bleed in a target joint. No participants in the high-dose cohort have resumed prophylaxis as of the cutoff date.
+
+•A single infusion of giroctocogene fitelparvovec gene therapy in participants with severe hemophilia A remains generally well tolerated over a period of nearly 4 years post-infusion, with associated increases in FVIII levels in the moderate to normal range, without sustained AEs and with no AEs associated with increased liver function tests since Week 59.
+
+Table 1: Factor VIII Activity Levels by 1-Stage and Chromogenic Assay for the Giroctocogene Fitelparvovec 3e13-vg/kg Cohort
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+SANGAMO THERAPEUTICS, INC.
+
+Dated: November 3, 2023
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ SCOTT B. WILLOUGHBY
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Scott B. Willoughby
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President, General Counsel and Corporate Secretary

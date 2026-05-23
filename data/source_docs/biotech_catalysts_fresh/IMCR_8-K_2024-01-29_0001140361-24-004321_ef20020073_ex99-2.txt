@@ -1,0 +1,169 @@
+EX-99.2
+3
+ef20020073_ex99-2.htm
+EXHIBIT 99.2
+
+Exhibit 99.2
+
+ 
+
+In the confidential preliminary offering memorandum
+to be used in connection with a private placement to persons reasonably believed to be qualified institutional buyers pursuant to Rule 144A of the Securities Act of 1933, as amended, by Immunocore Holdings plc, the Company provided the following overview of the Company’s business as updates or supplements to the information provided in the Company’s previous periodic filings with the Securities and
+Exchange Commission. Unless the context requires otherwise, “Immunocore,” “Company,” “we,” “our,” and “us” refers to Immunocore Holdings plc and its subsidiaries.
+
+ 
+
+Overview
+
+ 
+
+We are a commercial stage biotechnology company pioneering the development of a novel class of TCR bispecific immunotherapies called ImmTAX – Immune
+mobilizing monoclonal TCRs Against X disease – designed to treat a broad range of diseases, including cancer, infectious and autoimmune diseases. Leveraging our proprietary, flexible, off-the-shelf ImmTAX platform, we are developing a deep pipeline
+in multiple therapeutic areas, including five clinical stage programs in oncology and infectious disease, advanced pre-clinical programs in autoimmune disease and earlier pre-clinical programs across three therapeutic areas.
+
+ 
+
+In 2022, we received approval for our lead product, KIMMTRAK, for the treatment of unresectable metastatic uveal melanoma, or mUM, from the U.S. Food
+and Drug Administration, or the FDA, the European Commission, or the EC, and other health authorities. KIMMTRAK is the lead product from our ImmTAX platform and is the first new therapy in uveal melanoma in four decades. To date, we have dosed over
+1,000 cancer patients with KIMMTRAK, tebentafusp, and our other ImmTAX product candidates, which we believe is the largest clinical data set of any bispecific in a solid tumor and any TCR therapeutic. Our other clinical programs are being conducted
+with patients who have a broad range of cancers including melanoma, ovarian, lung, endometrial, colorectal, and gastrointestinal cancers, among others. We believe the other ImmTAX product candidates we have under development have the potential to
+address other tumor types with larger addressable patient populations and significant unmet need.
+
+ 
+
+Our ImmTAC Platform (Oncology)
+
+ 
+
+•
+
+KIMMTRAK (tebentafusp), our ImmTAC molecule targeting an HLA-A*02:01 gp100 antigen, is our
+first approved product. The FDA and the EC have approved KIMMTRAK (tebentafusp-tebn and tebentafusp, respectively) for the treatment of HLA-A*02:01-positive adult patients with unresectable mUM. KIMMTRAK is currently approved in 38
+countries. We have commercially launched KIMMTRAK in the United States and nine other countries, with further commercial launches underway in additional territories where we have received regulatory approval.
+
+ 
+
+•
+
+KIMMTRAK is also being evaluated for the treatment of advanced cutaneous melanoma, or CM.
+We are currently enrolling patients in a randomized Phase 2/3 clinical trial (TEBE-AM) to investigate the potential of tebentafusp as a monotherapy or in connection with an anti-PD(L)1 therapy. This trial is enrolling patients with advanced
+CM, excluding only uveal melanoma, who have progressed on an anti-PD1, received prior ipilimumab and, if applicable, received a tyrosine kinase inhibitor, or TKI. Randomization is expected to be completed in the Phase 2 portion of the trial
+during the third quarter of 2024, and we expect topline data from the Phase 2 portion of the trial to be available by the fourth quarter of 2024.
+
+ 
+
+•
+
+KIMMTRAK will also be evaluated for the treatment of adjuvant therapy for uveal (or
+ocular) melanoma. In 2023, we signed an agreement for a European Organisation for Research and Treatment of Cancer (EORTC)-sponsored trial to study KIMMTRAK as adjuvant therapy for uveal (or ocular) melanoma (ATOM) in HLA-A*02:01 positive
+patients. We anticipate that the EORTC will randomize the first patient in the trial in the second half of 2024.
+
+ 
+
+•
+
+IMC-F106C, our ImmTAC molecule targeting an HLA-A*02 PRAME antigen, is currently being
+evaluated in a Phase 1/2 dose escalation clinical trial in patients with multiple solid tumor cancers and is advancing towards a registrational Phase 3 clinical trial in first-line advanced CM, in combination with a checkpoint inhibitor. In
+addition to progressing IMC-F106C into a registrational trial in CM, we are continuing to enroll patients in the monotherapy and combination arms of the Phase 1/2 clinical trial across multiple tumor types, including expansion arms for
+patients with advanced ovarian, non-small cell lung, and endometrial carcinoma. The initial data from the Phase 1 clinical trial of IMC-F106C, the first PRAME x CD3 ImmTAC bispecific protein, was presented at the 2022 European Society for
+Medical Oncology, or ESMO, Congress in September 2022. Durable Response Evaluation Criteria in Solid Tumors, or RECIST, responses and reduction in circulating tumor DNA, or ctDNA, were observed across multiple solid tumors. In August 2023,
+we provided an updated analysis of the initial eighteen uveal and cutaneous melanoma patients in the data set presented at ESMO 2022, which continued to show promising durability of the clinical activity (range of duration of patient
+response from 6 months to 17 months). We expect to report data from the ongoing monotherapy and combination cohorts throughout 2024 including CM (expected in the second quarter of 2024), ovarian (expected by third quarter of 2024), and
+non-small cell lung carcinoma (expected by fourth quarter of 2024). We have decided to advance IMC-F106C into a Phase 3 first-line CM clinical trial in combination with nivolumab with a primary endpoint of progression-free survival, or PFS,
+based on our analysis of the ongoing Phase 1 data in previously treated CM which demonstrated monotherapy clinical activity including partial responses (PR), durable tumor reduction, disease control (PR and SD), PFS and ctDNA reduction
+(consistent with prior reported data for IMC-F106C and tebentafusp). Additional rationale includes safety in combination with checkpoints (from the ongoing Phase 1 data and prior experience with tebentafusp) and evidence from across the
+platform for increased clinical activity in earlier line patients compared to later line. As such, PRISM-MEL-301, the first PRAME Phase 3 clinical trial with IMC-F106C, will randomize patients with HLA-A*02:01-positive, first-line advanced
+CM to IMC-F106C + nivolumab versus a control arm of either nivolumab or nivolumab + relatlimab, depending on the country where the patient is enrolled. We plan to randomize the first patient in this trial in the first quarter of 2024.
+
+ 
+
+•
+
+IMC-P115C, our half-life extended ImmTAC molecule targeting an optimal HLA-A*02 PRAME, is
+advancing towards an investigational new drug, or IND, application or clinical trial application, or CTA, submission for IMC-P115C in the second quarter of 2024. This ImmTAC candidate was designed with the aim of improving patient
+convenience. IMC-P115C targets the same PRAME-A02 peptide and uses the same CD3 end and T-cell-receptor, or TCR, specificity as IMC-F106C.
+
+ 
+
+•
+
+IMC-T119C, our ImmTAC molecule targeting an optimal HLA-A*24 PRAME, is advancing towards
+an IND application or CTA submission for IMC-T119C in the second half of 2024. HLA-24 is an HLA-type that is estimated to be present in 60% of people in Japan and 15-20% in Western populations.
+
+ 
+
+•
+
+IMC-R117C, our ImmTAC molecule targeting an optimal HLA-A*02 PIWIL1, will enter a Phase 1
+clinical trial in 2024. We submitted a CTA in December 2023. PIWIL1 is believed to play a role in tumor progression and is expressed across a range of tumors including colorectal, which is historically insensitive to immune checkpoints, as
+well as other gastrointestinal cancers. PIWIL1 is also reported to be a negative prognostic marker. We believe IMC-R117C is the first PIWIL1 targeted immunotherapy.
+
+ 
+
+Our ImmTAV Platform (Infectious Diseases)
+
+ 
+
+•
+
+IMC-M113V, our ImmTAV molecule targeting a human immunodeficiency virus gag antigen
+bispecific TCR molecule, is expected to be evaluated in a Phase 1 clinical trial for which we are currently enrolling patients. Our goal is to develop a functional cure for HIV. Initial Phase 1 safety and pharmacodynamic activity data from
+the single ascending dose, or SAD, portion of the trial was presented at the Conference on Retroviruses and Opportunistic Infections (CROI) in 2023. IMC-M113V was well tolerated at doses where we observed biomarkers of T cell engagement. We
+are enrolling up to 28 participants living with HIV in the multiple ascending dose, or MAD, part of the trial, to identify a safe and tolerable dosing schedule that could lead to reduction in the viral reservoir and control of HIV after
+stopping antiretroviral therapies, or functional cure. We expect to present a data update from the Phase 1 clinical trial in the second half of 2024.
+
+ 
+
+•
+
+IMC-I109V, our ImmTAV molecule targeting a conserved hepatitis B virus envelope antigen, is
+currently being evaluated in a Phase 1 clinical trial in patients with chronic HBV who are non-cirrhotic, hepatitis B e-Antigen negative, and virally suppressed on chronic nucleot(s)ide analogue therapy. In 2023, we amended the trial design
+in the ongoing Phase 1 trial with IMC-I109V for people living with HBV to include HBV-positive hepatocellular carcinoma. Our goal is to develop a functional cure for HBV. We are enrolling patients in the SAD portion of the trial.
+
+ 
+
+Our ImmTAAI Platform (Autoimmune Diseases)
+
+ 
+
+•
+
+IMC-S118AI, our ImmTAAI molecule specifically targeted to the pancreatic beta-cell for
+disease modifying treatment in type 1 diabetes, will be advancing towards GMP manufacturing in 2024. IMC-S118AI recognizes a peptide from pre-proinsulin presented by HLA-A2*01 on beta-cells coupled with a PD1 agonist effector arm. Type 1
+diabetes is an autoimmune condition in which the patient’s immune system attacks and kills the beta-cells responsible for controlling glucose levels through the release of insulin. Progressive loss of beta cells leads to loss of glucose
+control requiring life-long monitoring and treatment with exogenous insulin. We believe IMC-S118AI has the potential to provide a differentiated option for treatment with advantages of tissue-specific down modulation without
+immunosuppression.
+
+ 
+
+•
+
+Undisclosed universal skin antigen-presenting cells, or APCs, targeted ImmTAAI, our ImmTAAI
+molecule targeting a non-HLA restricted or ‘universal’ target expressed on APCs in the skin. APCs, through their role of priming and restimulating T cells are believed to play a role in many autoimmune and inflammatory diseases. We believe
+that precision targeting of our PD1 agonist based immune inhibitory molecule to these key cells involved in the establishment and maintenance of disease will provide clinical benefit to patients and the potential to modify the course of
+disease. We are considering this target for treatment of a range of dermatological diseases.
+
+ 
+
+Our Pipeline
+
+ 
+
+Special Note Regarding Forward-Looking Statements
+
+ 
+
+This document contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 that
+involve risks and uncertainties. Words such as “may”, “will”, “believe”, “expect”, “plan”, “anticipate” and similar expressions (as well as other words or expressions referencing future events or circumstances) are intended to identify
+forward-looking statements. All statements, other than statements of historical facts, included in this document are forward-looking statements. These statements include, but are, but not limited to, statements regarding: the expectations of
+continued commercialization and marketing of KIMMTRAK, the Company’s ability to build a sustainable pipeline of new medicine candidates, including additional product candidates identified and developed using the Company’s IMMTAX platform; 
+statements regarding the commercial performance of KIMMTRAK, including expanded access to KIMMTRAK to more patients in the United States, Europe and globally; the potential benefits and advantages KIMMTRAK will provide for patients; expectations
+regarding the design, progress, timing, enrollment, scope, expansion, and results of the Company’s existing and planned clinical trials, those of the Company’s collaboration partners or the combined clinical trials with the Company’s collaboration
+partners; the timing and sufficiency of clinical trial outcomes to support potential approval of any of the Company’s product candidates or those of, or combined with, its collaboration partners; the Company’s goals to develop and commercialize
+product candidates based on its KIMMTRAK platform alone or with collaboration partners; the expected submission of investigational new drug applications or clinical trial applications; and the potential regulatory approval, expected clinical
+benefits and availability of the Company’s product candidates. Any forward-looking statements are based on management’s current expectations and beliefs of future events and are subject to a number of risks and uncertainties that could cause actual
+events or results to differ materially and adversely from those set forth in or implied by such forward-looking statements, many of which are beyond the Company’s control. These statements are not guarantees of future performance and actual results
+could differ materially from the Company’s current expectations. As a result, you are cautioned not to rely on these forward-looking statements. Factors that could cause or contribute to such differences include the risks and uncertainties
+discussed in the “Risk Factors” section of the Company’s Annual Report on Form 20-F for the fiscal year ended December 31, 2022, filed with the Securities and Exchange Commission on March 1, 2023, and other subsequent filings the Company makes with
+the Securities and Exchange Commission from time to time. The Company assumes no obligation and does not intend to update the forward-looking statements provided, whether as a result of new information, future events or otherwise, except as
+required by law.

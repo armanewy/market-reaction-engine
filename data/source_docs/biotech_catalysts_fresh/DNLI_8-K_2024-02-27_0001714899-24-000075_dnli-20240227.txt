@@ -1,0 +1,186 @@
+dnli-20240227
+0001714899FALSE00017148992024-02-272024-02-27
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+February 27, 2024
+
+Denali Therapeutics Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-38311
+
+46-3872213
+
+(State or other jurisdiction of
+
+(Commission
+
+(I.R.S. Employer
+
+incorporation)
+
+File Number)
+
+Identification No.)
+
+161 Oyster Point Blvd.
+
+South San Francisco, California 94080
+
+(Address of principal executive offices, including zip code)
+
+(650) 866-8548
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last reports)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Title of each class
+
+Trading Symbol
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+DNLI
+
+Nasdaq Global Select Market
+
+Item 1.01     Entry into a Material Definitive Agreement
+
+Securities Purchase Agreement
+
+On February 27, 2024, Denali Therapeutics Inc. (the “Company”) entered into a securities purchase agreement (the “Purchase Agreement”) with the purchasers named therein (the “Purchasers”), for the private placement (the “Private Placement”) of (i) 3,244,689 shares (the “Shares”) of the Company’s common stock, par value $0.01 per share (the “Common Stock”), at $17.07 per Share, and (ii) pre-funded warrants (the “Pre-Funded Warrants”) to purchase 26,046,065 shares of Common Stock (the “Warrant Shares” and together with the Shares and the Pre-Funded Warrants, the “Securities”), at a purchase price of $17.06 per Pre-Funded Warrant.
+
+The Pre-Funded Warrants will have an exercise price of $0.01 per share of Common Stock, subject to proportional adjustments in the event of stock splits or combinations or similar events, be immediately exercisable on the date of issuance and remain exercisable until exercised in full. The holders of Pre-Funded Warrants may not exercise a Pre-Funded Warrant if the holder, together with its affiliates, would beneficially own more than 4.99% of the number of shares of Common Stock outstanding immediately after giving effect to such exercise. The holders of Pre-Funded Warrants may increase or decrease such percentage not in excess of 19.99%, in the case of an increase, by providing at least 61 days’ prior notice to the Company. The aggregate gross proceeds for the Private Placement will be approximately $500 million, before deducting offering expenses and excluding any proceeds the Company may receive upon exercise of the Pre-Funded Warrants, and the Private Placement is expected to close on February 29, 2024, subject to customary closing conditions.
+
+Proceeds from the financing are expected to be used to support Denali’s ongoing research and development activities, the acceleration and expansion of its proprietary BBB-crossing Transport Vehicle (TV) technology, as well as general corporate purposes and working capital.
+
+Pursuant to the Purchase Agreement, the Company has agreed not to issue (or enter into any agreement to issue) any shares of Common Stock or Common Stock equivalents, subject to certain exceptions, until the earlier of (i) the date the Registration Statement (defined below) is declared effective by the Securities and Exchange Commission (the “SEC”) and (ii) 30 days after the closing of the Private Placement (such period, the "Lock-Up Period"). In addition, the Company’s executive officers and directors agreed not to sell or transfer any Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock during the Lock-Up Period, subject to certain exceptions, including sales pursuant to any previously adopted Rule 10b5-1 trading plans.
+
+Pursuant to the Purchase Agreement, the Company agreed to file a registration statement with the SEC (the “Registration Statement”) on or before the date that is 30 days after the closing of the Private Placement for purposes of registering the resale of the Shares and the Warrant Shares and to use its commercially reasonable efforts to have such Registration Statement declared effective within the time period set forth in the Purchase Agreement.
+
+The Purchase Agreement contains customary representations, warranties and agreements by the Company, indemnification obligations of the Company and the Purchasers, including for liabilities under the Securities Act of 1933, as amended (the “Securities Act”), and other obligations of the parties. The representations, warranties and covenants contained in the Purchase Agreement were made only for purposes of such Purchase Agreement and are made as of specific dates; are solely for the benefit of the parties (except as specifically set forth therein); may be subject to qualifications and limitations agreed upon by the parties in connection with negotiating the terms of the Purchase Agreement, instead of establishing matters as facts; and may be subject to standards of materiality and knowledge applicable to the contracting parties that differ from those applicable to the investors generally. Investors should not rely on the representations, warranties and covenants or any description thereof as characterizations of the actual state of facts or condition of the Company.
+
+The Private Placement is exempt from the registration requirements of the Securities Act pursuant to the exemption for transactions by an issuer not involving any public offering under Section 4(a)(2) of the Securities Act and Rule 506 of Regulation D of the Securities Act and in reliance on similar exemptions under applicable state laws. The Purchasers represented that they were accredited investors within the meaning of Rule 501(a) of Regulation D and were acquiring the securities for investment only and not with a view towards, or for resale in connection with, the public sale or distribution thereof. The securities were offered without any general solicitation by the Company or its representatives. The securities sold and issued in the Private Placement will not be registered under the Securities Act or any state securities laws and may not be offered or sold in the United States absent registration with the SEC or an applicable exemption from the registration requirements.
+
+The foregoing description of the Purchase Agreement and the form of Pre-Funded Warrant does not purport to be complete and is qualified in its entirety by reference to the Purchase Agreement and the form of Pre-Funded Warrant filed as Exhibits 10.1 and 4.1, respectively, to this Current Report on Form 8-K and incorporated herein by reference.
+
+Nominating Agreement
+
+In connection with the Private Placement, the Company has agreed to enter into a nominating agreement (the “Nominating Agreement”) with the lead Purchaser in the Private Placement (the “Investor”). Pursuant to the Nominating Agreement, at such time beginning 60 days after Investor, together with its affiliates, beneficially owns more than 10% of the outstanding Common Stock, and ending at such time as Investor and its affiliates beneficially owns at least 65% of the number of Securities purchased pursuant to the Purchase Agreement, Investor shall have the right to appoint one individual designated by Investor (the “Board Designee”) to the Board of Directors of the Company; thereafter, the Company shall (if Investor has exercised its right) include the Board Designee in the slate of nominees recommended to the Company’s stockholders for election as directors of the Company at each annual or special meeting of the Company’s stockholders at which directors of the same class as the Board Designee are to be elected, subject to certain exceptions.
+
+The foregoing description of the Nominating Agreement does not purport to be complete and is qualified in its entirety by reference to the Nominating Agreement filed as Exhibit 10.2 to this Current Report on Form 8-K and incorporated herein by reference.
+
+Affiliate Registration Rights Agreement
+
+In connection with the Private Placement, the Company has agreed to enter into a registration rights agreement (the “Affiliate Registration Rights Agreement”) with Investor upon request from Investor following such time that Investor may be deemed an affiliate of the Company, pursuant to which Investor is entitled to certain resale registration rights with respect to shares of the Common Stock held by Investor (the “Affiliate Registrable Securities”). Under the Affiliate Registration Rights Agreement, following a request by Investor, the Company is obligated to file a resale registration statement on Form S-3, or other appropriate form, covering the Affiliate Registrable Securities. The Company has agreed to file such resale registration statement as promptly as reasonably practicable following such request, and in any event within 60 days of such request. The Company’s obligations to file such registration statement are subject to specified exceptions, and suspension and deferral rights as are set forth in the Affiliate Registration Rights Agreement. Under specified circumstances, the Company may also include securities of the Company in any such registration statement. Under the Affiliate Registration Rights Agreement, Investor also has the right to one underwritten offering per calendar year, but no more than three underwritten offerings in total and not more than two underwritten offerings or “block trades” (as defined in the Affiliate Registration Rights Agreement) in any twelve-month period, to effect the sale or distribution of the Affiliate Registrable Securities, subject to certain exceptions, conditions and limitations.
+
+The foregoing description of the Affiliate Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the Affiliate Registration Rights Agreement attached as an exhibit to the Nominating Agreement filed as Exhibit 10.2 to this Current Report on Form 8-K and incorporated herein by reference.
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+The disclosures set forth in Item 1.01 above are incorporated in this Item 3.02.
+
+Item 7.01 Regulation FD Disclosure.
+
+On February 27, 2024, the Company issued a press release announcing that it has entered into the Purchase Agreement. A copy of this press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+All of the information furnished in this Item 7.01 (including Exhibit 99.1) shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+Item 9.01     Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit Number
+
+Description
+
+4.1
+
+Form of Pre-Funded Warrant
+
+10.1
+
+Securities Purchase Agreement, dated February 27, 2024, by and among the Company and the Purchasers named therein.
+
+10.2
+
+Nominating Agreement by and among the Company and Investor
+
+99.1
+
+Press release dated February 27, 2024
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+Forward-Looking Statements
+
+Statements in this report that are not strictly historical in nature are forward-looking statements. These statements include but are not limited to statements regarding the completion of the Private Placement and the anticipated use of proceeds therefrom, and related to the anticipated filing of a registration statement to cover resales of the Shares and Warrant Shares. These statements are only predictions based on current information and expectations and involve a number of risks and uncertainties. Actual events or results may differ materially from those projected in any of such statements due to various factors, including risks and uncertainties associated with market conditions and the satisfaction of customary closing conditions related to the Private Placement. For a discussion of these and other factors, please refer to the Company’s quarterly report on Form 10-Q for the quarter ended September 30, 2023 as well as the Company’s subsequent filings with the SEC. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+DENALI THERAPEUTICS INC.
+
+Date:
+
+February 27, 2024
+
+By:
+
+/s/ Alexander O. Schuth
+
+Alexander O. Schuth, M.D.
+
+Chief Operating and Financial Officer

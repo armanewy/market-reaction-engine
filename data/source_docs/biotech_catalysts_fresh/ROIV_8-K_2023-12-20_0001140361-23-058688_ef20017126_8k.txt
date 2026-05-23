@@ -1,0 +1,196 @@
+false000163508800016350882023-12-202023-12-20
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): December 20, 2023
+
+Roivant Sciences Ltd.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Bermuda
+
+ 
+
+001-40782
+
+ 
+
+98-1173944
+
+(State or Other Jurisdiction of Incorporation)
+
+ 
+
+(Commission File Number)
+
+ 
+
+(I.R.S. Employer Identification No.)
+
+7th Floor
+
+50 Broadway
+
+London SW1H 0DB
+
+United Kingdom
+
+(Address of Principal Executive Offices, and Zip Code)
+
++44 207 400-3347
+
+Registrant’s Telephone Number, Including Area Code
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Shares, $0.0000000341740141 per share
+
+ 
+
+ROIV
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405 of
+this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2 of this chapter).
+
+Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+On December 20, 2023, Roivant Sciences Ltd. (the “Company”) issued a press release announcing initial data from Immunovant’s proof-of-concept Phase 2
+clinical trial in Graves’ disease. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The information furnished under this Item 7.01, including Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, or the Exchange Act, or subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, or the Securities Act. The information in this Item 7.01, including Exhibit 99.1, shall not be
+deemed incorporated by reference into any other filing with the U.S. Securities Exchange Commission, or the SEC, made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+
+Item 8.01.
+
+Other Events.
+
+On December 20, 2023, the Company’s subsidiary, Immunovant, Inc., announced that results from the initial cohort of patients in an ongoing 24-week Phase 2
+clinical trial of batoclimab in patients with Graves’ disease meaningfully exceeded 50% response rates.
+
+This Phase 2 proof-of-concept trial is an open-label study to assess the safety and efficacy of batoclimab in Graves’ disease. Patients who are
+hyperthyroid despite treatment with an anti-thyroid medication (ATD) for more than 12 weeks are being enrolled to receive once-weekly subcutaneous (SC) injections of 680 mg batoclimab for 12 weeks followed by once-weekly SC injections of 340 mg
+batoclimab for 12 weeks. Treatment response is defined as normalization of T3 and T4 hormone levels without increasing ATD dose. The primary and secondary outcome measurements of the trial are being measured at weeks 12 and 24. This design allowed
+for efficacy assessments between two distinct ranges of IgG reductions.
+
+Consistent with studies of batoclimab in other indications, 680 mg administered SC in the initial cohort demonstrated potential best-in class IgG
+reduction, up to 87%, with a mean IgG reduction of 81% after 12 weeks of treatment. The 340 mg IgG reductions were lower. A similar dose response was observed for anti-TSHR autoantibodies, with deeper reductions observed following treatment with
+680 mg of SC batoclimab as compared to 340 mg of SC batoclimab. In addition, across a range of clinical parameters, numerically higher responses were observed following treatment with 680 mg of batoclimab as compared to treatment with 340 mg of
+batoclimab. These parameters included the percentage of patients whose ATD dose was reduced and the percentage of patients whose ATD was discontinued.  Batoclimab was generally well tolerated with no new safety signals observed in the initial data
+set.
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+ 
+
+Description of Exhibit
+
+99.1
+
+ 
+
+Press Release dated December 20, 2023
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded with Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+ROIVANT SCIENCES LTD.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Matt Maisak
+
+ 
+
+ 
+
+Name: Matt Maisak
+
+ 
+
+ 
+
+Title: Authorized Signatory
+
+ 
+
+Dated: December 20, 2023

@@ -1,0 +1,276 @@
+EX-99.1
+2
+ef20030354_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+ 
+
+Immunocore reports updated Phase 1 data of brenetafusp (IMC-F106C), an ImmTAC bispecific targeting PRAME, in immune checkpoint pre-treated cutaneous melanoma patients at ASCO 2024
+
+ 
+
+Monotherapy brenetafusp (IMC-F106C) in late-line cutaneous melanoma demonstrated promising disease control (partial response and stable disease), progression free survival
+(PFS), and ctDNA molecular response
+
+ 
+
+Clinical activity was enriched in PRAME positive patients with 58% disease control rate and 4.2 months median PFS
+
+ 
+
+Peripheral blood T cell fitness was associated with increased brenetafusp clinical activity and was higher in earlier lines of therapy
+
+ 
+
+Brenetafusp is well tolerated as monotherapy and in combination with anti-PD1
+
+ 
+
+Currently screening patients in a Phase 3 clinical trial (PRISM-MEL-301) of brenetafusp with nivolumab in first-line advanced cutaneous melanoma
+
+ 
+
+Company to host a live webcast and conference call today at 7:15 PM ET / 6:15 PM CT
+
+ 
+
+(OXFORDSHIRE, England & CONSHOHOCKEN, PA & ROCKVILLE, MD, US, 31 May 2024) Immunocore Holdings plc (Nasdaq: IMCR) (“Immunocore” or the “Company”), a commercial-stage biotechnology company pioneering
+and delivering transformative immunomodulating medicines to radically improve outcomes for patients with cancer, infectious diseases and autoimmune diseases, today released Phase 1 data with the first off-the-shelf ImmTAC® targeting PRAME, brenetafusp (IMC-F106C), in patients with late-line, post-checkpoint cutaneous melanoma. Brenetafusp was shown to be well tolerated, in monotherapy and in combination with
+anti-PD1, and demonstrated durable clinical benefit.
+
+“Brenetafusp continues to demonstrate promising monotherapy clinical activity in late-line cutaneous melanoma patients who were previously treated with checkpoint therapies,” said Dr. Omid Hamid, Chief, Translational Research and Immunotherapy, Co-Director, Melanoma Therapeutics at Cedars-Sinai Cancer at the Angeles Clinic and Research Institute. “The disease control and PFS benefit for these
+brenetafusp-treated melanoma patients compares favorably to data with other immunotherapies.”
+
+Page 1 of 9
+
+“The best measure of brenetafusp monotherapy activity is disease control, which is observed in 56% of checkpoint pre-treated melanoma patients,” said David Berman, Head of Research
+and Development. “We expect brenetafusp PFS to be even higher in first-line based on our analysis of blood T cell fitness. These data points, in conjunction with the significant molecular response and the expected additive benefit of
+combining with an active anti-PD1, provide confidence for PFS as an endpoint in our ongoing Phase 3 first-line trial.”
+
+Phase 1 data in post-checkpoint cutaneous melanoma
+
+ 
+
+As of 18 March 2024, 47 patients have received brenetafusp (IMC-F106C) monotherapy at clinically active target dose levels.  All monotherapy treated patients had received prior immune checkpoint inhibitors (100%
+anti-PD1, 81% anti-CTLA4). PRAME expression was high amongst evaluable patients (median H score of 215). Only 11% of patients had PRAME negative tumors, as measured by immunohistochemistry.
+
+Brenetafusp was well-tolerated, with treatment-related adverse events (TRAEs) that were manageable and consistent with the mechanism of action. The most frequent TRAE reported was Grade 1 or 2 cytokine release
+syndrome (CRS) and rash; these events occurred predominantly following the initial three doses. There were no Grade 3 or higher CRS TRAEs.
+
+Of the 47 monotherapy patients, 36 had a RECIST evaluable tumor assessment. The disease control rate (DCR), consisting of partial response (PR) and stable disease (SD), was 56% including 4 PR (ORR 11%) and 16 SD
+(44%). Durable tumor reduction, confirmed by at least one subsequent scan, was observed in 28% of patients and is an attribute of the ImmTAC platform1. Clinical
+benefit was enriched in the 31 evaluable PRAME positive patients. The DCR in this group was 58% and included all 10 patients (32%) with confirmed tumor reduction.
+
+Both median progression free survival (mPFS) and 6-month overall survival (OS) rates were greater in PRAME positive than in PRAME negative monotherapy patients: 4.2 vs 2.1 months and 95% vs 40%, respectively.
+
+42% of ctDNA-evaluable, PRAME positive monotherapy patients had a molecular response (10/24) and there was a trend for longer PFS and OS in molecular responders. No ctDNA-evaluable PRAME negative patients had ctDNA
+reduction.
+
+1.
+
+Ikeguchi, Comparison of clinical outcomes of stable disease with confirmed tumor reduction and RECIST partial response for tebentafusp in mUM, ASCO 2024,
+Abstract #9529 – to be presented on 1 June, 2024: Poster Bd #313
+
+Page 2 of 9
+
+In addition to the monotherapy patients treated with brenetafusp, there were 9 cutaneous melanoma patients who received brenetafusp in combination with an anti-PD1 (pembrolizumab), all of whom had received prior
+checkpoint inhibitors (100% prior anti-PD1, 89% prior CTLA4). Overall, patients were more heavily pre-treated in the combination cohort compared to monotherapy (median prior lines: 4 vs 2; PD-1 refractory: 67% vs 30%). Brenetafusp in combination
+with pembrolizumab was well tolerated, with TRAEs that were manageable and consistent with the mechanism of action of both agents. There was one dose-limiting toxicity (transaminitis) reported in one patient with prior history of checkpoint
+inhibitor induced autoimmune hepatitis.
+
+Of the 7 patients evaluable for efficacy in combination, 4 achieved disease control including 1 ongoing PR (confirmed after the data cut off for the presentation), and 3 of the 4 ctDNA evaluable patients having
+molecular response.
+
+In 41 gene-expression evaluable monotherapy patients, a gene signature was identified from baseline peripheral blood that was a measure of systemic T cell fitness. Patients with gene signature expression levels
+greater than or equal to the median had higher clinical benefit including a median PFS of 6 months and DCR of 69%, compared to those with less than the median gene expression levels (2 months and 42%, respectively). Patients with only 1-2 prior
+lines of therapy had higher T cell fitness gene signature, on average, than those with 3 or more prior lines of therapy.
+
+The advanced cutaneous melanoma data from the ongoing Phase 1/2 trial of brenetafusp will be presented today at 2:45 PM CT / 3:45 PM ET, in the Melanoma/Skin Cancers oral abstract session at the 2024 American Society
+of Oncology (ASCO) Annual Meeting. The presentation will be accessible in the ‘Events & Presentations’ section of the Investor Relations section of the Company’s website.
+
+PRISM-MEL-301 – First PRAME Phase 3 clinical trial with brenetafusp in first-line advanced cutaneous melanoma
+
+ 
+
+The Company is enrolling patients in a registrational Phase 3 clinical trial with brenetafusp in first-line advanced cutaneous melanoma (CM) with a primary endpoint of progression-free survival (PFS) (NCT06112314).
+The trial will randomize HLA-A*02:01-positive, first-line advanced CM patients to brenetafusp + nivolumab versus a control arm of either nivolumab or nivolumab + relatlimab, depending on the country where the patient is enrolled.
+
+Page 3 of 9
+
+Under the terms of a clinical trial collaboration and supply agreement, Immunocore will sponsor and fund this registrational Phase 3 clinical trial, and Bristol Myers Squibb will provide nivolumab.
+
+ 
+
+Audio Webcast
+
+Immunocore will host a conference call today, May 31, 2024 at 7:15 PM ET / 6:15 PM CT, to discuss the Phase 1 PRAME expansion data and Phase 3 registrational trial in cutaneous melanoma. The call will also be
+available via webcast by visiting the Events & Presentations section on Immunocore’s website. A replay of this webcast will be available for 30 days.
+
+Conference Call Details:
+
+U.S. (toll-free): 877-405-1239
+
+International (toll): +1 201-389-0851
+
+About ImmTAC® molecules for cancer
+
+ 
+
+Immunocore’s proprietary T cell receptor (TCR) technology generates a novel class of bispecific biologics called ImmTAC (Immune mobilizing monoclonal TCRs Against Cancer) molecules that are designed to redirect the
+immune system to recognize and kill cancerous cells. ImmTAC molecules are soluble TCRs engineered to recognize intracellular cancer antigens with ultra-high affinity and selectively kill these cancer cells via an anti-CD3 immune-activating effector
+function. Based on the demonstrated mechanism of T cell infiltration into human tumors, the ImmTAC mechanism of action holds the potential to treat hematologic and solid tumors, regardless of mutational burden or immune infiltration, including
+immune “cold” low mutation rate tumors.
+
+ 
+
+About PRISM-MEL-301 – Phase 3 trial with brenetafusp (IMC-F106C; PRAME-A02) in 1L advanced cutaneous melanoma
+
+ 
+
+The Phase 3 registrational trial will randomize patients with previously untreated, HLA-A*02:01-positive, advanced melanoma to brenetafusp + nivolumab versus nivolumab or nivolumab + relatlimab, depending on the
+country where the patient is enrolled. The study will initially randomize to three arms: two brenetafusp dose regimens (40 mcg and 160 mcg) and control arm and will discontinue one of the brenetafusp dose regimens after an initial review of the
+first 60 patients randomized to the two experimental arms (90 patients randomized total). The primary endpoint of the trial is progression free survival (PFS) by blinded independent central review (BICR), with secondary endpoints of overall
+survival (OS) and overall response rate (ORR).
+
+Page 4 of 9
+
+About the IMC-F106C-101 Phase 1/2 trial
+
+ 
+
+IMC-F106C-101 is a first-in-human, Phase 1/2 dose escalation trial in patients with multiple solid tumor cancers including non-small cell lung cancer (NSCLC), small-cell lung cancer (SCLC), endometrial, ovarian,
+cutaneous melanoma, and breast cancers. The Phase 1 dose escalation trial was designed to determine the maximum tolerated dose (MTD), as well as to evaluate the safety, preliminary anti-tumor activity and pharmacokinetics of IMC-F106C
+(brenetafusp), a bispecific protein built on Immunocore’s ImmTAC technology, and the Company’s first molecule to target the PRAME antigen. The Company has initiated patient enrollment into four expansion arms in cutaneous melanoma, ovarian, NSCLC,
+and endometrial carcinomas. The IMC-F106C-101 trial is adaptive and includes the option for Phase 2 expansion, allowing for approximately 100 patients treated per tumor type in the Phase 1 and 2 expansion arms. Ph1 monotherapy continues in
+additional solid tumors as well as multiple combinations with standards-of-care, including checkpoint inhibitors, chemotherapy, targeted therapies, and tebentafusp.
+
+About Cutaneous Melanoma
+
+ 
+
+Cutaneous melanoma (CM) is the most common form of melanoma. It is the most aggressive skin carcinoma and is associated with the vast majority of skin cancer-related mortality. The majority of patients with CM are
+diagnosed before metastasis and survival remains poor for the large proportion of patients with metastatic disease. Despite recent progress in advanced melanoma therapy, there is still an unmet need for new therapies that improve first-line
+response rates and duration of response as well as for patients who are refractory to first-line treatments.
+
+About KIMMTRAK®
+
+ 
+
+KIMMTRAK is a novel bispecific protein comprised of a soluble T cell receptor fused to an anti-CD3 immune-effector function. KIMMTRAK specifically targets gp100, a lineage antigen expressed in melanocytes and
+melanoma. This is the first molecule developed using Immunocore’s ImmTAC technology platform designed to redirect and activate T cells to recognize and kill tumor cells. KIMMTRAK has been approved for the treatment of HLA-A*02:01-positive adult
+patients with unresectable or metastatic uveal melanoma in the United States, European Union, Canada, Australia, and the United Kingdom.
+
+Page 5 of 9
+
+IMPORTANT SAFETY INFORMATION
+
+ 
+
+Cytokine Release Syndrome (CRS), which may be serious or life-threatening, occurred in patients receiving KIMMTRAK. Monitor for at least 16 hours following first three infusions and
+then as clinically indicated. Manifestations of CRS may include fever, hypotension, hypoxia, chills, nausea, vomiting, rash, elevated transaminases, fatigue, and headache. CRS occurred in 89% of patients who received KIMMTRAK with 0.8%
+being grade 3 or 4. Ensure immediate access to medications and resuscitative equipment to manage CRS. Ensure patients are euvolemic prior to initiating the infusions. Closely monitor patients for signs or symptoms of CRS following infusions of
+KIMMTRAK. Monitor fluid status, vital signs, and oxygenation level and provide appropriate therapy. Withhold or discontinue KIMMTRAK depending on persistence and severity of CRS.
+
+Skin Reactions
+
+Skin reactions, including rash, pruritus, and cutaneous edema occurred in 91% of patients treated with KIMMTRAK. Monitor patients for skin reactions. If skin reactions occur, treat with antihistamine and topical or
+systemic steroids based on persistence and severity of symptoms. Withhold or permanently discontinue KIMMTRAK depending on the severity of skin reactions.
+
+ 
+
+Elevated Liver Enzymes
+
+ 
+
+Elevations in liver enzymes occurred in 65% of patients treated with KIMMTRAK. Monitor alanine aminotransferase (ALT), aspartate aminotransferase (AST), and total blood bilirubin prior to the start of and during
+treatment with KIMMTRAK. Withhold KIMMTRAK according to severity.
+
+ 
+
+Embryo-Fetal Toxicity
+
+ 
+
+KIMMTRAK may cause fetal harm. Advise pregnant patients of potential risk to the fetus and patients of reproductive potential to use effective contraception during treatment with KIMMTRAK and 1 week after the last
+dose.
+
+The most common adverse reactions (≥30%) in patients who received KIMMTRAK were cytokine release syndrome, rash, pyrexia, pruritus, fatigue, nausea, chills, abdominal pain, edema, hypotension, dry skin, headache, and
+vomiting. The most common (≥50%) laboratory abnormalities were decreased lymphocyte count, increased creatinine, increased glucose, increased AST, increased ALT, decreased hemoglobin, and decreased phosphate.
+
+Page 6 of 9
+
+For more information, please see full Summary of Product Characteristics (SmPC) or full U.S. Prescribing Information (including BOXED WARNING for CRS).
+
+ 
+
+About Immunocore
+
+ 
+
+Immunocore is a commercial-stage biotechnology company pioneering the development of a novel class of TCR bispecific immunotherapies called ImmTAX – Immune mobilizing monoclonal TCRs Against X disease – designed to
+treat a broad range of diseases, including cancer, autoimmune, and infectious disease. Leveraging its proprietary, flexible, off-the-shelf ImmTAX platform, Immunocore is developing a deep pipeline in multiple therapeutic areas, including nine
+active clinical and pre-clinical programs​ in oncology, infectious diseases, and autoimmune diseases. The Company’s most advanced oncology TCR therapeutic, KIMMTRAK has been approved for the treatment of HLA-A*02:01-positive adult patients with
+unresectable or metastatic uveal melanoma in the United States, European Union, Canada, Australia, and the United Kingdom.
+
+Page 7 of 9
+
+Forward Looking Statements
+
+ 
+
+This press release contains “forward-looking statements” within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Words such as “may,” “will,” “believe,” “expect,”
+“plan,” “anticipate,” “estimate,” and similar expressions (as well as other words or expressions referencing future events or circumstances) are intended to identify forward-looking statements. All statements, other than statements of historical
+facts, included in this press release are forward-looking statements. These statements include, but are not limited to, statements regarding the expected clinical benefits of ImmTAC molecules, including KIMMTRAK, brenetafusp, and the Immunocore’s
+other product candidates, including tumor reduction, disease control rate of partial responses and stable diseases, ctDNA molecular response, progression free survival and extended overall survival benefit, alone and in combination with other
+therapies; the expected efficacy and tolerability of Immunocore’s products and product candidates, including brenetafusp; expectations regarding receipt of regulatory approvals and completion of related procedures; the value proposition of
+Immunocore’s products and product candidates, including KIMMTRAK and brenetafusp; future development plans of Immunocore’s products and product candidates, including KIMMTRAK and brenetafusp; and expectations regarding the design, progress, timing,
+enrollment, randomization, scope, expansion, funding and results of Immunocore’s existing and planned clinical trials, including the Phase 3 PRISM-MEL301 trial with brenetafusp plus nivolumab versus standard nivolumab in 1L advanced cutaneous
+melanoma and the IMC-F106C-101 Phase 1/2 dose escalation trial with brenetafusp in patients with multiple solid tumor cancers including non-small cell lung cancer (NSCLC), small-cell lung cancer (SCLC), endometrial, ovarian, cutaneous melanoma, and
+breast cancers, and those of the Immunocore’s collaboration partners or the combined clinical trials with Immunocore’s collaboration partners; statements regarding the benefits of the Company’s collaboration with Bristol-Meyers Squibb; and the
+timing and sufficiency of clinical trial outcomes to support potential approval of any of the Immunocore’s product candidates or those of, or combined with, its collaboration partners. Any forward-looking statements are based on management’s
+current expectations and beliefs of future events and are subject to a number of risks and uncertainties that could cause actual events or results to differ materially and adversely from those set forth in or implied by such forward-looking
+statements, many of which are beyond the Company’s control. These risks and uncertainties include, but are not limited to, the impact of worsening macroeconomic conditions on the Company’s business, financial position, strategy and anticipated
+milestones, including Immunocore’s ability to conduct ongoing and planned clinical trials; Immunocore’s ability to obtain a clinical supply of current or future product candidates or commercial supply of KIMMTRAK or any future approved products,
+including as a result of health epidemics or pandemics, war in Ukraine, the conflict between Hamas and Israel, the broader risk of a regional conflict in the Middle East, or global geopolitical tension; Immunocore’s ability to obtain and maintain
+regulatory approval of its product candidates, including KIMMTRAK; Immunocore’s ability and plans in continuing to establish and expand a commercial infrastructure and to successfully launch, market and sell KIMMTRAK and any future approved
+products; Immunocore’s ability to successfully expand the approved indications for KIMMTRAK or obtain marketing approval for KIMMTRAK in additional geographies in the future; the delay of any current or planned clinical trials, whether due to
+patient enrollment delays or otherwise; Immunocore’s ability to successfully demonstrate the safety and efficacy of its product candidates and gain approval of its product candidates on a timely basis, if at all; competition with respect to market
+opportunities; unexpected safety or efficacy data observed during preclinical studies or clinical trials; actions of regulatory agencies, which may affect the initiation, timing and progress of clinical trials or future regulatory approval;
+Immunocore’s need for and ability to obtain additional funding, on favorable terms or at all, including as a result of worsening macroeconomic conditions, including inflation, interest rates and unfavorable general market conditions, and the
+impacts thereon of the war in Ukraine, the conflict between Hamas and Israel, and global geopolitical tension; Immunocore’s ability to obtain, maintain and enforce intellectual property protection for KIMMTRAK or any of its product candidates it or
+its collaborators are developing; and the success of Immunocore’s current and future collaborations, partnerships or licensing arrangements, including the risk that Immunocore may not realize the anticipated benefits of its collaboration with
+Bristol Myers Squibb. These and other risks and uncertainties are described in greater detail in the section titled "Risk Factors" in Immunocore’s filings with the Securities and Exchange Commission, including Immunocore’s most recent Annual Report
+on Form 10-K for the year ended December 31, 2023 filed with the Securities and Exchange Commission on February 28, 2024, as well as discussions of potential risks, uncertainties, and other important factors in the Company’s subsequent filings with
+the Securities and Exchange Commission. All information in this press release is as of the date of the release, and the Company undertakes no duty to update this information, except as required by law.
+
+Page 8 of 9
+
+Contact Information
+
+ 
+
+Immunocore
+
+ 
+
+Sébastien Desprez, Head of Communications
+
+T: +44 (0) 7458030732
+
+E: sebastien.desprez@immunocore.com
+
+Follow on Twitter: @Immunocore
+
+Investor Relations
+
+ 
+
+Clayton Robertson, Head of Investor Relations
+
+T: +1 (215) 384-4781
+
+E: ir@immunocore.com
+
+Page 9 of 9

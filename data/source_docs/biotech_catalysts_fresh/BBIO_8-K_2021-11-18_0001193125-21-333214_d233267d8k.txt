@@ -1,0 +1,277 @@
+8-K
+
+false 0001743881 0001743881 2021-11-17 2021-11-17
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 17, 2021
+
+ 
+
+ 
+
+BridgeBio Pharma, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38959
+
+ 
+
+84-1850815
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+421 Kipling Street
+
+Palo Alto, CA
+
+ 
+
+94301
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+(650) 391-9740
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock
+
+ 
+
+BBIO
+
+ 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+
+Entry into a Material Definitive Agreement.
+
+On November 17, 2021, BridgeBio Pharma, Inc. (the “Company”) entered into a Loan and Security Agreement, dated as of November 17, 2021 (the “Loan Agreement”), by and among (i) U.S. Bank National Association, in its capacity as administrative agent (in such capacity, the “Administrative Agent”) and collateral agent (in such capacity, the “Collateral Agent”), (ii) the certain lenders party thereto (the “Lenders”), (iii) the Company, as a borrower, and (iv) certain subsidiaries of the Company, as guarantors (the “Guarantors”).
+
+Pursuant to the terms and conditions of the Loan Agreement, the Lenders agreed to extend term loans to the Company in an aggregate principal amount of up to $750,000,000, comprised of (i) a tranche 1 advance of $450,000,000 (the “Tranche 1 Advance”), and (ii) a tranche 2 advance of $300,000,000 (the “Tranche 2 Advance”) (collectively, the “Term Loan Advances”), subject to the satisfaction of certain terms and conditions set forth in the Loan Agreement. The Tranche 1 Advance under the Loan Agreement was funded on November 17, 2021. The Tranche 2 Advance is available at the Company’s election after the occurrence of certain milestone events relating to data from the Company’s clinical trials. The Tranche 2 Advance will remain available for funding until December 31, 2022.
+
+As security for its obligations under the Loan Agreement, each of the Company and the Guarantors granted the Collateral Agent, for the benefit of the Lenders, a continuing security interest in substantially all of the assets of the Company and the Guarantors, respectively (including all equity interests owned or hereafter acquired by the Company and the Guarantors), subject to certain customary exceptions. Upon exceeding certain investment and disposition thresholds, additional subsidiaries will be required to join as guarantors.
+
+Any outstanding principal on the Term Loan Advances will accrue interest at a fixed rate equal to 9.00% per annum, 3.00% of which can be paid in kind. Interest payments are payable quarterly following the funding of a Term Loan Advance. The Company will be required to make principal payments on the outstanding balance of the Term Loan Advances commencing on January 2, 2025 (the “Term Loan Amortization Date”) in 9 quarterly instalments, plus interest; provided that if the Company has achieved certain milestone events relating to data from the Company’s clinical trial of acoramidis (the “Acoramidis Milestone”) on or prior to January 1, 2025, then the Term Loan Amortization Date will be automatically extended to January 2, 2026. Any amounts outstanding under the Term Loan Advances, if not repaid sooner, are due and payable on November 17, 2026 (the “Maturity Date”).
+
+The Company may prepay the outstanding principal amount of the Term Loan Advances at any time (in whole, but not in part), plus accrued and unpaid interest and a prepayment premium equal to (i) 3% of the principal amount outstanding plus a customary make-whole amount if prepaid on or prior to November 17, 2022, (ii) 3% of the principal amount outstanding if prepaid after November 17, 2022 but on or prior to November 17, 2023, (iii) 2% of the principal amount outstanding if prepaid after November 17, 2023 but on or prior to November 17, 2024, and (iv) 1% of the principal amount outstanding if prepaid after November 17, 2024 but on or prior to the Maturity Date.
+
+At the Lenders’ election, the Company is also required to make mandatory prepayments upon the occurrence of certain prepayment events related to, the repurchase or redemption of pledged collateral, entry into certain royalty transactions, disposition of other assets or subsidiaries, entry into licensing and other monetization transactions (all such events “prepayment events”), in each case, in the amount above certain annual thresholds of (i) prior to achievement of the Acoramidis Milestone, 75% of the net cash proceeds from such transaction and (ii) after the achievement of the Acoramidis Milestone, 50% of the net cash proceeds from such transaction.
+
+Subject to the mandatory prepayment requirements for certain prepayment events, the Loan Agreement contains customary affirmative and limited negative covenants which, among other things, limit the Company’s ability to (i) incur additional indebtedness, (ii) pay dividends or make certain distributions, (iii) dispose of its assets, grant liens, license or encumber its assets or (iv) fundamentally alter the nature of its business. The Company and the Guarantors have broad ability to license the Company’s intellectual property, dispose of other assets and enter into monetization and royalty transactions, subject in each case to the requirement to make a mandatory prepayment described above. The Loan Agreement provides that the Company and Guarantors may, subject to certain limitations, (x) repurchase the Company’s equity interest and the equity interest of any of its subsidiaries, (y) enter into any joint ventures or similar investments, and (z) make other investments and acquisitions. Subject to the mandatory prepayment requirement described above, portfolio companies owned by the Company that are not parties to the Loan Agreement are, subject to certain exceptions, not subject to any covenants or limitations under the Loan Agreement.
+
+The Loan Agreement also contains customary events of default, including among other things, the Company’s failure to make any principal or interest payments when due, the occurrence of certain bankruptcy or insolvency events or the Company’s breach of the covenants under the Loan Agreement. Upon the occurrence of an event of default, the Lenders may, among other things, accelerate the Company’s obligations under the Loan Agreement.
+
+The above description of the material terms of the Loan Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Loan Agreement, a copy of which will be filed, with confidential terms redacted, as an exhibit to the Company’s Annual Report on Form 10-K for the year ending December 31, 2021 and will be incorporated by reference herein.
+
+ 
+
+Item 1.02.
+
+Termination of a Material Definitive Agreement.
+
+On November 17, 2021, in connection with the funding of the Tranche 1 Advance and pursuant to a Payoff Letter executed November 17, 2021, the Company voluntarily prepaid all amounts outstanding under that certain Loan and Security Agreement, dated as of June 19, 2018 (as amended to date, the “Prior Loan Agreement”), by and among (i) Hercules Capital, Inc., in its capacity as administrative agent and collateral agent, (ii) the lenders party thereto and (iii) the Company and certain of its subsidiaries, as borrower, pursuant to which $106,350,534.00 was outstanding. In connection with such repayment, all of the Company’s obligations under the Prior Loan Agreement and all related documents have been paid and discharged in full, any and all unfunded commitments by the lenders thereunder to make credit extensions or other financial accommodations under the Prior Loan Agreement have been terminated, and all security interests and other liens granted by the Company to such lenders to secure the Company’s obligations under the Prior Loan Agreement have been terminated and released (other than with respect to customary provisions and agreements that are expressly specified to survive the termination). The loans under the Prior Loan Agreement were scheduled to mature on May 1, 2025. The foregoing description of the Prior Loan Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Prior Loan Agreement, an integrated copy of which is filed, with confidential terms redacted, as part of Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2021, and incorporated by reference herein.
+
+ 
+
+Item 2.03.
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth above in Item 1.01 of this Current Report on Form 8-K regarding the Company financial obligations under the Loan Agreement is incorporated into this Item 2.03 by reference.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+On November 18, 2021, the Company issued a press release announcing entry into the Loan Agreement. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+Number
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release dated November 18, 2021, furnished herewith
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BridgeBio Pharma, Inc.
+
+Date: November 18, 2021
+
+ 
+
+ 
+
+ 
+
+/s/ Brian C. Stephenson
+
+ 
+
+ 
+
+ 
+
+Brian C. Stephenson
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

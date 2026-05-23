@@ -1,0 +1,424 @@
+0001604821
+false
+
+0001604821
+
+2023-09-06
+2023-09-06
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+September 6, 2023
+
+ 
+
+ 
+
+ 
+
+Natera, Inc.
+
+(Exact name of registrant as specified
+in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-37478
+
+ 
+
+01-0894487
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.) 
+
+ 
+
+13011 McCallen Pass
+
+Building A Suite 100
+
+Austin, TX 78753
+
+(Address of principal executive offices,
+including zip code)
+
+ 
+
+(650)
+249-9090
+
+(Registrant’s telephone number,
+including area code)
+
+ 
+
+N/A
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2):
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the
+Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange
+on which registered 
+
+Common Stock, par value $0.0001 per share
+
+ 
+
+NTRA
+
+ 
+
+Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+ 
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ¨
+
+ 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On September 6, 2023, Natera, Inc. (the “Company”)
+entered into an underwriting agreement (the “Underwriting Agreement”) with Morgan Stanley & Co. LLC, Goldman Sachs &
+Co. LLC, Cowen and Company, LLC and Piper Sandler & Co., as representatives of the several underwriters named in Schedule I thereto
+(the “Underwriters”), in connection with the offer and sale by the Company of 4,550,000 shares of common stock of the Company,
+par value $0.0001 per share, at a price to the public of $55.00 per share.
+
+ 
+
+Pursuant to the terms of the Underwriting Agreement, the Company granted
+the Underwriters an option, for 30 days following the date of the prospectus relating to the offering, to purchase up to 682,500 additional
+shares of common stock.
+
+ 
+
+The Company expects to receive net proceeds from this offering of approximately
+$235.4 million, or approximately $270.8 million if the Underwriters exercise in full their option to purchase additional shares, after
+deducting underwriting discounts and commissions and other estimated transaction expenses.
+
+ 
+
+The shares are being offered and sold by means of an
+automatically effective registration statement, including a preliminary prospectus, filed with the U.S. Securities and Exchange
+Commission (the "SEC") on September 6, 2023 (File No. 333-274372) and a final prospectus, filed with the SEC on September
+7, 2023. The offering is expected to close on September 11, 2023, subject to the satisfaction of specified closing
+conditions.
+
+ 
+
+A copy of the Underwriting Agreement is attached as
+Exhibit 1.1 hereto and is incorporated by reference herein. The description of the material terms of the Underwriting Agreement
+is qualified in its entirety by reference to such exhibit.
+
+ 
+
+The legal opinion, including
+the related consent, of Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP relating to the legality of the issuance
+and sale of the shares of the Company’s common stock in this offering is filed as Exhibit 5.1 hereto.
+
+ 
+
+Item 8.01. Other Events.
+
+ 
+
+On September 6, 2023, the Company issued a press release announcing
+the proposed public offering, a copy of which is furnished as Exhibit 99.1 hereto. On September 6, 2023, the Company issued
+a press release announcing the pricing of the public offering, a copy of which is furnished as Exhibit 99.2 hereto.
+
+ 
+
+The information in Item 8.01 and in Exhibits 99.1 and 99.2 of this
+Current Report on Form 8-K is being furnished and shall not be deemed “filed” for the purposes of Section 18 of
+the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that Section, nor shall it be incorporated
+by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth by specific reference in such a
+filing.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d)  Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+1.1
+
+ 
+
+Underwriting Agreement dated as of September 6, 2023, by and among Natera, Inc. and Morgan Stanley & Co. LLC, Goldman Sachs & Co. LLC, Cowen and Company, LLC, and Piper Sandler & Co., as representatives of the underwriters named therein.
+
+ 
+
+ 
+
+ 
+
+5.1
+
+ 
+
+Opinion and Consent of Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP.
+
+ 
+
+ 
+
+ 
+
+23.1
+
+ 
+
+Consent of Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP (included in Exhibit 5.1).
+
+ 
+
+ 
+
+ 
+
+99.1
+
+ 
+
+Press release dated September 6, 2023.
+
+ 
+
+ 
+
+ 
+
+99.2
+
+ 
+
+Press release dated September 6, 2023.
+
+ 
+
+ 
+
+ 
+
+104
+
+ 
+
+Cover Page Interactive Data File (formatted as inline XBRL)
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Natera, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Michael Brophy
+
+ 
+
+ 
+
+Michael Brophy
+
+ 
+
+ 
+
+Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer)
+
+ 
+
+Dated: September 7, 2023

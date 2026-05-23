@@ -1,0 +1,216 @@
+dnli-20200805
+0001714899FALSE00017148992020-08-052020-08-05
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+August 5, 2020
+
+Denali Therapeutics Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-38311
+
+46-3872213
+
+(State or other jurisdiction of
+
+(Commission
+
+(I.R.S. Employer
+
+incorporation)
+
+File Number)
+
+Identification No.)
+
+161 Oyster Point Blvd.
+
+South San Francisco, California 94080
+
+(Address of principal executive offices, including zip code)
+
+(650) 866-8548
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last reports)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Title of each class
+
+Trading Symbol
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share
+
+DNLI
+
+NASDAQ Global Select Market
+
+Item 1.01  Entry into a Material Definitive Agreement.
+
+Provisional Collaboration and License Agreement
+
+On August 5, 2020, Denali Therapeutics Inc. (“Denali” or “we”) entered into a binding Provisional Collaboration and License Agreement (“Provisional Collaboration Agreement”) with Biogen Inc.’s subsidiaries, Biogen MA Inc. (“BIMA”) and Biogen International GmbH (“BIG”) (BIMA and BIG, collectively, “Biogen”) pursuant to which Denali granted Biogen a license to co-develop and co-commercialize Denali’s small molecule LRRK2 inhibitor program (the “LRRK2 Program”), an option in respect of each of Denali’s amyloid beta program utilizing our Transport Vehicle (TV) technology platform to cross the blood-brain barrier and one (1) other unnamed program also utilizing our TV technology platform (the “Option Programs”), and a right of first negotiation with respect to two (2) additional unnamed programs for indications within Alzheimer’s Disease, Parkinson’s Disease, amyotrophic lateral sclerosis and multiple sclerosis utilizing Denali’s TV technology platform (the “ROFN Programs”) should Denali decide to seek a collaboration with a third party for such programs.
+
+LRRK2 Program
+
+The Provisional Collaboration Agreement includes Denali’s small molecule LRRK2 inhibitors (“LRRK2 Products”) that penetrate the blood-brain barrier, as well as those that do not penetrate the blood-brain barrier. LRRK2 is a regulator of lysosomal function, which is impaired in Parkinson’s Disease and may be restored by LRRK2 inhibition. Inhibition of LRRK2 activity may slow the progression of Parkinson’s Disease in patients with and without known genetic risks based on restoration of lysosomal function. Mutations in the LRRK2 gene can cause Parkinson’s Disease. The lead LRRK2 Inhibitor in the collaboration is DNL151. DNL151 has completed dosing of 162 healthy volunteers in an ongoing Phase 1 clinical study and 25 Parkinson’s patients in a Phase 1b clinical study. Denali is currently completing further dose escalation cohorts in an expanded Phase 1 and an additional cohort in the Phase 1b study to define the full therapeutic window of the molecule. Based on the clinical data to date that has been generated in Europe, DNL151 appears safe and well tolerated and has met desired target engagement goals. An Investigational New Drug application for DNL151 was cleared by the U.S. Food and Drug Administration in July 2020 and enables expansion of our clinical trials for DNL151 globally. Based on the totality of preclinical and clinical data to date, both DNL201 and DNL151 (two chemically distinct LRRK2 inhibitors) have met Denali’s requirements to proceed into further late stage clinical testing, however, Denali has selected DNL151 due to pharmacokinetic properties that provide additional dosing regimen flexibility.
+
+Payments
+
+Under the terms of the Provisional Collaboration Agreement, Biogen is obligated to pay Denali a $560 million upfront payment, which shall be due upon execution of the Definitive Collaboration Agreement (as defined below). With respect to the LRRK2 Program, Biogen will make milestone payments up to approximately $1.125 billion split between development, regulatory and commercial milestones. Denali will share profits and losses equally with Biogen for LRRK2 Products in the United States and will share profits and losses in China with Biogen sharing 60% of such profits and losses and Denali sharing 40% of such profits and losses. Denali will be entitled to receive royalties in the high teens to low twenties percentages on net sales for LRRK2 Products outside of the United States and China.
+
+The downstream financials for each Option Program are to be negotiated prior to execution of the Definitive Option and ROFN Agreement and for each ROFN Program are to be negotiated at the time of ROFN exercise.
+
+License Grant to LRRK2 Program
+
+Under the Provisional Collaboration Agreement, Denali granted Biogen a co-exclusive, worldwide license under intellectual property that Denali controls related to Denali’s LRRK2 Inhibitors, including certain intellectual property licensed to Denali by a third party.
+
+Development and Commercialization of LRRK2 Program
+
+Denali and Biogen will jointly develop LRRK2 Products pursuant to a clinical development plan to be set forth in the Definitive Collaboration Agreement. The parties will share responsibility and costs for global development of LRRK2 Products pursuant to a mutually agreed development plan and budget, with Biogen funding 60% of such costs and Denali funding 40% of such costs. Denali has the ability to opt out of the development cost sharing arrangement, as further described below.
+
+Biogen will lead commercialization activities globally for LRRK2 Products. Denali will co-commercialize the LRRK2 Products with Biogen in the United States and China, provided that the profit sharing arrangement for the LRRK2 Products is still in effect, as further described below.
+
+Denali may opt out of development cost sharing worldwide and upon such election, of all further profit sharing from the LRRK2 Program. Denali also has the right to opt-out of the profit sharing arrangement for the LRRK2 Program or for only those LRRK2 Products that do not penetrate the blood-brain barrier (“Peripheral LRRK2 Products”), in each of the United States and China. After such an opt out by Denali, Denali will no longer be obligated to share in the development and commercialization costs for, and Denali will not share in the applicable revenues from, such LRRK2 Program (or from the LRRK2 Peripheral Products). Additionally, following a change of control of Denali, Biogen may, within a specified period of time, elect to terminate Denali’s right to share commercialization costs and revenues from the LRRK2 Program in China. In such cases, Denali will be entitled to receive tiered royalties on net sales of the applicable LRRK2 Program in the relevant country (or countries). The royalty rates for the applicable LRRK2 Program will be a percentage in the high teens to low twenties, but may increase to the low twenties to mid-twenties, if we have met certain co-funding thresholds or there has been a first commercial sale at the time of our election.
+
+LRRK2 Program Manufacturing
+
+Biogen will be responsible for delivering all supplies for clinical trials and commercial production for LRRK2 Products, except that Denali will deliver such supplies for an initial transition period mutually agreed by Denali and Biogen.
+
+LRRK2 Program Royalty Term
+
+For any LRRK2 Product for which Biogen is required to pay royalties, Biogen will pay royalties to Denali on a country-by-country basis and product-by-product basis until the latest of (i) the expiration of certain patents covering the relevant product, (ii) the expiration of all regulatory exclusivity for that product in the applicable country, and (iii) an agreed period of time after the first commercial sale of that product in the applicable country. If, in a particular country, a LRRK2 Product for which Biogen is required to pay royalties is not covered by specified patent rights in that country or where generic competition exists, Biogen’s royalty obligations in the applicable country would be reduced.
+
+Exclusivity of LRRK2 Program
+
+During the term of the Provisional Collaboration Agreement, neither Denali nor Biogen may conduct preclinical, clinical or commercial activities involving any small molecule that targets LRRK2 as its primary mechanism of action anywhere in the world, unless the LRRK2 Inhibitor is included under the collaboration and only to the extent such activity is permitted under the Provisional Collaboration Agreement.
+
+Option Programs
+
+In addition to the LRRK2 Program, Biogen will also receive an exclusive option to license two preclinical programs from Denali’s TV technology platform, which platform aims to improve brain uptake of biotherapeutics, including its Antibody Transport Vehicle (ATV): Abeta program (ATV enabled anti-amyloid beta program) and a second program utilizing Denali’s TV technology for an unnamed target, excluding small molecules, AAVs and oligonucleotides. Biogen’s option may be triggered up to initiation of IND-enabling studies for each program and continues for each program until a specified period of time after delivery of an option data package or thirty (30) business days after the fifth (5th) anniversary of the effective date of the Provisional Collaboration Agreement, whichever is earlier.
+
+ROFN Programs
+
+Further, Biogen will have the right of first negotiation on two (2) additional TV-enabled therapeutics in the field of Alzheimer’s Disease, Parkinson’s Disease, ALS and multiple sclerosis should Denali decide to seek a collaboration with a third party for such programs, but this does not include any of Denali’s small molecule, AAVs and oligonucleotide programs. The ROFN period continues until seven (7) years after the effective date of the Provisional Collaboration Agreement or the date on which Denali has offered Biogen two (2) ROFN Programs, whichever is earlier. However, if Denali does not execute an agreement with a third party with respect to a particular ROFN Program offered to Biogen within a specified amount of time, then Biogen will have one (1) additional right to exercise the ROFN again with respect to such ROFN Program.
+
+Termination
+
+Each party may terminate the Provisional Collaboration Agreement in its entirety if the other party remains in material breach of the Provisional Collaboration Agreement following a cure period to remedy the material breach. Biogen may terminate the Provisional Collaboration Agreement in its entirety or with respect to any particular region, for convenience and after giving a specified amount of prior notice to us, but Biogen may not do so for a certain period of time after the effective date of the Provisional Collaboration Agreement.
+
+Denali may terminate the Provisional Collaboration Agreement in its entirety if Biogen has failed to conduct any meaningful activities to advance the development or commercialization of the LRRK2 Program for a specified period of time, unless such failure is cured by Biogen within a certain period of time or unless such suspension of activities is prevented by certain regulatory actions, applicable laws, force majeure or Denali’s failure to perform its obligations under the Provisional Collaboration and License Agreement. Denali may additionally terminate the Provisional Collaboration Agreement, subject to a specified cure period, if Biogen challenges any patents licensed to it under the Provisional Collaboration Agreement.
+
+Denali and Biogen may each terminate the Provisional Collaboration Agreement in its entirety if the other party is declared insolvent or in similar financial distress.
+
+Following any termination of the Provisional Collaboration Agreement with respect to the LRRK2 Program, entirely or a particular region (or regions) of the world or termination of the Provisional Collaboration Agreement in its entirety, Denali’s rights to each of Denali’s LRRK2 Inhibitors that were licensed to Biogen will revert to Denali. Biogen will conduct certain development, manufacturing and commercialization activities on a transitional basis following termination of the Provisional Collaboration Agreement, as outlined in the Provisional Collaboration Agreement, depending upon the basis for the applicable termination.
+
+If the Provisional Collaboration Agreement is terminated for any reason, our rights to the LRRK2 Program that were licensed to Biogen will revert to us and Biogen’s option rights and rights of first negotiation will terminate. Biogen will grant us licenses to certain intellectual property controlled by Biogen with respect to the LRRK2 Program (which could be subject to low to mid single digit royalties payable to Biogen).
+
+Definitive Collaboration Agreement
+
+The Provisional Collaboration and License Agreement is a binding agreement, which agreement will become effective on the closing of the Purchase Agreement (as described further below). In parallel, the parties will continue to negotiate a more detailed set of terms of a definitive collaboration agreement (the “Definitive Collaboration Agreement”), including a final detailed clinical development plan and budget, procedures for the sharing of costs and profits with respect to the LRRK2 Program, procedures with respect to regulatory interactions and the prosecution and enforcement of intellectual property licensed by Denali, procedures for information sharing, record keeping and auditing arrangements. If the parties cannot reach agreement and enter into the Definitive Collaboration Agreement within sixty (60) days following the execution of the Provisional Collaboration Agreement, the terms of the Definitive Collaboration Agreement will be determined through binding arbitration. The Provisional Collaboration Agreement will expire upon the execution of the Definitive Collaboration Agreement, which will supersede the Provisional Collaboration Agreement, and will remain in effect unless terminated by either party.
+
+Common Stock Purchase Agreement
+
+In connection with the Provisional Collaboration Agreement, Denali entered into a common stock purchase agreement (the “Purchase Agreement”) with BIMA on August 5, 2020, pursuant to which Denali agreed to issue and sell, and BIMA has agreed to purchase, 13,310,243 shares of Denali’s common stock (the “Shares”) for an aggregate purchase price of $465.0 million pursuant to the terms and conditions thereof. We expect to close the sale of the Shares within three business days following the satisfaction of the closing conditions set forth in the Purchase Agreement, which includes satisfaction of customary closing conditions, including expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.
+
+Pursuant to the terms of a standstill and stock restriction agreement (the “Standstill Agreement”) to be entered into between BIMA and Denali at the closing of the sale of the Shares, BIMA will agree to certain transfer and standstill restrictions, including a restriction on acquiring more than 10% of Denali’s capital stock, and to vote the Shares in the same manner and proportion as the votes cast by the other holders of our common stock on certain matters, in each case for a period of eighteen months following the closing of the sale of the Shares, or earlier upon a change of control of Denali. In addition, BIMA will be entitled to certain demand registration rights with respect to the Shares following termination of the transfer restrictions.
+
+The foregoing descriptions of the Provisional Collaboration Agreement, Definitive Collaboration Agreement, Purchase Agreement and Standstill Agreement (together, the “Agreements”) do not purport to be complete and are qualified in their entirety by reference to the full text of such Agreements, which Denali intends to file as exhibits to a subsequent filing with the Securities and Exchange Commission.
+
+Item 3.02  Unregistered Sales of Equity Securities.
+
+The information set forth above in Item 1.01 of this Current Report on Form 8-K under the heading “Common Stock Purchase Agreement” is hereby incorporated by reference into this Item 3.02.
+
+Upon the closing of the sale of Shares pursuant to the above-referenced Purchase Agreement, BIMA will purchase the Shares in a private placement in reliance on Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”). Denali relied upon these exemptions from registration based in part on representations made by BIMA in the Purchase Agreement. BIMA will acquire the Shares for investment only and not with a view to or for sale in connection with any distribution thereof, and appropriate legends will be affixed to the Shares.
+
+Item 7.01  Regulation FD Disclosure.
+
+On August 6, 2020, Denali issued press releases announcing the collaboration with Biogen and the decision to advance DNL151 into late stage clinical testing in Parkinson’s patients. A copy of the press releases are attached hereto as Exhibit 99.1 and Exhibit 99.2 and incorporated herein by reference.
+
+The information furnished in this Item 7.01 and Item 9.01 (including Exhibits 99.1 and 99.2) shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press Release dated August 6, 2020.
+
+99.2
+
+Press Release dated August 6, 2020.
+
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+DENALI THERAPEUTICS INC.
+
+Date:
+
+August 6, 2020
+
+By:
+
+/s/ Steve E. Krognes
+
+Steve E. Krognes
+
+Chief Financial Officer and Treasurer

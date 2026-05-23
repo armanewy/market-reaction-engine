@@ -1,0 +1,277 @@
+8-K
+
+false 0001655759 0001655759 2021-12-10 2021-12-10
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 10, 2021
+
+ 
+
+ 
+
+Arvinas, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38672
+
+ 
+
+47-2566120
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+5 Science Park
+
+395 Winchester Ave.
+
+New Haven, Connecticut
+
+ 
+
+06511
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s telephone number, including area code: (203) 535-1456
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.001 per share
+
+ 
+
+ARVN
+
+ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+On December 10, 2021, Arvinas, Inc. (the “Company”) issued a press release announcing clinical program updates for its PROTAC® protein degrader ARV-471, including updated data. The Company will present the updates on a conference call and webcast on December 10, 2021. Copies of the press release and presentation are attached as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference.
+
+The information in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 8.01 Other Events.
+
+On December 10, 2021, the Company announced updated data, as of the data cut-off date of September 30, 2021, from the dose escalation portion of its Phase 1/2 clinical trial of ARV-471 in patients with locally advanced or metastatic ER+/HER2- breast cancer to be presented as a virtual spotlight poster session at the 2021 San Antonio Breast Cancer Symposium (SABCS).
+
+The dose escalation portion of the Company’s Phase 1/2 clinical trial of ARV-471 is designed to assess safety, tolerability and pharmacokinetics (“PK”) of ARV-471 in patients with locally advanced or metastatic ER+/HER2- breast cancer, as well as measures of anti-tumor activity as secondary endpoints.
+
+Enrollment
+
+As of the data cut-off date, 60 adult patients with locally advanced or metastatic ER+/HER2- breast cancer were treated in the Phase 1 dose escalation portion of the study with total daily ARV-471 doses ranging from 30 mg to 700 mg. This patient group is heavily pretreated, with a median of four prior therapies. All patients were previously treated with cyclin-dependent kinase (“CDK”) 4/6 inhibitors; 80% of patients received prior fulvestrant; and 78% received prior chemotherapy.
+
+Efficacy
+
+Of 47 patients who were evaluable for clinical benefit (confirmed complete response, partial response, or stable disease ³ 24 weeks) the clinical benefit rate was 40%. As of the data cutoff date, 14 patients were continuing to receive study treatment, including two patients who had been on treatment for over 18 months. Three confirmed partial responses were observed among the 38 patients with baseline response evaluation criteria in solid tumors (RECIST) measurable disease and at least one on-treatment tumor assessment.
+
+Safety
+
+Patients were treated in the monotherapy escalation at total daily doses of 30 mg (n=3), 60 mg (n=3), 120 mg (n=7), 180/200 mg (n=11), 360 mg (n=15), 500 mg (n=17), and 700 mg was administered BID (300 mg in the morning / 400 mg in the evening) (n=4). A maximum tolerated dose was not reached and no dose limiting toxicities or Grade ³4 treatment-related adverse events (“TRAEs”) were observed. Of the 60 patients, 37% had Grade 1 TRAEs and 57% had Grade £2 TRAEs, and the most common TRAEs were nausea (29%), fatigue (20%), and vomiting (10%). No Grade 1 or 2 TRAEs led to discontinuation or dose reduction of ARV-471. Four patients experienced six Grade 3 TRAEs that were potentially related to ARV-471, including: headache lasting 1-day, single occurrence of asymptomatic increased amylase and lipase, nausea and asymptomatic QTc prolongation, and post-biopsy venous embolism. The patient with the venous embolism was the only Grade 3 patient who discontinued ARV-471 due to a TRAE, and the patient with Grade 3 nausea was the only patient with a dose reduction due to a TRAE (reduced from 500 mg to 400 mg daily).
+
+ER Degradation
+
+In paired biopsies from 14 patients across all doses up to 500 mg daily, robust ER degradation of up to 89% was observed, regardless of ESR1 mutation status. Median and mean ER degradation across dose levels were 67% and 64%, respectively.
+
+Pharmacokinetics
+
+ARV-471 demonstrated a dose-related increase in plasma exposure, with doses from 30 mg to 500 mg daily, resulting in steady-state Cmax and AUC24 that exceeded the exposure associated with tumor regression in preclinical breast cancer models. Mean exposure on day 15 exceeded the nonclinical efficacious range at doses ³60 mg daily.
+
+ARV-471 currently is being evaluated as a treatment for metastatic breast cancer in a Phase 1 dose escalation study, a Phase 1b combination study with IBRANCE® (palbociclib), and a Phase 2 monotherapy dose expansion study. In 2022, the Company expects to initiate Phase 3 studies across lines of therapy in metastatic breast cancer, as both a monotherapy and in combination; initiate two additional trials of ARV-471, including a Phase 1b combination trial with everolimus in 2L/3L metastatic breast cancer, potentially as part of a planned umbrella study to explore multiple combination agents, and a Phase 2 neoadjuvant trial in early breast cancer; and present data from the ongoing Phase 1b combination study with IBRANCE® (palbociclib) and from the ongoing Phase 2 monotherapy dose expansion study.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+99.1
+
+  
+
+Press Release, dated December 10, 2021
+
+99.2
+
+  
+
+Company Presentation, dated December 10, 2021
+
+104
+
+  
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K, including the documents furnished as Exhibit 99.1 and Exhibit 99.2 hereto, contains forward-looking statements that involve substantial risks and uncertainties, including statements regarding the development and regulatory status of ARV-471 and other candidates in the Company’s pipeline, and the timing of clinical trials and data from those trials and plans for registration for the Company’s product candidates, the therapeutic potential of the Company’s product candidates and the potential commercialization of any of the Company’s product candidates. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company’s strategy, future operations, prospects, plans and objectives of management, are forward-looking statements. The words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “predict,” “project,” “target,” “potential,” “will,” “would,” “could,” “should,” “continue,” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words.
+
+The Company may not actually achieve the plans, intentions or expectations disclosed in its forward-looking statements, and you should not place undue reliance on such forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements the Company makes as a result of various risks and uncertainties, including but not limited to: whether the Company and Pfizer will be able to successfully conduct and complete clinical development for ARV-471, initiate and complete other clinical trials for the Company’s product candidates, and receive results from the Company’s clinical trials on the Company’s expected timelines, or at all, and other important factors discussed in the “Risk Factors” sections contained in the Company’s quarterly and annual reports on file with the Securities and Exchange Commission. The forward-looking statements contained in this Current Report on Form 8-K reflect the Company’s current views with respect to future events, and the Company assumes no obligation to update any forward-looking statements except as required by applicable law. These forward-looking statements should not be relied upon as representing the Company’s views as of any date subsequent to the date of this Current Report on Form 8-K.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+Date: December 10, 2021
+
+ 
+
+ 
+
+ARVINAS, INC.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Sean Cassidy
+
+ 
+
+ 
+
+ 
+
+Sean Cassidy
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer

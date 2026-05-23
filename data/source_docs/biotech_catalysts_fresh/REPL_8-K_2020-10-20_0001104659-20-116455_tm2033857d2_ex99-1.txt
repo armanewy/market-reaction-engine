@@ -1,0 +1,154 @@
+EX-99.1
+2
+tm2033857d2_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+ 
+
+NEXT GENERATION ONCOLYTIC IMMUNOTHERAPY NEXT-GENERATION ONCOLYTIC IMMUNOTHERAPY
+
+ 
+
+ 
+
+Safe harbor 2 Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, including statements regarding the advancement of our clinical trials, patient enrollments in our existing and planned clinical trials and the timing thereof, the results of our clinical trials, the timing and release of our clinical data, our goals to develop and commercialize our product candidates, our expectations regarding the size of the patient populations for our product candidates if approved for commercial use, our preliminary financial estimates as of September 30, 2020, and other statements identified by words such as “could,” “expects,” “intends,” “may,” “plans,” “potential,” “should,” “will,” “would,” or similar expressions and the negatives of those terms. Forward-looking statements are not promises or guarantees of future performance, and are subject to a variety of risks and uncertainties, many of which are beyond our control, and which could cause actual results to differ materially from those contemplated in such forward-looking statements. These factors include risks related to our limited operating history, our ability to generate positive clinical trial results for our product candidates, the costs and timing of operating our in-house manufacturing facility, the timing and scope of regulatory approvals, changes in laws and regulations to which we are subject, competitive pressures, our ability to identify additional product candidates, political and global macro factors including the impact of the SARS-COV-2 coronavirus as a global pandemic and related public health issues, and other risks as may be detailed from time to time in our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and other reports we file with the Securities and Exchange Commission. Our actual results could differ materially from the results described in or implied by such forward-looking statements. Forward-looking statements speak only as of the date hereof, and, except as required by law, we undertake no obligation to update or revise these forward-looking statements.
+
+ 
+
+ 
+
+ Proprietary ‘Immulytic’ oncolytic immunotherapy platform Intended to maximally activate the immune system against a patient’s cancer Intended to establish Replimune’s products as the second cornerstone of immuno-oncology Systemically active - generates robust reductions of injected and uninjected tumors RP1 – in multiple clinical trials, with current focus on immune-responsive tumor types Lead indication – advanced cutaneous squamous cell carcinoma (CSCC) Strong Phase 2 data (ORR and durability) from single-arm study of RP1 in combination with Opdivo Expanding into CSCC patients who have failed prior anti-PD1 therapy Registration-directed randomized controlled clinical trial in combination with Libtayo enrolling Anti-PD1 failed melanoma Strong Phase 2 (ORR and durability) data from RP1 in combination with Opdivo 125 patient potentially registrational cohort enrolling 30 patient anti-PD1 failed non-small cell lung cancer cohort expected to initiate around year-end 2020 RP2 & RP3 – intended to treat less immune-responsive tumor types Strong Phase 1 data (ORR and durability) with single agent RP2 Demonstrating utility in heavily pre-treated immune insensitive tumor types RP3 intended to enter the clinic by year-end 2020 (CTA obtained)
+
+ 
+
+ 
+
+Oncolytic immunotherapy 4 The use of viruses that selectively replicate in & kill tumors to treat cancer Highly inflammatory: Activates both innate and adaptive immunity Systemically activates the immune system against the tumor antigens released Can be ‘armed’ with additional genes to augment the natural properties of the virus with additional mechanisms of action Off-the-shelf Single agent T-VEC is clinically validated & FDA approved
+
+ 
+
+ 
+
+Replimune’s product design objectives & solutions 5 Maximize direct tumor destruction & immunogenic cell death through design and development of a virus with the best ability to infect, replicate in & kill tumor cells: Based on a potent new clinical HSV strain resulting from a comprehensive screen* ICP34.5 deleted for selectivity, US11 upregulated to retain near wild type replication in tumors* Encodes a potent fusogenic protein, increasing killing & immunogenic cell death 10-100 fold* Together providing maximal antigen presentation (‘Signal 1’) Our platform for all our product candidates from which additional transgenes are then expressed Further arm with immune activating transgenes intended to maximize T cell co-stimulation (Signal 2) & systemic immune activation (including through induction of inflammatory cytokines: Signal 3) GM-CSF – DC expansion & maturation: RP1, RP2 Anti-CTLA-4 – block APC/T-cell feedback loop: RP2, RP3 CD40L & 4-1BBL – Activate co-stimulation; induce inflammatory cytokines (IL-2, IL-8, IL-12): RP3 Replimune’s fusion-enhanced backbone virus is described in Thomas et al (2019) JITC 10; 214
+
+ 
+
+ 
+
+Practical and comprehensive activation of a tumor specific immune response 6 Our platform offers significant advantages compared to competing approaches, such as cell-based therapies, including TILs, and personalized cancer vaccines Replimune’s Immulytic platform Cell-based therapy (including TILs) Personalized cancer vaccines “Off the shelf” – no patient-specific manufacturing Commercially attractive COGS Incorporates multiple modalities (incl. innate & adaptive immunity) Desirable safety profile, without a high frequency of high-grade side effects including death Potentially applicable to nearly all patients with solid tumors
+
+ 
+
+ 
+
+7 RP2 RP3 Phase 2: NMSC (mostly CSCC) + Opdivo (N=45)* Phase 2: Melanoma + Opdivo* Fully accrued Jan 2020 RP1 Phase 2: Anti-PD1 refractory NSCLC + Opdivo (N=30)* * Under a clinical trial collaboration & supply agreement with BMS for the supply of Opdivo – full commercial rights retained by Replimune # Under a clinical trial collaboration agreement with Regeneron; 50:50 sharing of clinical trial costs – full commercial rights retained by Replimune ^ Had confirmed progression while on prior anti-PD1 therapy; Indicated trial sizes represent traget enrollment Phase 1b: RP1 in CSCC transplant patients (N=30) Phase 2: RP1+ Libtayo vs. Libtayo in CSCC (N=240)# “CERPASS” Ph 2: RP1+anti-PD1 in anti-PD1 refractory melanoma^ (N=125)* Phase 2: MSI-H cancers + Opdivo (N=15)* Phase 1 (N≈21) Phase 1: RP2 alone & + Opdivo (N=39)* Potentially registrational trials
+
+ 
+
+ 
+
+ RP1 - Lead indication overview: CSCC RP1 The second most common skin cancer with ≈700,000 patients annually in the U.S.1 Approximately 7,000-15,000 US deaths annually1-3 Most conservative addressable population 80% of patients die from locoregional progression, not metastatic disease4,5 Potential US market estimated at 7,000-28,000 patients annually1-4 While effective, anti-PD1 therapy alone results in only a low rate of complete response 1Rogers et al JAMA Dermatol 10 2015 2Clayman et al JCO 23 2005 3Mansouri et al J Am Acad Dermatol 153 2017 4Schmults et al JAMA Dermatol 149 2013 5Motaparthi et al Adv Anat Pathol 24 2017
+
+ 
+
+ 
+
+ RP1 - Lead indication: CSCC – the CERPASS study RP1 Registration-directed randomized controlled Phase 2 clinical trial in collaboration with Regeneron* 240 patients (target enrollment) with locally advanced or metastatic CSCC naïve to anti-PD1 therapy Randomized 2:1 (RP1+ Libtayo vs. Libtayo alone) Primary endpoint ORR Secondary endpoints include CR rate, duration of response, PFS, OS Aim to show ≥15% delta improvement in ORR Control arm ORR expectation based on anti-PD1 single agent data 34-51% Control arm CR expectation based on anti-PD1 single agent data <10% at data cut off Aim to also improve durability and show multi-fold (2-3x) improvement in CR rate Under a clinical trial collaboration agreement with Regeneron; 50:50 sharing of clinical trial costs – full commercial rights retained by Replimune
+
+ 
+
+ 
+
+Compelling activity with RP1 in combination with nivolumab in non-melanoma skin cancers, particularly CSCC 10 Best response Efficacy evaluable population (Patients with follow up scans or PD) *One patient PR by clinical assessment; CT pending #Just had first scan, newly added to the denominator ^Follow up for one patient not available post discontinuation for nivolumab-related side effects Maximum percent tumor reduction Patients with follow up scans Cohort being expanded from 30 to 45 patients to include patients who have failed prior anti-PD1 therapy
+
+ 
+
+ 
+
+CSCC patient 4402-2001 - ongoing CR 1 Recurrent CSCC of the neck (bilateral), previously treated with cisplatin-based chemoradiation & six cycles of carboplatin/5-FU Both the large injected tumor & the smaller contralateral tumor in the neck reduced considerably before the first Opdivo dose, i.e. after the first dose of RP1
+
+ 
+
+ 
+
+New responses in CSCC since last reported in June 2020 Pt 1122-2014 - PR (clinically assessed October 12th 2020; October CT pending) Patient had enlarged groin node metastases that were initially injected & responded, as well as response in the distant foot tumor prior to its subsequent injection Pt 1121-2003 - CR Prior cetuximab Injections into left neck lesion
+
+ 
+
+ 
+
+Responses in CSCC remain deep & durable 13 Duration of best response Patients with a best response of at least SD % Change from baseline in sum of tumor diameters over time Patients with at least one follow up assessment Based on the data to date, Replimune believes it is well positioned for success in the potentially registrational Phase 2 clinical trial of RP1 combined with Libtayo in CSCC
+
+ 
+
+ 
+
+ Anti-PD1 failed melanoma – market opportunity RP1 Approximately half of advanced melanoma patients still die of their disease, despite multiple approved therapies now being available Anti-PD1, anti-CTLA-4, combined anti-CTLA-4/anti-PD1, BRAF targeted agents Approximately 7,230 US deaths annually from metastatic melanoma1 Approximately 62,000 deaths annually world-wide2 High unmet medical need for patients who fail anti-PD1 based therapy 40-65% of all metastatic melanoma are primary refractory to initial anti-PD1 therapy3 Expected response rate to continued treatment with anti-PD1 therapy following confirmed progression on single agent anti-PD1 is 6-7%4 The expected response rate to Yervoy following failure of initial single agent anti-PD1 is 13%5 1 https://seer.cancer.gov (2019 data). 2JAMA Oncol. 2019; 5(12):1749-1768. 3 Gide et al Clin. Cancer Res 24 2018 4 Ribas et al Lancet Oncology 19 2018; Hodi et al JCO 34 2016 5 Pires de Sliva et al ASCO 2020
+
+ 
+
+ 
+
+RP1 in anti-PD1 failed melanoma data 15 October 15th 2020 status of the anti-PD1 failed cutaneous melanoma (N=16) patients dosed 87.5% stage IVM1b/ M1c ; very advanced visceral disease population Nine patients showed initial clinical benefit* Five patients have met the formal criteria for response; 1 CR, 4 PR Four of which had previously failed both anti-PD1 and anti-CTLA-4 therapies Responses are deep and durable ; 80% ongoing at out to over 12 months Current ORR for these patients remains at 31% Of two patients that had not responded or progressed as of June 2020 data disclosure One is now an ongoing surgical CR (counted as SD per study protocol definitions) One remains SD, with treatment ongoing Clinical data supported by biomarker data, including reversal of T cell exclusion Activity also seen in patients who have failed prior anti-PD1 therapy with uveal and mucosal melanoma *SD or better with evidence of anti-tumor activity
+
+ 
+
+ 
+
+Local & distant responses in ipi/nivo failed melanoma 16 CD8 PD-L1 Baseline 6 weeks Reversal of CD8 T cell exclusion Pt 4403-1003 – ipi/nivo failed cutaneous melanoma (ongoing PR at 16 months from first RP1 dose)
+
+ 
+
+ 
+
+Responses are deep & durable, including for anti-PD1 failed melanoma 17 % Change from baseline in sum of tumor diameters over time Patients with at least one follow up assessment Extended clinical benefit also seen in patients with a best response of SD Based on the data to date, Replimune believes it is well positioned for success in the potentially registrational 125 patient Phase 2 cohort of RP1 combined with nivolumab in anti-PD1 failed melanoma
+
+ 
+
+ 
+
+RP2 – Single agent activity clearly demonstrated 18 RP2 – leverages Replimune’s platform to additionally expresses an anti-CTLA-4 antibody Well tolerated; side effects consistent with RP1 Compelling single agent efficacy in heavily pre-treated patients with less immune sensitive & immune insensitive tumor types CR – Mucoepidermoid carcinoma PR – Uveal melanoma PR – Esophageal cancer Kinetics of response suggests initial tumor inflammation precedes response Similar pattern may be developing in a further patient MSS (immune insensitive) colorectal cancer Responses are durable & all are ongoing with patients at between 8 &11 months from first RP2 dose Treatment of patients with RP2 combined with Opdivo is underway Patients not yet evaluable for efficacy but well tolerated so far
+
+ 
+
+ 
+
+RP2 single agent – Deep and durable responses 19 Ongoing PR Ongoing PR Ongoing CR * *TLs stable, NTLs increased at 3mo, NTLs reduced at 4mo, next scan planned for Nov 2020 Other patients had advanced, heavily pre-treated uveal melanoma x2, head & neck cancer & cutaneous melanoma x2
+
+ 
+
+ 
+
+Patient #: 4402-0001: Mucoepidermoid carcinoma of the parotid – Ongoing CR 20 Baseline 1 month3 months 4 months Prior therapies: Carboplatin/paclitaxel, bicalutamide, ceralasertib Cervical lymph node & supraclavicular fossa injected with 10ml 1x106 pfu/ml, then 10mL 1x107 pfu/ml x4 Q2W CR confirmed by PET scan 16th Oct 2020
+
+ 
+
+ 
+
+Patient #: 4402-0001: Mucoepidermoid carcinoma of the parotid – Ongoing CR 21 6 monthsScreening5 months 8 months (PET scan to confirm CR)
+
+ 
+
+ 
+
+Patient #: 4401-0003: Uveal melanoma (ipi/nivo failed) – Ongoing PR 22 Screening3 months (SD) 6 months (PR) 9 months (PR) Extensive liver metastases (others not shown) Prior therapies: Ipilimumab/nivolumab InjectedNot injected Largest liver lesion injected with 3ml 1x105 pfu/ml, then 3mL 1x107 pfu/ml x4 Q2W
+
+ 
+
+ 
+
+Patient #: 4401-0001: Esophageal cancer (anti-PD-L1 failed) – Ongoing PR 23
+
+ 
+
+ 
+
+Critical focus on manufacturing 24 For registration directed studies & commercialization, in-house manufacturing in place The team has extensive manufacturing experience 63,000 ft2 manufacturing facility constructed State of the art facility Fully fitted out; three tech transfer runs successfully completed Scale sufficient to cover global commercialization of Replimune’s products at full capacity Product expected to be released for use in 2021 to incorporate into clinical trials intended for registration
+
+ 
+
+ 
+
+Summary/Looking ahead* 25 RP1 - CSCC Compelling data with RP1 combined with nivolumab NMSC cohort expansion to 45 patients to include anti-PD1 failed patients Potentially registrational randomized trial underway – primary readout expected in 2022 RP1 - Anti-PD1 failed melanoma Compelling data with RP1 combined with nivolumab Potentially registrational 125 patient cohort underway – primary readout expected in 2022 RP1 – Anti-PD1 failed NSCLC Cohort to open by approx. year-end 2020 Evidence of activity with RP1 also seen in other tumor types RP2 – Strong single agent data generated Opens the way to immune insensitive tumor types – indication prioritization underway RP3 - Phase 1 clinical trial expected to initiate by year-end 2020 *COVID-19 has impacted & is expected to continue to impact accrual & therefore the number of patients from whom data is expected to be available during 2020, with average expected length of follow up also expected to be reduced.

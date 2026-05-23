@@ -1,0 +1,222 @@
+smmt-20221205
+0001599298FALSE00015992982022-12-052022-12-05
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of Earliest Event Reported): December 5, 2022
+
+ 
+
+Summit Therapeutics Inc.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+001-36866
+
+37-1979717
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+(Commission
+
+File Number)
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+2882 Sand Hill Road, Suite 106, Menlo Park, CA
+
+94025
+
+(Address of Principal Executive Offices)
+
+(Zip Code)
+
+ 
+
+Registrant’s Telephone Number, Including Area Code: 617-514-7149
+
+ 
+
+Not applicable
+
+(Former Name or Former Address, If Changed Since Last Report)
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+
+Trading Symbol(s)
+
+Name of Each Exchange on Which Registered
+
+Common stock, $0.01 par value per share
+
+SMMT
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+License Agreement
+
+On December 5, 2022, Summit Therapeutics Inc. (the “Company” or “Summit”) entered into a Collaboration and License Agreement (the “License Agreement”) with Akeso, Inc. and its affiliates (“Akeso”) and certain ancillary transaction documents as set forth in the License Agreement. Pursuant to the License Agreement, the Company is partnering with Akeso to in-license its breakthrough bispecific antibody, ivonescimab. Ivonescimab, known as AK112 in China and Australia, and also as SMT112 in the United States, Canada, Europe, and Japan, is a novel, potential first-in-class bispecific antibody combining the power of immunotherapy via a blockade of PD-1 with the anti-angiogenesis benefits of an anti-VEGF into a single molecule. Ivonescimab was engineered to bring two well established oncology targeted mechanisms together. In connection with the License Agreement, the Company has also entered into a Supply Agreement with Akeso, pursuant to which Summit agree to purchase a certain portion of drug substance for clinical and commercial supply (the “Supply Agreement”).
+
+The definitive partnership memorialized in the License Agreement calls for Summit to receive the rights to develop and commercialize ivonescimab (SMT112) in the United States, Canada, Europe, and Japan (the “Licensed Territory”). Akeso will retain development and commercialization rights for the rest of the regions including China. In exchange for these rights, Summit will make an upfront payment of $500 million, $300 million of which is payable within the later of 15 days or upon the earliest date on which the parties have actual knowledge that all applicable waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (the “HSR Act”) and any comparable extension periods with respect to the transactions contemplated by the License Agreement have expired or been terminated (the “Antitrust Clearance Date”) (of which 16 million shares of Company common stock may be issued in lieu of cash) and $200 million of which is payable within 90 days. The total value of the upfront payment and potential milestone payments is $5.0 billion, as Akeso will be eligible to receive regulatory and commercial milestones of up to $4.5 billion. In addition, Akeso will be eligible to receive low double-digit royalties on net sales.
+
+Ivonescimab is currently in clinical development and, pursuant to the terms of the License Agreement, Summit will design and conduct the clinical trial activities to support regulatory filings in the Licensed Territory that Summit will submit. Pursuant to the terms of the License Agreement, Summit will have final decision making authority with respect to commercial strategy, pricing and reimbursement and other commercialization matters in the Licensed Territory. In connection with the License Agreement, Summit is entering into a Supply Agreement as described above. Summit is not assuming any liabilities (including contingent liabilities), acquiring any physical assets or trade names, or hiring or acquiring any employees from Akeso in connection with the License Agreement. Akeso has incurred research and development expenses relating to Ivonescimab, including pre-clinical studies, as well as safety and efficacy clinical trials in non-licensed territories.
+
+In conjunction with the execution of the deal, Dr. Michelle Xia has been appointed to the board of directors of Summit (the “Board”), effective upon the Antitrust Clearance Date. The License Agreement is subject to customary closing practices, including applicable waiting periods under the HSR Act.
+
+Note Purchase Agreement
+
+On December 6, 2022, the Company entered into a Note Purchase Agreement (the “Note Purchase Agreement”) and promissory notes with the Company’s Chief Executive Officer, Chairman of the Board, and beneficial owner of approximately 81% of the Company’s common stock, Robert W. Duggan and Dr. Maky Zanganeh, the Company’s co-Chief Executive Officer, President, member of the Board and beneficial owner of approximately 6.4% of the Company’s common stock. Pursuant to the Note Purchase Agreement, the Company agreed to sell to each of Mr. Duggan and Dr. Zanganeh unsecured promissory notes in the amount of $520 million.
+
+Pursuant to the Note Purchase Agreement, the Company has issued to Mr. Duggan and Dr. Zanganeh unsecured promissory notes in the amount of $400 million and $20 million, respectively (the “February Notes”), which will mature and become due on February 15, 2023 (the “February Maturity Date”) and an unsecured promissory note to Mr. Duggan in the amount of $100 million (the “September Note” and together with the February Notes, the “Notes”), which will mature and become due on September 15, 2023 (the “September Maturity Date” and together with the February Maturity Date, the “Maturity Dates”). The Maturity Dates may be extended one or more times at the Company’s election, but in no event to a date later than September 6, 2024. The Notes accrue interest at an initial rate of 7.5%. All interest on the Notes shall be paid on the date of signing for the period through the February Maturity Date. Such prepaid interest shall be paid in a number of shares of the Company’s common stock, par value $0.01 (“Common Stock”) equal to the dollar amount of such prepaid interest, divided by $0.7913 (the consolidated closing bid price immediately preceding the time the Company entered into the Note Purchase Agreement, plus $.01), which shall be 9,720,291 shares. If the Company exercises its right to extend the term of the February Notes, for all periods following the February Maturity Date and, with respect to the September Note following the February Maturity Date, interest shall accrue on the outstanding balance of such extended Notes at the US prime interest rate plus 50 basis points, as adjusted monthly, for three months immediately following the Maturity Date, and thereafter at the US prime rate plus 300 basis points, as adjusted monthly. In addition, if the Company shall consummate a public offering, then upon the later to occur of (i) five business days after the Company receives the net cash proceeds therefrom or (ii) May 15, 2023, the February Notes shall be prepaid by an amount equal to the lesser of (a) 100% of the amount of the net proceeds of such offering and (b) the outstanding principal amount on such Notes.
+
+The Company may prepay any portion of the Notes at its option without penalty. It is anticipated that the February Notes will be repaid in connection with the consummation of the anticipated rights offering announced by the Company, as described in Item 8.01 herein. The Notes were issued to Mr. Duggan and Dr. Zanganeh, as applicable, in a private placement in reliance on Regulation D promulgated under the Securities Act of 1933, as amended. The Notes have not been registered under the Securities and Exchange Act of 1933, as amended, and may not be offered or sold absent registration or an applicable exemption from registration requirements.
+
+The Company expects to use the proceeds of the Note Purchase Agreement to support (i) payment of the upfront obligation associated with the License Agreement as described in Item 1.01 herein, (ii) activities to support clinical development and regulatory approval for SMT112; (iii) pursue business development opportunities to expand our pipeline of drug candidates; and (iv) general corporate purposes.
+
+The foregoing summary of the Note Purchase Agreement and Notes do not purport to be complete and is qualified in its entirety by reference to the full text of the Note Purchase Agreement and Notes filed as exhibits thereto, copies of which are attached hereto as Exhibit 10.1 and are incorporated by reference herein.
+
+Item 2.01
+
+Completion of Acquisition or Disposition of Assets.
+
+The applicable information set forth in Item 1.01 of this 8-K is incorporated by reference in this Item 2.01.
+
+Financial statements are not included in this 8-K because Summit has determined, in accordance with the guidance set forth in Regulation S-X Rule 11-01(d), that the License Agreement does not involve the acquisition of a business.
+
+Item 5.02
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Pursuant to the License Agreement described in Item 1.01 herein and in conjunction with the execution of the deal, the Board unanimously approved the election of Dr. Yu (Michelle) Xia as a director of the Company, effective upon the Antitrust Clearance Date.
+
+Dr. Xia is the Co-Founder, Chairwoman, Chief Executive Officer of Akeso which is party to the License Agreement discussed in Item 1.01 of this 8-K. In addition, she is a large individual shareholder in Akeso.
+
+Item 8.01
+
+Other Events.
+
+On December 6, 2022, the Company issued a press release announcing the approval by the Board of a rights offering to its stockholders. The rights offering will be made through the distribution of non-transferable subscription rights to purchase shares of Common Stock as of the close of the market on the record date to be determined by the Board, but which will be no earlier than January 23, 2023, at a price per share equal to the lesser of (i) $1.05, or (ii) the volume weighted-average price of the Common Stock for the five consecutive trading days through and including the expiration date of the offering. Assuming that the rights offering is fully subscribed, the Company expects to receive gross proceeds of up to $500 million, less expenses related to the rights offering. The Company intends to register the rights offering with the Securities and Exchange Commission (the “SEC”) by filing a prospectus on Form S-1. When available, a copy of the prospectus supplement may be obtained at the website maintained by the SEC at www.sec.gov.
+
+The rights offering will include an over-subscription right to permit each rights holder that exercises its basic subscription rights in full to purchase additional shares of Common Stock that remain unsubscribed at the expiration of the offering. The availability of the over-subscription right will be subject to certain terms and conditions to be set forth in the offering documents. Robert W. Duggan, the Company’s Chairman of the Board and Chief Executive Officer, and the beneficial owner of approximately 81% of the Company’s issued and outstanding Common Stock prior to this rights offering, and Dr. Maky Zanganeh, the Company’s co-Chief Executive Officer, President, a member of the Board, and the beneficial owner of approximately 6.4% of the Company’s issued and outstanding Common Stock prior to this rights offering, have each indicated that they intend to participate in the Rights Offering and subscribe for at least the full amount of their basic subscription rights, but have not made any formal binding commitment to participate.
+
+A copy of the press release related to the matters set forth herein is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit Number
+
+Description
+
+10.1
+
+Note Purchase Agreement, dated December 6, 2022, by and among Summit Therapeutics Inc., Robert W. Duggan, and Dr. Mahkam Zanganeh
+
+99.1
+
+Press release, dated December 6, 2022
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+ 
+
+SUMMIT THERAPEUTICS INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: December 6, 2022
+
+By:
+
+/s/ Ankur Dhingra
+
+ 
+
+ 
+
+Chief Financial Officer
+
+ 
+
+ 
+
+(Principal Financial Officer)

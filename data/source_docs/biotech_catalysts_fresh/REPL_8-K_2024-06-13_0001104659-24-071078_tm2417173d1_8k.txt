@@ -1,0 +1,412 @@
+false
+0001737953
+
+0001737953
+
+2024-06-12
+2024-06-12
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+ 
+
+Date of Report (Date of earliest event
+reported):  June 12, 2024
+
+ 
+
+REPLIMUNE GROUP, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+Delaware
+
+ 
+
+001-38596
+
+ 
+
+82-2082553
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+500
+Unicorn Park Drive
+
+Suite 303
+
+Woburn, MA 01801
+
+(Address of principal executive offices, including Zip Code)
+
+ 
+
+Registrant’s telephone number, including
+area code: (781) 222-9600
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+¨
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+
+ 
+
+¨
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+¨
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share
+
+ 
+
+REPL
+
+ 
+
+The Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this
+chapter). Emerging growth company ¨
+
+ 
+
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+ 
+
+Securities Purchase Agreement 
+
+ 
+
+On June 12, 2024, Replimune Group, Inc. (the “Company”)
+entered into a securities purchase agreement (the “Securities Purchase Agreement”) for a private placement (the “Private
+Placement”) with certain institutional and accredited investors (each, an “Investor” and collectively, the “Investors”).
+
+ 
+
+Pursuant to the Securities Purchase Agreement, the Company agreed to
+issue and sell to the Investors an aggregate of (i) 5,668,937 shares (the “Shares”) of the Company’s common stock, par
+value $0.001 per share (the “Common Stock”), at a purchase price of $8.82 per share, and (ii) pre-funded warrants (the “Pre-Funded
+Warrants”) to purchase up to an aggregate of 5,669,578 shares of Common Stock (the “Pre-Funded Warrant Shares”) at a
+purchase price of $8.819 per Pre-Funded Warrant, which represents the per share purchase price of the Shares less the $0.001 per share
+exercise price for each Pre-Funded Warrant. The Pre-Funded Warrants will be exercisable at any time after the date of issuance and will
+not expire.
+
+ 
+
+Leerink Partners LLC acted as the sole placement agent for the Private
+Placement. The Company has agreed to pay customary placement fees and reimburse certain expenses of the placement agent.
+
+ 
+
+The Private Placement is expected to close on June 14, 2024, subject
+to customary closing conditions. The Company anticipates the gross proceeds from the Private Placement to be approximately $100 million,
+before deducting placement agent fees and offering expenses. The Company intends to use the net proceeds from this proposed financing,
+together with the Company's existing cash, cash equivalents, and marketable securities, to fully scale up for the commercialization of
+RP1 in skin cancers, and for working capital and general corporate purposes. 
+
+ 
+
+The foregoing descriptions of the Securities Purchase Agreement and
+the Pre-Funded Warrants do not purport to be complete and are qualified in their entirety by reference to such agreements, copies of which
+are filed as Exhibits 10.1 and 4.1 hereto, respectively, and incorporated by reference herein.
+
+ 
+
+Registration Rights Agreement 
+
+ 
+
+At the closing of the Private Placement, the Company will enter into a registration
+rights agreement (the “Registration Rights Agreement”) with the Investors, pursuant to which the Company agreed to register
+for resale the Shares and the Pre-Funded Warrant Shares held by the Investors (the “Registrable Securities”). Under the Registration
+Rights Agreement, the Company has agreed to prepare and file a registration statement with the U.S. Securities and Exchange Commission
+(the “SEC”), covering the resale of the Registrable Securities within 60 days after the closing of the Private Placement (the
+“Filing Deadline”). The Company has also agreed to use reasonable best efforts to cause such registration statement to become
+effective as soon as practicable, but in any event no later than the earlier of (i) the 100th calendar day following the initial
+filing date of such registration statement if the SEC notifies the Company that it will “review” such registration statement,
+and (ii) the earlier of (a) the 30th calendar day following the initial filing date of such registration statement and (b)
+the fifth business day after the date the Company is notified by the SEC that such registration statement will not be “reviewed”
+or will not be subject to further review.
+
+ 
+
+The Company
+also agreed to use commercially reasonable efforts to keep such registration statement effective until the earlier of (i) the date on
+which the Investors shall have resold all of the Registrable Securities covered thereby and (ii) the date the Shares and the Pre-Funded
+Warrant Shares, and any Common Stock issued or issuable with respect thereto, cease to be Registrable Securities. The Company has agreed
+to be responsible for all fees and expenses incurred in connection with the registration of the Registrable Securities. In addition, certain
+liquidated damages provisions will apply to the Company in the event of registration failures, as described in the Registration Rights
+Agreement.
+
+ 
+
+The Company has granted the Investors customary indemnification rights
+in connection with the registration statement. The Investors have also granted the Company customary indemnification rights in connection
+with the registration statement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The foregoing description of the Registration Rights Agreement does
+not purport to be complete and is qualified in its entirety by reference to the full text of the form of the Registration Rights Agreement,
+which is attached hereto as Exhibit 10.2 and incorporated herein by reference.
+
+ 
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+ 
+
+To the extent required by Form 8-K, the disclosures
+in Item 1.01 above are incorporated herein by reference. The securities to be issued and sold to the Investors under the Securities Purchase
+Agreement are not registered under the Securities Act of 1933, as amended (the “Securities Act”), and are being sold in reliance
+on the exemption from registration provided by Section 4(a)(2) of the Securities Act. The Company relied on this exemption from registration
+based in part on representations made by the Investors. The securities may not be offered or sold in the United States absent registration
+or an applicable exemption from registration requirements. 
+
+ 
+
+Neither this Current Report on Form 8-K nor any
+exhibit attached hereto is an offer to sell or the solicitation of an offer to buy shares of common stock or other securities of the Company.
+
+ 
+
+Item 7.01 Regulation FD Disclosure.
+
+ 
+
+On June 13, 2024, the Company issued a press release
+announcing the Private Placement. A copy of this press release is attached as Exhibit 99.1 to this Current Report on Form 8-K. 
+
+ 
+
+The information contained in this Item 7.01, including
+Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or
+otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company’s
+filing with the SEC made by the Company, regardless of any general incorporation language in such filings, except to the extent expressly
+set forth by reference in such filing.
+
+ 
+
+Cautions About Forward-Looking Statements
+
+ 
+
+This Current Report on Form 8-K contains forward
+looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Securities Exchange Act of 1934, as
+amended, and that involve risks and uncertainties, including statements regarding the expected gross proceeds from the Private Placement,
+the expected use of proceeds from the Private Placement, the expected timing of the closing of the Private Placement, the prospect that
+the Pre-Funded Warrants will be exercised, the Company’s plans regarding the commercialization of RP1, and other statements identified
+by words such as “could,” “expects,” “intends,” “may,” “plans,” “potential,”
+“should,” “will,” “would,” or similar expressions and the negatives of those terms. Forward-looking
+statements are not promises or guarantees of future performance, and are subject to a variety of risks and uncertainties, many of which
+are beyond our control, and which could cause actual results to differ materially from those contemplated in such forward-looking statements,
+including, but not limited to, the risks as may be detailed from time to time in our Annual Reports on Form 10-K and Quarterly Reports
+on Form 10-Q and other reports the Company files with the SEC. The Company’s actual results could differ materially from the results
+described in or implied by such forward-looking statements. Forward-looking statements speak only as of the date hereof, and, except as
+required by law, we undertake no obligation to update or revise these forward-looking statements.
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+4.1
+
+ 
+
+Form of Pre-Funded Warrant
+
+10.1
+
+ 
+
+Securities Purchase Agreement, dated June 12, 2024, by and among Replimune Group, Inc. and each of the investors as party thereto
+
+10.2
+
+ 
+
+Form of Registration Rights Agreement
+
+99.1
+
+ 
+
+Press Release dated June 13, 2024
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+ 
+
+ 
+
+REPLIMUNE GROUP, INC.
+
+ 
+
+ 
+
+ 
+
+Date: June 13, 2024
+
+By:
+
+/s/ Sushil Patel
+
+ 
+
+ 
+
+Sushil Patel
+
+ 
+
+ 
+
+Chief Executive Officer

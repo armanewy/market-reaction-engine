@@ -1,0 +1,142 @@
+tars-20240419
+0001819790FALSE00018197902024-04-192024-04-19
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_______________
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): April 19, 2024
+
+_______________
+
+TARSUS PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+_______________
+
+Delaware
+
+001-39614
+
+81-4717861
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(I.R.S. Employer Identification No.)
+
+15440 Laguna Canyon Road, Suite 160
+
+Irvine, CA 92618
+
+(Address of principal executive offices, including Zip Code)
+
+Registrant's telephone number, including area code: (949) 418-1801
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, $0.0001 par value per share
+
+TARS
+
+The Nasdaq Stock Market LLC
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☒
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On April 19, 2024, Tarsus Pharmaceuticals, Inc., a Delaware corporation (the “Company”) entered into an agreement with funds managed by Pharmakon Advisors LP, BioPharma Credit Investments V (Master) LP and BPCR Limited Partnership, as lenders, and BioPharma Credit PLC, as collateral agent for the lenders, and the guarantors party to such agreement (the “Loan Agreement”). The Loan Agreement provides for an initial term loan in the principal amount of $75 million (the “Tranche A Loan”) which was funded on April 19, 2024 (the “Tranche A Closing Date”). The Company utilized a portion of the proceeds from the Tranche A Loan to repay all outstanding indebtedness under its existing loan and security agreement with Hercules Capital, Inc. and Silicon Valley Bank, to pay transaction costs and fees, and the Company intends to use the remaining net proceeds for other general corporate purposes. The Loan Agreement also provides for three potential additional term loan tranches, to be drawn at the Company’s option, in principal amounts up to $25 million, $50 million and $50 million, respectively, subject to customary conditions to funding and, in the case of the last two tranches, achieving minimum net sales milestones (each such additional term loan, a “Subsequent Tranche Loan” and, collectively with the Tranche A Loan, the “Term Loans” and each, a “Term Loan”), which may be requested on or prior to December 31, 2024, June 30, 2025 and December 31, 2025, respectively. The Term Loans will mature on April 19, 2029 (the “Maturity Date”).
+
+Interest on the funded Term Loans is paid quarterly in arrears until the Maturity Date, with the unpaid principal amount of outstanding Term Loans due and payable on the Maturity Date. The funded Term Loans will bear interest at a floating rate based upon the 90-day average secured overnight financing rate (“SOFR”), plus a margin of 6.75% per annum. SOFR is subject to a 3.75% floor.
+
+The Company is required to prepay the funded Term Loans in full upon the occurrence of a change of control. The Company may voluntary prepay the funded Term Loan in whole at any time. Prepayments are subject to customary makewhole and prepayment premiums. In addition, upon the drawing of any Term Loan, certain funding fees are owed. The Term Loans will be a non-dilutive and there is no obligation for the Company to issue warrants to the lenders.
+
+The Loan Agreement contains representations and warranties, affirmative and negative covenants in each case customary for financings of this type. Certain of the customary negative covenants limit the ability of the Company to, among other things, dispose of assets, engage in mergers, acquisitions, and similar transactions, incur additional indebtedness, grant liens, make investments, pay dividends or make distributions or certain other restricted payments in respect of equity, prepay other indebtedness, enter into restrictive agreements, undertake fundamental changes or amend certain material contracts, in each case subject to certain customary exceptions and negotiated carve outs. However, there are no financial covenants.
+
+The Loan Agreement contains default provisions customary for facilities of this type, which are subject to customary grace periods and materiality thresholds, including, among others, defaults related to payment failures, failure to comply with covenants, material misrepresentations, defaults under other material agreements, the occurrence of a “change in control”, bankruptcy and related events. If an event of default occurs under the Loan Agreement, the lenders may, among other things, declare all outstanding Term Loans to be immediately due and payable and terminate any commitment to advance Subsequent Tranche Loans. The Company’s obligations under the Loan Agreement are secured by a lien in substantially all assets of the Company, subject to certain exclusions.
+
+The foregoing description of the material terms of the Loan Agreement does not purport to be complete and is subject to, and is qualified in its entirety by reference to, the full text of the Loan Agreement, which will be filed as an exhibit to the Company's Quarterly Report on Form 10-Q for the quarterly period ending June 30, 2024.
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The information set forth under Item 1.01 is incorporated into this Item 2.03 by reference.
+
+Item 7.01 Regulation FD Disclosure.
+
+On April 23, 2024, the Company issued a press release announcing the Loan Agreement. A copy of the press release is furnished as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+The information contained in this Item 7.01 shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No.
+
+Description
+
+99.1
+
+Press Release dated April 23, 2024
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+TARSUS PHARMACEUTICALS, INC.
+
+Date:
+
+April 23, 2024
+
+/s/ Jeffrey S. Farrow
+
+Jeffrey S. Farrow
+
+Chief Financial Officer and Chief Strategy Officer
+
+(Principal Financial Officer and Principal Accounting Officer)

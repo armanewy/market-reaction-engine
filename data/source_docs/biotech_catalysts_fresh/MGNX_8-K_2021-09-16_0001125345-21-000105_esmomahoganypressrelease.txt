@@ -1,0 +1,108 @@
+EX-99.1
+2
+esmomahoganypressrelease.htm
+EX-99.1
+
+Document
+
+Exhibit 99.1
+
+MacroGenics Announces Clinical Results from Cohort A Part 1 of Phase 2/3 MAHOGANY Study of Margetuximab in Combination with Retifanlimab in Gastroesophageal Adenocarcinoma at ESMO 2021
+
+•21 of 40 patients (53%) achieved confirmed responses by independent review, exceeding prespecified futility boundary for trial; enrollment proceeding to Part 2 of Cohort A
+
+•78% of patients had tumor shrinkage at first scan
+
+•Median duration of response was 10.3 months as of data cutoff
+
+•Margetuximab plus retifanlimab was well tolerated with Grade 3 treatment-related adverse events (TRAEs) in 19% of patients; no Grade 4 TRAEs or treatment-related deaths
+
+•Findings suggest this chemotherapy-free combination, if validated and approved, may be a potential option for first-line HER2+ patients
+
+ROCKVILLE, MD, Sept. 16, 2021 (GLOBE NEWSWIRE) – MacroGenics, Inc. (NASDAQ: MGNX), a biopharmaceutical company focused on developing and commercializing innovative monoclonal antibody-based therapeutics for the treatment of cancer, today announced results from Cohort A Part 1 of the Phase 2/3 MAHOGANY clinical trial of margetuximab. MARGENZA® (margetuximab-cmkb) is approved in HER2+ metastatic breast cancer and is being investigated as a potential first-line treatment for patients with HER2+ gastric cancer (GC) or gastroesophageal junction (GEJ) cancer in combination with a checkpoint inhibitor, with or without chemotherapy. The dataset is available in a poster titled “Margetuximab With Retifanlimab in HER2+, PD-L1+ First-Line Unresectable/Metastatic Gastroesophageal Adenocarcinoma (GEA): MAHOGANY Cohort A” (Poster #1379P) at the 2021 European Society for Medical Oncology (ESMO) Virtual Conference taking place September 16-21, 2021.
+
+The efficacy data and safety cutoff dates were July 19, 2021 and August 3, 2021, respectively. In Cohort A Parts 1 and 2, the efficacy and safety of combining margetuximab and retifanlimab (investigational anti-PD-1 monoclonal antibody licensed to Incyte by MacroGenics) is planned to be evaluated in approximately 100 patients whose tumors are HER2+ at the 3+ level by immunohistochemical (IHC) staining, PD-L1+ (combined positive score ≥1%) and non-microsatellite instability-high (non-MSI-H). A pre-specified interim analysis assessing efficacy and safety was conducted on the first 40 non-MSI-H patients enrolled in Part 1. These data support advancement to Part 2 with plans to enroll approximately 60 additional response-evaluable non-MSI-H patients.
+
+A total of 43 HER2 3+ and PD-L1+ patients were enrolled in Cohort A Part 1 and received margetuximab 15 mg/kg plus retifanlimab 375 mg/kg administered intravenously every three weeks. Twenty-five patients (58%) had gastric cancer and 18 patients (42%) had gastroesophageal junction cancer; 36 patients (84%) had metastatic disease at study entry.
+
+MAHOGANY Cohort A Interim Analysis
+
+Anti-tumor activity was observed in patients treated with margetuximab plus retifanlimab in MAHOGANY Cohort A after the first scan. Tumor shrinkage was observed in 32 of 41 patients (78%) with at least one post-baseline target lesion measurement. Twenty-one of 40 response-evaluable patients achieved an objective response (53%, 95% confidence interval (CI): 36%-69%), including four confirmed complete responses and 17 confirmed partial responses. The number of confirmed responders by independent assessment exceeded the prespecified futility boundary for the trial, and enrollment is proceeding to Cohort A Part 2.
+
+Exhibit 99.1
+
+Disease control was achieved in 29 of 40 patients (73%, CI: 56%-85%) and the median duration of response was 10.3 months (range: 2.1 – 14.5 months, CI: 4.6 months – not evaluable (NE)). Median progression-free survival (PFS) was 6.4 months by independent assessment (CI: 6.0 months – NE); median overall survival (OS) was not yet reached. At both 12 and 18 months, OS was 85% (CI: 63%-95%).
+
+Antitumor activity was comparable to historical data from the experimental arm of the Trastuzumab for Gastric Cancer (ToGA) study (trastuzumab + chemotherapy; n=294; objective response rate (ORR) of 47%; median duration of response (DOR) of 6.9 months)1 and initial data from the control arm (placebo + trastuzumab + chemotherapy) of the KEYNOTE‐811 study (ORR of 52%; median DOR of 9.5 months).2
+
+The safety analysis of all 43 patients treated with margetuximab plus retifanlimab suggests the combination was well tolerated in the study population. The most common TRAEs were fatigue (21% Grade 1-2, 0% Grade ≥3), infusion-related reaction (19% Grade 1-2, 0% Grade ≥3), rash (19% Grade 1-2, 0% Grade ≥3), diarrhea (16% Grade 1-2, 2% Grade 3), and pruritus (16% Grade 1-2, 0% Grade ≥3). A total of nine Grade 3 TRAEs were reported in eight patients (19%); no Grade 4 TRAEs were observed. Eight serious TRAEs were reported in seven patients. Infusion-related reactions considered as adverse events (AEs) of special interest occurred in six patients.
+
+Treatment-emergent AEs of Grade 3 occurred in 18 of 43 patients (42%) of patients. Three of 43 patients (7%) discontinued therapy due to immune-related AEs: renal dysfunction (Grade 3), hepatitis (Grade 3), and diabetic ketoacidosis (Grade 1); no AEs led to death.
+
+Safety data from MAHOGANY compare favorably to the experimental arm of ToGA in which overall Grade 3-4 AEs were 68% and the treatment-related mortality was 3%.1 Initial results from KEYNOTE-811 data presented at the 2021 ASCO Annual Meeting indicated that AEs of Grade 3-5 occurred in 57.1% of patients in the experimental arm (pembrolizumab + trastuzumab + chemotherapy) and in 57.4% of patients in the control arm, AEs leading to death occurred in 3.2% vs 4.6%, and AEs leading to discontinuation of any study drug occurred in 24.4% vs 25.9% of patients, respectively. Despite limitations of cross-study comparisons, regimens containing chemotherapy may have clinically relevant safety differences compared to the chemotherapy-free regimen in MAHOGANY Cohort A.
+
+“We are excited to share our results from the interim analysis of Part 1 of the MAHOGANY Cohort A study at ESMO,” said Scott Koenig, M.D., Ph.D., President and CEO of MacroGenics. “This study is designed to support potential registration of margetuximab in combination with other agents for patients with gastric or gastroesophageal junction cancer as part of our strategy to advance margetuximab in HER2+ cancer. The findings suggest the combination of margetuximab and retifanlimab may potentially provide a chemotherapy-free option as a first-line treatment for patients whose tumors are positive for both HER2 and PD-L1. We are pleased these data support the protocol’s prespecified advancement into Part 2 of MAHOGANY Cohort A. We plan to discuss these results and future development of the combination in an upcoming scheduled meeting with the FDA.”
+
+ESMO Presentation
+
+MacroGenics’ Cohort A Part 1 MAHOGANY Study poster presentation is available for on-demand viewing on the ESMO website and on the “Events & Presentations” page on MacroGenics’ website at http://ir.macrogenics.com/events.cfm.
+
+1 Bang YJ, et al., Lancet. 2010; 376 (9742): 687-697.
+
+2 Janjigian YY, et al., J Clin Oncol. 2021; 39 (suppl 15): 4013.
+
+Exhibit 99.1
+
+The MAHOGANY Study Design
+
+MAHOGANY (NCT04082364) is a Phase 2/3 clinical trial in two cohorts designed to evaluate margetuximab in combination with a checkpoint inhibitor, with or without chemotherapy, as a potential first-line treatment for patients with advanced or metastatic HER2+ GEJ/GC.
+
+Cohort A is designed as a single arm study to test margetuximab plus retifanlimab (previously known as MGA012 and INCMGA00012), an investigational anti-PD-1 monoclonal antibody, in patients with HER2+ and PD-L1+ tumors. The primary outcome measure for efficacy is ORR per Response Evaluation Criteria in Solid Tumors (RECIST 1.1).
+
+Cohort B is designed as a randomized trial to test margetuximab plus a checkpoint inhibitor in combination with chemotherapy compared to standard of care therapy of trastuzumab with chemotherapy in patients with HER2+ tumors irrespective of PD-L1 expression. Patients randomized to one of two experimental arms containing a checkpoint inhibitor will receive either retifanlimab or tebotelimab (previously known as MGD013), an investigational DART® molecule targeting PD-1 and LAG-3. The primary outcome measure for efficacy is OS.
+
+The Phase 2/3 clinical trial is being conducted at clinical sites globally, in collaboration with Zai Lab, the company’s regional partner in Greater China. For additional information about the MAHOGANY study, please visit https://clinicaltrials.gov/ct2/show/NCT04082364.
+
+About Gastric and Gastroesophageal Junction Cancer
+
+Cancer of the stomach (gastric cancer, GC), or the gastroesophageal junction (GEJ) where the esophagus joins the stomach, is collectively known as gastroesophageal adenocarcinoma and is the fifth most common tumor type worldwide. Both GC and GEJ cancer are often diagnosed at an advanced stage and therefore have very poor prognosis, with a 5-year survival of 5-20%. Chemotherapy is the standard of care for first-line therapy and may be combined with trastuzumab for the approximately 20% of patients whose tumors are HER2+.
+
+About Margetuximab
+
+MARGENZA® (margetuximab-cmkb) is approved in HER2+ metastatic breast cancer and is being investigated as a potential first-line treatment for patients with HER2+ GC or GEJ cancer in combination with a checkpoint inhibitor, with or without chemotherapy. Margetuximab is an Fc-engineered monoclonal antibody that targets the HER2 oncoprotein. HER2 is expressed by tumor cells in breast, gastroesophageal and other solid tumors. Through MacroGenics’ Fc Optimization technology, margetuximab has been engineered to enhance the engagement of the immune system.
+
+Margetuximab is also being evaluated in combination with tebotelimab (PD-1 × LAG-3 bispecific DART® molecule) in various HER2+ tumors (NCT03219268). MacroGenics is partnered with Zai Lab for the development and commercialization of margetuximab in Greater China. For more information, please visit www.clinicaltrials.gov.
+
+About Retifanlimab
+
+Retifanlimab is an investigational, humanized, proprietary anti-PD-1 monoclonal antibody being developed for use as monotherapy as well as in combination with other potential cancer therapeutics.
+
+Exhibit 99.1
+
+Retifanlimab was licensed to Incyte Corporation in 2017 under an exclusive global collaboration and license agreement. MacroGenics retains the right to develop its pipeline molecules with retifanlimab. Incyte is pursuing development of retifanlimab monotherapy in four potentially registration-directed trials for patients with MSI-high endometrial cancer, Merkel cell carcinoma, anal cancer and non-small cell lung cancer. Incyte and MacroGenics are each conducting multiple studies of retifanlimab in combination with other agents.
+
+About Tebotelimab
+
+Tebotelimab is an investigational, first-in-class bispecific DART molecule designed to provide co-blockade of PD-1 and LAG-3 for the potential treatment of a range of solid tumors and hematological malignancies.
+
+About MacroGenics, Inc.
+
+MacroGenics is a biopharmaceutical company focused on developing and commercializing innovative monoclonal antibody-based therapeutics for the treatment of cancer. The Company generates its pipeline of product candidates primarily from its proprietary suite of next-generation antibody-based technology platforms, which have applicability across broad therapeutic domains. The combination of MacroGenics' technology platforms and protein engineering expertise has allowed the Company to generate promising product candidates and enter into several strategic collaborations with global pharmaceutical and biotechnology companies. For more information, please see the Company's website at www.macrogenics.com. MacroGenics, the MacroGenics logo and MARGENZA are trademarks or registered trademarks of MacroGenics, Inc.
+
+Cautionary Note on Forward-Looking Statements
+
+Any statements in this press release about future expectations, plans and prospects for the Company, including statements about the Company's strategy, future operations, clinical development of the Company's therapeutic candidates, including enrollment in clinical trials, commercial prospects of or product revenues from MARGENZA, milestone or opt-in payments from the Company's collaborators, the Company's anticipated milestones and other statements containing the words "subject to", "believe", "anticipate", "plan", "expect", "intend", "estimate", "potential, " "project", "may", "will", "should", "would", "could", "can", the negatives thereof, variations thereon and similar expressions, or by discussions of strategy constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: risks that MARGENZA revenue, expenses and costs may not be as expected, risks relating to MARGENZA’s market acceptance, competition, reimbursement and regulatory actions, the uncertainties inherent in the initiation and enrollment of future clinical trials, expectations of expanding ongoing clinical trials, availability and timing of data from ongoing clinical trials, expectations for regulatory approvals, other matters that could affect the availability or commercial potential of the Company's product candidates and other risks described in the Company's filings with the Securities and Exchange Commission. In addition, the forward-looking statements included in this press release represent the Company's views only as of the date hereof. The Company anticipates that subsequent events and developments will cause the Company's views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so, except as may be required by law. These forward-looking statements
+
+Exhibit 99.1
+
+should not be relied upon as representing the Company's views as of any date subsequent to the date hereof.
+
+###
+
+CONTACTS:
+
+Chris James, M.D., Vice President, Investor Relations & Corporate Communications
+
+Jim Karrels, Senior Vice President, CFO
+
+1-301-251-5172, info@macrogenics.com

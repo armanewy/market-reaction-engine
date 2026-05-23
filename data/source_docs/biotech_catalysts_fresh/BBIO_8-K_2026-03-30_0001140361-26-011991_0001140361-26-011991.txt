@@ -1,0 +1,2545 @@
+0001140361-26-011991.txt : 20260330
+0001140361-26-011991.hdr.sgml : 20260330
+20260330173036
+ACCESSION NUMBER: 0001140361-26-011991
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 12
+CONFORMED PERIOD OF REPORT: 20260330
+ITEM INFORMATION: Other Events
+ITEM INFORMATION: Financial Statements and Exhibits
+FILED AS OF DATE: 20260330
+DATE AS OF CHANGE: 20260330
+
+FILER:
+
+COMPANY DATA:
+COMPANY CONFORMED NAME: BridgeBio Pharma, Inc.
+CENTRAL INDEX KEY: 0001743881
+STANDARD INDUSTRIAL CLASSIFICATION: PHARMACEUTICAL PREPARATIONS [2834]
+ORGANIZATION NAME: 03 Life Sciences
+EIN: 000000000
+STATE OF INCORPORATION: DE
+FISCAL YEAR END: 1231
+
+FILING VALUES:
+FORM TYPE: 8-K
+SEC ACT: 1934 Act
+SEC FILE NUMBER: 001-38959
+FILM NUMBER: 26813212
+
+BUSINESS ADDRESS:
+STREET 1: 3160 PORTER DR.
+STREET 2: SUITE 250
+CITY: PALO ALTO
+STATE: CA
+ZIP: 94304
+BUSINESS PHONE: (650) 391-9740
+
+MAIL ADDRESS:
+STREET 1: 3160 PORTER DR.
+STREET 2: SUITE 250
+CITY: PALO ALTO
+STATE: CA
+ZIP: 94304
+
+FORMER COMPANY:
+FORMER CONFORMED NAME: BridgeBio Pharma LLC
+DATE OF NAME CHANGE: 20180618
+
+8-K
+1
+ef20069329_8k.htm
+8-K
+
+false000174388100017438812026-03-302026-03-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 30, 2026
+
+BridgeBio Pharma, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware
+
+001-38959
+
+84-1850815
+
+(State or Other Jurisdiction of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+3160 Porter Dr., Suite 250
+
+ 
+
+ 
+
+Palo Alto, CA
+
+ 
+
+94304
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (650) 391-9740
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading
+
+Symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share
+
+BBIO
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01.
+
+Other Events
+
+On March 30, 2026, BridgeBio Pharma, Inc. issued a press release titled “BridgeBio Submits NDA to FDA for BBP-418 for Individuals Living with LGMD2I/R9.”
+A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d)
+
+Exhibits.
+
+Exhibit
+
+Description
+
+ 
+
+ 
+
+99.1
+
+Press Release titled “BridgeBio Submits NDA to FDA for BBP-418 for Individuals Living with LGMD2I/R9”
+
+ 
+
+ 
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+BridgeBio Pharma, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+March 30, 2026
+
+By:
+
+/s/ Thomas Trimarchi
+
+ 
+
+ 
+
+ 
+
+Thomas Trimarchi, Ph.D.
+
+ 
+
+ 
+
+ 
+
+President and Chief Financial Officer
+
+EX-99.1
+2
+ef20069329_ex99-1.htm
+EXHIBIT 99.1
+
+Exhibit 99.1
+
+ 
+
+BridgeBio Submits NDA to FDA for BBP-418 for Individuals Living with LGMD2I/R9
+
+- Comprehensive submission includes interim Phase 3 FORTIFY data demonstrating BBP-418’s rapid, consistent treatment effect and favorable safety profile, with
+statistically significant and clinically meaningful improvements in ambulation and pulmonary function
+
+-Based on ongoing discussions with the FDA, BridgeBio anticipates approval with a
+U.S. launch anticipated in late 2026/early 2027
+
+-If approved, BBP-418 has the potential to become the first and only therapy for individuals living with LGMD2I/R9 and may represent the first
+approved treatment for any form of LGMD
+
+PALO ALTO, Calif., March 30, 2026 (GLOBE NEWSWIRE) -- BridgeBio Pharma, Inc. (Nasdaq: BBIO) (“BridgeBio” or the “Company”), a biopharmaceutical company focused on developing medicines for genetic conditions, today
+announced the submission of its New Drug Application (NDA) to the FDA for oral BBP-418 for the treatment of individuals living with
+limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9).
+
+“This NDA submission brings us one step closer to delivering the first approved therapy to individuals and families affected by LGMD2I/R9, a severe, progressive
+neuromuscular disease,” said Christine Siu, Chief Executive Officer of BridgeBio Neuromuscular. “This achievement not only reflects the strength of the data, but also our dedicated focus on
+addressing the urgency of a community that has long been waiting for meaningful treatment options. We are committed to working closely with the FDA to make this potential disease-modifying therapy available as quickly as possible.”
+
+FORTIFY, the Phase 3 clinical trial of BBP-418, successfully met all pre-specified
+primary and secondary endpoints of its 12-month interim analysis. The topline results can be found here. Additional positive results demonstrating the rapid and consistent treatment effect and favorable safety profile of BBP-418 were presented earlier this month at the 2026 MDA Clinical and Scientific
+Conference in a late-breaking oral presentation, which can be found here.
+
+BridgeBio anticipates a U.S. launch following FDA approval in late 2026/early 2027. If successful, BBP-418 would be the first and only approved
+therapy for individuals living with LGMD2I/R9, potentially representing the first approval of a therapy for any form of LGMD. The Company is also engaging regulatory agencies to identify an expedited path to approval for BBP-418 in Europe.
+
+BBP-418 has previously received Orphan Drug, Fast Track, and Rare Pediatric Disease
+Designations from the FDA and Orphan Drug Designation from the European Medicines Agency (EMA). With Fast Track designation and the potential for BBP-418 to address unmet need in LGMD2I/R9, the NDA for
+BBP-418 may be eligible for Priority Review. Consistent with Rare Pediatric Designation from the FDA, if BBP-418 is approved, BridgeBio may qualify for a Priority Review Voucher.
+The Company intends to initiate clinical studies of BBP-418 in LGMD2I/R9 for individuals less than 12 years of age and in LGMD2M/2U in the near future.
+
+About Limb-Girdle Muscular Dystrophy Type 2I/R9 (LGMD2I/R9)
+
+LGMD2I/R9 is a monogenic autosomal recessive disease caused by partial loss of function mutations in the fukutin-related protein (FKRP) gene, and FKRP mutations
+impair glycosylation of alpha-dystroglycan (αDG), a protein associated with stabilizing muscle cells. Clinical manifestations typically present as a skeletal myopathy affecting the lower and then upper limbs, which is commonly later accompanied
+by pulmonary muscle and cardiac muscle involvement. Individuals who harbor a homozygous L276I genotype typically develop disease manifestations during late childhood with progression to loss of independent ambulation (25%), assisted
+ventilation (10%), and cardiomyopathy (30%) in adulthood. Cardiomyopathy is progressive, with an annual loss of 0.4% of left ventricular ejection fraction (LVEF). Individuals with other FKRP genotypes typically have an earlier childhood onset with a more severe clinical course, rapid loss of mobility by 20 years of age, more frequent cardiac involvement (60%), and eventual pulmonary decline by 30 years of age
+in nearly all cases.
+
+About BridgeBio
+
+BridgeBio exists to develop transformative medicines for genetic conditions. Millions of people worldwide living with genetic conditions lack treatment options, often because drug development for small patient
+populations can be commercially challenging. We aim to bridge the gap between advancements in genetic science and meaningful medicines for underserved patient populations. Our decentralized, hub-and-spoke model is designed for speed, precision,
+and scalability. Autonomous and empowered teams focus on individual conditions, while a central hub provides the clinical, regulatory, and commercial capabilities needed to bring innovation to market. For more information, visit bridgebio.com and follow us on LinkedIn, X, Facebook, Instagram, YouTube, and TikTok.
+
+BridgeBio Forward-Looking Statements
+
+This press release contains forward-looking statements. Statements in this press
+release may include statements that are not historical facts and are considered forward-looking within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act), and Section 21E of the Securities Exchange Act of
+1934, as amended (the Exchange Act), which are usually identified by the use of words such as “anticipates,” “believes,” “continues,” “estimates,” “expects,” “hopes,” “intends,” “may,” “plans,” “projects,” “remains,” “seeks,” “should,” “will,”
+and variations of such words or similar expressions. BridgeBio intends these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act and Section 21E of
+the Exchange Act. These forward-looking statements include express and implied statements relating to the Company’s expectations regarding the regulatory review process, potential approval, and timing of a potential launch for BBP-418 in
+LGMD2I/R9; the Company’s expectations regarding the initiation and timing of clinical trials of BBP-418 in LGMD2I/R9 for individuals less than 12 years of age and in LGMD2M/2U; the potential for BBP-418 to become the first and only approved
+therapy for LGMD2I/R9 and potentially the first approved therapy for any form of LGMD; the anticipated regulatory pathway for BBP-418; and the potential eligibility of BBP-418 for Priority Review and under the Rare Pediatric Disease Priority
+Review Voucher program, and the related FDA review timeline. Such statements reflect the Company’s current views about the Company’s plans, intentions, expectations and strategies, which are based on the information currently available to it and
+on assumptions the Company has made. Although the Company believes that its plans, intentions, expectations and strategies as reflected in or suggested by those forward-looking statements are reasonable, the Company can give no assurance that the
+plans, intentions, expectations or strategies will be attained or achieved. Furthermore, actual results may differ materially from those described in the forward-looking statements and will be affected by a number of risks, uncertainties and
+assumptions, including, but not limited to, initial and ongoing data from the Company’s clinical trials not being indicative of final data, the design and success of ongoing and planned clinical trials, future regulatory filings, approvals and/or
+sales, despite having ongoing and future interactions with the FDA or other regulatory agencies to discuss potential paths to registration for the Company’s product candidates, the FDA or such other regulatory agencies not agreeing with the
+Company’s regulatory approval strategies, components of the Company’s filings, such as clinical trial designs, conduct and methodologies, or the sufficiency of data submitted, the impacts of current macroeconomic and geopolitical events,
+including changing conditions from hostilities in Ukraine and in Israel and the Gaza Strip, increasing rates of inflation and changing interest rates, on business operations and expectations, as well as those risks set forth in the Risk Factors
+section of the Company’s most recent Annual Report on Form 10-K and the Company’s other filings with the U.S. Securities and Exchange Commission. Moreover, the Company operates in a very competitive and rapidly changing environment in which new
+risks emerge from time to time. These forward-looking statements are based upon the current expectations and beliefs of the Company’s management as of the date of this press release, and are subject to certain risks and uncertainties that could
+cause actual results to differ materially from those described in the forward-looking statements. Except as required by applicable law, BridgeBio assumes no obligation to update publicly any forward-looking statements, whether as a result of new
+information, future events or otherwise. 
+
+BridgeBio Media Contact:
+
+Bubba Murarka, Executive Vice President
+
+contact@bridgebio.com
+
+(650)-789-8220
+
+BridgeBio Investor Contact:
+
+Chinmay Shukla, Senior Vice President, Strategic Finance
+
+ir@bridgebio.com
+
+EX-101.SCH
+3
+bbio-20260330.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+
+000100 - Document - Document and Entity Information
+link:presentationLink
+link:calculationLink
+link:definitionLink
+
+EX-101.LAB
+4
+bbio-20260330_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+Cover [Abstract]
+
+Document Type
+
+Written Communications
+
+Soliciting Material
+
+Pre-commencement Tender Offer
+
+Pre-commencement Issuer Tender Offer
+
+Amendment Flag
+
+Document Fiscal Year Focus
+
+Document Fiscal Period Focus
+
+Document Period End Date
+
+Entity Registrant Name
+
+Entity Central Index Key
+
+Entity File Number
+
+Entity Tax Identification Number
+
+Entity Incorporation, State or Country Code
+
+Entity Emerging Growth Company
+
+Entity Address, Address Line One
+
+Entity Address, Address Line Two
+
+Entity Address, Address Line Three
+
+Entity Address, City or Town
+
+Entity Address, State or Province
+
+Entity Address, Country
+
+Entity Address, Postal Zip Code
+
+City Area Code
+
+Local Phone Number
+
+Title of 12(b) Security
+
+No Trading Symbol Flag
+
+Trading Symbol
+
+Security Exchange Name
+
+EX-101.PRE
+5
+bbio-20260330_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+XML
+7
+R1.htm
+IDEA: XBRL DOCUMENT
+
+v3.26.1
+
+Document and Entity Information
+
+Mar. 30, 2026
+
+Cover [Abstract]
+
+ 
+
+Document Type
+
+8-K
+
+Amendment Flag
+
+false
+
+Document Period End Date
+
+Mar. 30, 2026
+
+Entity File Number
+
+001-38959
+
+Entity Registrant Name
+
+BridgeBio Pharma, Inc.
+
+Entity Central Index Key
+
+0001743881
+
+Entity Incorporation, State or Country Code
+
+DE
+
+Entity Tax Identification Number
+
+84-1850815
+
+Entity Address, Address Line One
+
+3160 Porter Dr.
+
+Entity Address, Address Line Two
+
+Suite 250
+
+Entity Address, City or Town
+
+Palo Alto
+
+Entity Address, State or Province
+
+CA
+
+Entity Address, Postal Zip Code
+
+94304
+
+City Area Code
+
+650
+
+Local Phone Number
+
+391-9740
+
+Title of 12(b) Security
+
+Common Stock, par value $0.001 per share
+
+Trading Symbol
+
+BBIO
+
+Security Exchange Name
+
+NASDAQ
+
+Entity Emerging Growth Company
+
+false
+
+Written Communications
+
+false
+
+Soliciting Material
+
+false
+
+Pre-commencement Tender Offer
+
+false
+
+Pre-commencement Issuer Tender Offer
+
+false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_AmendmentFlag
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Area code of city
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_CityAreaCode
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Cover page.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_CoverAbstract
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:stringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_DocumentPeriodEndDate
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:dateItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_DocumentType
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:submissionTypeItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressAddressLine1
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressAddressLine2
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Name of the City or Town
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressCityOrTown
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Code for the postal or zip code
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressPostalZipCode
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Name of the state or province.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityAddressStateOrProvince
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:stateOrProvinceItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b-2
+
++ Details
+
+Name:
+
+dei_EntityCentralIndexKey
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:centralIndexKeyItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b-2
+
++ Details
+
+Name:
+
+dei_EntityEmergingGrowthCompany
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityFileNumber
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:fileNumberItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:edgarStateCountryItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b-2
+
++ Details
+
+Name:
+
+dei_EntityRegistrantName
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b-2
+
++ Details
+
+Name:
+
+dei_EntityTaxIdentificationNumber
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:employerIdItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Local phone number for entity.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_LocalPhoneNumber
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:normalizedStringItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 13e
+-Subsection 4c
+
++ Details
+
+Name:
+
+dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 14d
+-Subsection 2b
+
++ Details
+
+Name:
+
+dei_PreCommencementTenderOffer
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection b
+
++ Details
+
+Name:
+
+dei_Security12bTitle
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:securityTitleItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 12
+-Subsection d1-1
+
++ Details
+
+Name:
+
+dei_SecurityExchangeName
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:edgarExchangeCodeItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Exchange Act
+-Number 240
+-Section 14a
+-Subsection 12
+
++ Details
+
+Name:
+
+dei_SolicitingMaterial
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.
+
++ References
+
+No definition available.
+
++ Details
+
+Name:
+
+dei_TradingSymbol
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+dei:tradingSymbolItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
+
++ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+-Publisher SEC
+-Name Securities Act
+-Number 230
+-Section 425
+
++ Details
+
+Name:
+
+dei_WrittenCommunications
+
+Namespace Prefix:
+
+dei_
+
+Data Type:
+
+xbrli:booleanItemType
+
+Balance Type:
+
+na
+
+Period Type:
+
+duration
+
+XML
+8
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+background-color: #def;
+border: 2px solid #2F4497;
+font-size: 1em;
+position: absolute;
+}
+
+.report table.authRefData a {
+display: block;
+font-weight: bold;
+}
+
+.report table.authRefData p {
+margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+background-color: #2F4497;
+padding: 1px 3px 0px 0px;
+text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+height: 150px;
+overflow: auto;
+width: 400px;
+}
+
+.report table.authRefData table{
+font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+color: black;
+text-decoration: none;
+}
+
+/* table */
+.report {
+background-color: white;
+border: 2px solid #acf;
+clear: both;
+color: black;
+font: normal 8pt Helvetica, Arial, san-serif;
+margin-bottom: 2em;
+}
+
+.report hr {
+border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+background-color: #acf;
+color: black;
+font-weight: bold;
+text-align: center;
+}
+
+.report th.void {
+background-color: transparent;
+color: #000000;
+font: bold 10pt Helvetica, Arial, san-serif;
+text-align: left;
+}
+
+.report .pl {
+text-align: left;
+vertical-align: top;
+white-space: normal;
+width: 200px;
+white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+cursor: pointer;
+display: block;
+width: 200px;
+overflow: hidden;
+}
+
+.report td.pl div.a {
+width: 200px;
+}
+
+.report td.pl a:hover {
+background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+background-color: #acf;
+color: black;
+font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+background-color: #def;
+}
+
+.report .reu td {
+border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+background-color: white;
+}
+
+.report .rou td {
+border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+text-align: right;
+white-space: nowrap;
+}
+
+.report .nump {
+padding-left: 2em;
+}
+
+.report .nump {
+padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+text-align: left;
+white-space: normal;
+}
+
+.report .text .big {
+margin-bottom: 1em;
+width: 17em;
+}
+
+.report .text .more {
+display: none;
+}
+
+.report .text .note {
+font-style: italic;
+font-weight: bold;
+}
+
+.report .text .small {
+width: 10em;
+}
+
+.report sup {
+font-style: italic;
+}
+
+.report .outerFootnotes {
+font-size: 1em;
+}
+
+XML
+9
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+
+XML
+11
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+3.26.1
+
+html
+1
+23
+1
+false
+0
+0
+false
+0
+
+false
+false
+R1.htm
+000100 - Document - Document and Entity Information
+Sheet
+http://bridgebio.com/role/DocumentAndEntityInformation
+Document and Entity Information
+Cover
+1
+
+false
+false
+All Reports
+Book
+All Reports
+
+bbio-20260330.xsd
+bbio-20260330_lab.xml
+bbio-20260330_pre.xml
+ef20069329_8k.htm
+
+http://xbrl.sec.gov/dei/2025
+
+true
+false
+
+JSON
+13
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+"version": "2.2",
+"instance": {
+"ef20069329_8k.htm": {
+"nsprefix": "bbio",
+"nsuri": "http://bridgebio.com/20260330",
+"dts": {
+"schema": {
+"local": [
+"bbio-20260330.xsd"
+],
+"remote": [
+"http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+"http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+"http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+"http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+"http://www.xbrl.org/2004/ref-2004-08-10.xsd",
+"http://www.xbrl.org/2005/xbrldt-2005.xsd",
+"http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+"http://www.xbrl.org/lrr/arcrole/factExplanatory-2009-12-16.xsd",
+"http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+"http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+"https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+"https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+"https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+"https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+"https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+"https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+"https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+"https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+"https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+"https://xbrl.sec.gov/country/2025/country-2025.xsd",
+"https://xbrl.sec.gov/currency/2025/currency-2025.xsd",
+"https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+"https://xbrl.sec.gov/exch/2025/exch-2025.xsd",
+"https://xbrl.sec.gov/naics/2025/naics-2025.xsd",
+"https://xbrl.sec.gov/sic/2025/sic-2025.xsd",
+"https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+]
+},
+"labelLink": {
+"local": [
+"bbio-20260330_lab.xml"
+]
+},
+"presentationLink": {
+"local": [
+"bbio-20260330_pre.xml"
+]
+},
+"inline": {
+"local": [
+"ef20069329_8k.htm"
+]
+}
+},
+"keyStandard": 23,
+"keyCustom": 0,
+"axisStandard": 0,
+"axisCustom": 0,
+"memberStandard": 0,
+"memberCustom": 0,
+"hidden": {
+"total": 2,
+"http://xbrl.sec.gov/dei/2025": 2
+},
+"contextCount": 1,
+"entityCount": 1,
+"segmentCount": 0,
+"elementCount": 29,
+"unitCount": 0,
+"baseTaxonomies": {
+"http://xbrl.sec.gov/dei/2025": 23
+},
+"report": {
+"R1": {
+"role": "http://bridgebio.com/role/DocumentAndEntityInformation",
+"longName": "000100 - Document - Document and Entity Information",
+"shortName": "Document and Entity Information",
+"isDefault": "true",
+"groupType": "document",
+"subGroupType": "",
+"menuCat": "Cover",
+"order": "1",
+"firstAnchor": {
+"contextRef": "c20260330to20260330",
+"name": "dei:DocumentType",
+"unitRef": null,
+"xsiNil": "false",
+"lang": "en-US",
+"decimals": null,
+"ancestors": [
+"div",
+"div",
+"div",
+"div",
+"div",
+"body",
+"html"
+],
+"reportCount": 1,
+"baseRef": "ef20069329_8k.htm",
+"first": true,
+"unique": true
+},
+"uniqueAnchor": {
+"contextRef": "c20260330to20260330",
+"name": "dei:DocumentType",
+"unitRef": null,
+"xsiNil": "false",
+"lang": "en-US",
+"decimals": null,
+"ancestors": [
+"div",
+"div",
+"div",
+"div",
+"div",
+"body",
+"html"
+],
+"reportCount": 1,
+"baseRef": "ef20069329_8k.htm",
+"first": true,
+"unique": true
+}
+}
+},
+"tag": {
+"dei_AmendmentFlag": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "AmendmentFlag",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Amendment Flag",
+"documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+}
+}
+},
+"auth_ref": []
+},
+"dei_CityAreaCode": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "CityAreaCode",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "City Area Code",
+"documentation": "Area code of city"
+}
+}
+},
+"auth_ref": []
+},
+"dei_CoverAbstract": {
+"xbrltype": "stringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "CoverAbstract",
+"lang": {
+"en-us": {
+"role": {
+"label": "Cover [Abstract]",
+"documentation": "Cover page."
+}
+}
+},
+"auth_ref": []
+},
+"dei_DocumentFiscalPeriodFocus": {
+"xbrltype": "fiscalPeriodItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "DocumentFiscalPeriodFocus",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Document Fiscal Period Focus",
+"documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+}
+}
+},
+"auth_ref": []
+},
+"dei_DocumentFiscalYearFocus": {
+"xbrltype": "gYearItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "DocumentFiscalYearFocus",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Document Fiscal Year Focus",
+"documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+}
+}
+},
+"auth_ref": []
+},
+"dei_DocumentPeriodEndDate": {
+"xbrltype": "dateItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "DocumentPeriodEndDate",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Document Period End Date",
+"documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+}
+}
+},
+"auth_ref": []
+},
+"dei_DocumentType": {
+"xbrltype": "submissionTypeItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "DocumentType",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Document Type",
+"documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityAddressAddressLine1": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityAddressAddressLine1",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, Address Line One",
+"documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityAddressAddressLine2": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityAddressAddressLine2",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, Address Line Two",
+"documentation": "Address Line 2 such as Street or Suite number"
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityAddressAddressLine3": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityAddressAddressLine3",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, Address Line Three",
+"documentation": "Address Line 3 such as an Office Park"
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityAddressCityOrTown": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityAddressCityOrTown",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, City or Town",
+"documentation": "Name of the City or Town"
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityAddressCountry": {
+"xbrltype": "countryCodeItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityAddressCountry",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, Country",
+"documentation": "ISO 3166-1 alpha-2 country code."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityAddressPostalZipCode": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityAddressPostalZipCode",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, Postal Zip Code",
+"documentation": "Code for the postal or zip code"
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityAddressStateOrProvince": {
+"xbrltype": "stateOrProvinceItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityAddressStateOrProvince",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Address, State or Province",
+"documentation": "Name of the state or province."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityCentralIndexKey": {
+"xbrltype": "centralIndexKeyItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityCentralIndexKey",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Central Index Key",
+"documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+}
+}
+},
+"auth_ref": [
+"r1"
+]
+},
+"dei_EntityEmergingGrowthCompany": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityEmergingGrowthCompany",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Emerging Growth Company",
+"documentation": "Indicate if registrant meets the emerging growth company criteria."
+}
+}
+},
+"auth_ref": [
+"r1"
+]
+},
+"dei_EntityFileNumber": {
+"xbrltype": "fileNumberItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityFileNumber",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity File Number",
+"documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityIncorporationStateCountryCode": {
+"xbrltype": "edgarStateCountryItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityIncorporationStateCountryCode",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Incorporation, State or Country Code",
+"documentation": "Two-character EDGAR code representing the state or country of incorporation."
+}
+}
+},
+"auth_ref": []
+},
+"dei_EntityRegistrantName": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityRegistrantName",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Registrant Name",
+"documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+}
+}
+},
+"auth_ref": [
+"r1"
+]
+},
+"dei_EntityTaxIdentificationNumber": {
+"xbrltype": "employerIdItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "EntityTaxIdentificationNumber",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Entity Tax Identification Number",
+"documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+}
+}
+},
+"auth_ref": [
+"r1"
+]
+},
+"dei_LocalPhoneNumber": {
+"xbrltype": "normalizedStringItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "LocalPhoneNumber",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Local Phone Number",
+"documentation": "Local phone number for entity."
+}
+}
+},
+"auth_ref": []
+},
+"dei_NoTradingSymbolFlag": {
+"xbrltype": "trueItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "NoTradingSymbolFlag",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "No Trading Symbol Flag",
+"documentation": "Boolean flag that is true only for a security having no trading symbol."
+}
+}
+},
+"auth_ref": []
+},
+"dei_PreCommencementIssuerTenderOffer": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "PreCommencementIssuerTenderOffer",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Pre-commencement Issuer Tender Offer",
+"documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+}
+}
+},
+"auth_ref": [
+"r3"
+]
+},
+"dei_PreCommencementTenderOffer": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "PreCommencementTenderOffer",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Pre-commencement Tender Offer",
+"documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+}
+}
+},
+"auth_ref": [
+"r5"
+]
+},
+"dei_Security12bTitle": {
+"xbrltype": "securityTitleItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "Security12bTitle",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Title of 12(b) Security",
+"documentation": "Title of a 12(b) registered security."
+}
+}
+},
+"auth_ref": [
+"r0"
+]
+},
+"dei_SecurityExchangeName": {
+"xbrltype": "edgarExchangeCodeItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "SecurityExchangeName",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Security Exchange Name",
+"documentation": "Name of the Exchange on which a security is registered."
+}
+}
+},
+"auth_ref": [
+"r2"
+]
+},
+"dei_SolicitingMaterial": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "SolicitingMaterial",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Soliciting Material",
+"documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+}
+}
+},
+"auth_ref": [
+"r4"
+]
+},
+"dei_TradingSymbol": {
+"xbrltype": "tradingSymbolItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "TradingSymbol",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Trading Symbol",
+"documentation": "Trading symbol of an instrument as listed on an exchange."
+}
+}
+},
+"auth_ref": []
+},
+"dei_WrittenCommunications": {
+"xbrltype": "booleanItemType",
+"nsuri": "http://xbrl.sec.gov/dei/2025",
+"localname": "WrittenCommunications",
+"presentation": [
+"http://bridgebio.com/role/DocumentAndEntityInformation"
+],
+"lang": {
+"en-us": {
+"role": {
+"label": "Written Communications",
+"documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+}
+}
+},
+"auth_ref": [
+"r6"
+]
+}
+}
+}
+},
+"std_ref": {
+"r0": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "12",
+"Subsection": "b"
+},
+"r1": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "12",
+"Subsection": "b-2"
+},
+"r2": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "12",
+"Subsection": "d1-1"
+},
+"r3": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "13e",
+"Subsection": "4c"
+},
+"r4": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "14a",
+"Subsection": "12"
+},
+"r5": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Exchange Act",
+"Number": "240",
+"Section": "14d",
+"Subsection": "2b"
+},
+"r6": {
+"role": "http://www.xbrl.org/2003/role/presentationRef",
+"Publisher": "SEC",
+"Name": "Securities Act",
+"Number": "230",
+"Section": "425"
+}
+}
+}
+
+ZIP
+14
+0001140361-26-011991-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001140361-26-011991-xbrl.zip
+M4$L#!!0 ( -&+?ES5T0GL0P, #P/ 1 8F)I;RTR,#(V,#,S,"YX
+MD";Y]P-L
+M'.>S<;R]83CGW,/E7D*N;I8%!2]82,+9Q(N#R .8(9X1-IUX<^E#B0CQ;J[?
+MOKEZY_N?,,,"*IR!= 4^"@XS0;(I!E^?GW)",1AGSFD)" 9/CI6QT%HM%L$@"+J9:)(K#GY\?O]G(#IOJ&*]&
+MK:"4L-\;PLM44">=A&8YA1(W+G;PM9%X-!J%=K6!:B%R1)HPJ2!#N(W/5$-H
+M@X=AM>B@&2:;.(E1,.4OH5XP.QPV0"5\M2JQW.]#+X=FV7 N_"CVD]@Q=6EL
+M$G,H4TMR*QN!I%"'\,U21="E H I%L@85U#INK13]619$I;S>D;/F8R.W2D\
+MXQS8'(^-X,23I"BI2:"=FPF<3SQS]KX[Y5^EP(%VZ"""4WSD2,QRJ"E25Z-U
+M]K@.["2@0#LJ.S6@17B)A2)ZU^L2"O_9MBA,NVY+4S#]O_LQ.M_U#H 9_'A^
+M.-""ULXM1W/3]!]8=L<44:L'?>RBL%GW ,DFWE%$$]G%SG!.&+'5%.D[(8J
+M#YQ">PA9!BHYT-*["K=%MO7G$F=/[-J.MRND9M>08TP$*9K3,XAK9X=Y]:P[
+M!==5X59;51.;S6=:3Q<=%PJPG6N[W?E3",NZ\:O+_I$C*U.AI;N0]G)"3)5T
+M,Z:8A\%29JZ.CGHX<,L=]; --X,>41&?,R5672*W*>ZCCX.Y$/K'NYN%-J?Y
+MZF$"+]&LBX$&;T<] C-(D.P2>4VHACUB2X*Z1'9P,^@6=?OR'E6W)<-3\RK;
+M'WZ;1H788/E&QX\'?GS9WX?J[$&=$W\SG:H4G=+O\';4[P#:[[13-FXIYLMW
+M/+/]Q&P_B<]V<1$*\XM]H@&+-F'UF^Z]'T?=LK[SYCPQJB.8P*?G^]"SLL>O
+MBY7IVW;ULTC[0\K'RY)"!A47JWO]?7H+M%7NUB+G=$3[/=TI1PY?Y<>\QCNE
+MYM [_NSH?8]G[Y^60V9>8]ION39B'T>5V/5?4$L#!!0 ( -&+?ERW1O-,
+M>@@ #!6 5 8F)I;RTR,#(V,#,S,%]L86(N>&ULS9QM;]LV$,??#]AW
+MX+PW&U#;M;P62-"XR-*T")8F09)B3Q@&66(<8;(84'+C?/N1DFB;U)%B2C'6
+MF\;B_7E'WOTHR72E=^_7RQ1]Q31/2'8TF(Q>#Q#.(A(GV>)HL,J'81XER>#]
+M[/OOWOTP''["&:9A@6,T?T*_4A+&-(D7&%U=7]XE*4;!V]%T%(S>3'\)=LS#
+M(>^>)ME_A_R?>9ACQ,)F^>$Z3XX&]T7Q<#@>/SX^CAZG(T(7X^#UZ\GXC\_G
+M-]$]7H;#),N+,(OP #']85XVGI,H+,HQ[W1?SVDJ'$S'FUA:!3\:"MF0-PTG
+MP7 Z&:WS>% /D9LM@@CYNJ&OYS0Y.#@8E]:-E#E*#*XWTV;90ZC*'R4IOL9W
+MB/_]?I+AX7> L
+MQK&(S'T;SIUEZ/)D6WK>^":1Y#7E5Q%"F]/)F=?28XZCT8)\'<3?>CK0YNV,JUR*D
+MD1@*^]@R_%HQC@B[0#X40VDF=Y0L=;DGAI35&2A]'2))@@J"@'YC[W1](-%J
+MB;/BEGE42@^9ZBG()@>TH!@N9"G^=&!)LIDX0OQPOU"!.2?Z7,E([2H$4<92
+M>0#J=YH4[%1Z0I;+5994-]&Y4GFCIIZ21N/ FC&J"W0ZQSKZ8/VL;D9R^WYY
+M-%>*6"16)A24"E3M2NZ!V1N2)E%2L.^DG]E- TW"5,%'+ZBG!PD<4-7'<^$4
+M]*J#%!#/MFU(-.X73T-=2%LF93";.D&E16D]('E%,5\'F$V]/'OSFU-Z>7>'
+MJ8)+N[">J$GH@&I[?!=DC=YUZ!HZS9AM&.T8465%I7F_,%M4DMCF7(9;KQ>0
+M/P,._["?Y?D*4VODM7(8?$#>'?[:L72X"* 8EDNAV;6Y("I-?]>%OMSPZFC#
+M UXCC5Z:E=).DX?US"*"^.J0QW0LFZV.43\
+M>+^12F?^*0?F0MZC>X%I6R3=!0=;!CH(G<
+MQ>9!TW7;/H+:8[NE4%D0-Z'2UH_]!5W=B%62X5T'1:QN0+1!X)WE:@>[G69
+M!_(LZ3HC&HC>'=.R"=_\N/2!
+M?4?5T UJ%+(530=4@U&[(%IUW$:SK-^27"/,#(A;^D$Q7"MBD5J87DFJDFLN
+MN@=J3S,VRJ=KO$CX#QU9<1$N581,DGJ*L,0!65-,%V(U?G7 @O)9U8JVS8BW
+M[Y=68Y%(>U)E5B&E0-6JUMY(/6&+A(;I&?N2M_X-/X&H:C02JPV-,ZR:J.ZT
+M-AV;<57U@M>Z'94&Q"Q](%97*V*16HA912I#VU9T;]1^3%)\L5K.&_MG.K/$
+MZJ[9&=-F+'=")9]F.'>D@DO>A*JV/A )%(.8$PAQN%7)"!IJZ8V^VW!]%C/T
+MD[OZESP#BBU:B4NMUAG2EE&X$ZL/8,97UT^PS.Q(%O2([+;:DF>4 &)>TT5>
+M +;0>%L-9UE$Z .A9?";@MUGGY 5NRX\G9 8OO6UZB&MC)8>SNO#:D3NJZ0M
+MC'FMF'N+%2.I7J%2APA%M19Q<1\6CQT$Y-E5@A:2L:.\G)Y'FK=%=;K$=)%D
+MBT^4/!;W)V3Y$&;PS;E1*2TBC=)Y\1A'X+YH=.[-BP7N)1:)L*+*C&I[']:%
+MN9[$.O'0.@ [R/S;0>*-^^,X9KSE]9_S),,3D'J#3F(>U#D3;XCNSCOLW$P[
+MU$>P7C>^$A\0-Z/+K!=7 5,=B67*(=(!NM%!^^TCZ27E@2[E:\!;*@S;*FV"\(.532\JGEI1/O5 ^]4GY]!LHG[91
+MSHK4T[/YU)9SM>0MG$_;.&^BX9OS$_;QDMZ2Q\Q$>5,%,;ZKZHKP9N3.^)9<
+M6]&]TZ/!-K?Q;ZS27E'R-?,$7AEZA+):)?#$#582/&O76ZG@
+M*5M3;-^H7I&\"-._D@?MKKM)"&&K"+N"%XS?&<*J=RN0Y4X-G"LS8O;>;)X;
+M:PG!;:HZA+BD!T$WX^'C90$\-L4A #ADJB% #$<'I1@.Q/^YZ 7=FL
+MO#7FAST@$4PZT2=+IFU7L7E#@*E6'HCB+T)*K^Y)!O]?$IVYGDC3[$"7+I8+
+M88!/'64-Z:QL0653+WYQUQ:#F!,H4Z>J!'FMM?3Q9#:.5I01/PGFMWR0"A4Z
+M1.S0)?IK_C(1@ST]DZRI"S%F4$515
+MFV>QVPKJ <$+78\5O
+MVR59DL]$*Q+-/7A0PU@DTIY4^.J\JU2OT%"M=W-PSC[QM[;634GUEM/9_U!+
+M P04 " #1BWY<.,K65-T% #S/@ %0 &)B:6\M,C R-C S,S!?<')E
+M+GAM;-5;77/B-A1][TS_@TN?P<%LTI()NY-F-SN99A,FI-./EXZP!6AJ2XQL
+M$OCWE8Q$L"S))A\[-R\)^!Y=G:MS;.&+.?NTSM+@ ?.<,#KJ]'M'G0#3F"6$
+MSD>=5=Y%>4Q(Y]/''W\X^ZG;_8HIYJC 23#=!+]QAA).DCD.QG>W,Y+B(#KI
+M#7I1[WCP(=H+=[MR>$KH?Z?RSQ3E.!#3TOQTG9-19U$4R],P?'Q\[#T.>HS/
+MP^CHJ!_^]>UZ$B]PAKJ$Y@6B,>X$ G^:EP>O68R*DO/>\/64ISK!(-S-Y43(
+M=UT-Z\I#W7[4'?1[ZSSI*(HRW&(2#5_7\*JF_G X#,OH#BH2$4_J7=EB]8)@
+MNWZL0.GK\"SSU;G6IGDYZ9O76EH?Y9O7
+M7&5QDN/OL,I[T[R<]!ASPI(O-'E[XN94KT5^4B#^':Q2G^SE!;P]ZP.H3LN]
+M9$I8+V;9-O=G%J\R3(MS*G0K2+&YHC/&LW)C:*8]%;D$K>CD:# X*DGY\^V3
+M7'*<"V 9N18'*I/A=8%I@A,]G>3Z[#+*2?6T*8LK,Z5R%V2\+DRZ..R8/'FWPLFMO_S:5YP%!-I"BF8U5&6YK^(YKS)&/-:9Q,N*A/6M6B'")>(B7S=>D'2G_HRS
+MS+62S$M]G]YI4,D0%"RHCF0\P7S4.9*?X,3 &>9WB7I=/\@=J'U)\ABE?V/$+\61W*&W V4H7D/!U=Q?4$O5:TF4[H-W
+MH_O6M\W*6W!6[2LXZ.J[BSI(_TH:Y8 /@!VP_2AZ25)\L\JFF!O"N\)J:>IA
+M>#(WE-"@;GVT$O48O*AW>$YD(;2X09FY=_L@%7%-"%2!O:6T$MG,H(0^ 2_T
+MA2B-H_1*W(VN?\<;J](.3$7J&@:JUOYB6HE=2Z'4_@6\VE%G?1)2)
+M+]A*%+.Y8(G]+&\UHN*$AA%0?7%(H:U>97\)ZY1^NK1%1+9F3[A8IG
+MLV_ 5GSBQ$)U2+OB6GG#F4JY8@C>%>=)(@K-U;]K0G'?Z@@/KN(&*PZJ$YJ+
+M:N4":QK=WX'@]6< LZID6B)XL +G'YZ(_:&F!04L+#-Z3
+M!J<\ =91-_GT4 O[1 SU#)I1\#O!&H[;V]SO->!*L1Z
+M$= 0X,K;2SGH]-<9M-+PVX.*^9CE!4K_(4MG^\ 'M*EN (%K[ROK$ <8>;0/
+M('NCM:J0
+M>V[W',GG[2>;;,I20U)K3"V&$8,GIH]\@Y+&4/VD#.2^V0VKD+8\Y.9!J%6Q
+M(N )VUQ(@[S6!%IDR)TQ?87YLHX7B,ZQY0MT'\2X$E/Q>*"94M$[3>_7F3E;LB!A"=_^\):W0\Y$FDS0&Z*_2D\
+M7& J.&T]:U/CN);?^U=HF=W;=!5._)!?@>86
+M!.C)#@T4R=2=VB^W9$LFKG;LC.Q =?OLP%1YO$1KZ>SBE5LK&9>6(*&:8)U
+MS;ZOLSE$62'EV10X(*DG >$A .OFM-7QJ@8U03WH(?OK^/I\!IXMAY^!-C-.
+MXC1(^(!D,([B;:JBZHJF5QI14N;7&H+[QDUR>V\[FJFHCF)H93NC5+DA9+C8
+MR:*@UE'*YLA7@XJ2.@59L()X+*@#3N@*P FM 7I>F$PA/1[2&P9/&GXR$&"6:AAJ ;I:
+MNH6:V3G\A-!!GQ$J+N R"[.('1XT\]_\V7\I"CH/?1:GC*(L::%CGA J7RH!
+MY-])XH\&+,Z0SQG) '"4@EJK@**KZ\L@C!C2K8;1T!NF@?59]78RG/#PII\A
+M0,Y$"A+=J-96E *; Z% Y:B"W:'KI,!B3_O(UF>
+MAO]A+:2IPVP?B385$H4W<0M%+( G?A(EO(5^4^7?/O*(_^.&@Q11I2P*Y-\^
+MD/J AK "Z,U#'\5D(*JRL'4$ T#%()Q%Y&9'ONF,^-F_/=4BIDH#E5D,4^H3RR0F
+M=JE+J>4%@5E0;9Q="T;U2P[*DADOY7KJZP[HME80CAD%ND5@2 [EST&SAM)J
+M#$]C8*Q)&U#D).K$E(W_8),*ICYS;-UT+,!C3
+M0Q@&S<:&XV@+6#7K-.0L8$)WL?3P0)BZ5BJ--I.EK];EXBY UI6R_,4[I
+M3E$L5-C7G30<#",&3":;K[8I;]-DQ.6=-.6M GW9XZ7H%W!,$JJ\"ZFX#T+&
+MD<21+;4M[[/5SXL']5;'P)U$EK>@0'GV0F(\*% 2E$-Q5#+>K.R*9IT
+M!6A94MZ7+VG6Z% 2;4JE9H7CFR NA= 4\B%LI])G0D^T4!B'64BB_5R'"=B#
+M=$CBFG!7A'?G$!TT!4#9<%DK5RM]7E;T$@ZO+V00Y7>*EV19,H"FAF.4)E%(
+MD1>!J$_+LV380GB^L$05$!C/=$6A$.[1%35% XHW8WP?#0B_"6-%Z)T6(J,L
+MF3[B^5OD,Z'M9(>F7I<7>^BDT6Z 502]O1YV-?OT=-S4!=PP
+MV#DA3!YO3AFLCM%,EDH!T 7_WX4TZXLF_V<%7HL"42]?1OQ26@>,AJ-!(;2/
+M$Y57&.%%*A8CC![0654JHT4%]BK(.ZN0E[KY\.SR^CM::?%+OS#WSJ:&WF6F
+MYV"=$.9K&%O$U7!@>)J&;8MJ-'#7,/2.\L>BA:\2IDZ:YS/]HONW.#ZU@7G=
+M85K)8S/TWH]@+B'>0^:]KI#>0E!6C@#8F^O3BQZZ/KVZO.ZMQNJA3FU';ZY&
+M/!T1"/6R!'69+[(72#-0PI%F[M(O* E0UF>B:,3!18-7G$)$3&*(XH[\3!1K
+MKH'?.Q4>TMS"^Q5]O6;#A&=HM[QG!/Q?EF:(W8IPFN1\1V%UI4!U.@+%!1*)LH$L%8@
+M4#W\3KC?1P804M1=U+];)7;O4?&]0[VGK_2T'\@#7+.;,!5IT.P"2BH,;1NF
+MY>HZ,4T38QN"65!Q@\K3XKB@XR6?2E0,PS [);Q
+M+/1)5**0)I9IF8S
+MGUJ^AZGCNO#?-K%ET4#%IK:&-JN:9S&U)!)Q&1ORY%;@).SR"8O('>&+F=B:
+MN-68LOXHH^L-&W[WPW861@S*/,8K8\1H8-J844%N[ 7$I:[#+'"A5$(]EZP3
+MCZIB(LMQ3??%QV!MT5FJ^YY LAX9=XHLLB^Y?8%^@4]MS;==YJL4Z[[K6-@U
+M*6.NH9) \]5UXGFL:(ZI.IKY, 'G:?5)/N+SCS:NB]!=/P3G6"A")JS''2?#
+M-^3T7:EU1.1U"1$71_\+ 5=*PSPD ]^AIJ&^_.QRO]M.!H,P%:LKD!!RE'/I
+M\_K]#LS4;N>ZBTX'PRB9 _4!15=)(UU"+ @0,7%)W@JG)8/UV=SK@]VMY^G
+M'C (1Y1REJ;%SWD8,ZUB#"PML%5#LU5JJIAH'O&P27W*=,NT55VUUS &AF:I
+MZ$ID1C@ZX0MQV][J9,DJ!/4*@AK8IT G.B"D8=_P71OTN>'I&F:F8_O&&@AV
+M1V (D&ZJ*W+03](V^OJ,\8_?@$+[:[?\&)Y;WO3S3.S/P_-MN+SDO>0NKB8L
+M7(T:CFY0U7&Q1EQ/,[%I^SJAIF';;!WWYXI$"3J*LN2IO"Y]@4M^!5%!*)?@
+MS=C=-%T5)% +7(+!27,QT1V7N:JOT^
+MXB!=X9!$Z'3,_%$6WC)T&8"_Q=)G>9K;H?O?C,+ Y4BP^58XJZ^1/=VY/Z__
+M)"K.@#!="<(NY$),<"Y];(-^9CXFC'F>Y7O4=]Q ]2W57<<9,%Q-<6V\Q+DL
+M\N4/3/-L';@FD=ENPVCU+.% ;7<@)&(Z*V\($[*$P$),N
+M\0VCJ"L<+71.TJR8YMVB:9@M'.^GS,>^\@S/JZ^M>])0;?3][3[S?\@5&V0X
+MY,F0AR*GZ"5CY+$HN1/\+@J%&"!'^0,%822,1YBB4"RUIW)3 $K#P2C*2,R2
+M41I-4$JR, TFLF91(?$ >5*F)D4!GTUMPK""C)%X4I1-625((D!"U!?3':%(
+M[J6M#2F^]7)2&TE$/3W;A/R(I&F^9^ '_1N*[I4.<*9"DE%\?Y43[V4P9BY["@*-"E2E(TK*S3
+MNAX!IV/=+ 1M;GV66):UJ]FH?7:-=$-M .!6^.&_HH!6I6@YCVTJ_%@EH-T$
+M/#)@C/CF.U@", =1-9?D,]>RB1?HFH7!"W<-S7!MWZ:&QCSLDP_IG)?.&3G!
+MY\CIN2B:&B:*IE>DL[9D<5Z3%0Z+7
+MXT2P]Q*"O*E"F S@:O=YLY[8:NC+EA:^6T:^*+9M2#YFI4D!K7C7#^')3'6^
+M_,3Z"AVQ]DKA^U($N3&8:+HG);>ZVIUXC#AJX)MZ@!DACAVXNAN0P',M+_#6
+M.&SD4/A)0+%NEO@_]M"0<'1+HA%#_ZTV5%5#0W$,1G^MQ>Z;41C/)%8AOKF\
+MU!*=.K$M1@(6,.QAR]&QHSG4-G1B,0>OLPKM^+ASN4$JK)+&MULLL 8/EG[;
+MW!XRG7HJ<2Q?]0P'G&@-.)$XS**VBG7;#I[B1 MQ+C=<],"WN2 I)7^C;U$"
+MKC6X/Q$X0.@[X3]8]E)+:U[)G=SH!%,GIL(19\B;(%].-@V 1J 0F5RT/C<3
+M%*:(Q B\>#$]=X-N>'*7]84_/Q2S0R1%E 5AG&^ R[/:JKEDR_%LI[&!=L6"
+M&7M?K(DPW'V9X"[KA.F4M,!%0[&33LSYYC&"[BGZFKN9Y]\APH99=>A3V7KC
+M92?M-SIPIRL&X8'5:V6U;[)6.Z]4/8Y* R%4&26NJV$3,T?5*%-5AUBZBJF_
+MQEZ;)X>W[X;TG> >*=@#WE\J4N'"O&H?!$;J)1"8.)%AVBAE$@I0+V9OQ4&$
+MH0S=\E.:!'GENZ*)>/E="*^&UTXE)0;4 8*SVU <"0?B2&)?I+6)+P\0%)7$
+M.9"4<)KF\[9T5:QH[))IK%@5K,:2M3GWF8GID#]B _1&1^QQZ*)G'.RR4;0_
+MK=AB?C_RR]!%:Q^BM7!.5O40K843MM[F$*W50^%'C' 9H?2GE7/,I6]8/)D>
+M&";)7&8SCZ^OSJ[(#3OFC/P0R]VJBV(J[Q@"C.()((4$F2 DB>[()%W14LT5
+MJXQ"CDM.<+6VP*:2V2B>R?+::IPGG8A0IBEL6DG8P/D
+M-%2M\4X3O4M[E6]]/!6GJ:R3,]H*EWJZ=.WQ"OLR1O5#6/;0\K,NP)-.1V!V
+M"5A@L7:=@Q] A.T7 3M%PE/5U?U9W>[(&X09O/[D2%CH,_@1?L#Q\96"-4=>
+M"T\>;/F(1"DZAZO2.3C_]OU$[S2OW89L5=N?$O<(>CPL%W7-(2(\_2PCX+]0
+MX=>?CONA%V;(=1N:0$"ZS6UYO'"YO%+D4:;KT,"_R!>AE7M7*-AJUMO%M/C\W%&3ZIS\.A
+MR(N\^.30X\;TD1L.'TG:E]AOOH4\>T!0?J \"\3G3UQ#=__-QJZK:(U^-M@Y
+M%'[O09,\:V/U]C'UW"M>W@&_DC'&]2L$.T6LLWQ:_D. ?SH!UE3\<\EF.P%<
+MD,@B K,#88@O=[.?D(SD!RCMLH''J,C="\Z'P%H$\1WY"2,D/E^":'$R[;8M
+MC?O(T6XJ1_MVRXLZWRZ.>G]>W_?=B*V;MJL>C9W/Q/T]"GD1I*\WD[RW; J/
+MCJ()\LE(?H%)Y,7R8Z/%:SR&4N@(%"0Q$B;-8WT2!2('5MU'*=>Y%H B2S:*
+MH:YL%L+!?L*A%W13<],?"S6G2M]\N5,]7N[ D$><>??(EDUUJPS@JD.B7]AW
+M^V"*)S/%2[B:CQB.U\@"D(RUGN-G/H8'?L8 '/;#HC9,/4_YK+&NQXKBE+?SD3>7;G/6O=#[RVY[E
+MQT.;XGN_\ON_V2 Z_']02P,$% @ T8M^7 P8*VAR$@ >$0 !4 !E
+M9C(P,#8Y,S(Y7V5X.3DM,2YH=&WM7&U3VTBV_GZK]C_T)36S4&4[0-XFD$DM
+M$$A1"X$BS,SNQY;4MGN0U$I+LN/\^ONW=34X/1R^G3Y^4Y
+M;VU>3:LL??V7_Q'BU53)A#_A:D249D]<6B-
+M3*Q.)LH]P?_>F+C.5%Z)V"I9X%9<7EV,=:K$[O/1D]'NZ-F3I[O!
+M^T>F6%@]F59BY^7+9V(H=K=WGX>O#X>.W\>>X5>1218BFL0F-?;GC4=C_KXL$1#9>@S^ZZ!Y-]*P1XM2*W)13
+MF> M_V%#\&H_;T"TE;(MYU-%8M@33XN/*SR(2,8W$VOJ/!DNWPHWX$CNBTS:
+MBO*M)>L6\1=BXQ-%&CE)E=^GSWVW2\-@^%"3&:--/G"W.\D,FD"
+MLI\1W?''J8YT)5Z^'.V\BNSKSCB\3/'S-I96J?WX:.?Y]O[2&WUK9//(1OZH3;B?1UEN@*)-P?P.'&"'V-CQ>'AY?#ISD_\^30'2SJI
+M95K".V?D:W-=3<79V_,WNZ>/KU[>1UC]G7^)WIV'W&?;NVZENU3PA?3HY3VA
+M*[ 2@^30Z^J;2'<&\^VTUK-Y9++"JBE@5,^4*$G#9:E-+G0>IW4"$IIL26?B
+MXY?3J+-[8&@_[; #:\G0ZW],GH_$JF$>*?!J@DI
+M XI0'%,?*VFA-WQ\\>\G_].QEZ""M3=P"'=AL1>&+%]#N,#,2,4F4WQ]K&WI
+M[-;DV#DNP5T6C*(Z0-%T'8KR:YE<"*O@O25[5D.RDWS#4^!U1%WFO$HFS)@I
+M?F^"?C!([@6R6ZSU\N#L0AR<75\,Q!$X'H\&XEQ:&.H3/,')WN;;LXO#8_'N
+M^+?WOYU>'6\AY1,/@L?K&>H<%(!K,SE 3(U'8O.=+!/Y 6GNX>G%EM@DC-W=
+MWF^?YM]W]@7T2Y;@;Q.Z0]W^YM9 2!%I4S#A6-4,I."#'P*_P R'(XF:J=04
+M9'B92N"P.7@GVYFH7.$M@O1$$UB6 YAU(A>AO\L\1RH8@]27R&GC-3$<1!Z8
+M)6<9$-4;6T_$05' SQQB;R+WV")'\H#&3"%XI(W;/0" ,4VBW[D-L;3>)\-]
+M"]S(HN%$VP2Q+*N!P:FT(ED@0$+H\/%% ;1C!]YL?7EKU +>=XM[E(>P05U/
+MMA2(5H.&G\II4[$
+MT=125@'NW^L:0##5:BR./ZH8'H*LZ&*,) /;@15TWODN)'L?J]MXW2A,U45OXOW>G.@A8MIZM/+I^(!EVN3H328,
+M)9$\R7 =/ [@N'$,,X &.4TFXTGA.&I8%BI&-JV2$-(*9/Z4&Y,?EHI0GWY3
+M>5(@SX1=>JS>V86N!?LKT[Q.#)VF!8V7.=?
+M%B,^7R>]JE_#1-2KQW7K7G^$M,5!XN(>I J;TXP/S;;ZQ1#I@PL@5YM\90T4
+MZ$[,L4'A\STX%V7,FE"6G,>)7[H\D/.6<_C746,'M,3[6)-_ V^IV7IUU=BDJ9F3R@A7VWKNEA)K)%"R=$C0%2US4Z<)*79-A=)$[9MK4)2LM
+M5IKRM@N+&B+G]'P@3B04=VUE?#-@8[FB'. 2HI6(/K%XXX)YB#EO%+5N&$]0
+M5B"-:A,">C\@'C[9/>C4@4?.V]KDP"4SF\?G!UNC+RP[?B/S[)@'?'=K$1_]
+MXCTT"3(5ETV).J<8FBO7S@B,G=Y^YPJ4<.L-"2K>X6;(CB>4MS#Y2ZN-I23L
+M"A)7\]%#=&..NKC#[KBLG'7RY4:1[N*.+L/V1@M&M(4/-17-WD.7-R!^-74,
+M%Q[UBZ2>WR*2Y8ES3>2?FK"J35[*JD[(;X,0&,IX%79((179SLZN6 #M^%6X
+M/ZNS>?7\\>XO] OM-,=#8EQ7M55_7!46I[(L?]XXO+H\N00SAQ1;#_"_=K02
+MIV"#VA35M!V$(&5J7-A?P>W*9.VBP1SBMD7:!0I<<3%]*,<5C51D.I>+LD?F
+MMG&0I^&&,<.Y3JKIGMCF*= JWSP?J7#RBW[O7^UBD 4/:BDFZB$VY\&,!
+M HT4,6CH.C=T$YBR^>.CET^?[;]YRVVT9C5XG8DU,\#X6E8RTJG^Q*TSZ!8J
+MCE6:HA!J'Y*JC#<^NJVFC1I/O<96SM8
+M$DU2<^.(,]AXJM-D:HR7<]OJ@;X0/!IS03A0!2(*B[$;]&SN/ON!U%9R+.QM
+M?D;QO7EL9YL?:W9N6MEO/L$=+I 2E'K$!A3:?X0Z&%W_R5X'!KT]
+M>OH#_220XL41AAD U.\J]G%8N@^;9[\>GVPM29JH&DJ,[Y<=K!U#ZX)W;&I;0@RN!&YVGQGR#F0($14B
+MO2 ]<'3&5GVH^<2&M[W Z,3F\U9!BF1'@NT,-U$QMQE ^TF?=JAP*#%WE1!U
+M/F*87?DGU(3?85AJ,[L_+]1TR:7Z"$\M70?9841E95Y2!2BYZ?*YN<1(G.LT
+M91B!#13*% "PN;%I@L1$]4K4U9KTT4W@\:CM@A,_*QJXDCJ?X@0(6?+E6JLYX9.@.&A'F3V2!MZHY
+M=65E,I-YW(VUFTV4U.6)'7P'W=J^N)!J*7BGG;GBES@-V1N)"VXFTSD2"^O]
+M1(G_M(Z&(#HL"W,#\9M$I81YKFKBCC/V7BAZ%($LU@3-@_Y8* %W,I4. D;B
+M !E!CF"!0,$>G144TZAMK&16MBWL(,?OS9T0Y2A,"<\E,4@(C">5:Y@W6#0(
+MN@$>W5NY0Q.%8X@J#:KC7-N:AQI8.3\D6G[DB;$9ALP)D[A-SA<6.6;U_F3.P?<(_MXC$7<1YGZFV _]7?#_HAQ@?=[P;]="Y:%NP3U"
+M5*BNR@4AJ7,.P2SGU,NY;.4\"F3N"MV&2BC/AB!UX/PYO8"&F^%2GX_FR""
+MN,.'LB)?9?L4@G*H][X^V7UQT(R@<0DE&H?.
+M@YB/2>R\?/)DP!5L1F58(C97G_,9?$MOYW@-O>./R(=R)#Z.<+A]K/%T=8WP
+MA:VF!J:-UF7-^97O_6O7:. 9>,GS-62%24GCD"D1]4/Y8-32'A;PMR*5TJA^
+MY3KI5^?UZ@U4M#I;1XE&$-#)\N6I*5:?]:W2Y5+18I,>>6B-;^O6\NJ
+MC&QR^7*IU,WJQ2F-AY:OSI%G-]>6\[V9M-JGO&;L1.RD30]US?S/V_NJ
+M%8?[7S9*GEC=O97&F;U(7-\Z*U*RV> Q;GEQ(\@=A J.>?&Y6V=67N[(?:F2
+M;B;2W5S,NB8]I$/MN& \U\[!G)_"=CT"R."9=NX83LK"[;=MP_W[\N@G >T<
+MIEV_?ZSACQ@,[-\]];G]^.;J<+0_'NT?W0PGH7<^%&Z^/P)RK3&9#5INFK8M3?V\
+M)4+1BAHX"(($%#V#YW-0:PT)'FFI?B42\!AN9:Q[SJ&B@Q5?0?9LD,M3.KRA
+M)O#O,(!$S?%J9YQMS=B'*;&
+M8CV9]FXWL<8%=3IK<[]]4$3STG.H1L!;3R:JK!JP-'=C$DD F7=ILV/SW!-;'5,4T@A4)>5AV-R!'= +D']75OR$"K!
+M84\Q=P&;,SB4$B5Z/(;)4<2USL?\:)-VFJ@RMCIRPF#?NV/K>=*Q$AP^E"*O
+ML\B="+2Z1* 4=-[5$K,<');4'^A^X#$>*[FS>Y2CI4 X=UQNX,$O]R* RRA(E&,E&M?\'% 4A"-4C2=6G*G!OG\('=NG+VXHR#T5+,FPQ24
+M1M)?6F'@1Z8A\HR!)OD$MYK8P4)XW!]^ES(ES\+"!?9+[64&]F!%3YB/D;DN
+M>/\+#&0(KOM]RP$/_\V' .P($_D6WM#N=!8UV?T9WQ64L":I8^H^0W8)YVSA
+MVIS!W,X B5Y.K%)M;W')#9:7"XDTAT]"$*)YC6\,]<8A#,DJ%O<*EX694T'775S+)2MCL_YTEE.)P::E\6.F09W,QE;0T<#
+M3493/E"?*%,8ZJ@1%]RG+P?]#KSW ,')$7_H6J]LYW#5JFG*P4]_N;&$ TVX
+M/BVM5&D;2M[*3Q)UD]4%>Q>!%1\!XF-2/!0:!U_X:==D(P,.N@<'!-(1?3V4
+M':%0-L#3$*JX\I@KH )_P8,PA3% T$0$9L6G(%VTQ&5Q GD9VRO?2I\RWJ+1
+MS!!/W'P5!VYX=*4*$"8.3R@5V-D>_KW=_?+KSCJ]673.PX?%@OR57F^STR,Z
+MLX"=%WX$-U8YDI8Y& ZOM654,[#DS,_
+M@NU.62OW>;F>'[2E-)SD=TY/C/!1P._+94]A9.#8&%,9%4K!C1.60AFCV<-$
+MLA&I6A65RP8^U-I72M)]M8+REE3.>]\.HY#%B"9,A'2Q;8+7!4NDJ'$UILS'
+MY:>W+$QIE&*#Y*&VVQJ)<\D,>IUT'P0<R^2!'>Y>_5/D?.O3K=$W'
+MZ"0=!*Y@@7M_XO2OCB(ISI%%VAOD*-T7,'[5,149JN06SH/T(F.WV[_UQRT/
+M07GS^;/MK>&+GUX.J3OR7R/S1G::HXI!)/P.[.QHJG.J$]Y/ZYL4AO9>Y:A?
+MEZQL0!D%YV&Q.$'F#!1_$//0]F_K1GP/;R!?_E[W.?ATMPA[?U#B*_Z*Q#W'
+M* _Z5R1>/::_T<$?_-\;^3]02P$"% ,4 " #1BWY&UL4$L! A0#% @ T8M^7#C*UE3=!0 \SX !4
+M ( !'PP &)B:6\M,C R-C S,S!?<')E+GAM;%!+ 0(4 Q0 (
+M -&+?ES[O-2PN1$ ()] 1 " 2\2 !E9C(P,#8Y,S(Y
+M7SAK+FAT;5!+ 0(4 Q0 ( -&+?EP,&"MH
+
+XML
+15
+ef20069329_8k_htm.xml
+IDEA: XBRL DOCUMENT
+
+0001743881
+
+2026-03-30
+2026-03-30
+
+false
+0001743881
+8-K
+2026-03-30
+BridgeBio Pharma, Inc.
+DE
+001-38959
+84-1850815
+3160 Porter Dr.
+Suite 250
+Palo Alto
+CA
+94304
+650
+391-9740
+false
+false
+false
+false
+Common Stock, par value $0.001 per share
+BBIO
+NASDAQ
+false

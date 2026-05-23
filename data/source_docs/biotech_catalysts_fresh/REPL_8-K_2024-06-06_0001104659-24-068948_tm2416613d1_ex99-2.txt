@@ -1,0 +1,480 @@
+EX-99.2
+3
+tm2416613d1_ex99-2.htm
+EXHIBIT 99.2
+
+Exhibit 99.2
+
+IGNYTE Investor Event (6/6/24) 1
+Primary Analysis of the IGNYTE
+Registrational Cohort in Anti-PD1
+Failed Melanoma
+June 6, 2024
+
+IGNYTE Investor Event (6/6/24) 2
+Safe Harbor
+Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements within the
+meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended,
+including statements regarding the advancement, timing and sufficiency of our clinical trials, patient enrollments in our existing and
+planned clinical trials and the timing thereof, the results of our clinical trials, the timing and release of our clinical data, statements
+regarding our expectations about our cash runway, our goals to develop and commercialize our product candidates, our expectations
+regarding the size of the patient populations for our product candidates if approved for commercial use and other statements identified
+by words such as “could,” “expects,” “intends,” “may,” “plans,” “potential,” “should,” “will,” “would,” or similar expressions and the
+negatives of those terms. Forward-looking statements are not promises or guarantees of future performance, and are subject to a
+variety of risks and uncertainties, many of which are beyond our control, and which could cause actual results to differ materially from
+those contemplated in such forward-looking statements. These factors include risks related to our limited operating history, our ability
+to generate positive clinical trial results for our product candidates, the costs and timing of operating our in-house manufacturing
+facility, the timing and scope of regulatory approvals, changes in laws and regulations to which we are subject, competitive pressures,
+our ability to identify additional product candidates, political and global macro factors including the impact of global pandemics and
+related public health issues, the ongoing military conflicts between Russia-Ukraine and Israel-Hamas and the impact on the global
+economy and related governmental imposed sanctions, and other risks as may be detailed from time to time in our Annual Reports on
+Form 10-K, Quarterly Reports on Form 10-Q, and other reports we file with the Securities and Exchange Commission. Our actual results
+could differ materially from the results described in or implied by such forward-looking statements. Forward-looking statements speak
+only as of the date hereof, and, except as required by law, we undertake no obligation to update or revise these forward-looking
+statements.
+
+IGNYTE Investor Event (6/6/24) 3
+Today’s Speakers/Q&A Panel
+CAROLINE ROBERT
+Professor
+Head of Dermatology Unit, Institute Gustave Roussy and Co-Director Melanoma Research Unit INSERM, Paris-Sud University.
+MICHAEL WONG
+Professor
+Melanoma Medical Oncology, University of
+Texas MD Anderson Cancer Center
+SUSHIL PATEL
+CEO
+Replimune
+KOSTAS XYNOS
+Chief Medical Officer
+Replimune
+ROBERT COFFIN
+Founder and Chief Scientist
+Replimune
+
+IGNYTE Investor Event (6/6/24) 4
+Today’s Agenda
+• Data Summary
+• ASCO 2024 Recap: IGNYTE 12-month Investigator-assessed Data
+• Topline IGNYTE Primary Analysis by Independent Central Review
+• Progress to BLA
+• Q&A
+
+IGNYTE Investor Event (6/6/24) 5
+Data Summary
+• Strong primary analysis data: ORR of 33.6% (mRECIST 1.1) and 32.9% (RECIST 1.1) by
+independent central review
+• Improvement versus investigator-assessed ORR of 32.1% (mRECIST 1.1)
+• Median DOR >35 months; 100% of responses last >6 months (from baseline)
+• DOR by independent central review consistent with investigator assessment
+• Phase 3 confirmatory study (IGNYTE-3) with first patient expected to be enrolled in
+Q3 2024; BLA submission planned for 2H 2024
+*N=140
+
+IGNYTE Investor Event (6/6/24) 6
+ASCO Recap: Anti-PD1 Failed
+Melanoma Patients from the
+IGNYTE Clinical Trial
+
+IGNYTE Investor Event (6/6/24) 7
+Options are Limited in Melanoma Following
+Progression on Anti-PD1 Therapy
+• Further single agent anti-PD1 for patients having confirmed PD on prior anti-PD1 gives a response
+rate of 6-7%1,2
+• Nivolumab + ipilimumab is a potential option3, but toxicity is high4-5
+• Anti-LAG3 plus anti–PD1 has not demonstrated meaningful efficacy in the anti–PD1 failed setting6
+• For BRAF mutant tumors, BRAF-targeted therapy responses are generally transient7
+• T-VEC + pembrolizumab has limited activity outside of the adjuvant setting, with no responses seen in patients
+with visceral disease8-9
+• TIL therapy for select patients gives response rates of ~30%, but comes with toxicity (nearly all patients have
+grade 4 toxicity)10
+CTLA-4, cytotoxic T-lymphocyte an6gen 4; LAG3, lymphocyte-ac6va6on gene 3; PD-1, programmed cell death protein 1; TIL, tumor infiltra6ng lymphocyte
+1. Mooradian MJ, et al. Oncology. 2019;33(4):141-8. 2. Beaver JA, et al. Lancet Oncol. 2018;19(2):229-39. 3. Na6onal Comprehensive Cancer Network. NCCN Clinical Prac6ce Guidelines in Oncology (NCCN Guidelines®). Melanoma: Cutaneous. Version 2.2024. 4. Pires da Silva I, et al. Lancet Oncol. 2021;22(6):836-47. 5.
+VanderWalde AM, et al. Presented at the American Associa6on of Cancer Research Annual Mee6ng 2022. New Orleans. 6. Ascierto PA, et al. J Clin Oncol. 2023;41(15)2724-35. 7. Dixon-Douglas JR, et al. Curr Oncol Rep. 2022;24(8):1071-9. 8. Gastman B, et al. J Clin Oncol. 2022;40(16_suppl):9518. 9. Hu-Lieskovan S, et
+al. Cancer Res. 2023;83(7_suppl):3275. 10. US Food and Drug Administra6on. BLA clinical review and evalua6on - AMTAGVI. BLA 125773. Updated February 6, 2024. Accessed May 31, 2024].hcps://www.fda.gov/media/176951/download.
+
+IGNYTE Investor Event (6/6/24) 8
+IGNYTE Study Design
+Anti-PD1 Failed Melanoma Cohort
+Key eligibility criteria
+Confirmed progression while on prior anti-PD1 therapyc
+At least 8 weeks of prior anti–PD1, confirmed progression while on anti–
+PD1; anti–PD1 must be the last therapy before clinical trial. Patients on
+prior adjuvant therapy must have progressed while on prior adjuvant
+treatment.
+Primary objectives
+• Safety and tolerability
+• Efficacy as assessed by ORR using modified RECIST 1.1
+criteria
+Secondary objective
+DOR, CR rate, DCR, PFS, by central & investigator review,
+ORR by investigator review, and 1-year and 2-year OS
+Anti–PD1 failed
+melanoma cohort
+(140 pts; 16 pts
+treated in prior
+cohorts: Total=156)
+Screening RP1 RP1+nivolumaba Nivolumab
+28 days 2 weeks
+Cycle 1 Cycles 2–8 Cycle 9 Cycles 10–30b
+2 weeks 2 weeks
+Nivolumab 28 days 2 weeks 2 weeks 2 weeks
+aDosing with nivolumab begins at dose 2 of RP1 (C2D15). bOp?on to reini?ate RP1 for 8 cycles if criteria are met. c. Non-neurological solid tumors CR, complete response; CT, computed tomography; DCR, disease control
+rate; DOR, dura?on of response; ECOG, Eastern Coopera?ve Oncology Group; LD, longest diameter; ORR, objec?ve response rate; OS, overall survival; PD-1, programmed cell death protein 1; PFS, progression-free
+survival; pfu, plaque-forming unit; Q4W, every 4 weeks; RECIST, Response Evalua?on Criteria in Solid Tumors.
+Primary analysis to be conducted when all patients have ≥ 12 months follow up
+
+IGNYTE Investor Event (6/6/24) 9
+Baseline Clinical Characteristics
+A ‘real world’ anti-PD1 failed melanoma population was enrolled
+• Good representation of each of the sub-groups of patients who progress on prior anti-PD1 therapy
+Median follow up
+is 15.4 months (range 0.5-55.5)
+Patients, n (%) All patients
+(N = 156)
+Age (median [range])
+Sex
+Female
+62 (21-91)
+52 (33.3)
+Male 104 (66.7)
+Stage
+IIIb/IIIc/IVM1a 75 (48.1)
+IVM1b/c/d 81 (51.9)
+Prior therapy
+Anti–PD1 only as adjuvant therapy 39 (25.0)
+Anti–PD1 not as adjuvant therapy 117 (75.0)
+Anti–PD1 & anti–CTLA-4 74 (47.4)
+Received BRAF-directed therapy 17 (10.9)
+Patients, n (%) All patients
+(N = 156)
+Other disease characteristics
+Primary resistance to prior anti–PD1a 105 (67.3)
+Secondary resistance to prior anti–PD1b,c 51 (32.7)
+BRAF wt 103 (66.0)
+BRAF mutant 53 (34.0)
+LDH ≤ULN 105 (67.3)
+LDH >ULN 50 (32.1)
+LDH unknown 1 (0.6)
+Data cutoff: March 8th 2024. aPrimary resistance: Progressed within 6 months of star6ng the immediate prior course of an6–PD-1 therapy; bSecondary resistance: Progressed ager 6 months of treatment on the immediate prior course of an6-PD-1 therapy; c
+Includes 2 pt unknown resistance status. CTLA-4, cytotoxic T-lymphocyte an6gen 4; LDH, lactate dehydrogenase; PD-1, programmed cell death protein 1; ULN, upper limit of normal; wt, wild-type.
+
+IGNYTE Investor Event (6/6/24) 10
+Efficacy
+Investigator assessed data with all patients having at least 12 months follow up
+Data cutoff: March 8th 2024. BOR, best overall response; CR, complete response; CTLA-4, cytotoxic T-lymphocyte an6gen 4; PD-1, programmed cell death protein 1; PD, progressive disease; PR, par6al response; ORR, objec6ve response rate; SD, stable disease.
+• 1 in 3 patients achieved an objective response (32.7%)
+• Consistent ORR across subgroups, including:
+o 27% ORR in patients who had prior anti–PD1 & anti–CTLA-4
+o 34% ORR in patients who are primary resistant to their prior anti-PD1 therapy
+All patients enrolled in IGNYTE
+BOR
+n (%)
+All patients
+(n = 156)
+Prior single-agent anti–PD1
+(n = 82)
+Prior anti–
+PD1/CTLA-4
+(n = 74)a
+Stage IIIb-IVM1a
+(n = 75)
+Stage IVM1b-d
+(n = 81)
+1o resistance to
+anti–PD1
+(n = 105)
+2o resistance to
+anti–PD1
+(n = 51)b
+CR 23 (14.7) 18 (22.0) 5 (6.8) 18 (24.0) 5 (6.2) 18 (17.1) 5 (9.8)
+PR 28 (17.9) 13 (15.9) 15 (20.3) 13 (17.3) 15 (18.5) 18 (17.1) 10 (19.6)
+SD 34 (21.8) 18 (22.0) 16 (21.6) 19 (25.3) 15 (18.5) 17 (16.2) 17 (33.3)
+PD 63 (40.4) 31 (37.8) 32 (43.2) 24 (32.0) 39 (48.1) 47 (44.8) 16 (31.4)
+ORR 51 (32.7c) 31 (37.8) 20 (27.0) 31 (41.3) 20 (24.7) 36 (34.3) 15 (29.4)
+aEight pa)ents were treated with sequen)al an)-CTLA-4 and an)-PD1 (ORR for prior combined an)-CTLA-4/an)-PD1 was 25.8%). bIncludes one pa)ent with unknown resistance status. cORR for the 140-pa)ent
+registra)on intended cohort was 32.1%
+
+IGNYTE Investor Event (6/6/24) 11
+Depth of Response
+• Target lesions were
+reduced in >50% of
+patients
+• Responses were seen
+across disease stages,
+including CRs in
+patients with stage
+IVM1b/c disease
+Patients
+Data cutoff: March 8th 2024. The target lesion response is shown for pa6ents with at least one post-baseline assessment. CR, complete response; PD, progressive disease; PR, par6al response; SD, stable disease.
+Best overall response Best overall response Best overall response Best overall response PDo PD ++ SDSD □ PRPR PR△ CR CR
+
+IGNYTE Investor Event (6/6/24) 12
+• 70.4% of responding patients had non-injected
+lesions
+• Injected and non-injected lesions responded with
+similar duration and kinetics
+• Depth of response independent of injection status
+Responses in non-injected lesions
+demonstrate systemic benefit
+Responses are Systemic
+Change in size of individual injected and non-injected lesions
+Includes both target and non-target lesions for RECIST assessment, measured from CT/MRI scans for radiologically assessable lesions (responders from the first 75 pa6ents enrolled into the registra6on intended cohort). 58/75 pa6ents had at ≥ 1 non-injected lesion, of whom 15 achieved a response based on those lesions only (excludes possible response in injected lesions); ORR of 25.9% on the basis of non-injected lesions only. First presented at ASCO 2023.
+First 28 responders from
+the study
+• All lesions were
+measured, not only
+target lesions
+• Each line represents
+an individual lesion
+RP1 Injected
+RP1 Non-injected
+
+IGNYTE Investor Event (6/6/24) 13
+Duration of Response
+From baseline
+• Responses are durable, with a
+median DOR of 36.6 months
+Probability (%)
+>6 months >12 months >18 months >24 months
+100% 84.2% 74.9% 65.2%
+Data cutoff: March 8th 2024. Dura6on of response defined as 6me from baseline to end of response for responders. DOR, dura6on of response.
+# at risk
+The median follow up for responders is 27.9 months (range 10.5-55.5)
+
+IGNYTE Investor Event (6/6/24) 14
+Safety: Treatment-related AEs (N = 156)
+RP1 combined with nivolumab continues to
+be a generally well tolerated regimen
+• Predominantly grade 1 and 2
+constitutional-type side effects
+• Low incidence of grade 3 and 4 events
+• No grade 5 events
+Additional grade 3 and 4 events <5%
+Grade 3: Two each of rash maculo-papular and hypophysitis; 1 each of tumor pain,
+infusion-related reaction, muscular weakness, abdominal pain, amylase increased,
+dermatitis bullous, eczema, immune-mediated enterocolitis, immune-mediated hepatitis,
+paresthesia, acute left ventricular failure, arthritis, cancer pain, enterocolitis, extranodal
+marginal zone B-cell lymphoma (MALT type), hyponatremia, injection site necrosis, left
+ventricular dysfunction, memory impairment, meningitis aseptic, edema, palmar-plantar
+erythrodysesthesia syndrome, peripheral sensory neuropathy, radiculitis brachial, sinus
+arrhythmia, tricuspid valve incompetence, and type 1 diabetes mellitus
+Grade 4: One each of lipase increased, alanine aminotransferase increased, blood
+bilirubin increased, cytokine release syndrome, myocarditis, and hepatic cytolysis,
+splenic rupture
+Data cutoff: March 8th 2024. MALT, mucosa-associated lymphoid tissue; TRAE, treatment-related adverse event.
+Preferred term,
+n (%)
+TRAEs occurring in >5% of patients
+Grade 1–2 Grade 3 Grade 4 Grade 5 Total (N = 156)
+Chills 53 (34.0) 1 (0.7) 0 0 53 (34.0)
+Fatigue 51 (32.7) 2 (1.3) 0 0 52 (33.3)
+Pyrexia 49 (31.4) 0 0 0 49 (31.4)
+Nausea 35 (22.4) 0 0 0 35 (22.4)
+Influenza-like illness 30 (19.2) 0 0 0 30 (19.2)
+Injection-site pain 23 (14.7) 0 0 0 23 (14.7)
+Diarrhea 21 (13.5) 1 (0.6) 0 0 21 (13.5)
+Vomiting 21 (13.5) 0 0 0 21 (13.5)
+Headache 20 (12.8) 0 0 0 20 (12.8)
+Pruritus 20 (12.8) 0 0 0 20 (12.8)
+Asthenia 13 (8.3) 1 (0.6) 0 0 14 (9.0)
+Arthralgia 11 (7.1) 1 (0.7) 0 0 11 (7.1)
+Myalgia 11 (7.1) 0 0 0 11 (7.1)
+Decreased appetite 9 (5.8) 1 (0.6) 0 0 10 (6.4)
+Rash 9 (5.8) 1 (0.6) 0 0 10 (6.4)
+
+IGNYTE Investor Event (6/6/24) 15
+Conclusions
+• RP1 combined with nivolumab in melanoma patients who had confirmed progression on prior anti-PD1 continues to show:
+• Deep and durable, systemic responses
+• A favorable safety profile, with generally ‘on target’ and transient grade 1–2 side effects indicative of systemic
+immune activation
+• 1 in 3 patients experienced a response (ORR: 32.7%)
+• 27% ORR in patients had prior anti–PD1/anti–CTLA-4
+• 34% ORR in patients who had primary resistance to their immediate prior anti-PD1 therapy
+• Clinically meaningful activity was seen across all enrolled subgroups
+• 55% of patients experienced clinical benefit (CR + PR + SD)
+• Responses were highly durable
+• All patients followed for at least 12 months
+• All responses lasted at least 6 months, with median DOR >36 months
+
+IGNYTE Investor Event (6/6/24) 16
+Topline Data for the IGNYTE
+Registrational Cohort in Anti-PD1
+Failed Melanoma Assessed by
+Independent Central Review
+
+IGNYTE Investor Event (6/6/24) 17
+Strong IGNYTE Primary Analysis Data by
+Independent Central Review
+Overall Response Rate
+(registration-intended cohort: n=140) (%)
+Investigator Assessment Independent Central Review1
+Modified* RECIST 1.1
+32.1%
+Primary Endpoint
+Modified* RECIST 1.1
+33.6%
+RECIST 1.1**
+32.9%
+* Confirmation of PD requires further tumor increase from the first observation of PD; responses can be captured at any time up until next anti-cancer therapy2
+** Requested by FDA, with confirmation of PD required; responses not included in ORR after the first confirmed PD
+All patients with at least 12 months follow up
+Data cutoff: March 8th 2024. Median follow up for the 140 pa?ents in the registra?on intended cohort is 15.8 months (range 0.5-47.6); 1Each central reviewer selects their own target lesions without knowledge of RP1 injec?on
+status. 2This was to allow for the poten?al for prolonged pseudo-progression (>1 scan interval) before response; however, in prac?ce the pseudo-progression seen was transient (generally <1 scan interval)
+
+IGNYTE Investor Event (6/6/24) 18
+Patient Example
+Prior atezolizumab+cobimetinib, ipilimumab, SX682 (CXCR-inhibitor)+
+atezolizumab, ipilimumab+nivolumab
+Baseline
+9 Months
+Baseline
+9 Months
+Responses in
+uninjected distant
+and visceral tumors
+including healing of
+lytic bone lesions
+(increasing
+sclerosis & new
+internal bone
+formation seen)
+RP1 injected
+Non-injected
+
+IGNYTE Investor Event (6/6/24) 19
+Patient Example
+Prior pembrolizumab (1L), encorafenib+binimetinib (2L),
+and nivolumab+relatlimab (3L)
+Baseline 4 months 15 months
+
+IGNYTE Investor Event (6/6/24) 20
+IGNYTE Data Shows Clinically Meaningful Benefit
+• One third of patients respond (ORR: 33.6%)
+• Responses are durable
+• 100% last >6 months, median DOR >35 months (from baseline)
+• RP1 combined with nivolumab continues to be a generally well tolerated regimen
+• Predominantly grade 1/2 constitutional-type side effects
+• Low incidence of grade 3 and 4 events; no grade 5 events
+• Full data to be submitted for presentation at an upcoming medical congress
+
+IGNYTE Investor Event (6/6/24) 21
+Progress to BLA
+
+IGNYTE Investor Event (6/6/24) 22
+IGNYTE Data and Phase 3 Confirmatory Trial
+Incorporates FDA Feedback
+Type B meeting in 2021
+A real-world population, representative of the IO
+progressed landscape should be enrolled
+Patients should have confirmed progression while
+on anti-PD1 therapy, with minimum 8 weeks
+exposure
+Responses should be durable
+Clinically meaningful activity should be seen
+across all melanoma sub-groups enrolled
+Responses should be demonstrably systemic, i.e.
+of both injected and uninjected lesions
+Type C meeting in Sept 2023
+FDA acknowledged that the IGNYTE population
+represents one of unmet need
+Contribution of components demonstrated by
+reference to the literature*
+Centrally reviewed data by RECIST 1.1 and
+mRECIST 1.1
+All patients followed for at least 12 months
+(protocol primary analysis timepoint)
+All responding patients followed for at least 6
+months from response initiation
+Phase 3 confirmatory study will be underway by
+BLA submission
+*The response rate for further single agent anti-PD1 for patients having confirmed PD on prior anti-PD1 is expected to be 6-7%; Ribas et al Lancet Oncology 2018 (19), Hodi et al JCO 2016 (34)
+
+IGNYTE Investor Event (6/6/24) 23
+Advanced cutaneous
+melanoma
+Progressed on anti-PD1 AND
+anti-CTLA-4 OR not
+candidates for anti-CTLA-4
+Up to 2 prior lines of systemic
+therapy for advanced disease
+BRAF mutant patients must
+have been treated with
+BRAF/MEK-directed therapy1
+N=~400
+Randomized
+1:1
+3-year follow-up post last patient enrolled
+IGNYTE-3: Confirmatory Phase 3 Trial Design*
+1 For BRAF mutant patients prior BRAF/MEK-directed therapy is required unless deemed not clinically indicated at investigator’s discretion due to documented concurrent medical
+condition or prior toxicity; *ClinicalTrials.gov ID: NCT6264180
+RP1 and Nivolumab in Ipi-Nivo Pretreated Patients
+RP1 + Nivolumab
+Treatment of Physician’s Choice (TPC)
+- Nivolumab-Relatlimab (Opdualag)
+- Chemotherapy (DTIC, TMZ, paclitaxel/nab-paclitaxel)
+- Rechallenge with anti-PD1 monotherapy (nivolumab or
+pembrolizumab)
+Primary Endpoint
+Overall Survival
+Key Secondary
+Endpoints
+Progression Free
+Survival and Objective
+Response Rate
+
+IGNYTE Investor Event (6/6/24) 24
+Manufacturing on Track to Support RP1 BLA and
+Commercialization
+• Type C meeting with FDA confirmed alignment on Chemistry,
+Manufacturing and Controls (CMC) plans to support RP1 BLA
+submission
+• 63,000 square foot state-of-the-art facility for GMP manufacturing in
+Framingham, MA
+• RP1 BLA consistency lot runs complete
+• Commercial inventory build underway
+• Scale expected to be sufficient to cover global commercialization of RP1
+and RP2
+• Commercially attractive cost of goods & ‘off the shelf’ product
+practicality
+Commercial
+scale in-house
+manufacturing
+established
+
+IGNYTE Investor Event (6/6/24) 25
+U.S. Melanoma RP1 Patient Opportunity
+Compelling potential option for a broad range of anti-PD1 failed patients
+~13K patients1
+Addresses a high unmet need
+in anti-PD1 failed settings
+1L prior adjuvant
+2L+ BRAF WT
+2L+ BRAF MT
+An#-PD1 failed
+melanoma
+Source: 1Melanoma US treated patient population for 2030 based on CancerMPact® Patient Metrics, Cerner Enviza (available from www.cancermpact.com Accessed 15 Oct 2023), with adjustments
+to future 2L+ treatment rates based on primary market research.
+RP1+nivolumab is well positioned to be the first
+option for patients who progress on a PD1-based
+regimen (in adjuvant or 1L setting), given:
+1. Deep & durable responses
+2. Safety profile
+3. Ease of administration
+
+IGNYTE Investor Event (6/6/24) 26
+RP1 Well Positioned for BLA Submission and
+Commercialization
+• Strong IGNYTE primary endpoint ORR data by independent central review of 33.6% (mRECIST 1.1)
+• Durable responses: 100% last >6 months, median DOR >35 months (from baseline)
+• Manufacturing on track to support RP1 BLA & global commercialization
+• Type C meeting with FDA confirmed alignment on CMC plans
+• First patient expected to be enrolled in the phase 3 confirmatory study (IGNYTE-3) in Q3 2024,
+with BLA submission planned for 2H 2024
+• Attractive commercial RP1 opportunity in anti-PD1 failed melanoma
+• Significant patient population and unmet need
+• Compelling risk:benefit profile
+
+IGNYTE Investor Event (6/6/24) 27
+Thank You

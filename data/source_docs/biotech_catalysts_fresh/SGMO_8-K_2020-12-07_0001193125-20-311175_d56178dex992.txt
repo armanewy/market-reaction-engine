@@ -1,0 +1,85 @@
+EX-99.2
+3
+d56178dex992.htm
+EX-99.2
+
+EX-99.2
+
+Update for the Alta Study, a Phase 1/2
+Gene Therapy Trial of Giroctocogene Fitelparvovec (SB-525) in Adults With Severe Hemophilia A Andrew D. Leavitt, MD1; Barbara A. Konkle, MD2,3; Kimo Stine, MD4; Nathan Visweshwar, MD5; Thomas J. Harrington, MD6; Adam Giermasz, MD, PhD7; Steven
+Arkin, MD8; Annie Fang, MD, PhD9; Frank Plonski, RN, MA8; Lynne Smith, MBA10; Li-Jung Tseng, PhD, MBA9; Gregory Di Russo, MD8; Bettina M. Cockroft, MD, MBA11; Jeremy Rupon, MD, PhD10; Didier Rouy, MD, PhD11 1University of California, San Francisco,
+CA; 2University of Washington, Seattle, WA;3Bloodworks Northwest and the University of Washington, Seattle, WA; 4UAMS at Arkansas Children's Hospital, Little Rock, AR; 5University of South Florida, Tampa, FL; 6University of Miami Miller School of
+Medicine, Miami, FL; 7University of California Davis, Sacramento, CA; 8Pfizer Inc., Cambridge, MA; 9Pfizer Inc., New York, NY; 10Pfizer Inc., Collegeville, PA; 11Sangamo Therapeutics, Brisbane, CA Presented at the American Society of Hematology
+Annual Meeting, December 2–11, 2020, virtual event Exhibit 99.2
+
+Disclosures for: Andrew D. Leavitt, MD
+Conflict Disclosure Research Support None Director, Officer, Employee None Shareholder Johnson & Johnson Honoraria None Advisory Committee BioMarin; Dova Pharmaceuticals; Catalyst Biosciences; Bio Products Laboratory Consultant Merck
+
+A bleeding disorder due to low
+circulating factor VIII (FVIII) activity levels secondary to F8 gene mutations Current treatment involves replacement therapy with exogenous FVIII, or with emerging mimetic-based therapy Current treatment require frequent dosing via intravenous (IV)
+or subcutaneous administration Maintenance of FVIII activity in the mild (>5%) to normal range improves outcomes for patients with severe hemophilia A The wide therapeutic window and underlying single gene defect make hemophilia A an ideal
+candidate for gene therapy Hemophilia A
+
+Giroctocogene Fitelparvovec Gene
+Therapy for Hemophilia A Giroctocogene fitelparvovec (formerly SB-525 or PF-07055480) is a liver-tropic rAAV6 vector carrying a B-domain–deleted F8 gene that is delivered through a single IV infusion  bp, base pairs; ITR, internal tandem
+repeat; IV, intravenous; rAAV6, recombinant adeno-associated virus serotype 6; SP, signal peptide.
+
+Alta Study Design Alta is a phase 1/2,
+dose-ranging, single-dose, multicenter study to assess the safety and tolerability of giroctocogene fitelparvovec in adult participants (aged ≥18 years) with severe hemophilia A   Participant Time in Study: 62 months Key Exclusion
+Criteria Neutralizing activity to AAV6 capsid and/or inhibitor to FVIII History of hypersensitivity response to FVIII replacement therapy History of liver dysfunction Contraindication to steroids AAV6, adeno-associated virus serotype 6 Screening
+~8-10 wks Safety/Efficacy evaluation ~60 months (Every 6 months after 1st year)
+
+Study End Points Primary end points
+Incidence of AEs and SAEs Change in circulating FVIII activity Secondary end points Change from baseline for FVIII replacement therapy Change in frequency and severity of bleeding episodes Measurement of FVIII inhibitor levels Vector shedding in
+bodily fluids AE, adverse event; FVIII, factor VIII; SAE, serious adverse event.​
+
+Study Design 4 dose cohorts, 2
+participants each, and a high-dose cohort expansion of 3 participants (total of 11 participants dosed) with reactive corticosteroid use Corticosteroid treatment is initiated for ALT elevation that exceeds 1.5x baseline value Safety and
+efficacy data of each cohort were reviewed by an independent safety monitoring committee prior to each dose escalation and prior to initiating cohort 4 expansion Follow-up duration ranges from 1 to 3 years post infusion except for 1 participant in
+the 1e13-vg/kg cohort who prematurely discontinued the study (lost to follow-up) ALT, alanine aminotransferase; vg, vector genomes.
+
+Characteristic Cohort 1 9e11 vg/kg
+Cohort 2 2e12 vg/kg Cohort 3 1e13 vg/kg Cohort 4 3e13 vg/kg All Participants Age, years n 2 2 2 5 11 Mean (SD) 30.5 (9.19) 35.5 (16.26) 32.5 (0.71) 27.2 (6.10) 30.3 (7.81) Median 30.5 35.5 32.5 29.0 31.0 Min, max 24, 37 24, 47 32, 33 19, 34 19, 47
+Sex, n (%) Male 2 (100) 2 (100) 2 (100) 5 (100) 11 (100) Race, n (%) Asian – 1 (50) – – 1 (9.1) White 2 (100) 1 (50) 2 (100) 4 (80.0) 9 (81.8) Other – – – 1 (20.0) 1 (9.1) Ethnicity, n (%) Hispanic or Latino
+– – – 2 (40.0) 2 (18.2) Not Hispanic or Latino 2 (100) 2 (100) 2 (100) 3 (60.0) 9 (81.8) Participant Demographics Max, maximum; min, minimum; SD, standard deviation; vg, vector genomes. Data cut: 31 August 2020.
+
+Safety Summary 26 treatment-related AEs
+occurred in 6 participants, with most common being: ALT: 13a events in 5 participants (cohorts 2 and 4) AST: 5 events in 3 participants (cohorts 2 and 4) 1 participant in cohort 4 (3e13 vg/kg) experienced treatment-related SAEs of grade 3
+hypotension and grade 2 fever along with headache and tachycardia ≈6 hours after completion of the vector infusion and resolved ≈12 hours post infusion No participant experienced a COVID-19 related AE No participant developed FVIII
+inhibitors 4 of 5 participants in cohort 4 required corticosteroid treatment for liver transaminase (ALT/AST) elevation; all resolved with intervention 3 of the 4 had subsequent transaminase elevation after resolution of the initial increase, 1 of
+the 3 had an additional elevation; all transaminase elevations resolved with corticosteroids. No initiation of corticosteroid use was required to date after week 52 and all participants are currently off corticosteroids. aOne participant had an ALT
+increase per central lab results, but Investigator has not reported increase as an adverse event. AE, adverse event; ALT, alanine aminotransferase; AST, aspartate aminotransferase; FVIII, factor VIII; SAE, serious adverse event; vg, vector
+genomes.
+
+Treatment-Related Adverse Events
+MedDRA Preferred Term Cohort 2 2e12 vg/kg  (n=2) Cohort 4 3e13 vg/kg  (n=5) All Participants  (N=11) Subjects, n (%) No. of Events Subjects, n (%) No. of Events Subjects, n (%) No. of Events Any treatment-related event 2 (100.0) 5 4
+(80.0) 21 6 (54.4) 26 ALT increaseda 2 (100.0) 3 3 (60.0) 10 5 (45.5) 13 Pyrexia 3 (60.0) 3 3 (27.3) 3 AST increased 1 (50.0) 2 2 (40.0) 3 3 (27.3) 5 Tachycardia 2 (40.0) 2 2 (18.2) 2 Fatigue 1 (20.0) 1 1 (9.1) 1 Hypotension 1 (20.0) 1 1 (9.1) 1
+Myalgia 1 (20.0) 1 1 (9.1) 1 No treatment-related AEs for participants in cohorts 1 and 3 aOne participant had an ALT increase per central lab results that the Investigator has not reported increase as an adverse event. Data cut: 31 August 2020. AE,
+adverse event; ALT, alanine transaminase; AST, aspartate aminotransferase; vg, vector genomes.
+
+ALT Elevations: Cohort 4 (3 x 1013
+vg/kg) Participant ID Number Time of First ALT Elevation (Week) Maximum ALT Value, U/L (Grade) Cortico-steroid Treatment Duration (Weeks) FVIII Levels (Chromo, IU/dL) at Start of Cortico-steroids FVIII Levels (Chromo, IU/dL) at End of Taper Time of
+Second ALT Elevation (Week) Weeks of Cortico-steroids After Second Elevation 7 4.5 91 (gr 1)  11 94.8 108.2 48a 16a 8 12 66 (gr 1) 16 83.1 112.6 N/A N/A 10 5.5 91 (gr 1) 6 46.4 57.1 20 9 11 8 192 (gr 2)  7 80.2 27.7 16 18 4 of 5
+participants in cohort 4 had an ALT elevation aParticipant had an additional isolated elevation of ALT at week 28 that was treated with corticosteroids for 1 week, then discontinued (not reported as AE). Data cut: 31 August 2020. ALT, alanine
+transaminase; chromo, chromogenic assay; FVIII, factor VIII; N/A, not available; vg, vector genomes.
+
+Efficacy – Cohort 4 (3e13
+vg/kg) Latest available FVIII values from August 2020 data cut. FVIII Activity as Measured at Central Laboratory With Chromogenic Assay FVIII, factor VIII; vg, vector genomes.
+
+Efficacy – Central Laboratory,
+Chromogenic Assay Week 52: n=4 participants 1 participant had FVIII measured at week 67 instead of week 52 due to COVID-19 restrictions Mean FVIII activity from week 9 to week 52 (based on group mean): 70.4% (SD=7.3%) Median FVIII activity from week
+9 to week 52 (based on group median): 56.9% (SD=14.2%) Mean (box and whisker plot) ▬ Median (box and whisker plot) • Outliers Data cut: 31 August 2020. FVIII, factor VIII; vg, vector genomes; SD, standard deviation.
+
+Efficacy Summary FVIII activity
+increase from baseline was generally dose dependent At 24 months, 1 participant in Cohort 3 remains in the mild range for factor VIII activity Cohort 4 (3e13 vg/kg) Steady-state FVIII activity achieved by week 9 post infusion Median steady-state (of
+geometric means from week 9 to latest follow up) FVIII activity level 50.2% (mean 63%) via central laboratory chromogenic assay (includes all FVIII levels up to data cut) One treated target joint bleed was reported during the 2nd year following
+vector infusion. FVIII, factor VIII; vg, vector genomes.
+
+Conclusions Interim data with at
+least 1 year and up to 3 years of follow up post infusion continue to show that giroctocogene fitelparvovec is generally well tolerated  1 participant experienced treatment-related SAE immediately following vector infusion, no additional
+treatment-related SAE Cohort 4 (3e13 vg/kg) Participants achieved steady state at week 9, with mean FVIII activity maintained through week 52 The ongoing phase 1/2 study supports further development of giroctocogene fitelparvovec  Development
+Update: First participant in the AFFINE phase 3 study (3e13 vg/kg ) was dosed in October 2020 FVIII, factor VIII; vg, vector genomes.
+
+The investigators acknowledge and
+thank all study participants. We also acknowledge and thank Pfizer Study Clinicians Delphine Agathon and Anne Yver for their work on this presentation and this study, as well as the site staff, and Sangamo and Pfizer Study Teams for their
+contributions and conduct of the trial. Acknowledgments

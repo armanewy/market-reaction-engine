@@ -1,0 +1,367 @@
+8-K
+
+false 0001759425 0001759425 2025-12-06 2025-12-06
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+ 
+
+ 
+
+FORM 8-K
+
+ 
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 6, 2025
+
+ 
+
+ 
+
+Mirum Pharmaceuticals, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+ 
+
+ 
+
+ 
+
+Delaware
+
+ 
+
+001-38981
+
+ 
+
+83-1281555
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+ 
+
+(Commission
+
+File Number)
+
+ 
+
+(IRS Employer
+
+Identification No.)
+
+ 
+
+989 East Hillsdale Boulevard
+
+ 
+
+ 
+
+Suite 300
+
+ 
+
+ 
+
+Foster City, California
+
+ 
+
+ 
+
+94404
+
+(Address of Principal Executive Offices)
+
+ 
+
+ 
+
+(Zip Code)
+
+Registrant’s Telephone Number, Including Area Code: (650) 667-4085
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+ 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title of each class
+
+ 
+
+Trading
+
+Symbol(s)
+
+ 
+
+Name of each exchange
+
+on which registered
+
+Common stock, par value $0.0001 per share
+
+ 
+
+MIRM
+
+ 
+
+Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+
+Entry into a Material Definitive Agreement.
+
+Agreement and Plan of Merger and Reorganization
+
+On December 6, 2025, Mirum Pharmaceuticals, Inc. (the “Company”) entered into an Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) with Bjork Merger Sub I, Inc., a Delaware corporation and a direct wholly owned subsidiary of the Company (“Merger Sub I”), Bjork Merger Sub II, LLC, a Delaware limited liability company and a direct wholly owned subsidiary of the Company (“Merger Sub II” and, together with Merger Sub I, the “Merger Subs”), Bluejay Therapeutics, Inc., a Delaware corporation (“Target”), and Fortis Advisors LLC, a Delaware limited liability company, solely in its capacity as the representative, agent and attorney in fact of the Target security holders, pursuant to which among other things, Merger Sub I will merge with and into Target, pursuant to which Target would survive and become a wholly owned subsidiary of the Company (the “First Merger”), and, as part of the same overall transaction, the surviving entity of the First Merger will merge with and into Merger Sub II, pursuant to which Merger Sub II will survive and remain a wholly owned subsidiary of the Company (the “Second Merger” and, together with the First Merger, the “Mergers”).
+
+Pursuant to the Merger Agreement, the Company will pay to the holders of Target’s securities (i) upon the closing of the Mergers (the “Closing”), an upfront amount of $250 million in cash and up to 5,196,009 shares of Company common stock (“Common Stock”, and such shares, the “Stock Consideration”), representing approximately $370 million in shares of Common Stock based upon the volume-weighted average closing price of Common Stock (determined using the ten-trading-day volume-weighted average price preceding the date of the Merger Agreement, as set forth in the Merger Agreement), subject to rounding and customary adjustments and holdbacks as set forth in the Merger Agreement, and (ii) upon the achievement of certain net sales milestones, milestone payments in an aggregate amount of up to $200 million in cash (clauses (i) and (ii), the “Merger Consideration”).
+
+Under the terms of the Merger Agreement, all issued and outstanding Target capital stock (other than any cancelled shares and dissenting shares) and all outstanding Target options (whether vested or unvested) as of immediately prior to the Closing will be cancelled in exchange for their applicable pro rata portions of the Merger Consideration as set forth in the Merger Agreement.
+
+Pursuant to the Merger Agreement, the Company has agreed to prepare and file a registration statement with the U.S. Securities and Exchange Commission (the “SEC”) to register for resale the Stock Consideration. The Stock Consideration will be subject to certain lock-up restrictions set forth in the Merger Agreement and related joinder and lock-up agreement, whereby one-half of each Target security holder’s Stock Consideration will be subject to certain transfer restrictions until six months after the Closing, and the remaining Stock Consideration will be subject to such restrictions until nine months after the Closing.
+
+The Merger Agreement contains customary representations, warranties, covenants and obligations of each of the parties to the Merger Agreement, including the obligation of the Company to use commercially reasonable efforts to develop and seek regulatory approval and pricing and reimbursement approval for a milestone product in certain specified jurisdictions, and following receipt of such regulatory approval and pricing and reimbursement approval, commercially launch such product in the applicable jurisdiction and achieve each of the specified net sales milestone events. The Merger Agreement also contains customary indemnification provisions whereby the Target security holders will indemnify the Company for certain damages arising out of inaccuracies in, or breaches of, the representations and warranties of the Company, breaches of any covenant or obligation by the Company, and certain other matters, subject to certain caps and other limitations. To support such indemnification obligations, the Company will have recourse to a cash and Common Stock holdback and, in certain cases, offsets against milestone payments or direct recourse against the Target security holders.
+
+The Merger is subject to customary closing conditions, including, among others, (i) the expiration or termination of the applicable waiting period (and any extension thereof) under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended; (ii) receipt of certain identified consents, waivers and approvals and termination of certain identified agreements; (iii) approval of the Mergers by the requisite holders of Target’s capital stock (on an as-converted basis), as described in the Merger Agreement; (iv) delivery of executed joinder and lock-up agreements by a specified percentage of holders of Target’s capital stock; (v) the accuracy of representations and warranties set forth in the Merger Agreement (subject to customary materiality qualifiers) and material compliance with covenants set forth in the Merger Agreement; and (vi) the execution and delivery of certain related ancillary documents; and (vii) the Company’s filing of a Listing of Additional Shares notification form with the Nasdaq Stock Market LLC in respect of the Stock Consideration.
+
+The Merger Agreement provides for certain termination rights for both the Company and Target, including a right to terminate the Merger Agreement if the closing conditions have not been satisfied or waived on or prior to March 6, 2026. The Mergers are expected to close in the first quarter of 2026, subject to the satisfaction or waiver of customary closing conditions. The Merger Agreement has been approved by the Boards of Directors of both companies.
+
+The foregoing description of the Merger Agreement and the Mergers does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Merger Agreement, which is filed as Exhibit 2.1 to this Current Report on Form 8-K (this “Form 8-K”) and is incorporated herein by reference. The Merger Agreement is not intended to provide any other factual information about the Company, Target or their respective owners, subsidiaries and affiliates. The representations, warranties and covenants contained in the Merger Agreement (i) were made solely for purposes of the Merger Agreement and as of the date of the Merger Agreement, (ii) were solely for the benefit of the parties to the Merger Agreement, (iii) may be subject to qualifications and limitations agreed upon by the parties to the Merger Agreement, including being qualified by confidential disclosures made for the purposes of allocating contractual risk among the parties to the Merger Agreement instead of establishing these matters as facts and (iv) may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to security holders of the Company. Investors and security holders of the Company should not rely on the representations, warranties and covenants or any description thereof as characterizations of the actual state of facts or condition of the Company. Moreover, information concerning the subject matter of the representations, warranties and covenants may change after the date of the Merger Agreement, which subsequent information may or may not be fully reflected in public disclosures by the Company.
+
+Private Placement
+
+On December 7, 2025, certain parties (the “PIPE Investors”) entered into a subscription agreement (the “Subscription Agreement”) with the Company, pursuant to which they have agreed, subject to the terms and conditions of the Subscription Agreement, to purchase immediately following the Closing, (i) 2,385,149 shares of the Company’s common stock (the “PIPE Shares”), par value $0.0001 per share (the “Common Stock”), and (ii) in the case of certain PIPE Investors, in lieu of shares of Common Stock, pre-funded warrants (the “Pre-Funded Warrants”) to purchase 536,412 shares of Common Stock (the “Warrant Shares”), for an aggregate gross purchase price of approximately $200,000,000. The purchase price per PIPE Share is $68.48 (or $68.4799 per Pre-Funded Warrant, which equals the purchase price of a PIPE Share, less $0.0001, the exercise price of each Warrant Share) (the “Private Placement”).
+
+Each Pre-Funded Warrant has an exercise price of $0.0001 per Warrant Share. The Pre-Funded Warrants will be exercisable immediately upon issuance and may be exercised at any time until exercised in full. A holder (together with its affiliates and other attribution parties) may not exercise any portion of a Pre-Funded Warrant to the extent that, immediately after giving effect to such exercise, the holder would own more than a specified percentage of the outstanding Common Stock (ranging from 4.99% to 9.99%, as applicable), which percentage may be increased or decreased at the holder’s option (not to exceed 19.99%) upon 61 days’ notice to the Company, subject to the terms of the Pre-Funded Warrants.
+
+The Subscription Agreement contains customary representations and warranties of the Company, on the one hand, and the PIPE Investors, on the other hand, and certain conditions to closing, including customary conditions and the Closing of the Mergers. The securities described above to be issued and sold to the PIPE Investors pursuant to the Subscription Agreement will not be registered under the Securities Act of 1933, as amended (the “Securities Act”), in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act.
+
+Also on December 7, 2025, the Company entered into a registration rights agreement (the “Registration Rights Agreement”) with the PIPE Investors pursuant to which the Company agreed to register for resale the PIPE Shares and the Warrant Shares (the “Registrable Securities”), which agreement will become effective upon the closing of the Private Placement. Under the terms of the Registration Rights Agreement, the Company has agreed to prepare and file a registration statement with the SEC to register for resale the Registrable Securities. The Company has agreed to be responsible for all fees and expenses incurred in connection with the registration of the Registrable Securities.
+
+The Company has granted the PIPE Investors customary indemnification rights in connection with the registration statement. The PIPE Investors have also granted the Company customary indemnification rights in connection with the registration statement.
+
+The Company has engaged Morgan Stanley & Co. LLC, Leerink Partners LLC, Cantor Fitzgerald & Co., Raymond James & Associates, Inc. and Citizens JMP Securities, LLC as placement agents for the Private Placement. The Company has agreed to pay customary placement fees and reimburse certain expenses of the placement agents.
+
+The foregoing descriptions of the Subscription Agreement, the Registration Rights Agreement and the Pre-Funded Warrant do not purport to be complete and are subject to, and qualified in their entirety by, the full text of the form of Subscription Agreement, the form of Registration Rights Agreement and the form of Pre-Funded Warrant, which are filed as Exhibit 10.1, Exhibit 10.2 and Exhibit 4.1, respectively, to this Form 8-K and are incorporated herein by reference.
+
+ 
+
+Item 3.02
+
+Unregistered Sales of Equity Securities.
+
+To the extent required by Form 8-K, the disclosures regarding Stock Consideration under the heading “Agreement and Plan of Merger and Reorganization” and the disclosures under the heading “Private Placement” in Item 1.01 of this Form 8-K are incorporated into this Item 3.02 by reference.
+
+Based in part upon the representations of the Target security holders in suitability documentation to be delivered by the Target security holders as a condition to receipt of their respective Stock Consideration, the issuance of the Stock Consideration will be issued in a transaction exempt from registration under the Securities Act by reason of Rules 504 and 506 of Regulation D promulgated under the Securities Act. The suitability documentation to be delivered by the Target security holders will include representations as to whether such Target security holders are accredited investors, as such term is defined in Rule 501(a) of Regulation D under the Securities Act, and that they are acquiring the Stock Consideration for investment for their own account and with no present intention of selling, granting any participation in, or otherwise distributing the Stock Consideration in violation of the U.S. federal securities laws.
+
+Based in part upon the representations of the PIPE Investors in the Subscription Agreement, the offering and sale of the securities in the Private Placement will be made in reliance on the exemption afforded by Section 4(a)(2) of the Securities Act, and corresponding provisions of applicable state securities or “blue sky” laws. The PIPE Investors represented that they are accredited investors, as such term is defined in Rule 501(a) of Regulation D under the Securities Act, and that they are acquiring the securities for investment purposes only and not with a view to any resale, distribution or other disposition of the securities in violation of the U.S. federal securities laws.
+
+The securities to be issued in the Mergers and the Private Placement will not be registered under the Securities Act or any state securities laws upon issuance and may not be offered or sold in the United States absent registration under the Securities Act or an applicable exemption from the registration requirements. The issuance of the Stock Consideration and the sale of the securities in the Private Placement did not involve a public offering and will be made without general solicitation or general advertising.
+
+Neither this Current Report on Form 8-K nor any exhibit attached hereto is an offer to sell or the solicitation of an offer to buy shares of Common Stock or other securities of the Company.
+
+ 
+
+Item 7.01
+
+Regulation FD Disclosure.
+
+On December 8, 2025, the Company issued a press release announcing its entry into the Merger Agreement and the Subscription Agreement, a copy of which is furnished as Exhibit 99.1 to this Form 8-K. In connection with the Private Placement, the Company presented a corporate presentation, a copy of which is furnished as Exhibit 99.2 to this Form 8-K.
+
+As provided in General Instruction B.2 of Form 8-K, the information in this Item 7.01, including Exhibits 99.1 and 99.2 hereto, shall not be deemed to be “filed” for purposes of, or otherwise subject to the liabilities under, Section 18 of the Securities Exchange Act of 1934, as amended, nor shall such information or Exhibits 99.1 and 99.2 be deemed to be incorporated by reference in any filing under the Securities Act, whether made before or after the date hereof, regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific reference in such a filing.
+
+ 
+
+Item 8.01
+
+Other Events.
+
+The press release attached hereto as Exhibit 99.1 and the corporate presentation attached hereto as Exhibit 99.2 contain information relating to anticipated developments concerning the Company’s business and include the following disclosures:
+
+Company Update
+
+Assuming the Closing of the proposed Mergers, which the Company anticipates will occur in the first quarter of 2026, subject to regulatory approval and satisfaction or waiver of other customary closing conditions, the Company will acquire worldwide rights to brelovitug, an investigational, highly potent, pan-genotypic, fully human immunoglobulin G1 monoclonal antibody that is intended to target the surface antigen (“HBsAg”) on both the chronic hepatitis D virus (“HDV”) and the chronic hepatitis B virus (“HBV”). Target has designed brelovitug to neutralize and remove hepatitis B and hepatitis D virions and deplete HBsAg-containing subviral particles. Brelovitug for the treatment of chronic HDV has received breakthrough therapy designation from the U.S. Food and Drug Administration (“FDA”), designation under the Priority Medicines (PRIME) scheme from the European Medicines Agency (“EMA”) and an orphan medicinal product designation by the European Commission. Target’s in-licensed composition of matter patent for brelovitug expires July 2041, subject to a potential patent term extension.
+
+HDV, a coinfection that occurs in some people infected with the hepatitis B virus, is the most severe form of viral hepatitis due to the potential for rapid progression to liver cirrhosis, liver cancer and liver-related death. HDV is believed to infect approximately 40,000 people in the United States, more than 230,000 people in the United States and Europe and more than 12 million people worldwide, with approximately 15,000 estimated U.S. patients currently diagnosed, insured and under care for HDV. The Company estimates a worldwide total annual revenue potential of brelovitug in HDV to be more than $750 million. The Company estimates that, without new treatments, more than 50% of individuals with HDV will die of liver-related causes within 10 years of diagnosis due to rapid progression to fibrosis, cirrhosis, hepatic decompensation and an increased risk of liver cancer with the average progression to cirrhosis and liver failure being approximately five years and the risk of liver cancer for patients with HDV being approximately three times greater than for patients with HBV. There are currently no approved treatments for HDV in the United States.
+
+Brelovitug is being evaluated in the AZURE Phase 3 global, registrational program for HDV, which program includes four open-label studies designed to assess the primary endpoint of combined virologic and biochemical response: AZURE 1 and AZURE 4, which are intended to enable a regulatory filing with the FDA, and AZURE 2 and AZURE 3, which are intended to support a regulatory filing with the EMA. The AZURE Phase 3 studies build on the Phase 2 studies where brelovitug demonstrated strong antiviral activity in HDV, achieving 100% HDV ribonucleic acid response along with improvements in alanine aminotransferase enzyme levels and a favorable safety profile, with the most common adverse event being injection-site erythema. The ongoing global AZURE Phase 3 program is currently enrolling patients, with an interim analysis of AZURE 1 expected in the second quarter of 2026, top-line data from AZURE 1 and AZURE 4 expected in the second half of 2026 and top-line data from AZURE 2 and AZURE 3 expected by the first half of 2028. The Company believes that these results may support a potential biologics license application submission to the FDA for brelovitug in HDV in the first half of 2027 followed by a potential approval and launch, if approved, in the second half of 2027.
+
+The Company anticipates receipt of top-line data from the VISTAS Phase 2b clinical trial of volixibat for the treatment of primary sclerosing cholangitis (“PSC”) in the second quarter of 2026. In addition, the Company expects to submit a new drug application (“NDA”) to the FDA for volixibat for the treatment of PSC in the second half of 2026, with both receipt of such potential approval and a subsequent launch of volixibat for the treatment of PSC, if approved, to occur in the first half of 2027. The Company also anticipates receipt of top-line data from the Phase 3 Livmarli EXPAND clinical trial for the treatment of other ultra-rare cholestatic pruritus indications, the Phase 2b volixibat clinical trial for the treatment of primary biliary cholangitis and the Phase 2 clinical trial of MRM-3379 for the treatment of Fragile-X Syndrome in 2027.
+
+Forward-Looking Statements
+
+This Form 8-K contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Generally, the words “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “contemplate,” “predict,” “forecast,” “likely,” “believe,” “target,” “will,” “could,” “would,” “should,” “potential,” “may,” “guidance,” “designed” and similar expressions or their negative, may, but are not necessary to, identify forward-looking statements. Such forward-looking statements include, but are not limited to, those regarding the anticipated occurrence, manner and timing of the Mergers and the Private Placement; achievement of the milestones in the Merger Agreement; the payment of additional consideration upon such achievement; brelovitug’s ongoing development, including the potential successful results from the pivotal Phase 3 studies for HDV, the potential benefits of brelovitug for patients with HDV and HBV viral infections, the anticipated receipt and timing of data from the studies in the AZURE Phase 3 program, the anticipated costs of developing brelovitug, the estimated prevalence of HDV in the United States, Europe and worldwide, the effects of HDV on patients, the expected worldwide total addressable market for brelovitug in HDV, the ability for the AZURE Phase 3 program to support regulatory filings in the United States and Europe, and the potential submission and timing of regulatory filings for brelovitug, approval of such submissions and the timing for a launch of brelovitug in HDV, if approved; the anticipated receipt and timing of data from the Company’s clinical trials; the anticipated timing of an NDA submission to the FDA for the approval of volixibat for the treatment of PSC and the receipt and timing of such approval and any subsequent launch, if approved; and statements about the Company’s future financial performance, including its anticipated full year 2025 net product sales and the Company’s ability to be cash flow positive in 2025. These forward-looking statements are based upon the Company’s current expectations and involve assumptions that may never materialize or may prove to be incorrect. Actual results could differ materially from those anticipated in such forward-looking statements as a result of various risks and uncertainties, which include, without limitation, risks and uncertainties inherent with the acquisition of companies, including the potential risks that regulatory approval will not be timely received (if at all) and the failure to satisfy or waive closing conditions; the risks and uncertainties inherent with private placements; risks associated with the development of acquired product candidates, including the failure of any expected synergies to be realized; risk and uncertainties arising from the integration of an acquired company, its employees and its assets with the Company’s business; risks associated with evaluating companies and assets for acquisition, including that the perceived benefits of the acquisition are not realized; risks and uncertainties with the development of investigational medicines generally, including the failure of future studies to generate the same or similar data as prior studies and the potential that estimated patient populations and disease prevalences are materially inaccurate; litigation relating to the transactions discussed in this Form 8-K; risks that the Mergers disrupt the current plans or operations of the Company; the ability of the Company to retain and hire key personnel; unexpected costs, charges or expenses resulting from the Mergers; potential adverse reactions or changes to relationships with customers, suppliers, distributors and other business partners resulting from the announcement or completion of the Mergers; the risks and uncertainties associated with the Company’s business in general; and the impact of geopolitical and macroeconomic events on the Company’s business. Other factors that might cause such a difference include those discussed in the Company’s filings with the SEC, which include its Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. All forward-looking statements made herein are based on information currently available to the Company as of the date of this Report. The Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+  
+
+Description
+
+ 2.1*
+
+  
+
+Agreement and Plan of Merger and Reorganization, dated December 6, 2025, by and among, Mirum Pharmaceuticals, Inc., Bjork Merger Sub I, Inc., Bjork Merger Sub II, LLC, Bluejay Therapeutics, Inc. and Fortis Advisors LLC
+
+ 4.1
+
+  
+
+Form of Pre-Funded Warrant
+
+10.1
+
+  
+
+Form of Subscription Agreement
+
+10.2
+
+  
+
+Form of Registration Rights Agreement
+
+99.1
+
+  
+
+Press Release, dated December 8, 2025
+
+99.2
+
+  
+
+Mirum Corporate Presentation on Potential Acquisition of Bluejay Therapeutics, Inc.
+
+104
+
+  
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+*
+
+Certain portions of this exhibit have been omitted (as marked in brackets) because it is both not material and is the type that the registrant treats as private or confidential. Schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The registrant undertakes to furnish supplemental copies of any of the omitted schedules upon request by the SEC.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+Mirum Pharmaceuticals, Inc.
+
+Date: December 8, 2025
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+Christopher Peetz
+
+ 
+
+ 
+
+ 
+
+Chief Executive Officer
