@@ -193,6 +193,32 @@ regulatory decision precision >= 95%
 no designation-only event mistaken for approval
 no enrollment/update event mistaken for readout
 no publication/conference notice mistaken for new topline result
+no hard-negative soft update mistaken for binary catalyst
+no investor-deck or pipeline-table row mistaken for a new catalyst
+no trial initiation/design/protocol update mistaken for readout
+no previously announced result mistaken for a new catalyst
+```
+
+Agent 3C hardened the parser around these hard negatives. The parser now uses a false-positive taxonomy and section-aware evidence gating:
+
+```text
+headline / lead paragraph evidence preferred
+body or pipeline-table evidence requires explicit new result or regulatory-decision language
+about-company, risk-factor, and forward-looking sections rejected as catalyst evidence
+enrollment, first-patient dosing, trial design, publication/conference notices, and expected future readouts rejected unless new result facts are present
+previously announced or previously disclosed results rejected as new catalysts
+designation-only events kept separate from approvals/readouts
+```
+
+The Agent 3C reviewed audit set was expanded to 82 rows to include the original required buckets plus hard-negative controls and supporting drug/indication/trial-phase/statistical facts. The audit passed:
+
+```text
+event_type_precision: 100.0%
+drug_asset_indication_precision: 100.0%
+trial_phase_precision: 100.0%
+endpoint_success_failure_precision: 100.0%
+regulatory_decision_precision: 100.0%
+hard-negative controls: pass
 ```
 
 ## Context Enrichment

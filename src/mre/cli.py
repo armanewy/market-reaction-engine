@@ -23,6 +23,7 @@ from .biotech_catalysts import (
     write_biotech_catalyst_parser_audit_report,
     write_biotech_catalyst_readiness_report,
 )
+from .biotech_falsification import run_biotech_catalyst_falsification_pass
 from .capital_raises import (
     build_capital_raise_sec_source_documents,
     build_sec_shares_outstanding_context,
@@ -531,6 +532,29 @@ def cmd_biotech_catalyst_readiness_report(args: argparse.Namespace) -> None:
         parser_errors_path=args.parser_errors,
     )
     print(json.dumps({"report": str(args.out), **summary}, indent=2, default=str))
+
+
+def cmd_biotech_catalyst_falsification_pass(args: argparse.Namespace) -> None:
+    report = run_biotech_catalyst_falsification_pass(
+        events_path=args.events,
+        features_path=args.features,
+        prices_dir=args.prices_dir,
+        out_dir=args.out_dir,
+        benchmark=args.benchmark,
+        sector_benchmark=args.sector_benchmark,
+        horizons=comma_ints(args.horizons),
+        min_train=args.min_train,
+        purge_days=args.purge_days,
+        probability_threshold=args.probability_threshold,
+        cost_bps=args.cost_bps,
+        slippage_bps=args.slippage_bps,
+        null_iterations=args.null_iterations,
+        seed=args.seed,
+        estimation_window=args.estimation_window,
+        estimation_gap=args.estimation_gap,
+        min_estimation_observations=args.min_estimation_observations,
+    )
+    print(json.dumps(report, indent=2, default=str))
 
 
 def cmd_parse_capital_raises(args: argparse.Namespace) -> None:
@@ -1626,6 +1650,26 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--source-documents", default=None)
     p.add_argument("--parser-errors", default=None, help="Optional parser validation errors CSV; if supplied, parser audit must pass.")
     p.set_defaults(func=cmd_biotech_catalyst_readiness_report)
+
+    p = sub.add_parser("biotech-catalyst-falsification-pass", help="Run the first biotech catalyst event-study and falsification pass.")
+    p.add_argument("--events", default="data/events/biotech_catalyst_review_queue.csv")
+    p.add_argument("--features", default="data/events/biotech_catalyst_features.csv")
+    p.add_argument("--prices-dir", default="data/prices/biotech_catalysts")
+    p.add_argument("--out-dir", default="artifacts")
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--sector-benchmark", default="XBI")
+    p.add_argument("--horizons", default="1,3,10")
+    p.add_argument("--min-train", type=int, default=40)
+    p.add_argument("--purge-days", type=int, default=3)
+    p.add_argument("--probability-threshold", type=float, default=0.60)
+    p.add_argument("--cost-bps", type=float, default=5.0)
+    p.add_argument("--slippage-bps", type=float, default=5.0)
+    p.add_argument("--null-iterations", type=int, default=500)
+    p.add_argument("--seed", type=int, default=42)
+    p.add_argument("--estimation-window", type=int, default=120)
+    p.add_argument("--estimation-gap", type=int, default=5)
+    p.add_argument("--min-estimation-observations", type=int, default=60)
+    p.set_defaults(func=cmd_biotech_catalyst_falsification_pass)
 
     p = sub.add_parser("parse-capital-raises", help="Parse capital raise, dilution, ATM, convertible, and liquidity source documents into reviewable fact/event rows.")
     p.add_argument("--documents", required=True, help="Source-document manifest.")

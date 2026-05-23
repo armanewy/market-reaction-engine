@@ -1,0 +1,46 @@
+{
+  "peer_events": 97,
+  "generation_diagnostics": {
+    "rows_total": 97,
+    "rows_used": 97,
+    "rows_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "event_study_diagnostics": {
+    "events_total": 97,
+    "events_ok": 97,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "summary": {
+    "label": "peer_control",
+    "rows": 97,
+    "ok_rows": 97,
+    "h1": {
+      "n": 97,
+      "mean_log": -0.0030540530083497898,
+      "median_log": -0.002495285171791529,
+      "mean_simple": -0.0026414712121354826,
+      "positive_rate": 0.41237113402061853,
+      "mean_abs_log": 0.019937725839290567
+    },
+    "h3": {
+      "n": 97,
+      "mean_log": 0.0011324592169073271,
+      "median_log": -0.01590891670579817,
+      "mean_simple": 0.004458462401688675,
+      "positive_rate": 0.38144329896907214,
+      "mean_abs_log": 0.04708779391698486
+    },
+    "h10": {
+      "n": 96,
+      "mean_log": -0.0014520634774373802,
+      "median_log": -0.008955157923889448,
+      "mean_simple": 0.012131737148428448,
+      "positive_rate": 0.4479166666666667,
+      "mean_abs_log": 0.08503755303922987
+    }
+  },
+  "weaker_than_main_h1": true,
+  "warning": "Peer controls rotate to another ticker in the same reviewed biotech universe; they are weaker than a hand-built asset/mechanism peer basket."
+}

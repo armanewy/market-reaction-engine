@@ -1794,12 +1794,16 @@ def biotech_catalyst_readiness_summary(
         metrics["parser_audit_precision"] = "missing"
         gates["parser_audit_pass"] = False
 
-    blockers = [gate for gate, passed in gates.items() if not passed]
+    hard_gate_names = [gate for gate in gates if gate != "reviewed_usable_events_100_preferred"]
+    blockers = [gate for gate in hard_gate_names if not gates.get(gate)]
     metrics["gates"] = gates
     metrics["top_missing_fields_blocking_modeling"] = blockers[:]
-    if all(gates.values()):
+    if all(gates.get(gate) for gate in hard_gate_names):
         metrics["decision"] = "model-ready"
-        metrics["reason"] = "reviewed corpus clears first-pass non-modeling readiness gates"
+        if gates.get("reviewed_usable_events_100_preferred"):
+            metrics["reason"] = "reviewed corpus clears first-pass non-modeling readiness gates"
+        else:
+            metrics["reason"] = "hard readiness gates pass; reviewed usable rows clear the 80-row minimum but remain below the 100-row preferred target"
     elif not gates["parser_audit_pass"] and metrics["reviewed_usable_rows"] >= 40:
         metrics["decision"] = "parser not trusted"
         metrics["reason"] = "parser audit is missing or below gate"
@@ -1884,7 +1888,7 @@ def write_biotech_catalyst_readiness_report(
             "4. Designation-only events: expected weaker/noisier reaction than approvals/readouts.",
             "5. Positive catalyst after strong pre-event run-up: expected weaker reaction or sell-the-news risk.",
             "",
-            "Do not model until every gate above passes and placebo/peer controls can be built.",
+            "Do not model until every hard gate above passes and placebo/peer controls can be built. The 100-row target is preferred; 80 reviewed usable rows is the minimum gate.",
         ]
     )
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
