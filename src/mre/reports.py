@@ -59,6 +59,40 @@ def event_study_report(event_study_path: str | Path, out_path: str | Path, horiz
         )
     lines.append("")
 
+    if "has_expectations" in ok.columns:
+        exp_ok = ok[ok["has_expectations"].astype(str).str.lower().isin(["true", "1", "yes"])]
+        lines.append("## Expectations coverage")
+        lines.append(f"- Events with expectation features: {len(exp_ok)} / {len(ok)}")
+        if "composite_surprise_score" in ok.columns:
+            available = pd.to_numeric(ok["composite_surprise_score"], errors="coerce").notna().sum()
+            lines.append(f"- Events with composite surprise score: {int(available)} / {len(ok)}")
+        lines.append("")
+
+    if "composite_surprise_bucket" in ok.columns and "composite_surprise_score" in ok.columns:
+        lines.append(f"## Earnings/guidance surprise buckets, horizon={horizon} trading day(s)")
+        bucketed = ok.copy()
+        bucketed["composite_surprise_score"] = pd.to_numeric(bucketed["composite_surprise_score"], errors="coerce")
+        bucketed = bucketed[bucketed["composite_surprise_bucket"].fillna("unknown") != "unknown"]
+        if not bucketed.empty:
+            b = bucketed.groupby("composite_surprise_bucket").agg(
+                n=("event_id", "count"),
+                mean_surprise=("composite_surprise_score", "mean"),
+                mean_car=(car_col, "mean"),
+                median_car=(car_col, "median"),
+                significant_rate=(sig_col, "mean"),
+            ).sort_index()
+            lines.append("| bucket | n | mean surprise | mean CAR | median CAR | significant rate |")
+            lines.append("|---|---:|---:|---:|---:|---:|")
+            for bucket, r in b.iterrows():
+                lines.append(
+                    f"| {bucket} | {int(r['n'])} | {_fmt_pct(r['mean_surprise'])} | {_fmt_pct(r['mean_car'])} | "
+                    f"{_fmt_pct(r['median_car'])} | {_fmt_pct(r['significant_rate'])} |"
+                )
+            lines.append("")
+        else:
+            lines.append("No rows with non-unknown surprise buckets.")
+            lines.append("")
+
     lines.append("## Largest absolute abnormal reactions")
     top = ok.assign(abs_car=ok[car_col].abs()).sort_values("abs_car", ascending=False).head(10)
     lines.append("| event_id | ticker | reaction_start | event_type | CAR | z | summary |")

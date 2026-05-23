@@ -96,7 +96,23 @@ def event_tickers(events: pd.DataFrame, benchmark: str | None = None) -> list[st
 
 
 def make_event_template(path: str | Path, rows: Iterable[dict] | None = None) -> None:
-    columns = REQUIRED_EVENT_COLUMNS + list(OPTIONAL_EVENT_COLUMNS_WITH_DEFAULTS.keys())
-    df = pd.DataFrame(list(rows or []), columns=columns)
+    """Write an event CSV template.
+
+    The core schema columns are always written first. If rows contain additional
+    metadata columns (for example SEC accession fields or expectation features),
+    those columns are preserved after the core schema.
+    """
+    base_columns = REQUIRED_EVENT_COLUMNS + list(OPTIONAL_EVENT_COLUMNS_WITH_DEFAULTS.keys())
+    row_list = list(rows or [])
+    if row_list:
+        df = pd.DataFrame(row_list)
+        for col in base_columns:
+            if col not in df.columns:
+                default = OPTIONAL_EVENT_COLUMNS_WITH_DEFAULTS.get(col, "")
+                df[col] = default
+        extra_columns = [c for c in df.columns if c not in base_columns]
+        df = df[base_columns + extra_columns]
+    else:
+        df = pd.DataFrame(columns=base_columns)
     Path(path).parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(path, index=False)

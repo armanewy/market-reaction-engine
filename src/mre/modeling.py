@@ -10,7 +10,7 @@ import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, balanced_accuracy_score, log_loss, roc_auc_score
+from sklearn.metrics import accuracy_score, balanced_accuracy_score, brier_score_loss, log_loss, roc_auc_score
 from sklearn.neighbors import NearestNeighbors
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -21,23 +21,74 @@ CATEGORICAL_FEATURES = [
     "ticker",
     "event_type",
     "event_subtype",
+    "event_family",
     "source_type",
     "release_session",
     "expectedness",
     "surprise_direction",
+    "surprise_direction_inferred",
     "surprise_magnitude",
+    "surprise_magnitude_inferred",
+    "sec_form",
+    "sec_items",
+    "expectation_source_type",
+    "expectation_quality",
+    "pre_runup_bucket_20d",
 ]
 
 NUMERIC_FEATURES = [
     "materiality",
     "pre_return_5d",
     "pre_return_20d",
-    "pre_vol_20d",
+    "pre_return_60d",
+    "benchmark_pre_return_5d",
     "benchmark_pre_return_20d",
+    "benchmark_pre_return_60d",
+    "market_adjusted_pre_return_5d",
+    "market_adjusted_pre_return_20d",
+    "market_adjusted_pre_return_60d",
+    "sector_adjusted_pre_return_5d",
+    "sector_adjusted_pre_return_20d",
+    "sector_adjusted_pre_return_60d",
+    "pre_vol_20d",
+    "pre_vol_60d",
     "benchmark_pre_vol_20d",
+    "rolling_beta_60d",
+    "idiosyncratic_vol_60d",
+    "volume_zscore_20d",
+    "pre_runup_z_20d",
+    "surprise_vs_runup_score",
     "alpha",
     "beta",
     "residual_vol",
+    "consensus_eps",
+    "actual_eps",
+    "reported_eps",
+    "estimated_eps",
+    "eps_surprise",
+    "eps_surprise_pct",
+    "eps_abs_surprise_pct",
+    "earnings_surprise_abs_max_pct",
+    "eps_signal_strength",
+    "eps_surprise_sign",
+    "eps_has_estimate",
+    "consensus_revenue",
+    "actual_revenue",
+    "revenue_surprise",
+    "revenue_surprise_pct",
+    "consensus_forward_revenue",
+    "guidance_revenue_low",
+    "guidance_revenue_high",
+    "guidance_revenue_mid",
+    "guidance_revenue_surprise",
+    "guidance_revenue_surprise_pct",
+    "implied_move_pct",
+    "analyst_count",
+    "fundamental_surprise_score",
+    "surprise_signal_count",
+    "expected_abs_move_h1_realized_vol_20d",
+    "expected_abs_move_h3_realized_vol_20d",
+    "expected_abs_move_h10_realized_vol_20d",
 ]
 
 
@@ -48,6 +99,17 @@ def _one_hot_encoder() -> OneHotEncoder:
         return OneHotEncoder(handle_unknown="ignore", sparse=True)
 
 
+def prepare_feature_frame(df: pd.DataFrame) -> pd.DataFrame:
+    out = df.copy()
+    for col in NUMERIC_FEATURES:
+        if col in out.columns:
+            out[col] = pd.to_numeric(out[col], errors="coerce")
+    for col in CATEGORICAL_FEATURES:
+        if col in out.columns:
+            out[col] = out[col].fillna("unknown").astype(str)
+    return out
+
+
 def available_features(df: pd.DataFrame) -> tuple[list[str], list[str]]:
     cat = [c for c in CATEGORICAL_FEATURES if c in df.columns]
     num = [c for c in NUMERIC_FEATURES if c in df.columns]
@@ -55,39 +117,41 @@ def available_features(df: pd.DataFrame) -> tuple[list[str], list[str]]:
 
 
 def make_preprocessor(df: pd.DataFrame) -> ColumnTransformer:
+    df = prepare_feature_frame(df)
     cat, num = available_features(df)
-    transformers = []
+    transformers: list[tuple[str, Pipeline, list[str]]] = []
     if cat:
-        transformers.append(
-            (
-                "cat",
-                Pipeline(
-                    steps=[
-                        ("imputer", SimpleImputer(strategy="constant", fill_value="unknown")),
-                        ("onehot", _one_hot_encoder()),
-                    ]
-                ),
-                cat,
-            )
-        )
+        transformers.append(("cat", Pipeline([("imputer", SimpleImputer(strategy="constant", fill_value="unknown")), ("onehot", _one_hot_encoder())]), cat))
     if num:
-        transformers.append(
-            (
-                "num",
-                Pipeline(steps=[("imputer", SimpleImputer(strategy="median")), ("scaler", StandardScaler())]),
-                num,
-            )
-        )
+        transformers.append(("num", Pipeline([("imputer", SimpleImputer(strategy="median")), ("scaler", StandardScaler())]), num))
     if not transformers:
         raise ValueError("No modeling features are available in this frame")
     return ColumnTransformer(transformers=transformers)
+
+
+def make_direction_pipeline(df: pd.DataFrame) -> Pipeline:
+    return Pipeline([
+        ("preprocessor", make_preprocessor(df)),
+        ("classifier", LogisticRegression(max_iter=2000, class_weight="balanced", solver="liblinear")),
+    ])
 
 
 def load_event_study(path: str | Path) -> pd.DataFrame:
     df = pd.read_csv(path)
     if "reaction_start" in df.columns:
         df["reaction_start"] = pd.to_datetime(df["reaction_start"], errors="coerce")
+    if "event_time" in df.columns:
+        df["event_time"] = pd.to_datetime(df["event_time"], errors="coerce")
     return df
+
+
+def _target_series(series: pd.Series) -> pd.Series:
+    y = series.astype(str).str.lower().map({"true": 1, "false": 0, "1": 1, "0": 0})
+    if y.isna().any():
+        y = series.astype(bool).astype(int)
+    else:
+        y = y.astype(int)
+    return y
 
 
 def modeling_frame(df: pd.DataFrame, horizon: int = 1) -> tuple[pd.DataFrame, pd.Series]:
@@ -100,17 +164,14 @@ def modeling_frame(df: pd.DataFrame, horizon: int = 1) -> tuple[pd.DataFrame, pd
     clean = df[(df["event_status"] == "ok") & df[target].notna() & df[car].notna()].copy()
     if clean.empty:
         raise ValueError("No usable event-study rows for modeling")
-    y = clean[target].astype(str).str.lower().map({"true": 1, "false": 0, "1": 1, "0": 0})
-    if y.isna().any():
-        y = clean[target].astype(bool).astype(int)
-    else:
-        y = y.astype(int)
+    clean = prepare_feature_frame(clean)
+    y = _target_series(clean[target])
     return clean, y
 
 
 def chronological_split(df: pd.DataFrame, y: pd.Series, test_size: float = 0.3) -> tuple[pd.DataFrame, pd.DataFrame, pd.Series, pd.Series]:
     if "reaction_start" in df.columns:
-        order = df["reaction_start"].sort_values(kind="mergesort").index
+        order = pd.to_datetime(df["reaction_start"], errors="coerce").sort_values(kind="mergesort").index
     elif "event_time" in df.columns:
         order = pd.to_datetime(df["event_time"], errors="coerce").sort_values(kind="mergesort").index
     else:
@@ -121,6 +182,21 @@ def chronological_split(df: pd.DataFrame, y: pd.Series, test_size: float = 0.3) 
     split = max(1, int(round(n * (1.0 - test_size))))
     split = min(split, n - 1) if n > 1 else n
     return ordered_df.iloc[:split], ordered_df.iloc[split:], ordered_y.iloc[:split], ordered_y.iloc[split:]
+
+
+def _classification_metrics(y_true: pd.Series, proba: np.ndarray, pred: np.ndarray) -> dict[str, Any]:
+    y_true = pd.Series(y_true).astype(int)
+    proba = np.clip(np.asarray(proba, dtype=float), 1e-6, 1.0 - 1e-6)
+    pred = np.asarray(pred, dtype=int)
+    metrics: dict[str, Any] = {
+        "accuracy": float(accuracy_score(y_true, pred)),
+        "brier_score": float(brier_score_loss(y_true, proba)),
+    }
+    if y_true.nunique() == 2:
+        metrics["balanced_accuracy"] = float(balanced_accuracy_score(y_true, pred))
+        metrics["roc_auc"] = float(roc_auc_score(y_true, proba))
+        metrics["log_loss"] = float(log_loss(y_true, proba, labels=[0, 1]))
+    return metrics
 
 
 def train_direction_model(
@@ -134,17 +210,7 @@ def train_direction_model(
     frame, y = modeling_frame(df, horizon=horizon)
     cat, num = available_features(frame)
     X_train, X_test, y_train, y_test = chronological_split(frame, y, test_size=test_size)
-    pre = make_preprocessor(frame)
-    model = Pipeline(
-        steps=[
-            ("preprocessor", pre),
-            (
-                "classifier",
-                LogisticRegression(max_iter=2000, class_weight="balanced", solver="liblinear"),
-            ),
-        ]
-    )
-
+    model = make_direction_pipeline(frame)
     report: dict[str, Any] = {
         "horizon": horizon,
         "n_events": int(len(frame)),
@@ -153,50 +219,27 @@ def train_direction_model(
         "categorical_features": cat,
         "numeric_features": num,
         "target": f"target_positive_h{horizon}",
-        "warnings": [],
+        "warnings": ["Baseline model only. Treat metrics as a plumbing diagnostic until validated with placebos and walk-forward tests."],
     }
-
     if len(frame) < 30:
-        report["warnings"].append(
-            "Very small sample. Treat metrics as a plumbing check, not evidence of predictive edge."
-        )
+        report["warnings"].append("Very small sample. Metrics are unstable.")
     if y.nunique() < 2:
         raise ValueError("Target has only one class; cannot train a direction classifier")
     if y_train.nunique() < 2:
-        # Logistic regression cannot train on one class. Fall back to fitting on all data
-        # and skip honest test metrics.
-        report["warnings"].append(
-            "Chronological train split had one class; fitted on full data and skipped out-of-sample metrics."
-        )
+        report["warnings"].append("Chronological train split had one class; fitted on full data and skipped out-of-sample metrics.")
         model.fit(frame, y)
         report["metrics"] = {}
     else:
         model.fit(X_train, y_train)
-        metrics: dict[str, Any] = {}
         if len(X_test) > 0:
             pred = model.predict(X_test)
-            metrics["accuracy"] = float(accuracy_score(y_test, pred))
-            metrics["balanced_accuracy"] = float(balanced_accuracy_score(y_test, pred))
-            if hasattr(model, "predict_proba") and y_test.nunique() == 2:
-                proba = model.predict_proba(X_test)[:, 1]
-                metrics["roc_auc"] = float(roc_auc_score(y_test, proba))
-                metrics["log_loss"] = float(log_loss(y_test, proba, labels=[0, 1]))
-            else:
-                report["warnings"].append("Test set had one class; ROC/log-loss skipped.")
-        report["metrics"] = metrics
-
+            proba = model.predict_proba(X_test)[:, 1]
+            report["metrics"] = _classification_metrics(y_test, proba, pred)
+        else:
+            report["metrics"] = {}
     if out_model:
         p = ensure_parent(out_model)
-        joblib.dump(
-            {
-                "pipeline": model,
-                "horizon": horizon,
-                "categorical_features": cat,
-                "numeric_features": num,
-                "target": f"target_positive_h{horizon}",
-            },
-            p,
-        )
+        joblib.dump({"pipeline": model, "horizon": horizon, "categorical_features": cat, "numeric_features": num, "target": f"target_positive_h{horizon}"}, p)
         report["model_path"] = str(p)
     if out_report:
         p = ensure_parent(out_report)
@@ -205,15 +248,12 @@ def train_direction_model(
     return report
 
 
-def predict_direction(
-    model_path: str | Path,
-    event_study_path: str | Path,
-    out_path: str | Path | None = None,
-) -> pd.DataFrame:
+def predict_direction(model_path: str | Path, event_study_path: str | Path, out_path: str | Path | None = None) -> pd.DataFrame:
     bundle = joblib.load(model_path)
     pipeline = bundle["pipeline"]
     df = load_event_study(event_study_path)
     usable = df[df.get("event_status", "ok") == "ok"].copy()
+    usable = prepare_feature_frame(usable)
     proba = pipeline.predict_proba(usable)[:, 1]
     pred = pipeline.predict(usable)
     usable["predicted_positive_probability"] = proba
@@ -224,15 +264,96 @@ def predict_direction(
     return usable
 
 
-def find_analogs(
+def walk_forward_direction_model(
     event_study_path: str | Path,
-    event_id: str,
-    k: int = 5,
     horizon: int = 1,
-    out_path: str | Path | None = None,
-) -> pd.DataFrame:
+    min_train: int = 40,
+    out_predictions: str | Path | None = None,
+    out_report: str | Path | None = None,
+) -> dict[str, Any]:
+    """Run an expanding-window walk-forward direction model."""
+    df = load_event_study(event_study_path)
+    frame, y = modeling_frame(df, horizon=horizon)
+    if "reaction_start" in frame.columns:
+        order = pd.to_datetime(frame["reaction_start"], errors="coerce").sort_values(kind="mergesort").index
+    elif "event_time" in frame.columns:
+        order = pd.to_datetime(frame["event_time"], errors="coerce").sort_values(kind="mergesort").index
+    else:
+        order = frame.index
+    frame = frame.loc[order].reset_index(drop=True)
+    y = y.loc[order].reset_index(drop=True)
+    min_train = max(2, int(min_train))
+    if len(frame) <= min_train:
+        raise ValueError(f"Need more than min_train={min_train} usable events for walk-forward validation")
+
+    rows: list[dict[str, Any]] = []
+    for i in range(min_train, len(frame)):
+        X_train = frame.iloc[:i].copy()
+        y_train = y.iloc[:i].copy()
+        X_one = frame.iloc[[i]].copy()
+        base_rate = float(np.clip(y_train.mean(), 1e-6, 1.0 - 1e-6))
+        if y_train.nunique() < 2:
+            proba = base_rate
+            pred = int(proba >= 0.5)
+            status = "fallback_base_rate_one_class_train"
+        else:
+            model = make_direction_pipeline(X_train)
+            model.fit(X_train, y_train)
+            proba = float(model.predict_proba(X_one)[:, 1][0])
+            pred = int(proba >= 0.5)
+            status = "ok"
+        row = frame.iloc[i]
+        rows.append(
+            {
+                "row_number": i,
+                "event_id": row.get("event_id", ""),
+                "ticker": row.get("ticker", ""),
+                "reaction_start": row.get("reaction_start", ""),
+                "event_type": row.get("event_type", ""),
+                "event_subtype": row.get("event_subtype", ""),
+                "y_true": int(y.iloc[i]),
+                "actual_positive": int(y.iloc[i]),
+                "predicted_positive_probability": proba,
+                "predicted_positive": pred,
+                "baseline_positive_probability": base_rate,
+                "model_status": status,
+                f"car_market_model_h{horizon}": row.get(f"car_market_model_h{horizon}", np.nan),
+            }
+        )
+    pred_df = pd.DataFrame(rows)
+    y_true = pred_df["y_true"].astype(int)
+    proba = pred_df["predicted_positive_probability"].astype(float).to_numpy()
+    pred = pred_df["predicted_positive"].astype(int).to_numpy()
+    base = np.clip(pred_df["baseline_positive_probability"].astype(float).to_numpy(), 1e-6, 1.0 - 1e-6)
+    report: dict[str, Any] = {
+        "horizon": horizon,
+        "n_events": int(len(frame)),
+        "min_train": int(min_train),
+        "n_predictions": int(len(pred_df)),
+        "categorical_features": available_features(frame)[0],
+        "numeric_features": available_features(frame)[1],
+        "warnings": ["Walk-forward metrics are a research diagnostic, not evidence of tradable alpha."],
+        "metrics": _classification_metrics(y_true, proba, pred),
+        "baseline_metrics": {
+            "brier_score": float(brier_score_loss(y_true, base)),
+            "log_loss": float(log_loss(y_true, base, labels=[0, 1])) if y_true.nunique() == 2 else None,
+        },
+    }
+    if out_predictions:
+        p = ensure_parent(out_predictions)
+        pred_df.to_csv(p, index=False)
+        report["predictions_path"] = str(p)
+    if out_report:
+        p = ensure_parent(out_report)
+        p.write_text(json.dumps(report, indent=2, default=str))
+        report["report_path"] = str(p)
+    return report
+
+
+def find_analogs(event_study_path: str | Path, event_id: str, k: int = 5, horizon: int = 1, out_path: str | Path | None = None) -> pd.DataFrame:
     df = load_event_study(event_study_path)
     frame = df[df.get("event_status", "ok") == "ok"].copy().reset_index(drop=True)
+    frame = prepare_feature_frame(frame)
     if frame.empty:
         raise ValueError("No ok event-study rows available")
     matches = frame.index[frame["event_id"].astype(str) == str(event_id)].tolist()
@@ -256,17 +377,9 @@ def find_analogs(
             break
     out = pd.DataFrame(rows)
     preferred = [
-        "similarity",
-        "event_id",
-        "ticker",
-        "reaction_start",
-        "event_type",
-        "event_subtype",
-        "summary",
-        f"car_market_model_h{horizon}",
-        f"z_h{horizon}",
-        f"target_direction_h{horizon}",
-        f"significant_95_h{horizon}",
+        "similarity", "event_id", "ticker", "reaction_start", "event_type", "event_subtype", "summary",
+        "fundamental_surprise_score", "surprise_direction_inferred", f"car_market_model_h{horizon}",
+        f"z_h{horizon}", f"target_direction_h{horizon}", f"significant_95_h{horizon}",
     ]
     cols = [c for c in preferred if c in out.columns] + [c for c in out.columns if c not in preferred]
     out = out[cols]

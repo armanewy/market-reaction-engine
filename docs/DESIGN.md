@@ -14,10 +14,13 @@ This repository implements the measurement layer first. Prediction comes only af
 ## Pipeline
 
 ```text
-curated events CSV
+curated events CSV or earnings corpus
        |
        v
 price loader / returns
+       |
+       v
+expectations/context enrichment
        |
        v
 event-study engine
@@ -64,3 +67,10 @@ label: next-day market-model CAR
 ```
 
 That is narrow enough to debug and broad enough to have sample size.
+
+
+## v0.2 earnings milestone
+
+The first narrow corpus path is earnings/guidance-like events across comparable companies. The current implementation starts with EPS surprise because it is easy to source and test, but the design assumes EPS is only one feature. In practice, the richer expectation layer should include revenue, margins, guidance, options implied move, and point-in-time analyst revisions.
+
+The important design constraint is that all expectation features are computed before the event-study target is measured. The code deliberately separates `enrich-expectations` from `run-event-study` so you can inspect and audit feature columns before labels are attached.

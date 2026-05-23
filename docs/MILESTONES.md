@@ -6,7 +6,7 @@ Status: implemented.
 
 - Project layout
 - CLI
-- Synthetic demo
+- Synthetic demos
 - Tests
 
 ## M1: Event-study engine
@@ -25,12 +25,16 @@ Status: implemented.
 
 Status: partially implemented.
 
-- SEC submissions template generator exists.
-- It does not yet parse filing content or infer surprise/materiality.
+Implemented:
+
+- SEC submissions template generator
+- SEC 8-K Item 2.02 earnings-candidate corpus
+- Alpha Vantage quarterly EPS-history corpus
+- yfinance earnings-date/EPS bootstrap corpus
 
 Next:
 
-- Parse filing documents.
+- Parse filing/transcript content.
 - Compute filing diffs against prior 10-K/10-Q.
 - Add primary-source evidence spans.
 
@@ -41,30 +45,39 @@ Status: implemented.
 - Nearest-neighbor event analogs
 - Logistic baseline classifier
 - Chronological split
+- Walk-forward validation command
 - Markdown report
 
 Next:
 
-- Add walk-forward validation.
-- Add calibration metrics.
+- Add calibration curves.
 - Add abstention thresholds.
+- Add placebo controls.
 
 ## M4: Expectations layer
 
-Status: not implemented.
+Status: started/implemented as MVP.
 
-This is the most important next milestone.
+Implemented:
 
-Potential features:
+- EPS estimate/surprise fields from an earnings corpus
+- External expectation template/merge flow
+- Leakage guard for expectation `asof_time`
+- Pre-event drift over 5/20/60 trading days
+- Market-adjusted and sector-adjusted pre-event drift
+- Pre-event volatility
+- Rolling beta/idiosyncratic volatility proxy
+- Pre-event volume z-score
+- Simple surprise-vs-runup score
 
-- Analyst consensus
-- Company guidance
+Still missing:
+
 - Options implied move
-- Pre-event drift
+- Revenue/margin/segment/guidance surprise from real point-in-time feeds
+- Institutional point-in-time analyst estimates
 - Valuation multiple
-- Volatility regime
 - Short interest
-- Sector/peer moves
+- Peer-basket reaction context
 
 ## M5: LLM extraction layer
 
@@ -72,13 +85,19 @@ Status: not implemented.
 
 Use LLMs only to convert documents into structured point-in-time facts. Do not let the LLM see the subsequent stock move.
 
-## M6: Narrow-domain corpus
+## M6: Narrow-domain corpora
 
-Status: not implemented.
+Status: earnings started.
 
-Build one high-quality corpus before expanding:
+Implemented in v0.2:
 
-- earnings/guidance events
+- Earnings/EPS-surprise event corpus path using Alpha Vantage and yfinance as prototype providers
+- Primary-source SEC earnings-candidate corpus path
+- Built-in sector presets for comparable-company corpora
+- Offline synthetic earnings demo
+
+Next corpora to consider after earnings:
+
 - FDA/biotech events
 - antitrust/regulatory events
 - cyber breach events
@@ -90,11 +109,11 @@ Status: not implemented.
 
 Required before taking any trading signal seriously:
 
-- walk-forward validation
+- placebo dates
+- peer placebos
 - transaction costs
 - slippage
 - position sizing
-- placebo dates
-- peer placebos
-- feature pre-registration
-- no lookahead data
+- calibration/abstention
+- strict point-in-time data handling
+- pre-registered feature sets
