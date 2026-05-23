@@ -31,7 +31,9 @@ from .expectations import enrich_expectations, make_expectations_template, merge
 from .management_guidance import (
     build_management_guidance_bridge,
     validate_management_guidance_bridge,
+    write_management_guidance_period_audit,
     write_management_guidance_bridge_report,
+    write_management_guidance_expansion_report,
     write_management_guidance_validation_report,
 )
 from .modeling import find_analogs, predict_direction, train_direction_model, walk_forward_direction_model
@@ -364,9 +366,14 @@ def cmd_management_guidance_bridge(args: argparse.Namespace) -> None:
         max_prior_event_gap_days=args.max_prior_event_gap_days,
         min_actual_to_prior_ratio=args.min_actual_to_prior_ratio,
         max_actual_to_prior_ratio=args.max_actual_to_prior_ratio,
+        require_period_alignment=not args.no_require_period_alignment,
     )
     if args.report_out:
         write_management_guidance_bridge_report(bridge, diag, args.report_out)
+    if args.period_audit_out:
+        write_management_guidance_period_audit(bridge, args.period_audit_out)
+    if args.expansion_report_out:
+        write_management_guidance_expansion_report(bridge, diag, args.expansion_report_out, event_study_path=args.event_study)
     print(json.dumps({"rows": int(len(bridge)), "out": str(args.out), "report": str(args.report_out or ""), "diagnostics": diag.to_dict()}, indent=2, default=str))
 
 
@@ -1100,11 +1107,15 @@ def build_parser() -> argparse.ArgumentParser:
         parser.add_argument("--out", required=True)
         parser.add_argument("--failures-out", default=None)
         parser.add_argument("--report-out", default=None)
+        parser.add_argument("--period-audit-out", default=None)
+        parser.add_argument("--expansion-report-out", default=None)
+        parser.add_argument("--event-study", default=None, help="Optional event-study CSV for descriptive diagnostics only.")
         parser.add_argument("--min-confidence", type=float, default=0.80)
         parser.add_argument("--min-prior-event-gap-days", type=int, default=45)
         parser.add_argument("--max-prior-event-gap-days", type=int, default=190)
         parser.add_argument("--min-actual-to-prior-ratio", type=float, default=0.50)
         parser.add_argument("--max-actual-to-prior-ratio", type=float, default=1.75)
+        parser.add_argument("--no-require-period-alignment", action="store_true")
         parser.set_defaults(func=cmd_management_guidance_bridge)
         return parser
 

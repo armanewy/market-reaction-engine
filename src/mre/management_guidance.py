@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
+import re
 
 import numpy as np
 import pandas as pd
@@ -10,6 +11,21 @@ from .paths import ensure_parent
 
 
 READY_STATUS = "ready_for_model"
+ALIGNED_PERIOD_STATUSES = {"aligned", "inferred_aligned"}
+QUARTER_WORDS = {
+    "first": 1,
+    "1st": 1,
+    "q1": 1,
+    "second": 2,
+    "2nd": 2,
+    "q2": 2,
+    "third": 3,
+    "3rd": 3,
+    "q3": 3,
+    "fourth": 4,
+    "4th": 4,
+    "q4": 4,
+}
 
 
 @dataclass
@@ -67,6 +83,110 @@ def _magnitude(pct: float) -> str:
     return "neutral"
 
 
+def _period_label(year: int | float | None, quarter: int | float | None) -> str:
+    if pd.isna(year) or pd.isna(quarter):
+        return ""
+    return f"FY{int(year)}Q{int(quarter)}"
+
+
+def _previous_fiscal_quarter(year: int, quarter: int) -> tuple[int, int]:
+    if quarter == 1:
+        return year - 1, 4
+    return year, quarter - 1
+
+
+def _quarter_from_token(token: str) -> int | None:
+    token = token.lower().strip()
+    if token.isdigit() and token in {"1", "2", "3", "4"}:
+        return int(token)
+    return QUARTER_WORDS.get(token)
+
+
+def _full_year_text(text: str) -> bool:
+    lower = text.lower()
+    return bool(
+        re.search(r"\bfiscal\s+(?:year\s+)?\d{4}\s+revenue\b", lower)
+        or re.search(r"\bfull[-\s]?year\b", lower)
+        or re.search(r"\byear\s+ended\b", lower)
+        or re.search(r"\bannual\b", lower)
+    )
+
+
+def _parse_fiscal_period(text: str) -> tuple[int, int, str] | None:
+    lower = text.lower()
+    q_tokens = r"first|1st|second|2nd|third|3rd|fourth|4th|q[1-4]"
+    patterns = [
+        rf"\b({q_tokens})\s+quarter\s+(?:of\s+)?(?:fiscal\s+)?(?:year\s+)?(\d{{4}})\b",
+        rf"\b(?:fiscal\s+)?(?:year\s+)?(\d{{4}})\s+({q_tokens})\s+quarter\b",
+        r"\bq([1-4])\s+(?:fiscal\s+)?(?:year\s+)?(\d{4})\b",
+        r"\b(?:fiscal\s+)?(?:year\s+)?(\d{4})\s+q([1-4])\b",
+    ]
+    for idx, pattern in enumerate(patterns):
+        match = re.search(pattern, lower)
+        if not match:
+            continue
+        if idx in {0, 2}:
+            q_token, year_token = match.group(1), match.group(2)
+        else:
+            year_token, q_token = match.group(1), match.group(2)
+        quarter = _quarter_from_token(q_token)
+        if quarter is None:
+            continue
+        return int(year_token), quarter, match.group(0)
+    return None
+
+
+def _infer_period_alignment(event: pd.Series, prior: pd.Series | None, gap_days: float) -> dict:
+    actual_evidence = _text_value(event, "actual_revenue_evidence")
+    current_guidance_evidence = _text_value(event, "guidance_revenue_mid_evidence")
+    prior_guidance_evidence = "" if prior is None else _text_value(prior, "guidance_revenue_mid_evidence")
+
+    current_target = _parse_fiscal_period(current_guidance_evidence)
+    prior_target = _parse_fiscal_period(prior_guidance_evidence)
+    actual_period = _parse_fiscal_period(actual_evidence)
+    actual_is_full_year = actual_period is None and _full_year_text(actual_evidence)
+
+    current_reported = actual_period
+    current_source = "actual_revenue_evidence"
+    notes: list[str] = []
+    if actual_is_full_year:
+        notes.append("actual revenue evidence appears to describe a full-year period")
+    if current_reported is None and current_target is not None:
+        year, quarter = _previous_fiscal_quarter(current_target[0], current_target[1])
+        current_reported = (year, quarter, f"inferred from current guidance target {current_target[2]}")
+        current_source = "current_guidance_target_minus_one_quarter"
+    elif current_reported is None and prior_target is not None and not pd.isna(gap_days) and 70 <= float(gap_days) <= 120:
+        current_reported = (prior_target[0], prior_target[1], f"inferred from prior guidance target {prior_target[2]}")
+        current_source = "prior_guidance_target_with_quarterly_gap"
+
+    if actual_is_full_year:
+        status = "rejected"
+    elif prior_target is not None and current_reported is not None:
+        status = "aligned" if (prior_target[0], prior_target[1]) == (current_reported[0], current_reported[1]) else "ambiguous"
+        if status == "ambiguous":
+            notes.append("prior guidance target period does not match inferred current reported period")
+    elif not pd.isna(gap_days) and 70 <= float(gap_days) <= 120:
+        status = "inferred_aligned"
+        notes.append("period inferred from normal quarterly event gap")
+    else:
+        status = "ambiguous"
+        notes.append("insufficient fiscal-period evidence")
+
+    return {
+        "current_reported_period_text": "" if current_reported is None else current_reported[2],
+        "current_reported_fiscal_year": np.nan if current_reported is None else current_reported[0],
+        "current_reported_fiscal_quarter": np.nan if current_reported is None else current_reported[1],
+        "current_reported_period_label": "" if current_reported is None else _period_label(current_reported[0], current_reported[1]),
+        "current_reported_period_source": current_source if current_reported is not None else "",
+        "prior_guidance_target_period_text": "" if prior_target is None else prior_target[2],
+        "prior_guidance_target_fiscal_year": np.nan if prior_target is None else prior_target[0],
+        "prior_guidance_target_fiscal_quarter": np.nan if prior_target is None else prior_target[1],
+        "prior_guidance_target_period_label": "" if prior_target is None else _period_label(prior_target[0], prior_target[1]),
+        "period_alignment_status": status,
+        "period_alignment_notes": "; ".join(notes),
+    }
+
+
 def _merge_metadata(features: pd.DataFrame, events_path: str | Path | None) -> pd.DataFrame:
     out = features.copy()
     if not events_path:
@@ -119,6 +239,7 @@ def build_management_guidance_bridge(
     max_prior_event_gap_days: int = 190,
     min_actual_to_prior_ratio: float = 0.50,
     max_actual_to_prior_ratio: float = 1.75,
+    require_period_alignment: bool = True,
 ) -> tuple[pd.DataFrame, BridgeDiagnostics]:
     """Build a source-grounded management-guidance surprise bridge.
 
@@ -200,6 +321,10 @@ def build_management_guidance_bridge(
                 flags.append("missing_current_guidance")
             elif not pd.isna(current_guidance_conf) and float(current_guidance_conf) < min_confidence:
                 flags.append("low_current_guidance_confidence")
+            period = _infer_period_alignment(event, prior, gap_days)
+            if status == READY_STATUS and require_period_alignment and period["period_alignment_status"] not in ALIGNED_PERIOD_STATUSES:
+                status = "period_ambiguous"
+                flags.append(f"period_alignment_{period['period_alignment_status']}")
 
             surprise = np.nan
             surprise_pct = np.nan
@@ -253,6 +378,7 @@ def build_management_guidance_bridge(
                 "prior_guidance_revenue_confidence": prior_guidance_conf,
                 "prior_guidance_revenue_evidence": "" if prior is None else _text_value(prior, "guidance_revenue_mid_evidence"),
                 "prior_event_gap_days": gap_days,
+                **period,
                 "actual_vs_prior_management_guidance": surprise,
                 "actual_vs_prior_management_guidance_pct": surprise_pct,
                 "management_guidance_surprise_pct": surprise_pct,
@@ -341,12 +467,14 @@ def validate_management_guidance_bridge(
     gaps = pd.to_numeric(ready.get("prior_event_gap_days", pd.Series(dtype=float)), errors="coerce")
     actual_conf = pd.to_numeric(ready.get("actual_revenue_confidence", pd.Series(dtype=float)), errors="coerce")
     prior_conf = pd.to_numeric(ready.get("prior_guidance_revenue_confidence", pd.Series(dtype=float)), errors="coerce")
+    period_status = ready.get("period_alignment_status", pd.Series(dtype=str)).astype(str)
     checks = {
         "ready_rows_minimum": ready_count >= min_ready_rows,
         "ready_rows_preferred": ready_count >= preferred_ready_rows,
         "actual_revenue_confidence": bool((actual_conf >= min_confidence).all()) if ready_count else False,
         "prior_guidance_revenue_confidence": bool((prior_conf >= min_confidence).all()) if ready_count else False,
         "prior_event_gap_bounds": bool(gaps.between(min_gap_days, max_gap_days, inclusive="both").all()) if ready_count else False,
+        "period_alignment_non_ambiguous": bool(period_status.isin(ALIGNED_PERIOD_STATUSES).all()) if ready_count else False,
         "ticker_count": len(ready_by_ticker) >= min_tickers,
         "single_ticker_concentration": max_share <= max_single_ticker_share if ready_count else False,
         "no_eps_dependency": not any("eps" in col.lower() for col in bridge.columns),
@@ -376,6 +504,123 @@ def write_management_guidance_validation_report(report: dict, out_path: str | Pa
     lines.extend(["", "## Ready Rows By Ticker", ""])
     for ticker, count in sorted(report["ready_by_ticker"].items()):
         lines.append(f"- {ticker}: {count}")
+    ensure_parent(out_path).write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def write_management_guidance_period_audit(bridge: pd.DataFrame, out_path: str | Path) -> None:
+    cols = [
+        "event_id",
+        "ticker",
+        "event_time",
+        "bridge_status",
+        "model_eligible",
+        "current_reported_period_label",
+        "current_reported_period_text",
+        "current_reported_period_source",
+        "prior_guidance_target_period_label",
+        "prior_guidance_target_period_text",
+        "period_alignment_status",
+        "period_alignment_notes",
+        "actual_revenue",
+        "actual_revenue_evidence",
+        "prior_guidance_revenue_mid",
+        "prior_guidance_revenue_evidence",
+        "current_guidance_revenue_mid",
+        "current_guidance_revenue_evidence",
+        "prior_event_gap_days",
+        "parser_quality_flags",
+    ]
+    ensure_parent(out_path)
+    bridge[[c for c in cols if c in bridge.columns]].to_csv(out_path, index=False)
+
+
+def _threshold_count_lines(ready: pd.DataFrame, col: str) -> list[str]:
+    values = pd.to_numeric(ready.get(col, pd.Series(dtype=float)), errors="coerce")
+    lines: list[str] = []
+    for threshold in [-0.005, -0.01, -0.02]:
+        lines.append(f"- {col} <= {threshold:.3f}: {int((values <= threshold).sum())}")
+    for threshold in [0.005, 0.01, 0.02]:
+        lines.append(f"- {col} >= +{threshold:.3f}: {int((values >= threshold).sum())}")
+    return lines
+
+
+def _top_fix_candidates(bridge: pd.DataFrame) -> pd.DataFrame:
+    non_ready = bridge[bridge["bridge_status"] != READY_STATUS].copy()
+    if non_ready.empty:
+        return non_ready
+    actual = pd.to_numeric(non_ready.get("actual_revenue", pd.Series(dtype=float)), errors="coerce")
+    prior = pd.to_numeric(non_ready.get("prior_guidance_revenue_mid", pd.Series(dtype=float)), errors="coerce")
+    current_guidance = pd.to_numeric(non_ready.get("current_guidance_revenue_mid", pd.Series(dtype=float)), errors="coerce")
+    score = pd.Series(0, index=non_ready.index, dtype=int)
+    score += actual.notna().astype(int)
+    score += prior.notna().astype(int)
+    score += current_guidance.notna().astype(int)
+    score += non_ready["bridge_status"].isin(["missing_actual_revenue", "missing_prior_guidance", "period_ambiguous"]).astype(int)
+    non_ready["_fix_score"] = score
+    return non_ready.sort_values(["_fix_score", "ticker", "event_time"], ascending=[False, True, True]).head(20)
+
+
+def write_management_guidance_expansion_report(
+    bridge: pd.DataFrame,
+    diagnostics: BridgeDiagnostics,
+    out_path: str | Path,
+    *,
+    event_study_path: str | Path | None = None,
+) -> None:
+    ready = bridge[bridge["bridge_status"] == READY_STATUS].copy() if not bridge.empty else bridge.copy()
+    lines = [
+        "# Agent 1D2 Expansion Report - Management-Guidance Bridge",
+        "",
+        "## Decision",
+        "",
+        "**Do not model yet. Expand and validate the bridge.**",
+        "",
+        "## Failure Triage",
+        "",
+    ]
+    for status, count in diagnostics.status_counts.items():
+        lines.append(f"- {status}: {count}")
+    lines.extend(["", "## Bridge Readiness", ""])
+    lines.append(f"- ready_for_model rows: {diagnostics.ready_for_model}")
+    lines.append(f"- ready tickers: {len(diagnostics.ready_by_ticker)}")
+    lines.append(f"- likely OOS predictions with min_train=40: {max(0, diagnostics.ready_for_model - 40)}")
+    lines.append(f"- top ticker share: {max(diagnostics.ready_by_ticker.values()) / diagnostics.ready_for_model:.3f}" if diagnostics.ready_for_model else "- top ticker share: n/a")
+    lines.extend(["", "## Ready Rows By Ticker", ""])
+    for ticker, count in diagnostics.ready_by_ticker.items():
+        lines.append(f"- {ticker}: {count}")
+    lines.extend(["", "## Period Alignment", ""])
+    if "period_alignment_status" in bridge.columns:
+        for status, count in bridge["period_alignment_status"].value_counts(dropna=False).to_dict().items():
+            lines.append(f"- {status}: {count}")
+    lines.extend(["", "## Threshold Counts", ""])
+    lines.extend(_threshold_count_lines(ready, "actual_vs_prior_management_guidance_pct"))
+
+    if event_study_path and Path(event_study_path).exists() and not ready.empty:
+        event_study = pd.read_csv(event_study_path)
+        merged = ready.merge(event_study, on="event_id", how="left", suffixes=("", "_event_study"))
+        runup = pd.to_numeric(merged.get("market_adjusted_pre_return_20d", pd.Series(dtype=float)), errors="coerce")
+        surprise = pd.to_numeric(merged.get("actual_vs_prior_management_guidance_pct", pd.Series(dtype=float)), errors="coerce")
+        h1 = pd.to_numeric(merged.get("car_sector_adj_h1", pd.Series(dtype=float)), errors="coerce")
+        h3 = pd.to_numeric(merged.get("car_sector_adj_h3", pd.Series(dtype=float)), errors="coerce")
+        lines.extend(["", "## Descriptive Market Context", ""])
+        lines.append(f"- ready rows with positive 20d market-adjusted run-up: {int((runup > 0).sum())}")
+        lines.append(f"- mean surprise pct after positive run-up: {surprise[runup > 0].mean():.4f}" if (runup > 0).any() else "- mean surprise pct after positive run-up: n/a")
+        lines.append(f"- mean h1 sector-adjusted abnormal return: {h1.mean():.4f}" if h1.notna().any() else "- mean h1 sector-adjusted abnormal return: n/a")
+        lines.append(f"- mean h3 sector-adjusted abnormal return: {h3.mean():.4f}" if h3.notna().any() else "- mean h3 sector-adjusted abnormal return: n/a")
+        miss_1 = surprise <= -0.01
+        lines.append(f"- h1 sector-adjusted return for <= -1% management-guidance misses: {h1[miss_1].mean():.4f}" if miss_1.any() else "- h1 sector-adjusted return for <= -1% management-guidance misses: n/a")
+        lines.append(f"- h3 sector-adjusted return for <= -1% management-guidance misses: {h3[miss_1].mean():.4f}" if miss_1.any() else "- h3 sector-adjusted return for <= -1% management-guidance misses: n/a")
+
+    candidates = _top_fix_candidates(bridge)
+    lines.extend(["", "## Top Fix Candidates", ""])
+    if candidates.empty:
+        lines.append("- None.")
+    else:
+        for _, row in candidates.iterrows():
+            lines.append(
+                f"- {row.get('ticker', '')} {row.get('event_time', '')} {row.get('bridge_status', '')}: "
+                f"{row.get('event_id', '')}"
+            )
     ensure_parent(out_path).write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
