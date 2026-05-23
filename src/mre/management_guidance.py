@@ -15,9 +15,15 @@ READY_STATUS = "ready_for_model"
 @dataclass
 class BridgeDiagnostics:
     rows_total: int = 0
+    events_with_actual_revenue: int = 0
+    events_with_current_guidance_revenue_mid: int = 0
+    events_with_prior_guidance_candidate: int = 0
     ready_for_model: int = 0
     status_counts: dict[str, int] = field(default_factory=dict)
     ready_by_ticker: dict[str, int] = field(default_factory=dict)
+    tickers_with_zero_ready_rows: list[str] = field(default_factory=list)
+    median_prior_event_gap_days: float | None = None
+    date_range: dict[str, str] = field(default_factory=dict)
     warnings: list[str] = field(default_factory=list)
 
     def to_dict(self) -> dict:
@@ -107,7 +113,10 @@ def build_management_guidance_bridge(
     out_path: str | Path,
     *,
     events_path: str | Path | None = None,
+    failures_path: str | Path | None = None,
     min_confidence: float = 0.80,
+    min_prior_event_gap_days: int = 45,
+    max_prior_event_gap_days: int = 190,
     min_actual_to_prior_ratio: float = 0.50,
     max_actual_to_prior_ratio: float = 1.75,
 ) -> tuple[pd.DataFrame, BridgeDiagnostics]:
@@ -137,8 +146,6 @@ def build_management_guidance_bridge(
         "guidance_revenue_high_confidence",
         "actual_gross_margin",
         "actual_gross_margin_confidence",
-        "guidance_eps_mid",
-        "guidance_eps_mid_confidence",
         "guidance_gross_margin_mid",
         "guidance_gross_margin_mid_confidence",
     ]:
@@ -154,18 +161,37 @@ def build_management_guidance_bridge(
             actual_conf = event.get("actual_revenue_confidence", np.nan)
             current_guidance_conf = event.get("guidance_revenue_mid_confidence", np.nan)
             prior_guidance_conf = np.nan if prior is None else prior.get("guidance_revenue_mid_confidence", np.nan)
+            event_time = event.get("event_time")
+            prior_event_time = None if prior is None else prior.get("event_time")
+            gap_days = np.nan
+            if prior is not None and not pd.isna(event_time) and not pd.isna(prior_event_time):
+                gap_days = (pd.Timestamp(event_time) - pd.Timestamp(prior_event_time)).total_seconds() / 86400
             flags: list[str] = []
 
-            if pd.isna(actual):
+            if pd.isna(event_time):
+                status = "bad_timestamp"
+            elif prior is not None and pd.isna(prior_event_time):
+                status = "bad_timestamp"
+            elif pd.isna(actual):
                 status = "missing_actual_revenue"
             elif prior is None or pd.isna(prior_guidance):
                 status = "missing_prior_guidance"
-            elif pd.isna(actual_conf) or float(actual_conf) < min_confidence or pd.isna(prior_guidance_conf) or float(prior_guidance_conf) < min_confidence:
-                status = "low_parser_confidence"
+            elif pd.isna(actual_conf) or float(actual_conf) < min_confidence:
+                status = "low_actual_revenue_confidence"
+            elif pd.isna(prior_guidance_conf) or float(prior_guidance_conf) < min_confidence:
+                status = "low_prior_guidance_confidence"
+            elif pd.isna(gap_days):
+                status = "bad_timestamp"
+            elif gap_days <= 0:
+                status = "duplicate_or_same_day_event"
+            elif gap_days < min_prior_event_gap_days:
+                status = "prior_event_gap_too_short"
+            elif gap_days > max_prior_event_gap_days:
+                status = "prior_event_gap_too_long"
             else:
                 ratio = float(actual) / abs(float(prior_guidance)) if prior_guidance else np.nan
                 if pd.isna(ratio) or ratio < min_actual_to_prior_ratio or ratio > max_actual_to_prior_ratio:
-                    status = "ambiguous_period"
+                    status = "ambiguous"
                     flags.append("actual_to_prior_guidance_ratio_out_of_bounds")
                 else:
                     status = READY_STATUS
@@ -196,7 +222,7 @@ def build_management_guidance_bridge(
             row = {
                 "event_id": event["event_id"],
                 "ticker": str(ticker).upper(),
-                "event_time": event["event_time"].isoformat() if not pd.isna(event["event_time"]) else "",
+                "event_time": event_time.isoformat() if not pd.isna(event_time) else "",
                 "release_session": _text_value(event, "release_session", "unknown"),
                 "event_type": _text_value(event, "event_type", "earnings"),
                 "event_subtype": "management_guidance_bridge",
@@ -213,16 +239,20 @@ def build_management_guidance_bridge(
                 "actual_revenue": actual,
                 "actual_revenue_confidence": actual_conf,
                 "actual_revenue_evidence": _text_value(event, "actual_revenue_evidence"),
+                "current_guidance_revenue_mid": current_guidance,
+                "current_guidance_revenue_low": event.get("guidance_revenue_low", np.nan),
+                "current_guidance_revenue_high": event.get("guidance_revenue_high", np.nan),
+                "current_guidance_revenue_confidence": current_guidance_conf,
+                "current_guidance_revenue_evidence": _text_value(event, "guidance_revenue_mid_evidence"),
                 "guidance_revenue_mid": current_guidance,
-                "guidance_revenue_mid_confidence": current_guidance_conf,
-                "guidance_revenue_mid_evidence": _text_value(event, "guidance_revenue_mid_evidence"),
                 "guidance_revenue_low": event.get("guidance_revenue_low", np.nan),
                 "guidance_revenue_high": event.get("guidance_revenue_high", np.nan),
                 "prior_event_id": "" if prior is None else prior.get("event_id", ""),
-                "prior_event_time": "" if prior is None or pd.isna(prior.get("event_time")) else pd.Timestamp(prior.get("event_time")).isoformat(),
+                "prior_event_time": "" if prior is None or pd.isna(prior_event_time) else pd.Timestamp(prior_event_time).isoformat(),
                 "prior_guidance_revenue_mid": prior_guidance,
-                "prior_guidance_revenue_mid_confidence": prior_guidance_conf,
-                "prior_guidance_revenue_mid_evidence": "" if prior is None else _text_value(prior, "guidance_revenue_mid_evidence"),
+                "prior_guidance_revenue_confidence": prior_guidance_conf,
+                "prior_guidance_revenue_evidence": "" if prior is None else _text_value(prior, "guidance_revenue_mid_evidence"),
+                "prior_event_gap_days": gap_days,
                 "actual_vs_prior_management_guidance": surprise,
                 "actual_vs_prior_management_guidance_pct": surprise_pct,
                 "management_guidance_surprise_pct": surprise_pct,
@@ -230,8 +260,6 @@ def build_management_guidance_bridge(
                 "new_guidance_vs_actual_pct": new_guidance_vs_actual_pct,
                 "actual_gross_margin": event.get("actual_gross_margin", np.nan),
                 "actual_gross_margin_confidence": event.get("actual_gross_margin_confidence", np.nan),
-                "guidance_eps_mid": event.get("guidance_eps_mid", np.nan),
-                "guidance_eps_mid_confidence": event.get("guidance_eps_mid_confidence", np.nan),
                 "guidance_gross_margin_mid": event.get("guidance_gross_margin_mid", np.nan),
                 "guidance_gross_margin_mid_confidence": event.get("guidance_gross_margin_mid_confidence", np.nan),
                 "parser_confidence_min": parser_confidence_min,
@@ -250,16 +278,105 @@ def build_management_guidance_bridge(
     bridge = pd.DataFrame(rows)
     ensure_parent(out_path)
     bridge.to_csv(out_path, index=False)
+    if failures_path:
+        ensure_parent(failures_path)
+        bridge[bridge["bridge_status"] != READY_STATUS].to_csv(failures_path, index=False)
     diag = BridgeDiagnostics(rows_total=int(len(bridge)))
+    diag.events_with_actual_revenue = int(pd.to_numeric(bridge["actual_revenue"], errors="coerce").notna().sum()) if not bridge.empty else 0
+    diag.events_with_current_guidance_revenue_mid = int(pd.to_numeric(bridge["current_guidance_revenue_mid"], errors="coerce").notna().sum()) if not bridge.empty else 0
+    diag.events_with_prior_guidance_candidate = int(pd.to_numeric(bridge["prior_guidance_revenue_mid"], errors="coerce").notna().sum()) if not bridge.empty else 0
     diag.status_counts = bridge["bridge_status"].value_counts(dropna=False).to_dict() if not bridge.empty else {}
     diag.ready_for_model = int((bridge["bridge_status"] == READY_STATUS).sum()) if not bridge.empty else 0
     ready = bridge[bridge["bridge_status"] == READY_STATUS]
     diag.ready_by_ticker = ready["ticker"].value_counts().sort_index().to_dict() if not ready.empty else {}
+    all_tickers = sorted(bridge["ticker"].dropna().unique().tolist()) if not bridge.empty else []
+    ready_tickers = set(diag.ready_by_ticker)
+    diag.tickers_with_zero_ready_rows = [ticker for ticker in all_tickers if ticker not in ready_tickers]
+    ready_gaps = pd.to_numeric(ready["prior_event_gap_days"], errors="coerce") if not ready.empty else pd.Series(dtype=float)
+    diag.median_prior_event_gap_days = float(ready_gaps.median()) if not ready_gaps.dropna().empty else None
+    times = pd.to_datetime(bridge["event_time"], errors="coerce") if not bridge.empty else pd.Series(dtype="datetime64[ns]")
+    if not times.dropna().empty:
+        diag.date_range = {"start": times.min().date().isoformat(), "end": times.max().date().isoformat()}
     if diag.ready_for_model < 50:
         diag.warnings.append("Fewer than 50 ready bridge rows; do not model.")
     elif diag.ready_for_model < 80:
         diag.warnings.append("Bridge clears the minimum 50-row gate but misses the preferred 80-row gate.")
+    if diag.ready_by_ticker:
+        top_ticker, top_count = max(diag.ready_by_ticker.items(), key=lambda item: item[1])
+        if top_count / max(diag.ready_for_model, 1) > 0.35:
+            diag.warnings.append(f"Single ticker concentration exceeds 35%: {top_ticker} has {top_count} ready rows.")
     return bridge, diag
+
+
+def _quantile_lines(values: pd.Series, label: str) -> list[str]:
+    values = pd.to_numeric(values, errors="coerce").dropna()
+    if values.empty:
+        return [f"- {label}: no values"]
+    q = values.quantile([0, 0.25, 0.5, 0.75, 1.0])
+    return [
+        f"- {label} min: {q.loc[0]:.4f}",
+        f"- {label} p25: {q.loc[0.25]:.4f}",
+        f"- {label} median: {q.loc[0.5]:.4f}",
+        f"- {label} p75: {q.loc[0.75]:.4f}",
+        f"- {label} max: {q.loc[1.0]:.4f}",
+    ]
+
+
+def validate_management_guidance_bridge(
+    bridge_path: str | Path,
+    *,
+    min_ready_rows: int = 50,
+    preferred_ready_rows: int = 80,
+    min_tickers: int = 6,
+    max_single_ticker_share: float = 0.35,
+    min_gap_days: int = 45,
+    max_gap_days: int = 190,
+    min_confidence: float = 0.80,
+) -> dict:
+    bridge = pd.read_csv(bridge_path)
+    ready = bridge[bridge["bridge_status"] == READY_STATUS].copy()
+    ready_count = int(len(ready))
+    ready_by_ticker = ready["ticker"].value_counts().to_dict() if not ready.empty else {}
+    max_share = max(ready_by_ticker.values()) / ready_count if ready_count else 0.0
+    gaps = pd.to_numeric(ready.get("prior_event_gap_days", pd.Series(dtype=float)), errors="coerce")
+    actual_conf = pd.to_numeric(ready.get("actual_revenue_confidence", pd.Series(dtype=float)), errors="coerce")
+    prior_conf = pd.to_numeric(ready.get("prior_guidance_revenue_confidence", pd.Series(dtype=float)), errors="coerce")
+    checks = {
+        "ready_rows_minimum": ready_count >= min_ready_rows,
+        "ready_rows_preferred": ready_count >= preferred_ready_rows,
+        "actual_revenue_confidence": bool((actual_conf >= min_confidence).all()) if ready_count else False,
+        "prior_guidance_revenue_confidence": bool((prior_conf >= min_confidence).all()) if ready_count else False,
+        "prior_event_gap_bounds": bool(gaps.between(min_gap_days, max_gap_days, inclusive="both").all()) if ready_count else False,
+        "ticker_count": len(ready_by_ticker) >= min_tickers,
+        "single_ticker_concentration": max_share <= max_single_ticker_share if ready_count else False,
+        "no_eps_dependency": not any("eps" in col.lower() for col in bridge.columns),
+    }
+    return {
+        "ready_for_model_rows": ready_count,
+        "ready_by_ticker": ready_by_ticker,
+        "max_single_ticker_share": max_share,
+        "checks": checks,
+        "passed": bool(all(checks.values())),
+    }
+
+
+def write_management_guidance_validation_report(report: dict, out_path: str | Path) -> None:
+    lines = [
+        "# Management-Guidance Bridge Validation",
+        "",
+        f"- ready_for_model rows: {report['ready_for_model_rows']}",
+        f"- max single ticker share: {report['max_single_ticker_share']:.3f}",
+        f"- passed: {report['passed']}",
+        "",
+        "## Checks",
+        "",
+    ]
+    for name, passed in report["checks"].items():
+        lines.append(f"- {name}: {'PASS' if passed else 'FAIL'}")
+    lines.extend(["", "## Ready Rows By Ticker", ""])
+    for ticker, count in sorted(report["ready_by_ticker"].items()):
+        lines.append(f"- {ticker}: {count}")
+    ensure_parent(out_path).write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def write_management_guidance_bridge_report(
@@ -280,13 +397,18 @@ def write_management_guidance_bridge_report(
         "",
         "- No prediction or backtest was run.",
         "- Bridge compares current actual revenue to the immediately prior earnings event's revenue guidance midpoint.",
-        "- Rows with implausible actual/prior ratios are flagged as `ambiguous_period` to avoid annual-period extraction mistakes.",
+        "- Rows with implausible actual/prior ratios are flagged as `ambiguous` to avoid annual-period extraction mistakes.",
         "",
         "## Coverage",
         "",
         f"- total bridge rows: {diagnostics.rows_total}",
+        f"- events with actual revenue: {diagnostics.events_with_actual_revenue}",
+        f"- events with current guidance revenue midpoint: {diagnostics.events_with_current_guidance_revenue_mid}",
+        f"- events with prior guidance candidate: {diagnostics.events_with_prior_guidance_candidate}",
         f"- ready_for_model rows: {diagnostics.ready_for_model}",
         f"- likely OOS predictions with min_train=40: {likely_oos}",
+        f"- date range: {diagnostics.date_range.get('start', '')} to {diagnostics.date_range.get('end', '')}",
+        f"- median prior event gap days: {diagnostics.median_prior_event_gap_days if diagnostics.median_prior_event_gap_days is not None else ''}",
         "",
         "## Status Counts",
         "",
@@ -296,6 +418,10 @@ def write_management_guidance_bridge_report(
     lines.extend(["", "## Ready Rows By Ticker", ""])
     for ticker, count in diagnostics.ready_by_ticker.items():
         lines.append(f"- {ticker}: {count}")
+    if diagnostics.tickers_with_zero_ready_rows:
+        lines.extend(["", "## Tickers With Zero Ready Rows", ""])
+        for ticker in diagnostics.tickers_with_zero_ready_rows:
+            lines.append(f"- {ticker}")
 
     negative = ready[pd.to_numeric(ready["actual_vs_prior_management_guidance_pct"], errors="coerce") <= -0.02]
     positive = ready[pd.to_numeric(ready["actual_vs_prior_management_guidance_pct"], errors="coerce") >= 0.02]
@@ -310,6 +436,36 @@ def write_management_guidance_bridge_report(
             f"- negative <= -2%: {len(negative)}",
             f"- positive >= +2%: {len(positive)}",
             f"- neutral between -2% and +2%: {len(neutral)}",
+            "",
+            "## Distribution",
+            "",
+            *_quantile_lines(ready.get("actual_vs_prior_management_guidance_pct", pd.Series(dtype=float)), "actual_vs_prior_management_guidance_pct"),
+            *_quantile_lines(ready.get("new_guidance_vs_actual_pct", pd.Series(dtype=float)), "new_guidance_vs_actual_pct"),
+            "",
+            "## Extremes",
+            "",
+            "### Top Positive Management-Guidance Beats",
+            "",
+        ]
+    )
+    top_cols = ["event_id", "ticker", "event_time", "actual_vs_prior_management_guidance_pct"]
+    top_positive = ready.sort_values("actual_vs_prior_management_guidance_pct", ascending=False).head(10) if not ready.empty else ready
+    for _, row in top_positive.iterrows():
+        lines.append(
+            f"- {row.get('ticker', '')} {row.get('event_time', '')}: "
+            f"{pd.to_numeric(row.get('actual_vs_prior_management_guidance_pct'), errors='coerce'):.4f} "
+            f"({row.get('event_id', '')})"
+        )
+    lines.extend(["", "### Top Negative Management-Guidance Misses", ""])
+    top_negative = ready.sort_values("actual_vs_prior_management_guidance_pct", ascending=True).head(10) if not ready.empty else ready
+    for _, row in top_negative.iterrows():
+        lines.append(
+            f"- {row.get('ticker', '')} {row.get('event_time', '')}: "
+            f"{pd.to_numeric(row.get('actual_vs_prior_management_guidance_pct'), errors='coerce'):.4f} "
+            f"({row.get('event_id', '')})"
+        )
+    lines.extend(
+        [
             "",
             "## Gates",
             "",
@@ -334,4 +490,3 @@ def write_management_guidance_bridge_report(
     else:
         lines.append("- None.")
     ensure_parent(out_path).write_text("\n".join(lines) + "\n", encoding="utf-8")
-
