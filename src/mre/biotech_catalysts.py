@@ -63,6 +63,37 @@ NEGATIVE_EVENT_TYPES = {
     "safety_signal",
     "endpoint_failure",
 }
+BINARY_CATALYST_EVENT_TYPES = (
+    APPROVAL_OR_LABEL_EVENT_TYPES
+    | {
+        "fda_complete_response_letter",
+        "fda_advisory_committee_positive",
+        "fda_advisory_committee_negative",
+        "phase_2_readout",
+        "phase_3_readout",
+        "pivotal_trial_readout",
+        "trial_halt",
+        "trial_discontinuation",
+        "safety_signal",
+        "endpoint_failure",
+        "endpoint_success",
+    }
+)
+
+BIOTECH_FALSE_POSITIVE_TAXONOMY = {
+    "enrollment_update_not_binary": "Enrollment or first-patient dosing without new efficacy/safety results.",
+    "publication_or_conference_notice_not_topline": "Conference, poster, abstract, or publication notice without new topline facts.",
+    "pipeline_update_not_binary": "Pipeline status, business update, or expected future readout without current results.",
+    "trial_initiation_not_binary": "Trial start, IND clearance, or first dose without efficacy/safety results.",
+    "trial_design_not_binary": "Trial design, protocol, or endpoint description without reported results.",
+    "previously_announced_not_new": "Previously announced or previously disclosed results reused as background.",
+    "background_approval_language_not_decision": "Label, pathway, post-approval, or potential approval language without a current decision.",
+    "boilerplate_or_risk_factor_not_event": "About-company, risk-factor, or forward-looking text.",
+    "pipeline_table_requires_new_result": "Pipeline table or business-highlight row needs explicit new result/regulatory decision language.",
+}
+
+NON_EVENT_SECTIONS = {"boilerplate", "risk_factor"}
+BODY_ONLY_SECTIONS = {"body", "pipeline_table"}
 
 BIOTECH_SEC_FORMS = ("8-K",)
 BIOTECH_CATALYST_8K_ITEMS = "7.01,8.01"
@@ -163,6 +194,14 @@ class BiotechCatalystFact:
         return out
 
 
+@dataclass(frozen=True)
+class _SectionedSegment:
+    text: str
+    lower: str
+    section: str
+    index: int
+
+
 def _norm_space(text: object) -> str:
     return re.sub(r"\s+", " ", str(text or "")).strip()
 
@@ -181,12 +220,153 @@ def _contains_any(text: str, terms: list[str] | tuple[str, ...] | set[str]) -> b
     return any(term.lower() in low for term in terms)
 
 
+def _sectioned_segments(text: str) -> list[_SectionedSegment]:
+    segments: list[_SectionedSegment] = []
+    section = "body"
+    nonblank_line_index = -1
+    for raw in str(text or "").splitlines():
+        line = _norm_space(raw)
+        if not line:
+            continue
+        nonblank_line_index += 1
+        low = line.lower()
+        stripped = low.strip(" :-")
+        if re.match(r"^(about|about the company|about [a-z0-9 .,&'-]+)$", stripped):
+            section = "boilerplate"
+            continue
+        if _contains_any(low, ["forward-looking statements", "cautionary note", "safe harbor", "risk factors"]):
+            section = "risk_factor"
+        elif re.match(r"^(summary of business highlights|pipeline|recent business highlights)$", stripped):
+            section = "pipeline_table"
+
+        line_section = section
+        if nonblank_line_index <= 1 and section == "body":
+            line_section = "headline"
+        elif nonblank_line_index <= 5 and section == "body":
+            line_section = "lead_paragraph"
+        if line.startswith(("\u2022", "-", "\u25e6", "*")) or re.match(r"^[A-Za-z].{0,90}:\s", line):
+            if section not in NON_EVENT_SECTIONS:
+                line_section = "pipeline_table"
+
+        parts = _segments(line)
+        if not parts and 12 <= len(line) <= 900:
+            parts = [line]
+        for part in parts:
+            part_low = part.lower()
+            part_section = line_section
+            if _contains_any(part_low, ["forward-looking", "actual results", "risks and uncertainties", "may differ materially"]):
+                part_section = "risk_factor"
+            if _contains_any(part_low, ["is headquartered", "for more information", "please visit"]) and section == "boilerplate":
+                part_section = "boilerplate"
+            segments.append(_SectionedSegment(part, part_low, part_section, len(segments)))
+    return segments
+
+
+def _section_priority(section: str) -> int:
+    return {
+        "headline": 0,
+        "lead_paragraph": 1,
+        "body": 2,
+        "pipeline_table": 3,
+        "boilerplate": 8,
+        "risk_factor": 9,
+    }.get(section, 5)
+
+
+def _ranked_segments(text: str) -> list[_SectionedSegment]:
+    return sorted(_sectioned_segments(text), key=lambda seg: (_section_priority(seg.section), seg.index))
+
+
+def _false_positive_reason(seg: _SectionedSegment) -> str:
+    low = seg.lower
+    has_result_fact = bool(
+        _endpoint_met_signal(low) is not None
+        or _contains_any(low, ["topline results", "top-line results", "statistically significant", "serious adverse event", "safety signal"])
+    )
+    if seg.section in NON_EVENT_SECTIONS or _contains_any(low, ["actual results could differ", "results to differ materially", "risks and uncertainties"]):
+        return "boilerplate_or_risk_factor_not_event"
+    if _contains_any(low, ["previously announced", "as previously announced", "previously disclosed", "as previously disclosed"]) or re.search(
+        r"\bin\s+(?:january|february|march|april|may|june|july|august|september|october|november|december|q[1-4]),?\s+we\s+announced\b",
+        low,
+    ):
+        return "previously_announced_not_new"
+    if re.search(r"\b(will|plans? to|expects? to|scheduled to|accepted to|accepted for)\s+(present|report|announce|share|publish)\b", low):
+        if not has_result_fact:
+            return "publication_or_conference_notice_not_topline"
+    if _contains_any(low, ["poster presentation", "oral presentation", "accepted for presentation", "abstract", "published in", "publication in"]):
+        if not has_result_fact:
+            return "publication_or_conference_notice_not_topline"
+    if _contains_any(low, ["completed enrollment", "enrollment completed", "enrollment is complete", "enrolled first patient"]):
+        return "enrollment_update_not_binary"
+    if _contains_any(low, ["first patient dosed", "dosed first patient", "initiated dosing", "initiated a phase", "initiated the phase", "trial initiation"]):
+        return "trial_initiation_not_binary"
+    if _contains_any(low, ["trial design", "study design", "protocol amendment", "designed to evaluate", "designed to assess"]):
+        if not has_result_fact:
+            return "trial_design_not_binary"
+    if _contains_any(low, ["currently being evaluated", "is ongoing", "ongoing phase", "expects to share", "expected to share", "expected by", "readout by"]):
+        if not has_result_fact:
+            return "pipeline_update_not_binary"
+    if re.search(r"\b(top-?line|readout|data|results)\b.{0,40}\bexpected\b|\bexpected\b.{0,40}\b(top-?line|readout|data|results)\b", low) and not has_result_fact:
+        return "pipeline_update_not_binary"
+    if _contains_any(
+        low,
+        [
+            "approved under accelerated approval",
+            "indication is approved",
+            "continued approval",
+            "post-approval",
+            "support accelerated approval",
+            "potential priority review",
+            "potential accelerated approval",
+            "may be contingent",
+            "has not yet been established",
+        ],
+    ):
+        return "background_approval_language_not_decision"
+    if seg.section == "pipeline_table":
+        return "pipeline_table_requires_new_result"
+    return ""
+
+
+def _collect_false_positive_flags(segments: list[_SectionedSegment]) -> list[str]:
+    flags: list[str] = []
+    for seg in segments:
+        low = seg.lower
+        has_result_fact = bool(
+            _endpoint_met_signal(low) is not None
+            or _contains_any(low, ["topline results", "top-line results", "statistically significant", "serious adverse event", "safety signal"])
+        )
+        if _contains_any(low, ["completed enrollment", "enrollment completed", "enrollment is complete", "enrolled first patient"]):
+            flags.append("enrollment_update_not_binary")
+        if _contains_any(low, ["first patient dosed", "dosed first patient", "initiated dosing", "initiated a phase", "initiated the phase", "trial initiation"]):
+            flags.append("trial_initiation_not_binary")
+        if _contains_any(low, ["trial design", "study design", "protocol amendment", "designed to evaluate", "designed to assess"]) and not has_result_fact:
+            flags.append("trial_design_not_binary")
+        if (
+            re.search(r"\b(will|plans? to|expects? to|scheduled to|accepted to|accepted for)\s+(present|report|announce|share|publish)\b", low)
+            or _contains_any(low, ["poster presentation", "oral presentation", "accepted for presentation", "abstract", "published in", "publication in"])
+        ) and not has_result_fact:
+            flags.append("publication_or_conference_notice_not_topline")
+        reason = _false_positive_reason(seg)
+        if reason and reason not in flags:
+            flags.append(reason)
+    return list(dict.fromkeys(flags))
+
+
 def _first_matching_segment(text: str, patterns: list[str]) -> str:
     for seg in _segments(text):
         for pattern in patterns:
             if re.search(pattern, seg, flags=re.I):
                 return seg
     return ""
+
+
+def _first_matching_sectioned_segment(segments: list[_SectionedSegment], patterns: list[str]) -> _SectionedSegment | None:
+    for seg in sorted(segments, key=lambda item: (_section_priority(item.section), item.index)):
+        for pattern in patterns:
+            if re.search(pattern, seg.text, flags=re.I):
+                return seg
+    return None
 
 
 def _fact(
@@ -260,16 +440,31 @@ def infer_trial_phase(text: str) -> tuple[str, str, float]:
 
 
 def _has_new_result_signal(low: str) -> bool:
-    if re.search(r"\b(will|plans? to|expects? to|scheduled to)\s+(present|report|announce|share)\b", low):
+    has_result_fact = bool(
+        _endpoint_met_signal(low) is not None
+        or _contains_any(low, ["topline results", "top-line results", "statistically significant", "safety signal", "serious adverse event"])
+    )
+    if re.search(r"\b(will|plans? to|expects? to|scheduled to)\s+(present|report|announce|share|publish)\b", low) and not has_result_fact:
+        return False
+    if _contains_any(low, ["previously announced", "as previously disclosed", "actual results", "forward-looking statements"]) or re.search(
+        r"\bin\s+(?:january|february|march|april|may|june|july|august|september|october|november|december|q[1-4]),?\s+we\s+announced\b",
+        low,
+    ):
+        return False
+    if re.search(r"\b(top-?line|readout|data|results)\b.{0,40}\bexpected\b|\bexpected\b.{0,40}\b(top-?line|readout|data|results)\b", low) and not has_result_fact:
         return False
     if _contains_any(low, ["completed enrollment", "enrolled", "randomized"]) and not _contains_any(
         low,
-        ["topline", "results", "readout", "met the primary endpoint", "failed to meet", "statistically significant", "showed", "demonstrated"],
+        ["topline", "results", "readout", "met the primary endpoint", "met its primary endpoint", "failed to meet", "statistically significant", "showed", "demonstrated"],
     ):
         return False
-    return _contains_any(
+    explicit_result = _contains_any(
         low,
         [
+            "announced topline results",
+            "announced top-line results",
+            "reported topline results",
+            "reported top-line results",
             "topline results",
             "top-line results",
             "readout",
@@ -277,6 +472,8 @@ def _has_new_result_signal(low: str) -> bool:
             "announced results",
             "met the primary endpoint",
             "met its primary endpoint",
+            "met the study's primary endpoint",
+            "met the trial's primary endpoint",
             "failed to meet",
             "did not meet",
             "missed the primary endpoint",
@@ -287,6 +484,9 @@ def _has_new_result_signal(low: str) -> bool:
             "negative results",
         ],
     )
+    if not explicit_result:
+        return False
+    return _contains_any(low, ["trial", "study", "phase", "endpoint", "topline", "data", "clinical"])
 
 
 def _endpoint_met_signal(low: str) -> bool | None:
@@ -324,60 +524,144 @@ def _adcom_votes(text: str) -> tuple[int | None, int | None, str]:
     return None, None, ""
 
 
+def _current_action_language(low: str) -> bool:
+    return bool(
+        re.search(
+            r"\b(today announced|announced|reported|received|granted|issued|approved|approves|accepted|voted|placed|halted|discontinued)\b",
+            low,
+        )
+    )
+
+
+def _regulatory_segment_is_current(seg: _SectionedSegment, *, require_fda: bool = True) -> bool:
+    low = seg.lower
+    reason = _false_positive_reason(seg)
+    if reason and reason != "pipeline_table_requires_new_result":
+        return False
+    if require_fda and "fda" not in low and "u.s. food and drug administration" not in low:
+        return False
+    return _current_action_language(low)
+
+
+def _readout_segment_is_current(seg: _SectionedSegment) -> bool:
+    reason = _false_positive_reason(seg)
+    if reason and reason != "pipeline_table_requires_new_result":
+        return False
+    if seg.section == "pipeline_table" and not _contains_any(
+        seg.lower,
+        [
+            "topline",
+            "top-line",
+            "met its primary endpoint",
+            "met the primary endpoint",
+            "did not meet",
+            "failed to meet",
+            "statistically significant",
+        ],
+    ):
+        return False
+    return _has_new_result_signal(seg.lower)
+
+
+def _phase_from_segment_or_document(seg: _SectionedSegment, doc_text: str) -> tuple[str, str, float]:
+    phase, evidence, confidence = infer_trial_phase(seg.text)
+    if phase:
+        return phase, evidence or seg.text, max(confidence, 0.80)
+    phase, evidence, confidence = infer_trial_phase(doc_text[:8000])
+    return phase, evidence, confidence
+
+
 def infer_biotech_catalyst_event_type(text: str) -> tuple[str, str, float, list[str]]:
     doc_text = _norm_space(text)
     low = doc_text.lower()
-    flags: list[str] = []
+    segments = _sectioned_segments(text)
+    ranked = sorted(segments, key=lambda seg: (_section_priority(seg.section), seg.index))
+    flags: list[str] = _collect_false_positive_flags(segments)
 
-    if _contains_any(low, ["completed enrollment", "enrollment completed", "enrolled first patient", "dosed first patient"]):
-        flags.append("enrollment_update_not_binary")
-    if _contains_any(low, ["will present", "accepted for presentation", "poster presentation", "published in"]) and not _has_new_result_signal(low):
-        flags.append("publication_or_conference_notice_not_topline")
+    for seg in ranked:
+        if ("complete response letter" in seg.lower or re.search(r"\bcrl\b", seg.lower)) and _regulatory_segment_is_current(seg, require_fda=False):
+            return "fda_complete_response_letter", seg.text, 0.96, flags
 
-    if "complete response letter" in low or re.search(r"\bcrl\b", low):
-        evidence = _first_matching_segment(doc_text, [r"complete response letter", r"\bCRL\b"]) or "complete response letter / CRL language"
-        return "fda_complete_response_letter", evidence, 0.96, flags
+    for seg in ranked:
+        if "clinical hold" in seg.lower and _regulatory_segment_is_current(seg, require_fda=False):
+            flags.append("safety_review_required")
+            return "trial_halt", seg.text, 0.92, flags
 
-    if "clinical hold" in low:
-        evidence = _first_matching_segment(doc_text, [r"clinical hold"]) or "clinical hold language"
-        flags.append("safety_review_required")
-        return "trial_halt", evidence, 0.92, flags
+    for seg in ranked:
+        if _false_positive_reason(seg) and _false_positive_reason(seg) != "pipeline_table_requires_new_result":
+            continue
+        if re.search(r"\b(trial|study)\b.{0,80}\b(halted|paused|stopped|suspended)\b", seg.lower) or re.search(
+            r"\b(halted|paused|stopped|suspended)\b.{0,80}\b(trial|study)\b", seg.lower
+        ):
+            return "trial_halt", seg.text, 0.90, flags
 
-    if re.search(r"\b(trial|study)\b.{0,80}\b(halted|paused|stopped|suspended)\b", low) or re.search(r"\b(halted|paused|stopped|suspended)\b.{0,80}\b(trial|study)\b", low):
-        evidence = _first_matching_segment(doc_text, [r"halted|paused|stopped|suspended"]) or "trial halt language"
-        return "trial_halt", evidence, 0.90, flags
+    for seg in ranked:
+        if _false_positive_reason(seg) and _false_positive_reason(seg) != "pipeline_table_requires_new_result":
+            continue
+        if re.search(r"\b(discontinue|discontinued|terminate|terminated|stop development|will not continue)\b.{0,120}\b(trial|study|program|development)\b", seg.lower):
+            return "trial_discontinuation", seg.text, 0.88, flags
 
-    if re.search(r"\b(discontinue|discontinued|terminate|terminated|stop development|will not continue)\b.{0,120}\b(trial|study|program|development)\b", low):
-        evidence = _first_matching_segment(doc_text, [r"discontinue|terminated|will not continue"]) or "trial/program discontinuation language"
-        return "trial_discontinuation", evidence, 0.88, flags
+    for seg in ranked:
+        if _contains_any(seg.lower, ["label expansion", "expanded label", "expanded approval", "supplemental new drug application"]) and _contains_any(
+            seg.lower, ["approved", "approval"]
+        ) and _regulatory_segment_is_current(seg, require_fda=False):
+            return "label_expansion", seg.text, 0.92, flags
 
-    if _contains_any(low, ["label expansion", "expanded label", "expanded approval", "supplemental new drug application"]) and _contains_any(low, ["approved", "approval"]):
-        evidence = _first_matching_segment(doc_text, [r"label expansion|expanded label|expanded approval|supplemental new drug application"]) or "label expansion approval language"
-        return "label_expansion", evidence, 0.92, flags
+    for seg in ranked:
+        if "accelerated approval" in seg.lower and _contains_any(seg.lower, ["approved", "approval", "granted"]) and _regulatory_segment_is_current(seg):
+            return "accelerated_approval", seg.text, 0.93, flags
 
-    if "accelerated approval" in low and _contains_any(low, ["approved", "approval", "granted"]):
-        evidence = _first_matching_segment(doc_text, [r"accelerated approval"]) or "accelerated approval language"
-        return "accelerated_approval", evidence, 0.93, flags
-
-    if re.search(r"\bfda\b.{0,120}\b(approved|approves|approval)\b", low) or re.search(r"\b(approved|approval)\b.{0,120}\bfda\b", low):
-        evidence = _first_matching_segment(doc_text, [r"FDA.*approved|approved.*FDA|FDA.*approval|approval.*FDA"]) or "FDA approval language"
-        return "fda_approval", evidence, 0.94, flags
+    for seg in ranked:
+        if (
+            re.search(r"\bfda\b.{0,120}\b(approved|approves|approval)\b", seg.lower)
+            or re.search(r"\b(approved|approval)\b.{0,120}\bfda\b", seg.lower)
+        ) and _regulatory_segment_is_current(seg):
+            return "fda_approval", seg.text, 0.94, flags
 
     vote_for, vote_against, vote_evidence = _adcom_votes(doc_text)
     if vote_for is not None and vote_against is not None:
-        event_type = "fda_advisory_committee_positive" if vote_for > vote_against else "fda_advisory_committee_negative"
-        return event_type, vote_evidence, 0.90, flags
-    if re.search(r"\b(advisory committee|adcom)\b", low):
-        evidence = _first_matching_segment(doc_text, [r"advisory committee|AdCom"])
-        if _contains_any(low, ["recommended approval", "voted in favor", "positive vote"]):
-            return "fda_advisory_committee_positive", evidence, 0.84, flags
-        if _contains_any(low, ["recommended against", "voted against", "negative vote"]):
-            return "fda_advisory_committee_negative", evidence, 0.84, flags
+        vote_segment = _first_matching_sectioned_segment(segments, [r"advisory committee|adcom|committee"])
+        if vote_segment is None or _regulatory_segment_is_current(vote_segment, require_fda=False):
+            event_type = "fda_advisory_committee_positive" if vote_for > vote_against else "fda_advisory_committee_negative"
+            return event_type, vote_evidence, 0.90, flags
+    for seg in ranked:
+        if not re.search(r"\b(advisory committee|adcom)\b", seg.lower) or not _regulatory_segment_is_current(seg, require_fda=False):
+            continue
+        if _contains_any(seg.lower, ["recommended approval", "voted in favor", "positive vote"]):
+            return "fda_advisory_committee_positive", seg.text, 0.84, flags
+        if _contains_any(seg.lower, ["recommended against", "voted against", "negative vote"]):
+            return "fda_advisory_committee_negative", seg.text, 0.84, flags
 
-    endpoint_met = _endpoint_met_signal(low)
-    if endpoint_met is False:
-        evidence = _first_matching_segment(doc_text, [r"did not meet|failed to meet|missed.*primary endpoint|primary endpoint.*not met"]) or "primary endpoint failure language"
-        return "endpoint_failure", evidence, 0.92, flags
+    for seg in ranked:
+        if not _readout_segment_is_current(seg):
+            continue
+        endpoint_met = _endpoint_met_signal(seg.lower)
+        trial_phase, phase_evidence, phase_conf = _phase_from_segment_or_document(seg, doc_text)
+        if endpoint_met is False:
+            if trial_phase in {"phase_3", "phase_2_3"}:
+                return "phase_3_readout", seg.text, max(phase_conf, 0.88), flags
+            if trial_phase.startswith("phase_2"):
+                return "phase_2_readout", seg.text, max(phase_conf, 0.86), flags
+            return "endpoint_failure", seg.text, 0.92, flags
+        if endpoint_met is True:
+            if "pivotal" in seg.lower or trial_phase == "pivotal":
+                return "pivotal_trial_readout", seg.text, max(phase_conf, 0.86), flags
+            if trial_phase in {"phase_3", "phase_2_3"}:
+                return "phase_3_readout", seg.text, max(phase_conf, 0.88), flags
+            if trial_phase.startswith("phase_2"):
+                return "phase_2_readout", seg.text, max(phase_conf, 0.86), flags
+            if trial_phase.startswith("phase_1"):
+                return "phase_1_readout", seg.text, max(phase_conf, 0.80), flags
+            return "endpoint_success", seg.text, 0.84, flags
+        flags.append("endpoint_direction_unclear")
+        if "pivotal" in seg.lower or trial_phase == "pivotal":
+            return "pivotal_trial_readout", seg.text or phase_evidence, max(phase_conf, 0.82), flags
+        if trial_phase in {"phase_3", "phase_2_3"}:
+            return "phase_3_readout", seg.text or phase_evidence, max(phase_conf, 0.82), flags
+        if trial_phase.startswith("phase_2"):
+            return "phase_2_readout", seg.text or phase_evidence, max(phase_conf, 0.80), flags
+        if trial_phase.startswith("phase_1"):
+            return "phase_1_readout", seg.text or phase_evidence, max(phase_conf, 0.76), flags
 
     safety_terms = [
         "safety signal",
@@ -390,49 +674,54 @@ def infer_biotech_catalyst_event_type(text: str) -> tuple[str, str, float, list[
         "dose-limiting toxicity",
         "boxed warning",
     ]
-    if _contains_any(low, safety_terms):
-        evidence = _first_matching_segment(doc_text, [r"safety signal|serious adverse|patient death|toxicity|boxed warning"]) or "safety/adverse-event language"
-        if evidence and not _is_negated_safety_language(evidence):
-            flags.append("safety_issue_present")
-            return "safety_signal", evidence, 0.86, flags
+    for seg in ranked:
+        if _false_positive_reason(seg) and _false_positive_reason(seg) != "pipeline_table_requires_new_result":
+            continue
+        if _contains_any(seg.lower, safety_terms):
+            evidence = seg.text
+            if not _is_negated_safety_language(evidence):
+                flags.append("safety_issue_present")
+                return "safety_signal", evidence, 0.86, flags
 
-    if "breakthrough therapy designation" in low or "breakthrough designation" in low:
-        evidence = _first_matching_segment(doc_text, [r"breakthrough therapy designation|breakthrough designation"]) or "breakthrough designation language"
-        flags.append("designation_only_weaker_signal")
-        return "breakthrough_designation", evidence, 0.90, flags
-    if "fast track designation" in low or "fast-track designation" in low:
-        evidence = _first_matching_segment(doc_text, [r"fast[- ]track designation"]) or "fast track designation language"
-        flags.append("designation_only_weaker_signal")
-        return "fast_track_designation", evidence, 0.90, flags
-    if "orphan drug designation" in low:
-        evidence = _first_matching_segment(doc_text, [r"orphan drug designation"]) or "orphan drug designation language"
-        flags.append("designation_only_weaker_signal")
-        return "orphan_drug_designation", evidence, 0.88, flags
-    if "priority review" in low:
-        evidence = _first_matching_segment(doc_text, [r"priority review"]) or "priority review language"
-        flags.append("designation_only_weaker_signal")
-        return "priority_review", evidence, 0.86, flags
+    for seg in ranked:
+        reason = _false_positive_reason(seg)
+        if reason and reason != "pipeline_table_requires_new_result":
+            continue
+        current_designation = bool("granted" in seg.lower or "today announced" in seg.lower or "announces" in seg.lower or "announced" in seg.lower)
+        if "breakthrough therapy designation" in seg.lower or "breakthrough designation" in seg.lower:
+            if current_designation and not _contains_any(seg.lower, ["in addition to", "also has", "has received", "originally granted", "maintain"]):
+                flags.append("designation_only_weaker_signal")
+                return "breakthrough_designation", seg.text, 0.90, flags
+        if "fast track designation" in seg.lower or "fast-track designation" in seg.lower:
+            if current_designation and not _contains_any(seg.lower, ["in addition to", "also has", "has received", "originally granted", "maintain"]):
+                flags.append("designation_only_weaker_signal")
+                return "fast_track_designation", seg.text, 0.90, flags
+        if "orphan drug designation" in seg.lower:
+            if current_designation and not _contains_any(seg.lower, ["in addition to", "also has", "has received", "originally granted", "maintain"]):
+                flags.append("designation_only_weaker_signal")
+                return "orphan_drug_designation", seg.text, 0.88, flags
+        if "priority review" in seg.lower:
+            if current_designation and not _contains_any(seg.lower, ["potential priority review", "eligible for priority review"]):
+                flags.append("designation_only_weaker_signal")
+                return "priority_review", seg.text, 0.86, flags
 
-    trial_phase, phase_evidence, phase_conf = infer_trial_phase(doc_text)
-    if _has_new_result_signal(low):
-        if endpoint_met is None:
-            flags.append("endpoint_direction_unclear")
-        if "pivotal" in low:
-            return "pivotal_trial_readout", phase_evidence or _first_matching_segment(doc_text, [r"topline|readout|results"]), max(phase_conf, 0.86), flags
-        if trial_phase.startswith("phase_3") or trial_phase == "phase_2_3":
-            return "phase_3_readout", phase_evidence or _first_matching_segment(doc_text, [r"topline|readout|results"]), max(phase_conf, 0.88), flags
-        if trial_phase.startswith("phase_2"):
-            return "phase_2_readout", phase_evidence or _first_matching_segment(doc_text, [r"topline|readout|results"]), max(phase_conf, 0.86), flags
-        if trial_phase.startswith("phase_1"):
-            return "phase_1_readout", phase_evidence or _first_matching_segment(doc_text, [r"topline|readout|results"]), max(phase_conf, 0.80), flags
-        if endpoint_met is True:
-            return "endpoint_success", _first_matching_segment(doc_text, [r"met.*primary endpoint|primary endpoint.*met"]) or "endpoint success language", 0.84, flags
-
+    endpoint_met = _endpoint_met_signal(low)
     if endpoint_met is True:
-        evidence = _first_matching_segment(doc_text, [r"met.*primary endpoint|primary endpoint.*met"]) or "primary endpoint success language"
-        return "endpoint_success", evidence, 0.84, flags
+        endpoint_segment = _first_matching_sectioned_segment(segments, [r"met.*primary endpoint|primary endpoint.*met"])
+        if endpoint_segment and _readout_segment_is_current(endpoint_segment):
+            return "endpoint_success", endpoint_segment.text, 0.84, flags
+    if endpoint_met is False:
+        endpoint_segment = _first_matching_sectioned_segment(segments, [r"did not meet|failed to meet|missed.*primary endpoint|primary endpoint.*not met"])
+        if endpoint_segment and _readout_segment_is_current(endpoint_segment):
+            return "endpoint_failure", endpoint_segment.text, 0.92, flags
 
-    return "unknown", _first_matching_segment(doc_text, [r"FDA|trial|clinical|endpoint|approval|designation"]) or "", 0.30, flags
+    evidence_segment = _first_matching_sectioned_segment(segments, [r"FDA|trial|clinical|endpoint|approval|designation"])
+    evidence = evidence_segment.text if evidence_segment else ""
+    if evidence_segment and _false_positive_reason(evidence_segment):
+        reason = _false_positive_reason(evidence_segment)
+        if reason not in flags:
+            flags.append(reason)
+    return "unknown", evidence, 0.30, flags
 
 
 ASSET_STOPWORDS = {
@@ -607,8 +896,9 @@ def _dedupe_facts(facts: list[BiotechCatalystFact]) -> list[BiotechCatalystFact]
 
 def parse_biotech_catalyst_document(doc: SourceDocument) -> list[BiotechCatalystFact]:
     facts: list[BiotechCatalystFact] = []
-    doc_text = _norm_space(doc.text)
-    event_type, event_evidence, event_confidence, quality_flags = infer_biotech_catalyst_event_type(doc_text)
+    raw_doc_text = str(doc.text or "")
+    doc_text = _norm_space(raw_doc_text)
+    event_type, event_evidence, event_confidence, quality_flags = infer_biotech_catalyst_event_type(raw_doc_text)
     facts.append(_fact(doc, "event_type", event_type, "category", event_evidence, event_confidence, "document_keyword", quality_flags))
     if event_evidence:
         facts.append(_fact(doc, "source_evidence_text", event_evidence, "text", event_evidence, event_confidence, "event_evidence", quality_flags))
@@ -1079,7 +1369,12 @@ def validate_biotech_catalyst_parser(
         tolerance = float(tolerance_raw) if pd.notna(tolerance_raw) else float(tolerance_by_unit.get(unit, 0.0))
 
         if not expected_present:
-            status = "ok" if pd.isna(actual_raw) else "false_positive"
+            actual_text = _norm_space(actual_raw).lower() if pd.notna(actual_raw) else ""
+            fact_name = _norm_space(row.get("fact_name")).lower()
+            if fact_name == "event_type":
+                status = "ok" if actual_text in {"", "unknown", "none", "nan"} else "false_positive"
+            else:
+                status = "ok" if pd.isna(actual_raw) else "false_positive"
             abs_error = np.nan
         elif unit in {"category", "text", "identifier", "date"}:
             expected = _norm_space(expected_raw).lower()
@@ -1159,6 +1454,41 @@ def validate_biotech_catalyst_parser(
             & actual_values.isin(READOUT_EVENT_TYPES)
         ).any()
     )
+    gold_category = errors.get("gold_category", pd.Series("", index=errors.index)).fillna("").astype(str).str.lower()
+    hard_negative_categories = {
+        "enrollment_update",
+        "publication_conference_notice",
+        "pipeline_update",
+        "pipeline_table",
+        "investor_deck_pipeline_table",
+        "trial_initiation",
+        "trial_design_protocol",
+        "previously_announced",
+        "fda_regulatory_decision_false_positive",
+    }
+    hard_negative_mistaken_for_catalyst = bool(
+        (
+            event_type_mask
+            & gold_category.isin(hard_negative_categories)
+            & actual_values.isin(BINARY_CATALYST_EVENT_TYPES | DESIGNATION_ONLY_EVENT_TYPES)
+        ).any()
+    )
+    pipeline_table_mistaken_for_catalyst = bool(
+        (
+            event_type_mask
+            & gold_category.isin({"pipeline_table", "investor_deck_pipeline_table"})
+            & actual_values.isin(BINARY_CATALYST_EVENT_TYPES | DESIGNATION_ONLY_EVENT_TYPES)
+        ).any()
+    )
+    trial_initiation_mistaken_for_readout = bool(
+        (event_type_mask & gold_category.eq("trial_initiation") & actual_values.isin(READOUT_EVENT_TYPES)).any()
+    )
+    trial_design_mistaken_for_readout = bool(
+        (event_type_mask & gold_category.eq("trial_design_protocol") & actual_values.isin(READOUT_EVENT_TYPES)).any()
+    )
+    previously_announced_mistaken_for_catalyst = bool(
+        (event_type_mask & gold_category.eq("previously_announced") & actual_values.isin(BINARY_CATALYST_EVENT_TYPES | DESIGNATION_ONLY_EVENT_TYPES)).any()
+    )
 
     metrics = {
         "gold_rows": int(len(errors)),
@@ -1173,6 +1503,11 @@ def validate_biotech_catalyst_parser(
         "no_designation_only_event_mistaken_for_approval": not designation_mistaken_for_approval,
         "no_enrollment_update_event_mistaken_for_readout": not enrollment_mistaken_for_readout,
         "no_publication_conference_notice_mistaken_for_new_topline_result": not publication_mistaken_for_readout,
+        "no_hard_negative_mistaken_for_binary_catalyst": not hard_negative_mistaken_for_catalyst,
+        "no_investor_deck_pipeline_table_mistaken_for_new_catalyst": not pipeline_table_mistaken_for_catalyst,
+        "no_trial_initiation_mistaken_for_readout": not trial_initiation_mistaken_for_readout,
+        "no_trial_design_protocol_mistaken_for_readout": not trial_design_mistaken_for_readout,
+        "no_previously_announced_result_mistaken_for_new_catalyst": not previously_announced_mistaken_for_catalyst,
         "by_fact": by_fact,
     }
     gates = {
@@ -1185,6 +1520,11 @@ def validate_biotech_catalyst_parser(
         "no_designation_only_event_mistaken_for_approval": metrics["no_designation_only_event_mistaken_for_approval"],
         "no_enrollment_update_event_mistaken_for_readout": metrics["no_enrollment_update_event_mistaken_for_readout"],
         "no_publication_conference_notice_mistaken_for_new_topline_result": metrics["no_publication_conference_notice_mistaken_for_new_topline_result"],
+        "no_hard_negative_mistaken_for_binary_catalyst": metrics["no_hard_negative_mistaken_for_binary_catalyst"],
+        "no_investor_deck_pipeline_table_mistaken_for_new_catalyst": metrics["no_investor_deck_pipeline_table_mistaken_for_new_catalyst"],
+        "no_trial_initiation_mistaken_for_readout": metrics["no_trial_initiation_mistaken_for_readout"],
+        "no_trial_design_protocol_mistaken_for_readout": metrics["no_trial_design_protocol_mistaken_for_readout"],
+        "no_previously_announced_result_mistaken_for_new_catalyst": metrics["no_previously_announced_result_mistaken_for_new_catalyst"],
     }
     metrics["gates"] = gates
     metrics["parser_audit_pass"] = bool(all(gates.values()))
@@ -1194,7 +1534,7 @@ def validate_biotech_catalyst_parser(
     return errors, metrics
 
 
-def build_biotech_catalyst_gold_template(facts: pd.DataFrame, out_path: str | Path, *, target_rows: int = 60) -> pd.DataFrame:
+def build_biotech_catalyst_gold_template(facts: pd.DataFrame, out_path: str | Path, *, target_rows: int = 70) -> pd.DataFrame:
     if facts.empty:
         out = pd.DataFrame(columns=["event_id", "fact_name", "expected_value", "unit", "tolerance", "expected_present", "gold_category", "source_evidence_text", "review_status", "review_notes"])
     else:
@@ -1208,12 +1548,22 @@ def build_biotech_catalyst_gold_template(facts: pd.DataFrame, out_path: str | Pa
             return subset
 
         event_values = df["value"].fillna("").astype(str).str.lower()
+        flag_text = df.get("parser_quality_flags", pd.Series("", index=df.index)).fillna("").astype(str).str.lower()
+        hard_negative_mask = (
+            df["fact_name"].eq("event_type")
+            & event_values.eq("unknown")
+            & flag_text.str.contains(
+                "enrollment_update_not_binary|publication_or_conference_notice_not_topline|pipeline_update_not_binary|trial_initiation_not_binary|trial_design_not_binary|previously_announced_not_new|background_approval_language_not_decision|boilerplate_or_risk_factor_not_event|pipeline_table_requires_new_result",
+                regex=True,
+            )
+        )
         selected = [
             take(df["fact_name"].eq("event_type") & event_values.isin(REGULATORY_DECISION_EVENT_TYPES), 15, "fda_regulatory_decision"),
             take(df["fact_name"].eq("event_type") & event_values.isin({"phase_2_readout", "phase_3_readout", "pivotal_trial_readout"}), 15, "phase_2_3_readout"),
             take(df["fact_name"].eq("event_type") & event_values.isin({"trial_halt", "trial_discontinuation", "safety_signal", "endpoint_failure"}), 10, "trial_halt_failure_safety"),
             take(df["fact_name"].eq("event_type") & event_values.isin(DESIGNATION_ONLY_EVENT_TYPES | {"accelerated_approval"}), 10, "designation_priority_accelerated"),
             take(df["fact_name"].isin(["endpoint_met", "p_value", "hazard_ratio", "response_rate", "overall_survival", "progression_free_survival"]), 10, "endpoint_statistical_fact"),
+            take(hard_negative_mask, 10, "hard_negative_non_catalyst"),
         ]
         out = pd.concat([s for s in selected if not s.empty], ignore_index=True) if selected else pd.DataFrame()
         if len(out) < target_rows:
@@ -1222,6 +1572,7 @@ def build_biotech_catalyst_gold_template(facts: pd.DataFrame, out_path: str | Pa
             filler["gold_category"] = "filler_high_confidence_fact"
             out = pd.concat([out, filler], ignore_index=True, sort=False)
         out = out.head(target_rows).copy()
+        expected_present = ~out.get("gold_category", pd.Series("", index=out.index)).astype(str).str.lower().isin({"hard_negative_non_catalyst"})
         out = pd.DataFrame(
             {
                 "event_id": out.get("event_id", ""),
@@ -1229,7 +1580,7 @@ def build_biotech_catalyst_gold_template(facts: pd.DataFrame, out_path: str | Pa
                 "expected_value": out.get("value", ""),
                 "unit": out.get("unit", ""),
                 "tolerance": "",
-                "expected_present": True,
+                "expected_present": expected_present,
                 "gold_category": out.get("gold_category", ""),
                 "source_evidence_text": out.get("source_evidence_text", out.get("evidence_text", "")),
                 "review_status": "needs_human_review",
@@ -1288,7 +1639,9 @@ def _reviewed_usable_events(events: pd.DataFrame) -> pd.DataFrame:
     review_status = events.get("review_status", pd.Series([""] * len(events), index=events.index)).fillna("").astype(str).str.lower()
     usable = events[~review_status.isin({"rejected", "drop", "dropped"})].copy()
     usable_status = usable.get("review_status", pd.Series([""] * len(usable), index=usable.index)).fillna("").astype(str).str.lower()
-    return usable[usable_status.isin({"reviewed", "curated", "approved"})].copy()
+    usable = usable[usable_status.isin({"reviewed", "curated", "approved"})].copy()
+    event_type = usable.get("biotech_catalyst_event_type", usable.get("event_subtype", pd.Series("", index=usable.index))).fillna("").astype(str).str.lower()
+    return usable[event_type.ne("unknown") & event_type.ne("")].copy()
 
 
 def biotech_catalyst_readiness_summary(
@@ -1402,9 +1755,29 @@ def biotech_catalyst_readiness_summary(
             )
             enrollment_mistaken_for_readout = bool((gold_category.eq("enrollment_update") & actual_event_types.isin(READOUT_EVENT_TYPES)).any())
             publication_mistaken_for_readout = bool((gold_category.eq("publication_conference_notice") & actual_event_types.isin(READOUT_EVENT_TYPES)).any())
+            hard_negative_categories = {
+                "enrollment_update",
+                "publication_conference_notice",
+                "pipeline_update",
+                "pipeline_table",
+                "investor_deck_pipeline_table",
+                "trial_initiation",
+                "trial_design_protocol",
+                "previously_announced",
+                "fda_regulatory_decision_false_positive",
+                "hard_negative_non_catalyst",
+            }
+            hard_negative_mistaken_for_catalyst = bool(
+                (gold_category.isin(hard_negative_categories) & actual_event_types.isin(BINARY_CATALYST_EVENT_TYPES | DESIGNATION_ONLY_EVENT_TYPES)).any()
+            )
+            pipeline_table_mistaken_for_catalyst = bool(
+                (gold_category.isin({"pipeline_table", "investor_deck_pipeline_table"}) & actual_event_types.isin(BINARY_CATALYST_EVENT_TYPES | DESIGNATION_ONLY_EVENT_TYPES)).any()
+            )
             metrics["parser_event_type_precision"] = float(event_type_precision)
             metrics["parser_enrollment_update_false_readout"] = enrollment_mistaken_for_readout
             metrics["parser_publication_notice_false_readout"] = publication_mistaken_for_readout
+            metrics["parser_hard_negative_false_catalyst"] = hard_negative_mistaken_for_catalyst
+            metrics["parser_pipeline_table_false_catalyst"] = pipeline_table_mistaken_for_catalyst
             gates["parser_audit_pass"] = bool(
                 audit_rows >= 60
                 and event_type_precision >= 0.95
@@ -1412,6 +1785,8 @@ def biotech_catalyst_readiness_summary(
                 and not designation_mistaken_for_approval
                 and not enrollment_mistaken_for_readout
                 and not publication_mistaken_for_readout
+                and not hard_negative_mistaken_for_catalyst
+                and not pipeline_table_mistaken_for_catalyst
             )
         else:
             gates["parser_audit_pass"] = bool(audit_rows >= 60 and audit_precision >= 0.90)
@@ -1486,6 +1861,8 @@ def write_biotech_catalyst_readiness_report(
         "parser_event_type_precision",
         "parser_enrollment_update_false_readout",
         "parser_publication_notice_false_readout",
+        "parser_hard_negative_false_catalyst",
+        "parser_pipeline_table_false_catalyst",
         "likely_oos_predictions_min_train",
     ]:
         if key in summary:

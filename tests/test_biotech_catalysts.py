@@ -151,6 +151,62 @@ def test_enrollment_and_conference_notice_not_mistaken_for_readout():
     assert "publication_or_conference_notice_not_topline" in by_name["parser_quality_flags"].value
 
 
+def test_approval_pathway_background_not_mistaken_for_accelerated_approval():
+    facts = parse_biotech_catalyst_document(
+        _doc(
+            "FDA granted RMAT designation to ABC-123. Similar to Breakthrough Therapy designation, "
+            "RMAT provides opportunities to discuss surrogate endpoints, potential ways to support "
+            "accelerated approval and satisfy post-approval requirements, and potential priority review."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert by_name["event_type"].value == "unknown"
+    assert "background_approval_language_not_decision" in by_name["parser_quality_flags"].value
+
+
+def test_about_company_pipeline_boilerplate_not_mistaken_for_readout():
+    facts = parse_biotech_catalyst_document(
+        _doc(
+            "XYZ appoints a new director.\n"
+            "About XYZ Therapeutics\n"
+            "XYZ is developing oncology candidates. The company's product candidates include ABC-123, "
+            "which is currently being evaluated in a Phase 2 clinical trial for lymphoma. "
+            "Forward-Looking Statements\n"
+            "Actual results could differ materially and negative results may be observed in clinical trials."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert by_name["event_type"].value == "unknown"
+    assert "boilerplate_or_risk_factor_not_event" in by_name["parser_quality_flags"].value
+
+
+def test_previously_announced_pipeline_result_not_new_catalyst():
+    facts = parse_biotech_catalyst_document(
+        _doc(
+            "XYZ reports quarterly business updates.\n"
+            "Summary of Business Highlights\n"
+            "Pipeline: In September, we announced that our Phase 2 SYCAMORE clinical trial of ABC-123 "
+            "met its primary endpoint of safety and demonstrated encouraging exploratory efficacy trends. "
+            "We plan to present the Phase 2 data at a medical conference."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert by_name["event_type"].value == "unknown"
+    assert "previously_announced_not_new" in by_name["parser_quality_flags"].value
+
+
+def test_current_phase_2_endpoint_result_is_readout():
+    facts = parse_biotech_catalyst_document(
+        _doc(
+            "XYZ announced topline results from its Phase 2 trial of ABC-123 in lymphoma. "
+            "The study met its primary endpoint of objective response rate with p=0.01."
+        )
+    )
+    by_name = {fact.fact_name: fact for fact in facts}
+    assert by_name["event_type"].value == "phase_2_readout"
+    assert by_name["endpoint_met"].value is True
+
+
 def test_validate_biotech_parser_against_gold():
     facts = pd.DataFrame(
         [
@@ -170,6 +226,26 @@ def test_validate_biotech_parser_against_gold():
     assert set(errors["status"]) == {"ok"}
     assert report["correct_rows"] == 3
     assert report["event_type_precision"] == 1.0
+
+
+def test_validate_biotech_parser_expected_present_false_allows_unknown_event_type():
+    facts = pd.DataFrame(
+        [
+            {"event_id": "E1", "fact_name": "event_type", "value": "unknown", "unit": "category", "confidence": 0.3, "source_evidence_text": "pipeline update"},
+            {"event_id": "E2", "fact_name": "event_type", "value": "phase_2_readout", "unit": "category", "confidence": 0.9, "source_evidence_text": "Phase 2 readout"},
+        ]
+    )
+    gold = pd.DataFrame(
+        [
+            {"event_id": "E1", "fact_name": "event_type", "expected_value": "unknown", "unit": "category", "expected_present": False, "gold_category": "pipeline_table"},
+            {"event_id": "E2", "fact_name": "event_type", "expected_value": "unknown", "unit": "category", "expected_present": False, "gold_category": "pipeline_table"},
+        ]
+    )
+    errors, report = validate_biotech_catalyst_parser(facts, gold)
+    by_event = errors.set_index("event_id")
+    assert by_event.loc["E1", "status"] == "ok"
+    assert by_event.loc["E2", "status"] == "false_positive"
+    assert report["gates"]["no_investor_deck_pipeline_table_mistaken_for_new_catalyst"] is False
 
 
 def test_readiness_summary_requires_reviewed_context_and_audit():
