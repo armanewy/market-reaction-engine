@@ -120,7 +120,7 @@ Implemented in v0.2:
 
 Next corpora to consider after earnings:
 
-- FDA/biotech events
+- FDA/biotech events, including the source-grounded `biotech_fda_clinical_catalyst` corpus
 - antitrust/regulatory events
 - cyber breach events
 - product recall events
@@ -166,7 +166,7 @@ This milestone closes the remaining research-value scaffolding from the original
 
 Narrow-domain corpus layer:
 
-- Domain schemas for earnings/guidance, FDA/biotech, regulatory/legal, cyber incidents, and recall/safety events
+- Domain schemas for earnings/guidance, FDA/biotech, biotech FDA/clinical catalysts, regulatory/legal, cyber incidents, and recall/safety events
 - Domain-specific event templates
 - Curated corpus builder and validator
 - Review/evidence/label-quality flags

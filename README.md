@@ -458,7 +458,7 @@ Useful optional columns:
 
 ### M7 — narrow-domain corpora and falsification harness
 
-- Domain schemas/templates for `earnings_guidance`, `fda_biotech`, `regulatory_legal`, `cyber_incident`, and `recall_safety`
+- Domain schemas/templates for `earnings_guidance`, `fda_biotech`, `biotech_fda_clinical_catalyst`, `regulatory_legal`, `cyber_incident`, and `recall_safety`
 - Curated corpus builder and validator with review/evidence/label-quality flags
 - Base-rate tables by domain/event metadata
 - Purged walk-forward validation

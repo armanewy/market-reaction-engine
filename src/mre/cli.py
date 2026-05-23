@@ -15,6 +15,14 @@ from .backtest import (
     simulate_event_strategy,
 )
 from .base_rates import base_rate_table
+from .biotech_catalysts import (
+    build_biotech_catalyst_gold_template,
+    build_biotech_catalyst_source_documents,
+    parse_biotech_catalyst_manifest,
+    validate_biotech_catalyst_parser,
+    write_biotech_catalyst_parser_audit_report,
+    write_biotech_catalyst_readiness_report,
+)
 from .capital_raises import (
     build_capital_raise_sec_source_documents,
     build_sec_shares_outstanding_context,
@@ -32,7 +40,6 @@ from .government_contracts import (
     write_government_contract_parser_audit_report,
     write_government_contract_readiness_report,
 )
-
 from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
 from .corpus_demo import generate_corpus_demo_data
 from .demo import generate_demo_data
@@ -408,6 +415,114 @@ def cmd_validate_management_guidance_bridge(args: argparse.Namespace) -> None:
     )
     write_management_guidance_validation_report(report, args.report_out)
     print(json.dumps({"report": str(args.report_out), **report}, indent=2, default=str))
+
+
+def cmd_biotech_catalyst_source_docs(args: argparse.Namespace) -> None:
+    tickers: set[str] = set(parse_ticker_list(getattr(args, "tickers", []) or []))
+    benchmark = (getattr(args, "benchmark", "") or "").upper().strip() or "SPY"
+    sector_benchmark = (getattr(args, "sector_benchmark", "") or "").upper().strip()
+    if args.preset:
+        preset = get_preset(args.preset)
+        tickers.update(preset.tickers)
+        if not sector_benchmark:
+            sector_benchmark = preset.sector_benchmark
+        if not benchmark:
+            benchmark = preset.benchmark
+    forms = [v.strip().upper() for v in args.forms.split(",") if v.strip()]
+    client = None
+    if tickers and not args.no_sec:
+        client = SecClient(user_agent=args.user_agent, requests_per_second=args.requests_per_second)
+    df, diag = build_biotech_catalyst_source_documents(
+        client,
+        tickers=sorted(tickers),
+        out_manifest=args.out,
+        docs_dir=args.docs_dir,
+        start=args.start,
+        end=args.end,
+        forms=forms,
+        item_filter=args.item_filter,
+        limit_per_ticker=args.limit_per_ticker,
+        sector_benchmark=sector_benchmark,
+        source_manifests=args.source_manifests,
+        include_sec=not args.no_sec,
+        overwrite=args.overwrite,
+        min_text_chars=args.min_text_chars,
+    )
+    print(
+        json.dumps(
+            {
+                "provider": "sec-edgar + manifest",
+                "tickers": sorted(tickers),
+                "benchmark": benchmark,
+                "sector_benchmark": sector_benchmark,
+                "rows": int(len(df)),
+                "diagnostics": diag.to_dict(),
+                "out": str(args.out),
+                "docs_dir": str(args.docs_dir),
+                "warning": "Biotech catalyst source documents are candidates; FDA/ClinicalTrials/openFDA rows should be added through reviewed source manifests before modeling.",
+            },
+            indent=2,
+            default=str,
+        )
+    )
+
+
+def cmd_parse_biotech_catalysts(args: argparse.Namespace) -> None:
+    facts, features, events = parse_biotech_catalyst_manifest(
+        args.documents,
+        args.facts_out,
+        args.features_out,
+        args.events_out,
+        min_confidence=args.min_confidence,
+        usable_confidence=args.usable_confidence,
+    )
+    payload = {
+        "documents": args.documents,
+        "fact_rows": int(len(facts)),
+        "feature_rows": int(len(features)),
+        "event_rows": int(len(events)),
+        "facts_out": str(args.facts_out),
+        "features_out": str(args.features_out),
+        "events_out": str(args.events_out),
+        "fact_counts": facts["fact_name"].value_counts(dropna=False).to_dict() if not facts.empty else {},
+        "biotech_catalyst_event_type_counts": features["biotech_catalyst_event_type"].value_counts(dropna=False).to_dict() if "biotech_catalyst_event_type" in features.columns else {},
+        "warning": "Biotech catalyst parser output is a review queue, not a model-ready corpus.",
+    }
+    print(json.dumps(payload, indent=2, default=str))
+
+
+def cmd_validate_biotech_catalyst_parser(args: argparse.Namespace) -> None:
+    pd = __import__("pandas")
+    facts_df = pd.read_csv(args.facts)
+    gold_path = Path(args.gold)
+    if args.build_gold_template or not gold_path.exists():
+        gold = build_biotech_catalyst_gold_template(facts_df, gold_path)
+        report = {
+            "gold_rows": int(len(gold)),
+            "status": "gold_template_created_requires_human_review",
+            "parser_audit_pass": False,
+            "gates": {"human_reviewed_gold_set_exists": False},
+        }
+        report_path = write_biotech_catalyst_parser_audit_report(report, pd.DataFrame(), args.report_out)
+        ensure_parent(args.errors_out)
+        pd.DataFrame(columns=["event_id", "fact_name", "expected_value", "actual_value", "unit", "status"]).to_csv(args.errors_out, index=False)
+        print(json.dumps({"report": str(report_path), "gold": str(gold_path), "errors": str(args.errors_out), **report}, indent=2, default=str))
+        return
+    gold_df = pd.read_csv(gold_path)
+    errors, report = validate_biotech_catalyst_parser(facts_df, gold_df, out_errors=args.errors_out)
+    report_path = write_biotech_catalyst_parser_audit_report(report, errors, args.report_out)
+    print(json.dumps({"report": str(report_path), "errors": str(args.errors_out), **report}, indent=2, default=str))
+
+
+def cmd_biotech_catalyst_readiness_report(args: argparse.Namespace) -> None:
+    summary = write_biotech_catalyst_readiness_report(
+        args.events,
+        args.out,
+        min_train=args.min_train,
+        source_documents_path=args.source_documents,
+        parser_errors_path=args.parser_errors,
+    )
+    print(json.dumps({"report": str(args.out), **summary}, indent=2, default=str))
 
 
 def cmd_parse_capital_raises(args: argparse.Namespace) -> None:
@@ -1146,7 +1261,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.set_defaults(func=cmd_corpus_domains)
 
     p = sub.add_parser("domain-template", help="Create a domain-specific curated event template.")
-    p.add_argument("--domain", required=True, help="earnings_guidance, fda_biotech, regulatory_legal, cyber_incident, recall_safety, or capital_raise_dilution")
+    p.add_argument("--domain", required=True, help="earnings_guidance, fda_biotech, biotech_fda_clinical_catalyst, regulatory_legal, cyber_incident, recall_safety, or capital_raise_dilution")
     p.add_argument("--tickers", nargs="*", default=[])
     p.add_argument("--corpus-name", default=None)
     p.add_argument("--rows-per-ticker", type=int, default=1)
@@ -1344,6 +1459,51 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--max-prior-event-gap-days", type=int, default=190)
     p.add_argument("--min-confidence", type=float, default=0.80)
     p.set_defaults(func=cmd_validate_management_guidance_bridge)
+
+    p = sub.add_parser("biotech-catalyst-source-docs", help="Create FDA/clinical biotech catalyst source-document candidates from SEC 8-Ks and local source manifests.")
+    p.add_argument("--preset", default=None)
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--sector-benchmark", default="")
+    p.add_argument("--forms", default="8-K")
+    p.add_argument("--item-filter", default="7.01,8.01", help="8-K item filter for clinical/FDA current reports.")
+    p.add_argument("--start", default=None)
+    p.add_argument("--end", default=None)
+    p.add_argument("--limit-per-ticker", type=int, default=None)
+    p.add_argument("--docs-dir", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--source-manifests", nargs="*", default=[], help="Existing source-document manifests to append, e.g. FDA, ClinicalTrials.gov, or company press-release rows.")
+    p.add_argument("--no-sec", action="store_true", help="Skip SEC discovery and only combine supplied source manifests.")
+    p.add_argument("--user-agent", default=None)
+    p.add_argument("--requests-per-second", type=float, default=5.0)
+    p.add_argument("--overwrite", action="store_true")
+    p.add_argument("--min-text-chars", type=int, default=40)
+    p.set_defaults(func=cmd_biotech_catalyst_source_docs)
+
+    p = sub.add_parser("parse-biotech-catalysts", help="Parse FDA/clinical biotech source documents into facts, features, and a review queue.")
+    p.add_argument("--documents", required=True, help="Source-document manifest.")
+    p.add_argument("--facts-out", required=True)
+    p.add_argument("--features-out", required=True)
+    p.add_argument("--events-out", required=True)
+    p.add_argument("--min-confidence", type=float, default=0.0)
+    p.add_argument("--usable-confidence", type=float, default=0.70)
+    p.set_defaults(func=cmd_parse_biotech_catalysts)
+
+    p = sub.add_parser("validate-biotech-catalyst-parser", help="Validate biotech catalyst parser facts against a reviewed gold-set CSV.")
+    p.add_argument("--facts", required=True)
+    p.add_argument("--gold", required=True)
+    p.add_argument("--errors-out", required=True)
+    p.add_argument("--report-out", required=True)
+    p.add_argument("--build-gold-template", action="store_true", help="Create a 60-row parser-proposed gold template from facts; human review is still required.")
+    p.set_defaults(func=cmd_validate_biotech_catalyst_parser)
+
+    p = sub.add_parser("biotech-catalyst-readiness-report", help="Summarize whether a reviewed/enriched biotech catalyst corpus is ready for modeling.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--min-train", type=int, default=40)
+    p.add_argument("--source-documents", default=None)
+    p.add_argument("--parser-errors", default=None, help="Optional parser validation errors CSV; if supplied, parser audit must pass.")
+    p.set_defaults(func=cmd_biotech_catalyst_readiness_report)
 
     p = sub.add_parser("parse-capital-raises", help="Parse capital raise, dilution, ATM, convertible, and liquidity source documents into reviewable fact/event rows.")
     p.add_argument("--documents", required=True, help="Source-document manifest.")

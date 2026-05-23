@@ -8,6 +8,7 @@ The project now supports explicit corpus schemas for:
 
 - `earnings_guidance`
 - `fda_biotech`
+- `biotech_fda_clinical_catalyst`
 - `regulatory_legal`
 - `cyber_incident`
 - `recall_safety`
