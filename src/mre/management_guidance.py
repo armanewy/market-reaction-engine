@@ -337,6 +337,11 @@ def build_management_guidance_bridge(
             if not pd.isna(current_guidance) and not pd.isna(actual) and actual:
                 new_guidance_vs_actual = float(current_guidance) - float(actual)
                 new_guidance_vs_actual_pct = new_guidance_vs_actual / abs(float(actual))
+            current_guidance_vs_prior_guidance = np.nan
+            current_guidance_vs_prior_guidance_pct = np.nan
+            if not pd.isna(current_guidance) and not pd.isna(prior_guidance) and prior_guidance:
+                current_guidance_vs_prior_guidance = float(current_guidance) - float(prior_guidance)
+                current_guidance_vs_prior_guidance_pct = current_guidance_vs_prior_guidance / abs(float(prior_guidance))
 
             confidence_values = [actual_conf, prior_guidance_conf]
             if not pd.isna(current_guidance_conf):
@@ -384,6 +389,9 @@ def build_management_guidance_bridge(
                 "management_guidance_surprise_pct": surprise_pct,
                 "new_guidance_vs_actual": new_guidance_vs_actual,
                 "new_guidance_vs_actual_pct": new_guidance_vs_actual_pct,
+                "new_guidance_vs_current_actual_pct": new_guidance_vs_actual_pct,
+                "current_guidance_vs_prior_guidance": current_guidance_vs_prior_guidance,
+                "current_guidance_vs_prior_guidance_pct": current_guidance_vs_prior_guidance_pct,
                 "actual_gross_margin": event.get("actual_gross_margin", np.nan),
                 "actual_gross_margin_confidence": event.get("actual_gross_margin_confidence", np.nan),
                 "guidance_gross_margin_mid": event.get("guidance_gross_margin_mid", np.nan),
@@ -402,6 +410,12 @@ def build_management_guidance_bridge(
             prior = event
 
     bridge = pd.DataFrame(rows)
+    for value_col, rank_col in [
+        ("actual_vs_prior_management_guidance_pct", "actual_vs_prior_guidance_rank_by_ticker"),
+        ("current_guidance_vs_prior_guidance_pct", "current_guidance_vs_prior_guidance_rank_by_ticker"),
+    ]:
+        values = pd.to_numeric(bridge[value_col], errors="coerce")
+        bridge[rank_col] = values.groupby(bridge["ticker"]).rank(pct=True)
     ensure_parent(out_path)
     bridge.to_csv(out_path, index=False)
     if failures_path:
@@ -544,6 +558,17 @@ def _threshold_count_lines(ready: pd.DataFrame, col: str) -> list[str]:
     return lines
 
 
+def _bucket_stats(merged: pd.DataFrame, mask: pd.Series, label: str) -> list[str]:
+    h1 = pd.to_numeric(merged.get("car_sector_adj_h1", pd.Series(dtype=float)), errors="coerce")
+    h3 = pd.to_numeric(merged.get("car_sector_adj_h3", pd.Series(dtype=float)), errors="coerce")
+    count = int(mask.sum())
+    if count == 0:
+        return [f"- {label}: n=0"]
+    return [
+        f"- {label}: n={count}, mean_h1={h1[mask].mean():.4f}, mean_h3={h3[mask].mean():.4f}",
+    ]
+
+
 def _top_fix_candidates(bridge: pd.DataFrame) -> pd.DataFrame:
     non_ready = bridge[bridge["bridge_status"] != READY_STATUS].copy()
     if non_ready.empty:
@@ -569,7 +594,7 @@ def write_management_guidance_expansion_report(
 ) -> None:
     ready = bridge[bridge["bridge_status"] == READY_STATUS].copy() if not bridge.empty else bridge.copy()
     lines = [
-        "# Agent 1D2 Expansion Report - Management-Guidance Bridge",
+        "# Agent 1D3 Expansion Report - Management-Guidance Bridge",
         "",
         "## Decision",
         "",
@@ -594,12 +619,16 @@ def write_management_guidance_expansion_report(
             lines.append(f"- {status}: {count}")
     lines.extend(["", "## Threshold Counts", ""])
     lines.extend(_threshold_count_lines(ready, "actual_vs_prior_management_guidance_pct"))
+    lines.extend(["", "## Forward-Guidance Delta Counts", ""])
+    lines.extend(_threshold_count_lines(ready, "current_guidance_vs_prior_guidance_pct"))
+    lines.extend(_threshold_count_lines(ready, "new_guidance_vs_current_actual_pct"))
 
     if event_study_path and Path(event_study_path).exists() and not ready.empty:
         event_study = pd.read_csv(event_study_path)
         merged = ready.merge(event_study, on="event_id", how="left", suffixes=("", "_event_study"))
         runup = pd.to_numeric(merged.get("market_adjusted_pre_return_20d", pd.Series(dtype=float)), errors="coerce")
         surprise = pd.to_numeric(merged.get("actual_vs_prior_management_guidance_pct", pd.Series(dtype=float)), errors="coerce")
+        guidance_delta = pd.to_numeric(merged.get("current_guidance_vs_prior_guidance_pct", pd.Series(dtype=float)), errors="coerce")
         h1 = pd.to_numeric(merged.get("car_sector_adj_h1", pd.Series(dtype=float)), errors="coerce")
         h3 = pd.to_numeric(merged.get("car_sector_adj_h3", pd.Series(dtype=float)), errors="coerce")
         lines.extend(["", "## Descriptive Market Context", ""])
@@ -610,6 +639,22 @@ def write_management_guidance_expansion_report(
         miss_1 = surprise <= -0.01
         lines.append(f"- h1 sector-adjusted return for <= -1% management-guidance misses: {h1[miss_1].mean():.4f}" if miss_1.any() else "- h1 sector-adjusted return for <= -1% management-guidance misses: n/a")
         lines.append(f"- h3 sector-adjusted return for <= -1% management-guidance misses: {h3[miss_1].mean():.4f}" if miss_1.any() else "- h3 sector-adjusted return for <= -1% management-guidance misses: n/a")
+        pos_runup = runup > 0
+        no_runup = runup <= 0
+        beat = surprise >= 0.005
+        miss = surprise <= -0.005
+        guide_raise = guidance_delta >= 0.005
+        guide_cut = guidance_delta <= -0.005
+        lines.extend(["", "## Pre-Registered Descriptive Buckets", ""])
+        for bucket_lines in [
+            _bucket_stats(merged, pos_runup & beat, "positive run-up + positive management beat"),
+            _bucket_stats(merged, pos_runup & miss, "positive run-up + negative management miss"),
+            _bucket_stats(merged, pos_runup & guide_cut, "positive run-up + current guidance cut"),
+            _bucket_stats(merged, pos_runup & guide_raise, "positive run-up + current guidance raise"),
+            _bucket_stats(merged, no_runup & beat, "no run-up + positive management beat"),
+            _bucket_stats(merged, no_runup & guide_raise, "no run-up + current guidance raise"),
+        ]:
+            lines.extend(bucket_lines)
 
     candidates = _top_fix_candidates(bridge)
     lines.extend(["", "## Top Fix Candidates", ""])
@@ -686,6 +731,7 @@ def write_management_guidance_bridge_report(
             "",
             *_quantile_lines(ready.get("actual_vs_prior_management_guidance_pct", pd.Series(dtype=float)), "actual_vs_prior_management_guidance_pct"),
             *_quantile_lines(ready.get("new_guidance_vs_actual_pct", pd.Series(dtype=float)), "new_guidance_vs_actual_pct"),
+            *_quantile_lines(ready.get("current_guidance_vs_prior_guidance_pct", pd.Series(dtype=float)), "current_guidance_vs_prior_guidance_pct"),
             "",
             "## Extremes",
             "",

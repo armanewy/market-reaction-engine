@@ -47,6 +47,11 @@ def test_management_guidance_bridge_uses_immediate_prior_guidance(tmp_path: Path
     assert row["prior_event_gap_days"] == 91.0
     assert row["actual_vs_prior_management_guidance"] == -50.0
     assert row["actual_vs_prior_management_guidance_pct"] == -0.05
+    assert row["current_guidance_vs_prior_guidance"] == 100.0
+    assert row["current_guidance_vs_prior_guidance_pct"] == 0.1
+    assert row["new_guidance_vs_current_actual_pct"] == row["new_guidance_vs_actual_pct"]
+    assert row["actual_vs_prior_guidance_rank_by_ticker"] == 1.0
+    assert row["current_guidance_vs_prior_guidance_rank_by_ticker"] == 1.0
     assert row["surprise_direction"] == "negative"
     assert "actual_eps" not in bridge.columns
     assert row["period_alignment_status"] == "aligned"
