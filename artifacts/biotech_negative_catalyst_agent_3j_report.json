@@ -1,0 +1,1082 @@
+{
+  "agent": "3J",
+  "domain": "biotech_fda_clinical_catalyst",
+  "approach": "timestamp-repaired negative binary catalyst rule/base-rate confirmation; no probability model trained",
+  "benchmark": "SPY",
+  "sector_benchmark": "XBI",
+  "horizons": [
+    1,
+    3,
+    10
+  ],
+  "event_counts": {
+    "corrected_rows": 61,
+    "event_study_rows": 61,
+    "event_study_ok_rows": 61,
+    "fresh_rows": 27,
+    "original_rows": 34,
+    "strategy_trades_h1": 61
+  },
+  "event_study_diagnostics": {
+    "events_total": 61,
+    "events_ok": 61,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "base_rate_summary": {
+    "fresh": {
+      "h1": {
+        "dataset_split": "fresh",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 1,
+        "n": 27,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.17975140838829554,
+        "median_car_sector_adj": -0.028595494948143913,
+        "winsorized_mean_car_sector_adj_5_95": -0.18865844279342114,
+        "negative_rate": 0.6666666666666666,
+        "positive_rate": 0.3333333333333333,
+        "sign_accuracy": 0.6666666666666666,
+        "mean_simple_sector_adj": -0.09849751305104766,
+        "median_simple_sector_adj": -0.028190513181657884,
+        "mean_abs_car_sector_adj": 0.24625842328631103
+      },
+      "h3": {
+        "dataset_split": "fresh",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 3,
+        "n": 27,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.17319991965182346,
+        "median_car_sector_adj": -0.07520324155948438,
+        "winsorized_mean_car_sector_adj_5_95": -0.17317076454625582,
+        "negative_rate": 0.7407407407407407,
+        "positive_rate": 0.25925925925925924,
+        "sign_accuracy": 0.7407407407407407,
+        "mean_simple_sector_adj": -0.10681579259810305,
+        "median_simple_sector_adj": -0.0724450505444969,
+        "mean_abs_car_sector_adj": 0.243369880632381
+      },
+      "h10": {
+        "dataset_split": "fresh",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 10,
+        "n": 27,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.1264136916620076,
+        "median_car_sector_adj": -0.04400319197289541,
+        "winsorized_mean_car_sector_adj_5_95": -0.1396463752209908,
+        "negative_rate": 0.5925925925925926,
+        "positive_rate": 0.4074074074074074,
+        "sign_accuracy": 0.5925925925925926,
+        "mean_simple_sector_adj": -0.0716221281216674,
+        "median_simple_sector_adj": -0.04304909709317273,
+        "mean_abs_car_sector_adj": 0.22960810086779168
+      }
+    },
+    "original": {
+      "h1": {
+        "dataset_split": "original",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 1,
+        "n": 34,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.09501695952714354,
+        "median_car_sector_adj": -0.0490817727537845,
+        "winsorized_mean_car_sector_adj_5_95": -0.07590291085274864,
+        "negative_rate": 0.7352941176470589,
+        "positive_rate": 0.2647058823529412,
+        "sign_accuracy": 0.7352941176470589,
+        "mean_simple_sector_adj": -0.07551947837365182,
+        "median_simple_sector_adj": -0.047895255716204066,
+        "mean_abs_car_sector_adj": 0.12992356036596003
+      },
+      "h3": {
+        "dataset_split": "original",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 3,
+        "n": 34,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.08880454371863758,
+        "median_car_sector_adj": -0.05332595407566779,
+        "winsorized_mean_car_sector_adj_5_95": -0.07488087204126335,
+        "negative_rate": 0.6764705882352942,
+        "positive_rate": 0.3235294117647059,
+        "sign_accuracy": 0.6764705882352942,
+        "mean_simple_sector_adj": -0.07036923973339683,
+        "median_simple_sector_adj": -0.05192849736379873,
+        "mean_abs_car_sector_adj": 0.1348184363098606
+      },
+      "h10": {
+        "dataset_split": "original",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 10,
+        "n": 33,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.11689396051330982,
+        "median_car_sector_adj": -0.09120988939134873,
+        "winsorized_mean_car_sector_adj_5_95": -0.11346847706473422,
+        "negative_rate": 0.7878787878787878,
+        "positive_rate": 0.21212121212121213,
+        "sign_accuracy": 0.7878787878787878,
+        "mean_simple_sector_adj": -0.09148296581080823,
+        "median_simple_sector_adj": -0.08717390172293371,
+        "mean_abs_car_sector_adj": 0.1748504226373971
+      }
+    },
+    "combined": {
+      "h1": {
+        "dataset_split": "combined",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 1,
+        "n": 61,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.1325223713181452,
+        "median_car_sector_adj": -0.04732221619697345,
+        "winsorized_mean_car_sector_adj_5_95": -0.129479194928868,
+        "negative_rate": 0.7049180327868853,
+        "positive_rate": 0.29508196721311475,
+        "sign_accuracy": 0.7049180327868853,
+        "mean_simple_sector_adj": -0.08569008388659752,
+        "median_simple_sector_adj": -0.046219975299539584,
+        "mean_abs_car_sector_adj": 0.1814160406749679
+      },
+      "h3": {
+        "dataset_split": "combined",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 3,
+        "n": 61,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.12615987404971984,
+        "median_car_sector_adj": -0.056304170385880294,
+        "winsorized_mean_car_sector_adj_5_95": -0.12036235641513819,
+        "negative_rate": 0.7049180327868853,
+        "positive_rate": 0.29508196721311475,
+        "sign_accuracy": 0.7049180327868853,
+        "mean_simple_sector_adj": -0.08650132050957829,
+        "median_simple_sector_adj": -0.05474842537740443,
+        "mean_abs_car_sector_adj": 0.18286579691163188
+      },
+      "h10": {
+        "dataset_split": "combined",
+        "group_name": "all",
+        "group_value": "all",
+        "horizon": 10,
+        "n": 60,
+        "expected_direction": "negative",
+        "mean_car_sector_adj": -0.12117783953022382,
+        "median_car_sector_adj": -0.08710766371358153,
+        "winsorized_mean_car_sector_adj_5_95": -0.12729250521754515,
+        "negative_rate": 0.7,
+        "positive_rate": 0.3,
+        "sign_accuracy": 0.7,
+        "mean_simple_sector_adj": -0.08254558885069484,
+        "median_simple_sector_adj": -0.08341436117611922,
+        "mean_abs_car_sector_adj": 0.19949137784107462
+      }
+    }
+  },
+  "placebo_controls": {
+    "random_events": 61,
+    "shifted_events": 56,
+    "random_generation_diagnostics": {
+      "rows_total": 61,
+      "rows_used": 61,
+      "rows_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "shifted_generation_diagnostics": {
+      "rows_total": 61,
+      "rows_used": 56,
+      "rows_skipped": 5,
+      "skipped_reasons": {
+        "no_placebo_date_BEAM": 1,
+        "no_placebo_date_NVAX": 1,
+        "no_placebo_date_NTLA": 1,
+        "no_placebo_date_MIRM": 1,
+        "no_placebo_date_ZYME": 1
+      }
+    },
+    "random_event_study_diagnostics": {
+      "events_total": 61,
+      "events_ok": 54,
+      "events_skipped": 7,
+      "skipped_reasons": {
+        "not enough pre-event history": 5,
+        "not enough clean estimation observations: 37": 1,
+        "not enough clean estimation observations: 49": 1
+      }
+    },
+    "shifted_event_study_diagnostics": {
+      "events_total": 56,
+      "events_ok": 56,
+      "events_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "main_summary": {
+      "label": "negative_main",
+      "rows": 61,
+      "ok_rows": 61,
+      "h1": {
+        "n": 61,
+        "mean_log": -0.1325223713181452,
+        "median_log": -0.04732221619697345,
+        "mean_simple": -0.08569008388659752,
+        "positive_rate": 0.29508196721311475,
+        "mean_abs_log": 0.1814160406749679
+      },
+      "h3": {
+        "n": 61,
+        "mean_log": -0.12615987404971984,
+        "median_log": -0.056304170385880294,
+        "mean_simple": -0.08650132050957829,
+        "positive_rate": 0.29508196721311475,
+        "mean_abs_log": 0.18286579691163188
+      },
+      "h10": {
+        "n": 60,
+        "mean_log": -0.12117783953022382,
+        "median_log": -0.08710766371358153,
+        "mean_simple": -0.08254558885069484,
+        "positive_rate": 0.3,
+        "mean_abs_log": 0.19949137784107462
+      }
+    },
+    "random_summary": {
+      "label": "negative_random_placebo",
+      "rows": 61,
+      "ok_rows": 54,
+      "h1": {
+        "n": 54,
+        "mean_log": -0.014089582928386926,
+        "median_log": -0.007491976099102522,
+        "mean_simple": -0.013129848331763385,
+        "positive_rate": 0.2962962962962963,
+        "mean_abs_log": 0.028412744405291197
+      },
+      "h3": {
+        "n": 54,
+        "mean_log": 0.01780693658169379,
+        "median_log": -0.0031610162179787835,
+        "mean_simple": 0.04335664132278514,
+        "positive_rate": 0.48148148148148145,
+        "mean_abs_log": 0.07426489537534679
+      },
+      "h10": {
+        "n": 53,
+        "mean_log": 0.050351999254079516,
+        "median_log": 0.019514055977299948,
+        "mean_simple": 0.08803827972540001,
+        "positive_rate": 0.6037735849056604,
+        "mean_abs_log": 0.13536647145192657
+      }
+    },
+    "shifted_summary": {
+      "label": "negative_shifted_placebo",
+      "rows": 56,
+      "ok_rows": 56,
+      "h1": {
+        "n": 56,
+        "mean_log": 0.0032135667347919805,
+        "median_log": 0.0032244192169545004,
+        "mean_simple": 0.004169063779279418,
+        "positive_rate": 0.5535714285714286,
+        "mean_abs_log": 0.02362517788656073
+      },
+      "h3": {
+        "n": 56,
+        "mean_log": -0.0015930882566297462,
+        "median_log": 0.0013657242197256947,
+        "mean_simple": 0.0003709026637701761,
+        "positive_rate": 0.5,
+        "mean_abs_log": 0.044419105283677526
+      },
+      "h10": {
+        "n": 55,
+        "mean_log": -0.011414598117385474,
+        "median_log": 0.00020074782874704867,
+        "mean_simple": -0.007688435745384597,
+        "positive_rate": 0.509090909090909,
+        "mean_abs_log": 0.06730251704597348
+      }
+    },
+    "main_short_strategy": {
+      "n_trades": 61,
+      "mean_net_event_return": 0.0846900838865975,
+      "median_net_event_return": 0.04521997529953958,
+      "hit_rate": 0.7049180327868853,
+      "cumulative_net_return": 7.317998019251226,
+      "max_drawdown": -0.9460162673205516
+    },
+    "random_short_strategy": {
+      "n_trades": 54,
+      "mean_net_event_return": 0.012129848331763384,
+      "median_net_event_return": 0.006463944600419936,
+      "hit_rate": 0.6666666666666666,
+      "cumulative_net_return": 0.8403147839588871,
+      "max_drawdown": -0.16897409853966994
+    },
+    "shifted_short_strategy": {
+      "n_trades": 56,
+      "mean_net_event_return": -0.0051690637792794186,
+      "median_net_event_return": -0.00422962513774927,
+      "hit_rate": 0.42857142857142855,
+      "cumulative_net_return": -0.302082479123681,
+      "max_drawdown": -0.46463230969812497
+    },
+    "random_weaker_than_main_h1": true,
+    "shifted_weaker_than_main_h1": true
+  },
+  "peer_controls": {
+    "peer_events": 61,
+    "generation_diagnostics": {
+      "rows_total": 61,
+      "rows_used": 61,
+      "rows_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "event_study_diagnostics": {
+      "events_total": 61,
+      "events_ok": 61,
+      "events_skipped": 0,
+      "skipped_reasons": {}
+    },
+    "summary": {
+      "label": "negative_peer_control",
+      "rows": 61,
+      "ok_rows": 61,
+      "h1": {
+        "n": 61,
+        "mean_log": -0.004677926724787446,
+        "median_log": -0.002197125245503303,
+        "mean_simple": -0.0030403392944393557,
+        "positive_rate": 0.45901639344262296,
+        "mean_abs_log": 0.030776073023283234
+      },
+      "h3": {
+        "n": 61,
+        "mean_log": -0.009957041208689942,
+        "median_log": -0.012449296080187681,
+        "mean_simple": -0.004567012974566236,
+        "positive_rate": 0.36065573770491804,
+        "mean_abs_log": 0.059123603331426196
+      },
+      "h10": {
+        "n": 60,
+        "mean_log": 0.0021107034155176518,
+        "median_log": -0.0016228276305986257,
+        "mean_simple": 0.02484063441873561,
+        "positive_rate": 0.48333333333333334,
+        "mean_abs_log": 0.11180896191197406
+      }
+    },
+    "short_strategy": {
+      "n_trades": 61,
+      "mean_net_event_return": 0.002040339294439355,
+      "median_net_event_return": 0.0011947133325793677,
+      "hit_rate": 0.5245901639344263,
+      "cumulative_net_return": 0.043268108282558115,
+      "max_drawdown": -0.22496146179934196
+    },
+    "weaker_than_main_h1": true,
+    "warning": "Peer controls rotate to another ticker in the biotech negative-catalyst universe; they are not hand-curated mechanism peers."
+  },
+  "outlier_robustness": {
+    "rows": 61,
+    "splits": {
+      "combined": {
+        "rows": 61,
+        "horizons": {
+          "h1": {
+            "n": 61,
+            "mean": -0.13252237131814526,
+            "median": -0.04732221619697345,
+            "winsorized_mean_5_95": -0.129479194928868,
+            "sign_accuracy": 0.7049180327868853,
+            "mean_excluding_top_1_abs": -0.10989455241513602,
+            "median_excluding_top_1_abs": -0.04698354893867865,
+            "mean_excluding_top_3_abs": -0.07410044059597372,
+            "median_excluding_top_3_abs": -0.045722965681681035,
+            "top_1_abs_share": 0.13465936557600355,
+            "top_3_abs_share": 0.34212087561269305,
+            "largest_abs_events": [
+              {
+                "event_id": "REPL_8-K_2025-07-22_0001104659-25-069489",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-07-22 08:30:00",
+                "car_sector_adj": -1.4901915054986992,
+                "abs_car_sector_adj": 1.4901915054986992
+              },
+              {
+                "event_id": "BBIO_8-K_2021-12-27_0001193125-21-366669",
+                "ticker": "BBIO",
+                "event_type": "phase_3_readout",
+                "event_time": "2021-12-27 08:30:00",
+                "car_sector_adj": -1.246264963443067,
+                "abs_car_sector_adj": 1.246264963443067
+              },
+              {
+                "event_id": "REPL_8-K_2026-04-13_0001104659-26-042141",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2026-04-13 08:30:00",
+                "car_sector_adj": -1.0495826268986184,
+                "abs_car_sector_adj": 1.0495826268986184
+              },
+              {
+                "event_id": "RCKT_8-K_2025-05-27_0001140361-25-020409",
+                "ticker": "RCKT",
+                "event_type": "trial_halt",
+                "event_time": "2025-05-27 08:30:00",
+                "car_sector_adj": -0.9931923009216072,
+                "abs_car_sector_adj": 0.9931923009216072
+              },
+              {
+                "event_id": "REPL_8-K_2025-10-20_0001104659-25-100605",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-10-20 08:30:00",
+                "car_sector_adj": 0.6652703406963864,
+                "abs_car_sector_adj": 0.6652703406963864
+              }
+            ],
+            "leave_one_out_min_mean": -0.14581891651838746,
+            "leave_one_out_max_mean": -0.10989455241513602
+          },
+          "h3": {
+            "n": 61,
+            "mean": -0.12615987404971982,
+            "median": -0.056304170385880294,
+            "winsorized_mean_5_95": -0.12036235641513818,
+            "sign_accuracy": 0.7049180327868853,
+            "mean_excluding_top_1_abs": -0.1049472448676068,
+            "median_excluding_top_1_abs": -0.05536243143990807,
+            "mean_excluding_top_3_abs": -0.07589942425387672,
+            "median_excluding_top_3_abs": -0.05332595407566779,
+            "top_1_abs_share": 0.12540932315718442,
+            "top_3_abs_share": 0.29526138445560496,
+            "largest_abs_events": [
+              {
+                "event_id": "REPL_8-K_2025-07-22_0001104659-25-069489",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-07-22 08:30:00",
+                "car_sector_adj": -1.3989176249765007,
+                "abs_car_sector_adj": 1.3989176249765007
+              },
+              {
+                "event_id": "BBIO_8-K_2021-12-27_0001193125-21-366669",
+                "ticker": "BBIO",
+                "event_type": "phase_3_readout",
+                "event_time": "2021-12-27 08:30:00",
+                "car_sector_adj": -1.0042599305494724,
+                "abs_car_sector_adj": 1.0042599305494724
+              },
+              {
+                "event_id": "RCKT_8-K_2025-05-27_0001140361-25-020409",
+                "ticker": "RCKT",
+                "event_type": "trial_halt",
+                "event_time": "2025-05-27 08:30:00",
+                "car_sector_adj": -0.8904081547820875,
+                "abs_car_sector_adj": 0.8904081547820875
+              },
+              {
+                "event_id": "REPL_8-K_2026-04-13_0001104659-26-042141",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2026-04-13 08:30:00",
+                "car_sector_adj": -0.7888130385272204,
+                "abs_car_sector_adj": 0.7888130385272204
+              },
+              {
+                "event_id": "REPL_8-K_2025-10-20_0001104659-25-100605",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-10-20 08:30:00",
+                "car_sector_adj": 0.6166407663281707,
+                "abs_car_sector_adj": 0.6166407663281707
+              }
+            ],
+            "leave_one_out_min_mean": -0.13853988472268464,
+            "leave_one_out_max_mean": -0.1049472448676068
+          },
+          "h10": {
+            "n": 60,
+            "mean": -0.1211778395302238,
+            "median": -0.08710766371358153,
+            "winsorized_mean_5_95": -0.12729250521754515,
+            "sign_accuracy": 0.7,
+            "mean_excluding_top_1_abs": -0.10828416339638,
+            "median_excluding_top_1_abs": -0.08313555409687437,
+            "mean_excluding_top_3_abs": -0.08445195022627111,
+            "median_excluding_top_3_abs": -0.0817400562933189,
+            "top_1_abs_share": 0.07367943592108361,
+            "top_3_abs_share": 0.20526444430038462,
+            "largest_abs_events": [
+              {
+                "event_id": "BBIO_8-K_2021-12-27_0001193125-21-366669",
+                "ticker": "BBIO",
+                "event_type": "phase_3_readout",
+                "event_time": "2021-12-27 08:30:00",
+                "car_sector_adj": -0.8819047314270084,
+                "abs_car_sector_adj": 0.8819047314270084
+              },
+              {
+                "event_id": "RCKT_8-K_2025-05-27_0001140361-25-020409",
+                "ticker": "RCKT",
+                "event_type": "trial_halt",
+                "event_time": "2025-05-27 08:30:00",
+                "car_sector_adj": -0.79459138573518,
+                "abs_car_sector_adj": 0.79459138573518
+              },
+              {
+                "event_id": "REPL_8-K_2025-07-22_0001104659-25-069489",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-07-22 08:30:00",
+                "car_sector_adj": -0.7804130917537869,
+                "abs_car_sector_adj": 0.7804130917537869
+              },
+              {
+                "event_id": "REPL_8-K_2025-10-20_0001104659-25-100605",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-10-20 08:30:00",
+                "car_sector_adj": 0.7265959927164113,
+                "abs_car_sector_adj": 0.7265959927164113
+              },
+              {
+                "event_id": "REPL_8-K_2026-04-13_0001104659-26-042141",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2026-04-13 08:30:00",
+                "car_sector_adj": -0.705714841720846,
+                "abs_car_sector_adj": 0.705714841720846
+              }
+            ],
+            "leave_one_out_min_mean": -0.13554688753440405,
+            "leave_one_out_max_mean": -0.10828416339638
+          }
+        }
+      },
+      "fresh": {
+        "rows": 27,
+        "horizons": {
+          "h1": {
+            "n": 27,
+            "mean": -0.17975140838829554,
+            "median": -0.028595494948143913,
+            "winsorized_mean_5_95": -0.18865844279342112,
+            "sign_accuracy": 0.6666666666666666,
+            "mean_excluding_top_1_abs": -0.12934986619174155,
+            "median_excluding_top_1_abs": -0.02534448651862183,
+            "mean_excluding_top_3_abs": -0.044468705443483116,
+            "median_excluding_top_3_abs": -0.017458367318262336,
+            "top_1_abs_share": 0.22412341167824462,
+            "top_3_abs_share": 0.5694167466234454,
+            "largest_abs_events": [
+              {
+                "event_id": "REPL_8-K_2025-07-22_0001104659-25-069489",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-07-22 08:30:00",
+                "car_sector_adj": -1.4901915054986992,
+                "abs_car_sector_adj": 1.4901915054986992
+              },
+              {
+                "event_id": "BBIO_8-K_2021-12-27_0001193125-21-366669",
+                "ticker": "BBIO",
+                "event_type": "phase_3_readout",
+                "event_time": "2021-12-27 08:30:00",
+                "car_sector_adj": -1.246264963443067,
+                "abs_car_sector_adj": 1.246264963443067
+              },
+              {
+                "event_id": "REPL_8-K_2026-04-13_0001104659-26-042141",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2026-04-13 08:30:00",
+                "car_sector_adj": -1.0495826268986184,
+                "abs_car_sector_adj": 1.0495826268986184
+              },
+              {
+                "event_id": "REPL_8-K_2025-10-20_0001104659-25-100605",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-10-20 08:30:00",
+                "car_sector_adj": 0.6652703406963864,
+                "abs_car_sector_adj": 0.6652703406963864
+              },
+              {
+                "event_id": "REPL_8-K_2023-12-05_0001104659-23-123459",
+                "ticker": "REPL",
+                "event_type": "endpoint_failure",
+                "event_time": "2023-12-05 08:30:00",
+                "car_sector_adj": -0.5967443973129318,
+                "abs_car_sector_adj": 0.5967443973129318
+              }
+            ],
+            "leave_one_out_min_mean": -0.21225224489155253,
+            "leave_one_out_max_mean": -0.12934986619174155
+          },
+          "h3": {
+            "n": 27,
+            "mean": -0.17319991965182344,
+            "median": -0.07520324155948438,
+            "winsorized_mean_5_95": -0.1731707645462558,
+            "sign_accuracy": 0.7407407407407407,
+            "mean_excluding_top_1_abs": -0.1260569309854897,
+            "median_excluding_top_1_abs": -0.071750937988965,
+            "mean_excluding_top_3_abs": -0.06185030152275164,
+            "median_excluding_top_3_abs": -0.056044345056968946,
+            "top_1_abs_share": 0.21289308172970708,
+            "top_3_abs_share": 0.48577035723003203,
+            "largest_abs_events": [
+              {
+                "event_id": "REPL_8-K_2025-07-22_0001104659-25-069489",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-07-22 08:30:00",
+                "car_sector_adj": -1.3989176249765007,
+                "abs_car_sector_adj": 1.3989176249765007
+              },
+              {
+                "event_id": "BBIO_8-K_2021-12-27_0001193125-21-366669",
+                "ticker": "BBIO",
+                "event_type": "phase_3_readout",
+                "event_time": "2021-12-27 08:30:00",
+                "car_sector_adj": -1.0042599305494724,
+                "abs_car_sector_adj": 1.0042599305494724
+              },
+              {
+                "event_id": "REPL_8-K_2026-04-13_0001104659-26-042141",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2026-04-13 08:30:00",
+                "car_sector_adj": -0.7888130385272204,
+                "abs_car_sector_adj": 0.7888130385272204
+              },
+              {
+                "event_id": "REPL_8-K_2025-10-20_0001104659-25-100605",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-10-20 08:30:00",
+                "car_sector_adj": 0.6166407663281707,
+                "abs_car_sector_adj": 0.6166407663281707
+              },
+              {
+                "event_id": "REPL_8-K_2023-12-05_0001104659-23-123459",
+                "ticker": "REPL",
+                "event_type": "endpoint_failure",
+                "event_time": "2023-12-05 08:30:00",
+                "car_sector_adj": -0.4997312410918033,
+                "abs_car_sector_adj": 0.4997312410918033
+              }
+            ],
+            "leave_one_out_min_mean": -0.2035784075741309,
+            "leave_one_out_max_mean": -0.1260569309854897
+          },
+          "h10": {
+            "n": 27,
+            "mean": -0.1264136916620076,
+            "median": -0.04400319197289541,
+            "winsorized_mean_5_95": -0.1396463752209908,
+            "sign_accuracy": 0.5925925925925926,
+            "mean_excluding_top_1_abs": -0.09735634397873835,
+            "median_excluding_top_1_abs": -0.03315860928025473,
+            "mean_excluding_top_3_abs": -0.10322699351707587,
+            "median_excluding_top_3_abs": -0.03315860928025473,
+            "top_1_abs_share": 0.1422560357302365,
+            "top_3_abs_share": 0.385344807710509,
+            "largest_abs_events": [
+              {
+                "event_id": "BBIO_8-K_2021-12-27_0001193125-21-366669",
+                "ticker": "BBIO",
+                "event_type": "phase_3_readout",
+                "event_time": "2021-12-27 08:30:00",
+                "car_sector_adj": -0.8819047314270084,
+                "abs_car_sector_adj": 0.8819047314270084
+              },
+              {
+                "event_id": "REPL_8-K_2025-07-22_0001104659-25-069489",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-07-22 08:30:00",
+                "car_sector_adj": -0.7804130917537869,
+                "abs_car_sector_adj": 0.7804130917537869
+              },
+              {
+                "event_id": "REPL_8-K_2025-10-20_0001104659-25-100605",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2025-10-20 08:30:00",
+                "car_sector_adj": 0.7265959927164113,
+                "abs_car_sector_adj": 0.7265959927164113
+              },
+              {
+                "event_id": "REPL_8-K_2026-04-13_0001104659-26-042141",
+                "ticker": "REPL",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2026-04-13 08:30:00",
+                "car_sector_adj": -0.705714841720846,
+                "abs_car_sector_adj": 0.705714841720846
+              },
+              {
+                "event_id": "REPL_8-K_2023-12-05_0001104659-23-123459",
+                "ticker": "REPL",
+                "event_type": "endpoint_failure",
+                "event_time": "2023-12-05 08:30:00",
+                "car_sector_adj": -0.592250705804546,
+                "abs_car_sector_adj": 0.592250705804546
+              }
+            ],
+            "leave_one_out_min_mean": -0.15922175644579298,
+            "leave_one_out_max_mean": -0.09735634397873835
+          }
+        }
+      },
+      "original": {
+        "rows": 34,
+        "horizons": {
+          "h1": {
+            "n": 34,
+            "mean": -0.09501695952714354,
+            "median": -0.0490817727537845,
+            "winsorized_mean_5_95": -0.07590291085274863,
+            "sign_accuracy": 0.7352941176470589,
+            "mean_excluding_top_1_abs": -0.06779952493943253,
+            "median_excluding_top_1_abs": -0.04732221619697345,
+            "mean_excluding_top_3_abs": -0.050582754221731654,
+            "median_excluding_top_3_abs": -0.04664488168038384,
+            "top_1_abs_share": 0.22483634361711682,
+            "top_3_abs_share": 0.37635506111221184,
+            "largest_abs_events": [
+              {
+                "event_id": "RCKT_8-K_2025-05-27_0001140361-25-020409",
+                "ticker": "RCKT",
+                "event_type": "trial_halt",
+                "event_time": "2025-05-27 08:30:00",
+                "car_sector_adj": -0.9931923009216072,
+                "abs_car_sector_adj": 0.9931923009216072
+              },
+              {
+                "event_id": "PRTA_8-K_2025-05-23_0001193125-25-125881",
+                "ticker": "PRTA",
+                "event_type": "trial_discontinuation",
+                "event_time": "2025-05-27 08:30:00",
+                "car_sector_adj": -0.3656199364266018,
+                "abs_car_sector_adj": 0.3656199364266018
+              },
+              {
+                "event_id": "AUPH_8-K_2024-02-15_0001600620-24-000010",
+                "ticker": "AUPH",
+                "event_type": "trial_discontinuation",
+                "event_time": "2024-02-15 08:30:00",
+                "car_sector_adj": -0.3036990057009901,
+                "abs_car_sector_adj": 0.3036990057009901
+              },
+              {
+                "event_id": "OMER_8-K_2021-10-18_0001558370-21-013245",
+                "ticker": "OMER",
+                "event_type": "fda_complete_response_letter",
+                "event_time": "2021-10-18 08:30:00",
+                "car_sector_adj": -0.28883243574086903,
+                "abs_car_sector_adj": 0.28883243574086903
+              },
+              {
+                "event_id": "NVAX_8-K_2024-10-16_0001104659-24-108950",
+                "ticker": "NVAX",
+                "event_type": "trial_halt",
+                "event_time": "2024-10-16 08:30:00",
+                "car_sector_adj": -0.2256439540077763,
+                "abs_car_sector_adj": 0.2256439540077763
+              }
+            ],
+            "leave_one_out_min_mean": -0.10307397990360954,
+            "leave_one_out_max_mean": -0.06779952493943253
+          },
+          "h3": {
+            "n": 34,
+            "mean": -0.08880454371863758,
+            "median": -0.05332595407566779,
+            "winsorized_mean_5_95": -0.07488087204126337,
+            "sign_accuracy": 0.6764705882352942,
+            "mean_excluding_top_1_abs": -0.06451352520156332,
+            "median_excluding_top_1_abs": -0.05223121565739974,
+            "mean_excluding_top_3_abs": -0.045369323076644257,
+            "median_excluding_top_3_abs": -0.052169796921704356,
+            "top_1_abs_share": 0.19424995466094283,
+            "top_3_abs_share": 0.351868761469309,
+            "largest_abs_events": [
+              {
+                "event_id": "RCKT_8-K_2025-05-27_0001140361-25-020409",
+                "ticker": "RCKT",
+                "event_type": "trial_halt",
+                "event_time": "2025-05-27 08:30:00",
+                "car_sector_adj": -0.8904081547820875,
+                "abs_car_sector_adj": 0.8904081547820875
+              },
+              {
+                "event_id": "AUPH_8-K_2024-02-15_0001600620-24-000010",
+                "ticker": "AUPH",
+                "event_type": "trial_discontinuation",
+                "event_time": "2024-02-15 08:30:00",
+                "car_sector_adj": -0.36821897339479637,
+                "abs_car_sector_adj": 0.36821897339479637
+              },
+              {
+                "event_id": "PRTA_8-K_2025-05-23_0001193125-25-125881",
+                "ticker": "PRTA",
+                "event_type": "trial_discontinuation",
+                "event_time": "2025-05-27 08:30:00",
+                "car_sector_adj": -0.35427834288082133,
+                "abs_car_sector_adj": 0.35427834288082133
+              },
+              {
+                "event_id": "EDIT_8-K_2021-09-29_0001558370-21-012862",
+                "ticker": "EDIT",
+                "event_type": "safety_signal",
+                "event_time": "2021-09-29 08:30:00",
+                "car_sector_adj": -0.2608667362639166,
+                "abs_car_sector_adj": 0.2608667362639166
+              },
+              {
+                "event_id": "NVAX_8-K_2024-10-16_0001104659-24-108950",
+                "ticker": "NVAX",
+                "event_type": "trial_halt",
+                "event_time": "2024-10-16 08:30:00",
+                "car_sector_adj": -0.21849422425309023,
+                "abs_car_sector_adj": 0.21849422425309023
+              }
+            ],
+            "leave_one_out_min_mean": -0.09717350090359286,
+            "leave_one_out_max_mean": -0.06451352520156332
+          },
+          "h10": {
+            "n": 33,
+            "mean": -0.11689396051330982,
+            "median": -0.09120988939134873,
+            "winsorized_mean_5_95": -0.1134684770647342,
+            "sign_accuracy": 0.7878787878787878,
+            "mean_excluding_top_1_abs": -0.09571591597512638,
+            "median_excluding_top_1_abs": -0.08717272174411156,
+            "mean_excluding_top_3_abs": -0.10175135633898803,
+            "median_excluding_top_3_abs": -0.08717272174411156,
+            "top_1_abs_share": 0.13770928589857506,
+            "top_3_abs_share": 0.27752705091898905,
+            "largest_abs_events": [
+              {
+                "event_id": "RCKT_8-K_2025-05-27_0001140361-25-020409",
+                "ticker": "RCKT",
+                "event_type": "trial_halt",
+                "event_time": "2025-05-27 08:30:00",
+                "car_sector_adj": -0.79459138573518,
+                "abs_car_sector_adj": 0.79459138573518
+              },
+              {
+                "event_id": "AUPH_8-K_2024-02-15_0001600620-24-000010",
+                "ticker": "AUPH",
+                "event_type": "trial_discontinuation",
+                "event_time": "2024-02-15 08:30:00",
+                "car_sector_adj": -0.4085630330667898,
+                "abs_car_sector_adj": 0.4085630330667898
+              },
+              {
+                "event_id": "KYMR_8-K_2023-11-02_0001193125-23-268944",
+                "ticker": "KYMR",
+                "event_type": "safety_signal",
+                "event_time": "2023-11-02 08:30:00",
+                "car_sector_adj": 0.39819441203238704,
+                "abs_car_sector_adj": 0.39819441203238704
+              },
+              {
+                "event_id": "RGNX_8-K_2026-01-28_0001193125-26-026139",
+                "ticker": "RGNX",
+                "event_type": "trial_halt",
+                "event_time": "2026-01-28 08:30:00",
+                "car_sector_adj": -0.39045086874566437,
+                "abs_car_sector_adj": 0.39045086874566437
+              },
+              {
+                "event_id": "NTLA_8-K_2025-10-29_0001193125-25-256378",
+                "ticker": "NTLA",
+                "event_type": "trial_halt",
+                "event_time": "2025-10-30 08:30:00",
+                "car_sector_adj": -0.35189227940142054,
+                "abs_car_sector_adj": 0.35189227940142054
+              }
+            ],
+            "leave_one_out_min_mean": -0.13299047215536283,
+            "leave_one_out_max_mean": -0.09571591597512638
+          }
+        }
+      }
+    }
+  },
+  "outlier_summary": {
+    "fresh_h1_top_1_abs_share": 0.22412341167824462,
+    "fresh_h1_top_3_abs_share": 0.5694167466234454,
+    "fresh_h1_mean_excluding_top_1_abs": -0.12934986619174155,
+    "fresh_h1_mean_excluding_top_3_abs": -0.044468705443483116
+  },
+  "timestamp_summary": {
+    "timestamp_audit_rows": 61,
+    "corrected_event_rows": 61,
+    "reaction_start_before_first_tradable_rows": 0,
+    "ambiguous_timestamp_rows": 0,
+    "model_ineligible_timestamp_rows": 0,
+    "duplicate_rows": 0
+  },
+  "execution_summary": {
+    "close_to_close_100bps_mean_net": 0.07569008388659752,
+    "next_open_25bps_mean_net": -0.004389230895686009,
+    "next_open_trades": 61
+  },
+  "execution_stress": {
+    "n_trades": 61,
+    "stress": [
+      {
+        "all_in_cost_bps": 5.0,
+        "n_trades": 61,
+        "n_long": 0,
+        "n_short": 61,
+        "mean_net_event_return": 0.08519008388659752,
+        "median_net_event_return": 0.045719975299539584,
+        "hit_rate": 0.7049180327868853,
+        "cumulative_net_return": 7.632486901888459,
+        "max_drawdown": -0.9455162673205515,
+        "long_mean_net_event_return": null,
+        "short_mean_net_event_return": 0.08519008388659752
+      },
+      {
+        "all_in_cost_bps": 25.0,
+        "n_trades": 61,
+        "n_long": 0,
+        "n_short": 61,
+        "mean_net_event_return": 0.0831900838865975,
+        "median_net_event_return": 0.04371997529953958,
+        "hit_rate": 0.6721311475409836,
+        "cumulative_net_return": 6.437150997111882,
+        "max_drawdown": -0.9475162673205515,
+        "long_mean_net_event_return": null,
+        "short_mean_net_event_return": 0.0831900838865975
+      },
+      {
+        "all_in_cost_bps": 50.0,
+        "n_trades": 61,
+        "n_long": 0,
+        "n_short": 61,
+        "mean_net_event_return": 0.08069008388659753,
+        "median_net_event_return": 0.04121997529953959,
+        "hit_rate": 0.6721311475409836,
+        "cumulative_net_return": 5.158456379229774,
+        "max_drawdown": -0.9500162673205516,
+        "long_mean_net_event_return": null,
+        "short_mean_net_event_return": 0.08069008388659753
+      },
+      {
+        "all_in_cost_bps": 100.0,
+        "n_trades": 61,
+        "n_long": 0,
+        "n_short": 61,
+        "mean_net_event_return": 0.07569008388659752,
+        "median_net_event_return": 0.03621997529953958,
+        "hit_rate": 0.639344262295082,
+        "cumulative_net_return": 3.185874870207389,
+        "max_drawdown": -0.9550162673205516,
+        "long_mean_net_event_return": null,
+        "short_mean_net_event_return": 0.07569008388659752
+      }
+    ],
+    "next_open_trades": 61,
+    "next_open_stress": [
+      {
+        "all_in_cost_bps": 5.0,
+        "n_trades": 61,
+        "n_long": 0,
+        "n_short": 61,
+        "mean_net_event_return": -0.002389230895686007,
+        "median_net_event_return": 0.0038477638603404145,
+        "hit_rate": 0.5737704918032787,
+        "cumulative_net_return": -0.2690610284486399,
+        "max_drawdown": -0.5712654584090048,
+        "long_mean_net_event_return": null,
+        "short_mean_net_event_return": -0.002389230895686007
+      },
+      {
+        "all_in_cost_bps": 25.0,
+        "n_trades": 61,
+        "n_long": 0,
+        "n_short": 61,
+        "mean_net_event_return": -0.004389230895686009,
+        "median_net_event_return": 0.0018477638603404145,
+        "hit_rate": 0.5409836065573771,
+        "cumulative_net_return": -0.35372350320470336,
+        "max_drawdown": -0.6101484315663679,
+        "long_mean_net_event_return": null,
+        "short_mean_net_event_return": -0.004389230895686009
+      },
+      {
+        "all_in_cost_bps": 50.0,
+        "n_trades": 61,
+        "n_long": 0,
+        "n_short": 61,
+        "mean_net_event_return": -0.0068892308956860085,
+        "median_net_event_return": -0.0006522361396595856,
+        "hit_rate": 0.4918032786885246,
+        "cumulative_net_return": -0.44609290017770953,
+        "max_drawdown": -0.6554485326661026,
+        "long_mean_net_event_return": null,
+        "short_mean_net_event_return": -0.0068892308956860085
+      },
+      {
+        "all_in_cost_bps": 100.0,
+        "n_trades": 61,
+        "n_long": 0,
+        "n_short": 61,
+        "mean_net_event_return": -0.01188923089568601,
+        "median_net_event_return": -0.005652236139659586,
+        "hit_rate": 0.45901639344262296,
+        "cumulative_net_return": -0.5935933579497712,
+        "max_drawdown": -0.7321212932689835,
+        "long_mean_net_event_return": null,
+        "short_mean_net_event_return": -0.01188923089568601
+      }
+    ],
+    "liquidity_summary": {},
+    "next_open_note": "Intraday SEC-acceptance events are conservatively shifted to the next trading day's open because local data is daily OHLC only."
+  },
+  "calibration": {
+    "applicable": false,
+    "reason": "No probability model is trained in Agent 3J; this is a corrected rule/base-rate confirmation for one negative-catalyst slice."
+  },
+  "artifacts": {
+    "event_study": "artifacts\\biotech_negative_catalyst_corrected_event_study.csv",
+    "base_rates": "artifacts\\biotech_negative_catalyst_corrected_base_rates.csv",
+    "placebo_report": "artifacts\\biotech_negative_catalyst_corrected_placebo_report.json",
+    "peer_report": "artifacts\\biotech_negative_catalyst_corrected_peer_report.json",
+    "outlier_report": "artifacts\\biotech_negative_catalyst_corrected_outlier_report.md",
+    "execution_stress": "artifacts\\biotech_negative_catalyst_corrected_execution_stress.md",
+    "agent_report": "artifacts\\biotech_negative_catalyst_agent_3j_report.md",
+    "analysis_events": "artifacts\\biotech_negative_catalyst_corrected_analysis_events.csv",
+    "strategy_trades_h1": "artifacts\\biotech_negative_catalyst_corrected_strategy_trades_h1.csv",
+    "next_open_execution_stress": "artifacts\\biotech_negative_catalyst_corrected_next_open_execution_stress.csv",
+    "execution_timestamp_audit": "artifacts\\biotech_negative_catalyst_corrected_execution_timestamp_audit.csv"
+  },
+  "warnings": [
+    "Do not call the signal graduated.",
+    "No parser labels were changed.",
+    "Positive clinical readouts and designation-only events remain excluded.",
+    "Next-open stress uses daily OHLC open/close and cannot prove intraday halt fill quality."
+  ],
+  "decision": "execution unrealistic"
+}

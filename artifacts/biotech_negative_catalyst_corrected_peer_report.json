@@ -1,0 +1,54 @@
+{
+  "peer_events": 61,
+  "generation_diagnostics": {
+    "rows_total": 61,
+    "rows_used": 61,
+    "rows_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "event_study_diagnostics": {
+    "events_total": 61,
+    "events_ok": 61,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "summary": {
+    "label": "negative_peer_control",
+    "rows": 61,
+    "ok_rows": 61,
+    "h1": {
+      "n": 61,
+      "mean_log": -0.004677926724787446,
+      "median_log": -0.002197125245503303,
+      "mean_simple": -0.0030403392944393557,
+      "positive_rate": 0.45901639344262296,
+      "mean_abs_log": 0.030776073023283234
+    },
+    "h3": {
+      "n": 61,
+      "mean_log": -0.009957041208689942,
+      "median_log": -0.012449296080187681,
+      "mean_simple": -0.004567012974566236,
+      "positive_rate": 0.36065573770491804,
+      "mean_abs_log": 0.059123603331426196
+    },
+    "h10": {
+      "n": 60,
+      "mean_log": 0.0021107034155176518,
+      "median_log": -0.0016228276305986257,
+      "mean_simple": 0.02484063441873561,
+      "positive_rate": 0.48333333333333334,
+      "mean_abs_log": 0.11180896191197406
+    }
+  },
+  "short_strategy": {
+    "n_trades": 61,
+    "mean_net_event_return": 0.002040339294439355,
+    "median_net_event_return": 0.0011947133325793677,
+    "hit_rate": 0.5245901639344263,
+    "cumulative_net_return": 0.043268108282558115,
+    "max_drawdown": -0.22496146179934196
+  },
+  "weaker_than_main_h1": true,
+  "warning": "Peer controls rotate to another ticker in the biotech negative-catalyst universe; they are not hand-curated mechanism peers."
+}

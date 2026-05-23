@@ -1057,7 +1057,7 @@ def write_execution_stress_markdown(path: str | Path, report: dict[str, object])
     lines = [
         "# Biotech Catalyst Execution Stress Report",
         "",
-        "This report stresses Agent 3D strategy trades without retuning thresholds or changing labels.",
+        "This report stresses biotech catalyst strategy trades without retuning thresholds or changing labels.",
         "",
         f"- strategy trades: {report.get('n_trades')}",
         f"- next-open stress trades: {report.get('next_open_trades')}",

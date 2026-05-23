@@ -1,0 +1,151 @@
+{
+  "random_events": 61,
+  "shifted_events": 56,
+  "random_generation_diagnostics": {
+    "rows_total": 61,
+    "rows_used": 61,
+    "rows_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "shifted_generation_diagnostics": {
+    "rows_total": 61,
+    "rows_used": 56,
+    "rows_skipped": 5,
+    "skipped_reasons": {
+      "no_placebo_date_BEAM": 1,
+      "no_placebo_date_NVAX": 1,
+      "no_placebo_date_NTLA": 1,
+      "no_placebo_date_MIRM": 1,
+      "no_placebo_date_ZYME": 1
+    }
+  },
+  "random_event_study_diagnostics": {
+    "events_total": 61,
+    "events_ok": 54,
+    "events_skipped": 7,
+    "skipped_reasons": {
+      "not enough pre-event history": 5,
+      "not enough clean estimation observations: 37": 1,
+      "not enough clean estimation observations: 49": 1
+    }
+  },
+  "shifted_event_study_diagnostics": {
+    "events_total": 56,
+    "events_ok": 56,
+    "events_skipped": 0,
+    "skipped_reasons": {}
+  },
+  "main_summary": {
+    "label": "negative_main",
+    "rows": 61,
+    "ok_rows": 61,
+    "h1": {
+      "n": 61,
+      "mean_log": -0.1325223713181452,
+      "median_log": -0.04732221619697345,
+      "mean_simple": -0.08569008388659752,
+      "positive_rate": 0.29508196721311475,
+      "mean_abs_log": 0.1814160406749679
+    },
+    "h3": {
+      "n": 61,
+      "mean_log": -0.12615987404971984,
+      "median_log": -0.056304170385880294,
+      "mean_simple": -0.08650132050957829,
+      "positive_rate": 0.29508196721311475,
+      "mean_abs_log": 0.18286579691163188
+    },
+    "h10": {
+      "n": 60,
+      "mean_log": -0.12117783953022382,
+      "median_log": -0.08710766371358153,
+      "mean_simple": -0.08254558885069484,
+      "positive_rate": 0.3,
+      "mean_abs_log": 0.19949137784107462
+    }
+  },
+  "random_summary": {
+    "label": "negative_random_placebo",
+    "rows": 61,
+    "ok_rows": 54,
+    "h1": {
+      "n": 54,
+      "mean_log": -0.014089582928386926,
+      "median_log": -0.007491976099102522,
+      "mean_simple": -0.013129848331763385,
+      "positive_rate": 0.2962962962962963,
+      "mean_abs_log": 0.028412744405291197
+    },
+    "h3": {
+      "n": 54,
+      "mean_log": 0.01780693658169379,
+      "median_log": -0.0031610162179787835,
+      "mean_simple": 0.04335664132278514,
+      "positive_rate": 0.48148148148148145,
+      "mean_abs_log": 0.07426489537534679
+    },
+    "h10": {
+      "n": 53,
+      "mean_log": 0.050351999254079516,
+      "median_log": 0.019514055977299948,
+      "mean_simple": 0.08803827972540001,
+      "positive_rate": 0.6037735849056604,
+      "mean_abs_log": 0.13536647145192657
+    }
+  },
+  "shifted_summary": {
+    "label": "negative_shifted_placebo",
+    "rows": 56,
+    "ok_rows": 56,
+    "h1": {
+      "n": 56,
+      "mean_log": 0.0032135667347919805,
+      "median_log": 0.0032244192169545004,
+      "mean_simple": 0.004169063779279418,
+      "positive_rate": 0.5535714285714286,
+      "mean_abs_log": 0.02362517788656073
+    },
+    "h3": {
+      "n": 56,
+      "mean_log": -0.0015930882566297462,
+      "median_log": 0.0013657242197256947,
+      "mean_simple": 0.0003709026637701761,
+      "positive_rate": 0.5,
+      "mean_abs_log": 0.044419105283677526
+    },
+    "h10": {
+      "n": 55,
+      "mean_log": -0.011414598117385474,
+      "median_log": 0.00020074782874704867,
+      "mean_simple": -0.007688435745384597,
+      "positive_rate": 0.509090909090909,
+      "mean_abs_log": 0.06730251704597348
+    }
+  },
+  "main_short_strategy": {
+    "n_trades": 61,
+    "mean_net_event_return": 0.0846900838865975,
+    "median_net_event_return": 0.04521997529953958,
+    "hit_rate": 0.7049180327868853,
+    "cumulative_net_return": 7.317998019251226,
+    "max_drawdown": -0.9460162673205516
+  },
+  "random_short_strategy": {
+    "n_trades": 54,
+    "mean_net_event_return": 0.012129848331763384,
+    "median_net_event_return": 0.006463944600419936,
+    "hit_rate": 0.6666666666666666,
+    "cumulative_net_return": 0.8403147839588871,
+    "max_drawdown": -0.16897409853966994
+  },
+  "shifted_short_strategy": {
+    "n_trades": 56,
+    "mean_net_event_return": -0.0051690637792794186,
+    "median_net_event_return": -0.00422962513774927,
+    "hit_rate": 0.42857142857142855,
+    "cumulative_net_return": -0.302082479123681,
+    "max_drawdown": -0.46463230969812497
+  },
+  "random_weaker_than_main_h1": true,
+  "shifted_weaker_than_main_h1": true
+}

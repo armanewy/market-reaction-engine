@@ -8,6 +8,7 @@ from mre.biotech_negative_catalyst import (
     negative_binary_catalyst_mask,
     negative_catalyst_base_rates,
     run_biotech_negative_catalyst_confirmation,
+    run_biotech_negative_catalyst_corrected_confirmation,
     run_biotech_negative_catalyst_timestamp_repair,
 )
 
@@ -235,3 +236,81 @@ def test_run_timestamp_repair_writes_required_artifacts(tmp_path):
     assert (out / "biotech_negative_catalyst_timestamp_audit.csv").exists()
     assert (out / "biotech_negative_catalyst_duplicate_audit.csv").exists()
     assert (out / "biotech_negative_catalyst_agent_3i_report.md").exists()
+
+
+def test_run_corrected_confirmation_uses_repaired_windows(tmp_path):
+    dates = pd.bdate_range("2024-01-02", periods=180)
+    prices = tmp_path / "prices"
+    prices.mkdir()
+    _write_price(prices, "SPY", dates)
+    _write_price(prices, "XBI", dates)
+    _write_price(prices, "AAA", dates, {pd.Timestamp(d).normalize(): -0.03 for d in dates[130:150:2]})
+    _write_price(prices, "BBB", dates, {pd.Timestamp(d).normalize(): -0.025 for d in dates[131:151:2]})
+
+    repaired_rows = []
+    audit_rows = []
+    for i, d in enumerate(dates[130:150]):
+        ticker = "AAA" if i % 2 == 0 else "BBB"
+        split = "original" if i < 8 else "fresh"
+        row = _event_row(f"E{i:03d}", ticker, pd.Timestamp(d), "trial_halt", -0.04, split)
+        row["reaction_window_start"] = pd.Timestamp(d).date().isoformat()
+        row["selected_event_time"] = pd.Timestamp(d).replace(hour=12).tz_localize("UTC").isoformat()
+        row["first_tradable_timestamp"] = pd.Timestamp(d).replace(hour=9, minute=30).tz_localize("America/New_York").isoformat()
+        row["model_eligible"] = True
+        row["duplicate_model_exclusion_flag"] = False
+        repaired_rows.append(row)
+        audit_rows.append(
+            {
+                "event_id": row["event_id"],
+                "ticker": ticker,
+                "release_session": "before_open",
+                "first_tradable_timestamp": row["first_tradable_timestamp"],
+                "timestamp_ambiguous": False,
+                "model_eligible": True,
+            }
+        )
+
+    repaired_path = tmp_path / "repaired.csv"
+    audit_path = tmp_path / "timestamp.csv"
+    duplicate_path = tmp_path / "duplicate.csv"
+    pd.DataFrame(repaired_rows).to_csv(repaired_path, index=False)
+    pd.DataFrame(audit_rows).to_csv(audit_path, index=False)
+    pd.DataFrame(
+        [
+            {
+                "event_id": row["event_id"],
+                "ticker": row["ticker"],
+                "same_key_event_count": 1,
+                "duplicate_risk_level": "low",
+            }
+            for row in repaired_rows
+        ]
+    ).to_csv(duplicate_path, index=False)
+
+    report = run_biotech_negative_catalyst_corrected_confirmation(
+        repaired_events_path=repaired_path,
+        timestamp_audit_path=audit_path,
+        duplicate_audit_path=duplicate_path,
+        prices_dir=prices,
+        out_dir=tmp_path / "artifacts",
+        estimation_window=40,
+        estimation_gap=5,
+        min_estimation_observations=25,
+    )
+
+    assert report["decision"] in {
+        "corrected confirmation passed; continue to final execution/liquidity audit",
+        "promising but underpowered",
+        "failed corrected confirmation",
+        "execution unrealistic",
+        "outlier-driven",
+        "timestamp issue reappeared",
+    }
+    out = tmp_path / "artifacts"
+    assert (out / "biotech_negative_catalyst_corrected_event_study.csv").exists()
+    assert (out / "biotech_negative_catalyst_corrected_base_rates.csv").exists()
+    assert (out / "biotech_negative_catalyst_corrected_placebo_report.json").exists()
+    assert (out / "biotech_negative_catalyst_corrected_peer_report.json").exists()
+    assert (out / "biotech_negative_catalyst_corrected_outlier_report.md").exists()
+    assert (out / "biotech_negative_catalyst_corrected_execution_stress.md").exists()
+    assert (out / "biotech_negative_catalyst_agent_3j_report.md").exists()

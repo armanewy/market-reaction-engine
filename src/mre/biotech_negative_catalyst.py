@@ -32,6 +32,15 @@ TIMESTAMP_REPAIR_DECISIONS = {
     "duplicate issue found",
 }
 
+CORRECTED_CONFIRMATION_DECISIONS = {
+    "corrected confirmation passed; continue to final execution/liquidity audit",
+    "promising but underpowered",
+    "failed corrected confirmation",
+    "execution unrealistic",
+    "outlier-driven",
+    "timestamp issue reappeared",
+}
+
 PRIMARY_NEGATIVE_EVENT_TYPES = {
     "fda_complete_response_letter",
     "trial_halt",
@@ -463,9 +472,10 @@ def _control_report(
     estimation_window: int,
     estimation_gap: int,
     min_estimation_observations: int,
+    prefix: str = "biotech_negative_catalyst",
 ) -> tuple[dict[str, object], dict[str, object]]:
-    placebo_random_events = out_dir / "biotech_negative_catalyst_placebo_random_events.csv"
-    placebo_shifted_events = out_dir / "biotech_negative_catalyst_placebo_shifted_events.csv"
+    placebo_random_events = out_dir / f"{prefix}_placebo_random_events.csv"
+    placebo_shifted_events = out_dir / f"{prefix}_placebo_shifted_events.csv"
     random_events, random_diag = make_placebo_events(analysis_events_path, prices_dir, placebo_random_events, n_per_event=1, mode="random", seed=seed)
     shifted_events, shifted_diag = make_placebo_events(analysis_events_path, prices_dir, placebo_shifted_events, n_per_event=1, mode="shift", seed=seed)
     random_study, random_event_diag = _control_event_study(
@@ -473,7 +483,7 @@ def _control_report(
         prices_dir=prices_dir,
         benchmark=benchmark,
         horizons=horizons,
-        out_path=out_dir / "biotech_negative_catalyst_placebo_random_event_study.csv",
+        out_path=out_dir / f"{prefix}_placebo_random_event_study.csv",
         estimation_window=estimation_window,
         estimation_gap=estimation_gap,
         min_estimation_observations=min_estimation_observations,
@@ -483,7 +493,7 @@ def _control_report(
         prices_dir=prices_dir,
         benchmark=benchmark,
         horizons=horizons,
-        out_path=out_dir / "biotech_negative_catalyst_placebo_shifted_event_study.csv",
+        out_path=out_dir / f"{prefix}_placebo_shifted_event_study.csv",
         estimation_window=estimation_window,
         estimation_gap=estimation_gap,
         min_estimation_observations=min_estimation_observations,
@@ -515,14 +525,14 @@ def _control_report(
         "shifted_weaker_than_main_h1": (shifted_strategy.get("mean_net_event_return") or -np.inf) < (main_strategy.get("mean_net_event_return") or np.inf),
     }
 
-    peer_events_path = out_dir / "biotech_negative_catalyst_peer_events.csv"
+    peer_events_path = out_dir / f"{prefix}_peer_events.csv"
     peer_events, peer_diag = make_peer_control_events(analysis_events_path, peer_events_path)
     peer_study, peer_event_diag = _control_event_study(
         events_path=peer_events_path,
         prices_dir=prices_dir,
         benchmark=benchmark,
         horizons=horizons,
-        out_path=out_dir / "biotech_negative_catalyst_peer_event_study.csv",
+        out_path=out_dir / f"{prefix}_peer_event_study.csv",
         estimation_window=estimation_window,
         estimation_gap=estimation_gap,
         min_estimation_observations=min_estimation_observations,
@@ -1004,6 +1014,408 @@ def write_negative_catalyst_timestamp_repair_report(path: str | Path, report: di
     p = ensure_parent(path)
     p.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return p
+
+
+def prepare_corrected_negative_catalyst_events(
+    repaired_events: str | Path | pd.DataFrame,
+    *,
+    sector_benchmark: str = "XBI",
+    out_path: str | Path | None = None,
+) -> pd.DataFrame:
+    """Create event-study inputs from timestamp-repaired first-tradable windows."""
+    df = _read_csv(repaired_events)
+    if df.empty:
+        out = pd.DataFrame()
+    else:
+        eligible = df[df.get("model_eligible", pd.Series(False, index=df.index)).map(_bool_value)].copy()
+        if "duplicate_model_exclusion_flag" in eligible.columns:
+            eligible = eligible[~eligible["duplicate_model_exclusion_flag"].map(_bool_value)].copy()
+        reaction = eligible.get("reaction_window_start", pd.Series("", index=eligible.index)).map(_as_date)
+        eligible = eligible[reaction.notna()].copy()
+        reaction = reaction.loc[eligible.index]
+        eligible["event_time_pre_timestamp_repair"] = eligible.get("event_time", pd.Series("", index=eligible.index))
+        eligible["event_time"] = (reaction + pd.Timedelta(hours=8, minutes=30)).map(lambda ts: pd.Timestamp(ts).isoformat())
+        eligible["reaction_start_expected"] = reaction.map(lambda ts: pd.Timestamp(ts).date().isoformat())
+        eligible["release_session_pre_timestamp_repair"] = eligible.get("release_session", pd.Series("", index=eligible.index))
+        eligible["release_session"] = "before_open"
+        biotech_type = eligible.get("biotech_catalyst_event_type", eligible.get("event_type", pd.Series("", index=eligible.index))).fillna("").astype(str).str.lower().str.strip()
+        eligible["event_type"] = biotech_type
+        eligible["event_subtype"] = biotech_type
+        eligible["event_family"] = "biotech_fda_clinical_catalyst"
+        eligible["sector_benchmark"] = sector_benchmark.upper()
+        eligible["event_status"] = "ok"
+        eligible["skip_reason"] = ""
+        out = eligible.sort_values(["event_time", "ticker", "event_id"], kind="mergesort").reset_index(drop=True)
+    if out_path:
+        p = ensure_parent(out_path)
+        out.to_csv(p, index=False)
+    return out
+
+
+def _normalized_timestamp_audit_for_execution(
+    corrected_event_study: pd.DataFrame,
+    timestamp_audit: str | Path | pd.DataFrame,
+    *,
+    out_path: str | Path | None = None,
+) -> pd.DataFrame:
+    audit = _read_csv(timestamp_audit)
+    if corrected_event_study.empty:
+        out = pd.DataFrame()
+    else:
+        base = corrected_event_study[["event_id", "ticker", "reaction_start"]].copy()
+        keep_cols = [
+            "event_id",
+            "selected_event_time",
+            "selected_event_time_source",
+            "release_session",
+            "first_tradable_timestamp",
+            "timestamp_confidence",
+            "timestamp_notes",
+            "timestamp_ambiguous",
+            "model_eligible",
+        ]
+        if not audit.empty:
+            cols = [c for c in keep_cols if c in audit.columns]
+            base = base.merge(audit[cols], on="event_id", how="left")
+        base["original_session_from_sec_acceptance_et"] = base.get("release_session", pd.Series("", index=base.index)).fillna("").astype(str)
+        # The corrected event_time is already the first tradable window.  Mark it
+        # as before-open for the next-open stress helper so it enters at that
+        # repaired day's open without shifting intraday rows a second time.
+        base["session_from_sec_acceptance_et"] = "before_open"
+        out = base
+    if out_path:
+        p = ensure_parent(out_path)
+        out.to_csv(p, index=False)
+    return out
+
+
+def _corrected_timestamp_summary(
+    corrected_event_study: pd.DataFrame,
+    timestamp_audit: str | Path | pd.DataFrame,
+    duplicate_audit: str | Path | pd.DataFrame,
+) -> dict[str, object]:
+    audit = _read_csv(timestamp_audit)
+    dup = _read_csv(duplicate_audit)
+    pre_window = 0
+    if not corrected_event_study.empty and not audit.empty:
+        merged = corrected_event_study[["event_id", "reaction_start"]].merge(
+            audit[[c for c in ["event_id", "first_tradable_timestamp", "timestamp_ambiguous", "model_eligible"] if c in audit.columns]],
+            on="event_id",
+            how="left",
+        )
+        repaired_start = merged["reaction_start"].map(_as_date)
+        first_tradable = merged.get("first_tradable_timestamp", pd.Series("", index=merged.index)).map(_as_date)
+        pre_window = int((repaired_start.notna() & first_tradable.notna() & (repaired_start < first_tradable)).sum())
+    duplicate_rows = 0
+    if not dup.empty:
+        duplicate_rows = int((pd.to_numeric(dup.get("same_key_event_count", pd.Series(1, index=dup.index)), errors="coerce").fillna(1) > 1).sum())
+    return {
+        "timestamp_audit_rows": int(len(audit)),
+        "corrected_event_rows": int(len(corrected_event_study)),
+        "reaction_start_before_first_tradable_rows": pre_window,
+        "ambiguous_timestamp_rows": int(audit.get("timestamp_ambiguous", pd.Series(dtype=bool)).map(_bool_value).sum()) if not audit.empty else 0,
+        "model_ineligible_timestamp_rows": int((~audit.get("model_eligible", pd.Series(dtype=bool)).map(_bool_value)).sum()) if not audit.empty else 0,
+        "duplicate_rows": duplicate_rows,
+    }
+
+
+def _corrected_decision(
+    *,
+    base_rates: pd.DataFrame,
+    outlier: dict[str, object],
+    timestamp_summary: dict[str, object],
+    placebo: dict[str, object],
+    peer: dict[str, object],
+    execution: dict[str, object],
+) -> str:
+    if (
+        int(timestamp_summary.get("reaction_start_before_first_tradable_rows", 0) or 0) > 0
+        or int(timestamp_summary.get("ambiguous_timestamp_rows", 0) or 0) > 0
+        or int(timestamp_summary.get("model_ineligible_timestamp_rows", 0) or 0) > 0
+    ):
+        return "timestamp issue reappeared"
+
+    fresh_h1 = _base_lookup(base_rates, "fresh", 1)
+    fresh_h3 = _base_lookup(base_rates, "fresh", 3)
+    combined_h1 = _base_lookup(base_rates, "combined", 1)
+    combined_h3 = _base_lookup(base_rates, "combined", 3)
+    if int(fresh_h1.get("n", 0) or 0) < 20 or int(combined_h1.get("n", 0) or 0) < 45:
+        return "promising but underpowered"
+
+    fresh_outlier_h1 = (((outlier.get("splits", {}) or {}).get("fresh", {}) or {}).get("horizons", {}) or {}).get("h1", {}) or {}
+    if (fresh_outlier_h1.get("top_1_abs_share") is not None and float(fresh_outlier_h1["top_1_abs_share"]) >= 0.35) or (
+        fresh_outlier_h1.get("top_3_abs_share") is not None and float(fresh_outlier_h1["top_3_abs_share"]) >= 0.60
+    ):
+        return "outlier-driven"
+
+    close_100 = _stress_lookup(execution, "stress", 100.0)
+    next_open_25 = _stress_lookup(execution, "next_open_stress", 25.0)
+    if close_100 and close_100.get("mean_net_event_return") is not None and float(close_100["mean_net_event_return"]) <= 0:
+        return "execution unrealistic"
+    if next_open_25 and next_open_25.get("mean_net_event_return") is not None and float(next_open_25["mean_net_event_return"]) <= 0:
+        return "execution unrealistic"
+
+    fresh_ok = (
+        fresh_h1.get("median_car_sector_adj") is not None
+        and float(fresh_h1["median_car_sector_adj"]) < 0
+        and fresh_h3.get("median_car_sector_adj") is not None
+        and float(fresh_h3["median_car_sector_adj"]) < 0
+        and float(fresh_h1.get("sign_accuracy", 0.0) or 0.0) > 0.60
+        and float(fresh_h3.get("sign_accuracy", 0.0) or 0.0) > 0.60
+    )
+    combined_ok = (
+        combined_h1.get("median_car_sector_adj") is not None
+        and float(combined_h1["median_car_sector_adj"]) < 0
+        and combined_h3.get("median_car_sector_adj") is not None
+        and float(combined_h3["median_car_sector_adj"]) < 0
+    )
+    outlier_ok = (
+        fresh_outlier_h1.get("mean_excluding_top_1_abs") is not None
+        and float(fresh_outlier_h1["mean_excluding_top_1_abs"]) < 0
+        and fresh_outlier_h1.get("mean_excluding_top_3_abs") is not None
+        and float(fresh_outlier_h1["mean_excluding_top_3_abs"]) < 0
+    )
+    controls_ok = bool(placebo.get("random_weaker_than_main_h1") and placebo.get("shifted_weaker_than_main_h1") and peer.get("weaker_than_main_h1"))
+    if fresh_ok and combined_ok and outlier_ok and controls_ok:
+        return "corrected confirmation passed; continue to final execution/liquidity audit"
+    return "failed corrected confirmation"
+
+
+def write_negative_catalyst_corrected_report(path: str | Path, report: dict[str, object]) -> Path:
+    base = report.get("base_rate_summary", {}) or {}
+    placebo = report.get("placebo_controls", {}) or {}
+    peer = report.get("peer_controls", {}) or {}
+    execution = report.get("execution_summary", {}) or {}
+    timestamp = report.get("timestamp_summary", {}) or {}
+    outlier = report.get("outlier_summary", {}) or {}
+    lines = [
+        "# Agent 3J Corrected Biotech Negative-Catalyst Confirmation",
+        "",
+        f"Decision: {report.get('decision')}.",
+        "",
+        "This is the first clean confirmation test for the timestamp-repaired negative binary biotech catalyst slice. It does not tune thresholds, change parser labels, add positive readouts, include designation-only events, or graduate a signal.",
+        "",
+        "## Slice",
+        "",
+        f"- corrected eligible rows: {report.get('event_counts', {}).get('corrected_rows')}",
+        f"- fresh rows: {report.get('event_counts', {}).get('fresh_rows')}",
+        f"- original rows: {report.get('event_counts', {}).get('original_rows')}",
+        f"- event-study ok rows: {report.get('event_study_diagnostics', {}).get('events_ok')}",
+        "",
+        "## XBI-Adjusted Base Rates",
+        "",
+    ]
+    for split in ("fresh", "original", "combined"):
+        for horizon in ("h1", "h3", "h10"):
+            row = ((base.get(split, {}) or {}).get(horizon, {}) or {})
+            lines.append(
+                f"- {split} {horizon}: n={row.get('n')}, mean={row.get('mean_car_sector_adj')}, "
+                f"median={row.get('median_car_sector_adj')}, sign_accuracy={row.get('sign_accuracy')}, "
+                f"winsorized_mean={row.get('winsorized_mean_car_sector_adj_5_95')}"
+            )
+    lines.extend(
+        [
+            "",
+            "## Controls",
+            "",
+            f"- random placebo weaker than main h1 short rule: {placebo.get('random_weaker_than_main_h1')}",
+            f"- shifted placebo weaker than main h1 short rule: {placebo.get('shifted_weaker_than_main_h1')}",
+            f"- rotated peer weaker than main h1 short rule: {peer.get('weaker_than_main_h1')}",
+            f"- main h1 short mean net, 10 bps all-in: {(placebo.get('main_short_strategy', {}) or {}).get('mean_net_event_return')}",
+            f"- random h1 short mean net, 10 bps all-in: {(placebo.get('random_short_strategy', {}) or {}).get('mean_net_event_return')}",
+            f"- shifted h1 short mean net, 10 bps all-in: {(placebo.get('shifted_short_strategy', {}) or {}).get('mean_net_event_return')}",
+            f"- peer h1 short mean net, 10 bps all-in: {(peer.get('short_strategy', {}) or {}).get('mean_net_event_return')}",
+            "",
+            "## Timestamp And Execution",
+            "",
+            f"- reaction starts before first tradable window: {timestamp.get('reaction_start_before_first_tradable_rows')}",
+            f"- ambiguous timestamp rows: {timestamp.get('ambiguous_timestamp_rows')}",
+            f"- duplicate rows: {timestamp.get('duplicate_rows')}",
+            f"- close-to-close 100 bps mean net: {execution.get('close_to_close_100bps_mean_net')}",
+            f"- next-open 25 bps mean net: {execution.get('next_open_25bps_mean_net')}",
+            f"- next-open trades: {execution.get('next_open_trades')}",
+            "",
+            "## Outliers",
+            "",
+            f"- fresh h1 top 1 absolute share: {outlier.get('fresh_h1_top_1_abs_share')}",
+            f"- fresh h1 top 3 absolute share: {outlier.get('fresh_h1_top_3_abs_share')}",
+            f"- fresh h1 mean excluding top 1 absolute: {outlier.get('fresh_h1_mean_excluding_top_1_abs')}",
+            f"- fresh h1 mean excluding top 3 absolute: {outlier.get('fresh_h1_mean_excluding_top_3_abs')}",
+            "",
+            "## Calibration",
+            "",
+            "Calibration is not applicable because Agent 3J uses a preregistered negative-catalyst rule/base-rate slice and trains no probability model.",
+            "",
+            "No signal is graduated from this corrected confirmation pass.",
+        ]
+    )
+    p = ensure_parent(path)
+    p.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return p
+
+
+def run_biotech_negative_catalyst_corrected_confirmation(
+    *,
+    repaired_events_path: str | Path = "artifacts/biotech_negative_catalyst_timestamp_repaired_events.csv",
+    timestamp_audit_path: str | Path = "artifacts/biotech_negative_catalyst_timestamp_audit.csv",
+    duplicate_audit_path: str | Path = "artifacts/biotech_negative_catalyst_duplicate_audit.csv",
+    prices_dir: str | Path = "data/prices/biotech_catalysts",
+    out_dir: str | Path = "artifacts",
+    benchmark: str = "SPY",
+    sector_benchmark: str = "XBI",
+    horizons: tuple[int, ...] = (1, 3, 10),
+    seed: int = 779,
+    estimation_window: int = 120,
+    estimation_gap: int = 5,
+    min_estimation_observations: int = 60,
+) -> dict[str, object]:
+    out = ensure_dir(out_dir)
+    analysis_events_path = out / "biotech_negative_catalyst_corrected_analysis_events.csv"
+    event_study_path = out / "biotech_negative_catalyst_corrected_event_study.csv"
+    base_rates_path = out / "biotech_negative_catalyst_corrected_base_rates.csv"
+    placebo_report_path = out / "biotech_negative_catalyst_corrected_placebo_report.json"
+    peer_report_path = out / "biotech_negative_catalyst_corrected_peer_report.json"
+    outlier_report_path = out / "biotech_negative_catalyst_corrected_outlier_report.md"
+    execution_report_path = out / "biotech_negative_catalyst_corrected_execution_stress.md"
+    next_open_path = out / "biotech_negative_catalyst_corrected_next_open_execution_stress.csv"
+    strategy_trades_path = out / "biotech_negative_catalyst_corrected_strategy_trades_h1.csv"
+    execution_timestamp_path = out / "biotech_negative_catalyst_corrected_execution_timestamp_audit.csv"
+    agent_report_path = out / "biotech_negative_catalyst_agent_3j_report.md"
+    agent_json_path = out / "biotech_negative_catalyst_agent_3j_report.json"
+
+    analysis_events = prepare_corrected_negative_catalyst_events(
+        repaired_events_path,
+        sector_benchmark=sector_benchmark,
+        out_path=analysis_events_path,
+    )
+    if analysis_events.empty:
+        raise ValueError("No timestamp-repaired eligible negative biotech catalyst rows found")
+
+    event_study, diag = _control_event_study(
+        events_path=analysis_events_path,
+        prices_dir=prices_dir,
+        benchmark=benchmark,
+        horizons=horizons,
+        out_path=event_study_path,
+        estimation_window=estimation_window,
+        estimation_gap=estimation_gap,
+        min_estimation_observations=min_estimation_observations,
+    )
+    if event_study.empty:
+        raise ValueError("Corrected event study produced no rows")
+
+    base_rates = negative_catalyst_base_rates(event_study, horizons=horizons, out_path=base_rates_path)
+    outlier = negative_catalyst_outlier_report(event_study, horizons=horizons)
+    write_negative_catalyst_outlier_report(outlier_report_path, outlier)
+
+    placebo, peer = _control_report(
+        main_event_study=event_study,
+        analysis_events_path=analysis_events_path,
+        prices_dir=prices_dir,
+        out_dir=out,
+        benchmark=benchmark,
+        horizons=horizons,
+        seed=seed,
+        estimation_window=estimation_window,
+        estimation_gap=estimation_gap,
+        min_estimation_observations=min_estimation_observations,
+        prefix="biotech_negative_catalyst_corrected",
+    )
+    _write_json(placebo_report_path, placebo)
+    _write_json(peer_report_path, peer)
+
+    trades = build_negative_strategy_trades(event_study, horizon=1, out_path=strategy_trades_path)
+    execution_timestamp = _normalized_timestamp_audit_for_execution(event_study, timestamp_audit_path, out_path=execution_timestamp_path)
+    execution = build_execution_stress_report(
+        trades,
+        timestamp_audit=execution_timestamp,
+        prices_dir=prices_dir,
+        out_path=execution_report_path,
+        next_open_out_path=next_open_path,
+        cost_bps_values=(5.0, 25.0, 50.0, 100.0),
+    )
+
+    base_summary: dict[str, dict[str, dict[str, object]]] = {}
+    for split in ("fresh", "original", "combined"):
+        base_summary[split] = {}
+        for h in horizons:
+            base_summary[split][f"h{h}"] = _base_lookup(base_rates, split, h)
+
+    timestamp_summary = _corrected_timestamp_summary(event_study, timestamp_audit_path, duplicate_audit_path)
+    fresh_h1_outlier = (((outlier.get("splits", {}) or {}).get("fresh", {}) or {}).get("horizons", {}) or {}).get("h1", {}) or {}
+    close_100 = _stress_lookup(execution, "stress", 100.0)
+    next_open_25 = _stress_lookup(execution, "next_open_stress", 25.0)
+    event_counts = {
+        "corrected_rows": int(len(analysis_events)),
+        "event_study_rows": int(len(event_study)),
+        "event_study_ok_rows": int((event_study.get("event_status", pd.Series(dtype=object)).astype(str) == "ok").sum()) if not event_study.empty else 0,
+        "fresh_rows": int((analysis_events.get("dataset_split", pd.Series(dtype=object)).astype(str) == "fresh").sum()),
+        "original_rows": int((analysis_events.get("dataset_split", pd.Series(dtype=object)).astype(str) == "original").sum()),
+        "strategy_trades_h1": int(len(trades)),
+    }
+    report: dict[str, object] = {
+        "agent": "3J",
+        "domain": "biotech_fda_clinical_catalyst",
+        "approach": "timestamp-repaired negative binary catalyst rule/base-rate confirmation; no probability model trained",
+        "benchmark": benchmark.upper(),
+        "sector_benchmark": sector_benchmark.upper(),
+        "horizons": list(horizons),
+        "event_counts": event_counts,
+        "event_study_diagnostics": diag,
+        "base_rate_summary": base_summary,
+        "placebo_controls": placebo,
+        "peer_controls": peer,
+        "outlier_robustness": outlier,
+        "outlier_summary": {
+            "fresh_h1_top_1_abs_share": fresh_h1_outlier.get("top_1_abs_share"),
+            "fresh_h1_top_3_abs_share": fresh_h1_outlier.get("top_3_abs_share"),
+            "fresh_h1_mean_excluding_top_1_abs": fresh_h1_outlier.get("mean_excluding_top_1_abs"),
+            "fresh_h1_mean_excluding_top_3_abs": fresh_h1_outlier.get("mean_excluding_top_3_abs"),
+        },
+        "timestamp_summary": timestamp_summary,
+        "execution_summary": {
+            "close_to_close_100bps_mean_net": close_100.get("mean_net_event_return"),
+            "next_open_25bps_mean_net": next_open_25.get("mean_net_event_return"),
+            "next_open_trades": execution.get("next_open_trades"),
+        },
+        "execution_stress": execution,
+        "calibration": {
+            "applicable": False,
+            "reason": "No probability model is trained in Agent 3J; this is a corrected rule/base-rate confirmation for one negative-catalyst slice.",
+        },
+        "artifacts": {
+            "event_study": str(event_study_path),
+            "base_rates": str(base_rates_path),
+            "placebo_report": str(placebo_report_path),
+            "peer_report": str(peer_report_path),
+            "outlier_report": str(outlier_report_path),
+            "execution_stress": str(execution_report_path),
+            "agent_report": str(agent_report_path),
+            "analysis_events": str(analysis_events_path),
+            "strategy_trades_h1": str(strategy_trades_path),
+            "next_open_execution_stress": str(next_open_path),
+            "execution_timestamp_audit": str(execution_timestamp_path),
+        },
+        "warnings": [
+            "Do not call the signal graduated.",
+            "No parser labels were changed.",
+            "Positive clinical readouts and designation-only events remain excluded.",
+            "Next-open stress uses daily OHLC open/close and cannot prove intraday halt fill quality.",
+        ],
+    }
+    report["decision"] = _corrected_decision(
+        base_rates=base_rates,
+        outlier=outlier,
+        timestamp_summary=timestamp_summary,
+        placebo=placebo,
+        peer=peer,
+        execution=execution,
+    )
+    if report["decision"] not in CORRECTED_CONFIRMATION_DECISIONS:
+        report["decision"] = "failed corrected confirmation"
+    write_negative_catalyst_corrected_report(agent_report_path, report)
+    _write_json(agent_json_path, report)
+    return report
 
 
 def run_biotech_negative_catalyst_timestamp_repair(

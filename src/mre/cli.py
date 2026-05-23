@@ -24,7 +24,11 @@ from .biotech_catalysts import (
     write_biotech_catalyst_readiness_report,
 )
 from .biotech_falsification import run_biotech_catalyst_falsification_pass
-from .biotech_negative_catalyst import run_biotech_negative_catalyst_confirmation, run_biotech_negative_catalyst_timestamp_repair
+from .biotech_negative_catalyst import (
+    run_biotech_negative_catalyst_confirmation,
+    run_biotech_negative_catalyst_corrected_confirmation,
+    run_biotech_negative_catalyst_timestamp_repair,
+)
 from .capital_raises import (
     build_capital_raise_sec_source_documents,
     build_sec_shares_outstanding_context,
@@ -588,6 +592,24 @@ def cmd_biotech_negative_catalyst_timestamp_repair(args: argparse.Namespace) -> 
         horizons=comma_ints(args.horizons),
         min_train=args.min_train,
         sector_benchmark=args.sector_benchmark,
+    )
+    print(json.dumps(report, indent=2, default=str))
+
+
+def cmd_biotech_negative_catalyst_corrected_confirmation(args: argparse.Namespace) -> None:
+    report = run_biotech_negative_catalyst_corrected_confirmation(
+        repaired_events_path=args.repaired_events,
+        timestamp_audit_path=args.timestamp_audit,
+        duplicate_audit_path=args.duplicate_audit,
+        prices_dir=args.prices_dir,
+        out_dir=args.out_dir,
+        benchmark=args.benchmark,
+        sector_benchmark=args.sector_benchmark,
+        horizons=comma_ints(args.horizons),
+        seed=args.seed,
+        estimation_window=args.estimation_window,
+        estimation_gap=args.estimation_gap,
+        min_estimation_observations=args.min_estimation_observations,
     )
     print(json.dumps(report, indent=2, default=str))
 
@@ -1753,6 +1775,21 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--horizons", default="1,3,10")
     p.add_argument("--min-train", type=int, default=40)
     p.set_defaults(func=cmd_biotech_negative_catalyst_timestamp_repair)
+
+    p = sub.add_parser("biotech-negative-catalyst-corrected-confirmation", help="Run Agent 3J corrected timestamp-safe negative biotech catalyst confirmation.")
+    p.add_argument("--repaired-events", default="artifacts/biotech_negative_catalyst_timestamp_repaired_events.csv")
+    p.add_argument("--timestamp-audit", default="artifacts/biotech_negative_catalyst_timestamp_audit.csv")
+    p.add_argument("--duplicate-audit", default="artifacts/biotech_negative_catalyst_duplicate_audit.csv")
+    p.add_argument("--prices-dir", default="data/prices/biotech_catalysts")
+    p.add_argument("--out-dir", default="artifacts")
+    p.add_argument("--benchmark", default="SPY")
+    p.add_argument("--sector-benchmark", default="XBI")
+    p.add_argument("--horizons", default="1,3,10")
+    p.add_argument("--seed", type=int, default=779)
+    p.add_argument("--estimation-window", type=int, default=120)
+    p.add_argument("--estimation-gap", type=int, default=5)
+    p.add_argument("--min-estimation-observations", type=int, default=60)
+    p.set_defaults(func=cmd_biotech_negative_catalyst_corrected_confirmation)
 
     p = sub.add_parser("government-contract-falsification-pass", help="Run the first government-contract event-study and falsification pass.")
     p.add_argument("--events", default="data/events/government_contract_public_eligible_corpus.csv")
