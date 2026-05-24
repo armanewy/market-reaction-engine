@@ -5,15 +5,61 @@ jobs_dir = "artifacts/orchestrator/jobs"
 notifications_dir = "artifacts/orchestrator/notifications"
 prompts_dir = "artifacts/orchestrator/prompts"
 feedback_path = "artifacts/orchestrator/domain_feedback.jsonl"
+history_dir = "artifacts/orchestrator/history"
+dashboard_out_dir = "artifacts/domain_finder/dashboard"
 
 [loop]
 interval_secs = 900
 max_new_jobs_per_run = 3
 require_human_approval = true
+stale_after_hours = 24
 
 [thresholds]
 full_lifecycle_score = 24
 feasibility_score = 18
+
+[approval]
+auto_approve = false
+min_full_lifecycle_score = 24
+min_feasibility_score = 18
+require_registry_clear = true
+allow_full_lifecycle = true
+allow_feasibility_only = true
+max_new_jobs_per_run = 1
+max_active_jobs = 1
+
+[runner]
+mode = "manual"
+command = ""
+args = []
+
+[registry_updates]
+auto_apply_safe_terminal_statuses = false
+require_valid_json = true
+require_final_report = true
+auto_apply_candidate_paper_signal = false
+safe_statuses = [
+  "parser_not_trusted",
+  "underpowered",
+  "mapping_insufficient",
+  "context_insufficient",
+  "timestamp_insufficient",
+  "failed_falsification",
+  "failed_execution",
+  "execution_unrealistic",
+  "frozen",
+]
+notify_only_statuses = [
+  "promising_requires_fresh_confirmation",
+  "fresh_confirmed_pending_audit",
+  "candidate_paper_signal",
+]
+
+[limits]
+max_active_jobs = 1
+max_new_jobs_per_day = 1
+max_research_runs_per_week = 3
+max_retries_per_job = 1
 
 [automation]
 auto_generate_intakes = true
@@ -25,3 +71,13 @@ run_probes = true
 
 [notifications]
 mode = "local_markdown"
+notify_on = [
+  "monitor_trigger_met",
+  "readiness_passed",
+  "first_falsification_promising",
+  "fresh_confirmation_passed",
+  "final_audit_passed",
+  "candidate_paper_signal",
+  "new_high_score_domain",
+]
+suppress_routine_failures = true

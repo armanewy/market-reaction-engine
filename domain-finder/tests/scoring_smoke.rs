@@ -8,10 +8,11 @@ use domain_finder::operations::{
     current_alerts, diff_candidates, explain_candidate, top_candidates,
 };
 use domain_finder::orchestrator::{
-    approve_job, complete_job, generate_research_prompt, reject_job, run_orchestrator_once,
-    CompleteJobOptions, JobStatus, OrchestratorConfig, OrchestratorRunOptions,
+    approve_job, complete_job, generate_research_prompt, reject_job, run_approved_jobs,
+    run_orchestrator_once, CompleteJobOptions, JobStatus, OrchestratorConfig,
+    OrchestratorRunOptions,
 };
-use domain_finder::pipeline::candidate_from_observations;
+use domain_finder::pipeline::{candidate_from_observations, run_scan};
 use domain_finder::probes::{probe_family, ProbeOptions};
 use domain_finder::registry::Registry;
 use domain_finder::report::intake_doc;
@@ -346,6 +347,7 @@ fn orchestrator_once_queues_only_eligible_jobs_and_is_idempotent() {
         OrchestratorRunOptions {
             dry_run: false,
             offline_probes: true,
+            auto_mode: false,
         },
     )
     .unwrap();
@@ -384,6 +386,7 @@ fn orchestrator_once_queues_only_eligible_jobs_and_is_idempotent() {
         OrchestratorRunOptions {
             dry_run: false,
             offline_probes: true,
+            auto_mode: false,
         },
     )
     .unwrap();
@@ -408,6 +411,7 @@ fn approve_and_research_prompt_follow_human_gate() {
         OrchestratorRunOptions {
             dry_run: false,
             offline_probes: true,
+            auto_mode: false,
         },
     )
     .unwrap();
@@ -460,6 +464,7 @@ fn reject_job_marks_terminal_reason_and_blocks_prompt() {
         OrchestratorRunOptions {
             dry_run: false,
             offline_probes: true,
+            auto_mode: false,
         },
     )
     .unwrap();
@@ -503,6 +508,7 @@ fn complete_job_marks_completed_and_appends_feedback() {
         OrchestratorRunOptions {
             dry_run: false,
             offline_probes: true,
+            auto_mode: false,
         },
     )
     .unwrap();
@@ -581,6 +587,209 @@ fn complete_job_marks_completed_and_appends_feedback() {
     let feedback_text = std::fs::read_to_string(feedback_path).unwrap();
     assert!(feedback_text.contains("\"domain\":\"material_customer_contract_loss_8k\""));
     assert!(feedback_text.contains("\"audited_true_positive_rows\":0"));
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn auto_mode_auto_approves_one_registry_clear_candidate() {
+    let temp_root = temp_root("domain_finder_orchestrator_auto");
+    write_orchestrator_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let mut orchestrator_config = test_orchestrator_config();
+    orchestrator_config.approval.auto_approve = true;
+    orchestrator_config.approval.max_new_jobs_per_run = 1;
+    orchestrator_config.approval.max_active_jobs = 1;
+    orchestrator_config.limits.max_active_jobs = 1;
+
+    let output = run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+            auto_mode: true,
+        },
+    )
+    .unwrap();
+
+    assert_eq!(output.new_jobs.len(), 1);
+    let job = &output.new_jobs[0];
+    assert_eq!(job.domain, "material_customer_contract_loss_8k");
+    assert_eq!(job.status, JobStatus::PromptGenerated);
+    assert!(job.prompt_path.is_some());
+
+    let run_again = run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+            auto_mode: true,
+        },
+    )
+    .unwrap();
+    assert!(run_again.new_jobs.is_empty());
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn run_approved_generates_prompt_without_launching_manual_runner() {
+    let temp_root = temp_root("domain_finder_run_approved");
+    write_orchestrator_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let orchestrator_config = test_orchestrator_config();
+    run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+            auto_mode: false,
+        },
+    )
+    .unwrap();
+    approve_job(
+        &temp_root,
+        &orchestrator_config,
+        "material_customer_contract_loss_8k",
+    )
+    .unwrap();
+
+    let jobs = run_approved_jobs(&temp_root, &orchestrator_config).unwrap();
+    assert_eq!(jobs.len(), 1);
+    assert_eq!(jobs[0].status, JobStatus::PromptGenerated);
+    assert!(jobs[0].prompt_path.is_some());
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn safe_registry_update_auto_applies_but_candidate_signal_does_not() {
+    let temp_root = temp_root("domain_finder_safe_registry_update");
+    write_orchestrator_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let mut orchestrator_config = test_orchestrator_config();
+    orchestrator_config
+        .registry_updates
+        .auto_apply_safe_terminal_statuses = true;
+
+    run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+            auto_mode: false,
+        },
+    )
+    .unwrap();
+
+    let report =
+        temp_root.join("artifacts/material_customer_contract_loss_8k_domain_final_report.md");
+    let registry_update =
+        temp_root.join("artifacts/material_customer_contract_loss_8k_registry_update.json");
+    std::fs::create_dir_all(report.parent().unwrap()).unwrap();
+    std::fs::write(&report, "# Final report\n").unwrap();
+    std::fs::write(
+        &registry_update,
+        r#"{
+  "domain": "material_customer_contract_loss_8k",
+  "status": "parser_not_trusted",
+  "stage_reached": "parser/readiness",
+  "stop_reason": "no audited positives"
+}"#,
+    )
+    .unwrap();
+    complete_job(
+        &temp_root,
+        &orchestrator_config,
+        "material_customer_contract_loss_8k",
+        CompleteJobOptions {
+            final_status: "parser_not_trusted".to_string(),
+            report_path: report,
+            registry_update_path: registry_update,
+            ..CompleteJobOptions::default()
+        },
+    )
+    .unwrap();
+
+    let registry_text =
+        std::fs::read_to_string(temp_root.join("docs/DOMAIN_RESEARCH_REGISTRY.md")).unwrap();
+    assert!(registry_text.contains("## Automated Registry Updates"));
+    assert!(registry_text.contains("material_customer_contract_loss_8k | parser_not_trusted"));
+
+    approve_job(&temp_root, &orchestrator_config, "index_rebalance_events").unwrap();
+    generate_research_prompt(
+        &temp_root,
+        &orchestrator_config,
+        "index_rebalance_events",
+        None,
+    )
+    .unwrap();
+    let signal_report = temp_root.join("artifacts/index_rebalance_events_domain_final_report.md");
+    let signal_update = temp_root.join("artifacts/index_rebalance_events_registry_update.json");
+    std::fs::write(&signal_report, "# Signal report\n").unwrap();
+    std::fs::write(
+        &signal_update,
+        r#"{
+  "domain": "index_rebalance_events",
+  "status": "candidate_paper_signal",
+  "stage_reached": "final_audit",
+  "stop_reason": "paper signal requires human review"
+}"#,
+    )
+    .unwrap();
+    complete_job(
+        &temp_root,
+        &orchestrator_config,
+        "index_rebalance_events",
+        CompleteJobOptions {
+            final_status: "candidate_paper_signal".to_string(),
+            report_path: signal_report,
+            registry_update_path: signal_update,
+            ..CompleteJobOptions::default()
+        },
+    )
+    .unwrap();
+
+    let registry_text =
+        std::fs::read_to_string(temp_root.join("docs/DOMAIN_RESEARCH_REGISTRY.md")).unwrap();
+    assert!(!registry_text.contains("index_rebalance_events | candidate_paper_signal"));
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn low_true_positive_feedback_downranks_same_domain() {
+    let temp_root = temp_root("domain_finder_feedback_penalty");
+    write_orchestrator_fixture(&temp_root);
+    std::fs::create_dir_all(temp_root.join("artifacts/orchestrator")).unwrap();
+    std::fs::write(
+        temp_root.join("artifacts/orchestrator/domain_feedback.jsonl"),
+        r#"{"domain":"material_customer_contract_loss_8k","status":"parser_not_trusted","stage_reached":"parser/readiness","source_rows":191,"parsed_rows":191,"machine_positive_rows":1,"audited_true_positive_rows":0,"reviewed_usable_rows":0,"likely_oos":0,"stop_reason":"no audited positives","report_path":"report.md","registry_update_path":"update.json","timestamp":"2026-05-24T00:00:00Z"}"#,
+    )
+    .unwrap();
+
+    let output = run_scan(&temp_root, &Config::default()).unwrap();
+    let candidate = output
+        .candidates
+        .iter()
+        .find(|candidate| candidate.slug == "material_customer_contract_loss_8k")
+        .unwrap();
+    assert_ne!(candidate.gate, GateDecision::FullLifecycle);
+    assert!(candidate
+        .warnings
+        .iter()
+        .any(|warning| warning.contains("low true-positive yield")));
 
     std::fs::remove_dir_all(&temp_root).unwrap();
 }
@@ -797,5 +1006,6 @@ fn test_orchestrator_config() -> OrchestratorConfig {
     config.automation.run_collectors = false;
     config.automation.run_probes = false;
     config.loop_config.max_new_jobs_per_run = 10;
+    config.limits.max_active_jobs = 10;
     config
 }

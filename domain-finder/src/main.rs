@@ -10,9 +10,9 @@ use domain_finder::operations::{
     load_candidates, top_candidates, top_report,
 };
 use domain_finder::orchestrator::{
-    approve_job, archive_job, complete_job, generate_research_prompt, jobs_report, list_jobs,
-    reject_job, run_orchestrator_once, CompleteJobOptions, OrchestratorConfig,
-    OrchestratorRunOptions,
+    approve_job, archive_job, complete_job, generate_research_prompt, job_history, jobs_report,
+    list_jobs, notification_digest, reject_job, run_approved_jobs, run_orchestrator_once,
+    CompleteJobOptions, OrchestratorConfig, OrchestratorRunOptions,
 };
 use domain_finder::pipeline::{candidate_from_observations, init_project, run_scan};
 use domain_finder::probes::{probe_family, ProbeOptions};
@@ -173,8 +173,14 @@ enum Commands {
     ArchiveJob(UpdateJobArgs),
     /// Mark an orchestrator job complete and append domain feedback.
     CompleteJob(CompleteJobArgs),
+    /// Generate prompts and optionally launch configured runners for approved jobs.
+    RunApproved(ListJobsArgs),
     /// List queued orchestrator jobs.
     ListJobs(ListJobsArgs),
+    /// List orchestrator history snapshots.
+    JobHistory(ListJobsArgs),
+    /// Write and print the local notification digest path.
+    NotificationDigest(ListJobsArgs),
     /// Generate an approved MRE research prompt.
     ResearchPrompt(ResearchPromptArgs),
 }
@@ -216,6 +222,9 @@ struct OrchestrateArgs {
     dry_run: bool,
     #[arg(long)]
     offline_probes: bool,
+    /// Enable policy-controlled auto approval/runner behavior.
+    #[arg(long)]
+    auto: bool,
     #[arg(long)]
     json: bool,
 }
@@ -548,6 +557,17 @@ fn main() -> anyhow::Result<()> {
                 );
             }
         }
+        Commands::RunApproved(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let jobs = run_approved_jobs(&args.root, &cfg)?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&jobs)?);
+            } else if jobs.is_empty() {
+                println!("no approved jobs were run");
+            } else {
+                print!("{}", jobs_report(&jobs));
+            }
+        }
         Commands::ListJobs(args) => {
             let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
             let jobs = list_jobs(&args.root, &cfg)?;
@@ -555,6 +575,28 @@ fn main() -> anyhow::Result<()> {
                 println!("{}", serde_json::to_string_pretty(&jobs)?);
             } else {
                 print!("{}", jobs_report(&jobs));
+            }
+        }
+        Commands::JobHistory(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let history = job_history(&args.root, &cfg)?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&history)?);
+            } else if history.is_empty() {
+                println!("no history snapshots found");
+            } else {
+                for path in history {
+                    println!("{}", path.display());
+                }
+            }
+        }
+        Commands::NotificationDigest(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let path = notification_digest(&args.root, &cfg)?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&path)?);
+            } else {
+                println!("digest: {}", path.display());
             }
         }
         Commands::ResearchPrompt(args) => {
@@ -586,6 +628,7 @@ fn run_orchestrate_command(args: OrchestrateArgs) -> anyhow::Result<()> {
             OrchestratorRunOptions {
                 dry_run: args.dry_run,
                 offline_probes: args.offline_probes,
+                auto_mode: args.auto,
             },
         )?;
         if args.json {

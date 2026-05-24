@@ -1,17 +1,19 @@
 use crate::collectors::collect_to_generated_dir;
 use crate::config::Config;
+use crate::dashboard::{build_dashboard, DashboardOptions};
 use crate::io::{ensure_dir, rel, write_string};
 use crate::model::{DomainCandidate, GateDecision};
 use crate::pipeline::run_scan;
 use crate::probes::{probe_family, ProbeOptions};
 use crate::report::intake_doc;
 use anyhow::Context;
-use chrono::Utc;
+use chrono::{DateTime, Duration, Utc};
 use serde::{Deserialize, Serialize};
 use std::fs;
 use std::fs::OpenOptions;
 use std::io::Write;
 use std::path::{Path, PathBuf};
+use std::process::Command;
 
 const PROBE_FAMILIES: [&str; 5] = ["sec", "agency", "fda", "litigation", "index"];
 
@@ -27,6 +29,14 @@ pub struct OrchestratorConfig {
     pub automation: OrchestratorAutomation,
     #[serde(default)]
     pub notifications: OrchestratorNotifications,
+    #[serde(default)]
+    pub approval: ApprovalPolicy,
+    #[serde(default)]
+    pub runner: RunnerConfig,
+    #[serde(default)]
+    pub registry_updates: RegistryUpdateConfig,
+    #[serde(default)]
+    pub limits: OrchestratorLimits,
 }
 
 impl OrchestratorConfig {
@@ -56,6 +66,10 @@ pub struct OrchestratorPaths {
     pub prompts_dir: String,
     #[serde(default = "default_feedback_path")]
     pub feedback_path: String,
+    #[serde(default = "default_history_dir")]
+    pub history_dir: String,
+    #[serde(default = "default_dashboard_out_dir")]
+    pub dashboard_out_dir: String,
 }
 
 impl Default for OrchestratorPaths {
@@ -67,6 +81,8 @@ impl Default for OrchestratorPaths {
             notifications_dir: default_notifications_dir(),
             prompts_dir: default_prompts_dir(),
             feedback_path: default_feedback_path(),
+            history_dir: default_history_dir(),
+            dashboard_out_dir: default_dashboard_out_dir(),
         }
     }
 }
@@ -79,6 +95,8 @@ pub struct OrchestratorLoop {
     pub max_new_jobs_per_run: usize,
     #[serde(default = "default_require_human_approval")]
     pub require_human_approval: bool,
+    #[serde(default = "default_stale_after_hours")]
+    pub stale_after_hours: i64,
 }
 
 impl Default for OrchestratorLoop {
@@ -87,6 +105,7 @@ impl Default for OrchestratorLoop {
             interval_secs: default_interval_secs(),
             max_new_jobs_per_run: default_max_new_jobs(),
             require_human_approval: default_require_human_approval(),
+            stale_after_hours: default_stale_after_hours(),
         }
     }
 }
@@ -141,12 +160,125 @@ impl Default for OrchestratorAutomation {
 pub struct OrchestratorNotifications {
     #[serde(default = "default_notification_mode")]
     pub mode: String,
+    #[serde(default = "default_notify_on")]
+    pub notify_on: Vec<String>,
+    #[serde(default = "default_true")]
+    pub suppress_routine_failures: bool,
 }
 
 impl Default for OrchestratorNotifications {
     fn default() -> Self {
         Self {
             mode: default_notification_mode(),
+            notify_on: default_notify_on(),
+            suppress_routine_failures: true,
+        }
+    }
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ApprovalPolicy {
+    #[serde(default)]
+    pub auto_approve: bool,
+    #[serde(default = "default_full_lifecycle_score")]
+    pub min_full_lifecycle_score: u8,
+    #[serde(default = "default_feasibility_score")]
+    pub min_feasibility_score: u8,
+    #[serde(default = "default_true")]
+    pub require_registry_clear: bool,
+    #[serde(default = "default_true")]
+    pub allow_full_lifecycle: bool,
+    #[serde(default = "default_true")]
+    pub allow_feasibility_only: bool,
+    #[serde(default = "default_one_usize")]
+    pub max_new_jobs_per_run: usize,
+    #[serde(default = "default_one_usize")]
+    pub max_active_jobs: usize,
+}
+
+impl Default for ApprovalPolicy {
+    fn default() -> Self {
+        Self {
+            auto_approve: false,
+            min_full_lifecycle_score: default_full_lifecycle_score(),
+            min_feasibility_score: default_feasibility_score(),
+            require_registry_clear: true,
+            allow_full_lifecycle: true,
+            allow_feasibility_only: true,
+            max_new_jobs_per_run: 1,
+            max_active_jobs: 1,
+        }
+    }
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct RunnerConfig {
+    #[serde(default = "default_runner_mode")]
+    pub mode: String,
+    #[serde(default)]
+    pub command: String,
+    #[serde(default)]
+    pub args: Vec<String>,
+}
+
+impl Default for RunnerConfig {
+    fn default() -> Self {
+        Self {
+            mode: default_runner_mode(),
+            command: String::new(),
+            args: Vec::new(),
+        }
+    }
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct RegistryUpdateConfig {
+    #[serde(default)]
+    pub auto_apply_safe_terminal_statuses: bool,
+    #[serde(default = "default_true")]
+    pub require_valid_json: bool,
+    #[serde(default = "default_true")]
+    pub require_final_report: bool,
+    #[serde(default)]
+    pub auto_apply_candidate_paper_signal: bool,
+    #[serde(default = "default_safe_registry_statuses")]
+    pub safe_statuses: Vec<String>,
+    #[serde(default = "default_notify_only_statuses")]
+    pub notify_only_statuses: Vec<String>,
+}
+
+impl Default for RegistryUpdateConfig {
+    fn default() -> Self {
+        Self {
+            auto_apply_safe_terminal_statuses: false,
+            require_valid_json: true,
+            require_final_report: true,
+            auto_apply_candidate_paper_signal: false,
+            safe_statuses: default_safe_registry_statuses(),
+            notify_only_statuses: default_notify_only_statuses(),
+        }
+    }
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct OrchestratorLimits {
+    #[serde(default = "default_one_usize")]
+    pub max_active_jobs: usize,
+    #[serde(default = "default_one_usize")]
+    pub max_new_jobs_per_day: usize,
+    #[serde(default = "default_three_usize")]
+    pub max_research_runs_per_week: usize,
+    #[serde(default = "default_one_usize")]
+    pub max_retries_per_job: usize,
+}
+
+impl Default for OrchestratorLimits {
+    fn default() -> Self {
+        Self {
+            max_active_jobs: 1,
+            max_new_jobs_per_day: 1,
+            max_research_runs_per_week: 3,
+            max_retries_per_job: 1,
         }
     }
 }
@@ -160,6 +292,10 @@ pub enum JobStatus {
     AwaitingApproval,
     Approved,
     PromptGenerated,
+    Running,
+    Failed,
+    Stale,
+    RetryPending,
     Rejected,
     Completed,
     Archived,
@@ -174,6 +310,10 @@ impl JobStatus {
             JobStatus::AwaitingApproval => "awaiting_approval",
             JobStatus::Approved => "approved",
             JobStatus::PromptGenerated => "prompt_generated",
+            JobStatus::Running => "running",
+            JobStatus::Failed => "failed",
+            JobStatus::Stale => "stale",
+            JobStatus::RetryPending => "retry_pending",
             JobStatus::Rejected => "rejected",
             JobStatus::Completed => "completed",
             JobStatus::Archived => "archived",
@@ -253,6 +393,7 @@ pub struct OrchestratorRunOutput {
 pub struct OrchestratorRunOptions {
     pub dry_run: bool,
     pub offline_probes: bool,
+    pub auto_mode: bool,
 }
 
 pub fn run_orchestrator_once(
@@ -261,6 +402,9 @@ pub fn run_orchestrator_once(
     orchestrator_config: &OrchestratorConfig,
     options: OrchestratorRunOptions,
 ) -> anyhow::Result<OrchestratorRunOutput> {
+    let paths = ResolvedPaths::new(root, orchestrator_config);
+    ensure_orchestrator_dirs(&paths)?;
+
     if orchestrator_config.automation.run_collectors && !options.dry_run {
         collect_to_generated_dir(root, None, None)?;
     }
@@ -279,15 +423,15 @@ pub fn run_orchestrator_once(
         }
     }
 
+    if !options.dry_run {
+        mark_stale_jobs(root, orchestrator_config)?;
+        ingest_completion_artifacts(root, orchestrator_config)?;
+    }
+
     let scan = run_scan(root, domain_config)?;
-    let paths = ResolvedPaths::new(root, orchestrator_config);
-    ensure_dir(&paths.jobs_dir)?;
-    ensure_dir(&paths.notifications_dir)?;
 
     let existing_jobs = load_jobs(&paths.jobs_dir)?;
-    let has_active_jobs = existing_jobs
-        .iter()
-        .any(|job| !is_terminal_status(job.status));
+    let mut active_jobs = active_job_count(&existing_jobs);
     let mut existing_domains = existing_jobs
         .iter()
         .map(|job| job.domain.clone())
@@ -313,10 +457,14 @@ pub fn run_orchestrator_once(
             GateDecision::Backlog | GateDecision::Skip => continue,
         }
 
-        if has_active_jobs {
+        let max_active_jobs = effective_max_active_jobs(orchestrator_config, options.auto_mode);
+        if active_jobs >= max_active_jobs {
             continue;
         }
         if !passes_orchestrator_thresholds(candidate, orchestrator_config) {
+            continue;
+        }
+        if options.auto_mode && !passes_auto_approval(candidate, orchestrator_config) {
             continue;
         }
         if existing_domains
@@ -325,7 +473,7 @@ pub fn run_orchestrator_once(
         {
             continue;
         }
-        if new_jobs.len() >= orchestrator_config.loop_config.max_new_jobs_per_run {
+        if new_jobs.len() >= effective_max_new_jobs(orchestrator_config, options.auto_mode) {
             break;
         }
 
@@ -338,30 +486,40 @@ pub fn run_orchestrator_once(
         }
 
         let mut job = job_from_candidate(candidate, &intake_path);
-        if orchestrator_config.automation.auto_approve_full_lifecycle
-            && matches!(job.decision, GateDecision::FullLifecycle)
-            && !orchestrator_config.loop_config.require_human_approval
-        {
+        if should_auto_approve_job(candidate, orchestrator_config, options.auto_mode) {
             job.status = JobStatus::Approved;
             job.next_action = "generate research prompt".to_string();
         }
 
         if !options.dry_run {
             write_job(&paths.jobs_dir, &job)?;
+            if matches!(job.status, JobStatus::Approved) {
+                job = generate_research_prompt(root, orchestrator_config, &job.domain, None)?;
+                if orchestrator_config.automation.auto_run_agents {
+                    job = run_one_prompted_job(root, orchestrator_config, &job.domain)?;
+                }
+            }
         }
         existing_domains.push(job.domain.clone());
+        if !is_terminal_status(job.status) {
+            active_jobs += 1;
+        }
         new_jobs.push(job);
     }
 
+    let current_jobs = load_jobs(&paths.jobs_dir)?;
     let notification = notification_markdown(
         &new_jobs,
-        &existing_jobs,
+        &current_jobs,
         suppressed_blocked_count,
         monitor_only_count,
     );
     let notification_path = paths.notifications_dir.join("latest.md");
     if !options.dry_run {
         write_string(&notification_path, &notification)?;
+        write_history_snapshot(&paths, &current_jobs)?;
+        write_notification_digest(&paths, &current_jobs)?;
+        refresh_dashboard(root, orchestrator_config);
     }
 
     Ok(OrchestratorRunOutput {
@@ -425,69 +583,84 @@ pub fn complete_job(
     options: CompleteJobOptions,
 ) -> anyhow::Result<(OrchestratorJob, DomainFeedback)> {
     let paths = ResolvedPaths::new(root, config);
-    let job_path = job_path(&paths.jobs_dir, domain);
-    let mut job = read_job(&job_path)?;
-
-    let registry_update = read_optional_json(&options.registry_update_path)?;
-    let run_summary = read_optional_json(
-        &paths
-            .mre_root
-            .join("data/events")
-            .join(domain)
-            .join("run_summary.json"),
+    let registry_update = validate_registry_update(
+        &options.registry_update_path,
+        domain,
+        &options.report_path,
+        &config.registry_updates,
     )?;
-
-    let now = Utc::now().to_rfc3339();
-    let stop_reason = json_string(&registry_update, "stop_reason")
-        .or_else(|| options.reason.clone())
-        .or_else(|| job.terminal_reason.clone());
-    let stage_reached = json_string(&registry_update, "stage_reached");
-
-    let feedback = DomainFeedback {
-        domain: domain.to_string(),
-        status: options.final_status.clone(),
-        stage_reached,
-        source_rows: options
-            .source_rows
-            .or_else(|| json_u64(&run_summary, "source_rows")),
-        parsed_rows: options
-            .parsed_rows
-            .or_else(|| json_u64(&run_summary, "parsed_rows"))
-            .or_else(|| json_u64(&run_summary, "source_rows")),
-        machine_positive_rows: options.machine_positive_rows.or_else(|| {
-            json_map_u64(&run_summary, "event_type_counts", "material_customer_loss").map(|loss| {
-                loss + json_map_u64(&run_summary, "event_type_counts", "contract_termination")
-                    .unwrap_or(0)
-            })
-        }),
-        audited_true_positive_rows: options.audited_true_positive_rows,
-        reviewed_usable_rows: options.reviewed_usable_rows,
-        likely_oos: options.likely_oos,
-        stop_reason,
-        report_path: options.report_path.display().to_string(),
-        registry_update_path: options.registry_update_path.display().to_string(),
-        timestamp: now.clone(),
-    };
-
-    job.status = JobStatus::Completed;
-    job.updated_at = now;
-    job.final_status = Some(options.final_status);
-    job.report_path = Some(options.report_path.display().to_string());
-    job.registry_update_path = Some(options.registry_update_path.display().to_string());
-    job.terminal_reason = feedback.stop_reason.clone();
-    job.next_action = "completed; review final report and registry update".to_string();
-    write_job(&paths.jobs_dir, &job)?;
-    append_feedback(&paths.feedback_path, &feedback)?;
-    write_string(
-        &paths.notifications_dir.join("latest.md"),
-        &completion_notification_markdown(&job, &feedback),
-    )?;
-    Ok((job, feedback))
+    let notify = should_notify_completion(&options.final_status, config)
+        || !config.notifications.suppress_routine_failures;
+    let result = complete_job_inner(root, config, domain, options, notify)?;
+    if should_auto_apply_registry_update(&registry_update, config) {
+        apply_registry_update(&paths.mre_root, &registry_update)?;
+    }
+    let jobs = load_jobs(&paths.jobs_dir)?;
+    write_history_snapshot(&paths, &jobs)?;
+    write_notification_digest(&paths, &jobs)?;
+    Ok(result)
 }
 
 pub fn list_jobs(root: &Path, config: &OrchestratorConfig) -> anyhow::Result<Vec<OrchestratorJob>> {
     let paths = ResolvedPaths::new(root, config);
     load_jobs(&paths.jobs_dir)
+}
+
+pub fn run_approved_jobs(
+    root: &Path,
+    config: &OrchestratorConfig,
+) -> anyhow::Result<Vec<OrchestratorJob>> {
+    let paths = ResolvedPaths::new(root, config);
+    ensure_orchestrator_dirs(&paths)?;
+    let jobs = load_jobs(&paths.jobs_dir)?;
+    let mut updated = Vec::new();
+    let active = running_job_count(&jobs);
+    let max_active = config
+        .limits
+        .max_active_jobs
+        .max(config.approval.max_active_jobs);
+
+    for job in jobs {
+        if !matches!(job.status, JobStatus::Approved) {
+            continue;
+        }
+        if active + updated.len() >= max_active {
+            break;
+        }
+        let prompted = generate_research_prompt(root, config, &job.domain, None)?;
+        let run = if config.automation.auto_run_agents {
+            run_one_prompted_job(root, config, &prompted.domain)?
+        } else {
+            prompted
+        };
+        updated.push(run);
+    }
+
+    let current_jobs = load_jobs(&paths.jobs_dir)?;
+    write_history_snapshot(&paths, &current_jobs)?;
+    write_notification_digest(&paths, &current_jobs)?;
+    Ok(updated)
+}
+
+pub fn job_history(root: &Path, config: &OrchestratorConfig) -> anyhow::Result<Vec<PathBuf>> {
+    let paths = ResolvedPaths::new(root, config);
+    if !paths.history_dir.exists() {
+        return Ok(Vec::new());
+    }
+    let mut files = fs::read_dir(&paths.history_dir)
+        .with_context(|| format!("failed to list history dir {}", paths.history_dir.display()))?
+        .filter_map(|entry| entry.ok().map(|entry| entry.path()))
+        .filter(|path| path.extension().and_then(|s| s.to_str()) == Some("json"))
+        .collect::<Vec<_>>();
+    files.sort();
+    Ok(files)
+}
+
+pub fn notification_digest(root: &Path, config: &OrchestratorConfig) -> anyhow::Result<PathBuf> {
+    let paths = ResolvedPaths::new(root, config);
+    ensure_orchestrator_dirs(&paths)?;
+    let jobs = load_jobs(&paths.jobs_dir)?;
+    write_notification_digest(&paths, &jobs)
 }
 
 fn update_terminal_job(
@@ -551,6 +724,366 @@ pub fn generate_research_prompt(
     Ok(job)
 }
 
+fn run_one_prompted_job(
+    root: &Path,
+    config: &OrchestratorConfig,
+    domain: &str,
+) -> anyhow::Result<OrchestratorJob> {
+    let paths = ResolvedPaths::new(root, config);
+    let job_path = job_path(&paths.jobs_dir, domain);
+    let mut job = read_job(&job_path)?;
+    let Some(prompt_path) = job.prompt_path.clone() else {
+        anyhow::bail!("job `{}` has no generated prompt", job.domain);
+    };
+
+    match config.runner.mode.trim().to_ascii_lowercase().as_str() {
+        "manual" => {
+            job.next_action =
+                "manual runner mode; send prompt to an MRE research agent".to_string();
+        }
+        "noop" => {
+            job.status = JobStatus::Running;
+            job.next_action = "noop runner; awaiting completion artifacts".to_string();
+            write_heartbeat(&paths.jobs_dir, &job, "noop_runner")?;
+        }
+        "command" => {
+            if config.runner.command.trim().is_empty() {
+                anyhow::bail!("runner mode is command but runner.command is empty");
+            }
+            let mut command = Command::new(&config.runner.command);
+            command.current_dir(&paths.mre_root);
+            for arg in &config.runner.args {
+                command.arg(
+                    arg.replace("{prompt_path}", &prompt_path)
+                        .replace("{domain}", &job.domain)
+                        .replace("{mre_root}", &paths.mre_root.display().to_string()),
+                );
+            }
+            job.status = JobStatus::Running;
+            job.next_action = "command runner launched; awaiting completion artifacts".to_string();
+            write_job(&paths.jobs_dir, &job)?;
+            write_heartbeat(&paths.jobs_dir, &job, "command_runner_started")?;
+            let status = command
+                .status()
+                .with_context(|| format!("failed to launch runner for {}", job.domain))?;
+            if !status.success() {
+                job.status = JobStatus::Failed;
+                job.terminal_reason = Some(format!("runner exited with {}", status));
+                job.next_action = "runner failed; review logs before retry".to_string();
+            }
+        }
+        other => {
+            anyhow::bail!("unsupported runner mode `{}`", other);
+        }
+    }
+
+    job.updated_at = Utc::now().to_rfc3339();
+    write_job(&paths.jobs_dir, &job)?;
+    Ok(job)
+}
+
+fn ensure_orchestrator_dirs(paths: &ResolvedPaths) -> anyhow::Result<()> {
+    ensure_dir(&paths.jobs_dir)?;
+    ensure_dir(&paths.notifications_dir)?;
+    ensure_dir(&paths.prompts_dir)?;
+    ensure_dir(&paths.history_dir)?;
+    if let Some(parent) = paths.feedback_path.parent() {
+        ensure_dir(parent)?;
+    }
+    Ok(())
+}
+
+fn ingest_completion_artifacts(
+    root: &Path,
+    config: &OrchestratorConfig,
+) -> anyhow::Result<Vec<OrchestratorJob>> {
+    let paths = ResolvedPaths::new(root, config);
+    let jobs = load_jobs(&paths.jobs_dir)?;
+    let mut completed = Vec::new();
+
+    for job in jobs {
+        if is_terminal_status(job.status) {
+            continue;
+        }
+        let report_path = paths
+            .mre_root
+            .join("artifacts")
+            .join(format!("{}_domain_final_report.md", job.domain));
+        let registry_update_path = paths
+            .mre_root
+            .join("artifacts")
+            .join(format!("{}_registry_update.json", job.domain));
+        if !report_path.exists() || !registry_update_path.exists() {
+            continue;
+        }
+        let registry_update = validate_registry_update(
+            &registry_update_path,
+            &job.domain,
+            &report_path,
+            &config.registry_updates,
+        )?;
+        let final_status = json_string(&registry_update, "status")
+            .unwrap_or_else(|| "completed".to_string())
+            .replace(' ', "_");
+        let (completed_job, _feedback) = complete_job_inner(
+            root,
+            config,
+            &job.domain,
+            CompleteJobOptions {
+                final_status,
+                report_path: report_path.clone(),
+                registry_update_path: registry_update_path.clone(),
+                ..CompleteJobOptions::default()
+            },
+            should_notify_completion(&feedback_status(&registry_update), config),
+        )?;
+        if should_auto_apply_registry_update(&registry_update, config) {
+            apply_registry_update(&paths.mre_root, &registry_update)?;
+        }
+        completed.push(completed_job);
+    }
+
+    Ok(completed)
+}
+
+fn validate_registry_update(
+    path: &Path,
+    domain: &str,
+    report_path: &Path,
+    config: &RegistryUpdateConfig,
+) -> anyhow::Result<serde_json::Value> {
+    if config.require_final_report {
+        anyhow::ensure!(
+            report_path.exists(),
+            "final report is required before completing `{}`",
+            domain
+        );
+    }
+    let value = read_optional_json(path)?;
+    if config.require_valid_json {
+        anyhow::ensure!(
+            value.is_object(),
+            "registry update {} must be a JSON object",
+            path.display()
+        );
+        let update_domain = json_string(&value, "domain").unwrap_or_default();
+        anyhow::ensure!(
+            crate::registry::normalize_slug(&update_domain)
+                == crate::registry::normalize_slug(domain),
+            "registry update domain `{}` does not match job `{}`",
+            update_domain,
+            domain
+        );
+        anyhow::ensure!(
+            json_string(&value, "status").is_some(),
+            "registry update for `{}` is missing status",
+            domain
+        );
+        anyhow::ensure!(
+            json_string(&value, "stop_reason").is_some(),
+            "registry update for `{}` is missing stop_reason",
+            domain
+        );
+    }
+    Ok(value)
+}
+
+fn should_auto_apply_registry_update(
+    registry_update: &serde_json::Value,
+    config: &OrchestratorConfig,
+) -> bool {
+    let status = feedback_status(registry_update);
+    let normalized = normalize_status(&status);
+    if normalized == "candidate_paper_signal" {
+        return config.registry_updates.auto_apply_candidate_paper_signal;
+    }
+    config.registry_updates.auto_apply_safe_terminal_statuses
+        && config
+            .registry_updates
+            .safe_statuses
+            .iter()
+            .map(|s| normalize_status(s))
+            .any(|safe| safe == normalized)
+}
+
+fn apply_registry_update(
+    mre_root: &Path,
+    registry_update: &serde_json::Value,
+) -> anyhow::Result<()> {
+    let registry_path = mre_root.join("docs/DOMAIN_RESEARCH_REGISTRY.md");
+    let mut text = if registry_path.exists() {
+        fs::read_to_string(&registry_path)
+            .with_context(|| format!("failed to read {}", registry_path.display()))?
+    } else {
+        "# Domain Research Registry\n".to_string()
+    };
+    if !text.ends_with('\n') {
+        text.push('\n');
+    }
+    if !text.contains("## Automated Registry Updates") {
+        text.push_str("\n## Automated Registry Updates\n\n");
+        text.push_str(
+            "| domain | status | stage_reached | stop_reason | last_commit | revisit_trigger |\n",
+        );
+        text.push_str("| --- | --- | --- | --- | --- | --- |\n");
+    }
+    let row = format!(
+        "| {} | {} | {} | {} | {} | {} |\n",
+        escape_table_cell(&json_string(registry_update, "domain").unwrap_or_default()),
+        escape_table_cell(&json_string(registry_update, "status").unwrap_or_default()),
+        escape_table_cell(&json_string(registry_update, "stage_reached").unwrap_or_default()),
+        escape_table_cell(&json_string(registry_update, "stop_reason").unwrap_or_default()),
+        escape_table_cell(&json_string(registry_update, "last_commit").unwrap_or_default()),
+        escape_table_cell(&json_string(registry_update, "revisit_trigger").unwrap_or_default()),
+    );
+    text.push_str(&row);
+    write_string(&registry_path, &text)
+}
+
+fn complete_job_inner(
+    root: &Path,
+    config: &OrchestratorConfig,
+    domain: &str,
+    options: CompleteJobOptions,
+    write_notification: bool,
+) -> anyhow::Result<(OrchestratorJob, DomainFeedback)> {
+    let paths = ResolvedPaths::new(root, config);
+    let job_path = job_path(&paths.jobs_dir, domain);
+    let mut job = read_job(&job_path)?;
+
+    let registry_update = read_optional_json(&options.registry_update_path)?;
+    let run_summary = read_optional_json(
+        &paths
+            .mre_root
+            .join("data/events")
+            .join(domain)
+            .join("run_summary.json"),
+    )?;
+
+    let now = Utc::now().to_rfc3339();
+    let stop_reason = json_string(&registry_update, "stop_reason")
+        .or_else(|| options.reason.clone())
+        .or_else(|| job.terminal_reason.clone());
+    let stage_reached = json_string(&registry_update, "stage_reached");
+
+    let feedback = DomainFeedback {
+        domain: domain.to_string(),
+        status: options.final_status.clone(),
+        stage_reached,
+        source_rows: options
+            .source_rows
+            .or_else(|| json_u64(&run_summary, "source_rows")),
+        parsed_rows: options
+            .parsed_rows
+            .or_else(|| json_u64(&run_summary, "parsed_rows"))
+            .or_else(|| json_u64(&run_summary, "source_rows")),
+        machine_positive_rows: options.machine_positive_rows.or_else(|| {
+            json_map_u64(&run_summary, "event_type_counts", "material_customer_loss").map(|loss| {
+                loss + json_map_u64(&run_summary, "event_type_counts", "contract_termination")
+                    .unwrap_or(0)
+            })
+        }),
+        audited_true_positive_rows: options.audited_true_positive_rows,
+        reviewed_usable_rows: options.reviewed_usable_rows,
+        likely_oos: options.likely_oos,
+        stop_reason,
+        report_path: options.report_path.display().to_string(),
+        registry_update_path: options.registry_update_path.display().to_string(),
+        timestamp: now.clone(),
+    };
+
+    job.status = JobStatus::Completed;
+    job.updated_at = now;
+    job.final_status = Some(options.final_status);
+    job.report_path = Some(options.report_path.display().to_string());
+    job.registry_update_path = Some(options.registry_update_path.display().to_string());
+    job.terminal_reason = feedback.stop_reason.clone();
+    job.next_action = "completed; review final report and registry update".to_string();
+    write_job(&paths.jobs_dir, &job)?;
+    append_feedback(&paths.feedback_path, &feedback)?;
+    if write_notification {
+        write_string(
+            &paths.notifications_dir.join("latest.md"),
+            &completion_notification_markdown(&job, &feedback),
+        )?;
+    }
+    Ok((job, feedback))
+}
+
+fn mark_stale_jobs(
+    root: &Path,
+    config: &OrchestratorConfig,
+) -> anyhow::Result<Vec<OrchestratorJob>> {
+    let paths = ResolvedPaths::new(root, config);
+    let jobs = load_jobs(&paths.jobs_dir)?;
+    let cutoff = Utc::now() - Duration::hours(config.loop_config.stale_after_hours.max(1));
+    let mut stale = Vec::new();
+    for mut job in jobs {
+        if !matches!(job.status, JobStatus::Running | JobStatus::PromptGenerated) {
+            continue;
+        }
+        let updated = DateTime::parse_from_rfc3339(&job.updated_at)
+            .map(|dt| dt.with_timezone(&Utc))
+            .unwrap_or_else(|_| Utc::now());
+        if updated > cutoff {
+            continue;
+        }
+        job.status = JobStatus::Stale;
+        job.terminal_reason = Some("no heartbeat or update before stale threshold".to_string());
+        job.next_action = "stale; review runner state before retry".to_string();
+        job.updated_at = Utc::now().to_rfc3339();
+        write_job(&paths.jobs_dir, &job)?;
+        stale.push(job);
+    }
+    Ok(stale)
+}
+
+fn write_heartbeat(jobs_dir: &Path, job: &OrchestratorJob, phase: &str) -> anyhow::Result<()> {
+    let heartbeat = serde_json::json!({
+        "domain": job.domain,
+        "status": job.status.label(),
+        "phase": phase,
+        "updated_at": Utc::now().to_rfc3339(),
+    });
+    write_string(
+        &jobs_dir.join(format!("{}.heartbeat.json", job.domain)),
+        &serde_json::to_string_pretty(&heartbeat)?,
+    )
+}
+
+fn write_history_snapshot(paths: &ResolvedPaths, jobs: &[OrchestratorJob]) -> anyhow::Result<()> {
+    ensure_dir(&paths.history_dir)?;
+    let stamp = timestamp_slug();
+    let payload = serde_json::json!({
+        "generated_at": Utc::now().to_rfc3339(),
+        "jobs": jobs,
+    });
+    write_string(
+        &paths.history_dir.join(format!("{}_jobs.json", stamp)),
+        &serde_json::to_string_pretty(&payload)?,
+    )
+}
+
+fn write_notification_digest(
+    paths: &ResolvedPaths,
+    jobs: &[OrchestratorJob],
+) -> anyhow::Result<PathBuf> {
+    ensure_dir(&paths.notifications_dir)?;
+    let path = paths.notifications_dir.join("digest.md");
+    write_string(&path, &notification_digest_markdown(jobs))?;
+    Ok(path)
+}
+
+fn refresh_dashboard(root: &Path, config: &OrchestratorConfig) {
+    let paths = ResolvedPaths::new(root, config);
+    let _ = build_dashboard(&DashboardOptions {
+        root: paths.mre_root.clone(),
+        out_dir: paths.dashboard_out_dir.clone(),
+        registry_path: None,
+        candidates_path: None,
+    });
+}
+
 fn passes_orchestrator_thresholds(
     candidate: &DomainCandidate,
     config: &OrchestratorConfig,
@@ -564,6 +1097,80 @@ fn passes_orchestrator_thresholds(
         }
         _ => false,
     }
+}
+
+fn passes_auto_approval(candidate: &DomainCandidate, config: &OrchestratorConfig) -> bool {
+    if !config.approval.auto_approve {
+        return true;
+    }
+    if config.approval.require_registry_clear && candidate.registry_status.is_some() {
+        return false;
+    }
+    match candidate.gate {
+        GateDecision::FullLifecycle => {
+            config.approval.allow_full_lifecycle
+                && candidate.score.total >= config.approval.min_full_lifecycle_score
+        }
+        GateDecision::FeasibilityOnly => {
+            config.approval.allow_feasibility_only
+                && candidate.score.total >= config.approval.min_feasibility_score
+        }
+        _ => false,
+    }
+}
+
+fn should_auto_approve_job(
+    candidate: &DomainCandidate,
+    config: &OrchestratorConfig,
+    auto_mode: bool,
+) -> bool {
+    if auto_mode {
+        return config.approval.auto_approve && passes_auto_approval(candidate, config);
+    }
+    config.automation.auto_approve_full_lifecycle
+        && matches!(candidate.gate, GateDecision::FullLifecycle)
+        && !config.loop_config.require_human_approval
+}
+
+fn effective_max_new_jobs(config: &OrchestratorConfig, auto_mode: bool) -> usize {
+    if auto_mode {
+        config
+            .approval
+            .max_new_jobs_per_run
+            .min(config.loop_config.max_new_jobs_per_run)
+            .max(1)
+    } else {
+        config.loop_config.max_new_jobs_per_run.max(1)
+    }
+}
+
+fn effective_max_active_jobs(config: &OrchestratorConfig, auto_mode: bool) -> usize {
+    if auto_mode {
+        config
+            .approval
+            .max_active_jobs
+            .min(config.limits.max_active_jobs)
+            .max(1)
+    } else {
+        config.limits.max_active_jobs.max(1)
+    }
+}
+
+fn active_job_count(jobs: &[OrchestratorJob]) -> usize {
+    jobs.iter()
+        .filter(|job| !is_terminal_status(job.status))
+        .count()
+}
+
+fn running_job_count(jobs: &[OrchestratorJob]) -> usize {
+    jobs.iter()
+        .filter(|job| {
+            matches!(
+                job.status,
+                JobStatus::Running | JobStatus::PromptGenerated | JobStatus::Stale
+            )
+        })
+        .count()
 }
 
 fn job_from_candidate(candidate: &DomainCandidate, intake_path: &Path) -> OrchestratorJob {
@@ -607,7 +1214,7 @@ fn job_from_candidate(candidate: &DomainCandidate, intake_path: &Path) -> Orches
 fn is_terminal_status(status: JobStatus) -> bool {
     matches!(
         status,
-        JobStatus::Rejected | JobStatus::Completed | JobStatus::Archived
+        JobStatus::Rejected | JobStatus::Completed | JobStatus::Archived | JobStatus::Failed
     )
 }
 
@@ -835,6 +1442,8 @@ struct ResolvedPaths {
     notifications_dir: PathBuf,
     prompts_dir: PathBuf,
     feedback_path: PathBuf,
+    history_dir: PathBuf,
+    dashboard_out_dir: PathBuf,
 }
 
 impl ResolvedPaths {
@@ -846,6 +1455,8 @@ impl ResolvedPaths {
             notifications_dir: rel(&domain_finder_root, &config.paths.notifications_dir),
             prompts_dir: rel(&domain_finder_root, &config.paths.prompts_dir),
             feedback_path: rel(&domain_finder_root, &config.paths.feedback_path),
+            history_dir: rel(&domain_finder_root, &config.paths.history_dir),
+            dashboard_out_dir: rel(&domain_finder_root, &config.paths.dashboard_out_dir),
         }
     }
 }
@@ -905,4 +1516,121 @@ fn default_true() -> bool {
 }
 fn default_notification_mode() -> String {
     "local_markdown".to_string()
+}
+fn default_history_dir() -> String {
+    "artifacts/orchestrator/history".to_string()
+}
+fn default_dashboard_out_dir() -> String {
+    "artifacts/domain_finder/dashboard".to_string()
+}
+fn default_stale_after_hours() -> i64 {
+    24
+}
+fn default_one_usize() -> usize {
+    1
+}
+fn default_three_usize() -> usize {
+    3
+}
+fn default_runner_mode() -> String {
+    "manual".to_string()
+}
+fn default_notify_on() -> Vec<String> {
+    vec![
+        "monitor_trigger_met".to_string(),
+        "readiness_passed".to_string(),
+        "first_falsification_promising".to_string(),
+        "fresh_confirmation_passed".to_string(),
+        "final_audit_passed".to_string(),
+        "candidate_paper_signal".to_string(),
+        "new_high_score_domain".to_string(),
+    ]
+}
+fn default_safe_registry_statuses() -> Vec<String> {
+    vec![
+        "parser_not_trusted".to_string(),
+        "underpowered".to_string(),
+        "mapping_insufficient".to_string(),
+        "context_insufficient".to_string(),
+        "timestamp_insufficient".to_string(),
+        "failed_falsification".to_string(),
+        "failed_execution".to_string(),
+        "execution_unrealistic".to_string(),
+        "frozen".to_string(),
+    ]
+}
+fn default_notify_only_statuses() -> Vec<String> {
+    vec![
+        "promising_requires_fresh_confirmation".to_string(),
+        "fresh_confirmed_pending_audit".to_string(),
+        "candidate_paper_signal".to_string(),
+    ]
+}
+
+fn feedback_status(registry_update: &serde_json::Value) -> String {
+    json_string(registry_update, "status").unwrap_or_else(|| "completed".to_string())
+}
+
+fn should_notify_completion(status: &str, config: &OrchestratorConfig) -> bool {
+    let normalized = normalize_status(status);
+    config
+        .registry_updates
+        .notify_only_statuses
+        .iter()
+        .map(|item| normalize_status(item))
+        .any(|item| item == normalized)
+        || config
+            .notifications
+            .notify_on
+            .iter()
+            .map(|item| normalize_status(item))
+            .any(|item| item == normalized)
+}
+
+fn normalize_status(status: &str) -> String {
+    status.trim().to_ascii_lowercase().replace([' ', '-'], "_")
+}
+
+fn escape_table_cell(value: &str) -> String {
+    value.replace('|', "\\|").replace('\n', " ")
+}
+
+fn timestamp_slug() -> String {
+    Utc::now().format("%Y%m%dT%H%M%SZ").to_string()
+}
+
+fn notification_digest_markdown(jobs: &[OrchestratorJob]) -> String {
+    let mut out = String::new();
+    out.push_str("# Domain Finder Orchestrator Digest\n\n");
+    out.push_str(&format!("Generated: `{}`\n\n", Utc::now().to_rfc3339()));
+    let active = active_job_count(jobs);
+    let completed = jobs
+        .iter()
+        .filter(|job| matches!(job.status, JobStatus::Completed))
+        .count();
+    let stale = jobs
+        .iter()
+        .filter(|job| matches!(job.status, JobStatus::Stale))
+        .count();
+    out.push_str(&format!(
+        "- active jobs: `{}`\n- completed jobs: `{}`\n- stale jobs: `{}`\n- total jobs: `{}`\n\n",
+        active,
+        completed,
+        stale,
+        jobs.len()
+    ));
+    out.push_str("## Jobs\n\n");
+    if jobs.is_empty() {
+        out.push_str("- none\n");
+    } else {
+        for job in jobs {
+            out.push_str(&format!(
+                "- `{}`: `{}`; next: {}\n",
+                job.domain,
+                job.status.label(),
+                job.next_action
+            ));
+        }
+    }
+    out
 }

@@ -17,6 +17,11 @@ path = "../docs/DOMAIN_RESEARCH_REGISTRY.md"
 frozen_statuses = ["frozen", "failed", "failed_falsification", "failed_execution", "failed_after_causal_rebuild", "execution_unrealistic", "mapping_insufficient", "parser_not_trusted", "timestamp_insufficient", "context_insufficient"]
 monitor_statuses = ["underpowered_monitor"]
 
+[feedback]
+path = "artifacts/orchestrator/domain_feedback.jsonl"
+min_source_rows_for_low_yield = 50
+max_positive_yield_for_penalty = 0.01
+
 [[feeds]]
 name = "local_observations"
 kind = "jsonl"

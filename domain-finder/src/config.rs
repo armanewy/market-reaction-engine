@@ -12,6 +12,8 @@ pub struct Config {
     #[serde(default)]
     pub registry: RegistryConfig,
     #[serde(default)]
+    pub feedback: FeedbackConfig,
+    #[serde(default)]
     pub feeds: Vec<FeedConfig>,
     #[serde(default = "default_artifacts_dir")]
     pub artifacts_dir: String,
@@ -25,6 +27,7 @@ impl Default for Config {
             thresholds: Thresholds::default(),
             hard_minimums: HardMinimums::default(),
             registry: RegistryConfig::default(),
+            feedback: FeedbackConfig::default(),
             feeds: vec![FeedConfig::default()],
             artifacts_dir: default_artifacts_dir(),
             intake_dir: default_intake_dir(),
@@ -117,6 +120,26 @@ impl Default for RegistryConfig {
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct FeedbackConfig {
+    #[serde(default = "default_feedback_path")]
+    pub path: String,
+    #[serde(default = "default_min_source_rows_for_low_yield")]
+    pub min_source_rows_for_low_yield: u64,
+    #[serde(default = "default_max_positive_yield_for_penalty")]
+    pub max_positive_yield_for_penalty: f64,
+}
+
+impl Default for FeedbackConfig {
+    fn default() -> Self {
+        Self {
+            path: default_feedback_path(),
+            min_source_rows_for_low_yield: default_min_source_rows_for_low_yield(),
+            max_positive_yield_for_penalty: default_max_positive_yield_for_penalty(),
+        }
+    }
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct FeedConfig {
     #[serde(default = "default_feed_name")]
     pub name: String,
@@ -150,6 +173,15 @@ fn default_hard_min() -> u8 {
 }
 fn default_registry_path() -> String {
     "docs/DOMAIN_RESEARCH_REGISTRY.md".to_string()
+}
+fn default_feedback_path() -> String {
+    "artifacts/orchestrator/domain_feedback.jsonl".to_string()
+}
+fn default_min_source_rows_for_low_yield() -> u64 {
+    50
+}
+fn default_max_positive_yield_for_penalty() -> f64 {
+    0.01
 }
 fn default_feed_name() -> String {
     "local_observations".to_string()

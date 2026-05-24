@@ -1,6 +1,6 @@
 use crate::config::Config;
 use crate::io::{ensure_dir, read_observations_path, rel, write_string};
-use crate::model::{DomainCandidate, DomainObservation};
+use crate::model::{DomainCandidate, DomainObservation, GateDecision};
 use crate::registry::{normalize_slug, Registry};
 use crate::report::{discovery_report, intake_doc};
 use crate::scoring::score_candidate;
@@ -22,6 +22,8 @@ pub fn run_scan(root: &Path, config: &Config) -> anyhow::Result<RunOutput> {
     let registry_path = rel(root, &config.registry.path);
     let registry = Registry::load_markdown(&registry_path)
         .with_context(|| format!("failed to load registry {}", registry_path.display()))?;
+    let feedback_path = rel(root, &config.feedback.path);
+    let feedback = load_feedback(&feedback_path)?;
 
     let mut observations = Vec::new();
     for feed in &config.feeds {
@@ -54,6 +56,7 @@ pub fn run_scan(root: &Path, config: &Config) -> anyhow::Result<RunOutput> {
         let mut candidate = DomainCandidate::from_observations(slug.clone(), obs);
         candidate.registry_status = registry.get(&slug).cloned();
         candidate = score_candidate(candidate, config);
+        apply_feedback_penalty(&mut candidate, feedback.get(&slug), config);
         candidates.push(candidate);
     }
 
@@ -99,6 +102,63 @@ fn should_write_intake(candidate: &DomainCandidate) -> bool {
             | crate::model::GateDecision::FeasibilityOnly
             | crate::model::GateDecision::MonitorOnly
     )
+}
+
+#[derive(Debug, Clone, serde::Deserialize)]
+struct FeedbackRecord {
+    domain: String,
+    status: String,
+    source_rows: Option<u64>,
+    audited_true_positive_rows: Option<u64>,
+}
+
+fn load_feedback(path: &Path) -> anyhow::Result<BTreeMap<String, FeedbackRecord>> {
+    if !path.exists() {
+        return Ok(BTreeMap::new());
+    }
+    let text = fs::read_to_string(path)
+        .with_context(|| format!("failed to read feedback {}", path.display()))?;
+    let mut feedback = BTreeMap::new();
+    for line in text.lines().filter(|line| !line.trim().is_empty()) {
+        let record: FeedbackRecord = serde_json::from_str(line)
+            .with_context(|| format!("failed to parse feedback row in {}", path.display()))?;
+        feedback.insert(normalize_slug(&record.domain), record);
+    }
+    Ok(feedback)
+}
+
+fn apply_feedback_penalty(
+    candidate: &mut DomainCandidate,
+    feedback: Option<&FeedbackRecord>,
+    config: &Config,
+) {
+    let Some(record) = feedback else {
+        return;
+    };
+    let source_rows = record.source_rows.unwrap_or(0);
+    let true_positive_rows = record.audited_true_positive_rows.unwrap_or(0);
+    if source_rows < config.feedback.min_source_rows_for_low_yield {
+        return;
+    }
+    let positive_yield = if source_rows == 0 {
+        0.0
+    } else {
+        true_positive_rows as f64 / source_rows as f64
+    };
+    if positive_yield > config.feedback.max_positive_yield_for_penalty {
+        return;
+    }
+
+    candidate.score.sample_size_likelihood = 0;
+    candidate.score.parser_audit_feasibility = 0;
+    candidate.score.recalc_total();
+    if matches!(candidate.gate, GateDecision::FullLifecycle) {
+        candidate.gate = GateDecision::FeasibilityOnly;
+    }
+    candidate.warnings.push(format!(
+        "historical feedback: low true-positive yield after prior `{}` run ({} true positives / {} source rows)",
+        record.status, true_positive_rows, source_rows
+    ));
 }
 
 pub fn candidate_from_observations(
@@ -204,6 +264,11 @@ sample_size_likelihood = 2
 path = "docs/DOMAIN_RESEARCH_REGISTRY.md"
 frozen_statuses = ["frozen", "failed", "failed_falsification", "failed_execution", "failed_after_causal_rebuild", "execution_unrealistic", "mapping_insufficient", "parser_not_trusted", "timestamp_insufficient", "context_insufficient"]
 monitor_statuses = ["underpowered_monitor"]
+
+[feedback]
+path = "artifacts/orchestrator/domain_feedback.jsonl"
+min_source_rows_for_low_yield = 50
+max_positive_yield_for_penalty = 0.01
 
 [[feeds]]
 name = "local_observations"
