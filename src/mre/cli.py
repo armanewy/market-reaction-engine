@@ -66,6 +66,18 @@ from .government_contract_falsification import run_government_contract_falsifica
 from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
 from .corpus_demo import generate_corpus_demo_data
 from .demo import generate_demo_data
+from .domain_registry import (
+    DEFAULT_REGISTRY_PATH,
+    format_domain_status,
+    format_intake_score,
+    format_revisit_triggers,
+    intake_score_to_json,
+    load_domain_registry,
+    records_to_json,
+    score_intake,
+    monitor_records,
+    write_domain_final_report,
+)
 from .extraction import build_extraction_packets, run_document_extraction, validate_llm_facts_jsonl
 from .extraction_demo import generate_extraction_demo_data
 from .ingestion import build_sec_source_document_manifest, ingest_source_document_manifest, make_ingestion_template
@@ -376,6 +388,45 @@ def cmd_sec_domain_readiness_report(args: argparse.Namespace) -> None:
     )
     write_readiness_report(args.out, readiness)
     print(json.dumps(readiness, indent=2, default=str))
+
+
+def cmd_domain_status(args: argparse.Namespace) -> None:
+    records = load_domain_registry(args.registry)
+    if args.json:
+        print(records_to_json(records))
+    else:
+        print(format_domain_status(records))
+
+
+def cmd_domain_intake_score(args: argparse.Namespace) -> None:
+    score = score_intake(args.input)
+    if args.json:
+        print(intake_score_to_json(score))
+    else:
+        print(format_intake_score(score))
+
+
+def cmd_revisit_triggers(args: argparse.Namespace) -> None:
+    records = load_domain_registry(args.registry)
+    if args.json:
+        print(records_to_json(monitor_records(records)))
+    else:
+        print(format_revisit_triggers(records))
+
+
+def cmd_domain_final_report(args: argparse.Namespace) -> None:
+    record = write_domain_final_report(
+        domain=args.domain,
+        out_path=args.out,
+        registry_path=args.registry,
+        readiness_report=args.readiness_report,
+        parser_audit=args.parser_audit,
+        timestamp_audit=args.timestamp_audit,
+        falsification_report=args.falsification_report,
+        fresh_confirmation_report=args.fresh_confirmation_report,
+        execution_audit=args.execution_audit,
+    )
+    print(json.dumps({"domain": record.domain, "status": record.status, "out": str(args.out)}, indent=2))
 
 
 
@@ -1821,6 +1872,33 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--context")
     p.add_argument("--min-train", type=int, default=40)
     p.set_defaults(func=cmd_sec_domain_readiness_report)
+
+    p = sub.add_parser("domain-status", help="Summarize domain registry status and revisit triggers.")
+    p.add_argument("--registry", default=str(DEFAULT_REGISTRY_PATH))
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_domain_status)
+
+    p = sub.add_parser("domain-intake-score", help="Score a proposed domain intake Markdown file.")
+    p.add_argument("--input", required=True)
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_domain_intake_score)
+
+    p = sub.add_parser("revisit-triggers", help="List monitor or underpowered domains and their revisit triggers.")
+    p.add_argument("--registry", default=str(DEFAULT_REGISTRY_PATH))
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_revisit_triggers)
+
+    p = sub.add_parser("domain-final-report", help="Generate a final report from the domain registry and supporting reports.")
+    p.add_argument("--domain", required=True)
+    p.add_argument("--out", required=True)
+    p.add_argument("--registry", default=str(DEFAULT_REGISTRY_PATH))
+    p.add_argument("--readiness-report")
+    p.add_argument("--parser-audit")
+    p.add_argument("--timestamp-audit")
+    p.add_argument("--falsification-report")
+    p.add_argument("--fresh-confirmation-report")
+    p.add_argument("--execution-audit")
+    p.set_defaults(func=cmd_domain_final_report)
 
     p = sub.add_parser("extract-facts", help="Extract evidence-grounded earnings/guidance facts from a source-document manifest.")
     p.add_argument("--documents", required=True, help="CSV manifest with source_doc_id, ticker, event_time, and text/path.")
