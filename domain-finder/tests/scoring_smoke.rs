@@ -1,6 +1,11 @@
 use domain_finder::collectors::{built_in_observations, source_family_count};
 use domain_finder::config::Config;
-use domain_finder::model::{DomainCandidate, DomainObservation, GateDecision, TimestampQuality};
+use domain_finder::model::{
+    DomainCandidate, DomainObservation, GateDecision, RegistryEntry, ScoreCard, TimestampQuality,
+};
+use domain_finder::operations::{
+    current_alerts, diff_candidates, explain_candidate, top_candidates,
+};
 use domain_finder::pipeline::candidate_from_observations;
 use domain_finder::probes::{probe_family, ProbeOptions};
 use domain_finder::registry::Registry;
@@ -202,4 +207,129 @@ fn offline_probe_writes_dynamic_observations() {
         .all(|obs| obs.tags.iter().any(|tag| tag == "probe_status:offline")));
 
     std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn top_suppresses_registry_blocked_domains() {
+    let blocked = test_candidate(
+        "insider_purchase_clusters",
+        GateDecision::BlockedByRegistry,
+        30,
+        Some(test_registry("frozen", "new thesis only")),
+    );
+    let feasibility = test_candidate(
+        "fda_import_alerts_public_companies",
+        GateDecision::FeasibilityOnly,
+        21,
+        None,
+    );
+
+    let top = top_candidates(&[blocked, feasibility], 10);
+    assert_eq!(top.len(), 1);
+    assert_eq!(top[0].slug, "fda_import_alerts_public_companies");
+}
+
+#[test]
+fn explain_includes_hard_minimum_failures() {
+    let mut candidate = test_candidate("weak_source", GateDecision::Backlog, 18, None);
+    candidate.score.public_timestamp_clarity = 1;
+    candidate.score.delayed_digestion_plausibility = 1;
+    candidate.score.materiality_field_clarity = 3;
+    candidate.score.sample_size_likelihood = 0;
+
+    let explanation = explain_candidate(&candidate);
+    assert!(explanation
+        .hard_minimum_failures
+        .iter()
+        .any(|failure| failure.contains("timestamp")));
+    assert!(explanation
+        .hard_minimum_failures
+        .iter()
+        .any(|failure| failure.contains("sample-size")));
+}
+
+#[test]
+fn diff_detects_gate_and_revisit_trigger_changes() {
+    let old = test_candidate(
+        "cybersecurity_material_incidents_8k",
+        GateDecision::Backlog,
+        17,
+        Some(test_registry("underpowered_monitor", "old trigger")),
+    );
+    let new = test_candidate(
+        "cybersecurity_material_incidents_8k",
+        GateDecision::MonitorOnly,
+        25,
+        Some(test_registry("underpowered_monitor", "new trigger")),
+    );
+
+    let diff = diff_candidates(&[old], &[new]);
+    assert_eq!(diff.gate_changes.len(), 1);
+    assert_eq!(diff.revisit_trigger_changes.len(), 1);
+    assert_eq!(
+        diff.newly_eligible_for_intake,
+        vec!["cybersecurity_material_incidents_8k".to_string()]
+    );
+}
+
+#[test]
+fn alerts_suppress_frozen_and_surface_monitor_trigger() {
+    let blocked = test_candidate(
+        "capital_raise_dilution",
+        GateDecision::BlockedByRegistry,
+        27,
+        Some(test_registry("frozen", "new thesis only")),
+    );
+    let monitor = test_candidate(
+        "cybersecurity_material_incidents_8k",
+        GateDecision::MonitorOnly,
+        25,
+        Some(test_registry("underpowered_monitor", "80 reviewed rows")),
+    );
+
+    let alerts = current_alerts(&[blocked, monitor]);
+    assert_eq!(alerts.suppressed_blocked_count, 1);
+    assert_eq!(alerts.alerts.len(), 1);
+    assert_eq!(alerts.alerts[0].slug, "cybersecurity_material_incidents_8k");
+    assert!(alerts.alerts[0]
+        .recommended_next_action
+        .contains("80 reviewed rows"));
+}
+
+fn test_candidate(
+    slug: &str,
+    gate: GateDecision,
+    total: u8,
+    registry_status: Option<RegistryEntry>,
+) -> DomainCandidate {
+    DomainCandidate {
+        slug: slug.to_string(),
+        title: slug.to_string(),
+        score: ScoreCard {
+            total,
+            public_timestamp_clarity: 3,
+            delayed_digestion_plausibility: 3,
+            materiality_field_clarity: 3,
+            sample_size_likelihood: 3,
+            ..ScoreCard::default()
+        },
+        gate,
+        registry_status,
+        observations: vec![DomainObservation {
+            slug: slug.to_string(),
+            title: slug.to_string(),
+            ..DomainObservation::default()
+        }],
+        ..DomainCandidate::default()
+    }
+}
+
+fn test_registry(status: &str, revisit_trigger: &str) -> RegistryEntry {
+    RegistryEntry {
+        domain: "test".to_string(),
+        status: status.to_string(),
+        stage_reached: Some("test".to_string()),
+        stop_reason: Some("test stop".to_string()),
+        revisit_trigger: Some(revisit_trigger.to_string()),
+    }
 }

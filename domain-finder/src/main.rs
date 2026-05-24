@@ -4,6 +4,10 @@ use domain_finder::collectors::{available_families, collect_to_generated_dir};
 use domain_finder::config::Config;
 use domain_finder::io::{read_observations_path, write_string};
 use domain_finder::model::DomainCandidate;
+use domain_finder::operations::{
+    alerts_report, current_alerts, diff_candidates, diff_report, explain_candidate, explain_report,
+    load_candidates, top_candidates, top_report,
+};
 use domain_finder::pipeline::{candidate_from_observations, init_project, run_scan};
 use domain_finder::probes::{probe_family, ProbeOptions};
 use domain_finder::registry::Registry;
@@ -97,6 +101,46 @@ enum Commands {
         output: PathBuf,
         #[arg(long)]
         registry: Option<PathBuf>,
+    },
+    /// Show the highest-priority current candidates from a scan.
+    Top {
+        #[arg(long, default_value = ".")]
+        root: PathBuf,
+        #[arg(long)]
+        config: Option<PathBuf>,
+        #[arg(long, default_value_t = 10)]
+        limit: usize,
+        #[arg(long)]
+        json: bool,
+    },
+    /// Explain the score, gate, and registry state for one domain.
+    Explain {
+        #[arg(long, default_value = ".")]
+        root: PathBuf,
+        #[arg(long)]
+        config: Option<PathBuf>,
+        #[arg(long)]
+        slug: String,
+        #[arg(long)]
+        json: bool,
+    },
+    /// Compare two domain candidate JSON files from prior scans.
+    Diff {
+        #[arg(long)]
+        old: PathBuf,
+        #[arg(long)]
+        new: PathBuf,
+        #[arg(long)]
+        json: bool,
+    },
+    /// Print actionable current alerts from the latest scan.
+    Alerts {
+        #[arg(long, default_value = ".")]
+        root: PathBuf,
+        #[arg(long)]
+        config: Option<PathBuf>,
+        #[arg(long)]
+        json: bool,
     },
 }
 
@@ -231,6 +275,57 @@ fn main() -> anyhow::Result<()> {
             write_string(&output, &intake_doc(&candidate))?;
             println!("wrote {}", output.display());
         }
+        Commands::Top {
+            root,
+            config,
+            limit,
+            json,
+        } => {
+            let cfg = load_config(&root, config.as_deref())?;
+            let out = run_scan(&root, &cfg)?;
+            let top = top_candidates(&out.candidates, limit);
+            if json {
+                println!("{}", serde_json::to_string_pretty(&top)?);
+            } else {
+                print!("{}", top_report(&top));
+            }
+        }
+        Commands::Explain {
+            root,
+            config,
+            slug,
+            json,
+        } => {
+            let cfg = load_config(&root, config.as_deref())?;
+            let out = run_scan(&root, &cfg)?;
+            let candidate = find_candidate(&out.candidates, &slug)?;
+            let explanation = explain_candidate(candidate);
+            if json {
+                println!("{}", serde_json::to_string_pretty(&explanation)?);
+            } else {
+                print!("{}", explain_report(&explanation));
+            }
+        }
+        Commands::Diff { old, new, json } => {
+            let old_candidates = load_candidates(&old)?;
+            let new_candidates = load_candidates(&new)?;
+            let diff = diff_candidates(&old_candidates, &new_candidates);
+            if json {
+                println!("{}", serde_json::to_string_pretty(&diff)?);
+            } else {
+                print!("{}", diff_report(&diff));
+            }
+        }
+        Commands::Alerts { root, config, json } => {
+            let cfg = load_config(&root, config.as_deref())?;
+            let out = run_scan(&root, &cfg)?;
+            let alerts = current_alerts(&out.candidates);
+            if json {
+                println!("{}", serde_json::to_string_pretty(&alerts)?);
+            } else {
+                print!("{}", alerts_report(&alerts));
+            }
+        }
     }
     Ok(())
 }
@@ -308,4 +403,15 @@ fn score_usage_hint(input: &Path) -> String {
         "score/make-intake are single-domain commands for {}. Use `domain-finder scan` for multi-domain feeds or pass `--slug <domain>`.",
         input.display()
     )
+}
+
+fn find_candidate<'a>(
+    candidates: &'a [DomainCandidate],
+    slug: &str,
+) -> anyhow::Result<&'a DomainCandidate> {
+    let normalized = domain_finder::registry::normalize_slug(slug);
+    candidates
+        .iter()
+        .find(|candidate| candidate.slug == normalized)
+        .ok_or_else(|| anyhow::anyhow!("domain `{}` was not found in current scan", slug))
 }

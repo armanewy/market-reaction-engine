@@ -16,6 +16,7 @@ The current implementation includes:
 - Hard minimum gates for public timestamp clarity, delayed-digestion plausibility, materiality, and sample size.
 - Registry-aware blocking so known failed/frozen domains do not get relaunched casually.
 - Automatic intake document generation for candidates that pass the feasibility/full-lifecycle threshold.
+- Research-ops views for top candidates, per-domain explanations, scan diffs, and alerts.
 - Continuous watch mode.
 
 ## Why this exists
@@ -63,6 +64,12 @@ cargo run -- probe-agency-actions --root .
 
 # Show machine-readable scored candidates
 cargo run -- scan --root . --json
+
+# Show the highest-priority non-blocked candidates
+cargo run -- top --root . --limit 10
+
+# Explain one domain's score, gate, warnings, and registry status
+cargo run -- explain --root . --slug cybersecurity_material_incidents_8k
 
 # Score one domain from a mixed feed
 cargo run -- score \
@@ -162,6 +169,10 @@ domain-finder probe-litigation
 domain-finder probe-index-events
 domain-finder scan
 domain-finder watch
+domain-finder top
+domain-finder explain
+domain-finder diff
+domain-finder alerts
 domain-finder score
 domain-finder make-intake
 ```
@@ -260,6 +271,47 @@ cargo run -- make-intake \
 `score` and `make-intake` are single-domain commands. They reject mixed-domain
 inputs unless `--slug <domain>` selects exactly one domain.
 
+### `top`
+
+Show the highest-priority current candidates from a fresh scan. Registry-blocked
+and skipped domains are suppressed by default.
+
+```bash
+cargo run -- top --root . --limit 10
+cargo run -- top --root . --limit 10 --json
+```
+
+### `explain`
+
+Explain one domain's scorecard, registry state, hard-minimum failures, warnings,
+and recommended next action.
+
+```bash
+cargo run -- explain --root . --slug cybersecurity_material_incidents_8k
+cargo run -- explain --root . --slug cybersecurity_material_incidents_8k --json
+```
+
+### `diff`
+
+Compare two scan JSON files and report new domains, score changes, gate changes,
+registry changes, revisit-trigger changes, and newly intake-eligible domains.
+
+```bash
+cargo run -- diff \
+  --old artifacts/domain_finder/previous_candidates.json \
+  --new artifacts/domain_finder/domain_candidates.json
+```
+
+### `alerts`
+
+Emit current actionable alerts from a fresh scan. Frozen or failed registry
+domains are counted as suppressed, not surfaced as action items.
+
+```bash
+cargo run -- alerts --root .
+cargo run -- alerts --root . --json
+```
+
 ## Limitations
 
 The collectors and probes are intentionally bounded. They emit source-backed
@@ -268,7 +320,7 @@ full live event records, build event corpora, run MRE, or launch agents.
 
 Recommended next milestones:
 
-1. Add pluggable live source adapters, starting with SEC registry-aware scans.
-2. Add MRE registry import/export so candidates can be merged into `DOMAIN_RESEARCH_REGISTRY.md` automatically.
-3. Add persistent state and change detection so only newly improved candidates trigger reports.
+1. Add persistent scan snapshots so `diff` and `alerts` can compare against the last run automatically.
+2. Add pluggable live source adapters, starting with SEC registry-aware scans.
+3. Add MRE registry import/export so candidates can be merged into `DOMAIN_RESEARCH_REGISTRY.md` automatically.
 4. Add scheduled Cyber Item 1.05 monitor checks.

@@ -2,6 +2,7 @@ pub mod collectors;
 pub mod config;
 pub mod io;
 pub mod model;
+pub mod operations;
 pub mod pipeline;
 pub mod probes;
 pub mod registry;

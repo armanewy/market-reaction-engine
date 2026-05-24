@@ -11,6 +11,7 @@ official-source observation feeds
 → hard minimum gates
 → registry de-duplication / blocking
 → generated intake docs
+→ top / explain / diff / alerts review
 → MRE feasibility or full lifecycle agents
 ```
 
@@ -19,8 +20,9 @@ official-source observation feeds
 1. Append observations to `data/observations/*.jsonl`, run `domain-finder collect`, or run a `domain-finder probe-*` command.
 2. Run `domain-finder scan` or `domain-finder watch`.
 3. Review `artifacts/domain_finder/domain_discovery_report.md`.
-4. Give generated intake docs to agents only if the gate is `full_lifecycle` or `feasibility_only`.
-5. After MRE finishes a domain, update `docs/DOMAIN_RESEARCH_REGISTRY.md` so Domain Finder blocks or monitors the domain correctly.
+4. Use `domain-finder top`, `domain-finder explain`, and `domain-finder alerts` to focus on actionable candidates.
+5. Give generated intake docs to agents only if the gate is `full_lifecycle` or `feasibility_only`.
+6. After MRE finishes a domain, update `docs/DOMAIN_RESEARCH_REGISTRY.md` so Domain Finder blocks or monitors the domain correctly.
 
 `collect` writes deterministic source-backed candidate-domain observations to
 `data/observations/generated/`. These rows are not event corpora and should not
@@ -41,6 +43,20 @@ domain-finder probe-index-events
 `score` and `make-intake` are single-domain commands. If the input contains
 multiple slugs, pass `--slug <domain>` or use `scan` for multi-domain portfolio
 scoring and intake generation.
+
+Research-ops commands:
+
+```text
+domain-finder top --root . --limit 10
+domain-finder explain --root . --slug <domain>
+domain-finder diff --old <old_candidates.json> --new <new_candidates.json>
+domain-finder alerts --root .
+```
+
+`top` and `alerts` suppress registry-blocked domains as action items. `explain`
+shows the hard-minimum failures and registry history for one domain. `diff`
+compares two candidate JSON snapshots and highlights newly eligible domains,
+gate changes, score changes, registry changes, and revisit-trigger changes.
 
 ## Gate philosophy
 
