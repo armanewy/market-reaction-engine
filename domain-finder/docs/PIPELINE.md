@@ -12,6 +12,7 @@ official-source observation feeds
 → registry de-duplication / blocking
 → generated intake docs
 → top / explain / diff / alerts review
+→ static dashboard
 → MRE feasibility or full lifecycle agents
 ```
 
@@ -21,8 +22,9 @@ official-source observation feeds
 2. Run `domain-finder scan` or `domain-finder watch`.
 3. Review `artifacts/domain_finder/domain_discovery_report.md`.
 4. Use `domain-finder top`, `domain-finder explain`, and `domain-finder alerts` to focus on actionable candidates.
-5. Give generated intake docs to agents only if the gate is `full_lifecycle` or `feasibility_only`.
-6. After MRE finishes a domain, update `docs/DOMAIN_RESEARCH_REGISTRY.md` so Domain Finder blocks or monitors the domain correctly.
+5. Use `domain-finder dashboard` when you need the static local research board.
+6. Give generated intake docs to agents only if the gate is `full_lifecycle` or `feasibility_only`.
+7. After MRE finishes a domain, update `docs/DOMAIN_RESEARCH_REGISTRY.md` so Domain Finder blocks or monitors the domain correctly.
 
 `collect` writes deterministic source-backed candidate-domain observations to
 `data/observations/generated/`. These rows are not event corpora and should not
@@ -51,12 +53,16 @@ domain-finder top --root . --limit 10
 domain-finder explain --root . --slug <domain>
 domain-finder diff --old <old_candidates.json> --new <new_candidates.json>
 domain-finder alerts --root .
+domain-finder dashboard --root . --out artifacts/domain_finder/dashboard
 ```
 
 `top` and `alerts` suppress registry-blocked domains as action items. `explain`
 shows the hard-minimum failures and registry history for one domain. `diff`
 compares two candidate JSON snapshots and highlights newly eligible domains,
 gate changes, score changes, registry changes, and revisit-trigger changes.
+`dashboard` writes a static local research command center with registry status,
+stop reasons, Domain Finder candidates, infrastructure entries, and per-domain
+detail pages.
 
 ## Gate philosophy
 

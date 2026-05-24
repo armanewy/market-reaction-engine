@@ -1,5 +1,6 @@
 pub mod collectors;
 pub mod config;
+pub mod dashboard;
 pub mod io;
 pub mod model;
 pub mod operations;

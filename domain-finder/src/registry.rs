@@ -15,6 +15,7 @@ struct TableColumns {
     status: Option<usize>,
     stage_reached: Option<usize>,
     stop_reason: Option<usize>,
+    last_commit: Option<usize>,
     revisit_trigger: Option<usize>,
 }
 
@@ -78,6 +79,7 @@ impl Registry {
                     status,
                     stage_reached: current_stage.clone(),
                     stop_reason: current_reason.clone(),
+                    last_commit: None,
                     revisit_trigger: current_trigger.clone(),
                 });
                 current_domain = None;
@@ -102,6 +104,12 @@ impl Registry {
     pub fn is_empty(&self) -> bool {
         self.entries.is_empty()
     }
+
+    pub fn entries(&self) -> Vec<&RegistryEntry> {
+        let mut entries = self.entries.values().collect::<Vec<_>>();
+        entries.sort_by(|a, b| a.domain.cmp(&b.domain));
+        entries
+    }
 }
 
 impl TableColumns {
@@ -123,6 +131,11 @@ impl TableColumns {
                 "stop_reason" | "stop" | "reason" | "blocker"
             ) {
                 cols.stop_reason = Some(idx);
+            } else if matches!(
+                header.as_str(),
+                "last_commit" | "last_known_commit" | "commit" | "last_known"
+            ) {
+                cols.last_commit = Some(idx);
             } else if matches!(header.as_str(), "revisit_trigger" | "revisit" | "trigger") {
                 cols.revisit_trigger = Some(idx);
             }
@@ -152,6 +165,10 @@ impl TableColumns {
                 .cell(cells, self.stop_reason)
                 .map(clean_cell)
                 .filter(|s| !s.is_empty()),
+            last_commit: self
+                .cell(cells, self.last_commit)
+                .map(clean_cell)
+                .filter(|s| !s.is_empty()),
             revisit_trigger: self
                 .cell(cells, self.revisit_trigger)
                 .map(clean_cell)
@@ -176,8 +193,8 @@ fn split_markdown_row(line: &str) -> Vec<String> {
 
 fn clean_cell(s: &str) -> String {
     s.trim()
-        .trim_matches('`')
         .trim()
+        .replace('`', "")
         .replace("**", "")
         .replace("\\_", "_")
 }

@@ -17,6 +17,7 @@ The current implementation includes:
 - Registry-aware blocking so known failed/frozen domains do not get relaunched casually.
 - Automatic intake document generation for candidates that pass the feasibility/full-lifecycle threshold.
 - Research-ops views for top candidates, per-domain explanations, scan diffs, and alerts.
+- Static local research dashboard generation.
 - Continuous watch mode.
 
 ## Why this exists
@@ -71,6 +72,9 @@ cargo run -- top --root . --limit 10
 # Explain one domain's score, gate, warnings, and registry status
 cargo run -- explain --root . --slug cybersecurity_material_incidents_8k
 
+# Build a static local research dashboard
+cargo run -- dashboard --root . --out artifacts/domain_finder/dashboard
+
 # Score one domain from a mixed feed
 cargo run -- score \
   --input data/observations/sample_domains.jsonl \
@@ -88,6 +92,8 @@ artifacts/domain_finder/domain_candidates.json
 docs/intakes/generated/<domain>.md
 data/observations/generated/<family>_observations.jsonl
 data/observations/probed/<family>_probe_observations.jsonl
+artifacts/domain_finder/dashboard/index.html
+artifacts/domain_finder/dashboard/dashboard_state.json
 ```
 
 ## Observation feed format
@@ -173,6 +179,7 @@ domain-finder top
 domain-finder explain
 domain-finder diff
 domain-finder alerts
+domain-finder dashboard
 domain-finder score
 domain-finder make-intake
 ```
@@ -312,11 +319,43 @@ cargo run -- alerts --root .
 cargo run -- alerts --root . --json
 ```
 
+### `dashboard`
+
+Build a local static research dashboard. The dashboard is a read-only research
+command center, not a trading dashboard. It reads the canonical registry, latest
+Domain Finder candidates when available, and local report artifacts, then writes
+HTML, CSS, per-domain detail pages, and normalized JSON state.
+
+```bash
+cargo run -- dashboard --root . --out artifacts/domain_finder/dashboard
+```
+
+When run from the `domain-finder` directory, the command prefers
+`../docs/DOMAIN_RESEARCH_REGISTRY.md` if it exists, so it uses the canonical MRE
+registry instead of the sample local registry. You can override that explicitly:
+
+```bash
+cargo run -- dashboard \
+  --root . \
+  --registry ../docs/DOMAIN_RESEARCH_REGISTRY.md \
+  --out artifacts/domain_finder/dashboard
+```
+
+Dashboard outputs:
+
+```text
+artifacts/domain_finder/dashboard/index.html
+artifacts/domain_finder/dashboard/dashboard_state.json
+artifacts/domain_finder/dashboard/assets/style.css
+artifacts/domain_finder/dashboard/domains/<domain>.html
+```
+
 ## Limitations
 
 The collectors and probes are intentionally bounded. They emit source-backed
 candidate-domain observations and source-check metadata, but they do not fetch
-full live event records, build event corpora, run MRE, or launch agents.
+full live event records, build event corpora, run MRE, launch agents, or make
+trading claims.
 
 Recommended next milestones:
 

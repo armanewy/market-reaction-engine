@@ -188,7 +188,12 @@ impl GateDecision {
 pub struct RegistryEntry {
     pub domain: String,
     pub status: String,
+    #[serde(default)]
     pub stage_reached: Option<String>,
+    #[serde(default)]
     pub stop_reason: Option<String>,
+    #[serde(default)]
+    pub last_commit: Option<String>,
+    #[serde(default)]
     pub revisit_trigger: Option<String>,
 }

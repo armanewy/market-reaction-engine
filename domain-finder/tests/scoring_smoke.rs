@@ -1,5 +1,6 @@
 use domain_finder::collectors::{built_in_observations, source_family_count};
 use domain_finder::config::Config;
+use domain_finder::dashboard::{build_dashboard, DashboardOptions};
 use domain_finder::model::{
     DomainCandidate, DomainObservation, GateDecision, RegistryEntry, ScoreCard, TimestampQuality,
 };
@@ -133,6 +134,7 @@ fn registry_parses_wide_table_by_header_names() {
         insider.stop_reason.as_deref(),
         Some("failed null-shuffle and concentration")
     );
+    assert_eq!(insider.last_commit.as_deref(), Some("b0923ce"));
     assert_eq!(insider.revisit_trigger.as_deref(), Some("new thesis only"));
 
     let cyber = registry.get("cybersecurity_material_incidents_8k").unwrap();
@@ -296,6 +298,79 @@ fn alerts_suppress_frozen_and_surface_monitor_trigger() {
         .contains("80 reviewed rows"));
 }
 
+#[test]
+fn dashboard_build_classifies_canonical_registry_state() {
+    let temp_root = std::env::temp_dir().join(format!(
+        "domain_finder_dashboard_test_{}",
+        std::process::id()
+    ));
+    if temp_root.exists() {
+        std::fs::remove_dir_all(&temp_root).unwrap();
+    }
+    std::fs::create_dir_all(temp_root.join("docs")).unwrap();
+    std::fs::write(
+        temp_root.join("docs/DOMAIN_RESEARCH_REGISTRY.md"),
+        r#"
+| Domain | Status | Stage Reached | Stop Reason | Last Known Commit | Revisit Trigger |
+| --- | --- | --- | --- | --- | --- |
+| `cybersecurity_material_incidents_8k` | underpowered_monitor | monitor/readiness | Item 1.05 sample too small; 43 reviewed usable rows, 37 model-eligible rows, 0 likely OOS predictions | `878db5f` | Rerun when row gates pass. |
+| `insider_purchase_clusters` | frozen | causal-feature rebuild/final audit | Failed empirical gate after leakage repair: feature leakage false after rebuild, null-shuffle h10 p-value 0.7143, liquid subset tickers 14, top-5 liquid ticker contribution 86.7397% | `b0923ce` | New pre-registered thesis only. |
+| `bank_regulatory_enforcement` | underpowered_feasibility | source/corpus/readiness | Public-bank adverse corpus was too small: 28 reviewed usable rows and 0 likely OOS predictions | `cb53eba` | Source expansion required. |
+"#,
+    )
+    .unwrap();
+
+    let output = build_dashboard(&DashboardOptions {
+        root: temp_root.clone(),
+        out_dir: "artifacts/domain_finder/dashboard".into(),
+        registry_path: None,
+        candidates_path: None,
+    })
+    .unwrap();
+
+    let cyber = output
+        .state
+        .domains
+        .iter()
+        .find(|domain| domain.slug == "cybersecurity_material_incidents_8k")
+        .unwrap();
+    assert_eq!(cyber.category, "monitor");
+
+    let insider = output
+        .state
+        .domains
+        .iter()
+        .find(|domain| domain.slug == "insider_purchase_clusters")
+        .unwrap();
+    assert_eq!(insider.category, "frozen");
+    assert_eq!(
+        insider.key_metrics.get("null_shuffle_h10_p_value"),
+        Some(&"0.7143".to_string())
+    );
+
+    let bank = output
+        .state
+        .domains
+        .iter()
+        .find(|domain| domain.slug == "bank_regulatory_enforcement")
+        .unwrap();
+    assert_eq!(bank.category, "feasibility");
+
+    assert_eq!(output.state.summary.graduated_signals, 0);
+    assert_eq!(output.state.summary.live_candidates, 0);
+    assert_eq!(output.state.summary.monitors, 1);
+
+    let html = std::fs::read_to_string(&output.index_path).unwrap();
+    assert!(html.contains("Graduated Signals"));
+    assert!(html.contains("insider_purchase_clusters"));
+
+    let state_json = std::fs::read_to_string(&output.state_path).unwrap();
+    let parsed: serde_json::Value = serde_json::from_str(&state_json).unwrap();
+    assert_eq!(parsed["summary"]["monitors"], 1);
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
 fn test_candidate(
     slug: &str,
     gate: GateDecision,
@@ -330,6 +405,7 @@ fn test_registry(status: &str, revisit_trigger: &str) -> RegistryEntry {
         status: status.to_string(),
         stage_reached: Some("test".to_string()),
         stop_reason: Some("test stop".to_string()),
+        last_commit: Some("test commit".to_string()),
         revisit_trigger: Some(revisit_trigger.to_string()),
     }
 }

@@ -2,6 +2,7 @@ use anyhow::Context;
 use clap::{Parser, Subcommand};
 use domain_finder::collectors::{available_families, collect_to_generated_dir};
 use domain_finder::config::Config;
+use domain_finder::dashboard::{build_dashboard, DashboardOptions};
 use domain_finder::io::{read_observations_path, write_string};
 use domain_finder::model::DomainCandidate;
 use domain_finder::operations::{
@@ -139,6 +140,21 @@ enum Commands {
         root: PathBuf,
         #[arg(long)]
         config: Option<PathBuf>,
+        #[arg(long)]
+        json: bool,
+    },
+    /// Build a local static research dashboard.
+    Dashboard {
+        #[arg(long, default_value = ".")]
+        root: PathBuf,
+        #[arg(long, default_value = "artifacts/domain_finder/dashboard")]
+        out: PathBuf,
+        /// Optional registry override. Defaults to ../docs/DOMAIN_RESEARCH_REGISTRY.md when available.
+        #[arg(long)]
+        registry: Option<PathBuf>,
+        /// Optional candidate JSON override.
+        #[arg(long)]
+        candidates: Option<PathBuf>,
         #[arg(long)]
         json: bool,
     },
@@ -324,6 +340,27 @@ fn main() -> anyhow::Result<()> {
                 println!("{}", serde_json::to_string_pretty(&alerts)?);
             } else {
                 print!("{}", alerts_report(&alerts));
+            }
+        }
+        Commands::Dashboard {
+            root,
+            out,
+            registry,
+            candidates,
+            json,
+        } => {
+            let output = build_dashboard(&DashboardOptions {
+                root,
+                out_dir: out,
+                registry_path: registry,
+                candidates_path: candidates,
+            })?;
+            if json {
+                println!("{}", serde_json::to_string_pretty(&output.state)?);
+            } else {
+                println!("dashboard: {}", output.index_path.display());
+                println!("state: {}", output.state_path.display());
+                println!("domains: {}", output.state.domains.len());
             }
         }
     }
