@@ -9,6 +9,10 @@ use domain_finder::operations::{
     alerts_report, current_alerts, diff_candidates, diff_report, explain_candidate, explain_report,
     load_candidates, top_candidates, top_report,
 };
+use domain_finder::orchestrator::{
+    approve_job, archive_job, generate_research_prompt, jobs_report, list_jobs, reject_job,
+    run_orchestrator_once, OrchestratorConfig, OrchestratorRunOptions,
+};
 use domain_finder::pipeline::{candidate_from_observations, init_project, run_scan};
 use domain_finder::probes::{probe_family, ProbeOptions};
 use domain_finder::registry::Registry;
@@ -158,6 +162,18 @@ enum Commands {
         #[arg(long)]
         json: bool,
     },
+    /// Run the conservative discovery -> intake -> job queue loop.
+    Orchestrate(OrchestrateArgs),
+    /// Approve a queued orchestrator job for prompt generation.
+    Approve(ApproveArgs),
+    /// Reject a queued orchestrator job with an optional reason.
+    Reject(UpdateJobArgs),
+    /// Archive an orchestrator job with an optional reason.
+    ArchiveJob(UpdateJobArgs),
+    /// List queued orchestrator jobs.
+    ListJobs(ListJobsArgs),
+    /// Generate an approved MRE research prompt.
+    ResearchPrompt(ResearchPromptArgs),
 }
 
 #[derive(Debug, clap::Args)]
@@ -173,6 +189,80 @@ struct ProbeArgs {
     /// Record probe metadata without fetching source URLs.
     #[arg(long)]
     offline: bool,
+    #[arg(long)]
+    json: bool,
+}
+
+#[derive(Debug, clap::Args)]
+struct OrchestrateArgs {
+    #[arg(long, default_value = ".")]
+    root: PathBuf,
+    #[arg(long)]
+    config: Option<PathBuf>,
+    #[arg(long)]
+    domain_config: Option<PathBuf>,
+    #[arg(long)]
+    once: bool,
+    #[arg(long)]
+    watch: bool,
+    #[arg(long)]
+    interval_secs: Option<u64>,
+    #[arg(long)]
+    iterations: Option<u64>,
+    #[arg(long)]
+    dry_run: bool,
+    #[arg(long)]
+    offline_probes: bool,
+    #[arg(long)]
+    json: bool,
+}
+
+#[derive(Debug, clap::Args)]
+struct ApproveArgs {
+    #[arg(long, default_value = ".")]
+    root: PathBuf,
+    #[arg(long)]
+    config: Option<PathBuf>,
+    #[arg(long)]
+    domain: String,
+    #[arg(long)]
+    json: bool,
+}
+
+#[derive(Debug, clap::Args)]
+struct UpdateJobArgs {
+    #[arg(long, default_value = ".")]
+    root: PathBuf,
+    #[arg(long)]
+    config: Option<PathBuf>,
+    #[arg(long)]
+    domain: String,
+    #[arg(long)]
+    reason: Option<String>,
+    #[arg(long)]
+    json: bool,
+}
+
+#[derive(Debug, clap::Args)]
+struct ListJobsArgs {
+    #[arg(long, default_value = ".")]
+    root: PathBuf,
+    #[arg(long)]
+    config: Option<PathBuf>,
+    #[arg(long)]
+    json: bool,
+}
+
+#[derive(Debug, clap::Args)]
+struct ResearchPromptArgs {
+    #[arg(long, default_value = ".")]
+    root: PathBuf,
+    #[arg(long)]
+    config: Option<PathBuf>,
+    #[arg(long)]
+    domain: String,
+    #[arg(long)]
+    out: Option<PathBuf>,
     #[arg(long)]
     json: bool,
 }
@@ -363,6 +453,97 @@ fn main() -> anyhow::Result<()> {
                 println!("domains: {}", output.state.domains.len());
             }
         }
+        Commands::Orchestrate(args) => {
+            run_orchestrate_command(args)?;
+        }
+        Commands::Approve(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let job = approve_job(&args.root, &cfg, &args.domain)?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&job)?);
+            } else {
+                println!("approved {} -> status={}", job.domain, job.status.label());
+            }
+        }
+        Commands::Reject(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let job = reject_job(&args.root, &cfg, &args.domain, args.reason.as_deref())?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&job)?);
+            } else {
+                println!("rejected {} -> status={}", job.domain, job.status.label());
+            }
+        }
+        Commands::ArchiveJob(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let job = archive_job(&args.root, &cfg, &args.domain, args.reason.as_deref())?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&job)?);
+            } else {
+                println!("archived {} -> status={}", job.domain, job.status.label());
+            }
+        }
+        Commands::ListJobs(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let jobs = list_jobs(&args.root, &cfg)?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&jobs)?);
+            } else {
+                print!("{}", jobs_report(&jobs));
+            }
+        }
+        Commands::ResearchPrompt(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let job =
+                generate_research_prompt(&args.root, &cfg, &args.domain, args.out.as_deref())?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&job)?);
+            } else if let Some(path) = &job.prompt_path {
+                println!("prompt: {}", path);
+            } else {
+                println!("prompt generated for {}", job.domain);
+            }
+        }
+    }
+    Ok(())
+}
+
+fn run_orchestrate_command(args: OrchestrateArgs) -> anyhow::Result<()> {
+    let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+    let domain_cfg = load_config(&args.root, args.domain_config.as_deref())?;
+    let interval_secs = args.interval_secs.unwrap_or(cfg.loop_config.interval_secs);
+    let mut count = 0u64;
+    loop {
+        let output = run_orchestrator_once(
+            &args.root,
+            &domain_cfg,
+            &cfg,
+            OrchestratorRunOptions {
+                dry_run: args.dry_run,
+                offline_probes: args.offline_probes,
+            },
+        )?;
+        if args.json {
+            println!("{}", serde_json::to_string_pretty(&output)?);
+        } else {
+            println!(
+                "orchestrator run complete: candidates={} new_jobs={} existing_jobs={} notification={}",
+                output.candidates_seen,
+                output.new_jobs.len(),
+                output.existing_jobs.len(),
+                output.notification_path.display()
+            );
+        }
+        count += 1;
+        if !args.watch || args.once {
+            break;
+        }
+        if let Some(max) = args.iterations {
+            if count >= max {
+                break;
+            }
+        }
+        thread::sleep(Duration::from_secs(interval_secs));
     }
     Ok(())
 }
@@ -415,6 +596,20 @@ fn load_config(root: &Path, override_path: Option<&Path>) -> anyhow::Result<Conf
         Config::load(&path)
     } else {
         Ok(Config::default())
+    }
+}
+
+fn load_orchestrator_config(
+    root: &Path,
+    override_path: Option<&Path>,
+) -> anyhow::Result<OrchestratorConfig> {
+    let path = override_path
+        .map(|p| p.to_path_buf())
+        .unwrap_or_else(|| OrchestratorConfig::default_path(root));
+    if path.exists() {
+        OrchestratorConfig::load(&path)
+    } else {
+        Ok(OrchestratorConfig::default())
     }
 }
 

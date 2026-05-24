@@ -116,6 +116,90 @@ fn score_table(s: &ScoreCard) -> String {
     out
 }
 
+fn intake_score_table(c: &DomainCandidate) -> String {
+    let rows = [
+        (
+            "Official source quality",
+            c.score.official_source_quality,
+            format!(
+                "{} official-source observations; source kinds: {}",
+                c.official_source_count,
+                list_or_dash(&c.source_kinds)
+            ),
+        ),
+        (
+            "Public timestamp clarity",
+            c.score.public_timestamp_clarity,
+            "Finder timestamp-quality score from observations".to_string(),
+        ),
+        (
+            "Delayed-digestion plausibility",
+            c.score.delayed_digestion_plausibility,
+            list_or_dash(&c.delayed_digest_reasons),
+        ),
+        (
+            "Hard-negative clarity",
+            c.score.hard_negative_clarity,
+            list_or_dash(&c.hard_negatives),
+        ),
+        (
+            "Materiality-field clarity",
+            c.score.materiality_field_clarity,
+            list_or_dash(&c.materiality_fields),
+        ),
+        (
+            "Sample-size likelihood",
+            c.score.sample_size_likelihood,
+            c.max_sample_size_hint
+                .map(|n| format!("max sample-size hint: {}", n))
+                .unwrap_or_else(|| "max sample-size hint: unknown".to_string()),
+        ),
+        (
+            "Ticker/entity mapping feasibility",
+            c.score.ticker_mapping_feasibility,
+            observation_note(c, |obs| obs.mapping_notes.as_deref()),
+        ),
+        (
+            "Liquidity/execution feasibility",
+            c.score.liquidity_execution_feasibility,
+            observation_note(c, |obs| obs.liquidity_notes.as_deref()),
+        ),
+        (
+            "Parser/audit feasibility",
+            c.score.parser_audit_feasibility,
+            "Estimated from source structure and domain text complexity".to_string(),
+        ),
+        (
+            "Fresh-data availability",
+            c.score.fresh_data_availability,
+            format!("evidence count: {}", c.evidence_count),
+        ),
+    ];
+
+    let mut out = String::from("| Dimension | Score | Notes |\n| --- | ---: | --- |\n");
+    for (name, score, notes) in rows {
+        out.push_str(&format!("| {} | {} | {} |\n", name, score, notes));
+    }
+    out
+}
+
+fn observation_note<F>(c: &DomainCandidate, getter: F) -> String
+where
+    F: Fn(&crate::model::DomainObservation) -> Option<&str>,
+{
+    let mut notes = c
+        .observations
+        .iter()
+        .filter_map(getter)
+        .map(str::trim)
+        .filter(|note| !note.is_empty())
+        .map(str::to_string)
+        .collect::<Vec<_>>();
+    notes.sort();
+    notes.dedup();
+    list_or_dash(&notes)
+}
+
 fn list_or_dash(items: &[String]) -> String {
     if items.is_empty() {
         "-".to_string()
@@ -134,6 +218,9 @@ pub fn intake_doc(c: &DomainCandidate) -> String {
     if let Some(entry) = &c.registry_status {
         out.push_str(&format!("- Registry status: `{}`\n", entry.status));
     }
+    out.push_str("\n## Scoring Rubric\n\n");
+    out.push_str("Generated from Domain Finder's current scorecard. Review and adjust before launching an MRE agent.\n\n");
+    out.push_str(&intake_score_table(c));
     if let Some(entry) = &c.registry_status {
         out.push_str("\n## Registry History\n\n");
         out.push_str(&format!("- status: `{}`\n", entry.status));

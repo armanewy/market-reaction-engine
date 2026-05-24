@@ -1,0 +1,26 @@
+[paths]
+mre_root = ".."
+domain_finder_root = "."
+jobs_dir = "artifacts/orchestrator/jobs"
+notifications_dir = "artifacts/orchestrator/notifications"
+prompts_dir = "artifacts/orchestrator/prompts"
+
+[loop]
+interval_secs = 900
+max_new_jobs_per_run = 3
+require_human_approval = true
+
+[thresholds]
+full_lifecycle_score = 24
+feasibility_score = 18
+
+[automation]
+auto_generate_intakes = true
+auto_approve_full_lifecycle = false
+auto_run_agents = false
+auto_update_registry = false
+run_collectors = true
+run_probes = true
+
+[notifications]
+mode = "local_markdown"

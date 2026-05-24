@@ -7,9 +7,14 @@ use domain_finder::model::{
 use domain_finder::operations::{
     current_alerts, diff_candidates, explain_candidate, top_candidates,
 };
+use domain_finder::orchestrator::{
+    approve_job, generate_research_prompt, reject_job, run_orchestrator_once, JobStatus,
+    OrchestratorConfig, OrchestratorRunOptions,
+};
 use domain_finder::pipeline::candidate_from_observations;
 use domain_finder::probes::{probe_family, ProbeOptions};
 use domain_finder::registry::Registry;
+use domain_finder::report::intake_doc;
 use domain_finder::scoring::score_candidate;
 
 #[test]
@@ -299,6 +304,192 @@ fn alerts_suppress_frozen_and_surface_monitor_trigger() {
 }
 
 #[test]
+fn generated_intake_contains_mre_score_table() {
+    let mut candidate = test_candidate(
+        "material_customer_contract_loss_8k",
+        GateDecision::FullLifecycle,
+        25,
+        None,
+    );
+    candidate.score.official_source_quality = 3;
+    candidate.score.public_timestamp_clarity = 3;
+    candidate.score.delayed_digestion_plausibility = 2;
+    candidate.score.hard_negative_clarity = 2;
+    candidate.score.materiality_field_clarity = 3;
+    candidate.score.sample_size_likelihood = 2;
+    candidate.score.ticker_mapping_feasibility = 3;
+    candidate.score.liquidity_execution_feasibility = 3;
+    candidate.score.parser_audit_feasibility = 2;
+    candidate.score.fresh_data_availability = 2;
+
+    let doc = intake_doc(&candidate);
+
+    assert!(doc.contains("| Dimension | Score | Notes |"));
+    assert!(doc.contains("| Official source quality | 3 |"));
+    assert!(doc.contains("| Public timestamp clarity | 3 |"));
+    assert!(doc.contains("| Delayed-digestion plausibility | 2 |"));
+    assert!(doc.contains("| Fresh-data availability | 2 |"));
+}
+
+#[test]
+fn orchestrator_once_queues_only_eligible_jobs_and_is_idempotent() {
+    let temp_root = temp_root("domain_finder_orchestrator_once");
+    write_orchestrator_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let orchestrator_config = test_orchestrator_config();
+
+    let first = run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+        },
+    )
+    .unwrap();
+
+    let domains = first
+        .new_jobs
+        .iter()
+        .map(|job| job.domain.as_str())
+        .collect::<Vec<_>>();
+    assert!(domains.contains(&"material_customer_contract_loss_8k"));
+    assert!(domains.contains(&"index_rebalance_events"));
+    assert!(!domains.contains(&"insider_purchase_clusters"));
+    assert!(!domains.contains(&"cybersecurity_material_incidents_8k"));
+    assert_eq!(first.suppressed_blocked_count, 1);
+    assert_eq!(first.monitor_only_count, 1);
+
+    let material = first
+        .new_jobs
+        .iter()
+        .find(|job| job.domain == "material_customer_contract_loss_8k")
+        .unwrap();
+    assert_eq!(material.status, JobStatus::AwaitingApproval);
+    assert_eq!(material.scope, "full_lifecycle");
+
+    let feasibility = first
+        .new_jobs
+        .iter()
+        .find(|job| job.domain == "index_rebalance_events")
+        .unwrap();
+    assert_eq!(feasibility.scope, "source_feasibility_only");
+
+    let second = run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+        },
+    )
+    .unwrap();
+    assert!(second.new_jobs.is_empty());
+    assert_eq!(second.existing_jobs.len(), first.new_jobs.len());
+    assert!(first.notification_path.exists());
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn approve_and_research_prompt_follow_human_gate() {
+    let temp_root = temp_root("domain_finder_orchestrator_prompt");
+    write_orchestrator_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let orchestrator_config = test_orchestrator_config();
+    run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+        },
+    )
+    .unwrap();
+
+    let err = generate_research_prompt(
+        &temp_root,
+        &orchestrator_config,
+        "material_customer_contract_loss_8k",
+        None,
+    )
+    .unwrap_err();
+    assert!(err.to_string().contains("approve it before"));
+
+    let approved = approve_job(
+        &temp_root,
+        &orchestrator_config,
+        "material_customer_contract_loss_8k",
+    )
+    .unwrap();
+    assert_eq!(approved.status, JobStatus::Approved);
+
+    let prompted = generate_research_prompt(
+        &temp_root,
+        &orchestrator_config,
+        "material_customer_contract_loss_8k",
+        None,
+    )
+    .unwrap();
+    assert_eq!(prompted.status, JobStatus::PromptGenerated);
+    let prompt_path = prompted.prompt_path.as_ref().unwrap();
+    let prompt = std::fs::read_to_string(prompt_path).unwrap();
+    assert!(prompt.contains("Do not model until readiness gates pass."));
+    assert!(prompt.contains("Domain Intake: Material Customer / Contract Loss 8-K"));
+    assert!(prompt.contains("artifacts/material_customer_contract_loss_8k_domain_final_report.md"));
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn reject_job_marks_terminal_reason_and_blocks_prompt() {
+    let temp_root = temp_root("domain_finder_orchestrator_reject");
+    write_orchestrator_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let orchestrator_config = test_orchestrator_config();
+    run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+        },
+    )
+    .unwrap();
+
+    let rejected = reject_job(
+        &temp_root,
+        &orchestrator_config,
+        "index_rebalance_events",
+        Some("not first priority"),
+    )
+    .unwrap();
+    assert_eq!(rejected.status, JobStatus::Rejected);
+    assert_eq!(
+        rejected.terminal_reason.as_deref(),
+        Some("not first priority")
+    );
+
+    let err = generate_research_prompt(
+        &temp_root,
+        &orchestrator_config,
+        "index_rebalance_events",
+        None,
+    )
+    .unwrap_err();
+    assert!(err.to_string().contains("approve it before"));
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
 fn dashboard_build_classifies_canonical_registry_state() {
     let temp_root = std::env::temp_dir().join(format!(
         "domain_finder_dashboard_test_{}",
@@ -408,4 +599,107 @@ fn test_registry(status: &str, revisit_trigger: &str) -> RegistryEntry {
         last_commit: Some("test commit".to_string()),
         revisit_trigger: Some(revisit_trigger.to_string()),
     }
+}
+
+fn temp_root(prefix: &str) -> std::path::PathBuf {
+    let root = std::env::temp_dir().join(format!("{}_{}", prefix, std::process::id()));
+    if root.exists() {
+        std::fs::remove_dir_all(&root).unwrap();
+    }
+    std::fs::create_dir_all(root.join("data/observations")).unwrap();
+    std::fs::create_dir_all(root.join("docs")).unwrap();
+    root
+}
+
+fn write_orchestrator_fixture(root: &std::path::Path) {
+    std::fs::write(
+        root.join("docs/DOMAIN_RESEARCH_REGISTRY.md"),
+        r#"
+| domain | status | stage_reached | stop_reason | commit | revisit_trigger |
+| --- | --- | --- | --- | --- | --- |
+| insider_purchase_clusters | frozen | causal rebuild | failed after causal rebuild | b0923ce | new thesis only |
+| cybersecurity_material_incidents_8k | underpowered_monitor | monitor | too few rows | 878db5f | 80 reviewed rows |
+"#,
+    )
+    .unwrap();
+
+    let observations = [
+        orchestrator_observation("material_customer_contract_loss_8k", true, 120),
+        orchestrator_observation("insider_purchase_clusters", true, 200),
+        orchestrator_observation("cybersecurity_material_incidents_8k", true, 120),
+        orchestrator_observation("index_rebalance_events", false, 150),
+    ];
+    let jsonl = observations
+        .iter()
+        .map(|obs| serde_json::to_string(obs).unwrap())
+        .collect::<Vec<_>>()
+        .join("\n");
+    std::fs::write(root.join("data/observations/domains.jsonl"), jsonl).unwrap();
+}
+
+fn orchestrator_observation(
+    slug: &str,
+    official_source: bool,
+    sample_size_hint: u32,
+) -> DomainObservation {
+    DomainObservation {
+        slug: slug.to_string(),
+        title: match slug {
+            "material_customer_contract_loss_8k" => "Material Customer / Contract Loss 8-K",
+            "insider_purchase_clusters" => "Form 4 Insider Purchase Clusters",
+            "cybersecurity_material_incidents_8k" => {
+                "SEC Item 1.05 Material Cybersecurity Incidents"
+            }
+            "index_rebalance_events" => "Index Rebalance Events",
+            _ => slug,
+        }
+        .to_string(),
+        source_name: if official_source {
+            "SEC EDGAR"
+        } else {
+            "Index provider"
+        }
+        .to_string(),
+        source_kind: if official_source {
+            "sec_official"
+        } else {
+            "public_index_announcement"
+        }
+        .to_string(),
+        official_source,
+        timestamp_quality: TimestampQuality::Clear,
+        delayed_digest_reasons: vec![
+            "financial impact requires calculation".to_string(),
+            "market may digest follow-up details over several sessions".to_string(),
+        ],
+        hard_negatives: vec![
+            "routine update".to_string(),
+            "already-known event".to_string(),
+            "duplicate disclosure".to_string(),
+            "immaterial event".to_string(),
+        ],
+        materiality_fields: vec![
+            "impact_pct_market_cap".to_string(),
+            "market_cap_before_event".to_string(),
+            "revenue_exposure".to_string(),
+        ],
+        mapping_notes: Some("clean issuer or ticker mapping".to_string()),
+        sample_size_hint: Some(sample_size_hint),
+        liquidity_notes: Some("liquidity filters required".to_string()),
+        evidence: vec![
+            "source-backed observation".to_string(),
+            "timestamped source".to_string(),
+            "public companies".to_string(),
+        ],
+        ..DomainObservation::default()
+    }
+}
+
+fn test_orchestrator_config() -> OrchestratorConfig {
+    let mut config = OrchestratorConfig::default();
+    config.paths.mre_root = ".".to_string();
+    config.automation.run_collectors = false;
+    config.automation.run_probes = false;
+    config.loop_config.max_new_jobs_per_run = 10;
+    config
 }

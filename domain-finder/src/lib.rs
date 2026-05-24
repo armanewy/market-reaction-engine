@@ -4,6 +4,7 @@ pub mod dashboard;
 pub mod io;
 pub mod model;
 pub mod operations;
+pub mod orchestrator;
 pub mod pipeline;
 pub mod probes;
 pub mod registry;

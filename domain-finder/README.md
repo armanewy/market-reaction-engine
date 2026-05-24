@@ -18,6 +18,7 @@ The current implementation includes:
 - Automatic intake document generation for candidates that pass the feasibility/full-lifecycle threshold.
 - Research-ops views for top candidates, per-domain explanations, scan diffs, and alerts.
 - Static local research dashboard generation.
+- Conservative orchestration for discovery, intake generation, job queueing, approval, and prompt generation.
 - Continuous watch mode.
 
 ## Why this exists
@@ -75,6 +76,17 @@ cargo run -- explain --root . --slug cybersecurity_material_incidents_8k
 # Build a static local research dashboard
 cargo run -- dashboard --root . --out artifacts/domain_finder/dashboard
 
+# Queue eligible domains for human approval without launching agents
+cargo run -- orchestrate --root . --once
+
+# Approve exactly one queued job and generate its research prompt
+cargo run -- approve --root . --domain material_customer_contract_loss_8k
+cargo run -- research-prompt --root . --domain material_customer_contract_loss_8k
+
+# Reject or archive queued jobs you do not want active
+cargo run -- reject --root . --domain executive_departure_for_cause_8k --reason "not first priority"
+cargo run -- archive-job --root . --domain regulatory_investigation_8k --reason "deferred"
+
 # Score one domain from a mixed feed
 cargo run -- score \
   --input data/observations/sample_domains.jsonl \
@@ -94,6 +106,9 @@ data/observations/generated/<family>_observations.jsonl
 data/observations/probed/<family>_probe_observations.jsonl
 artifacts/domain_finder/dashboard/index.html
 artifacts/domain_finder/dashboard/dashboard_state.json
+artifacts/orchestrator/jobs/<domain>.json
+artifacts/orchestrator/notifications/latest.md
+artifacts/orchestrator/prompts/<domain>.md
 ```
 
 ## Observation feed format
@@ -180,6 +195,12 @@ domain-finder explain
 domain-finder diff
 domain-finder alerts
 domain-finder dashboard
+domain-finder orchestrate
+domain-finder approve
+domain-finder reject
+domain-finder archive-job
+domain-finder list-jobs
+domain-finder research-prompt
 domain-finder score
 domain-finder make-intake
 ```
@@ -350,12 +371,68 @@ artifacts/domain_finder/dashboard/assets/style.css
 artifacts/domain_finder/dashboard/domains/<domain>.html
 ```
 
+### Orchestration
+
+The orchestrator automates the discovery-to-approval queue, not research
+execution. It is intentionally conservative:
+
+```text
+collect/probe/scan
+-> generate MRE-root intake docs
+-> queue eligible jobs
+-> write local Markdown notification
+-> wait for human approval
+-> generate a research prompt
+```
+
+It does **not** launch Codex agents, update the registry, graduate signals, or
+make trading claims.
+
+```bash
+# Run one orchestration pass
+cargo run -- orchestrate --root . --once
+
+# Run continuously every 15 minutes
+cargo run -- orchestrate --root . --watch --interval-secs 900
+
+# Test the loop without live source fetching
+cargo run -- orchestrate --root . --once --offline-probes
+
+# Inspect queued work
+cargo run -- list-jobs --root .
+
+# Approve one job after intake review
+cargo run -- approve --root . --domain material_customer_contract_loss_8k
+
+# Reject or archive queued work that should not stay active
+cargo run -- reject --root . --domain executive_departure_for_cause_8k --reason "not first priority"
+cargo run -- archive-job --root . --domain regulatory_investigation_8k --reason "deferred"
+
+# Generate the MRE research prompt for an approved job
+cargo run -- research-prompt --root . --domain material_customer_contract_loss_8k
+```
+
+The default config is `config/orchestrator.toml`. By default, the orchestrator
+queues at most three new jobs only when there are no active non-archived jobs.
+This prevents repeated watch runs from accumulating a large backlog while a
+human review is still pending.
+
+Orchestrator outputs:
+
+```text
+artifacts/orchestrator/jobs/<domain>.json
+artifacts/orchestrator/notifications/latest.md
+artifacts/orchestrator/prompts/<domain>.md
+../docs/intakes/generated/<domain>.md
+```
+
 ## Limitations
 
-The collectors and probes are intentionally bounded. They emit source-backed
-candidate-domain observations and source-check metadata, but they do not fetch
-full live event records, build event corpora, run MRE, launch agents, or make
-trading claims.
+The collectors, probes, and orchestrator are intentionally bounded. They emit
+source-backed candidate-domain observations, source-check metadata, intake
+docs, queued jobs, and research prompts, but they do not fetch full live event
+records, build event corpora, run MRE, launch agents, update the registry, or
+make trading claims.
 
 Recommended next milestones:
 
