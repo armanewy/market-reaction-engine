@@ -805,6 +805,12 @@ fn review_jobs_can_generate_prompt_for_approved_live_candidate() {
         JobStatus::PromptGenerated
     );
     assert!(reviewed.prompts_generated[0].prompt_path.is_some());
+    let good_news = std::fs::read_to_string(
+        temp_root.join("artifacts/orchestrator/notifications/good_news.md"),
+    )
+    .unwrap();
+    assert!(good_news.contains("research_ready"));
+    assert!(good_news.contains("live_source_candidate_8k"));
 
     std::fs::remove_dir_all(&temp_root).unwrap();
 }
@@ -903,6 +909,12 @@ fn safe_registry_update_auto_applies_but_candidate_signal_does_not() {
     let registry_text =
         std::fs::read_to_string(temp_root.join("docs/DOMAIN_RESEARCH_REGISTRY.md")).unwrap();
     assert!(!registry_text.contains("index_rebalance_events | candidate_paper_signal"));
+    let good_news = std::fs::read_to_string(
+        temp_root.join("artifacts/orchestrator/notifications/good_news.md"),
+    )
+    .unwrap();
+    assert!(good_news.contains("candidate_paper_signal"));
+    assert!(good_news.contains("index_rebalance_events"));
 
     std::fs::remove_dir_all(&temp_root).unwrap();
 }
@@ -983,6 +995,11 @@ fn dashboard_build_classifies_canonical_registry_state() {
         "# Domain Finder Orchestrator Notification\n\n- new jobs queued: `1`\n",
     )
     .unwrap();
+    std::fs::write(
+        notifications_dir.join("good_news.md"),
+        "# Domain Finder Good-News Notifications\n\n- actionable events: `1`\n\n## Events\n\n- `ferc_utility_enforcement_actions`: `research_ready`; prompt generated\n",
+    )
+    .unwrap();
     let history_dir = temp_root.join("artifacts/orchestrator/history");
     std::fs::create_dir_all(&history_dir).unwrap();
     std::fs::write(history_dir.join("20260524T193332Z_jobs.json"), "{}").unwrap();
@@ -1032,6 +1049,14 @@ fn dashboard_build_classifies_canonical_registry_state() {
         output.state.orchestrator.jobs[0].domain,
         "ferc_utility_enforcement_actions"
     );
+    assert!(output.state.orchestrator.good_news_path.is_some());
+    assert!(output
+        .state
+        .orchestrator
+        .good_news_excerpt
+        .as_deref()
+        .unwrap()
+        .contains("research_ready"));
 
     let html = std::fs::read_to_string(&output.index_path).unwrap();
     assert!(html.contains("Graduated Signals"));
@@ -1039,7 +1064,9 @@ fn dashboard_build_classifies_canonical_registry_state() {
     assert!(html.contains("Orchestrator"));
     assert!(html.contains("ferc_utility_enforcement_actions"));
     assert!(html.contains("notification-card"));
+    assert!(html.contains("good-news-card"));
     assert!(html.contains("<h3>Domain Finder Orchestrator Notification</h3>"));
+    assert!(html.contains("<h3>Domain Finder Good-News Notifications</h3>"));
     assert!(html.contains("<li>new jobs queued: <code>1</code></li>"));
 
     let state_json = std::fs::read_to_string(&output.state_path).unwrap();

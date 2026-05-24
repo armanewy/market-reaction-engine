@@ -112,6 +112,12 @@ cargo run -- archive-job --root . --domain regulatory_investigation_8k --reason 
 cargo run -- job-history --root .
 cargo run -- notification-digest --root .
 
+# Run the full unattended local loop once
+powershell -ExecutionPolicy Bypass -File scripts/run_orchestrator_loop.ps1
+
+# Register the unattended loop in Windows Task Scheduler
+powershell -ExecutionPolicy Bypass -File scripts/install_task_scheduler.ps1 -IntervalMinutes 60
+
 # Score one domain from a mixed feed
 cargo run -- score \
   --input data/observations/sample_domains.jsonl \
@@ -134,6 +140,7 @@ artifacts/domain_finder/dashboard/dashboard_state.json
 artifacts/orchestrator/jobs/<domain>.json
 artifacts/orchestrator/reviews/<domain>.json
 artifacts/orchestrator/notifications/latest.md
+artifacts/orchestrator/notifications/good_news.md
 artifacts/orchestrator/prompts/<domain>.md
 artifacts/orchestrator/domain_feedback.jsonl
 ```
@@ -291,10 +298,35 @@ cargo run -- review-jobs --root . --run-approved
 cargo run -- dashboard --root . --out artifacts/domain_finder/dashboard
 ```
 
+The checked-in runner script wraps that sequence and logs each execution:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/run_orchestrator_loop.ps1
+```
+
+To register it as a durable local scheduled task:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/install_task_scheduler.ps1 -IntervalMinutes 60
+```
+
+The installer refuses intervals below 15 minutes. More frequent polling usually
+does not cast a wider research net; better source probes and observation feeds do.
+
 This automates routine approval/rejection and prompt generation while keeping
 positive-survival claims gated. Safe terminal failures can be handled by
 `complete-job`; candidate paper signals should still be notification-only unless
 you explicitly change registry-update policy.
+
+Good-news events are separated from routine digests:
+
+```text
+artifacts/orchestrator/notifications/good_news.md
+```
+
+That file is intended for prompt-ready jobs, positive-survival statuses, and
+operational issues such as stale or failed runners. Routine parser/mapping/
+underpowered failures stay in the normal digest and dashboard.
 
 ### Probe commands
 

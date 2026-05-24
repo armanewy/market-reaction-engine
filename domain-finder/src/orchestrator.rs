@@ -64,6 +64,8 @@ pub struct OrchestratorPaths {
     pub jobs_dir: String,
     #[serde(default = "default_notifications_dir")]
     pub notifications_dir: String,
+    #[serde(default = "default_good_news_path")]
+    pub good_news_path: String,
     #[serde(default = "default_prompts_dir")]
     pub prompts_dir: String,
     #[serde(default = "default_feedback_path")]
@@ -83,6 +85,7 @@ impl Default for OrchestratorPaths {
             domain_finder_root: default_domain_finder_root(),
             jobs_dir: default_jobs_dir(),
             notifications_dir: default_notifications_dir(),
+            good_news_path: default_good_news_path(),
             prompts_dir: default_prompts_dir(),
             feedback_path: default_feedback_path(),
             history_dir: default_history_dir(),
@@ -602,7 +605,7 @@ pub fn run_orchestrator_once(
     if !options.dry_run {
         write_string(&notification_path, &notification)?;
         write_history_snapshot(&paths, &current_jobs)?;
-        write_notification_digest(&paths, &current_jobs)?;
+        write_notification_outputs(&paths, &current_jobs, orchestrator_config)?;
         refresh_dashboard(root, orchestrator_config);
     }
 
@@ -673,7 +676,7 @@ pub fn review_jobs(
     if !options.dry_run {
         let current_jobs = load_jobs(&paths.jobs_dir)?;
         write_history_snapshot(&paths, &current_jobs)?;
-        write_notification_digest(&paths, &current_jobs)?;
+        write_notification_outputs(&paths, &current_jobs, config)?;
         write_review_digest(&paths, &reviews)?;
         refresh_dashboard(root, config);
     }
@@ -751,7 +754,7 @@ pub fn complete_job(
     }
     let jobs = load_jobs(&paths.jobs_dir)?;
     write_history_snapshot(&paths, &jobs)?;
-    write_notification_digest(&paths, &jobs)?;
+    write_notification_outputs(&paths, &jobs, config)?;
     Ok(result)
 }
 
@@ -792,7 +795,7 @@ pub fn run_approved_jobs(
 
     let current_jobs = load_jobs(&paths.jobs_dir)?;
     write_history_snapshot(&paths, &current_jobs)?;
-    write_notification_digest(&paths, &current_jobs)?;
+    write_notification_outputs(&paths, &current_jobs, config)?;
     Ok(updated)
 }
 
@@ -814,7 +817,7 @@ pub fn notification_digest(root: &Path, config: &OrchestratorConfig) -> anyhow::
     let paths = ResolvedPaths::new(root, config);
     ensure_orchestrator_dirs(&paths)?;
     let jobs = load_jobs(&paths.jobs_dir)?;
-    write_notification_digest(&paths, &jobs)
+    write_notification_outputs(&paths, &jobs, config)
 }
 
 fn update_terminal_job(
@@ -1227,6 +1230,28 @@ fn write_notification_digest(
     let path = paths.notifications_dir.join("digest.md");
     write_string(&path, &notification_digest_markdown(jobs))?;
     Ok(path)
+}
+
+fn write_notification_outputs(
+    paths: &ResolvedPaths,
+    jobs: &[OrchestratorJob],
+    config: &OrchestratorConfig,
+) -> anyhow::Result<PathBuf> {
+    let digest_path = write_notification_digest(paths, jobs)?;
+    write_good_news_digest(paths, jobs, config)?;
+    Ok(digest_path)
+}
+
+fn write_good_news_digest(
+    paths: &ResolvedPaths,
+    jobs: &[OrchestratorJob],
+    config: &OrchestratorConfig,
+) -> anyhow::Result<PathBuf> {
+    if let Some(parent) = paths.good_news_path.parent() {
+        ensure_dir(parent)?;
+    }
+    write_string(&paths.good_news_path, &good_news_markdown(jobs, config))?;
+    Ok(paths.good_news_path.clone())
 }
 
 fn write_review_artifact(paths: &ResolvedPaths, review: &JobReview) -> anyhow::Result<()> {
@@ -1826,6 +1851,7 @@ struct ResolvedPaths {
     history_dir: PathBuf,
     dashboard_out_dir: PathBuf,
     reviews_dir: PathBuf,
+    good_news_path: PathBuf,
 }
 
 impl ResolvedPaths {
@@ -1840,6 +1866,7 @@ impl ResolvedPaths {
             history_dir: rel(&domain_finder_root, &config.paths.history_dir),
             dashboard_out_dir: rel(&domain_finder_root, &config.paths.dashboard_out_dir),
             reviews_dir: rel(&domain_finder_root, &config.paths.reviews_dir),
+            good_news_path: rel(&domain_finder_root, &config.paths.good_news_path),
         }
     }
 }
@@ -1895,6 +1922,9 @@ fn default_jobs_dir() -> String {
 }
 fn default_notifications_dir() -> String {
     "artifacts/orchestrator/notifications".to_string()
+}
+fn default_good_news_path() -> String {
+    "artifacts/orchestrator/notifications/good_news.md".to_string()
 }
 fn default_prompts_dir() -> String {
     "artifacts/orchestrator/prompts".to_string()
@@ -2051,6 +2081,91 @@ fn notification_digest_markdown(jobs: &[OrchestratorJob]) -> String {
         }
     }
     out
+}
+
+fn good_news_markdown(jobs: &[OrchestratorJob], config: &OrchestratorConfig) -> String {
+    let mut out = String::new();
+    out.push_str("# Domain Finder Good-News Notifications\n\n");
+    out.push_str(&format!("Generated: `{}`\n\n", Utc::now().to_rfc3339()));
+    out.push_str(
+        "This file contains only prompt-ready, survivor, or operational-attention events.\n\n",
+    );
+
+    let mut events = Vec::new();
+    for job in jobs {
+        if let Some(event) = good_news_event(job, config) {
+            events.push(event);
+        }
+    }
+
+    out.push_str(&format!("- actionable events: `{}`\n\n", events.len()));
+    out.push_str("## Events\n\n");
+    if events.is_empty() {
+        out.push_str("- none\n");
+    } else {
+        for event in events {
+            out.push_str(&format!(
+                "- `{}`: `{}`; {}\n",
+                event.domain, event.kind, event.message
+            ));
+        }
+    }
+    out
+}
+
+struct GoodNewsEvent {
+    domain: String,
+    kind: String,
+    message: String,
+}
+
+fn good_news_event(job: &OrchestratorJob, config: &OrchestratorConfig) -> Option<GoodNewsEvent> {
+    if matches!(job.status, JobStatus::Failed | JobStatus::Stale) {
+        return Some(GoodNewsEvent {
+            domain: job.domain.clone(),
+            kind: "operational_attention".to_string(),
+            message: job
+                .terminal_reason
+                .clone()
+                .unwrap_or_else(|| job.next_action.clone()),
+        });
+    }
+
+    if matches!(
+        job.status,
+        JobStatus::Approved | JobStatus::PromptGenerated | JobStatus::Running
+    ) && notification_enabled(config, "new_high_score_domain")
+    {
+        return Some(GoodNewsEvent {
+            domain: job.domain.clone(),
+            kind: "research_ready".to_string(),
+            message: job.next_action.clone(),
+        });
+    }
+
+    let final_status = job.final_status.as_deref()?;
+    if should_notify_completion(final_status, config) {
+        return Some(GoodNewsEvent {
+            domain: job.domain.clone(),
+            kind: normalize_status(final_status),
+            message: job
+                .terminal_reason
+                .clone()
+                .unwrap_or_else(|| job.next_action.clone()),
+        });
+    }
+
+    None
+}
+
+fn notification_enabled(config: &OrchestratorConfig, event: &str) -> bool {
+    let normalized = normalize_status(event);
+    config
+        .notifications
+        .notify_on
+        .iter()
+        .map(|item| normalize_status(item))
+        .any(|item| item == normalized)
 }
 
 fn review_digest_markdown(reviews: &[JobReview]) -> String {

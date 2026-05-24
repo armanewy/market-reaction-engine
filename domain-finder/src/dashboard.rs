@@ -95,6 +95,7 @@ pub struct OrchestratorDashboard {
     pub jobs_path: Option<String>,
     pub latest_notification_path: Option<String>,
     pub digest_path: Option<String>,
+    pub good_news_path: Option<String>,
     pub history_count: usize,
     pub active_jobs: usize,
     pub awaiting_approval_jobs: usize,
@@ -103,6 +104,7 @@ pub struct OrchestratorDashboard {
     pub completed_jobs: usize,
     pub jobs: Vec<DashboardJob>,
     pub latest_notification_excerpt: Option<String>,
+    pub good_news_excerpt: Option<String>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, Default)]
@@ -530,6 +532,17 @@ fn orchestrator_section(state: &DashboardState) -> String {
             )
         })
         .unwrap_or_default();
+    let good_news = state
+        .orchestrator
+        .good_news_excerpt
+        .as_ref()
+        .map(|text| {
+            format!(
+                r#"<div class="notification-card good-news-card">{}</div>"#,
+                notification_markdown_html(text)
+            )
+        })
+        .unwrap_or_default();
 
     format!(
         r#"<section class="band">
@@ -562,7 +575,9 @@ fn orchestrator_section(state: &DashboardState) -> String {
     <p><strong>Jobs</strong>: {jobs_path}</p>
     <p><strong>Latest</strong>: {latest_path}</p>
     <p><strong>Digest</strong>: {digest_path}</p>
+    <p><strong>Good News</strong>: {good_news_path}</p>
   </div>
+  {good_news}
   {excerpt}
 </section>"#,
         active = state.orchestrator.active_jobs,
@@ -575,6 +590,8 @@ fn orchestrator_section(state: &DashboardState) -> String {
         jobs_path = optional_path(&state.orchestrator.jobs_path),
         latest_path = optional_path(&state.orchestrator.latest_notification_path),
         digest_path = optional_path(&state.orchestrator.digest_path),
+        good_news_path = optional_path(&state.orchestrator.good_news_path),
+        good_news = good_news,
         excerpt = excerpt
     )
 }
@@ -952,6 +969,10 @@ fn orchestrator_state(root: &Path) -> anyhow::Result<OrchestratorDashboard> {
         .as_ref()
         .map(|path| path.join("digest.md"))
         .filter(|path| path.exists());
+    let good_news_path = notifications_dir
+        .as_ref()
+        .map(|path| path.join("good_news.md"))
+        .filter(|path| path.exists());
     let history_count = history_dir
         .as_ref()
         .map(|path| count_json_files(path))
@@ -961,11 +982,18 @@ fn orchestrator_state(root: &Path) -> anyhow::Result<OrchestratorDashboard> {
         .as_ref()
         .map(|path| notification_excerpt(path))
         .transpose()?;
+    let good_news_excerpt = good_news_path
+        .as_ref()
+        .map(|path| notification_excerpt(path))
+        .transpose()?;
 
     Ok(OrchestratorDashboard {
         jobs_path: jobs_dir.as_ref().map(|path| path.display().to_string()),
         latest_notification_path: latest_path.as_ref().map(|path| path.display().to_string()),
         digest_path: digest_path.as_ref().map(|path| path.display().to_string()),
+        good_news_path: good_news_path
+            .as_ref()
+            .map(|path| path.display().to_string()),
         history_count,
         active_jobs: jobs
             .iter()
@@ -988,6 +1016,7 @@ fn orchestrator_state(root: &Path) -> anyhow::Result<OrchestratorDashboard> {
         completed_jobs: jobs.iter().filter(|job| job.status == "completed").count(),
         jobs,
         latest_notification_excerpt,
+        good_news_excerpt,
     })
 }
 
@@ -1366,6 +1395,10 @@ th { color: var(--muted); font-weight: 600; font-size: 12px; }
   padding: 16px;
   color: #344054;
   margin-top: 12px;
+}
+.good-news-card {
+  background: #f4fbf7;
+  border-color: #b7dfca;
 }
 .notification-card h3 {
   margin: 0 0 8px;
