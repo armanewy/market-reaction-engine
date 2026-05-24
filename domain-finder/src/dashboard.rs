@@ -33,6 +33,7 @@ pub struct DashboardState {
     pub stop_reasons: Vec<StopReasonBucket>,
     pub infrastructure: Vec<InfrastructureItem>,
     pub domain_finder: DomainFinderDashboard,
+    pub orchestrator: OrchestratorDashboard,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, Default)]
@@ -89,6 +90,34 @@ pub struct DomainFinderDashboard {
     pub feasibility_only_domains: Vec<String>,
 }
 
+#[derive(Debug, Clone, Serialize, Deserialize, Default)]
+pub struct OrchestratorDashboard {
+    pub jobs_path: Option<String>,
+    pub latest_notification_path: Option<String>,
+    pub digest_path: Option<String>,
+    pub history_count: usize,
+    pub active_jobs: usize,
+    pub awaiting_approval_jobs: usize,
+    pub running_jobs: usize,
+    pub stale_jobs: usize,
+    pub completed_jobs: usize,
+    pub jobs: Vec<DashboardJob>,
+    pub latest_notification_excerpt: Option<String>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, Default)]
+pub struct DashboardJob {
+    pub domain: String,
+    pub status: String,
+    pub score: u8,
+    pub scope: String,
+    pub next_action: String,
+    pub updated_at: String,
+    pub prompt_path: Option<String>,
+    pub final_status: Option<String>,
+    pub report_path: Option<String>,
+}
+
 pub fn build_dashboard(options: &DashboardOptions) -> anyhow::Result<DashboardOutput> {
     let root = absolute_or_current(&options.root)?;
     let out_dir = resolve_path(&root, &options.out_dir);
@@ -104,6 +133,7 @@ pub fn build_dashboard(options: &DashboardOptions) -> anyhow::Result<DashboardOu
         .map(|path| load_candidate_json(path))
         .transpose()?
         .unwrap_or_default();
+    let orchestrator = orchestrator_state(&root)?;
 
     let report_files = collect_report_files(&root)?;
     let state = dashboard_state_from_parts(
@@ -113,6 +143,7 @@ pub fn build_dashboard(options: &DashboardOptions) -> anyhow::Result<DashboardOu
         &candidates,
         &report_files,
         &out_dir,
+        orchestrator,
     );
 
     write_dashboard_files(&out_dir, &state)?;
@@ -131,6 +162,7 @@ pub fn dashboard_state_from_parts(
     candidates: &[DomainCandidate],
     report_files: &[PathBuf],
     out_dir: &Path,
+    orchestrator: OrchestratorDashboard,
 ) -> DashboardState {
     let mut domains = registry
         .entries()
@@ -155,6 +187,7 @@ pub fn dashboard_state_from_parts(
         stop_reasons,
         infrastructure: infrastructure_items(),
         domain_finder,
+        orchestrator,
     }
 }
 
@@ -237,6 +270,7 @@ fn index_html(state: &DashboardState) -> String {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="60">
   <title>MRE Research Command Center</title>
   <link rel="stylesheet" href="assets/style.css">
 </head>
@@ -251,6 +285,7 @@ fn index_html(state: &DashboardState) -> String {
   <main>
     {summary}
     {canonical}
+    {orchestrator}
     {domain_board}
     {stop_reasons}
     {finder}
@@ -262,6 +297,7 @@ fn index_html(state: &DashboardState) -> String {
         generated = escape(&state.generated_at),
         summary = summary_cards(&state.summary),
         canonical = canonical_panel(),
+        orchestrator = orchestrator_section(state),
         domain_board = domain_board(state),
         stop_reasons = stop_reason_section(state),
         finder = domain_finder_section(state),
@@ -456,6 +492,85 @@ fn stop_reason_section(state: &DashboardState) -> String {
   </div>
 </section>"#,
         rows = rows
+    )
+}
+
+fn orchestrator_section(state: &DashboardState) -> String {
+    let mut rows = String::new();
+    for job in &state.orchestrator.jobs {
+        rows.push_str(&format!(
+            r#"<tr>
+  <td><code>{}</code></td>
+  <td><span class="status status-job">{}</span></td>
+  <td>{}</td>
+  <td>{}</td>
+  <td>{}</td>
+  <td>{}</td>
+</tr>"#,
+            escape(&job.domain),
+            escape(&job.status),
+            job.score,
+            escape(&job.scope),
+            escape(&job.next_action),
+            escape(&job.updated_at)
+        ));
+    }
+    if rows.is_empty() {
+        rows.push_str(r#"<tr><td colspan="6">No orchestrator jobs found.</td></tr>"#);
+    }
+
+    let excerpt = state
+        .orchestrator
+        .latest_notification_excerpt
+        .as_ref()
+        .map(|text| format!(r#"<pre class="note">{}</pre>"#, escape(text)))
+        .unwrap_or_default();
+
+    format!(
+        r#"<section class="band">
+  <div class="section-heading">
+    <h2>Orchestrator</h2>
+    <span>{active} active, {awaiting} awaiting approval</span>
+  </div>
+  <div class="orchestrator-grid">
+    <div class="metric small"><span>{running}</span><label>Running / Prompted</label></div>
+    <div class="metric small"><span>{stale}</span><label>Stale</label></div>
+    <div class="metric small"><span>{completed}</span><label>Completed</label></div>
+    <div class="metric small"><span>{history}</span><label>History Snapshots</label></div>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Domain</th>
+          <th>Status</th>
+          <th>Score</th>
+          <th>Scope</th>
+          <th>Next Action</th>
+          <th>Updated</th>
+        </tr>
+      </thead>
+      <tbody>{rows}</tbody>
+    </table>
+  </div>
+  <div class="path-list">
+    <p><strong>Jobs</strong>: {jobs_path}</p>
+    <p><strong>Latest</strong>: {latest_path}</p>
+    <p><strong>Digest</strong>: {digest_path}</p>
+  </div>
+  {excerpt}
+</section>"#,
+        active = state.orchestrator.active_jobs,
+        awaiting = state.orchestrator.awaiting_approval_jobs,
+        running = state.orchestrator.running_jobs,
+        stale = state.orchestrator.stale_jobs,
+        completed = state.orchestrator.completed_jobs,
+        history = state.orchestrator.history_count,
+        rows = rows,
+        jobs_path = optional_path(&state.orchestrator.jobs_path),
+        latest_path = optional_path(&state.orchestrator.latest_notification_path),
+        digest_path = optional_path(&state.orchestrator.digest_path),
+        excerpt = excerpt
     )
 }
 
@@ -814,6 +929,133 @@ fn load_candidate_json(path: &Path) -> anyhow::Result<Vec<DomainCandidate>> {
     Ok(serde_json::from_str(&text)?)
 }
 
+fn orchestrator_state(root: &Path) -> anyhow::Result<OrchestratorDashboard> {
+    let jobs_dir = resolve_orchestrator_path(root, "jobs");
+    let notifications_dir = resolve_orchestrator_path(root, "notifications");
+    let history_dir = resolve_orchestrator_path(root, "history");
+
+    let jobs = jobs_dir
+        .as_ref()
+        .map(|path| load_dashboard_jobs(path))
+        .transpose()?
+        .unwrap_or_default();
+    let latest_path = notifications_dir
+        .as_ref()
+        .map(|path| path.join("latest.md"))
+        .filter(|path| path.exists());
+    let digest_path = notifications_dir
+        .as_ref()
+        .map(|path| path.join("digest.md"))
+        .filter(|path| path.exists());
+    let history_count = history_dir
+        .as_ref()
+        .map(|path| count_json_files(path))
+        .transpose()?
+        .unwrap_or(0);
+    let latest_notification_excerpt = latest_path
+        .as_ref()
+        .map(|path| notification_excerpt(path))
+        .transpose()?;
+
+    Ok(OrchestratorDashboard {
+        jobs_path: jobs_dir.as_ref().map(|path| path.display().to_string()),
+        latest_notification_path: latest_path.as_ref().map(|path| path.display().to_string()),
+        digest_path: digest_path.as_ref().map(|path| path.display().to_string()),
+        history_count,
+        active_jobs: jobs
+            .iter()
+            .filter(|job| !is_terminal_job_status(&job.status))
+            .count(),
+        awaiting_approval_jobs: jobs
+            .iter()
+            .filter(|job| job.status == "awaiting_approval")
+            .count(),
+        running_jobs: jobs
+            .iter()
+            .filter(|job| {
+                matches!(
+                    job.status.as_str(),
+                    "running" | "prompt_generated" | "approved"
+                )
+            })
+            .count(),
+        stale_jobs: jobs.iter().filter(|job| job.status == "stale").count(),
+        completed_jobs: jobs.iter().filter(|job| job.status == "completed").count(),
+        jobs,
+        latest_notification_excerpt,
+    })
+}
+
+fn resolve_orchestrator_path(root: &Path, leaf: &str) -> Option<PathBuf> {
+    [
+        root.join("artifacts/orchestrator").join(leaf),
+        root.join("domain-finder/artifacts/orchestrator").join(leaf),
+    ]
+    .into_iter()
+    .find(|path| path.exists())
+}
+
+fn load_dashboard_jobs(path: &Path) -> anyhow::Result<Vec<DashboardJob>> {
+    let mut jobs = Vec::new();
+    for entry in fs::read_dir(path)? {
+        let entry = entry?;
+        let path = entry.path();
+        let file_name = path
+            .file_name()
+            .and_then(|name| name.to_str())
+            .unwrap_or("");
+        if path.extension().and_then(|s| s.to_str()) != Some("json")
+            || file_name.ends_with(".heartbeat.json")
+        {
+            continue;
+        }
+        let text = fs::read_to_string(&path)?;
+        let value: serde_json::Value = serde_json::from_str(&text)?;
+        jobs.push(DashboardJob {
+            domain: json_string(&value, "domain"),
+            status: json_string(&value, "status"),
+            score: value.get("score").and_then(|v| v.as_u64()).unwrap_or(0) as u8,
+            scope: json_string(&value, "scope"),
+            next_action: json_string(&value, "next_action"),
+            updated_at: json_string(&value, "updated_at"),
+            prompt_path: json_optional_string(&value, "prompt_path"),
+            final_status: json_optional_string(&value, "final_status"),
+            report_path: json_optional_string(&value, "report_path"),
+        });
+    }
+    jobs.sort_by(|a, b| a.domain.cmp(&b.domain));
+    Ok(jobs)
+}
+
+fn count_json_files(path: &Path) -> anyhow::Result<usize> {
+    Ok(fs::read_dir(path)?
+        .filter_map(|entry| entry.ok().map(|entry| entry.path()))
+        .filter(|path| path.extension().and_then(|s| s.to_str()) == Some("json"))
+        .count())
+}
+
+fn notification_excerpt(path: &Path) -> anyhow::Result<String> {
+    let text = fs::read_to_string(path)?;
+    Ok(text
+        .lines()
+        .filter(|line| !line.trim().is_empty())
+        .take(12)
+        .collect::<Vec<_>>()
+        .join("\n"))
+}
+
+fn json_string(value: &serde_json::Value, key: &str) -> String {
+    json_optional_string(value, key).unwrap_or_default()
+}
+
+fn json_optional_string(value: &serde_json::Value, key: &str) -> Option<String> {
+    value.get(key).and_then(|v| v.as_str()).map(str::to_string)
+}
+
+fn is_terminal_job_status(status: &str) -> bool {
+    matches!(status, "completed" | "rejected" | "archived" | "failed")
+}
+
 fn collect_report_files(root: &Path) -> anyhow::Result<Vec<PathBuf>> {
     let mut files = Vec::new();
     for base in [root.join("artifacts"), root.join("domain-finder/artifacts")] {
@@ -909,6 +1151,13 @@ fn optional(value: &Option<String>) -> String {
         .unwrap_or_else(|| "-".to_string())
 }
 
+fn optional_path(value: &Option<String>) -> String {
+    value
+        .as_ref()
+        .map(|v| format!("<code>{}</code>", escape(v)))
+        .unwrap_or_else(|| "-".to_string())
+}
+
 fn list_inline(items: &[String]) -> String {
     if items.is_empty() {
         "-".to_string()
@@ -977,6 +1226,12 @@ footer { padding: 24px 32px; color: var(--muted); }
   gap: 12px;
   margin-bottom: 18px;
 }
+.orchestrator-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(120px, 1fr));
+  gap: 12px;
+  margin-bottom: 18px;
+}
 .metric {
   background: var(--panel);
   border: 1px solid var(--line);
@@ -984,7 +1239,9 @@ footer { padding: 24px 32px; color: var(--muted); }
   padding: 14px;
   min-height: 86px;
 }
+.metric.small { min-height: 72px; }
 .metric span { display: block; font-size: 28px; font-weight: 700; }
+.metric.small span { font-size: 22px; }
 .metric label { display: block; color: var(--muted); margin-top: 4px; }
 .band {
   background: var(--panel);
@@ -1035,6 +1292,19 @@ th { color: var(--muted); font-weight: 600; font-size: 12px; }
 .status-frozen { color: var(--red); background: #ffe9e9; }
 .status-candidate { color: var(--green); background: #e5f6ed; }
 .status-graduated { color: var(--violet); background: #efecff; }
+.status-job { color: #344054; background: #eef2f6; }
+.path-list { color: var(--muted); font-size: 13px; margin-top: 12px; }
+.path-list p { margin-bottom: 6px; }
+.note {
+  white-space: pre-wrap;
+  overflow-x: auto;
+  background: #f8fafc;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px;
+  color: #344054;
+  font-size: 12px;
+}
 .two-col, .finder-grid, .detail-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -1053,14 +1323,14 @@ code {
 .funnel li, .timeline li { margin-bottom: 6px; }
 .report-list { margin-bottom: 0; padding-left: 18px; }
 @media (max-width: 1000px) {
-  .summary-grid { grid-template-columns: repeat(3, minmax(120px, 1fr)); }
+  .summary-grid, .orchestrator-grid { grid-template-columns: repeat(3, minmax(120px, 1fr)); }
   .two-col, .finder-grid, .detail-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
   .topbar { display: block; padding: 22px 18px 16px; }
   main { padding: 18px; }
   .band { margin-left: -18px; margin-right: -18px; padding: 18px; }
-  .summary-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .summary-grid, .orchestrator-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   table { min-width: 760px; }
 }
 "#;

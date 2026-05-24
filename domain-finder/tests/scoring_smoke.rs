@@ -815,6 +815,38 @@ fn dashboard_build_classifies_canonical_registry_state() {
 "#,
     )
     .unwrap();
+    let jobs_dir = temp_root.join("artifacts/orchestrator/jobs");
+    std::fs::create_dir_all(&jobs_dir).unwrap();
+    std::fs::write(
+        jobs_dir.join("ferc_utility_enforcement_actions.json"),
+        r#"{
+  "domain": "ferc_utility_enforcement_actions",
+  "title": "FERC Utility Enforcement Actions",
+  "status": "awaiting_approval",
+  "score": 24,
+  "decision": "full_lifecycle",
+  "scope": "full_lifecycle",
+  "intake_path": "docs/intakes/generated/ferc_utility_enforcement_actions.md",
+  "prompt_path": null,
+  "created_at": "2026-05-24T19:33:32Z",
+  "updated_at": "2026-05-24T19:33:32Z",
+  "next_action": "review intake and approve research run",
+  "registry_status": null,
+  "registry_stop_reason": null,
+  "registry_revisit_trigger": null
+}"#,
+    )
+    .unwrap();
+    let notifications_dir = temp_root.join("artifacts/orchestrator/notifications");
+    std::fs::create_dir_all(&notifications_dir).unwrap();
+    std::fs::write(
+        notifications_dir.join("latest.md"),
+        "# Domain Finder Orchestrator Notification\n\n- new jobs queued: `1`\n",
+    )
+    .unwrap();
+    let history_dir = temp_root.join("artifacts/orchestrator/history");
+    std::fs::create_dir_all(&history_dir).unwrap();
+    std::fs::write(history_dir.join("20260524T193332Z_jobs.json"), "{}").unwrap();
 
     let output = build_dashboard(&DashboardOptions {
         root: temp_root.clone(),
@@ -855,14 +887,23 @@ fn dashboard_build_classifies_canonical_registry_state() {
     assert_eq!(output.state.summary.graduated_signals, 0);
     assert_eq!(output.state.summary.live_candidates, 0);
     assert_eq!(output.state.summary.monitors, 1);
+    assert_eq!(output.state.orchestrator.awaiting_approval_jobs, 1);
+    assert_eq!(output.state.orchestrator.history_count, 1);
+    assert_eq!(
+        output.state.orchestrator.jobs[0].domain,
+        "ferc_utility_enforcement_actions"
+    );
 
     let html = std::fs::read_to_string(&output.index_path).unwrap();
     assert!(html.contains("Graduated Signals"));
     assert!(html.contains("insider_purchase_clusters"));
+    assert!(html.contains("Orchestrator"));
+    assert!(html.contains("ferc_utility_enforcement_actions"));
 
     let state_json = std::fs::read_to_string(&output.state_path).unwrap();
     let parsed: serde_json::Value = serde_json::from_str(&state_json).unwrap();
     assert_eq!(parsed["summary"]["monitors"], 1);
+    assert_eq!(parsed["orchestrator"]["awaiting_approval_jobs"], 1);
 
     std::fs::remove_dir_all(&temp_root).unwrap();
 }
