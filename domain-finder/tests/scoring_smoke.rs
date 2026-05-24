@@ -899,6 +899,9 @@ fn dashboard_build_classifies_canonical_registry_state() {
     assert!(html.contains("insider_purchase_clusters"));
     assert!(html.contains("Orchestrator"));
     assert!(html.contains("ferc_utility_enforcement_actions"));
+    assert!(html.contains("notification-card"));
+    assert!(html.contains("<h3>Domain Finder Orchestrator Notification</h3>"));
+    assert!(html.contains("<li>new jobs queued: <code>1</code></li>"));
 
     let state_json = std::fs::read_to_string(&output.state_path).unwrap();
     let parsed: serde_json::Value = serde_json::from_str(&state_json).unwrap();

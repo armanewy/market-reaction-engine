@@ -523,7 +523,12 @@ fn orchestrator_section(state: &DashboardState) -> String {
         .orchestrator
         .latest_notification_excerpt
         .as_ref()
-        .map(|text| format!(r#"<pre class="note">{}</pre>"#, escape(text)))
+        .map(|text| {
+            format!(
+                r#"<div class="notification-card">{}</div>"#,
+                notification_markdown_html(text)
+            )
+        })
         .unwrap_or_default();
 
     format!(
@@ -1039,9 +1044,68 @@ fn notification_excerpt(path: &Path) -> anyhow::Result<String> {
     Ok(text
         .lines()
         .filter(|line| !line.trim().is_empty())
-        .take(12)
+        .take(40)
         .collect::<Vec<_>>()
         .join("\n"))
+}
+
+fn notification_markdown_html(markdown: &str) -> String {
+    let mut html = String::new();
+    let mut in_list = false;
+
+    for line in markdown.lines() {
+        let line = line.trim();
+        if line.is_empty() {
+            continue;
+        }
+
+        if let Some(text) = line.strip_prefix("# ") {
+            if in_list {
+                html.push_str("</ul>");
+                in_list = false;
+            }
+            html.push_str(&format!("<h3>{}</h3>", inline_markdown_html(text)));
+        } else if let Some(text) = line.strip_prefix("## ") {
+            if in_list {
+                html.push_str("</ul>");
+                in_list = false;
+            }
+            html.push_str(&format!("<h4>{}</h4>", inline_markdown_html(text)));
+        } else if let Some(text) = line.strip_prefix("- ") {
+            if !in_list {
+                html.push_str("<ul>");
+                in_list = true;
+            }
+            html.push_str(&format!("<li>{}</li>", inline_markdown_html(text)));
+        } else {
+            if in_list {
+                html.push_str("</ul>");
+                in_list = false;
+            }
+            html.push_str(&format!("<p>{}</p>", inline_markdown_html(line)));
+        }
+    }
+
+    if in_list {
+        html.push_str("</ul>");
+    }
+    html
+}
+
+fn inline_markdown_html(text: &str) -> String {
+    let mut out = String::new();
+    let mut code = false;
+    for part in text.split('`') {
+        if code {
+            out.push_str("<code>");
+            out.push_str(&escape(part));
+            out.push_str("</code>");
+        } else {
+            out.push_str(&escape(part));
+        }
+        code = !code;
+    }
+    out
 }
 
 fn json_string(value: &serde_json::Value, key: &str) -> String {
@@ -1295,15 +1359,32 @@ th { color: var(--muted); font-weight: 600; font-size: 12px; }
 .status-job { color: #344054; background: #eef2f6; }
 .path-list { color: var(--muted); font-size: 13px; margin-top: 12px; }
 .path-list p { margin-bottom: 6px; }
-.note {
-  white-space: pre-wrap;
-  overflow-x: auto;
+.notification-card {
   background: #f8fafc;
   border: 1px solid var(--line);
   border-radius: 8px;
-  padding: 12px;
+  padding: 16px;
   color: #344054;
-  font-size: 12px;
+  margin-top: 12px;
+}
+.notification-card h3 {
+  margin: 0 0 8px;
+  font-size: 15px;
+}
+.notification-card h4 {
+  margin: 14px 0 6px;
+  font-size: 13px;
+}
+.notification-card p {
+  margin: 6px 0;
+}
+.notification-card ul {
+  margin: 6px 0 0;
+  padding-left: 18px;
+}
+.notification-card li {
+  margin-bottom: 5px;
+  overflow-wrap: anywhere;
 }
 .two-col, .finder-grid, .detail-grid {
   display: grid;
