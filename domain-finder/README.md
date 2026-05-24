@@ -6,9 +6,10 @@ It does **not** run event studies, backtests, or models. Its job is to maintain 
 
 > Does this domain deserve a full MRE agent, only a feasibility pass, backlog tracking, monitoring, or immediate rejection?
 
-The first milestone implements:
+The current implementation includes:
 
 - Config-driven observation ingestion from JSONL/JSON/TOML.
+- Built-in source-backed candidate observation collectors.
 - Candidate aggregation by domain slug.
 - A 30-point domain intake score.
 - Hard minimum gates for public timestamp clarity, delayed-digestion plausibility, materiality, and sample size.
@@ -51,6 +52,9 @@ cargo run -- init --root . --overwrite
 # Run one discovery pass
 cargo run -- scan --root .
 
+# Write built-in source-backed candidate observations
+cargo run -- collect --root .
+
 # Show machine-readable scored candidates
 cargo run -- scan --root . --json
 
@@ -69,6 +73,7 @@ Generated outputs:
 artifacts/domain_finder/domain_discovery_report.md
 artifacts/domain_finder/domain_candidates.json
 docs/intakes/generated/<domain>.md
+data/observations/generated/<family>_observations.jsonl
 ```
 
 ## Observation feed format
@@ -142,11 +147,41 @@ If a domain appears as `underpowered_monitor`, the tool marks it `monitor_only`.
 
 ```text
 domain-finder init
+domain-finder collect
 domain-finder scan
 domain-finder watch
 domain-finder score
 domain-finder make-intake
 ```
+
+### `collect`
+
+Write built-in source-backed candidate-domain observations. These are domain
+ideas, not event rows or backtests.
+
+```bash
+# Write all built-in collector families
+cargo run -- collect --root .
+
+# Write one family
+cargo run -- collect --root . --family fda
+
+# Print generated observations as JSON
+cargo run -- collect --root . --json
+```
+
+Built-in families:
+
+```text
+sec
+agency
+fda
+litigation
+index
+```
+
+Collector outputs are written to `data/observations/generated/` and are consumed
+by `scan` because observation directory ingestion is recursive.
 
 ### `score`
 
@@ -175,9 +210,12 @@ cargo run -- make-intake \
 `score` and `make-intake` are single-domain commands. They reject mixed-domain
 inputs unless `--slug <domain>` selects exactly one domain.
 
-## Milestone 1 limitations
+## Limitations
 
-This milestone is intentionally local-first. It does not yet fetch live SEC/FDA/NHTSA feeds or call MRE. It creates the continuous domain-discovery and intake-scoring layer that can feed future MRE agents.
+The collectors are intentionally local-first and deterministic. They emit
+source-backed candidate-domain observations with official or primary source
+URLs, but they do not yet fetch live event records, build event corpora, run
+MRE, or launch agents.
 
 Recommended next milestones:
 

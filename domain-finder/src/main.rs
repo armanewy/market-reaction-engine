@@ -1,5 +1,6 @@
 use anyhow::Context;
 use clap::{Parser, Subcommand};
+use domain_finder::collectors::{available_families, collect_to_generated_dir};
 use domain_finder::config::Config;
 use domain_finder::io::{read_observations_path, write_string};
 use domain_finder::model::DomainCandidate;
@@ -48,6 +49,19 @@ enum Commands {
         /// Optional finite iteration count for automation/tests.
         #[arg(long)]
         iterations: Option<u64>,
+    },
+    /// Write built-in source-backed candidate observations.
+    Collect {
+        #[arg(long, default_value = ".")]
+        root: PathBuf,
+        /// Optional family: sec, agency, fda, litigation, index, or all.
+        #[arg(long)]
+        family: Option<String>,
+        /// Optional output directory. Defaults to data/observations/generated.
+        #[arg(long)]
+        output_dir: Option<PathBuf>,
+        #[arg(long)]
+        json: bool,
     },
     /// Score one candidate observation file and optionally write a report.
     Score {
@@ -117,6 +131,32 @@ fn main() -> anyhow::Result<()> {
                     }
                 }
                 thread::sleep(Duration::from_secs(interval_secs));
+            }
+        }
+        Commands::Collect {
+            root,
+            family,
+            output_dir,
+            json,
+        } => {
+            let out = collect_to_generated_dir(&root, output_dir.as_deref(), family.as_deref())?;
+            if json {
+                println!("{}", serde_json::to_string_pretty(&out.observations)?);
+            } else {
+                println!(
+                    "wrote {} observations across {} files",
+                    out.observations.len(),
+                    out.files.len()
+                );
+                for file in &out.files {
+                    println!(
+                        "{}: {} observations -> {}",
+                        file.family,
+                        file.observation_count,
+                        file.path.display()
+                    );
+                }
+                println!("families: {}", available_families().join(", "));
             }
         }
         Commands::Score {

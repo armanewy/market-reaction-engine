@@ -1,3 +1,4 @@
+use domain_finder::collectors::{built_in_observations, source_family_count};
 use domain_finder::config::Config;
 use domain_finder::model::{DomainCandidate, DomainObservation, GateDecision, TimestampQuality};
 use domain_finder::pipeline::candidate_from_observations;
@@ -148,4 +149,21 @@ fn registry_parses_reordered_columns() {
     assert_eq!(entry.status, "frozen");
     assert_eq!(entry.stop_reason.as_deref(), Some("failed causal rebuild"));
     assert_eq!(entry.revisit_trigger.as_deref(), Some("new thesis only"));
+}
+
+#[test]
+fn built_in_collectors_cover_multiple_source_families() {
+    let observations = built_in_observations(None).unwrap();
+    assert!(observations.len() >= 20);
+    assert!(source_family_count(&observations) >= 3);
+    assert!(observations.iter().all(|obs| obs.source_url.is_some()));
+}
+
+#[test]
+fn built_in_collectors_can_select_one_family() {
+    let observations = built_in_observations(Some("fda")).unwrap();
+    assert!(observations.len() >= 3);
+    assert!(observations
+        .iter()
+        .all(|obs| obs.tags.iter().any(|tag| tag == "collector:fda")));
 }

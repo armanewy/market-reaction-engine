@@ -23,18 +23,11 @@ pub fn write_string(path: &Path, text: &str) -> anyhow::Result<()> {
 pub fn read_observations_path(path: &Path) -> anyhow::Result<Vec<DomainObservation>> {
     if path.is_dir() {
         let mut out = Vec::new();
-        for entry in
-            fs::read_dir(path).with_context(|| format!("failed to list {}", path.display()))?
-        {
-            let entry = entry?;
-            let p = entry.path();
-            if p.extension().and_then(|s| s.to_str()) == Some("jsonl") {
-                out.extend(read_jsonl(&p)?);
-            } else if p.extension().and_then(|s| s.to_str()) == Some("json") {
-                out.extend(read_json(&p)?);
-            } else if p.extension().and_then(|s| s.to_str()) == Some("toml") {
-                out.extend(read_toml(&p)?);
-            }
+        let mut files = Vec::new();
+        collect_observation_files(path, &mut files)?;
+        files.sort();
+        for p in files {
+            out.extend(read_observations_path(&p)?);
         }
         Ok(out)
     } else if path.extension().and_then(|s| s.to_str()) == Some("jsonl") {
@@ -49,6 +42,22 @@ pub fn read_observations_path(path: &Path) -> anyhow::Result<Vec<DomainObservati
             path.display()
         )
     }
+}
+
+fn collect_observation_files(path: &Path, files: &mut Vec<PathBuf>) -> anyhow::Result<()> {
+    for entry in fs::read_dir(path).with_context(|| format!("failed to list {}", path.display()))? {
+        let entry = entry?;
+        let p = entry.path();
+        if p.is_dir() {
+            collect_observation_files(&p, files)?;
+        } else if matches!(
+            p.extension().and_then(|s| s.to_str()),
+            Some("jsonl" | "json" | "toml")
+        ) {
+            files.push(p);
+        }
+    }
+    Ok(())
 }
 
 fn read_jsonl(path: &Path) -> anyhow::Result<Vec<DomainObservation>> {

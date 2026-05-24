@@ -4,6 +4,7 @@ Domain Finder is meant to run continuously beside Market Reaction Engine.
 
 ```text
 official-source observation feeds
+→ built-in source-backed candidate collectors
 → candidate aggregation
 → 30-point intake score
 → hard minimum gates
@@ -14,11 +15,15 @@ official-source observation feeds
 
 ## Continuous loop
 
-1. Append observations to `data/observations/*.jsonl`.
+1. Append observations to `data/observations/*.jsonl` or run `domain-finder collect`.
 2. Run `domain-finder scan` or `domain-finder watch`.
 3. Review `artifacts/domain_finder/domain_discovery_report.md`.
 4. Give generated intake docs to agents only if the gate is `full_lifecycle` or `feasibility_only`.
 5. After MRE finishes a domain, update `docs/DOMAIN_RESEARCH_REGISTRY.md` so Domain Finder blocks or monitors the domain correctly.
+
+`collect` writes deterministic source-backed candidate-domain observations to
+`data/observations/generated/`. These rows are not event corpora and should not
+trigger modeling by themselves.
 
 `score` and `make-intake` are single-domain commands. If the input contains
 multiple slugs, pass `--slug <domain>` or use `scan` for multi-domain portfolio
