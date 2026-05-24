@@ -6,6 +6,43 @@ This project is intentionally conservative. It is not a magic stock predictor. I
 
 > For this class of event, under this pre-event context, what abnormal market reactions have historically occurred?
 
+## Current research status
+
+No domain has produced a graduated tradable signal. The project's current value is the event-reaction research infrastructure, especially SEC-CORE, and the domain registry documenting which event theses failed, froze, or remain underpowered.
+
+Current board:
+
+```text
+No graduated tradable signal.
+No current live tradable candidate.
+
+Durable infrastructure:
+  SEC-CORE
+    reusable SEC source/context/timestamp/readiness tooling
+
+Underpowered, not failed:
+  cybersecurity_material_incidents_8k
+    monitor later as Item 1.05 sample grows
+
+Frozen or failed under current thesis:
+  insider_purchase_clusters
+  semiconductors
+  capital_raise_dilution
+  government_contract_awards
+  biotech_negative_catalysts
+  accounting_integrity_8k
+  activist_13d_control_intent
+  sec_distress_events
+  nhtsa_auto_safety_investigations
+  bank_regulatory_enforcement
+  fda_warning_letters_manufacturing_enforcement
+  patent_itc_litigation_events
+```
+
+Before launching a new domain, use `docs/DOMAIN_INTAKE_TEMPLATE.md`.
+For prior domain status, stop reasons, and revisit triggers, see
+`docs/DOMAIN_RESEARCH_REGISTRY.md`.
+
 The current pipeline is:
 
 ```text
