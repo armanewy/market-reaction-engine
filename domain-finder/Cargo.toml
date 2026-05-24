@@ -1,0 +1,15 @@
+[package]
+name = "domain-finder"
+version = "0.1.0"
+edition = "2021"
+authors = ["Market Reaction Engine"]
+description = "Continuous domain discovery and intake scoring for event-reaction research."
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0"
+chrono = { version = "0.4", default-features = false, features = ["clock", "serde"] }
+clap = { version = "4.5", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+toml = "0.8"
