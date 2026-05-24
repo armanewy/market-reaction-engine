@@ -7,6 +7,7 @@ artifacts/*.csv
 artifacts/*.json
 artifacts/*.md
 !artifacts/.gitkeep
+artifacts/domain_finder/
 artifacts/backtest/
 artifacts/corpus_demo_backtest/
 data/prices/*
@@ -23,6 +24,7 @@ automation_run/
 seed_data/
 runs/
 research/
+docs/intakes/generated/*.md
 .DS_Store
 .pytest_cache/
 *.egg-info/
