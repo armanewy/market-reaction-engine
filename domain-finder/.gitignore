@@ -1,4 +1,5 @@
 /target/
 /artifacts/
 /data/observations/generated/
+/data/observations/probed/
 /docs/intakes/generated/

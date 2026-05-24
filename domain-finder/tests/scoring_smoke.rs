@@ -2,6 +2,7 @@ use domain_finder::collectors::{built_in_observations, source_family_count};
 use domain_finder::config::Config;
 use domain_finder::model::{DomainCandidate, DomainObservation, GateDecision, TimestampQuality};
 use domain_finder::pipeline::candidate_from_observations;
+use domain_finder::probes::{probe_family, ProbeOptions};
 use domain_finder::registry::Registry;
 use domain_finder::scoring::score_candidate;
 
@@ -166,4 +167,39 @@ fn built_in_collectors_can_select_one_family() {
     assert!(observations
         .iter()
         .all(|obs| obs.tags.iter().any(|tag| tag == "collector:fda")));
+}
+
+#[test]
+fn offline_probe_writes_dynamic_observations() {
+    let temp_root =
+        std::env::temp_dir().join(format!("domain_finder_probe_test_{}", std::process::id()));
+    if temp_root.exists() {
+        std::fs::remove_dir_all(&temp_root).unwrap();
+    }
+    std::fs::create_dir_all(&temp_root).unwrap();
+
+    let output = probe_family(
+        &temp_root,
+        &ProbeOptions {
+            family: "sec".to_string(),
+            output_dir: None,
+            timeout_secs: 1,
+            offline: true,
+        },
+    )
+    .unwrap();
+
+    assert!(output.observations.len() >= 5);
+    assert!(output.path.exists());
+    assert!(output.report_path.exists());
+    assert!(output
+        .observations
+        .iter()
+        .all(|obs| obs.tags.iter().any(|tag| tag == "source_probe")));
+    assert!(output
+        .observations
+        .iter()
+        .all(|obs| obs.tags.iter().any(|tag| tag == "probe_status:offline")));
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
 }

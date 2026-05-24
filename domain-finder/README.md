@@ -10,6 +10,7 @@ The current implementation includes:
 
 - Config-driven observation ingestion from JSONL/JSON/TOML.
 - Built-in source-backed candidate observation collectors.
+- Lightweight source probes that annotate observations with source-check metadata.
 - Candidate aggregation by domain slug.
 - A 30-point domain intake score.
 - Hard minimum gates for public timestamp clarity, delayed-digestion plausibility, materiality, and sample size.
@@ -55,6 +56,11 @@ cargo run -- scan --root .
 # Write built-in source-backed candidate observations
 cargo run -- collect --root .
 
+# Probe official/primary sources and write dynamic observations
+cargo run -- probe-sec-items --root .
+cargo run -- probe-fda-enforcement --root .
+cargo run -- probe-agency-actions --root .
+
 # Show machine-readable scored candidates
 cargo run -- scan --root . --json
 
@@ -74,6 +80,7 @@ artifacts/domain_finder/domain_discovery_report.md
 artifacts/domain_finder/domain_candidates.json
 docs/intakes/generated/<domain>.md
 data/observations/generated/<family>_observations.jsonl
+data/observations/probed/<family>_probe_observations.jsonl
 ```
 
 ## Observation feed format
@@ -148,6 +155,11 @@ If a domain appears as `underpowered_monitor`, the tool marks it `monitor_only`.
 ```text
 domain-finder init
 domain-finder collect
+domain-finder probe-sec-items
+domain-finder probe-agency-actions
+domain-finder probe-fda-enforcement
+domain-finder probe-litigation
+domain-finder probe-index-events
 domain-finder scan
 domain-finder watch
 domain-finder score
@@ -183,6 +195,44 @@ index
 Collector outputs are written to `data/observations/generated/` and are consumed
 by `scan` because observation directory ingestion is recursive.
 
+### Probe commands
+
+Probe commands start from the built-in observations, check the configured
+official/primary source URLs, and write dynamic observations plus a source probe
+report. They still do not build event corpora, run MRE, or launch agents.
+
+```bash
+cargo run -- probe-sec-items --root .
+cargo run -- probe-agency-actions --root .
+cargo run -- probe-fda-enforcement --root .
+cargo run -- probe-litigation --root .
+cargo run -- probe-index-events --root .
+```
+
+Common options:
+
+```bash
+# Write probe observations without fetching source URLs
+cargo run -- probe-sec-items --root . --offline
+
+# Write to a custom directory
+cargo run -- probe-fda-enforcement --root . --output-dir data/observations/probed
+
+# Print probed observations as JSON
+cargo run -- probe-agency-actions --root . --json
+```
+
+Probe outputs are written to:
+
+```text
+data/observations/probed/<family>_probe_observations.jsonl
+data/observations/probed/<family>_source_probe_report.md
+```
+
+The emitted observations include `source_probe`, `probe:<family>`, and
+`probe_status:<status>` tags, plus evidence lines with HTTP status, byte count,
+and keyword-hit metadata when fetched.
+
 ### `score`
 
 Score one domain. If the input contains multiple slugs, pass `--slug` or use
@@ -212,10 +262,9 @@ inputs unless `--slug <domain>` selects exactly one domain.
 
 ## Limitations
 
-The collectors are intentionally local-first and deterministic. They emit
-source-backed candidate-domain observations with official or primary source
-URLs, but they do not yet fetch live event records, build event corpora, run
-MRE, or launch agents.
+The collectors and probes are intentionally bounded. They emit source-backed
+candidate-domain observations and source-check metadata, but they do not fetch
+full live event records, build event corpora, run MRE, or launch agents.
 
 Recommended next milestones:
 

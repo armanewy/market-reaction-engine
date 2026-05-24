@@ -5,6 +5,7 @@ use domain_finder::config::Config;
 use domain_finder::io::{read_observations_path, write_string};
 use domain_finder::model::DomainCandidate;
 use domain_finder::pipeline::{candidate_from_observations, init_project, run_scan};
+use domain_finder::probes::{probe_family, ProbeOptions};
 use domain_finder::registry::Registry;
 use domain_finder::report::{discovery_report, intake_doc};
 use domain_finder::scoring::score_candidate;
@@ -63,6 +64,16 @@ enum Commands {
         #[arg(long)]
         json: bool,
     },
+    /// Probe SEC-backed candidate domains and write dynamic observations.
+    ProbeSecItems(ProbeArgs),
+    /// Probe agency enforcement candidate domains and write dynamic observations.
+    ProbeAgencyActions(ProbeArgs),
+    /// Probe FDA enforcement candidate domains and write dynamic observations.
+    ProbeFdaEnforcement(ProbeArgs),
+    /// Probe litigation/ITC candidate domains and write dynamic observations.
+    ProbeLitigation(ProbeArgs),
+    /// Probe index/passive-flow candidate domains and write dynamic observations.
+    ProbeIndexEvents(ProbeArgs),
     /// Score one candidate observation file and optionally write a report.
     Score {
         #[arg(long)]
@@ -87,6 +98,23 @@ enum Commands {
         #[arg(long)]
         registry: Option<PathBuf>,
     },
+}
+
+#[derive(Debug, clap::Args)]
+struct ProbeArgs {
+    #[arg(long, default_value = ".")]
+    root: PathBuf,
+    /// Optional output directory. Defaults to data/observations/probed.
+    #[arg(long)]
+    output_dir: Option<PathBuf>,
+    /// HTTP timeout for each source check.
+    #[arg(long, default_value_t = 10)]
+    timeout_secs: u64,
+    /// Record probe metadata without fetching source URLs.
+    #[arg(long)]
+    offline: bool,
+    #[arg(long)]
+    json: bool,
 }
 
 fn main() -> anyhow::Result<()> {
@@ -159,6 +187,11 @@ fn main() -> anyhow::Result<()> {
                 println!("families: {}", available_families().join(", "));
             }
         }
+        Commands::ProbeSecItems(args) => run_probe("sec", args)?,
+        Commands::ProbeAgencyActions(args) => run_probe("agency", args)?,
+        Commands::ProbeFdaEnforcement(args) => run_probe("fda", args)?,
+        Commands::ProbeLitigation(args) => run_probe("litigation", args)?,
+        Commands::ProbeIndexEvents(args) => run_probe("index", args)?,
         Commands::Score {
             input,
             slug,
@@ -197,6 +230,46 @@ fn main() -> anyhow::Result<()> {
                 .with_context(|| score_usage_hint(&input))?;
             write_string(&output, &intake_doc(&candidate))?;
             println!("wrote {}", output.display());
+        }
+    }
+    Ok(())
+}
+
+fn run_probe(family: &str, args: ProbeArgs) -> anyhow::Result<()> {
+    let out = probe_family(
+        &args.root,
+        &ProbeOptions {
+            family: family.to_string(),
+            output_dir: args.output_dir,
+            timeout_secs: args.timeout_secs,
+            offline: args.offline,
+        },
+    )?;
+    if args.json {
+        println!("{}", serde_json::to_string_pretty(&out.observations)?);
+    } else {
+        println!(
+            "probed {} observations for {} -> {}",
+            out.observations.len(),
+            out.family,
+            out.path.display()
+        );
+        println!("report: {}", out.report_path.display());
+        for result in &out.results {
+            println!(
+                "{}: {} http={} bytes={} keyword_hits={}",
+                result.slug,
+                result.status,
+                result
+                    .http_status
+                    .map(|s| s.to_string())
+                    .unwrap_or_else(|| "n/a".to_string()),
+                result
+                    .byte_len
+                    .map(|n| n.to_string())
+                    .unwrap_or_else(|| "n/a".to_string()),
+                result.keyword_hits
+            );
         }
     }
     Ok(())
