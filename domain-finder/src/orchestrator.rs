@@ -37,6 +37,8 @@ pub struct OrchestratorConfig {
     pub registry_updates: RegistryUpdateConfig,
     #[serde(default)]
     pub limits: OrchestratorLimits,
+    #[serde(default)]
+    pub review: ReviewPolicy,
 }
 
 impl OrchestratorConfig {
@@ -70,6 +72,8 @@ pub struct OrchestratorPaths {
     pub history_dir: String,
     #[serde(default = "default_dashboard_out_dir")]
     pub dashboard_out_dir: String,
+    #[serde(default = "default_reviews_dir")]
+    pub reviews_dir: String,
 }
 
 impl Default for OrchestratorPaths {
@@ -83,6 +87,7 @@ impl Default for OrchestratorPaths {
             feedback_path: default_feedback_path(),
             history_dir: default_history_dir(),
             dashboard_out_dir: default_dashboard_out_dir(),
+            reviews_dir: default_reviews_dir(),
         }
     }
 }
@@ -283,6 +288,56 @@ impl Default for OrchestratorLimits {
     }
 }
 
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ReviewPolicy {
+    #[serde(default = "default_true")]
+    pub enabled: bool,
+    #[serde(default = "default_true")]
+    pub require_registry_clear: bool,
+    #[serde(default = "default_true")]
+    pub require_live_probe: bool,
+    #[serde(default = "default_true")]
+    pub reject_static_or_offline_only: bool,
+    #[serde(default = "default_full_lifecycle_score")]
+    pub min_full_lifecycle_score: u8,
+    #[serde(default = "default_feasibility_score")]
+    pub min_feasibility_score: u8,
+    #[serde(default = "default_two_usize")]
+    pub min_delayed_digest_reasons: usize,
+    #[serde(default = "default_three_usize")]
+    pub min_hard_negatives: usize,
+    #[serde(default = "default_two_usize")]
+    pub min_materiality_fields: usize,
+    #[serde(default = "default_two_u8")]
+    pub min_mapping_score: u8,
+    #[serde(default = "default_two_u8")]
+    pub min_parser_score: u8,
+    #[serde(default = "default_two_u8")]
+    pub min_sample_score: u8,
+    #[serde(default = "default_three_u8")]
+    pub min_timestamp_score: u8,
+}
+
+impl Default for ReviewPolicy {
+    fn default() -> Self {
+        Self {
+            enabled: true,
+            require_registry_clear: true,
+            require_live_probe: true,
+            reject_static_or_offline_only: true,
+            min_full_lifecycle_score: default_full_lifecycle_score(),
+            min_feasibility_score: default_feasibility_score(),
+            min_delayed_digest_reasons: 2,
+            min_hard_negatives: 3,
+            min_materiality_fields: 2,
+            min_mapping_score: 2,
+            min_parser_score: 2,
+            min_sample_score: 2,
+            min_timestamp_score: 3,
+        }
+    }
+}
+
 #[derive(Debug, Clone, Copy, Serialize, Deserialize, Eq, PartialEq)]
 #[serde(rename_all = "snake_case")]
 pub enum JobStatus {
@@ -376,6 +431,35 @@ pub struct DomainFeedback {
     pub report_path: String,
     pub registry_update_path: String,
     pub timestamp: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ReviewJobsOutput {
+    pub reviewed_at: String,
+    pub reviews: Vec<JobReview>,
+    pub approved: Vec<OrchestratorJob>,
+    pub rejected: Vec<OrchestratorJob>,
+    pub prompts_generated: Vec<OrchestratorJob>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct JobReview {
+    pub domain: String,
+    pub decision: String,
+    pub confidence: String,
+    pub job_status_before: String,
+    pub job_status_after: Option<String>,
+    pub score: Option<u8>,
+    pub gate: Option<String>,
+    pub reasons: Vec<String>,
+    pub required_next_step: String,
+    pub reviewed_at: String,
+}
+
+#[derive(Debug, Clone, Copy, Default)]
+pub struct ReviewJobsOptions {
+    pub dry_run: bool,
+    pub run_approved: bool,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -530,6 +614,76 @@ pub fn run_orchestrator_once(
         monitor_only_count,
         notification_path,
         jobs_dir: paths.jobs_dir,
+    })
+}
+
+pub fn review_jobs(
+    root: &Path,
+    domain_config: &Config,
+    config: &OrchestratorConfig,
+    options: ReviewJobsOptions,
+) -> anyhow::Result<ReviewJobsOutput> {
+    let paths = ResolvedPaths::new(root, config);
+    ensure_orchestrator_dirs(&paths)?;
+
+    let scan = run_scan(root, domain_config)?;
+    let reviewed_at = Utc::now().to_rfc3339();
+    let jobs = load_jobs(&paths.jobs_dir)?;
+    let mut reviews = Vec::new();
+    let mut approved = Vec::new();
+    let mut rejected = Vec::new();
+
+    for job in jobs.iter().filter(|job| {
+        matches!(
+            job.status,
+            JobStatus::AwaitingApproval | JobStatus::IntakeScored
+        )
+    }) {
+        let candidate = scan
+            .candidates
+            .iter()
+            .find(|candidate| candidate.slug == job.domain);
+        let mut review = automated_job_review(job, candidate, config, &reviewed_at);
+
+        if review.decision == "approve" {
+            if !options.dry_run {
+                let updated = approve_job(root, config, &job.domain)?;
+                review.job_status_after = Some(updated.status.label().to_string());
+                approved.push(updated);
+            }
+        } else if !options.dry_run {
+            let reason = review.reasons.join("; ");
+            let updated = reject_job(root, config, &job.domain, Some(&reason))?;
+            review.job_status_after = Some(updated.status.label().to_string());
+            rejected.push(updated);
+        }
+
+        if !options.dry_run {
+            write_review_artifact(&paths, &review)?;
+        }
+        reviews.push(review);
+    }
+
+    let prompts_generated = if options.run_approved && !options.dry_run {
+        run_approved_jobs(root, config)?
+    } else {
+        Vec::new()
+    };
+
+    if !options.dry_run {
+        let current_jobs = load_jobs(&paths.jobs_dir)?;
+        write_history_snapshot(&paths, &current_jobs)?;
+        write_notification_digest(&paths, &current_jobs)?;
+        write_review_digest(&paths, &reviews)?;
+        refresh_dashboard(root, config);
+    }
+
+    Ok(ReviewJobsOutput {
+        reviewed_at,
+        reviews,
+        approved,
+        rejected,
+        prompts_generated,
     })
 }
 
@@ -787,6 +941,7 @@ fn ensure_orchestrator_dirs(paths: &ResolvedPaths) -> anyhow::Result<()> {
     ensure_dir(&paths.notifications_dir)?;
     ensure_dir(&paths.prompts_dir)?;
     ensure_dir(&paths.history_dir)?;
+    ensure_dir(&paths.reviews_dir)?;
     if let Some(parent) = paths.feedback_path.parent() {
         ensure_dir(parent)?;
     }
@@ -1074,6 +1229,21 @@ fn write_notification_digest(
     Ok(path)
 }
 
+fn write_review_artifact(paths: &ResolvedPaths, review: &JobReview) -> anyhow::Result<()> {
+    ensure_dir(&paths.reviews_dir)?;
+    write_string(
+        &paths.reviews_dir.join(format!("{}.json", review.domain)),
+        &serde_json::to_string_pretty(review)?,
+    )
+}
+
+fn write_review_digest(paths: &ResolvedPaths, reviews: &[JobReview]) -> anyhow::Result<PathBuf> {
+    ensure_dir(&paths.notifications_dir)?;
+    let path = paths.notifications_dir.join("review_digest.md");
+    write_string(&path, &review_digest_markdown(reviews))?;
+    Ok(path)
+}
+
 fn refresh_dashboard(root: &Path, config: &OrchestratorConfig) {
     let paths = ResolvedPaths::new(root, config);
     let _ = build_dashboard(&DashboardOptions {
@@ -1117,6 +1287,210 @@ fn passes_auto_approval(candidate: &DomainCandidate, config: &OrchestratorConfig
         }
         _ => false,
     }
+}
+
+fn automated_job_review(
+    job: &OrchestratorJob,
+    candidate: Option<&DomainCandidate>,
+    config: &OrchestratorConfig,
+    reviewed_at: &str,
+) -> JobReview {
+    let mut review = JobReview {
+        domain: job.domain.clone(),
+        decision: "reject_review_disabled".to_string(),
+        confidence: "high".to_string(),
+        job_status_before: job.status.label().to_string(),
+        job_status_after: None,
+        score: candidate
+            .map(|candidate| candidate.score.total)
+            .or(Some(job.score)),
+        gate: candidate.map(|candidate| candidate.gate.label().to_string()),
+        reasons: Vec::new(),
+        required_next_step: "do not run research".to_string(),
+        reviewed_at: reviewed_at.to_string(),
+    };
+
+    if !config.review.enabled {
+        review
+            .reasons
+            .push("automated review policy is disabled".to_string());
+        return review;
+    }
+
+    let Some(candidate) = candidate else {
+        review.decision = "reject_missing_current_candidate".to_string();
+        review
+            .reasons
+            .push("job is not present in the current domain-finder scan".to_string());
+        return review;
+    };
+
+    review.gate = Some(candidate.gate.label().to_string());
+    review.score = Some(candidate.score.total);
+
+    if config.review.require_registry_clear && candidate.registry_status.is_some() {
+        review.decision = "reject_registry_history".to_string();
+        if let Some(registry) = &candidate.registry_status {
+            review.reasons.push(format!(
+                "registry status is `{}`; stop reason: {}",
+                registry.status,
+                registry
+                    .stop_reason
+                    .as_deref()
+                    .unwrap_or("no stop reason recorded")
+            ));
+        }
+        return review;
+    }
+
+    match candidate.gate {
+        GateDecision::FullLifecycle | GateDecision::FeasibilityOnly => {}
+        GateDecision::BlockedByRegistry => {
+            review.decision = "reject_blocked_by_registry".to_string();
+            review
+                .reasons
+                .push("candidate gate is blocked_by_registry".to_string());
+            return review;
+        }
+        GateDecision::MonitorOnly => {
+            review.decision = "reject_monitor_only".to_string();
+            review
+                .reasons
+                .push("candidate is monitor_only; no run before revisit trigger".to_string());
+            return review;
+        }
+        GateDecision::Backlog | GateDecision::Skip => {
+            review.decision = "reject_not_research_ready".to_string();
+            review
+                .reasons
+                .push(format!("candidate gate is `{}`", candidate.gate.label()));
+            return review;
+        }
+    }
+
+    let required_score = match candidate.gate {
+        GateDecision::FullLifecycle => config.review.min_full_lifecycle_score,
+        GateDecision::FeasibilityOnly => config.review.min_feasibility_score,
+        _ => unreachable!("non-runnable gates returned earlier"),
+    };
+    if candidate.score.total < required_score {
+        review.decision = "reject_score_below_policy".to_string();
+        review.reasons.push(format!(
+            "score {}/30 is below required {} for `{}`",
+            candidate.score.total,
+            required_score,
+            candidate.gate.label()
+        ));
+    }
+
+    if candidate
+        .warnings
+        .iter()
+        .any(|warning| warning.contains("low true-positive yield"))
+    {
+        review.decision = "reject_prior_low_true_positive_yield".to_string();
+        review.reasons.push(
+            "historical feedback indicates low audited true-positive yield for this domain"
+                .to_string(),
+        );
+    }
+
+    if config.review.require_live_probe && !has_live_source_probe(candidate) {
+        review.decision = "reject_needs_live_source_probe".to_string();
+        review.reasons.push(
+            "candidate has no live source_probe observation; static/offline seeds are insufficient"
+                .to_string(),
+        );
+    } else if config.review.reject_static_or_offline_only && is_static_or_offline_only(candidate) {
+        review.decision = "reject_static_or_offline_only".to_string();
+        review
+            .reasons
+            .push("candidate is backed only by static or offline observations".to_string());
+    }
+
+    if candidate.score.public_timestamp_clarity < config.review.min_timestamp_score {
+        review.decision = "reject_timestamp_below_review_policy".to_string();
+        review.reasons.push(format!(
+            "public timestamp clarity score {} is below review minimum {}",
+            candidate.score.public_timestamp_clarity, config.review.min_timestamp_score
+        ));
+    }
+    if candidate.delayed_digest_reasons.len() < config.review.min_delayed_digest_reasons {
+        review.decision = "reject_delayed_digest_rationale_insufficient".to_string();
+        review.reasons.push(format!(
+            "only {} delayed-digestion reasons; need at least {}",
+            candidate.delayed_digest_reasons.len(),
+            config.review.min_delayed_digest_reasons
+        ));
+    }
+    if candidate.hard_negatives.len() < config.review.min_hard_negatives {
+        review.decision = "reject_hard_negatives_insufficient".to_string();
+        review.reasons.push(format!(
+            "only {} hard negatives; need at least {}",
+            candidate.hard_negatives.len(),
+            config.review.min_hard_negatives
+        ));
+    }
+    if candidate.materiality_fields.len() < config.review.min_materiality_fields {
+        review.decision = "reject_materiality_fields_insufficient".to_string();
+        review.reasons.push(format!(
+            "only {} materiality fields; need at least {}",
+            candidate.materiality_fields.len(),
+            config.review.min_materiality_fields
+        ));
+    }
+    if candidate.score.ticker_mapping_feasibility < config.review.min_mapping_score {
+        review.decision = "reject_mapping_score_below_review_policy".to_string();
+        review.reasons.push(format!(
+            "ticker/entity mapping score {} is below review minimum {}",
+            candidate.score.ticker_mapping_feasibility, config.review.min_mapping_score
+        ));
+    }
+    if candidate.score.parser_audit_feasibility < config.review.min_parser_score {
+        review.decision = "reject_parser_score_below_review_policy".to_string();
+        review.reasons.push(format!(
+            "parser/audit feasibility score {} is below review minimum {}",
+            candidate.score.parser_audit_feasibility, config.review.min_parser_score
+        ));
+    }
+    if candidate.score.sample_size_likelihood < config.review.min_sample_score {
+        review.decision = "reject_sample_score_below_review_policy".to_string();
+        review.reasons.push(format!(
+            "sample-size likelihood score {} is below review minimum {}",
+            candidate.score.sample_size_likelihood, config.review.min_sample_score
+        ));
+    }
+
+    if review.reasons.is_empty() {
+        review.decision = "approve".to_string();
+        review.confidence = "medium".to_string();
+        review
+            .reasons
+            .push("registry-clear candidate passed deterministic review policy".to_string());
+        review.required_next_step = "approve job and generate research prompt".to_string();
+    } else {
+        review.required_next_step =
+            "do not run research; require new evidence or a materially different source strategy"
+                .to_string();
+    }
+
+    review
+}
+
+fn has_live_source_probe(candidate: &DomainCandidate) -> bool {
+    candidate.observations.iter().any(|obs| {
+        let has_probe = obs.tags.iter().any(|tag| tag == "source_probe");
+        let offline = obs.tags.iter().any(|tag| tag == "probe_status:offline")
+            || obs
+                .evidence
+                .iter()
+                .any(|item| item.to_ascii_lowercase().contains("status=offline"));
+        has_probe && !offline
+    })
+}
+
+fn is_static_or_offline_only(candidate: &DomainCandidate) -> bool {
+    !has_live_source_probe(candidate)
 }
 
 fn should_auto_approve_job(
@@ -1229,6 +1603,13 @@ fn load_jobs(jobs_dir: &Path) -> anyhow::Result<Vec<OrchestratorJob>> {
         let entry = entry?;
         let path = entry.path();
         if path.extension().and_then(|s| s.to_str()) != Some("json") {
+            continue;
+        }
+        if path
+            .file_name()
+            .and_then(|s| s.to_str())
+            .is_some_and(|name| name.ends_with(".heartbeat.json"))
+        {
             continue;
         }
         jobs.push(read_job(&path)?);
@@ -1444,6 +1825,7 @@ struct ResolvedPaths {
     feedback_path: PathBuf,
     history_dir: PathBuf,
     dashboard_out_dir: PathBuf,
+    reviews_dir: PathBuf,
 }
 
 impl ResolvedPaths {
@@ -1457,8 +1839,32 @@ impl ResolvedPaths {
             feedback_path: rel(&domain_finder_root, &config.paths.feedback_path),
             history_dir: rel(&domain_finder_root, &config.paths.history_dir),
             dashboard_out_dir: rel(&domain_finder_root, &config.paths.dashboard_out_dir),
+            reviews_dir: rel(&domain_finder_root, &config.paths.reviews_dir),
         }
     }
+}
+
+pub fn review_jobs_report(output: &ReviewJobsOutput) -> String {
+    let mut out = String::new();
+    out.push_str("| Domain | Decision | Score | Gate | Reasons |\n");
+    out.push_str("| --- | --- | ---: | --- | --- |\n");
+    for review in &output.reviews {
+        out.push_str(&format!(
+            "| `{}` | `{}` | {} | `{}` | {} |\n",
+            review.domain,
+            review.decision,
+            review
+                .score
+                .map(|score| score.to_string())
+                .unwrap_or_else(|| "n/a".to_string()),
+            review.gate.as_deref().unwrap_or("n/a"),
+            escape_table_cell(&review.reasons.join("; "))
+        ));
+    }
+    if output.reviews.is_empty() {
+        out.push_str("| _none_ | _none_ |  |  | no awaiting jobs |\n");
+    }
+    out
 }
 
 pub fn jobs_report(jobs: &[OrchestratorJob]) -> String {
@@ -1492,6 +1898,9 @@ fn default_notifications_dir() -> String {
 }
 fn default_prompts_dir() -> String {
     "artifacts/orchestrator/prompts".to_string()
+}
+fn default_reviews_dir() -> String {
+    "artifacts/orchestrator/reviews".to_string()
 }
 fn default_feedback_path() -> String {
     "artifacts/orchestrator/domain_feedback.jsonl".to_string()
@@ -1529,7 +1938,16 @@ fn default_stale_after_hours() -> i64 {
 fn default_one_usize() -> usize {
     1
 }
+fn default_two_usize() -> usize {
+    2
+}
 fn default_three_usize() -> usize {
+    3
+}
+fn default_two_u8() -> u8 {
+    2
+}
+fn default_three_u8() -> u8 {
     3
 }
 fn default_runner_mode() -> String {
@@ -1629,6 +2047,37 @@ fn notification_digest_markdown(jobs: &[OrchestratorJob]) -> String {
                 job.domain,
                 job.status.label(),
                 job.next_action
+            ));
+        }
+    }
+    out
+}
+
+fn review_digest_markdown(reviews: &[JobReview]) -> String {
+    let mut out = String::new();
+    out.push_str("# Domain Finder Automated Review Digest\n\n");
+    out.push_str(&format!("Generated: `{}`\n\n", Utc::now().to_rfc3339()));
+    let approved = reviews
+        .iter()
+        .filter(|review| review.decision == "approve")
+        .count();
+    let rejected = reviews.len().saturating_sub(approved);
+    out.push_str(&format!(
+        "- reviewed jobs: `{}`\n- approved: `{}`\n- rejected/deferred: `{}`\n\n",
+        reviews.len(),
+        approved,
+        rejected
+    ));
+    out.push_str("## Decisions\n\n");
+    if reviews.is_empty() {
+        out.push_str("- none\n");
+    } else {
+        for review in reviews {
+            out.push_str(&format!(
+                "- `{}`: `{}`; {}\n",
+                review.domain,
+                review.decision,
+                review.reasons.join("; ")
             ));
         }
     }

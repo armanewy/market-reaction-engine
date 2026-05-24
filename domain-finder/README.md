@@ -19,6 +19,7 @@ The current implementation includes:
 - Research-ops views for top candidates, per-domain explanations, scan diffs, and alerts.
 - Static local research dashboard generation.
 - Conservative orchestration for discovery, intake generation, job queueing, approval, and prompt generation.
+- Deterministic automated job review with auditable approve/reject artifacts.
 - Continuous watch mode.
 
 ## Why this exists
@@ -82,6 +83,12 @@ cargo run -- orchestrate --root . --once
 # Run the policy-controlled hands-off loop in safe mode
 cargo run -- orchestrate --root . --once --auto
 
+# Deterministically review queued jobs without relying on chat/Codex judgment
+cargo run -- review-jobs --root .
+
+# Review jobs and generate prompts for any candidates that pass policy
+cargo run -- review-jobs --root . --run-approved
+
 # Approve exactly one queued job and generate its research prompt
 cargo run -- approve --root . --domain material_customer_contract_loss_8k
 cargo run -- research-prompt --root . --domain material_customer_contract_loss_8k
@@ -125,6 +132,7 @@ data/observations/probed/<family>_probe_observations.jsonl
 artifacts/domain_finder/dashboard/index.html
 artifacts/domain_finder/dashboard/dashboard_state.json
 artifacts/orchestrator/jobs/<domain>.json
+artifacts/orchestrator/reviews/<domain>.json
 artifacts/orchestrator/notifications/latest.md
 artifacts/orchestrator/prompts/<domain>.md
 artifacts/orchestrator/domain_feedback.jsonl
@@ -220,6 +228,7 @@ domain-finder reject
 domain-finder archive-job
 domain-finder complete-job
 domain-finder run-approved
+domain-finder review-jobs
 domain-finder list-jobs
 domain-finder job-history
 domain-finder notification-digest
@@ -256,6 +265,36 @@ index
 
 Collector outputs are written to `data/observations/generated/` and are consumed
 by `scan` because observation directory ingestion is recursive.
+
+## Fully Automated Local Review
+
+`review-jobs` is the durable, Task Scheduler-friendly review step. It does not
+ask an LLM or a human to approve queued work. It applies the local
+`[review]` policy from `config/orchestrator.toml` and writes one audit record per
+decision:
+
+```text
+artifacts/orchestrator/reviews/<domain>.json
+```
+
+The review policy is intentionally stricter than the intake score. A queued job
+is rejected or deferred if it is registry-blocked, monitor-only, backed only by
+static/offline observations, missing live source-probe evidence, below hard
+front-door minimums, or affected by prior low true-positive-yield feedback.
+
+A local unattended cycle can be run from Windows Task Scheduler as:
+
+```powershell
+cd C:\Users\aoztu\Documents\market-reaction-engine-domain-integration\domain-finder
+cargo run -- orchestrate --root . --once --auto
+cargo run -- review-jobs --root . --run-approved
+cargo run -- dashboard --root . --out artifacts/domain_finder/dashboard
+```
+
+This automates routine approval/rejection and prompt generation while keeping
+positive-survival claims gated. Safe terminal failures can be handled by
+`complete-job`; candidate paper signals should still be notification-only unless
+you explicitly change registry-update policy.
 
 ### Probe commands
 

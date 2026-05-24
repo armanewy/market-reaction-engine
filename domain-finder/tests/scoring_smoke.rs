@@ -8,9 +8,9 @@ use domain_finder::operations::{
     current_alerts, diff_candidates, explain_candidate, top_candidates,
 };
 use domain_finder::orchestrator::{
-    approve_job, complete_job, generate_research_prompt, reject_job, run_approved_jobs,
-    run_orchestrator_once, CompleteJobOptions, JobStatus, OrchestratorConfig,
-    OrchestratorRunOptions,
+    approve_job, complete_job, generate_research_prompt, reject_job, review_jobs,
+    run_approved_jobs, run_orchestrator_once, CompleteJobOptions, JobStatus, OrchestratorConfig,
+    OrchestratorRunOptions, ReviewJobsOptions,
 };
 use domain_finder::pipeline::{candidate_from_observations, run_scan};
 use domain_finder::probes::{probe_family, ProbeOptions};
@@ -671,6 +671,145 @@ fn run_approved_generates_prompt_without_launching_manual_runner() {
 }
 
 #[test]
+fn review_jobs_rejects_static_or_offline_candidates() {
+    let temp_root = temp_root("domain_finder_review_static");
+    write_orchestrator_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let orchestrator_config = test_orchestrator_config();
+    run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+            auto_mode: false,
+        },
+    )
+    .unwrap();
+
+    let reviewed = review_jobs(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        ReviewJobsOptions {
+            dry_run: false,
+            run_approved: false,
+        },
+    )
+    .unwrap();
+
+    assert!(reviewed.approved.is_empty());
+    assert!(!reviewed.rejected.is_empty());
+    assert!(reviewed.reviews.iter().all(|review| {
+        review.decision == "reject_needs_live_source_probe"
+            || review.decision == "reject_static_or_offline_only"
+    }));
+
+    let jobs = domain_finder::orchestrator::list_jobs(&temp_root, &orchestrator_config).unwrap();
+    assert!(jobs
+        .iter()
+        .filter(|job| {
+            job.domain == "material_customer_contract_loss_8k"
+                || job.domain == "index_rebalance_events"
+        })
+        .all(|job| matches!(job.status, JobStatus::Rejected)));
+
+    let review_path =
+        temp_root.join("artifacts/orchestrator/reviews/material_customer_contract_loss_8k.json");
+    let review_text = std::fs::read_to_string(review_path).unwrap();
+    assert!(review_text.contains("reject_needs_live_source_probe"));
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn review_jobs_approves_live_probe_candidate() {
+    let temp_root = temp_root("domain_finder_review_live");
+    write_live_review_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let orchestrator_config = test_orchestrator_config();
+    run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: false,
+            auto_mode: false,
+        },
+    )
+    .unwrap();
+
+    let reviewed = review_jobs(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        ReviewJobsOptions {
+            dry_run: false,
+            run_approved: false,
+        },
+    )
+    .unwrap();
+
+    assert_eq!(reviewed.approved.len(), 1);
+    assert_eq!(reviewed.approved[0].domain, "live_source_candidate_8k");
+    assert_eq!(reviewed.reviews[0].decision, "approve");
+
+    let jobs = domain_finder::orchestrator::list_jobs(&temp_root, &orchestrator_config).unwrap();
+    let job = jobs
+        .iter()
+        .find(|job| job.domain == "live_source_candidate_8k")
+        .unwrap();
+    assert_eq!(job.status, JobStatus::Approved);
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn review_jobs_can_generate_prompt_for_approved_live_candidate() {
+    let temp_root = temp_root("domain_finder_review_run_approved");
+    write_live_review_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let orchestrator_config = test_orchestrator_config();
+    run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: false,
+            auto_mode: false,
+        },
+    )
+    .unwrap();
+
+    let reviewed = review_jobs(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        ReviewJobsOptions {
+            dry_run: false,
+            run_approved: true,
+        },
+    )
+    .unwrap();
+
+    assert_eq!(reviewed.approved.len(), 1);
+    assert_eq!(reviewed.prompts_generated.len(), 1);
+    assert_eq!(
+        reviewed.prompts_generated[0].status,
+        JobStatus::PromptGenerated
+    );
+    assert!(reviewed.prompts_generated[0].prompt_path.is_some());
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
 fn safe_registry_update_auto_applies_but_candidate_signal_does_not() {
     let temp_root = temp_root("domain_finder_safe_registry_update");
     write_orchestrator_fixture(&temp_root);
@@ -984,6 +1123,60 @@ fn write_orchestrator_fixture(root: &std::path::Path) {
         .collect::<Vec<_>>()
         .join("\n");
     std::fs::write(root.join("data/observations/domains.jsonl"), jsonl).unwrap();
+}
+
+fn write_live_review_fixture(root: &std::path::Path) {
+    std::fs::write(
+        root.join("docs/DOMAIN_RESEARCH_REGISTRY.md"),
+        "| domain | status | stop_reason | revisit_trigger |\n| --- | --- | --- | --- |\n",
+    )
+    .unwrap();
+    let obs = DomainObservation {
+        slug: "live_source_candidate_8k".to_string(),
+        title: "Live Source Candidate 8-K".to_string(),
+        source_name: "SEC EDGAR live probe".to_string(),
+        source_kind: "sec_official".to_string(),
+        source_url: Some("https://www.sec.gov/edgar/search/".to_string()),
+        official_source: true,
+        timestamp_quality: TimestampQuality::Clear,
+        delayed_digest_reasons: vec![
+            "financial impact requires calculation".to_string(),
+            "follow-up disclosures may update investor expectations".to_string(),
+            "materiality depends on issuer-specific concentration".to_string(),
+        ],
+        hard_negatives: vec![
+            "routine disclosure".to_string(),
+            "already-known event".to_string(),
+            "duplicate disclosure".to_string(),
+            "immaterial event".to_string(),
+            "new customer win".to_string(),
+        ],
+        materiality_fields: vec![
+            "impact_pct_market_cap".to_string(),
+            "revenue_exposure".to_string(),
+            "guidance_impact".to_string(),
+        ],
+        mapping_notes: Some("clean issuer CIK/ticker mapping".to_string()),
+        sample_size_hint: Some(180),
+        liquidity_notes: Some("liquid public issuers with ADV filters".to_string()),
+        evidence: vec![
+            "live source probe status=ok".to_string(),
+            "source returned current rows".to_string(),
+            "timestamped official source".to_string(),
+        ],
+        tags: vec![
+            "source_probe".to_string(),
+            "probe_status:ok".to_string(),
+            "collector:test".to_string(),
+        ],
+        observed_at: Some("2026-05-24T00:00:00Z".to_string()),
+        proposed_by: Some("test".to_string()),
+    };
+    std::fs::write(
+        root.join("data/observations/domains.jsonl"),
+        serde_json::to_string(&obs).unwrap(),
+    )
+    .unwrap();
 }
 
 fn orchestrator_observation(

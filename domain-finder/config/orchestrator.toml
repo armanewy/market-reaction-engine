@@ -4,6 +4,7 @@ domain_finder_root = "."
 jobs_dir = "artifacts/orchestrator/jobs"
 notifications_dir = "artifacts/orchestrator/notifications"
 prompts_dir = "artifacts/orchestrator/prompts"
+reviews_dir = "artifacts/orchestrator/reviews"
 feedback_path = "artifacts/orchestrator/domain_feedback.jsonl"
 history_dir = "artifacts/orchestrator/history"
 dashboard_out_dir = "artifacts/domain_finder/dashboard"
@@ -60,6 +61,21 @@ max_active_jobs = 1
 max_new_jobs_per_day = 1
 max_research_runs_per_week = 3
 max_retries_per_job = 1
+
+[review]
+enabled = true
+require_registry_clear = true
+require_live_probe = true
+reject_static_or_offline_only = true
+min_full_lifecycle_score = 24
+min_feasibility_score = 18
+min_delayed_digest_reasons = 2
+min_hard_negatives = 3
+min_materiality_fields = 2
+min_mapping_score = 2
+min_parser_score = 2
+min_sample_score = 2
+min_timestamp_score = 3
 
 [automation]
 auto_generate_intakes = true

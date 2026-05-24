@@ -11,8 +11,9 @@ use domain_finder::operations::{
 };
 use domain_finder::orchestrator::{
     approve_job, archive_job, complete_job, generate_research_prompt, job_history, jobs_report,
-    list_jobs, notification_digest, reject_job, run_approved_jobs, run_orchestrator_once,
-    CompleteJobOptions, OrchestratorConfig, OrchestratorRunOptions,
+    list_jobs, notification_digest, reject_job, review_jobs, review_jobs_report, run_approved_jobs,
+    run_orchestrator_once, CompleteJobOptions, OrchestratorConfig, OrchestratorRunOptions,
+    ReviewJobsOptions,
 };
 use domain_finder::pipeline::{candidate_from_observations, init_project, run_scan};
 use domain_finder::probes::{probe_family, ProbeOptions};
@@ -175,6 +176,8 @@ enum Commands {
     CompleteJob(CompleteJobArgs),
     /// Generate prompts and optionally launch configured runners for approved jobs.
     RunApproved(ListJobsArgs),
+    /// Deterministically approve or reject awaiting jobs using local review policy.
+    ReviewJobs(ReviewJobsArgs),
     /// List queued orchestrator jobs.
     ListJobs(ListJobsArgs),
     /// List orchestrator history snapshots.
@@ -261,6 +264,22 @@ struct ListJobsArgs {
     root: PathBuf,
     #[arg(long)]
     config: Option<PathBuf>,
+    #[arg(long)]
+    json: bool,
+}
+
+#[derive(Debug, clap::Args)]
+struct ReviewJobsArgs {
+    #[arg(long, default_value = ".")]
+    root: PathBuf,
+    #[arg(long)]
+    config: Option<PathBuf>,
+    #[arg(long)]
+    domain_config: Option<PathBuf>,
+    #[arg(long)]
+    dry_run: bool,
+    #[arg(long)]
+    run_approved: bool,
     #[arg(long)]
     json: bool,
 }
@@ -566,6 +585,30 @@ fn main() -> anyhow::Result<()> {
                 println!("no approved jobs were run");
             } else {
                 print!("{}", jobs_report(&jobs));
+            }
+        }
+        Commands::ReviewJobs(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let domain_cfg = load_config(&args.root, args.domain_config.as_deref())?;
+            let output = review_jobs(
+                &args.root,
+                &domain_cfg,
+                &cfg,
+                ReviewJobsOptions {
+                    dry_run: args.dry_run,
+                    run_approved: args.run_approved,
+                },
+            )?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&output)?);
+            } else {
+                print!("{}", review_jobs_report(&output));
+                println!(
+                    "\napproved={} rejected={} prompts_generated={}",
+                    output.approved.len(),
+                    output.rejected.len(),
+                    output.prompts_generated.len()
+                );
             }
         }
         Commands::ListJobs(args) => {
