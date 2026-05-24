@@ -13,7 +13,7 @@ materiality_field_clarity = 2
 sample_size_likelihood = 2
 
 [registry]
-path = "docs/DOMAIN_RESEARCH_REGISTRY.md"
+path = "../docs/DOMAIN_RESEARCH_REGISTRY.md"
 frozen_statuses = ["frozen", "failed", "failed_falsification", "failed_execution", "failed_after_causal_rebuild", "execution_unrealistic", "mapping_insufficient", "parser_not_trusted", "timestamp_insufficient", "context_insufficient"]
 monitor_statuses = ["underpowered_monitor"]
 

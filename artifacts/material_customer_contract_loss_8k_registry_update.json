@@ -1,0 +1,13 @@
+{
+  "domain": "material_customer_contract_loss_8k",
+  "status": "parser not trusted",
+  "stage_reached": "source discovery / parser audit / readiness",
+  "stop_reason": "SEC full-text source pass produced 191 candidate 8-K rows but the strict parser found no audited true material customer-loss event; the sole machine-proposed material loss row was a cybersecurity/operations false positive. Readiness had 0 reviewed usable rows, parser audit failed, and 0 likely OOS predictions.",
+  "last_commit": "",
+  "revisit_trigger": "Revisit only with a better source strategy or manually seeded parser gold set: current customer loss or non-renewal language must appear in the same local evidence window as a named material customer, with merger/employment/financing/lease/generic transaction termination contexts excluded.",
+  "artifacts": [
+    "artifacts/material_customer_contract_loss_8k_domain_final_report.md",
+    "data/events/material_customer_contract_loss_8k/readiness_report.md",
+    "data/events/material_customer_contract_loss_8k/parser_audit_report.md"
+  ]
+}

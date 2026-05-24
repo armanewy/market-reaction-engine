@@ -8,8 +8,8 @@ use domain_finder::operations::{
     current_alerts, diff_candidates, explain_candidate, top_candidates,
 };
 use domain_finder::orchestrator::{
-    approve_job, generate_research_prompt, reject_job, run_orchestrator_once, JobStatus,
-    OrchestratorConfig, OrchestratorRunOptions,
+    approve_job, complete_job, generate_research_prompt, reject_job, run_orchestrator_once,
+    CompleteJobOptions, JobStatus, OrchestratorConfig, OrchestratorRunOptions,
 };
 use domain_finder::pipeline::candidate_from_observations;
 use domain_finder::probes::{probe_family, ProbeOptions};
@@ -485,6 +485,102 @@ fn reject_job_marks_terminal_reason_and_blocks_prompt() {
     )
     .unwrap_err();
     assert!(err.to_string().contains("approve it before"));
+
+    std::fs::remove_dir_all(&temp_root).unwrap();
+}
+
+#[test]
+fn complete_job_marks_completed_and_appends_feedback() {
+    let temp_root = temp_root("domain_finder_orchestrator_complete");
+    write_orchestrator_fixture(&temp_root);
+
+    let domain_config = Config::default();
+    let orchestrator_config = test_orchestrator_config();
+    run_orchestrator_once(
+        &temp_root,
+        &domain_config,
+        &orchestrator_config,
+        OrchestratorRunOptions {
+            dry_run: false,
+            offline_probes: true,
+        },
+    )
+    .unwrap();
+    approve_job(
+        &temp_root,
+        &orchestrator_config,
+        "material_customer_contract_loss_8k",
+    )
+    .unwrap();
+    generate_research_prompt(
+        &temp_root,
+        &orchestrator_config,
+        "material_customer_contract_loss_8k",
+        None,
+    )
+    .unwrap();
+
+    let report =
+        temp_root.join("artifacts/material_customer_contract_loss_8k_domain_final_report.md");
+    let registry_update =
+        temp_root.join("artifacts/material_customer_contract_loss_8k_registry_update.json");
+    std::fs::create_dir_all(report.parent().unwrap()).unwrap();
+    std::fs::write(&report, "# Final report\n").unwrap();
+    std::fs::write(
+        &registry_update,
+        r#"{
+  "domain": "material_customer_contract_loss_8k",
+  "status": "parser not trusted",
+  "stage_reached": "parser/readiness",
+  "stop_reason": "no audited positives"
+}"#,
+    )
+    .unwrap();
+    let summary_dir = temp_root.join("data/events/material_customer_contract_loss_8k");
+    std::fs::create_dir_all(&summary_dir).unwrap();
+    std::fs::write(
+        summary_dir.join("run_summary.json"),
+        r#"{
+  "source_rows": 191,
+  "parsed_rows": 191,
+  "event_type_counts": {
+    "material_customer_loss": 1,
+    "contract_termination": 0
+  }
+}"#,
+    )
+    .unwrap();
+
+    let (job, feedback) = complete_job(
+        &temp_root,
+        &orchestrator_config,
+        "material_customer_contract_loss_8k",
+        CompleteJobOptions {
+            final_status: "parser_not_trusted".to_string(),
+            report_path: report.clone(),
+            registry_update_path: registry_update.clone(),
+            audited_true_positive_rows: Some(0),
+            reviewed_usable_rows: Some(0),
+            likely_oos: Some(0),
+            ..CompleteJobOptions::default()
+        },
+    )
+    .unwrap();
+
+    assert_eq!(job.status, JobStatus::Completed);
+    assert_eq!(job.final_status.as_deref(), Some("parser_not_trusted"));
+    assert_eq!(feedback.source_rows, Some(191));
+    assert_eq!(feedback.machine_positive_rows, Some(1));
+    assert_eq!(feedback.audited_true_positive_rows, Some(0));
+    assert_eq!(
+        feedback.stop_reason.as_deref(),
+        Some("no audited positives")
+    );
+
+    let feedback_path = temp_root.join("artifacts/orchestrator/domain_feedback.jsonl");
+    let feedback_text = std::fs::read_to_string(feedback_path).unwrap();
+    assert!(feedback_text.contains("\"domain\":\"material_customer_contract_loss_8k\""));
+    assert!(feedback_text.contains("\"audited_true_positive_rows\":0"));
 
     std::fs::remove_dir_all(&temp_root).unwrap();
 }

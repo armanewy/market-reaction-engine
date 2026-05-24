@@ -83,6 +83,14 @@ cargo run -- orchestrate --root . --once
 cargo run -- approve --root . --domain material_customer_contract_loss_8k
 cargo run -- research-prompt --root . --domain material_customer_contract_loss_8k
 
+# Mark a completed run and append feedback for future scoring
+cargo run -- complete-job \
+  --root . \
+  --domain material_customer_contract_loss_8k \
+  --status parser_not_trusted \
+  --report ../artifacts/material_customer_contract_loss_8k_domain_final_report.md \
+  --registry-update ../artifacts/material_customer_contract_loss_8k_registry_update.json
+
 # Reject or archive queued jobs you do not want active
 cargo run -- reject --root . --domain executive_departure_for_cause_8k --reason "not first priority"
 cargo run -- archive-job --root . --domain regulatory_investigation_8k --reason "deferred"
@@ -109,6 +117,7 @@ artifacts/domain_finder/dashboard/dashboard_state.json
 artifacts/orchestrator/jobs/<domain>.json
 artifacts/orchestrator/notifications/latest.md
 artifacts/orchestrator/prompts/<domain>.md
+artifacts/orchestrator/domain_feedback.jsonl
 ```
 
 ## Observation feed format
@@ -410,6 +419,20 @@ cargo run -- archive-job --root . --domain regulatory_investigation_8k --reason 
 
 # Generate the MRE research prompt for an approved job
 cargo run -- research-prompt --root . --domain material_customer_contract_loss_8k
+
+# Mark a completed MRE run and append feedback
+cargo run -- complete-job \
+  --root . \
+  --domain material_customer_contract_loss_8k \
+  --status parser_not_trusted \
+  --report ../artifacts/material_customer_contract_loss_8k_domain_final_report.md \
+  --registry-update ../artifacts/material_customer_contract_loss_8k_registry_update.json \
+  --source-rows 191 \
+  --parsed-rows 191 \
+  --machine-positive-rows 1 \
+  --audited-true-positive-rows 0 \
+  --reviewed-usable-rows 0 \
+  --likely-oos 0
 ```
 
 The default config is `config/orchestrator.toml`. By default, the orchestrator
@@ -423,6 +446,7 @@ Orchestrator outputs:
 artifacts/orchestrator/jobs/<domain>.json
 artifacts/orchestrator/notifications/latest.md
 artifacts/orchestrator/prompts/<domain>.md
+artifacts/orchestrator/domain_feedback.jsonl
 ../docs/intakes/generated/<domain>.md
 ```
 

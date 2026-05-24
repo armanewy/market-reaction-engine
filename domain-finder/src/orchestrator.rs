@@ -9,6 +9,8 @@ use anyhow::Context;
 use chrono::Utc;
 use serde::{Deserialize, Serialize};
 use std::fs;
+use std::fs::OpenOptions;
+use std::io::Write;
 use std::path::{Path, PathBuf};
 
 const PROBE_FAMILIES: [&str; 5] = ["sec", "agency", "fda", "litigation", "index"];
@@ -52,6 +54,8 @@ pub struct OrchestratorPaths {
     pub notifications_dir: String,
     #[serde(default = "default_prompts_dir")]
     pub prompts_dir: String,
+    #[serde(default = "default_feedback_path")]
+    pub feedback_path: String,
 }
 
 impl Default for OrchestratorPaths {
@@ -62,6 +66,7 @@ impl Default for OrchestratorPaths {
             jobs_dir: default_jobs_dir(),
             notifications_dir: default_notifications_dir(),
             prompts_dir: default_prompts_dir(),
+            feedback_path: default_feedback_path(),
         }
     }
 }
@@ -191,9 +196,46 @@ pub struct OrchestratorJob {
     pub next_action: String,
     #[serde(default)]
     pub terminal_reason: Option<String>,
+    #[serde(default)]
+    pub final_status: Option<String>,
+    #[serde(default)]
+    pub report_path: Option<String>,
+    #[serde(default)]
+    pub registry_update_path: Option<String>,
     pub registry_status: Option<String>,
     pub registry_stop_reason: Option<String>,
     pub registry_revisit_trigger: Option<String>,
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct CompleteJobOptions {
+    pub final_status: String,
+    pub report_path: PathBuf,
+    pub registry_update_path: PathBuf,
+    pub reason: Option<String>,
+    pub source_rows: Option<u64>,
+    pub parsed_rows: Option<u64>,
+    pub machine_positive_rows: Option<u64>,
+    pub audited_true_positive_rows: Option<u64>,
+    pub reviewed_usable_rows: Option<u64>,
+    pub likely_oos: Option<u64>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct DomainFeedback {
+    pub domain: String,
+    pub status: String,
+    pub stage_reached: Option<String>,
+    pub source_rows: Option<u64>,
+    pub parsed_rows: Option<u64>,
+    pub machine_positive_rows: Option<u64>,
+    pub audited_true_positive_rows: Option<u64>,
+    pub reviewed_usable_rows: Option<u64>,
+    pub likely_oos: Option<u64>,
+    pub stop_reason: Option<String>,
+    pub report_path: String,
+    pub registry_update_path: String,
+    pub timestamp: String,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -376,6 +418,73 @@ pub fn archive_job(
     update_terminal_job(root, config, domain, JobStatus::Archived, reason)
 }
 
+pub fn complete_job(
+    root: &Path,
+    config: &OrchestratorConfig,
+    domain: &str,
+    options: CompleteJobOptions,
+) -> anyhow::Result<(OrchestratorJob, DomainFeedback)> {
+    let paths = ResolvedPaths::new(root, config);
+    let job_path = job_path(&paths.jobs_dir, domain);
+    let mut job = read_job(&job_path)?;
+
+    let registry_update = read_optional_json(&options.registry_update_path)?;
+    let run_summary = read_optional_json(
+        &paths
+            .mre_root
+            .join("data/events")
+            .join(domain)
+            .join("run_summary.json"),
+    )?;
+
+    let now = Utc::now().to_rfc3339();
+    let stop_reason = json_string(&registry_update, "stop_reason")
+        .or_else(|| options.reason.clone())
+        .or_else(|| job.terminal_reason.clone());
+    let stage_reached = json_string(&registry_update, "stage_reached");
+
+    let feedback = DomainFeedback {
+        domain: domain.to_string(),
+        status: options.final_status.clone(),
+        stage_reached,
+        source_rows: options
+            .source_rows
+            .or_else(|| json_u64(&run_summary, "source_rows")),
+        parsed_rows: options
+            .parsed_rows
+            .or_else(|| json_u64(&run_summary, "parsed_rows"))
+            .or_else(|| json_u64(&run_summary, "source_rows")),
+        machine_positive_rows: options.machine_positive_rows.or_else(|| {
+            json_map_u64(&run_summary, "event_type_counts", "material_customer_loss").map(|loss| {
+                loss + json_map_u64(&run_summary, "event_type_counts", "contract_termination")
+                    .unwrap_or(0)
+            })
+        }),
+        audited_true_positive_rows: options.audited_true_positive_rows,
+        reviewed_usable_rows: options.reviewed_usable_rows,
+        likely_oos: options.likely_oos,
+        stop_reason,
+        report_path: options.report_path.display().to_string(),
+        registry_update_path: options.registry_update_path.display().to_string(),
+        timestamp: now.clone(),
+    };
+
+    job.status = JobStatus::Completed;
+    job.updated_at = now;
+    job.final_status = Some(options.final_status);
+    job.report_path = Some(options.report_path.display().to_string());
+    job.registry_update_path = Some(options.registry_update_path.display().to_string());
+    job.terminal_reason = feedback.stop_reason.clone();
+    job.next_action = "completed; review final report and registry update".to_string();
+    write_job(&paths.jobs_dir, &job)?;
+    append_feedback(&paths.feedback_path, &feedback)?;
+    write_string(
+        &paths.notifications_dir.join("latest.md"),
+        &completion_notification_markdown(&job, &feedback),
+    )?;
+    Ok((job, feedback))
+}
+
 pub fn list_jobs(root: &Path, config: &OrchestratorConfig) -> anyhow::Result<Vec<OrchestratorJob>> {
     let paths = ResolvedPaths::new(root, config);
     load_jobs(&paths.jobs_dir)
@@ -477,6 +586,9 @@ fn job_from_candidate(candidate: &DomainCandidate, intake_path: &Path) -> Orches
         updated_at: now,
         next_action: "review intake and approve research run".to_string(),
         terminal_reason: None,
+        final_status: None,
+        report_path: None,
+        registry_update_path: None,
         registry_status: candidate
             .registry_status
             .as_ref()
@@ -529,6 +641,46 @@ fn write_job(jobs_dir: &Path, job: &OrchestratorJob) -> anyhow::Result<()> {
     let path = job_path(jobs_dir, &job.domain);
     let text = serde_json::to_string_pretty(job)?;
     write_string(&path, &text)
+}
+
+fn append_feedback(path: &Path, feedback: &DomainFeedback) -> anyhow::Result<()> {
+    if let Some(parent) = path.parent() {
+        ensure_dir(parent)?;
+    }
+    let mut file = OpenOptions::new()
+        .create(true)
+        .append(true)
+        .open(path)
+        .with_context(|| format!("failed to open feedback file {}", path.display()))?;
+    writeln!(file, "{}", serde_json::to_string(feedback)?)?;
+    Ok(())
+}
+
+fn read_optional_json(path: &Path) -> anyhow::Result<serde_json::Value> {
+    if !path.exists() {
+        return Ok(serde_json::Value::Null);
+    }
+    let text =
+        fs::read_to_string(path).with_context(|| format!("failed to read {}", path.display()))?;
+    serde_json::from_str(&text).with_context(|| format!("failed to parse {}", path.display()))
+}
+
+fn json_string(value: &serde_json::Value, key: &str) -> Option<String> {
+    value
+        .get(key)
+        .and_then(|item| item.as_str())
+        .map(str::to_string)
+}
+
+fn json_u64(value: &serde_json::Value, key: &str) -> Option<u64> {
+    value.get(key).and_then(|item| item.as_u64())
+}
+
+fn json_map_u64(value: &serde_json::Value, map_key: &str, item_key: &str) -> Option<u64> {
+    value
+        .get(map_key)
+        .and_then(|item| item.get(item_key))
+        .and_then(|item| item.as_u64())
 }
 
 fn job_path(jobs_dir: &Path, domain: &str) -> PathBuf {
@@ -588,6 +740,25 @@ fn notification_markdown(
             ));
         }
     }
+    out
+}
+
+fn completion_notification_markdown(job: &OrchestratorJob, feedback: &DomainFeedback) -> String {
+    let mut out = String::new();
+    out.push_str("# Domain Finder Job Completion\n\n");
+    out.push_str(&format!("Generated: `{}`\n\n", Utc::now().to_rfc3339()));
+    out.push_str(&format!("- domain: `{}`\n", job.domain));
+    out.push_str(&format!("- job status: `{}`\n", job.status.label()));
+    out.push_str(&format!("- final status: `{}`\n", feedback.status));
+    out.push_str(&format!("- report: `{}`\n", feedback.report_path));
+    out.push_str(&format!(
+        "- registry update: `{}`\n",
+        feedback.registry_update_path
+    ));
+    if let Some(reason) = &feedback.stop_reason {
+        out.push_str(&format!("- stop reason: {}\n", reason));
+    }
+    out.push_str("\nNo registry update was applied automatically.\n");
     out
 }
 
@@ -663,6 +834,7 @@ struct ResolvedPaths {
     jobs_dir: PathBuf,
     notifications_dir: PathBuf,
     prompts_dir: PathBuf,
+    feedback_path: PathBuf,
 }
 
 impl ResolvedPaths {
@@ -673,6 +845,7 @@ impl ResolvedPaths {
             jobs_dir: rel(&domain_finder_root, &config.paths.jobs_dir),
             notifications_dir: rel(&domain_finder_root, &config.paths.notifications_dir),
             prompts_dir: rel(&domain_finder_root, &config.paths.prompts_dir),
+            feedback_path: rel(&domain_finder_root, &config.paths.feedback_path),
         }
     }
 }
@@ -708,6 +881,9 @@ fn default_notifications_dir() -> String {
 }
 fn default_prompts_dir() -> String {
     "artifacts/orchestrator/prompts".to_string()
+}
+fn default_feedback_path() -> String {
+    "artifacts/orchestrator/domain_feedback.jsonl".to_string()
 }
 fn default_interval_secs() -> u64 {
     900

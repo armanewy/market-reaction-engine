@@ -4,6 +4,7 @@ domain_finder_root = "."
 jobs_dir = "artifacts/orchestrator/jobs"
 notifications_dir = "artifacts/orchestrator/notifications"
 prompts_dir = "artifacts/orchestrator/prompts"
+feedback_path = "artifacts/orchestrator/domain_feedback.jsonl"
 
 [loop]
 interval_secs = 900

@@ -10,8 +10,9 @@ use domain_finder::operations::{
     load_candidates, top_candidates, top_report,
 };
 use domain_finder::orchestrator::{
-    approve_job, archive_job, generate_research_prompt, jobs_report, list_jobs, reject_job,
-    run_orchestrator_once, OrchestratorConfig, OrchestratorRunOptions,
+    approve_job, archive_job, complete_job, generate_research_prompt, jobs_report, list_jobs,
+    reject_job, run_orchestrator_once, CompleteJobOptions, OrchestratorConfig,
+    OrchestratorRunOptions,
 };
 use domain_finder::pipeline::{candidate_from_observations, init_project, run_scan};
 use domain_finder::probes::{probe_family, ProbeOptions};
@@ -170,6 +171,8 @@ enum Commands {
     Reject(UpdateJobArgs),
     /// Archive an orchestrator job with an optional reason.
     ArchiveJob(UpdateJobArgs),
+    /// Mark an orchestrator job complete and append domain feedback.
+    CompleteJob(CompleteJobArgs),
     /// List queued orchestrator jobs.
     ListJobs(ListJobsArgs),
     /// Generate an approved MRE research prompt.
@@ -249,6 +252,38 @@ struct ListJobsArgs {
     root: PathBuf,
     #[arg(long)]
     config: Option<PathBuf>,
+    #[arg(long)]
+    json: bool,
+}
+
+#[derive(Debug, clap::Args)]
+struct CompleteJobArgs {
+    #[arg(long, default_value = ".")]
+    root: PathBuf,
+    #[arg(long)]
+    config: Option<PathBuf>,
+    #[arg(long)]
+    domain: String,
+    #[arg(long)]
+    status: String,
+    #[arg(long)]
+    report: PathBuf,
+    #[arg(long = "registry-update")]
+    registry_update: PathBuf,
+    #[arg(long)]
+    reason: Option<String>,
+    #[arg(long = "source-rows")]
+    source_rows: Option<u64>,
+    #[arg(long = "parsed-rows")]
+    parsed_rows: Option<u64>,
+    #[arg(long = "machine-positive-rows")]
+    machine_positive_rows: Option<u64>,
+    #[arg(long = "audited-true-positive-rows")]
+    audited_true_positive_rows: Option<u64>,
+    #[arg(long = "reviewed-usable-rows")]
+    reviewed_usable_rows: Option<u64>,
+    #[arg(long = "likely-oos")]
+    likely_oos: Option<u64>,
     #[arg(long)]
     json: bool,
 }
@@ -481,6 +516,36 @@ fn main() -> anyhow::Result<()> {
                 println!("{}", serde_json::to_string_pretty(&job)?);
             } else {
                 println!("archived {} -> status={}", job.domain, job.status.label());
+            }
+        }
+        Commands::CompleteJob(args) => {
+            let cfg = load_orchestrator_config(&args.root, args.config.as_deref())?;
+            let (job, feedback) = complete_job(
+                &args.root,
+                &cfg,
+                &args.domain,
+                CompleteJobOptions {
+                    final_status: args.status,
+                    report_path: args.report,
+                    registry_update_path: args.registry_update,
+                    reason: args.reason,
+                    source_rows: args.source_rows,
+                    parsed_rows: args.parsed_rows,
+                    machine_positive_rows: args.machine_positive_rows,
+                    audited_true_positive_rows: args.audited_true_positive_rows,
+                    reviewed_usable_rows: args.reviewed_usable_rows,
+                    likely_oos: args.likely_oos,
+                },
+            )?;
+            if args.json {
+                println!("{}", serde_json::to_string_pretty(&feedback)?);
+            } else {
+                println!(
+                    "completed {} -> status={} final_status={}",
+                    job.domain,
+                    job.status.label(),
+                    feedback.status
+                );
             }
         }
         Commands::ListJobs(args) => {
