@@ -20,7 +20,7 @@ Durable infrastructure:
   SEC-CORE
     reusable SEC source/context/timestamp/readiness tooling
 
-Underpowered, not failed:
+Underpowered monitor, not failed:
   cybersecurity_material_incidents_8k
     monitor later as Item 1.05 sample grows
 

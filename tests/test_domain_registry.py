@@ -16,8 +16,9 @@ REGISTRY = """# Registry
 
 | Domain | Status | Stage Reached | Stop Reason | Last Known Commit | Revisit Trigger |
 | --- | --- | --- | --- | --- | --- |
-| `cybersecurity_material_incidents_8k` | underpowered, not failed | monitor/readiness | Too few rows | `878db5f` | Rerun at 80 reviewed rows. |
+| `cybersecurity_material_incidents_8k` | underpowered_monitor | monitor/readiness | Too few rows | `878db5f` | Rerun at 80 reviewed rows. |
 | `insider_purchase_clusters` | frozen | causal rebuild/final audit | Null-shuffle failed | `b0923ce` | New thesis only. |
+| `bank_regulatory_enforcement` | underpowered_feasibility | source/corpus/readiness | Too few public bank rows | `cb53eba` | Expand OCC/FDIC/state sources before rerun. |
 """
 
 
@@ -47,13 +48,14 @@ def test_load_domain_registry_and_format_status(tmp_path):
     assert [record.domain for record in records] == [
         "cybersecurity_material_incidents_8k",
         "insider_purchase_clusters",
+        "bank_regulatory_enforcement",
     ]
     rendered = format_domain_status(records)
-    assert "underpowered, not failed" in rendered
+    assert "underpowered_monitor" in rendered
     assert "New thesis only." in rendered
 
 
-def test_revisit_triggers_only_includes_monitor_or_underpowered(tmp_path):
+def test_revisit_triggers_only_includes_monitor_domains(tmp_path):
     registry = tmp_path / "registry.md"
     registry.write_text(REGISTRY, encoding="utf-8")
 
@@ -61,6 +63,7 @@ def test_revisit_triggers_only_includes_monitor_or_underpowered(tmp_path):
 
     assert "cybersecurity_material_incidents_8k" in rendered
     assert "insider_purchase_clusters" not in rendered
+    assert "bank_regulatory_enforcement" not in rendered
 
 
 def test_score_intake_recommends_full_lifecycle(tmp_path):
@@ -95,6 +98,32 @@ def test_write_domain_final_report_from_registry(tmp_path):
     assert "ready: no" in text
 
 
+def test_write_domain_final_report_refuses_overwrite_without_flag(tmp_path):
+    registry = tmp_path / "registry.md"
+    registry.write_text(REGISTRY, encoding="utf-8")
+    out = tmp_path / "final.md"
+    out.write_text("existing", encoding="utf-8")
+
+    try:
+        write_domain_final_report(
+            domain="insider_purchase_clusters",
+            out_path=out,
+            registry_path=registry,
+        )
+    except FileExistsError as exc:
+        assert "Refusing to overwrite" in str(exc)
+    else:
+        raise AssertionError("Expected FileExistsError")
+
+    write_domain_final_report(
+        domain="insider_purchase_clusters",
+        out_path=out,
+        registry_path=registry,
+        overwrite=True,
+    )
+    assert "Null-shuffle failed" in out.read_text(encoding="utf-8")
+
+
 def test_research_ops_cli_commands_parse(tmp_path):
     parser = build_parser()
     registry = tmp_path / "registry.md"
@@ -105,11 +134,14 @@ def test_research_ops_cli_commands_parse(tmp_path):
     status_args = parser.parse_args(["domain-status", "--registry", str(registry), "--json"])
     intake_args = parser.parse_args(["domain-intake-score", "--input", str(intake), "--json"])
     triggers_args = parser.parse_args(["revisit-triggers", "--registry", str(registry), "--json"])
+    report_args = parser.parse_args(
+        ["domain-final-report", "--domain", "insider_purchase_clusters", "--out", str(tmp_path / "x.md"), "--overwrite"]
+    )
 
     assert status_args.func.__name__ == "cmd_domain_status"
     assert intake_args.func.__name__ == "cmd_domain_intake_score"
     assert triggers_args.func.__name__ == "cmd_revisit_triggers"
+    assert report_args.overwrite is True
 
     # Keep json imported and verify the test fixture is valid for CLI JSON output expectations.
     assert json.loads('[{"ok": true}]')[0]["ok"] is True
-

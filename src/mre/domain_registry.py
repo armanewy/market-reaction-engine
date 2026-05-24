@@ -198,8 +198,8 @@ def format_intake_score(score: IntakeScore) -> str:
 def monitor_records(records: Iterable[DomainRecord]) -> list[DomainRecord]:
     monitors: list[DomainRecord] = []
     for record in records:
-        haystack = f"{record.status} {record.revisit_trigger}".lower()
-        if "monitor" in haystack or "underpowered" in haystack:
+        haystack = f"{record.status} {record.stage_reached}".lower()
+        if "monitor" in haystack:
             monitors.append(record)
     return monitors
 
@@ -207,7 +207,7 @@ def monitor_records(records: Iterable[DomainRecord]) -> list[DomainRecord]:
 def format_revisit_triggers(records: Iterable[DomainRecord]) -> str:
     rows = monitor_records(records)
     if not rows:
-        return "No monitor or underpowered domains found in registry."
+        return "No monitor domains found in registry."
     lines = ["Revisit triggers", ""]
     for record in rows:
         lines.append(f"- {record.domain}: {record.status}; {record.revisit_trigger}")
@@ -237,6 +237,7 @@ def write_domain_final_report(
     falsification_report: str | Path | None = None,
     fresh_confirmation_report: str | Path | None = None,
     execution_audit: str | Path | None = None,
+    overwrite: bool = False,
 ) -> DomainRecord:
     records = load_domain_registry(registry_path)
     normalized_domain = domain.strip().lower()
@@ -246,6 +247,8 @@ def write_domain_final_report(
         raise ValueError(f"Domain '{domain}' not found in registry. Known domains: {known}")
     record = matches[0]
     out = Path(out_path)
+    if out.exists() and not overwrite:
+        raise FileExistsError(f"Refusing to overwrite existing report: {out}. Pass overwrite=True to replace it.")
     out.parent.mkdir(parents=True, exist_ok=True)
     body = f"""# {record.domain} Domain Final Report
 
@@ -289,4 +292,3 @@ triggers.
 """
     out.write_text(body, encoding="utf-8")
     return record
-

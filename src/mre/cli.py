@@ -425,6 +425,7 @@ def cmd_domain_final_report(args: argparse.Namespace) -> None:
         falsification_report=args.falsification_report,
         fresh_confirmation_report=args.fresh_confirmation_report,
         execution_audit=args.execution_audit,
+        overwrite=args.overwrite,
     )
     print(json.dumps({"domain": record.domain, "status": record.status, "out": str(args.out)}, indent=2))
 
@@ -1898,6 +1899,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--falsification-report")
     p.add_argument("--fresh-confirmation-report")
     p.add_argument("--execution-audit")
+    p.add_argument("--overwrite", action="store_true")
     p.set_defaults(func=cmd_domain_final_report)
 
     p = sub.add_parser("extract-facts", help="Extract evidence-grounded earnings/guidance facts from a source-document manifest.")
