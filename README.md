@@ -47,6 +47,8 @@ For contributor orientation, see `docs/ARCHITECTURE_MAP.md`,
 For the source-backed disclosure intelligence pivot and first Cyber 8-K Watch
 vertical, see `docs/DISCLOSURE_INTELLIGENCE_PIVOT.md` and
 `docs/CYBER_8K_WATCH.md`.
+For the first non-SEC source-generalization experiment using local official
+company press releases, see `docs/OFFICIAL_COMPANY_PRESS_RELEASE_EXPERIMENT.md`.
 
 The current pipeline is:
 

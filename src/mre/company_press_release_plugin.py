@@ -41,6 +41,23 @@ COMPANY_PRESS_RELEASE_PLUGIN_MANIFEST = PluginManifest(
     output_contracts=["normalized_source_document", "event_candidate", "claim", "evidence_span"],
 )
 
+COMPANY_PRESS_RELEASE_MANIFEST_COLUMNS = [
+    "source_record_id",
+    "source_url",
+    "title",
+    "published_at",
+    "retrieved_at",
+    "document_type",
+    "document_subtype",
+    "source_authority_level",
+    "source_role",
+    "jurisdiction",
+    "company_name",
+    "domain",
+    "path",
+    "text",
+]
+
 
 def _norm(value: object, default: str = "") -> str:
     if value is None:
@@ -79,6 +96,33 @@ def _event_rows(report: PluginRunReport) -> list[dict[str, Any]]:
 def _read_manifest(path: Path) -> list[dict[str, Any]]:
     frame = pd.read_csv(path).fillna("")
     return [dict(row) for _, row in frame.iterrows()]
+
+
+def write_company_press_release_manifest_template(out_path: str | Path) -> Path:
+    path = Path(out_path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    pd.DataFrame(
+        [
+            {
+                "source_record_id": "example-company-pr-001",
+                "source_url": "https://example.invalid/company/security-update",
+                "title": "Example Company security update",
+                "published_at": "2026-05-25T12:00:00Z",
+                "retrieved_at": "2026-05-25T13:00:00Z",
+                "document_type": "press_release",
+                "document_subtype": "security_update",
+                "source_authority_level": "official_company",
+                "source_role": "canonical",
+                "jurisdiction": "US",
+                "company_name": "Example Company",
+                "domain": "example.invalid",
+                "path": "docs/example_security_update.txt",
+                "text": "",
+            }
+        ],
+        columns=COMPANY_PRESS_RELEASE_MANIFEST_COLUMNS,
+    ).to_csv(path, index=False)
+    return path
 
 
 class CompanyPressReleaseSourceAdapter:

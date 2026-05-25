@@ -66,6 +66,7 @@ from ..government_contract_falsification import run_government_contract_falsific
 from ..corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
 from ..corpus_demo import generate_corpus_demo_data
 from ..claim_review import make_claim_review_queue
+from ..company_press_release_plugin import run_company_press_release_experiment, write_company_press_release_manifest_template
 from ..cyber_8k_dataset import build_cyber_8k_dataset
 from ..cyber_8k_digest import build_cyber_8k_digest
 from ..cyber_8k_plugin import run_cyber_8k_plugin_manifest
@@ -1793,6 +1794,25 @@ def cmd_generic_template(args: argparse.Namespace) -> None:
 
 def cmd_generic_run(args: argparse.Namespace) -> None:
     report = run_generic_pipeline(args.config, dry_run=args.dry_run)
+    print(json.dumps(report, indent=2, sort_keys=True, default=str))
+
+
+def cmd_press_release_template(args: argparse.Namespace) -> None:
+    path = write_company_press_release_manifest_template(args.out)
+    print(f"Wrote official-company press-release manifest template: {path}")
+
+
+def cmd_press_release_run(args: argparse.Namespace) -> None:
+    report = run_company_press_release_experiment(
+        args.documents,
+        out_dir=args.out_dir,
+        auto_accept_min_confidence=args.auto_accept_min_confidence,
+        build_quality_report=not args.no_quality_report,
+        build_static_site=not args.no_static_site,
+        build_api_export=not args.no_api_export,
+        build_digest=not args.no_digest,
+        write_manifest=not args.no_run_manifest,
+    )
     print(json.dumps(report, indent=2, sort_keys=True, default=str))
 
 
