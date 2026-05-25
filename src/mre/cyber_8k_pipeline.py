@@ -135,7 +135,13 @@ def run_cyber_8k_pipeline(config_path, *, dry_run: bool = False) -> dict:
     )
     stages.extend(
         [
-            _stage("parse_claims", "completed", claims=summary["claims"], evidence_spans=summary["evidence_spans"]),
+            _stage(
+                "parse_claims",
+                "completed",
+                claims=summary["claims"],
+                evidence_spans=summary["evidence_spans"],
+                extraction_path=summary.get("parse_diagnostics", {}).get("extraction_path", ""),
+            ),
             _stage("claim_review_queue", "completed", rows=summary["review_queue_rows"]),
             _stage("build_dataset", "completed", events=summary["events"]),
         ]

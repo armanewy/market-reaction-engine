@@ -8,7 +8,7 @@ import pandas as pd
 
 from .amendments import add_amendment_flags, build_amendment_chains
 from .claim_review import make_claim_review_queue
-from .cyber_8k_parser import run_cyber_8k_parse_manifest
+from .cyber_8k_plugin import run_cyber_8k_plugin_manifest
 from .paths import ensure_dir, ensure_parent
 from .source_docs import SourceDocument, load_source_documents
 from .timestamp_readiness import classify_release_session_readiness_frame
@@ -133,7 +133,7 @@ def build_cyber_8k_dataset(
     evidence = _load_frame(evidence_spans_csv)
     parse_diagnostics: dict[str, Any] = {}
     if claims is None or evidence is None:
-        claims, evidence, parse_diagnostics = run_cyber_8k_parse_manifest(documents_manifest)
+        claims, evidence, parse_diagnostics = run_cyber_8k_plugin_manifest(documents_manifest)
 
     review_queue = _load_frame(review_queue_csv)
     review_diagnostics: dict[str, Any] = {}

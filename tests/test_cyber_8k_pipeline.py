@@ -28,6 +28,8 @@ def test_cyber_8k_pipeline_runs_offline_from_existing_manifest(tmp_path):
     assert (out_dir / "cyber_quality_report.md").exists()
     assert (out_dir / "run_manifest.json").exists()
     assert [stage["name"] for stage in report["stages"]][-1] == "run_manifest"
+    parse_stage = next(stage for stage in report["stages"] if stage["name"] == "parse_claims")
+    assert parse_stage["extraction_path"] == "generic_plugin"
 
 
 def test_cyber_8k_pipeline_dry_run_does_not_write_outputs(tmp_path):

@@ -68,7 +68,7 @@ from ..corpus_demo import generate_corpus_demo_data
 from ..claim_review import make_claim_review_queue
 from ..cyber_8k_dataset import build_cyber_8k_dataset
 from ..cyber_8k_digest import build_cyber_8k_digest
-from ..cyber_8k_parser import run_cyber_8k_parse_manifest
+from ..cyber_8k_plugin import run_cyber_8k_plugin_manifest
 from ..cyber_8k_pipeline import run_cyber_8k_pipeline, write_cyber_8k_pipeline_template
 from ..cyber_8k_quality import build_cyber_8k_quality_report
 from ..cyber_8k_site import build_cyber_8k_static_site
@@ -1703,7 +1703,7 @@ def cmd_cyber_8k_source_docs(args: argparse.Namespace) -> None:
 
 
 def cmd_cyber_8k_parse(args: argparse.Namespace) -> None:
-    claims, evidence, diagnostics = run_cyber_8k_parse_manifest(args.documents, claims_out=args.claims_out, evidence_out=args.evidence_out)
+    claims, evidence, diagnostics = run_cyber_8k_plugin_manifest(args.documents, claims_out=args.claims_out, evidence_out=args.evidence_out)
     print(f"Wrote {len(claims)} claim row(s) and {len(evidence)} evidence span row(s).")
     print(json.dumps(diagnostics, indent=2, sort_keys=True))
 
