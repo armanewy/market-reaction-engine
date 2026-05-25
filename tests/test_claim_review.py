@@ -68,7 +68,7 @@ def test_evidence_join_and_auto_accept_high_confidence():
     queue, diagnostics = make_claim_review_queue(_claims(), _evidence(), auto_accept_min_confidence=0.9)
 
     by_claim = queue.set_index("claim_id")
-    assert by_claim.loc["c1", "review_status"] == "reviewed"
+    assert by_claim.loc["c1", "review_status"] == "machine_high_confidence"
     assert by_claim.loc["c1", "label_quality"] == "machine_high_confidence"
     assert by_claim.loc["c2", "review_status"] == "needs_review"
     assert diagnostics["auto_reviewed"] == 1

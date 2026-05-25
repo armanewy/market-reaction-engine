@@ -50,7 +50,7 @@ def _write_quality_inputs(tmp_path: Path) -> tuple[Path, Path, Path, Path]:
             {"claim_id": "C1", "field_name": "ransomware_mentioned", "review_status": "reviewed", "evidence_present": True},
             {"claim_id": "C2", "field_name": "ransomware_mentioned", "review_status": "rejected", "evidence_present": True},
             {"claim_id": "C3", "field_name": "third_party_vendor_mentioned", "review_status": "needs_review", "evidence_present": False},
-            {"claim_id": "C4", "field_name": "impact_unknown_or_not_determined", "review_status": "needs_review", "evidence_present": True},
+            {"claim_id": "C4", "field_name": "impact_unknown_or_not_determined", "review_status": "machine_high_confidence", "evidence_present": True},
         ]
     )
     paths = []
@@ -71,17 +71,24 @@ def test_build_cyber_8k_quality_report_counts_and_warnings(tmp_path: Path):
     assert report["n_events"] == 2
     assert report["n_companies"] == 2
     assert report["n_claims"] == 4
-    assert report["n_reviewed_claims"] == 1
+    assert report["n_reviewed_claims"] == 2
+    assert report["n_human_reviewed_claims"] == 1
+    assert report["n_machine_high_confidence_claims"] == 1
     assert report["n_rejected_claims"] == 1
+    assert report["n_needs_review_claims"] == 1
     assert report["n_missing_evidence_claims"] == 1
     assert report["timestamp_readiness_status_counts"] == {"ok": 1, "warning": 1}
     assert report["amendment_coverage"]["events_amended_later"] == 1
     assert "low_review_coverage" in report["warnings"]
+    assert "low_human_review_coverage" in report["warnings"]
     assert "missing_evidence" in report["warnings"]
     assert "unknown_or_non_ok_timestamp_readiness" in report["warnings"]
     assert "high_rejection_rate_fields:ransomware_mentioned" in report["warnings"]
     assert json.loads(out_json.read_text(encoding="utf-8"))["n_claims"] == 4
-    assert "Cyber 8-K Quality Report" in out_md.read_text(encoding="utf-8")
+    markdown = out_md.read_text(encoding="utf-8")
+    assert "Cyber 8-K Quality Report" in markdown
+    assert "Human reviewed claims: 1" in markdown
+    assert "Machine high-confidence claims: 1" in markdown
 
 
 def test_cyber_8k_quality_report_cli_writes_outputs(tmp_path: Path):

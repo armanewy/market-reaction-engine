@@ -59,6 +59,8 @@ def register(sub) -> None:
     p.add_argument("--evidence-spans", required=True)
     p.add_argument("--out-dir", required=True)
     p.add_argument("--title", default="Cyber 8-K Watch")
+    p.add_argument("--source-documents")
+    p.add_argument("--source-docs-dir")
     p.set_defaults(func=cmd.cmd_cyber_8k_build_site)
 
     p = sub.add_parser("cyber-8k-digest", help="Build a Markdown Cyber 8-K Watch digest.")

@@ -95,7 +95,7 @@ def make_claim_review_queue(
 
     diagnostics = ClaimReviewDiagnostics(claims_total=int(len(queue)))
     rows: list[dict] = []
-    preserved_statuses = {"reviewed", "approved", "rejected"}
+    preserved_statuses = {"reviewed", "approved", "human_reviewed", "machine_high_confidence", "auto_reviewed", "rejected"}
     for _, row in queue.iterrows():
         evidence_text = _norm(row.get("evidence_text"))
         evidence_present = bool(evidence_text)
@@ -113,7 +113,7 @@ def make_claim_review_queue(
             review_status = "needs_review"
             label_quality = _norm(row.get("label_quality"))
         elif auto_accept_min_confidence is not None and confidence >= auto_accept_min_confidence and evidence_present:
-            review_status = "reviewed"
+            review_status = "machine_high_confidence"
             label_quality = "machine_high_confidence"
             diagnostics.auto_reviewed += 1
         else:

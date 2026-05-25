@@ -19,6 +19,11 @@ BOOLEAN_FIELDS = (
     "reasonably_likely_material_impact_language",
 )
 
+HUMAN_REVIEW_STATUSES = {"reviewed", "approved", "human_reviewed"}
+MACHINE_HIGH_CONFIDENCE_STATUSES = {"machine_high_confidence", "auto_reviewed"}
+REJECTED_STATUSES = {"rejected"}
+NEEDS_REVIEW_STATUSES = {"needs_review", "missing_evidence", ""}
+
 
 def _load_frame(value: str | Path | pd.DataFrame | None) -> pd.DataFrame:
     if value is None:
@@ -124,12 +129,16 @@ def _field_review_rates(status_df: pd.DataFrame) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
     for field, group in status_df.groupby("field_name", dropna=False):
         statuses = group.get("review_status", pd.Series("", index=group.index)).fillna("").astype(str).str.lower()
-        rejected = int((statuses == "rejected").sum())
-        needs_review = int(statuses.isin({"needs_review", "missing_evidence", ""}).sum())
+        rejected = int(statuses.isin(REJECTED_STATUSES).sum())
+        needs_review = int(statuses.isin(NEEDS_REVIEW_STATUSES).sum())
+        human_reviewed = int(statuses.isin(HUMAN_REVIEW_STATUSES).sum())
+        machine_high_confidence = int(statuses.isin(MACHINE_HIGH_CONFIDENCE_STATUSES).sum())
         rows.append(
             {
                 "field_name": str(field),
                 "claims": int(len(group)),
+                "human_reviewed": human_reviewed,
+                "machine_high_confidence": machine_high_confidence,
                 "rejected": rejected,
                 "needs_review": needs_review,
                 "rejected_rate": float(rejected / len(group)) if len(group) else 0.0,
@@ -158,6 +167,7 @@ def _amendment_coverage(events: pd.DataFrame) -> dict[str, Any]:
 def _warnings(
     *,
     review_coverage_rate: float,
+    human_review_coverage_rate: float,
     n_missing_evidence_claims: int,
     needs_review_rate: float,
     timestamp_counts: dict[str, int],
@@ -166,6 +176,8 @@ def _warnings(
     warnings: list[str] = []
     if review_coverage_rate < 0.8:
         warnings.append("low_review_coverage")
+    if human_review_coverage_rate < 0.8:
+        warnings.append("low_human_review_coverage")
     if n_missing_evidence_claims:
         warnings.append("missing_evidence")
     if needs_review_rate > 0.5:
@@ -202,11 +214,14 @@ def _markdown_report(report: dict[str, Any]) -> str:
             f"- Claims: {report['n_claims']}",
             f"- Evidence spans: {report['n_evidence_spans']}",
             f"- Review coverage: {report['review_coverage_rate']:.2%}",
+            f"- Human review coverage: {report['human_review_coverage_rate']:.2%}",
             f"- Evidence coverage: {report['evidence_coverage_rate']:.2%}",
             "",
             "## Review Status",
             "",
-            f"- Reviewed claims: {report['n_reviewed_claims']}",
+            f"- Human reviewed claims: {report['n_human_reviewed_claims']}",
+            f"- Machine high-confidence claims: {report['n_machine_high_confidence_claims']}",
+            f"- Accepted claims: {report['n_reviewed_claims']}",
             f"- Rejected claims: {report['n_rejected_claims']}",
             f"- Needs review claims: {report['n_needs_review_claims']}",
             "",
@@ -241,9 +256,11 @@ def build_cyber_8k_quality_report(
     n_claims = int(len(claims))
     n_missing_evidence_claims = int((~evidence_present).sum()) if len(evidence_present) else 0
     statuses = status_df.get("review_status", pd.Series("", index=status_df.index)).fillna("").astype(str).str.lower()
-    n_reviewed = int(statuses.isin({"reviewed", "approved"}).sum())
-    n_rejected = int((statuses == "rejected").sum())
-    n_needs_review = int(statuses.isin({"needs_review", "missing_evidence", ""}).sum())
+    n_human_reviewed = int(statuses.isin(HUMAN_REVIEW_STATUSES).sum())
+    n_machine_high_confidence = int(statuses.isin(MACHINE_HIGH_CONFIDENCE_STATUSES).sum())
+    n_reviewed = n_human_reviewed + n_machine_high_confidence
+    n_rejected = int(statuses.isin(REJECTED_STATUSES).sum())
+    n_needs_review = int(statuses.isin(NEEDS_REVIEW_STATUSES).sum())
     timestamp_counts = _status_counts(events, "timestamp_readiness_status")
     field_review_rates = _field_review_rates(status_df)
 
@@ -253,11 +270,15 @@ def build_cyber_8k_quality_report(
         "n_claims": n_claims,
         "n_evidence_spans": int(len(evidence)),
         "n_reviewed_claims": n_reviewed,
+        "n_human_reviewed_claims": n_human_reviewed,
+        "n_machine_high_confidence_claims": n_machine_high_confidence,
         "n_rejected_claims": n_rejected,
         "n_needs_review_claims": n_needs_review,
         "n_missing_evidence_claims": n_missing_evidence_claims,
         "evidence_coverage_rate": float((n_claims - n_missing_evidence_claims) / n_claims) if n_claims else 0.0,
         "review_coverage_rate": float(n_reviewed / len(status_df)) if len(status_df) else 0.0,
+        "human_review_coverage_rate": float(n_human_reviewed / len(status_df)) if len(status_df) else 0.0,
+        "machine_high_confidence_rate": float(n_machine_high_confidence / len(status_df)) if len(status_df) else 0.0,
         "needs_review_rate": float(n_needs_review / len(status_df)) if len(status_df) else 0.0,
         "field_coverage_by_field_name": _field_counts(claims, int(len(events))),
         "field_review_rates_by_field_name": field_review_rates,
@@ -267,6 +288,7 @@ def build_cyber_8k_quality_report(
     }
     report["warnings"] = _warnings(
         review_coverage_rate=report["review_coverage_rate"],
+        human_review_coverage_rate=report["human_review_coverage_rate"],
         n_missing_evidence_claims=n_missing_evidence_claims,
         needs_review_rate=report["needs_review_rate"],
         timestamp_counts=timestamp_counts,

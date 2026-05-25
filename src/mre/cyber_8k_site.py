@@ -9,6 +9,7 @@ from typing import Any
 import pandas as pd
 
 from .paths import ensure_dir, ensure_parent
+from .source_docs import load_source_documents
 
 
 def _load_csv(path: str | Path) -> pd.DataFrame:
@@ -59,6 +60,55 @@ def _first_clean_value(*values: object) -> Any:
     return None
 
 
+def _read_text_file(path: Path) -> str:
+    return path.read_text(encoding="utf-8", errors="replace")
+
+
+def _source_text_path_candidates(source_docs_dir: Path, source_doc_id: str) -> list[Path]:
+    safe = _safe_filename(source_doc_id)
+    return [
+        source_docs_dir / source_doc_id,
+        source_docs_dir / safe,
+        source_docs_dir / f"{source_doc_id}.txt",
+        source_docs_dir / f"{safe}.txt",
+        source_docs_dir / f"{source_doc_id}.html",
+        source_docs_dir / f"{safe}.html",
+        source_docs_dir / f"{source_doc_id}.htm",
+        source_docs_dir / f"{safe}.htm",
+    ]
+
+
+def _load_source_texts(source_documents_csv: str | Path | None = None, source_docs_dir: str | Path | None = None) -> dict[str, str]:
+    source_texts: dict[str, str] = {}
+    if source_documents_csv:
+        for doc in load_source_documents(source_documents_csv):
+            source_texts[str(doc.source_doc_id)] = doc.text
+    if source_docs_dir:
+        root = Path(source_docs_dir)
+        if root.exists():
+            for path in root.rglob("*"):
+                if path.is_file() and path.suffix.lower() in {"", ".txt", ".htm", ".html", ".xml", ".xhtml"}:
+                    text = _read_text_file(path)
+                    source_texts.setdefault(path.name, text)
+                    source_texts.setdefault(path.stem, text)
+    return source_texts
+
+
+def _source_text_for_claim(claim: pd.Series, source_texts: dict[str, str]) -> str:
+    inline = _first_clean_value(claim.get("source_text"), claim.get("document_text"), claim.get("text"))
+    if inline:
+        return str(inline)
+    source_text_path = _first_clean_value(claim.get("source_text_path"), claim.get("document_path"))
+    if source_text_path:
+        path = Path(str(source_text_path))
+        if path.exists():
+            return _read_text_file(path)
+    source_doc_id = _first_clean_value(claim.get("source_doc_id"))
+    if source_doc_id:
+        return source_texts.get(str(source_doc_id), "")
+    return ""
+
+
 def evidence_highlight_html(source_text: object, start_char: object, end_char: object, *, window: int = 180) -> str:
     text = _clean_value(source_text)
     if not text:
@@ -103,6 +153,8 @@ def _claim_rows_for_event(claims: pd.DataFrame, evidence: pd.DataFrame, event_id
             "source_text",
             "document_text",
             "text",
+            "source_text_path",
+            "document_path",
             "source_url",
         ]
         if c in evidence.columns
@@ -137,7 +189,8 @@ def _page(title: str, body: str) -> str:
     )
 
 
-def _event_detail_html(event: pd.Series, claims: pd.DataFrame) -> str:
+def _event_detail_html(event: pd.Series, claims: pd.DataFrame, source_texts: dict[str, str] | None = None) -> str:
+    source_texts = source_texts or {}
     rows = []
     for _, claim in claims.iterrows():
         rows.append(
@@ -152,7 +205,7 @@ def _event_detail_html(event: pd.Series, claims: pd.DataFrame) -> str:
     evidence_blocks = []
     for _, claim in claims.iterrows():
         evidence_text = _clean_value(claim.get("evidence_text"))
-        source_text = _first_clean_value(claim.get("source_text"), claim.get("document_text"), claim.get("text"))
+        source_text = _source_text_for_claim(claim, source_texts)
         highlighted = evidence_highlight_html(source_text, claim.get("start_char"), claim.get("end_char")) if source_text else ""
         if evidence_text:
             evidence_blocks.append(
@@ -203,10 +256,13 @@ def build_cyber_8k_static_site(
     out_dir,
     *,
     title: str = "Cyber 8-K Watch",
+    source_documents_csv: str | Path | None = None,
+    source_docs_dir: str | Path | None = None,
 ) -> dict:
     events = _load_csv(events_csv)
     claims = _load_csv(claims_csv)
     evidence = _load_csv(evidence_spans_csv)
+    source_texts = _load_source_texts(source_documents_csv, source_docs_dir)
     out = ensure_dir(out_dir)
     ensure_dir(out / "api")
     ensure_dir(out / "event")
@@ -222,7 +278,7 @@ def build_cyber_8k_static_site(
         if key:
             companies.add(str(key))
         event_claims = _claim_rows_for_event(claims, evidence, event.get("event_id"))
-        (out / "event" / f"{_safe_filename(event.get('event_id'))}.html").write_text(_event_detail_html(event, event_claims), encoding="utf-8")
+        (out / "event" / f"{_safe_filename(event.get('event_id'))}.html").write_text(_event_detail_html(event, event_claims, source_texts), encoding="utf-8")
 
     for company in sorted(companies):
         company_events = events[(events.get("ticker", pd.Series("", index=events.index)).astype(str) == company) | (events.get("cik", pd.Series("", index=events.index)).astype(str) == company)]

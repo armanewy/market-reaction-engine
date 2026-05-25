@@ -40,5 +40,5 @@ def test_build_cyber_8k_dataset_from_manifest(tmp_path):
     assert events.loc[0, "ransomware_mentioned"] == True
     assert events.loc[0, "operational_disruption_mentioned"] == True
     assert events.loc[0, "timestamp_readiness_status"] == "ok"
-    assert review["review_status"].eq("reviewed").any()
+    assert review["review_status"].eq("machine_high_confidence").any()
     assert json.loads((tmp_path / "out" / "cyber_summary.json").read_text(encoding="utf-8"))["events"] == 1

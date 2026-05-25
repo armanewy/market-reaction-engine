@@ -47,6 +47,7 @@ def default_cyber_8k_config(
             "build_api_export": True,
             "build_digest": True,
             "build_quality_report": True,
+            "source_docs_dir": None,
         },
         "provenance": {
             "write_manifest": True,
@@ -166,7 +167,14 @@ def run_cyber_8k_pipeline(config_path, *, dry_run: bool = False) -> dict:
         stages.append(_stage("api_export", "skipped"))
 
     if outputs.get("build_static_site", True):
-        site_paths = build_cyber_8k_static_site(summary["outputs"]["events"], summary["outputs"]["claims"], summary["outputs"]["evidence_spans"], out_dir / "site")
+        site_paths = build_cyber_8k_static_site(
+            summary["outputs"]["events"],
+            summary["outputs"]["claims"],
+            summary["outputs"]["evidence_spans"],
+            out_dir / "site",
+            source_documents_csv=source_documents_csv,
+            source_docs_dir=outputs.get("source_docs_dir"),
+        )
         report["outputs"]["site"] = site_paths
         stages.append(_stage("static_site", "completed", out_dir=str(out_dir / "site")))
     else:

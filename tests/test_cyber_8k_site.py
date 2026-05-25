@@ -83,3 +83,109 @@ def test_evidence_highlight_html_escapes_and_handles_bad_offsets():
 
     assert highlighted == "Before <mark>&lt;b&gt;important&lt;/b&gt;</mark> after"
     assert evidence_highlight_html(source, 100, 110) == ""
+
+
+def test_static_site_highlights_source_text_loaded_from_manifest_path(tmp_path: Path):
+    source_text = "Intro. Ransomware <b>affected</b> operations. Outro."
+    start = source_text.index("Ransomware")
+    end = source_text.index(" operations") + len(" operations")
+    doc_path = tmp_path / "docs" / "d1.txt"
+    doc_path.parent.mkdir()
+    doc_path.write_text(source_text, encoding="utf-8")
+    source_documents = pd.DataFrame(
+        [
+            {
+                "source_doc_id": "D1",
+                "ticker": "ACME",
+                "event_time": "2024-01-02T16:05:00",
+                "path": "docs/d1.txt",
+            }
+        ]
+    )
+    events = pd.DataFrame([{"event_id": "E1", "ticker": "ACME", "event_time": "2024-01-02T16:05:00", "summary": "Cyber event"}])
+    claims = pd.DataFrame(
+        [
+            {
+                "claim_id": "C1",
+                "event_id": "E1",
+                "field_name": "ransomware_mentioned",
+                "value": True,
+                "confidence": 0.95,
+                "review_status": "machine_high_confidence",
+                "method": "regex",
+                "source_doc_id": "D1",
+                "evidence_span_id": "S1",
+            }
+        ]
+    )
+    evidence = pd.DataFrame(
+        [
+            {
+                "evidence_span_id": "S1",
+                "source_doc_id": "D1",
+                "claim_id": "C1",
+                "evidence_text": "Ransomware <b>affected</b> operations",
+                "start_char": start,
+                "end_char": end,
+            }
+        ]
+    )
+    paths = {}
+    for name, df in [("source_documents", source_documents), ("events", events), ("claims", claims), ("evidence", evidence)]:
+        path = tmp_path / f"{name}.csv"
+        df.to_csv(path, index=False)
+        paths[name] = path
+
+    build_cyber_8k_static_site(
+        paths["events"],
+        paths["claims"],
+        paths["evidence"],
+        tmp_path / "site",
+        source_documents_csv=paths["source_documents"],
+    )
+
+    event_html = (tmp_path / "site" / "event" / "E1.html").read_text(encoding="utf-8")
+    assert "<mark>Ransomware &lt;b&gt;affected&lt;/b&gt; operations</mark>" in event_html
+    assert "<b>affected</b>" not in event_html
+
+
+def test_static_site_falls_back_to_evidence_text_without_source_text(tmp_path: Path):
+    events = pd.DataFrame([{"event_id": "E1", "ticker": "ACME", "event_time": "2024-01-02T16:05:00", "summary": "Cyber event"}])
+    claims = pd.DataFrame(
+        [
+            {
+                "claim_id": "C1",
+                "event_id": "E1",
+                "field_name": "ransomware_mentioned",
+                "value": True,
+                "confidence": 0.95,
+                "review_status": "machine_high_confidence",
+                "method": "regex",
+                "source_doc_id": "D1",
+                "evidence_span_id": "S1",
+            }
+        ]
+    )
+    evidence = pd.DataFrame(
+        [
+            {
+                "evidence_span_id": "S1",
+                "source_doc_id": "D1",
+                "claim_id": "C1",
+                "evidence_text": "Ransomware <b>affected</b> operations",
+                "start_char": 0,
+                "end_char": 10,
+            }
+        ]
+    )
+    paths = {}
+    for name, df in [("events", events), ("claims", claims), ("evidence", evidence)]:
+        path = tmp_path / f"{name}.csv"
+        df.to_csv(path, index=False)
+        paths[name] = path
+
+    build_cyber_8k_static_site(paths["events"], paths["claims"], paths["evidence"], tmp_path / "site")
+
+    event_html = (tmp_path / "site" / "event" / "E1.html").read_text(encoding="utf-8")
+    assert "Ransomware &lt;b&gt;affected&lt;/b&gt; operations" in event_html
+    assert "<mark>" not in event_html

@@ -1731,7 +1731,15 @@ def cmd_cyber_8k_build_dataset(args: argparse.Namespace) -> None:
 
 
 def cmd_cyber_8k_build_site(args: argparse.Namespace) -> None:
-    result = build_cyber_8k_static_site(args.events, args.claims, args.evidence_spans, args.out_dir, title=args.title)
+    result = build_cyber_8k_static_site(
+        args.events,
+        args.claims,
+        args.evidence_spans,
+        args.out_dir,
+        title=args.title,
+        source_documents_csv=args.source_documents,
+        source_docs_dir=args.source_docs_dir,
+    )
     print(json.dumps(result, indent=2, sort_keys=True))
 
 
