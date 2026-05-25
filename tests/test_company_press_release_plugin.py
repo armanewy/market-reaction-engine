@@ -13,7 +13,7 @@ from mre.company_press_release_plugin import (
 )
 from mre.cyber_8k_plugin import Cyber8KEventDetector, Cyber8KManifestSourceAdapter
 from mre.generic.compatibility_eval import attach_readiness, dimension_score
-from mre.generic.sources import SourceQuery
+from mre.generic.sources import NormalizedSourceDocument, SourceQuery
 from mre.generic.toy_plugins import ToyWeakAdapter
 
 
@@ -27,6 +27,20 @@ def _first_press_release_doc():
     raw, _ = adapter.fetch(records[0])
     doc, _ = adapter.normalize(raw, records[0])
     return adapter, records[0], doc
+
+
+def _extract_fields(text: str) -> set[str]:
+    doc = NormalizedSourceDocument(
+        source_doc_id="doc",
+        source_record_id="record",
+        source_system="official_company_press_release_manifest",
+        source_authority_level="official_company",
+        source_role="canonical",
+        source_url="https://example.invalid",
+        text=text,
+    )
+    result = CompanyCyberClaimExtractor().extract(doc)
+    return {claim.field_name for claim in result.claims}
 
 
 def test_press_release_adapter_normalizes_source_with_generic_hints():
@@ -58,6 +72,24 @@ def test_press_release_detector_and_extractor_emit_evidence_backed_claims():
         assert span.evidence_text in doc.text
         assert doc.text[span.start_char : span.end_char].strip()
     assert all(claim.source_authority_level == "official_company" for claim in result.claims)
+
+
+def test_third_party_vendor_suppresses_response_provider_false_positives():
+    assert "third_party_vendor_mentioned" not in _extract_fields(
+        "The company engaged a third-party forensic firm to assist with the investigation."
+    )
+    assert "third_party_vendor_mentioned" not in _extract_fields(
+        "The company is working with third-party cybersecurity experts to restore affected systems."
+    )
+
+
+def test_third_party_vendor_detects_vendor_involvement():
+    assert "third_party_vendor_mentioned" in _extract_fields(
+        "A third-party service provider was involved in the incident."
+    )
+    assert "third_party_vendor_mentioned" in _extract_fields(
+        "The vendor system was accessed during the security incident."
+    )
 
 
 def test_press_release_experiment_writes_generic_artifacts(tmp_path):

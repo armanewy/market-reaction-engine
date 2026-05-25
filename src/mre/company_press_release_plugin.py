@@ -299,6 +299,47 @@ def _negative_customer_context(evidence_text: str) -> bool:
     return any(phrase in lowered for phrase in ["no evidence", "not identified", "has not identified", "no indication"])
 
 
+_VENDOR_INVOLVEMENT_RE = re.compile(
+    r"\b("
+    r"vendor(?:[- ]originated)?|"
+    r"supplier|"
+    r"service provider|"
+    r"third[- ]party (?:vendor|supplier|service provider|platform|system|data processor|processor)|"
+    r"external system|"
+    r"data processor|"
+    r"vendor system"
+    r")\b",
+    flags=re.I,
+)
+_RESPONSE_PROVIDER_RE = re.compile(
+    r"\b("
+    r"forensic (?:firm|expert|experts|consultant|consultants)|"
+    r"cybersecurity (?:expert|experts|advisor|advisors|consultant|consultants)|"
+    r"response (?:team|firm|provider|consultant|consultants)|"
+    r"outside counsel|"
+    r"investigator|investigators|"
+    r"advisor|advisors|"
+    r"consultant|consultants"
+    r")\b",
+    flags=re.I,
+)
+_INCIDENT_INVOLVEMENT_RE = re.compile(
+    r"\b("
+    r"involved|originated|accessed|compromised|affected|breached|exposed|"
+    r"platform|system|data processor|processor|vendor|supplier|service provider"
+    r")\b",
+    flags=re.I,
+)
+
+
+def _is_third_party_vendor_evidence(evidence_text: str) -> bool:
+    if not _VENDOR_INVOLVEMENT_RE.search(evidence_text):
+        return False
+    if _RESPONSE_PROVIDER_RE.search(evidence_text) and not _INCIDENT_INVOLVEMENT_RE.search(evidence_text):
+        return False
+    return True
+
+
 class CompanyCyberClaimExtractor:
     name = "company_press_release_cyber_claim_extractor"
     claim_schema = "press_release_cyber_claims"
@@ -312,7 +353,7 @@ class CompanyCyberClaimExtractor:
             0.8,
         ),
         "third_party_vendor_mentioned": (
-            r"\b(third[- ]party|vendor|service provider|supplier)\b",
+            _VENDOR_INVOLVEMENT_RE.pattern,
             "boolean",
             True,
             0.72,
@@ -353,6 +394,8 @@ class CompanyCyberClaimExtractor:
                 continue
             evidence_text, start, end = evidence_for_match(doc.text, match)
             if field_name == "customer_data_exposure_mentioned" and _negative_customer_context(evidence_text):
+                continue
+            if field_name == "third_party_vendor_mentioned" and not _is_third_party_vendor_evidence(evidence_text):
                 continue
             claim_value = evidence_text if value == "evidence" else value
             claim, span = make_claim_with_evidence(
