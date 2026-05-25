@@ -4,8 +4,8 @@ import argparse
 import json
 from pathlib import Path
 
-from .analyst_revisions import make_analyst_revisions_template, merge_analyst_revisions
-from .activist_13d import (
+from ..analyst_revisions import make_analyst_revisions_template, merge_analyst_revisions
+from ..activist_13d import (
     audit_activist_13d_timestamps_and_duplicates,
     build_activist_13d_sec_source_documents,
     enrich_activist_13d_context,
@@ -13,7 +13,7 @@ from .activist_13d import (
     validate_activist_13d_parser,
     write_activist_13d_readiness_report,
 )
-from .backtest import (
+from ..backtest import (
     calibration_table,
     make_peer_control_events,
     make_placebo_events,
@@ -22,8 +22,8 @@ from .backtest import (
     run_research_backtest,
     simulate_event_strategy,
 )
-from .base_rates import base_rate_table
-from .biotech_catalysts import (
+from ..base_rates import base_rate_table
+from ..biotech_catalysts import (
     build_biotech_catalyst_gold_template,
     build_biotech_catalyst_source_documents,
     parse_biotech_catalyst_manifest,
@@ -31,13 +31,13 @@ from .biotech_catalysts import (
     write_biotech_catalyst_parser_audit_report,
     write_biotech_catalyst_readiness_report,
 )
-from .biotech_falsification import run_biotech_catalyst_falsification_pass
-from .biotech_negative_catalyst import (
+from ..biotech_falsification import run_biotech_catalyst_falsification_pass
+from ..biotech_negative_catalyst import (
     run_biotech_negative_catalyst_confirmation,
     run_biotech_negative_catalyst_corrected_confirmation,
     run_biotech_negative_catalyst_timestamp_repair,
 )
-from .capital_raises import (
+from ..capital_raises import (
     build_capital_raise_sec_source_documents,
     build_sec_shares_outstanding_context,
     enrich_capital_raise_context,
@@ -46,7 +46,7 @@ from .capital_raises import (
     write_capital_raise_readiness_report,
     write_capital_raise_parser_audit_report,
 )
-from .government_contracts import (
+from ..government_contracts import (
     build_government_contract_human_audit,
     build_government_contract_parser_gold_template,
     build_government_contract_public_announcement_candidates,
@@ -62,11 +62,11 @@ from .government_contracts import (
     write_government_contract_public_awareness_report,
     write_government_contract_readiness_report,
 )
-from .government_contract_falsification import run_government_contract_falsification_pass
-from .corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
-from .corpus_demo import generate_corpus_demo_data
-from .demo import generate_demo_data
-from .domain_registry import (
+from ..government_contract_falsification import run_government_contract_falsification_pass
+from ..corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
+from ..corpus_demo import generate_corpus_demo_data
+from ..demo import generate_demo_data
+from ..domain_registry import (
     DEFAULT_REGISTRY_PATH,
     format_domain_status,
     format_intake_score,
@@ -78,22 +78,22 @@ from .domain_registry import (
     monitor_records,
     write_domain_final_report,
 )
-from .extraction import build_extraction_packets, run_document_extraction, validate_llm_facts_jsonl
-from .extraction_demo import generate_extraction_demo_data
-from .ingestion import build_sec_source_document_manifest, ingest_source_document_manifest, make_ingestion_template
-from .source_ingestion_demo import generate_source_ingestion_demo_data
-from .earnings import build_alpha_vantage_earnings_corpus, build_earnings_corpus_from_sec, build_yfinance_earnings_corpus, write_manual_earnings_template
-from .earnings_demo import generate_earnings_demo_data
-from .event_study import run_event_study
-from .events import event_tickers, load_events, make_event_template
-from .exhibit99_parser import parse_exhibit99_manifest, pivot_parsed_facts, validate_parser_against_gold
-from .expectations import enrich_expectations, make_expectations_template, merge_external_expectations
-from .sec_context import add_sec_context
-from .sec_readiness import build_readiness, write_readiness_report
-from .sec_review import create_review_template
-from .sec_timestamps import audit_timestamps
-from .source_docs import SecClient as SecSourceClient, write_sec_source_documents
-from .management_guidance import (
+from ..extraction import build_extraction_packets, run_document_extraction, validate_llm_facts_jsonl
+from ..extraction_demo import generate_extraction_demo_data
+from ..ingestion import build_sec_source_document_manifest, ingest_source_document_manifest, make_ingestion_template
+from ..source_ingestion_demo import generate_source_ingestion_demo_data
+from ..earnings import build_alpha_vantage_earnings_corpus, build_earnings_corpus_from_sec, build_yfinance_earnings_corpus, write_manual_earnings_template
+from ..earnings_demo import generate_earnings_demo_data
+from ..event_study import run_event_study
+from ..events import event_tickers, load_events, make_event_template
+from ..exhibit99_parser import parse_exhibit99_manifest, pivot_parsed_facts, validate_parser_against_gold
+from ..expectations import enrich_expectations, make_expectations_template, merge_external_expectations
+from ..sec_context import add_sec_context
+from ..sec_readiness import build_readiness, write_readiness_report
+from ..sec_review import create_review_template
+from ..sec_timestamps import audit_timestamps
+from ..source_docs import SecClient as SecSourceClient, write_sec_source_documents
+from ..management_guidance import (
     build_management_guidance_bridge,
     validate_management_guidance_bridge,
     write_management_guidance_period_audit,
@@ -101,18 +101,18 @@ from .management_guidance import (
     write_management_guidance_expansion_report,
     write_management_guidance_validation_report,
 )
-from .modeling import find_analogs, predict_direction, train_direction_model, walk_forward_direction_model
-from .options import make_options_template, merge_options_implied_moves
-from .pipeline import run_pipeline, write_pipeline_template
-from .pipeline_demo import generate_pipeline_demo
-from .release_times import make_release_times_template, merge_release_times
-from .paths import ensure_parent
-from .prices import fetch_yfinance_prices
-from .reports import event_study_report
-from .review import make_review_queue
-from .source_docs import make_source_docs_template
-from .sec import SecClient, filings_to_event_template
-from .sectors import get_preset, list_presets, parse_ticker_list
+from ..modeling import find_analogs, predict_direction, train_direction_model, walk_forward_direction_model
+from ..options import make_options_template, merge_options_implied_moves
+from ..pipeline import run_pipeline, write_pipeline_template
+from ..pipeline_demo import generate_pipeline_demo
+from ..release_times import make_release_times_template, merge_release_times
+from ..paths import ensure_parent
+from ..prices import fetch_yfinance_prices
+from ..reports import event_study_report
+from ..review import make_review_queue
+from ..source_docs import make_source_docs_template
+from ..sec import SecClient, filings_to_event_template
+from ..sectors import get_preset, list_presets, parse_ticker_list
 
 
 def comma_ints(value: str) -> tuple[int, ...]:
@@ -2544,13 +2544,3 @@ def build_parser() -> argparse.ArgumentParser:
     p.set_defaults(func=cmd_earnings_demo)
 
     return parser
-
-
-def main(argv: list[str] | None = None) -> None:
-    parser = build_parser()
-    args = parser.parse_args(argv)
-    args.func(args)
-
-
-if __name__ == "__main__":  # pragma: no cover
-    main()

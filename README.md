@@ -1,6 +1,6 @@
 # Market Reaction Engine
 
-Version 0.7 adds narrow-domain corpus schemas plus a backtest/falsification harness: curated corpus validation, placebo/peer controls, purged walk-forward evaluation, calibration, and strategy simulation with costs/slippage.
+Version 0.8.0 adds narrow-domain corpus schemas plus a backtest/falsification harness: curated corpus validation, placebo/peer controls, purged walk-forward evaluation, calibration, and strategy simulation with costs/slippage.
 
 This project is intentionally conservative. It is not a magic stock predictor. It is a point-in-time event-study workbench that helps answer:
 
@@ -42,6 +42,8 @@ Frozen or failed under current thesis:
 Before launching a new domain, use `docs/DOMAIN_INTAKE_TEMPLATE.md`.
 For prior domain status, stop reasons, and revisit triggers, see
 `docs/DOMAIN_RESEARCH_REGISTRY.md`.
+For contributor orientation, see `docs/ARCHITECTURE_MAP.md`,
+`docs/DOMAIN_LIFECYCLE.md`, and `docs/BACKTEST_INTERPRETATION.md`.
 
 The current pipeline is:
 
