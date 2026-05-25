@@ -1,0 +1,3 @@
+source_record_id,source_url,title,published_at,retrieved_at,document_type,document_subtype,source_authority_level,source_role,jurisdiction,company_name,domain,path
+contoso-pr-001,https://example.invalid/contoso/cyber-update,Contoso Systems cybersecurity update,2026-05-10T14:30:00Z,2026-05-11T10:00:00Z,press_release,cyber_update,official_company,canonical,US,Contoso Systems,contoso.example,docs/contoso_cyber_update.txt
+globex-pr-001,https://example.invalid/globex/security-incident,Globex Corporation security incident statement,2026-04-18T12:00:00Z,2026-04-19T09:00:00Z,press_release,security_statement,official_company,context,US,Globex Corporation,globex.example,docs/globex_security_statement.txt
