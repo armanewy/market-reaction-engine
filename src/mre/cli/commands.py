@@ -86,6 +86,10 @@ from ..domain_registry import (
     monitor_records,
     write_domain_final_report,
 )
+from ..generic.pipeline import run_generic_pipeline, write_generic_pipeline_template
+from ..generic.publishers import build_generic_digest, build_generic_static_site, export_generic_api
+from ..generic.quality import build_generic_quality_report
+from ..generic.review import make_generic_claim_review_queue
 from ..extraction import build_extraction_packets, run_document_extraction, validate_llm_facts_jsonl
 from ..extraction_demo import generate_extraction_demo_data
 from ..ingestion import build_sec_source_document_manifest, ingest_source_document_manifest, make_ingestion_template
@@ -1775,3 +1779,97 @@ def cmd_cyber_8k_quality_report(args: argparse.Namespace) -> None:
 def cmd_cyber_8k_run(args: argparse.Namespace) -> None:
     report = run_cyber_8k_pipeline(args.config, dry_run=args.dry_run)
     print(json.dumps(report, indent=2, sort_keys=True, default=str))
+
+
+def cmd_generic_template(args: argparse.Namespace) -> None:
+    path = write_generic_pipeline_template(
+        args.out,
+        out_dir=args.out_dir,
+        adapter=args.adapter,
+        auto_accept_min_confidence=args.auto_accept_min_confidence,
+    )
+    print(f"Wrote generic evidence pipeline template: {path}")
+
+
+def cmd_generic_run(args: argparse.Namespace) -> None:
+    report = run_generic_pipeline(args.config, dry_run=args.dry_run)
+    print(json.dumps(report, indent=2, sort_keys=True, default=str))
+
+
+def cmd_generic_review_queue(args: argparse.Namespace) -> None:
+    queue, diagnostics = make_generic_claim_review_queue(
+        args.claims,
+        args.evidence_spans,
+        args.out,
+        auto_accept_min_confidence=args.auto_accept_min_confidence,
+        require_evidence=not args.allow_missing_evidence,
+    )
+    print(f"Wrote {len(queue)} generic claim review row(s): {args.out}")
+    print(json.dumps(diagnostics, indent=2, sort_keys=True, default=str))
+
+
+def _read_optional_csv(path: str | None):
+    if not path:
+        return None
+    import pandas as pd
+
+    return pd.read_csv(path)
+
+
+def cmd_generic_quality_report(args: argparse.Namespace) -> None:
+    import pandas as pd
+
+    report = build_generic_quality_report(
+        events=_read_optional_csv(args.events),
+        claims=pd.read_csv(args.claims),
+        evidence_spans=pd.read_csv(args.evidence_spans),
+        review_queue=_read_optional_csv(args.review_queue),
+        out_json=args.out_json,
+        out_md=args.out_md,
+    )
+    print(json.dumps(report, indent=2, sort_keys=True, default=str))
+
+
+def cmd_generic_build_site(args: argparse.Namespace) -> None:
+    import pandas as pd
+
+    result = build_generic_static_site(
+        events=_read_optional_csv(args.events),
+        claims=pd.read_csv(args.claims),
+        evidence_spans=pd.read_csv(args.evidence_spans),
+        review_queue=_read_optional_csv(args.review_queue),
+        out_dir=args.out_dir,
+        title=args.title,
+    )
+    print(json.dumps(result, indent=2, sort_keys=True, default=str))
+
+
+def cmd_generic_api_export(args: argparse.Namespace) -> None:
+    import pandas as pd
+
+    result = export_generic_api(
+        events=_read_optional_csv(args.events),
+        claims=pd.read_csv(args.claims),
+        evidence_spans=pd.read_csv(args.evidence_spans),
+        review_queue=_read_optional_csv(args.review_queue),
+        out_dir=args.out_dir,
+        include_evidence=not args.omit_evidence,
+    )
+    print(json.dumps(result, indent=2, sort_keys=True, default=str))
+
+
+def cmd_generic_digest(args: argparse.Namespace) -> None:
+    import pandas as pd
+
+    digest = build_generic_digest(
+        events=_read_optional_csv(args.events),
+        claims=pd.read_csv(args.claims),
+        evidence_spans=pd.read_csv(args.evidence_spans),
+        review_queue=_read_optional_csv(args.review_queue),
+        out_path=args.out,
+        title=args.title,
+    )
+    if args.out:
+        print(f"Wrote generic digest: {args.out}")
+    else:
+        print(digest)

@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import argparse
 
-from . import core, corpus, cyber_8k, demo, domain_registry, domains, earnings, expectations, extraction, pipeline, sec, source_docs
+from . import core, corpus, cyber_8k, demo, domain_registry, domains, earnings, expectations, extraction, generic, pipeline, sec, source_docs
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -13,6 +13,7 @@ def build_parser() -> argparse.ArgumentParser:
     sub = parser.add_subparsers(dest="command", required=True)
 
     pipeline.register(sub)
+    generic.register(sub)
     corpus.register(sub)
     earnings.register(sub)
     source_docs.register(sub)
