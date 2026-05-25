@@ -71,6 +71,15 @@ def register(sub) -> None:
     p.add_argument("--title", default="Cyber 8-K Watch Digest")
     p.set_defaults(func=cmd.cmd_cyber_8k_digest)
 
+    p = sub.add_parser("cyber-8k-quality-report", help="Build a Cyber 8-K Watch dataset quality report.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--claims", required=True)
+    p.add_argument("--evidence-spans", required=True)
+    p.add_argument("--review-queue")
+    p.add_argument("--out-json")
+    p.add_argument("--out-md")
+    p.set_defaults(func=cmd.cmd_cyber_8k_quality_report)
+
     p = sub.add_parser("cyber-8k-run", help="Run the dedicated Cyber 8-K Watch pipeline.")
     p.add_argument("--config", required=True)
     p.add_argument("--dry-run", action="store_true")

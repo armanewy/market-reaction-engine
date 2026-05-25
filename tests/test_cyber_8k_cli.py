@@ -23,6 +23,7 @@ def test_cyber_8k_commands_registered_and_help_loads(capsys):
         "cyber-8k-build-dataset",
         "cyber-8k-build-site",
         "cyber-8k-digest",
+        "cyber-8k-quality-report",
         "cyber-8k-run",
     }.issubset(commands)
     with pytest.raises(SystemExit) as exc:

@@ -5,7 +5,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from mre.cyber_8k_site import build_cyber_8k_static_site
+from mre.cyber_8k_site import build_cyber_8k_static_site, evidence_highlight_html
 
 
 def test_build_cyber_8k_static_site_outputs_html_and_json(tmp_path: Path):
@@ -47,6 +47,9 @@ def test_build_cyber_8k_static_site_outputs_html_and_json(tmp_path: Path):
                 "source_doc_id": "D1",
                 "claim_id": "C1",
                 "evidence_text": "Ransomware <script>alert(1)</script> affected systems.",
+                "start_char": 8,
+                "end_char": 62,
+                "source_text": "Notice: Ransomware <script>alert(1)</script> affected systems. More text.",
                 "source_url": "https://sec.test/acme",
             }
         ]
@@ -66,8 +69,17 @@ def test_build_cyber_8k_static_site_outputs_html_and_json(tmp_path: Path):
     assert (tmp_path / "site" / "company" / "ACME.html").exists()
     event_html = (tmp_path / "site" / "event" / "E1.html").read_text(encoding="utf-8")
     assert "ransomware_mentioned" in event_html
-    assert "Ransomware &lt;script&gt;alert(1)&lt;/script&gt; affected systems." in event_html
+    assert "<mark>Ransomware &lt;script&gt;alert(1)&lt;/script&gt; affected systems.</mark>" in event_html
     assert "<script>alert(1)</script>" not in event_html
     assert json.loads((tmp_path / "site" / "api" / "events.json").read_text(encoding="utf-8"))[0]["event_id"] == "E1"
     assert json.loads((tmp_path / "site" / "api" / "claims.json").read_text(encoding="utf-8"))[0]["claim_id"] == "C1"
     assert json.loads((tmp_path / "site" / "api" / "evidence_spans.json").read_text(encoding="utf-8"))[0]["evidence_span_id"] == "S1"
+
+
+def test_evidence_highlight_html_escapes_and_handles_bad_offsets():
+    source = "Before <b>important</b> after"
+
+    highlighted = evidence_highlight_html(source, 7, 23)
+
+    assert highlighted == "Before <mark>&lt;b&gt;important&lt;/b&gt;</mark> after"
+    assert evidence_highlight_html(source, 100, 110) == ""

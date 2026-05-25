@@ -9,6 +9,7 @@ from .cyber_8k_dataset import build_cyber_8k_dataset
 from .cyber_8k_digest import build_cyber_8k_digest
 from .cyber_8k_site import build_cyber_8k_static_site
 from .cyber_8k_sources import build_cyber_8k_source_documents
+from .cyber_8k_quality import build_cyber_8k_quality_report
 from .paths import ensure_dir, ensure_parent
 from .provenance import build_run_manifest, write_run_manifest
 from .sec import SecClient
@@ -45,6 +46,7 @@ def default_cyber_8k_config(
             "build_static_site": True,
             "build_api_export": True,
             "build_digest": True,
+            "build_quality_report": True,
         },
         "provenance": {
             "write_manifest": True,
@@ -81,7 +83,17 @@ def run_cyber_8k_pipeline(config_path, *, dry_run: bool = False) -> dict:
     report: dict[str, Any] = {"status": "dry_run" if dry_run else "ok", "stages": stages, "outputs": {}}
 
     if dry_run:
-        for name in ["source_documents", "parse_claims", "claim_review_queue", "build_dataset", "api_export", "static_site", "digest", "run_manifest"]:
+        for name in [
+            "source_documents",
+            "parse_claims",
+            "claim_review_queue",
+            "build_dataset",
+            "quality_report",
+            "api_export",
+            "static_site",
+            "digest",
+            "run_manifest",
+        ]:
             stages.append(_stage(name, "planned"))
         return report
 
@@ -128,6 +140,23 @@ def run_cyber_8k_pipeline(config_path, *, dry_run: bool = False) -> dict:
         ]
     )
     report["outputs"].update(summary["outputs"])
+
+    if outputs.get("build_quality_report", True):
+        quality_json = out_dir / "cyber_quality_report.json"
+        quality_md = out_dir / "cyber_quality_report.md"
+        quality = build_cyber_8k_quality_report(
+            summary["outputs"]["events"],
+            summary["outputs"]["claims"],
+            summary["outputs"]["evidence_spans"],
+            summary["outputs"]["review_queue"],
+            out_json=quality_json,
+            out_md=quality_md,
+        )
+        report["outputs"]["quality_report_json"] = str(quality_json)
+        report["outputs"]["quality_report_md"] = str(quality_md)
+        stages.append(_stage("quality_report", "completed", warnings=quality.get("warnings", [])))
+    else:
+        stages.append(_stage("quality_report", "skipped"))
 
     if outputs.get("build_api_export", True):
         api_paths = export_cyber_8k_api(summary["outputs"]["events"], summary["outputs"]["claims"], summary["outputs"]["evidence_spans"], out_dir / "api")

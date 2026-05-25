@@ -24,6 +24,8 @@ def test_cyber_8k_pipeline_runs_offline_from_existing_manifest(tmp_path):
     assert (out_dir / "api" / "events.json").exists()
     assert (out_dir / "site" / "index.html").exists()
     assert (out_dir / "cyber_8k_digest.md").exists()
+    assert (out_dir / "cyber_quality_report.json").exists()
+    assert (out_dir / "cyber_quality_report.md").exists()
     assert (out_dir / "run_manifest.json").exists()
     assert [stage["name"] for stage in report["stages"]][-1] == "run_manifest"
 

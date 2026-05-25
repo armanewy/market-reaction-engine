@@ -70,6 +70,7 @@ from ..cyber_8k_dataset import build_cyber_8k_dataset
 from ..cyber_8k_digest import build_cyber_8k_digest
 from ..cyber_8k_parser import run_cyber_8k_parse_manifest
 from ..cyber_8k_pipeline import run_cyber_8k_pipeline, write_cyber_8k_pipeline_template
+from ..cyber_8k_quality import build_cyber_8k_quality_report
 from ..cyber_8k_site import build_cyber_8k_static_site
 from ..cyber_8k_sources import build_cyber_8k_source_documents
 from ..demo import generate_demo_data
@@ -1748,6 +1749,18 @@ def cmd_cyber_8k_digest(args: argparse.Namespace) -> None:
         print(f"Wrote Cyber 8-K digest: {args.out}")
     else:
         print(digest)
+
+
+def cmd_cyber_8k_quality_report(args: argparse.Namespace) -> None:
+    report = build_cyber_8k_quality_report(
+        args.events,
+        args.claims,
+        args.evidence_spans,
+        args.review_queue,
+        out_json=args.out_json,
+        out_md=args.out_md,
+    )
+    print(json.dumps(report, indent=2, sort_keys=True, default=str))
 
 
 def cmd_cyber_8k_run(args: argparse.Namespace) -> None:

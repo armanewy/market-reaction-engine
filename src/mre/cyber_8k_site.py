@@ -51,13 +51,62 @@ def _e(value: object) -> str:
     return html.escape("" if cleaned is None else str(cleaned))
 
 
+def _first_clean_value(*values: object) -> Any:
+    for value in values:
+        cleaned = _clean_value(value)
+        if cleaned is not None and str(cleaned).strip():
+            return cleaned
+    return None
+
+
+def evidence_highlight_html(source_text: object, start_char: object, end_char: object, *, window: int = 180) -> str:
+    text = _clean_value(source_text)
+    if not text:
+        return ""
+    try:
+        start = int(start_char)
+        end = int(end_char)
+    except (TypeError, ValueError):
+        return ""
+    source = str(text)
+    if start < 0 or end <= start or start >= len(source):
+        return ""
+    end = min(end, len(source))
+    left = max(0, start - window)
+    right = min(len(source), end + window)
+    prefix = "..." if left > 0 else ""
+    suffix = "..." if right < len(source) else ""
+    return (
+        _e(prefix + source[left:start])
+        + "<mark>"
+        + _e(source[start:end])
+        + "</mark>"
+        + _e(source[end:right] + suffix)
+    )
+
+
 def _claim_rows_for_event(claims: pd.DataFrame, evidence: pd.DataFrame, event_id: object) -> pd.DataFrame:
     if claims.empty:
         return pd.DataFrame()
     event_claims = claims[claims["event_id"].astype(str) == str(event_id)].copy()
     if event_claims.empty or evidence.empty:
         return event_claims
-    evidence_cols = [c for c in ["evidence_span_id", "source_doc_id", "claim_id", "evidence_text", "source_url"] if c in evidence.columns]
+    evidence_cols = [
+        c
+        for c in [
+            "evidence_span_id",
+            "source_doc_id",
+            "claim_id",
+            "evidence_text",
+            "start_char",
+            "end_char",
+            "source_text",
+            "document_text",
+            "text",
+            "source_url",
+        ]
+        if c in evidence.columns
+    ]
     if not {"evidence_span_id", "source_doc_id", "claim_id"}.issubset(evidence_cols):
         return event_claims
     return event_claims.merge(
@@ -103,10 +152,12 @@ def _event_detail_html(event: pd.Series, claims: pd.DataFrame) -> str:
     evidence_blocks = []
     for _, claim in claims.iterrows():
         evidence_text = _clean_value(claim.get("evidence_text"))
+        source_text = _first_clean_value(claim.get("source_text"), claim.get("document_text"), claim.get("text"))
+        highlighted = evidence_highlight_html(source_text, claim.get("start_char"), claim.get("end_char")) if source_text else ""
         if evidence_text:
             evidence_blocks.append(
                 f"<h3>{_e(claim.get('field_name'))}</h3>"
-                f"<blockquote>{_e(evidence_text)}</blockquote>"
+                f"<blockquote>{highlighted or _e(evidence_text)}</blockquote>"
                 f"<p><a href=\"{_e(claim.get('source_url'))}\">{_e(claim.get('source_url'))}</a></p>"
             )
     body = f"""
