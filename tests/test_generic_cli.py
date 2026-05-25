@@ -19,6 +19,8 @@ def test_generic_commands_registered_and_help_loads(capsys):
         "generic-template",
         "generic-run",
         "generic-review-queue",
+        "generic-missing-claim-template",
+        "generic-missing-claim-report",
         "generic-quality-report",
         "generic-build-site",
         "generic-api-export",
@@ -42,3 +44,41 @@ def test_generic_run_cli_runs_toy_pipeline(tmp_path, capsys):
     assert (out_dir / "pipeline_report.json").exists()
     report = json.loads((out_dir / "pipeline_report.json").read_text(encoding="utf-8"))
     assert report["status"] == "ok"
+
+
+def test_generic_missing_claim_cli_template_and_report(tmp_path, capsys):
+    events = tmp_path / "events.csv"
+    claims = tmp_path / "claims.csv"
+    audit = tmp_path / "missing_claims.csv"
+    report_json = tmp_path / "missing_claim_report.json"
+    events.write_text("event_id,event_candidate_id,source_doc_id\ne1,ec1,doc1\n", encoding="utf-8")
+    claims.write_text("claim_id,field_name,review_status\nc1,field,human_reviewed\n", encoding="utf-8")
+
+    main(
+        [
+            "generic-missing-claim-template",
+            "--events",
+            str(events),
+            "--expected-fields",
+            "field",
+            "--out",
+            str(audit),
+        ]
+    )
+    main(
+        [
+            "generic-missing-claim-report",
+            "--claims",
+            str(claims),
+            "--audit",
+            str(audit),
+            "--out-json",
+            str(report_json),
+        ]
+    )
+
+    assert audit.exists()
+    assert report_json.exists()
+    report = json.loads(report_json.read_text(encoding="utf-8"))
+    assert report["overall_estimated_recall"] == 0.5
+    assert "generic missing-claim audit" in capsys.readouterr().out

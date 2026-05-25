@@ -88,6 +88,7 @@ from ..domain_registry import (
     write_domain_final_report,
 )
 from ..generic.pipeline import run_generic_pipeline, write_generic_pipeline_template
+from ..generic.missing_claims import build_missing_claim_recall_report, write_missing_claim_audit_template
 from ..generic.publishers import build_generic_digest, build_generic_static_site, export_generic_api
 from ..generic.quality import build_generic_quality_report
 from ..generic.review import make_generic_claim_review_queue
@@ -1826,6 +1827,28 @@ def cmd_generic_review_queue(args: argparse.Namespace) -> None:
     )
     print(f"Wrote {len(queue)} generic claim review row(s): {args.out}")
     print(json.dumps(diagnostics, indent=2, sort_keys=True, default=str))
+
+
+def cmd_generic_missing_claim_template(args: argparse.Namespace) -> None:
+    frame = write_missing_claim_audit_template(
+        args.out,
+        events=_read_optional_csv(args.events),
+        expected_fields=args.expected_fields,
+    )
+    print(f"Wrote {len(frame)} generic missing-claim audit row(s): {args.out}")
+
+
+def cmd_generic_missing_claim_report(args: argparse.Namespace) -> None:
+    import pandas as pd
+
+    report = build_missing_claim_recall_report(
+        claims=pd.read_csv(args.claims),
+        missing_claim_audit=pd.read_csv(args.audit),
+        review_queue=_read_optional_csv(args.review_queue),
+        out_json=args.out_json,
+        out_md=args.out_md,
+    )
+    print(json.dumps(report, indent=2, sort_keys=True, default=str))
 
 
 def _read_optional_csv(path: str | None):

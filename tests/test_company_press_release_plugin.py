@@ -92,6 +92,27 @@ def test_third_party_vendor_detects_vendor_involvement():
     )
 
 
+def test_customer_data_suppresses_customer_support_false_positives():
+    assert "customer_data_exposure_mentioned" not in _extract_fields(
+        "The dedicated customer inquiry form for the security incident remained available for affected customers."
+    )
+    assert "customer_data_exposure_mentioned" not in _extract_fields(
+        "Customers may contact a dedicated call center for additional information about the incident."
+    )
+    assert "customer_data_exposure_mentioned" not in _extract_fields(
+        "The company had not yet determined that any personal customer data was involved."
+    )
+
+
+def test_customer_data_detects_actual_data_exposure():
+    assert "customer_data_exposure_mentioned" in _extract_fields(
+        "Customer personal information may have been accessed during the incident."
+    )
+    assert "customer_data_exposure_mentioned" in _extract_fields(
+        "The files contained PHI and PII related to affected patients."
+    )
+
+
 def test_press_release_experiment_writes_generic_artifacts(tmp_path):
     report = run_company_press_release_experiment(FIXTURE, out_dir=tmp_path / "press_release", auto_accept_min_confidence=0.8)
     out_dir = Path(report["out_dir"])

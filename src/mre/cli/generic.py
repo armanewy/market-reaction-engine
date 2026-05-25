@@ -24,6 +24,20 @@ def register(sub) -> None:
     p.add_argument("--allow-missing-evidence", action="store_true")
     p.set_defaults(func=cmd.cmd_generic_review_queue)
 
+    p = sub.add_parser("generic-missing-claim-template", help="Write a generic missing-claim audit template.")
+    p.add_argument("--out", required=True)
+    p.add_argument("--events")
+    p.add_argument("--expected-fields", default="")
+    p.set_defaults(func=cmd.cmd_generic_missing_claim_template)
+
+    p = sub.add_parser("generic-missing-claim-report", help="Build a generic missing-claim recall report.")
+    p.add_argument("--claims", required=True)
+    p.add_argument("--audit", required=True)
+    p.add_argument("--review-queue")
+    p.add_argument("--out-json")
+    p.add_argument("--out-md")
+    p.set_defaults(func=cmd.cmd_generic_missing_claim_report)
+
     p = sub.add_parser("generic-quality-report", help="Build a generic evidence dataset quality report.")
     p.add_argument("--claims", required=True)
     p.add_argument("--evidence-spans", required=True)

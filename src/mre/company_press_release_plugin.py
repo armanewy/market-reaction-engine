@@ -296,7 +296,68 @@ class CompanyCyberEventDetector:
 
 def _negative_customer_context(evidence_text: str) -> bool:
     lowered = evidence_text.lower()
-    return any(phrase in lowered for phrase in ["no evidence", "not identified", "has not identified", "no indication"])
+    return any(
+        phrase in lowered
+        for phrase in [
+            "no evidence",
+            "not identified",
+            "has not identified",
+            "no indication",
+            "not yet determined",
+            "had not yet determined",
+            "has not yet determined",
+            "cannot confirm",
+        ]
+    )
+
+
+_CUSTOMER_DATA_EXPOSURE_RE = re.compile(
+    r"\b(?:customer|client|consumer|patient|member)[\w\s'/-]{0,80}"
+    r"(?:personal information|protected health information|information|data|records|pii|phi)[\w\s,;:()/-]{0,100}"
+    r"(?:accessed|exposed|exposure|stolen|copied|viewed|compromised|breached|affected|involved|acquired)\b"
+    r"|"
+    r"\b(?:personal information|protected health information|pii|phi|customer data|customer records|"
+    r"customer information|client data|client information|consumer data|consumer information|"
+    r"patient data|patient information|member data|member information|records|files)[\w\s,;:()/-]{0,100}"
+    r"(?:accessed|exposed|exposure|stolen|copied|viewed|compromised|breached|affected|involved|acquired)\b"
+    r"|"
+    r"\b(?:files|database|email account|backups?|records)[\w\s,;:()/-]{0,80}"
+    r"(?:contained|included)[\w\s,;:()/-]{0,80}"
+    r"(?:personal information|protected health information|pii|phi|customer information|customer data|patient information)\b"
+    r"|"
+    r"\b(?:personal information|protected health information|pii|phi|customer information|customer data|patient information)"
+    r"[\w\s,;:()/-]{0,80}(?:contained|included)\b",
+    flags=re.I,
+)
+_CUSTOMER_DATA_NOUN_RE = re.compile(
+    r"\b(personal information|protected health information|customer information|customer data|customer records|"
+    r"client information|client data|consumer information|consumer data|patient information|patient data|"
+    r"member information|member data|pii|phi|records|files|database|email account)\b",
+    flags=re.I,
+)
+_CUSTOMER_DATA_ACTION_RE = re.compile(
+    r"\b(accessed|exposed|exposure|stolen|copied|viewed|compromised|breached|affected|involved|acquired|contained|included)\b",
+    flags=re.I,
+)
+_CUSTOMER_SUPPORT_CONTEXT_RE = re.compile(
+    r"\b(customer inquiry form|customer support|call center|contact center|customer portal|"
+    r"notice to customers|notify customers|notifying customers|affected customers can|customers may contact)\b",
+    flags=re.I,
+)
+
+
+def _is_customer_data_exposure_evidence(evidence_text: str) -> bool:
+    has_data_noun = bool(_CUSTOMER_DATA_NOUN_RE.search(evidence_text))
+    has_action = bool(_CUSTOMER_DATA_ACTION_RE.search(evidence_text))
+    if not (has_data_noun and has_action):
+        return False
+    if _CUSTOMER_SUPPORT_CONTEXT_RE.search(evidence_text) and not re.search(
+        r"\b(personal information|protected health information|customer data|customer information|pii|phi|records|files)\b",
+        evidence_text,
+        flags=re.I,
+    ):
+        return False
+    return True
 
 
 _VENDOR_INVOLVEMENT_RE = re.compile(
@@ -359,7 +420,7 @@ class CompanyCyberClaimExtractor:
             0.72,
         ),
         "customer_data_exposure_mentioned": (
-            r"\b(customer|client|consumer|patient|member|personal information|PHI|PII)\b.{0,80}\b(accessed|exposed|exposure|stolen|affected)\b",
+            _CUSTOMER_DATA_EXPOSURE_RE.pattern,
             "boolean",
             True,
             0.76,
@@ -393,7 +454,9 @@ class CompanyCyberClaimExtractor:
             if not match:
                 continue
             evidence_text, start, end = evidence_for_match(doc.text, match)
-            if field_name == "customer_data_exposure_mentioned" and _negative_customer_context(evidence_text):
+            if field_name == "customer_data_exposure_mentioned" and (
+                _negative_customer_context(evidence_text) or not _is_customer_data_exposure_evidence(evidence_text)
+            ):
                 continue
             if field_name == "third_party_vendor_mentioned" and not _is_third_party_vendor_evidence(evidence_text):
                 continue
