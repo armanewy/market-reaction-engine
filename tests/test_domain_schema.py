@@ -12,6 +12,7 @@ def test_pilot_domain_schema_loads():
     assert schema.event_type == "cybersecurity"
     assert "release_session" in schema.required_review_columns
     assert schema.promotion_gates["min_reviewed_rows"] == 80
+    assert "ransomware_mentioned" in {field["name"] for field in schema.claim_fields}
 
 
 def test_schema_loader_reads_directory():
@@ -63,3 +64,45 @@ def test_promotion_gate_defaults_applied(tmp_path):
     schema = load_domain_schema(path)
 
     assert schema.promotion_gates == DEFAULT_PROMOTION_GATES
+
+
+def test_claim_fields_are_preserved_and_extra_fields_do_not_break_loading():
+    schema = domain_schema_from_mapping(
+        {
+            "domain": "x",
+            "event_type": "event",
+            "default_subtype": "candidate",
+            "description": "test",
+            "claim_fields": [
+                {
+                    "name": "field_a",
+                    "value_type": "boolean",
+                    "required_evidence": True,
+                    "description": "Field A.",
+                }
+            ],
+            "unknown_future_key": {"ok": True},
+        }
+    )
+
+    payload = schema.to_dict()
+
+    assert payload["claim_fields"][0]["name"] == "field_a"
+    assert payload["extra"]["unknown_future_key"] == {"ok": True}
+
+
+def test_duplicate_claim_field_names_are_rejected():
+    data = {
+        "domain": "x",
+        "event_type": "event",
+        "default_subtype": "candidate",
+        "description": "test",
+        "claim_fields": [{"name": "field_a"}, {"name": "FIELD_A"}],
+    }
+
+    try:
+        domain_schema_from_mapping(data)
+    except ValueError as exc:
+        assert "duplicate claim field names" in str(exc)
+    else:
+        raise AssertionError("Expected ValueError")

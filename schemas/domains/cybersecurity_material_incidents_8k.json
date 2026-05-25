@@ -54,6 +54,105 @@
     "pre_event_volatility_20d",
     "revenue_ltm_if_available"
   ],
+  "claim_fields": [
+    {
+      "name": "item_105_flag",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether the filing explicitly identifies Item 1.05 or a material cybersecurity incident disclosure."
+    },
+    {
+      "name": "amendment_flag",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether the filing is an amendment or update to an earlier cybersecurity disclosure."
+    },
+    {
+      "name": "cybersecurity_incident_event_type",
+      "value_type": "category",
+      "required_evidence": true,
+      "allowed_values": [
+        "material_cyber_incident",
+        "ransomware",
+        "business_interruption",
+        "customer_data_breach",
+        "third_party_vendor_breach",
+        "operational_disruption",
+        "incident_update",
+        "no_material_impact_update",
+        "legacy_cyber_disclosure",
+        "generic_cyber_risk_control",
+        "unknown"
+      ],
+      "description": "Conservative incident category supported by filing text."
+    },
+    {
+      "name": "ransomware_mentioned",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether ransomware, extortion, encryption, or similar language is explicitly mentioned."
+    },
+    {
+      "name": "customer_data_exposure_mentioned",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether customer, client, consumer, or personal data exposure is explicitly mentioned."
+    },
+    {
+      "name": "operational_disruption_mentioned",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether operations, systems, business interruption, or service disruption is explicitly mentioned."
+    },
+    {
+      "name": "third_party_vendor_mentioned",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether a third party, vendor, supplier, or service provider is explicitly implicated."
+    },
+    {
+      "name": "financial_impact_language",
+      "value_type": "string",
+      "required_evidence": true,
+      "description": "Quoted language about financial impact, cost, revenue, operations, or results."
+    },
+    {
+      "name": "materiality_language",
+      "value_type": "string",
+      "required_evidence": true,
+      "description": "Quoted language about materiality or material impact."
+    },
+    {
+      "name": "impact_unknown_or_not_determined",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether the filing says impact has not been determined, is unknown, or is still under assessment."
+    },
+    {
+      "name": "no_material_impact_language",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether the filing says the incident did not have, or is not expected to have, a material impact."
+    },
+    {
+      "name": "reasonably_likely_material_impact_language",
+      "value_type": "boolean",
+      "required_evidence": true,
+      "description": "Whether the filing uses reasonably-likely material impact language."
+    },
+    {
+      "name": "incident_discovery_date",
+      "value_type": "date",
+      "required_evidence": true,
+      "description": "Date on which the registrant discovered or became aware of the incident, if stated."
+    },
+    {
+      "name": "materiality_determination_date",
+      "value_type": "date",
+      "required_evidence": true,
+      "description": "Date on which the registrant determined the incident was material, if stated."
+    }
+  ],
   "promotion_gates": {
     "min_reviewed_rows": 80,
     "min_model_eligible_rows": 60,

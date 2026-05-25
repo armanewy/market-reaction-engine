@@ -25,7 +25,9 @@ class DomainSchema:
     domain_columns: list[str] = field(default_factory=list)
     categorical_features: list[str] = field(default_factory=list)
     numeric_features: list[str] = field(default_factory=list)
+    claim_fields: list[dict[str, Any]] = field(default_factory=list)
     promotion_gates: dict[str, int] = field(default_factory=lambda: dict(DEFAULT_PROMOTION_GATES))
+    extra: dict[str, Any] = field(default_factory=dict)
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
@@ -67,6 +69,13 @@ def validate_domain_schema(schema: DomainSchema) -> DomainSchema:
         if dupes:
             raise ValueError(f"Domain schema {schema.domain} has duplicate values in {field_name}: {dupes}")
 
+    claim_names = [str(field.get("name", "")).strip() for field in schema.claim_fields]
+    if any(not name for name in claim_names):
+        raise ValueError(f"Domain schema {schema.domain} has a claim field without a name")
+    claim_dupes = _duplicate_values(claim_names)
+    if claim_dupes:
+        raise ValueError(f"Domain schema {schema.domain} has duplicate claim field names: {claim_dupes}")
+
     overlapping_columns = set(c.lower() for c in schema.required_review_columns) & set(c.lower() for c in schema.domain_columns)
     if overlapping_columns:
         raise ValueError(f"Domain schema {schema.domain} repeats required review columns in domain_columns: {sorted(overlapping_columns)}")
@@ -90,6 +99,27 @@ def domain_schema_from_mapping(data: Mapping[str, Any]) -> DomainSchema:
     if not isinstance(supplied_gates, Mapping):
         raise ValueError("promotion_gates must be an object")
     promotion_gates.update({str(key): int(value) for key, value in supplied_gates.items()})
+    claim_fields_raw = data.get("claim_fields") or []
+    if not isinstance(claim_fields_raw, list):
+        raise ValueError("claim_fields must be a list of objects")
+    claim_fields: list[dict[str, Any]] = []
+    for field_data in claim_fields_raw:
+        if not isinstance(field_data, Mapping):
+            raise ValueError("claim_fields must be a list of objects")
+        claim_fields.append(dict(field_data))
+    known_keys = {
+        "domain",
+        "event_type",
+        "default_subtype",
+        "description",
+        "required_review_columns",
+        "domain_columns",
+        "categorical_features",
+        "numeric_features",
+        "claim_fields",
+        "promotion_gates",
+    }
+    extra = {str(key): value for key, value in data.items() if key not in known_keys}
 
     schema = DomainSchema(
         domain=str(data["domain"]).strip(),
@@ -100,7 +130,9 @@ def domain_schema_from_mapping(data: Mapping[str, Any]) -> DomainSchema:
         domain_columns=_string_list(data.get("domain_columns"), "domain_columns"),
         categorical_features=_string_list(data.get("categorical_features"), "categorical_features"),
         numeric_features=_string_list(data.get("numeric_features"), "numeric_features"),
+        claim_fields=claim_fields,
         promotion_gates=promotion_gates,
+        extra=extra,
     )
     return validate_domain_schema(schema)
 

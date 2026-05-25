@@ -44,6 +44,9 @@ For prior domain status, stop reasons, and revisit triggers, see
 `docs/DOMAIN_RESEARCH_REGISTRY.md`.
 For contributor orientation, see `docs/ARCHITECTURE_MAP.md`,
 `docs/DOMAIN_LIFECYCLE.md`, and `docs/BACKTEST_INTERPRETATION.md`.
+For the source-backed disclosure intelligence pivot and first Cyber 8-K Watch
+vertical, see `docs/DISCLOSURE_INTELLIGENCE_PIVOT.md` and
+`docs/CYBER_8K_WATCH.md`.
 
 The current pipeline is:
 
