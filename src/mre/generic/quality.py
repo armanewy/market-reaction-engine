@@ -71,6 +71,7 @@ def _merge_review_queue(claims: pd.DataFrame, review_queue: pd.DataFrame) -> pd.
         else:
             review_values = merged[review_col]
             mask = review_values.notna() & (review_values.astype(str).str.strip() != "")
+            merged[col] = merged[col].astype("object")
             merged.loc[mask, col] = review_values[mask]
         if review_col != col:
             merged = merged.drop(columns=[review_col])

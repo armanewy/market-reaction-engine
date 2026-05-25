@@ -104,3 +104,32 @@ def test_review_queue_overrides_claim_status_for_precision():
     assert report["field_precision_by_field_name"] == [
         {"field_name": "field", "accepted": 1, "rejected": 0, "reviewed_total": 1, "precision": 1.0}
     ]
+
+
+def test_review_queue_string_fields_override_empty_float_columns():
+    report = build_generic_quality_report(
+        events=[{"event_id": "e1"}],
+        claims=[
+            {
+                "claim_id": "c1",
+                "event_id": "e1",
+                "field_name": "field",
+                "evidence_span_id": "s1",
+                "review_status": "needs_review",
+                "label_quality": None,
+                "review_action": None,
+            }
+        ],
+        evidence_spans=[{"evidence_span_id": "s1"}],
+        review_queue=[
+            {
+                "claim_id": "c1",
+                "review_status": "human_reviewed",
+                "label_quality": "high",
+                "review_action": "accept",
+            }
+        ],
+    )
+
+    assert report["n_human_reviewed_claims"] == 1
+    assert report["review_action_counts"] == {"accept": 1}

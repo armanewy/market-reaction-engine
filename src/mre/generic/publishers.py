@@ -46,6 +46,7 @@ def merge_review_queue(claims, review_queue) -> pd.DataFrame:
         mask = values.notna() & (values.astype(str).str.strip() != "")
         if col not in merged.columns:
             merged[col] = ""
+        merged[col] = merged[col].astype("object")
         merged.loc[mask, col] = values[mask]
         merged = merged.drop(columns=[review_col])
     return merged

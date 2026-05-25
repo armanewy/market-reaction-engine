@@ -58,6 +58,30 @@ def test_merge_review_queue_overrides_non_empty_values():
     assert merged.loc[merged["claim_id"] == "c2", "label_quality"].iloc[0] == "low"
 
 
+def test_merge_review_queue_string_fields_override_empty_float_columns():
+    claims = [
+        {
+            "claim_id": "c1",
+            "review_status": "needs_review",
+            "label_quality": None,
+            "review_action": None,
+        }
+    ]
+    review_queue = [
+        {
+            "claim_id": "c1",
+            "review_status": "human_reviewed",
+            "label_quality": "high",
+            "review_action": "accept",
+        }
+    ]
+
+    merged = merge_review_queue(claims, review_queue)
+
+    assert merged.loc[0, "label_quality"] == "high"
+    assert merged.loc[0, "review_action"] == "accept"
+
+
 def test_evidence_highlight_html_escapes_and_marks():
     html = evidence_highlight_html("before <evidence> after", 7, 17, window=20)
 
