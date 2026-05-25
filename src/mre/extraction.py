@@ -573,6 +573,8 @@ def validate_llm_facts_jsonl(
                 start = source_text.find(evidence) if evidence else -1
                 if require_evidence_in_text and start < 0:
                     raise ValueError(f"Line {line_no}: evidence_text not found in source_doc_id={doc_id}")
+                safe_start = start if start >= 0 else 0
+                safe_end = safe_start + len(evidence) if start >= 0 else 0
                 try:
                     value = float(fact.get("value"))
                 except Exception as exc:
@@ -589,8 +591,8 @@ def validate_llm_facts_jsonl(
                         confidence=float(fact.get("confidence", 0.5)),
                         method="llm_validated_jsonl",
                         evidence_text=evidence,
-                        start_char=max(start, 0),
-                        end_char=max(start + len(evidence), 0),
+                        start_char=safe_start,
+                        end_char=safe_end,
                         source_type=doc.source_type,
                         source_url=doc.source_url,
                         notes=str(fact.get("notes", "")),

@@ -1,0 +1,62 @@
+{
+  "domain": "cybersecurity_material_incidents_8k",
+  "event_type": "cybersecurity",
+  "default_subtype": "sec_8_k_item_1_05",
+  "description": "Material cybersecurity incidents disclosed in SEC 8-K Item 1.05 and related legacy 8-K cybersecurity disclosures.",
+  "required_review_columns": [
+    "cybersecurity_incident_event_type",
+    "item_105_flag",
+    "event_time",
+    "release_session",
+    "source_type",
+    "source_url",
+    "event_direction_pre_price",
+    "materiality_pre_price"
+  ],
+  "domain_columns": [
+    "legacy_disclosure_flag",
+    "incident_discovery_date",
+    "materiality_determination_date",
+    "operational_disruption_flag",
+    "ransomware_flag",
+    "customer_data_exposure_flag",
+    "third_party_vendor_flag",
+    "financial_impact_language",
+    "business_interruption_language",
+    "amendment_update_flag",
+    "no_material_impact_language",
+    "known_publicly_before_filing_flag",
+    "hard_negative_flag",
+    "hard_negative_reason",
+    "market_cap_before_event",
+    "sector",
+    "pre_event_market_adjusted_return_20d",
+    "pre_event_volatility_20d",
+    "company_size_bucket",
+    "revenue_ltm_if_available",
+    "data_sensitive_sector_flag",
+    "prior_cyber_incident_flag",
+    "sector_benchmark"
+  ],
+  "categorical_features": [
+    "release_session",
+    "cybersecurity_incident_event_type",
+    "item_105_flag",
+    "operational_disruption_flag",
+    "ransomware_flag",
+    "customer_data_exposure_flag",
+    "company_size_bucket"
+  ],
+  "numeric_features": [
+    "materiality_pre_price",
+    "market_cap_before_event",
+    "pre_event_market_adjusted_return_20d",
+    "pre_event_volatility_20d",
+    "revenue_ltm_if_available"
+  ],
+  "promotion_gates": {
+    "min_reviewed_rows": 80,
+    "min_model_eligible_rows": 60,
+    "min_likely_oos_predictions": 30
+  }
+}

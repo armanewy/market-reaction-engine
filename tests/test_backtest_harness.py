@@ -5,6 +5,7 @@ import pandas as pd
 
 from mre.backtest import (
     calibration_table,
+    concentration_diagnostics,
     make_peer_control_events,
     make_placebo_events,
     null_shuffle_strategy_test,
@@ -31,6 +32,55 @@ def test_calibration_strategy_and_null_shuffle(tmp_path):
     null, null_report = null_shuffle_strategy_test(preds, n_iter=10, seed=1, long_threshold=0.6, allow_short=True)
     assert len(null) == 10
     assert "one_sided_p_value_actual_ge_null" in null_report
+
+
+def test_concentration_diagnostics_empty_trades():
+    report = concentration_diagnostics(pd.DataFrame(columns=["ticker", "event_type", "net_event_return"]))
+
+    assert report["n_rows"] == 0
+    assert report["per_ticker"] == []
+    assert report["warnings"]
+
+
+def test_concentration_diagnostics_one_ticker_warns():
+    trades = pd.DataFrame(
+        {
+            "ticker": ["AAA", "AAA"],
+            "event_type": ["earnings", "earnings"],
+            "net_event_return": [0.02, -0.01],
+        }
+    )
+
+    report = concentration_diagnostics(trades)
+
+    assert report["n_unique_tickers"] == 1
+    assert report["top_1_ticker_share_by_abs_return"] == 1.0
+    assert any("one ticker" in warning for warning in report["warnings"])
+
+
+def test_concentration_diagnostics_many_tickers_and_dominant_ticker():
+    balanced = pd.DataFrame(
+        {
+            "ticker": ["AAA", "BBB", "CCC", "DDD", "EEE"],
+            "event_type": ["earnings"] * 5,
+            "net_event_return": [0.01, -0.01, 0.01, -0.01, 0.01],
+        }
+    )
+    dominant = pd.DataFrame(
+        {
+            "ticker": ["AAA", "AAA", "BBB", "CCC", "DDD", "EEE"],
+            "event_type": ["earnings"] * 6,
+            "net_event_return": [0.50, -0.30, 0.01, 0.01, -0.01, 0.01],
+        }
+    )
+
+    balanced_report = concentration_diagnostics(balanced)
+    dominant_report = concentration_diagnostics(dominant)
+
+    assert balanced_report["n_unique_tickers"] == 5
+    assert abs(balanced_report["top_1_ticker_share_by_abs_return"] - 0.2) < 1e-9
+    assert dominant_report["top_1_ticker_share_by_abs_return"] > 0.9
+    assert any("75%" in warning for warning in dominant_report["warnings"])
 
 
 def _write_price(path, ticker):
@@ -102,4 +152,5 @@ def test_research_backtest_runs(tmp_path):
     pd.DataFrame(rows).to_csv(event_study, index=False)
     report = run_research_backtest(event_study, tmp_path / "bt", horizon=1, min_train=12, purge_days=1, null_iterations=10, probability_threshold=0.55)
     assert report["walk_forward"]["n_predictions"] > 0
+    assert "concentration" in report
     assert (tmp_path / "bt" / "research_backtest_report.json").exists()

@@ -10,6 +10,32 @@ from mre.extraction import build_extraction_packets, facts_to_expectations, run_
 from mre.source_docs import load_source_documents, make_source_docs_template
 
 
+def make_manifest(tmp_path: Path, text: str) -> Path:
+    manifest = tmp_path / "manifest.csv"
+    make_source_docs_template(
+        manifest,
+        rows=[
+            {
+                "source_doc_id": "doc1",
+                "ticker": "ACME",
+                "event_id": "evt1",
+                "event_time": "2024-01-31T16:10:00",
+                "text": text,
+            }
+        ],
+    )
+    return manifest
+
+
+def write_llm_jsonl(tmp_path: Path, facts: list[dict]) -> Path:
+    llm_path = tmp_path / "llm.jsonl"
+    llm_path.write_text(
+        json.dumps({"source_doc_id": "doc1", "event_id": "evt1", "facts": facts}) + "\n",
+        encoding="utf-8",
+    )
+    return llm_path
+
+
 def test_source_docs_manifest_reads_relative_path(tmp_path: Path) -> None:
     docs_dir = tmp_path / "docs"
     docs_dir.mkdir()
@@ -75,16 +101,22 @@ For the next quarter, ACME expects revenue between $2.50 billion and $2.60 billi
     assert (tmp_path / "facts.csv").exists()
 
 
-def test_facts_to_expectations_chooses_highest_confidence() -> None:
-    facts = pd.DataFrame(
+def test_facts_to_expectations_chooses_highest_confidence_and_preserves_source_docs(tmp_path: Path) -> None:
+    facts_path = tmp_path / "facts.csv"
+    pd.DataFrame(
         [
             {"event_id": "evt", "ticker": "ACME", "event_time": "2024-01-01T16:00:00", "source_doc_id": "a", "fact_name": "actual_eps", "value": 1.0, "confidence": 0.2, "evidence_text": "weak", "source_url": ""},
             {"event_id": "evt", "ticker": "ACME", "event_time": "2024-01-01T16:00:00", "source_doc_id": "b", "fact_name": "actual_eps", "value": 1.2, "confidence": 0.9, "evidence_text": "strong", "source_url": ""},
             {"event_id": "evt", "ticker": "ACME", "event_time": "2024-01-01T16:00:00", "source_doc_id": "b", "fact_name": "consensus_eps", "value": 1.0, "confidence": 0.9, "evidence_text": "estimate", "source_url": ""},
         ]
-    )
+    ).to_csv(facts_path, index=False)
+    facts = pd.read_csv(facts_path)
+
     out = facts_to_expectations(facts)
+
     assert out.iloc[0]["actual_eps"] == 1.2
+    assert out.iloc[0]["actual_eps_source_doc_id"] == "b"
+    assert out.iloc[0]["source_doc_ids"] == "a;b"
     assert out.iloc[0]["eps_surprise_pct"] == pytest.approx(0.2)
 
 
@@ -132,3 +164,93 @@ def test_extraction_packets_and_validated_llm_facts(tmp_path: Path) -> None:
     out = validate_llm_facts_jsonl(manifest, llm_path, tmp_path / "facts.csv")
     assert len(out) == 1
     assert out.iloc[0]["start_char"] == 0
+    assert out.iloc[0]["end_char"] == len(text)
+
+
+def test_validate_llm_facts_jsonl_rejects_invalid_fact_name(tmp_path: Path) -> None:
+    manifest = make_manifest(tmp_path, "ACME reported revenue of $2.45 billion.")
+    llm_path = write_llm_jsonl(
+        tmp_path,
+        [
+            {
+                "fact_name": "made_up_fact",
+                "value": 2450.0,
+                "unit": "usd_millions",
+                "evidence_text": "ACME reported revenue of $2.45 billion.",
+                "confidence": 0.9,
+            }
+        ],
+    )
+
+    with pytest.raises(ValueError, match="invalid fact_name"):
+        validate_llm_facts_jsonl(manifest, llm_path, tmp_path / "facts.csv")
+
+
+def test_validate_llm_facts_jsonl_requires_evidence_in_source_text(tmp_path: Path) -> None:
+    manifest = make_manifest(tmp_path, "ACME reported revenue of $2.45 billion.")
+    llm_path = write_llm_jsonl(
+        tmp_path,
+        [
+            {
+                "fact_name": "actual_revenue",
+                "value": 2450.0,
+                "unit": "usd_millions",
+                "evidence_text": "ACME reported revenue of $3.00 billion.",
+                "confidence": 0.9,
+            }
+        ],
+    )
+
+    with pytest.raises(ValueError, match="evidence_text not found"):
+        validate_llm_facts_jsonl(manifest, llm_path, tmp_path / "facts.csv")
+
+
+@pytest.mark.parametrize(
+    "fact",
+    [
+        {
+            "fact_name": "actual_revenue",
+            "unit": "usd_millions",
+            "evidence_text": "ACME reported revenue of $2.45 billion.",
+        },
+        {
+            "fact_name": "actual_revenue",
+            "value": "not disclosed",
+            "unit": "usd_millions",
+            "evidence_text": "ACME reported revenue of $2.45 billion.",
+        },
+    ],
+)
+def test_validate_llm_facts_jsonl_rejects_missing_or_invalid_numeric_value(tmp_path: Path, fact: dict) -> None:
+    manifest = make_manifest(tmp_path, "ACME reported revenue of $2.45 billion.")
+    llm_path = write_llm_jsonl(tmp_path, [fact])
+
+    with pytest.raises(ValueError, match="fact value must be numeric"):
+        validate_llm_facts_jsonl(manifest, llm_path, tmp_path / "facts.csv")
+
+
+def test_validate_llm_facts_jsonl_can_allow_absent_evidence_with_safe_span(tmp_path: Path) -> None:
+    manifest = make_manifest(tmp_path, "ACME reported revenue of $2.45 billion.")
+    llm_path = write_llm_jsonl(
+        tmp_path,
+        [
+            {
+                "fact_name": "actual_revenue",
+                "value": 2450.0,
+                "unit": "usd_millions",
+                "evidence_text": "ACME reported revenue of $3.00 billion.",
+                "confidence": 0.9,
+            }
+        ],
+    )
+
+    out = validate_llm_facts_jsonl(
+        manifest,
+        llm_path,
+        tmp_path / "facts.csv",
+        require_evidence_in_text=False,
+    )
+
+    assert len(out) == 1
+    assert out.iloc[0]["start_char"] == 0
+    assert out.iloc[0]["end_char"] == 0

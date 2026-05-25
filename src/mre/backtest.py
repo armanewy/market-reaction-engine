@@ -199,6 +199,95 @@ def simulate_event_strategy(
     return trades, report
 
 
+def concentration_diagnostics(
+    trades_or_predictions_df: pd.DataFrame,
+    *,
+    return_column: str = "net_event_return",
+    group_columns: tuple[str, ...] = ("ticker", "event_type"),
+    top_n: int = 20,
+) -> dict[str, object]:
+    """Summarize whether event returns are concentrated in a few issuers.
+
+    The diagnostic is descriptive only; it does not change strategy returns or
+    promotion gates.  Contributions are measured by absolute event return so a
+    large loser and a large winner both count as concentration risk.
+    """
+    df = trades_or_predictions_df.copy()
+    warnings: list[str] = []
+    report: dict[str, object] = {
+        "n_rows": int(len(df)),
+        "n_unique_tickers": int(df["ticker"].nunique()) if "ticker" in df.columns else 0,
+        "return_column": return_column,
+        "top_1_ticker_share_by_abs_return": 0.0,
+        "top_3_ticker_share_by_abs_return": 0.0,
+        "top_5_ticker_share_by_abs_return": 0.0,
+        "per_ticker": [],
+        "groups": {},
+        "warnings": warnings,
+    }
+    if df.empty:
+        warnings.append("No rows available for concentration diagnostics.")
+        return report
+    if return_column not in df.columns:
+        warnings.append(f"Return column {return_column!r} is absent; concentration by return was not computed.")
+        return report
+
+    returns = pd.to_numeric(df[return_column], errors="coerce").fillna(0.0)
+    df = df.copy()
+    df["_return_contribution"] = returns
+    df["_abs_return_contribution"] = returns.abs()
+    total_abs = float(df["_abs_return_contribution"].sum())
+
+    def group_summary(column: str) -> list[dict[str, object]]:
+        grouped = (
+            df.groupby(column, dropna=False)
+            .agg(
+                n_rows=("_abs_return_contribution", "size"),
+                return_contribution=("_return_contribution", "sum"),
+                abs_return_contribution=("_abs_return_contribution", "sum"),
+            )
+            .reset_index()
+        )
+        grouped["abs_return_share"] = grouped["abs_return_contribution"] / total_abs if total_abs > 0 else 0.0
+        grouped = grouped.sort_values(["abs_return_contribution", "n_rows"], ascending=[False, False]).head(int(top_n))
+        rows: list[dict[str, object]] = []
+        for _, row in grouped.iterrows():
+            rows.append(
+                {
+                    str(column): "" if pd.isna(row[column]) else str(row[column]),
+                    "n_rows": int(row["n_rows"]),
+                    "return_contribution": float(row["return_contribution"]),
+                    "abs_return_contribution": float(row["abs_return_contribution"]),
+                    "abs_return_share": float(row["abs_return_share"]),
+                }
+            )
+        return rows
+
+    if "ticker" in df.columns:
+        ticker_rows = group_summary("ticker")
+        report["per_ticker"] = ticker_rows
+        ticker_shares = [float(row["abs_return_share"]) for row in ticker_rows]
+        report["top_1_ticker_share_by_abs_return"] = float(sum(ticker_shares[:1]))
+        report["top_3_ticker_share_by_abs_return"] = float(sum(ticker_shares[:3]))
+        report["top_5_ticker_share_by_abs_return"] = float(sum(ticker_shares[:5]))
+        if int(report["n_unique_tickers"]) <= 1:
+            warnings.append("All rows are from one ticker; issuer concentration is maximal.")
+        top_5_share = float(report["top_5_ticker_share_by_abs_return"])
+        if top_5_share > 0.75:
+            warnings.append("Top 5 tickers contribute more than 75% of absolute event return.")
+        elif top_5_share > 0.50:
+            warnings.append("Top 5 tickers contribute more than 50% of absolute event return.")
+    else:
+        warnings.append("ticker column is absent; issuer concentration was not computed.")
+
+    group_reports: dict[str, list[dict[str, object]]] = {}
+    for column in group_columns:
+        if column in df.columns:
+            group_reports[column] = group_summary(column)
+    report["groups"] = group_reports
+    return report
+
+
 def null_shuffle_strategy_test(
     predictions: str | Path | pd.DataFrame,
     *,
@@ -443,6 +532,7 @@ def run_research_backtest(
         slippage_bps=slippage_bps,
         out_trades=trades_path,
     )
+    concentration_report = concentration_diagnostics(trades)
     _, null_report = null_shuffle_strategy_test(
         usable,
         horizon=horizon,
@@ -461,6 +551,7 @@ def run_research_backtest(
         "walk_forward": walk_report,
         "calibration": cal_report,
         "strategy": strategy_report,
+        "concentration": concentration_report,
         "null_shuffle": null_report,
         "artifacts": {
             "predictions": str(pred_path),

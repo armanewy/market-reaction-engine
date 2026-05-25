@@ -1,0 +1,60 @@
+{
+  "domain": "earnings_guidance",
+  "event_type": "earnings",
+  "default_subtype": "quarterly_results",
+  "description": "Earnings, segment, margin, and forward-guidance catalysts.",
+  "required_review_columns": [
+    "event_time",
+    "release_session",
+    "source_type",
+    "source_url",
+    "event_direction_pre_price",
+    "materiality_pre_price"
+  ],
+  "domain_columns": [
+    "fiscal_period_end",
+    "fiscal_quarter",
+    "fiscal_year",
+    "primary_surprise_metric",
+    "consensus_eps",
+    "actual_eps",
+    "eps_surprise_pct",
+    "consensus_revenue",
+    "actual_revenue",
+    "revenue_surprise_pct",
+    "consensus_gross_margin",
+    "actual_gross_margin",
+    "gross_margin_surprise_pct",
+    "consensus_forward_revenue",
+    "guidance_revenue_mid",
+    "guidance_revenue_surprise_pct",
+    "implied_move_pct",
+    "analyst_count"
+  ],
+  "categorical_features": [
+    "ticker",
+    "event_subtype",
+    "source_type",
+    "release_session",
+    "primary_surprise_metric",
+    "surprise_direction"
+  ],
+  "numeric_features": [
+    "materiality_pre_price",
+    "consensus_eps",
+    "actual_eps",
+    "eps_surprise_pct",
+    "consensus_revenue",
+    "actual_revenue",
+    "revenue_surprise_pct",
+    "guidance_revenue_mid",
+    "guidance_revenue_surprise_pct",
+    "implied_move_pct",
+    "analyst_count"
+  ],
+  "promotion_gates": {
+    "min_reviewed_rows": 80,
+    "min_model_eligible_rows": 60,
+    "min_likely_oos_predictions": 30
+  }
+}

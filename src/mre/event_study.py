@@ -122,11 +122,11 @@ def compute_event_study_frame(
 ) -> tuple[pd.DataFrame, EventStudyDiagnostics]:
     """Compute abnormal returns around all events."""
     benchmark = config.benchmark_ticker.upper()
+    returns = returns.copy()
+    returns.columns = [str(c).upper() for c in returns.columns]
     if benchmark not in returns.columns:
         raise ValueError(f"Benchmark ticker {benchmark} not found in returns data")
 
-    returns = returns.copy()
-    returns.columns = [str(c).upper() for c in returns.columns]
     returns = returns.sort_index()
     diag = EventStudyDiagnostics(events_total=len(events))
     rows: list[dict] = []
