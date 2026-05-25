@@ -2,8 +2,8 @@ from __future__ import annotations
 
 import pandas as pd
 
-from mre.cyber_8k_parser import parse_cyber_8k_document, run_cyber_8k_parse_manifest
-from mre.source_docs import SourceDocument, make_source_docs_template
+from mre.cyber_8k_parser import parse_cyber_8k_document
+from mre.source_docs import SourceDocument
 
 
 def _doc(text: str, *, title: str = "Form 8-K Item 1.05") -> SourceDocument:
@@ -149,36 +149,3 @@ def test_cyber_8k_parser_emits_no_claim_without_evidence():
 
     assert claims == []
     assert spans == []
-
-
-def test_run_cyber_8k_parse_manifest_writes_outputs(tmp_path):
-    manifest = tmp_path / "source_documents.csv"
-    make_source_docs_template(
-        manifest,
-        rows=[
-            {
-                "source_doc_id": "doc1",
-                "ticker": "ACME",
-                "event_id": "event1",
-                "event_time": "2024-01-02T16:05:00",
-                "event_type": "cybersecurity",
-                "event_subtype": "sec_8_k_item_1_05",
-                "release_session": "after_close",
-                "source_type": "sec_primary_filing",
-                "source_url": "https://sec.test/acme",
-                "text": "Item 1.05 Material Cybersecurity Incident. ACME experienced operational disruption.",
-            }
-        ],
-    )
-
-    claims, evidence, diagnostics = run_cyber_8k_parse_manifest(
-        manifest,
-        claims_out=tmp_path / "claims.csv",
-        evidence_out=tmp_path / "evidence.csv",
-    )
-
-    assert not claims.empty
-    assert not evidence.empty
-    assert diagnostics["documents_with_claims"] == 1
-    assert (tmp_path / "claims.csv").exists()
-    assert (tmp_path / "evidence.csv").exists()

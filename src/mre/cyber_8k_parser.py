@@ -1,16 +1,13 @@
 from __future__ import annotations
 
-from collections.abc import Iterable, Mapping
-from dataclasses import asdict, dataclass, field
-from pathlib import Path
+from collections.abc import Mapping
 import re
 from typing import Any
 
 import pandas as pd
 
-from .event_graph import Claim, EvidenceSpan, claim_id as make_claim_id, dataclasses_to_frame, evidence_span_id as make_evidence_span_id
-from .paths import ensure_parent
-from .source_docs import SourceDocument, load_source_documents
+from .event_graph import Claim, EvidenceSpan, claim_id as make_claim_id, evidence_span_id as make_evidence_span_id
+from .source_docs import SourceDocument
 
 
 CYBER_8K_BOOLEAN_PATTERNS: dict[str, tuple[str, str, float]] = {
@@ -77,25 +74,6 @@ CYBER_8K_DATE_PATTERNS: dict[str, tuple[str, str, float]] = {
         0.82,
     ),
 }
-
-
-@dataclass
-class Cyber8KParseDiagnostics:
-    documents_total: int = 0
-    documents_with_claims: int = 0
-    claims_total: int = 0
-    counts_by_field: dict[str, int] = field(default_factory=dict)
-    skipped_reasons: dict[str, int] = field(default_factory=dict)
-
-    def add_claim(self, field_name: str) -> None:
-        self.claims_total += 1
-        self.counts_by_field[field_name] = self.counts_by_field.get(field_name, 0) + 1
-
-    def add_skip(self, reason: str) -> None:
-        self.skipped_reasons[reason] = self.skipped_reasons.get(reason, 0) + 1
-
-    def to_dict(self) -> dict:
-        return asdict(self)
 
 
 def _get(doc: SourceDocument | Mapping[str, Any], key: str, default: object = "") -> object:
@@ -353,41 +331,3 @@ def parse_cyber_8k_document(doc: SourceDocument | Mapping[str, Any]) -> tuple[li
         spans.append(span)
 
     return claims, spans
-
-
-def parse_cyber_8k_documents(docs: Iterable[SourceDocument]) -> tuple[pd.DataFrame, pd.DataFrame, dict]:
-    diagnostics = Cyber8KParseDiagnostics()
-    claim_rows: list[Claim] = []
-    evidence_rows: list[EvidenceSpan] = []
-    for doc in docs:
-        diagnostics.documents_total += 1
-        claims, spans = parse_cyber_8k_document(doc)
-        if claims:
-            diagnostics.documents_with_claims += 1
-        else:
-            diagnostics.add_skip("no_claims_with_evidence")
-        claim_rows.extend(claims)
-        evidence_rows.extend(spans)
-        for claim in claims:
-            diagnostics.add_claim(claim.field_name)
-
-    claims_df = dataclasses_to_frame(claim_rows)
-    evidence_df = dataclasses_to_frame(evidence_rows)
-    return claims_df, evidence_df, diagnostics.to_dict()
-
-
-def run_cyber_8k_parse_manifest(
-    documents_manifest,
-    *,
-    claims_out=None,
-    evidence_out=None,
-) -> tuple[pd.DataFrame, pd.DataFrame, dict]:
-    docs = load_source_documents(documents_manifest)
-    claims_df, evidence_df, diagnostics = parse_cyber_8k_documents(docs)
-    if claims_out is not None:
-        ensure_parent(claims_out)
-        claims_df.to_csv(claims_out, index=False)
-    if evidence_out is not None:
-        ensure_parent(evidence_out)
-        evidence_df.to_csv(evidence_out, index=False)
-    return claims_df, evidence_df, diagnostics

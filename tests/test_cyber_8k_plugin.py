@@ -2,7 +2,8 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from mre.cyber_8k_parser import run_cyber_8k_parse_manifest
+import pandas as pd
+
 from mre.cyber_8k_plugin import (
     Cyber8KClaimExtractor,
     Cyber8KEventDetector,
@@ -16,14 +17,15 @@ FIXTURE = Path("tests/fixtures/cyber_8k/source_documents.csv")
 
 
 def test_cyber_8k_plugin_manifest_matches_parser_field_surface():
-    direct_claims, direct_evidence, _ = run_cyber_8k_parse_manifest(FIXTURE)
     plugin_claims, plugin_evidence, diagnostics = run_cyber_8k_plugin_manifest(FIXTURE)
+    expected_fields = set(pd.read_csv("tests/fixtures/cyber_8k/expected_claims.csv")["field_name"])
 
     assert diagnostics["extraction_path"] == "generic_plugin"
     assert diagnostics["plugin_status"] == "ok"
     assert diagnostics["claims_total"] == len(plugin_claims)
-    assert set(plugin_claims["field_name"]) == set(direct_claims["field_name"])
-    assert len(plugin_evidence) == len(direct_evidence)
+    assert expected_fields.issubset(set(plugin_claims["field_name"]))
+    assert len(plugin_evidence) == len(plugin_claims)
+    assert plugin_evidence["evidence_text"].fillna("").str.len().gt(0).all()
     assert "source_authority_level" in plugin_claims.columns
     assert "source_role" in plugin_claims.columns
 
