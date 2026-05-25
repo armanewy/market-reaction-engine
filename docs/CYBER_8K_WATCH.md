@@ -59,3 +59,5 @@ Pass/fail market validation should be based on real workflow pull, not complimen
 - 2 serious paid-pilot asks
 
 If users only find the product intellectually interesting but do not ask for data, alerts, exports, or API access, the MVP has not validated.
+
+For the launch checklist, interview script, task tests, pricing hypotheses, and kill criteria, see `docs/CYBER_8K_WATCH_LAUNCH_PLAN.md`.

@@ -65,6 +65,13 @@ from ..government_contracts import (
 from ..government_contract_falsification import run_government_contract_falsification_pass
 from ..corpus import build_curated_corpus, corpus_quality_summary, list_corpus_domains, make_domain_event_template, validate_corpus_csv
 from ..corpus_demo import generate_corpus_demo_data
+from ..claim_review import make_claim_review_queue
+from ..cyber_8k_dataset import build_cyber_8k_dataset
+from ..cyber_8k_digest import build_cyber_8k_digest
+from ..cyber_8k_parser import run_cyber_8k_parse_manifest
+from ..cyber_8k_pipeline import run_cyber_8k_pipeline, write_cyber_8k_pipeline_template
+from ..cyber_8k_site import build_cyber_8k_static_site
+from ..cyber_8k_sources import build_cyber_8k_source_documents
 from ..demo import generate_demo_data
 from ..domain_registry import (
     DEFAULT_REGISTRY_PATH,
@@ -1657,3 +1664,92 @@ def cmd_corpus_demo(args: argparse.Namespace) -> None:
         "backtest_report": backtest_report,
         "diagnostics": {"event_study": diag.__dict__, "placebo_event_study": placebo_diag.__dict__},
     }, indent=2, default=str))
+
+
+def cmd_cyber_8k_template(args: argparse.Namespace) -> None:
+    path = write_cyber_8k_pipeline_template(
+        args.out,
+        source_documents_csv=args.source_documents_csv,
+        out_dir=args.out_dir,
+        tickers=args.tickers,
+        start=args.start,
+        end=args.end,
+    )
+    print(f"Wrote Cyber 8-K Watch pipeline template: {path}")
+
+
+def cmd_cyber_8k_source_docs(args: argparse.Namespace) -> None:
+    client = SecClient(args.user_agent, requests_per_second=args.requests_per_second)
+    df, diagnostics = build_cyber_8k_source_documents(
+        client,
+        tickers=args.tickers,
+        out_manifest=args.out,
+        docs_dir=args.docs_dir,
+        start=args.start,
+        end=args.end,
+        limit_per_ticker=args.limit_per_ticker,
+        include_primary=not args.no_primary,
+        include_exhibits=not args.no_exhibits,
+        overwrite=args.overwrite,
+        min_text_chars=args.min_text_chars,
+    )
+    print(f"Wrote {len(df)} Cyber 8-K source document row(s): {args.out}")
+    print(json.dumps(diagnostics.to_dict(), indent=2, sort_keys=True))
+
+
+def cmd_cyber_8k_parse(args: argparse.Namespace) -> None:
+    claims, evidence, diagnostics = run_cyber_8k_parse_manifest(args.documents, claims_out=args.claims_out, evidence_out=args.evidence_out)
+    print(f"Wrote {len(claims)} claim row(s) and {len(evidence)} evidence span row(s).")
+    print(json.dumps(diagnostics, indent=2, sort_keys=True))
+
+
+def cmd_cyber_8k_review_queue(args: argparse.Namespace) -> None:
+    queue, diagnostics = make_claim_review_queue(
+        args.claims,
+        args.evidence_spans,
+        out_path=args.out,
+        auto_accept_min_confidence=args.auto_accept_min_confidence,
+        require_evidence=not args.allow_missing_evidence,
+    )
+    print(f"Wrote {len(queue)} claim review row(s): {args.out}")
+    print(json.dumps(diagnostics, indent=2, sort_keys=True))
+
+
+def cmd_cyber_8k_build_dataset(args: argparse.Namespace) -> None:
+    summary = build_cyber_8k_dataset(
+        args.documents,
+        claims_csv=args.claims,
+        evidence_spans_csv=args.evidence_spans,
+        review_queue_csv=args.review_queue,
+        filings_csv=args.filings,
+        out_dir=args.out_dir,
+        run_manifest_path=args.run_manifest,
+        auto_accept_min_confidence=args.auto_accept_min_confidence,
+    )
+    print(json.dumps(summary, indent=2, sort_keys=True, default=str))
+
+
+def cmd_cyber_8k_build_site(args: argparse.Namespace) -> None:
+    result = build_cyber_8k_static_site(args.events, args.claims, args.evidence_spans, args.out_dir, title=args.title)
+    print(json.dumps(result, indent=2, sort_keys=True))
+
+
+def cmd_cyber_8k_digest(args: argparse.Namespace) -> None:
+    digest = build_cyber_8k_digest(
+        args.events,
+        args.claims,
+        args.evidence_spans,
+        start_date=args.start_date,
+        end_date=args.end_date,
+        out_path=args.out,
+        title=args.title,
+    )
+    if args.out:
+        print(f"Wrote Cyber 8-K digest: {args.out}")
+    else:
+        print(digest)
+
+
+def cmd_cyber_8k_run(args: argparse.Namespace) -> None:
+    report = run_cyber_8k_pipeline(args.config, dry_run=args.dry_run)
+    print(json.dumps(report, indent=2, sort_keys=True, default=str))
