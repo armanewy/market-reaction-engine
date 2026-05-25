@@ -50,11 +50,10 @@ def test_review_queue_uses_fact_evidence(tmp_path: Path):
     assert queue.iloc[0]["review_status"] == "reviewed"
 
 
-def test_run_pipeline_with_existing_prices(tmp_path: Path):
-    seed = generate_corpus_demo_data(tmp_path / "seed", seed=1)
-    cfg = default_pipeline_config(run_id="automation_test", domain="earnings_guidance", preset="", tickers=[])
+def _existing_price_pipeline_config(tmp_path: Path, seed: dict[str, Path], *, run_name: str = "automation_test") -> dict:
+    cfg = default_pipeline_config(run_id=run_name, domain="earnings_guidance", preset="", tickers=[])
     cfg["root"] = str(tmp_path)
-    cfg["run_dir"] = str(tmp_path / "run")
+    cfg["run_dir"] = str(tmp_path / run_name)
     cfg["source"]["mode"] = "manual_events"
     cfg["source"]["events_csv"] = str(seed["events_enriched"])
     cfg["corpus"]["require_reviewed"] = False
@@ -66,10 +65,55 @@ def test_run_pipeline_with_existing_prices(tmp_path: Path):
     cfg["backtest"]["null_iterations"] = 1
     cfg["gates"]["min_predictions"] = 20
     cfg["gates"]["min_trades"] = 1
+    return cfg
+
+
+def test_run_pipeline_with_existing_prices_blocks_backtest_without_promotion(tmp_path: Path):
+    seed = generate_corpus_demo_data(tmp_path / "seed", seed=1)
+    cfg = _existing_price_pipeline_config(tmp_path, seed, run_name="blocked")
     path = tmp_path / "pipeline.json"
     path.write_text(json.dumps(cfg, indent=2))
     report = run_pipeline(path)
     assert report["artifacts"]["pipeline_report"]
+    assert report["artifacts"]["promotion_report"]
     assert Path(report["artifacts"]["research_report_md"]).exists()
-    assert "decision" in report["decision"]
+    assert report["decision"]["decision"] == "no_backtest"
+    assert any(step["name"] == "research_backtest_blocked_by_promotion" for step in report["steps"])
     assert any(step["name"] == "event_study_main" and step["status"] == "ok" for step in report["steps"])
+
+
+def test_pipeline_allows_draft_backtest_with_warning(tmp_path: Path):
+    seed = generate_corpus_demo_data(tmp_path / "seed", seed=2)
+    cfg = _existing_price_pipeline_config(tmp_path, seed, run_name="allow_draft")
+    cfg["promotion"]["allow_draft_backtest"] = True
+    path = tmp_path / "pipeline_allow_draft.json"
+    path.write_text(json.dumps(cfg, indent=2))
+
+    report = run_pipeline(path)
+
+    assert any(step["name"] == "research_backtest_main" for step in report["steps"])
+    assert any("Backtest allowed on non-model-ready corpus" in warning for warning in report["warnings"])
+
+
+def test_pipeline_model_ready_corpus_proceeds_to_backtest(tmp_path: Path):
+    seed = generate_corpus_demo_data(tmp_path / "seed", seed=3)
+    events = pd.read_csv(seed["events_enriched"])
+    events["duplicate_status"] = "primary"
+    events["timestamp_audit_status"] = "clear"
+    events["execution_survivability_class"] = "delayed-digestion"
+    model_ready_events = tmp_path / "model_ready_events.csv"
+    events.to_csv(model_ready_events, index=False)
+
+    cfg = _existing_price_pipeline_config(tmp_path, seed, run_name="model_ready")
+    cfg["source"]["events_csv"] = str(model_ready_events)
+    cfg["promotion"]["min_reviewed_rows"] = 10
+    cfg["promotion"]["min_model_eligible_rows"] = 10
+    cfg["promotion"]["min_likely_oos_predictions"] = 1
+    path = tmp_path / "pipeline_model_ready.json"
+    path.write_text(json.dumps(cfg, indent=2))
+
+    report = run_pipeline(path)
+
+    promotion_step = next(step for step in report["steps"] if step["name"] == "promotion_readiness")
+    assert promotion_step["metrics"]["decision"] == "model_ready"
+    assert any(step["name"] == "research_backtest_main" and step["status"] == "ok" for step in report["steps"])

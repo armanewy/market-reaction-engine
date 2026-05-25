@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Any
+from typing import Any, Sequence
 
 import joblib
 import numpy as np
@@ -15,6 +15,7 @@ from sklearn.neighbors import NearestNeighbors
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
+from .features import FeatureSpec, available_feature_specs, split_feature_specs
 from .paths import ensure_parent
 
 CATEGORICAL_FEATURES = [
@@ -296,18 +297,33 @@ def _one_hot_encoder() -> OneHotEncoder:
         return OneHotEncoder(handle_unknown="ignore", sparse=True)
 
 
-def prepare_feature_frame(df: pd.DataFrame) -> pd.DataFrame:
+def _feature_name_lists(feature_specs: Sequence[FeatureSpec] | None = None) -> tuple[list[str], list[str]]:
+    if feature_specs is None:
+        return list(CATEGORICAL_FEATURES), list(NUMERIC_FEATURES)
+    return split_feature_specs(feature_specs)
+
+
+def prepare_feature_frame(df: pd.DataFrame, *, feature_specs: Sequence[FeatureSpec] | None = None) -> pd.DataFrame:
     out = df.copy()
-    for col in NUMERIC_FEATURES:
+    categorical_features, numeric_features = _feature_name_lists(feature_specs)
+    for col in numeric_features:
         if col in out.columns:
             out[col] = pd.to_numeric(out[col], errors="coerce")
-    for col in CATEGORICAL_FEATURES:
+    for col in categorical_features:
         if col in out.columns:
             out[col] = out[col].fillna("unknown").astype(str)
     return out
 
 
-def available_features(df: pd.DataFrame) -> tuple[list[str], list[str]]:
+def available_features(
+    df: pd.DataFrame,
+    *,
+    feature_specs: Sequence[FeatureSpec] | None = None,
+    allow_high_leakage_features: bool = False,
+) -> tuple[list[str], list[str]]:
+    if feature_specs is not None:
+        specs = available_feature_specs(df, feature_specs, allow_high_leakage=allow_high_leakage_features)
+        return split_feature_specs(specs)
     cat = [c for c in CATEGORICAL_FEATURES if c in df.columns]
     # Avoid feeding all-null numeric columns into SimpleImputer; newer scikit-learn
     # warns and silently drops them.  A feature with no observed values cannot help
@@ -320,9 +336,14 @@ def available_features(df: pd.DataFrame) -> tuple[list[str], list[str]]:
     return cat, num
 
 
-def make_preprocessor(df: pd.DataFrame) -> ColumnTransformer:
-    df = prepare_feature_frame(df)
-    cat, num = available_features(df)
+def make_preprocessor(
+    df: pd.DataFrame,
+    *,
+    feature_specs: Sequence[FeatureSpec] | None = None,
+    allow_high_leakage_features: bool = False,
+) -> ColumnTransformer:
+    df = prepare_feature_frame(df, feature_specs=feature_specs)
+    cat, num = available_features(df, feature_specs=feature_specs, allow_high_leakage_features=allow_high_leakage_features)
     transformers: list[tuple[str, Pipeline, list[str]]] = []
     if cat:
         transformers.append(("cat", Pipeline([("imputer", SimpleImputer(strategy="constant", fill_value="unknown")), ("onehot", _one_hot_encoder())]), cat))
@@ -333,9 +354,14 @@ def make_preprocessor(df: pd.DataFrame) -> ColumnTransformer:
     return ColumnTransformer(transformers=transformers)
 
 
-def make_direction_pipeline(df: pd.DataFrame) -> Pipeline:
+def make_direction_pipeline(
+    df: pd.DataFrame,
+    *,
+    feature_specs: Sequence[FeatureSpec] | None = None,
+    allow_high_leakage_features: bool = False,
+) -> Pipeline:
     return Pipeline([
-        ("preprocessor", make_preprocessor(df)),
+        ("preprocessor", make_preprocessor(df, feature_specs=feature_specs, allow_high_leakage_features=allow_high_leakage_features)),
         ("classifier", LogisticRegression(max_iter=2000, class_weight="balanced", solver="liblinear")),
     ])
 
@@ -409,12 +435,15 @@ def train_direction_model(
     out_model: str | Path | None = None,
     out_report: str | Path | None = None,
     test_size: float = 0.3,
+    feature_specs: Sequence[FeatureSpec] | None = None,
+    allow_high_leakage_features: bool = False,
 ) -> dict[str, Any]:
     df = load_event_study(event_study_path)
     frame, y = modeling_frame(df, horizon=horizon)
-    cat, num = available_features(frame)
+    frame = prepare_feature_frame(frame, feature_specs=feature_specs)
+    cat, num = available_features(frame, feature_specs=feature_specs, allow_high_leakage_features=allow_high_leakage_features)
     X_train, X_test, y_train, y_test = chronological_split(frame, y, test_size=test_size)
-    model = make_direction_pipeline(frame)
+    model = make_direction_pipeline(frame, feature_specs=feature_specs, allow_high_leakage_features=allow_high_leakage_features)
     report: dict[str, Any] = {
         "horizon": horizon,
         "n_events": int(len(frame)),
@@ -425,6 +454,10 @@ def train_direction_model(
         "target": f"target_positive_h{horizon}",
         "warnings": ["Baseline model only. Treat metrics as a plumbing diagnostic until validated with placebos and walk-forward tests."],
     }
+    if feature_specs is not None:
+        report["feature_spec_mode"] = "custom"
+        if not allow_high_leakage_features:
+            report["warnings"].append("High-leakage FeatureSpec entries were excluded from modeling.")
     if len(frame) < 30:
         report["warnings"].append("Very small sample. Metrics are unstable.")
     if y.nunique() < 2:
@@ -452,6 +485,99 @@ def train_direction_model(
     return report
 
 
+def issuer_grouped_diagnostics(
+    frame: pd.DataFrame,
+    y: pd.Series,
+    model_factory,
+    *,
+    ticker_col: str = "ticker",
+    min_train: int = 40,
+) -> dict[str, Any]:
+    """Run lightweight issuer concentration diagnostics for direction models."""
+    warnings: list[str] = []
+    report: dict[str, Any] = {
+        "n_rows": int(len(frame)),
+        "ticker_col": ticker_col,
+        "n_unique_tickers": 0,
+        "per_ticker": [],
+        "leave_one_ticker_out": [],
+        "warnings": warnings,
+    }
+    if ticker_col not in frame.columns:
+        warnings.append(f"{ticker_col} column is absent; issuer diagnostics skipped.")
+        return report
+    if len(frame) != len(y):
+        raise ValueError("frame and y must have the same length")
+    frame = frame.reset_index(drop=True).copy()
+    y = pd.Series(y).reset_index(drop=True).astype(int)
+
+    tickers = frame[ticker_col].fillna("unknown").astype(str)
+    report["n_unique_tickers"] = int(tickers.nunique())
+    grouped_rows: list[dict[str, Any]] = []
+    for ticker, idx in tickers.groupby(tickers).groups.items():
+        y_ticker = y.loc[list(idx)].astype(int)
+        grouped_rows.append(
+            {
+                "ticker": str(ticker),
+                "n_rows": int(len(y_ticker)),
+                "actual_positive_rate": float(y_ticker.mean()) if len(y_ticker) else None,
+                "n_positive": int(y_ticker.sum()),
+                "n_negative": int((1 - y_ticker).sum()),
+            }
+        )
+    grouped_rows = sorted(grouped_rows, key=lambda row: (-int(row["n_rows"]), str(row["ticker"])))
+    report["per_ticker"] = grouped_rows
+    if int(report["n_unique_tickers"]) <= 1:
+        warnings.append("Only one ticker is present; leave-one-ticker-out validation is not possible.")
+        return report
+
+    loto_rows: list[dict[str, Any]] = []
+    min_train = max(2, int(min_train))
+    for ticker in sorted(tickers.unique()):
+        test_mask = tickers.eq(ticker)
+        train_mask = ~test_mask
+        X_train = frame.loc[train_mask].copy()
+        y_train = y.loc[train_mask].astype(int)
+        X_test = frame.loc[test_mask].copy()
+        y_test = y.loc[test_mask].astype(int)
+        row: dict[str, Any] = {
+            "ticker": str(ticker),
+            "train_rows": int(len(X_train)),
+            "test_rows": int(len(X_test)),
+            "status": "ok",
+        }
+        if len(X_train) < min_train:
+            row["status"] = "skipped_insufficient_train_rows"
+        elif y_train.nunique() < 2:
+            row["status"] = "skipped_one_class_train"
+        elif len(X_test) == 0:
+            row["status"] = "skipped_no_test_rows"
+        else:
+            model = model_factory(X_train)
+            model.fit(X_train, y_train)
+            proba = model.predict_proba(X_test)[:, 1]
+            pred = model.predict(X_test)
+            metrics = {
+                "accuracy": float(accuracy_score(y_test, pred)),
+                "brier_score": float(brier_score_loss(y_test, np.clip(proba, 1e-6, 1.0 - 1e-6))),
+            }
+            if y_test.nunique() == 2:
+                metrics["balanced_accuracy"] = float(balanced_accuracy_score(y_test, pred))
+                metrics["roc_auc"] = float(roc_auc_score(y_test, proba))
+            else:
+                row["warning"] = "test ticker has one class; class-balance metrics omitted"
+            row["metrics"] = metrics
+        loto_rows.append(row)
+    report["leave_one_ticker_out"] = loto_rows
+    skipped = [row for row in loto_rows if row.get("status") != "ok"]
+    if skipped:
+        warnings.append(f"{len(skipped)} ticker holdouts were skipped or partially evaluated.")
+    dominant = grouped_rows[0] if grouped_rows else None
+    if dominant and len(frame) and int(dominant["n_rows"]) / len(frame) > 0.5:
+        warnings.append("One ticker accounts for more than 50% of rows; ticker memorization risk is elevated.")
+    return report
+
+
 def predict_direction(model_path: str | Path, event_study_path: str | Path, out_path: str | Path | None = None) -> pd.DataFrame:
     bundle = joblib.load(model_path)
     pipeline = bundle["pipeline"]
@@ -474,10 +600,15 @@ def walk_forward_direction_model(
     min_train: int = 40,
     out_predictions: str | Path | None = None,
     out_report: str | Path | None = None,
+    feature_specs: Sequence[FeatureSpec] | None = None,
+    allow_high_leakage_features: bool = False,
+    include_issuer_diagnostics: bool = False,
+    issuer_diagnostics_min_train: int | None = None,
 ) -> dict[str, Any]:
     """Run an expanding-window walk-forward direction model."""
     df = load_event_study(event_study_path)
     frame, y = modeling_frame(df, horizon=horizon)
+    frame = prepare_feature_frame(frame, feature_specs=feature_specs)
     if "reaction_start" in frame.columns:
         order = pd.to_datetime(frame["reaction_start"], errors="coerce").sort_values(kind="mergesort").index
     elif "event_time" in frame.columns:
@@ -501,7 +632,7 @@ def walk_forward_direction_model(
             pred = int(proba >= 0.5)
             status = "fallback_base_rate_one_class_train"
         else:
-            model = make_direction_pipeline(X_train)
+            model = make_direction_pipeline(X_train, feature_specs=feature_specs, allow_high_leakage_features=allow_high_leakage_features)
             model.fit(X_train, y_train)
             proba = float(model.predict_proba(X_one)[:, 1][0])
             pred = int(proba >= 0.5)
@@ -534,8 +665,8 @@ def walk_forward_direction_model(
         "n_events": int(len(frame)),
         "min_train": int(min_train),
         "n_predictions": int(len(pred_df)),
-        "categorical_features": available_features(frame)[0],
-        "numeric_features": available_features(frame)[1],
+        "categorical_features": available_features(frame, feature_specs=feature_specs, allow_high_leakage_features=allow_high_leakage_features)[0],
+        "numeric_features": available_features(frame, feature_specs=feature_specs, allow_high_leakage_features=allow_high_leakage_features)[1],
         "warnings": ["Walk-forward metrics are a research diagnostic, not evidence of tradable alpha."],
         "metrics": _classification_metrics(y_true, proba, pred),
         "baseline_metrics": {
@@ -543,6 +674,17 @@ def walk_forward_direction_model(
             "log_loss": float(log_loss(y_true, base, labels=[0, 1])) if y_true.nunique() == 2 else None,
         },
     }
+    if feature_specs is not None:
+        report["feature_spec_mode"] = "custom"
+        if not allow_high_leakage_features:
+            report["warnings"].append("High-leakage FeatureSpec entries were excluded from modeling.")
+    if include_issuer_diagnostics:
+        report["issuer_grouped_diagnostics"] = issuer_grouped_diagnostics(
+            frame,
+            y,
+            lambda train_frame: make_direction_pipeline(train_frame, feature_specs=feature_specs, allow_high_leakage_features=allow_high_leakage_features),
+            min_train=issuer_diagnostics_min_train or min_train,
+        )
     if out_predictions:
         p = ensure_parent(out_predictions)
         pred_df.to_csv(p, index=False)

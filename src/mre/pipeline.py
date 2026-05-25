@@ -21,6 +21,7 @@ from .ingestion import build_sec_source_document_manifest, ingest_source_documen
 from .options import merge_options_implied_moves
 from .paths import ensure_dir, ensure_parent
 from .prices import fetch_yfinance_prices
+from .promotion import evaluate_model_readiness
 from .release_times import merge_release_times
 from .reports import event_study_report
 from .review import make_review_queue
@@ -130,6 +131,16 @@ def default_pipeline_config(
             "min_materiality": 0.0,
             "validate_only": False,
         },
+        "promotion": {
+            "enabled": True,
+            "block_backtest_if_not_model_ready": True,
+            "allow_draft_backtest": False,
+            "min_reviewed_rows": 80,
+            "min_model_eligible_rows": 60,
+            "min_likely_oos_predictions": 30,
+            "require_known_release_session": True,
+            "require_evidence": True,
+        },
         "prices": {
             "provider": "yfinance",
             "prices_dir": "",
@@ -156,6 +167,9 @@ def default_pipeline_config(
             "min_train": 40,
             "purge_days": 3,
             "probability_threshold": 0.60,
+            "threshold_mode": "fixed",
+            "candidate_thresholds": [0.55, 0.60, 0.65, 0.70],
+            "min_threshold_selection_rows": 30,
             "allow_short": True,
             "cost_bps": 5.0,
             "slippage_bps": 5.0,
@@ -520,6 +534,48 @@ def _corpus_stage(cfg: dict[str, Any], paths: dict[str, Path], state: PipelineSt
     return out
 
 
+def _promotion_stage(cfg: dict[str, Any], paths: dict[str, Path], state: PipelineState, corpus_path: Path) -> dict[str, Any]:
+    promotion_cfg = cfg.get("promotion", {}) or {}
+    out = paths["artifacts_dir"] / "promotion_report.json"
+    step = state.add(PipelineStep("promotion_readiness"))
+    if not bool(promotion_cfg.get("enabled", True)):
+        report = {"decision": "disabled", "checks": [], "failed_gates": [], "warnings": ["Promotion gates disabled by config."], "summary": {}}
+        _write_json(out, report)
+        step.status = "skipped"
+        step.message = "Promotion gates disabled by config."
+        step.outputs["promotion_report"] = str(out)
+        state.artifacts["promotion_report"] = str(out)
+        state.warnings.append(step.message)
+        return report
+
+    def run():
+        frame = pd.read_csv(corpus_path)
+        report = evaluate_model_readiness(
+            frame,
+            min_reviewed_rows=int(promotion_cfg.get("min_reviewed_rows", 80)),
+            min_model_eligible_rows=int(promotion_cfg.get("min_model_eligible_rows", 60)),
+            min_likely_oos_predictions=int(promotion_cfg.get("min_likely_oos_predictions", 30)),
+            require_known_release_session=bool(promotion_cfg.get("require_known_release_session", True)),
+            require_evidence=bool(promotion_cfg.get("require_evidence", True)),
+        )
+        _write_json(out, report)
+        decision = str(report.get("decision", "unknown"))
+        step.metrics.update({"decision": decision, "failed_gates": report.get("failed_gates", []), "summary": report.get("summary", {})})
+        if decision == "model_ready":
+            step.status = "ok"
+            step.message = "Corpus passed promotion gates for modeling/backtest."
+        else:
+            step.status = "warning"
+            step.message = f"Corpus is not model-ready: {decision}."
+            state.warnings.append(step.message)
+        return report
+
+    report = _safe_run(step, run, dry_run=state.dry_run) or {"decision": "dry_run", "checks": [], "failed_gates": [], "warnings": [], "summary": {}}
+    step.outputs["promotion_report"] = str(out)
+    state.artifacts["promotion_report"] = str(out)
+    return report
+
+
 def _prices_stage(cfg: dict[str, Any], paths: dict[str, Path], state: PipelineState, events_path: Path) -> Path:
     price_cfg = cfg.get("prices", {}) or {}
     provider = str(price_cfg.get("provider", "yfinance")).lower().strip()
@@ -642,11 +698,35 @@ def _controls_stage(cfg: dict[str, Any], paths: dict[str, Path], state: Pipeline
     return outputs
 
 
-def _run_backtests(cfg: dict[str, Any], paths: dict[str, Path], state: PipelineState, event_studies: dict[str, Path]) -> dict[str, Any]:
+def _run_backtests(
+    cfg: dict[str, Any],
+    paths: dict[str, Path],
+    state: PipelineState,
+    event_studies: dict[str, Path],
+    *,
+    promotion_report: dict[str, Any] | None = None,
+) -> dict[str, Any]:
     bt = cfg.get("backtest", {}) or {}
     if not bool(bt.get("enabled", True)):
         state.warnings.append("Backtest disabled by config.")
         return {}
+    promotion_cfg = cfg.get("promotion", {}) or {}
+    promotion_decision = str((promotion_report or {}).get("decision", "unknown"))
+    block_backtest = (
+        bool(promotion_cfg.get("enabled", True))
+        and bool(promotion_cfg.get("block_backtest_if_not_model_ready", True))
+        and not bool(promotion_cfg.get("allow_draft_backtest", False))
+        and promotion_decision not in {"model_ready", "disabled"}
+    )
+    if block_backtest:
+        step = state.add(PipelineStep("research_backtest_blocked_by_promotion"))
+        step.status = "warning"
+        step.message = f"Backtest blocked because promotion decision is {promotion_decision}."
+        step.outputs["promotion_report"] = state.artifacts.get("promotion_report", "")
+        state.warnings.append(step.message)
+        return {}
+    if promotion_decision not in {"model_ready", "disabled"} and bool(promotion_cfg.get("allow_draft_backtest", False)):
+        state.warnings.append(f"Backtest allowed on non-model-ready corpus by config; promotion decision is {promotion_decision}.")
     reports: dict[str, Any] = {}
     for label, study_path in event_studies.items():
         step = state.add(PipelineStep(f"research_backtest_{label}"))
@@ -660,6 +740,9 @@ def _run_backtests(cfg: dict[str, Any], paths: dict[str, Path], state: PipelineS
                 min_train=int(bt.get("min_train", 40)),
                 purge_days=bt.get("purge_days"),
                 probability_threshold=float(bt.get("probability_threshold", 0.60)),
+                threshold_mode=str(bt.get("threshold_mode", "fixed")),
+                candidate_thresholds=bt.get("candidate_thresholds") or None,
+                min_threshold_selection_rows=int(bt.get("min_threshold_selection_rows", 30)),
                 allow_short=bool(bt.get("allow_short", False)),
                 cost_bps=float(bt.get("cost_bps", 0.0)),
                 slippage_bps=float(bt.get("slippage_bps", 0.0)),
@@ -807,6 +890,7 @@ def run_pipeline(config_path: str | Path, *, dry_run: bool = False, stages: Iter
         return state.to_dict()
     merged_path = _merge_expectation_sources(cfg, paths, state, review_path)
     corpus_path = _corpus_stage(cfg, paths, state, merged_path)
+    promotion_report = _promotion_stage(cfg, paths, state, corpus_path)
     prices_dir = _prices_stage(cfg, paths, state, corpus_path)
     enriched_path = _enrich_stage(cfg, paths, state, corpus_path, prices_dir)
     main_study = _event_study_stage(cfg, paths, state, enriched_path, prices_dir, label="main")
@@ -823,7 +907,7 @@ def run_pipeline(config_path: str | Path, *, dry_run: bool = False, stages: Iter
         studies["placebo"] = controls["placebo_event_study"]
     if "peer_event_study" in controls:
         studies["peer"] = controls["peer_event_study"]
-    reports = _run_backtests(cfg, paths, state, studies)
+    reports = _run_backtests(cfg, paths, state, studies, promotion_report=promotion_report)
     state.decision = evaluate_signal_gates(cfg, reports)
     state.artifacts["run_dir"] = str(paths["run_dir"])
     report_path = paths["run_dir"] / "pipeline_report.json"

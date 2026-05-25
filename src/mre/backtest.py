@@ -114,6 +114,8 @@ def simulate_event_strategy(
     return_column: str | None = None,
     long_threshold: float = 0.60,
     short_threshold: float | None = None,
+    long_threshold_column: str | None = None,
+    short_threshold_column: str | None = None,
     allow_short: bool = False,
     cost_bps: float = 0.0,
     slippage_bps: float = 0.0,
@@ -134,13 +136,25 @@ def simulate_event_strategy(
     out = df.copy()
     out[probability_column] = pd.to_numeric(out[probability_column], errors="coerce")
     short_threshold = (1.0 - float(long_threshold)) if short_threshold is None else float(short_threshold)
+    if long_threshold_column and long_threshold_column not in out.columns:
+        raise ValueError(f"Missing long-threshold column for strategy simulation: {long_threshold_column}")
+    if short_threshold_column and short_threshold_column not in out.columns:
+        raise ValueError(f"Missing short-threshold column for strategy simulation: {short_threshold_column}")
+    if long_threshold_column:
+        long_values = pd.to_numeric(out[long_threshold_column], errors="coerce").fillna(float(long_threshold))
+    else:
+        long_values = pd.Series([float(long_threshold)] * len(out), index=out.index)
+    if short_threshold_column:
+        short_values = pd.to_numeric(out[short_threshold_column], errors="coerce").fillna(float(short_threshold))
+    else:
+        short_values = pd.Series([float(short_threshold)] * len(out), index=out.index)
     positions = []
-    for p in out[probability_column]:
+    for p, long_value, short_value in zip(out[probability_column], long_values, short_values):
         if pd.isna(p):
             positions.append(0)
-        elif p >= float(long_threshold):
+        elif p >= float(long_value):
             positions.append(1)
-        elif allow_short and p <= short_threshold:
+        elif allow_short and p <= float(short_value):
             positions.append(-1)
         else:
             positions.append(0)
@@ -162,6 +176,8 @@ def simulate_event_strategy(
             "n_trades": 0,
             "long_threshold": float(long_threshold),
             "short_threshold": float(short_threshold),
+            "long_threshold_column": long_threshold_column,
+            "short_threshold_column": short_threshold_column,
             "allow_short": bool(allow_short),
             "cost_bps": float(cost_bps),
             "slippage_bps": float(slippage_bps),
@@ -180,6 +196,8 @@ def simulate_event_strategy(
             "n_short": int((trades["position"] == -1).sum()),
             "long_threshold": float(long_threshold),
             "short_threshold": float(short_threshold),
+            "long_threshold_column": long_threshold_column,
+            "short_threshold_column": short_threshold_column,
             "allow_short": bool(allow_short),
             "cost_bps": float(cost_bps),
             "slippage_bps": float(slippage_bps),
@@ -197,6 +215,131 @@ def simulate_event_strategy(
         trades.to_csv(p, index=False)
         report["trades_path"] = str(p)
     return trades, report
+
+
+def select_threshold_from_prior_predictions(
+    prior_predictions: pd.DataFrame,
+    *,
+    candidate_thresholds: Iterable[float],
+    default_threshold: float = 0.60,
+    min_threshold_selection_rows: int = 30,
+    horizon: int = 1,
+    probability_column: str = "predicted_positive_probability",
+    return_column: str | None = None,
+    allow_short: bool = False,
+    cost_bps: float = 0.0,
+    slippage_bps: float = 0.0,
+) -> dict[str, object]:
+    prior = prior_predictions.copy()
+    clean = prior[pd.to_numeric(prior.get(probability_column, pd.Series(dtype=float)), errors="coerce").notna()].copy()
+    if len(clean) < int(min_threshold_selection_rows):
+        return {
+            "long_threshold": float(default_threshold),
+            "short_threshold": float(1.0 - default_threshold),
+            "status": "default_not_enough_prior_rows",
+            "prior_rows": int(len(clean)),
+            "metric": None,
+        }
+    candidates = sorted({float(v) for v in candidate_thresholds})
+    if not candidates:
+        candidates = [float(default_threshold)]
+    rows: list[dict[str, object]] = []
+    for threshold in candidates:
+        _, report = simulate_event_strategy(
+            clean,
+            horizon=horizon,
+            probability_column=probability_column,
+            return_column=return_column,
+            long_threshold=threshold,
+            allow_short=allow_short,
+            cost_bps=cost_bps,
+            slippage_bps=slippage_bps,
+        )
+        metric = report.get("mean_net_event_return")
+        rows.append(
+            {
+                "threshold": threshold,
+                "short_threshold": float(1.0 - threshold),
+                "metric": float(metric) if metric is not None and not pd.isna(metric) else None,
+                "n_trades": int(report.get("n_trades", 0) or 0),
+            }
+        )
+    usable = [row for row in rows if row["metric"] is not None and int(row["n_trades"]) > 0]
+    if not usable:
+        return {
+            "long_threshold": float(default_threshold),
+            "short_threshold": float(1.0 - default_threshold),
+            "status": "default_no_candidate_trades",
+            "prior_rows": int(len(clean)),
+            "metric": None,
+            "candidate_results": rows,
+        }
+    best = max(usable, key=lambda row: (float(row["metric"]), int(row["n_trades"]), -float(row["threshold"])))
+    return {
+        "long_threshold": float(best["threshold"]),
+        "short_threshold": float(best["short_threshold"]),
+        "status": "selected_from_prior",
+        "prior_rows": int(len(clean)),
+        "metric": float(best["metric"]),
+        "candidate_results": rows,
+    }
+
+
+def apply_nested_expanding_thresholds(
+    predictions: pd.DataFrame,
+    *,
+    candidate_thresholds: Iterable[float],
+    default_threshold: float = 0.60,
+    min_threshold_selection_rows: int = 30,
+    horizon: int = 1,
+    probability_column: str = "predicted_positive_probability",
+    return_column: str | None = None,
+    allow_short: bool = False,
+    cost_bps: float = 0.0,
+    slippage_bps: float = 0.0,
+) -> tuple[pd.DataFrame, dict[str, object]]:
+    out = predictions.copy().reset_index(drop=True)
+    selected_long: list[float] = []
+    selected_short: list[float] = []
+    statuses: list[str] = []
+    prior_rows: list[int] = []
+    selected_metrics: list[float | None] = []
+    for i in range(len(out)):
+        selection = select_threshold_from_prior_predictions(
+            out.iloc[:i],
+            candidate_thresholds=candidate_thresholds,
+            default_threshold=default_threshold,
+            min_threshold_selection_rows=min_threshold_selection_rows,
+            horizon=horizon,
+            probability_column=probability_column,
+            return_column=return_column,
+            allow_short=allow_short,
+            cost_bps=cost_bps,
+            slippage_bps=slippage_bps,
+        )
+        selected_long.append(float(selection["long_threshold"]))
+        selected_short.append(float(selection["short_threshold"]))
+        statuses.append(str(selection["status"]))
+        prior_rows.append(int(selection["prior_rows"]))
+        metric = selection.get("metric")
+        selected_metrics.append(float(metric) if metric is not None and not pd.isna(metric) else None)
+    out["selected_long_threshold"] = selected_long
+    out["selected_short_threshold"] = selected_short
+    out["threshold_selection_status"] = statuses
+    out["threshold_selection_prior_rows"] = prior_rows
+    out["threshold_selection_metric"] = selected_metrics
+    status_counts = {str(k): int(v) for k, v in out["threshold_selection_status"].value_counts(dropna=False).items()}
+    threshold_counts = {str(k): int(v) for k, v in out["selected_long_threshold"].value_counts(dropna=False).sort_index().items()}
+    report = {
+        "threshold_mode": "nested_expanding",
+        "candidate_thresholds": [float(v) for v in sorted({float(v) for v in candidate_thresholds})],
+        "default_threshold": float(default_threshold),
+        "min_threshold_selection_rows": int(min_threshold_selection_rows),
+        "rows_using_default_threshold": int(out["threshold_selection_status"].astype(str).str.startswith("default_").sum()),
+        "selected_threshold_summary": threshold_counts,
+        "selection_status_counts": status_counts,
+    }
+    return out, report
 
 
 def concentration_diagnostics(
@@ -298,6 +441,8 @@ def null_shuffle_strategy_test(
     return_column: str | None = None,
     long_threshold: float = 0.60,
     short_threshold: float | None = None,
+    long_threshold_column: str | None = None,
+    short_threshold_column: str | None = None,
     allow_short: bool = False,
     cost_bps: float = 0.0,
     slippage_bps: float = 0.0,
@@ -314,6 +459,8 @@ def null_shuffle_strategy_test(
         return_column=return_column,
         long_threshold=long_threshold,
         short_threshold=short_threshold,
+        long_threshold_column=long_threshold_column,
+        short_threshold_column=short_threshold_column,
         allow_short=allow_short,
         cost_bps=cost_bps,
         slippage_bps=slippage_bps,
@@ -334,6 +481,8 @@ def null_shuffle_strategy_test(
             return_column=return_column,
             long_threshold=long_threshold,
             short_threshold=short_threshold,
+            long_threshold_column=long_threshold_column,
+            short_threshold_column=short_threshold_column,
             allow_short=allow_short,
             cost_bps=cost_bps,
             slippage_bps=slippage_bps,
@@ -500,6 +649,9 @@ def run_research_backtest(
     min_train: int = 40,
     purge_days: int | None = None,
     probability_threshold: float = 0.60,
+    threshold_mode: str = "fixed",
+    candidate_thresholds: Iterable[float] | None = None,
+    min_threshold_selection_rows: int = 30,
     allow_short: bool = False,
     cost_bps: float = 0.0,
     slippage_bps: float = 0.0,
@@ -522,23 +674,57 @@ def run_research_backtest(
         out_report=walk_report_path,
     )
     usable = pred_df[pred_df["predicted_positive_probability"].notna()].copy()
+    threshold_mode = str(threshold_mode).lower().strip()
+    if threshold_mode not in {"fixed", "nested_expanding"}:
+        raise ValueError("threshold_mode must be fixed or nested_expanding")
+    threshold_report: dict[str, object]
+    strategy_input = usable
+    long_threshold_column: str | None = None
+    short_threshold_column: str | None = None
+    if threshold_mode == "nested_expanding":
+        strategy_input, threshold_report = apply_nested_expanding_thresholds(
+            usable,
+            candidate_thresholds=candidate_thresholds or [probability_threshold],
+            default_threshold=probability_threshold,
+            min_threshold_selection_rows=min_threshold_selection_rows,
+            horizon=horizon,
+            allow_short=allow_short,
+            cost_bps=cost_bps,
+            slippage_bps=slippage_bps,
+        )
+        long_threshold_column = "selected_long_threshold"
+        short_threshold_column = "selected_short_threshold"
+    else:
+        threshold_report = {
+            "threshold_mode": "fixed",
+            "candidate_thresholds": [],
+            "default_threshold": float(probability_threshold),
+            "rows_using_default_threshold": int(len(usable)),
+            "selected_threshold_summary": {str(float(probability_threshold)): int(len(usable))},
+            "selection_status_counts": {"fixed": int(len(usable))},
+        }
     cal, cal_report = calibration_table(usable, bins=calibration_bins, out_path=cal_path)
     trades, strategy_report = simulate_event_strategy(
-        usable,
+        strategy_input,
         horizon=horizon,
         long_threshold=probability_threshold,
+        long_threshold_column=long_threshold_column,
+        short_threshold_column=short_threshold_column,
         allow_short=allow_short,
         cost_bps=cost_bps,
         slippage_bps=slippage_bps,
         out_trades=trades_path,
     )
+    strategy_report["threshold_mode"] = threshold_mode
     concentration_report = concentration_diagnostics(trades)
     _, null_report = null_shuffle_strategy_test(
-        usable,
+        strategy_input,
         horizon=horizon,
         n_iter=null_iterations,
         seed=seed,
         long_threshold=probability_threshold,
+        long_threshold_column=long_threshold_column,
+        short_threshold_column=short_threshold_column,
         allow_short=allow_short,
         cost_bps=cost_bps,
         slippage_bps=slippage_bps,
@@ -550,6 +736,7 @@ def run_research_backtest(
         "horizon": int(horizon),
         "walk_forward": walk_report,
         "calibration": cal_report,
+        "threshold_selection": threshold_report,
         "strategy": strategy_report,
         "concentration": concentration_report,
         "null_shuffle": null_report,
