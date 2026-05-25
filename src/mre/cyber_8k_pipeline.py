@@ -174,6 +174,7 @@ def run_cyber_8k_pipeline(config_path, *, dry_run: bool = False) -> dict:
             out_dir / "site",
             source_documents_csv=source_documents_csv,
             source_docs_dir=outputs.get("source_docs_dir"),
+            review_queue_csv=summary["outputs"]["review_queue"],
         )
         report["outputs"]["site"] = site_paths
         stages.append(_stage("static_site", "completed", out_dir=str(out_dir / "site")))

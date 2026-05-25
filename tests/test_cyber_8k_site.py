@@ -188,4 +188,100 @@ def test_static_site_falls_back_to_evidence_text_without_source_text(tmp_path: P
 
     event_html = (tmp_path / "site" / "event" / "E1.html").read_text(encoding="utf-8")
     assert "Ransomware &lt;b&gt;affected&lt;/b&gt; operations" in event_html
+    assert "machine_high_confidence" in event_html
     assert "<mark>" not in event_html
+
+
+def test_static_site_uses_review_queue_statuses_and_escapes_notes(tmp_path: Path):
+    events = pd.DataFrame([{"event_id": "E1", "ticker": "ACME", "event_time": "2024-01-02T16:05:00", "summary": "Cyber event"}])
+    claims = pd.DataFrame(
+        [
+            {
+                "claim_id": "C1",
+                "event_id": "E1",
+                "field_name": "ransomware_mentioned",
+                "value": True,
+                "confidence": 0.95,
+                "review_status": "needs_review",
+                "label_quality": "",
+                "method": "regex",
+                "source_doc_id": "D1",
+                "evidence_span_id": "S1",
+            },
+            {
+                "claim_id": "C2",
+                "event_id": "E1",
+                "field_name": "third_party_vendor_mentioned",
+                "value": True,
+                "confidence": 0.91,
+                "review_status": "needs_review",
+                "label_quality": "",
+                "method": "regex",
+                "source_doc_id": "D1",
+                "evidence_span_id": "S2",
+            },
+            {
+                "claim_id": "C3",
+                "event_id": "E1",
+                "field_name": "customer_data_exposure_mentioned",
+                "value": True,
+                "confidence": 0.55,
+                "review_status": "needs_review",
+                "label_quality": "",
+                "method": "regex",
+                "source_doc_id": "D1",
+                "evidence_span_id": "S3",
+            },
+        ]
+    )
+    evidence = pd.DataFrame(
+        [
+            {"evidence_span_id": "S1", "source_doc_id": "D1", "claim_id": "C1", "evidence_text": "ransomware"},
+            {"evidence_span_id": "S2", "source_doc_id": "D1", "claim_id": "C2", "evidence_text": "vendor"},
+            {"evidence_span_id": "S3", "source_doc_id": "D1", "claim_id": "C3", "evidence_text": "customer data"},
+        ]
+    )
+    review_queue = pd.DataFrame(
+        [
+            {
+                "claim_id": "C1",
+                "review_status": "human_reviewed",
+                "label_quality": "human_reviewed",
+                "reviewer_notes": "safe <b>note</b>",
+            },
+            {
+                "claim_id": "C2",
+                "review_status": "machine_high_confidence",
+                "label_quality": "machine_high_confidence",
+                "reviewer_notes": "",
+            },
+            {
+                "claim_id": "C3",
+                "review_status": "rejected",
+                "label_quality": "human_reviewed",
+                "reviewer_notes": "false positive",
+            },
+        ]
+    )
+    paths = {}
+    for name, df in [("events", events), ("claims", claims), ("evidence", evidence), ("review_queue", review_queue)]:
+        path = tmp_path / f"{name}.csv"
+        df.to_csv(path, index=False)
+        paths[name] = path
+
+    build_cyber_8k_static_site(
+        paths["events"],
+        paths["claims"],
+        paths["evidence"],
+        tmp_path / "site",
+        review_queue_csv=paths["review_queue"],
+    )
+
+    event_html = (tmp_path / "site" / "event" / "E1.html").read_text(encoding="utf-8")
+    claims_json = json.loads((tmp_path / "site" / "api" / "claims.json").read_text(encoding="utf-8"))
+    statuses = {row["claim_id"]: row["review_status"] for row in claims_json}
+    assert statuses == {"C1": "human_reviewed", "C2": "machine_high_confidence", "C3": "rejected"}
+    assert {row["claim_id"]: row["reviewer_notes"] for row in claims_json}["C1"] == "safe <b>note</b>"
+    assert "human_reviewed" in event_html
+    assert "machine_high_confidence" in event_html
+    assert "rejected" in event_html

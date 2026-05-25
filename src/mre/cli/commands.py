@@ -1739,6 +1739,7 @@ def cmd_cyber_8k_build_site(args: argparse.Namespace) -> None:
         title=args.title,
         source_documents_csv=args.source_documents,
         source_docs_dir=args.source_docs_dir,
+        review_queue_csv=args.review_queue,
     )
     print(json.dumps(result, indent=2, sort_keys=True))
 

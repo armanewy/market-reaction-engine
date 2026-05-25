@@ -42,6 +42,10 @@ def _records(df: pd.DataFrame) -> list[dict[str, Any]]:
     return rows
 
 
+def _has_text_value(series: pd.Series) -> pd.Series:
+    return series.notna() & ~series.astype(str).str.strip().str.lower().isin({"", "nan", "none", "null"})
+
+
 def _write_json(path: Path, records: list[dict[str, Any]]) -> None:
     ensure_parent(path)
     path.write_text(json.dumps(records, indent=2, sort_keys=True, ensure_ascii=False) + "\n", encoding="utf-8")
@@ -92,6 +96,31 @@ def _load_source_texts(source_documents_csv: str | Path | None = None, source_do
                     source_texts.setdefault(path.name, text)
                     source_texts.setdefault(path.stem, text)
     return source_texts
+
+
+def _merge_review_queue(claims: pd.DataFrame, review_queue: pd.DataFrame) -> pd.DataFrame:
+    if claims.empty or review_queue.empty or "claim_id" not in claims.columns or "claim_id" not in review_queue.columns:
+        return claims.copy()
+    review_cols = [
+        col
+        for col in ["review_status", "label_quality", "reviewer_notes", "review_action", "issue_flags"]
+        if col in review_queue.columns
+    ]
+    if not review_cols:
+        return claims.copy()
+    keyed = review_queue[["claim_id", *review_cols]].drop_duplicates(subset=["claim_id"], keep="last").copy()
+    out = claims.merge(keyed, on="claim_id", how="left", suffixes=("", "_review_queue"))
+    for col in review_cols:
+        review_col = f"{col}_review_queue"
+        if review_col not in out.columns:
+            continue
+        if col not in out.columns:
+            out[col] = ""
+        out[col] = out[col].astype("object")
+        has_review_value = _has_text_value(out[review_col])
+        out.loc[has_review_value, col] = out.loc[has_review_value, review_col]
+        out = out.drop(columns=[review_col])
+    return out
 
 
 def _source_text_for_claim(claim: pd.Series, source_texts: dict[str, str]) -> str:
@@ -199,6 +228,7 @@ def _event_detail_html(event: pd.Series, claims: pd.DataFrame, source_texts: dic
             f"<td>{_e(claim.get('value'))}</td>"
             f"<td>{_e(claim.get('confidence'))}</td>"
             f"<td>{_e(claim.get('review_status'))}</td>"
+            f"<td>{_e(claim.get('label_quality'))}</td>"
             f"<td>{_e(claim.get('method'))}</td>"
             "</tr>"
         )
@@ -225,7 +255,7 @@ def _event_detail_html(event: pd.Series, claims: pd.DataFrame, source_texts: dic
   <dt>Source</dt><dd><a href="{_e(event.get("source_url"))}">{_e(event.get("source_url"))}</a></dd>
 </dl>
 <h2>Structured Claims</h2>
-<table><thead><tr><th>Field</th><th>Value</th><th>Confidence</th><th>Review</th><th>Method</th></tr></thead><tbody>
+<table><thead><tr><th>Field</th><th>Value</th><th>Confidence</th><th>Review</th><th>Label Quality</th><th>Method</th></tr></thead><tbody>
 {''.join(rows)}
 </tbody></table>
 <h2>Evidence</h2>
@@ -258,10 +288,13 @@ def build_cyber_8k_static_site(
     title: str = "Cyber 8-K Watch",
     source_documents_csv: str | Path | None = None,
     source_docs_dir: str | Path | None = None,
+    review_queue_csv: str | Path | None = None,
 ) -> dict:
     events = _load_csv(events_csv)
     claims = _load_csv(claims_csv)
     evidence = _load_csv(evidence_spans_csv)
+    review_queue = _load_csv(review_queue_csv) if review_queue_csv else pd.DataFrame()
+    claims = _merge_review_queue(claims, review_queue)
     source_texts = _load_source_texts(source_documents_csv, source_docs_dir)
     out = ensure_dir(out_dir)
     ensure_dir(out / "api")
@@ -285,16 +318,21 @@ def build_cyber_8k_static_site(
         body = f"<p><a href=\"../index.html\">Cyber 8-K Watch</a></p><h1>{_e(company)}</h1>{_events_index_html(company_events)}"
         (out / "company" / f"{_safe_filename(company)}.html").write_text(_page(company, body), encoding="utf-8")
 
-    reviewed_claims = int(claims.get("review_status", pd.Series("", index=claims.index)).fillna("").astype(str).str.lower().isin({"reviewed", "approved"}).sum())
-    unreviewed_claims = int(len(claims) - reviewed_claims)
+    statuses = claims.get("review_status", pd.Series("", index=claims.index)).fillna("").astype(str).str.lower()
+    human_reviewed_claims = int(statuses.isin({"reviewed", "approved", "human_reviewed"}).sum())
+    machine_high_confidence_claims = int(statuses.isin({"machine_high_confidence", "auto_reviewed"}).sum())
+    rejected_claims = int((statuses == "rejected").sum())
+    needs_review_claims = int(statuses.isin({"", "needs_review", "missing_evidence"}).sum())
     index_body = f"""
 <h1>{_e(title)}</h1>
 <ul>
   <li>Events: {len(events)}</li>
   <li>Companies: {len(companies)}</li>
   <li>Claims: {len(claims)}</li>
-  <li>Reviewed claims: {reviewed_claims}</li>
-  <li>Unreviewed claims: {unreviewed_claims}</li>
+  <li>Human reviewed claims: {human_reviewed_claims}</li>
+  <li>Machine high-confidence claims: {machine_high_confidence_claims}</li>
+  <li>Rejected claims: {rejected_claims}</li>
+  <li>Needs review claims: {needs_review_claims}</li>
 </ul>
 {_events_index_html(events)}
 """
