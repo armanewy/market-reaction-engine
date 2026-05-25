@@ -1,542 +1,377 @@
 # Market Reaction Engine
 
-Version 0.8.0 adds narrow-domain corpus schemas plus a backtest/falsification harness: curated corpus validation, placebo/peer controls, purged walk-forward evaluation, calibration, and strategy simulation with costs/slippage.
+Market Reaction Engine is a generic evidence-backed event intelligence engine: source documents become reviewed, evidence-linked claims, event datasets, quality reports, static sites, APIs, and digests.
 
-This project is intentionally conservative. It is not a magic stock predictor. It is a point-in-time event-study workbench that helps answer:
+The project is intentionally conservative. It is built around auditability, source provenance, compatibility scoring, review status, and explicit quality reporting. It does not treat extracted text as truth just because a parser found it.
 
-> For this class of event, under this pre-event context, what abnormal market reactions have historically occurred?
+## What This Is
 
-## Current research status
-
-No domain has produced a graduated tradable signal. The project's current value is the event-reaction research infrastructure, especially SEC-CORE, and the domain registry documenting which event theses failed, froze, or remain underpowered.
-
-Current board:
+MRE turns source material into proof-carrying event data:
 
 ```text
-No graduated tradable signal.
-No current live tradable candidate.
-
-Durable infrastructure:
-  SEC-CORE
-    reusable SEC source/context/timestamp/readiness tooling
-
-Underpowered monitor, not failed:
-  cybersecurity_material_incidents_8k
-    monitor later as Item 1.05 sample grows
-
-Frozen or failed under current thesis:
-  insider_purchase_clusters
-  semiconductors
-  capital_raise_dilution
-  government_contract_awards
-  biotech_negative_catalysts
-  accounting_integrity_8k
-  activist_13d_control_intent
-  sec_distress_events
-  nhtsa_auto_safety_investigations
-  bank_regulatory_enforcement
-  fda_warning_letters_manufacturing_enforcement
-  patent_itc_litigation_events
+SourceAdapter
+-> NormalizedSourceDocument
+-> CompatibilityReport
+-> Entity/Temporal hints
+-> EventCandidate
+-> ClaimExtractor
+-> EvidenceSpan
+-> ClaimReviewQueue
+-> QualityReport
+-> Publisher / API / Digest
 ```
 
-Before launching a new domain, use `docs/DOMAIN_INTAKE_TEMPLATE.md`.
-For prior domain status, stop reasons, and revisit triggers, see
-`docs/DOMAIN_RESEARCH_REGISTRY.md`.
-For contributor orientation, see `docs/ARCHITECTURE_MAP.md`,
-`docs/DOMAIN_LIFECYCLE.md`, and `docs/BACKTEST_INTERPRETATION.md`.
-For the source-backed disclosure intelligence pivot and first Cyber 8-K Watch
-vertical, see `docs/DISCLOSURE_INTELLIGENCE_PIVOT.md` and
-`docs/CYBER_8K_WATCH.md`.
-For the first non-SEC source-generalization experiment using local official
-company press releases, see `docs/OFFICIAL_COMPANY_PRESS_RELEASE_EXPERIMENT.md`.
+The current center of gravity is `src/mre/generic`: a source-neutral framework for evidence-backed event intelligence. Source-specific logic lives in plugins and experiments outside the generic core.
 
-The current pipeline is:
+## What This Is Not
+
+- Not a stock predictor.
+- Not a generic filing, press-release, or news summarizer.
+- Not a legal, compliance, investment, or professional truth oracle.
+- Not restricted to SEC, U.S., public-company, or official sources.
+- Not a system where weak sources are silently discarded or promoted. Weak sources can be routed to lower-readiness use cases with explicit risks.
+
+Event-study, modeling, and backtest modules still exist, but they are downstream research tools, not the main product identity.
+
+## Core Promise
+
+Every claim should carry a receipt:
+
+- source document ID and source URL when available
+- evidence text
+- character offsets into the normalized source text
+- source authority and source role
+- extraction confidence
+- review status
+- claim kind and truth-status language
+- quality and compatibility context
+
+The system should make it easy to say:
 
 ```text
-curated/ingested event rows OR SEC/URL/local source documents
-→ normalized source-document manifests
-→ evidence-grounded extracted facts
-→ optional point-in-time expectation fields
-→ local daily price data
-→ pre-event expectation/context enrichment
-→ event-study abnormal returns
-→ chronological baseline model
-→ walk-forward checks
-→ analog retrieval and Markdown report
+This field came from this document, this exact text span, under this source role,
+with this confidence, this review status, and these known risks.
 ```
 
-## Implemented milestones
+## Compatibility And Confidence
 
-### M0 — runnable project skeleton
+The generic core does not hardcode identifier types such as ticker, CIK, LEI, accession, form, filing item, or source system. Entity identity uses arbitrary namespaces, for example:
 
-- Python package under `src/mre`
-- CLI entry point: `mre` or `python -m mre.cli`
-- Synthetic offline demos
-- Test suite
+```text
+company_name
+domain
+registry:alpha
+text:alias
+vendor:id
+```
 
-### M1 — event-study core
+Compatibility is scored by dimensions rather than enforced as a binary pass/fail gate. Common dimensions include:
 
-- Load curated point-in-time event CSVs
-- Load local daily price CSVs
-- Compute daily log returns
-- Choose reaction start date based on `release_session`
-  - `after_close` → next trading day
-  - `before_open`, `intraday`, `unknown` → same trading day if available
-- Fit a pre-event market model: `stock_return = alpha + beta * benchmark_return + residual`
-- Compute raw, benchmark, expected, market-model, index-adjusted, and optional sector-adjusted returns
-- Add z-scores and rough two-sided p-values
+- source authority confidence
+- document text quality
+- evidence addressability
+- metadata completeness
+- entity hint quality
+- temporal resolution confidence
+- event detection confidence
+- claim schema alignment
+- claim extraction confidence
+- reviewability
+- provenance completeness
 
-### M2 — data adapters
+Readiness levels are also scored:
 
-- `fetch-prices`: prototype daily prices via yfinance
-- `sec-template`: generic SEC filings event-template generator
-- `sec-earnings-corpus`: primary-source SEC 8-K Item 2.02 earnings candidates
-- `earnings-corpus`: Alpha Vantage quarterly EPS history → earnings event rows
-- `yfinance-earnings-corpus`: free/research bootstrap of historical earnings dates/EPS estimates
+```text
+exploration
+internal_research
+claim_review
+user_facing_draft
+reviewed_dataset
+high_trust_report
+```
 
-### M3 — modeling and analogs
+This lets the same engine handle official records, company releases, specialist research, vendor feeds, news, allegations, or weak early signals without pretending they have the same trust profile.
 
-- Chronological train/test baseline logistic model
-- Walk-forward event-by-event direction evaluation
-- Nearest-neighbor analog retrieval from event metadata and pre-event features
-- Markdown report generation
+## Implemented Plugins And Experiments
 
-### M4 — earnings expectations layer
+### Generic Toy Pipeline
 
-- Built-in sector presets: `semis`, `semiconductors`, `mega_cap_tech`, `tech_platforms`, `software`, `cloud_software`, `biotech`, `banks`
-- EPS estimate/surprise event rows
-- External expectations template/merge flow
-- Leakage guard for expectation timestamps after event timestamps
-- Pre-event 5/20/60-day drift
-- Market- and sector-adjusted pre-event drift
-- Pre-event volatility
-- Rolling beta and idiosyncratic volatility proxy
-- Volume z-score
-- Synthetic offline earnings demo
+The generic toy pipeline proves the source-neutral contracts end to end with an official-like toy source and a weak toy source. It is useful for testing the engine without source-specific assumptions.
 
-### M5 — richer point-in-time expectations
+### Cyber 8-K Watch
 
-- Exact release-time template/merge flow that updates `event_time` and `release_session`
-- Revenue, EPS, forward guidance, gross-margin, and forward gross-margin surprise features
-- Option snapshot template and ATM-straddle implied-move estimator
-- Analyst revision template and point-in-time revision feature builder
-- Modeling feature list extended for implied move, margins, guidance, release-time quality, and analyst revision features
-- Offline earnings demo now writes synthetic release-time, option-snapshot, and analyst-revision feeds
+Cyber 8-K Watch is the first real plugin path. It processes Cyber 8-K source-document manifests through the generic plugin runner and produces claims, evidence spans, review queues, quality reports, static sites, API JSON, digests, and provenance.
 
-### M6 — source-document extraction/provenance layer
+Cyber 8-K Watch is a pilot workflow, not a claim of complete market coverage or reviewed public data. Parser outputs require review before user-facing high-trust use.
 
-- Source-document manifest template with inline text or relative file paths
-- Deterministic earnings/guidance fact extractor with evidence text and character offsets
-- Extracted facts → expectation-feature rows
-- Source documents → event rows
-- JSONL extraction packets for external LLMs without calling an LLM
-- Validator for external LLM fact JSONL that checks evidence appears in the source text
-- Offline extraction demo
+### Official-Company Press-Release Experiment
 
-### M7 — real source ingestion
+The official-company press-release experiment is the first non-SEC source-generalization test. It uses local/offline company press-release manifests and exercises the same generic review, quality, publishing, API, digest, and provenance path.
 
-- URL/local/inline source-ingestion template
-- Download and normalize source URLs into text files
-- Normalize local HTML/text files into extraction-ready documents
-- SEC 8-K/filing source-document ingestion with primary filing docs and likely earnings-release exhibits
-- SEC item filter defaults for 8-K Item 2.02 earnings candidates
-- Offline source-ingestion demo that chains ingestion → extraction
-- See `docs/SOURCE_INGESTION_MILESTONE.md` for usage details
+It is an architecture and workflow experiment. Real press-release extraction quality still needs measurement on reviewed real documents.
 
-## Install
+### Event-Study And Backtest Modules
+
+The original event-study, modeling, walk-forward, falsification, and domain registry work remains available as downstream impact-analysis infrastructure. It is no longer the top-level project framing.
+
+## Quickstart
+
+Install locally:
 
 ```bash
 python -m venv .venv
+python -m pip install -e .[dev]
+```
+
+On POSIX shells, activate with:
+
+```bash
 source .venv/bin/activate
-pip install -e .[dev]
+```
+
+On PowerShell, activate with:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
 ```
 
 Run tests:
 
 ```bash
-pytest -q
+python -m pytest -q
 ```
 
-## Offline demos
-
-Generic event-study demo:
+Run lint:
 
 ```bash
-mre demo --root .
+python -m ruff check .
 ```
 
-Earnings/expectations demo:
+Build the package:
 
 ```bash
-mre earnings-demo --root .
+python -m build
 ```
 
-Source-document extraction demo:
+## Workflow Examples
+
+### Generic Toy Pipeline
+
+Create and run a generic evidence pipeline config:
 
 ```bash
-mre extraction-demo --root .
+mre generic-template \
+  --out generic_pipeline.json \
+  --out-dir artifacts/generic_toy \
+  --adapter toy_official
+
+mre generic-run --config generic_pipeline.json
 ```
 
-Run the source-ingestion demo:
+The toy pipeline writes generic documents, event candidates, claims, evidence spans, a review queue, a quality report, API JSON, a static site, a digest, and a run manifest.
+
+### Cyber 8-K Watch Offline Demo
+
+Create a Cyber 8-K config from the included demo source-document manifest:
 
 ```bash
-mre source-ingestion-demo --root .
+mre cyber-8k-template \
+  --out cyber_8k_pipeline.json \
+  --source-documents-csv examples/cyber_8k_watch/source_documents.csv \
+  --out-dir artifacts/cyber_8k_watch
+
+mre cyber-8k-run --config cyber_8k_pipeline.json
 ```
 
-Ingest real SEC source documents:
+For real SEC collection, use `cyber-8k-source-docs` with a user agent, then run the Cyber pipeline from the generated manifest:
 
 ```bash
-export SEC_USER_AGENT="market-reaction-engine your-email@example.com"
+mre cyber-8k-source-docs \
+  --tickers MSFT VFC UNH \
+  --start 2023-12-01 \
+  --end 2026-05-25 \
+  --out data/cyber_8k/source_documents.csv \
+  --docs-dir data/cyber_8k/source_docs \
+  --user-agent "Your Name your.email@example.com"
 
-mre sec-source-docs \
-  --preset semis \
-  --start 2022-01-01 \
-  --end 2025-01-01 \
-  --docs-dir data/source_docs/sec \
-  --out data/events/sec_source_documents.csv
+mre cyber-8k-template \
+  --out cyber_8k_pipeline.json \
+  --source-documents-csv data/cyber_8k/source_documents.csv \
+  --out-dir artifacts/cyber_8k_pilot
+
+mre cyber-8k-run --config cyber_8k_pipeline.json
 ```
 
-Then extract facts from the ingested manifest:
+### Official-Company Press Releases
+
+Create a local manifest template:
 
 ```bash
-mre extract-facts \
-  --documents data/events/sec_source_documents.csv \
-  --facts-out data/events/sec_extracted_facts.csv \
-  --expectations-out data/events/sec_extracted_expectations.csv \
-  --events-out data/events/sec_extracted_events.csv
+mre press-release-template --out data/press_releases/source_documents.csv
 ```
 
-The extraction demo writes:
+Fill it with manually collected official company press releases, using either `path` or `text` for document content. Then run:
+
+```bash
+mre press-release-run \
+  --documents data/press_releases/source_documents.csv \
+  --out-dir artifacts/press_release_pilot
+```
+
+This is offline by design. It does not crawl company websites.
+
+## Review And Quality
+
+Review status is first-class. Common statuses:
 
 ```text
-data/extraction_demo/source_documents.csv
-data/extraction_demo/docs/*.txt
-data/extraction_demo/extracted_facts.csv
-data/extraction_demo/extracted_expectations.csv
-data/extraction_demo/extracted_events.csv
-data/extraction_demo/extraction_diagnostics.json
+human_reviewed
+machine_high_confidence
+rejected
+needs_review
 ```
 
+`machine_high_confidence` is not the same as human review. User-facing high-trust outputs should distinguish them clearly.
 
-The earnings demo writes:
+Quality reports track:
+
+- evidence coverage
+- review coverage
+- human review coverage
+- reviewed useful claim yield
+- field precision by `field_name`
+- rejected and needs-review rates
+- review time when available
+- issue flags
+- parser failure reasons
+- source authority, source role, and source system breakdowns
+- compatibility dimensions and readiness scores
+
+Review queues are meant to capture both correctness and parser improvement signals. Useful optional review columns include:
 
 ```text
-data/earnings_demo/earnings_events_raw.csv
-data/earnings_demo/earnings_expectations.csv
-data/earnings_demo/earnings_release_times.csv
-data/earnings_demo/earnings_option_snapshots.csv
-data/earnings_demo/earnings_analyst_revisions.csv
-data/earnings_demo/earnings_events_enriched.csv
-artifacts/earnings_demo_event_study.csv
-artifacts/earnings_demo_model_report.json
-artifacts/earnings_demo_walk_forward_predictions.csv
-artifacts/earnings_demo_walk_forward_report.json
-artifacts/earnings_demo_report.md
-artifacts/earnings_demo_analogs.csv
+review_time_seconds
+parser_failure_reason
+issue_flags
+review_action
+reviewer_notes
 ```
 
-## Earnings/guidance corpus starter
+## Common Artifacts
 
-List presets:
+Pipeline outputs vary by plugin, but common artifacts include:
 
-```bash
-mre sector-presets
+```text
+*_documents.csv
+*_events.csv
+*_claims.csv
+*_evidence_spans.csv
+*_claim_review_queue.csv
+*_quality_report.json
+*_quality_report.md
+site/
+api/
+*_digest.md
+run_manifest.json
+pipeline_report.json
 ```
 
-Build an EPS-surprise corpus with Alpha Vantage:
+The important files are:
 
-```bash
-export ALPHA_VANTAGE_API_KEY="your-key"
+- `claims.csv`: structured extracted fields with confidence, source role, claim kind, and evidence IDs.
+- `evidence_spans.csv`: evidence text and source offsets.
+- `claim_review_queue.csv`: review status, label quality, issue flags, and reviewer notes.
+- `quality_report.md/json`: trust, coverage, review, precision, and compatibility metrics.
+- `site/`: static HTML inspection surface.
+- `api/`: JSON export for downstream consumers.
+- `digest.md`: compact Markdown summary.
+- `run_manifest.json`: reproducibility metadata and input hashes.
+- `pipeline_report.json`: stage outputs, diagnostics, warnings, and compatibility summaries.
 
-mre earnings-corpus \
-  --preset semis \
-  --start 2015-01-01 \
-  --end 2025-01-01 \
-  --out data/events/semis_earnings.csv
+Generated runs belong under ignored output directories such as `artifacts/`, `runs/`, or plugin-specific data directories. Small deterministic fixtures belong under `tests/fixtures/` or `examples/`.
+
+## CLI Overview
+
+Evidence-engine commands:
+
+```text
+generic-template
+generic-run
+generic-review-queue
+generic-quality-report
+generic-build-site
+generic-api-export
+generic-digest
 ```
 
-Notes:
+Cyber 8-K Watch commands:
 
-- This is an MVP feed, not a trading-grade point-in-time estimates database.
-- Alpha Vantage quarterly EPS history is useful because it includes reported EPS, estimated EPS, surprise, and surprise percentage.
-- Release time is usually not precise enough in this feed for serious daily event studies. Curate `release_session` manually or use a higher-quality earnings-calendar/estimates vendor.
-
-Alternative bootstrap using yfinance earnings dates:
-
-```bash
-mre yfinance-earnings-corpus \
-  --preset semis \
-  --start 2015-01-01 \
-  --end 2025-01-01 \
-  --out data/events/semis_yfinance_earnings.csv
+```text
+cyber-8k-template
+cyber-8k-source-docs
+cyber-8k-parse
+cyber-8k-review-queue
+cyber-8k-build-dataset
+cyber-8k-build-site
+cyber-8k-digest
+cyber-8k-quality-report
+cyber-8k-run
 ```
 
-This is convenient when you want to test plumbing without an Alpha Vantage key, but it is still not a verified point-in-time feed.
+Official-company press-release experiment commands:
 
-Build primary-source SEC earnings candidates instead:
-
-```bash
-export SEC_USER_AGENT="market-reaction-engine your-email@example.com"
-
-mre sec-earnings-corpus \
-  --preset semis \
-  --start 2015-01-01 \
-  --end 2025-01-01 \
-  --out data/events/semis_sec_earnings_candidates.csv
+```text
+press-release-template
+press-release-run
 ```
 
-Notes:
+Legacy/downstream research commands include event-study, modeling, backtest, corpus, expectations, SEC source-document, and domain-registry commands. Use `mre --help` for the full list.
 
-- SEC rows are better as primary-source event candidates.
-- They do not contain analyst consensus, revenue surprise, guidance surprise, or options implied move unless you merge those later.
+## Development Guardrails
 
-Fetch prototype prices and add pre-event context:
+- Keep `src/mre/generic` source-neutral.
+- Do not add Cyber, SEC, ticker, CIK, LEI, accession, filing-form, or other source-specific assumptions to the generic core.
+- Put source-specific logic in plugin modules.
+- Every new source or domain should produce compatibility reports and quality reports.
+- Do not present rejected or unreviewed claims as accepted facts.
+- Do not collapse `human_reviewed` and `machine_high_confidence`.
+- Do not create user-facing high-trust outputs without review and trust filtering.
+- Prefer local fixtures and fake clients in tests. Avoid network-dependent tests.
+- Preserve generated artifact hygiene. Do not commit large generated runs.
 
-```bash
-mre fetch-prices \
-  --events data/events/semis_earnings.csv \
-  --benchmark SPY \
-  --start 2014-01-01 \
-  --end 2025-01-01 \
-  --out-dir data/prices/semis
+The generic no-source-assumptions tests enforce the most important boundary: the generic layer must remain clean enough to support sources beyond Cyber 8-K and SEC filings.
 
-mre enrich-expectations \
-  --events data/events/semis_earnings.csv \
-  --prices-dir data/prices/semis \
-  --benchmark SPY \
-  --out data/events/semis_earnings_enriched.csv
+## Docs Map
+
+- `docs/DISCLOSURE_INTELLIGENCE_PIVOT.md`: product and architecture pivot toward proof-carrying event intelligence.
+- `docs/CYBER_8K_WATCH.md`: Cyber 8-K Watch MVP and target users.
+- `docs/OFFICIAL_COMPANY_PRESS_RELEASE_EXPERIMENT.md`: local official-company press-release experiment.
+- `docs/RUN_PROVENANCE.md`: reproducibility manifests and run hashes.
+- `docs/ARCHITECTURE_MAP.md`: contributor-facing module map.
+- `docs/BACKTEST_INTERPRETATION.md`: how to interpret legacy/downstream backtest outputs.
+- `docs/DOMAIN_LIFECYCLE.md`: historical domain lifecycle and promotion concepts.
+- `docs/DOMAIN_RESEARCH_REGISTRY.md`: historical research-domain status, stop reasons, and revisit triggers.
+
+## Legacy Research Modules
+
+The original market-reaction workbench remains in the repo:
+
+- event-study abnormal return measurement
+- price and expectation enrichment
+- chronological direction models
+- walk-forward evaluation
+- calibration tables
+- strategy simulation with costs and slippage
+- null shuffle tests
+- placebo and peer controls
+- domain registry and falsification reports
+
+These modules are useful for downstream impact analysis after event data is source-backed and reviewed. They should not be read as evidence that the project has a live tradable signal or graduated trading candidate.
+
+Current posture:
+
+```text
+No live tradable candidate.
+No graduated tradable signal.
+Primary focus: evidence-backed event intelligence and reviewed datasets.
 ```
-
-Run the event study/model/report:
-
-```bash
-mre run-event-study \
-  --events data/events/semis_earnings_enriched.csv \
-  --prices-dir data/prices/semis \
-  --benchmark SPY \
-  --horizons 1,3,10 \
-  --out artifacts/semis_earnings_event_study.csv
-
-mre walk-forward \
-  --event-study artifacts/semis_earnings_event_study.csv \
-  --horizon 1 \
-  --min-train 40 \
-  --out-predictions artifacts/semis_earnings_walk_forward_predictions.csv \
-  --out-report artifacts/semis_earnings_walk_forward_report.json
-
-mre report \
-  --event-study artifacts/semis_earnings_event_study.csv \
-  --horizon 1 \
-  --out artifacts/semis_earnings_report.md
-```
-
-
-## Source-document extraction flow
-
-Create a manifest for source documents. Each row can include inline `text` or a relative `path` to a text file:
-
-```bash
-mre source-docs-template --out data/events/source_documents.csv
-```
-
-Extract supported earnings/guidance facts with evidence spans:
-
-```bash
-mre extract-facts \
-  --documents data/events/source_documents.csv \
-  --facts-out data/events/extracted_facts.csv \
-  --expectations-out data/events/extracted_expectations.csv \
-  --events-out data/events/extracted_events.csv
-```
-
-Prepare JSONL packets for an external LLM extractor. This does not call an LLM; it creates auditable work units with a strict schema:
-
-```bash
-mre extraction-packets \
-  --documents data/events/source_documents.csv \
-  --out data/events/extraction_packets.jsonl
-```
-
-Validate external LLM fact rows before using them:
-
-```bash
-mre validate-llm-facts \
-  --documents data/events/source_documents.csv \
-  --llm-jsonl data/events/llm_facts.jsonl \
-  --out data/events/validated_llm_facts.csv
-```
-
-The deterministic extractor is a transparent baseline, not a trading-grade parser. Treat extracted rows as reviewable candidates unless the source and evidence have been curated.
-
-## External expectations flow
-
-Create a template for point-in-time consensus/guidance/options data:
-
-```bash
-mre expectations-template \
-  --events data/events/semis_earnings.csv \
-  --out data/events/semis_expectations_template.csv
-```
-
-Fill the template with values known **before** `event_time`, then merge:
-
-```bash
-mre merge-expectations \
-  --events data/events/semis_earnings.csv \
-  --expectations data/events/semis_expectations_template.csv \
-  --fill-labels \
-  --out data/events/semis_earnings_with_expectations.csv
-```
-
-The merge command rejects expectation rows whose `asof_time` is after `event_time`.
-
-## Richer expectation feeds
-
-The new commands are intentionally vendor-neutral.  They let you ingest better paid/manual feeds without baking a questionable data vendor assumption into the model.
-
-Curate exact release timestamps:
-
-```bash
-mre release-times-template \
-  --events data/events/semis_earnings.csv \
-  --out data/events/semis_release_times_template.csv
-
-mre merge-release-times \
-  --events data/events/semis_earnings.csv \
-  --release-times data/events/semis_release_times_template.csv \
-  --out data/events/semis_earnings_exact_times.csv
-```
-
-Add richer fundamentals expectations.  The external expectations CSV supports EPS, revenue, forward revenue guidance, forward EPS guidance, gross margin, and forward gross-margin guidance fields:
-
-```bash
-mre expectations-template \
-  --events data/events/semis_earnings_exact_times.csv \
-  --out data/events/semis_expectations_template.csv
-
-mre merge-expectations \
-  --events data/events/semis_earnings_exact_times.csv \
-  --expectations data/events/semis_expectations_template.csv \
-  --fill-labels \
-  --out data/events/semis_earnings_fundamentals.csv
-```
-
-Estimate pre-event implied move from option snapshots.  Supply rows with `quote_time`, `expiration`, `underlying_price`, `strike`, and call/put mid or bid/ask columns.  The tool picks the nearest pre-event expiration/ATM strike and estimates implied move as `(call_mid + put_mid) / underlying_price`:
-
-```bash
-mre options-template \
-  --events data/events/semis_earnings_fundamentals.csv \
-  --out data/events/semis_options_template.csv
-
-mre merge-options \
-  --events data/events/semis_earnings_fundamentals.csv \
-  --options data/events/semis_options_template.csv \
-  --out data/events/semis_earnings_options.csv
-```
-
-Compute analyst revision features from point-in-time estimate rows:
-
-```bash
-mre analyst-revisions-template \
-  --events data/events/semis_earnings_options.csv \
-  --out data/events/semis_analyst_revisions_template.csv
-
-mre merge-analyst-revisions \
-  --events data/events/semis_earnings_options.csv \
-  --revisions data/events/semis_analyst_revisions_template.csv \
-  --windows 7,30 \
-  --metrics eps,revenue,gross_margin,forward_revenue \
-  --out data/events/semis_earnings_rich_expectations.csv
-```
-
-These commands still do not create trading-grade data by themselves.  They provide the ingestion and leakage-control plumbing for better point-in-time feeds.
-
-## Generic event workflow
-
-Create an event file:
-
-```bash
-mre make-template --out data/events/aapl_events.csv
-```
-
-Required columns:
-
-| column | meaning |
-|---|---|
-| `event_id` | stable unique ID |
-| `ticker` | company ticker |
-| `event_time` | timestamp when the event became public/known |
-| `event_type` | earnings, guidance, regulatory, product, lawsuit, security, etc. |
-| `summary` | short point-in-time summary |
-
-Useful optional columns:
-
-| column | example |
-|---|---|
-| `release_session` | before_open, intraday, after_close, unknown |
-| `expectedness` | expected, partial_surprise, surprise, unknown |
-| `surprise_direction` | positive, negative, mixed, neutral, unknown |
-| `surprise_magnitude` | low, medium, high, unknown |
-| `materiality` | 0.0 to 1.0, assigned before looking at price reaction |
-| `sector_benchmark` | XLK, XBI, XLF, SMH, QQQ, etc. |
-| `source_type` | sec_filing, press_release, govt_release, transcript, etc. |
-| `source_url` | source URL |
-
-## Current limitations
-
-- This is a research tool, not financial advice and not a production trading system.
-- yfinance is only a prototype price source.
-- Alpha Vantage EPS history is not enough by itself: add exact release timestamps, revenue/margin/guidance surprises, options implied move, and point-in-time analyst estimates.
-- Most events should be noise. The correct system must abstain often.
-- Before trusting a signal, add placebo dates, peer placebos, costs/slippage, and strict walk-forward validation.
-
-
-### M6 — real source ingestion
-
-- URL/local/inline source-ingestion template
-- Normalize company press releases, transcript pages, agency docs, or local HTML/text into auditable text files
-- SEC filing source-document ingestion
-- SEC archive index support for primary filing docs and likely earnings-release exhibits
-- Source manifest output compatible with `mre extract-facts`
-- Offline source-ingestion demo
-
-### M7 — narrow-domain corpora and falsification harness
-
-- Domain schemas/templates for `earnings_guidance`, `fda_biotech`, `biotech_fda_clinical_catalyst`, `regulatory_legal`, `cyber_incident`, and `recall_safety`
-- Curated corpus builder and validator with review/evidence/label-quality flags
-- Base-rate tables by domain/event metadata
-- Purged walk-forward validation
-- Probability calibration tables
-- Strategy simulation with costs/slippage and long/short thresholds
-- Return-shuffle null distribution
-- Random/shifted placebo events and peer-control events
-- Offline `corpus-demo` pipeline
-
-## Automated research loop
-
-Create a JSON run config:
-
-```bash
-mre pipeline-template \
-  --run-id semis_earnings_v1 \
-  --domain earnings_guidance \
-  --preset semiconductors \
-  --source-mode yfinance_earnings \
-  --out research/semis_earnings_v1.json
-```
-
-Run it:
-
-```bash
-mre run-pipeline --config research/semis_earnings_v1.json
-```
-
-Or verify the full automation loop offline:
-
-```bash
-mre pipeline-demo --root .
-```
-
-The pipeline writes a review queue, curated corpus, event studies, placebo/peer
-controls, walk-forward backtests, calibration tables, strategy simulations with
-cost/slippage, null-shuffle diagnostics, and a gated `research_report.md`.
