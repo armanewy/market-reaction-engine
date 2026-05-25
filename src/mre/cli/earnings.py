@@ -1,0 +1,62 @@
+from __future__ import annotations
+
+from . import commands as cmd
+
+
+def register(sub) -> None:
+    p = sub.add_parser("sector-presets", help="List built-in sector/ticker presets for earnings corpus bootstrapping.")
+    p.set_defaults(func=cmd.cmd_sector_presets)
+
+    p = sub.add_parser("earnings-template", help="Create a manual earnings/guidance event template.")
+    p.add_argument("--preset", help="Optional preset, e.g. semiconductors, mega_cap_tech, software.")
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--benchmark", default="")
+    p.add_argument("--sector-benchmark", default="")
+    p.add_argument("--out", default="data/events/earnings_template.csv")
+    p.set_defaults(func=cmd.cmd_earnings_template)
+
+    p = sub.add_parser("expectations-template", help="Create a consensus/guidance/options expectation template for an event CSV.")
+    p.add_argument("--events", required=True)
+    p.add_argument("--out", required=True)
+    p.set_defaults(func=cmd.cmd_expectations_template)
+
+    p = sub.add_parser("earnings-corpus", help="Build an EPS-surprise earnings corpus from Alpha Vantage.")
+    p.add_argument("--preset", help="Preset, e.g. semiconductors, mega_cap_tech, software.")
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--benchmark", default="")
+    p.add_argument("--sector-benchmark", default="")
+    p.add_argument("--start")
+    p.add_argument("--end")
+    p.add_argument("--limit-per-ticker", type=int, default=None)
+    p.add_argument("--release-session", default="unknown", choices=["before_open", "intraday", "after_close", "unknown"])
+    p.add_argument("--requests-per-minute", type=float, default=5.0)
+    p.add_argument("--api-key", default=None, help="Alpha Vantage API key. Defaults to ALPHA_VANTAGE_API_KEY.")
+    p.add_argument("--out", default="data/events/earnings_corpus.csv")
+    p.set_defaults(func=cmd.cmd_earnings_corpus)
+
+    p = sub.add_parser("yfinance-earnings-corpus", help="Build a prototype EPS-surprise earnings corpus from yfinance earnings dates.")
+    p.add_argument("--preset", help="Preset, e.g. semiconductors, mega_cap_tech, software.")
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--benchmark", default="")
+    p.add_argument("--sector-benchmark", default="")
+    p.add_argument("--start")
+    p.add_argument("--end")
+    p.add_argument("--limit-per-ticker", type=int, default=40)
+    p.add_argument("--sleep-seconds", type=float, default=0.2)
+    p.add_argument("--out", default="data/events/yfinance_earnings_corpus.csv")
+    p.set_defaults(func=cmd.cmd_yfinance_earnings_corpus)
+
+    p = sub.add_parser("sec-earnings-corpus", help="Build primary-source earnings/guidance candidate events from SEC filings.")
+    p.add_argument("--preset", help="Preset, e.g. semiconductors, mega_cap_tech, software.")
+    p.add_argument("--tickers", nargs="*", default=[])
+    p.add_argument("--benchmark", default="")
+    p.add_argument("--sector-benchmark", default="")
+    p.add_argument("--start")
+    p.add_argument("--end")
+    p.add_argument("--limit-per-ticker", type=int, default=None)
+    p.add_argument("--include-periodic", action="store_true", help="Also include 10-Q/10-K candidates; noisier.")
+    p.add_argument("--include-guidance-candidates", action="store_true", help="Include noisy 8-K Item 7.01/8.01 guidance candidates.")
+    p.add_argument("--user-agent", default=None)
+    p.add_argument("--requests-per-second", type=float, default=5.0)
+    p.add_argument("--out", default="data/events/sec_earnings_candidates.csv")
+    p.set_defaults(func=cmd.cmd_sec_earnings_corpus)

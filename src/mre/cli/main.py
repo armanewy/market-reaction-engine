@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from .commands import build_parser
+from .parser import build_parser
 
 
 def main(argv: list[str] | None = None) -> None:
