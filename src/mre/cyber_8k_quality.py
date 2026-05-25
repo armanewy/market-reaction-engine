@@ -148,6 +148,59 @@ def _field_review_rates(status_df: pd.DataFrame) -> list[dict[str, Any]]:
     return sorted(rows, key=lambda row: row["field_name"])
 
 
+def _field_precision(status_df: pd.DataFrame) -> list[dict[str, Any]]:
+    if status_df.empty or "field_name" not in status_df.columns:
+        return []
+    rows: list[dict[str, Any]] = []
+    for field, group in status_df.groupby("field_name", dropna=False):
+        statuses = group.get("review_status", pd.Series("", index=group.index)).fillna("").astype(str).str.lower()
+        accepted = int(statuses.isin(HUMAN_REVIEW_STATUSES).sum())
+        rejected = int(statuses.isin(REJECTED_STATUSES).sum())
+        reviewed_total = accepted + rejected
+        rows.append(
+            {
+                "field_name": str(field),
+                "accepted": accepted,
+                "rejected": rejected,
+                "reviewed_total": reviewed_total,
+                "precision": float(accepted / reviewed_total) if reviewed_total else None,
+            }
+        )
+    return sorted(rows, key=lambda row: row["field_name"])
+
+
+def _value_counts(status_df: pd.DataFrame, column: str) -> dict[str, int]:
+    if status_df.empty or column not in status_df.columns:
+        return {}
+    values = status_df[column].fillna("").astype(str).str.strip()
+    values = values[values != ""]
+    return {str(k): int(v) for k, v in values.value_counts().sort_index().items()}
+
+
+def _split_value_counts(status_df: pd.DataFrame, column: str) -> dict[str, int]:
+    if status_df.empty or column not in status_df.columns:
+        return {}
+    counts: dict[str, int] = {}
+    for raw in status_df[column].fillna("").astype(str):
+        for part in raw.split(";"):
+            value = part.strip()
+            if value:
+                counts[value] = counts.get(value, 0) + 1
+    return dict(sorted(counts.items()))
+
+
+def _review_time_stats(status_df: pd.DataFrame) -> dict[str, float | None]:
+    if status_df.empty or "review_time_seconds" not in status_df.columns:
+        return {"median_review_time_seconds": None, "average_review_time_seconds": None}
+    values = pd.to_numeric(status_df["review_time_seconds"], errors="coerce").dropna()
+    if values.empty:
+        return {"median_review_time_seconds": None, "average_review_time_seconds": None}
+    return {
+        "median_review_time_seconds": float(values.median()),
+        "average_review_time_seconds": float(values.mean()),
+    }
+
+
 def _amendment_coverage(events: pd.DataFrame) -> dict[str, Any]:
     coverage: dict[str, Any] = {}
     if "amended_later" in events.columns:
@@ -203,6 +256,20 @@ def _markdown_report(report: dict[str, Any]) -> str:
         field_lines.append(f"| {row['field_name']} | {row['claims']} | {coverage} | {confidence} |")
     warnings = report.get("warnings", [])
     warning_lines = "\n".join(f"- {warning}" for warning in warnings) if warnings else "- none"
+    precision_rows = report.get("field_precision_by_field_name", [])
+    precision_lines = [
+        "| Field | Accepted | Rejected | Reviewed Total | Precision |",
+        "| --- | ---: | ---: | ---: | ---: |",
+    ]
+    for row in precision_rows:
+        precision = "" if row["precision"] is None else f"{row['precision']:.2%}"
+        precision_lines.append(
+            f"| {row['field_name']} | {row['accepted']} | {row['rejected']} | {row['reviewed_total']} | {precision} |"
+        )
+    median_time = report.get("median_review_time_seconds")
+    average_time = report.get("average_review_time_seconds")
+    median_text = "n/a" if median_time is None else f"{median_time:.1f}"
+    average_text = "n/a" if average_time is None else f"{average_time:.1f}"
     return "\n".join(
         [
             "# Cyber 8-K Quality Report",
@@ -224,6 +291,17 @@ def _markdown_report(report: dict[str, Any]) -> str:
             f"- Accepted claims: {report['n_reviewed_claims']}",
             f"- Rejected claims: {report['n_rejected_claims']}",
             f"- Needs review claims: {report['n_needs_review_claims']}",
+            "",
+            "## Review Yield",
+            "",
+            f"- Accepted human-reviewed claims: {report['n_accepted_human_reviewed_claims']}",
+            f"- Reviewed claim yield rate: {report['reviewed_claim_yield_rate']:.2%}",
+            f"- Median review time seconds: {median_text}",
+            f"- Average review time seconds: {average_text}",
+            "",
+            "### Field Precision",
+            "",
+            "\n".join(precision_lines),
             "",
             "## Warnings",
             "",
@@ -261,8 +339,10 @@ def build_cyber_8k_quality_report(
     n_reviewed = n_human_reviewed + n_machine_high_confidence
     n_rejected = int(statuses.isin(REJECTED_STATUSES).sum())
     n_needs_review = int(statuses.isin(NEEDS_REVIEW_STATUSES).sum())
+    reviewed_yield_denominator = n_human_reviewed + n_rejected
     timestamp_counts = _status_counts(events, "timestamp_readiness_status")
     field_review_rates = _field_review_rates(status_df)
+    review_time_stats = _review_time_stats(status_df)
 
     report = {
         "n_events": int(len(events)),
@@ -270,6 +350,7 @@ def build_cyber_8k_quality_report(
         "n_claims": n_claims,
         "n_evidence_spans": int(len(evidence)),
         "n_reviewed_claims": n_reviewed,
+        "n_accepted_human_reviewed_claims": n_human_reviewed,
         "n_human_reviewed_claims": n_human_reviewed,
         "n_machine_high_confidence_claims": n_machine_high_confidence,
         "n_rejected_claims": n_rejected,
@@ -280,8 +361,15 @@ def build_cyber_8k_quality_report(
         "human_review_coverage_rate": float(n_human_reviewed / len(status_df)) if len(status_df) else 0.0,
         "machine_high_confidence_rate": float(n_machine_high_confidence / len(status_df)) if len(status_df) else 0.0,
         "needs_review_rate": float(n_needs_review / len(status_df)) if len(status_df) else 0.0,
+        "reviewed_claim_yield_rate": float(n_human_reviewed / reviewed_yield_denominator) if reviewed_yield_denominator else 0.0,
+        "median_review_time_seconds": review_time_stats["median_review_time_seconds"],
+        "average_review_time_seconds": review_time_stats["average_review_time_seconds"],
+        "issue_flag_counts": _split_value_counts(status_df, "issue_flags"),
+        "review_action_counts": _value_counts(status_df, "review_action"),
+        "parser_failure_reason_counts": _value_counts(status_df, "parser_failure_reason"),
         "field_coverage_by_field_name": _field_counts(claims, int(len(events))),
         "field_review_rates_by_field_name": field_review_rates,
+        "field_precision_by_field_name": _field_precision(status_df),
         "timestamp_readiness_status_counts": timestamp_counts,
         "event_review_status_counts": _status_counts(events, "event_review_status"),
         "amendment_coverage": _amendment_coverage(events),

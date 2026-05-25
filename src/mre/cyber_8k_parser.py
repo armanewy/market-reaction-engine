@@ -15,10 +15,11 @@ from .source_docs import SourceDocument, load_source_documents
 
 CYBER_8K_BOOLEAN_PATTERNS: dict[str, tuple[str, str, float]] = {
     "item_105_flag": (r"\bItem\s+1\.05\b|material cybersecurity incident", "regex_cyber_item_105", 0.96),
-    "amendment_flag": (r"\b8-K/A\b|\bamendment\b|\bupdates?\b|\bupdated\b", "regex_cyber_amendment", 0.86),
     "ransomware_mentioned": (r"\bransomware\b|\bransom\b|\bextortion\b|\bencrypt(?:ed|ion)\b", "regex_cyber_ransomware", 0.90),
     "customer_data_exposure_mentioned": (
-        r"customer data|client data|consumer data|personal information|personally identifiable|data breach|exfiltrat(?:ed|ion)",
+        r"customer (?:data|information|records)|client (?:data|information|records)|consumer (?:data|information|records)|"
+        r"patient (?:data|information|records)|member (?:data|information|records)|protected health information|\bPHI\b|"
+        r"personally identifiable information|\bPII\b|personal information",
         "regex_cyber_customer_data",
         0.86,
     ),
@@ -38,7 +39,9 @@ CYBER_8K_BOOLEAN_PATTERNS: dict[str, tuple[str, str, float]] = {
         0.88,
     ),
     "no_material_impact_language": (
-        r"did not have a material impact|not (?:reasonably )?likely to materially impact|no material impact|not expected to have a material",
+        r"did not have a material impact|has not had.{0,80}?material impact|has not materially impacted|"
+        r"not (?:reasonably )?likely to materially impact|not reasonably likely to have a material impact|"
+        r"not expected to have a material|does not currently expect.{0,80}?material impact|no material impact",
         "regex_cyber_no_material_impact",
         0.91,
     ),
@@ -56,7 +59,7 @@ CYBER_8K_LANGUAGE_PATTERNS: dict[str, tuple[str, str, float]] = {
         0.80,
     ),
     "materiality_language": (
-        r"determined .*?material|material cybersecurity incident|material impact|materially impact",
+        r"determined .*?material|material impact|materially impact",
         "regex_cyber_materiality_language",
         0.82,
     ),
@@ -137,6 +140,89 @@ def _date_value(raw: str) -> str:
     return "" if pd.isna(parsed) else pd.Timestamp(parsed).date().isoformat()
 
 
+def _metadata_text(doc: SourceDocument | Mapping[str, Any]) -> str:
+    keys = ("form", "title", "source_doc_id", "source_url", "path", "notes", "source_type")
+    return " ".join(_norm(_get(doc, key)) for key in keys)
+
+
+def _amendment_evidence(doc: SourceDocument | Mapping[str, Any], text: str) -> tuple[str, int, int] | None:
+    form = _norm(_get(doc, "form")).upper()
+    metadata = _metadata_text(doc)
+    text_match = re.search(r"\bFORM\s+8-K/A\b|\b8-K/A\b", text, flags=re.I)
+    metadata_has_amendment = bool(
+        form == "8-K/A"
+        or re.search(r"\bFORM\s+8-K/A\b|\b8-K/A\b|_8-K_A_|-8-K-A-|8ka\b", metadata, flags=re.I)
+        or text_match
+    )
+    if not metadata_has_amendment:
+        return None
+
+    if text_match:
+        return _evidence_for_match(text, text_match)
+
+    metadata_match = re.search(r"\bFORM\s+8-K/A\b|\b8-K/A\b|_8-K_A_|-8-K-A-|8ka\b", metadata, flags=re.I)
+    evidence = metadata_match.group(0) if metadata_match else "form=8-K/A"
+    return evidence, 0, 0
+
+
+def _is_customer_data_evidence(evidence_text: str) -> bool:
+    lowered = evidence_text.lower()
+    explicit_customer_terms = (
+        "customer",
+        "client",
+        "consumer",
+        "patient",
+        "member",
+        "protected health information",
+        "personally identifiable information",
+        " phi",
+        "pii",
+        "personal information",
+    )
+    if not any(term in lowered for term in explicit_customer_terms):
+        return False
+    if "employee" in lowered and not any(
+        term in lowered
+        for term in (
+            "customer",
+            "client",
+            "consumer",
+            "patient",
+            "member",
+            "protected health information",
+            "personally identifiable information",
+            " phi",
+            "pii",
+        )
+    ):
+        return False
+    return True
+
+
+def _is_no_or_unknown_material_impact(evidence_text: str) -> bool:
+    lowered = re.sub(r"\s+", " ", evidence_text.lower())
+    return bool(
+        re.search(
+            r"not (?:yet )?determined (?:whether|that)?.{0,120}?(?:reasonably likely|materially impact|material impact)|"
+            r"not reasonably likely.{0,80}?(?:materially impact|material impact)|"
+            r"not expected.{0,80}?material impact|"
+            r"does not currently expect.{0,80}?material impact|"
+            r"has not had.{0,80}?material impact|"
+            r"did not have.{0,80}?material impact|"
+            r"has not materially impacted|"
+            r"no material impact",
+            lowered,
+        )
+    )
+
+
+def _is_heading_only_materiality(evidence_text: str) -> bool:
+    normalized = re.sub(r"[^a-z0-9. ]+", " ", evidence_text.lower())
+    normalized = re.sub(r"\s+", " ", normalized).strip(" .")
+    normalized = re.sub(r"^item\s+1\.05\s+", "", normalized).strip(" .")
+    return normalized in {"material cybersecurity incident", "material cybersecurity incidents"}
+
+
 def _make_claim_and_span(
     *,
     doc: SourceDocument | Mapping[str, Any],
@@ -183,11 +269,32 @@ def parse_cyber_8k_document(doc: SourceDocument | Mapping[str, Any]) -> tuple[li
     claims: list[Claim] = []
     spans: list[EvidenceSpan] = []
 
+    amendment_evidence = _amendment_evidence(doc, text)
+    if amendment_evidence is not None:
+        evidence_text, start_char, end_char = amendment_evidence
+        claim, span = _make_claim_and_span(
+            doc=doc,
+            field_name="amendment_flag",
+            value=True,
+            value_type="boolean",
+            confidence=0.86,
+            method="regex_cyber_amendment",
+            evidence_text=evidence_text,
+            start_char=start_char,
+            end_char=end_char,
+        )
+        claims.append(claim)
+        spans.append(span)
+
     for field_name, (pattern, method, confidence) in CYBER_8K_BOOLEAN_PATTERNS.items():
         match = re.search(pattern, text, flags=re.I | re.S)
         if not match:
             continue
         evidence_text, start_char, end_char = _evidence_for_match(text, match)
+        if field_name == "customer_data_exposure_mentioned" and not _is_customer_data_evidence(evidence_text):
+            continue
+        if field_name == "reasonably_likely_material_impact_language" and _is_no_or_unknown_material_impact(evidence_text):
+            continue
         claim, span = _make_claim_and_span(
             doc=doc,
             field_name=field_name,
@@ -207,6 +314,8 @@ def parse_cyber_8k_document(doc: SourceDocument | Mapping[str, Any]) -> tuple[li
         if not match:
             continue
         evidence_text, start_char, end_char = _evidence_for_match(text, match)
+        if field_name == "materiality_language" and _is_heading_only_materiality(evidence_text):
+            continue
         claim, span = _make_claim_and_span(
             doc=doc,
             field_name=field_name,

@@ -47,10 +47,46 @@ def _write_quality_inputs(tmp_path: Path) -> tuple[Path, Path, Path, Path]:
     )
     review = pd.DataFrame(
         [
-            {"claim_id": "C1", "field_name": "ransomware_mentioned", "review_status": "reviewed", "evidence_present": True},
-            {"claim_id": "C2", "field_name": "ransomware_mentioned", "review_status": "rejected", "evidence_present": True},
-            {"claim_id": "C3", "field_name": "third_party_vendor_mentioned", "review_status": "needs_review", "evidence_present": False},
-            {"claim_id": "C4", "field_name": "impact_unknown_or_not_determined", "review_status": "machine_high_confidence", "evidence_present": True},
+            {
+                "claim_id": "C1",
+                "field_name": "ransomware_mentioned",
+                "review_status": "reviewed",
+                "evidence_present": True,
+                "review_action": "accept",
+                "issue_flags": "",
+                "review_time_seconds": 10,
+                "parser_failure_reason": "none",
+            },
+            {
+                "claim_id": "C2",
+                "field_name": "ransomware_mentioned",
+                "review_status": "rejected",
+                "evidence_present": True,
+                "review_action": "reject",
+                "issue_flags": "false_positive;wrong_field",
+                "review_time_seconds": 20,
+                "parser_failure_reason": "false_positive_keyword",
+            },
+            {
+                "claim_id": "C3",
+                "field_name": "third_party_vendor_mentioned",
+                "review_status": "needs_review",
+                "evidence_present": False,
+                "review_action": "needs_source_context",
+                "issue_flags": "missing_evidence;ambiguous_language",
+                "review_time_seconds": 30,
+                "parser_failure_reason": "none",
+            },
+            {
+                "claim_id": "C4",
+                "field_name": "impact_unknown_or_not_determined",
+                "review_status": "machine_high_confidence",
+                "evidence_present": True,
+                "review_action": "",
+                "issue_flags": "",
+                "review_time_seconds": "",
+                "parser_failure_reason": "",
+            },
         ]
     )
     paths = []
@@ -72,11 +108,25 @@ def test_build_cyber_8k_quality_report_counts_and_warnings(tmp_path: Path):
     assert report["n_companies"] == 2
     assert report["n_claims"] == 4
     assert report["n_reviewed_claims"] == 2
+    assert report["n_accepted_human_reviewed_claims"] == 1
     assert report["n_human_reviewed_claims"] == 1
     assert report["n_machine_high_confidence_claims"] == 1
     assert report["n_rejected_claims"] == 1
     assert report["n_needs_review_claims"] == 1
     assert report["n_missing_evidence_claims"] == 1
+    assert report["reviewed_claim_yield_rate"] == 0.5
+    assert report["median_review_time_seconds"] == 20.0
+    assert report["average_review_time_seconds"] == 20.0
+    assert report["issue_flag_counts"] == {
+        "ambiguous_language": 1,
+        "false_positive": 1,
+        "missing_evidence": 1,
+        "wrong_field": 1,
+    }
+    assert report["review_action_counts"] == {"accept": 1, "needs_source_context": 1, "reject": 1}
+    assert report["parser_failure_reason_counts"] == {"false_positive_keyword": 1, "none": 2}
+    ransomware_precision = next(row for row in report["field_precision_by_field_name"] if row["field_name"] == "ransomware_mentioned")
+    assert ransomware_precision["precision"] == 0.5
     assert report["timestamp_readiness_status_counts"] == {"ok": 1, "warning": 1}
     assert report["amendment_coverage"]["events_amended_later"] == 1
     assert "low_review_coverage" in report["warnings"]
@@ -89,6 +139,8 @@ def test_build_cyber_8k_quality_report_counts_and_warnings(tmp_path: Path):
     assert "Cyber 8-K Quality Report" in markdown
     assert "Human reviewed claims: 1" in markdown
     assert "Machine high-confidence claims: 1" in markdown
+    assert "Review Yield" in markdown
+    assert "Reviewed claim yield rate: 50.00%" in markdown
 
 
 def test_cyber_8k_quality_report_cli_writes_outputs(tmp_path: Path):

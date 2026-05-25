@@ -60,7 +60,88 @@ def test_cyber_8k_parser_detects_amendment_and_no_material_impact():
     fields = {claim.field_name for claim in claims}
     assert "amendment_flag" in fields
     assert "no_material_impact_language" in fields
-    assert "reasonably_likely_material_impact_language" in fields
+    assert "reasonably_likely_material_impact_language" not in fields
+
+
+def test_cyber_8k_parser_treats_not_reasonably_likely_as_no_material_impact():
+    claims, _ = parse_cyber_8k_document(
+        _doc(
+            "Item 1.05 Material Cybersecurity Incident. "
+            "The incident is not reasonably likely to materially impact the Company's financial condition or results of operations."
+        )
+    )
+
+    fields = {claim.field_name for claim in claims}
+    assert "no_material_impact_language" in fields
+    assert "reasonably_likely_material_impact_language" not in fields
+
+
+def test_cyber_8k_parser_detects_has_not_had_material_impact():
+    claims, _ = parse_cyber_8k_document(
+        _doc(
+            "Item 1.05 Material Cybersecurity Incident. "
+            "As of the date of this filing, the incident has not had a material impact on the Company's operations."
+        )
+    )
+
+    fields = {claim.field_name for claim in claims}
+    assert "no_material_impact_language" in fields
+
+
+def test_cyber_8k_parser_suppresses_heading_only_materiality_language():
+    claims, _ = parse_cyber_8k_document(_doc("Item 1.05 Material Cybersecurity Incident."))
+
+    fields = {claim.field_name for claim in claims}
+    assert "item_105_flag" in fields
+    assert "materiality_language" not in fields
+
+
+def test_cyber_8k_parser_uses_amendment_metadata_not_generic_update_text():
+    generic_update_claims, _ = parse_cyber_8k_document(
+        _doc(
+            "Item 1.05 Material Cybersecurity Incident. "
+            "The Company is providing updates on the incident status page."
+        )
+    )
+    fields = {claim.field_name for claim in generic_update_claims}
+    assert "amendment_flag" not in fields
+
+    metadata_claims, _ = parse_cyber_8k_document(
+        {
+            "source_doc_id": "doc-8ka",
+            "ticker": "ACME",
+            "event_id": "event1",
+            "event_time": "2024-01-02T16:05:00",
+            "event_type": "cybersecurity",
+            "event_subtype": "sec_8_k_item_1_05",
+            "release_session": "after_close",
+            "source_type": "sec_primary_filing",
+            "source_url": "https://sec.test/acme",
+            "title": "ACME Form 8-K/A",
+            "form": "8-K/A",
+            "text": "Item 1.05 Material Cybersecurity Incident.",
+        }
+    )
+    fields = {claim.field_name for claim in metadata_claims}
+    assert "amendment_flag" in fields
+
+
+def test_cyber_8k_parser_keeps_customer_data_conservative():
+    employee_claims, _ = parse_cyber_8k_document(
+        _doc(
+            "Item 1.05 Material Cybersecurity Incident. "
+            "The threat actor exfiltrated information from employee email accounts and attached documents."
+        )
+    )
+    assert "customer_data_exposure_mentioned" not in {claim.field_name for claim in employee_claims}
+
+    customer_claims, _ = parse_cyber_8k_document(
+        _doc(
+            "Item 1.05 Material Cybersecurity Incident. "
+            "The company found files containing protected health information (PHI) and personally identifiable information (PII)."
+        )
+    )
+    assert "customer_data_exposure_mentioned" in {claim.field_name for claim in customer_claims}
 
 
 def test_cyber_8k_parser_emits_no_claim_without_evidence():
